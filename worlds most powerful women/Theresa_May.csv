@@ -1,0 +1,22 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1130868,163547,232409,2016-07-01,,true,12,https://littlesis.org/relationships/1130868,,,,Supported May for Next Prime Minister,Affiliation,Theresa May,Alexander Temerko,Generic
+1382350,163547,52975,,,,1,https://littlesis.org/relationships/1382350,,,,Position,Position,Theresa May,Andrea Leadsom,Position
+1382351,163547,52975,,,,9,https://littlesis.org/relationships/1382351,,,,cabinet member,boss,Theresa May,Andrea Leadsom,Professional
+1307562,53182,163547,,,true,9,https://littlesis.org/relationships/1307562,,,,formal government partner,formal government partner,Arlene Foster,Theresa May,Professional
+1385814,67986,163547,,,false,1,https://littlesis.org/relationships/1385814,,,,Foreign Secretary,Foreign Secretary,Boris Johnson,Theresa May,Position
+1385815,67986,163547,,,,9,https://littlesis.org/relationships/1385815,,,,prime minister,foreign secretary,Boris Johnson,Theresa May,Professional
+1247866,163547,141125,2016-09-14,,true,3,https://littlesis.org/relationships/1247866,,,,Honorary Member (for life),Honorary Member (for life),Theresa May,Carlton  Club,Membership
+256265,163547,52794,,,true,3,https://littlesis.org/relationships/256265,,,,Prospective parliamentary candidate,Prospective parliamentary candidate,Theresa May,Conservative Party,Membership
+1680342,376215,163547,,,true,12,https://littlesis.org/relationships/1680342,,,,supporter,supported by,Covi-Pass,Theresa May,Generic
+1522506,53770,163547,,,false,1,https://littlesis.org/relationships/1522506,,,,"Secretary of State, Department for Exiting the European Union","Secretary of State, Department for Exiting the European Union",David Davis,Theresa May,Position
+1455508,53181,163547,,,,6,https://littlesis.org/relationships/1455508,,,,Service/Transaction,government partner,Democratic Unionist Party - D.U.P.,Theresa May,Service/Transaction
+1455507,324868,163547,,,,1,https://littlesis.org/relationships/1455507,,,,Position,Position,Dominic Raab,Theresa May,Position
+1247871,163547,256672,2016-00-00,,true,1,https://littlesis.org/relationships/1247871,false,false,,Special Adviser,Special Adviser,Theresa May,Fiona Hill,Position
+1385816,55402,163547,,,,9,https://littlesis.org/relationships/1385816,,,,Prime Minister,International Trade Secretary,Liam Fox,Theresa May,Professional
+1455546,55692,163547,,,,1,https://littlesis.org/relationships/1455546,,,,Position,Position,Matthew Hancock,Theresa May,Position
+1456886,55778,163547,,,,3,https://littlesis.org/relationships/1456886,,,,Cabinet member,Cabinet member,Michael Gove,Theresa May,Membership
+1129696,46761,163547,2009-00-00,2009-00-00,,5,https://littlesis.org/relationships/1129696,,,1752,"""Hospitality"" donation · 1,752 USD","""Hospitality"" donation · 1,752 USD",Michael Hintze,Theresa May,Donation/Grant
+1131191,163547,232603,2016-07-13,,true,1,https://littlesis.org/relationships/1131191,,,,Prime Minister,Prime Minister,Theresa May,Post-Brexit Tory Cabinet,Position
+1486726,163547,333565,,,,1,https://littlesis.org/relationships/1486726,,,,Head,Head,Theresa May,Prime Minister's Office (UK),Position
+1455509,56709,163547,,,,1,https://littlesis.org/relationships/1455509,,,,Position,Position,Sajid Javid,Theresa May,Position
+1522505,284492,163547,,,false,1,https://littlesis.org/relationships/1522505,,,,Parliamentary Under-Secretary of State at Department for Exiting the European Union,Parliamentary Under-Secretary of State at Department for Exiting the European Union,Steve Baker,Theresa May,Position
