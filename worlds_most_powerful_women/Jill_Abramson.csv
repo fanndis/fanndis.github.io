@@ -1,0 +1,3 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+337364,79015,79014,,,true,1,https://littlesis.org/relationships/337364,true,,,"member, board of visitors","member, board of visitors",Jill Abramson,Columbia Graduate School of Journalism,Position
+758735,79015,33427,,,,1,https://littlesis.org/relationships/758735,,,,trustee,trustee,Jill Abramson,The Washington Institute for Near East Policy,Position

@@ -1,0 +1,28 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1525011,1963,172,2019-00-00,,true,1,https://littlesis.org/relationships/1525011,true,,,Board Member,Board Member,Indra K Nooyi,"Amazon.com, Inc.",Position
+1702728,1963,172,,,true,1,https://littlesis.org/relationships/1702728,true,,,Board Member,Board Member,Indra K Nooyi,"Amazon.com, Inc.",Position
+1499061,1963,36930,2010-07-14,2010-07-14,,5,https://littlesis.org/relationships/1499061,,,5000,"1 contribution · 5,000 USD","1 contribution · 5,000 USD",Indra K Nooyi,Andrew Cuomo,Donation/Grant
+1683154,1963,36952,,,,12,https://littlesis.org/relationships/1683154,,,,attended by,"attendee ",Indra K Nooyi,Bilderberg Group,Generic
+1223702,1963,253629,,,true,3,https://littlesis.org/relationships/1223702,,,,Member,Member,Indra K Nooyi,Business-Higher Education Forum,Membership
+282758,1963,68556,,,true,1,https://littlesis.org/relationships/282758,true,,,director,director,Indra K Nooyi,Catalyst,Position
+1471466,71757,1963,,,,4,https://littlesis.org/relationships/1471466,,,,sister,sister,Chandrika Tandon,Indra K Nooyi,Family
+811063,1963,33328,,,,3,https://littlesis.org/relationships/811063,,,,Member,Member,Indra K Nooyi,Clinton Global Initiative,Membership
+1683153,1963,33271,,,,3,https://littlesis.org/relationships/1683153,,,,corporate member,corporate member,Indra K Nooyi,Council on Foreign Relations,Membership
+1499258,1963,33180,,2015-00-00,false,1,https://littlesis.org/relationships/1499258,,,,Director,Director,Indra K Nooyi,Federal Reserve Bank of New York,Position
+1633673,1963,157140,2015-08-31,2015-08-31,false,5,https://littlesis.org/relationships/1633673,,,3000,"2 contributions · 3,000 USD","2 contributions · 3,000 USD",Indra K Nooyi,Kathleen Matthews,Donation/Grant
+241827,1963,34926,,,false,1,https://littlesis.org/relationships/241827,true,false,,Board Member,Board Member,Indra K Nooyi,Lincoln Center for the Performing Arts,Position
+1484,1963,88278,,,false,1,https://littlesis.org/relationships/1484,true,false,,Director,Director,Indra K Nooyi,"Motorola Solutions, Inc.",Position
+1685622,1963,85798,,,true,1,https://littlesis.org/relationships/1685622,true,,,Trustee,Trustee,Indra K Nooyi,New York City Police Foundation,Position
+157664,1963,29946,2001-00-00,2018-07-27,false,5,https://littlesis.org/relationships/157664,,,22696,"99 contributions · 22,696 USD","99 contributions · 22,696 USD",Indra K Nooyi,Pepsico Inc. Concerned Citizens Fund,Donation/Grant
+1307,1963,60,2001-00-00,,true,1,https://littlesis.org/relationships/1307,true,false,,Director,Director,Indra K Nooyi,"PepsiCo, Inc.",Position
+1308,1963,60,,,true,1,https://littlesis.org/relationships/1308,true,false,,Chairman,Chairman,Indra K Nooyi,"PepsiCo, Inc.",Position
+1309,1963,60,2006-00-00,2018-10-03,,1,https://littlesis.org/relationships/1309,,true,,CEO,CEO,Indra K Nooyi,"PepsiCo, Inc.",Position
+1499257,1963,60,,,,1,https://littlesis.org/relationships/1499257,,,,President & Chief Financial Officer,President & Chief Financial Officer,Indra K Nooyi,"PepsiCo, Inc.",Position
+1247151,253709,1963,,,true,1,https://littlesis.org/relationships/1247151,,,,member,member,President Trump’s Strategic and Policy Forum,Indra K Nooyi,Position
+1251897,1963,253709,,,,1,https://littlesis.org/relationships/1251897,,,,Member,Member,Indra K Nooyi,President Trump’s Strategic and Policy Forum,Position
+1681018,1963,375437,,,true,1,https://littlesis.org/relationships/1681018,,,,Position,Position,Indra K Nooyi,Reopen Connecticut Advisory Group,Position
+1499259,1963,283744,2016-00-00,,,1,https://littlesis.org/relationships/1499259,,,,Director,Director,Indra K Nooyi,Schlumberger N.v.,Position
+1658843,1963,370217,,,,1,https://littlesis.org/relationships/1658843,,,,Board,Board,Indra K Nooyi,The B Team,Position
+284548,1963,42487,,,true,1,https://littlesis.org/relationships/284548,true,,,Board Member,Board Member,Indra K Nooyi,US-China Business Council,Position
+119408,1963,37966,,,,1,https://littlesis.org/relationships/119408,true,false,,Fellow,Fellow,Indra K Nooyi,Yale Corporation,Position
+119378,1963,14952,,,,1,https://littlesis.org/relationships/119378,true,false,,Corporation Fellow,Corporation Fellow,Indra K Nooyi,Yale University,Position

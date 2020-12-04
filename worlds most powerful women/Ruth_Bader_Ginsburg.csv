@@ -1,8 +1,0 @@
-﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
-1291086,261701,36982,,,false,1,https://littlesis.org/relationships/1291086,,,,clerk,clerk,Alexandra A.E. Shapiro,Ruth Bader Ginsburg,Position
-1710946,387625,36982,,,false,1,https://littlesis.org/relationships/1710946,,,,"law clerk ","law clerk ",Benjamin J Beaton,Ruth Bader Ginsburg,Position
-117180,36982,33424,1958-00-00,1959-00-00,false,2,https://littlesis.org/relationships/117180,,,,LLB,LLB,Ruth Bader Ginsburg,Columbia Law School,Education
-117178,36982,15057,,1954-00-00,false,2,https://littlesis.org/relationships/117178,,,,"BA, Government","BA, Government",Ruth Bader Ginsburg,Cornell University,Education
-117179,36982,14713,1956-00-00,1958-00-00,false,2,https://littlesis.org/relationships/117179,,,,Graduate,Graduate,Ruth Bader Ginsburg,Harvard Law School,Education
-783742,36982,15313,1963-00-00,1972-00-00,false,1,https://littlesis.org/relationships/783742,,,,Professor,Professor,Ruth Bader Ginsburg,Rutgers University,Position
-117059,36982,33846,1993-03-15,,true,1,https://littlesis.org/relationships/117059,,,,Associate Justice,Associate Justice,Ruth Bader Ginsburg,Supreme Court of the United States,Position

@@ -1,0 +1,13 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+136841,2822,13503,2007-00-00,2012-00-00,,5,https://littlesis.org/relationships/136841,,,18700,"7 contributions · 18,700 USD","7 contributions · 18,700 USD",Brenda C Barnes,Barack Obama,Donation/Grant
+93172,2822,33791,,,true,3,https://littlesis.org/relationships/93172,,,,Member,Member,Brenda C Barnes,Business Roundtable,Membership
+135990,2822,42343,,,true,3,https://littlesis.org/relationships/135990,,,,Member,Member,Brenda C Barnes,Chicago 2016 Committee,Membership
+136842,2822,28862,2008-00-00,2016-01-15,,5,https://littlesis.org/relationships/136842,,,14500,"6 contributions · 14,500 USD","6 contributions · 14,500 USD",Brenda C Barnes,Democratic National Committee,Donation/Grant
+136840,2822,29614,2008-00-00,2010-00-00,,5,https://littlesis.org/relationships/136840,,,15000,"3 contributions · 15,000 USD","3 contributions · 15,000 USD",Brenda C Barnes,Grocery Manufacturers Association Political Action Committee ('Gma PAC'),Donation/Grant
+1242931,2822,13191,2016-06-24,2016-06-28,,5,https://littlesis.org/relationships/1242931,,,3000,"3 contributions · 3,000 USD","3 contributions · 3,000 USD",Brenda C Barnes,Hillary Clinton,Donation/Grant
+2660,2822,129,,,false,1,https://littlesis.org/relationships/2660,true,false,,Director,Director,Brenda C Barnes,"Staples, Inc.",Position
+1242930,2822,35528,2016-05-02,2016-05-02,,5,https://littlesis.org/relationships/1242930,,,2700,"1 contribution · 2,700 USD","1 contribution · 2,700 USD",Brenda C Barnes,Tammy Duckworth,Donation/Grant
+4116,2822,204,2004-00-00,2010-08-00,false,1,https://littlesis.org/relationships/4116,true,false,,Director,Director,Brenda C Barnes,The Hillshire Brands Company,Position
+4117,2822,204,,,false,1,https://littlesis.org/relationships/4117,true,false,,Chairman,Chairman,Brenda C Barnes,The Hillshire Brands Company,Position
+4118,2822,204,,,true,1,https://littlesis.org/relationships/4118,true,true,,CEO,CEO,Brenda C Barnes,The Hillshire Brands Company,Position
+12244,2822,640,,,false,1,https://littlesis.org/relationships/12244,true,false,,Director,Director,Brenda C Barnes,The New York Times Company,Position
