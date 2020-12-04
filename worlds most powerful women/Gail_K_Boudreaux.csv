@@ -1,0 +1,23 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+122747,8191,35306,,,,1,https://littlesis.org/relationships/122747,,,,Director,Director,Gail K Boudreaux,America's Health Insurance Plans,Position
+1702729,8191,283462,,,true,1,https://littlesis.org/relationships/1702729,true,,,Board Member,Board Member,Gail K Boudreaux,Anthem Inc.,Position
+1624532,8191,33,2017-00-00,,true,1,https://littlesis.org/relationships/1624532,,true,,CEO,CEO,Gail K Boudreaux,Anthem,Position
+122749,8191,39236,,,false,1,https://littlesis.org/relationships/122749,,,,Director,Director,Gail K Boudreaux,Blue Cross and Blue Shield of Illinois,Position
+157399,8191,32007,2009-00-00,2009-00-00,,5,https://littlesis.org/relationships/157399,,,4000,"1 contribution · 4,000 USD","1 contribution · 4,000 USD",Gail K Boudreaux,Genzyme Corporation Political Action Committee (Genz-PAC),Donation/Grant
+318815,8191,32007,2009-00-00,2009-00-00,,5,https://littlesis.org/relationships/318815,,,4000,"1 contribution · 4,000 USD","1 contribution · 4,000 USD",Gail K Boudreaux,Genzyme Corporation Political Action Committee (Genz-PAC),Donation/Grant
+11085,8191,39530,2004-00-00,,true,1,https://littlesis.org/relationships/11085,true,false,,Director,Director,Gail K Boudreaux,Genzyme Corp,Position
+1396017,8191,39625,,2015-00-00,,1,https://littlesis.org/relationships/1396017,,,,Executive Vice President External Operations,Executive Vice President External Operations,Gail K Boudreaux,Health Care Service Corp,Position
+122748,8191,39235,,,,1,https://littlesis.org/relationships/122748,,,,"Executive Vice President ","Executive Vice President ",Gail K Boudreaux,Health Care Services Corporation,Position
+1624537,8191,13191,2009-01-08,2009-01-08,false,5,https://littlesis.org/relationships/1624537,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Gail K Boudreaux,Hillary Clinton,Donation/Grant
+1624535,8191,28778,2012-08-30,2012-08-30,false,5,https://littlesis.org/relationships/1624535,,,5000,"1 contribution · 5,000 USD","1 contribution · 5,000 USD",Gail K Boudreaux,Republican National Committee,Donation/Grant
+1624536,8191,235302,2012-08-28,2012-08-28,false,5,https://littlesis.org/relationships/1624536,,,10000,"1 contribution · 10,000 USD","1 contribution · 10,000 USD",Gail K Boudreaux,Romney Victory,Donation/Grant
+1624534,8191,13204,2018-06-27,2018-06-27,false,5,https://littlesis.org/relationships/1624534,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Gail K Boudreaux,Susan Collins,Donation/Grant
+380470,8191,68980,,,true,1,https://littlesis.org/relationships/380470,true,,,Board Member,Board Member,Gail K Boudreaux,The Executives' Club of Chicago,Position
+318423,8191,43014,,,true,1,https://littlesis.org/relationships/318423,true,,,Trustee,Trustee,Gail K Boudreaux,The Field Museum,Position
+1624538,8191,102602,2015-01-31,2015-02-28,false,5,https://littlesis.org/relationships/1624538,,,960,2 contributions · 960 USD,2 contributions · 960 USD,Gail K Boudreaux,Unitedhealth Group Incorporated PAC (United for Health),Donation/Grant
+122750,8191,25,,2017-00-00,false,1,https://littlesis.org/relationships/122750,,true,,Executive Vice President,Executive Vice President,Gail K Boudreaux,"UnitedHealth Group, Inc.",Position
+268284,8191,25,2008-05-00,2017-00-00,false,1,https://littlesis.org/relationships/268284,false,true,,Executive Vice President,Executive Vice President,Gail K Boudreaux,"UnitedHealth Group, Inc.",Position
+1624533,8191,30823,2018-04-20,2018-04-20,false,5,https://littlesis.org/relationships/1624533,,,5000,"1 contribution · 5,000 USD","1 contribution · 5,000 USD",Gail K Boudreaux,Wellpoint Inc. Wellpac,Donation/Grant
+565660,8191,261,2012-03-00,,true,1,https://littlesis.org/relationships/565660,true,false,,Board Member,Board Member,Gail K Boudreaux,Xcel Energy Inc.,Position
+1396018,8191,261,,2015-00-00,,1,https://littlesis.org/relationships/1396018,,,,Independent Director,Independent Director,Gail K Boudreaux,Xcel Energy Inc.,Position
+567233,8191,562,2012-12-00,,true,1,https://littlesis.org/relationships/567233,true,false,,Board Member,Board Member,Gail K Boudreaux,"Zimmer Holdings, Inc.",Position

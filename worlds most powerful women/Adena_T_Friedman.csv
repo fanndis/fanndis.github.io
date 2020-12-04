@@ -1,0 +1,31 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+581902,10452,32393,2004-00-00,2004-00-00,,5,https://littlesis.org/relationships/581902,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Adena T Friedman,Back America's Conservatives PAC (Bac PAC),Donation/Grant
+581897,10452,13294,2010-00-00,2010-00-00,,5,https://littlesis.org/relationships/581897,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Adena T Friedman,Barney Frank,Donation/Grant
+581900,10452,13158,2012-00-00,2012-00-00,,5,https://littlesis.org/relationships/581900,,,2500,"1 contribution · 2,500 USD","1 contribution · 2,500 USD",Adena T Friedman,Ben Cardin,Donation/Grant
+1624575,10452,91594,2017-05-30,2017-05-30,false,5,https://littlesis.org/relationships/1624575,,,2000,"1 contribution · 2,000 USD","1 contribution · 2,000 USD",Adena T Friedman,Bill Huizenga,Donation/Grant
+569610,10452,33586,2012-05-00,,true,1,https://littlesis.org/relationships/569610,false,true,,Chief Financial Officer,Chief Financial Officer,Adena T Friedman,Carlyle Group,Position
+1624574,10452,13435,2014-09-30,2014-09-30,false,5,https://littlesis.org/relationships/1624574,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Adena T Friedman,Carolyn Maloney,Donation/Grant
+581890,10452,13444,2006-00-00,2006-00-00,,5,https://littlesis.org/relationships/581890,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Adena T Friedman,Carolyn McCarthy,Donation/Grant
+581891,10452,13248,2007-00-00,2007-00-00,,5,https://littlesis.org/relationships/581891,,,2300,"1 contribution · 2,300 USD","1 contribution · 2,300 USD",Adena T Friedman,Chris Dodd,Donation/Grant
+1624568,10452,13642,2016-03-28,2016-03-28,false,5,https://littlesis.org/relationships/1624568,,,8100,"3 contributions · 8,100 USD","3 contributions · 8,100 USD",Adena T Friedman,Chris Van Hollen,Donation/Grant
+581894,10452,13575,2009-00-00,2015-07-01,false,5,https://littlesis.org/relationships/581894,,,3900,"2 contributions · 3,900 USD","2 contributions · 3,900 USD",Adena T Friedman,Chuck Schumer,Donation/Grant
+581899,10452,13610,2011-00-00,2011-00-00,,5,https://littlesis.org/relationships/581899,,,2500,"1 contribution · 2,500 USD","1 contribution · 2,500 USD",Adena T Friedman,Debbie Stabenow,Donation/Grant
+581893,10452,28856,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/581893,,,10000,"1 contribution · 10,000 USD","1 contribution · 10,000 USD",Adena T Friedman,Democratic Senatorial Campaign Committee,Donation/Grant
+1624572,10452,208734,2016-06-30,2016-06-30,false,5,https://littlesis.org/relationships/1624572,,,1000,"2 contributions · 1,000 USD","2 contributions · 1,000 USD",Adena T Friedman,French Hill,Donation/Grant
+1624576,10452,34276,2002-04-04,2002-04-04,false,5,https://littlesis.org/relationships/1624576,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Adena T Friedman,George E Pataki,Donation/Grant
+581896,10452,13466,2010-00-00,2015-07-20,false,5,https://littlesis.org/relationships/581896,,,4000,"2 contributions · 4,000 USD","2 contributions · 4,000 USD",Adena T Friedman,Gregory W Meeks,Donation/Grant
+581901,10452,13222,2011-00-00,2017-12-07,false,5,https://littlesis.org/relationships/581901,,,4500,"2 contributions · 4,500 USD","2 contributions · 4,500 USD",Adena T Friedman,Joe Crowley,Donation/Grant
+1624569,10452,117351,2016-09-14,2016-09-14,false,5,https://littlesis.org/relationships/1624569,,,2000,"1 contribution · 2,000 USD","1 contribution · 2,000 USD",Adena T Friedman,John K Delaney,Donation/Grant
+581895,10452,13302,2010-00-00,2010-00-00,,5,https://littlesis.org/relationships/581895,,,2000,"1 contribution · 2,000 USD","1 contribution · 2,000 USD",Adena T Friedman,Kirsten Gillibrand,Donation/Grant
+581888,10452,29588,2001-00-00,2001-00-00,,5,https://littlesis.org/relationships/581888,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Adena T Friedman,Leadership PAC 2006,Donation/Grant
+1624573,10452,38250,2014-03-13,2014-03-13,false,5,https://littlesis.org/relationships/1624573,,,5000,"3 contributions · 5,000 USD","3 contributions · 5,000 USD",Adena T Friedman,Michael Bennet,Donation/Grant
+1624570,10452,13157,2017-10-03,2017-10-12,false,5,https://littlesis.org/relationships/1624570,,,2000,"2 contributions · 2,000 USD","2 contributions · 2,000 USD",Adena T Friedman,Michael Everett Capuano,Donation/Grant
+581889,10452,32392,2005-00-00,2018-06-14,false,5,https://littlesis.org/relationships/581889,,,50000,"10 contributions · 50,000 USD","10 contributions · 50,000 USD",Adena T Friedman,"NASDAQ Omx Group, Inc. PAC (NASDAQ PAC)",Donation/Grant
+14652,10452,789,,,true,1,https://littlesis.org/relationships/14652,false,true,,Executive Vice President,Executive Vice President,Adena T Friedman,"Nasdaq, Inc.",Position
+1624566,10452,28803,2005-12-29,2005-12-29,false,5,https://littlesis.org/relationships/1624566,,,2000,"1 contribution · 2,000 USD","1 contribution · 2,000 USD",Adena T Friedman,National Republican Congressional Committee,Donation/Grant
+1624567,10452,128085,2015-04-24,2015-04-24,false,5,https://littlesis.org/relationships/1624567,,,5000,"2 contributions · 5,000 USD","2 contributions · 5,000 USD",Adena T Friedman,Off the Sidelines PAC,Donation/Grant
+1624571,10452,13456,2017-11-13,2017-11-13,false,5,https://littlesis.org/relationships/1624571,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Adena T Friedman,Patrick T McHenry,Donation/Grant
+581898,10452,13372,2010-00-00,2010-00-00,,5,https://littlesis.org/relationships/581898,,,2000,"1 contribution · 2,000 USD","1 contribution · 2,000 USD",Adena T Friedman,Paul E Kanjorski,Donation/Grant
+581892,10452,13587,2004-00-00,2007-00-00,,5,https://littlesis.org/relationships/581892,,,3000,"2 contributions · 3,000 USD","2 contributions · 3,000 USD",Adena T Friedman,Richard C Shelby,Donation/Grant
+395839,10452,15130,,,,2,https://littlesis.org/relationships/395839,,,,MBA,MBA,Adena T Friedman,Vanderbilt University,Education
+354266,10452,15200,,,false,2,https://littlesis.org/relationships/354266,,,,BA,BA,Adena T Friedman,Williams College,Education

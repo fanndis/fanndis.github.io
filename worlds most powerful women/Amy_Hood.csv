@@ -1,0 +1,17 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1528183,119576,32235,,,true,1,https://littlesis.org/relationships/1528183,true,true,,Board Director,Board Director,Amy Hood,3M Company,Position
+1703090,119576,32235,,,true,1,https://littlesis.org/relationships/1703090,true,,,Board Member,Board Member,Amy Hood,3M Company,Position
+1195640,119576,13503,2012-10-01,2012-10-01,,5,https://littlesis.org/relationships/1195640,,,2500,"2 contributions · 2,500 USD","2 contributions · 2,500 USD",Amy Hood,Barack Obama,Donation/Grant
+1195642,119576,13568,2016-04-08,2016-06-02,,5,https://littlesis.org/relationships/1195642,,,75,3 contributions · 75 USD,3 contributions · 75 USD,Amy Hood,Bernie Sanders,Donation/Grant
+708374,119576,13497,2005-00-00,2005-00-00,,5,https://littlesis.org/relationships/708374,,,400,1 contribution · 400 USD,1 contribution · 400 USD,Amy Hood,Bill Nelson,Donation/Grant
+708376,119576,13446,2006-00-00,2006-06-16,,5,https://littlesis.org/relationships/708376,,,750,2 contributions · 750 USD,2 contributions · 750 USD,Amy Hood,Claire McCaskill,Donation/Grant
+708379,119576,28862,2004-00-00,2004-00-00,,5,https://littlesis.org/relationships/708379,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Amy Hood,Democratic National Committee,Donation/Grant
+907173,119576,15105,,,,2,https://littlesis.org/relationships/907173,,,,"Bachelor's Degree, Economics","Bachelor's Degree, Economics",Amy Hood,Duke University,Education
+934958,119576,103123,,2002-00-00,false,1,https://littlesis.org/relationships/934958,,,,Position,Position,Amy Hood,Goldman Sachs & Co LLC,Position
+708377,119576,13703,2006-00-00,2006-03-28,,5,https://littlesis.org/relationships/708377,,,2000,"2 contributions · 2,000 USD","2 contributions · 2,000 USD",Amy Hood,Harold Ford Jr,Donation/Grant
+907174,119576,33342,,,,2,https://littlesis.org/relationships/907174,,,,MBA,MBA,Amy Hood,Harvard Business School,Education
+708378,119576,78907,2006-00-00,2006-00-00,,5,https://littlesis.org/relationships/708378,,,500,1 contribution · 500 USD,1 contribution · 500 USD,Amy Hood,Jon Tester,Donation/Grant
+1195643,119576,29543,2015-12-21,2015-12-21,,5,https://littlesis.org/relationships/1195643,,,5000,"1 contribution · 5,000 USD","1 contribution · 5,000 USD",Amy Hood,Microsoft Corporation Political Action Committee,Donation/Grant
+564488,119576,44,,,true,1,https://littlesis.org/relationships/564488,false,true,,CFO,CFO,Amy Hood,Microsoft Corporation,Position
+1195641,119576,235229,2012-10-01,2012-10-01,,5,https://littlesis.org/relationships/1195641,,,500,1 contribution · 500 USD,1 contribution · 500 USD,Amy Hood,Obama Victory Fund 2012,Donation/Grant
+708375,119576,101198,2005-00-00,2005-00-00,,5,https://littlesis.org/relationships/708375,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Amy Hood,Washington Women for Choice,Donation/Grant

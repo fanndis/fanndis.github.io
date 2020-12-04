@@ -1,0 +1,5 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1410007,299195,95868,,2015-00-00,,1,https://littlesis.org/relationships/1410007,,,,Independent Director,Independent Director,Isabelle Kocher,AXA S.A.,Position
+1410008,299195,246789,2016-00-00,2020-00-00,,1,https://littlesis.org/relationships/1410008,,,,CEO,CEO,Isabelle Kocher,Engie,Position
+1410009,299195,284075,2016-00-00,,,1,https://littlesis.org/relationships/1410009,,,,Director,Director,Isabelle Kocher,Suez S.a.,Position
+1658849,299195,370217,,,,1,https://littlesis.org/relationships/1658849,,,,Board,Board,Isabelle Kocher,The B Team,Position

@@ -1,0 +1,11 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+745835,145302,13388,2011-00-00,2011-00-00,,5,https://littlesis.org/relationships/745835,,,625,1 contribution · 625 USD,1 contribution · 625 USD,Donna Langley,Amy Klobuchar,Donation/Grant
+745837,145302,13158,2011-00-00,2011-00-00,,5,https://littlesis.org/relationships/745837,,,625,1 contribution · 625 USD,1 contribution · 625 USD,Donna Langley,Ben Cardin,Donation/Grant
+745840,145302,30196,2012-00-00,2012-00-00,,5,https://littlesis.org/relationships/745840,,,5000,"1 contribution · 5,000 USD","1 contribution · 5,000 USD",Donna Langley,Comcast Corp & NBC Universal PAC,Donation/Grant
+832594,145302,80,,,,1,https://littlesis.org/relationships/832594,,true,,"Chairwoman, Universal Pictures","Chairwoman, Universal Pictures",Donna Langley,Comcast Corporation,Position
+745838,145302,13284,2011-00-00,2011-00-00,,5,https://littlesis.org/relationships/745838,,,5625,"3 contributions · 5,625 USD","3 contributions · 5,625 USD",Donna Langley,Dianne Feinstein,Donation/Grant
+745839,145302,13041,2011-00-00,2011-00-00,,5,https://littlesis.org/relationships/745839,,,5000,"2 contributions · 5,000 USD","2 contributions · 5,000 USD",Donna Langley,Howard Lawrence Berman,Donation/Grant
+745832,145302,13377,2003-00-00,2003-00-00,,5,https://littlesis.org/relationships/745832,,,2000,"2 contributions · 2,000 USD","2 contributions · 2,000 USD",Donna Langley,John Forbes Kerry,Donation/Grant
+745833,145302,13407,2009-00-00,2009-00-00,,5,https://littlesis.org/relationships/745833,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Donna Langley,Patrick Leahy,Donation/Grant
+745834,145302,13488,2010-00-00,2010-00-00,,5,https://littlesis.org/relationships/745834,,,500,1 contribution · 500 USD,1 contribution · 500 USD,Donna Langley,Patrick Murphy,Donation/Grant
+745836,145302,13666,2011-00-00,2011-00-00,,5,https://littlesis.org/relationships/745836,,,625,1 contribution · 625 USD,1 contribution · 625 USD,Donna Langley,Sheldon Whitehouse,Donation/Grant

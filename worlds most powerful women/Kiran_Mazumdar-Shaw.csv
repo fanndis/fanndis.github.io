@@ -1,0 +1,8 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1384654,163984,284263,,,true,1,https://littlesis.org/relationships/1384654,,,,Chairperson and Managing Director,Chairperson and Managing Director,Kiran Mazumdar-Shaw,Biocon Limited,Position
+1265188,163984,41347,,,true,1,https://littlesis.org/relationships/1265188,true,,,"Member, Board of Advisors","Member, Board of Advisors",Kiran Mazumdar-Shaw,David H. Koch Institute,Position
+1384688,163984,119154,,,true,1,https://littlesis.org/relationships/1384688,,,,Board of Directors,Board of Directors,Kiran Mazumdar-Shaw,Infosys Limited,Position
+1384658,163984,77393,,,true,1,https://littlesis.org/relationships/1384658,,,,Trustee,Trustee,Kiran Mazumdar-Shaw,Keck School of Medicine of University of Southern California,Position
+1384686,163984,284265,,,true,1,https://littlesis.org/relationships/1384686,,,,Board of Directors,Board of Directors,Kiran Mazumdar-Shaw,Syngene Intl.,Position
+1384659,163984,284264,,,true,1,https://littlesis.org/relationships/1384659,,,,Advisory Council,Advisory Council,Kiran Mazumdar-Shaw,UK India Business Council,Position
+1384532,163984,284249,,,true,1,https://littlesis.org/relationships/1384532,true,,,Board Member,Board Member,Kiran Mazumdar-Shaw,US-India Business Council,Position

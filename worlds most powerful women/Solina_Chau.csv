@@ -1,0 +1,3 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1624649,361909,34767,,,,9,https://littlesis.org/relationships/1624649,,,,business partner,business partner,Solina Chau,Li Ka-shing,Professional
+1682625,361909,370078,,,true,10,https://littlesis.org/relationships/1682625,,,,Owner,Owner,Solina Chau,Zoom Video Communications,Ownership

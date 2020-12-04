@@ -1,0 +1,13 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1021964,92964,78498,2009-04-00,,,1,https://littlesis.org/relationships/1021964,,true,,CEO,CEO,Jane Fraser,Citi Private Bank,Position
+1269189,92964,37993,2013-02-21,2013-02-21,,5,https://littlesis.org/relationships/1269189,,,5000,"1 contribution · 5,000 USD","1 contribution · 5,000 USD",Jane Fraser,Citigroup Inc. Political Action Committee - Federal (Citigroup PAC-Federal),Donation/Grant
+1269188,92964,37994,2014-03-15,2018-07-20,false,5,https://littlesis.org/relationships/1269188,,,19984,"54 contributions · 19,984 USD","54 contributions · 19,984 USD",Jane Fraser,Citigroup Inc. Political Action Committee - Federal/State,Donation/Grant
+1602472,92964,37994,2014-03-15,2019-10-18,false,5,https://littlesis.org/relationships/1602472,,,27114,"91 contributions · 27,114 USD","91 contributions · 27,114 USD",Jane Fraser,Citigroup Inc. Political Action Committee - Federal/State,Donation/Grant
+1475175,92964,8,2015-00-00,,true,1,https://littlesis.org/relationships/1475175,false,true,,CEO,CEO,Jane Fraser,Citigroup Inc.,Position
+415038,92964,33342,,,,2,https://littlesis.org/relationships/415038,,,,MBA,MBA,Jane Fraser,Harvard Business School,Education
+1602470,92964,117229,2018-06-29,2018-06-29,false,5,https://littlesis.org/relationships/1602470,,,5400,"2 contributions · 5,400 USD","2 contributions · 5,400 USD",Jane Fraser,Heidi Heitkamp,Donation/Grant
+1269185,92964,29699,2014-09-25,2014-09-25,,5,https://littlesis.org/relationships/1269185,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Jane Fraser,Kay R Hagan,Donation/Grant
+1602471,92964,13445,2017-10-19,2017-10-19,false,5,https://littlesis.org/relationships/1602471,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Jane Fraser,Kevin McCarthy,Donation/Grant
+1269186,92964,34391,2014-03-28,2014-03-28,,5,https://littlesis.org/relationships/1269186,,,2600,"1 contribution · 2,600 USD","1 contribution · 2,600 USD",Jane Fraser,Mike Rounds,Donation/Grant
+1269187,92964,28799,2014-07-10,2014-07-10,,5,https://littlesis.org/relationships/1269187,,,2500,"1 contribution · 2,500 USD","1 contribution · 2,500 USD",Jane Fraser,National Republican Senatorial Committee,Donation/Grant
+490129,92964,15110,,,,2,https://littlesis.org/relationships/490129,,,,MA,MA,Jane Fraser,University of Cambridge,Education

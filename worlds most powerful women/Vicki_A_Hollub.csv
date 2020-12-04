@@ -1,0 +1,6 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1504570,189673,58,2018-00-00,,true,1,https://littlesis.org/relationships/1504570,true,,,Board member,Board member,Vicki A Hollub,Lockheed Martin Corporation,Position
+1703382,189673,58,,,true,1,https://littlesis.org/relationships/1703382,true,,,Board Member,Board Member,Vicki A Hollub,Lockheed Martin Corporation,Position
+1504569,189673,30058,2003-05-29,2016-11-15,,5,https://littlesis.org/relationships/1504569,,,9981,"25 contributions · 9,981 USD","25 contributions · 9,981 USD",Vicki A Hollub,Occidental Petroleum Corporation Political Action Committee,Donation/Grant
+923255,189673,124,2013-10-00,,true,1,https://littlesis.org/relationships/923255,false,true,,Vice President,Vice President,Vicki A Hollub,Occidental Petroleum Corporation,Position
+1482967,189673,124,,2015-00-00,false,1,https://littlesis.org/relationships/1482967,,,,Executive Vice President,Executive Vice President,Vicki A Hollub,Occidental Petroleum Corporation,Position

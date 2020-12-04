@@ -1,0 +1,28 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+871007,175011,42527,2012-00-00,2012-00-00,,5,https://littlesis.org/relationships/871007,,,2500,"1 contribution · 2,500 USD","1 contribution · 2,500 USD",Dana Walden,ActBlue,Donation/Grant
+870994,175011,13503,2007-00-00,2012-00-00,,5,https://littlesis.org/relationships/870994,,,31500,"5 contributions · 31,500 USD","5 contributions · 31,500 USD",Dana Walden,Barack Obama,Donation/Grant
+870997,175011,13105,2008-00-00,2010-00-00,,5,https://littlesis.org/relationships/870997,,,6400,"4 contributions · 6,400 USD","4 contributions · 6,400 USD",Dana Walden,Barbara Boxer,Donation/Grant
+870998,175011,13986,1999-00-00,1999-00-00,,5,https://littlesis.org/relationships/870998,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Dana Walden,Bill Bradley,Donation/Grant
+870990,175011,13610,2006-00-00,2006-00-00,,5,https://littlesis.org/relationships/870990,,,250,1 contribution · 250 USD,1 contribution · 250 USD,Dana Walden,Debbie Stabenow,Donation/Grant
+871006,175011,13654,2011-00-00,2011-00-00,,5,https://littlesis.org/relationships/871006,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Dana Walden,Debbie Wasserman Schultz,Donation/Grant
+871001,175011,28862,2004-00-00,2012-00-00,,5,https://littlesis.org/relationships/871001,,,20500,"2 contributions · 20,500 USD","2 contributions · 20,500 USD",Dana Walden,Democratic National Committee,Donation/Grant
+870996,175011,28856,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/870996,,,28500,"1 contribution · 28,500 USD","1 contribution · 28,500 USD",Dana Walden,Democratic Senatorial Campaign Committee,Donation/Grant
+870988,175011,13284,2006-00-00,2006-00-00,,5,https://littlesis.org/relationships/870988,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Dana Walden,Dianne Feinstein,Donation/Grant
+871009,175011,13658,2010-00-00,2010-00-00,,5,https://littlesis.org/relationships/871009,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Dana Walden,Henry Waxman,Donation/Grant
+870992,175011,13191,2007-00-00,2007-00-00,,5,https://littlesis.org/relationships/870992,,,4600,"2 contributions · 4,600 USD","2 contributions · 4,600 USD",Dana Walden,Hillary Clinton,Donation/Grant
+870985,175011,13041,2001-00-00,2011-00-00,,5,https://littlesis.org/relationships/870985,,,2500,"3 contributions · 2,500 USD","3 contributions · 2,500 USD",Dana Walden,Howard Lawrence Berman,Donation/Grant
+870993,175011,13766,2007-00-00,2007-00-00,,5,https://littlesis.org/relationships/870993,,,500,1 contribution · 500 USD,1 contribution · 500 USD,Dana Walden,John Edwards,Donation/Grant
+870986,175011,13377,2002-00-00,2002-00-00,,5,https://littlesis.org/relationships/870986,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Dana Walden,John Forbes Kerry,Donation/Grant
+870999,175011,29812,2000-00-00,2000-00-00,,5,https://littlesis.org/relationships/870999,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Dana Walden,LA PAC,Donation/Grant
+870991,175011,13152,2006-00-00,2006-00-00,,5,https://littlesis.org/relationships/870991,,,250,1 contribution · 250 USD,1 contribution · 250 USD,Dana Walden,Maria E Cantwell,Donation/Grant
+871584,175011,175165,,,,4,https://littlesis.org/relationships/871584,,,,husband,wife,Dana Walden,Matt Walden,Family
+870989,175011,29837,2006-00-00,2006-00-00,,5,https://littlesis.org/relationships/870989,,,500,1 contribution · 500 USD,1 contribution · 500 USD,Dana Walden,Michigan/Washington Senate Victory,Donation/Grant
+871002,175011,29817,2004-00-00,2004-00-00,,5,https://littlesis.org/relationships/871002,,,500,1 contribution · 500 USD,1 contribution · 500 USD,Dana Walden,Our Common Values  PAC,Donation/Grant
+871008,175011,29854,2012-00-00,2012-00-00,,5,https://littlesis.org/relationships/871008,,,2500,"1 contribution · 2,500 USD","1 contribution · 2,500 USD",Dana Walden,PAC for a Change,Donation/Grant
+871005,175011,13666,2012-00-00,2012-00-00,,5,https://littlesis.org/relationships/871005,,,1500,"1 contribution · 1,500 USD","1 contribution · 1,500 USD",Dana Walden,Sheldon Whitehouse,Donation/Grant
+871004,175011,13127,2012-00-00,2012-00-00,,5,https://littlesis.org/relationships/871004,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Dana Walden,Sherrod Brown,Donation/Grant
+870987,175011,59282,2005-00-00,2005-00-00,,5,https://littlesis.org/relationships/870987,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Dana Walden,Ted Stevens,Donation/Grant
+871003,175011,96579,2012-00-00,2012-00-00,,5,https://littlesis.org/relationships/871003,,,11500,"4 contributions · 11,500 USD","4 contributions · 11,500 USD",Dana Walden,Tim Kaine,Donation/Grant
+870995,175011,42857,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/870995,,,500,2 contributions · 500 USD,2 contributions · 500 USD,Dana Walden,Tom Perriello,Donation/Grant
+871583,175011,15028,,,,2,https://littlesis.org/relationships/871583,,,,"BA, Communication","BA, Communication",Dana Walden,University of Southern California,Education
+871000,175011,30287,2003-00-00,2003-00-00,,5,https://littlesis.org/relationships/871000,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Dana Walden,Wesley Clark,Donation/Grant

@@ -1,0 +1,5 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1720453,343316,389733,2019-00-00,,,1,https://littlesis.org/relationships/1720453,,,,Featured Speaker,Featured Speaker,Greta Thunberg,Davos 2019 - Globalization 4.0,Position
+1590527,343316,355949,2019-01-00,,,12,https://littlesis.org/relationships/1590527,,,,Attended by,Speaker At,Greta Thunberg,Davos,Generic
+1659014,343316,370263,,,,1,https://littlesis.org/relationships/1659014,,,,Champion,Champion,Greta Thunberg,Every Breath Matters,Position
+1543163,343316,192051,,,true,9,https://littlesis.org/relationships/1543163,,,,mentor,protege,Greta Thunberg,Jennifer Morgan,Professional

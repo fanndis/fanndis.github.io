@@ -1,0 +1,28 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1681716,376769,90402,,,true,4,https://littlesis.org/relationships/1681716,,,,fourth cousin twice removed,fourth cousin twice removed,Andrew Willoughby Ninian Bertie,Queen Elizabeth II,Family
+512201,90402,110554,1926-04-21,,,4,https://littlesis.org/relationships/512201,,,,18th great-grandfather,18th great-granddaughter,Queen Elizabeth II,Edward II,Family
+908808,90402,185315,,,true,8,https://littlesis.org/relationships/908808,,,,friend,friend,Queen Elizabeth II,Edward St. George,Social
+1118475,78304,90402,,,,1,https://littlesis.org/relationships/1118475,,,,Financial advisor,Financial advisor,Evelyn de Rothschild,Queen Elizabeth II,Position
+512174,110535,90402,,,,4,https://littlesis.org/relationships/512174,,,,6th great-granddaughter,6th great-grandfather,George I,Queen Elizabeth II,Family
+512130,110531,90402,1926-04-21,,,4,https://littlesis.org/relationships/512130,,,,granddaughter,grandfather,George V Windsor,Queen Elizabeth II,Family
+512133,110532,90402,1926-04-21,,,4,https://littlesis.org/relationships/512133,,,,daughter,father,George VI Windsor,Queen Elizabeth II,Family
+908592,185272,90402,1926-00-00,,,4,https://littlesis.org/relationships/908592,,,,great granddaughter,great grandmother,HM Queen Alexandra of the United Kingdom,Queen Elizabeth II,Family
+512181,110537,90402,,,,4,https://littlesis.org/relationships/512181,,,,9th great-granddaughter,9th great-grandfather,James I Charles Stuart,Queen Elizabeth II,Family
+1630308,151814,90402,,,true,4,https://littlesis.org/relationships/1630308,,,,second cousin once removed,second cousin once removed,Louis Mountbatten,Queen Elizabeth II,Family
+1230303,90402,254599,,,true,1,https://littlesis.org/relationships/1230303,,true,,Sovereign,Sovereign,Queen Elizabeth II,Most Noble Order of the Garter,Position
+1577570,353331,90402,1993-00-00,1996-00-00,,1,https://littlesis.org/relationships/1577570,,,,Senior Assistant to her chaplain,Senior Assistant to her chaplain,Nelson Gonzalez,Queen Elizabeth II,Position
+1588665,355490,90402,1947-00-00,,,8,https://littlesis.org/relationships/1588665,,,,Social,"bridesmaid ",Pamela Carmen Louise Mountbatten,Queen Elizabeth II,Social
+907529,100950,90402,1960-00-00,,,4,https://littlesis.org/relationships/907529,,,,mother,son,Prince Andrew,Queen Elizabeth II,Family
+385143,90402,90398,,,,4,https://littlesis.org/relationships/385143,,,,son,mother,Queen Elizabeth II,Prince Charles,Family
+385144,90402,90400,,,,4,https://littlesis.org/relationships/385144,,,,grandson,grandmother,Queen Elizabeth II,Prince Harry,Family
+385142,90402,90397,,,,4,https://littlesis.org/relationships/385142,,,,husband,wife,Queen Elizabeth II,Prince Philip,Family
+543434,90402,90397,,,,4,https://littlesis.org/relationships/543434,,,,third cousin,third cousin,Queen Elizabeth II,Prince Philip,Family
+385141,90399,90402,,,,4,https://littlesis.org/relationships/385141,,,,grandmother,grandson,Prince William,Queen Elizabeth II,Family
+543413,90402,115991,1950-08-15,,,4,https://littlesis.org/relationships/543413,,,,daughter,mother,Queen Elizabeth II,Princess Anne,Family
+1046485,151303,90402,,,,4,https://littlesis.org/relationships/1046485,,,,older sister,younger sister,Princess Margaret,Queen Elizabeth II,Family
+543412,90402,115990,1926-04-21,,,4,https://littlesis.org/relationships/543412,,,,mother,daughter,Queen Elizabeth II,Queen Elizabeth,Family
+512185,90402,110499,1926-04-21,,,4,https://littlesis.org/relationships/512185,,,,great-great-grandmother,great-great-granddaughter,Queen Elizabeth II,Queen Victoria,Family
+512199,110551,90402,1926-04-21,,,4,https://littlesis.org/relationships/512199,,,,16th great-granddaughter,16th great-grandfather,Robert III Stewart,Queen Elizabeth II,Family
+1577560,90402,353337,,,,1,https://littlesis.org/relationships/1577560,,,,Head,Head,Queen Elizabeth II,Royal Household,Position
+908461,90402,185268,,,true,3,https://littlesis.org/relationships/908461,,,,Royal Fellow,Royal Fellow,Queen Elizabeth II,Society of Antiquaries of London,Membership
+1574411,79497,90402,,,,12,https://littlesis.org/relationships/1574411,,,,Friend,Friend,Walter Annenberg II,Queen Elizabeth II,Generic

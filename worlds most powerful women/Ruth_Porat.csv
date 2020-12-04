@@ -1,0 +1,33 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1419191,59729,223501,,2015-00-00,true,1,https://littlesis.org/relationships/1419191,false,true,,"Chief Financial Officer, Senior Vice President","Chief Financial Officer, Senior Vice President",Ruth Porat,Alphabet Inc,Position
+523463,59729,111800,1983-00-00,,true,4,https://littlesis.org/relationships/523463,,,,husband,wife,Ruth Porat,Anthony Paduano,Family
+379599,59729,13503,2008-00-00,2012-00-00,,5,https://littlesis.org/relationships/379599,,,9600,"4 contributions · 9,600 USD","4 contributions · 9,600 USD",Ruth Porat,Barack Obama,Donation/Grant
+1710582,59729,669,2020-00-00,,true,1,https://littlesis.org/relationships/1710582,true,,,Board member,Board member,Ruth Porat,Blackstone Group,Position
+523457,59729,44657,2009-00-00,2009-00-00,,5,https://littlesis.org/relationships/523457,,,2400,"1 contribution · 2,400 USD","1 contribution · 2,400 USD",Ruth Porat,Carly Fiorina,Donation/Grant
+379597,59729,13248,2006-00-00,2006-00-00,,5,https://littlesis.org/relationships/379597,,,2000,"2 contributions · 2,000 USD","2 contributions · 2,000 USD",Ruth Porat,Chris Dodd,Donation/Grant
+379602,59729,28862,2000-00-00,2012-00-00,,5,https://littlesis.org/relationships/379602,,,26800,"2 contributions · 26,800 USD","2 contributions · 26,800 USD",Ruth Porat,Democratic National Committee,Donation/Grant
+379601,59729,29249,1999-00-00,1999-00-00,,5,https://littlesis.org/relationships/379601,,,250,1 contribution · 250 USD,1 contribution · 250 USD,Ruth Porat,Emily's List,Donation/Grant
+523456,59729,33277,1991-00-00,1991-00-00,,5,https://littlesis.org/relationships/523456,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Ruth Porat,George H W Bush,Donation/Grant
+926817,59729,151,,2015-00-00,,1,https://littlesis.org/relationships/926817,,,,Senior Vice President and Chief Financial Officer,Senior Vice President and Chief Financial Officer,Ruth Porat,Google Inc.,Position
+379598,59729,13191,2000-00-00,2008-00-00,,5,https://littlesis.org/relationships/379598,,,11950,"9 contributions · 11,950 USD","9 contributions · 11,950 USD",Ruth Porat,Hillary Clinton,Donation/Grant
+1136064,59729,233579,,,true,1,https://littlesis.org/relationships/1136064,true,,,Adviser,Adviser,Ruth Porat,Hutchins Center on Fiscal and Monetary Policy,Position
+661862,59729,117183,2012-00-00,2012-00-00,,5,https://littlesis.org/relationships/661862,,,2500,"1 contribution · 2,500 USD","1 contribution · 2,500 USD",Ruth Porat,Joe Kennedy III,Donation/Grant
+379600,59729,13377,2003-00-00,2003-00-00,,5,https://littlesis.org/relationships/379600,,,2000,"1 contribution · 2,000 USD","1 contribution · 2,000 USD",Ruth Porat,John Forbes Kerry,Donation/Grant
+379595,59729,94919,1995-00-00,1995-00-00,,5,https://littlesis.org/relationships/379595,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Ruth Porat,John W. Warner III,Donation/Grant
+379605,59729,13351,1994-00-00,1994-00-00,,5,https://littlesis.org/relationships/379605,,,500,1 contribution · 500 USD,1 contribution · 500 USD,Ruth Porat,Kay Bailey Hutchison,Donation/Grant
+661860,59729,13302,2011-00-00,2012-00-00,,5,https://littlesis.org/relationships/661860,,,4000,"4 contributions · 4,000 USD","4 contributions · 4,000 USD",Ruth Porat,Kirsten Gillibrand,Donation/Grant
+379359,59729,40000,,,false,2,https://littlesis.org/relationships/379359,,,,Master's Degree,Master's Degree,Ruth Porat,London School of Economics and Political Science,Education
+661861,59729,34457,2012-00-00,2012-00-00,,5,https://littlesis.org/relationships/661861,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Ruth Porat,Mark R Warner,Donation/Grant
+379596,59729,36744,1992-00-00,1996-00-00,,5,https://littlesis.org/relationships/379596,,,750,2 contributions · 750 USD,2 contributions · 750 USD,Ruth Porat,Morgan Stanley & Co Incorporated Better Government Fund,Donation/Grant
+379594,59729,29417,2008-00-00,2012-00-00,,5,https://littlesis.org/relationships/379594,,,13936,"55 contributions · 13,936 USD","55 contributions · 13,936 USD",Ruth Porat,Morgan Stanley Political Action Committee,Donation/Grant
+268245,59729,21,,2015-00-00,,1,https://littlesis.org/relationships/268245,,,,Chief Financial Officer & Executive Vice President,Chief Financial Officer & Executive Vice President,Ruth Porat,Morgan Stanley,Position
+379606,59729,29822,2006-00-00,2006-00-00,,5,https://littlesis.org/relationships/379606,,,1500,"2 contributions · 1,500 USD","2 contributions · 1,500 USD",Ruth Porat,Ned Lamont,Donation/Grant
+379603,59729,13329,1994-00-00,1994-00-00,,5,https://littlesis.org/relationships/379603,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Ruth Porat,Orrin Hatch,Donation/Grant
+523458,59729,96584,2010-00-00,2010-00-00,,5,https://littlesis.org/relationships/523458,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Ruth Porat,Reshma M Saujani,Donation/Grant
+523460,59729,13587,2010-00-00,2010-00-00,,5,https://littlesis.org/relationships/523460,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Ruth Porat,Richard C Shelby,Donation/Grant
+523461,59729,97124,2010-00-00,2010-00-00,,5,https://littlesis.org/relationships/523461,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Ruth Porat,Scott Sipprelle,Donation/Grant
+523459,59729,29076,2010-00-00,2010-00-00,,5,https://littlesis.org/relationships/523459,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Ruth Porat,Securities Industry and Financial Markets Association Political Action Committee,Donation/Grant
+379360,59729,14938,,,false,2,https://littlesis.org/relationships/379360,,,,BA,BA,Ruth Porat,Stanford University,Education
+379604,59729,13375,1994-00-00,1994-00-00,,5,https://littlesis.org/relationships/379604,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Ruth Porat,Ted Kennedy,Donation/Grant
+346691,59729,46044,,,true,1,https://littlesis.org/relationships/346691,,,,member,member,Ruth Porat,Treasury Borrowing Advisory Committee,Position
+379361,59729,14959,,1987-00-00,false,2,https://littlesis.org/relationships/379361,,,,MBA,MBA,Ruth Porat,University of Pennsylvania - The Wharton School,Education

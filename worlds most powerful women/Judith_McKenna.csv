@@ -1,0 +1,5 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1652218,153488,132801,,,false,1,https://littlesis.org/relationships/1652218,,true,,"Chief Operating Officer ","Chief Operating Officer ",Judith McKenna,ASDA Stores Limited,Position
+1652217,153488,367572,,,,2,https://littlesis.org/relationships/1652217,,,,LLB,LLB,Judith McKenna,University of Hull,Education
+1414522,153488,283528,,2015-00-00,,1,https://littlesis.org/relationships/1414522,,,,Member (Executive Management),Member (Executive Management),Judith McKenna,Wal-Mart Stores (uk) Limited,Position
+771950,153488,1,,,true,1,https://littlesis.org/relationships/771950,false,true,,"Executive Vice President, Strategy and International Development","Executive Vice President, Strategy and International Development",Judith McKenna,Walmart,Position

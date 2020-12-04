@@ -1,0 +1,19 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1363211,38639,52551,,,true,3,https://littlesis.org/relationships/1363211,,,,Member,Member,Ginni Rometty,Alfalfa Club,Membership
+270,38639,13,2006-00-00,2009-00-00,false,1,https://littlesis.org/relationships/270,true,false,,Director,Director,Ginni Rometty,"American International Group, Inc.",Position
+1650946,38639,367601,2019-00-00,,,1,https://littlesis.org/relationships/1650946,,,,Member,Member,Ginni Rometty,American Workforce Policy Advisory Board,Position
+1533265,38639,35638,2014-00-00,,true,3,https://littlesis.org/relationships/1533265,,,,Member (3rd female),Member (3rd female),Ginni Rometty,Augusta National Golf Club,Membership
+551286,38639,33271,,,true,3,https://littlesis.org/relationships/551286,,,,Member,Member,Ginni Rometty,Council on Foreign Relations,Membership
+1225134,38639,33271,,,true,1,https://littlesis.org/relationships/1225134,,,,Position,Position,Ginni Rometty,Council on Foreign Relations,Position
+148878,38639,15,,,true,1,https://littlesis.org/relationships/148878,,true,,"Sr. Vice President, IBM Global Sales and Distribution ","Sr. Vice President, IBM Global Sales and Distribution ",Ginni Rometty,IBM,Position
+268190,38639,15,1981-00-00,,true,1,https://littlesis.org/relationships/268190,,true,,Position,Position,Ginni Rometty,IBM,Position
+551284,38639,15,2012-01-01,,true,1,https://littlesis.org/relationships/551284,,true,,CEO,CEO,Ginni Rometty,IBM,Position
+551285,38639,15,2012-10-01,,true,1,https://littlesis.org/relationships/551285,true,,,Chairman,Chairman,Ginni Rometty,IBM,Position
+1429367,38639,15,,2015-00-00,false,1,https://littlesis.org/relationships/1429367,,,,Chair (Executive Committee),Chair (Executive Committee),Ginni Rometty,IBM,Position
+1713931,38639,12,2020-00-00,,true,1,https://littlesis.org/relationships/1713931,true,,,Board Member,Board Member,Ginni Rometty,JPMorgan Chase & Co.,Position
+1533266,38639,127442,1979-00-00,1981-00-00,false,1,https://littlesis.org/relationships/1533266,,,,Position,Position,Ginni Rometty,Kettering University,Position
+281086,38639,37559,,,true,1,https://littlesis.org/relationships/281086,true,,,Overseer,Overseer,Ginni Rometty,Memorial Sloan-Kettering Cancer Center,Position
+148879,38639,15018,,,true,2,https://littlesis.org/relationships/148879,,,,"BS, electrical engineering","BS, electrical engineering",Ginni Rometty,Northwestern University,Education
+935071,38639,15018,,,,2,https://littlesis.org/relationships/935071,,,,"BSE, Electrical Engineering","BSE, Electrical Engineering",Ginni Rometty,Northwestern University,Education
+1224115,38639,253709,2016-00-00,,true,1,https://littlesis.org/relationships/1224115,,,,member,member,Ginni Rometty,President Trump’s Strategic and Policy Forum,Position
+1533268,38639,41410,2017-11-00,2017-11-00,false,1,https://littlesis.org/relationships/1533268,,true,,Co-Chair,Co-Chair,Ginni Rometty,World Economic Forum,Position

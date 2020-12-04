@@ -1,0 +1,11 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+848476,119468,78907,2011-00-00,2011-00-00,,5,https://littlesis.org/relationships/848476,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Marianne Lake,Jon Tester,Donation/Grant
+1720495,119468,29018,2015-04-30,2018-07-31,false,5,https://littlesis.org/relationships/1720495,,,1827,"29 contributions · 1,827 USD","29 contributions · 1,827 USD",Marianne Lake,Jpmorgan Chase & Co. Federal Political Action Committee,Donation/Grant
+522630,119468,111610,,,true,1,https://littlesis.org/relationships/522630,true,,,Committee member,Committee member,Marianne Lake,JPMorgan Chase & Co. Operating Committee,Position
+1720498,119468,29154,2010-02-28,2013-11-29,false,5,https://littlesis.org/relationships/1720498,,,2709,"43 contributions · 2,709 USD","43 contributions · 2,709 USD",Marianne Lake,Jpmorgan Chase & Co. PAC,Donation/Grant
+564102,119468,12,,,true,1,https://littlesis.org/relationships/564102,false,true,,Chief Financial Officer,Chief Financial Officer,Marianne Lake,JPMorgan Chase & Co.,Position
+1554765,119468,80211,,2015-00-00,false,1,https://littlesis.org/relationships/1554765,,,,Chief Financial Officer,Chief Financial Officer,Marianne Lake,"JPMorgan Chase Bank, N.A.",Position
+848279,119468,76790,,,false,1,https://littlesis.org/relationships/848279,,,,Chartered Accountant,Chartered Accountant,Marianne Lake,PricewaterhouseCoopers LLP,Position
+1720496,119468,13587,2015-11-13,2015-11-13,false,5,https://littlesis.org/relationships/1720496,,,2700,"1 contribution · 2,700 USD","1 contribution · 2,700 USD",Marianne Lake,Richard C Shelby,Donation/Grant
+1720497,119468,13731,2016-09-04,2016-09-04,false,5,https://littlesis.org/relationships/1720497,,,2700,"1 contribution · 2,700 USD","1 contribution · 2,700 USD",Marianne Lake,Rob Portman,Donation/Grant
+848278,119468,94830,,,,2,https://littlesis.org/relationships/848278,,,,"Bachelor's Degree, Physics","Bachelor's Degree, Physics",Marianne Lake,University of Reading,Education

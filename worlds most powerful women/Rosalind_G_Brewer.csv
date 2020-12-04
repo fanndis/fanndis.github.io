@@ -1,0 +1,18 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1525013,6063,172,2019-00-00,,true,1,https://littlesis.org/relationships/1525013,true,,,Board Member,Board Member,Rosalind G Brewer,"Amazon.com, Inc.",Position
+1702727,6063,172,,,true,1,https://littlesis.org/relationships/1702727,true,,,Board Member,Board Member,Rosalind G Brewer,"Amazon.com, Inc.",Position
+296910,6063,13503,2008-00-00,2012-00-00,,5,https://littlesis.org/relationships/296910,,,3300,"2 contributions · 3,300 USD","2 contributions · 3,300 USD",Rosalind G Brewer,Barack Obama,Donation/Grant
+1525015,6063,337008,2014-06-25,2014-08-25,,5,https://littlesis.org/relationships/1525015,,,1250,"5 contributions · 1,250 USD","5 contributions · 1,250 USD",Rosalind G Brewer,Democratic Congressional Campaign Committee,Donation/Grant
+1525018,6063,13089,2016-09-19,2016-09-19,,5,https://littlesis.org/relationships/1525018,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Rosalind G Brewer,John Boozman,Donation/Grant
+155756,6063,137,,,false,1,https://littlesis.org/relationships/155756,false,,,Position,Position,Rosalind G Brewer,Kimberly-Clark,Position
+1525016,6063,29010,2015-04-06,2017-10-05,false,5,https://littlesis.org/relationships/1525016,,,9500,"10 contributions · 9,500 USD","10 contributions · 9,500 USD",Rosalind G Brewer,Lockheed Martin Corporation Employees' Political Action Committee,Donation/Grant
+564602,6063,58,2011-05-00,,true,1,https://littlesis.org/relationships/564602,true,false,,Board Member,Board Member,Rosalind G Brewer,Lockheed Martin Corporation,Position
+1525014,6063,96676,2014-03-29,2014-03-29,,5,https://littlesis.org/relationships/1525014,,,2600,"1 contribution · 2,600 USD","1 contribution · 2,600 USD",Rosalind G Brewer,Michelle Nunn,Donation/Grant
+7705,6063,393,,,false,1,https://littlesis.org/relationships/7705,true,false,,Director,Director,Rosalind G Brewer,Molson Coors Brewing Company,Position
+155757,6063,43755,2006-00-00,,true,1,https://littlesis.org/relationships/155757,true,false,,Trustee,Trustee,Rosalind G Brewer,Spelman College,Position
+155758,6063,43755,,1984-00-00,false,2,https://littlesis.org/relationships/155758,,,,BA,BA,Rosalind G Brewer,Spelman College,Education
+1525019,6063,278,2017-09-00,,true,1,https://littlesis.org/relationships/1525019,,true,,Group President & COO,Group President & COO,Rosalind G Brewer,Starbucks,Position
+1396412,6063,283528,,2015-00-00,,1,https://littlesis.org/relationships/1396412,,,,Member (Executive Management),Member (Executive Management),Rosalind G Brewer,Wal-Mart Stores (uk) Limited,Position
+1525017,6063,28789,2015-02-12,2016-11-17,,5,https://littlesis.org/relationships/1525017,,,8832,"46 contributions · 8,832 USD","46 contributions · 8,832 USD",Rosalind G Brewer,Wal-Mart Stores Inc. PAC for Responsible Government,Donation/Grant
+155755,6063,1,,2017-00-00,false,1,https://littlesis.org/relationships/155755,,,,Executive Vice President,Executive Vice President,Rosalind G Brewer,Walmart,Position
+1327501,6063,211810,,,true,1,https://littlesis.org/relationships/1327501,true,,,Board Member,Board Member,Rosalind G Brewer,Woodruff Arts Center,Position

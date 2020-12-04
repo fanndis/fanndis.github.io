@@ -1,0 +1,16 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+216686,41040,30079,2005-00-00,2005-00-00,,5,https://littlesis.org/relationships/216686,,,250,1 contribution · 250 USD,1 contribution · 250 USD,Aileen Lee,Arizona State Democratic Central Executive Committee,Donation/Grant
+216687,41040,13503,2007-00-00,2007-00-00,,5,https://littlesis.org/relationships/216687,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Aileen Lee,Barack Obama,Donation/Grant
+1542588,41040,133625,2014-04-28,2014-04-28,,5,https://littlesis.org/relationships/1542588,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Aileen Lee,Bruce Shuttleworth,Donation/Grant
+1542585,41040,344074,,,true,1,https://littlesis.org/relationships/1542585,,true,,"Co founder, partner","Co founder, partner",Aileen Lee,Cowboy Ventures,Position
+1542590,41040,28862,2016-07-19,2016-07-19,,5,https://littlesis.org/relationships/1542590,,,2700,"1 contribution · 2,700 USD","1 contribution · 2,700 USD",Aileen Lee,Democratic National Committee,Donation/Grant
+130433,41040,163,1998-09-00,1999-09-00,false,1,https://littlesis.org/relationships/130433,false,false,,Special Asst to the CEO,Special Asst to the CEO,Aileen Lee,"Gap, Inc.",Position
+651730,41040,13541,2010-00-00,2010-06-04,,5,https://littlesis.org/relationships/651730,,,4800,"2 contributions · 4,800 USD","2 contributions · 4,800 USD",Aileen Lee,Harry Reid,Donation/Grant
+130431,41040,33342,,1997-00-00,false,2,https://littlesis.org/relationships/130431,,,,MBA,MBA,Aileen Lee,Harvard Business School,Education
+1542589,41040,13191,2015-06-05,2016-10-24,,5,https://littlesis.org/relationships/1542589,,,5400,"2 contributions · 5,400 USD","2 contributions · 5,400 USD",Aileen Lee,Hillary Clinton,Donation/Grant
+1542591,41040,243422,2016-07-19,2016-10-03,,5,https://littlesis.org/relationships/1542591,,,5486,"3 contributions · 5,486 USD","3 contributions · 5,486 USD",Aileen Lee,Hillary Victory Fund,Donation/Grant
+130429,41040,33580,1999-00-00,2012-00-00,false,1,https://littlesis.org/relationships/130429,,true,,Partner,Partner,Aileen Lee,Kleiner Perkins Caufield & Byers,Position
+130430,41040,14933,,1992-00-00,false,2,https://littlesis.org/relationships/130430,,,,BS,BS,Aileen Lee,Massachusetts Institute of Technology,Education
+130432,41040,21,1992-00-00,1994-00-00,false,1,https://littlesis.org/relationships/130432,false,false,,Analyst,Analyst,Aileen Lee,Morgan Stanley,Position
+1542587,41040,28788,2011-01-19,2012-01-09,,5,https://littlesis.org/relationships/1542587,,,2287,"2 contributions · 2,287 USD","2 contributions · 2,287 USD",Aileen Lee,National Venture Capital Association Venturepac,Donation/Grant
+1542586,41040,236031,2010-06-04,2010-06-04,,5,https://littlesis.org/relationships/1542586,,,5000,"1 contribution · 5,000 USD","1 contribution · 5,000 USD",Aileen Lee,Reid Victory Fund,Donation/Grant

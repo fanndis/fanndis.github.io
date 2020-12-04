@@ -1,0 +1,4 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1424979,311292,477,2016-00-00,,,1,https://littlesis.org/relationships/1424979,,,,Position,Position,Jessica Tan,"BlackRock, Inc.",Position
+1624552,311292,14933,,,,2,https://littlesis.org/relationships/1624552,,,,BE,BE,Jessica Tan,Massachusetts Institute of Technology,Education
+1624551,311292,41023,,,false,1,https://littlesis.org/relationships/1624551,,true,,"Partner ","Partner ",Jessica Tan,McKinsey & Company,Position

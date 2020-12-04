@@ -1,0 +1,25 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+862639,60876,31434,1995-00-00,2001-00-00,,5,https://littlesis.org/relationships/862639,,,2895,"5 contributions · 2,895 USD","5 contributions · 2,895 USD",Lynn J Good,Arthur Andersen PAC,Donation/Grant
+907050,60876,19427,,,false,1,https://littlesis.org/relationships/907050,,true,,"Partner  ","Partner  ",Lynn J Good,Arthur Andersen,Position
+862636,60876,13255,2009-00-00,2009-00-00,,5,https://littlesis.org/relationships/862636,,,1500,"1 contribution · 1,500 USD","1 contribution · 1,500 USD",Lynn J Good,Byron Dorgan,Donation/Grant
+907051,60876,146952,,,false,1,https://littlesis.org/relationships/907051,,true,,"Partner  ","Partner  ",Lynn J Good,Deloitte & Touche LLP,Position
+862640,60876,29007,2003-00-00,2003-00-00,,5,https://littlesis.org/relationships/862640,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Lynn J Good,Deloitte Federal Political Action Committee,Donation/Grant
+862635,60876,29716,2006-00-00,2018-07-31,false,5,https://littlesis.org/relationships/862635,,,50314,"81 contributions · 50,314 USD","81 contributions · 50,314 USD",Lynn J Good,Duke Energy Corporation PAC,Donation/Grant
+269889,60876,205,2009-00-00,2013-07-01,false,1,https://littlesis.org/relationships/269889,false,true,,CFO,CFO,Lynn J Good,Duke Energy Corporation,Position
+907047,60876,205,2013-07-01,,true,1,https://littlesis.org/relationships/907047,,true,,President and CEO,President and CEO,Lynn J Good,Duke Energy Corporation,Position
+923501,60876,205,,,true,1,https://littlesis.org/relationships/923501,true,false,,Board Member,Board Member,Lynn J Good,Duke Energy Corporation,Position
+1404902,60876,205,,,,1,https://littlesis.org/relationships/1404902,,,,Group Executive and Chief Financial Officer,Group Executive and Chief Financial Officer,Lynn J Good,Duke Energy Corporation,Position
+275112,60876,768,2009-06-00,,true,1,https://littlesis.org/relationships/275112,true,false,,Board Member,Board Member,Lynn J Good,Hubbell Inc,Position
+862643,60876,13443,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/862643,,,1500,"1 contribution · 1,500 USD","1 contribution · 1,500 USD",Lynn J Good,John S. McCain III,Donation/Grant
+1634318,60876,244270,2018-06-30,2018-06-30,false,5,https://littlesis.org/relationships/1634318,,,7700,"2 contributions · 7,700 USD","2 contributions · 7,700 USD",Lynn J Good,McHenry Leadership Fund,Donation/Grant
+907049,60876,15077,,,,2,https://littlesis.org/relationships/907049,,,,"BS, Systems Analysis/Accounting","BS, Systems Analysis/Accounting",Lynn J Good,Miami University of Ohio,Education
+1634319,60876,13450,2018-05-31,2018-05-31,false,5,https://littlesis.org/relationships/1634319,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Lynn J Good,Mitch McConnell,Donation/Grant
+862644,60876,34136,2012-00-00,2012-12-01,,5,https://littlesis.org/relationships/862644,,,3750,"4 contributions · 3,750 USD","4 contributions · 3,750 USD",Lynn J Good,Mitt Romney,Donation/Grant
+1466685,60876,30969,2015-02-27,2015-02-27,,5,https://littlesis.org/relationships/1466685,,,5000,"1 contribution · 5,000 USD","1 contribution · 5,000 USD",Lynn J Good,Nuclear Energy Institute Federal Political Action Committee,Donation/Grant
+1466684,60876,29901,2013-10-03,2017-02-06,false,5,https://littlesis.org/relationships/1466684,,,20000,"4 contributions · 20,000 USD","4 contributions · 20,000 USD",Lynn J Good,Powerpac of the Edison Electric Institute,Donation/Grant
+862638,60876,13137,2010-00-00,2016-09-26,,5,https://littlesis.org/relationships/862638,,,9380,"5 contributions · 9,380 USD","5 contributions · 9,380 USD",Lynn J Good,Richard Burr,Donation/Grant
+862641,60876,13428,2005-00-00,2005-00-00,,5,https://littlesis.org/relationships/862641,,,2000,"1 contribution · 2,000 USD","1 contribution · 2,000 USD",Lynn J Good,Richard Green Lugar,Donation/Grant
+862637,60876,13731,2009-00-00,2009-00-00,,5,https://littlesis.org/relationships/862637,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Lynn J Good,Rob Portman,Donation/Grant
+862642,60876,13179,2006-00-00,2006-00-00,,5,https://littlesis.org/relationships/862642,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Lynn J Good,Steve Chabot,Donation/Grant
+1286259,60876,27,,,,1,https://littlesis.org/relationships/1286259,,,,"Director, Board of Directors","Director, Board of Directors",Lynn J Good,The Boeing Company,Position
+862414,60876,37033,,,true,3,https://littlesis.org/relationships/862414,,,,Member,Member,Lynn J Good,The Business Council,Membership

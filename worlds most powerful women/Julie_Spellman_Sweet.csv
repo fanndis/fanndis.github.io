@@ -1,0 +1,12 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1624540,122795,30775,2010-04-13,2017-06-30,false,5,https://littlesis.org/relationships/1624540,,,27000,"12 contributions · 27,000 USD","12 contributions · 27,000 USD",Julie Spellman Sweet,Accenture Inc. Political Action Committee,Donation/Grant
+569646,122795,34783,,,true,1,https://littlesis.org/relationships/569646,true,,,Group Chief Executive - North America,Group Chief Executive - North America,Julie Spellman Sweet,Accenture plc,Position
+1624548,122795,13812,2006-07-20,2006-07-20,false,5,https://littlesis.org/relationships/1624548,,,10500,"1 contribution · 10,500 USD","1 contribution · 10,500 USD",Julie Spellman Sweet,Ed Bryant,Donation/Grant
+1624543,122795,201968,2013-09-29,2013-09-29,false,5,https://littlesis.org/relationships/1624543,,,5000,"1 contribution · 5,000 USD","1 contribution · 5,000 USD",Julie Spellman Sweet,"Jobs, Growth and Freedom Fund",Donation/Grant
+1624545,122795,13212,2005-06-17,2005-06-17,false,5,https://littlesis.org/relationships/1624545,,,4200,"2 contributions · 4,200 USD","2 contributions · 4,200 USD",Julie Spellman Sweet,John Cornyn,Donation/Grant
+1624547,122795,13443,2008-04-23,2009-01-27,false,5,https://littlesis.org/relationships/1624547,,,0,5 contributions · 0 USD,5 contributions · 0 USD,Julie Spellman Sweet,John S. McCain III,Donation/Grant
+1624546,122795,13351,2005-03-14,2006-03-07,false,5,https://littlesis.org/relationships/1624546,,,4200,"3 contributions · 4,200 USD","3 contributions · 4,200 USD",Julie Spellman Sweet,Kay Bailey Hutchison,Donation/Grant
+1624549,122795,13448,2005-11-30,2005-11-30,false,5,https://littlesis.org/relationships/1624549,,,4200,"2 contributions · 4,200 USD","2 contributions · 4,200 USD",Julie Spellman Sweet,Michael T McCaul,Donation/Grant
+1624541,122795,34415,2011-08-27,2011-08-27,false,5,https://littlesis.org/relationships/1624541,,,2500,"1 contribution · 2,500 USD","1 contribution · 2,500 USD",Julie Spellman Sweet,Rick Perry,Donation/Grant
+1624544,122795,243105,2013-09-29,2013-09-29,false,5,https://littlesis.org/relationships/1624544,,,10200,"1 contribution · 10,200 USD","1 contribution · 10,200 USD",Julie Spellman Sweet,Ted Cruz Victory Cmte,Donation/Grant
+1624542,122795,96583,2011-01-21,2015-03-31,false,5,https://littlesis.org/relationships/1624542,,,17900,"8 contributions · 17,900 USD","8 contributions · 17,900 USD",Julie Spellman Sweet,Ted Cruz,Donation/Grant

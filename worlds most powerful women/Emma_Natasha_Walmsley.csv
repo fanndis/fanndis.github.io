@@ -1,0 +1,6 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1427139,313070,69294,2016-00-00,2016-00-00,,1,https://littlesis.org/relationships/1427139,,,,Board member,Board member,Emma Natasha Walmsley,Diageo plc,Position
+1427138,313070,119140,2011-00-00,,true,1,https://littlesis.org/relationships/1427138,true,,,CEO,CEO,Emma Natasha Walmsley,GlaxoSmithKline PLC,Position
+1590433,313070,283615,,,false,1,https://littlesis.org/relationships/1590433,,true,,Position,Position,Emma Natasha Walmsley,L'Oreal SA,Position
+1704303,313070,44,,,true,1,https://littlesis.org/relationships/1704303,true,,,Board Member,Board Member,Emma Natasha Walmsley,Microsoft Corporation,Position
+1590432,313070,14987,,,,2,https://littlesis.org/relationships/1590432,,,,"MA, Classics and Modern Languages ","MA, Classics and Modern Languages ",Emma Natasha Walmsley,Oxford University,Education

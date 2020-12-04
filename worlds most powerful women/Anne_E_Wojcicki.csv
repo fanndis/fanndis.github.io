@@ -1,0 +1,63 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1464181,93385,326753,2006-00-00,,true,1,https://littlesis.org/relationships/1464181,true,true,,CEO - Co-Founder,CEO - Co-Founder,Anne E Wojcicki,23andMe,Position
+1457987,93385,30811,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457987,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Alaska Democratic Party,Donation/Grant
+1457952,93385,74435,,,,8,https://littlesis.org/relationships/1457952,,,,"friend ","friend ",Anne E Wojcicki,Alex Rodriguez,Social
+433015,93385,13607,2010-00-00,2010-07-17,,5,https://littlesis.org/relationships/433015,,,2400,"3 contributions · 2,400 USD","3 contributions · 2,400 USD",Anne E Wojcicki,Arlen Specter,Donation/Grant
+750738,93385,13503,2011-00-00,2012-00-00,,5,https://littlesis.org/relationships/750738,,,5000,"2 contributions · 5,000 USD","2 contributions · 5,000 USD",Anne E Wojcicki,Barack Obama,Donation/Grant
+403104,93385,13292,2008-00-00,2010-05-13,,5,https://littlesis.org/relationships/403104,,,7000,"3 contributions · 7,000 USD","3 contributions · 7,000 USD",Anne E Wojcicki,Bill Foster,Donation/Grant
+1457957,93385,13575,2015-03-17,2015-03-17,,5,https://littlesis.org/relationships/1457957,,,2700,"1 contribution · 2,700 USD","1 contribution · 2,700 USD",Anne E Wojcicki,Chuck Schumer,Donation/Grant
+750736,93385,30730,2012-00-00,2016-11-07,,5,https://littlesis.org/relationships/750736,,,715,2 contributions · 715 USD,2 contributions · 715 USD,Anne E Wojcicki,Colorado Democratic Party,Donation/Grant
+1457956,93385,28670,2014-07-18,2015-05-27,,5,https://littlesis.org/relationships/1457956,,,40000,"2 contributions · 40,000 USD","2 contributions · 40,000 USD",Anne E Wojcicki,Democratic Congressional Campaign Committee,Donation/Grant
+750732,93385,29795,2012-00-00,2012-00-00,,5,https://littlesis.org/relationships/750732,,,750,1 contribution · 750 USD,1 contribution · 750 USD,Anne E Wojcicki,Democratic Executive Committee of Florida,Donation/Grant
+750737,93385,28862,2011-00-00,2014-05-12,,5,https://littlesis.org/relationships/750737,,,94000,"4 contributions · 94,000 USD","4 contributions · 94,000 USD",Anne E Wojcicki,Democratic National Committee,Donation/Grant
+1457976,93385,32278,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457976,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Democratic Party of New Mexico,Donation/Grant
+1457972,93385,30402,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457972,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Democratic Party of Oregon,Donation/Grant
+750734,93385,29954,2012-00-00,2016-11-07,,5,https://littlesis.org/relationships/750734,,,815,2 contributions · 815 USD,2 contributions · 815 USD,Anne E Wojcicki,Democratic Party of Virginia,Donation/Grant
+750730,93385,30501,2012-00-00,2016-11-07,,5,https://littlesis.org/relationships/750730,,,965,2 contributions · 965 USD,2 contributions · 965 USD,Anne E Wojcicki,Democratic Party of Wisconsin,Donation/Grant
+1608568,93385,28856,2018-01-17,2018-01-17,false,5,https://littlesis.org/relationships/1608568,,,15000,"1 contribution · 15,000 USD","1 contribution · 15,000 USD",Anne E Wojcicki,Democratic Senatorial Campaign Committee,Donation/Grant
+1457970,93385,29863,2016-05-11,2016-05-11,,5,https://littlesis.org/relationships/1457970,,,14600,"2 contributions · 14,600 USD","2 contributions · 14,600 USD",Anne E Wojcicki,Democratic State Central Committee of CA - Federal,Donation/Grant
+1457982,93385,30052,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457982,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Democratic State Committee Delaware,Donation/Grant
+1457962,93385,13238,2015-06-01,2015-06-01,,5,https://littlesis.org/relationships/1457962,,,5000,"2 contributions · 5,000 USD","2 contributions · 5,000 USD",Anne E Wojcicki,Diana Degette,Donation/Grant
+1457955,93385,13641,2014-03-31,2014-03-31,,5,https://littlesis.org/relationships/1457955,,,5000,"2 contributions · 5,000 USD","2 contributions · 5,000 USD",Anne E Wojcicki,Fred Upton,Donation/Grant
+1457978,93385,30571,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457978,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Georgia Federal Elections Committee,Donation/Grant
+1457966,93385,13191,2015-07-20,2016-11-07,,5,https://littlesis.org/relationships/1457966,,,8100,"3 contributions · 8,100 USD","3 contributions · 8,100 USD",Anne E Wojcicki,Hillary Clinton,Donation/Grant
+1457989,93385,29623,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457989,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Indiana Democratic Congressional Victory Committee,Donation/Grant
+750731,93385,28987,2012-00-00,2016-11-08,,5,https://littlesis.org/relationships/750731,,,865,2 contributions · 865 USD,2 contributions · 865 USD,Anne E Wojcicki,Iowa Democratic Party,Donation/Grant
+1457963,93385,30304,2015-05-20,2015-05-20,,5,https://littlesis.org/relationships/1457963,,,5000,"2 contributions · 5,000 USD","2 contributions · 5,000 USD",Anne E Wojcicki,Jackie Speier,Donation/Grant
+1457969,93385,244965,2016-04-01,2016-04-01,,5,https://littlesis.org/relationships/1457969,,,30000,"3 contributions · 30,000 USD","3 contributions · 30,000 USD",Anne E Wojcicki,Kamala Harris Victory Fund,Donation/Grant
+1457968,93385,92446,2015-10-30,2016-04-06,,5,https://littlesis.org/relationships/1457968,,,5400,"2 contributions · 5,400 USD","2 contributions · 5,400 USD",Anne E Wojcicki,Kamala Harris,Donation/Grant
+1457981,93385,30372,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457981,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Kentucky State Democratic Central Executive Committee,Donation/Grant
+1457992,93385,12932,2014-10-24,2015-06-15,,5,https://littlesis.org/relationships/1457992,,,10200,"4 contributions · 10,200 USD","4 contributions · 10,200 USD",Anne E Wojcicki,Lamar Alexander,Donation/Grant
+403105,93385,93386,,,,9,https://littlesis.org/relationships/403105,,,,business partner,business partner,Anne E Wojcicki,Linda Avey,Professional
+1457973,93385,30006,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457973,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Maine Democratic State Committee,Donation/Grant
+1457958,93385,38250,2015-05-19,2015-05-19,,5,https://littlesis.org/relationships/1457958,,,5000,"3 contributions · 5,000 USD","3 contributions · 5,000 USD",Anne E Wojcicki,Michael Bennet,Donation/Grant
+1457965,93385,13136,2015-06-29,2015-06-29,,5,https://littlesis.org/relationships/1457965,,,5000,"2 contributions · 5,000 USD","2 contributions · 5,000 USD",Anne E Wojcicki,Michael C Burgess,Donation/Grant
+1457985,93385,32033,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457985,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Minnesota Democratic Farmer Labor Party,Donation/Grant
+1457979,93385,48032,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457979,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Mississippi Democratic Party,Donation/Grant
+1457983,93385,30626,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457983,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Missouri Democratic State Committee,Donation/Grant
+1457974,93385,30003,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457974,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Montana Democratic Party,Donation/Grant
+1457991,93385,28803,2014-09-18,2015-05-30,,5,https://littlesis.org/relationships/1457991,,,25000,"2 contributions · 25,000 USD","2 contributions · 25,000 USD",Anne E Wojcicki,National Republican Congressional Committee,Donation/Grant
+750733,93385,31157,2012-00-00,2016-11-07,,5,https://littlesis.org/relationships/750733,,,1365,"3 contributions · 1,365 USD","3 contributions · 1,365 USD",Anne E Wojcicki,Nevada State Democratic Party,Donation/Grant
+1457984,93385,29360,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457984,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,New Jersey Democratic State Committee,Donation/Grant
+750735,93385,29192,2012-00-00,2016-11-07,,5,https://littlesis.org/relationships/750735,,,715,2 contributions · 715 USD,2 contributions · 715 USD,Anne E Wojcicki,North Carolina Democratic Party - Federal,Donation/Grant
+1457953,93385,235229,2011-10-04,2012-10-10,,5,https://littlesis.org/relationships/1457953,,,71600,"2 contributions · 71,600 USD","2 contributions · 71,600 USD",Anne E Wojcicki,Obama Victory Fund 2012,Donation/Grant
+750739,93385,30000,2012-00-00,2016-11-07,,5,https://littlesis.org/relationships/750739,,,1565,"2 contributions · 1,565 USD","2 contributions · 1,565 USD",Anne E Wojcicki,Ohio Democratic Party,Donation/Grant
+1457959,93385,13329,2015-06-02,2018-02-26,false,5,https://littlesis.org/relationships/1457959,,,2700,"3 contributions · 2,700 USD","3 contributions · 2,700 USD",Anne E Wojcicki,Orrin Hatch,Donation/Grant
+1457961,93385,13490,2015-05-20,2015-05-20,,5,https://littlesis.org/relationships/1457961,,,5000,"2 contributions · 5,000 USD","2 contributions · 5,000 USD",Anne E Wojcicki,Patty Murray,Donation/Grant
+1457954,93385,250240,2014-07-21,2014-07-21,,5,https://littlesis.org/relationships/1457954,,,250,1 contribution · 250 USD,1 contribution · 250 USD,Anne E Wojcicki,Peninsula PAC,Donation/Grant
+1457990,93385,29764,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457990,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Pennsylvania Democratic Party,Donation/Grant
+1457964,93385,245368,2015-09-29,2015-09-29,,5,https://littlesis.org/relationships/1457964,,,5400,"1 contribution · 5,400 USD","1 contribution · 5,400 USD",Anne E Wojcicki,Portman-Ohio Victory Cmte,Donation/Grant
+1457980,93385,30910,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457980,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Rhode Island Democratic State Committee,Donation/Grant
+1457960,93385,13137,2015-05-27,2015-05-27,,5,https://littlesis.org/relationships/1457960,,,5000,"2 contributions · 5,000 USD","2 contributions · 5,000 USD",Anne E Wojcicki,Richard Burr,Donation/Grant
+1457967,93385,13731,2015-09-29,2015-09-29,,5,https://littlesis.org/relationships/1457967,,,5400,"2 contributions · 5,400 USD","2 contributions · 5,400 USD",Anne E Wojcicki,Rob Portman,Donation/Grant
+403103,3084,93385,2007-05-00,2015-06-00,false,4,https://littlesis.org/relationships/403103,,,,wife,husband,Sergey Brin,Anne E Wojcicki,Family
+1457975,93385,32816,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457975,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,South Dakota Democratic Party,Donation/Grant
+977001,198305,93385,,,,4,https://littlesis.org/relationships/977001,,,,daughter,"father ",Stanley George Wojcicki,Anne E Wojcicki,Family
+1464182,43467,93385,,,true,4,https://littlesis.org/relationships/1464182,,,,sister,sister,Susan Wojcicki,Anne E Wojcicki,Family
+1457971,93385,31513,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457971,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Tennessee Democratic Party,Donation/Grant
+1457986,93385,31719,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457986,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,Texas Democratic Party,Donation/Grant
+732841,93385,85245,,,,1,https://littlesis.org/relationships/732841,true,,,Chancellor Advisory Board,Chancellor Advisory Board,Anne E Wojcicki,University of California San Francisco,Position
+1719291,93385,389263,,,,1,https://littlesis.org/relationships/1719291,,,,Affiliate,Affiliate,Anne E Wojcicki,Village Global VC,Position
+1457977,93385,32391,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457977,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,WV State Democratic Executive Committee,Donation/Grant
+1457988,93385,43852,2016-11-07,2016-11-07,,5,https://littlesis.org/relationships/1457988,,,365,1 contribution · 365 USD,1 contribution · 365 USD,Anne E Wojcicki,WY Democratic State Central Committee,Donation/Grant
+504165,93385,14952,,1996-00-00,,2,https://littlesis.org/relationships/504165,,,,BS,BS,Anne E Wojcicki,Yale University,Education

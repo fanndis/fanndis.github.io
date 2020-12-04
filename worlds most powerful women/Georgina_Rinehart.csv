@@ -1,0 +1,15 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1685486,377776,76809,,,false,9,https://littlesis.org/relationships/1685486,,,,Professional,Legal Counsel,Allan Myers,Georgina Rinehart,Professional
+1676501,375299,76809,2016-07-00,,true,9,https://littlesis.org/relationships/1676501,,,,Professional,board representative,Andrew Robb,Georgina Rinehart,Professional
+1638243,76809,365375,,,true,1,https://littlesis.org/relationships/1638243,true,,,Chair,Chair,Georgina Rinehart,Australians for Northern Development & Economic Vision (ANDEV),Position
+1609596,358878,76809,2017-00-00,,,6,https://littlesis.org/relationships/1609596,,,40000,"Service/Transaction · 40,000 USD","a client · 40,000 USD",Barnaby Joyce,Georgina Rinehart,Service/Transaction
+1509816,76809,337242,,,,4,https://littlesis.org/relationships/1509816,,,,"daughter ",mother,Georgina Rinehart,Bianca Rinehart,Family
+1639067,365622,76809,,,,4,https://littlesis.org/relationships/1639067,,,,mother,daughter,Ginia Rinehart,Georgina Rinehart,Family
+1595208,76809,356707,,,true,1,https://littlesis.org/relationships/1595208,true,true,,Executive Chairman,Executive Chairman,Georgina Rinehart,Hancock Prospecting,Position
+1639057,76809,365618,1988-00-00,2013-10-00,false,1,https://littlesis.org/relationships/1639057,,,,Trustee,Trustee,Georgina Rinehart,Hope Margaret Hancock Trust,Position
+436899,76809,98956,,,,4,https://littlesis.org/relationships/436899,,,,daughter,mother,Georgina Rinehart,Hope Welker,Family
+1595209,76809,339211,,,,5,https://littlesis.org/relationships/1595209,,,4500000,"Donor · 4,500,000 USD","Donor · 4,500,000 USD",Georgina Rinehart,Institute of Public Affairs,Donation/Grant
+1639065,365621,76809,,,,4,https://littlesis.org/relationships/1639065,,,,mother,son,John Hancock (Australia),Georgina Rinehart,Family
+436898,76809,95775,,,,4,https://littlesis.org/relationships/436898,,,,father,daughter,Georgina Rinehart,Langley Hancock,Family
+1595210,76809,356705,,,true,5,https://littlesis.org/relationships/1595210,,,,Donor,Donor,Georgina Rinehart,Mannkal Economic Education Foundation,Donation/Grant
+1612882,76809,359324,,,true,1,https://littlesis.org/relationships/1612882,true,,,Chairman,Chairman,Georgina Rinehart,Roy Hill Holdings,Position

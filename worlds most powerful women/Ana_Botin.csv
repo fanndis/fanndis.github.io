@@ -1,0 +1,9 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1529095,189613,85094,,2015-00-00,false,1,https://littlesis.org/relationships/1529095,,,,"Chairman, Executive Director","Chairman, Executive Director",Ana Botin,"Banco Santander, S.A.",Position
+1508493,189613,14954,,,,2,https://littlesis.org/relationships/1508493,,,,"Bachelor's Degree, Economics ","Bachelor's Degree, Economics ",Ana Botin,Bryn Mawr College,Education
+1529098,189613,81483,,,,4,https://littlesis.org/relationships/1529098,,,,father,daughter,Ana Botin,Emilio Botin,Family
+1529099,81483,189613,,,,4,https://littlesis.org/relationships/1529099,,,,daughter,father,Emilio Botin,Ana Botin,Family
+1529100,189613,33342,,,,2,https://littlesis.org/relationships/1529100,,,,Graduate,Graduate,Ana Botin,Harvard Business School,Education
+1529097,179498,189613,,,,4,https://littlesis.org/relationships/1529097,,,,sister,sister,Paloma Botin O'Shea,Ana Botin,Family
+923139,189613,84,2013-07-00,,false,1,https://littlesis.org/relationships/923139,true,false,,Board Member,Board Member,Ana Botin,The Coca-Cola Company,Position
+1529096,189613,84,,2015-00-00,false,1,https://littlesis.org/relationships/1529096,,,,Non-Executive Director (Board of Directors),Non-Executive Director (Board of Directors),Ana Botin,The Coca-Cola Company,Position

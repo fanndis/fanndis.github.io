@@ -1,0 +1,9 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+177190,43510,13503,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/177190,,,12300,"2 contributions · 12,300 USD","2 contributions · 12,300 USD",Bonnie Hammer,Barack Obama,Donation/Grant
+148664,43510,41358,,,true,2,https://littlesis.org/relationships/148664,,,,"BA, Communications","BA, Communications",Bonnie Hammer,Boston University,Education
+148665,43510,41358,,,true,2,https://littlesis.org/relationships/148665,,,,"MA, Media and New Technology","MA, Media and New Technology",Bonnie Hammer,Boston University,Education
+725283,43510,140248,2013-02-00,,true,1,https://littlesis.org/relationships/725283,true,,,Chairman,Chairman,Bonnie Hammer,Cable Entertainment Group,Position
+1484088,43510,30196,2012-08-15,2014-10-30,,5,https://littlesis.org/relationships/1484088,,,8500,"3 contributions · 8,500 USD","3 contributions · 8,500 USD",Bonnie Hammer,Comcast Corp & NBC Universal PAC,Donation/Grant
+659538,43510,90260,2011-00-00,2011-00-00,,5,https://littlesis.org/relationships/659538,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Bonnie Hammer,Linda McMahon,Donation/Grant
+1675905,43510,375228,2019-10-00,,true,1,https://littlesis.org/relationships/1675905,true,,,Chairman,Chairman,Bonnie Hammer,NBCUniversal Content Studios,Position
+148663,43510,78575,,,true,1,https://littlesis.org/relationships/148663,,true,,"President, Cable Entertainment","President, Cable Entertainment",Bonnie Hammer,"NBCUniversal, LLC",Position

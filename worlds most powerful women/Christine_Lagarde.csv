@@ -1,0 +1,3 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+848375,145034,16213,,,false,1,https://littlesis.org/relationships/848375,,true,,Chairman of the Global Executive Committee,Chairman of the Global Executive Committee,Christine Lagarde,Baker & McKenzie LLP,Position
+848374,145034,34929,2011-07-00,,true,1,https://littlesis.org/relationships/848374,,true,,"Managing Director   ","Managing Director   ",Christine Lagarde,International Monetary Fund,Position

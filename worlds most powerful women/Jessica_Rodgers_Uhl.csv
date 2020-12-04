@@ -1,0 +1,5 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1624561,312288,13503,2008-04-30,2008-09-30,false,5,https://littlesis.org/relationships/1624561,,,760,2 contributions · 760 USD,2 contributions · 760 USD,Jessica Rodgers Uhl,Barack Obama,Donation/Grant
+1624559,312288,13377,2004-03-13,2004-03-13,false,5,https://littlesis.org/relationships/1624559,,,250,1 contribution · 250 USD,1 contribution · 250 USD,Jessica Rodgers Uhl,John Forbes Kerry,Donation/Grant
+1624560,312288,30073,2008-01-20,2008-01-20,false,5,https://littlesis.org/relationships/1624560,,,500,1 contribution · 500 USD,1 contribution · 500 USD,Jessica Rodgers Uhl,Michael Peter Skelly,Donation/Grant
+1426191,312288,84758,2016-00-00,,,1,https://littlesis.org/relationships/1426191,,,,"CFO, Director","CFO, Director",Jessica Rodgers Uhl,Royal Dutch Shell,Position

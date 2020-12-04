@@ -1,0 +1,7 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1560405,106257,347907,1989-03-00,,,1,https://littlesis.org/relationships/1560405,true,,,Chairman,Chairman,Güler Sabanci,Brisa Bridgestone Sabanci,Position
+1560403,106257,129454,2004-05-00,,true,1,https://littlesis.org/relationships/1560403,true,,,Chairman,Chairman,Güler Sabanci,Hacı Ömer Sabancı Holding A.Ş.,Position
+446525,106257,100791,,,true,1,https://littlesis.org/relationships/446525,true,,,Board Member,Board Member,Güler Sabanci,International Crisis Group,Position
+480766,106257,88814,,,true,1,https://littlesis.org/relationships/480766,true,,,external advisory board member,external advisory board member,Güler Sabanci,MIT Energy Initiative,Position
+1560406,106257,68347,,,false,1,https://littlesis.org/relationships/1560406,true,,,Chairman:Governors,Chairman:Governors,Güler Sabanci,Sabanci University,Position
+1560538,106257,45124,2013-00-00,,,1,https://littlesis.org/relationships/1560538,,,,Position,Position,Güler Sabanci,Siemens AG,Position

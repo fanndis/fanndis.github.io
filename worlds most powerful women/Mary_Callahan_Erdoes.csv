@@ -1,0 +1,29 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1696904,380932,45830,,,true,12,https://littlesis.org/relationships/1696904,,,,speaker at,Affiliation,2018 Conference on Inclusive Capitalism,Mary Callahan Erdoes,Generic
+652619,45830,28856,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/652619,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Mary Callahan Erdoes,Democratic Senatorial Campaign Committee,Donation/Grant
+368517,45830,84143,,1996-00-00,false,1,https://littlesis.org/relationships/368517,,,,Position,Position,Mary Callahan Erdoes,Deutsche Bank Trust Corporation,Position
+368516,45830,15196,,,false,2,https://littlesis.org/relationships/368516,,,,"BA, Mathematics","BA, Mathematics",Mary Callahan Erdoes,Georgetown University,Education
+353013,45830,33342,,,,2,https://littlesis.org/relationships/353013,,,,MBA,MBA,Mary Callahan Erdoes,Harvard Business School,Education
+298547,45830,38505,,,true,1,https://littlesis.org/relationships/298547,true,true,,CEO,CEO,Mary Callahan Erdoes,"J.P. Morgan Asset Management, Inc.",Position
+296923,45830,13443,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/296923,,,2300,"2 contributions · 2,300 USD","2 contributions · 2,300 USD",Mary Callahan Erdoes,John S. McCain III,Donation/Grant
+523247,45830,111713,,,true,1,https://littlesis.org/relationships/523247,,true,,CEO,CEO,Mary Callahan Erdoes,JPMorgan Asset Management Holdings Inc.,Position
+1264821,45830,29018,2015-06-15,2017-03-31,false,5,https://littlesis.org/relationships/1264821,,,15000,"3 contributions · 15,000 USD","3 contributions · 15,000 USD",Mary Callahan Erdoes,Jpmorgan Chase & Co. Federal Political Action Committee,Donation/Grant
+522627,45830,111610,,,true,1,https://littlesis.org/relationships/522627,true,,,Committee member,Committee member,Mary Callahan Erdoes,JPMorgan Chase & Co. Operating Committee,Position
+296922,45830,29154,2006-00-00,2009-00-00,,5,https://littlesis.org/relationships/296922,,,16224,"78 contributions · 16,224 USD","78 contributions · 16,224 USD",Mary Callahan Erdoes,Jpmorgan Chase & Co. PAC,Donation/Grant
+1577363,45830,29154,2006-03-15,2009-05-31,false,5,https://littlesis.org/relationships/1577363,,,16249,"78 contributions · 16,249 USD","78 contributions · 16,249 USD",Mary Callahan Erdoes,Jpmorgan Chase & Co. PAC,Donation/Grant
+192735,45830,12,,,true,1,https://littlesis.org/relationships/192735,false,true,,"Chief Executive Officer, J.P. Morgan Private Bank","Chief Executive Officer, J.P. Morgan Private Bank",Mary Callahan Erdoes,JPMorgan Chase & Co.,Position
+341831,45830,12,,,true,10,https://littlesis.org/relationships/341831,,,,Shareholder,Shareholder,Mary Callahan Erdoes,JPMorgan Chase & Co.,Ownership
+1554764,45830,80211,,2015-00-00,false,1,https://littlesis.org/relationships/1554764,,,,Chief Executive Officer - Asset Management,Chief Executive Officer - Asset Management,Mary Callahan Erdoes,"JPMorgan Chase Bank, N.A.",Position
+854614,45830,169199,2005-00-00,,true,1,https://littlesis.org/relationships/854614,,true,,CEO,CEO,Mary Callahan Erdoes,JPMorgan Private Bank,Position
+652612,45830,13302,2009-00-00,2010-02-12,,5,https://littlesis.org/relationships/652612,,,3000,"3 contributions · 3,000 USD","3 contributions · 3,000 USD",Mary Callahan Erdoes,Kirsten Gillibrand,Donation/Grant
+652618,45830,90260,2012-00-00,2012-00-00,,5,https://littlesis.org/relationships/652618,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Mary Callahan Erdoes,Linda McMahon,Donation/Grant
+1264820,45830,34457,2011-03-10,2011-03-10,,5,https://littlesis.org/relationships/1264820,,,2400,"1 contribution · 2,400 USD","1 contribution · 2,400 USD",Mary Callahan Erdoes,Mark R Warner,Donation/Grant
+1264819,45830,38250,2016-05-17,2016-05-17,,5,https://littlesis.org/relationships/1264819,,,10800,"4 contributions · 10,800 USD","4 contributions · 10,800 USD",Mary Callahan Erdoes,Michael Bennet,Donation/Grant
+652616,45830,28799,2012-00-00,2012-00-00,,5,https://littlesis.org/relationships/652616,,,5000,"1 contribution · 5,000 USD","1 contribution · 5,000 USD",Mary Callahan Erdoes,National Republican Senatorial Committee,Donation/Grant
+992440,45830,49038,,,true,1,https://littlesis.org/relationships/992440,true,,,Board Member,Board Member,Mary Callahan Erdoes,New York Federal Reserve Investor Advisory Committee,Position
+1264817,45830,13799,2015-06-09,2015-06-09,,5,https://littlesis.org/relationships/1264817,,,2700,"1 contribution · 2,700 USD","1 contribution · 2,700 USD",Mary Callahan Erdoes,Pat Toomey,Donation/Grant
+1264818,45830,13490,2015-06-09,2015-06-09,,5,https://littlesis.org/relationships/1264818,,,2700,"1 contribution · 2,700 USD","1 contribution · 2,700 USD",Mary Callahan Erdoes,Patty Murray,Donation/Grant
+652614,45830,13731,2010-00-00,2016-09-14,,5,https://littlesis.org/relationships/652614,,,3700,"2 contributions · 3,700 USD","2 contributions · 3,700 USD",Mary Callahan Erdoes,Rob Portman,Donation/Grant
+652613,45830,43073,2010-00-00,2010-00-00,,5,https://littlesis.org/relationships/652613,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Mary Callahan Erdoes,Scott Murphy,Donation/Grant
+652617,45830,46118,2012-00-00,2012-00-00,,5,https://littlesis.org/relationships/652617,,,2500,"1 contribution · 2,500 USD","1 contribution · 2,500 USD",Mary Callahan Erdoes,Scott P Brown,Donation/Grant
+652615,45830,29340,2010-00-00,2010-00-00,,5,https://littlesis.org/relationships/652615,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Mary Callahan Erdoes,Steve Stivers,Donation/Grant

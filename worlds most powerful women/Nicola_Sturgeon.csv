@@ -1,0 +1,5 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1593228,356482,276420,2017-00-00,,,12,https://littlesis.org/relationships/1593228,,,,Invited Guest,Invited Guest,ACE Aware Scotland 2018 Conference,Nicola Sturgeon,Generic
+1348736,143697,276420,2015-04-00,2015-04-00,false,6,https://littlesis.org/relationships/1348736,,,,had a meeting with,met with,Ineos,Nicola Sturgeon,Service/Transaction
+1593207,276420,356406,,,,1,https://littlesis.org/relationships/1593207,,,,First Minister,First Minister,Nicola Sturgeon,Scotland,Position
+1593229,276420,356478,2017-00-00,,,12,https://littlesis.org/relationships/1593229,,,,Invited,Invited by,Nicola Sturgeon,TIGERS Ltd (Training Initiative Generating Effective Results Scotland),Generic

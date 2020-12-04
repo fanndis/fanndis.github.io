@@ -1,0 +1,50 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+268783,2353,97,2010-06-00,,true,1,https://littlesis.org/relationships/268783,true,false,,Board Member,Board Member,Phebe N Novakovic,Abbott Laboratories,Position
+1441598,2353,13221,2014-09-30,2014-09-30,,5,https://littlesis.org/relationships/1441598,,,1500,"1 contribution · 1,500 USD","1 contribution · 1,500 USD",Phebe N Novakovic,Ander Crenshaw,Donation/Grant
+296901,2353,13503,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/296901,,,2000,"2 contributions · 2,000 USD","2 contributions · 2,000 USD",Phebe N Novakovic,Barack Obama,Donation/Grant
+296888,2353,13497,2005-00-00,2005-00-00,,5,https://littlesis.org/relationships/296888,,,500,1 contribution · 500 USD,1 contribution · 500 USD,Phebe N Novakovic,Bill Nelson,Donation/Grant
+296892,2353,13410,2007-00-00,2007-00-00,,5,https://littlesis.org/relationships/296892,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Phebe N Novakovic,Carl Levin,Donation/Grant
+736879,2353,17682,1983-00-00,1986-00-00,false,1,https://littlesis.org/relationships/736879,,,,Operations Officer,Operations Officer,Phebe N Novakovic,Central Intelligence Agency,Position
+526067,2353,13354,2009-00-00,2009-00-00,,5,https://littlesis.org/relationships/526067,,,2000,"1 contribution · 2,000 USD","1 contribution · 2,000 USD",Phebe N Novakovic,Daniel Ken Inouye,Donation/Grant
+296889,2353,13610,2006-00-00,2006-00-00,,5,https://littlesis.org/relationships/296889,,,750,1 contribution · 750 USD,1 contribution · 750 USD,Phebe N Novakovic,Debbie Stabenow,Donation/Grant
+296893,2353,28670,2007-00-00,2007-00-00,,5,https://littlesis.org/relationships/296893,,,1500,"1 contribution · 1,500 USD","1 contribution · 1,500 USD",Phebe N Novakovic,Democratic Congressional Campaign Committee,Donation/Grant
+526068,2353,28856,2009-00-00,2009-00-00,,5,https://littlesis.org/relationships/526068,,,500,1 contribution · 500 USD,1 contribution · 500 USD,Phebe N Novakovic,Democratic Senatorial Campaign Committee,Donation/Grant
+596273,2353,13284,2012-00-00,2012-00-00,,5,https://littlesis.org/relationships/596273,,,2500,"1 contribution · 2,500 USD","1 contribution · 2,500 USD",Phebe N Novakovic,Dianne Feinstein,Donation/Grant
+1441591,2353,13261,2013-06-14,2014-01-16,,5,https://littlesis.org/relationships/1441591,,,3000,"3 contributions · 3,000 USD","3 contributions · 3,000 USD",Phebe N Novakovic,Dick Durbin,Donation/Grant
+296898,2353,30321,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/296898,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Phebe N Novakovic,Dina Titus,Donation/Grant
+1930,2353,88,,,true,1,https://littlesis.org/relationships/1930,false,true,,Senior Vice President,Senior Vice President,Phebe N Novakovic,General Dynamics Corporation,Position
+564806,2353,88,,,true,1,https://littlesis.org/relationships/564806,true,false,,Board Member,Board Member,Phebe N Novakovic,General Dynamics Corporation,Position
+736877,2353,88,2013-01-01,,true,1,https://littlesis.org/relationships/736877,true,true,,CEO,CEO,Phebe N Novakovic,General Dynamics Corporation,Position
+736878,2353,88,2012-05-01,2012-12-01,false,1,https://littlesis.org/relationships/736878,,true,,President and Chief Operating Officer,President and Chief Operating Officer,Phebe N Novakovic,General Dynamics Corporation,Position
+296887,2353,72473,2008-00-00,2016-11-28,,5,https://littlesis.org/relationships/296887,,,11780,"29 contributions · 11,780 USD","29 contributions · 11,780 USD",Phebe N Novakovic,General Dynamics Voluntary Political Contribution Plan (Gdvpcp),Donation/Grant
+296896,2353,13191,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/296896,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Phebe N Novakovic,Hillary Clinton,Donation/Grant
+526073,2353,13459,2010-00-00,2012-07-13,,5,https://littlesis.org/relationships/526073,,,6500,"3 contributions · 6,500 USD","3 contributions · 6,500 USD",Phebe N Novakovic,Howard P McKeon,Donation/Grant
+526069,2353,13594,2009-00-00,2010-09-10,,5,https://littlesis.org/relationships/526069,,,3000,"2 contributions · 3,000 USD","2 contributions · 3,000 USD",Phebe N Novakovic,Isaac Newton Skelton IV,Donation/Grant
+596275,2353,13399,2011-00-00,2014-06-07,,5,https://littlesis.org/relationships/596275,,,4800,"4 contributions · 4,800 USD","4 contributions · 4,800 USD",Phebe N Novakovic,James Langevin,Donation/Grant
+1441594,2353,13353,2013-07-11,2013-07-11,,5,https://littlesis.org/relationships/1441594,,,2000,"1 contribution · 2,000 USD","1 contribution · 2,000 USD",Phebe N Novakovic,Jim Inhofe,Donation/Grant
+1441593,2353,13215,2013-08-06,2013-08-06,,5,https://littlesis.org/relationships/1441593,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Phebe N Novakovic,Joe Courtney,Donation/Grant
+1314995,2353,38938,,,true,1,https://littlesis.org/relationships/1314995,,,,"vice chair, corporate fund board","vice chair, corporate fund board",Phebe N Novakovic,John F Kennedy Center for the Performing Arts,Position
+296894,2353,13491,2008-00-00,2010-00-00,,5,https://littlesis.org/relationships/296894,,,4800,"4 contributions · 4,800 USD","4 contributions · 4,800 USD",Phebe N Novakovic,John Patrick Murtha Jr,Donation/Grant
+1441597,2353,13356,2016-03-29,2016-03-29,,5,https://littlesis.org/relationships/1441597,,,2700,"1 contribution · 2,700 USD","1 contribution · 2,700 USD",Phebe N Novakovic,Johnny Isakson,Donation/Grant
+296902,2353,13390,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/296902,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Phebe N Novakovic,Joseph Knollenberg,Donation/Grant
+296900,2353,48243,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/296900,,,250,1 contribution · 250 USD,1 contribution · 250 USD,Phebe N Novakovic,Judith Feder,Donation/Grant
+296897,2353,13595,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/296897,,,500,1 contribution · 500 USD,1 contribution · 500 USD,Phebe N Novakovic,Louise McIntosh Slaughter,Donation/Grant
+296895,2353,34457,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/296895,,,500,1 contribution · 500 USD,1 contribution · 500 USD,Phebe N Novakovic,Mark R Warner,Donation/Grant
+296890,2353,13699,2006-00-00,2006-00-00,,5,https://littlesis.org/relationships/296890,,,750,1 contribution · 750 USD,1 contribution · 750 USD,Phebe N Novakovic,Mike DeWine,Donation/Grant
+296891,2353,34136,2007-00-00,2012-00-00,,5,https://littlesis.org/relationships/296891,,,8500,"5 contributions · 8,500 USD","5 contributions · 8,500 USD",Phebe N Novakovic,Mitt Romney,Donation/Grant
+1441531,2353,15018,,,true,1,https://littlesis.org/relationships/1441531,true,,,Trustee,Trustee,Phebe N Novakovic,Northwestern University,Position
+736880,2353,15586,1992-00-00,1997-00-00,false,1,https://littlesis.org/relationships/736880,,,,Deputy Associate Director for National Security,Deputy Associate Director for National Security,Phebe N Novakovic,Office of Management and Budget,Position
+596272,2353,13602,2011-00-00,2011-00-00,,5,https://littlesis.org/relationships/596272,,,1500,"1 contribution · 1,500 USD","1 contribution · 1,500 USD",Phebe N Novakovic,Olympia Jean Snowe,Donation/Grant
+296899,2353,13376,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/296899,,,500,1 contribution · 500 USD,1 contribution · 500 USD,Phebe N Novakovic,Patrick Joseph Kennedy,Donation/Grant
+296886,2353,13407,2003-00-00,2003-00-00,,5,https://littlesis.org/relationships/296886,,,500,1 contribution · 500 USD,1 contribution · 500 USD,Phebe N Novakovic,Patrick Leahy,Donation/Grant
+841085,2353,33524,,,true,1,https://littlesis.org/relationships/841085,true,,,"Member, Board of Directors","Member, Board of Directors",Phebe N Novakovic,Project HOPE,Position
+1441592,2353,268983,2014-01-16,2014-01-16,,5,https://littlesis.org/relationships/1441592,,,2000,"2 contributions · 2,000 USD","2 contributions · 2,000 USD",Phebe N Novakovic,Rhode Island Illinois Victory Fund,Donation/Grant
+1441596,2353,91560,2016-06-13,2016-06-13,,5,https://littlesis.org/relationships/1441596,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Phebe N Novakovic,Richard Blumenthal,Donation/Grant
+1441595,2353,13731,2015-04-22,2015-04-22,,5,https://littlesis.org/relationships/1441595,,,4000,"2 contributions · 4,000 USD","2 contributions · 4,000 USD",Phebe N Novakovic,Rob Portman,Donation/Grant
+1455712,2353,15288,,,,2,https://littlesis.org/relationships/1455712,,,,School,Student,Phebe N Novakovic,Smith College,Education
+1441590,2353,13204,2013-06-03,2014-02-28,,5,https://littlesis.org/relationships/1441590,,,3000,"3 contributions · 3,000 USD","3 contributions · 3,000 USD",Phebe N Novakovic,Susan Collins,Donation/Grant
+296903,2353,59282,2008-00-00,2008-00-00,,5,https://littlesis.org/relationships/296903,,,1500,"1 contribution · 1,500 USD","1 contribution · 1,500 USD",Phebe N Novakovic,Ted Stevens,Donation/Grant
+862452,2353,37033,,,true,3,https://littlesis.org/relationships/862452,,,,Member,Member,Phebe N Novakovic,The Business Council,Membership
+736876,2353,14959,,,,2,https://littlesis.org/relationships/736876,,,,MBA,MBA,Phebe N Novakovic,University of Pennsylvania - The Wharton School,Education
+736882,2353,14609,1997-00-00,2001-00-00,false,1,https://littlesis.org/relationships/736882,,,,The Special Assistant to the  Secretary and Deputy Secretary of Defense,The Special Assistant to the  Secretary and Deputy Secretary of Defense,Phebe N Novakovic,US Department of Defense,Position
+596274,2353,12926,2012-00-00,2012-00-00,,5,https://littlesis.org/relationships/596274,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Phebe N Novakovic,W Todd Akin,Donation/Grant

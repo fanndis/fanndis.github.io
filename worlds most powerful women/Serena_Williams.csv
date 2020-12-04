@@ -1,0 +1,3 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1683379,170820,74359,,,,4,https://littlesis.org/relationships/1683379,,,,wife,husband,Alexis Ohanian,Serena Williams,Family
+1017626,214351,74359,,,true,8,https://littlesis.org/relationships/1017626,,,,ex-girlfriend,ex-boyfriend,Lonnie Rashid Lynn Jr,Serena Williams,Social

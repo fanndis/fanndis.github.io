@@ -1,0 +1,21 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+556253,7850,13503,2011-00-00,2011-09-26,false,5,https://littlesis.org/relationships/556253,,,5000,"2 contributions · 5,000 USD","2 contributions · 5,000 USD",Melinda French Gates,Barack Obama,Donation/Grant
+1005340,7850,114117,,,true,10,https://littlesis.org/relationships/1005340,,,,Trustee,Trustee,Melinda French Gates,Bill & Melinda Gates Foundation Trust,Ownership
+185529,7850,33551,,,true,1,https://littlesis.org/relationships/185529,true,,,Co-chair and Trustee,Co-chair and Trustee,Melinda French Gates,Bill & Melinda Gates Foundation,Position
+185528,7850,1526,,,true,4,https://littlesis.org/relationships/185528,,,,husband,wife,Melinda French Gates,Bill Gates,Family
+365638,7850,13540,2006-00-00,2006-06-22,false,5,https://littlesis.org/relationships/365638,,,11300,"4 contributions · 11,300 USD","4 contributions · 11,300 USD",Melinda French Gates,Dave Reichert,Donation/Grant
+418357,7850,28670,2010-00-00,2010-00-00,,5,https://littlesis.org/relationships/418357,,,2000,"1 contribution · 2,000 USD","1 contribution · 2,000 USD",Melinda French Gates,Democratic Congressional Campaign Committee,Donation/Grant
+556254,7850,28862,2011-00-00,2012-02-22,false,5,https://littlesis.org/relationships/556254,,,60800,"2 contributions · 60,800 USD","2 contributions · 60,800 USD",Melinda French Gates,Democratic National Committee,Donation/Grant
+788996,7850,40337,,1987-00-00,,2,https://littlesis.org/relationships/788996,,,,MBA,MBA,Melinda French Gates,Duke University Fuqua School of Business,Education
+507053,7850,15105,,1986-00-00,,2,https://littlesis.org/relationships/507053,,,,Bachelor's Degree,Bachelor's Degree,Melinda French Gates,Duke University,Education
+10519,7850,542,,,false,1,https://littlesis.org/relationships/10519,true,false,,Director,Director,Melinda French Gates,Graham Holdings Company,Position
+556252,7850,13310,2012-00-00,2012-03-19,false,5,https://littlesis.org/relationships/556252,,,5000,"3 contributions · 5,000 USD","3 contributions · 5,000 USD",Melinda French Gates,Lindsey Graham,Donation/Grant
+365637,7850,29543,1998-00-00,2012-00-00,,5,https://littlesis.org/relationships/365637,,,65000,"13 contributions · 65,000 USD","13 contributions · 65,000 USD",Melinda French Gates,Microsoft Corporation Political Action Committee,Donation/Grant
+707598,7850,44,1987-00-00,1996-00-00,false,1,https://littlesis.org/relationships/707598,,true,,"General Manager, Information Products","General Manager, Information Products",Melinda French Gates,Microsoft Corporation,Position
+1694279,7850,235229,2011-09-26,2011-09-26,false,5,https://littlesis.org/relationships/1694279,,,35800,"1 contribution · 35,800 USD","1 contribution · 35,800 USD",Melinda French Gates,Obama Victory Fund 2012,Donation/Grant
+418358,7850,13490,2010-00-00,2016-05-16,false,5,https://littlesis.org/relationships/418358,,,4700,"2 contributions · 4,700 USD","2 contributions · 4,700 USD",Melinda French Gates,Patty Murray,Donation/Grant
+1694278,7850,379968,,,true,1,https://littlesis.org/relationships/1694278,,,,Co founder,Co founder,Melinda French Gates,Pivotal Ventures,Position
+556255,7850,43854,2012-00-00,2012-03-23,false,5,https://littlesis.org/relationships/556255,,,5000,"2 contributions · 5,000 USD","2 contributions · 5,000 USD",Melinda French Gates,Suzan DelBene,Donation/Grant
+365639,7850,29945,2006-00-00,2006-00-00,,5,https://littlesis.org/relationships/365639,,,800,1 contribution · 800 USD,1 contribution · 800 USD,Melinda French Gates,Washington State Republican Party,Donation/Grant
+185534,1745,7850,,,true,4,https://littlesis.org/relationships/185534,,,,daughter-in-law,father-in-law,William H Gates Sr,Melinda French Gates,Family
+1457947,7850,325413,,,,5,https://littlesis.org/relationships/1457947,,,75000,"Donation/Grant · 75,000 USD","Donation/Grant · 75,000 USD",Melinda French Gates,Yes on 1240: Washington Coalition for Public Charter Schools,Donation/Grant

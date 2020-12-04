@@ -1,0 +1,15 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+1455819,119744,13596,2013-07-18,2015-07-13,,5,https://littlesis.org/relationships/1455819,,,2500,"2 contributions · 2,500 USD","2 contributions · 2,500 USD",Kathy J Warden,Adam Smith,Donation/Grant
+1455825,119744,13221,2014-07-28,2014-07-28,,5,https://littlesis.org/relationships/1455825,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Kathy J Warden,Ander Crenshaw,Donation/Grant
+1455817,119744,13261,2013-11-15,2013-11-15,,5,https://littlesis.org/relationships/1455817,,,2000,"1 contribution · 2,000 USD","1 contribution · 2,000 USD",Kathy J Warden,Dick Durbin,Donation/Grant
+1455823,119744,28986,2015-02-27,2015-12-31,,5,https://littlesis.org/relationships/1455823,,,1150,"23 contributions · 1,150 USD","23 contributions · 1,150 USD",Kathy J Warden,Employees of Northrop Grumman Corporation PAC,Donation/Grant
+1452627,119744,88,,2015-00-00,false,1,https://littlesis.org/relationships/1452627,,,,Vice President,Vice President,Kathy J Warden,General Dynamics Corporation,Position
+829534,119744,33516,,,,2,https://littlesis.org/relationships/829534,,,,MBA,MBA,Kathy J Warden,George Washington University School of Business,Education
+1455820,119744,13459,2013-06-29,2013-06-29,,5,https://littlesis.org/relationships/1455820,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Kathy J Warden,Howard P McKeon,Donation/Grant
+829535,119744,37208,,,,2,https://littlesis.org/relationships/829535,,,,Bachelor's Degree,Bachelor's Degree,Kathy J Warden,James Madison University,Education
+1455822,119744,34457,2014-10-29,2014-10-29,,5,https://littlesis.org/relationships/1455822,,,1000,"1 contribution · 1,000 USD","1 contribution · 1,000 USD",Kathy J Warden,Mark R Warner,Donation/Grant
+564743,119744,77,,,,1,https://littlesis.org/relationships/564743,,,,Corporate Vice President and President,Corporate Vice President and President,Kathy J Warden,Northrop Grumman Corporation,Position
+829533,119744,162180,,,true,1,https://littlesis.org/relationships/829533,,true,,President,President,Kathy J Warden,Northrop Grumman Information Systems,Position
+1455821,119744,13137,2015-09-30,2015-09-30,,5,https://littlesis.org/relationships/1455821,,,4500,"3 contributions · 4,500 USD","3 contributions · 4,500 USD",Kathy J Warden,Richard Burr,Donation/Grant
+1455824,119744,13296,2016-04-26,2016-04-26,,5,https://littlesis.org/relationships/1455824,,,1500,"1 contribution · 1,500 USD","1 contribution · 1,500 USD",Kathy J Warden,Rodney P Frelinghuysen,Donation/Grant
+1455818,119744,13631,2013-11-04,2015-07-15,,5,https://littlesis.org/relationships/1455818,,,4000,"3 contributions · 4,000 USD","3 contributions · 4,000 USD",Kathy J Warden,William McClellan Thornberry,Donation/Grant

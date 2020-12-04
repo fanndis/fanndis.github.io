@@ -1,0 +1,4 @@
+﻿id,entity1_id,entity2_id,start_date,end_date,is_current,category_id,url,is_board,is_executive,amount,label_for_entity1,label_for_entity2,entity1_name,entity2_name,category
+481958,106645,38527,,,true,1,https://littlesis.org/relationships/481958,,true,,CEO,CEO,Dominique Senequier,Ardian,Position
+915680,106645,85281,,1972-00-00,,2,https://littlesis.org/relationships/915680,,,,Bachelor's Degree,Bachelor's Degree,Dominique Senequier,Ecole Polytechnique,Education
+564133,106645,14,2011-01-00,,false,1,https://littlesis.org/relationships/564133,true,false,,Board Member,Board Member,Dominique Senequier,Hewlett-Packard,Position
