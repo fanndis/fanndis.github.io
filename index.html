@@ -6,11 +6,14 @@
 -->
 <html>
 	<head>
-		<title>Spectral by HTML5 UP</title>
+		<title>Most Powerful Women in the World</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.1.min.css" type="text/css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.1.min.js"></script>
+		<script type="text/javascript"> Bokeh.set_log_level("info"); </script>
 	</head>
 	<body class="landing is-preload">
 
@@ -27,10 +30,11 @@
 									<div id="menu">
 										<ul>
 											<li><a href="index.html">Home</a></li>
-											<li><a href="generic.html">Generic</a></li>
+											<li><a href="generic.html">Data Exploration</a></li>
 											<li><a href="elements.html">Elements</a></li>
-											<li><a href="#">Sign Up</a></li>
-											<li><a href="#">Log In</a></li>
+											<li><a href="#projectmotivation">Project Motivation</a></li>
+											<li><a href="#">The two networks</a></li>
+											<li><a href="#similarity">Similarity</a></li>
 										</ul>
 									</div>
 								</li>
@@ -51,7 +55,7 @@
 					</section>
 
 				<!-- One -->
-					<section id="one" class="wrapper style3 special">
+					<section id="#one" class="wrapper style3 special">
 						<div class="inner">
 							<header class="major">
 								<h2>Forbes most powerful women</h2>
@@ -65,67 +69,137 @@
 						</div>
 					</section>
 
-				<!-- Two -->
-					<section id="two" class="wrapper alt style2">
+
+				<!-- Project motivation -->
+					<section id="#projectmotivation" class="wrapper alt style2">
 						<section class="spotlight">
 							<div class="image"><img src="images/powerful1.jpg" alt="" /></div><div class="content">
 								<h2>Project motivation<br /> </h2>
-								<p>Each year Forbes creates a list of the smartest and toughest women of that year. Can this list help create a recipe for how to become powerful?
-									The goal of the project is to delve deep into the most powereful women, figure our their most immediate connections using data found online and come up with a recipe to become more powerful.
+								<p>The goal of the project is to delve deep into the most powerful women, figure our their most immediate connections using data found online and come up with a recipe to become more powerful. Do the most powerful women in the world have something in common?
 							 </p>
 							</div>
 						</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
-								<h2>The data<br /> </h2>
-								<p> The world is filled with data and for this project the data could be endless. To limit the scope of the project however the data that will be used is from three sources.
-								First the list of 100 most powerful women of 2019 as well as list of the top 10 most powerful women from 2004-2018 is gathered from the Forbes website. This results in a list of 137 women,
-							since women ofter appear more than once on the list. The website <a href="https://littlesis.org">Little Sis</a> is then used to gather all the relationship these women have with companies,
-							businesses, schools and organizations. </p>
-							</div>
-						</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
-								<h2>Sentiment Analysis<br />
+
+						<!-- Data -->
+							<section id="one" class="wrapper style3 special">
+								<div class="inner">
+									<header class="major">
+										<h2>The data</h2>
+										<p> The world is filled with data and for this project the data could be endless. To limit the scope of the project however the data that will be used is from three sources.
+										First the list of 100 most powerful women of 2019 as well as lists of the top 10 most powerful women from 2004-2018 is gathered from the Forbes website. Then the Little sis website as well as wikipedia articles are used to gather information about the relationships the women have with organizations. To gain even more insights into the data exploration please <a href="https://fanndis.github.io/generic.html">press here.</a> </p>
+										<br />
+									</header>
+									</ul>
+								</div>
+							</section>
+
+					 <!-- The two networks -->
+					 <section id="three" class="wrapper style5 special">
+						 <div class="inner">
+							 <header class="major">
+								 <h2 style='color:#87947f'> The two networks</h2>
+								 <p style='color:#87947f'> The two networks, the network containing only the little sis data and the network containing only the wikipedia data are plotted using the force atlas algorithm.</a> </p>
+								 <br />
+								 <center>
+									 <img src="images/forceatlas.png" alt="" style="width:80%">
+								 <center>
+					 </section>
+
+					 <!-- The two networks -->
+					 <section id="four" class="wrapper style5 special">
+						 <div class="inner">
+							 <header class="major">
+								 <h2 style='color:#87947f'>Most connected nodes</h2>
+								 <p style='color:#87947f'>blabla....</a> </p>
+								 <br />
+								 <center>
+									 <img src="images/most_connected.png" alt="" style="width:80%">
+								 <center>
+					 </section>
+
+					  <!-- Similarity -->
+					 <section id="#similarity" class="wrapper alt style6">
+						 <section class="spotlight">
+							 <div class="image"><img src="images/similarity2.png" alt="" /></div><div class="content">
+								 <h2>Similarity between the most connected women<br /> </h2>
+								 <p>The goal of the project is to delve deep into the most powerful women, figure our their most immediate connections using data found online and come up with a recipe to become more powerful. Do the most powerful women in the world have something in common?
+								</p>
+							 </div>
+						 </section>
+
+					 <!-- Connection between the women -->
+					<section id="five" class="wrapper style5 special">
+						<div class="inner">
+							<header class="major">
+								<h2 style='color:#87947f'>The connection between the women</h2>
+								<p style='color:#87947f'>blabla....</a> </p>
+								<br />
+					</section>
+
+
+
+						<section class="wrapper alt style2">
+								<section class="spotlight">
+							<div class="image"><img src="images/similarity.png" alt="" /></div><div class="content">
+								<h2>bla<br />
 								<p>To determine if a woman has a positive or negative impact on society sentiment analysis is used. Sentiment analysis is one of the best
 								tools to use </p>
 							</div>
 						</section>
 					</section>
 
+					<section class="spotlight">
+						<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+							<h2>The data<br /> </h2>
+							<p> The world is filled with data and for this project the data could be endless. To limit the scope of the project however the data that will be used is from three sources.
+							First the list of 100 most powerful women of 2019 as well as lists of the top 10 most powerful women from 2004-2018 is gathered from the Forbes website. Then the Little sis website as well as wikipedia articles are used to gather information about the relationships the women have with organizations. To gain even more insights into the data exploration please <a href="https://fanndis.github.io/generic.html">press here.</a> </p>
+						</div>
+					</section>
+
 				<!-- Three -->
-					<section id="three" class="wrapper style3 special">
+					<section id="eight" class="wrapper style5 special">
 						<div class="inner">
 							<header class="major">
-								<h2>Accumsan mus tortor nunc aliquet</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
-								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
+								<h2>Word Clouds for the top 6 communities</h2>
+								<p>blablabla....</p>
 							</header>
 							<ul class="features">
-								<li class="icon fa-paper-plane">
-									<h3>Arcu accumsan</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								<li class="">
+									<center>
+ 									 <img src="images/com1.png" alt="" style="width:100%">
+ 								 <center>
+									 <p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
+									</li>
+								<li class="">
+									<center>
+ 									 <img src="images/com2.png" alt="" style="width:100%">
+ 								 <center>
+									 <p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
+									</li>
+								<li class="">
+									<center>
+ 									 <img src="images/com3.png" alt="" style="width:100%">
+ 								 <center>
+									 <p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
 								</li>
-								<li class="icon solid fa-laptop">
-									<h3>Ac Augue Eget</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon solid fa-code">
-									<h3>Mus Scelerisque</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon solid fa-headphones-alt">
-									<h3>Mauris Imperdiet</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-heart">
-									<h3>Aenean Primis</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-flag">
-									<h3>Tortor Ut</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
+								<li class="">
+									<center>
+ 									 <img src="images/com4.png" alt="" style="width:100%">
+ 								 <center>
+									 <p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
+									</li>
+								<li class="">
+									<center>
+ 									 <img src="images/com5.png" alt="" style="width:100%">
+ 								 <center>
+									 <p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
+									</li>
+								<li class="">
+									<center>
+ 									 <img src="images/com6.png" alt="" style="width:100%">
+ 								 <center>
+									 <p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
+									</li>
 							</ul>
 						</div>
 					</section>

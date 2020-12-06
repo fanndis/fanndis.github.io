@@ -2555,7 +2555,7 @@ input, select, textarea {
 	}
 
 		.features li {
-			padding: 4em 4em 2em 6em ;
+			padding: 2em 2em 2em 2em ;
 			display: block;
 			position: relative;
 			text-align: left;
@@ -2563,35 +2563,35 @@ input, select, textarea {
 		}
 
 			.features li:nth-child(1) {
-				background-color: rgba(0, 0, 0, 0.035);
+				background-color: rgba(0, 0, 0, 0);
 			}
 
 			.features li:nth-child(2) {
-				background-color: rgba(0, 0, 0, 0.07);
+				background-color: rgba(0, 0, 0, 0);
 			}
 
 			.features li:nth-child(3) {
-				background-color: rgba(0, 0, 0, 0.105);
+				background-color: rgba(0, 0, 0, 0);
 			}
 
 			.features li:nth-child(4) {
-				background-color: rgba(0, 0, 0, 0.14);
+				background-color: rgba(0, 0, 0, 0);
 			}
 
 			.features li:nth-child(5) {
-				background-color: rgba(0, 0, 0, 0.175);
+				background-color: rgba(0, 0, 0, 0);
 			}
 
 			.features li:nth-child(6) {
-				background-color: rgba(0, 0, 0, 0.21);
+				background-color: rgba(0, 0, 0, 0);
 			}
 
 			.features li:nth-child(7) {
-				background-color: rgba(0, 0, 0, 0.245);
+				background-color: rgba(0, 0, 0, 0.035);
 			}
 
 			.features li:nth-child(8) {
-				background-color: rgba(0, 0, 0, 0.28);
+				background-color: rgba(0, 0, 0, 0.035);
 			}
 
 			.features li:nth-child(9) {
@@ -2792,7 +2792,7 @@ input, select, textarea {
 	}
 
 		.wrapper > .inner {
-			width: 60em;
+			width: 65em;
 			margin: 0 auto;
 		}
 
@@ -2979,6 +2979,10 @@ input, select, textarea {
 			background-color: #2e3842;
 		}
 
+		.wrapper.style6 {
+			background-color: #ffffff;
+		}
+
 		.wrapper.style3 {
 			background-color: #87947f;
 			color: #d3d4e4;
@@ -3139,12 +3143,13 @@ input, select, textarea {
 			}
 
 		.wrapper.style4 {
-			background-color: transparent;
+			background-color: #ffffff;
+			color: #87947f;
 		}
 
 		.wrapper.style5 {
 			background-color: #ffffff;
-			color: #4E4852;
+			color: #87947f;
 		}
 
 			.wrapper.style5 strong, .wrapper.style5 b {
