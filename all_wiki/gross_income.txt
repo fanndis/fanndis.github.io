@@ -1,0 +1,127 @@
+{{short description|Sum of all earnings before taxes}}
+For households and individuals, '''gross income''' is the sum of all [[Wage|wages]], [[Salary|salaries]], [[Profit (accounting)|profits]], interest payments, rents, and other forms of earnings, before any deductions or taxes. It is opposed to [[net income]], defined as the gross income minus taxes and other deductions (e.g., mandatory [[pension]] contributions).
+
+For a firm''', gross income''' (also '''gross profit''', '''sales profit''', or '''credit sales''') is the difference between [[revenue]] and the cost of making a product or providing a service, before deducting [[Overhead (business)|overheads]], [[payroll]], [[taxation]], and [[interest]] payments. This is different from [[Earnings before interest and taxes|operating profit]] (earnings before interest and taxes).<ref>{{OED|gross|id=81765}} {{verify source |date=September 2019 |reason=This ref was deleted Special:Diff/903878731 by a bug in VisualEditor and later restored by a bot from the original cite located at Special:Permalink/865803336 cite #1 - verify the cite is accurate and delete this template. [[User:GreenC_bot/Job_18]]}}</ref> [[gross margin]] is often used interchangeably with gross profit, but the terms are different. When speaking about a monetary amount, it is technically correct to use the term gross profit; when referring to a percentage or ratio, it is correct to use gross margin. In other words, gross margin is a percentage value, while gross profit is a monetary value.
+
+== Relationship with other accounting terms ==
+The various deductions (and their corresponding metrics) leading from [[net sales]] to [[net income]] are as follows:
+:[[Net sales]] = [[gross sales]] – (customer discounts + returns + allowances)
+:'''Gross profit''' = [[net sales]] – [[cost of goods sold]]
+:[[Gross margin]] = [([[net sales]] – [[cost of goods sold]])/[[net sales]]] × 100%.
+:[[Operating profit]] = gross profit – total [[operating expense]]s
+:[[Net income]] (or [[net profit]]) = [[operating profit]] – taxes – interest
+
+(Note: [[Cost of goods sold]] is calculated differently for a [[merchandising]] business than for a [[manufacturing|manufacturer]].)
+
+==United States==
+In United States income tax law, gross income serves as the starting point for determining Federal and state income tax of individuals, corporations, estates and trusts, whether resident or non-resident.<ref>Resident individuals and corporations are allowed [[tax deductions]]. Nonresident individuals and corporations are both allowed deductions from gross income.</ref>
+
+Under the U.S. [[Internal Revenue Code]], "Except as otherwise provided" by law, gross income means "all income from whatever source derived," and is not limited to cash received.<ref>See, e.g., 26 USC 83, regarding taxation of certain transfers of property in connection with the performance of services.</ref> Federal tax regulations interpret this general rule. The amount of income recognized is generally the value received or the value which the taxpayer has a right to receive. Certain types of income are specifically excluded from gross income for tax purposes.
+
+The time at which gross income becomes taxable is determined under Federal tax rules, which differ in some cases from financial accounting rules.
+
+===What is income===
+Individuals, corporations, members of partnerships, estates, trusts, and their beneficiaries ("taxpayers") are subject to [[income tax in the United States]].  The amount on which tax is computed, [[taxable income]], equals gross [https://www.irs.gov/publications/p17/pt02.html income] less allowable [[tax deductions]].
+
+The Internal Revenue Code gives specific examples.<ref>[https://www.law.cornell.edu/uscode/text/26/61- 26 USC 61].</ref> The examples are not all inclusive. The term "income" is not defined in the statute or regulations. An early [[Supreme Court of the United States|Supreme Court]] case stated, "Income may be defined as the gain derived from capital, from labor, or from both combined, provided it is understood to include profit gained through a sale or conversion of capital assets."<ref>''[[Eisner v. Macomber]]'', 40 S.Ct. 189 (1920). This case and later cases adopted an accounting concept of income. For a definition of economic income, see [[Haig-Simons income]]. See Willis|Hoffman 2009 chapters 4, and 5 and Pratt & Kulsrud 2009 chapters 5 and 6, cited below, for a discussion of gross income.</ref> The Court also held that the amount of gross income on disposition of property is the proceeds less the basis (usually, the acquisition cost) of the property.<ref>''[[Doyle v. Mitchell Bros. Co.]]'', 38 S.Ct. 467, 247 U.S. 179 (1918).</ref>
+
+Gross income is not limited to cash received.  "It includes income realized in any form, whether money, property, or services."<ref>[http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div8&view=text&node=26:2.0.1.1.1.0.2.1&idno=26 26 CFR 1.61-1(a)].  The courts have rejected arguments by various [[tax protesters]] have [[tax protester arguments|argued]] that some types of income are not included in this broad definition.  Where property or services are received in exchange for property, use of property, services, or use of money, the fair market value of the property or services received is included in gross income.  See, [http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div8&view=text&node=26:2.0.1.1.1.0.2.7&idno=26 26 CFR 1.61-6], [http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div8&view=text&node=26:11.0.1.1.1.0.2.1&idno=26 26 CFR 1.1001-1], [http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div8&view=text&node=26:2.0.1.1.1.0.2.2&idno=26 26 CFR 1.61-2(d)(1)].  For examples, see, ''e.g.'', Rev. Rul. 79-24, 1979 1 C.B. 60.</ref>
+
+Following are some of the things that are included in income:
+*'''Wages''', fees for services, tips, and similar income.  It is well established that income from personal services must be included in the gross income of the person who performs the services.  Mere assignment of the income does not shift the liability for the tax.<ref>[http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div8&view=text&node=26:2.0.1.1.1.0.2.2&idno=26 26 CFR 1.61-2].  See, ''e.g.'', ''Lucas v. Earl'', 50 S. Ct. 241, in which Mr. Earl's income that he assigned to his wife was taxed to him.  In four [[community property]] states, however, income is considered jointly earned by a husband and wife. See Willis|Hoffman 2009 page 4-18 ''et seq''.</ref>
+*'''[[Interest]]''' received,<ref>[http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div8&view=text&node=26:2.0.1.1.1.0.2.8&idno=26 26 CFR 1.61-7].</ref> as well as imputed interest on below market and gift loans.<ref>See [https://www.law.cornell.edu/uscode/text/26/7873- 26 USC 7872], Willis|Hoffman 2009 page 4-23 ''et seq''. regarding imputed interest.</ref>
+*'''[[Dividends]]''', including capital gain distributions, from corporations.<ref>[http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div8&view=text&node=26:2.0.1.1.1.0.2.10&idno=26 26 CFR 1.61-9].  Not all distributions from corporations to shareholders are taxable as dividends.  Distributions in excess of ''earnings and profits'' as well as distributions in complete termination of a shareholder's interest are treated as proceeds on disposition of the shares.  See [https://www.law.cornell.edu/uscode/text/26/316- 26 USC 316] and [https://www.law.cornell.edu/uscode/text/26/302- 26 USC 302].</ref>
+*'''Gross profit''' from sale of [[inventory]].  The sales price, net of discounts, less [[cost of goods sold]] is included in income.<ref>[http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div8&view=text&node=26:2.0.1.1.1.0.2.7&idno=26 26 CFR 1.61-6].</ref>
+*'''Gains''' on disposition of other property.  Gain is measured as the excess of proceeds over the taxpayer's [[adjusted basis]] in the property.<ref>26 CFR 1.61-6, ''supra''.</ref>  Losses from property may be allowed as [[tax deductions]].<ref>[https://www.law.cornell.edu/uscode/text/26/165- 26 USC 165].</ref>
+*'''Rents''' and '''[[royalties]]''' from use of tangible or intangible property.<ref>[http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div8&view=text&node=26:2.0.1.1.1.0.2.9&idno=26 26 CFR 1.61-8].</ref>  The full amount of rent or royalty is included in income, and expenses incurred to produce this income may be allowed as tax deductions.<ref>For such deductions, see [https://www.law.cornell.edu/uscode/text/26/212- 26 USC 212].</ref>
+*'''[[Alimony]]''' and separate maintenance payments.<ref>[http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div8&view=text&node=26:2.0.1.1.1.0.2.11&idno=26 26 CFR 1.61-10].</ref>
+*'''[[Pensions]]''',<ref>[http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div8&view=text&node=26:2.0.1.1.1.0.2.12&idno=26 26 CFR 1.61-11].</ref> annuities,<ref>[https://www.law.cornell.edu/uscode/text/26/72- 26 USC 72], [https://www.law.cornell.edu/uscode/text/26/402- 26 USC 402], [https://www.law.cornell.edu/uscode/text/26/403- 26 USC 403], and regulations thereunder.</ref> and income from life insurance or endowment contracts.<ref>Certain amounts received from some types of retirement accounts constitute income only when basis in the account has been recovered.  For an overview, see IRS Publication 17, Chapter 10.</ref>
+*Distributive share of '''[[partnership]]''' income<ref>[https://www.law.cornell.edu/uscode/text/26/702- 26 USC 702]</ref> or pro rata share of income of an '''[[S corporation]]'''.<ref>[https://www.law.cornell.edu/uscode/text/26/1366- 26 USC 1366].</ref>
+*State and local '''income tax refunds''', to the extent previously deducted.  Note that these are generally excluded from gross income for state and local income tax purposes.
+*Any other income from whatever source.  Even income from [[crime]]s is taxable and ''must'' be reported, as failure to do so is a crime in itself.<ref>''Rutkin v. United States'', {{ussc|343|130|1952}}; [[James v. United States (1961)|James v. United States, 366 U.S. 213 (1961)]].</ref>
+
+Gifts and inheritances are not considered income to the recipient under U.S. law.<ref>[https://www.law.cornell.edu/uscode/text/26/102- 26 USC 102].</ref>  However, gift or estate tax may be imposed on the donor or the estate of the decedent.
+
+===Year of inclusion===
+A taxpayer must include Income as part of taxable income in the year recognized under the taxpayer's [[Comparison of Cash Method and Accrual Method of accounting|method of accounting]].  Generally, a taxpayer using the cash method of accounting (cash basis taxpayer) recognizes income when received.  A taxpayer using the accrual method (accrual basis taxpayer) recognizes income when earned.  Income is generally considered earned:
+*on sales of property when title to the property passes to the customer, and
+*on performance of services when the services are performed
+
+===Amount of Income===
+For a cash method taxpayer, the measure of income is generally the amount of money or fair market value of property received. For an accrual method taxpayer, it includes the amount the taxpayer has a right to receive.<ref>Willis|Hoffman 2009 page 4-9.</ref>
+
+Certain specific rules apply, including:
+*Constructive receipt,
+*Deferral of income from advance payment for goods or services (with exceptions),
+*Determination what portion of an annuity is income and what portion is return of capital,
+
+The value of goods or services received is included in income in [[barter]] transactions.
+
+===Exclusions from gross income: U.S. Federal income tax law===
+The courts have given very broad meaning to the phrase "all income from whatever source derived," interpreting it to include all income unless a specific exclusion applies.<ref>See, ''e.g.'' the Supreme Court's broad discussion in [[Commissioner v. Glenshaw Glass Co.]], 328 U.S. 426 (1955), which includes a discussion of numerous other cases on point.</ref> Certain types of income are specifically excluded from gross income. These may be referred to as exempt income, exclusions, or [[tax exemption]]s. Among the more common excluded items<ref>For a basic discussion, see Willis|Hoffman 2009 Chapter 5.  For a list of common exclusions, see the Index to IRS Publication 17 under "Exclusions from gross income".</ref> are the following:
+*Tax exempt interest. For Federal income tax, interest on state and municipal bonds is excluded from gross income.<ref>[https://www.law.cornell.edu/uscode/text/26/103- 26 USC 103].</ref>  Some states provide an exemption from state income tax for certain bond interest.
+*Some Social Security benefits. The amount exempt has varied by year. The exemption is phased out for individuals with gross income above certain amounts.<ref>[https://www.law.cornell.edu/uscode/text/26/86- 26 USC 86].</ref>
+*Gifts and inheritances.<ref>[https://www.law.cornell.edu/uscode/text/26/102- 26 USC 102].  To qualify as a gift, there must be donative intent.  See ''Estate of D. R. Daly'', 3 BTA 1042 (1926).</ref>  However, a "gift" from an employer to an employee is considered compensation, and is generally included in gross income.
+*Life insurance proceeds received by reason of the death of the insured person.<ref>[https://www.law.cornell.edu/uscode/text/26/101- 26 USC 101].</ref>
+*Certain compensation for personal physical injury or physical sickness, including:
+**Amounts received under worker’s compensation acts for personal physical injuries or physical sickness,
+**Amounts received as damages (other than punitive damages) in a suit or settlement for personal physical injuries or physical sickness,
+**Amounts received through insurance for personal physical injuries or physical sickness, and
+**Amounts received as a pension, annuity, or similar allowance for personal physical injuries or physical sickness resulting from active service in the armed forces.<ref>[https://www.law.cornell.edu/uscode/text/26/104- 26 USC 104].</ref>
+*Scholarships. Amounts in the nature of compensation, such as for teaching, are included in gross income.<ref>[https://www.law.cornell.edu/uscode/text/26/117- 26 USC 117].</ref>
+*Certain employee benefits. Non-taxable benefits include group [[health insurance]], group [[life insurance]] for policies up to $50,000, and certain fringe benefits, including those under a flexible spending or [[cafeteria plan]].<ref>Numerous provisions apply; see [https://www.law.cornell.edu/uscode/html/uscode26/usc_sup_01_26_10_A_20_1_30_B_40_III.html 26 USC 120-135].  See, ''e.g.'', [https://www.law.cornell.edu/uscode/text/26/125- 26 USC 125] on cafeteria plans.</ref>
+*Certain elective deferrals of salary (contributions to "401(k)" plans). 
+*Meals and lodging provided to employees on employer premises for the convenience of the employer.<ref>[https://www.law.cornell.edu/uscode/text/26/119- 26 USC 119].</ref>
+*Foreign earned income exclusion for U.S. citizens or residents for income earned outside the U.S. when the individual met qualifying tests.<ref>[https://www.law.cornell.edu/uscode/text/26/911- 26 USC 911].</ref>
+*Income from discharge of indebtedness for insolvent taxpayers or in certain other cases.<ref>[26 USC 108].</ref>
+*Contributions to capital received by a corporation.<ref>[https://www.law.cornell.edu/uscode/text/26/118- 26 USC 118].</ref>
+*Gain up to $250,000 ($500,000 on a married joint tax return) on the sale of a personal residence.<ref>[https://www.law.cornell.edu/uscode/text/26/121- 26 USC 121].</ref>
+
+There are numerous other specific exclusions. Restrictions and specific definitions apply.
+
+Some state rules provide for different inclusions and exclusions.<ref>For example, New Jersey requires that wages include contributions to 401(k) plans that are excluded for Federal purposes.</ref>
+
+===Source of income===
+
+United States persons (including citizens, residents (whether U.S. citizens or aliens residing in the United States), and U.S. corporations) are generally subject to U.S. federal income tax on their worldwide income. Nonresident aliens are subject to U.S. federal income tax only on income from a U.S. business and certain income from United States sources. [[International taxation#Source of income|Source of income]] is determined based on the type of income. The source of compensation income is the place where the services giving rise to the income were performed. The source of certain income, such as dividends and interest, is based on location of the residence of the payor. The source of income from property is based on the location where the property is used. Significant additional rules apply.<ref>[https://www.law.cornell.edu/uscode/html/uscode26/usc_sup_01_26_10_A_20_1_30_N_40_I.html 26 USC 861 through 865].</ref>
+
+====Taxation of nonresident aliens====
+Nonresident aliens are subject to regular income tax on income from a U.S. business or for services performed in the United States.<ref>[https://www.law.cornell.edu/uscode/text/26/872- 26 USC 872] and [https://www.law.cornell.edu/uscode/text/26/882- 26 USC 882].</ref> Nonresident aliens are subject to a flat rate of U.S. income tax on certain enumerated types of U.S. source income, generally collected as a [[withholding tax]].<ref>[https://www.law.cornell.edu/uscode/text/26/871- 26 USC 871] and [https://www.law.cornell.edu/uscode/text/26/881- 26 USC 881].</ref> The rate of tax is 30% of the gross income, unless reduced by a [[tax treaty]]. Nonresident aliens are subject to U.S. federal income tax on some, but not all capital gains.<ref>See generally subsection (a), paragraph (2) of 26 USC 871.</ref> Wages may be treated as effectively connected income, or may be subject to the flat 30% tax, depending on the facts and circumstances.
+
+==See also==
+*[[Adjusted gross income]]
+*[[Effective gross income]]
+*[[Gross profit]]
+*[[Gross margin]]
+*[[Net income]]
+*[[amount realized|Amount Realized]]
+*[[Cost of goods sold]] (CS)
+*[[Earnings before interest, taxes, depreciation and amortization]] (EBITDA)
+*[[Profit margin]] (the ratio of net income to net sales)
+*[[SG&A|Selling, general and administrative expenses]] (SG&A)
+*[[Income statement]]
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+'''Standard US tax texts''':
+*Willis, Eugene, Hoffman, William H. Jr., ''et al.'', ''South-Western Federal Taxation'', published annually.  2009 edition (cited above as Willis|Hoffman 2009) included {{ISBN|978-0-324-66050-0}} (student) and {{ISBN|978-0-324-66208-5}} (instructor).
+*Pratt, James W., Kulsrud, William N., ''et al.'', ''Federal Taxation", updated periodically.  2010 edition {{ISBN|978-1-4240-6986-6}} (cited above as Pratt & Kulsrud).
+
+'''US IRS materials''':
+*[https://www.irs.gov/publications/p17/index.html Publication 17], ''Your Federal Income Tax''
+
+'''Scholarly Writing''':
+*{{cite journal |last=Black |first=Stephen |year=2011 |title= [https://ssrn.com/abstract=1858776 A Capital Gains Anomaly: Commissioner v. Banks and the Proceeds from Lawsuits] |journal=St. Mary's Law Journal |volume=43 |pages=113 }}
+
+{{accounting nav}}
+
+[[Category:Taxation in the United States]]
+[[Category:Income taxation]]
+[[Category:Tax terms]]
+[[Category:Corporate finance]]
+[[Category:Management accounting]]
+[[Category:Profit]]
+
+[[ar:هامش الربح]]

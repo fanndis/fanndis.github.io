@@ -1,0 +1,413 @@
+{{Redirect-distinguish|Google Print|Google Cloud Print}}
+{{about|Google's book search engine|Google's e-book service|Google Play Books|the children's book|The Google Book}}
+
+{{short description|Service from Google}}
+{{Infobox website
+| name = Google Books
+| logo = Google Books logo 2015.svg
+| collapsible = yes
+| collapsetext = Screenshot
+| screenshot = [[File:Google books screenshot.png|250px]]
+| owner = [[Google]]
+| launch_date = {{Start date and age|2004|10}} (as Google Print)
+| type = [[Digital library]]
+| license =
+| url = {{URL|1=https://books.google.com}}
+| current_status = Active
+}}
+
+'''Google Books''' (previously known as '''Google Book Search''' and '''Google Print''' and by its codename '''Project Ocean''')<ref>{{cite web|last=Love|first=Dylan|title=An Inside Look At One Of Google's Most Controversial Projects|url=http://www.businessinsider.com/google-books-2013-12|website=Business Insider|access-date=21 October 2017}}</ref> is a service from [[Google|Google Inc.]] that searches the full text of books and magazines that Google has scanned, converted to text using [[optical character recognition]] (OCR), and stored in its digital database.<ref name=GoogleLinks>
+The basic Google book link is found at https://books.google.com/. The "advanced" interface allowing more specific searches is found at https://books.google.com/advanced_book_search</ref> Books are provided either by publishers and authors through the Google Books Partner Program, or by Google's library partners through the Library Project.<ref name="book sources"/> Additionally, Google has partnered with a number of magazine publishers to digitize their archives.<ref>{{cite web|author=Mark O'Neill|title=Read Complete Magazines Online in Google Books|url=http://www.makeuseof.com/tag/read-complete-magazine-archives-in-google-books/|website=Make Use Of|date=28 January 2009}}</ref><ref name=magazines>{{cite web|url=https://support.google.com/books/answer/116502?hl=en-IN&ref_topic=4359341|title=About Magazines search|website=Google Books Help|access-date=13 January 2015}}</ref>
+
+The Publisher Program was first known as Google Print when it was introduced at the [[Frankfurt Book Fair]] in October 2004. The Google Books Library Project, which scans works in the collections of library partners and adds them to the digital inventory, was announced in December 2004.
+
+The Google Books initiative has been hailed for its potential to offer unprecedented access to what may become the largest online body of human knowledge<ref>{{cite news|first=Kevin|last=Bergquist|title=Google project promotes public good|url=http://www.umich.edu/~urecord/0506/Feb13_06/02.shtml|work=The University Record|publisher=[[University of Michigan]]|date=2006-02-13|access-date=2007-04-11 }}</ref><ref>{{cite web|title=Is This the Renaissance or the Dark Ages?|last=Pace|first=Andrew K.|url=http://www.ala.org/ala/alonline/techspeaking/2006columnsa/techJan2006.cfm|date=January 2006|website=American Libraries|publisher=[[American Library Association]]|access-date=2007-04-11|quote=Google made instant e-book believers out of skeptics even though 10 years of e-book evangelism among librarians had barely made progress. |archive-url = https://web.archive.org/web/20070403083647/http://www.ala.org/ala/alonline/techspeaking/2006columnsa/techJan2006.cfm |archive-date=2007-04-03 |url-status=dead }}</ref> and promoting the [[democratization of knowledge]].<ref name="spiegel">[http://www.spiegel.de/international/business/0,1518,473529-2,00.html Malte Herwig, "Google's Total Library", ''Spiegel Online International'', Mar. 28, 2007.]</ref>
+However, it has also been criticized for potential copyright violations,<ref name="spiegel" /><ref name=LAWSUITS/> and lack of editing to correct the many errors introduced into the scanned texts by the OCR process.
+
+{{as of|2015|October}}, the number of scanned book titles was over 25 million, but the [[Book scanning|scanning process]] has slowed in American academic libraries.<ref name="nytimes.com">{{cite web|url=https://www.nytimes.com/2015/10/29/arts/international/google-books-a-complex-and-controversial-experiment.html|title=Google Books: A Complex and Controversial Experiment|first=Stephen|last=Heyman|date=28 October 2015|via=NYTimes.com}}</ref><ref>{{cite web|url=https://www.newyorker.com/business/currency/what-ever-happened-to-google-books|title=What Ever Happened to Google Books?|date=11 September 2015}}</ref> Google estimated in 2010 that there were about 130 million distinct titles in the world,<ref name="PCWORLD">[http://www.pcworld.com/article/202803/google_129_million_different_books_have_been_published.html Google: 129 Million Different Books Have Been Published] PC World</ref><ref>{{cite web |url=http://booksearch.blogspot.com/2010/08/books-of-world-stand-up-and-be-counted.html |date=August 5, 2010 |title=Books of the world |access-date=2010-08-15 |quote=After we exclude serials, we can finally count all the books in the world. There are 129,864,880 of them. At least until Sunday }}</ref> and stated that it intended to scan all of them.<ref name="PCWORLD"/> {{as of|2019|October}}, Google celebrated 15 years of Google Books and provided the number of scanned books as more than 40 million titles.<ref>{{cite web|url=https://www.blog.google/products/search/15-years-google-books/|title=15 years of Google Books|date=17 October 2019}}</ref>
+
+==Details==
+
+Results from Google Books show up in both the universal [[Google Search]] and in the dedicated Google Books search website (''books.google.com'').
+
+In response to search queries, Google Books allows users to view full pages from books in which the search terms appear if the book is out of copyright or if the copyright owner has given permission. If Google believes the book is still under copyright, a user sees "snippets" of text around the queried search terms. All instances of the search terms in the book text appear with a yellow highlight.
+
+The four access levels used on Google Books are:<ref name="Google">{{cite book|url=https://books.google.com/googlebooks/library/index.html|title=Google Books Library Project – An enhanced card catalog of the world's books|access-date=26 January 2015}}</ref>
+* '''Full view''': Books in the [[public domain]] are available for "full view" and can be downloaded for free. In-print books acquired through the Partner Program are also available for full view if the publisher has given permission, although this is rare.
+* '''Preview''': For in-print books where permission has been granted, the number of viewable pages is limited to a "preview" set by a variety of access restrictions and security measures, some based on user-tracking. Usually, the publisher can set the percentage of the book available for preview.<ref>{{cite web |first=Greg |last=Duffy|title= Google's Cookie and Hacking Google Print|date=March 2005|url=http://www.kuro5hin.org/story/2005/3/7/95844/59875 |website=[[Kuro5hin]]}}</ref> Users are restricted from copying, downloading or printing book previews. A watermark reading "Copyrighted material" appears at the bottom of pages. All books acquired through the Partner Program are available for preview.
+* '''Snippet view''': A "snippet view" – two to three lines of text surrounding the queried search term – is displayed in cases where Google does not have permission of the copyright owner to display a preview. This could be because Google cannot identify the owner or the owner declined permission. If a search term appears many times in a book, Google displays no more than three snippets, thus preventing the user from viewing too much of the book. Also, Google does not display any snippets for certain reference books, such as dictionaries, where the display of even snippets can harm the market for the work. Google maintains that no permission is required under copyright law to display the snippet view.<ref name=Jonathan/>
+* '''No preview''': Google also displays search results for books that have not been digitized. As these books have not been scanned, their text is not searchable and only the [[metadata]] such as the title, author, publisher, number of pages, ISBN, subject and copyright information, and in some cases, a table of contents and book summary is available. In effect, this is similar to an online library card catalog.<ref name="book sources"/>
+
+In response to criticism from groups such as the [[American Association of Publishers]] and the [[Authors Guild]], Google announced an [[opt-out]] policy in August 2005, through which copyright owners could provide a list of titles that they do not want scanned, and the request would be respected. The company also stated that it would not scan any in-copyright books between August and 1 November 2005, to provide the owners with the opportunity to decide which books to exclude from the Project. Thus, copyright owners have three choices with respect to any work:<ref name=Jonathan>{{cite web|url=http://quod.lib.umich.edu/p/plag/5240451.0001.002/--google-library-project-both-sides-of-the-story?rgn=main;view=fulltext|title=The Google Library Project: Both Sides of the Story|first=Jonathan|last=Band|date=2006|publisher=University of Michigan}}</ref>
+# It can participate in the Partner Program to make a book available for preview or full view, in which case it would share revenue derived from the display of pages from the work in response to user queries.
+# It can let Google scan the book under the Library Project and display snippets in response to user queries.
+# It can opt out of the Library Project, in which case Google will not scan the book. If the book has already been scanned, Google will reset its access level as 'No preview'.
+
+Most scanned works are no longer in print or commercially available.<ref name=pcworldscan>{{cite news|first=Juan Carlos|last=Perez|title=In Google Book Settlement, Business Trumps Ideals|url=http://www.pcworld.com/article/153085/article.html|quote=Of the seven&nbsp;million books Google has scanned, one&nbsp;million are in full preview mode as part of formal publisher agreements. Another one&nbsp;million are public domain works.|work=[[PC World (magazine)|PC World]]|date=October 28, 2008|access-date=2013-08-27 }}</ref>
+
+In addition to procuring books from libraries, Google also obtains books from its publisher partners, through the "Partner Program" – designed to help publishers and authors promote their books. Publishers and authors submit either a digital copy of their book in [[EPUB]] or [[Portable Document Format|PDF]] format, or a print copy to Google, which is made available on Google Books for preview. The publisher can control the percentage of the book available for preview, with the minimum being 20%. They can also choose to make the book fully viewable, and even allow users to download a PDF copy. Books can also be made available for sale on Google Play.<ref name="book sources">{{Cite web|url=https://support.google.com/books/answer/43726?hl=en-IN&ref_topic=4359341|title=Where do these books come from?|website=Google Books Help|access-date=10 November 2014}}</ref> Unlike the Library Project, this does not raise any copyright concerns as it is conducted pursuant to an agreement with the publisher. The publisher can choose to withdraw from the agreement at any time.<ref name=Jonathan/>
+
+For many books, Google Books displays the original page numbers. However, [[Tim Parks]], writing in ''The New York Review of Books'' in 2014, noted that Google had stopped providing page numbers for many recent publications (likely the ones acquired through the Partner Program) "presumably in alliance with the publishers, in order to force those of us who need to prepare footnotes to buy paper editions."<ref>{{cite web|url=http://www.nybooks.com/blogs/nyrblog/2014/sep/13/references-please/|title=References, Please|first=Tim |last=Parks|work=[[The New York Review of Books]]|date=13 September 2014}}</ref>
+
+==Scanning of books==
+The project began in 2002 under the codename Project Ocean. Google co-founder [[Larry Page]] had always had an interest in digitizing books. When he and [[Marissa Mayer]] began experimenting with [[book scanning]] in 2002, it took 40 minutes for them to digitize a 300-page book. But soon after the technology had been developed to the extent that scanning operators could scan up to 6000 pages an hour.<ref name=atlantic/>
+
+Google established designated scanning centers to which books were transported by trucks. The stations could digitize at the rate of 1,000 pages per hour. The books were placed in a custom-built mechanical cradle that adjusted the book spine in place for the scanning. An array of lights and optical instruments was used – including four cameras, two directed at each half of the book, and a range finder [[LIDAR]] that overlaid a three-dimensional laser grid on the book's surface to capture the curvature of the paper. A human operator would turn the pages by hand and operate the cameras through a foot pedal. The system was made efficient since there was no need to flatten the book pages or align them perfectly. The crude images were worked upon by de-warping algorithms that used the LIDAR data to process them. [[Optical character recognition]] (OCR) software was developed to process the raw images to text. Algorithms were also created to extract page numbers, footnotes, illustrations and diagrams.<ref name=atlantic>{{cite web|author=James Somers|title=Torching the Modern-Day Library of Alexandria|url=https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/|publisher=The Atlantic|date=20 April 2017}}</ref>
+
+Many of the books are scanned using a customized [[Elphel]] 323 camera<ref>{{cite web|last=Almaer|first=Dion|title=Weekly Google Code Roundup for August 10th|url=http://googlecode.blogspot.co.uk/2007/08/weekly-google-code-roundup-for-august.html|website=Google Code|access-date=27 August 2013}}</ref><ref>{{cite web|title=Resume of Ted Merrill, Software Engineer |url=http://www.embuildsw.com/TedMerrill_Resume.html |quote="Adapted firmware of Elphel 323 camera to meet needs of Google Book Search" |access-date=27 August 2013 |url-status=dead |archive-url=https://www.webcitation.org/5ZiPASUCN?url=http://www.embuildsw.com/TedMerrill_Resume.html |archive-date=31 July 2008 }}</ref> at a rate of 1,000 pages per hour.<ref name="nyt">{{cite news|first=Kevin|last=Kelly|title=Scan This Book!|url=https://www.nytimes.com/2006/05/14/magazine/14publishing.html|quote=When Google announced in December 2004 that it would digitally scan the books of five major research libraries to make their contents searchable, the promise of a universal library was resurrected. ... From the days of Sumerian clay tablets till now, humans have "published" at least 32&nbsp;million books, 750&nbsp;million articles and essays, 25&nbsp;million songs, 500&nbsp;million images, 500,000 movies, 3&nbsp;million videos, TV shows and short films and 100&nbsp;billion public Web pages.|publisher=[[New York Times Magazine]]|date=May 14, 2006|access-date=2008-03-07 }}</ref> A [[patent]] awarded to Google in 2009 revealed that Google had come up with an innovative system for scanning books that uses two cameras and infrared light to automatically correct for the curvature of pages in a book. By constructing a 3D model of each page and then "de-warping" it, Google is able to present flat-looking pages without having to really make the pages flat, which requires the use of destructive methods such as [[Book scanning#Unbinding|unbinding]] or glass plates to individually flatten each page, which is inefficient for large scale scanning.<ref>{{cite web |url=https://www.cnet.com/news/patent-reveals-googles-book-scanning-advantage/ |title=Patent reveals Google's book-scanning advantage |first=Stephen |last = Shankland |date=4 May 2009|website=CNET }}</ref><ref>{{cite web|url=https://www.npr.org/blogs/library/2009/04/the_granting_of_patent_7508978.html |title=The Secret Of Google's Book Scanning Machine Revealed |first = Maureen |last = Clements|date=30 April 2009|website=NPR.org}}</ref>
+
+==Website functionality==
+Each book on Google Books has an overview page which displays analytical information such as a word map of the most used words and phrases, list of scholarly articles and other books that cite the book, tables of content, etc. This is collated through automated methods, though sometimes data from third-party sources is used.<ref>{{cite web |url = https://support.google.com/books/answer/53549 |title=Where do you get the information for the 'About this book' page? |website=Google Books Help |access-date=14 November 2014}}</ref><ref name=Salon>{{cite web |url = http://www.salon.com/2010/12/08/google_ebookstore/ |title=Is Google leading an e-book revolution? |date=8 December 2010|website=Salon|first=Laura |last = Miller|quote=Google has incorporated reader reviews from the social networking service GoodReads, which helps, as these are often more thoughtful than the average Amazon reader review, but the "related books" suggestion lists still have some kinks to iron out — fans of Rebecca Skloot's "The Immortal Life of Henrietta Lacks" are referred to a trashy novel titled "Bling Addiction," for example}}</ref> A book summary may also be displayed in some cases. Bibliographic information is also shown which can be exported as [[citation]]s in [[Citation#Styles|standard formats]]. Registered users logged in with their [[Google account]]s can post reviews for books. Google Books also displays reviews from [[Goodreads]] alongside these reviews.<ref name=Salon/>
+
+The service allows linking to books using the [[International Standard Book Number|ISBN]], [[Library of Congress Control Number|LCCN]] or [[Online Computer Library Center|OCLC]] record numbers. The overview page of a book with the {{Text|ISBN}} 123456789X can be linked as {{mono|1=https://books.google.com/books?vid=ISBN123456789X}}. For some books, it is also possible to link directly to the front cover, title page, copyright page, table of contents, index, and back cover, by using an appropriate parameter. For example, the front cover of a book with the OCLC number 17546826 can be linked as {{mono|1=https://books.google.com/books?vid=OCLC17546826&printsec=frontcover}}.<ref name=books-help/>
+
+Users signed with a [[Google account]] can create a personalized "library" of books, organized using "bookshelves", which can also be made publicly viewable.<ref>{{Cite web|url= https://support.google.com/books/answer/75375?topic=9259|title=My Library FAQ|website=Google Books Help|access-date=6 November 2014}}</ref>
+
+== Ngram Viewer ==
+{{main|Google Ngram Viewer}}
+
+The Ngram Viewer is a service connected to Google Books that graphs the frequency of word usage across their book collection. The service is important for historians and linguists as it can provide an inside look into human culture through word use throughout time periods.<ref name="Zimmer">{{Cite web|url=https://www.theatlantic.com/technology/archive/2012/10/bigger-better-google-ngrams-brace-yourself-for-the-power-of-grammar/263487/|title=Bigger, Better Google Ngrams: Brace Yourself for the Power of Grammar|last=Zimmer|first=Ben|language=en-US|access-date=2016-09-20}}</ref> This program has fallen under criticism because of errors in the metadata used in the program.<ref name=":1" />
+
+==Content issues and criticism==
+The project has received criticism that its stated aim of preserving orphaned and out-of-print works is at risk due to scanned data having errors and such problems not being solved.<ref>{{cite web |url = https://www.washingtonpost.com/wp-dyn/content/article/2009/02/06/AR2009020601069.html |title = paidContent.org - The Plot Thickens For E-Books: Google And Amazon Putting More Titles On Mobile Phones |first = Dianne See |last = Morrison |date=6 February 2009|work=The Washington Post}}</ref><ref>{{cite web |url = https://musictechpolicy.wordpress.com/2009/09/29/google-books-how-bad-is-the-metadata-let-me-count-the-ways/ |title=Google Books: How bad is the metadata? Let me count the ways… |date=29 September 2009 |website=Music - Technology - Policy |publisher=WordPress}}</ref>
+
+Users can report errors in Google scanned books at ''[https://support.google.com/books/partner/troubleshooter/2983879 support.google.com/books/partner/troubleshooter/2983879]''.
+
+===Scanning errors===
+[[File:Hand of Google.png|thumb|right|A hand scanned in a Google book]]
+The scanning process is subject to errors. For example, some pages may be unreadable, upside down, or in the wrong order. Scholars have even reported crumpled pages, obscuring thumbs and fingers, and smeared or blurry images.<ref>{{cite web|url=http://www.salon.com/2010/12/08/google_ebookstore/ |title=Is Google leading an e-book revolution?|date=8 December 2010|website=Salon|first=Laura |last = Miller }}</ref> On this issue, a declaration from Google at the end of scanned books says:
+{{Cquote|The digitization at the most basic level is based on page images of the physical books. To make this book available as an ePub formatted file we have taken those page images and extracted the text using Optical Character Recognition (or OCR for short) technology. The extraction of text from page images is a difficult engineering task. Smudges on the physical books' pages, fancy fonts, old fonts, torn pages, etc. can all lead to errors in the extracted text. Imperfect OCR is only the first challenge in the ultimate goal of moving from collections of page images to extracted-text based books. Our computer algorithms also have to automatically determine the structure of the book (what are the headers and footers, where images are placed, whether text is verse or prose, and so forth).
+
+Getting this right allows us to render the book in a way that follows the format of the original book. Despite our best efforts you may see spelling mistakes, garbage characters, extraneous images, or missing pages in this book. Based on our estimates, these errors should not prevent you from enjoying the content of the book. The technical challenges of automatically constructing a perfect book are daunting, but we continue to make enhancements to our OCR and book structure extraction technologies.<ref>{{cite book|url=https://books.google.com/books?id=fhUXAAAAYAAJ&pg=GBS.PA527|title=''Great Expections'' by Charles Dickens on Google Books reader|year=1881|last1=Dickens|first1=Charles}}</ref>}}
+As of 2009 Google stated that they would start using [[ReCAPTCHA]] to help fix the errors found in Google Book scannings. This method would only improve scanned words that are hard to recognize because of the scanning process and cannot solve errors such as turned pages or blocked words.<ref>{{Cite web|url=http://www.cbsnews.com/news/google-acquisition-will-help-correct-errors-in-scanned-works/|title=Google Acquisition Will Help Correct Errors in Scanned Works|access-date=2016-09-20}}</ref>
+
+===Errors in metadata===
+Scholars have frequently reported rampant errors in the [[metadata]] information on Google Books – including misattributed authors and erroneous dates of publication. [[Geoffrey Nunberg]], a linguist researching on the changes in word usage over time noticed that a search for books published before 1950 and containing the word "internet" turned up an unlikely 527 results. Woody Allen is mentioned in 325 books ostensibly published before he was born. Google responded to Nunberg by blaming the bulk of errors on the outside contractors.<ref name=":1">{{cite web|url=http://www.salon.com/2010/09/09/google_books/|title=The trouble with Google Books|website=Salon|first=Laura |last = Miller |date=9 September 2010}}</ref>
+
+Other metadata errors reported include publication dates before the author's birth (e.g. 182 works by Charles Dickens prior to his birth in 1812); incorrect subject classifications (an edition of ''Moby Dick'' found under "computers", a biography of Mae West classified under "religion"), conflicting classifications (10 editions of Whitman's ''Leaves of Grass'' all classified as both "fiction" and "nonfiction"), incorrectly spelled titles, authors, and publishers (''Moby Dick: or the White "Wall"''), and metadata for one book incorrectly appended to a completely different book (the metadata for an 1818 mathematical work leads to a 1963 romance novel).<ref>{{cite web|url=https://www.timeshighereducation.com/news/major-errors-prompt-questions-over-google-book-searchs-scholarly-value/408085.article|title=Major errors prompt questions over Google Book Search's scholarly value|date=10 September 2009 }}</ref><ref>[http://people.ischool.berkeley.edu/~nunberg/GBook/GoogBookMetadataSh.pdf "Google Books: The Metadata Mess"], Geoffrey Nunberg</ref>
+
+{{quote|A review of the author, title, publisher, and publication year metadata elements for 400 randomly selected Google Books records was undertaken. The results show 36% of sampled books in the digitization project contained metadata errors. This error rate is higher than one would expect to find in a typical library online catalog.<ref>[https://www.researchgate.net/publication/241746166_An_Assessment_of_Google_Books'_Metadata James and Weiss (2012): "An Assessment of Google Books' Metadata", abstract, p. 1]|Ryan James and Andrew Weiss</ref>}}
+
+{{quote|The overall error rate of 36.75% found in this study suggests that Google Books' metadata has a high rate of error. While "major" and "minor" errors are a subjective distinction based on the somewhat indeterminate concept of "findability", the errors found in the four metadata elements examined in this study should all be considered major.<ref>[https://www.researchgate.net/publication/241746166_An_Assessment_of_Google_Books'_Metadata James and Weiss (2012): "An Assessment of Google Books' Metadata", p. 5|Ryan James and Andrew Weiss]</ref>}}
+
+Metadata errors based on incorrect scanned dates makes research using the Google Books Project database difficult. Google has shown only limited interest in cleaning up these errors.<ref>{{cite news |last=Nunberg |first=Geoffrey |date=August 31, 2009 |title=Google's Book Search: A Disaster for Scholars |url=http://chronicle.com/article/Googles-Book-Search-A/48245/ |work=[[The Chronicle of Higher Education]] |access-date=25 December 2019}}</ref>
+
+===Language issues===
+Some European politicians and intellectuals have criticized Google's effort on [[linguistic imperialism]] grounds. They argue that because the vast majority of books proposed to be scanned are in English, it will result in disproportionate representation of natural languages in the digital world. German, Russian, French, and Spanish, for instance, are popular languages in scholarship. The disproportionate online emphasis on English, however, could shape access to historical scholarship, and, ultimately, the growth and direction of future scholarship. Among these critics is [[Jean-Noël Jeanneney]], the former president of the ''[[Bibliothèque nationale de France]]''.<ref>{{cite book | isbn=978-0-226-39577-7 |author=Jean-Noël Jeanneney |title=Google and the Myth of Universal Knowledge: A View from Europe |format=book abstract; Foreword by Ian Wilson |date=2006-10-23 |url=https://books.google.com/books?id=rc19MRhlUEgC |pages=vii–xiii|author-link=Jean-Noël Jeanneney }}</ref>
+
+===Google Books versus Google Scholar===
+While Google Books has digitized large numbers of journal back issues, its scans do not include the metadata required for identifying specific articles in specific issues. This has led the makers of [[Google Scholar]] to start their own program to digitize and host older journal articles (in agreement with their publishers).<ref>Barbara Quint, [http://newsbreaks.infotoday.com/nbReader.asp?ArticleId=37309 "Changes at Google Scholar: A Conversation With Anurag Acharya"], ''Information Today'', August 27, 2007.</ref>
+
+==Library partners==
+
+The Google Books Library Project is aimed at scanning and making searchable the collections of several major research [[libraries]].<ref>{{Cite book|last1=Stein|first1=Linda L.|last2=Lehu|first2=Peter, J|year=2009|url=https://books.google.com/books?id=PydRWpl4OTYC&pg=PA261|title=Literary Research and the American Realism and Naturalism Period: Strategies and Sources|page=261|isbn=9780810861411}}</ref> Along with [[bibliographic]] information, snippets of text from a book are often viewable. If a book is out of [[copyright]] and in the public domain, the book is fully available to read or [[download]].<ref name="Google"/>
+
+In-copyright books scanned through the Library Project are made available on Google Books for snippet view. Regarding the quality of scans, Google acknowledges that they are "not always of sufficiently high quality" to be offered for sale on Google Play. Also, because of supposed technical constraints, Google does not replace scans with higher quality versions that may be provided by the publishers.<ref name=books-help>{{cite web|url=https://support.google.com/books/partner/faq/3396243?rd=1|title=Books Help|access-date=26 January 2015}}</ref>
+
+The project is the subject of the ''[[Authors Guild v. Google]]'' lawsuit, filed in 2005 and ruled in favor of Google in 2013, and again, on appeal, in 2015.
+
+Copyright owners can claim the rights for a scanned book and make it available for preview or full view (by "transferring" it to their Partner Program account), or request Google to prevent the book text from being searched.<ref name="books-help" />
+
+The number of institutions participating in the Library Project has grown since its inception.<ref name="gblp1" />
+
+===Initial partners===
+[[File:Google Book Search - notice board at michigan university library.jpg|thumb|Notice about the project at Michigan University Library]]
+
+* [[Harvard University]], [[Harvard University Library]]<ref>{{cite web|title=Harvard-Google Project|url=http://hul.harvard.edu/hgproject/index.html|website=Harvard University Library|access-date=28 August 2013}}</ref>
+*: The Harvard University Library and Google conducted a pilot throughout 2005. The project continued, with the aim of increasing online access to the holdings of the Harvard University Library, which includes more than 15.8 million volumes. While physical access to Harvard's library materials is generally restricted to current Harvard students, faculty, and researchers, or to scholars who can come to Cambridge, the Harvard-Google Project has been designed to enable both members of the Harvard community and users everywhere to discover works in the Harvard collection.
+* [[University of Michigan]], [[University of Michigan Library]]<ref>{{cite web |title=Michigan Digitization Project |url = http://www.lib.umich.edu/michigan-digitization-project |publisher=University of Michigan |access-date=28 August 2013 }}</ref>
+:: As of March 2012, 5.5 million volumes were scanned.<ref name=chronicle/>
+* [[New York Public Library]]<ref name="nypl2004" />
+*: In this pilot program, NYPL is working with Google to offer a collection of its public domain books, which will be scanned in their entirety and made available for free to the public online. Users will be able to search and browse the full text of these works. When the scanning process is complete, the books may be accessed from both The New York Public Library's website and from the Google search engine.<ref name="nypl2004">{{cite web |url = http://www.nypl.org/press/2004/google.cfm |title=Press Releases }}</ref>
+* [[University of Oxford]], [[Bodleian Library]]<ref>{{cite web |title=Oxford Google Books Project|url=http://www.bodleian.ox.ac.uk/dbooks |website=Bodleian Libraries, University of Oxford|access-date=28 August 2013}}</ref>
+* [[Stanford University]], [[Stanford University Libraries]] ([[Stanford University Libraries|SULAIR]])<ref>{{cite web|title=Stanford's Role in Google Books|url=http://lib.stanford.edu/google-books/stanfords-role-google-books|website=Stanford University Libraries|access-date=28 August 2013|archive-url=https://web.archive.org/web/20130606145122/http://lib.stanford.edu/google-books/stanfords-role-google-books|archive-date=2013-06-06|url-status=dead}}</ref>
+
+===Additional partners===<!-- IN ALPHABETICAL ORDER -->
+Other institutional partners have joined the project since the partnership was first announced:<ref>{{Cite web|url=https://books.google.com/googlebooks/library/partners.html|title=Library Partners – Google Books|website=books.google.com|access-date=2019-07-09}}</ref>
+
+* [[Austrian National Library]]<ref>{{cite web|url=http://www.onb.ac.at/ev/about/austrianbooksonline.htm|title=Austrian Books Online|access-date=14 January 2015|publisher=Austrian National Library|archive-url=https://web.archive.org/web/20150303000552/http://www.onb.ac.at/ev/about/austrianbooksonline.htm|archive-date=2015-03-03|url-status=dead}}</ref>
+* [[Bavarian State Library]]<ref name=libraryjournal2007>{{cite web|last=Albanese|first=Andrew|title=Google Book Search Grows|url=http://lj.libraryjournal.com/2007/06/industry-news/google-book-search-grows/|website=Library Journal|access-date=28 August 2013|date=2007-06-15}}</ref>
+* [[Bibliothèque municipale de Lyon]]<ref>{{cite web|url=http://www.actualitte.com/actualite/3396-Google-numeriser-bibliotheque-Lyon-fonds.htm|title=Google partenaire numérique officiel de la bibliothèque de Lyon|access-date=2008-12-06|archive-url=https://web.archive.org/web/20100113051131/http://www.actualitte.com/actualite/3396-Google-numeriser-bibliotheque-Lyon-fonds.htm|archive-date=2010-01-13|url-status=dead}}</ref>
+* [[Big Ten Academic Alliance]]<ref name="btaa" />
+* [[Columbia University]], [[Columbia University Library System]]<ref>{{cite web|title=Columbia University Libraries Becomes Newest Partner in Google Book Search Library Project|url=http://library.columbia.edu/news/libraries/2007/20071213_google.html|website=Columbia University Libraries|access-date=28 August 2013|date=2007-12-13}}</ref>
+* [[Complutense University of Madrid]]<ref name=libraryjournal2007 /><ref>{{cite web |url=http://www.ucm.es/info/ucmp/cont/descargas/prensa/tribuna859.pdf |title=Complutense Universidad + Google |language=es |url-status=dead |archive-url=https://web.archive.org/web/20080228211251/http://www.ucm.es/info/ucmp/cont/descargas/prensa/tribuna859.pdf |archive-date=2008-02-28 }}</ref>
+* [[Cornell University]], [[Cornell University Library]]<ref>{{cite web|title=Cornell University Library becomes newest partner in Google Book Search Library Project|url=http://www.library.cornell.edu/communications/Google/|website=Cornell University Library|access-date=28 August 2013}}</ref>
+* [[Ghent University]], [[Ghent University Library]]/[[Boekentoren]]<ref name=libraryjournal2007 /><ref>{{cite web|url=http://search.ugent.be/meercat/x/all?q=source:bkt01|title=Ghent University Library Search Results}}</ref>
+* [[Keio University]], [[Keio Media Centers (Libraries)]]<ref>{{cite web|title=Keio University to partner with Google, Inc. for digitalization and release of its library collection to the world For "Formation of Knowledge of the digital era"|url=http://www.keio.ac.jp/en/press_releases/2007/pdf/070706e.pdf|website=Keio University|access-date=28 August 2013|date=2007-07-06}}</ref>
+* [[National Library of Catalonia]], ''[[Biblioteca de Catalunya]]''<ref>{{cite web|url=http://www.lavanguardia.com/internet-y-tecnologia/noticias/20090727/53753696854/google-digitaliza-35-mil-libros-de-la-biblioteca-de-catalunya-libres-de-derechos-de-autor.html|title=Google digitaliza 35 mil libros de la Biblioteca de Catalunya libres de derechos de autor|website=LA VANGUARDIA}}</ref>
+* [[Princeton University]], [[Princeton University Library]]<ref>{{cite web|last=Cliatt|first=Cass|title=Library joins Google project to make books available online|url=http://www.princeton.edu/main/news/archive/S16/84/71S02/index.xml?section=topstories|website=Princeton University|access-date=30 August 2013|date=2007-02-05}}</ref>
+* [[University of California]], [[California Digital Library]]<ref>{{cite web|title=UC libraries partner with Google to digitize books|url=http://www.universityofcalifornia.edu/news/2006/aug09.html|archive-url=https://web.archive.org/web/20060815010156/http://www.universityofcalifornia.edu/news/2006/aug09.html|url-status=dead|archive-date=2006-08-15|website=University of California|access-date=30 August 2013|date=2006-08-09}}</ref>
+* [[University of Lausanne]], [[Cantonal and University Library of Lausanne]]<ref name=libraryjournal2007 /><ref>[[Cantonal and University Library of Lausanne]]/[http://www.unil.ch/bcu/page45509.html Bibliothèque Cantonale et Universitaire (BCU) + Google (in French)] {{webarchive|url=https://web.archive.org/web/20071214235636/http://www.unil.ch/bcu/page45509.html |date=2007-12-14 }}</ref>
+* [[University of Mysore]], [[Mysore University Library]]<ref>{{cite web|last=Anderson|first=Nate|title=Google to scan 800,000 manuscripts, books from Indian university|url=https://arstechnica.com/uncategorized/2007/05/google-to-scan-800000-manuscripts-books-from-indian-university/|website=Ars Technica|date=2007-05-22}}</ref><ref name=":2">{{cite web|url=http://www.hindustantimes.com/columnsbusiness/google-to-digitise-books-at-mysore-varsity/article1-223964.aspx|title=Google to digitise books at Mysore varsity|date=20 May 2007|publisher=Hindustan Times|archive-url=https://web.archive.org/web/20150125120800/http://www.hindustantimes.com/columnsbusiness/google-to-digitise-books-at-mysore-varsity/article1-223964.aspx|archive-date=2015-01-25|url-status=dead|access-date=2015-01-22}}</ref>
+* [[University of Texas at Austin]], University of Texas Libraries<ref>{{cite web|title=The University of Texas Libraries Partner with Google to Digitize Books|url=http://www.lib.utexas.edu/about/news/google/|website=The University of Texas Libraries|access-date=30 August 2013|date=2007-01-19|archive-url=https://web.archive.org/web/20130913104439/http://www.lib.utexas.edu/about/news/google/|archive-date=2013-09-13|url-status=dead}}</ref>
+::The partnership was for digitizing the library's Latin American collection – about half a million volumes.<ref name=chronicle/>
+* [[University of Virginia]], [[University of Virginia Library]]<ref>{{cite web|last=Wood|first=Carol, S.|title=U.Va. Library Joins the Google Books Library Project|url=http://news.virginia.edu/content/uva-library-joins-google-books-library-project|website=University of Virginia|access-date=30 August 2013|date=2006-11-14}}</ref>
+* [[University of Wisconsin–Madison]], [[University of Wisconsin–Madison#Libraries|University of Wisconsin Libraries]]<ref>{{cite web|title=University of Wisconsin-Madison Google Digitization Initiative|url=http://www.library.wisc.edu/digitization/|website=University of Wisconsin-Madison|access-date=30 August 2013|url-status=dead|archive-url=https://web.archive.org/web/20130901183839/http://www.library.wisc.edu/digitization/|archive-date=1 September 2013}}</ref>
+:: As of March 2012, about 600,000 volumes had been scanned.<ref name=chronicle/>
+
+==History==
+'''2002''': A group of team members at Google officially launch the "secret 'books' project."<ref name="books.google.com">{{Cite book |url=https://books.google.com/googlebooks/about/history.html |title=Google Books History – Google Books |url-status=unfit |archive-url=https://web.archive.org/web/20160206043510/http://books.google.com/googlebooks/about/history.html |archive-date=2016-02-06 |access-date=2016-02-22}}</ref> Google founders [[Sergey Brin]] and [[Larry Page]] came up with the idea that later became Google Books while still graduate students at Stanford in 1996. The history page on the Google Books website describes their initial vision for this project: "in a future world in which vast collections of books are digitized, people would use a '[[web crawler]]' to index the books' content and analyze the connections between them, determining any given book's relevance and usefulness by tracking the number and quality of citations from other books."<ref name="books.google.com" /> This team visited the sites of some of the larger digitization efforts at that time including the Library of Congress's [[American Memory|American Memory Project]], [[Project Gutenberg]], and the Universal Library to find out how they work, as well as the University of Michigan, Page's alma mater, and the base for such digitization projects as [[JSTOR]] and Making of America. In a conversation with the at that time University President [[Mary Sue Coleman]], when Page found out that the University's current estimate for scanning all the library's volumes was 1,000 years, Page reportedly told Coleman that he "believes Google can help make it happen in six."<ref name="books.google.com" />
+
+'''2003''': The team works to develop a high-speed scanning process as well as software for resolving issues in odd type sizes, unusual fonts, and "other unexpected peculiarities."<ref name="books.google.com" />
+
+'''December 2004''': Google signaled an extension to its Google Print initiative known as the Google Print Library Project.<ref name="gblp1">O'Sullivan, Joseph and Adam Smith.
+[http://googleblog.blogspot.com/2004/12/all-booked-up.html "All booked up,"] ''Googleblog.'' December 14, 2004.</ref> Google announced partnerships with several high-profile university and public libraries, including the [[University of Michigan]], [[Harvard University|Harvard]] ([[Harvard University Library]]), [[Stanford]] ([[Green Library]]), [[Oxford University|Oxford]] ([[Bodleian Library]]), and the [[New York Public Library]]. According to press releases and university librarians, Google planned to digitize and make available through its Google Books service approximately 15&nbsp;million volumes within a decade. The announcement soon triggered controversy, as publisher and author associations challenged Google's plans to digitize, not just books in the public domain, but also titles still under copyright.
+
+'''September–October 2005''': Two lawsuits against Google charge that the company has not respected [[copyright]]s and has failed to properly compensate authors and publishers. One is a class action suit on behalf of authors (Authors Guild v. Google, Sept. 20 2005) and the other is a civil lawsuit brought by five large publishers and the [[Association of American Publishers]]. ([[McGraw Hill v. Google]], Oct. 19 2005)<ref name=LAWSUITS>
+Copyright infringement suits against Google and their settlement:
+{{cite web
+ | publisher=Google Press Center | title= Copyright Accord Would Make Millions More Books Available Online
+ | url=https://www.google.com/intl/en/press/pressrel/20081027_booksearchagreement.html | access-date=November 22, 2008
+}}</ref><ref>{{cite web
+ |publisher   = Authors Guild
+ |title       = Authors Guild v. Google Settlement Resources Page
+ |url         = http://www.authorsguild.org/advocacy/articles/settlement-resources.html
+ |access-date  = November 22, 2008
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20081113145948/http://www.authorsguild.org/advocacy/articles/settlement-resources.html
+ |archive-date = November 13, 2008
+}}</ref><ref>{{cite journal| journal=The Economist
+| url=http://www.economist.com/business/displaystory.cfm?story_id=12523914 | access-date=November 22, 2008
+| title=A new chapter| date=October 30, 2008
+}}</ref><ref>{{cite web | title=Authors Guild Sues Google, Citing "Massive Copyright Infringement"
+ | last=Aiken | first=Paul 
+ | url=http://www.authorsguild.org/news/sues_google_citing.htm |access-date=2007-04-11
+ |date=2005-09-20 | publisher=[[Authors Guild]] |archive-url = https://web.archive.org/web/20070209223903/http://www.authorsguild.org/news/sues_google_citing.htm <!-- Bot retrieved archive --> |archive-date = 2007-02-09}}</ref><ref>{{cite web | first=Alorie | last=Gilbert
+ | title=Publishers sue Google over book search project
+ | url=http://news.cnet.com/Publishers+sue+Google+over+book+search+project/2100-1030_3-5902115.html | access-date=2007-04-11
+ | publisher=[[CNET]] News | date=2005-10-19
+}}</ref><ref>{{cite web
+ |title=The McGraw Hill Companies, Inc.; Pearson Education, Inc.; Penguin Group (USA) Inc.; Simon and Schuster, Inc.; John Wiley and Sons, Inc. Plaintiffs, v. Google Inc., Defendant
+ |url=http://publishers.org/main/Copyright/attachments/40_McGraw-Hill_v_Google.pdf
+ |access-date=2007-10-05
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20090713224529/http://www.publishers.org/main/Copyright/attachments/40_McGraw-Hill_v_Google.pdf
+ |archive-date=2009-07-13
+}} PDF file of the complaint. SD. N.Y. Case No. 05-CV-8881-JES.
+</ref>
+
+'''November 2005''': Google changed the name of this service from Google Print to Google Book Search.<ref>{{cite web | author= Jen Grant | title= Judging Book Search by its cover | website= Googleblog | format=blog | date= November 17, 2005 | url=http://googleblog.blogspot.com/2005/11/judging-book-search-by-its-cover.html}}</ref> Its program enabling publishers and authors to include their books in the service was renamed Google Books Partner Program,<ref>{{cite web |title=Library partners |website=Google books |url=https://books.google.com/googlebooks/partners.html |access-date=2013-02-27}}</ref> and the partnership with libraries became [[#Google Books Library Project|Google Books Library Project]].
+
+'''2006''': Google added a "download a pdf" button to all its out-of-copyright, public domain books. It also added a new browsing interface along with new "About this Book" pages.<ref name="books.google.com" />
+
+'''August 2006''': The [[University of California System]] announced that it would join the Books digitization project. This includes a portion of the 34&nbsp;million volumes within the approximately 100 libraries managed by the System.<ref>{{cite web|last=Colvin|first=Jennifer|title=UC libraries partner with Google to digitize books|url=http://www.universityofcalifornia.edu/news/2006/aug09.html|archive-url=https://web.archive.org/web/20060815010156/http://www.universityofcalifornia.edu/news/2006/aug09.html|url-status=dead|archive-date=15 August 2006|website=University of California|access-date=27 August 2013}}</ref>
+
+'''September 2006''': The [[Complutense University of Madrid]] became the first Spanish-language library to join the Google Books Library Project.<ref>{{cite web|title=University Complutense of Madrid and Google to Make Hundreds of Thousands of Books Available Online|url=http://googlepress.blogspot.co.uk/2006/09/university-complutense-of-madrid-and_26.html|website=Google|access-date=28 August 2013}}</ref>
+
+'''October 2006''': The [[University of Wisconsin–Madison]] announced that it would join the Book Search digitization project along with the [[Wisconsin Historical Society]] Library. Combined, the libraries have 7.2&nbsp;million holdings.<ref>{{cite web|title=New release: UW-Madison Joins Google's Worldwide Book Digitization Project|url=http://www.news.wisc.edu/releases/13010.html|website=University of Wisconsin-Madison|access-date=28 August 2013|url-status=dead|archive-url=https://web.archive.org/web/20130909125649/http://www.news.wisc.edu/releases/13010.html|archive-date=9 September 2013}}</ref>
+
+'''November 2006''': The [[University of Virginia]] joined the project. Its libraries contain more than five million volumes and more than 17&nbsp;million manuscripts, rare books and archives.<ref>{{cite web|title=The University of Virginia Library Joins the Google Books Library Project|url=http://googlepress.blogspot.co.uk/2006/11/university-of-virginia-library-joins_14.html|website=Google|access-date=28 August 2013}}</ref>
+
+'''January 2007''': The [[University of Texas at Austin]] announced that it would join the Book Search digitization project. At least one million volumes would be digitized from the university's 13 library locations.
+
+'''March 2007''': The [[Bavarian State Library]] announced a partnership with Google to scan more than a million public domain and out-of-print works in German as well as English, French, Italian, Latin, and Spanish.<ref>{{cite web|last=Mills|first=Elinor|title=Bavarian library joins Google book search project|url=http://news.cnet.com/8301-10784_3-6164875-7.html|website=Cnet|access-date=28 August 2013}}</ref>
+
+'''May 2007''': A book digitizing project partnership was announced jointly by Google and the [[Cantonal and University Library of Lausanne]].<ref>[http://chronicle.com/wiredcampus/article/?id=2077 Reed, Brock. "La Bibliothèque, C'est Google" (''Wired Campus Newsletter'')], ''[[Chronicle of Higher Education]]''. May 17, 2007.</ref>
+
+'''May 2007''': The [[Boekentoren]] Library of [[Ghent University]] announced that it would participate with Google in digitizing and making digitized versions of 19th century books in the French and Dutch languages available online.<ref>{{cite web|url=https://www.ugent.be/en/ghentuniv/facilities/library/google-project.htm|title=Google Books @ UGent|website=Universiteitsbibliotheek Gent |access-date=2019-07-09}}</ref>
+
+'''May 2007:''' Mysore University announces Google will digitize over 800,000 books and manuscripts–including around 100,000 manuscripts written in Sanskrit or Kannada on both paper and palm leaves.<ref name=":2" />
+
+'''June 2007''': The [[Committee on Institutional Cooperation]] (rebranded as the [[Big Ten Academic Alliance]] in 2016) announced that its twelve member libraries would participate in scanning 10&nbsp;million books over the course of the next six years.<ref name="btaa">{{cite web|url=http://www.btaa.org/projects/library/book-search/introduction|title=Google Book Search Project - Menu|publisher=Big Ten Academic Alliance |access-date=30 June 2016}}</ref>
+
+'''July 2007''': [[Keio University]] became Google's first library partner in [[Japan]] with the announcement that they would digitize at least 120,000 public domain books.<ref>{{cite web|last=DeBonis|first=Laura|title=Keio University Joins Google's Library Project|url=http://booksearch.blogspot.com/2007/07/keio-university-joins-googles-library.html|website=Google Books Search|access-date=28 August 2013}}</ref>
+
+'''August 2007''': Google announced that it would digitize up to 500,000 both copyrighted and public domain items from [[Cornell University Library]]. Google would also provide a digital copy of all works scanned to be incorporated into the university's own library system.<ref>{{cite web|title=Cornell University Library becomes newest partner in Google Book Search Library Project|url=https://www.library.cornell.edu/about/news/press-releases/cornell-university-library-becomes-newest-partner-google-book-search|website=Cornell University Library|access-date=27 March 2019}}</ref>
+
+'''September 2007''': Google added a feature that allows users to share snippets of books that are in the public domain. The snippets may appear exactly as they do in the scan of the book, or as plain text.<ref>{{cite web |last=Tungare|first=Manas|title=Share and enjoy|url=http://booksearch.blogspot.com/2007/08/share-and-enjoy.html|website=Google Books Search|access-date=28 August 2013}}</ref>
+
+'''September 2007''': Google debuted a new feature called "My Library" which allows users to create personal customized libraries, selections of books that they can label, review, rate, or full-text search.<ref>{{cite book|url=https://books.google.com/googlebooks/mylibrary/|title=Google Books }}</ref>
+
+'''December 2007''': [[Columbia University]] was added as a partner in digitizing public domain works.<ref>{{cite web|last=Stricker|first=Gabriel|title=Columbia University joins the Google Book Search Library Project|url=http://booksearch.blogspot.com/2007/12/columbia-university-joins-google-book.html|website=Google Books Search|access-date=28 August 2013}}</ref>
+
+'''May 2008''': [[Microsoft]] tapered off and planned to end [[Live Search Books|its scanning project]], which had reached 750,000 books and 80&nbsp;million journal articles.<ref>{{cite news |title=Microsoft Will Shut Down Book Search Program |url=https://www.nytimes.com/2008/05/24/technology/24soft.html |quote=Microsoft said it had digitized 750,000 books and indexed 80&nbsp;million journal articles. |work=New York Times |date=May 24, 2008 |access-date=2008-05-24 | first=Miguel | last=Helft}}</ref>
+
+'''October 2008''': A [[Google Book Search Settlement Agreement|settlement]] was reached between the publishing industry and Google after two years of negotiation. Google agreed to compensate authors and publishers in exchange for the right to make millions of books available to the public.<ref name=LAWSUITS/><ref>{{cite news |title=Some Fear Google's Power in Digital Books |url=https://www.nytimes.com/2009/02/02/technology/internet/02link.html |quote = Today, that project is known as Google Book Search and, aided by a recent class-action settlement, it promises to transform the way information is collected: who controls the most books; who gets access to those books; how access will be sold and attained. |newspaper = New York Times |date=February 1, 2009 |access-date=2009-02-02 | first=Noam | last=Cohen }}</ref>
+
+'''November 2008''': Google reached the 7&nbsp;million book mark for items scanned by Google and by their publishing partners. 1&nbsp;million were in full preview mode and 1&nbsp;million were fully viewable and downloadable public domain works. About five million were [[Out-of-print book|out of print]].<ref name="pcworldscan" /><ref>{{cite news |title = Massive EU online library looks to compete with Google |url = https://www.google.com/hostednews/afp/article/ALeqM5gQBJ3FLg32GX_cAVFLQo1feO6Ckg |quote = Google, one of the pioneers in this domain on the other hand, claims to have seven million books available for its "Google Book Search" project, which saw the light of day at the end of 2004. |agency = [[Agence France-Presse]] |date=November 2008 |access-date=2008-11-24 }}</ref><ref>{{cite news |title=Google Hopes to Open a Trove of Little-Seen Books |url=https://www.nytimes.com/2009/01/05/technology/internet/05google.html |quote=The settlement may give new life to copyrighted out-of-print books in a digital form and allow writers to make money from titles that had been out of commercial circulation for years. Of the seven million books Google has scanned so far, about five million are in this category. |newspaper = New York Times |date=January 4, 2009 |access-date=2009-01-05 | first=Motoko | last=Rich}}</ref>
+
+'''December 2008''': Google announced the inclusion of magazines in Google Books. Titles include ''[[New York Magazine]]'', ''[[Ebony (magazine)|Ebony]]'', and ''[[Popular Mechanics]]''<ref>{{cite news |title=Google updates search index with old magazines |url=http://www.nbcnews.com/id/28156997 |quote=As part of its quest to corral more content published on paper, Google Inc. has made digital copies of more than 1&nbsp;million articles from magazines that hit the newsstands decades ago. |work=NBC News |agency=[[Associated Press]] |date=December 10, 2008 |access-date=June 29, 2009}}</ref><ref>{{cite web |url = http://googleblog.blogspot.com/2008/12/search-and-find-magazines-on-google.html |title=Official Google Blog: Search and find magazines on Google Book Search |website=Official Google Blog }}</ref>
+
+'''February 2009''': Google launched a mobile version of Google Book Search, allowing iPhone and Android phone users to read over 1.5 million public domain works in the US (and over 500,000 outside the US) using a mobile browser. Instead of page images, the plain text of the book is displayed.<ref>{{cite web|url=http://booksearch.blogspot.in/2009/02/15-million-books-in-your-pocket.html|title=1.5 million books in your pocket|website=Inside Google Books|date=5 February 2009}}</ref>
+
+'''May 2009''': At the annual [[BookExpo]] convention in New York, Google signaled its intent to introduce a program that would enable publishers to sell digital versions of their newest books direct to consumers through Google.<ref>{{cite news | title=Preparing to Sell E-Books, Google Takes on Amazon |url=https://www.nytimes.com/2009/06/01/technology/internet/01google.html |work=The New York Times |access-date=2009-05-31 | first=Motoko | last=Rich | date=2009-06-01}}</ref>
+
+'''December 2009''': A French court shut down the scanning of copyrighted books published in France, saying this violated copyright laws. It was the first major legal loss for the scanning project.<ref>{{cite news |title=French court shuts down Google Books project |url=https://www.latimes.com/news/nation-and-world/la-fg-france-google19-2009dec19,0,548537.story |work=[[Los Angeles Times]] |date=December 19, 2009 |access-date=2009-12-19 | first=Gaelle | last=Faure}}</ref>
+
+'''April 2010''': Visual artists were not included in the previous lawsuit and settlement, are the plaintiff groups in another lawsuit, and say they intend to bring more than just Google Books under scrutiny. "The new class action," read the statement, "goes beyond Google's Library Project, and includes Google's other systematic and pervasive infringements of the rights of photographers, illustrators and other visual artists."<ref>{{cite web|last=O'Dell|first=Jolie|title=Google Gets Sued by Photographers Over Google Books|url=http://mashable.com/2010/04/07/google-books-photographers|website=Mashable|access-date=28 August 2013}}</ref>
+
+'''May 2010''': It was reported that Google would launch a digital book store called [[Google Editions]].<ref>{{cite web |title=Google Readies Its E-Book Plan, Bringing in a New Sales Approach |url = https://www.wsj.com/articles/SB10001424052748703866704575224232417931818 |website=The Wall Street Journal |access-date=28 August 2013 |last = Vascellaro |first = Jessica E. |date=4 May 2010 }}</ref>  It would compete with Amazon, Barnes & Noble, Apple and other electronic book retailers with its own e-book store. Unlike others, Google Editions would be completely online and would not require a specific device (such as kindle, Nook, or iPad).
+
+'''June 2010''': Google passed 12 million books scanned.<ref name="PCWORLD" />
+
+'''August 2010''': It was announced that Google intends to scan all known existing 129,864,880 books within a decade, amounting to over 4 billion [[digital page]]s and 2 trillion words in total.<ref name="PCWORLD" />
+
+'''December 2010''': Google eBooks (Google Editions) was launched in the US.<ref>{{cite web |url = http://www.macworld.com/article/156194/2010/12/google_ebookstore_launch.html |title=Google launches eBookstore with more than 3 million titles |publisher = MacWorld }}</ref>
+
+'''December 2010''': Google launched the Ngram Viewer, which collects and graphs data on word usage across its book collection.<ref name="Zimmer" />
+
+'''March 2011''': A federal judge rejected the [[Google Book Search Settlement Agreement|settlement]] reached between the publishing industry and Google.<ref>{{cite news |url = http://www.marketwatch.com/story/judge-rejects-google-settlement-with-authors-2011-03-22-170430 |title=Judge rejects Google settlement with authors |publisher = [[Market Watch]] }}</ref>
+
+'''March 2012''': Google passed 20 million books scanned.<ref name="LP">{{cite web |url = http://lawprofessors.typepad.com/law_librarian_blog/2012/03/google-book-scan-project-slows-down.html |archive-url = https://web.archive.org/web/20120315101155/http://lawprofessors.typepad.com/law_librarian_blog/2012/03/google-book-scan-project-slows-down.html |archive-date=2012-03-15 |title=Google book scan project slows down |access-date=<!-- March 2012 -->|website = Law Librarian Blog }}</ref><ref name="Howard20120309">Howard, Jennifer [https://chronicle.com/article/Google-Begins-to-Scale-Back/131109/ ''Google Begins to Scale Back Its Scanning of Books From University Libraries''], March 9, 2012</ref>
+
+'''March 2012''': Google reached a settlement with publishers.<ref>{{Cite web |url=http://www.publishers.org/press/85/ |title=Archived copy |access-date=2013-11-17 |archive-url=https://web.archive.org/web/20131103165236/http://publishers.org/press/85/ |archive-date=2013-11-03 |url-status=dead }}</ref>
+
+'''January 2013''': The documentary ''[[Google and the World Brain]]'' was shown at the [[Sundance Film Festival]].<ref>{{cite web|url=http://www.worldbrainthefilm.com/|title=Google and the world brain - Polar Star Films}}</ref>
+
+'''November 2013''': Ruling in ''[[Authors Guild v. Google]]'', US District Judge Denny Chin sides with Google, citing fair use.<ref name="Ars Technica">{{cite news |url=https://arstechnica.com/tech-policy/2013/11/google-books-ruled-legal-in-massive-win-for-fair-use |title=Google Books ruled legal in massive win for fair use}}</ref> The authors said they would appeal.<ref>[https://www.nytimes.com/2013/11/15/business/media/judge-sides-with-google-on-book-scanning-suit.html "Siding With Google, Judge Says Book Search Does Not Infringe Copyright"], Claire Cain Miller and Julie Bosman, ''New York Times'', November 14, 2013. Retrieved November 17, 2013.</ref>
+
+'''October 2015''': The appeals court sided with Google, declaring that Google did not violate copyright law.<ref name="reuters_2015_10_16">{{cite news|url=https://www.reuters.com/article/2015/10/16/us-google-books-idUSKCN0SA1S020151016|title=Google book-scanning project legal, says U.S. appeals court|publisher=Reuters}}</ref> According to the New York Times, Google has scanned more than 25 million books.<ref name="nytimes.com"/>
+
+'''April 2016''': The US Supreme Court declined to hear the Authors Guild's appeal, which means the lower court's decision stood, and Google would be allowed to scan library books and display snippets in search results without violating the law.<ref>[http://the-digital-reader.com/2016/04/18/supreme-court-rejects-challenge-to-google-book-scanning-project/ US Supreme Court Rejects Challenge to Google Book-Scanning Project] April 18, 2016</ref>
+
+===Status===
+Google has been quite secretive regarding its plans on the future of the Google Books project. Scanning operations had been slowing down since at least 2012, as confirmed by the librarians at several of Google's partner institutions. At University of Wisconsin, the speed had reduced to less than half of what it was in 2006. However, the librarians have said that the dwindling pace could be a natural result of maturation of the project – initially stacks of books were entirely taken up for scanning whereas now only the titles that had not already been scanned needed to be considered.<ref name=chronicle>{{cite web|author=Jennifer Howard|title=Google Begins to Scale Back Its Scanning of Books From University Libraries|url=https://www.chronicle.com/article/Google-Begins-to-Scale-Back/131109|publisher=The Chronicle of Higher Education|date=9 March 2012}}</ref> The company's own Google Books timeline page did not mention anything after 2007 even in 2017, and the Google Books blog was merged into the Google Search blog in 2012.<ref name=wired/>
+
+Despite winning the decade-long litigation in 2017, ''[[The Atlantic]]'' has said that Google has "all but shut down its scanning operation."<ref name=atlantic/> In April 2017, ''[[Wired (magazine)|Wired]]'' reported that there were only a few Google employees working on the project, and new books were still being scanned, but at a significantly lower rate. It commented that the decade-long legal battle had caused Google to lose its ambition.<ref name=wired>{{cite web|author=Scott Rosenberg|title=How Google Book Search Got Lost|url=https://www.wired.com/2017/04/how-google-book-search-got-lost/|website=Wired|date=11 April 2017}}</ref>
+
+== Legal issues ==
+{{further|Authors Guild v. Google}}
+
+Through the project, library books were being digitized somewhat indiscriminately regardless of copyright status, which led to a number of lawsuits against Google. By the end of 2008, Google had reportedly digitized over seven million books, of which only about one million were works in the public domain. Of the rest, one million were in copyright and in print, and five million were in copyright but out of print. In 2005, a group of authors and publishers brought a major class-action lawsuit against Google for infringement on the copyrighted works. Google argued that it was preserving "orphaned works" – books still under copyright, but whose copyright holders could not be located.<ref>{{cite web|author=Robert Darnton|title=Google and the Future of Books|website=The New York Review of Books|date=February 12, 2009|url=http://www.nybooks.com/articles/archives/2009/feb/12/google-the-future-of-books/}}</ref>
+
+<!-- THE FOLLOWING NEEDS TO MERGED IN WITH THE TEXT BELOW: The suit was ultimately settled out of court in 2009, but the settlement itself has been controversial, as it potentially sets Google up as the world's largest information broker, and virtually frees it from any copyright liability.<ref>{{cite web|url=https://arstechnica.com/tech-policy/2010/01/the-sequel-stinks-critics-trash-new-google-books-settlement/|title=The sequel stinks: critics trash new Google Books settlement|website=Ars Technica|date=30 January 2010|author=John Timmer}}</ref><ref>{{cite web|url=https://www.nytimes.com/2009/04/04/technology/internet/04books.html|title=Google's Plan for Out-of-Print Books Is Challenged|author=Miguel Helft|date=3 April 2009|publisher=The New York Times}}</ref> There are also questions as to how the settlement, arrived at in US courts, would impact authors and publishers in other countries. In 2011, the judge overseeing the settlement put it on hold,<ref>{{cite web|url=https://www.theguardian.com/technology/2009/sep/25/google-books-delayed|title=Google Books deal postponed after avalanche of criticism|author=Bobbie Johnson|date=25 September 2009|publisher=The Guardian}}</ref> and as of April 2014 the settlement decision is being appealed by the original plaintiffs in the class-action. END -->The [[Authors Guild]] and [[Association of American Publishers]] separately sued Google in 2005 for its book project, citing "massive [[copyright infringement]]."<ref>{{cite web|title=Authors sue Google over book plan|url=http://news.bbc.co.uk/2/hi/business/4266586.stm|website=BBC NEWS|access-date=23 April 2018}}</ref> Google countered that its project represented a [[fair use]] and is the digital age equivalent of a [[card catalog]] with every word in the publication indexed.<ref name=LAWSUITS/> The lawsuits were consolidated, and eventually a [[Google Book Search Settlement Agreement|settlement was proposed]]. The settlement received significant criticism on a wide variety of grounds, including antitrust, privacy, and inadequacy of the proposed classes of authors and publishers. The settlement was eventually rejected,<ref>770 F.Supp.2d 666 (SDNY March 22, 2011).</ref> and the publishers settled with Google soon after. The Authors Guild continued its case, and in 2011 their proposed [[class certification|class was certified]]. Google appealed that decision, with a number of [[amicus curiae|amici]] asserting the [[inadequacy of the class]], and the Second Circuit rejected the [[class certification]] in July 2013, remanding the case to the District Court for consideration of Google's [[fair use]] defense.<ref>''[[Authors Guild v. Google]]'', 2d Cir. July 1, 2013.</ref>
+
+In 2015 Authors Guild filed another appeal against Google to be considered by the 2nd U.S. Circuit Court of Appeals in New York. Google won the case unanimously based on the argument that they were not showing people the full texts but instead snippets, and they are not allowing people to illegally read the book.<ref name=":0">{{cite web|last=Peet|first=Lisa|date=2015-10-19|title=U.S. Appeals Court Rules Google Book Scanning Is Fair Use|url=http://lj.libraryjournal.com/2015/10/copyright/u-s-appeals-court-rules-google-book-scanning-is-fair-use/|url-status=usurped|archive-url=https://web.archive.org/web/20180125174514/http://lj.libraryjournal.com/2015/10/copyright/u-s-appeals-court-rules-google-book-scanning-is-fair-use/|archive-date=2018-01-25|access-date=2016-09-20|website=Library Journal}}</ref> In a report, courts stated that they did not infringe on copyright laws, as they were protected under the fair use clause.<ref>{{cite web |url = http://law.justia.com/cases/federal/appellate-courts/ca2/13-4829/13-4829-2015-10-16.html |title = Authors Guild v. Google, Inc., No. 13-4829 (2d Cir. 2015) |access-date=2016-09-21}}</ref>
+
+Authors Guild tried again in 2016 to appeal the decision and this time took their case to be considered by the Supreme Court. The case was rejected, leaving the Second Circuit's decision on the case intact, meaning that Google did not violate copyright laws.<ref>{{cite web |url = https://www.washingtonpost.com/news/the-switch/wp/2016/04/18/google-books-just-won-a-decade-long-copyright-fight/ |title=Google Books just won a decade-long copyright fight |website=Washington Post|access-date=2016-09-20}}</ref> This case also set a precedent for other case similar in regards to fair use laws as it further clarified the law and expands it. Such clarification is important in the new digital age as it affects other scanning projects similar to Google.<ref name=":0" />
+
+Other lawsuits followed the Authors Guild's lead. In 2006 a German lawsuit, previously filed, was withdrawn.<ref>
+{{cite web
+ |last        = Sullivan
+ |first       = Danny
+ |title       = Google Book Search Wins Victory In German Challenge
+ |url         = http://blog.searchenginewatch.com/blog/060628-152950
+ |date        = 2006-06-28
+ |website        = [[Search Engine Watch]]
+ |format      = blog
+ |access-date  = 2006-11-11
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20061017052524/http://blog.searchenginewatch.com/blog/060628-152950
+ |archive-date = 2006-10-17
+}}
+</ref>
+In June 2006, Hervé de la Martinière,<ref name=Sage>
+{{cite news
+ | last = Sage
+ | first = Adam
+ | title = French publishers toast triumph over Google
+ | publisher = [[The Times of London]]
+ | date = December 19, 2009
+ | url = http://business.timesonline.co.uk/tol/business/industry_sectors/technology/article6962221.ece
+ | access-date = 2009-12-18
+}}
+</ref>
+a French publisher known as La Martinière and [[Éditions du Seuil]],<ref name="Smith Google's French Book">
+{{cite news
+ | last = Smith
+ | first = Heather
+ | title = Google's French Book Scanning Project Halted by Court
+ | publisher = Bloomberg
+ | date = December 18, 2009
+ | url = https://www.bloomberg.com/apps/news?pid=20601087&sid=apZ3UG9CPLo8
+ | access-date=2009-12-18
+}}
+</ref>
+announced its intention to sue Google France.<ref>
+{{cite news
+ | last = Oates
+ | first = John
+ | title = French publisher sues Google
+ | work = The Register
+ | date = June 7, 2006
+ | url = https://www.theregister.co.uk/2006/06/07/france_sues_google/
+}}
+</ref>
+In 2009, the Paris Civil Court awarded 300,000 [[EUR]] (approximately 430,000 [[USD]]) in damages and interest and ordered Google to pay 10,000 EUR a day until it removes the publisher's books from its database.<ref name="Smith Google's French Book" /><ref>
+{{cite news
+ | title = Fine for Google over French books
+ | url = http://news.bbc.co.uk/2/hi/technology/8420876.stm
+ | work = BBC News
+ | date = December 18, 2009
+ | access-date = 2009-12-18
+}}
+</ref>
+The court wrote, "Google violated author copyright laws by fully reproducing and making accessible" books that Seuil owns without its permission<ref name="Smith Google's French Book" /> and that Google "committed acts of breach of copyright, which are of harm to the publishers".<ref name=Sage /> Google said it will appeal.<ref name="Smith Google's French Book" /> Syndicat National de l'Edition, which joined the lawsuit, said Google has scanned about 100,000 French works under copyright.<ref name="Smith Google's French Book" />
+
+In December 2009, Chinese author [[Mian Mian]] filed a civil lawsuit for $8,900 against Google for scanning her novel, ''Acid Lovers''. This is the first such lawsuit to be filed against Google in China.<ref>
+{{cite web
+ | url = http://www.redorbit.com/news/technology/1803332/google_faces_chinese_lawsuit_over_digital_book_project/index.html | title = Google Faces Chinese Lawsuit Over Digital Book Project
+}}
+</ref>
+Also, in November that year, the China Written Works Copyright Society (CWWCS) accused Google of scanning 18,000 books by 570 Chinese writers without authorization. Google agreed on Nov 20 to provide a list of Chinese books it had scanned, but the company refused to admit having "infringed" copyright laws.<ref>
+{{cite web
+ | url = http://www.chinadaily.com.cn/china/2009-12/16/content_9184029.htm
+ | title = Writer sues Google for copyright infringement
+ | website = China Daily
+ | access-date = March 20, 2012
+}}
+</ref>
+
+In March 2007, Thomas Rubin, associate general counsel for copyright, trademark, and trade secrets at Microsoft, accused Google of violating copyright law with their book search service. Rubin specifically criticized Google's policy of freely copying any work until notified by the copyright holder to stop.<ref>
+{{cite news
+ | author = Thomas Claburn
+ | title = Microsoft Attorney Accuses Google Of Copyright Violations
+ | website = InformationWeek
+ | date = March 6, 2007
+ | url = http://www.informationweek.com/internet/showArticle.jhtml?articleID=197800578
+}}
+</ref>
+
+Google licensing of public domain works is also an area of concern due to using of [[digital watermarking]] techniques with the books. Some published works that are in the public domain, such as all [[Copyright status of work by the U.S. government|works created by the U.S. Federal government]], are still treated like other works under copyright, and therefore locked after 1922.<ref>Robert B. Townsend, [http://www.historians.org/Perspectives/issues/2007/0709/0709vie1.cfm Google Books: Is It Good for History?], ''Perspectives'' (September 2007).</ref>
+
+== Similar projects ==
+* [[Project Gutenberg]] is a volunteer effort to digitize and archive cultural works, to "encourage the creation and distribution of eBooks". It was founded in 1971 by Michael S. Hart and is the oldest digital library. {{as of|2015|October|3|df=US}}, Project Gutenberg reached 50,000 items in its collection.
+* [[Internet Archive]] is a non-profit which digitizes over 1000 books a day, as well as mirrors books from Google Books and other sources. {{as of|2011|May}}, it hosted over 2.8 million public domain books, greater than the approximate 1 million public domain books at Google Books.<ref>The number of Public Domain books at Google Books can be calculated by looking at the number of Public Domain books at [[HathiTrust]], which is the academic mirror of Google Books. As of May 2010 [[HathiTrust]] had over 1 million Public Domain books.</ref> [[Open Library]], a sister project of Internet Archive, lends 80,000 scanned and purchased commercial ebooks to the visitors of 150 libraries.<ref>{{cite news |title=Internet Archive and Library Partners Develop Joint Collection of 80,000+ eBooks To Extend Traditional In-Library Lending Model |url=https://archive.org/post/349420/in-library-ebook-lending-program-launched |quote=During a library visit, patrons with an OpenLibrary.org account can borrow any of these lendable eBooks using laptops, reading devices or library computers. |date= February 22, 2011<!-- 2011-02-11-->|access-date=2011-05-26 | location=San Francisco}}</ref>
+* [[HathiTrust]] maintains HathiTrust Digital Library since October 13, 2008,<ref>{{cite web|url=http://www.languagehat.com/archives/003251.php|title=languagehat.com : TRUST HATHI, NOT GOOGLE}}</ref> which preserves and provides access to material scanned by Google, some of the Internet Archive books, and some scanned locally by partner institutions. {{as of|2010|May}}, it includes about 6 million volumes, over 1 million of which are public domain (at least in the US).
+*  [https://www.humanitiesebook.org ACLS Humanities E-Book], an online collection of over 5,400 books of high quality in the humanities and related social sciences, accessible through institutional subscription.
+* Microsoft funded the scanning of 300,000 books to create [[Live Search Books]] in late 2006. It ran until May 2008, when the project was abandoned<ref>{{cite news |title=Microsoft starts online library in challenge to Google Books |url=http://www.theage.com.au/news/biztech/microsoft-starts-online-library-in-challenge-to-google-books/2006/12/07/1165081127665.html |quote=Microsoft launched an online library in a move that pits the world's biggest software company against Google's controversial project to digitize the world's books. |work=AFP |date= 2006-12-08|access-date=2008-11-24 | location=Melbourne}}</ref> and the books were made freely available on the Internet Archive.<ref>{{cite web|last=Xio|first=Christina|title=Google Books-An Other Popular Service By Google|url=http://www.google-books.com/218664-Google-Books-An-Other-Popular-Service-By-Google.html|access-date=4 August 2012|quote=Few years back the Microsoft abandoned the project and now all the books are freely available at the Internet archive.}}</ref>
+*  The [[National Digital Library of India]] (NDLI) is a project under Ministry of Human Resource Development, India. The objective is to integrate several national and international digital libraries in one single web-portal. The NDLI provides free of cost access to many books in English and the Indian languages.
+* [[Europeana]] links to roughly 10 million digital objects {{as of|2010|lc=y}}, including video, photos, paintings, audio, maps, manuscripts, printed books, and newspapers from the past 2,000 years of European history from over 1,000 archives in the European Union.<ref>http://version1.europeana.eu/{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite news |first= Chris|last= Snyder|title=Europe's Answer to Google Book Search Crashes on Day 1 |url=http://blog.wired.com/business/2008/11/eu-launches-mas.html |work=[[Wired (magazine)|Wired]] |access-date=2008-11-24 |date=November 20, 2008}}</ref>
+* [[Gallica]] from the French National Library links to about 4,000,000 digitized books, newspapers, manuscripts, maps and drawings, etc. Created in 1997, the digital library continues to expand at a rate of about 5000 new documents per month. Since the end of 2008, most of the new scanned documents are available in image and text formats. Most of these documents are written in French.
+* [[Wikisource]]
+* [[Runivers]]
+
+== See also ==
+{{Portal|Internet|Literature}}
+* [[A9.com]], [[Amazon.com]]'s book search
+* [[Book Rights Registry]]
+* [[Digital library]]
+* [[List of digital library projects]]
+* [[Universal library]]
+* [[National electronic library]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* {{cite journal |first = Anna Lauren |last = Hoffmann |title = Google Books, Libraries, and Self-Respect: Information Justice beyond Distributions |doi = 10.1086/684141 |journal= [[Library Quarterly]] |volume= 86 |pages = 76–92 |year = 2016 |s2cid = 146482065 }}
+* {{cite book |title=Google and the Myth of Universal Knowledge: A View from Europe |last=Jeanneney |first=Jean-Noël |publisher=University of Chicago Press|year=2008 |location = Chicago, IL }}
+
+== External links ==
+{{Commons category}}
+* {{Official website}}
+** [https://books.google.com/intl/en/googlebooks/about.html About Google Books]
+* {{cite web |first= Elisabeth |last= Jones |url= https://elisabethjones.wordpress.com/2013/05/14/new-google-books-library-project-timeline-now-with-more-citations/ |title= New Google Books Library Project Timeline: Now With (more) Citations! |date= May 14, 2013 }}
+* {{cite web |first= Jeffrey |last= Toobin |author-link = Jeffrey Toobin |url= https://www.newyorker.com/magazine/2007/02/05/googles-moon-shot |title= Google's Moon Shot |date= Feb 5, 2007 |publisher= [[The New Yorker]] |url-status= live |archive-date= February 2, 2007 |archive-url = https://web.archive.org/web/20070202023101/http://www.newyorker.com/fact/content/articles/070205fa_fact_toobin }}
+* {{cite journal |url= https://www.nybooks.com/articles/2009/02/12/google-the-future-of-books/ |volume= 56 |issue= 2 |date= Feb 12, 2009 |title= Google & the Future of Books |first= Robert |last= Darnton |journal= [[New York Review of Books]] |url-status= live |archive-date= January 25, 2009 |archive-url= https://web.archive.org/web/20090125005446/http://www.nybooks.com/articles/22281 }}
+* {{cite web |url= https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/ |title= Torching the Modern-Day Library of Alexandria |publisher= The Atlantic |date= Apr 20, 2017 |first= James |last= Somers |quote= Somewhere at Google there is a database containing 25 million books and nobody is allowed to read them }}
+* {{cite web |url= http://www.publicdomainreprints.org/ |website= Public Domain Reprints |title= Public Domain Archive and Reprints Service |quote= An experimental project dedicated to reprinting public domain books<br />Utilizing: [[Alibris]], [[Amazon (company)|Amazon]], [[BookFinder.com|Book Finder]], [[Google]], [[LibraryThing]], and [[WorldCat]] }}
+
+{{-}}
+{{Google Inc. |corporate = no }}
+{{Ebooks}}
+{{Books}}
+
+{{Authority control}}
+
+[[Category:Google Books| ]]
+[[Category:Google Search|Books]]
+[[Category:Google services|Books]]
+[[Category:Full text scholarly online databases]]
+[[Category:Scholarly search services]]
+[[Category:Computer-related introductions in 2004]]

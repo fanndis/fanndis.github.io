@@ -1,0 +1,76 @@
+In [[United States constitutional law|U.S. constitutional law]], when a court finds that a law infringes a fundamental constitutional right, it may apply the '''strict scrutiny''' standard to nevertheless hold the law or policy constitutionally valid if the government can demonstrate in court that the law or regulation is necessary to achieve a "[[Government interest|compelling state interest]]". The government must also demonstrate that the law is "narrowly tailored" to achieve the compelling purpose, and uses the "least restrictive means" to achieve the purpose. Failure to show these conditions may result in a judge striking down a law as unconstitutional.
+
+The standard is the highest and most stringent standard of [[judicial review]] and is part of the levels of judicial scrutiny that courts use to determine whether a constitutional right or principle should give way to the government's interest against observance of the principle. The lesser standards are [[rational basis review]] and exacting or [[intermediate scrutiny]]. These standards are applied to statutes and government action at all levels of government within the United States. 
+
+The notion of "levels of judicial scrutiny", including strict scrutiny, was introduced in [[United States v. Carolene Products Co.#Footnote Four|Footnote 4]] of the [[U.S. Supreme Court]] decision in ''[[United States v. Carolene Products Co.]]'' (1938), one of a series of decisions testing the constitutionality of [[New Deal]] legislation. The first and most notable case in which the Supreme Court applied the strict scrutiny standard and found the government's actions constitutional was ''[[Korematsu v. United States]]'' (1944), in which the Court upheld the forced relocation of [[Japanese American]]s in [[internment]] camps during [[World War II]]. In another case, it has been held that restricting access to unapproved [[prescription drug|prescription]] [[medication|drugs]] is a compelling government interest.<ref>{{citation|volume=20|publisher=J.L. & Health |pages=309|date=2006–2007|title=Restricting Access to Unapproved Drugs: A Compelling Government Interest|author=Currie, Peter M.|url=http://heinonlinebackup.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/jlah20&section=20}}</ref>
+
+The [[Burden of proof (law)|burden of proof]] falls on the state in cases that require strict scrutiny or intermediate scrutiny, but not the rational basis.
+
+== Applicability ==
+U.S. courts apply the strict scrutiny standard in two contexts: 
+
+* when a fundamental constitutional right is infringed,<ref>[http://supreme.justia.com/us/410/113/case.html Roe v. Wade, 410 U.S. 113, 155 (1973) (Blackmun, J.)], accessed July 5, 2011</ref> particularly those found in the [[United States Bill of Rights|Bill of Rights]] and those the court has deemed a [[fundamental right]] protected by the [[Due Process Clause]] or "liberty clause" of the [[Fourteenth Amendment to the United States Constitution|14th Amendment]], or 
+
+* when a government action applies to a "[[suspect classification]]", such as [[Race (classification of human beings)|race]] or [[national origin]]. 
+
+To satisfy the strict scrutiny standard, the law or policy must:
+
+* be justified by a [[government interest|compelling governmental interest]]. While the Courts have never [[bright line rule|brightly defined]] how to determine if an interest is compelling, the concept generally refers to something necessary or crucial, as opposed to something merely preferred. Examples include national security, preserving the lives of a large number of individuals, and not violating explicit constitutional protections.
+* be [[narrow tailoring|narrowly tailored]] to achieve that goal or interest. If the government action encompasses too much ([[overbreadth doctrine|overbroad]]) or fails to address essential aspects of the compelling interest, then the rule is not considered narrowly tailored.
+* be the least restrictive means for achieving that interest: there must not be a less restrictive way to effectively achieve the compelling government interest. The test will be met even if there is another method that is equally the least restrictive. Some legal scholars consider this "least restrictive means" requirement part of being narrowly tailored, but the Court generally evaluates it separately.
+
+Legal scholars, including judges and professors, often say that strict scrutiny is "strict in theory, fatal in fact" since popular perception is that most laws subjected to the standard are struck down. However, an empirical study of strict scrutiny decisions in the federal courts found that laws survive strict scrutiny more than 30% of the time. In one area of law, religious liberty, laws that burden religious liberty survived strict scrutiny review in nearly 60% of cases. However, a discrepancy was found in the type of religious liberty claim, with most claims for exemption from law failing and no allegedly discriminatory laws surviving.<ref>{{Cite web|url=https://papers.ssrn.com/abstract=897360|title=Fatal in Theory and Strict in Fact: An Empirical Analysis of Strict Scrutiny in the Federal Courts|first=Adam|last=Winkler|date=April 18, 2006|via=papers.ssrn.com}}</ref> See also the cases cited below, however; several appear to permit the exemption from laws based upon religious liberty.
+
+[[Harvard Law School|Harvard law]] professor Richard Fallon, Jr. has written that, rather than being neatly applied, strict scrutiny, "interpretation is more varied than is often recognized",<ref>{{Cite journal|last=Fallon, Jr.|first=Richard|date=2007|title=Strict Judicial Scrutiny|url=https://www.uclalawreview.org/wp-content/uploads/2019/09/33_54UCLALRev1267June2007.pdf|journal=UCLA Law Review|volume=54|pages=1267}}</ref> a view that has been acknowledged by at least one U.S. [[Supreme Court of the United States|Supreme Court]] Justice, [[Clarence Thomas]] (e.g. in his dissent (part III) in ''[[Whole Woman's Health v. Hellerstedt|Hellerstedt]]'').<ref>https://www.supremecourt.gov/opinions/15pdf/15-274_new_e18f.pdf</ref>
+
+The compelling state interest test is distinguishable from the [[rational basis]] test, which involves claims that do not involve a suspect class and involve a [[liberty interest]] rather than a fundamental right. 
+
+==Suspect classification==
+{{Main article|Suspect classification}}
+The Supreme Court has established standards for determining whether a statute or policy's classification must satisfy strict scrutiny. The class must have experienced a history of discrimination, must be definable as a group based on "obvious, immutable, or distinguishing characteristics", be a minority or "politically powerless", and its characteristics must have little relationship to the government's policy aims or the ability of the group's members to contribute to society.{{Citation needed|date=June 2019}}
+
+The Court has consistently found that classifications based on race, national origin, and alienage require strict scrutiny review. The Supreme Court held that all race-based classifications must be subjected to strict scrutiny in ''[[Adarand Constructors v. Peña]],'' 515 U.S. 200 (1995), overruling ''[[Metro Broadcasting, Inc. v. FCC]]'' (89-453), 497 U.S. 547 (1990), which had briefly allowed the use of intermediate scrutiny to analyze the Equal Protection implications of race-based classifications in the narrow category of affirmative-action programs established by the federal government in the broadcasting field.
+
+==''De jure'' versus ''de facto'' discrimination==
+As applied in ''[[Korematsu v. United States]]'', which upheld the race-based [[Executive Order 9066|exclusion order]] and internment during [[World War II]] of [[Japanese American]]s who had resided on the West Coast of the United States, strict scrutiny was limited to instances of ''[[de jure]]'' discrimination, where a racial classification is written into the language of a statute.
+
+The Supreme Court's decision in ''[[Village of Arlington Heights v. Metropolitan Housing Development Corp.]]'' provided further definition to the concept of intent and clarified three particular areas in which intent of a particular administrative or legislative decision becomes apparent, the presence of any of which demands the harsher equal protection test. The Court must use strict scrutiny if one of these tests, among others, is met:
+# the impact is so "stark and dramatic" as to be unexplainable on non-racial grounds, as in ''[[Yick Wo v. Hopkins]]'' (1886)
+# the historical background of the decision suggests intent
+# the legislative and administrative records leading up to the decision show intent
+
+=== Notable cases ===
+*''[[Skinner v. Oklahoma|Skinner v. State of Oklahoma]], [[ex rel|ex. rel.]] Williamson'', [[Case citation|316 U.S. 535]] (1942), cf. ''[[Buck v. Bell]]'' {{ussc|274|200|1927}}, banning [[Compulsory sterilization|forced sterilization]]
+*''[[Brown v. Board of Education]]'', 347 U.S. 483 (1954), ending [[Racial segregation in the United States|segregation]] in public schools
+*''[[One, Inc. v. Olesen]]'', 301 U.S. 340 (1958), ending censorship of homosexual publications
+*''[[Sherbert v. Verner]]'', 374 U.S. 398 (1963), invalidating state law denying unemployment benefits to employees fired for refusing to violate their religious belief
+*''[[Griswold v. Connecticut]]'', 381 U.S. 479 (1965), striking down prohibition of [[contraceptives]]
+*''[[Loving v. Virginia]]'', 897 U.S. 113 (1967), striking down [[Anti-miscegenation laws in the United States|prohibition of interracial marriage]]
+*''[[Wisconsin v. Yoder]]'', 406 U.S. 205 (1972), striking down law requiring all minors to attend public school, thereby permitting [[Amish]] to remove their children from public schools after 8th grade
+*''[[Roe v. Wade]]'', 410 U.S. 113 (1973), striking down ban on [[abortion]]
+*''[[Employment Division v. Smith]]'', 494 U.S. 872 (1990), allowing states to deny unemployment benefits to those using illegal drugs for religious purposes
+*''[[Romer v. Evans]]'', 380 U.S. 144 (1996), invalidating Colorado state constitutional amendment prohibiting enactment of local anti-discrimination protections for homosexuals
+*''[[City of Boerne v. Flores]]'', 521 U.S. 507 (1997), holding that some zoning laws may be an undue restriction of religious freedom
+*''[[Gonzales v. O Centro Espírita Beneficente União do Vegetal]]'', 546 U.S. 418 (2006), allowing religious use of illegal drugs
+*''[[United States v. Windsor]]'', 570 U.S. 744 (2013), striking down the limitation of marriage licenses only to heterosexual couples (a law which had disallowed [[same-sex marriage]])
+
+== See also ==
+*[[Constitutional law]]
+*[[Equal protection]]
+*[[Fundamental right]]
+*[[Intermediate scrutiny]]
+*[[Principle of proportionality#European Union law]]
+*[[Rational basis review]]
+*[[Suspect classification]]
+*[[Undue burden standard]]
+
+==References==
+{{Reflist}}
+
+{{US Constitution}}
+
+{{DEFAULTSORT:Strict Scrutiny}}
+[[Category:United States constitutional law]]
+[[Category:Legal history of the United States]]
+[[Category:Civil rights and liberties]]
+{{short description|Standard of judicial review}}

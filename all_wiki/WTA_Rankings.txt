@@ -1,0 +1,631 @@
+The '''WTA Rankings''' are the [[Sports rating system|ratings]] defined by the [[Women's Tennis Association]], introduced in November 1975.<ref name="WTA Rankings">{{cite web |url=http://www.wtatennis.com/rankings |title=WTA Rankings |publisher=Women's Tennis Association}}</ref>
+
+==Ranking method==
+The WTA rankings are based on a rolling 52-week, cumulative system. A player's ranking is determined by her results at a maximum of 16 tournaments for singles and 11 for doubles  and points are awarded based on how far a player advances in a tournament. The basis for calculating a player's ranking are those tournaments that yield the highest ranking points during the rolling 52-week period with the condition that they must include points from the 4 Grand Slams, the 4 Premier Mandatory tournaments and the WTA Finals. In addition, for Top 20 players, their best two results at Premier 5 tournaments will also count.<ref>{{cite web|title=New Trophies For Rankings Anniversary|url=https://www.wtatennis.com/news/new-trophies-rankings-anniversary|publisher=WTA}}</ref> Up until 2016, the WTA also distributed ranking points, for singles players only, who competed at the [[Tennis at the Summer Olympics|Summer Olympics]]. However, this has since been discontinued.<ref>{{cite web|url=https://www.nytimes.com/2016/05/30/sports/tennis/points-and-prize-money-mean-more-to-olympic-tennis-holdouts.html|title=Points and Prize Money Mean More to Olympic Tennis Holdouts|work=New York Times}}</ref>
+
+In order to appear on the WTA rankings, players must earn ranking points in at least three tournaments, or a minimum of 10 singles ranking points or 10 doubles ranking points in one or more tournaments.
+
+The points distribution for tournaments in 2019 is shown below. [[2013 WTA Tour#Points distribution|Points earned in 2013]] were a little different in some cases and retained their value until they expired after 52 weeks.
+{|class="wikitable"
+|- align=center
+| style="background:#efefef;"|Category||  style="width:40px; background:lime;"|'''{{tooltip|W|Won tournament}}'''||  style="width:40px; background:thistle;"|{{tooltip|F|Finalist}}||  style="width:40px; background:#ff0;"|{{tooltip|SF|Semi-finalist}}||  style="width:40px; background:#ffebcd;"|{{tooltip|QF|Quarter-finalist}}||  style="width:40px; background:#afeeee;"|{{tooltip|R16|Reached round of last 16}}||  style="width:40px; background:#afeeee;"|{{tooltip|R32|Reached round of last 32}}||  style="width:40px; background:#afeeee;"|{{tooltip|R64|Reached round of last 64}}||  style="width:40px; background:#afeeee;"|{{tooltip|R128|Reached round of last 128}}||  style="width:40px; background:#f0f8ff;"|{{tooltip|Q|Qualified for main draw}}||  style="width:40px; background:#f0f8ff;"|{{tooltip|Q3|Reached third qualifying round}}||  style="width:40px; background:#f0f8ff;"|{{tooltip|Q2|Reached second qualifying round}}||  style="width:40px; background:#f0f8ff;"|{{tooltip|Q1|Reached first qualifying round}}
+|-  style="text-align:center; background:#F3E6D7;"
+|Grand Slam (S)||2000||1300||780||430||240||130||70||10||40||30||20||2
+|-  style="text-align:center; background:#F3E6D7;"
+|Grand Slam (D)||2000||1300||780||430||240||130||10||–||40||–||–||–
+|-  style="text-align:center; background:#ffc;"
+|WTA Finals (S)||1500*||1080*||750*||colspan="9" style="text-align:center|(+125 per Round Robin Match; +125 per Round Robin Win)
+|-  style="text-align:center; background:#ffc;"
+|WTA Finals (D)||1500||1080||750||375||colspan="8" style="text-align:center|–
+|-  style="text-align:center; background:#d8cef6;"
+|WTA Premier Mandatory (96S)||1000||650||390||215||120||65||35||10||30||–||20||2
+|-  style="text-align:center; background:#d8cef6;"
+|WTA Premier Mandatory (64/60S)||1000||650||390||215||120||65||10||–||30||–||20||2
+|-  style="text-align:center; background:#d8cef6;"
+|WTA Premier Mandatory (28/32D)||1000||650||390||215||120||10||–||–||–||–||–||–
+|-  style="text-align:center; background:#E9E9E9;"
+|WTA Premier 5 (56S,64Q)||900||585||350||190||105||60||1||–||30||22||15||1
+|-  style="text-align:center; background:#E9E9E9;"
+|WTA Premier 5 (56S,48/32Q)||900||585||350||190||105||60||1||–||30||–||20||1
+|-  style="text-align:center; background:#E9E9E9;"
+|WTA Premier 5 (28D)||900||585||350||190||105||1||–||–||–||–||–||–
+|-  style="text-align:center; background:#E9E9E9;"
+|WTA Premier 5 (16D)||900||585||350||190||1||–||–||–||–||–||–||–
+|-  style="text-align:center; background:#ffc;"
+|WTA Elite Trophy (S)||700*||440*||240*|| colspan="9" style="text-align:center| (+40 per Round Robin Match; +80 per Round Robin Win)
+|-  style="text-align:center; background:#D4F1C5;"
+|WTA Premier (56S)||470||305||185||100||55||30||1||–||25||–||13||1
+|-  style="text-align:center; background:#D4F1C5;"
+|WTA Premier (32S)||470||305||185||100||55||1||–||–||25||18||13||1
+|-  style="text-align:center; background:#D4F1C5;"
+|WTA Premier (16D)||470||305||185||100||1||–||–||–||–||–||–||–
+|-  style="text-align:center; background:#fff;"
+|WTA International (32S,32Q)||280||180||110||60||30||1||–||–||18||14||10||1
+|-  style="text-align:center; background:#fff;"
+|WTA International (32S,16Q)||280||180||110||60||30||1||–||–||18||–||12||1
+|-  style="text-align:center; background:#fff;"
+|WTA International (16D)||280||180||110||60||1||–||–||–||–||–||–||–
+|- style="text-align:center; background:#D0D7B2;"
+|WTA 125K series (S)  || 160 || 95 || 57 || 29 || 15 ||1 || – || – || 6 || – || 4 || 1
+|- style="text-align:center; background:#D0D7B2;"
+|WTA 125K series (D)  || 160 || 95 || 57 || 29 || 1 ||- || – || – || – || – || – || –
+|- style="text-align:center;"
+|ITF $100,000+H (S) || 150 || 90 || 55 || 28 || 14 || 1 || – || – || 6 || –|| 4 || –
+|- style="text-align:center;"
+|ITF $100,000+H (D) || 150 || 90 || 55 || 28 || 1 || – || – || – || – || – || – || –
+|- style="text-align:center;"
+|ITF $100,000 (S) || 140 || 85 || 50 || 25 || 13 || 1 || – || –  || 6 || –|| 4 || –
+|- style="text-align:center;"
+|ITF $100,000 (D) || 140 || 85 || 50 || 25 || 1 || – || – || – || – || – || – || –
+|- style="text-align:center;"
+|ITF $80,000+H (S) || 130 || 80 || 48 || 24 || 12 || 1 || – || – || 5 || –|| 3 || –
+|- style="text-align:center;"
+|ITF $80,000+H (D) || 130 || 80 || 48 || 24 || 1 || – || – || – || – || – || – || –
+|- style="text-align:center;"
+|ITF $80,000 (S) || 115 || 70 || 42 || 21 || 10 || 1 || – || – || 5 || –|| 3 || –
+|- style="text-align:center;"
+|ITF $80,000 (D) || 115 || 70 || 42 || 21 || 1 || – || – || – || – || – || – || –
+|- style="text-align:center;"
+|ITF $60,000+H (S) || 100 || 60 || 36 || 18 || 9 || 1 || – || – || 5 || –|| 3 || – 
+|- style="text-align:center;"
+|ITF $60,000+H (D) || 100 || 60 || 36 || 18 || 1 || – || – || – || – || – || – || –
+|- style="text-align:center;"
+|ITF $60,000  (S) || 80 || 48 || 29 || 15 || 8 || 1 || – || – || 5 || –|| 3 || –
+|- style="text-align:center;"
+|ITF $60,000 (D) || 80 || 48 || 29 || 15 || 1 || – || – || – || – || – || – || –
+|- style="text-align:center;"
+|ITF $25,000+H (S) || 60 || 36 || 22 || 11 || 6 || 1 || – || – || 2 || – || – || – 
+|- style="text-align:center;"
+|ITF $25,000+H (D) ||  60 || 36 || 22 || 11 || 1 || – || – || – || – || – || – || –
+|- style="text-align:center;"
+|ITF  $25,000 (S)  || 50 || 30 || 18 || 9 || 5 || 1 || – || – || 1 || – || – || – 
+|- style="text-align:center;"
+|ITF $25,000 (D) || 50 || 30 || 18 || 9 || 1 || – || – || – || – || – || – || –
+|}
+S = singles players, D = doubles teams, Q = qualification players.<br />
+<nowiki>*</nowiki> Assumes undefeated Round Robin match record.<br />
+"+H" indicates that Hospitality is provided.
+
+Note that if a player or team receives one or more byes and then loses their first match of the tournament, they will only receive points for the first round of that tournament.  For example, if a player receives a bye in R64 and then loses her match in R32, she will only receive points for R64 despite having advanced (via bye) to R32.  Similarly, if a player or team withdraws from their first match after receiving a bye, they will not be awarded any points for that tournament.<ref>{{cite web|url=http://wtafiles.wtatennis.com/pdf/publications/2019WTARulebook.pdf|title=2019 WTA Official Rulebook|publisher=WTA}}</ref>
+
+In ITF tournaments, the main draw is normally 32 for singles and 16 for doubles.  Losers in the first round of doubles will receive points equal to that shown in the R32 column above. For subsequent rounds (quarter-finals onwards) the points are the same as for singles.
+
+==Current rankings==
+{{see also|2020 WTA Tour}}
+{{col-begin}}
+{{col-2}}
+{{Current WTA Singles Rankings}}
+{{col-2}}
+{{Current WTA Doubles Individual Rankings}}
+{{col-end}}
+
+==Number one ranked players==
+{{main|List of WTA number 1 ranked tennis players}}
+
+The following is a chronological list of players who have achieved the number one position in singles since the WTA began producing computerized rankings on November 3, 1975:
+{{Legend|#cfc|Active players in green}}
+{| class="sortable wikitable"
+|-
+! No. !! Player !! Date reached !!  Total weeks
+|-
+|1|| {{sort|Evert, Chris|{{flagicon|USA}} [[Chris Evert]]}} || Nov 3, 1975 ||  260
+|-
+|2|| {{sort|Goolagong Cawley, Evonne|{{flagicon|Australia}} [[Evonne Goolagong Cawley]]}} || Apr 26, 1976 || 2
+|-
+|3|| {{sort|Navratilova, Martina|{{flagicon|TCH}}/{{flagicon|United States}} [[Martina Navratilova]]}} || Jul 10, 1978 || 332
+|-
+|4|| {{sort|Austin, Tracy|{{flagicon|United States}} [[Tracy Austin]]}} || Apr 7, 1980 || 21
+|-
+|5|| {{sort|Graf, Steffi|{{flagicon|Germany}} [[Steffi Graf]]}} || Aug 17, 1987 || 377
+|-
+|6|| {{sort|Seles, Monica|{{flagicon|SFR Yugoslavia}}/{{flagicon|FR Yugoslavia}}/{{flagicon|USA}} [[Monica Seles]]}} || Mar 11, 1991 || 178
+|-
+|7|| {{sort|Sanchez Vicario, Arantxa|{{flagicon|Spain}} [[Arantxa Sánchez Vicario]]}} || Feb 6, 1995 || 12
+|-
+|8|| {{sort|Hingis, Martina|{{flagicon|Switzerland}} [[Martina Hingis]]}} || Mar 31, 1997 || 209
+|-
+|9|| {{sort|Davenport, Lindsay|{{flagicon|USA}} [[Lindsay Davenport]]}} || Oct 12, 1998 || 98
+|-
+|10|| {{sort|Capriati, Jennifer|{{flagicon|USA}} [[Jennifer Capriati]]}} || Oct 15, 2001 || 17
+|-style="background:#cfc;"
+|11|| {{sort|Williams, Venus|{{flagicon|USA}} [[Venus Williams]]}} || Feb 25, 2002 || 11
+|-style="background:#cfc;"
+|12|| {{sort|Williams, Serena|{{flagicon|USA}} [[Serena Williams]]}} || Jul 8, 2002 || 319
+|-style="background:#cfc;"
+|13|| {{sort|Clijsters, Kim|{{flagicon|Belgium}} [[Kim Clijsters]]}} || Aug 11, 2003 || 20
+|-
+|14|| {{sort|Henin, Justine|{{flagicon|Belgium}} [[Justine Henin]]}} || Oct 20, 2003 || 117
+|-
+|15|| {{sort|Mauresmo, Amélie|{{flagicon|France}} [[Amélie Mauresmo]]}} || Sep 13, 2004 || 39
+|-
+|16|| {{sort|Sharapova, Maria|{{flagicon|Russia}} [[Maria Sharapova]]}} || Aug 22, 2005 || 21
+|-
+|17|| {{sort|Ivanovic, Ana|{{flagicon|Serbia}} [[Ana Ivanovic]]}} || Jun 9, 2008 || 12
+|-style="background:#cfc;"
+|18|| {{sort|Janković, Jelena|{{flagicon|Serbia}} [[Jelena Janković]]}} || Aug 11, 2008 || 18
+|-
+|19|| {{sort|Safina, Dinara|{{flagicon|Russia}} [[Dinara Safina]]}} || Apr 20, 2009 || 26
+|-
+|20|| {{sort|Wozniacki, Caroline|{{flagicon|Denmark}} [[Caroline Wozniacki]]}} || Oct 11, 2010 || 71
+|-style="background:#cfc;"
+|21|| {{sort|Azarenka, Victoria|{{flagicon|Belarus}} [[Victoria Azarenka]]}} || Jan 30, 2012 || 51
+|-style="background:#cfc;"
+|22|| {{sort|Kerber, Angelique|{{flagicon|Germany}} [[Angelique Kerber]]}} || Sep 12, 2016 || 34
+|-style="background:#cfc;"
+|23|| {{sort|Plíšková, Karolína|{{flagicon|Czech Republic}} [[Karolína Plíšková]]}} || July 17, 2017 || 8
+|-style="background:#cfc;"
+|24|| {{sort|Muguruza, Garbiñe|{{flagicon|Spain}} [[Garbiñe Muguruza]]}} || Sep 11, 2017 || 4
+|-style="background:#cfc;"
+|25|| {{sort|Halep, Simona|{{flagicon|Romania}} [[Simona Halep]]}} || Oct 9, 2017 || 64
+|-style="background:#cfc;"
+|26|| {{sort|Osaka, Naomi|{{flagicon|Japan}} [[Naomi Osaka]]}} || Jan 28, 2019 || 25
+|-style="background:#cfc;"
+|27|| '''{{sort|Barty, Ashleigh|{{flagicon|Australia}} [[Ashleigh Barty]]}}''' || Jun 24, 2019 || '''56'''
+|}
+
+''Last update: 28 December 2020''
+
+==Year-end number one players==
+{{main|List of WTA number 1 ranked players}}
+
+The year-end number one player is the player at the head of the WTA rankings following the completion of the final tournament of the calendar year.
+
+===Singles===
+{{col-begin|width=auto}}
+{{col-break}}
+{| class="wikitable"
+|-
+!Year !! Player
+|-
+|1975 || {{flagicon|United States}} [[Chris Evert]] (1)
+|-
+|1976 || {{flagicon|United States}} Chris Evert
+|- bgcolor=ccffcc
+|1977 || {{flagicon|United States}} Chris Evert
+|-
+|1978 || {{flagicon|United States}} [[Martina Navratilova]] (2)
+|-
+|1979 || {{flagicon|United States}} Martina Navratilova
+|-
+|1980 || {{flagicon|United States}} Chris Evert
+|- bgcolor=ccffcc
+|1981 || {{flagicon|United States}} Chris Evert
+|-
+|1982 || {{flagicon|United States}} Martina Navratilova 
+|- bgcolor=ccffcc
+|1983 || {{flagicon|United States}} Martina Navratilova
+|- bgcolor=ccffcc
+|1984 || {{flagicon|United States}} Martina Navratilova 
+|-
+|1985 || {{flagicon|United States}} Martina Navratilova 
+|- bgcolor=ccffcc
+|1986 || {{flagicon|United States}} Martina Navratilova 
+|-
+|1987 || {{flagicon|West Germany}} [[Steffi Graf]] (3)
+|- bgcolor=ccffcc
+|1988 || {{flagicon|West Germany}} Steffi Graf
+|- bgcolor=ccffcc
+|1989 || {{flagicon|West Germany}} Steffi Graf
+|- bgcolor=ccffcc
+|1990 || {{flagicon|Germany}} Steffi Graf
+|-
+|1991 || {{flagicon|SFR Yugoslavia}} [[Monica Seles]] (4)
+|- bgcolor=ccffcc
+|1992 || {{flagicon|SFR Yugoslavia}} Monica Seles
+|-
+|1993 || {{flagicon|Germany}} Steffi Graf
+|- bgcolor=ccffcc
+|1994 || {{flagicon|Germany}} Steffi Graf
+|-
+|1995 || {{flagicon|Germany}} Steffi Graf <br>{{flagicon|USA}} Monica Seles
+|- bgcolor=ccffcc
+|1996 || {{flagicon|Germany}} Steffi Graf
+|-
+|1997 || {{flagicon|Switzerland}} [[Martina Hingis]] (5)
+|-
+|1998 || {{flagicon|United States}} [[Lindsay Davenport]] (6)
+|-
+|1999 || {{flagicon|Switzerland}} Martina Hingis
+|}
+{{col-break|gap=0.5em}}
+{| class="wikitable"
+|-
+!Year !! Player
+|-
+|2000 || {{flagicon|Switzerland}} Martina Hingis
+|-
+|2001 || {{flagicon|United States}} Lindsay Davenport
+|-
+|2002 || {{flagicon|United States}} [[Serena Williams]] (7)
+|-
+|2003 || {{flagicon|Belgium}} [[Justine Henin]] (8)
+|-
+|2004 || {{flagicon|United States}} Lindsay Davenport
+|-
+|2005 || {{flagicon|United States}} Lindsay Davenport
+|-
+|2006 || {{flagicon|Belgium}} Justine Henin
+|-
+|2007 || {{flagicon|Belgium}} Justine Henin
+|-
+|2008 || {{flagicon|Serbia}} [[Jelena Janković]] (9)
+|-
+|2009 || {{flagicon|United States}} Serena Williams
+|-
+|2010 || {{flagicon|Denmark}} [[Caroline Wozniacki]] (10)
+|-
+|2011 || {{flagicon|Denmark}} Caroline Wozniacki
+|-
+|2012 || {{flagicon|Belarus}} [[Victoria Azarenka]] (11)
+|-
+|2013 || {{flagicon|United States}} Serena Williams
+|- bgcolor=ccffcc
+|2014 || {{flagicon|United States}} Serena Williams
+|- bgcolor=ccffcc
+|2015 || {{flagicon|United States}} Serena Williams
+|-
+|2016 || {{flagicon|Germany}} [[Angelique Kerber]] (12)
+|-
+|2017 || {{flagicon|Romania}} [[Simona Halep]] (13)
+|-
+|2018 || {{flagicon|Romania}} Simona Halep 
+|-
+|2019 || {{flagicon|Australia}} [[Ashleigh Barty]] (14)
+|- bgcolor=ccffcc
+|2020 || {{flagicon|Australia}} Ashleigh Barty
+|}
+{{col-end}}
+
+{| class="wikitable"
+|- bgcolor=ccffcc
+| No. 1 all weeks of the year
+|}
+
+===Doubles===
+{| class="wikitable"
+|-
+!Year !! Country !! Player !! Team
+|-
+|1984 || {{flagicon|United States}} USA || [[Martina Navratilova]] (1) || {{flagicon|USA}} Martina Navratilova / {{flagicon|USA}} Pam Shriver
+|-
+|1985 || {{flagicon|United States}} USA || [[Pam Shriver]] (2) || {{flagicon|USA}} Martina Navratilova / {{flagicon|USA}} Pam Shriver
+|-
+|1986 || {{flagicon|United States}} USA || Martina Navratilova || {{flagicon|USA}} Martina Navratilova / {{flagicon|USA}} Pam Shriver
+|-
+|bgcolor=ccffcc|1987 ||bgcolor=ccffcc| {{flagicon|United States}} USA ||bgcolor=ccffcc| Martina Navratilova || {{flagicon|USA}} Martina Navratilova / {{flagicon|USA}} Pam Shriver
+|- 
+|bgcolor=ccffcc|1988 ||bgcolor=ccffcc| {{flagicon|United States}} USA ||bgcolor=ccffcc| Martina Navratilova || {{flagicon|USA}} Martina Navratilova / {{flagicon|USA}} Pam Shriver
+|- 
+|bgcolor=ccffcc|1989 ||bgcolor=ccffcc| {{flagicon|United States}} USA ||bgcolor=ccffcc| Martina Navratilova || {{flagicon|TCH}} Helena Suková / {{flagicon|TCH}} Jana Novotná
+|-
+|1990 || {{flagicon|Czechoslovakia}} TCH || [[Helena Suková]] (3) || {{flagicon|TCH}} Helena Suková / {{flagicon|TCH}} Jana Novotná
+|- 
+|1991 || {{flagicon|Czechoslovakia}} TCH || [[Jana Novotná]] (4) || {{flagicon|USA}} Gigi Fernández / {{flagicon|TCH}} Jana Novotná
+|-
+|1992 || {{flagicon|Czech Republic}} CZE || Helena Suková || {{flagicon|LAT}} Larisa Neiland / {{flagicon|BLR|1991}} Natasha Zvereva
+|-
+|1993 || {{flagicon|United States}} USA || [[Gigi Fernández]] (5) || {{flagicon|USA}} Gigi Fernández / {{flagicon|BLR|1991}} Natasha Zvereva
+|-
+|1994 || {{flagicon|Belarus|1991}} BLR || [[Natasha Zvereva]] (6) || {{flagicon|USA}} Gigi Fernández / {{flagicon|BLR|1991}} Natasha Zvereva
+|-
+|1995 || {{flagicon|Spain}} ESP || [[Arantxa Sánchez Vicario]] (7) || {{flagicon|USA}} Gigi Fernández / {{flagicon|BLR}} Natasha Zvereva
+|-
+|bgcolor=ccffcc|1996 ||bgcolor=ccffcc|{{flagicon|Spain}} ESP ||bgcolor=ccffcc|Arantxa Sánchez Vicario || {{flagicon|CZE}} Jana Novotná / {{flagicon|ESP}} Arantxa Sánchez Vicario
+|-
+|1997 || {{flagicon|Belarus}} BLR || Natasha Zvereva || {{flagicon|USA}} Gigi Fernández / {{flagicon|BLR}} Natasha Zvereva
+|-
+|1998 || {{flagicon|Belarus}} BLR || Natasha Zvereva || {{flagicon|SUI}} Martina Hingis / {{flagicon|CZE}} Jana Novotná
+|-
+|1999 || {{flagicon|Russia}} RUS || [[Anna Kournikova]] (8) || {{flagicon|SUI}} Martina Hingis / {{flagicon|RUS}} Anna Kournikova
+|-
+|2000 || {{flagicon|Japan}} JPN || [[Ai Sugiyama]] (9) || {{flagicon|USA}} Serena Williams / {{flagicon|USA}} Venus Williams
+|-
+|2001 || {{flagicon|United States}} USA || [[Lisa Raymond]] (10) || {{flagicon|USA}} Lisa Raymond / {{flagicon|AUS}} Rennae Stubbs
+|-
+|2002 || {{flagicon|Argentina}} ARG || [[Paola Suárez]] (11) || {{flagicon|ESP}} Virginia Ruano Pascual / {{flagicon|ARG}} Paola Suárez
+|-
+|2003 || {{flagicon|Argentina}} ARG || Paola Suárez || {{flagicon|ESP}} Virginia Ruano Pascual / {{flagicon|ARG}} Paola Suárez
+|-
+|2004 || {{flagicon|Spain}} ESP || [[Virginia Ruano Pascual]] (12) || {{flagicon|ESP}} Virginia Ruano Pascual / {{flagicon|ARG}} Paola Suárez
+|-
+|2005 || {{flagicon|Zimbabwe}} ZIM || [[Cara Black]] (13) || {{flagicon|USA}} Lisa Raymond / {{flagicon|AUS}} Samantha Stosur
+|-
+|2006 || {{flagicon|United States}} USA<br>{{flagicon|Australia}} AUS || Lisa Raymond<br>[[Samantha Stosur]] (14) || {{flagicon|USA}} Lisa Raymond / {{flagicon|AUS}} Samantha Stosur
+|-
+|2007 || {{flagicon|Zimbabwe}} ZIM<br>{{flagicon|United States}} USA || Cara Black<br>[[Liezel Huber]] (15) || {{flagicon|ZIM}} Cara Black / {{flagicon|USA}} Liezel Huber
+|-
+|bgcolor=ccffcc|2008 ||bgcolor=ccffcc| {{flagicon|Zimbabwe}} ZIM<br>{{flagicon|United States}} USA ||bgcolor=ccffcc| Cara Black<br>Liezel Huber || {{flagicon|ZIM}} Cara Black / {{flagicon|USA}} Liezel Huber
+|-
+|bgcolor=ccffcc|2009 ||bgcolor=ccffcc| {{flagicon|Zimbabwe}} ZIM<br>{{flagicon|United States}} USA ||bgcolor=ccffcc| Cara Black<br>Liezel Huber || {{flagicon|USA}} Serena Williams / {{flagicon|USA}} Venus Williams
+|- 
+|2010 || {{flagicon|Argentina}} ARG || [[Gisela Dulko]] (16) || {{flagicon|ARG}} Gisela Dulko / {{flagicon|ITA}} Flavia Pennetta
+|- 
+|2011 || {{flagicon|United States}} USA || Liezel Huber || {{flagicon|CZE}} Květa Peschke / {{flagicon|SLO}} Katarina Srebotnik
+|- 
+|2012 || {{flagicon|Italy}} ITA || [[Roberta Vinci]] (17)|| {{flagicon|ITA}} Sara Errani / {{flagicon|ITA}} Roberta Vinci
+|-
+|rowspan="2" style="text-align:left; vertical-align:center;"|2013||bgcolor=ccffcc|{{flagicon|Italy}} ITA 
+|bgcolor=ccffcc| Roberta Vinci||rowspan="2"|{{flagicon|ITA}} Sara Errani / {{flagicon|ITA}} Roberta Vinci
+|-
+|{{flagicon|Italy}} ITA || [[Sara Errani]] (18)
+|-
+|2014 || {{flagicon|Italy}} ITA<br>{{flagicon|ITA}} ITA|| Roberta Vinci<br>Sara Errani|| {{flagicon|ITA}} Sara Errani / {{flagicon|ITA}} Roberta Vinci
+|- 
+|2015 || {{flagicon|India}} IND || [[Sania Mirza]] (19)|| {{flagicon|SUI}} Martina Hingis / {{flagicon|IND}} Sania Mirza
+|-
+|bgcolor=ccffcc|2016 ||bgcolor=ccffcc| {{flagicon|IND}} IND ||bgcolor=ccffcc| Sania Mirza || {{flagicon|FRA}} Caroline Garcia / {{flagicon|FRA}} Kristina Mladenovic
+|-
+|2017 || {{flagicon|Chinese Taipei}} TPE<br>{{flagicon|Switzerland}} SUI|| [[Latisha Chan]] (20)<br>[[Martina Hingis]] (21)|| {{flagicon|TPE}} Latisha Chan / {{flagicon|SUI}} Martina Hingis
+|- 
+|2018 || {{flagicon|CZE}} CZE || [[Kateřina Siniaková]] (22)|| {{flagicon|CZE}} Barbora Krejčíková / {{flagicon|CZE}} Kateřina Siniaková
+|-
+|2019 || {{flagicon|CZE}} CZE || [[Barbora Strýcová]] (23)|| {{flagicon|TPE}} Hsieh Su-wei / {{flagicon|CZE}} Barbora Strýcová
+|-
+|2020 || {{flagicon|TPE}} TPE || {{flagicon|TPE}} [[Hsieh Su-wei]] (24)|| {{flagicon|TPE}} Hsieh Su-wei / {{flagicon|CZE}} Barbora Strýcová
+|}
+
+{| class="wikitable"
+|- bgcolor=ccffcc
+| No. 1 all weeks of the year
+|}
+
+==Players with highest career rank 2–5==
+The following is a list of singles players who were ranked world No. 5 or higher but not No. 1:
+{{Legend|#cfc|Active players in green}}
+{{col-begin|width=auto}}
+{{col-break}}
+{| class="wikitable" style="float:left; 
+|-
+! colspan=2|World number 2
+|-
+! width="200"|Player
+! First date reached
+|-
+| {{flagicon|GBR}} [[Virginia Wade]]
+| Nov 3, 1975
+|-
+| {{flagicon|USA}} [[Andrea Jaeger]]
+| Aug 17, 1981
+|-
+| {{flagicon|ESP}} [[Conchita Martínez]]
+| Oct 30, 1995
+|-
+| {{flagicon|CZE}} [[Jana Novotná]]
+| Jul 7, 1997
+|-
+| {{flagicon|RUS}} [[Anastasia Myskina]]
+| Sep 13, 2004
+|- bgcolor=ccffcc
+| {{flagicon|RUS}} [[Svetlana Kuznetsova]]
+| Sep 10, 2007
+|- bgcolor=ccffcc
+| {{flagicon|RUS}} [[Vera Zvonareva]]
+| Oct 25, 2010
+|- bgcolor=ccffcc
+| {{flagicon|CZE}} [[Petra Kvitová]]
+| Oct 31, 2011
+|- 
+| {{flagicon|POL}} [[Agnieszka Radwańska]]
+| Jul 9, 2012
+|-
+| {{flagicon|CHN}} [[Li Na]]
+| Feb 17, 2014
+|}
+{{col-break|gap=2em}} 
+{| class="wikitable" style="float:left; 
+|-
+! colspan=2|World number 3
+|-
+! Player
+! First date reached
+|-
+| {{flagicon|USA}} [[Pam Shriver]]
+| Mar 20, 1984
+|-
+| {{flagicon|TCH}}/{{flagicon|AUS}} [[Hana Mandlíková]]
+| Apr 30, 1984
+|-
+| {{flagicon|AUS}} [[Wendy Turnbull]]
+| Jan 7, 1985
+|-
+| {{flagicon|BUL}}/{{flagicon|SUI}} [[Manuela Maleeva]]
+| Feb 4, 1985
+|-
+| {{flagicon|ARG}} [[Gabriela Sabatini]]
+| Feb 27, 1989
+|-
+| {{flagicon|FRA}} [[Mary Pierce]]
+| Jan 30, 1995
+|-
+| {{flagicon|RSA}} [[Amanda Coetzer]]
+| Nov 3, 1997
+|-
+| {{flagicon|FRA}} [[Nathalie Tauziat]]
+| May 8, 2000
+|- 
+| {{flagicon|RUS}} [[Nadia Petrova]]
+| May 15, 2006
+|-
+| {{flagicon|RUS}} [[Elena Dementieva]]
+| Apr 6, 2009
+|- bgcolor=ccffcc
+| {{flagicon|UKR}} [[Elina Svitolina]]
+| Sep 11, 2017
+|- bgcolor=ccffcc
+| {{flagicon|USA}} [[Sloane Stephens]]
+| Jul 16, 2018
+|}
+{{col-end}}
+{{col-begin|width=auto}}
+{{col-break}}
+{| class="wikitable" style="float:left; 
+|-
+! colspan=2|World number 4
+|-
+! Player
+! First date reached
+|-
+| {{flagicon|GBR}} [[Sue Barker]]
+| Mar 20, 1977
+|-
+| {{flagicon|AUS}} [[Dianne Fromholtz]]
+| Mar 19, 1979
+|-
+| {{flagicon|TCH}} [[Helena Suková]]
+| Mar 18, 1985
+|-
+| {{flagicon|FRG}} [[Claudia Kohde-Kilsch]]
+| Sep 2, 1985
+|-
+| {{flagicon|USA}} [[Zina Garrison]]
+| Nov 20, 1989
+|-
+| {{flagicon|USA}} [[Mary Joe Fernández]]
+| Oct 22, 1990
+|- 
+| {{flagicon|JPN}} [[Kimiko Date]]
+| May 13, 1995
+|-
+| {{flagicon|BUL}} [[Magdalena Maleeva]]
+| Jan 29, 1996
+|-
+| {{flagicon|CRO}} [[Iva Majoli]]
+| Feb 5, 1996
+|-
+| {{flagicon|GER}} [[Anke Huber]]
+| Oct 14, 1996
+|- 
+| {{flagicon|SCG}}/{{flagicon|AUS}} [[Jelena Dokić]]
+| Aug 19, 2002
+|-
+| {{flagicon|ITA}} [[Francesca Schiavone]]
+| Jan 31, 2011
+|- bgcolor=ccffcc
+| {{flagicon|AUS}} [[Samantha Stosur]]
+| Feb 21, 2011
+|- 
+| {{flagicon|SVK}} [[Dominika Cibulková]]
+| Mar 20, 2017
+|- bgcolor=ccffcc
+| {{flagicon|GBR}} [[Johanna Konta]]
+| Jul 17, 2017
+|- bgcolor=ccffcc
+| {{flagicon|FRA}} [[Caroline Garcia]]
+| Sep 10, 2018
+|- bgcolor=ccffcc
+| {{flagicon|NED}} [[Kiki Bertens]]
+| May 13, 2019
+|- bgcolor=ccffcc
+| {{flagicon|CAN}} [[Bianca Andreescu]]
+| Oct 21, 2019
+|- bgcolor=ccffcc
+| {{flagicon|SUI}} [[Belinda Bencic]]
+| Feb 17, 2020
+|- bgcolor=ccffcc
+| {{flagicon|USA}} [[Sofia Kenin]]
+| Mar 9, 2020
+|}
+{{col-break|gap=2em}}
+{| class="wikitable" style="float:left; 
+|-
+! colspan=2|World number 5
+|-
+! Player
+! First date reached
+|-
+| {{flagicon|USA}} [[Rosemary Casals]]
+| Sep 13, 1976
+|-
+| {{flagicon|NED}} [[Betty Stöve]]
+| Jul 3, 1977
+|-
+| {{flagicon|FRG}} [[Sylvia Hanika]]
+| Sep 12, 1983
+|-
+| {{flagicon|USA}} [[Kathy Jordan]]
+| Mar 19, 1984
+|-
+| {{flagicon|GBR}} [[Jo Durie]]
+| Apr 29, 1984
+|-
+| {{flagicon|USSR}}/{{flagicon|BLR}} [[Natasha Zvereva]]
+| May 22, 1989
+|- 
+| {{flagicon|SVK}} [[Daniela Hantuchová]]
+| Jan 27, 2003
+|-
+| {{flagicon|RUS}} [[Anna Chakvetadze]]
+| Sep 10, 2007
+|-
+|- bgcolor=ccffcc
+| {{flagicon|ITA}} [[Sara Errani]]
+| May 20, 2013
+|- bgcolor=ccffcc
+| {{flagicon|CAN}} [[Eugenie Bouchard]]
+| Oct 20, 2014
+|- 
+| {{flagicon|CZE}} [[Lucie Šafářová]]
+| Sep 14, 2015
+|- bgcolor=ccffcc
+| {{flagicon|LAT}} [[Jeļena Ostapenko]]
+| Mar 19, 2018
+|}
+{{col-end}}
+
+==Consecutive weeks in the Top 10 of the WTA World rankings==
+
+The below lists the players with the most consecutive weeks in the Top 10 of the WTA World rankings:{{Citation needed|date=July 2020}}
+
+===Singles===
+{{Legend|#cfc|Active players in green}}
+{{col-begin|width=auto}}
+{{col-break}}
+{| class="wikitable"
+|-
+!Player !! Consecutive weeks in Top 10 rankings
+|-
+|{{flagicon|United States}} [[Martina Navratilova]] || 1000
+|-
+|{{flagicon|United States}} [[Chris Evert]] || 746
+|- 
+|{{flagicon|Germany}} [[Steffi Graf]] || 625
+|-
+|{{flagicon|Argentina}} [[Gabriela Sabatini]] || 508
+|-
+|{{flagicon|United States}} [[Pam Shriver]] || 458
+|- 
+|{{flagicon|Spain}} [[Arantxa Sánchez Vicario]] || 429
+|-
+|{{flagicon|CZE}} [[Hana Mandlikova]] || 421
+|-bgcolor=ccffcc
+|{{flagicon|Romania}} [[Simona Halep]] || 342
+|-
+|{{flagicon|United States}} [[Lindsay Davenport]] || 333
+|-
+|{{flagicon|Spain}} [[Conchita Martinez]] || 319
+|}
+
+''Last update: 28 December 2020''
+
+==See also==
+*[[WTA Tour records]]
+*[[WTA Awards]]
+*[[List of WTA number 1 ranked players]]
+*[[Lists of tennis records and statistics]]
+*[[ATP Rankings]]
+
+==Notes and references==
+{{Reflist|2}}
+
+==External links==
+*[http://www.wtatennis.com/rankings WTA Rankings]
+
+{{Top ten tennis players}}
+{{WTA seasons}}
+{{Tennis records and statistics}}
+{{Sport world rankings}}
+
+[[Category:WTA Tour|*Rankings]]
+[[Category:Tennis rankings| ]]
+[[Category:Sports world rankings]]
+[[Category:Women's Tennis Association]]

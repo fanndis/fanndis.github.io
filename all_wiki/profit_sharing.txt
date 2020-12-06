@@ -1,0 +1,52 @@
+{{About|a type of business incentive plan for employees|a method of finance used in [[Islamic banking]] |Profit and loss sharing}}
+'''Profit sharing''' refers to various [[incentive]] plans introduced by [[business]]es that provide direct or indirect payments to [[employee]]s that depend on company's profitability in addition to employees' regular [[salary]] and [[Performance-related pay|bonuses]]. In [[publicly traded companies]] these plans typically amount to allocation of [[shares]] to employees. One of the earliest pioneers of profit sharing was Englishman [[Theodore Taylor (politician)|Theodore Cooke Taylor]], who is known to have introduced the practice in his woollen mills during the late 1800s <ref>{{Cite news|title=Obituary - Mr Theodore Taylor, a Pioneer of Profit Sharing|date=21 October 1952|work=The Times}}</ref>. 
+
+The profit sharing plans are based on predetermined [[economic]] sharing rules that define the split of gains between the company as a principal and the employee as an agent.<ref name="sharing">Moffatt, Mike. (2008) [[About.com]] ''[http://economics.about.com/od/economicsglossary/g/sharingrule.htm Sharing Rule]'' Economics Glossary; Terms Beginning with S. Accessed June 19, 2008.</ref> For example, suppose the profits are <math>x</math>, which might be a random variable.<ref name="sharing"/> Before knowing the profits, the principal and agent might agree on a sharing rule <math>s(x)</math>.<ref name="sharing"/> Here, the agent will receive <math>s(x)</math> and the principal will receive the residual gain <math>x-s(x)</math>.<ref name="sharing"/>
+
+==Europe==
+
+===Management's share of profits===
+The share of profits paid to the management or to the [[Board of Directors|board of directors]] is sometimes called the '''tantième'''.{{cn|date=December 2018}} This [[French language|French]] term is generally applied in describing the business and finance practices of certain European countries, including Germany, France, Belgium, and Sweden. It is usually paid in addition to the manager's (or director's) fixed salary and bonuses (bonuses usually depend on profits as well, and often bonuses and tantieme are treated as the same thing); laws vary from country to country.
+
+==USA==
+{{Main|Profit-sharing agreement (USA)}}
+
+In the [[United States]], a profit sharing plan can be set up where all or some of the employee's profit sharing amount can be contributed to a [[retirement plan]]. These are often used in conjunction with [[401(k)|401(k) plan]]s.
+
+==Gainsharing==
+Gainsharing is a program that returns cost savings to the employees, usually as a lump-sum bonus. It is a productivity measure, as opposed to profit-sharing which is a profitability measure. There are three major types of gainsharing:  
+* [[Scanlon plan]]: This program dates back to the 1930s and relies on committees to create cost-sharing ideas. Designed to lower labor costs without lowering the level of a firm's activity. The incentives are derived as a function of the ratio between labor costs and sales value of production (SVOP).
+* Rucker plan: This plan also uses committees, but although the committee structure is simpler the cost-saving calculations are more complex. A ratio is calculated that expresses the value of production required for each dollar of total wage bill.
+* Improshare: Improshare stands for "Improved productivity through sharing" and is a more recent plan. With this plan, a standard is developed that identifies the expected number of hours to produce something, and any savings between this standard and actual production are shared between the company and the workers.<ref>{{Citation
+  | last =Gomez-Mejia 
+  | first =Luis R. 
+  | last2 =Balkin 
+  | first2 =David B. 
+  | title =Managing Human Resources 
+  | place =[[Upper Saddle River, New Jersey]] 
+  | publisher =Pearson Prentice Hall 
+  | year =2007 
+  | edition =Fifth 
+  | isbn =0-13-187067-X }}</ref>
+
+==See also==
+*[[Codetermination]]
+*[[Employee stock ownership plan]]
+*[[Joint venture]]
+*[[Mutualization]]
+*[[Retirement plans in the United States]]
+*[[Social dividend]]
+
+==Further reading==
+
+* Adam Dean. 2016. ''From Conflict to Coalition: Profit-Sharing Institutions and the Political Economy of Trade''. Cambridge: Cambridge University Press.
+* Adam Dean. 2015. The Gilded Wage: Profit-Sharing Institutions and the Political Economy of Trade, ''International Studies Quarterly'', Volume 59, Issue 2, Pages 316–329
+
+==References==
+{{reflist}}
+
+==External links==
+*{{wikiquote-inline}}
+
+[[Category:Employment compensation]]
+[[Category:Profit]]

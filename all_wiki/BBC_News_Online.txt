@@ -1,0 +1,118 @@
+{{third-party|date=June 2014}}
+{{EngvarB|date=April 2014}}
+{{Use dmy dates|date=April 2014}}
+{{Infobox website
+| name             = BBC News Online
+| logo             = BBC News.svg
+| logo_size        = 200px
+| screenshot       = BBC News Online responsive design.png
+| caption          = BBC News Online in December 2017
+| url              = {{plain list|
+* {{url|https://www.bbc.co.uk/news|BBC News}}
+}}
+| alexa            = Worldwide
+| commercial       = No (advertising included when accessed outside the UK)
+| type             = News
+| language         = 32 languages<ref>{{cite web|url=https://www.bbc.co.uk/ws/languages|title=News in your language|publisher=BBC|accessdate=3 February 2015}}</ref>
+| registration     = Required for some services
+| owner            = [[BBC]]
+| author           =
+| launch_date      = {{Start date and age|df=yes|1997|11|4}}
+| current_status   = Online
+| revenue          = 
+}}
+
+'''BBC News Online''' is the website of [[BBC News]], the division of the [[BBC]] responsible for newsgathering and production.
+
+The website contains international news coverage, as well as British, entertainment, science, and political news. Many reports are accompanied by audio and video from the BBC's [[BBC Television|television]] and [[BBC Radio|radio]] news services, while the latest TV and radio bulletins are also available to view or listen to on the site together with other current affairs programmes.
+
+BBC News Online is closely linked to its sister department website, that of [[BBC Sport]]. Both sites follow similar layout and content options and respective journalists work alongside each other. Location information provided by users is also shared with the website of [[BBC Weather]] to provide local content.
+
+From 1998 to 2001 the site was named best news website at the [[BAFTA Interactive Entertainment Awards]] when the award category was withdrawn. It has previously won both the Judges' award and the People's Voice award for best news site at the annual [[Webby Awards]].<ref>[https://www.bbc.co.uk/news/technology-17907624 Webbys: BBC News website wins People's Voice news award] BBC News. 1 May 2012</ref>
+
+== History ==
+[[File:BBC news 270499.jpg|thumb|The original BBC News website design, May 1998]]
+The website was launched on 4 November 1997, headed by founding editor [[Mike Smartt]] and Project Director Bob Eggington. The broader editorial team was brought together from within the BBC, from print journalism and from some online sites.
+
+The BBC had previously created special websites marking the 1995 [[United Kingdom budget|Budget]], the [[1996 Olympic Games]], [[1997 United Kingdom general election|1997 general election]], and the [[Death of Diana, Princess of Wales|death of Princess Diana]] in 1997,<ref>[https://www.bbc.co.uk/news/uk-41890165 How the BBC News website has changed over the past 20 years]</ref> but nothing on the scale of the launch of the main site itself,<ref>[http://news.bbc.co.uk/1/hi/in_depth/629/629/7057140.stm Special Reports – Our first 10 years] BBC News Online, 13 December 2007</ref> which required the development of a completely new production system, for which a team, led by Matthew Karas<ref>{{cite web |url=https://www.bbc.co.uk/blogs/legacy/bbcinternet/2007/12/post.html |title=Razzmatazz, Fame And Fortune |author=Jonathan Drori CBE |date=13 December 2007 |work=BBC Internet Blog |publisher=BBC}}</ref> was specially hired.<ref>{{cite news |date= 21 October 1999 |title=Scoop! The inside story of the news website that saved the BBC|url=https://www.theregister.co.uk/2012/11/28/the_bbc_news_online_story/?page=2 |url-status= dead|newspaper= The Register|archiveurl=https://web.archive.org/web/20150220165339/http://www.theregister.co.uk/2012/11/28/the_bbc_news_online_story/?page=2|archivedate=2015-02-20}}</ref>
+
+The original design was created by a team, including Matt Jones, based on designs by Mike Bennett and design studio Sunbather, who worked with consultancy [[Lambie-Nairn]] who looked after the overall brand, and has been redesigned several times mainly to match the visual style of BBC News television bulletins and to exploit increases in readers' typical screen resolutions. A major overhaul in 2003, primarily by Paul Sissons and Maire Flynn, coincided with a relaunch of the [[BBC News (TV channel)|BBC News Channel]] (then BBC News 24) and featured a wider page design. The site launched a set of semi-official [[RSS (file format)|RSS]] 0.91 syndication feeds in June 2003 and upgraded them to full feed RSS 2.0 in 2008.<ref>[https://www.bbc.co.uk/blogs/bbcinternet/2008/06/full_articletext_feeds_for_bbc.html Full feeds for every BBC blog] Jem Stone: BBC Internet Blog, 13 June 2008</ref> Each news index has its own RSS feed, including the in-depth sections.
+
+In 2004 the BBC News website partnered with [[Moreover Technologies]], in a response to the 2003 Graf Report, to provide links from BBC articles to rival publishers.<ref>[http://paidcontent.co.uk/article/419-bbc-makes-concession-to-unfair-advantage-gripes-with-new-links-push/ BBC Makes Concession To 'Unfair Advantage' Gripes With New Links Push] PaidContent: UK, 4 June 2008.</ref> Whilst the BBC does not censor or change results the [[algorithms]] used tend to give greater weight to national and international sources over regional or local ones.
+
+Mike Smartt, who became editor in chief in 2000, was later succeeded by [[Pete Clifton]] who was subsequently promoted to Head of BBC News Interactive and replaced by the previous editor Steve Herrmann in 2005.<ref>[http://news.bbc.co.uk/1/hi/entertainment/4492820.stm BBC News Interactive's new Editor] BBC News Online, 2 December 2005</ref>
+
+The BBC began providing real-time global user information in June 2006.
+
+[[File:BBC News September 11th 2001.png|thumb|left|BBC News on 11 September 2001]]
+A restructuring of BBC News starting in 2007 saw the dissolution of the separate BBC News Interactive department; the editorial and management departments joined the new multimedia newsroom along with television and radio news within [[BBC Television Centre]].<ref>[https://www.bbc.co.uk/blogs/theeditors/2008/06/newsroom_changes.html Newsroom changes] Steve Herrmann: BBC News Online, 27 June 2008</ref>
+
+New features were gradually introduced, including the publicising of video content more prominently. From May 2007, the website began to offer a live video stream of BBC News 24, the rolling news channel now known as the BBC News channel.<ref>{{cite news|last1=Oatts|first1=Joanne|title=BBC News 24 to offer live streaming|url=http://www.digitalspy.co.uk/media/news/a46310/bbc-news-24-to-offer-live-streaming.html#~p5rlPSrwpd3b4q|accessdate=26 February 2015|work=Digital Spy|date=8 May 2007}}</ref> In line with the introduction of new features across [[BBC Online]], including a new navigation bar, the site was updated in 2008 with wider centred page designs, larger images and an increased emphasis on audio and visual content.<ref>{{cite web |url=https://www.bbc.co.uk/blogs/theeditors/2008/03/refreshing_changes.html |title=Refreshing changes |author=Steve Hermann |date=31 March 2008 |work=The Editors |publisher=BBC News |accessdate=28 December 2011}}</ref>
+
+Beginning on 30 April 2009, some published stories included in-text links, mostly to in-site profile articles on people, locations and organisations.{{Citation needed|date=May 2009}} The BBC announced on 19 November 2009 that it was to pay more attention to [[search engine optimisation]] by extending news headlines.<ref>[https://www.bbc.co.uk/blogs/theeditors/2009/11/changing_headlines.html Changing Headline] Steve Hermann: BBC Internet Blog, 19 November 2009</ref><ref>[http://www.sonaweb.co.uk/blog/47-blog/74-blogbbcseo BBC Wakes up to SEO] {{Webarchive|url=https://web.archive.org/web/20091214165903/http://www.sonaweb.co.uk/blog/47-blog/74-blogbbcseo |date=14 December 2009 }} Sona Web Blog, 22 November 2009</ref>
+
+[[File:BBC News Online partial screenshot.png|thumb|BBC News Online in January 2013]]
+On 14 July 2010 the site was completely redesigned, with the vertical section headings moved to run horizontally near the top of the page. The new design, incorporating larger in-line videos within news articles and standardised font usage, was introduced as a first step to bringing the entire BBC website into line with its new style guidelines.<ref>{{cite web|url=https://www.bbc.co.uk/guidelines/gel/|title=BBC Global Experience Language|publisher=BBC|accessdate=11 April 2011| archiveurl= https://web.archive.org/web/20110401191550/http://www.bbc.co.uk/guidelines/gel/| archivedate= 1 April 2011 | url-status= live}}</ref> It was met with mixed opinions; Stephen Fry stated his approval of the redesign,<ref>{{cite web|url=http://www.beehivecity.com/hightech/bbc-news-web-redesign-finally-unveiled-to-stephen-fry-approval876123/|title=BBC News web redesign finally unveiled… to Stephen Fry approval|publisher=Beehive City|date=14 July 2010|accessdate=11 April 2011}}</ref> and the new design was praised for being "more attractive [and] graphically stronger".<ref name="guardianredesign">{{cite news|url=https://www.theguardian.com/media/pda/2010/jul/14/bbc-news-redesign|title=The BBC News redesign: Hot, or not|publisher=The Guardian|accessdate=11 April 2011|location=London|first=Jemima|last=Kiss|date=14 July 2010}}</ref> However, there was also criticism, with some stating that the use of white space was too widespread and led to the need for continuous and excessive scrolling.<ref name="guardianredesign" />
+
+On 4 March 2014, the BBC launched a [[beta version]] of the website which was built around the principles of [[responsive web design]], allowing the presentation of content to adjust automatically for a wide variety of screen sizes, from desktop computer to [[smartphone]]s and [[Tablet computer|tablet]] devices.<ref>{{cite web |url=https://www.bbc.co.uk/blogs/internet/posts/News-responsive-design-in-beta |title=BBC News website: responsive design in beta |last1=Vijayaratnam |first1=Niko |date=4 March 2014 |publisher=BBC |accessdate=20 March 2014}}</ref> The new design went live on 23 March 2015.<ref>{{cite news|last1=Lee|first1=Dave|title=BBC News switches PC users to responsive site|url=https://www.bbc.co.uk/news/technology-31966686|accessdate=23 March 2015|publisher=BBC News|date=23 March 2015}}</ref>
+
+== Features ==
+=== UK/International editions ===
+There are two different editions of the site: a UK edition, which gives prominence to UK stories, and an international edition, which prioritises international news. Internet users with [[IP address]]es originating from the UK are served the UK edition, all others receive the international edition. The international version contains advertising and an "Advertise With Us" link at the bottom.<ref>[https://www.bbc.co.uk/faqs/online/website_changes "UK content on BBC online – Outside the UK", BBC.co.uk]</ref> The international version of the website is operated by BBC Global News Ltd., the for-profit BBC subsidiary which operates the [[BBC World News]] television channel.<ref>[http://downloads.bbc.co.uk/aboutthebbc/insidethebbc/reports/pdf/BBC-FS-2016.pdf BBC Full Financial Statements 2015/6]</ref> All articles are archived indefinitely and can be retrieved via searching or by browsing the extensive ''Special Reports'' section, which contains collections of articles relating to major news stories. The previous seven days' top stories were formerly available through the Week at a Glance section of the website. As well as pure news articles, the site also contains material to support BBC news, current affairs and factual programmes.
+
+=== Columnists ===
+[[File:BBC News Online blog style.png|thumb|The blog style used on BBC News Online]]
+BBC News Online uses a blog-style system for correspondents to write articles within their specialism. Journalists including [[Nick Robinson (journalist)|Nick Robinson]] and [[Kamal Ahmed (journalist)|Kamal Ahmed]] use blogs to provide updates on current events and topics. Editors also provide entries within the "Editors' blog", giving explanations for editorial decisions as well as announcing new features or services. Members of the public are also given the opportunity to comment on entries from journalists and editors.
+
+Prior to the adoption of the blog-style, BBC News Online also had a number of topic-specific [[columnist|columns]] written by BBC journalists, such as  former education correspondent [[Mike Baker (journalist)|Mike Baker]]'s ''Mike Baker Weekly'', and technology commentator [[Bill Thompson (technology writer)|Bill Thompson's]] ''bill board'' (formerly ''bill blog''). BBC News Online Science Writer [[Ivan Noble]], diagnosed with a malignant brain tumour in August 2002, shared his experiences of cancer in ''Tumour Diary'' until his death on 31 January 2005.
+
+=== Magazine ===
+The 'Magazine' is a section of BBC News Online that includes a number of articles that are not tied to a particular event or topic, unlike the other articles on the site. The editor is Jonathan Duffy, who took over from Giles Wilson in April 2006.{{citation needed|date=February 2011}}
+
+A major part of the magazine is the "Magazine Monitor" column, which takes an irreverent view on the day's news. It usually includes the "Paper Monitor", which provides a commentary on the daily press in the United Kingdom. During the day a series of [[Caption contest|caption competitions]] and oddities are added. On weekday evenings at around 5p.m. GMT, letters from readers, both serious and light-hearted, are published. Topics can be varied: comments on news stories; how to measure sizes in terms of London [[AEC Routemaster]] buses, or for larger geographical areas, [[Wales]]; spotting people mentioned in news stories whose name is particularly appropriate for their job, etc. Other favourite areas of discussion include the [[Flexicon]], the gender of Paper Monitor or coming up with sardonic comments about previous letters.
+
+On Friday evenings, ready for Saturday morning, an article called "10 things we didn't know last week" collates odd and interesting facts from the week's news. Readers are encouraged to send their own images depicting ten objects to accompany the facts; past examples have included 10 swans flying in formation and ten toes.
+
+Since a redesign of the BBC News Online in September 2006, the Magazine Monitor has followed a blog-style layout, rather than as a page updated over the week in a similar way to news articles. Comments are allowed, but not published, other than a selection in the daily letters.
+
+=== On This Day ===
+<!-- "On This Day" redirects here. -->
+On This Day is the name of the BBC's news archive website. It contains an online [[digital library]] of news stories reported by the BBC on the [[Second World War]] and world events from the 1950s to 2005. There are entries for every day of the year, many including [[video]] or [[Sound|audio]] reports which can be viewed online. The stories are arranged by years, by themes, by witness accounts and by the correspondents reporting the stories. There is also a front page which updates daily with past events from that date.
+
+=== Embedded video and audio ===
+The launch of the [[BBC iPlayer]], with the new [[Adobe Flash]] based BBC Embedded Media Player in July 2007<ref name="iplayerlaunch">{{cite news|url=http://news.bbc.co.uk/1/hi/technology/6916164.stm|title= BBC online video service launches |date=27 July 2007|publisher=BBC News|accessdate=3 October 2008}}</ref> enabled BBC News and Sport Online to change the way it presented video content. Previously the site had delivered online video content using embedded [[RealPlayer]] video in [[Modal window|pop-up windows]] branded as the ''BBC News Player''. From March 2008 the BBC began to gradually introduce embedded video using the EMP into individual news articles and onto the front page.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/help/7277283.stm |title=Your guide to the BBC Embedded Media Player |year=2008 |publisher=BBC News |accessdate=3 October 2008 |url-status=dead |archiveurl=https://web.archive.org/web/20090101044112/http://news.bbc.co.uk/1/hi/help/7277283.stm |archivedate=1 January 2009 }}</ref> The news player also provides constant live [[streaming media|streaming]] of the [[BBC News channel]] via the website.<ref>{{cite web|title=BBC News Channel|url=https://www.bbc.co.uk/news/video_and_audio/|publisher=BBC News Online|accessdate=26 February 2015}}</ref> This had previously only been viewable in a separate window.
+
+=== Mobile and text only versions ===
+Previously, in addition to the standard website with embedded video and audio, there was an [[XHTML]] version optimised for users on mobile devices.<ref>{{cite web|title=BBC News on your mobile|url=https://www.bbc.co.uk/news/10628994|website=BBC News|accessdate=1 February 2015}}</ref> Additionally the [[Wireless Application Protocol|WAP]]<ref>{{cite news|url=http://news.bbc.co.uk/mobile/bbc_news/index.wml|title=BBC News (WAP)|accessdate=16 December 2009}}</ref> version of the website is automatically updated with news, and a text-only version of the main news website can be accessed via the BBC ''Betsie'' service.<ref>{{cite web|url=https://www.bbc.co.uk/education/betsie/|title=BBC Education Betsie Site|accessdate=16 June 2010| archiveurl= https://web.archive.org/web/20100730002015/http://www.bbc.co.uk/education/betsie/| archivedate= 30 July 2010 | url-status= live}}</ref>
+
+BBC News also runs a [[mobile app]], available on the [[Android (operating system)|Android]], [[iOS]] and [[Windows Phone]] systems. The app launched in 2010, originally for the [[iPhone]] and [[iPad]],<ref>{{cite news|title=BBC News iPhone and iPad app launches in the UK|url=https://www.bbc.co.uk/news/technology-10738882|accessdate=1 February 2015|work=BBC News|date=23 July 2010}}</ref> followed by other providers. In January 2015, it was redesigned to include the option to play video and further links within articles to others.<ref>{{cite news|last1=Kelion|first1=Leo|title=BBC News app revamp offers personalised coverage|url=https://www.bbc.co.uk/news/technology-30894674|accessdate=1 February 2015|publisher=BBC News|date=21 January 2015}}</ref>
+
+In March 2010 the BBC announced that the low graphics<ref>{{cite news|url=http://news.bbc.co.uk/low|title=BBC News (low graphics)|accessdate=16 December 2009| archiveurl= https://web.archive.org/web/20091216051648/http://news.bbc.co.uk/low| archivedate= 16 December 2009 | url-status= live}}</ref> and [[PDA]]<ref>{{cite news|url=http://news.bbc.co.uk/nolpda/ukfs_news/hi/ |title=BBC News (PDA)|accessdate=16 December 2009}}</ref> versions of the site would be discontinued.<ref>{{cite web|url=https://www.bbc.co.uk/blogs/bbcinternet/2010/03/news_and_sport_low_graphics_ve.html |title=BBC Internet Blog: News and Sport low graphics switch-off|accessdate=16 June 2010| archiveurl= https://web.archive.org/web/20100723153043/http://www.bbc.co.uk/blogs/bbcinternet/2010/03/news_and_sport_low_graphics_ve.html| archivedate= 23 July 2010 | url-status= live}}</ref> As of May 2010 these versions of the site are no longer available and redirect to the main and mobile websites respectively.
+
+As of 23 March 2015, separate mobile and text only versions have been removed, and replaced with a "responsive web design", allowing the presentation of content to adjust automatically for a wide variety of screen sizes, from desktop computer to smartphones and tablet devices.
+
+== Criticism ==
+The site is primarily funded by the [[television licence]], paid by all UK households owning a [[television set]], and used to carry no advertising. The World edition has received some subsidy from the UK's [[Foreign and Commonwealth Office]] through its grant-in-aid to the [[BBC World Service]]. Proposals to include advertising on the international version of the website were discussed by the [[BBC Trust]] in February 2007, but were opposed by BBC journalists, who feared it would weaken public trust in the impartiality of the BBC.<ref>{{cite news|last1=Holmwood|first1=Leigh|title=BBC staff protest at website ad plans|url=https://www.theguardian.com/media/2006/jun/07/newmedia.advertising|accessdate=1 February 2015|work=The Guardian|date=7 June 2006}}</ref> In October 2007, it was confirmed that the site would start to carry advertising.<ref>{{cite news|last1=Sweney|first1=Mark|last2=Conlan|first2=Tara|title=Ads set for BBC.com website|url=https://www.theguardian.com/media/2007/oct/17/television.advertising|accessdate=1 February 2015|work=The Guardian|date=17 October 2007}}</ref> The advertising consists of large animated banners, which has led to complaints that these make the site's content harder to read.<ref>{{cite web|last1=Herrman|first1=Steve|title=Carrying adverts|url=https://www.bbc.co.uk/blogs/legacy/theeditors/2007/11/carrying_adverts_1.html#commentsanchor|website=BBC News|accessdate=1 February 2015|date=5 November 2007}}</ref>
+
+The impartiality of the ''Have Your Say'' forums has been disputed by organisations such as News Sniffer: moderators are accused of sometimes appearing to promote their own agenda.<ref>{{cite web|url=https://www.bbc.co.uk/blogs/theeditors/2006/10/sniffing_out_edits.html|title=Sniffing out edits|author=Steve Herrmann|publisher=BBC News blogs|date=31 October 2006|accessdate=23 December 2008| archiveurl= https://web.archive.org/web/20081210170836/http://www.bbc.co.uk/blogs/theeditors/2006/10/sniffing_out_edits.html| archivedate= 10 December 2008 | url-status= live}}</ref>
+
+''Have Your Say'' received much criticism in 2009 for featuring the question "Should homosexuals face execution?". The BBC later removed it and apologised after the BBC Pride board lobbied against it and [[Eric Joyce]], the Labour MP for Falkirk, called it "more than offensive" and "completely unacceptable".<ref>{{cite news| url=https://www.theguardian.com/media/2009/dec/16/bbc-africa-have-your-say | location=London | work=The Guardian | first=Stephen | last=Brook | title=BBC news website asks users: 'Should homosexuals face execution?' | date=16 December 2009}}</ref>
+
+== See also ==
+* {{Portal-inline|BBC}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Bbc.co.uk|id=news|title=BBC News}}
+* [http://news.bbc.co.uk/2/hi/help/ BBC News Online – About the site] at [[bbc.co.uk]]
+* [http://news.bbc.co.uk/aboutbbcnews/hi/this_is_bbc_news/newsid_3280000/3280463.stm About BBC News – News Interactive] [[bbc.co.uk]]
+
+{{BBC News}}
+
+[[Category:Internet properties established in 1997]]
+[[Category:BBC New Media|News Online]]
+[[Category:BBC News]]
+[[Category:1997 establishments in the United Kingdom]]
+[[Category:British news websites]]

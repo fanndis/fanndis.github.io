@@ -1,0 +1,176 @@
+{{short description|American technology company}}
+{{Use dmy dates|date=February 2016}}
+{{Infobox company
+| name = Ripple Labs, Inc.
+| logo = Ripple logo.svg
+| type = [[Private company|Private]]
+| founders = [[Chris Larsen]], [[Jed McCaleb]]
+| area_served = Worldwide
+| key_people = Ryan Fugger (Concept Originator)<br />Alan Safahi (Advisory Board)<br />David Schwartz (Chief Cryptographer and Chief Technology Officer)<br />Ken Kurson (Advisory Board)<br />[[Brad Garlinghouse]] (Chief Executive Officer)
+| industry = [[Computer software]]
+| products = {{nowrap|Ripple Payment and Exchange Network}}
+| num_employees = 548 (2020)<ref>{{Cite web |title=Ripple Company Profile |url=https://craft.co/ripple-labs/ |access-date=5 September 2020}}</ref>
+| foundation = 2012<ref name=CompanyOverview />
+| location_city = [[San Francisco]], [[California]], [[U.S.]]
+| location_country = 
+| homepage = [https://ripple.com/ Ripple.com]
+}}
+'''Ripple Labs, Inc.''' is an [[United States|American]] [[technology company]] which develops the [[Ripple (payment protocol)|Ripple payment protocol]] and exchange network. Originally named Opencoin and renamed '''Ripple Labs''' in 2015, the company was founded in 2012 and is based in [[San Francisco]], [[California]].<ref name="CompanyOverview">{{Cite web |title=Company Overview of Ripple Labs Inc. |url=http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=235707311 |access-date=18 March 2014 |publisher=BusinessWeek}}</ref>
+
+==History==
+Ryan Fugger conceived Ripple in 2004 after working on a [[local exchange trading system]] in [[Vancouver]]. The intent was to create a monetary system that was decentralized and could effectively empower individuals and communities to create their own money. Fugger later built the first iteration of this system, [[Ripple (payment protocol)|RipplePay.com]]. Concurrently, in May 2011, [[Jed McCaleb]] began developing a digital currency system in which transactions were verified by consensus among members of the network, rather than by the mining process used by [[Bitcoin]]. In August 2012, [[Jed McCaleb]] hired [[Chris Larsen]] and they approached Ryan Fugger with their digital currency idea. After discussions with McCaleb and long-standing members of the Ripple community, Fugger handed over the reins. In September 2012, Chris Larsen and Jed McCaleb co-founded the corporation OpenCoin.<ref>{{Cite web |last=Reutzel |first=Bailey |title=Disruptor Chris Larsen Returns with a Bitcoin-Like Payments System |url=http://www.paymentssource.com/news/disruptor-chris-larsen-returns-with-bitcoin-like-payments-system-3012580-1.html?zkPrintable=1&nopagination=1 |access-date=18 March 2014 |publisher=PaymentSource}}</ref>
+
+OpenCoin began development of the ripple protocol ([[Ripple (payment protocol)|RTXP]]) and the Ripple payment and exchange network. On April 11, 2013, OpenCoin announced it had closed an angel round of funding with several venture capital firms. That same month, OpenCoin acquired SimpleHoney to help it popularize virtual currencies and make them easier for average users.<ref name=BetterBitcoin /> 
+
+On September 26, 2013, OpenCoin officially changed its name to Ripple Labs, Inc.<ref name=CompanyOverview /> 
+
+On May 5, 2015, Ripple received a {{US$|700,000|2015}} civil money penalty from U.S. Treasury's [[Financial Crimes Enforcement Network]] (FinCEN) for “willful violation of the Bank Secrecy Act by acting as a money services business without registering with FinCEN.”<ref name="fine">{{Cite press release |title=FinCEN Fines Ripple Labs Inc. in First Civil Enforcement Action Against a Virtual Currency Exchanger |date=5 May 2015 |publisher=FinCEN |url=http://www.fincen.gov/news_room/nr/pdf/20150505.pdf |access-date=6 May 2015 |archive-url=https://web.archive.org/web/20150512222302/http://www.fincen.gov/news_room/nr/pdf/20150505.pdf |archive-date=12 May 2015 |url-status=dead |df=dmy-all}}</ref> On October 6, 2015, the company was rebranded from Ripple Labs to Ripple.<ref name="aalecliu">{{Cite news |last=Liu |first=Alec |date=6 October 2015 |title=A New Chapter for Ripple |publisher=Ripple |url=https://ripple.com/blog/a-new-chapter-for-ripple/ |access-date=2015-10-22}}</ref>
+
+On June 13, 2016, Ripple obtained a virtual currency license from the [[New York State Department of Financial Services]], making it the fourth company with a [[BitLicense]].<ref name="bitlicense">{{Cite web |title=Ripple receives BitLicense |url=https://www.finextra.com/pressarticle/64842/ripple-receives-bitlicense |access-date=June 20, 2016}}</ref>
+
+In September 2017, R3 sued Ripple for specific performance of an option agreement in which Ripple agreed to sell up to five billion XRPs for a price of $.0085. Ripple countersued, claiming that R3 reneged on a number of contractual promises, and was simply acting in a spirit of opportunism, after the cryptocurrency increased in value more than 30 times. In September 2018, Ripple and R3 reached an undisclosed settlement agreement.<ref>{{Cite web |date=2018-09-10 |title=Ripple and R3 Reach Settlement |url=https://www.businesswire.com/news/home/20180910005908/en/Ripple-R3-Reach-Settlement |access-date=2019-04-01 |website=www.businesswire.com |language=en}}</ref>
+
+In March 2018, a Japanese bank consortium led by SBI Ripple Asia, comprising 61 banks launched "MoneyTap", a Ripple-powered mobile app to provide on-demand domestic payments in Japan.<ref>{{Cite news |date=6 March 2018 |title=Ripple Powered Mobile App to Provide On-Demand Domestic Payments in Japan |agency=Ripple |url=https://ripple.com/insights/ripple-powered-mobile-app-provide-demand-domestic-payments-japan/}}</ref> In May 2018, Spanish Banking group Santander released One Pay FX — the first mobile application for international payments powered by blockchain technology, that uses Ripple's xCurrent technology.<ref>{{Cite news |date=31 May 2018 |title=Live Transaction: Santander’s One Pay FX |agency=Ripple |url=https://ripple.com/insights/live-transaction-santanders-onepay-fx/}}</ref> Following the creation of a Mumbai office, Ripple has been adding multiple Indian customers in 2018, including leading banks such as Kotak Mahindra Bank, Axis Bank, and IndusInd, that announced that they started using Ripple's products.<ref>{{Cite news |date=27 June 2018 |title=Ripple Improves Access to India with Kotak Mahindra Bank |agency=Ripple |url=https://ripple.com/insights/ripple-improves-access-india-kotak-mahindra-bank/}}</ref>
+
+==Funding==
+The primary source of funding Ripple has been sales of the XRP cryptocurrency. According to its own records it sold 
+$1,254.54 million worth of XRP between Q4 2016 and Q2 2020, to a mix of institutional investors and retail investors via sales on cryptoccurrency exchanges.<ref>{{Cite web |title=XRP Market Report q4-2016 |url=https://ripple.com/insights/q4-2016-xrp-markets-report/ |access-date=10 June 2019}}</ref>
+<ref>{{Cite web |title=XRP Market Report q1-2017 |url=https://ripple.com/insights/q1-2017-xrp-markets-report/ |access-date=10 June 2019}}</ref>
+<ref>{{Cite web |title=XRP Market Report q2-2017 |url=https://ripple.com/insights/q2-2017-xrp-markets-report/ |access-date=10 June 2019}}</ref>
+<ref>{{Cite web |title=XRP Market Report q3-2017 |url=https://ripple.com/insights/q3-2017-xrp-markets-report/ |access-date=10 June 2019}}</ref>
+<ref>{{Cite web |title=XRP Market Report q4-2017 |url=https://ripple.com/insights/q4-2017-xrp-markets-report/ |access-date=10 June 2019}}</ref>
+<ref>{{Cite web |title=XRP Market Report q1-2018 |url=https://ripple.com/insights/q1-2018-xrp-markets-report/ |access-date=10 June 2019}}</ref>
+<ref>{{Cite web |title=XRP Market Report q2-2018 |url=https://ripple.com/insights/q2-2018-xrp-markets-report/ |access-date=8 August 2020}}</ref>
+<ref>{{Cite web |title=XRP Market Report q3-2018 |url=https://ripple.com/insights/q3-2018-xrp-markets-report/ |access-date=8 August 2020}}</ref>
+<ref>{{Cite web |title=XRP Market Report q4-2018 |url=https://ripple.com/insights/q4-2018-xrp-markets-report/ |access-date=8 August 2020}}</ref>
+<ref>{{Cite web |title=Ripple XRP Holdings q1-2019 |url=https://ripple.com/insights/q1-2019-markets-report/ |access-date=8 August 2020}}</ref>
+<ref>{{Cite web |title=Ripple XRP Holdings q2-2019 |url=https://ripple.com/insights/q2-2019-xrp-markets-report/ |access-date=8 August 2020}}</ref>
+<ref>{{Cite web |title=Ripple XRP Holdings q3-2019 |url=https://ripple.com/xrp/q3-2019-xrp-markets-report/ |access-date=8 August 2020}}</ref>
+<ref>{{Cite web |title=Ripple XRP Holdings q4-2019 |url=https://ripple.com/insights/q4-2019-xrp-markets-report/ |access-date=8 August 2020}}</ref>
+<ref>{{Cite web |title=Ripple XRP Holdings q1-2020 |url=https://ripple.com/xrp/q1-2020-xrp-markets-report/ |access-date=8 August 2020}}</ref>
+<ref>{{Cite web |title=Ripple XRP Holdings q2-2020 |url=https://ripple.com/insights/q2-2020-xrp-markets-report/ |access-date=8 August 2020}}</ref>
+<ref>{{Cite web |title=Ripple Caps Record Year With $200 Million Series C Funding |url=https://ripple.com/insights/ripple-caps-record-year-with-200-million-series-c-funding/ |access-date=2 February 2020}}</ref>
+
+Ripple is a privately funded company. It has closed five rounds of funding, which included two rounds of [[Angel investor|angel funding]], one round of [[seed funding]], one [[Series A round]], one [[Series B|Series B round]] and one [[Series C|Series C round]].<ref name="BetterBitcoin">{{Cite web |last=Rip |first=Empson |date=11 April 2013 |title=Now Backed By Andreessen & More, OpenCoin Looks To Build A Better Bitcoin — And A Universal Payment Ecosystem |url=https://techcrunch.com/2013/04/11/now-backed-by-andreessen-more-opencoin-looks-to-build-a-better-bitcoin-and-a-universal-payment-ecosystem/ |access-date=17 March 2014 |publisher=TechCrunch}}</ref>
+
+{| class="wikitable"  
+|- class="hintergrundfarbe5"
+! width="10%" style="text-align:left"| Date 
+! width="10%" style="text-align:center" | Funding <br> type 
+! width="70%" style="text-align:center"| Investor 
+! width="10%" style="text-align:center" | Amount <br> (million $)
+|-
+| April 2013 
+| style="text-align:center"| Angel 
+| [[Andreessen Horowitz]], FF Angel LLC, [[Lightspeed Venture Partners]], Pantera Capital, Vast Ventures, Bitcoin Opportunity Fund
+| style="text-align:center" | 2.5
+|-
+| May 2013 
+| style="text-align:center"| Angel 
+| [[Google Ventures]], [[IDG Ventures|IDG Capital Partners]]
+| style="text-align:center" | 3.0
+|-
+| November 2013 
+| style="text-align:center"| Seed 
+| Core Innovation Capital, Venture51, Camp One Ventures, [[IDG Ventures|IDG Capital Partners]] 
+| style="text-align:center" | 3.5
+|-
+| May 2015 
+| style="text-align:center"| Series A 
+| [[IDG Ventures|IDG Capital Partners]], [[Seagate Technology]], [[Jerry Yang#AME Cloud Ventures|AME Cloud Ventures]], ChinaRock Capital Management, China Growth Capital, Wicklow Capital, Bitcoin Opportunity Corp, Core Innovation Capital, Route 66 Ventures, RRE Ventures, Vast Ventures, Venture 51 
+| style="text-align:center" | 28
+|-
+| October 2015 
+| style="text-align:center"| Series A 
+| [[Santander Group|Santander InnoVentures]] 
+| style="text-align:center" | 4
+|-
+| September 2016 
+| style="text-align:center"| Series B 
+| [[Standard Chartered]], [[Accenture]], [[Siam Commercial Bank|SCB Digital Ventures]], [[SBI Group|SBI Holdings]], [[Santander Group|Santander InnoVentures]], [[CME Group]], [[Seagate Technology]] 
+| style="text-align:center" | 55
+|-
+| December 2019
+| style="text-align:center"| Series C 
+| Tetragon, [[SBI Holdings]], Route 66 Ventures
+| style="text-align:center" | 200
+|}
+
+Ripple's revenue sources include professional services provided to financial network operators being integrated with Ripple, software built to integrate legacy financial systems with Ripple and the native currency ([[Ripple (payment protocol)#XRP|XRP]]). Ripple (a private company registered in Delaware) chooses not to reveal information to the public about sales revenues from software and professional services.
+
+==Programs and projects==
+
+===Charitable contributions===
+Of the 80 billion XRP that Ripple Labs was gifted, Ripple follows a distribution strategy that encompasses payments to business partners such as gateways, market makers and charitable organizations.<ref>{{Cite web |last=Brian |first=Jackson |title=Beyond Bitcoin |url=http://www.itbusiness.ca/slideshows/beyond-bitcoin-top-5-cryptocurrencies-by-market-cap |access-date=19 March 2014 |publisher=itbusiness.ca}}</ref>
+
+Ripple Labs began working with the [[World Community Grid]] in November 2013. The World Community Grid pools surplus processing power from volunteers’ computers and electronic devices to support humanitarian causes such as fighting AIDS, improving solar energy and defeating cancer. Individuals who join the Ripple Labs team and donate their spare processing power are rewarded with XRP. As of March 18, 2014, Ripple Labs has given away 134,528,800 XRP through the World Community Grid at a rate of 1,250,000 XRP per day.<ref>{{Cite web |last=Danny |first=Vega |title=Ripple’s Big Move: Mining Cryptocurrency with a Purpose |url=http://www.heavy.com/tech/2013/12/ripple-xrp-news-purpose/ |access-date=18 March 2014 |publisher=Heavy}}</ref><ref>{{Cite web |title=Computing For Good |url=https://www.computingforgood.org |access-date=18 March 2014 |publisher=Ripple Labs}}</ref><ref>{{Cite web |title=World Community Grid |url=http://www.ibm.com/smarterplanet/us/en/business_analytics/article/wcg.html?lnk=ushpls3 |access-date=18 March 2014 |publisher=IBM}}</ref>
+
+In 2018, Ripple has made multiple donations. The company has donated $29 million of XRP to USA public schools,<ref>{{Cite web |title=Ripple gives away $29 million of its cryptocurrency to public schools |url=https://www.cnbc.com/2018/03/28/ripple-gives-away-29-million-of-its-cryptocurrency-to-public-schools.html |access-date=28 March 2018 |publisher=CNBC}}</ref> and $4 million to The Ellen DeGeneres Wildlife Fund <ref>{{Cite web |title=The Ellen DeGeneres Wildlife Fund Gets $4 Million! |url=https://www.ellentube.com/article/the-ellen-degeneres-wildlife-fund-gets-4-million.html}}</ref>
+
+==Partnerships and initiatives==
+In March 2014, CrossCoin Ventures launched an [[Startup accelerator|accelerator]] which funds companies that work to advance the Ripple ecosystem. The firm funds accepted startups with up to {{US$|50,000|2014}} in XRP, Ripple's native currency, in exchange for a 3% to 6% stake in diluted common stock. Mentorship and support is provided by CrossCoin and Ripple Labs, Inc.<ref>{{Cite news |last=Truong |first=Alice |date=5 March 2014 |title=Move Over, Bitcoin. CrossCoin Bets On Ripple |work=Fast Company |url=http://www.fastcompany.com/3027271/fast-feed/move-over-bitcoin-crosscoins-new-accelerator-bets-on-the-ripple-ecosystem |access-date=18 March 2014}}</ref>
+
+Ripple also developed early partnerships with companies such as ZipZap,<ref name="OlgaKharif">{{Cite web |last=Kharif |first=Olga |title=Ripple Takes on Western Union With Deal to Grow Payments |url=https://www.bloomberg.com/news/2013-10-07/ripple-takes-on-western-union-with-deal-to-grow-payments.html |access-date=January 28, 2014 |publisher=Bloomberg}}</ref> with the relationship called a threat to [[Western Union]] in the press.<ref name="nrpkripplechance">{{Cite news |last=Ryan |first=Philip |date=April 29, 2015 |title=Western Union Will Give Ripple a Chance |work=Bank Innovation |url=http://bankinnovation.net/2015/04/western-union-will-give-ripple-a-chance/ |access-date=2015-06-09}}</ref>
+
+In cooperation with other industry leaders, Ripple Labs became a co-founding member of the Digital Asset Transfer Authority (DATA) in July 2013. DATA provides best practices and technical standards, including anti-money laundering compliance guidance for companies that work with digital currency and other emerging payments systems. The committee works as a liaison among public officials, businesses and consumers and create common rules to protect consumers. The initiative attempts to create a cohesive voice of Bitcoin community members when interacting with regulators.<ref>{{Cite web |last=Reutzel |first=Bailey |title=Innovators Create Self-Regulating Body for Virtual Currency |url=http://www.paymentssource.com/news/innovators-create-self-regulating-body-for-virtual-currency-3014908-1.html |access-date=18 March 2014 |publisher=PaymentsSource}}</ref>
+
+In June 2018, Ripple has committed over $50 million in funding to create the University Blockchain Research Initiative, which aims at support research to:
+
+*Collaborate on research and technical development that will stimulate widespread understanding and innovation in blockchain.
+*Create new curriculum to meet high student demand for learning about blockchain, cryptocurrency and other FinTech topics.
+*Stimulate ideas and dialog among students, faculty, technologists and business leaders on topics of shared interest.<ref>{{Cite web |title=Ripple Introduces the University Blockchain Research Initiative |url=https://ripple.com/insights/ripple-introduces-the-university-blockchain-research-initiative/ |publisher=Ripple}}</ref>
+
+In May 2018, Ripple has announced "an initiative by Ripple that will invest in, incubate, acquire and provide grants to companies and projects that [...] will use the digital asset XRP and the XRP Ledger, the open-sourced, decentralized technology behind XRP, to solve their customers’ problems.".<ref>{{Cite web |title=Welcome to Xpring |url=https://ripple.com/insights/welcome-to-xpring/ |publisher=Ripple}}</ref>
+
+In March 2019, Ripple announced a $100 Million fund for gaming developers which would be overseen by Forte.<ref>{{Cite web |title=A Big Bet on Blockchain and Gaming: Ripple and Forte Announce $100 Million Fund |url=http://fortune.com/2019/03/12/ripple-forte-blockchain-games/ |access-date=2019-03-28 |website=Fortune |language=en}}</ref>
+
+==Awards and recognitions==
+For its creation and development of the ripple protocol (RTXP) and the Ripple payment/exchange network, the magazine ''[[MIT Technology Review]]'' recognized Ripple Labs as one of 2014s 50 Smartest Companies in its February 2014 issue. The criteria for the recognition revolved around "whether a company had made strides in the past year that will define its field."<ref>{{Cite web |last=Bergstein |first=Brian |title=50 Smartest Companies |url=http://www2.technologyreview.com/tr50/2014/ |access-date=12 March 2014 |publisher=MIT Technology Review}}</ref>
+
+On February 9, 2014, Ripple Labs was named as a finalist for a 2014 PYMNTS Innovator Award in two separate categories: Best New Technology as well as Most Disruptive Company. The recognition pertains to Ripple Labs work in creating Ripple, an open-source, distributed payment protocol powering a new global value web.<ref>{{Cite web |title=Ripple Labs Named a Finalist for a PYMNTS 2014 Innovator Award for Ripple Payments Protocol |url=http://www.businesswire.com/news/home/20140219006020/en/Ripple-Labs-Named-Finalist-PYMNTS-2014-Innovator |access-date=3 July 2016}}</ref>
+
+On January 12, 2016, Ripple was listed by UK-based company Richtopia at No. 8 in the list of 100 Most Influential Blockchain Organisations.<ref>{{Cite web |title=Top 100 Blockchain Organisations: From CoinDesk to BitPay, These Are the Most Influential Organisations in the Distributed Ledger Space |url=https://richtopia.com/top-lists/top-100-blockchain |access-date=21 January 2016 |website=Richtopia}}</ref><ref>{{Cite web |title=Richtopia’s List of Top 100 Most Influential Blockchain Projects is out! Congrats to Dash for #47 |url=https://www.dash.org/news/richtopias-list-of-top-100-most-influential-blockchain-projects-is-out-congrats-to-dash-for-47/ |access-date=27 May 2016 |website=Dash}}</ref>
+
+Other Awards:
+
+* February 2015 - Fast Company. The World's Top 10 Most Innovative Companies Of 2015 In Money.<ref name="award1">{{Cite web |title=The World's Top 10 Most Innovative Companies Of 2015 In Money |url=http://www.fastcompany.com/3041657/most-innovative-companies-2015/the-worlds-top-10-most-innovative-companies-of-2015-in-money |access-date=June 30, 2016}}</ref>
+* February 2015 - American Banker. 20 Fintech Companies to Watch.<ref name="award2">{{Cite web |title=20 Fintech Companies to Watch |url=http://www.americanbanker.com/gallery/20-fintech-companies-to-watch-1077196-1.html |access-date=June 30, 2016}}</ref>
+* August 2015 - Ripple Labs Awarded as Technology Pioneer by [[World Economic Forum]].<ref name="award3">{{Cite web |title=Ripple Labs Awarded as Technology Pioneer by World Economic Forum |url=https://ripple.com/ripple_press/ripple-labs-awarded-as-technology-pioneer-by-world-economic-forum/ |access-date=June 30, 2016}}</ref>
+* December 2015 - [[Forbes]]. Fintech 50.<ref name="award4">{{Cite web |title=Fintech 50:The Future Of your Money |url=https://www.forbes.com/fintech/2015/ |access-date=June 30, 2016}}</ref>
+* December 2015 - [[H2 Ventures]], [[KPMG]]. Fintech 100.<ref name="award5">{{Cite web |title=H2 Ventures KPMG Fintech 100 |url=http://www.fintechinnovators.com/ |access-date=June 30, 2016}}</ref>
+* March 2016 - PYMNTS Innovation Project 2016. Best B2B Innovation Award.<ref name="award6">{{Cite web |title=Innovation Project 2016 Innovator Awards |url=http://www.innovationproject.com/2016-innovator-awards/ |url-status=dead |archive-url=https://web.archive.org/web/20160405185529/http://www.innovationproject.com/2016-innovator-awards/ |archive-date=5 April 2016 |access-date=June 30, 2016 |df=dmy-all}}</ref>
+* June 2016 - Fortune. 5 Hottest Companies in Fintech.<ref name="award7">{{Cite web |title=These are the 5 Hottest Companies in Fintech |url=http://fortune.com/2016/06/27/five-hottest-fintechs/ |access-date=July 7, 2016}}</ref>
+
+==Controversies==
+On May 5, 2015, [[FinCEN]] fined Ripple Labs and XRP II US$700,000 for violation of the [[Bank Secrecy Act]],<ref name="fincenfines">{{Cite web |title=FinCEN Fines Ripple Labs Inc. in First Civil Enforcement |url=http://www.fincen.gov/news_room/nr/pdf/20150505.pdf |url-status=dead |archive-url=https://web.archive.org/web/20150512222302/http://www.fincen.gov/news_room/nr/pdf/20150505.pdf |archive-date=12 May 2015 |df=dmy-all}}</ref> based on the Financial Crimes Enforcement Network's [[Money laundering#Combating|anti-money laundering (AML)]] additions to the act in 2013.<ref name="nrpl">{{Cite news |last=Todd |first=Sarah, and Ian McKendry |date=May 6, 2015 |title=What Ripple's Fincen Fine Means for the Digital Currency Industry |work=[[American Banker]] |url=http://www.americanbanker.com/news/bank-technology/what-ripples-fincen-fine-means-for-the-digital-currency-industry-1074195-1.html |access-date=2015-06-09}}</ref> According to the FinCEN announcement: "Ripple Labs willfully violated several requirements of the Bank Secrecy Act (BSA) by acting as a money services business (MSB) and selling its virtual currency, known as XRP, without registering with FinCEN, and by failing to implement and maintain an adequate anti-money laundering (AML) program designed to protect its products from use by money launderers or terrorist financiers."<ref name=":0">{{Cite web |title=FinCEN Fines Ripple Labs Inc. in First Civil Enforcement Action Against a Virtual Currency Exchanger {{!}} FinCEN.gov |url=https://www.fincen.gov/news/news-releases/fincen-fines-ripple-labs-inc-first-civil-enforcement-action-against-virtual |access-date=2020-08-07 |website=www.fincen.gov}}</ref>
+
+Ripple Labs agreed to remedial steps to ensure future compliance, which included an agreement to only transact XRP and "Ripple Trade" activity through registered [[money services business]]es (MSB), among other agreements such as enhancing the Ripple Protocol.<ref name="fincenfines" /> It has been argued that the changes made to the protocol did not change the protocol itself, but instead added AML transaction monitoring to the network and improve transaction analysis.<ref name="nrpl" /> However the FinCen statement clearly indicated that Ripple itself was making changes to the protocol as a result of the enforcement action. "Ripple Labs will also undertake certain enhancements to the Ripple Protocol to appropriately monitor all future transactions."<ref name=":0" />
+
+Ripple executives, including CTO David Schwartz, have admitted the software that is sold to banks for payments processing, XCurrent, is not a blockchain or any form of distributed ledger. Schwartz described it as “bi-directional messaging” that can eventually plug into distributed ledgers, but xCurrent’s technology itself “is not a distributed ledger.”<ref>{{Cite web |title=Banks unlikely to process payments with distributed ledgers for now, says Ripple |url=https://uk.reuters.com/article/us-blockchain-ripple/banks-unlikely-to-process-payments-with-distributed-ledgers-for-now-says-ripple-idUKKBN1J92JG |access-date=28 July 2019}}</ref>
+
+In May 2018, Stewart Hosie MP, at a UK parliamentary inquiry into digital currencies, questioned Ryan Zagone of Ripple about the value and nature of the XRP Cryptocurrency: "...but the point that was made earlier, Mr Zagone, is that if people buy XRP—a financial asset—from Ripple Labs, it does not entitle them to an ownership stake, there is no right to be converted back into conventional currencies and it does not pay any return. It also seemingly has no purpose. Is that simply to avoid XRP looking like a security or an equity, and to avoid the necessary regulation?" <ref>{{Cite web |title=Treasury Committee Questioning of Ripple |url=http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/treasury-committee/digital-currencies/oral/82323.html |access-date=27 July 2019}}</ref>
+
+Ripple claims to be completely separate from and have no control over the XRP cryptocurrency, in spite of the FinCen press release describing XRP as "its virtual currency, known as XRP".<ref name=":0" /> However Ripple controls the vast majority of the supply of XRP<ref>{{Cite web |title=Ripple XRP Holdings |url=https://www.cnbc.com/2018/01/16/why-ripple-is-not-cashing-out-its-xrp-holdings.html |access-date=9 June 2019}}</ref> and, according to its own published records, earns the majority of its income from selling XRP.
+
+In 2018 CEO claimed on multiple occasions that by end of that year "major banks" would be using Ripple tools that made use of the XRP cryptocurrency and that by end of 2019 "dozens" of banks would be using XRP.<ref>{{Cite web |date=2018-06-04 |title=Ripple CEO: Expect dozens of banks to use our cryptocurrency next year |url=https://www.cnbc.com/video/2018/06/04/ripple-ceo-expect-dozens-of-banks-to-use-our-cryptocurrency-next-year.html |access-date=2020-04-25 |website=CNBC |language=en}}</ref>  Both claims by the end of 2019 were proven to be untrue. In 2018 and 2019 Garlinghouse claimed on multiple occasions that the published error rate for [[SWIFT]] messaging was at least 6%<ref>{{Cite web |title=Swiss National Bank (SNB) - Research TV |url=https://www.snb.ch/en/ifor/research/id/researchtv-event?event=luUj6_tSzXh1s1Uf7RR88g |access-date=2020-04-25 |website=www.snb.ch}}</ref> , this was shown to be untrue by research published by the London School of Economics Business Review that showed Garlinghouse's claims were based on mis-reading of a paper published by SWIFT  that did not refer to error rates in messaging<ref>{{Cite web |last=November 4th |last2=2019{{!}}Finance |last3=FinTech |last4=Information |last5=Technology |last6=Comments |first6=LSE alumni{{!}}3 |date=2019-11-04 |title=Do six per cent of financial transactions sent via the Swift system really fail? |url=https://blogs.lse.ac.uk/businessreview/2019/11/04/do-six-per-cent-of-financial-transactions-sent-via-the-swift-system-really-fail/ |access-date=2020-04-25 |website=LSE Business Review |language=en-US}}</ref>.
+
+At a conference in 2019<ref>{{Cite web |title=Western Union and Zelle Executives Dish on Competition and the Future of Mobile Payments |url=https://fortune.com/2019/06/19/western-union-zelle-mobile-payments/ |access-date=8 August 2020}}</ref>, Hikmet Ersek, CEO of Western Union, stated that his company had experimented with Ripple in 2018 but had chosen not to adopt their cryptocurrency based payments software because, “It’s five times more expensive”, than using their existing infrastructure.
+
+In 2020 an article in Financial Times Alphaville<ref>{{Cite web |url=https://ftalphaville.ft.com/2020/02/26/1582730287000/The-art-of-redefining-success--MoneyGram-and-Ripple-edition/ |access-date=2020-04-25 |website=ftalphaville.ft.com}}</ref> revealed that Moneygram, the largest public user of Ripple's XRP based liquidity tools, has not only received a $50m investment prior to adopting the tools but that the software was provided free of charge by Ripple and that Moneygram was receiving an on-going subsidy for using XRP, amounting to $8.9m in Q4 2019. The same article revealed that Ripple was dependent on sales of XRP to remain profitable.
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [https://ripple.com/ Ripple.com]
+
+{{Cryptocurrencies}}
+
+[[Category:Software companies based in California]]
+[[Category:Ripple payment network]]
+[[Category:Cryptocurrencies]]
+[[Category:2012 establishments in the United States]]
+[[Category:Software companies of the United States]]
+[[Category:2012 establishments in California]]
+[[Category:Software companies established in 2012]]
+[[Category:Companies established in 2012]]

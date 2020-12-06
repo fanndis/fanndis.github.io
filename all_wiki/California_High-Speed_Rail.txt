@@ -1,0 +1,558 @@
+{{short description|System under construction and planning in the United States}}
+{{Use mdy dates|date=September 2016}}
+{{Infobox public transit
+|name = California High-Speed Rail
+|image = CAHSRA Logo.svg
+|imagesize = 250px
+|locale = [[California]], United States
+|notrack = 2 {{small|(4 in stations)}}
+|owner = [[California High-Speed Rail Authority]]
+|area served = [[San Francisco Bay Area]]<br />[[San Joaquin Valley]]<br />[[Southern California]]
+|top_speed = {{convert|220|mph|km/h|abbr=on}} maximum<br />{{convert|110|mph|km/h|abbr=on}} San Francisco–Gilroy<ref>{{cite web | title=HSR Q+A: Blended System & Passing Tracks with Boris Lipkin | url=https://www.youtube.com/watch?v=10B9ucHeJis | publisher=California High-Speed Rail Authority | year=2020 | accessdate=October 12, 2020 }}</ref><br />{{convert|110|mph|km/h|abbr=on}} Los Angeles–Anaheim<ref>{{cite web|url=http://www.hsr.ca.gov/docs/programs/statewide_rail/proj_sections/LA_Anaheim/Anaheim_SAA_Executive_Summary_071710.pdf |title=ES.0 Executive Summary: ES.1 Supplemental Alternatives Analysis Report Results |website=Hsr.ca.gov |accessdate=January 14, 2016}}</ref>
+|transit_type = [[High-speed rail]]
+|chief_executive = Brian P. Kelly
+|track_gauge = {{railgauge|sg|first=imp|allk=on}}
+|el = 25 k[[Volt|V]] 60 [[Hertz|Hz]] [[Alternating current|AC]] [[overhead line]]<ref>{{cite web|title=TECHNICAL MEMORANDUM: Traction Power 2x25kV Autotransformer Feed Type Electrification System & System Voltages|url=http://www.hsr.ca.gov/docs/programs/eir_memos/Proj_Guidelines_TM3_1_1_1R02.pdf|website=HSR.CA.gov|publisher=CHSRA|accessdate=3 November 2016}}</ref><ref name=CaltrainStadler />
+|stations = 24 {{small|(total proposed)}}
+|system_length = {{circa}} {{convert|171|mi|km|abbr=on}} {{small|(central leg)}}<br />{{circa}} {{convert|520|mi|km|abbr=on}} {{small|(Phase 1)}}<br />{{circa}} {{convert|800|mi|km|abbr=on}} {{small|(proposed including Phase 2)}}<ref>{{cite web|url=http://www.cahighspeedrail.ca.gov/images/chsr/20080123171537_ImplementationPlan.pdf |title=Implementation Plan |accessdate=July 17, 2008 |author=California High-Speed Rail Authority |pages=23, 25 |url-status=dead |archive-url=https://web.archive.org/web/20080910174725/http://www.cahighspeedrail.ca.gov/images/chsr/20080123171537_ImplementationPlan.pdf |archive-date=September 10, 2008 }}</ref>
+|operator = [[Deutsche Bahn|DB International USA]]
+|website = {{ubl|{{URL|https://www.buildhsr.com/}}|{{URL|www.hsr.ca.gov}}}}
+| map = {{California High-Speed Rail}}
+| map_state = collapsed
+}}
+'''California High-Speed Rail''' ('''CAHSR''' or '''CHSR''') is a publicly funded [[high-speed rail]] system under construction in the [[U.S. state]] of [[California]]. It is projected to connect the [[Anaheim Regional Transportation Intermodal Center]] in [[Anaheim]] and [[Union Station (Los Angeles)|Union Station]] in [[Downtown Los Angeles]] with the [[Transbay Transit Center|Salesforce Transit Center]] in [[San Francisco]] via the [[Central Valley (California)|Central Valley]], providing a one-seat ride between Union Station and San Francisco in 2 hours and 40 minutes, a distance of {{convert|380|mi|-1|}}. Future extensions are planned to connect to stations in [[San Diego County, California|San Diego County]] via the [[Inland Empire]], as well as to [[Sacramento]]. 
+
+CAHSR plans to operate on dedicated, [[Grade separation|grade-separated]] tracks for the entirety of its route between [[San Jose, California|San Jose]] and [[Burbank, California|Burbank]] with speeds of up to {{convert|220|mph||round=5}}, with early ridership projections for the San Francisco to Los Angeles leg at 28.4 million per year. The San Francisco–San Jose and Los Angeles–Anaheim sections will be shared with local trains in a "blended system". The project is owned and managed by the state of California through the [[California High-Speed Rail Authority]] (CHSRA). The Bakersfield to Los Angeles segment would be the first instance of a direct passenger train route between the cities since the termination of the [[Southern Pacific Railroad]]'s ''[[San Joaquin Daylight]]'' in 1971.
+
+The CAHSRA was established by an act of the [[California State Legislature]] and tasked with presenting a high-speed rail plan to the voters. This plan, [[California Proposition 1A (2008)|Proposition 1A]], was presented to and approved by voters in 2008 and included a $9&nbsp;billion bond to begin construction on the initial leg of the network. Construction began in 2015 after a groundbreaking ceremony in [[Fresno, California|Fresno]]. The ARRA funding agreement, which CAHSR intends to use to build the Central Valley segment, specifies a completion date of December 31, 2022,<ref>{{cite news |last1=Davis |first1=Jeff |title=California Auditor Questions Completion Timetable for High-Speed Rail Project |url=https://www.enotrans.org/article/california-auditor-questions-completion-timetable-for-high-speed-rail-project/ |accessdate=19 November 2018 |agency=Eno Transportation Center |date=16 November 2018}}</ref> and the 2018 draft Business Plan calls for opening the initial operating segment between [[San Jose Diridon station]] and [[Bakersfield, California|Bakersfield]] in 2027.<ref name="2018draft-plan">{{cite web|title=Draft 2018 Business Plan|url=http://www.hsr.ca.gov/docs/about/business_plans/Draft_2018_Business_Plan.pdf|publisher=California High-Speed Rail Authority|accessdate=21 April 2018}}</ref> The complete first phase between San Francisco and Anaheim is expected in 2033.<ref>{{cite news|last1=Adam Nagourney |title=A $100 Billion Train: The Future of California or a Boondoggle? |url=https://www.nytimes.com/2018/07/30/us/california-high-speed-rail.html |accessdate=30 July 2018 |newspaper=[[The New York Times]] |date=30 July 2018 |quote=The 800-mile line from Los Angeles to San Francisco is scheduled for completion by 2033.}}</ref> Phase 2 extensions to Sacramento and San Diego are still in the planning stages.
+
+On February 12, 2019, Governor [[Gavin Newsom]] in his first State of the State address announced that, while work would continue on the {{convert|171|mi|km|adj=on}}<ref>{{cite news|url=https://www.sacbee.com/news/politics-government/capitol-alert/article226282855.html|title= No, Gov. Gavin Newsom didn't kill high-speed rail. But what's his Plan B?|work=Sacramento Bee|date=2019-02-18|accessdate=2019-02-21}}</ref> Central Valley segment from Bakersfield to Merced, the rest of the system would be indefinitely postponed, citing cost overruns and delays.<ref>{{cite web|url=https://www.newyorker.com/news/daily-comment/is-gavin-newsom-right-to-slow-down-californias-high-speed-train|title=Is Gavin Newsom Right to Slow Down California's High-Speed Train?|first=Nathan|last=Heller|date=February 15, 2019|accessdate=February 16, 2019|via=www.newyorker.com}}</ref> 
+
+Project costs have escalated significantly from an initial estimate of $33.6&nbsp;billion in 2008<ref>{{cite web|url=http://www.hsr.ca.gov/docs/about/business_plans/BPlan_2008_FactSheet.pdf |title=California High-Speed Rail Authority &#124; State of California |publisher=Hsr.ca.gov |accessdate=2019-10-27}}</ref> for the Anaheim to San Francisco section according to the 2008 business plan and a $40&nbsp;billion total figure given to voters whose approval was sought in 2008.<ref>{{cite web|url=http://www.hsr.ca.gov/docs/newsroom/reports/2008/The_Economic_Impact_of_High_Speed_Trains_for_OC.pdf |title=California High-Speed Rail Authority &#124; State of California |publisher=Hsr.ca.gov |accessdate=2019-10-27}}</ref><ref>{{cite web|url=https://www.washingtonexaminer.com/opinion/editorials/needed-someone-brave-enough-to-stop-californias-crazy-train|title=Needed: Someone brave enough to stop California's crazy train|date=December 9, 2018|website=Washington Examiner|accessdate=February 16, 2019}}</ref> The 2008 business plan proposed a 2028 completion date for Phase 1 and a one-way fare of $55 from Los Angeles to San Francisco.<ref name="auto">{{cite web|url=https://www.dailywire.com/news/26017/cost-californias-high-speed-choo-choo-train-just-jared-sichel|title=Cost Of California's High-Speed Train Just Skyrocketed . . . AGAIN!|last=2018|date=January 17, 2018|website=Daily Wire|accessdate=February 16, 2019}}</ref> In 2012, the Authority re-estimated the project's cost at $53.4 billion ($2011) or $68.4 billion (YOE).<ref name="hsr.ca.gov2">{{cite web|url = http://www.hsr.ca.gov/docs/about/business_plans/BPlan_2012ExecSum.pdf#page=16|format = PDF|title = Revised 2012 Business Plan|website = Hsr.ca.gov|accessdate = January 14, 2016}}</ref> Federal funds are dependent upon rail service, though not necessarily high-speed, starting on operational rails by December 2022.<ref>{{cite news |last1=Stock, Nious and Horn |title=High-Speed Rail CEO Brian Kelly: How the Bullet Train Can Get Back on Track |url=https://www.nbcbayarea.com/investigations/How-Can-Californias-High-Speed-Rail-Project-Get-Back-on-Track-565341842.html |accessdate=25 November 2019 |agency=NBC Bay Area |date=22 November 2019}}</ref> In 2018, the Authority pushed estimated costs to between $63.2&nbsp;billion and $98.1&nbsp;billion (YOE) and delayed initial service to 2029, with Los Angeles to San Francisco service in 2033.<ref name="auto1">{{cite news|last1=RALPH VARTABEDIAN|title=Cost for California bullet train system rises to $77.3 billion|url=https://www.latimes.com/local/california/la-me-bullet-train-cost-increase-20180309-story.html|accessdate=10 March 2018|newspaper=[[Los Angeles Times]]|date=9 March 2018}}</ref><ref name="auto2">{{cite web|url=https://www.cnbc.com/2018/03/09/california-bullet-train-costs-soar-to-77-billion-opening-delayed.html|title=Transportation|last=CNBC|website=CNBC|accessdate=October 4, 2018}}</ref><ref name="2018plan">{{cite web |title=2018 Business Plan |url=https://www.hsr.ca.gov/docs/about/business_plans/2018_BusinessPlan.pdf |date=1 June 2018 |accessdate=14 February 2019}}</ref> Environment reviews for the entire San Francisco to Anaheim route would continue.<ref>{{Cite news|url=https://www.sacbee.com/news/politics-government/capitol-alert/article226151030.html|title='Let's be real.' Gavin Newsom says he'll cut back on California's high speed rail plan|work=The Sacramento Bee|access-date=2019-02-12|language=en-US|issn=0890-5738}}</ref><ref>{{cite web|url=https://www.latimes.com/politics/la-pol-ca-governor-gavin-newsom-state-of-the-state-20190212-story.html|title=Gov. Gavin Newsom pledges to scale back high-speed rail and twin-tunnels projects in State of the State speech|last=Willon|first=Phil|last2=Luna|first2=Taryn|date=2019-02-12|website=Los Angeles Times|access-date=2019-02-13}}</ref> The cost for Bakersfield to Merced is $12.4&nbsp;billion.<ref>{{cite news |title=Trump administration cancels $ 929-million grant for California bullet train |url=https://www.latimes.com/local/california/la-me-high-speed-rail-loses-federal-funding-20190516-story.html |accessdate=17 May 2019 |work=LAT |date=16 May 2019 |language=en |quote=The rail authority's most recent business report projected that costs for current construction in the Central Valley has jumped an additional $ 1.8 billion to $ 12.4 billion, a segment for which originally cost $ 6 billion}}</ref><ref>{{Cite web|url=https://abc7.com/5280622/|title=California High-Speed Rail project costs could increase by $1.8 billion, bringing total to $12.4 billion|date=May 16, 2019|website=ABC7 Los Angeles}}</ref><ref>{{cite web|url=https://www.latimes.com/local/california/la-me-bullet-train-cost-overrun-20180116-story.html|title=California bullet train cost surges by $2.8 billion: 'Worst-case scenario has happened'|first=Ralph|last=Vartabedian|website=latimes.com|accessdate=February 16, 2019}}</ref>
+
+==Route and stations==
+{{update|section|date=March 2018}}
+{{Location map+
+| California
+| width          = 360
+| float          = left
+| caption        = Locations of planned California High-Speed Rail route and stations.  Phase I: black; Phase II: teal.  The separate [[Brightline West]] system is shown in cyan.  Station and route locations are approximate in some cases.
+| alt            = A topographic map of California with California High-Speed Rail stations marked
+| relief         = yes
+| overlay_image  = California High-Speed Rail route.svg
+| places         =
+{{Location map~ | California | label      = {{Raise|0.1em|{{Nowrap|[[Transbay Transit Center|San Francisco]]}}}}
+| lat_deg    = 37.7888102 | lon_deg    = -122.3996417 | position   = left| mark       =
+}}
+{{Location map~ | California | label      = {{Lower|0.2em|{{Nowrap|[[Millbrae Intermodal Terminal|Millbrae–SFO]]}}}}
+| lat_deg    = 37 |lat_min = 36 |lat_sec=01 |lon_deg=-122 |lon_min=-23 |lon_sec=-12 | position   = left | mark       =
+}}
+{{Location map~ | California | label      = {{Lower|0.2em|[[San Jose Diridon station|San Jose]]}}
+| lat_deg    = 37.330 | lon_deg    = -121.903 | position   = left | mark       =
+}}
+{{Location map~ | California | label      = [[Gilroy (Caltrain station)|Gilroy]]
+| lat_deg    = 37 |lat_min = 00 |lat_sec=15 |lon_deg=-121 |lon_min=-34 |lon_sec=-00 | position   = left | mark       =
+}}
+{{Location map~ | California | label      = [[Merced station (California High-Speed Rail)|Merced]]
+| lat_deg    = 37.298422 | lon_deg    = -120.479747 | position   = | mark       =
+}}
+{{Location map~ | California | label      = [[Madera station (Amtrak)|Madera]]
+| lat_deg    = 36.923331 | lon_deg    = -119.973833 | position   = | mark       =
+}}
+{{Location map~ | California | label      = [[Fresno station (California High-Speed Rail)|Fresno]]
+| lat_deg    = 36.733074 | lon_deg    = -119.793732 | position   = | mark       =
+}}
+{{Location map~ | California | label      = {{Nowrap|[[Kings–Tulare Regional Station|Kings–Tulare]]}}
+| lat_deg    = 36.335141 | lon_deg    = -119.592321 | position   = | mark       =
+}}
+{{Location map~ | California | label      = [[Bakersfield station (California High-Speed Rail)|Bakersfield]]
+| lat_deg    = 35.390655 | lon_deg    = -119.022328 | position   = | mark       =
+}}
+{{Location map~ | California | label      = [[Palmdale Transportation Center|Palmdale]]
+| lat_deg    = 34 |lat_min = 35 |lat_sec=27 |lon_deg=-118 |lon_min=-07 |lon_sec=-10 | position   = left | mark       =
+}}
+{{Location map~ | California | label      = {{Raise|0.3em|[[Burbank Airport–North station|Burbank]]}}
+| lat_deg    = 34.2067714 | lon_deg    = -118.3527397 | position   = left | mark       =
+}}
+{{Location map~ | California | label      = [[Union Station (Los Angeles)|Los Angeles]]
+| lat_deg    = 34.05515 | lon_deg    = -118.23525 | position   = left | mark       =  |
+}}
+{{Location map~ | California | label      = {{Lower|0.4em|{{Nowrap|[[Norwalk/Santa Fe Springs station|Norwalk]] / [[Fullerton Transportation Center|Fullerton]]}}}}
+| lat_deg    = 33.9162 | lon_deg    = -118.0602 | position   = left | mark       =  |label_size = 70
+}}
+{{Location map~ | California | label      = {{Lower|0.7em|[[Anaheim Regional Transportation Intermodal Center|Anaheim]]}}
+| lat_deg    = 33 |lat_min = 48 |lat_sec=12 |lon_deg=-117 |lon_min=-52 |lon_sec=-39 | position   = left | mark       =
+}}
+{{Location map~ | California | label = {{Raise|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Ontario International Airport|Ontario]]}}
+| lat_deg    = 34.062583 |lon_deg=-117.593403 | position   = top |label_size = 70 |mark       = Orange pog.svg
+}}
+{{Location map~ | California | label = {{Nowrap|[[San Bernardino Transit Center|San Bernardino]]}}
+| lat_deg    = 34 |lat_min = 06 |lat_sec=00 |lon_deg=-117 |lon_min=-17 |lon_sec=-43 | position   = | mark       = Orange pog.svg
+}}
+{{Location map~ | California | label = [[Murrieta, California|Murrieta]]
+| lat_deg    = 33 |lat_min = 34 |lat_sec=10 |lon_deg=-117 |lon_min=-15 |lon_sec=-32 | position   = | mark       = Orange pog.svg
+}}
+{{Location map~ | California | label = [[Escondido, California|Escondido]]
+| lat_deg    = 33.125339 |lon_deg=-117.101538 | position   = right | mark       = Orange pog.svg
+}}
+{{Location map~ | California | label = [[San Diego International Airport|San Diego]]
+| lat_deg    = 32 |lat_min = 44 |lat_sec=00 |lon_deg=-117 |lon_min=-11 |lon_sec=-23 | position   = | mark       = Orange pog.svg
+}}
+{{Location map~ | California | label = [[Modesto, California|Modesto]]
+| lat_deg    = 37.639318 |lon_deg=-121.0020768 | position   = | mark       = Orange pog.svg
+}}
+{{Location map~ | California | label = [[Stockton, California|Stockton]]
+| lat_deg    = 37.929590 |lon_deg=-121.241296 | position   = | mark       = Orange pog.svg
+}}
+{{Location map~ | California | label = [[Sacramento Valley Station|Sacramento]]
+| lat_deg    = 38.584791 |lon_deg=-121.500517 | position   = right | mark       = Orange pog.svg
+}}
+{{Location map~ | California | label = [[Victorville, California|Victorville]]
+| lat_deg    = 34.585618 |lon_deg= -117.267481 | position   = right | mark       = Blue pog.svg
+}}
+{{Location map~ | California | label = [[Las Vegas station (Brightline West)|Las Vegas]]
+| lat_deg    = 36.175 |lon_deg=-115.136389 | position   = left | mark       = Blue pog.svg
+}}
+}}
+
+{{Main|Route of California High-Speed Rail}}
+On August 13, 2008, California Assembly Bill 3034 (AB 3034) was approved by the state legislature and signed by Governor [[Arnold Schwarzenegger]] on August 26, 2008.<ref name="3034-Hist">{{cite web |title=AB-3034 Safe, Reliable High-Speed Passenger Train Bond Act for the 21st Century. (2007-2008) - History |url=http://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=200720080AB3034 |publisher=[[California State Assembly]] |accessdate=16 September 2018 |language=en |date=2008}}</ref> The bill was submitted to California voters in the [[California elections, November 2008|November 2008 election]] as [[California Proposition 1A (2008)|Proposition 1A]] and approved.<ref name="Prop 1A vote">{{cite web |title=Statement of Vote - November 4, 2008 General Election |url=https://www.sos.ca.gov/elections/sov/2008_general/sov_complete.pdf |publisher=[[California Secretary of State]] |accessdate=16 September 2018 |archive-url=https://web.archive.org/web/20121115153501/https://www.sos.ca.gov/elections/sov/2008_general/sov_complete.pdf |archive-date=15 November 2012 |url-status=dead |page=9 |language=en |date=2008}}</ref> With the voter's [[Mandate (politics)|mandate]], AB 3034 specified certain route and travel time requirements. Among these were that the route must link downtown San Francisco with Los Angeles and Anaheim and must link the state's major population centers together, "including Sacramento, the San Francisco Bay Area, the Central Valley, [the] Los Angeles Basin, the Inland Empire, Orange County, and San Diego." The first phase of the project must link San Francisco with Los Angeles and Anaheim. Up to 24 stations were authorized for the completed system.<ref name="3034-Text">{{cite web |title=AB-3034 Safe, Reliable High-Speed Passenger Train Bond Act for the 21st Century. (2007-2008) - Text |url=http://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=200720080AB3034 |publisher=[[California State Assembly]] |accessdate=16 September 2018 |language=en |date=2008}}</ref>
+
+This system was scheduled be built in two phases. Phase 1 was to be approximately {{convert|520|miles}} long, with completion expected in 2029. Phase 1 would connect the downtowns of San Francisco, Los Angeles, and Anaheim using high-speed rail through the Central Valley.<ref>{{cite web|url = http://www.hsr.ca.gov/About/Business_Plans/2012_Business_Plan.html|title = 2012 Business Plan &#124; Business Plans &#124; California High-Speed Rail Authority|publisher = Hsr.ca.gov|accessdate = January 14, 2016}}</ref> In Phase 2, the route was planned to be extended north from the Central Valley to Sacramento and east from Los Angeles through the Inland Empire and then south to San Diego. Upon completion the total system length would have been approximately {{convert|800|miles}}.
+
+On February 18, 2016, the Rail Authority released its 2016 Draft Business Plan,<ref>{{cite web|url=http://www.hsr.ca.gov/docs/about/business_plans/DRAFT_2016_Business_Plan_0201816.pdf|title=2016 Draft Business Plan|publisher=California High Speed Rail Authority}}</ref> which significantly altered its near-term plans for the system implementation. While construction was always intended to begin in the Central Valley, the Initial Operating Section (IOS) has always had two options: extend from the Central Valley northward toward the Bay Area (the IOS-North, San Jose to Bakersfield), or southward to Southern California (IOS-South, Merced to San Fernando Valley). In the 2012 and 2014 Business Plans the goal was to implement the IOS-South, but a 2016 analysis of the funding available and time necessary to bring an IOS online the rail authority proposes the IOS-North be implemented instead. The proposal, named the Silicon Valley to Central Valley Line, is expected that sufficient funding will be available to bring this segment online by 2025.<ref name="Draft 2016 Business Plan p. 100">{{cite web|title=CHSRA Draft Business Plan 2016|url=http://www.hsr.ca.gov/docs/about/business_plans/2016_BusinessPlan.pdf|publisher=CHRSA|accessdate=2 August 2017}}</ref> The rail authority state its commitment to pursue additional funding to complete the Phase 1 system by 2029.<ref name="Draft 2016 Business Plan p. 100"/>
+
+The updated business plan also reduced the cost of the system from US$67.6&nbsp;billion to US$64.2&nbsp;billion for Phase 1; this included a savings of US$5.5&nbsp;billion based on actual experience, improved plans, and other feedback, but also an additional US$2.1&nbsp;billion cost for improvements to the Los Angeles to Anaheim corridor.<ref>Draft 2016 Business Plan, pp. 28, 55.</ref> The 2016 Business Plan estimated the cost to completion of the Silicon Valley to Central Valley line was US$20.6&nbsp;billion.<ref>Draft 2016 Business Plan, p. 57.</ref> The public had 60 days, from February 19, 2016, to submit comments on the Draft 2016 Business Plan to the rail authority. The plan was adopted by the rail authority in April 2016, and submitted by legal requirement to the California State Legislature on May 1, 2016.<ref name="Draft 2016 Business Plan p. 100"/>
+
+The Initial Construction Segment (ICS) of high-speed tracks runs from Merced to Bakersfield in the Central Valley. Simultaneously with the ICS construction, there are "bookend" and connectivity investments<ref>{{cite web|url = http://www.hsr.ca.gov/Programs/Statewide_Rail_Modernization/index.html|title = Statewide Rail Modernization &#124; Programs &#124; California High-Speed Rail Authority|publisher = Hsr.ca.gov|accessdate = January 14, 2016}}</ref> including [[Electrification of Caltrain|electrification of the San Francisco Peninsula Corridor]] used by [[Caltrain]], improvements to tracks and signaling for both [[Metrolink (Southern California)|Metrolink]] in the LA area and Caltrain, and better passenger interconnections for Caltrain, Amtrak, and other Northern California rail lines.
+
+{{Clear}}
+
+===Phase 1===
+All stations in this table represent proposed service. Station names in italics are optional stations that may not be constructed. In most cases existing stations will be re-purposed for high-speed rail service, with the exception of completely new stations at Merced, Fresno, Kings–Tulare, and Bakersfield.
+
+{|class="wikitable sortable"
+|-
+!Station
+!Location
+!Status
+!Completion<ref name=RollsOut2020>{{cite news |last1=Thadani |first1=Trisha |title=Plan for high-speed rail rolls out for San Francisco to San Jose - but with little cash |url=https://www.sfchronicle.com/news/article/Plan-for-high-speed-rail-rolls-out-for-San-15398354.php |accessdate=12 July 2020 |agency=San Francisco Chronicle |date=10 July 2020}}</ref>
+!Connecting rail services
+!Connecting bus services
+!Notes
+|-
+|[[Transbay Transit Center]]
+|rowspan=2|{{Nowrap|[[San Francisco]]}}
+|Existing, train station and connecting tunnel unfunded
+| postponed
+|[[Caltrain]]<br />([[BART]], {{nowrap|[[E Embarcadero]]}}, {{nowrap|[[F Market & Wharves]]}}, [[Muni Metro]] via pedestrian tunnel)
+|[[AC Transit]], [[Amtrak Thruway Motorcoach]], [[Blue & Gold Fleet]], [[Golden Gate Ferry]], [[Golden Gate Transit]], [[Greyhound Lines|Greyhound]], Paratransit Service, [[Red & White Fleet]], [[San Francisco Bay Ferry]], [[San Francisco Municipal Railway|Muni]], [[Chariot (company)|Chariot Transit]], [[SamTrans]], [https://web.archive.org/web/20101103203945/http://www.westcat.org/lynx/ WestCAT Lynx]
+|
+|-
+|[[San Francisco 4th and King Street station|San Francisco–4th and King Street]]
+|Existing, modifications needed
+|rowspan=4| 2031
+||[[Caltrain]], [[Muni Metro]], {{nowrap|[[E Embarcadero]]}}
+|[[San Francisco Municipal Railway|Muni]], [[Flixbus]]
+|<ref name=RollsOut2020 />
+|-
+|{{Nowrap|[[Millbrae Intermodal Terminal]]}}
+|[[Millbrae, California|Millbrae]]
+|{{Nowrap|Existing, modifications}} needed
+|[[BART]], [[Caltrain]]<br />([[AirTrain (San Francisco International Airport)|AirTrain (SFO)]] via [[BART]])
+|[[SamTrans]]
+|
+|-
+|[[Diridon Station]]
+|[[San Jose, California|San Jose]]
+|Existing, modifications needed
+|[[Altamont Corridor Express|ACE]], [[BART]], [[Caltrain]], [[Capitol Corridor]], [[Coast Starlight]], [[Santa Clara Valley Transportation Authority Light Rail|VTA Light Rail]]
+|[[Amtrak Thruway Motorcoach]], [[California Shuttle Bus]], DASH, [[Highway 17 Express]], [[Monterey-Salinas Transit]], [[San Joaquin Regional Transit District|RTD]], [[Santa Clara Valley Transportation Authority|VTA]]
+|
+|-
+|[[Gilroy (Caltrain station)|Gilroy]]
+|[[Gilroy, California|Gilroy]]
+|Planning agreement in place
+|[[Caltrain]]
+|[[Monterey-Salinas Transit]], [[San Benito County Express]], [[Santa Clara Valley Transportation Authority|VTA]]
+|
+|-
+|[[Merced (California High-Speed Rail station)|Merced]]
+|[[Merced, California|Merced]]
+|Planning agreement in place
+|rowspan=5|2029 ({{abbr|CVS|Central Valley Segment}})
+|[[Altamont Corridor Express|ACE]], [[San Joaquin (train)]]
+|[[Yosemite Area Regional Transportation System|YARTS]]
+|
+|-
+|[[Madera (Amtrak station)|Madera]]
+|near [[Madera Community College Center]]
+|Planning agreement in place
+|[[San Joaquin (train)]]
+|
+|<ref>{{Cite web |title=San Joaquin Joint Powers Authority Draft 2019 Business Plan Update |url=https://sjjpa.com/wp-content/uploads/2019-SJJPA-Business-Plan-Public-Review-Draft-Track-Changes-.pdf |access-date=6 November 2019 |publisher=SJJPA}}</ref><ref>{{Cite web |date=May 2020 |title=MADERA STATION RELOCATION |url=https://sjjpa.com/wp-content/uploads/Madera-Station-Relocation_May-2020_FINAL.pdf |access-date=8 June 2020 |publisher=San Joaquin Joint Powers Authority}}</ref>
+|-
+|[[Fresno (California High-Speed Rail station)|Fresno]]
+|[[Fresno, California|Fresno]]
+|Planning agreement in place
+|[[San Joaquin (train)]]
+|[[Yosemite Area Regional Transportation System|YARTS]], [[Fresno Area Express]]
+|
+|-
+|[[Kings–Tulare Regional Station]]
+|near [[Hanford, California|Hanford]]
+|
+|[[Cross Valley Corridor]] ''(planned)''
+|
+|
+|-
+|[[Bakersfield (California High-Speed Rail station)|Bakersfield]]
+|[[Bakersfield, California|Bakersfield]]
+|Planning agreement in place
+|[[San Joaquin (train)]]
+|[[Kern Transit]]
+|
+|-
+|[[Palmdale Transportation Center]]
+|[[Palmdale, California|Palmdale]]
+|Planning agreement in place
+|rowspan=3|2033
+|[[Metrolink (Southern California)|Metrolink]], [[Brightline West]] ''(planned)''
+|[[Amtrak Thruway Motorcoach]], [[Antelope Valley Transit Authority|AVTA]], [[City of Santa Clarita Transit|Santa Clarita Transit]], [[Greyhound Lines]]
+|[http://www.ladpw.org/PDD/beach_bus LA County Beach Bus (summer only)]
+|-
+|[[Burbank Airport–North station|Hollywood Burbank Airport]]
+|[[Burbank, California|Burbank]]
+|Planning agreement in place
+|[[Metrolink (Southern California)|Metrolink]]
+|[[Los Angeles County Metropolitan Transportation Authority|Metro]]
+|[http://www.hsr.ca.gov/programs/station_communities/burbank_station.html Burbank]
+|-
+|[[Union Station (Los Angeles)|Los Angeles (Union Station)]]
+|[[Los Angeles]]
+|Existing, modifications needed
+|[[Coast Starlight]], [[Metro Rail (Los Angeles County)|Metro]], [[Metrolink (Southern California)|Metrolink]], [[Pacific Surfliner]], [[Southwest Chief]], [[Sunset Limited]], [[Texas Eagle]]
+|[[Antelope Valley Transit Authority]], [[Big Blue Bus]], Citadel Outlets Express, [[DASH (bus)|DASH]], Dodger Stadium Express,<ref>{{cite web|url=https://www.metro.net/riding/dodger-stadium-express/|title=Dodger Stadium Express|website=www.metro.net|accessdate=October 4, 2018}}</ref> [[FlyAway (bus)|FlyAway]], [[Foothill Transit]], [[Greyhound Lines|Greyhound]], [[Los Angeles County Metropolitan Transportation Authority|Metro]], [[Los Angeles Metro Busway|Metro Bus Rapid Transit]], [[Orange County Transportation Authority|OC Bus]], [[Santa Clarita, California#Bus service|Santa Clarita Transit]], [[Torrance Transit]]
+|[http://www.hsr.ca.gov/programs/station_communities/la_station.html Union Station]
+|-
+|''[[Norwalk/Santa Fe Springs (Metrolink station)|Norwalk–Santa Fe Springs]]''
+|[[Norwalk, California|Norwalk]]
+|colspan=2 rowspan=2|Optional, no decision made
+|[[Metrolink (Southern California)|Metrolink]], [[Los Angeles Metro Rail|Metro]] ''(planned)''
+|[[Los Angeles County Metropolitan Transportation Authority|Metro]]
+|
+|-
+|''[[Fullerton Transportation Center|Fullerton]]''
+|[[Fullerton, California|Fullerton]]
+|[[Metrolink (Southern California)|Metrolink]], [[Pacific Surfliner]]
+|[[Orange County Transportation Authority|OC Bus]]
+|
+|-
+|[[Anaheim Regional Transportation Intermodal Center|Anaheim (ARTIC Station)]]
+|[[Anaheim, California|Anaheim]]
+|Existing, modifications needed
+| postponed
+|[[Metrolink (Southern California)|Metrolink]], [[Pacific Surfliner]]
+|[[Greyhound Lines|Greyhound]], [[Los Angeles County Metropolitan Transportation Authority|Metro]], [[Orange County Transportation Authority|OC Bus]], [[Anaheim Resort Transportation|ART]]
+|[http://www.articinfo.com/news-events/image-video-library Images]
+|}
+
+Note: The California High-Speed Rail Authority considered a mid-peninsula station in [[Redwood City, California|Redwood City]], [[Mountain View, California|Mountain View]], or [[Palo Alto, California|Palo Alto]], but it was removed from the business plan in May 2016 due to low ridership projections, although the possibility was raised of adding one in the future.<ref>{{cite web|url=http://www.mv-voice.com/news/2016/05/06/high-speed-rail-team-makes-whistle-stop-in-mv|title=High-speed rail team makes whistle stop in MV|last=Noack|first=Mark|date=May 6, 2016|website=Mountain View Voice|access-date=May 10, 2016}}</ref>
+
+===Phase 2===
+In 2015, the following stations and options were proposed. Existing train stations, if any, are linked. There is often a choice of alignments, some of which may involve the construction of a new station at a different location.
+
+;Sacramento extension
+The segment from Merced to Sacramento will be built on dedicated high-speed rail tracks and go to:
+* [[Modesto, California|Modesto]] <!-- not the Amtrak station -->
+* [[Stockton, California|Stockton]] <!-- not the ACE station -->
+* [[Sacramento Valley Station]]
+
+;San Diego extension
+The southernmost segment from Los Angeles to San Diego will be built on dedicated high-speed rail tracks with several routing and stations options. Key stations are identified as:<ref>{{cite web|title=Los Angeles to San Diego Section|url=http://www.hsr.ca.gov/docs/newsroom/maps/LA_to_San_Diego.pdf|date=May 2013|website=California High Speed Rail|accessdate=26 July 2020}}</ref>
+* [[Ontario International Airport]] <!-- not the Amtrak or Metrolink station -->
+* [[Escondido, California|Escondido]] near Interstate 15
+* [[San Diego International Airport]]
+
+Trains may additionally call at:
+* [[El Monte Station]]
+* [[West Covina, California|West Covina]]
+* Pomona ([[Pomona station (California)|Pomona Metrolink station]], or a site on Holt)
+* San Bernardino ([[San Bernardino Transit Center]], or a site near Interstate 10)
+* [[Corona, California|Corona]] (near [[El Cerrito, Riverside County, California|El Cerrito]])
+* [[March Air Reserve Base]] <!-- not the Metrolink station -->
+* [[Murrieta, California|Murrieta]] (Interstate 15 and Interstate 215 options)
+
+Proposals for services through a [[Transbay Tube#Future|future second Transbay Tube]],<ref name="tbt2-slides">{{cite web|url=http://bart.legistar.com/gateway.aspx?M=F&ID=75cb687e-0fa2-418e-90b2-3e8ea135a218.pdf|title=New Transbay Rail Crossing Program Overview + Project Contracting Plan|date=November 15, 2018|publisher=BART|accessdate=November 15, 2018}}</ref> a [[San Jose, California|San Jose]]–[[Oakland, California|Oakland]] line, and a [[Stockton, California|Stockton]]–[[Union City, California|Union City]] line have been studied but are not in the Phase 2 plan adopted by voters statewide.<ref>{{cite web|url=http://www.hsr.ca.gov/docs/about/business_plans/BPlan_2008_FullRpt.pdf |title=California High-Speed Rail Authority &#124; State of California |publisher=Hsr.ca.gov |accessdate=2019-10-27}}</ref>
+
+==History==
+{{Main|History of California High-Speed Rail}}
+
+===Legislative===
+In 1996 the [[California High-Speed Rail Authority]] (CHSRA) was established to begin formal planning in preparation for a ballot measure in 1998 or 2000.<ref>{{cite web|url = http://www.leginfo.ca.gov/pub/95-96/bill/sen/sb_1401-1450/sb_1420_bill_960924_chaptered.html|title = SB 1420 Senate Bill – Chaptered|work = ca.gov|accessdate = January 14, 2016}}</ref><ref>{{cite web|url = http://www.hsr.ca.gov/|title = California High Speed Rail Authority |publisher = Hsr.ca.gov|accessdate = January 14, 2016}}</ref>  The CHSRA, a state agency run by a board of governors, is required by law to operate without a subsidy, and to connect the state's major cities in the Bay Area, Central Valley, and Los Angeles Basin. Phase 2 (which has no timetable yet) would extend the system northward through the Central Valley to the [[Sacramento Valley Station]] in [[Sacramento]] and southward through the [[Inland Empire]] to the [[San Diego International Airport]] in [[San Diego]].
+
+In 2008, California voters approved the issuance of $9&nbsp;billion in bonds for high speed rail in [[California Proposition 1A (2008)|Proposition 1A]],<ref>{{cite web|url = http://ballotpedia.org/wiki/index.php/California_Proposition_1A,_High-Speed_Rail_Act_%282008%29|title = California Proposition 1A, High-Speed Rail Act (2008)|work = ballotpedia.org|accessdate = January 14, 2016}}</ref> a measure to construct the initial segment of the network. <!--The measure authorized $9.95 billion in bond sales for the construction of the core segment between San Francisco and Los Angeles/[[Anaheim, California|Anaheim]], and an additional $950 million for improvements on local railroad systems, which will serve as feeder systems to the planned high-speed rail system.-->
+
+On January 28, 2010, the [[White House]] announced that California would receive $2.25&nbsp;billion for California High Speed Rail.<ref name="whitehouse2">{{cite press release|url = http://www.whitehouse.gov/the-press-office/fact-sheet-high-speed-intercity-passenger-rail-program-california|title = Fact Sheet: High Speed Intercity Passenger Rail Program: California|publisher = The White House|date = January 27, 2010|accessdate = March 1, 2011|url-status = dead|archive-url = https://web.archive.org/web/20110228222916/http://www.whitehouse.gov/the-press-office/fact-sheet-high-speed-intercity-passenger-rail-program-california|archive-date = February 28, 2011|df = mdy-all}}</ref> Over the course of 2010 and 2011, the federal government awarded the Authority a further $4&nbsp;billion in high-speed rail funding.<ref>{{cite press release|url = http://www.cahighspeedrail.ca.gov/pr_715_Million.aspx|title = California High-Speed Rail Awarded $715 Million|publisher = California High-Speed Rail Authority|date = October 28, 2010|accessdate = November 17, 2010|url-status = dead|archive-url = https://web.archive.org/web/20101103173346/http://www.cahighspeedrail.ca.gov/pr_715_Million.aspx|archive-date = November 3, 2010|df = mdy-all}}</ref><ref>{{cite press release |title=U.S. Department of Transportation Redirects $1.195 Billion in High-Speed Rail Funds |url=http://www.dot.gov/affairs/2010/dot20810.html |publisher=U.S. Department of Transportation |date=December 9, 2010 |accessdate=December 10, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20101211181716/http://www.dot.gov/affairs/2010/dot20810.html |archive-date=December 11, 2010 |df=mdy }}</ref><ref>{{cite press release|title = U.S. Transportation Secretary LaHood Announces $2 Billion for High-Speed Intercity Rail Projects to Grow Jobs, Boost U.S. Manufacturing and Transform Travel in America|url = http://www.dot.gov/affairs/2011/dot5711.html|publisher = U.S. Department of Transportation|date = May 9, 2011|accessdate = November 26, 2011|url-status = dead|archive-url = https://web.archive.org/web/20111017102528/http://www.dot.gov/affairs/2011/dot5711.html|archive-date = October 17, 2011|df = mdy-all}}</ref>
+
+In June 2014 state legislators and Governor Jerry Brown agreed to apportion the state's annual cap-and-trade funds so that 25% goes to high speed rail.<ref>{{cite web|url = http://lao.ca.gov/LAOEconTax/Article/Detail/64|title = Cap-and-Trade Revenue: Likely Much Higher Than Governor's Budget Assumes|work = ca.gov|accessdate = January 14, 2016}}</ref> The state's Legislative Analyst's Office estimated that cap-and-trade income in 2015 and 2016 could total $3.7 billion, of which $925&nbsp;million would be allocated to HSR.<ref>{{cite web|url = http://blogs.sacbee.com/capitolalertlatest/2014/06/budget-deal-gives-25-percent-of-cap-and-trade-money-to-high-speed-rail.html|title = Capitol Alert|work = The Sacramento Bee|accessdate = January 14, 2016|url-status = dead|archive-url = https://web.archive.org/web/20160304050147/http://blogs.sacbee.com/capitolalertlatest/2014/06/budget-deal-gives-25-percent-of-cap-and-trade-money-to-high-speed-rail.html|archive-date = March 4, 2016|df = mdy-all}}</ref>  The LAO's predictions were proven incorrect in its own revised report dated May 26, 2016, "State auction revenue will be about $1.8&nbsp;billion in 2015-16" due to a weak May 2016 auction.<ref>{{cite web|url=http://www.lao.ca.gov/LAOEconTax/Article/Detail/193|title=May 2016 Cap-and-Trade Auction Update|website=www.lao.ca.gov|language=en|access-date=2018-01-09}}</ref>
+
+On September 30, 2015, the Authority posted the names of 30 large firms who were interested in financing, constructing, and operating the California HSR system.<ref>{{cite web|url = http://www.hsr.ca.gov/docs/about/doing_business/UPDATED_RFEI_HSR_1502_Responses_093015.pdf|title = HSR 15-02 Request for Expressions of Interest for Delivery of an Initial Operating Segment|website = Hsr.ca.gov|accessdate = January 14, 2016}}</ref>
+
+[[California Proposition 1A (2008)|Proposition 1A]] and other legislation set certain performance standards for the project:<ref name="ab3034">{{cite web|title=AB 3034|url=ftp://www.leginfo.ca.gov/pub/07-08/bill/asm/ab_3001-3050/ab_3034_cfa_20080709_124229_sen_comm.html|publisher=State of California|accessdate=2 August 2017}}</ref>
+* Minimum {{convert|200|mph}} where conditions permit
+* Maximum travel time between SF and LA not to exceed 2 hr 40 min
+* Financially self-sustaining  (operation and maintenance costs fully covered by revenue)
+
+In February 2019, parts of the project not already under construction were postponed for a number of reasons.
+
+===Legal===
+In 2014, the CHSRA was challenged on its compliance with its statutory obligations under [[California Proposition 1A (2008)|Proposition 1A]]
+(''John Tos, Aaron Fukuda, and the Kings County Board of Supervisors v. California High-Speed Rail Authority''). The case was split into two parts. The ruling in the first was that the requirements for the financing plan, environmental clearances, and construction plans did not need to be secured for the ''entire'' project before construction began, but only for ''each construction segment''. The second part considered three [[California Proposition 1A (2008)|Proposition 1A]] legal requirements: (1) Can the train travel from Los Angeles (Union Station) to San Francisco (Transbay Terminal) in two hours and 40 minutes? (2) Will the train require an operational subsidy? (3) Does the new "blended system" approach meet the definition of high-speed rail in Proposition 1A? Judge Kenny ruled on March 8, 2016, that although serious issues were raised, they are not "ripe for review" and that (because this is "an ongoing, dynamic, changing project") he noted "the authority may be able to accomplish these objectives at some point in the future." This did not preclude the possibility of future legal action against the Authority on these issues.<ref>{{cite web|url=http://www.courthousenews.com/2016/03/08/california-high-speed-rail-project-chugs-ahead.htm |title= California High-Speed Rail Project Chugs Ahead |website=Courthousenews.com |accessdate=April 29, 2016}}</ref>
+
+On December 15, 2014, the federal [[Surface Transportation Board]] determined (using well-understood preemption rules) that its approval of the HSR project in August "categorically preexempts" lawsuits filed under the California Environmental Quality Act (CEQA). This determination is still being tested in the California courts in a similar case, ''Friends of Eel River v. North Coast Railroad Authority''.<ref>{{cite news|url = http://www.fresnobee.com/news/local/high-speed-rail/article22963428.html|title = Farm Bureaus jump into Supreme Court high-speed rail case|first = Tim|last = Sheehan|work = [[The Fresno Bee]]|date = June 2, 2015}}</ref>{{update inline|date=October 2017}}
+
+===Construction===
+
+On December 2, 2010, the [[California High-Speed Rail Authority|Authority Board of Directors]] voted to begin construction on the first section of the system from [[Madera, California|Madera]] to [[Fresno California|Fresno]]. Fresno hosted a groundbreaking ceremony on January 6, 2015, to mark the commencement of sustained construction activities.<ref name="Fresno Groundbreaking Ceremony2">{{cite news|title = High-Speed Rail Authority Hosts Official Groundbreaking Ceremony|url = http://hsr.ca.gov/docs/newsroom/jan_2015_Groundbreaking_Press_Rel010615.pdf|date = January 6, 2015|publisher = [[California High-Speed Rail Authority]]}}</ref>
+
+In July 2012, the California legislature and Gov. Jerry Brown approved construction of the high-speed system.<ref>{{cite news |author = Michael Martinez|title = Governor signs law to make California home to nation's first truly high-speed rail|url = http://www.cnn.com/2012/07/18/us/california-high-speed-rail/index.html|work = CNN|date = July 19, 2012|accessdate = September 3, 2012}}</ref><ref name="gov.ca.gov2">{{cite web|url = http://gov.ca.gov/news.php?id=17639|title = Office of Governor Edmund G. Brown Jr.|work = ca.gov|accessdate = January 14, 2016|archive-url = https://web.archive.org/web/20150905132418/http://gov.ca.gov/news.php?id=17639|archive-date = September 5, 2015|url-status = dead}}</ref>
+<!--
+
+With the Design-Build contractual system the Authority is using, the contractor will be responsible for the final construction design elements.<ref name="bets2" /> Due to the infusion of additional federal funds reallocated from states that canceled their high-speed rail plans, the initial segment of construction was extended south to Bakersfield in 2010, and north to the future [[Chowchilla, California|Chowchilla]] [[Wye (rail)|Wye]] (where trains can be turned) in 2011.<ref>{{cite press release|title = High-Speed Rail Authority Approves State Matching Funds to Extend Backbone of Statewide System|url = http://www.cahighspeedrail.ca.gov/pr_approvesstatematch.aspx|publisher = [[California High-Speed Rail Authority]]|date = December 20, 2010|accessdate = January 8, 2010|url-status = dead|archive-url = https://web.archive.org/web/20101226173825/http://www.cahighspeedrail.ca.gov/pr_approvesstatematch.aspx|archive-date = December 26, 2010|df = mdy-all}}</ref> --><!--
+
+Construction packages 1 and 2–3 are currently under construction. CP 4 is underway, with both construction and project management and oversight contracts let.<ref>{{cite web|url = http://www.hsr.ca.gov/docs/newsroom/2015_Authority_Selects_HNTB_to_Oversee_Next_Phase_Construction_in_Central%20Valley_100615.pdf|format = PDF|title = High-Speed Rail Authority Selects HNTB to Oversee Next Phase of Construction in the Central Valley|website = Hsr.ca.gov|accessdate = January 14, 2016}}</ref><ref>{{cite web |url=http://www.masstransitmag.com/news/12177009/ca-high-speed-rail-contract-inked-for-kern-county-stretch |title=CA: High-Speed Rail Contract Inked for Kern County Stretch |website=Masstransitmag.com |date=March 2, 2016 |accessdate=April 29, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160513061812/http://www.masstransitmag.com/news/12177009/ca-high-speed-rail-contract-inked-for-kern-county-stretch |archive-date=May 13, 2016 |df=mdy-all }}</ref> --><!--
+
+The initial plans were to build an Initial Operating Segment (IOS) from [[Merced, California|Merced]] in the [[Central Valley (California)|Central Valley]] to [[Burbank, California|Burbank]] in the Los Angeles metropolitan area in [[Southern California]]. In 2016 the Authority switched to a northern IOS from [[San Jose, California|San Jose]] in the [[Bay Area]] and [[Silicon Valley]] across to the Central Valley then north to Madera and Merced, and south to near [[Bakersfield, California|Bakersfield]] at the southern end of the Central Valley. Based on a more recent analysis of the funding available and time necessary to bring an IOS online per the legal requirements, it is expected that sufficient funding will be available to bring this online by 2025.<ref name="Business Plan p. 30">Draft 2016 Business Plan, pp. 30. 45</ref> The Phase 1 system could be completed by 2029, provided that additional funds are obtained.<ref name="Business Plan pp. 50-51">Draft 2016 Business Plan, pp. 50–51.</ref> The plan was slightly revised after the public comment period.<ref>{{cite web|url=http://www.hsr.ca.gov/docs/newsroom/2016_HSR_Releases_Recommended_Changes_to_Draft_2016_Business_Plan_042116.pdf|title=2016 Draft Business Plan|publisher=California High Speed Rail Authority}}</ref> This revised plan was adopted on April 28, 2016.<ref>{{cite web|url=http://www.hsr.ca.gov/docs/newsroom/2016_High_Speed_Rail_Authority_Board_of_Directors_Adopts_2016_Business_Plan.pdf|title=2016 Draft Business Plan|publisher=California High Speed Rail Authority}}</ref> Contracts have been awarded for the segment from Madera to Wasco, and construction is underway on several bridges.<ref>{{cite web|url=http://transportation.house.gov/uploadedfiles/richard_testimony.pdf|title=Statement to the hearing on “Continued Oversight of California High-Speed Rail”|website=Transportation.house.gov|accessdate=October 4, 2018}}</ref>
+
+-->
+
+==Speed requirements==
+According to [[California Proposition 1A (2008)|Proposition 1A]], the train must be electric and capable of a sustained operating speed of no less than {{convert|200|mph}}.<ref name="prop1a_info"/> There are also a number of travel time benchmarks. The important benchmarks applicable to Phase 1 of the project are: (1) a maximum nonstop travel time between San Francisco and San Jose of 30 minutes, and (2) a maximum nonstop travel time between San Jose and Los Angeles of 2 hours and 10 minutes. (Thus, a nonstop time from San Francisco to Los Angeles in 2 hours and 40 minutes.) In addition, the time between successive trains must be less than 5 minutes.<ref name="prop1a_info"/>
+
+Maximum nonstop travel times for each [[Transport corridor|corridor]] must not exceed the following times, according to [[California Proposition 1A (2008)|Proposition 1A]]:<ref name="prop1a_info"/>
+
+# San Francisco–[[Los Angeles Union Station]]: 2 hours, 40 minutes
+# Oakland–Los Angeles Union Station: 2 hours, 40 minutes
+# San Francisco–San Jose: 30 minutes
+# San Jose–Los Angeles: 2 hours, 10 minutes
+# San Diego–Los Angeles: 1 hour, 20 minutes
+# [[Inland Empire]]–Los Angeles: 30 minutes
+# Sacramento–Los Angeles: 2 hours, 20 minutes
+
+There have been some comments by critics (such as the [[California High-Speed Rail#Think tank studies|''Due Diligence Report'' (2008)]]) that the proposed system will not meet the [[California Proposition 1A (2008)|Proposition 1A]] requirement of downtown San Francisco to Los Angeles travel time of 2 hours and 40 minutes.
+
+The [[California High-Speed Rail Authority|Authority]]'s plan is close to the requirement, but does push the limits of conventional [[High-speed rail|HSR]] speed.
+* San Francisco to San Jose ''nonstop'' over the blended-system trackage at {{convert|102|mph}} for ({{convert|51|mi}}) = 30 min. (note 30 min. is the maximum allowed).
+* San Jose to Los Angeles ''nonstop'' at {{convert|220|mph}} for ({{convert|417|mi}} ''or'' {{convert|437|mi}})  = 1 hr. 54 min. ''or'' 1 hr. 59 min. (note 2 hr. 10 min. is the maximum allowed). Even at a slower {{convert|200|mph}} the times would be 2 hrs. 5 min. ''or'' 2 hrs. 11 min. (Note: since the final SF-LA route has not been adopted, the route length will be between the two numbers given.)
+
+Both the ''Due Diligence Report'' (2008) and ''Updated Due Diligence Report'' (2013) state that no existing high-speed system currently meets the proposed operation speed and safety goals. It notes that the highest ''cruising'' HSR speed in the world on production runs is about {{convert|200|mph}} in France, and this is significantly less than the ''sustained'' speed of {{convert|220|mph}} the CHSRA plan requires. They also note safety concerns in running at top speed through highly populated urban areas such as Fresno.<ref name="reason.org2" /> For three years Chinese HSR trains ran at {{convert|217|mph}}, but the speeds were reduced due to safety concerns and – mostly – costs.<ref name="cdaily32">{{cite news|url = http://english.peopledaily.com.cn/90001/90776/90882/7351162.html|title = World's longest high-speed train to decelerate a bit|date = April 15, 2011|newspaper = People's Daily Online}}</ref> In fact a [[Siemens Velaro]] trainset without any modifications has posted a speed record well in excess of {{convert|400|km/h}}, though economic considerations keep them limited to {{convert|320|km/h}} in revenue service. The French [[Alstom]] [[SNCF TGV Duplex|TGV Duplex]] is also able to sustain speeds of 360&nbsp;km/h, as have shown several days of testing in 2008,<ref>{{cite web|url=https://www.lettreducheminot.fr/materiel/etait-vie-rail-43-tgv-a-360-kmh-dix-jours-a-fond-manettes/|title=Il était une fois La Vie du Rail - 43) TGV à 360 km/h. Dix jours à fond les manettes|date=2018-11-30|website=Lettre du cheminot|language=fr-FR|access-date=2019-01-21}}</ref> not to mention all new TGV speed lines designed for 320&nbsp;km/h are tested at the speed of 352&nbsp;km/h (commercial speed + 10%) by TGVs.<ref>{{cite web|url=https://www.20minutes.fr/rennes/2005803-20170131-rennes-ligne-grande-vitesse-reussi-test-352-kmh|title=Rennes: La future ligne à grande vitesse a réussi son test à 352 km/h|website=www.20minutes.fr|language=fr|access-date=2019-01-21}}</ref><ref>{{cite web|url=https://www.bladi.net/record-vitesse-tgv-maroc,50722.html|title=Maroc : le TGV testé à 352 km/h en février|website=Bladi.net|language=fr|access-date=2019-01-21}}</ref>
+
+The current trainset specification requires the capability of sustained speeds of {{convert|220|mph}}.<ref name="prop1a_info">{{cite web
+|url=http://vig.cdn.sos.ca.gov/2008/general/pdf-guide/suppl-complete-guide.pdf
+|title=Official Voter Information Guide - Proposition 1A
+|work=[[California State Legislature]]
+|date=2008
+|accessdate=2018-03-22
+}}</ref> So, ultimately it is up to the trainset manufacturers to meet the Authority's speed requirement, since the proposed route and speed do meet the [[California Proposition 1A (2008)|Proposition 1A]] requirements.
+
+==Rolling stock==
+[[File:FLV California train.jpg|thumb|Artist's rendering of a [[TGV]]-Type California High-Speed Rail trainset with livery; this type of train is used in all CHSRA materials, but since the exact model of trainset to be acquired is not known, this is only illustrative.]]
+
+===Acquisition===
+{{update|section|date=November 2018}}
+In January 2015, the California High Speed Rail Authority issued a request for proposal (RFP) for complete trainsets. The proposals received will be reviewed so that acceptable bidders can be selected, and then requests for bids will be sent out. The winning bidder was projected to be selected in 2016, but plans have not yet been finalized.{{citation needed|date=November 2018}}
+
+It is estimated that for the entire Phase 1 system up to 95 trainsets might be required.<ref>{{cite web|url = http://www.cahsrblog.com/2015/02/hsr-trainset-bids-could-create-new-domestic-industry/|title = California High Speed Rail Blog » HSR Trainset Bids Could Create New Domestic Industry|publisher = Cahsrblog.com|date = February 23, 2015|accessdate = January 14, 2016}}</ref> Initially only 16 trainsets are anticipated to be purchased.<ref>{{cite web|last = Respaut|first = Robin|url = https://news.yahoo.com/china-may-edge-race-build-californias-bullet-train-051720518--sector.html|title = China may have edge in race to build California's bullet train |publisher = News.yahoo.com|date = May 21, 2015|accessdate = January 14, 2016}}</ref> Trainset expenses, according to the 2014 Business Plan, are planned at $889&nbsp;million for the IOS (Initial Operating Segment) in 2022, $984&nbsp;million for the Bay to Basin in 2027, and $1.4&nbsp;billion for the completed Phase 1 in 2029, for a total of $3.276&nbsp;billion.<ref name="ReferenceA2">{{cite web|url = http://hsr.ca.gov/docs/about/business_plans/BPlan_2014_Business_Plan_Final.pdf|title = Connecting California : 2014 Business Plan|website = Hsr.ca.gov|accessdate = January 14, 2016}}</ref>
+
+In February 2015, ten companies formally expressed interest in producing trainsets for the system: [[Alstom]], AnsaldoBreda (now [[Hitachi Rail Italy]]), [[Bombardier Transportation]], [[CSR Corporation Limited|CSR]], [[Hyundai Rotem]], [[Kawasaki Heavy Industries Rolling Stock Company|Kawasaki Rail Car]], [[Siemens]], Sun Group U.S.A. partnered with [[Tangshan Railway Vehicle|CNR Tangshan]], and [[Talgo]]. CSR merged with CNR in June 2015, bringing the number of companies down to eight.<ref>{{cite web|url=http://hsr.ca.gov/docs/Programs/trainsets/EOI_Recieved_for_Trainsets_020915.pdf|title=Expressions of Interest Received : HSR 14-30: Request for Expressions of Interest for Tier III Trainsets|website=Hsr.ca.gov|accessdate=4 October 2018|archive-url=https://web.archive.org/web/20190602003848/https://www.hsr.ca.gov/docs/Programs/trainsets/EOI_Recieved_for_Trainsets_020915.pdf|archive-date=June 2, 2019|url-status=dead}}</ref>
+
+===Specifications===
+In addition to many other requirements:<ref>{{cite web|url = http://www.hsr.ca.gov/docs/Programs/trainsets/Sched_1PtA_Auth_TierIII_Trainsets_Spec_Rev0_013015_Industry_Working_Draft.pdf |title =Schedule 1 Part A: Authority Tier III Trainsets Performance Specification Rev.0|publisher= California High-Speed Rail Authority |date=January 3, 2015 |archive-url=https://web.archive.org/web/20190223083333/https://www.hsr.ca.gov/docs/Programs/trainsets/Sched_1PtA_Auth_TierIII_Trainsets_Spec_Rev0_013015_Industry_Working_Draft.pdf |archive-date=February 23, 2019}}</ref>
+* each trainset will have a sustained continuous speed of {{convert|220|mph|km/h|abbr=on}};
+* a maximum testing speed of {{convert|242|mph|km/h|abbr=on}};
+* a lifespan of at least 30 years;
+* a length no longer than about {{convert|680|ft}};
+* the ability to operate two trainsets as a single "consist" (a long train);
+* have control cabs at both ends of each trainset and the ability to go equally well in either direction;
+* pass-by noise levels ({{convert|82|ft}} from track) not to exceed 88&nbsp;dB at {{convert|155|mph|km/h|abbr=on}} and 96&nbsp;dB at {{convert|220|mph|km/h|abbr=on}}
+* have at least 450 seats and carry 8 bicycles;
+* have seating for first class and business class passengers as well as have space for wheelchairs;
+* have food service similar to airplane-style serving;
+* allow for use of cellphones, broadband wireless internet access, and onboard entertainment services;
+* have a train communications network to notify passengers of travel/train/station/time information;
+* and also have earthquake safety systems for safe stopping and exiting.
+One specification that is causing some difficulty is the HSR train requirement for a floor height of {{cvt|50|in|cm}} above the rails. This is the international standard for high-speed rail trains, but Caltrain trains have a floor height of only {{cvt|25|in|cm}}. (Metrolink trains have a similar issue.) In October 2014, Caltrain and the Authority agreed to work together to try to implement "level-boarding" on the shared station platforms.<ref>{{cite web|url = http://www.cahsrblog.com/2014/10/caltrain-and-chsra-to-work-together-for-level-boarding/|title = Caltrain and CHSRA To Work Together for Level Boarding|work = California High Speed Rail Blog|date = October 7, 2014|last = Cruickshank|first = Robert}}</ref> The Authority resisted lowering their trainset floor height,<ref>{{cite web|url = http://sf.streetsblog.org/2015/05/19/design-of-high-speed-trains-threatens-to-diminish-caltrain-capacity/|title = Design of High-Speed Trains Threatens to Diminish Caltrain Capacity|work = Streetsblog San Francisco|date = May 19, 2015|first = Andrew|last = Boone}}</ref> but a solution was found with Caltrain's new [[Stadler KISS]] [[Electric Multiple Units|EMUs]] which will feature doors at two heights, with the higher doors compatible with the CHSR platforms.<ref name=CaltrainStadler>{{cite web|title=KISS Double-Decker Electric Multiple Unit EMU for Peninsula Corridor Joint Powers Board (CALTRAIN), California, USA|url=https://www.stadlerrail.com/media/pdf/kcal0716us.pdf|accessdate=16 October 2016|archive-url=https://web.archive.org/web/20161006171237/https://wwwstadlerrailcom-live-01e96f7.s3-eu-central-1.amazonaws.com/filer_public/21/81/21816a39-9448-4b8a-8f2f-3811c6ee8006/kcal0716us.pdf|archive-date=October 6, 2016|url-status=dead}}</ref>
+
+Some have expressed concerns about noise. Actually, the 96&nbsp;dB limit at 350&nbsp;km/h (25 m from track) is the level reached by the 1988 [[SNCF TGV Atlantique|TGV Atlantique]],<ref>{{Cite journal|last=Nouvelle|first=L'Usine|date=1994-10-27|title=Construction ferroviaire : TGV:350km/h pour quoi faire? - Matériels ferroviaire/agricole|url=https://www.usinenouvelle.com/article/construction-ferroviaire-tgv-350km-h-pour-quoi-faire.N73712|language=fr}}</ref> since then, aerodynamic improvements have been done on newer trains.
+
+An additional factor for the selection of a model is the [[Buy America Act|Buy America]] regulation. The Federal Railroad Administration has granted a waiver for just two prototypes to be manufactured off-shore before the remaining trainsets (initially 15 to 20 trains) would need to be built according to the rules.<ref name="fresnobee2014">{{cite news
+ | url = http://www.fresnobee.com/news/local/high-speed-rail/article19528899.html
+ | title = In California's high-speed train efforts, worldwide manufacturers jockey for position
+ | newspaper = The Fresno Bee
+ | date = December 27, 2014
+ | accessdate = February 18, 2015
+}}</ref> These were mentioned as a significant reason that Chinese manufacturers dropped out of the [[Brightline West]] (then known as XpressWest) project with similar technical trainset specifications.<ref>{{cite web|url=https://www.reuters.com/article/us-usa-rail-xpresswest-idUSKCN0YV05R|title=XpressWest, seeking to build U.S. high-speed rail, ends deal with China group|website=Reuters.com|date=June 9, 2016}}</ref>
+
+==Operations==
+In April 2017, the CHSRA announced it had received five responses to its request for qualifications for the contract to assist with the development and management of the initial phase of the high speed line and be the initial operator.<ref>[http://www.railwaygazette.com/news/single-view/view/operators-from-five-countries-interested-in-california-high-speed-rail-contract.html Operators from five countries interested in California high speed rail contract] ''[[Railway Gazette International]]'' April 6, 2017</ref><ref>[http://www.globalrailnews.com/2017/04/06/international-consortia-bid-to-become-california-high-speed-rail-early-operator/ International consortia bid to become California high speed rail early operator] {{Webarchive|url=https://web.archive.org/web/20170407020132/http://www.globalrailnews.com/2017/04/06/international-consortia-bid-to-become-california-high-speed-rail-early-operator/ |date=April 7, 2017 }} ''Global Rail News'' April 6, 2017</ref>
+* China HSR ETO Consortium: China Railway International, Beijing Railway Administration, China Railway Eryuan Engineering Group, [[China Railway|China Railway Corporation]]
+* DB International US: DB International USA, [[Deutsche Bahn]], Alternate Concepts, [[HDR, Inc.|HDR]]
+* FS First Rail Group: [[Ferrovie dello Stato Italiane]], [[FirstGroup]], [[Trenitalia]], [[Rete Ferroviaria Italiana]], [[Centostazioni]], [[Italferr]], [[McKinsey & Company]]
+* Renfe: [[Renfe Operadora]], Globalvia Inversiones, [[Administrador de Infraestructuras Ferroviarias]]
+* Stagecoach Group: [[Stagecoach Group]], [[Coach USA]]
+
+In October 2017 the DB International US consortium was announced as the winner.<ref>[http://www.railwaygazette.com/news/high-speed/single-view/view/db-consortium-selected-for-california-high-speed-rail-consultancy-contract.html DB consortium selected for California high speed rail consultancy contract] ''Railway Gazette International'' October 9, 2017</ref>
+
+==Economic projections==
+In addition to the direct reduction in travel times the HSR project will produce, there are other anticipated benefits, both general to the state, to the regions the train will pass through, and to the areas immediately around the train stations.
+
+===Statewide economic growth and job creation===
+In 2009, the Authority projected that construction of the system will create 450,000 permanent jobs through the new commuters that will use the system,<ref name="2009_business_plan2">{{cite web|author = California High-Speed Rail Authority|title = December 2009 Business Plan Report to the Legislature|date = December 14, 2009|accessdate = June 24, 2011|url = http://cahighspeedrail.ca.gov/assets/0/152/198/18a28048-f143-4855-b9b4-a9471e50b8ef.pdf|pages = 109–10|url-status = dead|archive-url = https://web.archive.org/web/20111108184047/http://www.cahighspeedrail.ca.gov/assets/0/152/198/18a28048-f143-4855-b9b4-a9471e50b8ef.pdf|archive-date = November 8, 2011|df = mdy-all}}</ref> and that the Los Angeles-San Francisco route will generate a net operating revenue of $2.23&nbsp;billion by 2023,<ref name="2009_business_plan2" /> consistent with the experience of other high-speed intercity operations around the world.<ref>{{cite web |last = Druce|first = Paul|title = High speed rail operational surplus|url = http://reasonrail.blogspot.com/2011/06/high-speed-rail-operation-surplus.html|work = Reason & Rail|date = June 6, 2011|accessdate = November 26, 2011}}</ref><ref>{{cite journal|last = Murakami|first = Jin|last2 = Cervero|first2 = Robert| author-link2=Robert Cervero|title = High-speed rail and economic development: business agglomerations and policy implications|journal = High-Speed Rail and Sustainability: Decision-making and the Political Economy of Investment|publisher = Routledge, B. Henriguez and E. Deakin, eds. | location = New York | year = 2017}}</ref> The [http://www.hsr.ca.gov/docs/about/business_plans/BPlan_2012EIR.pdf 2012 Economic Impact Analysis Report] by Parson Brinkerhoff (project managers for the Authority) also indicated substantial economic benefits from high-speed rail.
+
+Even Amtrak's high-speed [[Acela Express]] service generates an operating surplus that is used to cover operating expenses of other lines, Amtrak says.<ref>{{cite web |last = Yarow|first = Jay|title = Amtrak Loses $32 Per Passenger|url = http://www.businessinsider.com/report-amtrak-loss-comes-to-32-per-passenger-2009-10|website = Business Insider}}</ref>  Amtrak calculates this in a way which is not equivalent to the way that it determines the costs of other train services, and most of the Acela's costs for using track and fuel are paid for by Silver Service long distance trains, according to TRAINS Magazine's Fred Frailey.{{citation needed|date=July 2016}}
+
+The 2012 Business Plan also estimates that the Initial Construction Segment (ICS) construction will "generate 20,000 jobs over five years," with the Phase 1 system requiring 990,000 job-years over 15 years, averaging 66,000 annually.<ref>{{cite web|url = http://www.cahighspeedrail.ca.gov/assets/0/152/302/e4542793-c05d-4737-a214-e1d1074b37eb.pdf|title = California High Speed Rail Authority |work = ca.gov|accessdate = January 14, 2016|url-status = dead|archive-url = https://web.archive.org/web/20121203052905/http://www.cahighspeedrail.ca.gov/assets/0/152/302/e4542793-c05d-4737-a214-e1d1074b37eb.pdf|archive-date = December 3, 2012|df = mdy-all}}</ref>
+
+===Environmental benefits===
+According to a fact sheet on the Authority website<ref>{{cite web|url = http://www.hsr.ca.gov/docs/newsroom/fact%20sheets/Good%20for%20the%20State,%20Good%20for%20the%20Environment.pdf|title = Environmental Report : October 2013|website = Hsr.ca.gov|accessdate = January 14, 2016}}</ref> the environmental benefits of the system include:
+* In 2022, when the Initial Operating Section (Merced to the San Fernando Valley) is up and running, the resulting greenhouse gas reductions will be between 100,000 and 300,000 metric tons of carbon dioxide (CO<sub>2</sub>) in the first year. That's the equivalent of between 17,700 and 53,000 personal vehicles taken off the road.
+* Between 2022 and 2040, the cumulative reduction of CO<sub>2</sub> is estimated to be between 5 and 10 million metric tons. By 2040, the system is estimated to reduce vehicles miles of travel in the state by almost 10 million miles of travel every day ({{convert|10000000|miles|km|disp = out}}).
+* Over a 58-year period (from the start of operations in 2022 through 2080), the system is estimated to reduce auto travel on the state's highways and roads by over 400 billion miles of travel ({{convert|400000000000|mi|km|disp = out}}).
+
+===Regional benefits===
+In its 67-page ruling in May 2015, the federal Surface Transportation Board noted: "The current transportation system in the San Joaquin Valley region has not kept pace with the increase in population, economic activity, and tourism. ... The interstate highway system, commercial airports, and conventional passenger rail systems serving the intercity market are operating at or near capacity and would require large public investments for maintenance and expansion to meet existing demand and future growth over the next 25 years or beyond."<ref>{{cite news|author = Juliet Williams|agency= Associated Press|url = http://www.bakersfield.com/news/2013/06/14/key-green-light-for-california-high-speed-rail.html|title = Key green light for California high-speed rail |publisher = Bakersfield.com|date = June 14, 2013|accessdate = January 14, 2016}}</ref> Thus, the Board sees the HSR system as providing valuable benefits to the region's transportation needs.
+
+The San Joaquin Valley is also one of the poorest areas of the state. For example, the unemployment rate near the end of 2014 in Fresno County was 2.2% higher than the statewide average.<ref>{{cite web|url = http://www.cahsrblog.com/2014/12/hsr-a-pathway-out-of-poverty/|title = California High Speed Rail Blog » HSR: A Pathway Out of Poverty|publisher = Cahsrblog.com|date = December 17, 2014|accessdate = January 14, 2016}}</ref> And, of the five poorest metro areas in the country, three are in the Central Valley.<ref>{{cite web|url = http://www.cahsrblog.com/2015/01/the-end-of-the-beginning/|title = California High Speed Rail Blog » The End of the Beginning|publisher = Cahsrblog.com|date = January 6, 2015|accessdate = January 14, 2016}}</ref> The HSR system has the potential to significantly improve this region and its economy. A large January 2015 report to the CHSRA examined this issue.<ref>{{cite web|url = http://hsr.ca.gov/docs/Newsroom/reports/2015/FINAL_FULL_CENTRAL_VALLEY_ECONOMIC_STUDY_REPORT_020515.pdf|title = California High-Speed Rail and the Central Valley Economy : January 2015|website = Hsr.ca.gov|accessdate = January 14, 2016}}</ref>
+
+In addition to jobs and income levels in general, the presence of HSR is expected to benefit the growth in the cities around the HSR stations. It is anticipated that this will help increase population density in those cities and reduce "development sprawl" out into surrounding farmlands.<ref>{{cite web|url = http://www.sacbee.com/opinion/op-ed/soapbox/article21758919.html|title = High-speed rail and infill: A great marriage for California|work = sacbee|accessdate = January 14, 2016}}</ref>
+
+===Ridership and revenue concerns===
+In May 2015, the ''[[Los Angeles Times]]'' published an article by critics on the estimated operational revenue of the system in "Doing the math on California's bullet train fares".<ref>{{cite news|url = https://www.latimes.com/local/politics/la-me-adv-bullet-fares-20150510-story.html|title = Doing the math on California's bullet train fares|work = [[Los Angeles Times]]|date = May 10, 2015|first1 = Ralph|last1 = Vartabedian|first2 = Dan|last2 = Weikel}}</ref>  The article raised a number of doubts that the system could be self-supporting, as required by Prop 1A, and ended by quoting Louis Thompson (chairman of an unnamed state-created review panel) who said "We will not know until late in the game how everything will turn out."<ref name="critics2">{{cite news|url = https://www.theatlantic.com/politics/archive/2014/07/california-high-speed-railmdashthe-critics-speak/374306/|title = California High-Speed Rail—the Critics' Case|work = [[The Atlantic]]|date = July 11, 2014|first = James|last = Fallows}}</ref>
+
+The ''Due Diligence Report'' (2008) projected fewer riders by 2030 than officially estimated: 23.4 to 31.1 million intercity riders a year instead of the 65.5 to 96.5 million forecast by the Authority and later confirmed by an independent peer review.<ref>{{cite web|title = Final Report: Independent Peer Review of the California High-Speed Rail Ridership and Revenue Forecasting Process|url = http://www.cahighspeedrail.ca.gov/assets/0/79/205/d04127b9-4b6e-4606-8d2a-b5806c959c4d.pdf|date = August 1, 2011|quote = We are satisfied with the documentation presented in Cambridge Systematics, and conclude that it demonstrates that the model produces results that are reasonable and within expected ranges for the current environmental planning and Business Plan applications of the model. We were very pleased with the content, quality and quantity of the information.|url-status = dead|archive-url = https://web.archive.org/web/20111109022236/http://www.cahighspeedrail.ca.gov/assets/0/79/205/d04127b9-4b6e-4606-8d2a-b5806c959c4d.pdf|archive-date = November 9, 2011|df = mdy-all}}</ref>
+
+The Authority's ridership estimates initially were unrealistically high,{{Citation needed|date = January 2017}} and have been revised several times using progressively better estimating models, including risk analysis and confidence levels. The 2014 study (at a 50% [[Confidence interval|confidence level]]) estimated the following ridership/revenue figures:
+
+2022 (IOS): 11.3 million riders / $625&nbsp;million
+
+2027 (Bay to Basin): 19.1 million riders / $1055.6&nbsp;million
+
+2029 (Phase 1 initial): 28.4 million riders / $1350.4&nbsp;million
+
+2040 (Phase 1 mature): 33.1 million riders / $1559.4&nbsp;million<ref>{{cite web|url = http://www.hsr.ca.gov/docs/about/ridership/ridership_CM_and_forecast_CHSR_RR_2014_BP_Forecast_Tech_Memo_041814.pdf|title = California High-Speed Rail 2014 Business Plan|website = Hsr.ca.gov|accessdate = January 14, 2016}}</ref>
+
+===Project budget concerns===
+The project's cost and scope have long been a source of controversy. The project was sold to voters with a projected cost of $40&nbsp;billion in 2008. Election year proponents also promised a 2028 completion date, and a $55 one-way Los Angeles to San Francisco fare.<ref name="auto"/>  In 2012 the Authority re-estimated the project's year-of-expenditure cost at $68.4&nbsp;billion.<ref name="hsr.ca.gov2"/> In 2012 the estimated cost of a fare from LA to San Francisco has risen to $86.<ref>{{cite web|url=https://www.latimes.com/local/politics/la-me-adv-bullet-fares-20150510-story.html|title=Doing the math on California's bullet train fares|first=Ralph Vartabedian, Dan|last=Weikel|website=latimes.com|accessdate=February 16, 2019}}</ref> In March 2018, the Authority revised its estimate to $77.3 billion and up to $98.1 billion, pushing initial service to 2029 and services from Los Angeles to San Francisco to 2033.<ref name="auto1"/><ref name="auto2"/>
+
+The Reason Foundation's ''Due Diligence Report'' (2008) projected that the final cost for the complete system (including both Phases I, II and an additional East Bay phase) would be $65.2 to $81.4&nbsp;billion (2008).  Current estimates from the Authority estimate a total cost for Phase 1 of $64.2&nbsp;billion.<ref>{{cite web|url=http://www.hsr.ca.gov/docs/about/business_plans/2016_BusinessPlan.pdf|title=2016 Draft Business Plan|publisher=California High Speed Rail Authority}}</ref> The Authority is using ''Design-Build'' construction contracts to counter the tendency toward cost over-runs. All of the construction is to be done via "design-build" proposals wherein each builder is given leeway in the design and management of construction, but not the ability to run back with contract change orders except for extraordinary problems. The builder is given specifications but also given the freedom to meet them in their own way, plus the ability to modify the construction plans in an expeditious and cost-effective manner.<ref>{{cite news|url = https://www.theatlantic.com/politics/archive/2014/12/that-winning-bid-for-californias-high-speed-rail-is-it-too-low/383737/|title = That Winning Bid for California's High-Speed Rail: Is It Suspiciously Low?|work = [[The Atlantic]]|date = December 13, 2014|first = James|last = Fallows}}</ref>
+
+The [[California Legislative Analyst's Office]] published recommendations on May 10, 2011, which they said will help the high-speed rail project be developed successfully. They recommended that the California legislature seek flexibility on use of federal funds and then reconsider where construction of the high-speed rail line should start. They also recommended that the California legislature shift responsibility away from the Authority and fund only the administrative tasks of the Authority in the 2011–12 budget.<ref name="LAO201105102">{{cite web |title = High-Speed Rail Is at a Critical Juncture|url = http://www.lao.ca.gov/reports/2011/trns/high_speed_rail/high_speed_rail_051011.aspx|publisher = California Legislative Analyst's Office}}</ref>
+
+In January 2012, an independent peer review panel published a report recommending the Legislature not approve issuing $2.7&nbsp;billion in bonds to fund the project.<ref name="cbs2">{{Cite news |last = Buchanan|first = Wyatt|date = January 4, 2012|title = High-speed rail shouldn't be funded, report says|work = The San Francisco Chronicle|url = http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/01/03/BAKF1MKFOG.DTL&tsp=1|accessdate = January 4, 2012}}</ref> The panel of experts was created by state law to help safeguard the public's interest. The report said that moving ahead on the high-speed rail project without credible sources of adequate funding represents a financial risk to California.
+
+Prior to the July 2012 vote, State Senator Joe Simitian, (D-[[Palo Alto]]), expressed concerns about financing needed to complete the project, asking: "Is there additional commitment of federal funds? There is not. Is there additional commitment of private funding? There is not. Is there a dedicated funding source that we can look to in the coming years? There is not."<ref name="huffington6122">{{cite news |author = Judy Lin|title = California High Speed Rail Funding Approved|url = https://www.huffingtonpost.com/2012/07/06/california-high-speed-rail_n_1655437.html|work = The Huffington Post|date = July 6, 2012|accessdate = September 3, 2012}}</ref> The lobbying and advocacy group Train Riders Association of California also considers that Bill SB 1029 "provides no high-speed service for the next decade".<ref>{{cite news|first = Richard F.|last = Tolmach|title = High Speed Bait and Switch: $8 billion bill to produce zero miles of HSR|newspaper = California Rail News|volume = 24|issue = 2|date = August 2012|location = Sacramento, CA|publisher = TRAC|page = 1}}</ref>
+
+In July 2014 [[The World Bank]] reported that the per kilometer cost of California's high-speed rail system was $56&nbsp;million, more than double the average cost of $17–21&nbsp;million per km of high speed rail in China and more than the $25–39&nbsp;million per km average for similar projects in Europe.<ref>{{cite news|author = Press release|title = Cost of High Speed Rail in China One Third Lower than in Other Countries|date = July 10, 2014|url = http://www.worldbank.org/en/news/press-release/2014/07/10/cost-of-high-speed-rail-in-china-one-third-lower-than-in-other-countries|work = [[The World Bank]]}}</ref> High real estate prices in California and three mountain ranges to cross contribute to the difference. For example, Construction Package 2-3 in the farmland of the flat Central Valley works out to $11.4&nbsp;million per km, although this figure does not include electrification or property values, so it's roughly comparable internationally. Furthermore, the proposed [[High Speed 2]] in Great Britain is estimated to be more expensive on a per mile basis than the Californian system.
+
+As of May 2015, both construction packages awarded have come in significantly under staff estimates. For example, Construction Package 1 came in 20% under staff estimates ($985&nbsp;million versus $1.2&nbsp;billion),<ref>{{cite web|url = http://www.cahsrblog.com/2013/04/chsra-selects-tutor-perini-zachry-parsons-bid-for-central-valley-section/|title = CHSRA Selects Tutor Perini-Zachry-Parsons Bid for Central Valley Section|work = California High Speed Rail Blog|date = April 13, 2015|last = Cruickshank|first = Robert}}</ref> and Construction Package 2-3 came in under by 17% to 28% ($1.234567&nbsp;billion{{citation needed|date=February 2019}} versus $1.5–2&nbsp;billion).
+
+In December 2016, an internal-use-only draft risk assessment produced by the Federal Railroad Administration was delivered to the California Rail Authority which warned that the ICS (Merced-Bakersfield) segment could cost as much as $9.5&nbsp;billion instead of the $6.4&nbsp;billion originally budgeted, if certain challenges weren't addressed, including delays in environmental planning, lags in processing invoices and failures to acquire needed property.  Federal Railroad Administration spokesman Matthew Lehner said that the draft risk assessment "is a standard oversight tool used on major capital projects — not just California", and he is confident the state can meet its deadline with continued focus and hard work.<ref>[https://www.latimes.com/local/california/la-me-bullet-cost-overruns-20170106-story.html California's bullet train is hurtling toward a multibillion-dollar overrun, a confidential federal report warns]; ''[[Los Angeles Times]]''; Ralph Vartabedian; January 13, 2017</ref> Concern over the article prompted the Authority to send a letter on January 13, 2017 to the Legislature that said that the characterization of cost overruns, delays, and potential lapses of funds are not borne out by the facts, and that other key federal findings were ignored.<ref>{{cite web|url=http://hsr.ca.gov/docs/newsroom/2017_Letter_to_Legislature_LA_Times_Article.pdf|title=Letter to Legislature|website=Hsr.ca.gov|accessdate=4 October 2018}}</ref> After downplaying risks of cost overruns, in January 2018 the Authority acknowledged that cost estimates for the initial segment had increased to $10.6&nbsp;billion.<ref>{{cite news|last1=Vartabedian|first1=Ralph|title=California bullet train cost surges by $2.8 billion: 'Worst-case scenario has happened'|url=https://www.latimes.com/local/california/la-me-bullet-train-cost-overrun-20180116-story.html|newspaper=[[Los Angeles Times]]|accessdate=22 January 2018}}</ref><ref>{{cite news|last1=TIM SHEEHAN|title=Cost of high-speed rail project in the Valley leaps by $2.8 billion|url=http://www.fresnobee.com/news/local/high-speed-rail/article194995999.html|accessdate=22 January 2018|work=Fresno Bee}}</ref>
+
+In 2018, it was estimated that the first phase of CHSR will cost $77&nbsp;billion in year-of-expenditure dollars, assuming a 2033 completion year and 3% inflation.<ref>{{cite news |last=Vartabedian |agency=Los Angeles Times |first=Ralph |date=29 July 2018 |title=California bullet train might not attain state's mandated speed |url=http://www.marinij.com/general-news/20180729/california-bullet-train-might-not-attain-states-mandated-speed |work=Marin Independent Journal |via=Los Angeles Times |access-date=15 August 2018 |archive-url=https://web.archive.org/web/20180816125913/http://www.marinij.com/general-news/20180729/california-bullet-train-might-not-attain-states-mandated-speed# |archive-date=August 16, 2018 |url-status=dead |df=mdy-all }}</ref>
+
+== Public opinion and peer review ==
+There are two types of criticism: the legally established "peer review" process that the legislature established for an independent check on the Authority's planning efforts,<ref name="CHSRPRG2">{{Official website|http://www.cahsrprg.com/|name = Official website: California High Speed Rail Peer Review Group}}</ref> and public criticisms by groups, individuals, public agencies, and elected officials.
+
+As of the February 2015 conference ''Bold Bets: California on the Move?'', which is hosted by [[The Atlantic|''The Atlantic'' magazine]] and [[Siemens]], Dan Richard, the chair of the Authority, warned that not all issues to get the HSR system in place had yet been resolved.<ref name="bets2" />
+
+===Peer Review Group===
+The California Legislature established the [http://www.cahsrprg.com/ ''California High-Speed Rail Peer Review Group''] to provide independent analysis of the Authority's business plans and modeling efforts. Their documents are submitted to the Legislature as needed.
+
+The most recent critiques are [https://web.archive.org/web/20161013055410/http://www.cahsrprg.com/files/Thompson-statement-March-28-2016.pdf "Statement of Louis S. Thompson, Chairman, Peer Review Group, to California Assembly Transportation Committee Oversight Hearing", March 28, 2016], and [https://web.archive.org/web/20160717180916/http://cahsrprg.com/files/PRG-COMMENT-ON-REVISED-2016-BP-for-HSR-042516.pdf "Comment on Revised 2016 Business Plan, April 25, 2016].
+
+Key points in the 2016 business plan review include:
+* The Group still believes the Southern IOS is superior, but recognizes that the Northern IOS is more financially feasible at this time with limited resources.
+* Future funding sources are still uncertain for meeting projected needs, so there is a critical need for the Legislature to provide future guidance re financing sources and amounts.
+* The lack of connection to downtown San Francisco and downtown Bakersfield will adversely affect ridership and income, especially in the initial startup period.
+* To close these gaps, significant additional funding in the amount of $2.9&nbsp;billion would be needed. The Authority is suggesting that Federal monies could be obtained for this, although this is very uncertain now.
+* The blended system approach raises some significant issues that need resolution before it is feasible.
+* There are some critical assumptions concerning construction costs, the ability to spend American Recovery and Reinvestment Act funding while it is still available, and the ability to securitize Cap and Trade funding for future use.
+
+===Professional studies===
+Two peer studies have been made of station siting and design in Europe.
+
+Eric Eidlin, an employee of the Federal Transit Administration (Region 9, San Francisco), in 2015 wrote a study funded by the German Marshall Fund of the United States comparing the structural differences of the three relative to HSR and their historical development.<ref>{{cite web|url = http://www.gmfus.org/publications/making-most-high-speed-rail-california|title = Making the Most of High-Speed Rail in California: Lessons from France and Germany|work = gmfus.org|accessdate = January 14, 2016}}</ref> He also focused on the issue of station siting, design, use, and impact on the surrounding community. From this, he developed ten recommendations for CAHSRA. Among these are:
+* Develop bold, long-term visions for the HSR corridors and stations.
+* Where possible site HSR stations in central city locations.
+* In rural areas emphasize train speed, in urban areas emphasize transit connectivity.
+* Plan for and encourage the non-transit roles of the HSR stations.
+Eidlin's study also notes that in California there has been debate on the disadvantages of the proposed blended service in the urban areas of San Francisco and Los Angeles, including reduced speeds, more operating restraints, and complicated track-sharing agreements. There are some inherent advantages in blended systems that have not received much attention: shorter transfer distances for passengers, and reduced impacts on the neighborhoods. Blended systems are in use in Europe.<ref>{{cite web|url=http://www.midwesthsr.org/blended-service|title=Blended Service|date=June 7, 2013|website=Midwesthsr.org|accessdate=October 4, 2018}}</ref>
+
+A July 2015 study by A. Loukaitou-Sideris, D. Peters, and W. Wei of the [[Mineta Transportation Institute]] at San Jose State University compared the rail systems of Spain and Germany, and how blended high-speed rail lines have succeeded there.<ref>{{cite web|url = http://transweb.sjsu.edu/PDFs/research/1209-promoting-intermodal-connectivity-at-calif-high-speed-rail-stations.pdf|title = Promoting Intermodal Connectivity at California's High-Speed Rail Stations|website = Hsr.ca.gov|accessdate = January 14, 2016}}</ref> Emphasis was also given to station siting, design, and use. Similarly to Eidlin's study, they found that the best stations not only provided high connectivity, but they also had a broader role by providing shops and services to community members as well as travelers.
+
+===Think tank studies===
+[[Reason Foundation]], the [[Howard Jarvis Taxpayers Association]], and the [[Citizens Against Government Waste]] published a study which they named the "Due Diligence Report" (2008) critiquing the project.<ref>{{cite web|url = http://reason.org/files/1b544eba6f1d5f9e8012a8c36676ea7e.pdf|title = The California High Speed Rail Proposal: A Due Diligence Report|website = Hsr.ca.gov|accessdate = January 14, 2016}}</ref> In 2013 Reason Foundation published an "Updated Due Diligence Report" (2013).<ref name="reason.org2">{{cite web|url = http://reason.org/files/california_high_speed_rail_report.pdf|title = An Updated Due Diligence Report|website = Hsr.ca.gov|accessdate = January 14, 2016}}</ref> Key elements of the updated critique include:
+* operating train speed higher than any existing HSR system
+* unrealistic ridership projections
+* increasing costs
+* no clear funding plan
+* incorrect assumptions regarding HSR alternatives
+* increasing fare projections
+This 2013 critique is based on the 2012 Business Plan. Although the 2012 Business Plan has been superseded by the 2016 Business Plan, the critique does include the Blended System approach using commuter tracks in SF and LA.
+
+James Fallows in ''[[The Atlantic]]'' magazine summarized all the public criticisms thus, "It will cost too much, take too long, use up too much land, go to the wrong places, and in the end won't be fast or convenient enough to do that much good anyway."<ref name="critics2" />
+
+=== Public opinion surveys ===
+The Public Policy Institute of California (PPIC) March 2016 Statewide Survey<ref>{{cite web|url=http://www.ppic.org/content/pubs/survey/S_316MBS.pdf|title=Californians & Their Government|page=20|website=Ppic.org|accessdate=4 October 2018}}</ref> indicated that 63% of Californians think the project is either ''very important'' or ''somewhat important'', but costs are an issue. Currently{{when|date=July 2019}} over 50% favor building the system, but this increases to 66% if costs could be reduced. Note that the levels of support have generally been similar since the 2012 survey.
+
+Support also varies by location (with the San Francisco Bay Area the highest at 72%, and lowest in Central Valley at 56%), by race (Asians 66%, Latinos 58%, whites 44%, and blacks 42%), and age (declining sharply with increasing age). Support also notably varies by political orientation. The percentage of supporters and opponents by party is: Democrat (supporters 59% v. opponents 38%), Independent (supporters 47% v. opponents 50%), and Republican (supporters 29% v. opponents 69%).
+
+Dan Richard, chair of the Authority, says in an interview with James Fallows that he believes approval levels will increase when people can start seeing progress, and trains start running on the tracks.<ref name="bets2">{{cite web|url = https://www.theatlantic.com/live/events/bold-bets-sacramento/2015/|title = Bold Bets: California on the Move?|work = [[The Atlantic]]|date = February 25, 2015|quote = Video of event}}</ref>
+
+==Related projects==
+===Brightline West connection to Las Vegas===
+[[Brightline West]] (formerly Desert Xpress and XpressWest) is a project that since 2007 has been planning to build a high-speed rail line between [[Southern California]] and [[Las Vegas, Nevada]], part of the "Southwest Rail Network" they hope to create. The rail line would begin in Las Vegas and cross the [[Mojave Desert]] stopping in [[Victorville, California]] and terminating in [[Palmdale, California]] (where it would connect with the CAHSR line and [[Metrolink (Southern California)|Metrolink]]). This route would total about {{convert|230|miles}}. Lisa Marie Alley, speaking for CAHSRA, said that there have been ongoing discussions concerning allowing the trains to use CAHSRA lines to go further into the Los Angeles area, although no commitments have been made as yet. While many approvals have been obtained for the rail line from Victorville to Las Vegas, the section from Palmdale to Victorville has none as yet.<ref>{{cite news|last1 = Makien|first1 = Julie|title = A high-speed rail from L.A. to Las Vegas? China says it's partnering with U.S. to build|url = http://touch.latimes.com/#section/-1/article/p2p-84452156/|accessdate = September 19, 2015|newspaper = Los Angeles Times|date = September 17, 2015}}</ref> In September 2018, Florida-based railway company [[Brightline]] purchased the rights and assets to the connection.<ref>{{cite web|url=http://press.gobrightline.com/showPressRelease/100055086|title=Brightline to Build Express Intercity Passenger Rail Connecting Southern California and Las Vegas|website=Press.gobrightline.com|accessdate=October 4, 2018}}</ref>
+
+===Alternative infrastructure proposals===
+Some have offered the idea that instead of risking the large expenditures of high-speed rail, existing transportation methods should be increased to meet transportation needs. In a report commissioned by the Authority, a comparison was made to the needed infrastructure improvements if high-speed rail were not constructed. According to the report, the cost of building equivalent capacity to the $68.4&nbsp;billion (YOE) Phase 1 Blended plan, in airports and freeways, is estimated to be $119&nbsp;billion (YOE) for 4,295 new lane-miles ({{convert|4295|mi|km|disp = out}}) of highway, plus $38.6&nbsp;billion (YOE) for 115 new airport gates and 4 new runways, for a total estimated cost of $158&nbsp;billion.<ref name="BPlan2">{{cite web |url = http://www.hsr.ca.gov/docs/about/business_plans/BPlan_2012CompareEquivalentCapacity.pdf|title = Comparison of Providing the Equivalent Capacity to High-Speed Rail through Other Modes|date = April 2012|accessdate = October 31, 2013|quote = After adjusting the analysis to be more comparable to the costs described in the Business Plan, the total costs of equivalent investment in airports and highways would be $123-138 billion (in 2011 dollars) to build 4,295-4652 lane-miles of highways, 115 gates, and four runways for Phase 1 Blended and Phase 1 Full Build, respectively... In year-of-expenditure (YOE) dollars, the highway and airport costs would be $158–186 billion.}}</ref>
+
+"[[Hyperloop]]" is an alternative system that [[Elon Musk]] has championed. He has criticized the high-speed rail project as too expensive and not technologically advanced enough (trains that are—according to Musk—too slow). On August 12, 2013 he released a high-level [[Alpha version|alpha design]] for a Hyperloop transit system concept which he claimed would travel over three times as fast and cost less than a tenth of the rail proposal.<ref>{{cite web |url = http://www.businessweek.com/articles/2013-08-12/revealed-elon-musk-explains-the-hyperloop|title = Revealed: Elon Musk Explains the Hyperloop, the Solar-Powered High-Speed Future of Inter-City Transportation|last1 = Vance|first1 = Ashlee|date = August 12, 2013|website = Bloomberg Businessweek|publisher = Bloomberg L.P.|accessdate = August 13, 2013}}</ref><ref name="AlphaSpaceX2">{{cite web|url = http://www.spacex.com/sites/spacex/files/hyperloop_alpha-20130812.pdf|title = Hyperloop Alpha|first = Elon|last = Musk|work = SpaceX|date = August 12, 2013|accessdate = August 13, 2013|archive-url = https://web.archive.org/web/20160128114809/http://www.spacex.com/sites/spacex/files/hyperloop_alpha-20130812.pdf|archive-date = January 28, 2016|url-status = dead}}</ref> The following day he announced a plan to construct a demonstration of the concept.<ref name="gm201308132">{{cite web |url = http://www.gizmag.com/musk-developing-hyperloop-demonstrator/28684/|title = Musk announces plans to build Hyperloop demonstrator|publisher = Gizmag.com|date = August 13, 2013|accessdate = August 14, 2013|quote = [Musk] will develop and construct a Hyperloop demonstrator.}}</ref> Musk's claims have been subject to significant debate and criticism, in particular that the costs are still unknown and likely understated, the technology is not proven enough for statewide implementation, the route proposed doesn't meet the needs of providing statewide transportation, and it does not meet the legal requirements of Proposition 1A and so would require a whole new legal underpinning.<ref>{{cite magazine |url = http://www.technologyreview.com/view/518076/experts-raise-doubts-over-elon-musks-hyperloop-dream/|title = Experts Raise Doubts Over Elon Musk's Hyperloop Dream|magazine = MIT Technology Review|date = August 12, 2013|accessdate = December 30, 2014}}</ref> One flaw of the hyperloop is that it can carry far fewer passengers per trip compared to high-speed rail and, as of 2019, no sizable Hyperloop prototypes have been constructed to demonstrate that such a system is possible to construct on an intercity scale.
+
+==Further reading==
+* CHSRA's [http://hsr.ca.gov/docs/about/business_plans/2018_BusinessPlan.pdf 2018 Business Plan] describes the latest project goals, financing, and development plans. ([http://www.leginfo.ca.gov/pub/11-12/bill/sen/sb_1001-1050/sb_1029_bill_20120718_chaptered.pdf SB 1029] (enacted in 2012) requires the Authority to produce a revised business plan every two years.<ref name="gov.ca.gov2" />)
+* CHSRA's [http://www.hsr.ca.gov/docs/about/legislative_affairs/SB1029_Project_Update_Report_030117.pdf March 2017 Project Update] details the current status of the project. (SB 1029 also requires that twice a year, on March 1 and November 15, the Authority provide a project status report.)
+* James Fallows in ''[[The Atlantic]]'' magazine wrote a [https://www.theatlantic.com/politics/archive/2015/01/california-high-speed-rail-an-end-and-an-important-beginning/384238/ series of 17 articles] (from July 2014 to January 2015) about the HSR system which covers many aspects of the system, criticisms of it, and responses to those criticisms.
+* The "Bold Bets: California on the Move?" conference was hosted February 2015 by ''The Atlantic'' magazine and Siemens. There were some significant discussions, presentations, and interviews. Dan Richard, chair of the Authority, was interviewed by James Fallows.<ref name="bets2" />
+
+==Footnotes==
+{{Reflist}}
+
+==References==
+* {{cite web |last=CHSRA |title=Business Plan 2016. Connecting and Transforming California. |date=May 1, 2016 |publisher=California High-Speed Rail Authority |url=http://www.hsr.ca.gov/docs/about/business_plans/2016_BusinessPlan.pdf }}
+
+==External links==
+{{Commons category|California High-Speed Rail}}
+* [https://hsr.ca.gov/ California High-Speed Rail Authority] – official website
+* [http://californiastaterailplan.dot.ca.gov/docs/Final_Copy_2013_CSRP.pdf California State Rail Plan (2013)] – official document
+* [http://www.leginfo.ca.gov/pub/07-08/bill/asm/ab_3001-3050/ab_3034_bill_20080826_chaptered.html AB 3034] –  official document (the authorizing legislation for Proposition 1A)
+* [http://www.mercurynews.com/california-high-speed-rail ''San Jose Mercury News'' coverage]
+* [https://www.huffingtonpost.com/news/california-high-speed-rail/ Huffington Post coverage]
+* [http://www.progressiverailroading.com/high_speed_rail/ Progressive Railroading coverage]
+* [http://www.fresnobee.com/news/local/high-speed-rail/?rh=1 ''The Fresno Bee'' coverage]
+
+{{CHSR}}
+{{High-speed rail in the United States}}
+{{High-speed rail}}
+{{California railroads}}
+{{Deutsche Bahn}}
+
+[[Category:California High-Speed Rail| ]]
+[[Category:Deutsche Bahn]]
+[[Category:Electric railways in California]]
+[[Category:High-speed railway lines in the United States]]
+[[Category:Passenger rail transportation in California]]
+[[Category:Proposed railway lines in California]]
+[[Category:25 kV AC railway electrification]]
+[[Category:2029 in rail transport]]
+[[Category:Megaprojects]]

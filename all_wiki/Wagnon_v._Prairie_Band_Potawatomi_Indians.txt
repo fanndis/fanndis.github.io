@@ -1,0 +1,61 @@
+{{Infobox SCOTUS case
+  |Litigants=Wagnon v. Prairie Band Potawatomi Indians
+  |ArgueDate=October 3
+  |ArgueYear=2005
+  |DecideDate=December 6
+  |DecideYear=2005
+  |FullName=Wagnon v. Prairie Band Potawatomi Indians
+  |USVol=546
+  |USPage=95
+  |ParallelCitations=126 S. Ct. 676; 163 [[L. Ed. 2d]] 429; 2005 [[U.S. LEXIS]] 9229
+  |Prior=379 [[F.3d]] [https://law.justia.com/cases/federal/appellate-courts/F3/379/979/475128/ 979] (10th Cir. 2004)
+  |Subsequent=
+  |Holding=Held that a state's non-discriminatory fuel tax imposed on off-reservation distributors does not pose an affront to a tribe's sovereignty.
+  |Majority=Thomas
+  |JoinMajority=Roberts, Stevens, O'Connor, Scalia, Souter, Breyer
+  |Concurrence=
+  |JoinConcurrence=
+  |Concurrence2=
+  |JoinConcurrence2=
+  |Concurrence/Dissent=
+  |JoinConcurrence/Dissent=
+  |Dissent=Ginsburg
+  |JoinDissent=Kennedy
+  |Dissent2=
+  |JoinDissent2=
+  |LawsApplied=
+}}
+'''''Wagnon v. Prairie Band Potawatomi Indians''''', 546 U.S. 95 (2005), was a case in which the [[Supreme Court of the United States]] held that a state's non-discriminatory fuel tax imposed on off-reservation distributors does not pose an affront to a tribe's sovereignty.<ref name=SCOTUS>''Wagnon v. Prairie Band Potawatomi Indians'', {{ussc|546|95|2005}}.</ref>
+
+==Background==
+The [[Prairie Band of Potawatomi Nation|Prairie Band Potawatomi Nation]] is a federally recognized Indian (Native American) tribe with a reservation in [[Jackson County, Kansas|Jackson County]], [[Kansas]].  The tribe operates a gas station on the reservation, buying the fuel from off-reservation distributors.  Under Kansas law, the distributors pay state tax on receipt of the fuel and pass on the costs to their customers, including the tribe.  As a federally recognized tribe, a state may not directly tax the tribe absent the authorization of [[United States Congress|Congress]].<ref name=Spellmeier>Spellmeier, Luke R. (2004), A Winning Hand or Time to Fold? State Taxation of Fuel Sales on Kansas Indian Reservations, 43 Washburn Law J. 141</ref><ref name=Schraver>[[David M. Schraver|Schraver, David M.]] and Tennant, David H. (2012), Indian Tribal Sovereignty - Current Issues, 75 Albany Law R. 133</ref>
+
+A previous Supreme Court case had struck down a state fuel tax imposed on gas sold by the [[Chickasaw Nation]] in 1995.<ref name=Chickasaw>''Oklahoma Tax Commission v. Chickasaw Nation'', {{ussc|515|450|1995}}</ref>  Kansas had, subsequent to the ''Oklahoma Tax Commission v. Chickasaw Nation'', {{ussc|515|450|1995}} decision, imposed the tax on the non-Indian distributors of fuel and not on the tribe as the retail seller.  The Potawatomi tribe viewed this as an attack on their tribal sovereignty and filed suit in the [[United States District Court for the District of Kansas]].<ref name=Spellmeier /><ref name=District>{{cite court |litigants=Prairie Band Potawatomi Nation v. Richards |vol=241 |reporter=F. Supp. 2d |opinion=1295 |pinpoint= |court=D. Kan. |date=2003 |url=https://law.justia.com/cases/federal/district-courts/FSupp2/241/1295/2578188/ |accessdate=2018-03-20 |quote=}}</ref>
+
+The District Court upheld the state tax, and the tribe appealed to the [[United States Court of Appeals for the Tenth Circuit|Tenth Circuit Court of Appeals]].  The appellate court reversed the decision of the trial court, ruling that the state's tax infringed on the tribe's right of self-government.  Kansas appealed to the Supreme Court, which granted [[certiorari]] to hear the case.<ref name=SCOTUS /><ref name=Spellmeier /><ref name=Circuit>{{cite court |litigants=Prairie Band Potawatomi Nation v. Richards |vol=379 |reporter=F.3d |opinion=979 |pinpoint= |court=10th Cir. |date=2004 |url=https://law.justia.com/cases/federal/appellate-courts/F3/379/979/475128/ |accessdate=2018-03-20 |quote=}}</ref><ref name=Kieval>Kieval, Shira (2009), Discerning Discrimination in State Treatment of American Indians Going Beyond Reservation Boundaries, 109 Columbia Law R. 94</ref>
+
+==Opinion of the Court==
+
+Justice [[Clarence Thomas]] delivered the opinion of the court.  Justice Thomas reasoned that the taxation took place off-reservation and was neither discriminatory nor an affront to tribal sovereignty.  Accordingly, the court reversed the decision of the Tenth Circuit and ruled that the tax was valid.<ref name=SCOTUS /><ref name=Spellmeier /><ref name=Kieval />
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+* {{caselaw source
+ | case = ''Wagnon v. Prairie Band Potawatomi Indians'', 546 U.S. 95 (2005)
+ | cornell =https://www.law.cornell.edu/supct/html/04-631.ZS.html
+ | courtlistener =https://www.courtlistener.com/opinion/1991588/wagnon-v-prairie-band-potawatomi-nation/
+ | googlescholar = https://scholar.google.com/scholar_case?case=15920537896470005464
+ | justia =https://supreme.justia.com/cases/federal/us/546/95/
+ | oyez =https://www.oyez.org/cases/2005/04-631
+ }}
+
+[[Category:2005 in United States case law]]
+[[Category:United States Supreme Court cases]]
+[[Category:Potawatomi]]
+[[Category:United States Native American tax case law]]
+[[Category:United States Supreme Court cases of the Roberts Court]]
+
+
+{{SCOTUS-case-stub}}

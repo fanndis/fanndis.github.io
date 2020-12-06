@@ -1,0 +1,55 @@
+{{Infobox SCOTUS case
+  |Litigants=Duren v. Missouri
+  |ArgueDate=November 1
+  |ArgueYear=1978
+  |DecideDate=January 9
+  |DecideYear=1979
+  |FullName=Duren v. Missouri
+  |USVol=439
+  |USPage=357
+  |ParallelCitations=99 S. Ct. 664; 58 [[L. Ed. 2d]] 579; 1979 [[U.S. LEXIS]] 208
+  |Prior=''Certiorari'' to the Supreme Court of Missouri
+  |Subsequent=
+  |Holding=The exemption on request of women from jury service under Missouri law, resulting in an average of less than 15% women on jury venires in the forum county, violates the "fair-cross-section" requirement of the Sixth Amendment as made applicable to the States by the Fourteenth.
+  |Majority=White
+  |JoinMajority=Burger, Brennan, Stewart, Marshall, Blackmun, Stevens
+  |Concurrence: Powell
+  |Dissent=Rehnquist
+  |LawsApplied=
+}}
+
+'''''Duren v. Missouri''''', 439 U.S. 357 (1979), was a [[Supreme Court of the United States|United States Supreme Court]] case related to the [[Sixth Amendment to the United States Constitution|Sixth Amendment]]. It challenged Missouri's law allowing gender-based exemption from jury service.
+
+[[Ruth Bader Ginsburg]], who later became a [[Associate Justice of the Supreme Court of the United States|Supreme Court Justice]], and Lee Nation argued for Duren<ref>{{cite web | title = Duren v. Missouri | url=https://www.oyez.org/cases/1970-1979/1978/1978_77_6067 | accessdate = 18 October 2009 }}</ref> in what became Ginsburg's last case before the Supreme Court as an attorney. Part of her argument was that making jury duty optional for women should be struck down because it treated [[Women in United States juries|women's service on juries]] as less valuable than men's, and also discriminated against men who enjoyed no such exemption.<ref>{{cite web | title = A Walk through History, with Justice Ginsburg as Guide  | url=http://harvardmagazine.com/breaking-news/walk-through-history-with-justice-ginsburg | accessdate = 18 October 2009 }}</ref>
+
+== Background ==
+Duren was indicted in 1975 for first-degree murder and first-degree robbery. In a pretrial motion to quash his [[jury]] panel, and again in a post-conviction motion for a new trial, he claimed that his right to [[jury trial|trial by a jury]] chosen from a fair cross section of his community was denied by provisions of Missouri law granting women who so request an automatic exemption from jury service. He claimed that this Missouri law violated his sixth amendment rights to an impartial jury.
+
+== Issues ==
+Missouri state law at that time permitted women (and those over age 65) to be exempted from jury duty upon request.<ref>at pages 361–362</ref> Furthermore, women who failed to show up for jury duty were automatically exempted.<ref>footnote 14 on page 362 noted that the practice of allowing women to simply not show up was itself not authorized by any law or regulation, and that if men failed to show up for jury duty, they could be subjected to penalties for contempt of court</ref> In ''[[Taylor v. Louisiana]]'', the Supreme Court held that systematic exclusion of women from the jury pool resulted in jury pools that were not representative of the general population.
+
+== Decision ==
+The conviction was overturned and remanded back to trial court. Five other cases before the Supreme Court were also decided in the same way: ''Harlin v. Missouri'', (439 U.S. 459),<ref>{{cite court |litigants=Harlin v. Missouri |vol=439 |reporter=U.S. |opinion=459 |pinpoint= |court=US Supreme Court |date=1979 |url=http://supreme.justia.com/us/439/461/case.html }}</ref> ''Lee v. Missouri'', (439 U.S. 461),<ref>{{cite court |litigants=Lee v. Missouri |vol=439 |reporter=U.S. |opinion=461 |pinpoint= |court=US Supreme Court |date=1979 |url=http://supreme.justia.com/us/439/461/case.html }}</ref> ''Arrington v. Missouri'', ''Burnfin v. Missouri'', ''Combs v. Missouri'' and ''Minor v. Missouri''. The decision was held to be retroactive.
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{caselaw source
+ | case = ''Duren v. Missouri'', {{Ussc|439|357|1979|el=no}}
+ | findlaw = https://caselaw.findlaw.com/us-supreme-court/439/357.html
+ | justia =https://supreme.justia.com/cases/federal/us/439/357/
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep439/usrep439357/usrep439357.pdf
+ | oyez =https://www.oyez.org/cases/1978/77-6067
+ }}
+
+{{Equal protection and criminal procedure|jury|state=expanded}}
+
+{{DEFAULTSORT:Duren V. Missouri}}
+[[Category:United States equal protection and criminal procedure case law]]
+[[Category:United States jury case law]]
+[[Category:United States Sixth Amendment jury case law]]
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Burger Court]]
+[[Category:1979 in United States case law]]
+[[Category:Legal history of Missouri]]

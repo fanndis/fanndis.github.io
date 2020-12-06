@@ -1,0 +1,91 @@
+{{Infobox SCOTUS case
+  |Litigants=Gratz v. [[Lee Bollinger|Bollinger]]
+  |ArgueDate=April 1
+  |ArgueYear=2003
+  |DecideDate=June 23
+  |DecideYear=2003
+  |FullName=Jennifer Gratz and Patrick Hamacher v. [[Lee Bollinger]], et al.
+  |Docket=02-516
+  |USVol=539
+  |USPage=244
+  |ParallelCitations=123 S. Ct. 2411; 156 [[L. Ed. 2d]] 257; 2003 [[U.S. LEXIS]] 4801; 71 U.S.L.W. 4480; 91 Fair Empl. Prac. Cas. ([[Bloomberg BNA|BNA]]) 1803; 84 Empl. Prac. Dec. ([[CCH (company)|CCH]]) ¶ 41,416; 2003 Cal. Daily Op. Service 5362; 16 Fla. L. Weekly Fed. S 387
+  |Prior=Summary judgment granted in part to plaintiffs, 122 [[F. Supp. 2d]] [https://law.justia.com/cases/federal/district-courts/FSupp2/122/811/2580376/ 811] ([[E.D. Mich.]] 2000); Summary judgment granted to plaintiffs, 135 F. Supp. 2d [https://law.justia.com/cases/federal/district-courts/FSupp2/135/790/2503164/ 790] (E.D. Mich. 2001); consolidated on appeal with ''[[Grutter v. Bollinger]]'' before ''[[en banc]]'' court, 277 [[F.3d]] [https://law.justia.com/cases/federal/appellate-courts/F3/277/803/521234/ 803] (6th Cir. 2001); [[Certiorari|cert]]. before judgment granted, {{ussc|537|1044|2002|el=no}}.
+  |Subsequent=On remand, 80 [[Federal Appendix|Fed. App'x]] 417 ([[6th Cir.]] 2003)
+  |Holding=A state university's admission policy violated the Equal Protection Clause of the Fourteenth Amendment because its ranking system gave an automatic point increase to all racial minorities rather than making individual determinations.
+  |Majority=Rehnquist
+  |JoinMajority=O'Connor, Scalia, Kennedy, Thomas
+  |Concurrence=O'Connor
+  |JoinConcurrence=Breyer (in part)
+  |Concurrence2=Thomas
+  |Concurrence3=Breyer
+  |JoinConcurrence2=
+  |Concurrence/Dissent=
+  |JoinConcurrence/Dissent=
+  |Concurrence/Dissent2=
+  |JoinConcurrence/Dissent2=
+  |Dissent=Stevens
+  |JoinDissent=Souter
+  |Dissent2=Souter
+  |JoinDissent2=Ginsburg (in part)
+  |Dissent3=Ginsburg
+  |JoinDissent3=Souter, Breyer (in part)
+  |LawsApplied=[[Fourteenth Amendment to the United States Constitution|U.S. Const. amend. XIV]]
+  |Superseded=
+  |Overruled=
+}}
+'''''Gratz v. Bollinger''''', 539 U.S. 244 (2003), was a [[United States]] [[Supreme Court of the United States|Supreme Court]] [[List of United States Supreme Court cases|case]] regarding the [[University of Michigan]] undergraduate [[affirmative action]] [[University and college admissions|admissions]] policy. In a 6&ndash;3 decision announced on June 23, 2003, [[Chief Justice Rehnquist]], writing for the Court, ruled the University's point system's "predetermined point allocations" that awarded 20 points towards admission to underrepresented minorities "ensures that the diversity contributions of applicants cannot be individually assessed" and was therefore unconstitutional.<ref>{{ussc|name=Gratz v. Bollinger|link=|volume=539|page=244|pin=|year=2003}}.</ref>
+
+==Case==
+The University of Michigan used a 150-point scale to rank applicants, with 100 points needed to guarantee admission. The University gave underrepresented ethnic groups, including [[African-American]]s, [[Hispanic]]s, and [[Native Americans in the United States|Native Americans]], an automatic 20-point bonus towards their score, while a perfect SAT score was worth 12 points.<ref>{{cite web|title=Gratz v. Bollinger: Motion for Summary Judgment|url=http://www.vpcomm.umich.edu/admissions/legal/gratz/gratsumj.html|publisher=Regents of the University of Michigan|accessdate=3 February 2014|url-status=dead|archiveurl=https://web.archive.org/web/20140221121122/http://www.vpcomm.umich.edu/admissions/legal/gratz/gratsumj.html|archivedate=21 February 2014}}</ref>
+
+The petitioners, Jennifer Gratz and Patrick Hamacher, both residents of [[Michigan]], applied for admission to the [[University of Michigan]]'s College of Literature, Science, and the Arts (LSA). Gratz applied for admission in the fall of 1995 and Hamacher in the fall of 1997.  Both were subsequently denied admission to the university. Gratz and Hamacher were contacted by the [[Center for Individual Rights]], which filed a lawsuit on their behalf in October 1997. The case was filed in the United States District Court for the Eastern District of Michigan against the University of Michigan, the College of LSA, James Duderstadt, and [[Lee Bollinger]]. Duderstadt was president of the university while Gratz's application was under consideration, and Bollinger while Hamacher's was under consideration. Their class-action lawsuit alleged "violations and threatened violations of the rights of the plaintiffs and the class they represent to [[equal protection]] of the laws under the [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]]... and for racial discrimination."
+
+Like ''[[Grutter v. Bollinger|Grutter]],'' the case was heard in District Court, appealed to the [[Sixth Circuit Court of Appeals]], and asked to be heard before the Supreme Court.
+
+==U.S. Supreme Court consideration==
+===Issues of standing===
+It has been argued by some that Jennifer Gratz lacked [[Standing (law)|legal standing]] to bring this action. Gratz applied in 1995, three years before the University of Michigan adopted its points system. Gratz could not claim injury as a result of the points system, and thus, under traditional legal rules, Gratz lacked standing. Gratz chose not to attend the University of Michigan by declining the university's offer to be placed on a waiting list. Every Michigan student who agreed to go onto the waiting list in the spring of 1995 was admitted to the University of Michigan for the Fall 1995 semester.{{Citation needed|date=August 2011}} However, Gratz argues that she did fill out the paperwork for said waiting list, but the University claims it got lost.
+
+===Opinion of the court===
+Chief Justice Rehnquist delivered the opinion of the court. The court's majority found that Gratz and co-plaintiff Hamacher had standing to seek declaratory and injunctive relief, relying on ''Northeastern Fla. Chapter, Associated Gen. Contractors of America v. Jacksonville'', 508 U.S. 656 (1993). Here the "injury in fact" necessary to establish standing in the case was the denial of equal treatment resulting from the imposition of the barrier, and not in the ultimate inability to obtain the benefit.
+
+The court held that because the university’s use of race in its current freshman admissions policy was not [[Strict scrutiny|narrowly tailored]] to achieve the respondents' asserted interest in diversity, the policy violated the Equal Protection Clause.
+
+===Dissent===
+Justices Stevens, Souter, and Ginsburg dissented. Ginsburg wrote that "government decisionmakers may properly distinguish between policies of exclusion and inclusion...Actions designed to burden groups long denied full citizenship stature are not sensibly ranked with measures taken to hasten the day when entrenched discrimination and its after effects have been extirpated."<ref>{{cite journal |last1=Heriot |first1=Gail |title=Thoughts on Grutter v. Bollinger and Gratz v. Bollinger as Law and as Practical Politics |journal=[[Loyola University Chicago Law Journal]] |date=2004 |volume=36 |page=137 |url=https://lawecommons.luc.edu/cgi/viewcontent.cgi?article=1246&context=luclj |accessdate=September 26, 2020}}</ref>
+
+==See also==
+* ''[[Grutter v. Bollinger]]'' (2003)
+*[[List of class action lawsuits]]
+*[[List of United States Supreme Court cases, volume 539]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite book |authorlink=Barbara A. Perry |last=Perry |first=Barbara A. |title=The Michigan Affirmative Action Cases |publisher=University Press of Kansas |year=2007 |isbn=978-0-7006-1549-0 |url-access=registration |url=https://archive.org/details/michiganaffirmat0000perr }}
+
+==External links==
+* {{caselaw source
+ | case = ''Gratz v. Bollinger'', {{ussc|539|244|2003|el=no}}
+ | justia =https://supreme.justia.com/cases/federal/us/539/244/
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep539/usrep539244/usrep539244.pdf
+ | oyez =https://www.oyez.org/cases/2002/02-516
+ }}
+* [https://web.archive.org/web/20170704033433/https://www.supremecourt.gov/oral_arguments/argument_transcripts/02-516.pdf Transcript of April 1, 2003 Supreme Court arguments] ([[Portable Document Format|PDF format]])
+
+{{University of Michigan}}
+{{AAUS}}
+
+{{US14thAmendment}}
+
+{{DEFAULTSORT:Gratz V. Bollinger}}
+[[Category:United States equal protection case law]]
+[[Category:United States Supreme Court cases]]
+[[Category:United States affirmative action case law]]
+[[Category:2003 in United States case law]]
+[[Category:Class action lawsuits]]
+[[Category:University of Michigan]]
+[[Category:University and college admissions]]
+[[Category:Legal history of Michigan]]
+[[Category:United States Supreme Court cases of the Rehnquist Court]]

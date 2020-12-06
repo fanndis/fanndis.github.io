@@ -1,0 +1,109 @@
+{{short description|Basic unit of time in music and music theory}}
+{{Other uses|Beat (acoustics)|Beat (disambiguation)}}
+{{redirect|Upbeat|other uses|up beat (disambiguation)}}
+{{distinguish|Beat music}}
+[[File:Metric levels.svg|thumb|350px|Metric levels: beat level shown in middle with division levels above and multiple levels below.]]
+
+In [[music]] and [[music theory]], the '''beat''' is the basic unit of time, the [[pulse (music)|pulse]] (regularly repeating event), of the ''mensural level''<ref>Berry, Wallace (1976/1986). ''Structural Functions in Music'', p. 349. {{ISBN|0-486-25384-8}}.</ref> (or ''beat level'').<ref>Winold, Allen (1975). "Rhythm in Twentieth-Century Music", ''Aspects of Twentieth-Century Music'', p. 213. With, Gary (ed.). Englewood Cliffs, New Jersey: Prentice–Hall. {{ISBN|0-13-049346-5}}.</ref> The beat is often defined as the rhythm listeners would tap their toes to when listening to a piece of music, or the numbers a musician [[counting (music)|counts]] while performing, though in practice this may be technically incorrect (often the first multiple level). In popular use, ''beat'' can refer to a variety of related concepts, including [[pulse (music)|pulse]], [[tempo]], [[meter (music)|meter]], specific [[rhythm]]s, and [[groove (popular music)|groove]].
+
+Rhythm in music is characterized by a repeating sequence of [[#On-beat and off-beat|stressed and unstressed beats]] (often called "strong" and "weak") and divided into [[bar (music)|bars]] organized by [[time signature]] and [[tempo]] indications.
+
+Beats are related to and distinguished from pulse, rhythm (grouping), and meter:
+
+{{Quote|Meter is the measurement of the number of pulses between more or less regularly recurring accents.<!--3--> Therefore, in order for meter to exist, some of the pulses in a series must be accented—marked for consciousness—relative to others.<!--4--> When pulses are thus counted within a metric context, they are referred to as ''beats''.|[[Leonard B. Meyer]] and [[Grosvenor Cooper|Cooper]] (1960)<ref>Cooper, Grosvenor and Meyer, Leonard B. Meyer (1960). ''The Rhythmic Structure of Music'', p.3-4. University of Chicago Press. {{ISBN|0-226-11521-6}}/{{ISBN|0-226-11522-4}}.</ref>}}
+
+[[Meter (music)#Metric structure|Metric levels]] faster than the beat level are division levels, and slower levels are multiple levels. Beat has always been an important part of music.  Some [[music genre]]s such as [[funk]] will in general de-emphasize the beat, while other such as [[disco]] emphasize the beat to accompany dance.<ref name="hhd">{{cite book |title=Hip Hop Dance |last=Rajakumar |first=Mohanalakshmi |year=2012 |publisher=ABC-CLIO |isbn=9780313378461 |page=5 |url=https://play.google.com/store/books/details?id=jGZhfy9UaGIC |access-date=22 November 2016}}</ref>
+
+==Division==
+{{Main|Metre (music)#Metric structure}}
+
+As beats are combined to form measures, each beat is divided into parts. The nature of this combination and division is what determines meter. Music where two beats are combined is in [[duple meter]], music where three beats are combined is in [[triple meter]]. Music where the beat is split in two are in simple meter, music where the beat is split in three are called compound meter. Thus, simple duple (2/4, 4/4, 2/2, etc.), simple triple (3/4), compound duple (6/8), and compound triple (9/8). Divisions which require numbers, [[tuplet]]s (for example, dividing a quarter note into five equal parts), are irregular divisions and subdivisions. Subdivision begins two levels below the beat level: starting with a quarter note or a dotted quarter note, subdivision begins when the note is divided into sixteenth notes.
+
+{{anchor|Downbeat|Upbeat}}
+==Downbeat and upbeat==
+<!--[[Downbeat and upbeat]] redirects directly here.-->
+{{redirect|Upbeat}}
+[[File:anacrusis-bwv736.png|right|frame|Beginning of [[Johann Sebastian Bach|Bach's]] [[BWV]]&nbsp;736, with upbeat (anacrusis) in <span style="color:red;">red</span>. {{audio|Anacrusis-bwv736.mid|Play}}]]
+
+The ''downbeat'' is the first beat of the [[bar (music)|bar]], i.e. number 1. The ''upbeat'' is the '''last beat''' in the '''previous bar''' which immediately '''precedes,''' and hence anticipates, the '''downbeat'''.<ref name=Groveupbeat>{{cite web |title=Upbeat |url=http://www.grovemusic.com|access-date=2007-02-10 |last= Dogantan|first= Mine|year= 2007 |work=Oxford Music Online |publisher=Grove Music Online | archive-url= https://web.archive.org/web/20080516041031/http://www.grovemusic.com/| archive-date=May 16, 2008<!--DASHBot-->|url-status = live|url-access=subscription }}</ref> Both terms correspond to the direction taken by the hand of a [[conductor (music)|conductor]].
+
+{{Quote|This idea of directionality of beats is significant when you translate '''its''' effect on music. The crusis of a measure or a phrase is a beginning; it propels sound and energy forward, so the sound needs to lift and have forward motion to create a sense of direction. The anacrusis leads to the crusis, but doesn't have the same 'explosion' of sound; it serves as a preparation for the crusis.<ref>Cleland, Kent D. and Dobrea-Grindahl, Mary (2013). ''[https://books.google.com/books?id=wvTSsKLSxWsC&pg=PT34&dq=anacrusis+example&hl=en&sa=X&ved=0ahUKEwjGwKqWiaPWAhVL82MKHVfyBAcQ6AEIQDAE#v=onepage&q=anacrusis%20example&f=false Developing Musicianship Through Aural Skills]'', unpaginated. Routledge. {{ISBN|9781135173050}}.</ref>}}
+
+An anticipatory note or succession of notes occurring before the first barline of a piece is sometimes referred to as an upbeat figure, section or phrase. Alternative expressions include "pickup" and "[[anacrusis]]" (the latter ultimately from Greek ''ana'' ["up towards"] and ''krousis'' ["strike"/"impact"] through French ''anacrouse''). In English, ''anákrousis'' translates literally as "pushing up". The term anacrusis was borrowed from the field of [[poetry]], in which it refers to one or more unstressed extrametrical [[syllable]]s at the beginning of a line.<ref name=Groveupbeat/>
+
+{{anchor|On-beat|Off-beat}}
+
+==On-beat and off-beat==
+<!--[[On-beat and off-beat]] redirects directly here.-->
+[[File:Backbeat pattern snare drum.png|thumb|right|300px|Off-beat or backbeat pattern, popular on snare drum<ref name="Schroedl">Schroedl, Scott (2001). ''Play Drums Today Dude!'', p. 11. Hal Leonard. {{ISBN|0-634-02185-0}}.</ref> {{Audio|Backbeat pattern snare drum.mid|play}}]]
+[[File:Backbeat chop.png|thumb|right|300px|"[[Skank (guitar)|Skank]]" guitar rhythm<ref>Snyder, Jerry (1999). ''Jerry Snyder's Guitar School'', p. 28. {{ISBN|0-7390-0260-0}}.</ref>{{audio|Skank on Em64.mid|Play}}. Often referred to as "upbeats", in parallel with [[upstroke]]s.]]
+
+In typical Western music [[Quadruple time|{{music|time|4|4}} time]], [[counting (music)|counted]] as "<tt>1&nbsp;2&nbsp;3&nbsp;4, 1&nbsp;2&nbsp;3&nbsp;4...</tt>", the first beat of the bar (downbeat) is usually the strongest [[Accent (music)|accent]] in the melody and the likeliest place for a chord change, the third is the next strongest: these are "on" beats. The second and fourth are weaker—the "off-beats". Subdivisions (like eighth notes) that fall between the pulse beats are even weaker and these, if used frequently in a rhythm, can also make it "off-beat".<ref name=beat>{{cite web |title= Beat: Accentuation. (i) Strong and weak beats. |access-date=2007-02-10 |url=http://www.grovemusic.com |year= 2007 |work=Oxford Music Online |publisher=Grove Music Online |archive-url= https://web.archive.org/web/20080516041031/http://www.grovemusic.com/ |archive-date=May 16, 2008<!--DASHBot--> |url-status = live|url-access=subscription }}</ref>
+
+The effect can be easily simulated by evenly and repeatedly counting to four. As a background against which to compare these various rhythms a bass drum strike on the downbeat and a constant eighth note subdivision on ride cymbal have been added, which would be counted as follows ('''bold''' denotes a stressed beat):
+* <tt>'''1''' 2 3 4 '''1''' 2 3 4</tt>  —{{audio|Backbeat example eighth notes.mid|play eighth notes and bass drum alone}}
+* <tt>'''1''' 2 '''3''' 4 '''1''' 2 '''3''' 4</tt>—the stress here on the "on" beat {{audio|Backbeat example unsyncopated.mid|play}} But one may syncopate that pattern and alternately stress the odd and even beats, respectively:
+*<tt>1 '''2''' 3 '''4''' 1 '''2''' 3 '''4'''</tt> —the stress is on the "unexpected" or syncopated beat {{audio|Backbeat example.mid|play}}
+
+So "off-beat" is a musical term, commonly applied to [[syncopation]] that emphasizes the weak even beats of a bar, as opposed to the usual on-beat. This is a fundamental technique of [[African polyrhythm]] that transferred to popular western music. According to Grove Music, the "Offbeat is [often] where the downbeat is replaced by a rest or is tied over from the preceding bar".<ref name=beat/> The downbeat can never be the off-beat because it is the strongest beat in {{music|time|4|4}} time.<ref>{{cite web |title= Off-beat|url=http://www.grovemusic.com  |access-date=2007-02-10 |year= 2007 |work=Oxford Music Online |publisher=Grove Music Online | archive-url= https://web.archive.org/web/20080516041031/http://www.grovemusic.com/| archive-date=May 16, 2008<!--DASHBot-->|url-status = live|url-access=subscription }}</ref> Certain genres tend to emphasize the off-beat, where this is a defining characteristic of rock'n'roll and [[ska]] music.
+
+{{anchor|Back beat}}
+
+==Backbeat==
+{{redirect|Backbeat}}
+[[File:Backbeat chop.png|thumb|left|300px|Back beat<ref>"Introduction to the '[[Chop chord|Chop]]'", Anger, Darol. ''Strad'' (0039-2049); 10/01/2006, Vol. 117 Issue 1398, pp. 72–75.</ref><ref>Horne, Greg (2004). ''Beginning Mandolin: The Complete Mandolin Method'', p. 61. Alfred. {{ISBN|9780739034712}}.</ref> {{audio|Backbeat chop.mid|Play}}]]
+[[File:Chuck Berry51.JPG|right|200px|thumb|"It's got a backbeat, you can't lose it" – [[Chuck Berry]], "[[Rock and Roll Music]]"]]
+
+A '''back beat''', or '''backbeat''', is a [[syncopation|syncopated]] accentuation on the "off" beat. In a simple {{music|time|4|4}} rhythm these are beats 2 and 4.<ref name=Grove>{{cite web|title=Backbeat |url=http://www.grovemusic.com |access-date=February 10, 2007 |year= 2007 |work=Oxford Music Online |publisher=Grove Music Online | archive-url= https://web.archive.org/web/20080516041031/http://www.grovemusic.com/| archive-date=May 16, 2008<!--DASHBot-->|url-status = live|url-access=subscription }}</ref>
+
+"A big part of R&B's attraction had to do with the stompin' backbeats that make it so eminently danceable," according to the ''Encyclopedia of Percussion''.<ref>Beck, John H. (2013). ''Encyclopedia of Percussion'', p. 323. Routledge. {{ISBN|9781317747680}}.<!--ibid later--></ref> An early record with an emphasised back beat throughout was "[[Good Rockin' Tonight]]" by [[Wynonie Harris]] in 1948.<ref>Beck (2013), p. 324.</ref> Although drummer [[Earl Palmer]] claimed the honor for "[[The Fat Man (song)|The Fat Man]]" by [[Fats Domino]] in 1949, which he played on, saying he adopted it from the final "shout" or "out" chorus common in [[Dixieland]] jazz, [[urban contemporary gospel]] was stressing the back beat much earlier with hand-clapping and [[tambourine]]s.{{citation needed|date=August 2014}} There is a hand-clapping back beat on "[[Roll 'Em Pete]]" by [[Pete Johnson]] and [[Big Joe Turner]], recorded in 1938.{{citation needed|date=August 2014}} A distinctive back beat can be heard on "Back Beat Boogie" by [[Harry James]] And His Orchestra, recorded in late 1939.<ref>"[http://www.discogs.com/release/533624 The Ultimate Jazz Archive - Set 17/42]", ''Discogs.com''. Accessed August 6, 2014.</ref> Other early recorded examples include the final verse of "Grand Slam" by [[Benny Goodman]] in 1942 and some sections of The [[Glenn Miller Orchestra]]'s "(I've Got A Gal In) Kalamazoo", while [[Charlie Christian#Bebop and Minton.27s Playhouse|amateur direct-to-disc recordings]] of [[Charlie Christian]] jamming at [[Minton's Playhouse]] around the same time have a sustained snare-drum backbeat on the hottest choruses.{{citation needed|date=August 2014}}
+
+Outside [[United States|U.S.]] popular music, there are early recordings of music with a distinctive backbeat, such as the 1949 recording of Mangaratiba by [[Luiz Gonzaga]] in Brazil.<ref>{{Cite web|url=https://www.youtube.com/watch?v=xF5gZ4YAQdA|title=Mangaratiba - Luiz Gonzaga|website=YouTube}}</ref>
+
+[[File:Delayed backbeat.png|thumb|left|300px|Delayed backbeat (last eighth note in each measure) as in funk music<ref name="Mattingly" /> {{audio|Delayed backbeat.mid|play}}]]
+
+Slap bass executions on the backbeat are found in styles of country western music of the 1930s, and the late '40s early '50s music of Hank Williams reflected a return to strong backbeat accentuation as part of the honky tonk style of country.<ref>{{cite thesis|type=Ph.D. |first=Gary Neville |last=Tamlyn |title=The Big Beat: Origins and Development of Snare Backbeat and other Accompanimental Rhythms in Rock'n'Roll |publisher=??? |year=1998 |pages=342–43}}</ref>
+In the mid-1940s "[[country music|hillbilly]]" musicians the [[Delmore Brothers]] were turning out boogie tunes with a hard driving back beat, such as the No. 2 hit "Freight Train Boogie" in 1946, as well as in other boogie songs they recorded.{{citation needed|date=August 2014}} Similarly [[Fred Maddox]]'s characteristic backbeat, a [[slapping bass]] style, helped drive a rhythm that came to be known as [[rockabilly (rhythm)|rockabilly]], one of the early forms of [[rock and roll]].<ref>"[http://www.honkytonks.org/showpages/maddox.htm Riding the Rails to Stardom - The Maddox Brothers and Rose]", ''NPR News''. Accessed August 6, 2014.</ref> Maddox had used this style as early as 1937.<ref>{{Cite web|title=The Maddox Bros & Rose|url=http://www.rockabillyhall.com/MaddoxRose.html|work=Rockabilly Hall of Fame|access-date=June 29, 2011| archive-url= https://web.archive.org/web/20110703184657/http://rockabillyhall.com/MaddoxRose.html| archive-date= 3 July 2011 <!--DASHBot-->|url-status = live}}</ref>
+
+In today's popular music the [[snare drum]] is typically used to play the backbeat pattern.<ref name="Schroedl" /> Early [[funk music]] often delayed one of the backbeats so as "to give a 'kick' to the [overall] beat".<ref name="Mattingly">Mattingly, Rick (2006). ''All About Drums'', p. 104. Hal Leonard. {{ISBN|1-4234-0818-7}}.</ref>
+
+Some songs, such as [[The Beatles]]' "[[Please Please Me (song)|Please Please Me]]" and "[[I Want to Hold Your Hand]]", [[The Knack]]'s "[[Good Girls Don't (song)|Good Girls Don't]]" and [[Blondie (band)|Blondie]]'s cover of [[The Nerves]]' "[[Hanging on the Telephone]]", employ a double backbeat pattern.<ref name=wave>{{cite book|title=Are We Not New Wave?: Modern Pop at the Turn of the 1980s|author=Cateforis, C.|pages=140–41|year=2011|publisher=University of Michigan Press|isbn=978-0-472-03470-3}}</ref> In a double backbeat, one of the off beats is played as two eighth notes rather than one quarter note.<ref name=wave/>
+
+==Cross-beat==
+{{Main|Cross-beat}}
+
+<blockquote>Cross-rhythm. A rhythm in which the regular pattern of accents of the prevailing meter is contradicted by a conflicting pattern and not merely a momentary displacement that leaves the prevailing meter fundamentally unchallenged
+: —''New Harvard Dictionary of Music'' (1986: 216).<ref>''New Harvard Dictionary of Music'' (1986: 216). Cambridge, MA: Harvard University Press.</ref><ref>{{cite book |last=Neal |first=Jocelyn |year=2000 |editor1=Neal, Jocelyn |editor2=Wolfe, Charles K. |editor3=Akenson, James E. |title=Songwriter's Signature, Artist's Imprint: The Metric Structure of a Country Song |work=Country Music Annual 2000 |page=[https://archive.org/details/countrymusicannu00char/page/115 115] |publisher=Lexington, KY: University Press of Kentucky |ISBN=0-8131-0989-2 |url=https://archive.org/details/countrymusicannu00char/page/115 }}</ref></blockquote>
+
+==Hyperbeat==
+[[File:Hypermeter.png|thumb|325px|Hypermeter: 4 beat measure, 4 measure hypermeasure, and 4 hypermeasure verses. Hyperbeats in red.]]A '''hyperbeat''' is one unit of [[hypermeter]], generally a measure. "Hypermeter is meter, with all its inherent characteristics, at the level where measures act as beats."<ref>{{cite book |last=Neal |first=Jocelyn |year=2000 |editor1=Neal, Jocelyn |editor2=Wolfe, Charles K. |editor3=Akenson, James E. |title=Songwriter's Signature, Artist's Imprint: The Metric Structure of a Country Song |work=Country Music Annual 2000 |page=[https://archive.org/details/countrymusicannu00char/page/115 115] |publisher=Lexington, KY: University Press of Kentucky |ISBN=0-8131-0989-2 |url=https://archive.org/details/countrymusicannu00char/page/115 }}</ref><ref>Also: Rothstein, William (1990). ''Phrase Rhythm in Tonal Music'', pp.&nbsp;12–13. Macmillan. {{ISBN|978-0028721910}}</ref>
+
+==Related concepts==
+* ''[[Tatum (music)|Tatum]]'' refers to a subdivision of a beat which represents the "time division that most highly coincides with note onsets".<ref>{{cite thesis|type=Ph.D. |last=Jehan |first=Tristan |title=Creating Music By Listening |year=2005 |url=http://web.media.mit.edu/~tristan/phd/dissertation/chapter3.html#x1-390003.4.3 |section=3.4.3 Tatum grid |publisher=MIT}}</ref>
+*''Afterbeat'' refers to a [[Percussion instrument|percussion]] style where a strong accent is sounded on the second, third and fourth beats of the bar, following the downbeat.<ref name="Grove" />
+* In [[reggae]] music, the term [[one drop rhythm|one drop]] reflects the complete de-emphasis (to the point of silence) of the first beat in the cycle.
+* [[James Brown]]'s signature [[funk]] groove emphasized the downbeat – that is, with heavy emphasis "on the one" (the first beat of every measure) – to etch his distinctive sound, rather than the back beat (familiar to many R&B musicians) which places the emphasis on the second beat.<ref name="nytimes.com">{{cite news | title=James Brown, the 'Godfather of Soul', Dies at 73 | date=2006-12-25 | work=The New York Times | url=https://www.nytimes.com/2006/12/25/arts/music/25cnd-brown.html | access-date=2007-01-10 | first=Jon | last=Pareles}} According to ''The New York Times'', by the "mid-1960s Brown was producing his own recording sessions. In February 1965, with 'Papa's Got a Brand New Bag,' he decided to shift the beat of his band: from the one-'''two'''-three-'''four''' backbeat to '''one'''-two-'''three'''-four. 'I changed from the [[upbeat]] to the downbeat,' Mr. Brown said in 1990. 'Simple as that, really.{{'"}}</ref><ref name="fa_maceo">Gross, T. (1989). [https://www.npr.org/templates/story/story.php?storyId=6676990 "Maceo Parker: The Hardest Working Sideman"]. ''[[Fresh Air]]''. WHYY-FM/National Public Radio. Retrieved January 22, 2007. According to [[Maceo Parker]], Brown's former saxophonist, playing on the downbeat was at first hard for him and took some getting used to. Reflecting back to his early days with Brown's band, Parker reported that he had difficulty in playing "on the one" during solo performances, since he was used to hearing and playing with the accent on the second beat.</ref><ref>{{cite web |title=Lessons in listening – Concepts section: Fantasy, Earth Wind & Fire, The Best of Earth Wind & Fire Volume I, Freddie White |work=Modern Drummer Magazine |url=http://www.anisman.com/steve/samd02.htm |first=Steve |last=Anisman |access-date=January 21, 2007 |pages=146–152 |date=January 1998}}</ref>
+{{Clear}}
+
+==See also==
+{{Portal|Music}}
+* [[Mensural notation]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* {{cite book |last= de Momigny |first= Jérôme-Joseph |author-link= Jérôme-Joseph de Momigny |year= 1821 |title= La seule vraie théorie de la musique |location= Paris }}
+* {{cite book |last= Riemann |first=Hugo |author-link=Hugo Riemann |year= 1884 |title= Musikalische Dynamik und Agogik |url= https://archive.org/details/ldpd_6769763_000 |location= Hamburg }}
+* {{cite book |last= Lussy |first=Mathis |year=1903 |title=L'anacrouse dans la musique moderne |url=https://archive.org/details/lanacrouse00lussuoft |location= Paris }}
+* {{cite book |last= Cone |first= Edward T.  |author-link= Edward T. Cone |year= 1968 |title= Musical Form and Musical Performance |publisher= W. W. Norton |location= New York |isbn= 0-393-09767-6 }}
+
+{{Rhythm and meter}}
+{{Musical notation}}
+
+[[Category:Percussion performance techniques]]
+[[Category:Popular music]]
+[[Category:Rhythm and meter]]
+
+[[it:Tempo (musica)]]
+[[pl:Rytm (muzyka)]]

@@ -1,0 +1,687 @@
+{{distinguish|Rusyn language}}
+{{short description|East Slavic language}}
+{{Infobox language
+| name = Russian
+| nativename = {{lang|ru|русский язык}}{{NoteTag|On the history of using "русский" ("''russkiy''") and "российский" ("''rossiyskiy''") as the Russian adjectives denoting "Russian", see: [[Oleg Trubachyov]]. 2005. Русский&nbsp;– Российский. История, динамика, идеология двух атрибутов нации (pp 216–227). В поисках единства. Взгляд филолога на проблему истоков Руси., 2005. {{cite web |url = http://krotov.info/libr_min/19_t/ru/bachev.htm |access-date=25 January 2014 |url-status=live |archive-url = https://web.archive.org/web/20140218214456/http://krotov.info/libr_min/19_t/ru/bachev.htm |archive-date=18 February 2014 |script-title = ru:РУССКИЙ - РОССИЙСКИЙ }}. On the 1830s change in the Russian name of the Russian language and its causes, see: [[Tomasz Kamusella]]. 2012. The Change of the Name of the Russian Language in Russian from Rossiiskii to Russkii: Did Politics Have Anything to Do with It? (pp.&nbsp;73–96). ''Acta Slavica Iaponica''. Vol 32, {{cite web |url = http://src-h.slav.hokudai.ac.jp/publictn/acta/32/04Kamusella.pdf |title = The Change of the Name of the Russian Language in Russian from Rossiiskii to Russkii: Did Politics Have Anything to Do with It? |access-date=7 January 2013 |url-status=live |archive-url = https://web.archive.org/web/20130518165147/http://src-h.slav.hokudai.ac.jp/publictn/acta/32/04Kamusella.pdf |archive-date=18 May 2013 }}}}
+| pronunciation = {{IPA-ru|ˈruskʲɪj jɪˈzɨk||Ru-russkiy jizyk.ogg}}
+| states = [[Russia]], [[Ukraine]], [[Belarus]], [[Kazakhstan]], [[Kyrgyzstan]], [[Estonia]], [[Latvia]] and other neighboring [[post-Soviet states]], and [[Russian diaspora]]
+| ethnicity = [[Russians]]
+| speakers = {{sigfig|154|2}} million
+| date = 2012
+| ref = e21
+| speakers2 = [[Second language|L2 speakers]]: {{sigfig|110.4|2}} million (2012)<ref name=e21/>
+| familycolor = Indo-European
+| fam2 = [[Balto-Slavic languages|Balto-Slavic]]
+| fam3 = [[Slavic languages|Slavic]]
+| fam4 = [[East Slavic languages|East Slavic]]
+| ancestor = [[Old East Slavic]]
+| script = [[Cyrillic script|Cyrillic]] ([[Russian alphabet]])<br />[[Russian Braille]]
+| nation = {{Collapsible list |titlestyle = font-weight:normal; background:transparent; text-align:left; |title = [[List of territorial entities where Russian is an official language|11 states]]|
+|{{flag|Russia}} <small>(state)</small><ref name=RusConst>{{cite web |url = http://www.constitution.ru/en/10003000-01.htm |title = Article 68. Constitution of the Russian Federation |website = Constitution.ru |access-date=18 June 2013 |url-status=live |archive-url = https://web.archive.org/web/20130606071041/http://www.constitution.ru/en/10003000-01.htm |archive-date=6 June 2013 }}</ref><br />
+{{flag|Belarus}} <small>(state)</small><ref name=Belarus>{{cite web |url = http://president.gov.by/en/press19329.html|archive-url=https://web.archive.org/web/20070502115338/http://president.gov.by/en/press19329.html|archive-date=2 May 2007 |title=Article 17. Constitution of the Republic of Belarus |website = President.gov.by |date=11 May 1998 |access-date=18 June 2013}}</ref><br />
+{{flag|Kazakhstan}} <small>(co-official)</small><ref name=Kazakhstan>{{cite web |first = N. |last = Nazarbaev
+|url = http://www.constcouncil.kz/eng/norpb/constrk/ |archive-url = https://web.archive.org/web/20071020060732/http://www.constcouncil.kz/eng/norpb/constrk/ |archive-date=20 October 2007 |title=Article 7. Constitution of the Republic of Kazakhstan |website = Constcouncil.kz |date=4 December 2005 |access-date=18 June 2013}}</ref><br />
+{{flag|Kyrgyzstan}} <small>(co-official)</small><ref name=Kyrgyzstan>{{Cite web|url=https://www.gov.kg/ky|archive-url=https://web.archive.org/web/20121222125830/http://www.gov.kg/?page_id=263|url-status=dead|title=Официальный сайт Правительства КР|archive-date=22 December 2012|website=Gov.kg|access-date=16 February 2020}}</ref><br />
+{{flag|Tajikistan}}<ref>{{cite web |title=КОНСТИТУЦИЯ РЕСПУБЛИКИ ТАДЖИКИСТАН |url=http://prokuratura.tj/ru/legislation/the-constitution-of-the-republic-of-tajikistan.html |website=prokuratura.tj |publisher=Parliament of Tajikistan |access-date=9 January 2020}}</ref> <br>
+{{flag|Uzbekistan}} <small>(inter-ethnic communication)</small><ref name="AA">{{cite web |author=Юрий Подпоренко |title = Бесправен, но востребован. Русский язык в Узбекистане |url = http://mytashkent.uz/2015/04/27/bespraven-no-vostrebovan-russkij-yazyk-v-uzbekistane/ |year=2001 |publisher=Дружба Народов |access-date=27 May 2016 |url-status=live|archive-url = https://web.archive.org/web/20160513012627/http://mytashkent.uz/2015/04/27/bespraven-no-vostrebovan-russkij-yazyk-v-uzbekistane/ |archive-date=13 May 2016  }}</ref><ref name="Шухрат Хуррамов">{{cite web|author=Шухрат Хуррамов|title=Почему русский язык нужен узбекам? |url = http://365info.kz/2015/09/russkij-yazyk-v-uzbekistane/|date=11 September 2015 |website=365info.kz |access-date=27 May 2016 |url-status=live |archive-url = https://web.archive.org/web/20160701175737/http://365info.kz/2015/09/russkij-yazyk-v-uzbekistane/ |archive-date=1 July 2016 }}</ref><ref name="AB">{{cite web |author=Евгений Абдуллаев |title=Русский язык: жизнь после смерти. Язык, политика и общество в современном Узбекистане |url = http://magazines.russ.ru/nz/2009/4/ab21.html |year=2009 |publisher=Неприкосновенный запас |access-date=27 May 2016|url-status=live |archive-url = https://web.archive.org/web/20160623201807/http://magazines.russ.ru/nz/2009/4/ab21.html|archive-date=23 June 2016 }}</ref><br />
+{{flag|Ukraine}}:
+* {{flag|Autonomous Republic of Crimea}}{{NoteTag|The status of [[Crimea]] and of the city of [[Sevastopol]] is [[Annexation of Crimea by the Russian Federation|under dispute between Russia and Ukraine]] since March 2014; Ukraine and the majority of the international community consider Crimea to be an [[autonomous republic]] of Ukraine and Sevastopol to be one of Ukraine's [[cities with special status]], whereas Russia, on the other hand, considers Crimea to be a [[federal subject of Russia]] and Sevastopol to be one of Russia's three [[federal cities of Russia|federal cities]].}}
+{{flag|Turkmenistan}} <small>(inter-ethnic communication)</small><br />
+{{flag|Moldova}}:
+* {{flag|Gagauzia}} <small>(co-official)</small><ref name=Gagauzia>{{cite web |url=http://www.gagauzia.md/pageview.php?l=en&idc=389&id=240 |title = Article 16. Legal code of Gagauzia (Gagauz-Yeri) |website = Gagauzia.md |date=5 August 2008 |access-date=18 June 2013 |url-status=live |archive-url=https://web.archive.org/web/20130513170728/http://www.gagauzia.md/pageview.php?l=en&idc=389&id=240 |archive-date=13 May 2013 }}</ref>
+* [[Transnistria]] <small>(co-official)</small>
+''Partially recognized states:''<br />
+{{flag|Abkhazia}}<ref name="partialrecognition">Abkhazia and South Ossetia are only [[international recognition of Abkhazia and South Ossetia|partially recognized countries]]</ref><small>(co-official)</small><ref name=Abkhazia>{{Cite web|url=http://www.abkhaziagov.org/ru/state/sovereignty|title=Конституция Республики Абхазия|date=18 January 2009|archive-url=https://web.archive.org/web/20090118213155/http://www.abkhaziagov.org/ru/state/sovereignty|access-date=16 February 2020|archive-date=18 January 2009}}</ref><br />
+{{flag|South Ossetia}}<ref name="partialrecognition" /><small>(state)</small><ref name=Ossetia>{{Cite web|url=http://cominf.org/node/1127818105|date=11 August 2009|archive-url=https://web.archive.org/web/20090811021536/http://cominf.org/node/1127818105|access-date=16 February 2020|archive-date=11 August 2009}}</ref><br />
+'''Organizations:'''<br />
+{{UNO}}
+* [[International Atomic Energy Agency|IAEA]]
+* [[International Civil Aviation Organization|ICAO]]
+* [[UNESCO]]
+* [[World Health Organization|WHO]]
+[[Commonwealth of Independent States|CIS]]<br />
+[[Warsaw Pact]] <small>(defunct)</small><br />
+ [[Eurasian Economic Community|EAEC]]<br />
+ [[Collective Security Treaty Organization|CSTO]]<br />
+[[Comecon|CMEA]] <small>(defunct)</small><br />
+[[GUAM]]<ref>{{cite web|url=http://guam-organization.org/en/node/450|title=Charter of Organization for democracy and economic development – GUAM – GUAM|website=guam-organization.org|url-status=live|archive-url=https://web.archive.org/web/20160305201355/http://guam-organization.org/en/node/450|archive-date=5 March 2016|date=22 April 2006}}</ref> <br />
+ [[Shanghai Cooperation Organisation|SCO]]<br />
+[[File:OSCE logo.svg|22px]] [[Organization for Security and Co-operation in Europe|OSCE]]<br />
+[[Antarctic Treaty Secretariat|ATS]]<br />
+[[File:ISO english logo.svg|22px]] [[International Organization for Standardization|ISO]]}}
+| minority = {{collapsible list
+|{{flag|Romania}}<small> (regional and minority)</small>
+* A number of municipalities in [[Tulcea County]] and [[Constanța County]]{{citation needed|date=April 2016}}
+{{flag|Ukraine}}<small> (minority)</small>
+{{flag|Israel}}<br />
+{{flag|Azerbaijan}}{{citation needed|date=November 2019}}<br />
+{{flag|Armenia}}<ref name=No148>{{cite web |url=http://conventions.coe.int/Treaty/Commun/ListeDeclarations.asp?NT=148&CM=8&DF=23/01/05&CL=ENG&VL=1 |title=List of declarations made with respect to treaty No. 148 (Status as of: 21/9/2011) |publisher=[[Council of Europe]] |access-date=22 May 2012 |url-status=live |archive-url=https://web.archive.org/web/20120522083136/http://conventions.coe.int/Treaty/Commun/ListeDeclarations.asp?NT=148&CM=8&DF=23%2F01%2F05&CL=ENG&VL=1 |archive-date=22 May 2012 }}</ref><br />
+{{flag|Poland}}<ref name=No148 /><br />
+{{flag|Czech Republic}}<ref>{{cite web |url=http://www.vlada.cz/en/pracovni-a-poradni-organy-vlady/rnm/historie-a-soucasnost-rady-en-16666/ |title=National Minorities Policy of the Government of the Czech Republic |publisher=Vlada.cz |access-date=22 May 2012 |url-status=live |archive-url = https://web.archive.org/web/20120607051111/http://www.vlada.cz/en/pracovni-a-poradni-organy-vlady/rnm/historie-a-soucasnost-rady-en-16666/ |archive-date=7 June 2012 }}</ref><br />
+{{flag|Slovakia}}<ref name=No148 /><br />
+{{flag|Latvia}}<br />
+{{flag|Estonia}}<br />
+{{flag|Lithuania}}<br />
+{{flag|Moldova}}{{citation needed|date=April 2016}}<br />
+{{flag|Cyprus}}<br />
+{{flag|China}}<br />
+{{flag|Mongolia}}<br />
+{{flag|Uzbekistan}}<ref>{{cite web|author=Юрий Подпоренко|title=Бесправен, но востребован. Русский язык в Узбекистане|url=http://mytashkent.uz/2015/04/27/bespraven-no-vostrebovan-russkij-yazyk-v-uzbekistane/|year=2001|publisher=Дружба Народов|access-date=27 May 2016|url-status=live|archive-url=https://web.archive.org/web/20160513012627/http://mytashkent.uz/2015/04/27/bespraven-no-vostrebovan-russkij-yazyk-v-uzbekistane/|archive-date=13 May 2016}}</ref><ref>{{cite web|author=Шухрат Хуррамов|title=Почему русский язык нужен узбекам?|url=http://365info.kz/2015/09/russkij-yazyk-v-uzbekistane/|date=11 September 2015|website=365info.kz|access-date=27 May 2016|url-status=live|archive-url=https://web.archive.org/web/20160701175737/http://365info.kz/|archive-date=1 July 2016}}</ref><ref>{{cite web |author=Евгений Абдуллаев|title=Русский язык: жизнь после смерти. Язык, политика и общество в современном Узбекистане |url = http://magazines.russ.ru/nz/2009/4/ab21.html |year=2009 |publisher=Неприкосновенный запас |access-date=27 May 2016 |url-status=live |archive-url=https://web.archive.org/web/20160623201807/http://magazines.russ.ru/nz/2009/4/ab21.html|archive-date=23 June 2016 }}</ref><ref>{{cite web |author = А. Е. Пьянов |title = СТАТУС РУССКОГО ЯЗЫКА В СТРАНАХ СНГ |url = http://www.philology.ru/linguistics2/pyanov-11.htm|publisher=2011|access-date=27 May 2016 |url-status=live|archive-url=https://web.archive.org/web/20160528192438/http://www.philology.ru/linguistics2/pyanov-11.htm|archive-date=28 May 2016 }}</ref><br />
+}}
+| agency = [[Russian Language Institute]]<ref>{{cite web |url=http://www.ruslang.ru/agens.php?id=aims |title=Russian Language Institute |website = Ruslang.ru |access-date=16 May 2010 |url-status=live |archive-url = https://web.archive.org/web/20100719234135/http://www.ruslang.ru/agens.php?id=aims |archive-date=19 July 2010 }}</ref> at the [[Russian Academy of Sciences]]
+| iso1 = ru
+| iso2 = rus
+| iso3 = rus
+| lingua = 53-AAA-ea < [[East Slavic languages|53-AAA-e]]<br />(varieties: 53-AAA-eaa to 53-AAA-eat)
+|map = Idioma ruso.PNG
+|mapcaption = Areas where Russian is the majority language (medium blue) or a minority language (light blue)
+| map2 = Russian language status and proficiency in the World.svg
+| mapcaption2 = States where Russian is an official language (dark blue) or spoken as a first or second language by 30% or more of the population (teal)
+| notice = [[International Phonetic Alphabet|IPA]]
+| glotto = russ1263
+| glottorefname = Russian
+}}
+
+'''Russian''' ({{lang|ru|русский язык}}, <small>[[Romanization of Russian|tr.]]</small> ''rússkiy'' ''yazýk'') is an [[East Slavic languages|East Slavic language]] native to the [[Russians]] in [[Eastern Europe]]. It is an [[official language]] in [[Russia]], [[Belarus]], [[Kazakhstan]], [[Kyrgyzstan]], as well as being widely used throughout the [[Baltic states]], the [[Caucasus]] and [[Central Asia]].<ref>{{cite web|url=http://www.gallup.com/poll/109228/russian-language-enjoying-boost-postsoviet-states.aspx|title=Russian Language Enjoying a Boost in Post-Soviet States|publisher=Gallup.com|date=1 August 2008|access-date=16 May 2010|url-status=live|archive-url=https://web.archive.org/web/20100518073110/http://www.gallup.com/poll/109228/Russian-Language-Enjoying-Boost-PostSoviet-States.aspx|archive-date=18 May 2010}}</ref><ref name=demoscope>{{cite journal|last=Арефьев|first=Александр|script-title=ru:Падение статуса русского языка на постсоветском пространстве|journal=Демоскоп Weekly|year=2006|issue=251|url=http://www.demoscope.ru/weekly/2006/0251/tema01.php|language=ru|url-status=live|archive-url=https://web.archive.org/web/20130308114703/http://www.demoscope.ru/weekly/2006/0251/tema01.php|archive-date=8 March 2013}}</ref> Russian belongs to the family of [[Indo-European languages]], one of the four living members of the East Slavic languages alongside, and part of the larger [[Balto-Slavic language|Balto-Slavic]] branch. There is a high degree of [[mutual intelligibility]] between Russian, [[Belarusian language|Belarusian]] and [[Ukrainian language|Ukrainian]].
+
+Russian was the ''de facto'' language of the [[Soviet Union]] until its [[Dissolution of the Soviet Union|dissolution]] on 26 December 1991.<ref name=USSR>[[1977 Soviet Constitution|Constitution and Fundamental Law of the Union of Soviet Socialist Republics]], 1977: Section II, Chapter 6, Article 36</ref> Russian is used in official capacity or in public life in all the post-Soviet nation-states. Large numbers of Russian speakers can also be found in other countries, such as [[Israel]] and [[Mongolia]].
+
+Russian is the largest [[native language]] in [[Europe]], and the most geographically widespread language in [[Eurasia]].<ref>{{cite news |title=Russian: Eurasia's Most Geographically Widespread Language |url = https://www.daytranslations.com/blog/2014/08/russian-eurasias-most-geographically-widespread-language-5377/ |website = Day Translations Blog |date=4 August 2014}}</ref> It is the most widely spoken of the [[Slavic languages]], with over 258 million total speakers worldwide.<ref>{{cite web|url=https://www.ethnologue.com/language/rus|title=Russian|publisher=Ethnologue|access-date=August 10, 2020}}</ref> Russian is the [[List of languages by number of native speakers|seventh-most spoken language in the world]] by number of native speakers and the [[List of languages by total number of speakers|eighth-most spoken language in the world by total number of speakers]].<ref>{{cite web |title = The World's Most Widely Spoken Languages |url = http://www2.ignatius.edu/faculty/turner/languages.htm |website = Saint Ignatius High School |access-date=17 February 2012 |location=Cleveland, Ohio |url-status=dead |archive-url = https://web.archive.org/web/20110927062910/http://www2.ignatius.edu/faculty/turner/languages.htm |archive-date=27 September 2011 }}</ref> The language is one of the [[Official languages of the United Nations|six official languages]] of the [[United Nations]]. Russian is also the second-most widespread language on the [[Languages used on the Internet|Internet]], after [[English language|English]].<ref>{{Cite web|url=https://w3techs.com/technologies/overview/content_language|title=Usage Statistics and Market Share of Content Languages for Websites, February 2020|website=w3techs.com|access-date=16 February 2020}}</ref>
+
+Russian is written using the [[Cyrillic script]]; it distinguishes between [[consonant]] [[phoneme]]s with [[Palatalization (phonetics)|palatal]] [[secondary articulation]] and those without, the so-called ''soft'' and ''hard'' sounds. Almost every consonant has a hard or a soft counterpart, and the distinction is a prominent feature of the language. Another important aspect is the [[vowel reduction|reduction]] of [[stress (linguistics)|unstressed]] [[vowel]]s. Stress, which is unpredictable, is not normally indicated [[Orthography|orthographically]]{{sfn|Timberlake|2004|p=17}} though an optional [[acute accent]] may be used to mark [[stress (linguistics)|stress]], such as to distinguish between [[homograph]]ic words, for example [[:ru:Замок (устройство)|замо́к]] (''zamók'' – a lock) and [[:ru:Замок (строение)|за́мок]] (''zámok'' – a castle), or to indicate the proper pronunciation of uncommon words or names.
+
+== Classification ==
+
+Russian is an [[East Slavic language]] of the wider [[Indo-European Languages|Indo-European family]]. It is a descendant of the language used in [[Kievan Rus']], a loose conglomerate of [[East Slavs|East Slavic]] tribes from the late 9th to the mid 13th centuries. From the point of view of [[spoken language]], its closest relatives are [[Ukrainian language|Ukrainian]], [[Belarusian language|Belarusian]], and [[Rusyn language|Rusyn]],<ref>{{cite web | title=Most similar languages to Russian | url=http://www.ezglot.com/most-similar-languages.php?l=rus | url-status=live | archive-url=https://web.archive.org/web/20170525141518/http://www.ezglot.com/most-similar-languages.php?l=rus | archive-date=25 May 2017 }}</ref> the other three languages in the East Slavic branch. In many places in eastern and southern [[Ukraine]] and throughout [[Belarus]], these languages are spoken interchangeably, and in certain areas traditional bilingualism resulted in language mixtures such as [[Surzhyk]] in eastern Ukraine and [[Trasianka]] in [[Belarus]]. An East Slavic [[Old Novgorod dialect]], although it vanished during the 15th or 16th century, is sometimes considered to have played a significant role in the formation of modern Russian. Also Russian has notable lexical similarities with Bulgarian due to a common [[Church Slavonic]] influence on both languages, as well as because of later interaction in the 19th and 20th centuries, Bulgarian grammar differs markedly from Russian.{{sfn|Sussex|Cubberley|2006|pp=477–478, 480}} In the 19th century (in Russia until 1917), the language was often called "[[Great Russian language|Great Russian]]" to distinguish it from Belarusian, then called "White Russian" and Ukrainian, then called "Little Russian".
+
+The [[vocabulary]] (mainly abstract and literary words), principles of word formations, and, to some extent, inflections and literary style of Russian have been also influenced by [[Church Slavonic language|Church Slavonic]], a developed and partly Russified form of the [[South Slavic languages|South Slavic]] [[Old Church Slavonic]] language used by the [[Russian Orthodox Church]]. However, the East Slavic forms have tended to be used exclusively in the various dialects that are experiencing a rapid decline. In some cases, both the East Slavic and the [[Church Slavonic]] forms are in use, with many different meanings. ''For details, see [[Russian phonology]] and [[History of the Russian language]].''
+
+Over the course of centuries, the vocabulary and literary style of Russian have also been influenced by Western and Central European languages such as [[Greek language|Greek]], [[Latin]], [[Polish language|Polish]], [[Dutch language|Dutch]], [[German language|German]], [[French language|French]], [[Italian language|Italian]], and [[English language|English]],<ref>{{cite EB1911 |wstitle=Russian Language |first=Ellis Hovell |last=Minns |author-link=Ellis Minns|volume=23 |pages=912–914 }}</ref> and to a lesser extent the languages to the south and the east: [[Uralic languages|Uralic]], [[Turkic languages|Turkic]],<ref>{{cite journal|title=The Turkic Languages of Central Asia: Problems of Planned Culture Contact by Stefan Wurm|journal = Bulletin of the School of Oriental and African Studies, University of London|volume = 17|issue = 2|pages = 392–394|jstor = 610442 |last = Waterson |first = Natalie|year = 1955|doi = 10.1017/S0041977X00111954}}</ref><ref>{{cite web|url=http://roa.rutgers.edu/files/491-0102/491-0102-GOUSKOVA-0-0.PDF |title=Falling Sonoroty Onsets, Loanwords, and Syllable contact|access-date=4 May 2015|url-status=live|archive-url=https://web.archive.org/web/20150505092913/http://roa.rutgers.edu/files/491-0102/491-0102-GOUSKOVA-0-0.PDF |archive-date=5 May 2015 }}</ref> [[Persian language|Persian]],<ref>{{cite web |author1=Aliyeh Kord Zafaranlu Kambuziya |author2=Eftekhar Sadat Hashemi |url = http://roa.rutgers.edu/content/article/files/1317_hashemi_1.pdf|title=Russian Loanword Adoptation in Persian; Optimal Approach |website=roa.rutgers.edu |year=2010|access-date=4 May 2015|url-status=live|archive-url = https://web.archive.org/web/20150505092721/http://roa.rutgers.edu/content/article/files/1317_hashemi_1.pdf|archive-date=5 May 2015 }}</ref><ref>{{cite journal |author=Iraj Bashiri |url = https://www.academia.edu/10442551|title=Russian Loanwords in Persian and Tajiki Language |website=academia.edu |year=1990|access-date=4 May 2015|url-status=live |archive-url=https://web.archive.org/web/20160530193133/http://www.academia.edu/10442551/Russian_Loanwords_in_Persian_and_Tajiki_Languages |archive-date=30 May 2016 }}</ref> and [[Arabic language|Arabic]], as well as [[Hebrew language|Hebrew]].<ref>Colin Baker, Sylvia Prys Jones [https://books.google.com/books?id=YgtSqB9oqDIC&pg=PA219&dq=russian+loanwords+in+hebrew&hl=nl&sa=X&ei=Y75GVbmtKomuUe25gbAJ&ved=0CEEQ6AEwAw#v=onepage&q=russian%20loanwords%20in%20hebrew&f=false ''Encyclopedia of Bilingualism and Bilingual Education''] {{webarchive|url=https://web.archive.org/web/20180320151848/https://books.google.com/books?id=YgtSqB9oqDIC&pg=PA219&dq=russian+loanwords+in+hebrew&hl=nl&sa=X&ei=Y75GVbmtKomuUe25gbAJ&ved=0CEEQ6AEwAw |date=20 March 2018 }} pp 219 Multilingual Matters, 1998 {{ISBN|1-85359-362-1}}</ref>
+
+According to the [[Defense Language Institute]] in [[Monterey, California]], Russian is classified as a level III language in terms of learning difficulty for native [[English language|English]] speakers, requiring approximately 1,100 hours of immersion instruction to achieve intermediate fluency.<ref>{{cite web|last=Thompson|first=Irene|title=Language Learning Difficulty|url=http://aboutworldlanguages.com/language-difficulty|url-status=live|archive-url=http://archive.wikiwix.com/cache/20140527094808/http://aboutworldlanguages.com/language-difficulty|archive-date=27 May 2014|access-date=25 May 2014|website=mustgo}}</ref> It is also regarded by the [[United States Intelligence Community]] as a "hard target" language, due to both its difficulty to master for English speakers and its critical role in [[American foreign policy|U.S. world policy]].
+
+== Standard Russian ==
+{{Main|Moscovian dialect}}
+
+Feudal divisions and conflicts, as well as other obstacles to the exchange of goods and ideas that ancient Russian principalities have suffered from before and especially during the Mongol yoke, strengthened dialectical differences and for a while prevented the emergence of the standardized national language. The formation of the unified and centralized Russian state in 15th and 16th centuries and the gradual (re)emergence of a common political, economic, and cultural space have created the need for a common standard language. The initial impulse for the standardization came from the government bureaucracy for the lack of a reliable tool of communication in administrative, legal, and judicial affairs became an obvious practical problem. The earliest attempts at standardizing Russian were made based on the so-called Moscow official or chancery language.{{When|date=February 2020}} Since then the underlying logic of language reforms in Russia reflected primarily the considerations of standardizing and streamlining language norms and rules in order to ensure the Russian language's role as a practical tool of communication and administration.<ref>{{Cite book|url=https://www.palgrave.com/us/book/9781137325044|title=Languages, Regional Conflicts and Economic Development: Russia. In: Ginsburgh, V., Weber, S. (Eds.). The Palgrave Handbook of Economics and Language.|last=Kadochnikov|first=Denis|publisher=Palgrave Macmillan.|year=2016|location=London|pages=538–580}}</ref>
+
+The current standard form of Russian is generally regarded as the ''modern Russian literary language'' ({{lang|ru|современный русский литературный язык}} - "sovremenny russky literaturny yazyk"). It arose in the beginning of the 18th century with the modernization reforms of the Russian state under the rule of [[Peter the Great]], and developed from the Moscow ([[Central Russian dialects|Middle or Central Russian]]) dialect substratum under the influence of some of the previous century's Russian chancery language.
+
+[[Mikhail Lomonosov]] first compiled a normalizing grammar book in 1755; in 1783 the [[Russian Academy]]'s first explanatory Russian dictionary appeared. During the end of the 18th and 19th centuries, a period known as the "Golden Age", the grammar, vocabulary, and pronunciation of the Russian language was stabilized and standardized, and it became the nationwide literary language; meanwhile, Russia's world-famous literature flourished.
+
+Until the 20th century, the language's spoken form was the language of only the upper noble classes and urban population, as Russian peasants from the countryside continued to speak in their own dialects. By the mid-20th century, such dialects were forced out with the introduction of the compulsory education system that was established by the [[Soviet government]]. Despite the formalization of Standard Russian, some nonstandard dialectal features (such as fricative {{IPA|[ɣ]}} in [[Southern Russian dialects]]) are still observed in colloquial speech.
+
+== Geographic distribution ==
+{{Main|Geographical distribution of Russian speakers}}
+
+[[File:Russian ex-USSR 2004.PNG|thumb|upright=1.8|Competence of Russian in countries of the former Soviet Union (except Russia), 2004]]
+
+In 2010, there were 259.8 million speakers of Russian in the world: in Russia – 137.5 million, in the [[Commonwealth of Independent States|CIS]] and Baltic countries – 93.7 million, in Eastern Europe – 12.9 million, Western Europe – 7.3 million, Asia – 2.7 million, Middle East and North Africa – 1.3 million, Sub-Saharan Africa – 0.1 million, Latin America – 0.2 million, U.S., Canada, Australia and New Zealand – 4.1 million speakers. Therefore, the Russian language is the [[Languages by number of native speakers|seventh-largest in the world by number of speakers]], after English, Mandarin, Hindi-Urdu, Spanish, French, Arabic and Portuguese.<ref name="demoscope.ru">{{cite web|title=Демографические изменения - не на пользу русскому языку|url=http://demoscope.ru/weekly/2013/0571/tema02.php|url-status=live|archive-url=https://web.archive.org/web/20140805090035/http://demoscope.ru/weekly/2013/0571/tema02.php|archive-date=5 August 2014|access-date=23 April 2014|publisher=Demoscope.ru|language=ru}}</ref><ref name="Ethnologue-rating-2018">{{cite web|url=http://www.ethnologue.com/statistics/size|title=Statistical Summaries. Summary by language size. Language size|date=21 February 2018|editor=Lewis, M. Paul |editor2=Gary F. Simons |editor3=Charles D. Fennig|work=[[Ethnologue|Ethnologue: Languages of the World]] |edition=21st |location=Dallas|publisher=[[SIL International]]|language=en}}</ref><ref name="Арефьев А. Л. Сжимающееся русскоязычие">{{cite web|author=Арефьев А. Л.|date=31 October 2013|title=Сжимающееся русскоязычие. Демографические изменения — не на пользу русскому языку|url=http://demoscope.ru/weekly/2013/0571/tema02.php|work=[[Демоскоп Weekly]]|language=ru|number=571–572}}</ref>
+
+Russian is one of the [[Official languages of the United Nations|six official languages]] of the [[United Nations]]. Education in Russian is still a popular choice for both Russian as a second language (RSL) and native speakers in [[Russia]] as well as many of the former Soviet republics. Russian is still seen as an important language for children to learn in most of the former Soviet republics.<ref name=gallup2008>[http://www.gallup.com/poll/112270/Russias-Language-Could-Ticket-Migrants.aspx Russia's Language Could Be Ticket in for Migrants] {{webarchive|url=https://web.archive.org/web/20140928191526/http://www.gallup.com/poll/112270/russias-language-could-ticket-migrants.aspx |date=28 September 2014 }} [[The Gallup Organization|Gallup]] Retrieved on 26 May 2010</ref>
+
+=== Europe ===
+[[File:Ukraine census 2001 Russian.svg|thumb|right|240px|Percentage of people in [[Ukraine]] with Russian as their native language according to 2001 census (in regions).]]
+In [[Belarus]], Russian is a second state language alongside Belarusian per the [[Constitution of Belarus]].<ref name="fundeh1" /> 77% of the population was fluent in Russian in 2006, and 67% used it as the main language with family, friends, or at work.<ref name="demoscope329">{{cite web|title=Русскоязычие распространено не только там, где живут русские|url=http://demoscope.ru/weekly/2008/0329/tema03.php|url-status=live|archive-url=https://web.archive.org/web/20161023011719/http://www.demoscope.ru/weekly/2008/0329/tema03.php|archive-date=23 October 2016|website=demoscope.ru|language=ru}}</ref>
+
+In [[Estonia]], Russian is spoken by 29.6% of the population according to a 2011 estimate from the World Factbook.<ref name=bookoffact /> and is officially considered a foreign language.<ref name="fundeh1" /> School education in the Russian language is a very contentious point in Estonian politics but has of 2019 promises have been given that such schools will remain open in the near future. <ref>{{Cite web|last=ERR|date=2019-09-10|title=Mailis Reps haridusest: venekeelsed koolid ei kao|url=https://www.err.ee/978833/mailis-reps-haridusest-venekeelsed-koolid-ei-kao|access-date=2020-08-19|website=ERR|language=et}}</ref>
+
+In [[Latvia]], Russian is officially considered a foreign language.<ref name="fundeh1" /> 55% of the population was fluent in Russian in 2006, and 26% used it as the main language with family, friends, or at work.<ref name="demoscope329" /> On 18 February 2012, Latvia held a [[2012 Latvian constitutional referendum|constitutional referendum]] on whether to adopt Russian as a second official language.<ref>{{cite web|url=http://web.cvk.lv/pub/public/28361.html/|title=Referendum on the Draft Law 'Amendments to the Constitution of the Republic of Latvia'|publisher=Central Election Commission of Latvia|year=2012|access-date=2 May 2012|archive-url=https://web.archive.org/web/20120502013728/http://web.cvk.lv/pub/public/28361.html|archive-date=2 May 2012|url-status=dead}}</ref> According to the Central Election Commission, 74.8% voted against, 24.9% voted for and the voter turnout was 71.1%.<ref>{{cite web|url=http://www.tn2012.cvk.lv/|title=Results of the referendum on the Draft Law 'Amendments to the Constitution of the Republic of Latvia'|language=lv|publisher=Central Election Commission of Latvia|year=2012|access-date=2 May 2012}}</ref> Beginning in 2019, instruction in [[Russian language in Latvia|Russian language]] will be gradually discontinued in private colleges and universities in [[Latvia]], as well as general instruction in Latvian public high schools.<ref>{{cite news |title=Latvia pushes majority language in schools, leaving parents miffed |url=https://www.dw.com/en/latvia-pushes-majority-language-in-schools-leaving-parents-miffed/a-45385830 |agency=Deutsche Welle |date=8 September 2018}}</ref><ref>{{cite news |title=Moscow threatens sanctions against Latvia over removal of Russian from secondary schools |url=https://www.telegraph.co.uk/news/2018/04/03/moscow-threatens-sanctions-against-latvia-removal-russian-secondary/ |work=The Daily Telegraph |date=3 April 2018}}</ref>
+
+In [[Lithuania]], Russian is not official, but it still retains the function of a ''[[lingua franca]]''.<ref name="fundeh1" /> In contrast to the other two Baltic states, Lithuania has a relatively small Russian-speaking minority (5.0% as of 2008).<ref name="andrlik">{{cite web|title=''Ethnic and Language Policy of the Republic of Lithuania: Basis and Practice'', Jan Andrlík|url=http://alppi.eu/wp-content/uploads/2009/11/Andrlik_2009.pdf|url-status=dead|archive-url=https://web.archive.org/web/20160403213425/http://alppi.eu/wp-content/uploads/2009/11/Andrlik_2009.pdf|archive-date=3 April 2016}}</ref>
+
+In [[Moldova]], Russian is considered to be the language of inter-ethnic communication under a Soviet-era law.<ref name="fundeh1" /> 50% of the population was fluent in Russian in 2006, and 19% used it as the main language with family, friends, or at work.<ref name="demoscope329" />
+
+According to the [[Russian Census (2010)|2010 census in Russia]], Russian language skills were indicated by 138 million people (99.4% of the respondents), while according to the [[Russian Census (2002)|2002 census]] – 142.6 million people (99.2% of the respondents).<ref>{{cite web|date=8 November 2011|title=Демоскоп Weekly. Об итогах Всероссийской переписи населения 2010 года. Сообщение Росстата|url=http://demoscope.ru/weekly/2011/0491/perep01.php|url-status=live|archive-url=https://web.archive.org/web/20141018055149/http://www.demoscope.ru/weekly/2011/0491/perep01.php|archive-date=18 October 2014|access-date=23 April 2014|publisher=Demoscope.ru|language=ru}}</ref>
+
+In [[Ukraine]], Russian is seen as a language of inter-ethnic communication, and a minority language, under the 1996 [[Constitution of Ukraine]].<ref name="fundeh1" /> According to estimates from Demoskop Weekly, in 2004 there were 14,400,000 native speakers of Russian in the country, and 29 million active speakers.<ref name="demoscope251">{{cite web|title=Падение статуса русского языка на постсоветском пространстве|url=http://demoscope.ru/weekly/2006/0251/tema01.php|url-status=live|archive-url=https://web.archive.org/web/20161025204352/http://demoscope.ru/weekly/2006/0251/tema01.php|archive-date=25 October 2016|website=demoscope.ru|language=ru}}</ref> 65% of the population was fluent in Russian in 2006, and 38% used it as the main language with family, friends, or at work.<ref name="demoscope329" /> On 5 September 2017, Ukraine's Parliament passed a [[Ukrainization#2017 law "On Education"|new education law]] which bars primary education to all students in any language but [[Ukrainian language|Ukrainian]].<ref>{{Cite news|url=https://calrev.org/2019/03/28/upcoming-elections-and-ukrainian-ultra-nationalism/?v=7516fd43adaa|title=Upcoming Elections and Ukrainian "Ultra-nationalism"|last=Genin|first=Aaron|date=28 March 2019|work=The California Review|access-date=16 July 2019}}</ref> The law faced criticism from officials in Russia.<ref>{{cite news |title=Ukraine defends education reform as Hungary promises 'pain' |url=https://www.irishtimes.com/news/world/europe/ukraine-defends-education-reform-as-hungary-promises-pain-1.3235916 |work=The Irish Times |date=27 September 2017}}</ref><ref>{{cite news |title=Ukrainian Language Bill Facing Barrage Of Criticism From Minorities, Foreign Capitals |url=https://www.rferl.org/a/ukraine-language-legislation-minority-languages-russia-hungary-romania/28753925.html |work=[[Radio Free Europe/Radio Liberty]] |date=24 September 2017}}</ref>
+
+In the 20th century, Russian was a mandatory language taught in the schools of the members of the old [[Warsaw Pact]] and in other [[Communist state|countries]] that used to be satellites of the USSR. According to the Eurobarometer 2005 survey,<ref>{{cite web|year=2006|title=Europeans and their Languages|url=http://ec.europa.eu/education/languages/pdf/doc631_en.pdf|url-status=dead|archive-url=https://web.archive.org/web/20090521033643/http://ec.europa.eu/education/languages/pdf/doc631_en.pdf|archive-date=21 May 2009|website=europa.eu}}</ref> fluency in Russian remains fairly high (20–40%) in some countries, in particular those where the people speak a [[Slavic language]] and thereby have an edge in learning Russian {{Explain|reason=give some clear explanations and citations where other slavic speakers claim how russian is far easier for them than for example english|date=August 2020}} (namely, Poland, Czech Republic, Slovakia, and Bulgaria).
+
+Significant Russian-speaking groups also exist in [[Western Europe]]. These have been fed by several waves of immigrants since the beginning of the 20th century, each with its own flavor of language. The [[United Kingdom]], [[Germany]], [[Finland]], [[Spain]], [[Portugal]], [[France]], [[Italy]], [[Belgium]], [[Greece]], [[Norway]], and [[Austria]] have significant Russian-speaking communities.
+
+=== Asia ===
+In [[Armenia]], Russian has no official status, but it is recognized as a minority language under the [[Framework Convention for the Protection of National Minorities]].<ref name="fundeh1" /> 30% of the population was fluent in Russian in 2006, and 2% used it as the main language with family, friends, or at work.<ref name="demoscope329" />
+
+In [[Azerbaijan]], Russian has no official status, but is a ''lingua franca'' of the country.<ref name="fundeh1">{{cite web |url = http://www.fundeh.org/files/publications/90/vedenie_obshchee_sostoyanie_russkogo_yazyka.pdf |title=Archived copy |access-date=16 October 2015 |url-status=dead |archive-url = https://web.archive.org/web/20160304122143/http://www.fundeh.org/files/publications/90/vedenie_obshchee_sostoyanie_russkogo_yazyka.pdf |archive-date=4 March 2016 }}</ref> 26% of the population was fluent in Russian in 2006, and 5% used it as the main language with family, friends, or at work.<ref name="demoscope329" />
+
+In [[China]], Russian has no official status, but it is spoken by the [[Russians in China|small Russian communities]] in the northeastern [[Heilongjiang]] province.
+
+In [[Georgia (country)|Georgia]], Russian has no official status, but it is recognized as a minority language under the [[Framework Convention for the Protection of National Minorities]].<ref name="fundeh1" /> Russian is the language of 9% of the population according to the World Factbook.<ref>{{CIA World Factbook link|gg|Georgia}}</ref> Ethnologue cites Russian as the country's de facto working language.<ref name="ethn">{{Ethnologue21|rus|Russian}}</ref>
+
+In [[Kazakhstan]], Russian is not a state language, but according to article 7 of the [[Constitution of Kazakhstan]] its usage enjoys equal status to that of the [[Kazakh language]] in state and local administration.<ref name="fundeh1" /> The 2009 census reported that 10,309,500 people, or 84.8% of the population aged 15 and above, could read and write well in Russian, as well as understand the spoken language.<ref name=kazcensus>{{cite web |title = Results Of The 2009 National Population Census Of The Republic Of Kazakhstan |url = http://liportal.giz.de/fileadmin/user_upload/oeffentlich/Kasachstan/40_gesellschaft/Kaz2009_Analytical_report.pdf |publisher=Deutsche Gesellschaft für Internationale Zusammenarbeit |access-date=31 October 2015 }}</ref>
+
+In [[Kyrgyzstan]], Russian is a co-official language per article 5 of the [[Constitution of Kyrgyzstan]].<ref name="fundeh1" /> The 2009 census states that 482,200 people speak Russian as a native language, or 8.99% of the population.<ref name=kyrcen>{{cite web|title=Population And Housing Census Of The Kyrgyz Republic Of 2009 |url = http://unstats.un.org/unsd/demographic/sources/census/2010_phc/Kyrgyzstan/A5-2PopulationAndHousingCensusOfTheKyrgyzRepublicOf2009.pdf |publisher=UN Stats |access-date=1 November 2015 |url-status=dead |archive-url = https://web.archive.org/web/20120710092216/http://unstats.un.org/unsd/demographic/sources/census/2010_PHC/Kyrgyzstan/A5-2PopulationAndHousingCensusOfTheKyrgyzRepublicOf2009.pdf |archive-date=10 July 2012 }}</ref> Additionally, 1,854,700 residents of Kyrgyzstan aged 15 and above fluently speak Russian as a second language, or 49.6% of the population in the age group.<ref name=kyrcen />
+
+In [[Tajikistan]], Russian is the language of inter-ethnic communication under the [[Constitution of Tajikistan]] and is permitted in official documentation.<ref name="fundeh1" /> 28% of the population was fluent in Russian in 2006, and 7% used it as the main language with family, friends or at work.<ref name="demoscope329" /> The World Factbook notes that Russian is widely used in government and business.<ref name="bookoffact">{{cite web|title=Languages|url=https://www.cia.gov/Library/publications/the-world-factbook/fields/2098.html|url-status=dead|archive-url=https://web.archive.org/web/20090513125710/https://www.cia.gov/library/publications/the-world-factbook/fields/2098.html|archive-date=13 May 2009|access-date=26 April 2015|publisher=The World Factbook}}</ref>
+
+In [[Turkmenistan]], Russian lost its status as the official ''lingua franca'' in 1996.<ref name="fundeh1" /> Russian is spoken by 12% of the population according to an undated estimate from the World Factbook.<ref name=bookoffact /> Nevertheless, the Turkmen state press and websites regularly publish material in Russian and there is the Russian-language newspaper [[Neytralny Turkmenistan]], the television channel [[Turkmenistan (TV channel)|TV4]], and there are schools like [[Joint Turkmen-Russian Secondary School]].
+
+In [[Uzbekistan]], Russian is the language of inter-ethnic communication.<ref name="AA" /><ref name="Шухрат Хуррамов" /><ref name="AB" /> It has some official roles, being permitted in official documentation and is the '''lingua franca''' of the country and the language of the elite.<ref name="fundeh1" /><ref name=UZB>{{cite web |title = Law on Official Language |url = https://www.justice.gov/sites/default/files/eoir/legacy/2013/11/08/Law_on_official_language.pdf |publisher=Government of Uzbekistan |access-date=2 December 2016 |url-status=live |archive-url = https://web.archive.org/web/20170129231323/https://www.justice.gov/sites/default/files/eoir/legacy/2013/11/08/Law_on_official_language.pdf |archive-date=29 January 2017 }}</ref> Russian is spoken by 14.2% of the population according to an undated estimate from the World Factbook.<ref name=bookoffact />
+
+In 2005, Russian was the most widely taught foreign language in [[Mongolia]],<ref>{{cite news |first= James |last= Brooke |newspaper = [[The New York Times]] |title= For Mongolians, E Is for English, F Is for Future |date= 15 February 2005 |access-date= 16 May 2009 |url= https://nytimes.com/2005/02/15/international/asia/15mongolia.html?_r=2&pagewanted=all |url-status=live |archive-url =  https://web.archive.org/web/20110614225411/http://www.nytimes.com/2005/02/15/international/asia/15mongolia.html?_r=2&pagewanted=all |archive-date= 14 June 2011 }}</ref> and was compulsory in Year 7 onward as a second foreign language in 2006.<ref>{{cite news|date=21 September 2006|script-title=ru:Русский язык в Монголии стал обязательным|language=ru|trans-title=Russian language has become compulsory in Mongolia|agency=New Region|url=http://www.nr2.ru/83966.html|url-status=dead|access-date=16 May 2009|archive-url=https://web.archive.org/web/20081009170315/http://www.nr2.ru/83966.html|archive-date=9 October 2008}}</ref>
+
+Russian is also spoken in [[Israel]]. The number of native Russian-speaking Israelis numbers around 1.5 million Israelis,<ref>[http://www.forbes.ru/finansy-i-investicii/340519-rossiysko-izrailskie-ekonomicheskie-svyazi-ne-tolko-neft-na К визиту Нетаньяху: что Россия может получить от экономики Израиля] {{webarchive|url=https://web.archive.org/web/20170313125416/http://www.forbes.ru/finansy-i-investicii/340519-rossiysko-izrailskie-ekonomicheskie-svyazi-ne-tolko-neft-na |date=13 March 2017 }} Алексей Голубович, Forbes Russia, 9 March 2017</ref> 15% of the population.<ref>{{cite web |url = http://windowoneurasia2.blogspot.com/2019/06/percentage-of-native-speakers-of.html |title=Window on Eurasia -- New Series: Percentage of Native Speakers of Russian Higher in Israel than in Most Former Soviet Republics |last=Goble|first=Paul|date=12 June 2019 |website=Window on Eurasia -- New Series |access-date=12 June 2019}}</ref> The Israeli [[Mass media|press]] and [[website]]s regularly publish material in Russian and there are Russian newspapers, television stations, schools, and social media outlets based in the country.<ref>{{cite web |url = https://www.myjewishlearning.com/article/russians-in-israel/ |title=Russians in Israel }}</ref> There is an Israeli TV channel mainly broadcasting in Russian with [[Israel Plus]]. See also [[Russian language in Israel]].
+
+Russian is also spoken as a second language by a small number of people in [[Afghanistan]].<ref>Awde and Sarwan, 2003</ref>
+
+In [[Vietnam]], Russian has been added in the elementary curriculum along with Chinese and Japanese and were named as "first foreign languages" for Vietnamese students to learn, on equal footing with English.<ref>{{cite web |url = https://e.vnexpress.net/news/news/vietnam-to-add-chinese-russian-to-elementary-school-curriculum-3470743.html |title = Vietnam to add Chinese, Russian to elementary school curriculum |date=20 September 2016 }}</ref>
+
+=== North America ===
+{{See also|Russian language in the United States}}
+The language was first introduced in [[North America]] when [[Russian explorers]] voyaged into [[Alaska]] and claimed it for Russia during the 18th century. Although most Russian colonists left after the United States bought the land in 1867, a handful stayed and preserved the Russian language in this region to this day, although only a few elderly speakers of this unique dialect are left.<ref>{{cite web |url=http://languagehat.com/ninilchik/ |title=Ninilchik |publisher=languagehat.com |date=1 January 2009 |access-date=18 June 2013 |url-status=live |archive-url=https://web.archive.org/web/20140107112220/http://languagehat.com/ninilchik/ |archive-date=7 January 2014 }}</ref> In [[Nikolaevsk, Alaska]] Russian is more spoken than English. Sizable Russian-speaking communities also exist in [[North America]], especially in large urban centers of the [[United States|U.S.]] and [[Canada]], such as [[Russian Americans in New York City|New York City]], [[Philadelphia]], [[Boston]], [[Los Angeles]], [[Nashville, Tennessee|Nashville]], [[San Francisco]], [[Seattle]], [[Spokane, Washington|Spokane]], [[Toronto]], [[History of the Russians in Baltimore|Baltimore]], [[Miami]], [[Chicago]], [[Denver]], and [[Cleveland]]. In a number of locations they issue their own newspapers, and live in [[ethnic enclave]]s (especially the generation of immigrants who started arriving in the early 1960s). Only about 25% of them are ethnic Russians, however. Before the [[dissolution of the Soviet Union]], the overwhelming majority of [[Russophone]]s in [[Brighton Beach, Brooklyn]] in New York City were Russian-speaking [[Jews]]. Afterward, the influx from the countries of the former [[Soviet Union]] changed the statistics somewhat, with ethnic Russians and Ukrainians immigrating along with some more Russian Jews and Central Asians. According to the [[United States Census]], in 2007 Russian was the primary language spoken in the homes of over 850,000 individuals living in the United States.<ref>{{cite web|title=Language Use in the United States: 2007, census.gov|url=https://www.census.gov/hhes/socdemo/language/data/acs/ACS-12.pdf|url-status=dead|archive-url=https://web.archive.org/web/20130614060228/http://www.census.gov/hhes/socdemo/language/data/acs/ACS-12.pdf|archive-date=14 June 2013|access-date=18 June 2013}}</ref>
+
+In the second half of the 20th century, Russian was the most popular foreign language in [[Cuba]]. Besides being taught at universities and schools, there were also educational programs on the radio and TV. However, starting January 2019 the Cuban television opens an educational program devoted to the Russian language. This project is fully entitled to be called an anticipated one, because the Russian – Cuban collaboration is a strategic direction actively developed as more and more young people are interested in the Russian language, the Education navigator informs. The [[Havana State University]] has started a bachelor's specialization called the Russian Language and the Second Foreign Language. There is also the Russian language department, where students can scrutinize e-books without internet connection. Additional courses on the Russian language are open at two schools of the Cuban capital city. <ref>{{cite web |url = https://russkiymir.ru/en/news/244089/ |title = RUSSIAN LANGUAGE RETURNS TO CUBA }}</ref> An estimated 200,000 people speak the Russian language in Cuba, on the account that more than 23,000 Cubans who took higher studies in the former Soviet Union and later in Russia, and another important group of people who studied at military schools and technologists, plus the nearly 2,000 Russians residing in Cuba and their descendants.{{cn|date=November 2020}}
+
+== As an international language ==
+{{See also|Russophone|List of official languages by institution|Internet in Russian}}
+
+Russian is one of the official languages (or has similar status and interpretation must be provided into Russian) of the following:
+{{col-begin|width=auto}}
+* [[United Nations]]
+* [[International Atomic Energy Agency]]
+* [[World Health Organization]]
+* [[International Civil Aviation Organization]]
+* [[UNESCO]]
+* [[World Intellectual Property Organization]]
+* [[International Telecommunication Union]]
+* [[World Meteorological Organization]]
+* [[Food and Agriculture Organization]]
+* [[International Fund for Agricultural Development]]
+* [[International Criminal Court]]
+* [[International Monetary Fund]]
+* [[International Olympic Committee]]
+* [[Universal Postal Union]]
+{{col-break}}
+* [[World Bank]]
+* [[Commonwealth of Independent States]]
+* [[Organization for Security and Co-operation in Europe]]
+* [[Shanghai Cooperation Organisation]]
+* [[Eurasian Economic Community]]
+* [[Collective Security Treaty Organization]]
+* [[Antarctic Treaty Secretariat]]
+* [[International Organization for Standardization]]
+* [[GUAM Organization for Democracy and Economic Development]]
+* [[International Mathematical Olympiad]]
+* [[Warsaw Pact]] (defunct)
+* [[Comecon|Council for Mutual Economic Assistance]] (defunct)
+{{col-end}}
+
+The Russian language is also one of two official languages aboard the [[International Space Station]] – [[NASA]] astronauts who serve alongside Russian cosmonauts usually take Russian language courses. This practice goes back to the [[Apollo-Soyuz]] mission, which first flew in 1975.
+
+In March 2013 it was announced that Russian is now the second-most used language on the Internet after English. People use the Russian language on 5.9% of all websites, slightly ahead of German and far behind English (54.7%). Russian is used not only on 89.8% of [[.ru]] sites, but also on 88.7% of sites with the former Soviet Union domain [[.su]]. The websites of former Soviet Union nations also use high levels of Russian: 79.0% in Ukraine, 86.9% in Belarus, 84.0% in Kazakhstan, 79.6% in Uzbekistan, 75.9% in Kyrgyzstan and 81.8% in Tajikistan. However, Russian is the sixth-most used language on the top 1,000 sites, behind [[English language|English]], [[Chinese language|Chinese]], [[French language|French]], [[German language|German]], and [[Japanese language|Japanese]].<ref>{{cite web|title=Russian is now the second most used language on the web|url=http://w3techs.com/blog/entry/russian_is_now_the_second_most_used_language_on_the_web|work=W3Techs|publisher=Q-Success|access-date=17 June 2013|author=Matthias Gelbmann|date=19 March 2013|url-status=live|archive-url = https://web.archive.org/web/20130504180244/http://w3techs.com/blog/entry/russian_is_now_the_second_most_used_language_on_the_web|archive-date=4 May 2013}}</ref>
+
+== Dialects ==
+{{Main|Russian dialects|Moscow dialect}}
+
+[[File:Dialects of Russian language-ru.png|thumb|upright=1.35|
+Russian dialects in 1915
+{{col-begin}}
+{{col-break}}
+Northern dialects
+{{legend|#587942|1. [[Arkhangelsk]] dialect}}
+{{legend|#3E7D6D|2. [[Olonets]] dialect}}
+{{legend|#45AD96|3. [[Veliky Novgorod|Novgorod]] dialect}}
+{{legend|#69A74B|4. [[Kirov, Kirov Oblast|Viatka]] dialect}}
+{{legend|#61C57A|5. [[Vladimir, Russia|Vladimir]] dialect}}
+{{col-break}}
+Central dialects
+{{legend|#F587C1|6. [[Moscow dialect]]}}
+{{legend|#D172A2|7. [[Tver]] dialect}}
+Southern dialects
+{{legend|#FF9B06|8. [[Oryol|Orel]] (Don) dialect}}
+{{legend|#FF7D26|9. [[Ryazan]] dialect}}
+{{legend|#FFAA71|10. [[Tula, Russia|Tula]] dialect}}
+{{legend|#F2D273|11. [[Smolensk]] dialect}}
+{{col-end}}
+Other
+{{legend|#40956C|12. Northern Russian dialect with [[Belarusian language|Belarusian]] influences}}
+{{legend|#ECBD00|13. Sloboda and Steppe dialects of [[Ukrainian language|Ukrainian]]}}
+{{legend|#FFD93E|14. Steppe dialect of Ukrainian with Russian influences}}
+]]
+
+Russian is a rather homogeneous language, in terms of dialectal variation, due to the early political centralization under Moscow's rule, compulsory education, mass migration from rural to urban areas in the 20th century, as well as other factors. The standard language is used in written and spoken form almost everywhere in the country, from [[Kaliningrad]] and [[Saint Petersburg]] in the West to [[Vladivostok]] and [[Petropavlovsk-Kamchatsky]] in the East, the enormous distance between notwithstanding.
+
+Despite [[Dialect levelling|leveling]] after 1900, especially in matters of vocabulary and phonetics, a number of dialects still exist in Russia. Some linguists divide the dialects of Russian into two primary regional groupings, "Northern" and "Southern", with [[Moscow]] lying on the zone of transition between the two. Others divide the language into three groupings, [[Northern Russian dialects|Northern]], [[Central Russian dialects|Central]] (or Middle), and [[Southern Russian dialects|Southern]], with Moscow lying in the Central region.<ref>David Dalby. 1999–2000. ''The Linguasphere Register of the World's Languages and Speech Communities''. Linguasphere Press.  Pg. 442.</ref>{{sfn|Sussex|Cubberley|2006|pp=521–526}} All dialects are also divided into two main chronological categories: the dialects of ''primary formation'' (the territory of [[Muscovy]] roughly consists of the modern [[Central Federal District|Central]] and [[Northwestern Federal District|Northwestern]] Federal districts) and ''secondary formation'' (other territories where Russian was brought by migrants from primary formation territories or adopted by the local population). [[Dialectology]] within Russia recognizes dozens of smaller-scale variants. The dialects often show distinct and non-standard features of pronunciation and intonation, vocabulary, and grammar. Some of these are relics of ancient usage now completely discarded by the standard language.
+
+The [[Northern Russian dialects]] and those spoken along the [[Volga River]] typically pronounce unstressed {{IPA|/o/}} clearly, a phenomenon called [[vowel reduction in Russian#Back vowels|okanye]] ({{lang|ru|оканье}}).{{sfn|Sussex|Cubberley|2006|pp=521–526}} Besides the absence of vowel reduction, some dialects have [[high vowel|high]] or [[diphthong]]al {{IPA|/e⁓i̯ɛ/}} in place of {{proto|slavic|ě}} and {{IPA|/o⁓u̯ɔ/}} in stressed closed syllables (as in Ukrainian) instead of Standard Russian {{IPA|/e/}} and {{IPA|/o/}}.{{sfn|Sussex|Cubberley|2006|pp=521–526}} Another Northern dialectal morphological feature is a post-posed definite article ''-to'', ''-ta'', ''-te'' similarly to that existing in Bulgarian and Macedonian.{{sfn|Sussex|Cubberley|2006|pp=521–526}}
+
+In the [[Southern Russian dialects]], instances of unstressed {{IPA|/e/}} and {{IPA|/a/}} following [[Palatalization (phonetics)|palatalized]] consonants and preceding a stressed syllable are not reduced to {{IPA|[ɪ]}} (as occurs in the Moscow dialect), being instead pronounced {{IPA|[a]}} in such positions (e.g. {{wikt-lang|ru|несл'''и'''}} is pronounced {{IPA|[nʲaˈslʲi]}}, not {{IPA|[nʲɪsˈlʲi]}}) – this is called [[yakanye]] ({{lang|ru|яканье}}).{{sfn|Sussex|Cubberley|2006|pp=521–526}}<ref>{{cite web|title=The Language of the Russian Village|language=ru|url=http://www.gramota.ru/book/village/map13.html|access-date=10 November 2011|url-status=live|archive-url=https://web.archive.org/web/20120607225323/http://gramota.ru/book/village/map13.html|archive-date=7 June 2012}}</ref> Consonants include a [[Voiced velar fricative|fricative {{IPA|/ɣ/}}]], a [[semivowel|semivowel {{IPA|/w⁓u̯/}}]] and {{IPA|/x⁓xv⁓xw/}}, whereas the Standard and Northern dialects have the consonants {{IPA|/ɡ/}}, {{IPA|/v/}}, and final {{IPA|/l/}} and {{IPA|/f/}}, respectively.{{sfn|Sussex|Cubberley|2006|pp=521–526}} The morphology features a palatalized final {{IPA|/tʲ/}} in 3rd person forms of verbs (this is unpalatalized in the Standard and Northern dialects).{{sfn|Sussex|Cubberley|2006|pp=521–526}}<ref>{{cite web|title=The Language of the Russian Village|language=ru|url=http://www.gramota.ru/book/village/map14.html|access-date=10 November 2011|url-status=live|archive-url=https://web.archive.org/web/20120212213519/http://www.gramota.ru/book/village/map14.html|archive-date=12 February 2012}}</ref> Some of these features such as akanye and yakanye, a [[debuccalized]] or [[lenited]] {{IPA|/ɡ/}}, a [[semivowel|semivowel {{IPA|/w⁓u̯/}}]] and palatalized final {{IPA|/tʲ/}} in 3rd person forms of verbs are also present in modern [[Belarusian language|Belarusian]] and some dialects of [[Ukrainian language|Ukrainian]] (Eastern [[Polesia]]n), indicating a linguistic continuum.
+
+The city of [[Old Novgorod dialect|Veliky Novgorod]] has historically displayed a feature called [[chokanye]] or [[tsokanye]] ({{lang|ru|чоканье}} or {{lang|ru|цоканье}}), in which {{IPA|/tɕ/}} and {{IPA|/ts/}} were switched or merged. So, {{wikt-lang|ru|'''ц'''апля}} (tsaplya, 'heron') has been recorded as {{lang|ru|чапля}} (chaplya). Also, the [[Slavic second palatalization|second palatalization]] of [[Velar consonant|velars]] did not occur there, so the so-called '''ě²''' (from the [[Proto-Slavic]] diphthong *ai) did not cause {{IPA|/k, ɡ, x/}} to shift to {{IPA|/ts, dz, s/}}; therefore, where Standard Russian has {{wikt-lang|ru|'''ц'''епь}} ('chain'), the form {{lang|ru|'''к'''епь}} {{IPA|[kʲepʲ]}} is attested in earlier texts.
+
+Among the first to study Russian dialects was [[Mikhail Lomonosov|Lomonosov]] in the 18th century. In the 19th, [[Vladimir Dal]] compiled the first dictionary that included dialectal vocabulary. Detailed mapping of Russian dialects began at the turn of the 20th century. In modern times, the monumental ''Dialectological Atlas of the Russian Language'' ({{lang|ru|Диалектологический атлас русского языка}} - ''Dialektologichesky atlas russkogo yazyka''), was published in three folio volumes 1986–1989, after four decades of preparatory work.
+
+== Derived languages ==
+* [[Balachka]], a dialect spoken in Krasnodar region, Don, [[Kuban]], and [[Terek River|Terek]], brought by relocated [[Cossacks]] in 1793 and is based on the southwest Ukrainian dialect. During the Russification of the aforementioned regions in the 1920s to 1950s, it was replaced by the Russian language.
+* [[Fenya]], a criminal [[argot]] of ancient origin, with Russian grammar, but with distinct vocabulary
+* [[Medny Aleut language]], a nearly extinct [[mixed language]] spoken on [[Bering Island]] that is characterized by its [[Aleut]] nouns and Russian verbs
+* [[Padonkaffsky jargon]], a [[slang]] language developed by [[padonki]] of [[Runet]]
+* [[Quelia]], a [[macaronic language]] with Russian-derived basic structure and part of the [[lexicon]] (mainly nouns and verbs) borrowed from German
+* [[Runglish]], a Russian-English pidgin. This word is also used by English speakers to describe the way in which Russians attempt to speak English using Russian morphology and/or syntax.
+* [[Russenorsk language|Russenorsk]], an extinct [[pidgin]] language with mostly Russian vocabulary and mostly [[Norwegian language|Norwegian]] grammar, used for communication between [[Russians]] and [[Norway|Norwegian]] traders in the Pomor trade in [[Finnmark]] and the [[Kola Peninsula]]
+* [[Trasianka]], a heavily russified variety of [[Belarusian language|Belarusian]] used by a large portion of the rural population in [[Belarus]]
+* [[Taimyr Pidgin Russian]], spoken by the [[Nganasan people|Nganasan]] on the [[Taymyr Peninsula|Taimyr Peninsula]]
+
+== Alphabet ==
+{{Main|Russian alphabet|Russian Braille}}
+
+[[File:Azbuka 1574 by Ivan Fyodorov.png|thumb|A page from Azbuka ([[Alphabet book]]), the first East Slavic printed textbook. Printed by [[Ivan Fyodorov (printer)|Ivan Fyodorov]] in 1574 in Lviv. This page features the [[Cyrillic script]].]]
+
+Russian is written using a [[Cyrillic script|Cyrillic]] alphabet. The Russian alphabet consists of 33 letters. The following table gives their upper case forms, along with [[help:IPA|IPA]] values for each letter's typical sound:
+
+{| cellpadding="4" style="margin:auto; text-align:center;"
+|-
+|{{lang|ru|[[A (Cyrillic)|А]]}}<br />{{IPA|/a/}}||{{lang|ru|[[Be (Cyrillic)|Б]]}}<br />{{IPA|/b/}}||{{lang|ru|[[Ve (Cyrillic)|В]]}}<br />{{IPA|/v/}}||{{lang|ru|[[Ge (Cyrillic)|Г]]}}<br />{{IPA|/ɡ/}}||{{lang|ru|[[De (Cyrillic)|Д]]}}<br />{{IPA|/d/}}||{{lang|ru|[[Ye (Cyrillic)|Е]]}}<br />{{IPA|/je/}}||{{lang|ru|[[Yo (Cyrillic)|Ё]]}}<br />{{IPA|/jo/}}||{{lang|ru|[[Zhe (Cyrillic)|Ж]]}}<br />{{IPA|/ʐ/}}||{{lang|ru|[[Ze (Cyrillic)|З]]}}<br />{{IPA|/z/}}||{{lang|ru|[[I (Cyrillic)|И]]}}<br />{{IPA|/i/}}||{{lang|ru|[[Short I|Й]]}}<br />{{IPA|/j/}}
+|-
+|{{lang|ru|[[Ka (Cyrillic)|К]]}}<br />{{IPA|/k/}}||{{lang|ru|[[El (Cyrillic)|Л]]}}<br />{{IPA|/l/}}||{{lang|ru|[[Em (Cyrillic)|М]]}}<br />{{IPA|/m/}}||{{lang|ru|[[En (Cyrillic)|Н]]}}<br />{{IPA|/n/}}||{{lang|ru|[[O (Cyrillic)|О]]}}<br />{{IPA|/o/}}||{{lang|ru|[[Pe (Cyrillic)|П]]}}<br />{{IPA|/p/}}||{{lang|ru|[[Er (Cyrillic)|Р]]}}<br />{{IPA|/r/}}||{{lang|ru|[[Es (Cyrillic)|С]]}}<br />{{IPA|/s/}}||{{lang|ru|[[Te (Cyrillic)|Т]]}}<br />{{IPA|/t/}}||{{lang|ru|[[U (Cyrillic)|У]]}}<br />{{IPA|/u/}}||{{lang|ru|[[Ef (Cyrillic)|Ф]]}}<br />{{IPA|/f/}}
+|-
+|{{lang|ru|[[Kha (Cyrillic)|Х]]}}<br />{{IPA|/x/<!-- do not change it to "kh", the symbol between slashes is not transliteration, this is phonemic transcription in IPA! -->}}||{{lang|ru|[[Tse (Cyrillic)|Ц]]}}<br />{{IPA|/ts/}}||{{lang|ru|[[Che (Cyrillic)|Ч]]}}<br />{{IPA|/tɕ/}}||{{lang|ru|[[Sha (Cyrillic)|Ш]]}}<br />{{IPA|/ʂ/}}||{{lang|ru|[[Shcha (Cyrillic)|Щ]]}} <br />{{IPA|/ɕː/}}||{{lang|ru|[[Hard sign|Ъ]]}}<br />{{IPA|/-/}}||{{lang|ru|[[Yery|Ы]]}}<br /> {{IPA|/ɨ/}}||{{lang|ru|[[Soft sign|Ь]]}}<br />{{IPA|/ʲ/}}||{{lang|ru|[[E (Cyrillic)|Э]]}}<br />{{IPA|/e/}}||{{lang|ru|[[Yu (Cyrillic)|Ю]]}}<br />{{IPA|/ju/}}||{{lang|ru|[[Ya (Cyrillic)|Я]]}}<br />{{IPA|/ja/}}
+|}
+Older letters of the Russian alphabet include {{angbr|{{lang|orv|ѣ}}}}, which merged to {{angbr|{{lang|ru|е}}}} ({{IPA|/je/}} or {{IPA|/ʲe/}}); {{angbr|{{lang|orv|і}}}} and {{angbr|{{lang|orv|ѵ}}}}, which both merged to {{angbr|{{lang|ru|и}}}} ({{IPA|/i/}}); {{angbr|{{lang|orv|ѳ}}}}, which merged to {{angbr|{{lang|ru|ф}}}} ({{IPA|/f/}}); {{angbr|{{lang|orv|ѫ}}}}, which merged to {{angbr|{{lang|ru|у}}}} ({{IPA|/u/}}); {{angbr|{{lang|orv|ѭ}}}}, which merged to {{angbr|{{lang|ru|ю}}}} ({{IPA|/ju/}} or {{IPA|/ʲu/}}); and {{angbr|{{lang|orv|ѧ}}}} and {{angbr|{{lang|orv|ѩ}}}}, which later were graphically reshaped into {{angbr|{{lang|ru|я}}}} and merged phonetically to {{IPA|/ja/}} or {{IPA|/ʲa/}}. While these older letters have been abandoned at one time or another, they may be used in this and related articles. The [[yer]]s {{angbr|{{lang|ru|ъ}}}} and {{angbr|{{lang|ru|ь}}}} originally indicated the pronunciation of ''ultra-short'' or ''reduced'' {{IPA|/ŭ/}}, {{IPA|/ĭ/}}.
+
+=== Transliteration ===
+{{Further|Romanization of Russian|Informal romanizations of Russian}}
+
+Because of many technical restrictions in computing and also because of the unavailability of Cyrillic keyboards abroad, Russian is often transliterated using the Latin alphabet. For example, {{wikt-lang|ru|мороз}} ('frost') is transliterated ''moroz'', and  {{wikt-lang|ru|мышь}} ('mouse'), ''mysh'' or ''myš'''. Once commonly used by the majority of those living outside Russia, transliteration is being used less frequently by Russian-speaking typists in favor of the extension of [[Unicode]] [[character encoding]], which fully incorporates the Russian alphabet. Free programs leveraging this Unicode extension are available which allow users to type Russian characters, even on Western 'QWERTY' keyboards.<ref>{{cite web |last=Caloni |first=Wanderley |title=RusKey: mapping the Russian keyboard layout into the Latin alphabets |url=http://www.codeproject.com/Articles/11940/RusKey-mapping-the-Russian-keyboard-layout-into-th |date=15 February 2007 |access-date=28 January 2011 |publisher=[[The Code Project]] |url-status=live |archive-url=https://web.archive.org/web/20120301121842/http://www.codeproject.com/Articles/11940/RusKey-mapping-the-Russian-keyboard-layout-into-th |archive-date=1 March 2012 }}</ref>
+
+=== Computing ===
+The Russian alphabet has many systems of [[character encoding]]. [[KOI8-R]] was designed by the Soviet government and was intended to serve as the standard encoding. This encoding was and still is widely used in UNIX-like operating systems. Nevertheless, the spread of [[MS-DOS]] and [[OS/2]] ([[Code page 866|IBM866]]), traditional Macintosh ([[ISO/IEC 8859-5]]) and [[Microsoft Windows]] (CP1251) meant the proliferation of many different encodings as de facto standards, with Windows-1251 becoming a [[de facto standard]] in Russian Internet and e-mail communication during the period of roughly 1995–2005.
+
+All the obsolete 8-bit encodings are rarely used in the communication protocols and text-exchange data formats, having been mostly replaced with [[UTF-8]]. A number of encoding conversion applications were developed. "[[iconv]]" is an example that is supported by most versions of [[Linux]], [[Macintosh]] and some other [[operating system]]s; but converters are rarely needed unless accessing texts created more than a few years ago.
+
+In addition to the modern Russian alphabet, Unicode (and thus UTF-8) encodes the [[Early Cyrillic alphabet]] (which is very similar to the [[Greek alphabet]]), as well as all other Slavic and non-Slavic but Cyrillic-based alphabets.
+
+=== Orthography ===
+{{Main|Russian orthography}}
+
+The current spelling follows the major reform of 1918, and the final codification of 1956. An update proposed in the late 1990s has met a hostile reception, and has not been formally adopted. The punctuation, originally based on [[Byzantine Greek]], was in the 17th and 18th centuries reformulated on the French and German models.{{Citation needed|date=April 2020}}
+
+According to the Institute of Russian Language of the Russian Academy of Sciences, an optional [[acute accent]] ({{lang|ru|знак ударения}}) may, and sometimes should, be used to mark [[stress (linguistics)|stress]]. For example, it is used to distinguish between otherwise identical words, especially when context does not make it obvious: {{lang|ru|замо́к}} (''zamók'' - "lock") – {{lang|ru|за́мок}} (''zámok'' - "castle"), {{lang|ru|сто́ящий}} (''stóyashchy'' - "worthwhile") – {{lang|ru|стоя́щий}} (''stoyáshchy'' - "standing"), {{lang|ru|чудно́}} (''chudnó'' - "this is odd") – {{lang|ru|чу́дно}} (''chúdno'' - "this is marvellous"), {{lang|ru|молоде́ц}} (''molodéts'' - "well done!") – {{lang|ru|мо́лодец}} (''mólodets'' - "fine young man"), {{lang|ru|узна́ю}} (''uznáyu'' - "I shall learn it") – {{lang|ru|узнаю́}} (''uznayú'' - "I recognize it"), {{lang|ru|отреза́ть}} (''otrezát'' - "to be cutting") – {{lang|ru|отре́зать}} (''otrézat'' - "to have cut"); to indicate the proper pronunciation of uncommon words, especially personal and family names, like {{lang|ru|афе́ра}} (''aféra'', "scandal, affair"), {{lang|ru|гу́ру}} (''gúru'', "guru"), {{lang|ru|Гарси́я}} (''García''), {{lang|ru|Оле́ша}} (''Olésha''), {{lang|ru|Фе́рми}} (''Fermi''), and to show which is the stressed word in a sentence, for example {{lang|ru|Ты́ съел печенье?}} (''Tý syel pechenye?'' - "Was it ''you'' who ate the cookie?") – {{lang|ru|Ты съе́л печенье?}} (''Ty syél pechenye?'' - "Did you ''eat'' the cookie?) – {{lang|ru|Ты съел пече́нье?}} (''Ty syel pechénye?'' "Was it the ''cookie'' you ate?"). Stress marks are mandatory in lexical dictionaries and books for children or Russian learners.
+
+== Phonology ==
+{{Main|Russian phonology}}
+
+The phonological system of Russian is inherited from [[Common Slavonic]]; it underwent considerable modification in the early historical period before being largely settled around the year 1400.
+
+The language possesses five vowels (or six, under the St.{{nbsp}}Petersburg Phonological School), which are written with different letters depending on whether the preceding consonant is [[Palatalization (phonetics)|palatalized]]. The consonants typically come in plain vs. palatalized pairs, which are traditionally called ''hard'' and ''soft.'' The hard consonants are often [[velarization|velarized]], especially before front vowels, as in [[Irish language|Irish]] and [[Marshallese language#Phonology|Marshallese]]. The standard language, based on the Moscow dialect, possesses heavy stress and moderate variation in pitch. Stressed vowels are somewhat lengthened, while unstressed vowels tend to be reduced to near-close vowels or an unclear [[schwa]]. (See also: [[vowel reduction in Russian]].)
+
+The Russian [[syllable]] structure can be quite complex, with both initial and final consonant clusters of up to four consecutive sounds. Using a formula with V standing for the nucleus (vowel) and C for each consonant, the maximal structure can be described as follows:
+
+(C)(C)(C)(C)V(C)(C)(C)(C)
+
+However, Russian has a constraint on syllabification such that syllables cannot span multiple [[morpheme]]s.
+
+Clusters of four consonants are not very common, especially within a morpheme. Some examples are: {{wikt-lang|ru|взгляд}} ({{IPA|vzglʲat}} ''vzglyad'', 'glance'), {{wikt-lang|ru|государств}} ({{IPA|gəsʊˈdarstf}} ''gosudarstv'', 'of the states'), {{wikt-lang|ru|строительств}} ({{IPA|strɐˈitʲɪlʲstf}} ''stroitelstv'', 'of the constructions').
+
+=== Consonants ===
+{| class="wikitable" style="text-align: center;"
+|- style="font-size: 90%;"
+|+ Consonant phonemes
+! rowspan="2" |
+! colspan="2" | [[Labial consonant|Labial]]
+! colspan="2" | [[Alveolar consonant|Alveolar]]<br />/[[Dental consonant|Dental]]
+! colspan="2" | [[Postalveolar consonant|Post-<br />alveolar]]
+! rowspan="2" | [[Palatal consonant|Palatal]]
+! colspan="2" | [[Velar consonant|Velar]]
+|-
+! <small>plain</small>
+! <small>[[Palatalization (phonetics)|pal.]]</small>
+! <small>plain</small>
+! <small>pal.</small>
+! <small>plain</small>
+! <small>pal.</small>
+! <small>plain</small>
+! <small>pal.</small>
+|-
+! <small>[[Nasal consonant|Nasal]]</small>
+| {{IPAlink|m}}
+| {{IPA|mʲ}}
+| {{IPAlink|n}}
+| {{IPA|nʲ}}
+|
+|
+|
+|
+|
+|-
+! <small>[[Stop consonant|Stop]]</small>
+| {{IPAlink|p}}<br />{{IPAlink|b}}
+| {{IPA|pʲ}}<br />{{IPA|bʲ}}
+| {{IPAlink|t}}<br />{{IPAlink|d}}
+| {{IPA|tʲ}}<br />{{IPA|dʲ}}
+|
+|
+|
+| {{IPAlink|k}}<br />{{IPAlink|ɡ}}
+| {{IPA|kʲ}}<br />{{IPA|ɡʲ}}
+|-
+! <small>[[Affricate consonant|Affricate]]</small>
+|
+|
+| {{IPAlink|ts}}
+|
+|
+| {{IPAlink|tɕ}}
+|
+|
+|
+|-
+! <small>[[Fricative consonant|Fricative]]</small>
+| {{IPAlink|f}}<br />{{IPAlink|v}}
+| {{IPA|fʲ}}<br />{{IPA|vʲ}}
+| {{IPAlink|s}}<br />{{IPAlink|z}}
+| {{IPA|sʲ}}<br />{{IPA|zʲ}}
+| {{IPAlink|ʂ}}<br />{{IPAlink|ʐ}}
+| {{IPAlink|ɕ}}ː<br />{{IPAlink|ʑ}}ː
+|
+| {{IPAlink|x}}<br />{{IPAlink|ɣ}}
+| {{IPA|xʲ}}<br />{{IPA|ɣʲ}}
+|-
+! <small>[[Approximant consonant|Approximant]]</small>
+|
+|
+| {{IPAlink|ɫ}}
+| {{IPA|lʲ}}
+|
+|
+| {{IPAlink|j}}
+|
+|
+|-
+! <small>[[Trill consonant|Trill]]</small>
+|
+|
+| {{IPAlink|r}}
+| {{IPA|rʲ}}
+|
+|
+|
+|
+|
+|}
+
+Russian is notable for its distinction based on [[Palatalization (phonetics)|palatalization]] of most of its consonants. While {{IPA|/k, ɡ, x/}} do have palatalized [[allophone]]s {{IPA|[kʲ, ɡʲ, xʲ]}}, only {{IPA|/kʲ/}} might be considered a phoneme, though it is marginal and generally not considered distinctive. The only native [[minimal pair]] that argues for {{IPA|/kʲ/}} being a separate phoneme is {{lang|ru|это {{wikt-lang|ru|ткать|ткёт}}}} ({{IPA|[ˈɛtə tkʲɵt]}} ''eto tkyot'' - "it weaves"){{snd}}{{lang|ru|этот {{wikt-lang|ru|кот}}}} ({{IPA|[ˈɛtət kot]}}, ''etot kot'' - "this cat"). Palatalization means that the center of the tongue is raised during and after the articulation of the consonant. In the case of {{IPA|/tʲ/}} and {{IPA|/dʲ/}}, the tongue is raised enough to produce slight frication (affricate sounds; cf. Belarusian ць, дзь, or Polish ć, dź). The sounds {{IPA|/t, d, ts, s, z, n, rʲ/}} are [[dental consonant|dental]], that is, pronounced with the tip of the tongue against the teeth rather than against the [[alveolar ridge]].
+
+=== Vowels ===
+{| class="wikitable" style="text-align: center; float: left; margin-right: 1em;"
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! style="text-align: left;" | [[Close vowel|Close]]
+| style="font-size:120%" | {{IPA link|i}}
+| style="font-size:120%" | ({{IPA link|ɨ}})
+| style="font-size:120%" | {{IPA link|u}}
+|-
+! style="text-align: left;" | [[Mid vowel|Mid]]
+| style="font-size:120%" | {{IPA link|e̞|e}}
+|
+| style="font-size:120%" | {{IPA link|o̞|o}}
+|-
+! style="text-align: left;" | [[Open vowel|Open]]
+|
+| style="font-size:120%" | {{IPA link|ä|a}}
+|
+|}
+
+[[File:Russian vowel chart.svg|thumb|Russian vowel chart by {{Harvcoltxt|Jones|Trofimov|1923|p=55}}.]]
+
+Russian has five or six vowels in stressed syllables, {{IPA|/i, u, e, o, a/}} and in some analyses {{IPA|/ɨ/}}, but in most cases these vowels have merged to only two to four vowels when unstressed: {{IPA|/i, u, a/}} (or {{IPA|/ɨ, u, a/}}) after hard consonants and {{IPA|/i, u/}} after soft ones.
+
+== Grammar ==
+{{Main|Russian grammar}}
+
+{{expand section|date=August 2014}}
+
+Russian has preserved an [[Indo-European languages|Indo-European]] [[Synthetic language|synthetic]]-[[inflection]]al structure, although considerable [[Morphological levelling|levelling]] has taken place.
+Russian grammar encompasses:
+* a highly [[Fusional language|fusional]] '''morphology'''
+* a '''syntax''' that, for the literary language, is the conscious fusion of three elements:<ref>Can Russians from different locations of the country https://www.rbth.com/education/328851-dialects-russian-language/amp</ref>
+** a polished [[vernacular]] foundation;{{clarify|What is this supposed to mean?|date=August 2014}}
+** a [[Church Slavonic language|Church Slavonic]] inheritance;
+** a [[Western Europe]]an style.{{clarify|What is this supposed to mean?|date=August 2014}}
+
+The spoken language has been influenced by the literary one but continues to preserve characteristic forms. The dialects show various non-standard grammatical features,<ref>{{Cite web|url=https://www.rbth.com/education/328851-dialects-russian-language/amp|title=Can Russians from different parts of the country understand each other?|website=www.rbth.com|access-date=16 February 2020}}</ref> some of which are archaisms or descendants of old forms since discarded by the literary language.
+
+The [[Church Slavonic language]] (not to be confused with [[Old Church Slavonic]] which was introduced during the [[Christianization of Kievan Rus'|Christianization of the Kievan Rus']]  in the 10th century) was introduced to [[Grand Duchy of Moscow|Moskovy]] in the late 15th century and was adopted as official language for correspondence for convenience. Firstly with the newly conquered southwestern regions of former Kyivan Rus and [[Grand Duchy of Lithuania]], later, when Moskovy cut its ties with the [[Golden Horde]], for communication between all newly consolidated regions of [[Grand Duchy of Moscow|Moskovy]].
+
+In terms of actual grammar, there are three [[tenses]] in Russian - past, present, and future - and each verb has two [[Grammatical aspect in Slavic languages|aspects]] (perfective and imperfective). Russian nouns each have a gender - either feminine, masculine, or neuter, indicated by spelling at the end of the word. Words change depending on both their gender and function in the sentence. Russian has six [[Grammatical case|cases]]: Nominative (for the subject of the sentence), Accusative (for direct objects), Dative (for indirect objects), Genitive (to indicate possession), Instrumental (to indicate 'with' or 'by means of'), and Prepositional (used after a preposition). Verbs of motion in Russian - such as 'go', 'walk', 'run', 'swim', and 'fly' - use the imperfective or perfective form to indicate a single or return trip, and also use a multitude of [[prefix]]es to add more meaning to the verb.
+
+== Vocabulary ==
+[[File:Karion Istomin's alphabet P.jpg|thumb|This page from an "ABC" book printed in Moscow in 1694 shows the letter '''[[П]]'''.]]
+
+See [[History of the Russian language]] for an account of the successive foreign influences on Russian.
+
+The number of listed words or entries in some of the major dictionaries published during the past two centuries, and the total vocabulary of [[Alexander Pushkin]] (who is credited with greatly augmenting and codifying literary Russian), are as follows:<ref>[http://www.gramota.ru/slovari/types/17_26 ''What types of dictionaries exist?''] {{webarchive|url=https://web.archive.org/web/20120117151535/http://www.gramota.ru/slovari/types/17_26 |date=17 January 2012 }} from www.gramota.ru {{in lang|ru}}</ref><ref>{{Cite web|url=http://yarus.asu.edu.ru/?id=426|archive-url=https://web.archive.org/web/20120112125045/http://www.yarus.aspu.ru/?id=426|url-status=dead|title={section.caption}|archive-date=12 January 2012|website=yarus.asu.edu.ru|access-date=16 February 2020}}</ref>
+
+{| class="wikitable"  style="margin:auto; text-align:left;"
+|-
+! Work||Year||Words||Notes
+|-
+|Academic dictionary, I Ed.||1789–1794||43,257||Russian and Church Slavonic with some Old Russian vocabulary.
+|-
+|Academic dictionary, II Ed||1806–1822||51,388||Russian and Church Slavonic with some Old Russian vocabulary.
+|-
+|Dictionary of Pushkin's language||1810–1837
+||>21,000||The dictionary of virtually all words from his works was published in 1956–1961. Some consider his works to contain 101,105.<ref>{{cite web|author=На Небесах|date=24 March 2010|title=Словарный запас Пушкина...|url=http://www.stihi.ru/2010/03/24/1825|url-status=live|archive-url=https://web.archive.org/web/20130521055319/http://www.stihi.ru/2010/03/24/1825|archive-date=21 May 2013|access-date=18 June 2013|website=Stihi.ru|language=ru}}</ref>
+|-
+|Academic dictionary, III Ed.||1847||114,749||Russian and Church Slavonic with Old Russian vocabulary.
+|-
+|''[[Explanatory Dictionary of the Living Great Russian Language]]'' ([[Vladimir Dahl|Dahl]]'s)||1880–1882||195,844||44,000 entries lexically grouped; attempt to catalogue the full vernacular language. Contains many dialectal, local, and obsolete words.
+|-
+|''[[Explanatory Dictionary of the Russian Language (Ushakov)|Explanatory Dictionary of the Russian Language]]'' ([[Dmitry Ushakov|Ushakov]]'s)||1934–1940||85,289||Current language with some archaisms.
+|-
+|Academic Dictionary of the Russian Language ([[Sergey Ozhegov|Ozhegov]]'s)||1950–1965<br />1991&nbsp;(2nd&nbsp;ed.)
+||120,480||"Full" 17-volumed dictionary of the contemporary language. The second 20-volumed edition was begun in 1991, but not all volumes have been finished.
+|-
+<!-- odd name, how is it called in Russian? |Dictionary and Culture of Russian Speech||1950s–1960s||61,458||More or less than-current language.
+|- -->
+|Lopatin's dictionary||1999–2013||≈200,000||Orthographic, current language, several editions
+|-
+|Great Explanatory Dictionary of the Russian Language||1998–2009||≈130,000||Current language, the dictionary has many subsequent editions from the first one of 1998.
+|-
+|Russian [[Wiktionary]]||3 September 2019||429,738||Number of entries in the category [[wikt:ru:Category:Русский язык|Русский язык (Russian language)]] 
+|}
+
+== History and examples ==
+{{Main|History of the Russian language}}
+{{See also|Reforms of Russian orthography}}
+
+The history of the Russian language may be divided into the following periods:<ref>{{cite book| author = Лопатин В. В., Улуханов И. С. | chapter = Восточнославянские языки. Русский язык| title = Языки мира. Славянские языки |location= М. |year= 2005 |publisher= [[Academia (Soviet publishing house)|Academia]] | pages = 448–450| isbn = 978-5-87444-216-3}}</ref>
+* [[History of the Russian language#Kievan period and feudal breakup|Kievan period and feudal breakup]]
+* [[Early Modern Russian|The Moscow period (15th–17th centuries)]]
+* Standard national language
+
+Judging by the historical records, by approximately 1000 AD the predominant ethnic group over much of modern European [[Russia]], [[Ukraine]], and [[Belarus]] was the Eastern branch of the [[Slavic peoples|Slavs]], speaking a closely related group of dialects. The political unification of this region into [[Kievan Rus']] in about 880, from which modern Russia, Ukraine, and Belarus trace their origins, established [[Old East Slavic]] as a literary and commercial language. It was soon followed by the adoption of [[Christianity]] in 988 and the introduction of the South Slavic [[Old Church Slavonic]] as the liturgical and official language. Borrowings and [[calque]]s from [[Byzantine Greek]] began to enter the Old East Slavic and spoken dialects at this time, which in their turn modified the Old Church Slavonic as well.
+
+[[File:Ostromirovo.jpg|thumb|left|The [[Ostromir Gospels]] of 1056 is the second oldest [[East Slavic languages|East Slavic]] book known, one of many medieval [[illuminated manuscript]]s preserved in the [[Russian National Library]].]]
+Dialectal differentiation accelerated after the breakup of Kievan Rus' in approximately 1100. On the territories of modern Belarus and Ukraine emerged [[Ruthenian language|Ruthenian]] and in modern Russia [[History of the Russian language|medieval Russian]]. They became distinct since the 13th century, i.e. following the division of the land between the [[Grand Duchy of Lithuania]] and the [[Kingdom of Poland (1025–1385)|Poland]] in the west and independent [[Novgorod Republic|Novgorod]] and [[Pskov Republic|Pskov]] feudal republics plus numerous small duchies (which came to be vassals of the [[Tatars]]) in the east.
+
+The official language in Moscow and Novgorod, and later, in the growing Muscovy, was [[Church Slavonic]], which evolved from Old Church Slavonic and remained [[Diglossia|the literary language]] for centuries, until the [[Peter I of Russia#Early reign|Petrine age]], when its usage became limited to biblical and liturgical texts. Russian developed under a strong influence of Church Slavonic until the close of the 17th century; afterward the influence reversed, leading to corruption of liturgical texts.
+
+The political reforms of [[Peter I of Russia|Peter the Great]] (Пётр Вели́кий, ''Pyótr Velíky'') were accompanied by a reform of the alphabet, and achieved their goal of secularization and Westernization. Blocks of specialized vocabulary were adopted from the languages of Western Europe. By 1800, a significant portion of the gentry spoke [[French language|French]] daily, and [[German language|German]] sometimes. Many Russian novels of the 19th century, e.g. [[Leo Tolstoy]]'s (Лев Толсто́й) ''[[War and Peace]]'', contain entire paragraphs and even pages in French with no translation given, with an assumption that educated readers would not need one.
+
+The modern literary language is usually considered to date from the time of [[Alexander Pushkin]] ({{lang|ru|Алекса́ндр Пу́шкин}}) in the first third of the 19th century. Pushkin revolutionized [[Russian literature]] by rejecting archaic grammar and vocabulary (so-called {{lang|ru|высо́кий стиль}} — "high style") in favor of grammar and vocabulary found in the spoken language of the time. Even modern readers of younger age may only experience slight difficulties understanding some words in Pushkin's texts, since relatively few words used by Pushkin have become archaic or changed meaning. In fact, many expressions used by Russian writers of the early 19th century, in particular Pushkin, [[Mikhail Lermontov]] ({{lang|ru|Михаи́л Ле́рмонтов}}), [[Nikolai Gogol]] ({{lang|ru|Никола́й Го́голь}}), [[Aleksander Griboyedov]] ({{lang|ru|Алекса́ндр Грибое́дов}}), became proverbs or sayings which can be frequently found even in modern Russian colloquial speech.
+
+{{Listen|filename=Ru-Zimniy vecher.ogg|title=Winter Evening|description=Reading of excerpt of Pushkin’s "Winter Evening" (Зимний вечер), 1825.|format=[[Ogg]]}}
+
+{|
+! Russian text                           || Pronunciation                              || Transliteration
+|-                                       
+| {{lang|ru|'''Зи́мний ве́чер'''}}         || {{IPA-ru|ˈzʲimnʲɪj ˈvʲetɕɪr|}}             || ''Zímny vécher,''
+|-                                                                                    
+| {{lang|ru|Бу́ря мгло́ю не́бо кро́ет,}}     || {{IPA-ru|ˈburʲə ˈmɡɫoju ˈnʲɛbə ˈkroɪt|}}   || ''Búrya mglóyu nébo króyet,''
+|-                                                                                    
+| {{lang|ru|Ви́хри сне́жные крутя́;}}       || {{IPA-ru|ˈvʲixrʲɪ ˈsʲnʲɛʐnɨɪ krʊˈtʲa|}}    || ''Víkhri snézhnyye krutyá,''
+|-                                                                                    
+| {{lang|ru|То, как зверь, она́ заво́ет,}} || {{IPA-ru|ˈto kaɡ zvʲerʲ ɐˈna zɐˈvoɪt|}}    || ''To, kak zver, oná zavóyet,''
+|-
+| {{lang|ru|То запла́чет, как дитя́,}}     || {{IPA-ru|ˈto zɐˈpɫatɕɪt, kaɡ dʲɪˈtʲa|}}    || ''To zapláchet, kak dityá,''
+|-
+| {{lang|ru|То по кро́вле обветша́лой}}    || {{IPA-ru|ˈto pɐˈkrovlʲɪ ɐbvʲɪtˈʂaɫəj|}}    || ''To po króvle obvetsháloy''
+|-
+| {{lang|ru|Вдруг соло́мой зашуми́т,}}     || {{IPA-ru|ˈvdruk sɐˈɫoməj zəʂʊˈmʲit|}}      || ''Vdrug solómoy zashumít,''
+|-
+| {{lang|ru|То, как пу́тник запозда́лый,}} || {{IPA-ru|ˈto ˈkak ˈputʲnʲɪɡ zəpɐˈzdaɫɨj|}} || ''To, kak pútnik zapozdály''
+|-
+| {{lang|ru|К нам в око́шко застучи́т.}}   || {{IPA-ru|ˈknam vɐˈkoʂkə zəstʊˈtɕit|}}      || ''K nam v okóshko zastuchít.''
+|}
+
+The political upheavals of the early 20th century and the wholesale changes of political ideology gave written Russian its modern appearance after the [[Reforms of Russian orthography|spelling reform of 1918]]. Political circumstances and Soviet accomplishments in military, scientific, and technological matters (especially [[cosmonaut]]ics), gave Russian a worldwide prestige, especially during the mid-20th century.
+
+During the [[Soviet Union|Soviet]] period, the policy toward the languages of the various other ethnic groups fluctuated in practice. Though each of the constituent republics had its own official language, the unifying role and superior status was reserved for Russian, although it was declared the [[official language]] only in 1990.<ref>[http://legal-ussr.narod.ru/data01/tex10935.htm "Закон СССР от 24 April 1990 О языках народов СССР"] {{webarchive|url=https://web.archive.org/web/20160508201331/http://legal-ussr.narod.ru/data01/tex10935.htm |date=8 May 2016 }} (The 1990 USSR Law about the Languages of the USSR) {{in lang|ru}}</ref> Following the [[Dissolution of the Soviet Union|break-up of the USSR]] in 1991, several of the newly independent states have encouraged their native languages, which has partly reversed the privileged status of Russian, though its role as the language of post-Soviet national discourse throughout the region has continued.
+
+The Russian language in the world declined after 1991 due to the collapse of the Soviet Union and decrease in the number of [[Russians]] in the world and diminution of the total population in [[Russia]] (where Russian is an official language), however this has since been reversed.<ref name="demoscope.ru" /><ref name=autogenerated20130215-1 /><ref name="Mof.gov.cy">{{cite web|date=23 May 2012|title=журнал "Демоскоп". Где есть потребность в изучении русского языка|url=http://demoscope.ru/weekly/2008/0329/tema04.php|url-status=live|archive-url=https://web.archive.org/web/20130405005201/http://demoscope.ru/weekly/2008/0329/tema04.php|archive-date=5 April 2013|access-date=18 June 2013|website=Mof.gov.cy|language=ru}}</ref>
+
+{| class="wikitable" style="width: 620px; margin: auto; margin: auto;"
+|+ Recent estimates of the total number of speakers of Russian
+! Source || Native speakers || Native rank || Total speakers || Total rank
+|-
+| G. Weber, "Top Languages",<br />''Language Monthly'',<br />3: 12–18, 1997, ISSN 1369-9733 || 160,000,000 || 8 || 285,000,000 || 5
+|-
+| World Almanac (1999) || 145,000,000 || 8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2005) || 275,000,000 || 5
+|-
+| SIL (2000 WCD) || 145,000,000 || 8 || 255,000,000 || 5–6 (tied with [[Arabic language|Arabic]])
+|-
+| CIA World Factbook (2005) || 160,000,000 || 8 ||  ||
+|}
+
+According to figures published in 2006 in the journal "[[:ru:Демоскоп Weekly|Demoskop Weekly]]" research deputy director of Research Center for Sociological Research of the [[Ministry of Education and Science (Russia)]] Arefyev A. L.,<ref>{{cite web|last=Арефьев|first=А. Л|script-title=ru:Сведения об авторе|url=http://www.socioprognoz.ru/index.php?page_id=80&id=2|url-status=live|archive-url=https://web.archive.org/web/20130511073946/http://www.socioprognoz.ru/index.php?page_id=80&id=2|archive-date=11 May 2013|access-date=18 June 2013|publisher=Socioprognoz.ru|language=ru}}</ref> the Russian language is gradually losing its position in the world in general, and in Russia in particular.<ref name="autogenerated20130215-1">{{cite web|last=Арефьев|first=А.|script-title=ru:Меньше россиян — меньше русскоговорящих|url=http://www.demoscope.ru/weekly/2006/0251/tema04.php|url-status=live|archive-url=https://web.archive.org/web/20130308114712/http://www.demoscope.ru/weekly/2006/0251/tema04.php|archive-date=8 March 2013|access-date=18 June 2013|publisher=Demoscope.ru|language=ru}}</ref><ref>{{cite web|last=Арефьев|first=А.|script-title=ru:В странах Азии, Африки и Латинской Америки наш язык стремительно утрачивает свою роль|url=http://www.demoscope.ru/weekly/2006/0251/tema03.php|url-status=live|archive-url=https://web.archive.org/web/20130308100454/http://www.demoscope.ru/weekly/2006/0251/tema03.php|archive-date=8 March 2013|access-date=18 June 2013|publisher=Demoscope.ru|language=ru}}</ref><ref name="autogenerated2">{{cite web|last=Арефьев|first=А.|script-title=ru:Будет ли русский в числе мировых языков в будущем?|url=http://www.demoscope.ru/weekly/2006/0251/tema05.php|url-status=live|archive-url=https://web.archive.org/web/20130512104646/http://demoscope.ru/weekly/2006/0251/tema05.php|archive-date=12 May 2013|access-date=18 June 2013|publisher=Demoscope.ru|language=ru}}</ref><ref>{{cite web|last=Арефьев|first=А.|script-title=ru:Падение статуса русского языка на постсоветском пространстве|url=http://www.demoscope.ru/weekly/2006/0251/tema01.php|url-status=live|archive-url=https://web.archive.org/web/20130308114703/http://www.demoscope.ru/weekly/2006/0251/tema01.php|archive-date=8 March 2013|access-date=18 June 2013|publisher=Demoscope.ru|language=ru}}</ref> In 2012, A. L. Arefyev published a new study "Russian language at the turn of the 20th-21st centuries", in which he confirmed his conclusion about the trend of weakening of the Russian language after the Soviet Union's collapse in various regions of the world (findings published in 2013 in the journal "[[:ru:Демоскоп Weekly|Demoskop Weekly]]").<ref name="demoscope.ru" /><ref>{{cite web|script-title=ru:Все меньше школьников обучаются на русском языке|url=http://demoscope.ru/weekly/2013/0571/tema03.php|url-status=live|archive-url=https://web.archive.org/web/20140805082906/http://demoscope.ru/weekly/2013/0571/tema03.php|archive-date=5 August 2014|access-date=23 April 2014|publisher=Demoscope.ru|language=ru}}</ref><ref>{{cite web|script-title=ru:Русский Язык На Рубеже Xx-Ххi Веков|url=http://demoscope.ru/weekly/2013/0571/biblio01.php|url-status=live|archive-url=https://web.archive.org/web/20140201203021/http://demoscope.ru/weekly/2013/0571/biblio01.php|archive-date=1 February 2014|access-date=23 April 2014|publisher=Demoscope.ru|language=ru}}</ref><ref name=autogenerated20130213-1>[http://www.civisbook.ru/files/File/russkij_yazyk.pdf Русский язык на рубеже XX-XXI веков] {{webarchive|url=https://web.archive.org/web/20130615042230/http://www.civisbook.ru/files/File/russkij_yazyk.pdf |date=15 June 2013 }} — М.: Центр социального прогнозирования и маркетинга, 2012. — 482 стр.</ref> In the countries of the former [[Soviet Union]] the Russian language was being replaced or used in conjunction with local languages.<ref name="demoscope.ru" /><ref>{{cite web|script-title=ru:журнал "Демоскоп". Русский язык — советский язык?|url=http://demoscope.ru/weekly/2008/0329/tema01.php|url-status=live|archive-url=https://web.archive.org/web/20130402125223/http://demoscope.ru/weekly/2008/0329/tema01.php|archive-date=2 April 2013|access-date=18 June 2013|website=Demoscope.ru|language=ru}}</ref> Currently, the number of speakers of Russian in the world depends on the number of [[Russians]] in the world and total population in [[Russia]].<ref name="demoscope.ru" /><ref name=autogenerated20130215-1 /><ref name="Mof.gov.cy" />
+
+{| class="wikitable" style="width: 620px; margin: auto; margin: auto;"
+|+ The changing proportion of Russian speakers in the world (assessment Aref'eva 2012)<ref name="demoscope.ru" /><ref name=autogenerated20130213-1 />{{rp|387}}
+! Year || worldwide population, million || population Russian Empire, Soviet Union and Russian Federation, million || share in world population, % || total number of speakers of Russian, million || share in world population, %
+|-
+| 1900 || 1,650 || 138.0 || 8.4 || 105 || 6.4
+|-
+| 1914 || 1,782 || 182.2 || 10.2 || 140 || 7.9
+|-
+| 1940 || 2,342 || 205.0 || 8.8 || 200 || 7.6
+|-
+| 1980 || 4,434 || 265.0 || 6.0 || 280 || 6.3
+|-
+| 1990 || 5,263 || 286.0 || 5.4 || 312 || 5.9
+|-
+| 2004 || 6,400 || 146.0 || 2.3 || 278 || 4.3
+|-
+| 2010 || 6,820 || 142.7 || 2.1 || 260 || 3.8
+|}
+
+== See also ==
+{{Portal|Russia|Soviet Union|Language}}
+* [[List of English words of Russian origin]]
+* [[List of Russian language topics]]
+* [[List of territorial entities where Russian is an official language]]
+* [[Computer Russification]]
+
+== Notes ==
+{{NoteFoot}}
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+{{col-begin}}
+{{col-2}}
+; In English
+{{refbegin}}
+* M.A. O'Brien, New English–Russian and Russian–English Dictionary (New Orthography), New York, The Language Library 1944, Dover Publications.
+* {{cite book |last1= Comrie |first1 = Bernard S. |author1-link = Bernard Comrie |last2 = Stone |first2 = Gerald |last3 = Polinsky |first3 = Maria |title = The Russian Language in the Twentieth Century |edition=2nd |location = Oxford, England |publisher=[[Oxford University Press]] |year=1996 |isbn = 978-0-19-824066-2 |url-access=registration |url = https://archive.org/details/russianlanguagei00comr }}
+* {{cite book |title= Introduction to the Phonological History of the Slavic Languages |last = Carleton |first = T. R. |year=1991 |publisher=Slavica Press |location= Columbus, Ohio }}
+* {{cite book |last=Cubberley |first = P. |title = Russian: A Linguistic Introduction|edition=1st|location=Cambridge, England |publisher=Cambridge University Press |year=2002 |isbn = 978-0-521-79641-5}}
+* [https://www.academia.edu/33192973/THE_RUSSIAN_GENITIVE_OF_NEGATION_AND_ITS_JAPANESE_COUNTERPART Iliev, Iv. The Russian Genitive of Negation and Its Japanese Counterpart. International Journal of Russian Stidies. 1, 2018 (In Print)]
+* {{cite book
+| last1 = Sussex
+| first1 = Roland
+| author1-link = Roland Sussex
+ |last2=Cubberley |first2=Paul
+| title = The Slavic languages
+| publisher = [[Cambridge University Press]]
+| year = 2006
+| location = [[Cambridge]], England
+| isbn = 978-0-521-22315-7
+}}
+* {{cite book
+|last=Timberlake
+|first=Alan
+|title = A Reference Grammar of Russian
+|location=New York, NY
+|publisher=[[Cambridge University Press]]
+|year=2004
+|isbn = 978-0-521-77292-1
+|url = http://www.cambridge.org/gb/academic/subjects/languages-linguistics/european-language-and-linguistics/reference-grammar-russian?format=HB
+}}
+* {{cite book
+| last = Timberlake
+| first = Alan
+| chapter = Russian
+| title = The Slavonic languages
+| publisher = Routledge
+| editor1-last= Comrie
+| editor1-first = Bernard
+| editor2-last= Corbett
+| editor2-first = Greville G.
+| year = 1993
+| location = London, England; New York, NY
+| pages = 827–886
+| isbn = 978-0-415-04755-5
+}}
+* {{cite book |last=Wade|first=Terence |author-link = Terence Wade |editor-last=Holman
+|editor-first=Michael |title = A Comprehensive Russian Grammar |edition=2nd |location=Oxford, England |publisher=[[Blackwell Publishing]] |year=2000 |isbn = 978-0-631-20757-3 }}
+{{refend}}
+
+{{col-2}}
+; In Russian
+{{refbegin}}
+* [http://demoscope.ru/weekly/2013/0571/tema02.php журнал «Демоскоп Weekly» № 571 – 572 14 – 31 октября 2013. А. Арефьев. Тема номера: сжимающееся русскоязычие. Демографические изменения - не на пользу русскому языку]
+* [http://www.civisbook.ru/files/File/russkij_yazyk.pdf Русский язык на рубеже XX-XXI веков] — М.: Центр социального прогнозирования и маркетинга, 2012. — 482 стр. Аннотация книги в [http://demoscope.ru/weekly/2013/0571/biblio01.php РУССКИЙ ЯЗЫК НА РУБЕЖЕ XX-XXI ВЕКОВ]
+* [http://demoscope.ru/weekly/2008/0329/tema04.php журнал «Демоскоп Weekly» № 329 – 330 14 – 27 апреля 2008. К. Гаврилов. Е. Козиевская. Е. Яценко. Тема номера: русский язык на постсоветских просторах. Где есть потребность в изучении русского языка]
+* [http://www.demoscope.ru/weekly/2006/0251/tema05.php журнал «Демоскоп Weekly» № 251 – 252 19 июня - 20 августа 2006. А. Арефьев. Тема номера: сколько людей говорят и будут говорить по-русски? Будет ли русский в числе мировых языков в будущем?]
+* Жуковская Л. П. (отв. ред.) Древнерусский литературный язык и его отношение к старославянскому. — М.: «Наука», 1987.
+* Иванов В. В. Историческая грамматика русского языка. — М.: «Просвещение», 1990.
+* Новиков Л. А. Современный русский язык: для высшей школы. -— М.: Лань, 2003.
+* Филин Ф. П. [http://www.philology.ru/linguistics2/filin-82.htm О словарном составе языка Великорусского народа.] // Вопросы языкознания. — М., 1982, No. 5. — С. 18—28
+{{refend}}
+{{col-end}}
+
+== External links ==
+{{Sister project links|Russian language|Russian derivation|wikt=Category:Russian language|voy=Russian phrasebook}}
+{{InterWiki |code = ru }}
+* {{Wiktionary-inline|Appendix:Russian Swadesh list}}
+* Oxford Dictionaries [http://www.oxforddictionaries.com/ru/ Russian Dictionary]
+* {{curlie|Science/Social_Sciences/Linguistics/Languages/Natural/Indo-European/Slavic/Russian|Russian Language}}
+* [https://www.livelingua.com/fsi-russian-course.php USA Foreign Service Institute Russian basic course]
+* [http://www.spanishenglish.com/russian-translation.html Free English to Russian Translation]
+* [http://context.reverso.net/translation/ Translation of Russian expressions and phrases]
+* [https://www.youtube.com/playlist?list=PLF2F566484C119BF4 Russian – YouTube]: playlist of (mostly half-hour-long) video lessons from Dallas Schools Television
+* [http://wikitranslate.org/wiki/Russian Free Online Russian Language WikiTranslate Video Course]
+* [http://www.ruscorpora.ru/ Национальный корпус русского языка] National Corpus of the Russian Language {{in lang|ru}}
+* [http://www.ruslang.ru/ Russian Language Institute] Language regulator of the Russian language {{in lang|ru}}
+* [http://getrussia.com/articles/russian_around_the_globe/ Top 7 foreign universities where studied Russian language]
+
+{{Russian language |state = uncollapsed }}
+{{navboxes
+|list =
+{{Russian dialects}}
+{{Slavic languages}}
+{{Languages of Russia}}
+{{Languages of Belarus}}
+{{Languages of Kazakhstan}}
+{{Languages of Kyrgyzstan}}
+{{Languages of Israel}}
+{{Russia topics}}
+{{Soviet Union topics}}
+}}
+
+{{Authority control}}
+
+[[Category:Russian language| ]]
+[[Category:East Slavic languages]]
+[[Category:Soviet culture]]
+[[Category:Languages of Russia]]
+[[Category:Stress-timed languages]]
+[[Category:Subject–verb–object languages]]
+[[Category:Languages written in Cyrillic script]]

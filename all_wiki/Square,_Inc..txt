@@ -1,0 +1,245 @@
+{{short description|American financial services company}}
+{{About|the electronic payment service|the video game company|Square (video game company)}}
+{{Redirect|Square Up|the Blackpink EP|Square Up (EP)}}{{Infobox website
+| name = Square, Inc.
+| logo = Square, Inc. logo.svg
+| logo_size = 220px
+| company_type = [[Public company|Public]]
+| traded_as = {{ubl|class=nowrap
+ | {{NYSE|SQ}} (Class A)
+ | [[Russell 1000 Index|Russell 1000 Component]]}}
+| foundation = {{Start date and age|2009|2}}, [[St. Louis]], [[Missouri]]
+| location_city = [[San Francisco]], [[California]]
+| location_country = [[United States]]
+| owner = Jack Dorsey (24.4%)
+| area_served = United States, [[Canada]], [[Australia]], [[Japan]], [[United Kingdom]]
+| founder = {{ubl|class=nowrap
+ | [[Jack Dorsey]]<ref>{{Cite web |last=Clifford |first=Catherine |date=2020-05-21 |title=Twitter billionaire Jack Dorsey on giving away his money: 'If someone is in pain, I am in pain' |url=https://www.cnbc.com/2020/05/21/twitter-ceo-jack-dorsey-on-giving-away-his-billions.html |access-date=2020-06-03 |website=CNBC |language=en}}</ref>
+ | [[Jim McKelvey]]
+ | Tristan O’Tierney}}
+| key_people = {{ubl|class=nowrap
+ | Jack Dorsey {{small|([[Chairman]], [[Chief executive officer|CEO]])}}
+ | Jim McKelvey {{small|([[Director (corporation)|Director]])}}
+ | Amrita Ahuja {{small|([[Chief financial officer|CFO]])}}}}
+| industry = {{ubl|[[Financial services]]|[[Mobile Payment]]|[[Point of sale]]}}
+| products = Point of sale terminals and auxiliary equipment
+| revenue = {{nowrap|{{increase}} {{US$|link=yes}}4.70 billion (2019)}}
+| operating_income = {{nowrap|{{increase}} US$26.56 million (2019)}}
+| net_income = {{nowrap|{{increase}} US$375.45 million (2019)}}
+| assets = {{nowrap|{{increase}} US$4.55 billion (2019)}}
+| equity = {{nowrap|{{increase}} US$1.71 billion (2019)}}
+| num_employees = 3,835 (2019)
+| subsidiaries = [[Weebly]]
+| url = {{URL|https://squareup.com}}
+| launch_date = {{start date and age|2010|5|11}}
+| native_clients = [[Android (operating system)|Android]], [[iPad]], [[iPhone]]
+| footnotes = <ref name="10K2018">{{Cite web |date=February 26, 2020 |title=Square, Inc. Annual Form 10-K (2019) |url=https://www.sec.gov/Archives/edgar/data/1512673/000151267316000002/a10-kfilingsquareinc2015.htm |access-date=April 9, 2019 |publisher=[[U.S. Securities and Exchange Commission]]}}</ref><ref name="OTierney">{{Cite web |date=March 2, 2019 |title=Square Inc. Co-Founder Tristan O'Tierney Dies at 35 |url=https://www.bloomberg.com/news/articles/2019-03-02/square-inc-co-founder-tristan-o-tierney-dies-at-35 |access-date=March 5, 2019 |publisher=[[Bloomberg News]]}}</ref><ref name="Square debuts with symbol: SQ">{{Cite web |date=19 November 2015 |title=Wall Street Breakfast: Square, Match Group Ready For Market Debut |url=http://seekingalpha.com/article/3698096-wall-street-breakfast-square-match-group-ready-for-market-debut |access-date=19 November 2015 |publisher=Seeking Alpha}}</ref><ref>{{Cite web |date=October 11, 2013 |title=Inside Square's Massive New San Francisco Headquarters |url=http://mashable.com/2013/10/11/square-headquarters/ |access-date=June 10, 2015 |publisher=Mashable}}</ref>
+}}
+
+'''Square, Inc.'''  is an American [[financial services]], [[merchant account provider|merchant services aggregator]], and [[mobile payment]] company based in [[San Francisco]], [[California]]. The company markets software and hardware payments products and has expanded into small business services. The company was founded in 2009 by [[Jack Dorsey]] and [[Jim McKelvey]] and launched its first app and service in 2010. It has been traded as a public company on the [[New York Stock Exchange]] since November 2015 with the ticker symbol SQ.
+
+==History==
+The original inspiration for Square occurred to [[Jack Dorsey]] in 2009 when [[Jim McKelvey]] (a friend of Dorsey) was unable to complete a $2,000 sale of his glass faucets and fittings because he could not accept credit cards.<ref>{{Cite web |date=May 11, 2010 |title=Square Brings Credit Card Swiping to the Mobile Masses, Starting Today |url=http://www.fastcompany.com/1643271/square-brings-credit-card-swiping-mobile-masses-starting-today |access-date=September 19, 2011 |website=Fast Company}}</ref>
+
+Co-founders Dorsey—who also co-founded [[Twitter]]—and McKelvey began developing the company out of a small office in St. Louis.<ref>{{Cite web |date=2015-09-15 |title=Why Square's New Office Is A Really Big Deal for St. Louis |url=https://www.stlmag.com/news/why-square-new-office-is-a-really-big-deal-for-st-louis/ |publisher=stlmag.com}}</ref>
+
+The name "Square" derives from the company's square-shaped card readers.<ref>{{Cite web |date=2011-05-26 |title=Square's name and design were changed by a lunch at Apple |url=https://thenextweb.com/apple/2011/05/26/squares-name-and-design-were-changed-by-a-lunch-at-apple/ |access-date=September 19, 2011 |publisher=thenextweb.com}}</ref><ref>{{Cite web |date=May 26, 2011 |title=Square Was Almost Named Squirrel Until Dorsey Talked To Apple |url=http://pulse2.com/2011/05/26/square-was-almost-named-squirrel-until-dorsey-talked-to-apple/ |access-date=September 19, 2011 |publisher=pulse2.com}}</ref>
+
+In October 2020, Square put approximately 1% of their total assets ($50 million) in [[bitcoin]], citing "potential to be a more ubiquitous currency in the future" as their main reasoning.<ref>{{Cite web |last=Business |first=Oliver Effron, CNN |title=Square just bought $50 million in bitcoin |url=https://www.cnn.com/2020/10/08/business/square-bitcoin-crypto-investment/index.html |access-date=2020-10-22 |website=CNN}}</ref>
+
+==Products==
+
+===Devices===
+
+====Square Reader====
+[[File:Square (4439682573).jpg|thumb|350px|In 2010, the Square device communicated with the Square app through the phone's audio jack.]]
+
+The Square Reader was the firm's first product. It accepts credit card payments by connecting to a mobile device's audio jack. The original version consisted of a simple read head directly wired to a 3.5&nbsp;mm audio jack, through which unencrypted, analog card information was fed to smartphones for amplification and digitization.<ref>{{Cite web |title=Inside the Square Reader |url=http://proteanpayment.org/?p=45 |url-status=dead |archive-url=https://web.archive.org/web/20120822034147/http://proteanpayment.org/?p=45 |archive-date=August 22, 2012 |publisher=Protean Payment |df=mdy-all}}</ref>
+
+In April 2012, rival payment company [[Verifone]] claimed that the Square system at the time was insecure and that a reasonably skilled programmer could write a replacement app which could use the Square device to [[Automated teller machine#Card fraud|skim]] a credit card and return its details, because of the lack of encryption. VeriFone posted a demonstration video and sample skimming app to its web site.<ref>{{Cite news |last=Hsu, Tiffany |date=March 9, 2011 |title=Square's mobile credit card reader easily hacked, says VeriFone |work=Los Angeles Times |url=http://latimesblogs.latimes.com/technology/2011/03/squares-mobile-credit-card-reader-easily-hacked-says-verifone.html |access-date=March 11, 2011}}</ref> Dorsey called VeriFone's claims "neither fair nor accurate", noting that all card data can also be compromised by visually examining the card and that even if there were a compromise, card issuers offered fraud protection.<ref>{{Cite news |last=Olivarez-Giles, Nathan |date=March 10, 2011 |title=Square answers VeriFone's accusations on security of mobile credit card reader |work=Los Angeles Times |url=http://latimesblogs.latimes.com/technology/2011/03/square-answers-verifones-accusations-on-security-of-mobile-credit-card-reader.html |access-date=March 11, 2011}}</ref>
+
+Square now uses [[Strong cryptography|strong encryption]] on its devices,<ref name="squareup1">{{Cite web |title=Square - Security |url=https://squareup.com/security |access-date=September 19, 2011 |publisher=Squareup.com}}</ref> and neither card numbers, nor magnetic stripe data, nor security codes are stored on Square client devices.<ref name="squareup1" /> The current technology is Payment Card Industry Data Security Standard ([[Payment Card Industry Data Security Standard|PCI]]) compliant and [[Verisign]] certified.<ref name="squareup1" />
+
+In July 2014, ahead of the October 2015 [[EMV]] liability shift, the firm announced a card reader that would accept [[Smart card|chip cards]] and contactless cards to supplement the standard Reader's support of traditional [[magnetic stripe card]] transactions.<ref>{{Cite news |last=Marcus Wohlsen |date=July 30, 2014 |title=Square Bets Big on Next-Gen Credit Card Tech |work=Wired |url=https://www.wired.com/2014/07/exclusive-square-bets-big-on-next-gen-credit-card-tech}}</ref> In June 2015, Apple announced Square would release a new Reader capable of also accepting [[Apple Pay]] and other contactless payments.<ref>{{Cite news |last=Natt Garun |date=June 8, 2015 |title=Square will launch its Apple Pay-compatible wireless reader this fall |work=Next Web |url=https://thenextweb.com/gadgets/2015/06/08/square-will-launch-its-apple-pay-compatible-wireless-reader-this-fall/}}</ref> In August 2018, Square released a version of its [[Magnetic stripe card|magstripe]] reader with a [[lightning (connector)|Lightning]] connector, allowing it to be used on [[iPhone]]s without a headphone jack.<ref>{{Cite news |last=Fingas |first=Jon |date=29 August 2018 |title=Square finally has a Lightning card reader for newer iPhones |work=[[Engadget]] |url=https://www.engadget.com/2018/08/29/square-finally-has-a-lightning-card-reader-for-newer-iphones/ |access-date=29 August 2018}}</ref>
+
+====Other devices====
+[[File:Square Stand POS.jpg|thumb|Square Stand at a coffee shop turned around for the customer to choose a tipping option]]
+
+In June 2013, the firm unveiled Square Stand, which turns the [[iPad|Apple iPad]] into a more complete [[Point-of-sale|point-of-sale system]].<ref>Terdiman, Daniel. [http://news.cnet.com/8301-1023_3-57589055-93/at-square-an-obsession-with-the-magic-of-hardware-design/ “At Square, an obsession with the 'magic' of hardware design”], [[CNET]], June 13, 2013.</ref> In 2015, Square launched a [[bluetooth]]-connected reader that works for [[Android (operating system)|Android]] and iOS devices to accept chip and contactless payments through their platform.<ref>{{Cite news |title=Square Will Launch An Apple Pay-Ready NFC And Card Chip Reader This Fall |language=en-US |work=TechCrunch |url=https://techcrunch.com/2015/06/08/square-apple-pay/ |access-date=2018-10-19}}</ref> In October 2017, a standalone point-of-sale system, Square Register, was announced for small to medium-sized businesses.<ref>{{Cite news |last=Yurieff |first=Kaya |date=30 October 2017 |title=Square unveils cash register of the future |work=[[CNNMoney]] |url=https://money.cnn.com/2017/10/30/technology/square-register/index.html |access-date=31 October 2017}}</ref> It consists of a merchant tablet and a customer tablet, with a built-in swipe, chip, and tap reader.<ref>{{Cite news |last=Liao |first=Shannon |date=30 October 2017 |title=Square made its own payment register |work=[[The Verge]] |publisher=[[Vox Media]] |url=https://www.theverge.com/2017/10/30/16572864/square-register-new-buying-coffee-what-new-tablet |access-date=31 October 2017}}</ref> In October 2018, the company introduced a self-contained Terminal product that features a display, prints receipts, and accepts chip, swipe, and contactless payments.<ref>{{Cite news |date=2018-10-18 |title=Square takes on the clunky old-school payment terminal |language=en-US |work=Fast Company |url=https://www.fastcompany.com/90253151/square-takes-on-the-clunky-old-school-payment-terminal |access-date=2018-10-19}}</ref>
+
+===Services===
+In December 2012, Square began allowing merchants to issue virtual gift cards; a [[QR code]] is scanned from the customer's smartphone to use the funds.<ref>{{Cite news |last=Thomas |first=Owen |date=December 10, 2012 |title=Square Now Offers Gift Cards, Thrusting It Deeper Into The Money Business |work=[[Business Insider]] |url=http://www.businessinsider.com/square-offers-gift-cards-2012-12 |access-date=May 8, 2018}}</ref> Physical gift cards were added in the service in 2014.<ref>{{Cite news |last=McCracken |first=Harry |date=November 18, 2014 |title=Now Square Lets Its Merchants Sell Gift Cards |work=[[Fast Company (magazine)|Fast Company]] |url=https://www.fastcompany.com/3038696/now-square-lets-its-merchants-sell-gift-cards |access-date=May 8, 2018}}</ref>
+
+In 2014, Square launched Square Capital, which offers business financing to merchants using Square.<ref>{{Cite web |date=May 28, 2014 |title=Square's cash advance: Don't call it a loan |url=https://money.cnn.com/2014/05/28/technology/mobile/jack-dorsey-square-capital/ |access-date=May 28, 2014 |publisher=CNN}}</ref>
+
+In 2014, an online booking tool was added to the firm's offerings, allowing small businesses to accept appointments on their website.<ref>{{Cite news |last=Perez |first=Sarah |date=August 11, 2014 |title=Square Targets Small Business With Launch Of Online Booking Tool "Square Appointments" |work=[[TechCrunch]] |url=https://techcrunch.com/2014/08/11/square-targets-small-business-with-launch-of-online-booking-tool-square-appointments/ |access-date=May 8, 2018}}</ref> The service only accepts scheduled appointments based on a service provider's availability, and does not accept restaurant reservations.<ref>{{Cite news |last=Baldwin |first=Roberto |date=August 11, 2014 |title=Square introduces Appointments online scheduling system for small businesses |work=The Next Web |url=https://thenextweb.com/insider/2014/08/11/square-introduces-appointments-system/ |access-date=May 8, 2018}}</ref>
+
+In 2015, the firm launched Square Payroll, a tool for small business owners to process payroll for their employees. The product, available in all 50 states + DC, automatically handles a business's withholdings, payroll payments, and tax filings.<ref>{{Cite web |date=June 30, 2015 |title=Square feels your pain, debuts payroll service |url=http://www.bizjournals.com/sanfrancisco/morning_call/2015/06/square-payroll-processing-service-small-business.html |publisher=San Francisco Business Times}}</ref>
+
+In 2018, Square began allowing merchants to develop custom interfaces for the platform, via an [[application programming interface]].<ref>{{Cite news |last=Kastrenakes |first=Jacob |date=2 August 2018 |title=Square checkout systems can now have custom interfaces |work=[[The Verge]] |publisher=[[Vox Media]] |url=https://www.theverge.com/2018/8/2/17640310/square-custom-checkout-interface-reader-sdk |access-date=5 August 2018}}</ref>
+
+After receiving approval in 2020 from the [[FDIC]] and the Utah Department of Financial Institutions, the company announced plans to launch small business-focused Square Financial Services in 2021, based in [[Salt Lake City]].<ref>{{Cite news |last=Fuscaldo |first=Donna |date=March 18, 2020 |title=Square Gets The Nod To Operate A Bank |work=Forbes |url=https://www.forbes.com/sites/donnafuscaldo/2020/03/18/square-gets-the-nod-to-operate-a-bank/ |access-date=June 21, 2020}}</ref>
+
+====Cash App====
+{{Main|Cash App}}
+
+[[Cash App]] (formerly Square Cash) allows person-to-person money transfer via the app or website. In March 2015, the firm introduced Square Cash for businesses, which includes the ability for individuals, organizations, and business owners to use a unique username, known as a $cashtag, to send and receive money.<ref>{{Cite web |date=March 23, 2015 |title=Square Introduces Square Cash for Businesses, With a Low 1.5 Percent Processing Fee |url=http://recode.net/2015/03/23/square-introduces-square-cash-for-businesses-with-a-low-1-5-percent-processing-fee/ |publisher=Re/code}}</ref> In January 2018, the app expanded to allow users to buy and sell [[bitcoin]].<ref>{{Cite news |last=Tepper |first=Fitz |title=Square Cash expands bitcoin buying and selling to all users |language=en |work=TechCrunch |url=https://techcrunch.com/2018/01/31/square-cash-expands-bitcoin-buying-and-selling-to-all-users/ |access-date=2018-02-02}}</ref> The company issues a [[debit card]] to be used with the account.<ref>{{Cite web |date=February 20, 2019 |title=Square Cash Card Review (2019) |url=https://dyernews.com/square-cash-card-review/ |access-date=December 22, 2019 |website=Dyer News}}</ref> Cash App is currently testing new features to allow users to borrow up to $200.<ref>{{Cite web |title=Square's Cash App tests money borrowing for up to $200 |url=https://social.techcrunch.com/2020/08/12/square-cash-app-borrowing/ |access-date=2020-08-14 |website=TechCrunch |language=en-US}}</ref>
+
+===Caviar restaurant delivery service===
+On August 4, 2014, Square announced the acquisition of Caviar, a startup that delivers meals from high-end restaurants.<ref>{{Cite web |date=August 4, 2014 |title=Square orders in, buying food delivery startup Caviar |url=http://fortune.com/2014/08/04/square-confirms-food-delivery-caviar-acquisition/ |access-date=August 4, 2014 |website=Fortune}}</ref> Caviar uses a fleet of couriers to provide delivery for popular restaurants who do not otherwise deliver.<ref>{{Cite web |date=August 1, 2014 |title=Square Said to Be in Talks to Buy Food Delivery Start-Up Caviar |url=http://bits.blogs.nytimes.com/2014/08/01/square-said-to-be-in-talks-to-buy-food-delivery-start-up-caviar |access-date=August 1, 2014 |website=The New York Times}}</ref> Caviar is currently available in 18 markets in the U.S.<ref>{{Cite press release |title=Caviar Heats Up Miami, Brings the Best Restaurants in the City Straight to Your Door with New Delivery Service |date=April 15, 2015 |publisher=Square |url=https://squareup.com/news/caviar-miami |access-date=April 15, 2015}}</ref> Users can order via the company's iOS or Android app,<ref>{{Cite web |title=Caviar on Android |url=https://play.google.com/store/apps/details?id=com.trycaviar.customer&hl=en |access-date=4 November 2015 |website=Google Play |publisher=Caviar}}</ref> or on Caviar's website.<ref>{{Cite web |title=Caviar |url=https://www.trycaviar.com/san-francisco |access-date=4 November 2015 |website=Caviar Food Delivery |publisher=Caviar}}</ref> In 2016, a class action lawsuit was filed against Square, claiming the company falsely represented that the 18% gratuity charge on each order would be given to the drivers while the drivers did not receive any part of it. In 2018, Square agreed on giving $2.2 million to settle the [[lawsuit]] while denying the claims against them.<ref>{{Cite news |title=Square will pay $2.2 million to settle lawsuit alleging Caviar's tipping option was fake |work=The Verge |url=https://www.theverge.com/2018/6/11/17450266/square-caviar-tipping-option-lawsuit |access-date=2018-06-12}}</ref>
+
+Caviar eventually replaced Square Order, an app which allowed users to make purchases in advance and pick them up at a predetermined time. In March 2015, Square announced that it was shutting down Square Order .<ref>{{Cite web |date=March 13, 2015 |title=Square is shutting down Square Order |url=https://venturebeat.com/2015/03/13/square-is-shutting-down-square-order/ |access-date=March 23, 2014 |website=VentureBeat}}</ref> In 2018, Caviar took a step into corporate catering by acquiring Zesty, a [[San Francisco]]-based catering platform.<ref>{{Cite news |last=Carson |first=Biz |title=Square's Delivery Business Caviar Moves Into Corporate Catering With Acquisition Of Zesty |language=en |work=Forbes |url=https://www.forbes.com/sites/bizcarson/2018/04/19/caviar-acquires-zesty-office-lunch/#3d9803a61ae3 |access-date=2018-04-24}}</ref>
+
+In 2018, the firm launched a subscription service for restaurants. In addition to processing payments, the system can track table locations, tip splitting, and menus.<ref>{{Cite news |last=Verhage |first=Julie |date=May 8, 2018 |title=Square Makes Bigger Push Into $800 Billion Restaurant Industry |work=[[Bloomberg News]] |url=https://www.bloomberg.com/news/articles/2018-05-08/square-makes-bigger-push-into-800-billion-restaurant-industry |access-date=May 8, 2018}}</ref> The system directly integrates with the Square-owned online food-ordering service Caviar, with plans to include other similar services in the future.<ref>{{Cite news |last=Bosa |first=Deirdre |date=May 8, 2018 |title=Square launches a service to run restaurant operations, and suddenly its 'Caviar' acquisition makes sense |work=CNBC |url=https://www.cnbc.com/2018/05/08/square-announces-restaurants-platform.html |access-date=May 8, 2018}}</ref>
+
+On August 1, 2019, it was announced that [[DoorDash]] would acquire the food delivery app Caviar from Square.<ref>{{Cite news |last=Abril |first=Danielle |date=August 1, 2019 |title=Delivery Service DoorDash Bulks Up By Buying Rival Caviar For $410 Million |work=Fortune |url=https://fortune.com/2019/08/01/doordash-buys-caviar/ |access-date=August 2, 2019}}</ref>
+
+==Financials==
+Square received [[Angel investor|angel investments]] from [[Marissa Mayer]], [[Kevin Rose]], [[Biz Stone]], [[Dennis Crowley]], [[Shawn Fanning]], [[MC Hammer]], and [[Esther Dyson]].{{cn|date=November 2019}} Since then, it has raised several additional rounds of funding:
+* Series A funding from [[Khosla Ventures]]{{cn|date=November 2019}}
+* Series B funding from [[Sequoia Capital]]{{cn|date=November 2019}}
+* Series C funding from [[Kleiner Perkins]]{{cn|date=November 2019}}
+* Series D funding from [[Citigroup|Citi Ventures]], Rizvi Traverse Management, and [[Starbucks]]<ref name="seriesD">{{Cite web |last=Square Inc. |date=December 18, 2014 |title=Square A milestone: We're now 1,000 employees strong. |url=https://www.linkedin.com/company/square |access-date=December 18, 2014 |publisher=Linkedin.com}}</ref>
+* Series E funding from [[Goldman Sachs]], Rizvi Traverse Management, and [[GIC Private Limited]]<ref>{{Cite news |last=Isaac |first=Mike |date=October 5, 2014 |title=Square Raises $150 Million at a $6 Billion Valuation |work=The New York Times |url=http://bits.blogs.nytimes.com/2014/10/05/square-raises-150-million-at-a-6-billion-valuation/?_r=0}}</ref>
+
+The company's valuation in October 2014 was $6 billion.<ref>{{Cite news |last=Rao |first=Leena |date=October 5, 2014 |title=Square Closes $150 Million Round At $6 Billion Valuation |work=Fortune |url=https://techcrunch.com/2014/10/05/square-closes-150-round-at-6-billion-valuation/}}</ref>
+
+On November 19, 2015, Square had its IPO on the New York Stock Exchange with an initial valuation of $2.9 billion, down by more than half from its last valuation in October 2014 at $6 billion. Although the firm has yet to make a profit and has lost $420 million since 2012, it has decreased its losses from 44% of revenues to 16% in the six months leading up to its IPO.<ref name="economist_ipo">{{Cite news |date=21 November 2015 |title=Square's IPO: Swiped |publisher=The Economist |url=https://www.economist.com/news/finance-and-economics/21678809-profitless-payment-firm-goes-public-swiped |access-date=20 November 2015}}</ref>
+
+For the fiscal year 2018, Square reported losses of US$38 million, with an annual revenue of US$3.299 billion, an increase of 49.0% over the previous fiscal cycle. Square's shares traded at over $75 per share, and its market capitalization was valued at US$32 billion in November 2018. As of July 2020, the shares traded at over $130 giving it a market cap of more than $55bn, larger than Uber and many of the other highly successful companies that emerged from the 2011-2013 cohort of highly successful Silicon Valley companies (e.g. Airbnb) <ref>{{Cite web |title=Square - 2018 Q4 Shareholder Letter {{!}} SQ |url=https://s21.q4cdn.com/114365585/files/doc_financials/2018/Q4/2018-Q4-Shareholder-Letter-Square.pdf |access-date=2019-03-31 |website=www.squareup.com}}</ref>
+
+{| class="wikitable float-left" style="text-align: right;"
+! Year
+! Revenue<br />in mil. US$
+! Net income<br />in mil. US$
+! Total Assets<br />in mil. US$
+|-
+| 2012
+| 203
+| −85
+| 0
+|-
+| 2013
+| 552
+| −104
+| 318
+|-
+| 2014
+| 850
+| −154
+| 542
+|-
+| 2015
+| 1,267
+| −212
+| 895
+|-
+| 2016
+| 1,709
+| −172
+| 1,211
+|-
+| 2017
+| 2,214
+| −63
+| 2,187
+|-
+| 2018
+| 3,299
+| −38
+| 3,281
+|}
+
+==Business==
+
+===Operations===
+Square was co-founded by [[Twitter]] creator Jack Dorsey.<ref name="aboutsquare">{{Cite web |title=About Square |url=https://squareup.com/about |access-date=March 15, 2011 |publisher=Square Inc.}}</ref> Dorsey also serves as [[chief executive officer]] and Amrita Ahuja serves as [[chief financial officer]].<ref name="aboutsquare" /><ref>{{Cite web |last=Want |first=Selina |date=3 January 2019 |title=Square Names Activision Blizzard's Ahuja as Finance Chief |url=https://www.bloomberg.com/news/articles/2019-01-03/square-names-activision-blizzard-s-amrita-ahuja-as-finance-chief |url-status=live |access-date=2019-01-28 |website=Bloomberg}}</ref>
+
+Square's office is in [[San Francisco]].<ref name="californiahomedesign1">{{Cite web |last=Evangelista |first=Benny |date=October 14, 2013 |title=New offices give Square workers lots of options |url=http://www.sfgate.com/business/article/New-offices-give-Square-workers-lots-of-options-4892854.php |access-date=January 6, 2014 |website=San Francisco Chronicle}}</ref> The firm has more than 3,000 employees.<ref>{{Cite web |title=Square Inc - Company Profile and News - Bloomberg Markets |url=https://www.bloomberg.com/profile/company/SQ:US |access-date=April 15, 2018 |publisher=Bloomberg.com}}</ref>
+
+Square has been available in the United States since 2010 and the company launched in Canada at the end of 2012.<ref>{{Cite news |last=Matt Hartley |date=October 24, 2012 |title=Square launches in Canada |work=[[Financial Post]] |url=http://business.financialpost.com/fp-tech-desk/square-launches-in-canada?__lsa=eca6-41b8 |access-date=October 24, 2012}}</ref> 
+
+In May 2013, the firm announced that its mobile payments service was available in Japan after agreeing to a partnership with [[Sumitomo Mitsui Financial Group|Sumitomo Mitsui Card Corporation]]. The fee for transactions would be 3.25% in Japan.<ref name="Japan">{{Cite news |last=Davies |first=Chris |date=May 23, 2013 |title=Square mobile payments go live in Japan |work=Slash Gear |url=http://www.slashgear.com/square-mobile-payments-go-live-in-japan-23283285/ |access-date=May 23, 2013}}</ref> It launched in the UK in 2017.<ref>{{Cite news |last=David Grossman |date=2 January 2018 |title=Bank branch closures: How one town has coped |work=BBC News |url=https://www.bbc.co.uk/news/business-42541146 |access-date=2 January 2018}}</ref>
+
+In March 2020, Square started operating remotely due to the [[COVID-19 pandemic]]. In May of the same year, Square announced that some of its workers (product, development, etc.) who can operate remotely, would be able to choose to work from home permanently.<ref>{{Cite web |last=Petrin |first=Kae M. |title=Square Adopts Permanent Work-From-Home Policy For Workers In St. Louis, Nationwide |url=https://news.stlpublicradio.org/post/square-adopts-permanent-work-home-policy-workers-st-louis-nationwide |access-date=2020-06-03 |website=news.stlpublicradio.org |language=en}}</ref>
+
+<br />
+
+{{advert|section|date=June 2019}}
+
+===Business model===
+As of March 2013, Square provided its magnetic stripe card readers to users for free.<ref>{{Cite web |title=Free Credit Card Reader |url=https://squareup.com/reader |access-date=July 25, 2012}}</ref> Square charges $99 for Square Stand and $29 for its chip-based Square Reader.<ref>{{Cite web |last=Lunden |first=Ingrid |title=Square Eschews Free, Starts $29 Pre-Orders For Chip-Based Card Readers |url=https://techcrunch.com/2014/11/12/square-emv/ |access-date=November 12, 2014 |publisher=Techcrunch}}</ref> The Square app is also freely downloadable from the [[App Store (iOS)|App Store]] and the [[Google Play]] Store.
+
+Square charges a fee of 2.6% plus $0.10 on every electronically scanned credit card transaction<ref>{{Cite web |title=Square's Fees |url=https://squareup.com/help/us/en/article/5068-square-s-payment-processing-fees-and-pricing}}</ref> or 3.50% plus $0.15 per manually-entered transaction. There are no monthly fees or set-up costs. The firm claims that its costs are, on average, lower than the costs charged by conventional credit card processors.<ref>{{Cite web |title=Square - Pricing |url=https://squareup.com/pricing |access-date=September 19, 2011 |publisher=Squareup.com}}</ref> Swiped payments are deposited directly into a user's bank account within 1-2 business days. In some instances, Square may withhold payments to its users pending issues related to chargebacks.<ref>{{Cite web |last=Fast deposits intoyour bank account. |date=June 25, 2013 |title=Square Merchant Agreement |url=https://squareup.com/legal/ua |access-date=December 5, 2013 |publisher=Squareup.com}}</ref> The firm also generates revenue from selling other services to businesses, including subscription-based products such as [[Customer relationship management|Customer Engagement]], Square Payroll, and Square Register. For example, with Square Payroll, Square charges sellers a monthly fee of $20 plus $5 for each employee paid.<ref>{{Cite web |last=Spector |first=Nicole |title=Square Launches Payroll, Expanding Suite of Services for Small Businesses |url=http://streetfightmag.com/2015/07/02/square-launches-payroll-service-expanding-suite-of-services-for-smbs/ |access-date=July 2, 2015 |publisher=Street Fight}}</ref>
+
+===Growth===
+At the [[TechCrunch]] Disrupt conference in May 2011, Square announced the release of two new apps, Square Card Case (later rebranded as Square Wallet)<ref>{{Cite news |last=Harrison Weber |date=June 13, 2013 |title=Square Wallet for iPhone gets redesigned with a visually-driven UI and streamlined payments |publisher=The Next Web |url=https://thenextweb.com/apps/2013/06/13/square-wallet-for-iphone-gets-redesigned-with-a-visually-driven-ui-and-streamlined-payments/ |access-date=March 11, 2014}}</ref> and Square Register. Square Wallet, before it was removed from the Apple App Store and Google Play Store in 2014, allowed customers to set up a [[invoice|tab]] and pay for their order by providing their name (or a [[QR code|barcode]]) using a stored credit, debit, or gift card.
+
+In August 2012, [[Starbucks]] announced it would use Square to process transactions with customers who pay via debit or credit card.<ref>{{Cite news |last=Miller |first=Claire Cain |date=2012-08-08 |title=Starbucks and Square to Team Up |language=en-US |work=The New York Times |url=https://www.nytimes.com/2012/08/08/technology/starbucks-and-square-to-team-up.html |access-date=2020-05-21 |issn=0362-4331}}</ref> In February 2014, [[Whole Foods Market]] announced it would use Square Register in select stores' sandwich counters, pizzerias and coffee, juice, wine and beer bars.<ref>{{Cite news |title=Whole Foods signs on to use Square |language=en-US |work=Washington Post |url=https://www.washingtonpost.com/business/economy/whole-foods-signs-on-to-use-square/2014/02/14/888f7b4c-933e-11e3-b46a-5a3d0d2130da_story.html |access-date=2020-05-21 |issn=0190-8286}}</ref>
+
+In June 2013, the firm launched Square Market, which allows sellers to create a free online storefront with online payment processing functionality.<ref>{{Cite web |title=Square Market launches, provides easy online storefronts for small businesses |url=https://www.engadget.com/2013-06-26-square-market-launches.html |access-date=2020-05-21 |website=Engadget |language=en}}</ref> In March 2014, the firm announced it will start allowing sellers to accept [[bitcoin]] on their own storefronts through Square Market. The seller will take no risk on bitcoin value fluctuations.<ref>Protalinski, Emil March 31, 2014. TheNextWeb "[https://thenextweb.com/insider/2014/03/31/square-now-lets-sellers-accept-bitcoin-storefronts/?fromcat=all Square now lets sellers accept Bitcoin on their own storefronts]"</ref>
+
+In August 2014, Square secured an investment from Victory Park Capital, an asset management firm, to extend "hundreds of millions of dollars" to small businesses via Square Capital.<ref>{{Cite web |date=August 19, 2014 |title=Square works with Victory Park Capital to extend hundreds of millions of dollars to independent businesses |url=http://www.victoryparkcapital.com/news/news_2014_square_works_with_VPC.shtml |url-status=dead |archive-url=https://web.archive.org/web/20150713220348/http://www.victoryparkcapital.com/news/news_2014_square_works_with_VPC.shtml |archive-date=July 13, 2015 |access-date=July 13, 2015 |publisher=victoryparkcapital.com |df=mdy-all}}</ref> In May 2015, Square secured additional outside investments for Square Capital, with Victory Park Capital tripling its initial investment.<ref>{{Cite web |date=May 12, 2015 |title=Square secures funding from new and existing investors to expand its popular small business financing program |url=https://squareup.com/news/capital-investment |access-date=July 13, 2015 |publisher=squareup.com}}</ref> In its 2016 third-quarter earnings report, Square reported that it had loaned $1 billion to companies through Square Capital since the program's inception.<ref>{{Cite news |last=Yeung |first=Ken |date=1 November 2016 |title=Square has provided more than $1 billion in loans to businesses |url=https://venturebeat.com/2016/11/01/square-has-provided-more-than-1-billion-in-loans-to-businesses/ |access-date=3 November 2016}}</ref> In October 2015, Square Inc. filed an IPO to be listed on the [[New York Stock Exchange]].<ref>{{Cite web |last=Soper |first=Alex Barinka alexbarinka Spencer |title=Square Files for IPO as CEO Dorsey Juggles Twitter Revamp |url=https://www.bloomberg.com/news/articles/2015-10-14/square-files-for-ipo-as-ceo-dorsey-juggles-twitter-revamp |access-date=2015-10-16 |website=Bloomberg.com}}</ref> Shares were priced at $9 on November 18, 2015, and on November 19, 2015, Square officially began trading.<ref name="nypost">{{Cite web |date=2015-11-19 |title=Square shakes off weak IPO with first-day trading pop |url=https://nypost.com/2015/11/19/square-shakes-off-weak-ipo-with-first-day-trading-pop/ |access-date=19 November 2015 |website=New York Post}}</ref>
+
+On April 19, 2018,<ref>{{Cite news |last=Bary |first=Emily |title=Square acquires food-delivery platform Zesty to boost office-catering business |language=en-US |work=MarketWatch |url=https://www.marketwatch.com/story/square-acquires-food-delivery-platform-zesty-to-boost-office-catering-business-2018-04-19 |access-date=2018-04-25}}</ref> Square announced that it had acquired Zesty, a [[food delivery]] service that caters to corporate offices.<ref>{{Cite news |last=Carson |first=Biz |title=Square's Delivery Business Caviar Moves Into Corporate Catering With Acquisition Of Zesty |language=en |work=Forbes |url=https://www.forbes.com/sites/bizcarson/2018/04/19/caviar-acquires-zesty-office-lunch/#760d66f41ae3 |access-date=2018-04-25}}</ref>
+
+On April 26, 2018, Square announced that it would acquire [[Weebly]], a website-building service, for $365 million.<ref>{{Cite news |last=Balakrishnan |first=Anita |date=2018-04-26 |title=Square to buy Weebly for $365 million |work=CNBC |url=https://www.cnbc.com/2018/04/26/square-to-buy-weebly-for-365-million.html |access-date=2018-04-27}}</ref>
+
+As of May 2019, Square announced that it had acquired Eloquent Labs, an artificial intelligence startup helping improve the customer service experience.<ref>{{Cite web |title=Square acquires conversational AI startup Eloquent Labs |url=http://social.techcrunch.com/2019/05/07/square-acquires-conversational-ai-startup-eloquent-labs/ |access-date=2019-05-08 |website=TechCrunch |language=en-US}}</ref>
+
+As of February 2020, Square announced that it had acquired Dessa, a Toronto-based deep learning company.<ref>{{Cite web |date=2020-02-07 |title=Square acquires deepfake research firm Dessa |url=https://venturebeat.com/2020/02/07/square-acquires-deepfakes-research-firm-dessa-labs-for-an-undisclosed-sum/ |access-date=2020-05-21 |website=VentureBeat |language=en-US}}</ref>
+
+==Reception==
+
+===In the media===
+''[[Business Insider]]'' praised the product for its "ease of use, simplicity and elegance". ''Business Insider'' favorably compared Jack Dorsey with [[Steve Jobs]] for what they called his "entrepreneurial vision and charisma".<ref>{{Cite web |last=Dan Frommer |date=June 7, 2011 |title=Jack Dorsey, Apple CEO? Probably Not |url=http://www.businessinsider.com/jack-dorsey-apple-ceo-2011-6 |access-date=September 19, 2011 |publisher=businessinsider.com}}</ref><ref>{{Cite web |date=June 2, 2011 |title=Is Jack Dorsey The New Steve Jobs? |url=http://www.simplyzesty.com/twitter/is-jack-dorsey-the-new-steve-jobs/ |url-status=dead |archive-url=https://web.archive.org/web/20110804184523/http://www.simplyzesty.com/twitter/is-jack-dorsey-the-new-steve-jobs/ |archive-date=August 4, 2011 |access-date=September 19, 2011 |publisher=simplyzesty.com |df=mdy-all}}</ref> The Next Web praised Square's website, squareup.com, for its design and aesthetic appeal.<ref>{{Cite web |date=July 10, 2011 |title=Function is nothing without beauty: 10 sites doing it right |url=https://thenextweb.com/dd/2011/07/10/function-is-nothing-without-beauty-10-sites-doing-it-right/ |access-date=September 19, 2011 |publisher=thenextweb.com}}</ref> The product was also showcased at Apple's [[iPad 2]] event.<ref>{{Cite web |last=Rao |first=Leena |date=March 2, 2011 |title=Square Now Processing $1 Million In Mobile Payments Per Day |url=https://techcrunch.com/2011/03/02/square-now-processing-1-million-in-mobile-payments-per-day/ |access-date=September 19, 2011 |website=TechCrunch.com}}</ref> [[Gigaom|GigaOM]] called the product a [[disruptive innovation]].<ref>{{Cite web |date=December 1, 2009 |title=Jack Dorsey on Square, How It Works & Why It Disrupts |url=http://gigaom.com/2009/12/01/jack-dorsey-on-square-why-it-is-disruptive/ |access-date=September 19, 2011 |website=Gigaom.com}}</ref>
+
+==Banning firearms==
+In May 2013, Square announced it would no longer allow firearms-related transactions to be performed using its devices or software. The company amended its terms of service for retailers to ban sales of "firearms, firearm parts or hardware, and ammunition; or&nbsp;... weapons and other devices designed to cause physical injury". The company denied that this move was related to the increased debate over gun control.<ref>{{Cite news |last=Sperry |first=Todd |date=May 13, 2013 |title=Mobile-payment service Square blocks gun sales |publisher=CNN |url=https://money.cnn.com/2013/05/13/technology/square-guns/ |access-date=December 5, 2013}}</ref>
+
+==Controversy==
+In June 2019, ''[[The Wall Street Journal]]'' reported that Square inadvertently sends transaction receipts to the wrong email address, leading to adverse consequences such as outing one woman's impending divorce.<ref>{{Cite news |last=Rudegeair |first=Peter |title=Square Sends Millions of Digital Receipts, Sometimes to the Wrong Person |work=The Wall Street Journal |url=https://www.wsj.com/articles/square-sends-millions-of-digital-receipts-sometimes-to-the-wrong-person-11559640601}}</ref>
+
+A Canadian [[food truck]] which sold Cuban coffee faced a loss of C$14,000 because transactions were processed through a Canadian subsidiary of [[Chase Manhattan Bank]], contracted by Square to handle its Canadian accounts. As the parent company is governed by US laws, the bank would have been subject with charges of trafficking in prohibited Cuban goods if it had processed the fund transactions.<ref>{{Cite news |last=Rubin |first=Josh |date=2 October 2019 |title=T.O. food truck caught up in Trump's battle with Cuba |work=Toronto Star |url=https://www.thestar.com/business/2019/10/02/toronto-food-truck-caught-up-in-trumps-battle-with-cuba.html |access-date=3 October 2019}}</ref>
+
+Square is known to arbitrarily freeze or hold 20-30% of the funds of its merchants<ref>{{Cite news |last=Keyes |first=Daniel| work=Business Insider |title=Square is under fire for withholding funds from merchants|url=https://www.businessinsider.com/square-withholding-money-from-merchants-amid-pandemic-2020-6?}}</ref><ref>{{Cite news |last=Ray |first=Siladitya |work=Forbes |title= Square Is Withholding Up To 30% Of Payments Made To Some Merchants| url=https://www.forbes.com/sites/siladityaray/2020/06/23/square-is-withholding-up-to-30-of-payments-made-to-some-merchants/?sh=40eff67d4130}}</ref>, which leaves them unable to withdraw all their funds. Its justification for this is to prevent chargebacks from merchants deemed high risk, which its merchants have disputed based on their chargeback history.
+
+The firm reserves the right to deactivate customer account and this decision is normally final and customers cannot make an [[appeal]] request. When this happens the firm normally keeps hold of the balance for three months and then deposit the money to customer account.  
+In 2020, some customers on [[Instagram]] page of the firm reported that the firm refused to return the money after three months.{{Citation needed|date=November 2020}} Unlike [[PayPal]] the firm does not have any customer service agent outside the United States and in case of dispute, customers do not have any method of communication with a live person. The [[call center]] redirects clients to recorded messages.
+
+==See also==
+* [[PayPal]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{Official website|https://squareup.com/}}
+
+{{Finance links
+| name      = Square, Inc.
+| symbol    = SQ
+| sec_cik   = SQ
+| yahoo     = SQ
+| google    = SQ
+| bloomberg = SQ:US
+}}
+
+{{Payment service providers}}
+{{Major financial technology companies}}
+{{Online food ordering}}
+
+[[Category:2009 establishments in Missouri]]
+[[Category:2015 initial public offerings]]
+[[Category:American companies established in 2009]]
+[[Category:Android (operating system) software]]
+[[Category:Companies based in San Francisco]]
+[[Category:Companies listed on the New York Stock Exchange]]
+[[Category:Financial services companies established in 2009]]
+[[Category:Online financial services companies of the United States]]
+[[Category:IOS software]]
+[[Category:Online payments]]
+[[Category:Payment service providers]]
+[[Category:Point of sale companies]]
+[[Category:South of Market, San Francisco]]
+[[Category:Technology companies based in the San Francisco Bay Area]]

@@ -1,0 +1,76 @@
+{{Infobox SCOTUS case
+|Litigants = City of Akron v. Akron Center for Reproductive Health
+|FullName = City of Akron v. Akron Center for Reproductive Health, et al.
+|USVol = 462
+|USPage = 416
+|ParallelCitations= 103 S. Ct. 2481; 76 [[L. Ed. 2d]] 687
+|Prior = ''Akron Ctr. for Reproductive Health, Inc. v. City of Akron'', 479 [[F. Supp.]] [https://law.justia.com/cases/federal/district-courts/FSupp/479/1172/2263626/ 1172] ([[N.D. Ohio]] 1979); affirmed in part, reversed in part, 651 [[F.2d]] [https://law.justia.com/cases/federal/appellate-courts/F2/651/1198/158358/ 1198] ([[6th Cir.]] 1981); [[Certiorari|cert]]. granted, {{ussc|456|988|1982|el=no}}.
+|ArgueDate = November 30
+|ArgueYear = 1982
+|DecideDate = June 15
+|DecideYear = 1983
+|Holding = The city of [[Akron, Ohio]]'s then-current abortion law, whose provisions included a 24-hour waiting period and the requirement that a doctor inform the patient of the stage of fetal development, the supposed health risks of abortion, and the availability of adoption and childbirth resources, was unconstitutional.
+|Majority = Powell
+|JoinMajority = Burger, Brennan, Marshall, Blackmun, Stevens
+|Dissent = O'Connor
+|JoinDissent = White, Rehnquist
+|LawsApplied = [[Fourteenth Amendment to the United States Constitution|U.S. Const. amend. XIV]]
+|Overruled=''[[Planned Parenthood v. Casey]]'' (1992)
+}}
+'''''City of Akron v. Akron Center for Reproductive Health''''', 462 U.S. 416 (1983), was a case in which the [[Supreme Court of the United States|United States Supreme Court]] affirmed its [[abortion]] rights jurisprudence. In an opinion by [[Justice Powell]], the Court struck down several provisions of an [[Ohio]] [[abortion law]], including portions found to be [[Vagueness doctrine|unconstitutionally vague]].<ref name="findlaw">{{ussc|name=City of Akron v. Akron Center for Reproductive Health|volume=462|page=416|pin=|year=1983}}.</ref>
+
+==Hospital requirement==
+One provision of the statute required abortions after the first trimester to be performed in a hospital. The Court found that to be unconstitutional. The state has a compelling interest in regulating abortion after the first trimester, but accepted medical practice does not recommend for all second-trimester abortions to be performed in a hospital. The regulation imposed an unnecessary burden that has the effect of infringing upon the constitutional right to an abortion.
+
+==Prohibition on unmarried minors==
+Another provision stated that a physician may not perform an abortion on an unmarried [[minors and abortion|minor]] under 15 without obtaining either consent from one of her parents or a judicial bypass.
+The Court likewise struck down the provision, as the law and the Ohio courts provided no suitable mechanism for a minor to gain a judicial bypass, as the relevant laws and courts concerning juveniles did not mention abortion or establish the authority to determine the maturity or emancipation of a minor.
+
+==Information requirements==
+The statute also stated that before performing an abortion, the physician must inform the patient of the status of the pregnancy, stage of fetal development, expected date of viability, health risks of abortion, and the availability of adoption agencies and childbirth resources. The Court found the provision to be unconstitutional, as the script, ostensibly provided to ensure [[informed consent]], was found to be geared towards influencing the patient to decide against an abortion.
+
+The state may not attempt to influence the patient's choice between abortion and childbirth. The Ohio regulation extends the state's interest in informed consent beyond permissible limits, interfering with the discretion of the physician and placing unreasonable obstacles in his path.
+*The requirement for doctors to tell patients that the fetus is "a human life from the moment of conception" also violates the provision in ''[[Roe v. Wade]]'' that "a State may not adopt one theory of when life begins to justify its regulation of abortions."
+*The detailed description of the fetus that doctors are required to provide is speculative.
+*The list of risks of abortion that the doctor is required to provide is "intended to suggest that abortion is a particularly dangerous procedure" and also overrides the physician's judgment, as he must tell his patient specific risks even if they do not apply to that patient.
+
+==24-hour waiting period==
+Another provision mandated a 24-hour waiting period after the patient signs a consent form. The Court struck the provision down, as no state interest is served by the imposition of an "arbitrary and inflexible" waiting period.
+
+==Disposal requirements==
+The final challenged provision required physicians to ensure that fetal remains are disposed of in a "humane and sanitary manner."  The majority deemed that to be unconstitutional, as criminal sanctions are imposed upon doctors who break the law, but "humane" was [[unconstitutionally vague]] and so a violation of [[due process]].  Rather than strike down "humane" and preserve "sanitary," the Court struck down the entire provision.
+
+==Dissent==
+In her dissenting opinion, [[Sandra Day O'Connor]], joined by [[Byron White]] and [[William Rehnquist]], urged "the 'unduly burdensome' standard" from two prior cases, ''Maher v. Roe''<ref>[http://supreme.justia.com/us/432/464/case.html ''Maher v. Roe'', 432 U. S. 464 (1977) - US Supreme Court Cases from Justia & Oyez<!--Bot-generated title-->]</ref> (1977) and ''[[Bellotti v. Baird (1979)|Bellotti v. Baird]]'' (1979) to "be applied to the challenged regulations throughout the entire pregnancy without reference to the particular 'stage' of pregnancy involved."<ref name="findlaw" /> The "undue burden" test was later to gain acceptance by a plurality of the Court in ''[[Planned Parenthood v. Casey]]'' (1992), which replaced the earlier "strict scrutiny" standard of review of abortion regulations with the lesser "undue burden" standard, a standard which remains in effect.<ref>{{cite journal |quote=The undue burden standard is binding on lower courts, see ''Marks v. United States'', 430 U.S. 188, 193 (1977) (defining the holding of a divided Court as the view of the members of the Court who concurred on the narrowest grounds), although for stare decisis purposes, only the portion of the three-Justice opinion that garnered five votes counts as a full-fledged precedent in the Supreme Court itself |first=Michael C. |last=Dorf |year=1996 |title=Incidental Burdens of Fundamental Rights |volume=109 |journal=[[Harvard Law Review]] |issue=6 |pages=1175–1251 [at Note 197] |jstor=1342214 }}</ref>
+
+The case was overruled by the plurality in ''[[Planned Parenthood v. Casey]]'' (1992).
+
+==See also==
+*[[List of United States Supreme Court cases, volume 462]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{caselaw source
+ | case=''City of Akron v. Akron Center for Reproductive Health'', {{ussc|462|416|1983|el=no}}
+ | findlaw=https://caselaw.findlaw.com/us-supreme-court/462/416.html
+ | justia=https://supreme.justia.com/cases/federal/us/462/416/
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep462/usrep462416/usrep462416.pdf
+ | oyez =https://www.oyez.org/cases/1982/81-746
+ }}
+
+{{US14thAmendment|Due Process}}
+
+[[Category:Overruled United States Supreme Court decisions]]
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Burger Court]]
+[[Category:United States abortion case law]]
+[[Category:United States privacy case law]]
+[[Category:Right to abortion under the United States Constitution]]
+[[Category:Right to privacy under the United States Constitution]]
+[[Category:1983 in United States case law]]
+[[Category:Void for vagueness case law]]
+[[Category:American Civil Liberties Union litigation]]
+[[Category:History of Akron, Ohio]]
+[[Category:Legal history of Ohio]]

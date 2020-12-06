@@ -1,0 +1,68 @@
+{{Infobox SCOTUS case
+  |Litigants=Lockyer v. Andrade
+  |ArgueDate=November 5
+  |ArgueYear=2002
+  |DecideDate=March 5
+  |DecideYear=2003
+  |FullName=Bill Lockyer, Attorney General of California, v. Leandro Andrade
+  |USVol=538
+  |USPage=63
+  |ParallelCitations=123 S. Ct. 1166; 155 [[L. Ed. 2d]] 144
+  |Prior=Defendant convicted, Los Angeles County Superior Court; conviction affirmed, California Court of Appeal.  Then defendant filed a petition for a writ of [[habeas corpus]] in the U.S. district court for the Central District of California.  The petition was denied, but the decision was reversed by the Ninth Circuit Court of Appeals, ''Andrade v. Att'y Gen.'', 270 [[F.3d]] [https://law.justia.com/cases/federal/appellate-courts/F3/270/743/545435/ 743] (9th Cir. 2001). The Supreme Court granted ''[[certiorari]]'', {{ussc|535|969|2002|el=no}}.
+  |Holding=It is clearly established federal law that sentence imposed under California's [[three strikes law]] is not cruel and unusual punishment in violation of the [[Eighth Amendment to the United States Constitution|Eighth Amendment]].
+  |Majority=O'Connor
+  |JoinMajority=Rehnquist, Scalia, Kennedy, Thomas
+  |Dissent=Souter
+  |JoinDissent=Stevens, Ginsburg, Breyer
+  |LawsApplied=[[Eighth Amendment to the United States Constitution|U.S. Const. amend. VIII]]; [[Antiterrorism and Effective Death Penalty Act|28 U.S.C. § 2254(d)(1)]]; Cal. Penal Code § 667
+}}
+
+'''''Lockyer v. Andrade''''', 538 U.S. 63 (2003),<ref>{{ussc|name=Lockyer v. Andrade|volume=538|page=63|pin=|year=2003}}.</ref> decided the same day as ''[[Ewing v. California]]'' (a case with a similar subject matter),<ref name=Ewing>{{ussc|name=Ewing v. California|volume=538|page=11|pin=|year=2003}}.</ref> held that there would be no relief by means of a petition for a writ of [[habeas corpus]] from a sentence imposed under California's [[three strikes law]] as a violation of the [[Eighth Amendment to the United States Constitution|Eighth Amendment's]] prohibition of [[cruel and unusual punishment]]s.  Relying on the reasoning of ''Ewing'' and ''[[Harmelin v. Michigan]]'',<ref name=Harmelin>{{ussc|name=Harmelin v. Michigan|volume=501|page=957|pin=|year=1991}}.</ref> the Court ruled that because no "clearly established" law held that a three-strikes sentence was cruel and unusual punishment, the 50-years-to-life sentence imposed in this case was not cruel and unusual punishment.
+
+==Facts==
+On November 4, 1995, Leandro Andrade, a nine-year Army veteran and father of three,<ref>[https://www.americanbar.org/publications/human_rights_magazine_home/human_rights_vol31_2004/winter2004/irr_hr_winter04_shoplifting] American Bar Association - Human Rights Magazine</ref> stole five children's [[videotapes]] from a [[K-Mart]] store in [[Ontario, California]].  Two weeks later, he stole four children's videotapes from a different K-Mart store in [[Montclair, California]]. Andrade had been in and out of the state and federal prison systems since 1982.  By the time of these two crimes in 1995, he had been convicted of petty theft, residential burglary, transportation of [[marijuana]], and escape from prison.   Under California's three strikes law, any felony can serve as the third "strike" and thereby expose the defendant to a mandatory sentence of 25 years to life in prison.
+
+The trial court denied Andrade's request to classify the two petty theft charges as misdemeanors, and Andrade was ultimately convicted of the two felony theft charges.  As a result of his prior convictions, Andrade was sentenced to two consecutive terms of 25 years to life in prison.  (The State conceded at oral argument before the U.S. Supreme Court that the California Supreme Court had decided a case since Andrade's conviction that might allow him to petition the trial court to reduce his sentence to ''one'' 25-years-to-life term.)  The [[California Court of Appeal]] affirmed his conviction and sentence on direct appeal, and the [[California Supreme Court]] denied discretionary review.
+
+Andrade next filed a petition for a writ of habeas corpus in the [[United States District Court for the Central District of California]].  Andrade argued that his sentence violated the [[Eighth Amendment to the United States Constitution|Eighth Amendment]] ban on cruel and unusual punishment, but the district court rejected this claim.  Andrade appealed, and the [[United States Court of Appeals for the Ninth Circuit|Ninth Circuit]], after reviewing the relevant Supreme Court decisions, concluded that the district court was wrong.  The State of California asked the U.S. Supreme Court to review the Ninth Circuit's decision, and it agreed to do so.
+
+==Majority opinion==
+Although this case involved the same legal claim as ''[[Ewing v. California]]'',<ref name=Ewing/> its procedural posture was different.  ''Ewing'' was a case on direct review from the California state court system, meaning that the Supreme Court was deciding in the first instance whether a three-strikes sentence was cruel and unusual punishment.  If the defendant in ''Ewing'' had prevailed in the Supreme Court, he would have received a new sentencing hearing.  ''Andrade'', by contrast, was an appeal from a federal habeas petition.  If the Court was to reach the same result in ''Andrade'' as it did in ''Ewing'', it had to travel a different path to arrive there.
+
+Because of the [[Antiterrorism and Effective Death Penalty Act]], the Court could not grant relief unless the decision of the state courts to uphold Andrade's sentence was "contrary to, or an unreasonable application of, clearly established Federal law, as determined by the Supreme Court of the United States."  This meant that the Court's first task was to identify what that "clearly established" law was.  The Court examined its prior holdings, and found three that were relevant&mdash;''[[Rummel v. Estelle]]'',<ref>{{ussc|name=Rummel v. Estelle|volume=445|page=263|pin=|year=1980}}.</ref> ''[[Solem v. Helm]]'',<ref>{{ussc|name=Solem v. Helm|link=|volume=463|page=277|pin=|year=1983}}.</ref> and ''[[Harmelin v. Michigan]]''.<ref name=Harmelin/>  Although these precedents were not a "model of clarity," the Court concluded that a "gross disproportionality principle is applicable to sentences for terms of years," but that the "precise contours" of this principle were unclear and applied only in the "exceedingly rare and extreme case."  In ''Solem'', the sentence did not allow for parole, and the Court had held it was cruel and unusual; in ''Rummel'', the sentence did allow for parole, and the Court had held it was not cruel and unusual.  In this case, like in ''Rummel'', Andrade retained the opportunity for parole, even if that possibility was remote.  Because the gross disproportionality principle applied in only an extreme case, the Court concluded that the California courts did not unreasonably apply it to Andrade's sentence.
+
+==Dissenting opinion==
+Justice [[David Souter]] protested that Andrade's criminal history and triggering offenses were less severe than those of the defendant in ''Ewing'', yet Andrade received a harsher sentence.  He argued that the sentence in this case was indistinguishable from that in ''Solem'', and thus required the Court to grant relief.  "Andrade, like the defendant in ''Solem'', was a repeat offender who committed theft of trifling value, some $150, and their criminal records are comparable, including burglary (though Andrade's were residential), with no violent crimes or crimes against the person."  Because Andrade was 37 at the time of the offenses in this case, the 50-years-to-life sentence was effectively life without parole.  The only way Souter could distinguish the sentence in this case and the sentence in ''Solem'' was "to reject the practical equivalence of a life sentence without parole and one with parole eligibility at 87."  
+
+Moreover, the fact that California's three-strikes law embodied one penological theory &mdash; the theory of [[Incapacitation_(penology)|incapacitation]] &mdash; facilitated judicial review of sentences imposed under it with reference to the requirements of the Eighth Amendment.  The incapacitation theory could not, Souter argued, justify sentencing a person to 25 more years in prison for an identical, trifling crime committed two weeks after the first.  "Since the defendant's condition has not changed between the two closely related thefts, the incapacitation penalty is not open to the simple arithmetic of multiplying the punishment by two, without resulting in gross disproportion even under the State's chosen benchmark."  For Souter, the sentence in this case presented one of those rare cases that the Eighth Amendment allowed the Court to set it aside.
+
+==See also==
+* [[List of United States Supreme Court cases, volume 538]]
+*[[List of United States Supreme Court cases]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{caselaw source
+ | case = ''Lockyer v. Andrade'', {{ussc|538|63|2003|el=no}}
+ | cornell =https://www.law.cornell.edu/supct/html/01-1127.ZS.html
+ | findlaw = https://caselaw.findlaw.com/us-supreme-court/538/63.html
+ | justia =https://supreme.justia.com/cases/federal/us/538/63/
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep538/usrep538063/usrep538063.pdf
+ | oyez =https://www.oyez.org/cases/2002/01-1127
+ | other_source1 = Supreme Court (slip opinion)
+ | other_url1 =https://web.archive.org/web/20030330224722/http://www.supremecourtus.gov/opinions/02pdf/01-1127.pdf
+ }}
+* [https://www.aclu.org/scotus/2002/21857lgl20021002.html  Brief of the ACLU in support of respondent Andrade]
+* [https://web.archive.org/web/20070203015151/http://www.cjlf.org/pdf/Andrade.pdf  Amicus brief of Criminal Justice Legal Foundation]
+* [{{SCOTUS URL|oral_arguments/argument_transcripts/01-1127.pdf}}  Transcript of the oral argument]
+
+{{US8thAmendment}}
+
+[[Category:United States Supreme Court cases]]
+[[Category:Cruel and Unusual Punishment Clause case law]]
+[[Category:2003 in United States case law]]
+[[Category:United States Supreme Court cases of the Rehnquist Court]]
+[[Category:Legal history of California]]
+[[Category:Kmart]]

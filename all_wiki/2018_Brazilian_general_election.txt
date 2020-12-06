@@ -1,0 +1,867 @@
+{{short description|Election in Brazil}}
+{{Infobox election
+| election_name = 2018 Brazilian general election
+| country = Brazil
+| type = presidential
+| vote_type = Popular
+| ongoing = no
+| previous_election = 2014 Brazilian general election
+| previous_year = 2014
+| election_date = {{Start date|2018|10|07|df=y}} (first round)<br />{{Start date|2018|10|28|df=y}} (second round)
+| next_election = 2022 Brazilian general election
+| next_year = 2022
+| opinion_polls = Opinion polling for the 2018 Brazilian general election
+| turnout = 79.67% (first round)<br />78.7% (second round)<ref>{{cite web|url=http://divulga.tse.jus.br/oficial/index.html|title=Disclosure of Election Results|publisher=[[Superior Electoral Court]]|accessdate=29 October 2018}}</ref>
+
+| module = {{Infobox election
+| embed = yes
+| type = presidential
+| vote_type = Popular
+| ongoing = no
+| election_name = Presidential election
+<!--- Jair Bolsonaro --->| candidate1 = <!-- Please do not add bolding-->'''[[Jair Bolsonaro]]'''<!-- Please do not add bolding-->
+| image1 = [[File:Pronunciamento do Presidente da República, Jair Bolsonaro (cropped).jpg|150x150px]]
+| party1 = Social Liberal Party (Brazil)
+| alliance1 = ''Brazil Above Everything, God Above Everyone''
+| home_state1 = [[Rio de Janeiro (state)|Rio de Janeiro]]{{efn|Born in [[São Paulo (state)|São Paulo]], electoral based in [[Rio de Janeiro (state)|Rio de Janeiro]]}}
+| running_mate1 = '''[[Hamilton Mourão]]'''
+| states_carried1 = '''15 + [[Brazilian Federal District|DF]]
+| popular_vote1 = '''57,797,847'''
+| percentage1 = '''55.13%'''
+
+<!--- Fernando Haddad --->| candidate2 = [[Fernando Haddad]]{{efn|The original candidate [[Luiz Inácio Lula da Silva]] was barred from running by the [[Superior Electoral Court]] on 31 August 2018, in accordance with the [[Ficha Limpa|Clean Slate]] law.<ref name=ABC2018-8-31>{{cite web|url=https://abcnews.go.com/International/wireStory/brazils-electoral-court-debates-da-silvas-candidacy-57537431|title=International News:  Latest Headlines, Video and Photographs from Around the World -- People, Places, Crisis, Conflict, Culture, Change, Analysis and Trends|first=ABC|last=News|website=ABC News}}</ref>}}
+| image2 = [[File:Fernando Haddad Prefeito 2016.jpg|150x150px]]
+| party2 = Workers' Party (Brazil)
+| alliance2 = ''The People Happy Again''
+| home_state2 = [[São Paulo (state)|São Paulo]]
+| running_mate2 = [[Manuela d'Ávila]]
+| states_carried2 = 11
+| popular_vote2 = 47,040,906
+| percentage2 = 44.87%
+| title = President
+| before_election = [[Michel Temer]]
+| before_party = [[Brazilian Democratic Movement|MDB]]
+| after_election = [[Jair Bolsonaro]]
+| after_party = [[Social Liberal Party (Brazil)|PSL]]
+| map_image = File:2018 Brazilian presidential election map (Round 2).svg
+| map_size = 350px
+| map_caption = Map of results for each State and the Federal District.
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+
+| heading1 = [[Chamber of Deputies (Brazil)|Chamber of Deputies]]
+| leader1 = [[Eduardo Bolsonaro]]
+| party1 = Social Liberal Party (Brazil)
+| percentage1 = 11.7%
+| last_election1 = 8
+| seats1 = 52
+
+| leader2 = Paulo Pimenta
+| party2 = Workers' Party (Brazil)
+| percentage2 = 10.3%
+| last_election2 = 61
+| seats2 = 56
+
+| leader3 = Carlos Sampaio
+| party3 = Brazilian Social Democracy Party
+| percentage3 = 6.0%
+| last_election3 = 49
+| seats3 = 29
+
+| leader4 = Domingos Neto
+| party4 = Social Democratic Party (Brazil, 2011)
+| percentage4 = 5.8%
+| last_election4 = 37
+| seats4 = 34
+
+| leader5 = Arthur Lira
+| party5 = Progressive Party (Brazil)
+| percentage5 = 5.6%
+| last_election5 = 50
+| seats5 = 38
+
+| leader6 = Baleia Rossi
+| party6 = Brazilian Democratic Movement Party
+| percentage6 = 5.5%
+| last_election6 = 51
+| seats6 = 34
+
+| leader7 = Tadeu Alencar
+| party7 = Brazilian Socialist Party
+| percentage7 = 5.5%
+| last_election7 = 26
+| seats7 = 32
+
+| leader8 = [[José Rocha]]
+| party8 = Party of the Republic
+| percentage8 = 5.3%
+| last_election8 = 40
+| seats8 = 33
+
+| leader9 = [[Jhonatan de Jesus]]
+| party9 = Brazilian Republican Party
+| percentage9 = 5.1%
+| last_election9 = 21
+| seats9 = 30
+
+| leader10 = Elmar Nascimento
+| party10 = Democrats (Brazil)
+| percentage10 = 4.7%
+| last_election10 = 43
+| seats10 = 29
+
+| leader11 = [[André Figueiredo]]
+| party11 = Democratic Labour Party (Brazil)
+| percentage11 = 4.6%
+| last_election11 = 19
+| seats11 = 28
+
+| heading12 = [[Brazilian Senate|Federal Senate]]
+| leader12 = [[Lindbergh Farias]]
+| party12 = Workers' Party (Brazil)
+| percentage12 = 14.5%
+| last_election12 = 12
+| seats12 = 6
+
+| leader13 = [[Paulo Bauer]]
+| party13 = Brazilian Social Democracy Party
+| percentage13 = 11.9%
+| last_election13 = 10
+| seats13 = 8
+
+| leader14 = [[Simone Tebet]]
+| party14 = Brazilian Democratic Movement Party
+| percentage14 = 7.5%
+| last_election14 = 18
+| seats14 = 12
+
+| leader15 = [[Ronaldo Caiado]]
+| party15 = Democrats (Brazil)
+| percentage15 = 5.4%
+| last_election15 = 4
+| seats15 = 6
+
+| leader16 = [[Omar Aziz]]
+| party16 = Social Democratic Party (Brazil, 2011)
+| percentage16 = 4.8%
+| last_election16 = 11
+| seats16 = 7
+
+| leader17 = [[Ana Amélia Lemos]]
+| party17 = Progressive Party (Brazil)
+| percentage17 = 4.4%
+| last_election17 = 5
+| seats17 = 6
+}}
+}}
+}}
+
+[[File:Logo of Brazilian general election in 2018.jpg|right|thumb|Official 2018 elections logo]]
+
+The '''2018 Brazilian presidential election''' were held in 2018 with two rounds of balloting in conjunction with elections to the [[National Congress of Brazil|National Congress]], [[Governor (Brazil)|state governorships]]. As no candidate in the presidential election received more than 50% of the vote in the first round on 7 October 2018, a second-round [[Two-round system|runoff]] was held on 28 October 2018.
+
+The election occurred during a tumultuous time in Brazilian politics. Narrowly re-elected in 2014,<ref>[https://next.ft.com/content/ce7cb3c0-4e9b-11e6-9b99-1e1f25294c08 Brazil keen to open trade talks with UK] Financial Times, 22 July 2016</ref> President [[Dilma Rousseff]] of the centre-left [[Workers’ Party]] (PT), which has dominated Brazilian politics since [[2002 Brazilian general election|2002]], was [[Impeachment of Dilma Rousseff|impeached in 2016]].<ref name="cnn_removal2">{{cite news|author1=Catherine E. Shoichet|author2=Euan McKirdy|title=Brazil's Senate ousts Rousseff in impeachment vote|website=CNN|url=http://www.cnn.com/2016/08/31/americas/brazil-rousseff-impeachment-vote/index.html|access-date=31 August 2016}}</ref> Replacing her was her [[Vice President of Brazil|Vice President]], [[Michel Temer]] of the centre-right [[Brazilian Democratic Movement Party]].<ref>{{cite news|date=1 September 2016|title=Brazil's Rousseff ousted by Senate, Temer sworn in|work=[[Reuters]]|url=https://www.reuters.com/article/us-brazil-impeachment-idUSKCN114071|accessdate=6 April 2019}}</ref> Temer, whose age of 75 at inauguration made him the oldest to ever take office, broke sharply with his predecessor’s policies and amended the constitution to freeze public spending.<ref>{{Cite news|last=Magalhaes|first=Luciana|last2=Jelmayer|first2=Rogerio|date=31 August 2016|title=Michel Temer Seeks New Start as Brazil's President|newspaper=The Wall Street Journal|url=https://www.wsj.com/articles/michel-temer-seeks-new-start-as-brazils-president-1472676685|url-access=subscription|access-date=3 September 2016|issn=0099-9660}}</ref> Temer was extraordinarily unpopular, reaching an approval rating of 7% versus 76% in favor of this resignation.<ref name="seven">{{cite news|last=Phillips|first=Dom|date=26 June 2017|title=President Michel Temer of Brazil Is Charged With Corruption|work=The New York Times|url=https://www.nytimes.com/2017/06/26/world/americas/brazil-temer-corruption-charge-joesley-batista.html|url-access=limited|access-date=23 July 2017}}</ref> Despite mass demonstrations against his rule, including a [[2017 Brazilian general strike|2017 general strike]] and a [[2018 Brazil truck drivers' strike|2018 truck drivers’ strike]], Temer refused to step down and served the duration of his term in office.<ref name="resign">{{cite web|last=Romero|first=Simon|date=26 May 2017|title=Their Government in Chaos, Brazilians Fear the Joke Is on Them|url=https://www.nytimes.com/2017/05/26/world/americas/brazil-michel-temer-corruption.html|url-access=limited|accessdate=28 May 2017|work=The New York Times}}</ref> Due to being convicted of breaking campaign finance laws, Temer was ineligible to run in 2018.<ref>{{cite web|last=Greenwald|first=Glenn|date=3 June 2016|title=Credibility of Brazil's Interim President Collapses as He Receives 8-Year Ban on Running for Office|url=https://theintercept.com/2016/06/03/credibility-of-brazils-interim-president-collapses-receives-8-year-ban-on-running/|accessdate=10 September 2016|work=[[The Intercept]]}}</ref>
+
+The candidacy of [[Jair Bolsonaro]], a controversial federal deputy from [[Rio de Janeiro (state)|Rio de Janeiro]] known for his [[far-right]] politics<ref name="nyt">{{cite news|last=Brooke|first=James|date=1993-07-25|title=Conversations/Jair Bolsonaro; A Soldier Turned Politician Wants To Give Brazil Back to Army Rule|newspaper=The New York Times|url=https://www.nytimes.com/1993/07/25/weekinreview/conversations-jair-bolsonaro-soldier-turned-politician-wants-give-brazil-back.html|url-status=live|access-date=7 September 2018|archive-url=https://web.archive.org/web/20181024103225/https://www.nytimes.com/1993/07/25/weekinreview/conversations-jair-bolsonaro-soldier-turned-politician-wants-give-brazil-back.html|archive-date=24 October 2018}}</ref><ref>{{Cite news|last=Editorial Board|date=8 October 2018|title=Brazilian Swamp Drainer|newspaper=[[Wall Street Journal]]|url=https://www.wsj.com/amp/articles/brazilian-swamp-drainer-1539039700|url-status=live|access-date=11 October 2018|archive-url=https://web.archive.org/web/20181010234348/https://www.wsj.com/amp/articles/brazilian-swamp-drainer-1539039700|archive-date=10 October 2018}}</ref><ref>{{cite web|date=2014-10-07|title=O inquietante 'fenômeno Bolsonaro'|url=http://brasil.elpais.com/brasil/2014/10/07/politica/1412684374_628594.html|url-status=live|archive-url=https://web.archive.org/web/20180616203834/https://brasil.elpais.com/brasil/2014/10/07/politica/1412684374_628594.html|archive-date=16 June 2018|access-date=18 June 2017|website=brasil.elpais.com|language=pt}}</ref><ref name="veconomist">{{cite news|date=14 October 2017|title=Brazil's congress starts to reform itself|work=[[The Economist]]|url=https://www.economist.com/news/americas/21730206-clean-up-sleazy-political-system-will-require-lot-more-work-brazils-congress-starts|url-status=live|access-date=15 October 2017|archive-url=https://web.archive.org/web/20171015151746/https://www.economist.com/news/americas/21730206-clean-up-sleazy-political-system-will-require-lot-more-work-brazils-congress-starts|archive-date=15 October 2017}}</ref> and defense of the former Brazilian [[Military dictatorship in Brazil|military dictatorship]],<ref>{{cite web|date=2016-07-08|title=Defensor da Ditadura, Jair Bolsonaro reforça frase polêmica: "o erro foi torturar e não matar" - Pânico - Jovem Pan FM São Paulo 100.9|url=http://jovempanfm.uol.com.br/panico/defensor-da-ditadura-jair-bolsonaro-reforca-frase-polemica-o-erro-foi-torturar-e-nao-matar.html|url-status=live|archive-url=https://web.archive.org/web/20180904101345/http://jovempanfm.uol.com.br/panico/defensor-da-ditadura-jair-bolsonaro-reforca-frase-polemica-o-erro-foi-torturar-e-nao-matar.html|archive-date=4 September 2018|access-date=2018-09-13|website=Jovem Pan FM|language=pt-BR}}</ref><ref name="nyt2">{{cite news|last=Brooke|first=James|date=1993-07-25|title=Conversations/Jair Bolsonaro; A Soldier Turned Politician Wants To Give Brazil Back to Army Rule|newspaper=The New York Times|url=https://www.nytimes.com/1993/07/25/weekinreview/conversations-jair-bolsonaro-soldier-turned-politician-wants-give-brazil-back.html|url-status=live|access-date=7 September 2018|archive-url=https://web.archive.org/web/20181024103225/https://www.nytimes.com/1993/07/25/weekinreview/conversations-jair-bolsonaro-soldier-turned-politician-wants-give-brazil-back.html|archive-date=24 October 2018}}</ref><ref name="R7.com">{{Cite news|date=2015-03-31|title=Bolsonaro chama ditadura militar brasileira de "intervenção democrática"|language=pt-BR|work=R7.com|url=https://noticias.r7.com/brasil/bolsonaro-chama-ditadura-militar-brasileira-de-intervencao-democratica-31032015|url-status=live|access-date=2018-09-13|archive-url=https://web.archive.org/web/20181005123054/https://noticias.r7.com/brasil/bolsonaro-chama-ditadura-militar-brasileira-de-intervencao-democratica-31032015|archive-date=5 October 2018}}</ref> overshadowed other conservative candidates. Noted for his vehement opposition to [[abortion]]<ref name="osul.com.br">{{cite web|date=21 August 2015|title=Bolsonaro, em Porto Alegre, confirma ser contra o aborto e a favor da redução da maioridade penal – Jornal O Sul|url=http://www.osul.com.br/bolsonaro-em-porto-alegre-confirma-ser-contra-o-aborto-e-a-favor-da-reducao-da-maioridade-penal/|url-status=live|archive-url=https://web.archive.org/web/20180616153432/http://www.osul.com.br/bolsonaro-em-porto-alegre-confirma-ser-contra-o-aborto-e-a-favor-da-reducao-da-maioridade-penal/|archive-date=16 June 2018|accessdate=7 September 2018|website=Osul.com.br}}</ref> and [[LGBT rights in Brazil|same-sex marriage]],<ref>{{Cite news|title=Bolsonaro: "prefiro filho morto em acidente a um homossexual"|language=pt-BR|work=Terra|url=http://noticias.terra.com.br/brasil/bolsonaro-quotprefiro-filho-morto-em-acidente-a-um-homossexualquot,cf89cc00a90ea310VgnCLD200000bbcceb0aRCRD.html|url-status=live|access-date=2 June 2018|archive-url=https://web.archive.org/web/20200925084333/http://noticias.terra.com.br/brasil/bolsonaro-quotprefiro-filho-morto-em-acidente-a-um-homossexualquot,cf89cc00a90ea310VgnCLD200000bbcceb0aRCRD.html|archive-date=25 September 2020}}</ref><ref>{{Cite news|title=Bolsonaro é condenado a pagar R$ 150 mil por declarações contra gays|work=Folha de S.Paulo|url=https://www1.folha.uol.com.br/poder/2017/11/1934062-bolsonaro-e-condenado-a-pagar-r-150-mil-por-declaracoes-contra-gays.shtml|url-status=live|access-date=2018-09-11|archive-url=https://web.archive.org/web/20181002122427/https://www1.folha.uol.com.br/poder/2017/11/1934062-bolsonaro-e-condenado-a-pagar-r-150-mil-por-declaracoes-contra-gays.shtml|archive-date=2 October 2018}}</ref> Bolsonaro joined the small [[Liberalism|liberal]] [[Social Liberal Party (Brazil)|Social Liberal Party]] (PSL) to mount his bid for the presidency, shifting the party's ideology in favor of [[social conservatism]] and [[nationalism]].<ref>{{cite web|title=Com chegada de Bolsonaro, Livres anuncia saída do PSL|url=https://politica.estadao.com.br/blogs/blog-do-fucs/com-chegada-de-bolsonaro-livres-anuncia-saida-do-psl/|url-status=live|archive-url=https://web.archive.org/web/20190321013923/https://politica.estadao.com.br/blogs/blog-do-fucs/com-chegada-de-bolsonaro-livres-anuncia-saida-do-psl/|archive-date=21 March 2019|access-date=7 December 2018}}</ref><ref>{{cite web|title=Como o PSL tomou espaço da centro-direita na Câmara|url=https://www.nexojornal.com.br/expresso/2018/10/09/Como-o-PSL-tomou-espa%C3%A7o-da-centro-direita-na-C%C3%A2mara|url-status=live|archive-url=https://web.archive.org/web/20181124135424/https://www.nexojornal.com.br/expresso/2018/10/09/Como-o-PSL-tomou-espa%C3%A7o-da-centro-direita-na-C%C3%A2mara|archive-date=24 November 2018|access-date=7 December 2018|website=Nexo Jornal}}</ref> Bolsonaro benefited from opposition to the former PT government and ran in favor of expanding gun ownership in response to [[Crime in Brazil|high crime]],<ref>{{cite news|last1=Phillips|first1=Tom|date=2018-04-19|title=Trump of the tropics: the 'dangerous' candidate leading Brazil's presidential race|newspaper=The Guardian|url=https://www.theguardian.com/world/2018/apr/19/jair-bolsonaro-brazil-presidential-candidate-trump-parallels|url-status=live|accessdate=27 October 2018|archive-url=https://web.archive.org/web/20190520200018/https://www.theguardian.com/world/2018/apr/19/jair-bolsonaro-brazil-presidential-candidate-trump-parallels|archive-date=20 May 2019}}</ref> legalizing the [[death penalty]],<ref name="epoca22">{{cite web|title=Jair Bolsonaro: "Sou preconceituoso, com muito orgulho"|url=http://revistaepoca.globo.com/Revista/Epoca/0,,EMI245890-15223,00.html|url-status=live|archive-url=https://web.archive.org/web/20180412080809/http://revistaepoca.globo.com/Revista/Epoca/0,,EMI245890-15223,00.html|archive-date=12 April 2018|access-date=7 September 2018|website=revistaepoca.globo.com}}</ref> and the privatization of state-owned companies.<ref name=":1">{{cite web|title=Bolsonaro diz que é liberal e adota discurso que agrada investidores|url=http://www1.folha.uol.com.br/poder/2017/10/1925458-bolsonaro-diz-que-e-liberal-e-adota-discurso-que-agrada-investidores.shtml|url-status=live|archive-url=https://web.archive.org/web/20180612163556/https://www1.folha.uol.com.br/poder/2017/10/1925458-bolsonaro-diz-que-e-liberal-e-adota-discurso-que-agrada-investidores.shtml|archive-date=12 June 2018|access-date=24 April 2018|website=1.folha.uol.com.br}}</ref><ref>{{Cite journal|last=Finchelstein|first=Federico|author-link=Federico Finchelstein|date=14 October 2018|title=Brasil: todas las opciones son malas|url=https://www.clarin.com/opinion/brasil-todas-opciones-malas_0_CyhTjjk9e.html|url-status=live|journal=[[Clarín (Argentine newspaper)|Clarín]]|archive-url=https://web.archive.org/web/20181104130053/https://www.clarin.com/opinion/brasil-todas-opciones-malas_0_CyhTjjk9e.html|archive-date=4 November 2018|access-date=4 November 2018}}</ref> For the position of Vice President, Bolsonaro chose [[Hamilton Mourão]], a conservative retired general in the [[Brazilian Army]].<ref>{{Cite web|date=2018-10-06|title=Mourão diz que neto é 'branqueamento da raça'|url=https://oglobo.globo.com/brasil/mourao-diz-que-neto-branqueamento-da-raca-23134844|access-date=2020-11-25|website=O Globo|language=pt-BR}}</ref> During the campaign, Bolsonaro was the [[Ele Não movement|subject of widespread protests]] for his perceived [[homophobic]],<ref name="noticias.terra.com.br">{{cite web|title=Bolsonaro: após união gay, próximo passo é legalizar pedofilia|url=http://noticias.terra.com.br/brasil/noticias/0,,OI5114016-EI306,00-Bolsonaro+apos+uniao+gay+proximo+passo+e+legalizar+pedofilia.html|url-status=live|archive-url=https://web.archive.org/web/20120225205028/http://noticias.terra.com.br/brasil/noticias/0,,OI5114016-EI306,00-Bolsonaro+apos+uniao+gay+proximo+passo+e+legalizar+pedofilia.html|archive-date=25 February 2012|accessdate=7 September 2018|website=Noticias.terra.com.br}}</ref> [[racist]],<ref>{{cite web|date=2014-12-11|title=The Most Misogynistic, Hateful Elected Official in the Democratic World: Brazil's Jair Bolsonaro – The Intercept|url=https://firstlook.org/theintercept/2014/12/11/misogynistic-hateful-elected-official-democacratic-world-brazils-jair-bolsonaro/|url-status=live|archive-url=https://web.archive.org/web/20150427174401/https://firstlook.org/theintercept/2014/12/11/misogynistic-hateful-elected-official-democacratic-world-brazils-jair-bolsonaro/|archive-date=27 April 2015|access-date=4 May 2015|website=The Intercept}}</ref> and [[misogynistic]] beliefs.<ref name=":3">{{cite journal|last=Simões|first=Daniela|date=2018-09-26|title=Movimento #elenão atinge mais de 1,2 milhão de menções contra Bolsonaro|url=https://epocanegocios.globo.com/Tecnologia/noticia/2018/09/movimento-elenao-atinge-mais-de-12-milhao-de-mencoes-contra-bolsonaro.html|journal=Época Negócios}}</ref><ref>{{cite web|date=2014-12-11|title=The Most Misogynistic, Hateful Elected Official in the Democratic World: Brazil's Jair Bolsonaro – The Intercept|url=https://firstlook.org/theintercept/2014/12/11/misogynistic-hateful-elected-official-democacratic-world-brazils-jair-bolsonaro/|url-status=live|archive-url=https://web.archive.org/web/20150427174401/https://firstlook.org/theintercept/2014/12/11/misogynistic-hateful-elected-official-democacratic-world-brazils-jair-bolsonaro/|archive-date=27 April 2015|access-date=4 May 2015|website=The Intercept}}</ref> Former [[List of Governors of São Paulo|Governor of]] [[São Paulo]] [[Geraldo Alckmin]], who ran as a member of the previously dominant centre-right [[Brazilian Social Democracy Party]] (PSDB), received the worst result for a presidential nominee of his party in Brazilian history.
+
+Former President [[Lula da Silva]], once considered one of the most popular politicians in the world,<ref>{{cite news|date=31 December 2010|title=Lula leaves office as Brazil's 'most popular' president|work=BBC News|publisher=British Broadcasting Corporation|url=https://www.bbc.co.uk/news/world-latin-america-12097490|accessdate=4 January 2011}}</ref><ref>{{cite web|date=31 December 2010|title=The Most Popular Politician on Earth|url=http://www.newsweek.com/2009/09/21/the-most-popular-politician-on-earth.html|url-status=dead|archive-url=https://web.archive.org/web/20101229032256/http://www.newsweek.com/2009/09/21/the-most-popular-politician-on-earth.html|archive-date=29 December 2010|accessdate=4 January 2011|newspaper=Newsweek}}</ref><ref>{{cite news|date=8 January 2009|title=Lula's last lap|newspaper=The Economist|url=http://www.economist.com/node/12891019|url-access=limited|accessdate=4 January 2011}}</ref> intended to run for president as the candidate of the PT with former [[Mayor of São Paulo]] [[Fernando Haddad]] as his running-mate.<ref>{{cite web|date=1 September 2018|title=TSE indefere pedido de registro de canddidatura de Lula à Presidência da República|url=http://www.tse.jus.br/imprensa/noticias-tse/2018/Setembro/tse-indefere-pedido-de-registro-de-candidatura-de-lula-a-presidencia-da-republica|accessdate=9 September 2018|publisher=Tribunal Superior Eleitoral|language=pt}}</ref> Polling taken during the campaign found Lula as the favorite in both the first and second rounds of the election.<ref>{{Cite news|last=Brooks|first=Anthony Boadle, Brad|date=2018-01-31|title=Brazil's presidential race up for grabs with Lula out, poll shows|language=fr|work=Reuters|url=https://fr.reuters.com/article/us-brazil-election-poll-idUSKBN1FK1HA|access-date=2020-11-30}}</ref><ref>{{Cite web|last=Rapoza|first=Kenneth|title=Why Brazil's Ex-President Lula Leads Polls In An Election He Cannot Even Run In|url=https://www.forbes.com/sites/kenrapoza/2018/08/21/brazil-lula-polls-election-petrobras-scandal-bans-him/|access-date=2020-11-30|website=Forbes|language=en}}</ref> However, Lula's 2017 conviction on corruption charges barred him from running.<ref>{{Cite web|title=Brazil: Lula da Silva barred from running for presidency|url=https://www.aljazeera.com/news/2018/9/1/brazil-lula-da-silva-barred-from-running-for-presidency|access-date=2020-11-30|website=www.aljazeera.com|language=en}}</ref><ref>{{Cite news|last=Darlington|first=Shasta|last2=Andreoni|first2=Manuela|date=2018-09-01|title=Brazilian Court Rules That ‘Lula’ Cannot Run for President (Published 2018)|language=en-US|work=The New York Times|url=https://www.nytimes.com/2018/08/31/world/americas/lula-president-brazil.html|access-date=2020-11-30|issn=0362-4331}}</ref> Haddad, who was largely unknown to Brazilian voters at the time,<ref>{{Cite news|last=Phillips|first=Dom|date=2018-09-18|title=Fernando Haddad aims to be Brazil's new Lula – but does anyone know who he is?|language=en-GB|work=The Guardian|url=https://www.theguardian.com/world/2018/sep/18/fernando-haddad-lula-brazil-election|access-date=2020-11-30|issn=0261-3077}}</ref><ref>{{Cite web|last=Child|first=David|title=Who is Fernando Haddad, Brazil’s leftist presidential candidate?|url=https://www.aljazeera.com/news/2018/10/8/who-is-fernando-haddad-brazils-leftist-presidential-candidate|access-date=2020-11-30|website=www.aljazeera.com|language=en}}</ref> was chosen to run in his place, with [[Communist Party of Brazil]] (PCdoB) deputy [[Manuela d'Ávila|Manuela d’Avila]] of [[Rio Grande do Sul]] serving as his running mate.<ref>{{cite web|last=Gonçalves|first=Eduardo|date=11 September 2018|title=PT aprova Haddad para substituir Lula como candidato à Presidência|url=https://veja.abril.com.br/politica/pt-aprova-haddad-para-substituir-lula-como-candidato-a-presidencia/|accessdate=11 September 2018|publisher=Veja|language=pt}}</ref> His major opponent on the left was [[Ciro Gomes]], a mainstay of Brazilian politics who ran a centre-left campaign as a member of the [[Democratic Labour Party (Brazil)|Democratic Labour Party]] (PDT).<ref>{{Cite news|last=Kerche|first=Fabio|title=Brazilian candidate still crushing his rivals from jail|language=en|work=The Conversation|url=https://theconversation.com/brazilian-candidate-still-crushing-his-rivals-from-jail-95634|access-date=2018-05-23}}</ref> Following Haddad's advancement to the second round, Ciro did not endorse his campaign, though he did signal opposition to Bolsonaro.<ref>{{cite web|title=Ciro Gomes sinaliza apoio a Haddad e diz que tem uma certeza: "ele não, sem dúvida"|url=https://www.infomoney.com.br/mercados/politica/noticia/7662303/ciro-gomes-sinaliza-apoio-a-haddad-e-diz-que-tem-uma-certeza-ele-nao-sem-duvida}}</ref>
+
+The campaign was marked by political violence, with Bolsonaro being a victim of a [[stabbing]] attack at a campaign rally in [[Minas Gerais]]<ref name="Londono182">{{cite news|last1=Londoño|first1=Ernesto|date=6 September 2018|title=Brazil Presidential Candidate Jair Bolsonaro Is Stabbed at Campaign Rally|language=en|work=The New York Times|url=https://www.nytimes.com/2018/09/06/world/americas/brazil-jair-bolsonaro.html|url-status=live|access-date=6 September 2018|archive-url=https://web.archive.org/web/20180907010028/https://www.nytimes.com/2018/09/06/world/americas/brazil-jair-bolsonaro.html|archive-date=7 September 2018}}</ref> and supporters of both Haddad and Bolsonaro falling victim to politically-motivated attacks.<ref>{{Cite web|last=de 2018|first=Eliana Alves CruzEliana Alves Cruz9 de Outubro|last2=18h06|title=“Licença para matar” faz sua primeira vítima|url=https://theintercept.com/2018/10/09/moa-do-katende-vitima-eleicoes/|access-date=2020-11-30|website=The Intercept Brasil|language=pt}}</ref> [[Fake news]] spread on popular messaging app [[WhatsApp]] was a focal point of election coverage, with disinformation spread on the app being blamed for influencing voting intentions.<ref>{{Cite web|last=Avelar|first=Daniel|date=2019-10-30|title=WhatsApp fake news during Brazil election ‘favoured Bolsonaro’|url=http://www.theguardian.com/world/2019/oct/30/whatsapp-fake-news-brazil-election-favoured-jair-bolsonaro-analysis-suggests|access-date=2020-11-30|website=the Guardian|language=en}}</ref> In the first round of the election, Bolsonaro received approximately 46% of the vote to Haddad's 29%, with Ciro coming in third place with over 12% of the vote. In the second round, Bolsonaro defeated Haddad by approximately ten percentage points, with the deputy receiving over 55% of the vote to less than 45% for Haddad. Bolsonaro took office on January 1, 2019 as President of Brazil.
+
+==Background==
+The [[2014 Brazilian general election|2014 elections]] saw [[Workers' Party (Brazil)|Workers' Party]] candidate [[Dilma Rousseff]] reelected as President in the second round with 51.6% of the vote, defeating [[Aécio Neves]] of the [[Brazilian Social Democracy Party]] who received 48.4% of the vote.<ref>[https://next.ft.com/content/ce7cb3c0-4e9b-11e6-9b99-1e1f25294c08 Brazil keen to open trade talks with UK] Financial Times, 22 July 2016</ref> Rousseff had first been elected in the [[2010 Brazilian presidential election|2010 elections]], succeeding her political mentor, [[Luiz Inácio Lula da Silva]], who was in office from 2003 until 2011.<ref>{{cite web|url=https://www.nytimes.com/2014/10/27/world/americas/brazilian-presidential-election.html|title=Brazil Stays With Rousseff as President After Turbulent Campaign}}</ref>
+
+However, on 3 December 2015, [[Impeachment of Dilma Rousseff|impeachment proceedings against Rousseff]] were officially accepted by the [[Chamber of Deputies (Brazil)|Chamber of Deputies]].<ref>{{cite web |url=https://www.theguardian.com/world/2015/dec/02/brazil-dilma-rousseff-impeachment-proceedings |title=Brazil opens impeachment proceedings against president Dilma Rousseff |author=Jonathan Watts |work=The Guardian}}</ref> On 12 May 2016, the [[Brazilian Senate|Federal Senate]] temporarily suspended Rousseff's powers and duties for up to six months or until the Senate reached a verdict: to remove her from office if found guilty or to acquit her from the crimes charged.<ref>{{cite web |title=Dilma Rousseff suspended as Senate votes to impeach |url=http://edition.cnn.com/2016/05/12/americas/brazil-rousseff-impeachment-vote/index.html |website=CNN |accessdate=12 May 2016}}</ref> Vice President [[Michel Temer]], of the [[Brazilian Democratic Movement|Brazilian Democratic Movement Party]], assumed her powers and duties as Acting President of Brazil during the suspension.<ref>{{cite news |title=Brazil's Senate Votes to Impeach President Dilma Rousseff |url=https://www.nbcnews.com/news/world/brazil-senate-votes-impeach-president-dilma-rousseff-n572606|agency=[[NBC News]] |date=12 May 2016|accessdate=12 May 2016}}</ref><ref>{{cite web |url=http://congressoemfoco.uol.com.br/noticias/afastada-dilma-mantem-salario-alvorada-aviao-e-assessores/ |title=Afastada, Dilma mantém salário, Alvorada, avião e assessores |work=Congresso em Foco |language=pt}}</ref> On 31 August 2016, the Senate voted 61–20 in favor of impeachment, finding Rousseff guilty of breaking budgetary laws and removing her from office.<ref name="cnn_removal">{{cite news|url=http://www.cnn.com/2016/08/31/americas/brazil-rousseff-impeachment-vote/index.html|title=Brazil's Senate ousts Rousseff in impeachment vote|author1=Catherine E. Shoichet |author2=Euan McKirdy|website=CNN|access-date=31 August 2016}}</ref><ref name="BBC-removed">{{cite news|url=https://www.bbc.com/news/world-latin-america-37237513|title=Brazil President Dilma Rousseff removed from office by Senate|work=BBC News|date=September 1, 2016|accessdate=September 1, 2016}}</ref> Critics of the impeachment saw it as a legislative coup d'état.<ref>{{cite web|url=https://www.nytimes.com/2016/09/01/world/americas/brazil-impeachment-coup.html|title=All Impeachments Are Political. But Was Brazil’s Something More Sinister?}}</ref> Vice President Temer succeeded Rousseff as the 37th [[President of Brazil]]. His government implemented policies that contradicted the platform on which Rousseff's Workers Party had been elected, in one of the most controversial and politically-heated periods of modern Brazilian history.<ref>{{cite news|url=https://www.reuters.com/article/us-brazil-impeachment-idUSKCN114071|title=Brazil's Rousseff ousted by Senate, Temer sworn in|date=1 September 2016|work=[[Reuters]]|accessdate=6 April 2019}}</ref>
+
+Temer was barred from running for a full term in 2018. He had been convicted of campaign law violations in 2016, and was banned from holding any political office for eight years.<ref>{{cite web|url=https://theintercept.com/2016/06/03/credibility-of-brazils-interim-president-collapses-receives-8-year-ban-on-running/|title=Credibility of Brazil's Interim President Collapses as He Receives 8-Year Ban on Running for Office|work=[[The Intercept]]|last=Greenwald|first=Glenn|date=3 June 2016|accessdate=10 September 2016}}</ref> He was likely ineligible for a full term in any case due to the manner in which constitutional provisions on term limits are worded. The constitution stipulates that if the Vice President becomes Acting President for any reason, it counts toward the limit of two consecutive terms. This applies even when the Vice President becomes Acting President whenever the President is abroad.
+
+==Electoral system==
+[[File:Line for election (first round) at Santa Maria, Rio Grande do Sul (20181007-190650).jpg|thumb|Voters lined up waiting for their turn to vote in [[Santa Maria, Rio Grande do Sul]]]]
+Voting in Brazil is allowed for citizens over 16 years of age, and [[Compulsory voting|mandatory]] for those between 18 and 70 years of age.<ref>[http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm Constitution of Brazil], art. 14. {{in lang|pt}}</ref> Those who do not vote in an election and do not later present an acceptable justification (such as being away from their voting location at the time) must pay a fine of 3.51 [[Brazilian real|BRL]] (equivalent to 0.90 [[United States dollar|USD]] as of October 2018).<ref>[http://www.tse.jus.br/eleitor-e-eleicoes/servicos/justificativa-eleitoral Voting justification], [[Superior Electoral Court]]. {{in lang|pt}}</ref><ref>[http://www.tre-sp.jus.br/eleicoes/eleitor/tira-duvidas Answers to doubts from voters], Regional Electoral Court of São Paulo. {{in lang|pt}}</ref> Brazilian citizens residing abroad only vote for president.<ref>{{cite web|url=https://g1.globo.com/politica/eleicoes/2018/noticia/2018/10/07/brasileiros-votam-no-exterior.ghtml|title=Brasileiros votam no exterior}}</ref>
+
+===Presidential elections===
+The [[President of Brazil|President]] and the [[Vice President of Brazil]] are elected using the [[two-round system]]. Citizens may field their candidacies for the presidency, and participate in the general elections, which are held on the first Sunday in October (in this instance, 7 October 2018).<ref>{{cite web|url=http://countrystudies.us/brazil/100.htm|title=Brazil - The Electoral System|website=countrystudies.us}}</ref> If the most-voted candidate takes more than 50% of the overall vote, he or she is declared elected. If the 50% threshold is not met by any candidate, a second round of voting is held on the last Sunday in October (in this instance, 28 October 2018). In the second round, only the two most-voted candidates from the first round may participate. The winner of the second round is elected President of Brazil. Candidates for President run for office jointly with a candidate for Vice-President, and the Vice-President is elected as a consequence of the election of the President.<ref>{{cite web|url=http://www.tse.jus.br/o-tse/escola-judiciaria-eleitoral/publicacoes/revistas-da-eje/artigos/revista-eletronica-eje-n.-6-ano-3/quando-afinal-ha-segundo-turno-em-uma-eleicao|title=Quando, afinal, há segundo turno em uma eleição?|website=www.tse.jus.br}}</ref>
+
+===Gubernatorial elections===
+{{main|2018 Brazilian gubernatorial elections}}
+The Governors and Vice Governors of all [[States of Brazil|states]] and of the [[Federal District (Brazil)|Federal District]] were elected, in two rounds when needed, in the same way as the presidential election.<ref>{{cite web|url=http://agenciabrasil.ebc.com.br/politica/noticia/2018-10/treze-estados-e-o-df-tem-eleicao-de-governador-veja-os-candidatos|title=Treze estados e o DF têm eleição de governador; veja os candidatos|date=28 October 2018}}</ref>
+
+===Congressional elections===
+
+====Federal Senate elections====
+Two-thirds of the 81 members of the [[Brazilian Senate|Federal Senate]] will be elected for a term of 8 years in office, the other third having been elected in [[2014 Brazilian general election|2014]]. Two candidates will be elected from each of the [[States of Brazil|states]] and Federal District using majority block voting, with voters able to cast two votes each.<ref name="IPU">[http://www.ipu.org/parline-e/reports/2044_B.htm Federal Senate electoral system], [[Inter-Parliamentary Union]].</ref>
+
+====Chamber of Deputies elections====
+All 513 members of the [[Chamber of Deputies (Brazil)|Chamber of Deputies]] (federal deputies) will be elected, with candidates elected from 27 multi-member constituencies corresponding to the states and Federal District, varying in size from eight to 70 seats. The Chamber elections are held using [[open list]] [[proportional representation]], with seats allocated using the simple quotient.<ref>[http://www.ipu.org/parline-e/reports/2043_B.htm Chamber of Deputies electoral system], [[Inter-Parliamentary Union]].</ref>
+
+===Legislative Assemblies elections===
+All members of the [[Legislative Assemblies of Brazilian states|State Legislative Assemblies]] (state deputies) and of the Federal District Legislative Chamber (district deputies), varying in size from 24 to 94 seats, will be elected. These elections are also held using [[open list]] [[proportional representation]], with seats allocated using the simple quotient.<ref>{{cite web | last1=Farina | first1=Erik | title=Senado, Câmara e assembleias: saiba como funcionam as casas do Legislativo | url=https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2018/09/senado-camara-e-assembleias-saiba-como-funcionam-as-casas-do-legislativo-cjm0yiig302zb01mnxkxyt2yv.html | date=13 September 2018 | publisher=Gauchazh.clicrbs.com.br | accessdate=6 April 2019}}</ref>
+
+==Presidential candidates==
+===Candidates in runoff===
+{| class="wikitable"
+|-
+!colspan=2|#
+!Party/coalition
+!colspan=2|Presidential candidate
+! Political office(s)
+!colspan=2|Vice-Presidential candidate
+|-
+| style="background:#203B78;" |
+| 17
+|<center>''Brazil Above Everything, God Above Everyone''<br /><small>[[Social Liberal Party (Brazil)|PSL]], [[Brazilian Labour Renewal Party|PRTB]]</small><ref>{{Cite web |url=https://noticias.uol.com.br/politica/politicos-brasil/2018/presidente/br/21031955-jair-bolsonaro.htm |title=Archived copy |access-date=2018-10-29 |archive-url=https://web.archive.org/web/20181029232409/https://noticias.uol.com.br/politica/politicos-brasil/2018/presidente/br/21031955-jair-bolsonaro.htm |archive-date=2018-10-29 |url-status=dead }}</ref></center>
+|<center>[[File:Jair Messias Bolsonaro e Eduardo Bolsonaro (cropped).jpg|100px]]</center>
+|'''[[Jair Bolsonaro]]''' (PSL)<br /><small>([[Jair Bolsonaro presidential campaign, 2018|campaign]])</small>
+|[[Chamber of Deputies (Brazil)|Federal Deputy]] for [[Rio de Janeiro (state)|Rio de Janeiro]] (1991–2019)
+|<center>[[File:Hamilton Mourão em 6 de abril de 2019.jpg|100px]]</center>
+|Gen. [[Antônio Hamilton Mourão|Hamilton Mourão]] (PRTB)
+|-
+| style="background:#c00;" |
+|13
+|<center>''The People Happy Again''<br /><small>[[Workers' Party (Brazil)|PT]],<ref>{{Cite news|url=https://g1.globo.com/politica/eleicoes/2018/noticia/2018/08/04/pt-confirma-lula-como-candidato-a-presidencia-da-republica.ghtml|title=PT confirma Lula candidato; em mensagem, ex-presidente diz que 'querem fazer eleição de cartas marcadas'|work=G1|access-date=2018-08-04|language=pt-BR}}</ref> [[Republican Party of the Social Order|PROS]],<ref>{{Cite news|url=https://g1.globo.com/politica/eleicoes/2018/noticia/2018/08/04/pros-oficializa-alianca-com-pt-e-apoio-a-candidatura-de-lula-a-presidente.ghtml|title=Pros oficializa aliança com PT e apoio à candidatura de Lula a presidente|work=G1|access-date=2018-08-04|language=pt-BR}}</ref> [[Communist Party of Brazil|PCdoB]]</small>''<ref name=":27">{{Cite news|url=https://brasil.elpais.com/brasil/2018/08/06/politica/1533509037_182349.html|title=Haddad, vice e plano B de Lula, ganha reforço de Manuela D'Ávila no último minuto|last=Marreiro|first=Ricardo Della Coletta, Afonso Benites, Flávia|date=2018-08-06|work=EL PAÍS|access-date=2018-08-06|language=pt-br}}</ref><small></small>''</center>
+|<center>[[File:Fernando Haddad Prefeito 2016 (cropped).jpg|100px]]</center>
+|'''[[Fernando Haddad]]''' (PT)<br /><small>([[Fernando Haddad presidential campaign, 2018|campaign]])</small>
+| 51st [[List of mayors of São Paulo|Mayor]] of [[São Paulo (city)|São Paulo]] (2013–17)
+|<center>[[File:Manuela d'Ávila em setembro de 2018 (cropped).jpg|100px]]</center>
+|[[Manuela d'Ávila]] (PCdoB)
+|}
+
+===Candidates failing to make runoff===
+{| class="wikitable"
+|-
+!colspan=2|#
+!Party/coalition
+!colspan=2|Presidential candidate
+! Political office(s)
+!colspan=2|Vice-Presidential candidate
+|-
+| style="background:#f00;"|
+| 12
+| <center>''Sovereign Brazil''<ref>{{cite web|url=https://istoe.com.br/em-diretrizes-ciro-propoe-bndes-ativo-volta-da-tjlp-e-idh-de-portugal/|title=Em diretrizes, Ciro propõe BNDES ativo, volta da TJLP e IDH de Portugal - ISTOÉ Independente|date=10 August 2018}}</ref><br /><small>[[Democratic Labor Party (Brazil)|PDT]], [[Avante (political party)|AVANTE]]</small></center>
+| <center>[[File:Ciro Gomes em 29-07-2010 (Agência Brasil) (cropped).jpg|100px]]</center>
+| '''[[Ciro Gomes]]''' (PDT)<br /><small>([[Ciro Gomes presidential campaign, 2018|campaign]])</small>
+| Governor of [[Ceará]] (1991–94) and [[Chamber of Deputies (Brazil)|Federal Deputy]] for [[Ceará]] (2007–11)
+|<center>[[File:Senadora Kátia Abreu Oficial.jpg|100px]]</center>
+|[[Kátia Abreu]]<ref>{{Cite news|url=https://oglobo.globo.com/brasil/ciro-gomes-tera-senadora-katia-abreu-como-vice-22951042|title=Ciro Gomes terá senadora Kátia Abreu como vice|date=2018-08-05|work=O Globo|access-date=2018-08-05|language=pt-BR}}</ref> (PDT)
+|-
+| style="background:seaGreen;"|
+|15
+|<center>''This is the Solution''<br /><small>[[Brazilian Democratic Movement|MDB]], [[Humanist Party of Solidarity|PHS]]</small><ref>{{cite web|url=http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2018/2022802018/BR/280000622281|title=Divulgação de Candidaturas e Contas Eleitorais|website=divulgacandcontas.tse.jus.br}}</ref></center>
+|<center>[[File:Henrique Meirelles recebe o ministro das Finanças do Reino Unido - 35459912404 (cropped).jpg|100px]]</center>
+|'''[[Henrique Meirelles]]''' (MDB)<br /><small>([[Henrique Meirelles presidential campaign, 2018|campaign]])</small>
+|[[Ministry of the Economy (Brazil)|Minister of Finance]] (2016–2018) and former President of the [[Central Bank of Brazil]] (2003–11)
+|<center>[[File:Germano Rigotto em 2015 (cropped).jpg|80px]]</center>
+|[[Germano Rigotto]] (MDB)
+|-
+| style="background:#FFD500;"|
+| 16
+| <center>[[United Socialist Workers' Party]] (PSTU)</center>
+|<center>[[File:Vera Lúcia no Dia Internacional da Mulher Trabalhadora 2018 - PSTU (cropped).jpg|100px]]</center>
+|'''[[Vera Lúcia]]''' (PSTU)<br /><small>([[Vera Lúcia presidential campaign, 2018|campaign]])</small>
+|Labor organizer
+|<center>[[File:Hertz Dias PSTU (cropped).jpg|100px]]</center>
+| Hertz Dias (PSTU)
+|-
+| style="background:#20B2AA;"|
+| 18
+| <center>''United to Transform Brazil''<br /><small>[[Sustainability Network|REDE]], [[Green Party (Brazil)|PV]]</small></center>
+|<center>[[File:Marina Silva em março de 2018 (2) (cropped).jpg|100px]]</center>
+| '''[[Marina Silva]]''' (REDE)<br /><small>([[Marina Silva presidential campaign, 2018|campaign]])</small>
+|[[Brazilian Senate|Senator]] for [[Acre (state)|Acre]] (1995–2011)<ref>{{Cite news|url=https://g1.globo.com/politica/noticia/2018/08/04/rede-confirma-candidatura-de-marina-silva-a-presidencia-da-republica.ghtml|title=Rede confirma candidatura de Marina Silva à Presidência da República|work=G1|access-date=2018-08-04|language=pt-BR}}</ref>
+|<center>[[File:Eduardo Jorge em Convenção 2018 - Vice presidente (cropped).jpg|100px]]</center>
+| [[Eduardo Jorge]] (PV)
+|-
+| style="background:#2DA933;"|
+|19
+|<center>''Real Change''<br /><small>[[Podemos (Brazil)|PODE]], [[Social Christian Party (Brazil)|PSC]], [[Christian Labour Party|PTC]], [[Progressive Republican Party (Brazil)|PRP]]</small></center>
+|<center>[[File:Foto oficial de Álvaro Dias (cropped).jpg|100px]]</center>
+|'''[[Alvaro Dias]]'''<br />(PODE)<br /><small>([[Álvaro Dias presidential campaign, 2018|campaign]])</small>
+|[[Brazilian Senate|Senator]] for [[Paraná (state)|Paraná]] (1983–87, 1999–2018)<ref>{{cite web|url=https://www.brasil247.com/pt/247/parana247/210871/%C3%81lvaro-Dias-quer-disputar-Presid%C3%AAncia-pelo-PV-em-2018.htm/|title=Álvaro Dias quer disputa Presidência da República em 2018|date=2015-12-24|publisher=Brasil 247|language=pt-br|accessdate=2017-03-21}}</ref><ref>{{Cite news|url=https://g1.globo.com/politica/eleicoes/2018/noticia/2018/08/04/podemos-confirma-alvaro-dias-para-disputa-da-presidencia.ghtml|title=Podemos confirma Alvaro Dias para disputa da Presidência|work=G1|access-date=2018-08-04|language=pt-BR}}</ref>
+|<center>[[File:Paulo Rabello de Castro.png|100px]]</center>
+|[[Paulo Rabello de Castro]] (PSC)
+|-
+| style="background:#AFB908;"|
+| 27
+|<center>[[Christian Democracy (Brazil)|Christian Democracy]] (DC)</center>
+| <center>[[File:José Maria Eymael no senado.jpg|100px]]</center>
+| '''[[José Maria Eymael]]''' (DC)<br /><small>([[José Maria Eymael presidential campaign, 2018|campaign]])</small>
+|[[Chamber of Deputies (Brazil)|Federal Deputy]] for [[São Paulo (state)|São Paulo]] (1986–95)<ref name=Levymael/>
+|<center>[[File:Caricatura do Professor Helvio Costa.tif|100px]]</center>
+| Helvio Costa (DC)
+|-
+| style="background:#FF8511;"|
+|30
+|<center>[[New Party (Brazil)|New Party]] (NOVO)</center>
+|<center>[[File:João Amoêdo review ContabilidadeTv (cropped).jpg|100px]]</center>
+|'''[[João Amoêdo]]''' (NOVO)<br /><small>([[João Amoêdo presidential campaign, 2018|campaign]])</small>
+|President of [[New Party (Brazil)|NOVO]] (2015–17)<ref>{{cite web|url=https://g1.globo.com/politica/eleicoes/2018/noticia/partido-novo-anuncia-joao-amoedo-como-pre-candidato-a-presidente-em-2018.ghtml|title=Partido Novo anuncia João Amoêdo como pré-candidato a presidente em 2018|date=18 November 2017|publisher=G1|language=pt|accessdate=19 November 2017}}</ref>
+|<center>[[File:Christian-Lohbauer.jpg|100px]]</center>
+|Christian Lohbauer (NOVO)
+|-
+| style="background:#00c;"|
+|45
+|<center>''To unite Brazil''<ref>{{cite web|url=https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/08/08/geraldo-alckmin-tse.htm|title=Alckmin pede registro de candidatura e declara R$ 1,3 milhão em bens ao TSE|publisher=UOL|language=pt|author=Gustavo Maia e Luciana Amaral|date=8 August 2018|accessdate=8 August 2018}}</ref><br /><small>[[Brazilian Social Democracy Party|PSDB]], [[Democrats (Brazil)|DEM]], [[Progressistas|PP]], [[Party of the Republic|PR]], [[Brazilian Republican Party|PRB]], [[Solidariedade|SD]], [[Brazilian Labor Party (current)|PTB]], [[Social Democratic Party (Brazil, 2011)|PSD]], [[Popular Socialist Party (Brazil)|PPS]]</small></center>
+|<center>[[File:Governador Geraldo Alckmin Anuncia Duplicação da Euclides da Cunha em 2011 (cropped).jpg|115x156px]]</center>
+|'''[[Geraldo Alckmin]]''' (PSDB)<br /><small>([[Geraldo Alckmin presidential campaign, 2018|campaign]])</small>
+|[[List of Governors of São Paulo|Governor of São Paulo]] (2001–06, 2011–18)<ref>{{cite web|url=http://noticias.r7.com/brasil/aliados-defendem-nome-de-alckmin-para-a-disputa-presidencial-06032017/|title=Aliados defendem nome de Alckmin para a disputa presidencial|date=6 March 2017}}</ref>
+|<center>[[File:Foto oficial de Ana Amélia Lemos.jpg|100px]]</center>
+|[[Ana Amélia Lemos|Ana Amélia]] (PP)
+|- 
+| style="background:#B80000;"|
+| 50
+| <center>''Let's Go Without Fear of Changing Brazil''<ref>{{cite web|url=https://www.psol50.org.br/oficial-boulos-e-sonia-candidatos/|archive-url=https://web.archive.org/web/20181013071249/http://www.psol50.org.br/oficial-boulos-e-sonia-candidatos/|url-status=dead|archive-date=13 October 2018|title=Oficial: Guilherme Boulos e Sônia Guajajara são os candidatos do PSOL à Presidência|publisher=PSOL 50|language=pt|author=PSOL Nacional|date=21 June 2018|accessdate=22 July 2018}}</ref><br /><small>[[Socialism and Liberty Party|PSOL]], [[Brazilian Communist Party|PCB]]</small></center>
+| <center>[[File:Guilherme Boulos em São Paulo.jpg|100px]]</center>
+| '''[[Guilherme Boulos]]''' (PSOL)<br /><small>([[Guilherme Boulos presidential campaign, 2018|campaign]])</small>
+|Professor at [[University of São Paulo]], coordinator of the [[Homeless Workers' Movement]] activist, and writer.
+| <center>[[File:Sônia Guajajara (cropped).jpg|100px]]</center>
+| [[Sônia Guajajara]] (PSOL)
+|-
+| style="background:#ca0;"|
+|51
+|<center>[[Patriota]] (PATRI)</center>
+|<center>[[File:Deputados cabo Daciolo (PSOL-RJ) e Marcos Reategui (PSC-AP) participam do programa Brasil em Debate (cropped).jpg|100px]]</center>
+|'''[[Cabo Daciolo]]''' (PATRI)<br /><small>([[Cabo Daciolo presidential campaign, 2018|campaign]])</small>
+|[[Chamber of Deputies (Brazil)|Federal Deputy]] for [[Rio de Janeiro (state)|Rio de Janeiro]] (2015–)<ref>{{cite web|url=https://www.uol/eleicoes/especiais/pre-candidatos-a-presidencia.htm|title=Todos querem o Planalto|date=11 March 2018|publisher=Uol|language=pt|trans-title=Everyone wants the Planalto|accessdate=10 April 2018}}</ref>
+|<center>[[File:Suelene Balduino Nascimento.jpg|100px]]</center>
+|Suelene Balduino Nascimento (PATRI)
+|-
+| style=background:#006000;"|
+| 54
+| <center>[[Free Homeland Party (Brazil)|Free Homeland Party]] (PPL)</center>
+|<center>[[File:João Vicente Goulart sobre exumação (cropped).jpg|100px]]</center>
+| '''[[João Vicente Goulart]]''' (PPL)<br /><small>([[João Vicente Goulart presidential campaign, 2018|campaign]])</small>
+| [[Legislative Assembly of Rio Grande do Sul|State Deputy]] of [[Rio Grande do Sul]] (1982–86)
+|<center>[[File:Caricatura de Léo Alves PPL.png|100px]]</center>
+| Léo Alves (PPL)
+|}
+
+===Lost in primaries or conventions===
+====Brazilian Social Democracy Party (PSDB)====
+* [[Arthur Virgílio Neto]], Mayor of [[Manaus]] (1989–1992, 2013–)<ref>{{cite web|url=https://josiasdesouza.blogosfera.uol.com.br/2017/12/22/alckmin-e-virgilio-se-enfrentarao-em-5-debates/|title=Alckmin e Virgílio se enfrentarão em 5 debates|publisher=Uol|language=pt|first=Josias|last=de Souza|date=22 December 2017|accessdate=22 December 2017}}</ref><ref>{{cite web|url=https://www.em.com.br/app/noticia/politica/2018/02/23/interna_politica,939836/arthur-virgilio-desiste-de-previa-com-alckmin-e-o-chama-de-cinico.shtml|title=Arthur Virgílio desiste de prévia com Alckmin e o chama de cínico|publisher=EM|language=pt|date=23 February 2018|accessdate=28 March 2018}}</ref>
+
+====Democrats (DEM)====
+* [[Ronaldo Caiado]], [[Brazilian Senate|Senator]] for [[Goiás]] (2015–)<ref>{{cite web|url=https://www.poder360.com.br/eleicoes/senador-ronaldo-caiado-lidera-corrida-pelo-governo-de-goias-2/|title=Senador Ronaldo Caiado lidera disputa pelo Governo de Goiás|publisher=Poder360|language=pt|first=Douglas|last=Rodrigues|date=13 December 2017|accessdate=28 March 2018}}</ref>
+* [[Antônio Carlos Magalhães Neto]], Mayor of [[Salvador, Bahia|Salvador]] (2013–); President of the [[Democrats (Brazil)|Democrats]] (2018–)<ref>{{cite web|url=http://atarde.uol.com.br/coluna/tempopresente/1933331-numeros-indicam-disputa-acirrada-entre-rui-costa-e-acm-neto-nas-eleicoes-2018-premium|title=Números indicam disputa acirrada entre Rui Costa e ACM Neto nas eleições 2018|publisher=A Tarde|language=pt|date=3 February 2018|accessdate=28 March 2018}}</ref>
+* [[Mendonça Filho]], [[Ministry of Education (Brazil)|Minister of Education]] (2016–2018)<ref>{{cite web|url=https://eleicoes.uol.com.br/2018/noticias/agencia-estado/2018/02/21/mendonca-filho-diz-que-deixara-governo-ate-abril-para-disputar-eleicoes.htm|title=Mendonça Filho diz que deixará governo até abril para disputar eleições|publisher=Uol|language=pt|first=Eduardo|last=Rodrigues|date=21 February 2018|accessdate=28 March 2018}}</ref>
+
+====Party of National Mobilization (PMN)====
+* [[Valéria Monteiro]], journalist, model, actress, and television presenter<ref>{{cite web|url=https://www.poder360.com.br/eleicoes/eleicoes-pmn-e-avante-realizam-convencao-sem-lancar-candidatura-propria/|title=Eleições: PMN e Avante realizam convenção sem lançar candidatura própria|date=21 July 2018|website=Poder360|access-date=23 July 2018}}</ref><ref>{{cite web|url=http://ultimosegundo.ig.com.br/politica/2018-07-21/valeria-monteiro-eleicoes-pmn.html|title=Valéria Monteiro é rejeitada como candidata à Presidência do PMN|publisher=Último Segundo|language=pt|author=iG São Paulo|date=21 July 2018|accessdate=26 July 2018}}</ref>
+
+====Social Democratic Party (PSD)====
+* [[Guilherme Afif Domingos]], former Vice Governor of [[São Paulo (state)|São Paulo]] (2011–15)<ref>{{cite web|url=https://www1.folha.uol.com.br/poder/2018/03/confederacao-defende-lancar-afif-para-o-planalto.shtml|title=Confederação defende lançar Afif para o Planalto|publisher=Folha de S. Paulo|language=pt|trans-title=Confederation defends launchig Afif for Planalto|date=12 March 2018|accessdate=15 April 2018|url-access=limited}}</ref><ref>{{cite web|url=http://ultimosegundo.ig.com.br/politica/2018-07-21/valeria-monteiro-eleicoes-pmn.html|title=Valéria Monteiro é rejeitada como candidata à presidência do PMN - Política - iG|trans-title=Valéria Monteiro rejected as PMN presidential candidate|publisher=Jornal do Brasil|language=pt|author=JB|date=28 July 2018|accessdate=28 July 2018}}</ref>
+
+====Socialism and Liberty Party (PSOL)====
+* Plínio de Arruda Sampaio Jr., economist and professor at [[University of Campinas]]<ref name="PSOL2">{{cite web|url=https://www1.folha.uol.com.br/poder/2018/03/psol-oficializa-boulos-como-pre-candidato-a-presidencia.shtml|title=PSOL oficializa Boulos como pré-candidato à Presidência|publisher=Folha de S. Paulo|language=pt|date=10 March 2018|accessdate=28 March 2018}}</ref>
+* Hamilton Assis, former Leader of [[Central Única dos Trabalhadores]] of [[Bahia]] (1993–1996)<ref name=PSOL2/>
+* Nildo Ouriques, economist and professor at [[Federal University of Santa Catarina|UFSC]]<ref name=PSOL2/>
+* [[Sônia Guajajara]], indigenous activist and militant ecosocialist<ref name=PSOL2/><ref>{{cite news|url=https://politica.estadao.com.br/noticias/eleicoes,psol-confirma-boulos-como-candidato-a-presidencia,70002409952|title=PSOL confirma Boulos como candidato à Presidência|newspaper=Estadão|language=pt|first=Renato|last=Onofre|date=21 July 2018|accessdate=26 July 2018}}</ref>
+
+<!-- = = = don't edit next six lines for Navbox below = = = -->
+
+{| class="navbox collapsible collapsed" style="text-align:left; border:0; margin-top:0.2em;"
+|-
+! style="background:#cff; font-weight:normal;"|
+;Declined to be candidates
+|-
+| style="border:solid 1px silver; padding:8px; background:white;"|
+<!-- = = = don't edit above six lines = = =  -->
+;Brazilian Democratic Movement (MDB)
+*[[Roberto Requião]], [[Brazilian Senate|Senator]] for [[Paraná (state)|Paraná]] (1995–2002 and 2011–)<ref name="Requiao">{{Cite news|url=https://odia.ig.com.br/colunas/informe-do-dia/2018/03/5524503-o-substituto-de-lula.html|title=Novo nome ganha forca no PT para substituir Lula na eleição|work=O Dia – Informe do Dia|access-date=2018-08-02|language=pt-BR}}</ref><ref>{{Cite news|url=https://odia.ig.com.br/colunas/informe-do-dia/2018/03/5524503-o-substituto-de-lula.html|title=Novo nome ganha forÃ§a no PT para substituir Lula na eleiÃ§Ã£o|work=O Dia – Informe do Dia|access-date=2018-08-02|language=pt-BR}}</ref>
+* [[Germano Rigotto]], former [[List of Governors of Rio Grande do Sul|Governor of Rio Grande do Sul]] (2003–07)<ref>{{cite web|url=http://www.sul21.com.br/jornal/rigotto-sinaliza-candidatura-a-presidencia-em-2018-durante-convencao-do-pmdb/|title=Rigotto sinaliza candidatura à Presidência em 2018 durante convenção do PMDB|publisher=Sul 21|language=pt|date=27 March 2017|accessdate=28 March 2018}}</ref><ref>{{cite web|url=http://independente.com.br/germano-rigotto-estuda-candidatura-do-senado-nas-eleicoes-de-outubro/|title=Germano Rigotto estuda candidatura do Senado nas eleições de outubro|publisher=Grupo Independente|language=pt|date=23 January 2018|accessdate=28 March 2018}}</ref>
+
+;Brazilian Labour Renewal Party (PRTB)
+*[[Levy Fidelix]], President of the [[Brazilian Labour Renewal Party|PRTB]] (1994–) and nominee for President in [[2010 Brazilian presidential election|2010]] and [[2014 Brazilian general election|2014]]<ref name="Levymael">{{cite news|url=http://politica.estadao.com.br/noticias/geral,eymael-e-levy-fidelix-querem-ser-o-novo-em-mais-uma-eleicao-para-presidente,70002115439|title=Eymael e Levy Fidelix querem ser o "novo" em mais uma eleição para presidente|last=Amendola|first=Gilberto|date=11 December 2017|newspaper=Estadão|language=pt|accessdate=21 December 2017}}</ref>
+*[[Antônio Hamilton Mourão]], Brazilian Army general<ref>{{cite web|url=https://www1.folha.uol.com.br/poder/2018/05/general-mourao-filia-se-ao-prtb-e-pode-ser-candidato-a-presidente-pelo-partido.shtml|title=General Mourão filia-se ao PRTB e pode ser candidato a presidente pelo party|last=Mantovani|first=Kelly|date=8 May 2018|publisher=Folha de S. Paulo|language=pt|accessdate=9 May 2018}}</ref>
+
+;Brazilian Republican Party (PRB)
+* [[Flávio Rocha]], CEO and Chairman of [[Lojas Riachuelo]] (2005–) and former [[Chamber of Deputies (Brazil)|Federal Deputy]] for [[Rio Grande do Norte]] (1987–95)<ref>{{cite web|url=https://www.terra.com.br/noticias/eleicoes/ser-vice-nao-e-meu-projeto-diz-flavio-rocha-ao-desistir-de-candidatura,94ff8bd367d882433dca8fc5d8822a051vkcay8e.html|title=Flávio Rocha desiste de candidatura à Presidência|last=Venceslau|first=Pedro|date=13 July 2018|website=Terra|access-date=13 July 2018}}</ref>
+
+;Brazilian Social Democracy Party (PSDB)
+* [[João Doria]], former [[List of mayors of São Paulo|Mayor of São Paulo]] (2017–18)<ref>{{cite web|url=https://jornalivre.com/2017/02/17/apos-milagres-em-sao-paulo-joao-doria-ja-comeca-a-ser-cogitado-para-a-presidencia-da-republica/|title=Após milagres em São Paulo, João Dória já começa a se cogitado para a presidência da República|publisher=Jornalivre|language=pt-br|date=2017-02-17|accessdate=2017-03-21}}</ref><ref>{{cite web|url=http://www1.folha.uol.com.br/poder/2017/11/1937126-doria-recua-do-planalto-e-mira-governo-de-sao-paulo.shtml|title=Dória recua do Planalto e mira governo de São Paulo|publisher=Folha de S. Paulo|language=pt|first=Thais|last=Bilenky|date=22 November 2017|accessdate=22 November 2017}}</ref>
+* [[Aécio Neves]], [[Brazilian Senate|Senator]] for [[Minas Gerais]] (2010–) and nominee for President in [[2014 Brazilian presidential election|2014]]<ref>{{cite web|url=https://www1.folha.uol.com.br/poder/2018/02/psdb-decide-disputar-governo-de-mg-para-aecio-tentar-a-reeleicao.shtml|title=PSDB decide disputar governo do MG para Aécio tentar a reeleição|publisher=Folha de S. Paulo|language=pt|first=Ranier|last=Bragon|date=20 February 2018|accessdate=28 March 2018}}</ref>
+* [[José Serra]], [[Brazilian Senate|Senator]] for [[São Paulo (state)|São Paulo]] (1996–1998, 2002–03, 2015–16 and 2017–) and nominee for President in [[2002 Brazilian general election|2002]] and [[2010 Brazilian presidential election|2010]]<ref>{{cite web|url=http://www1.folha.uol.com.br/poder/2018/01/1951611-serra-afirma-que-nao-sera-candidato-na-eleicao-deste-ano.shtml|title=Serra afirma que não será candidato na eleição deste ano|publisher=Folha de S. Paulo|language=pt|date=18 January 2018|accessdate=28 March 2018}}</ref>
+
+;Brazilian Socialist Party (PSB)
+* [[Joaquim Barbosa]], former Minister of the [[Supreme Federal Court]] (2003–14)<ref>{{cite web|url=http://politica.estadao.com.br/noticias/eleicoes,joaquim-barbosa-confirma-que-nao-sera-candidato-a-presidencia,70002299558|title=Joaquim Barbosa confirma que não será candidato à Presidência|date=2018-05-08|website=Estadão|access-date=2018-05-08}}</ref>
+
+;Christian Labour Party (PTC)
+* [[Fernando Collor de Mello]],  former [[President of Brazil]] (1990–92) and [[Brazilian Senate|Senator]] for [[Alagoas]] (2007–)<ref>{{cite web|url=https://veja.abril.com.br/brasil/collor-anuncia-pre-candidatura-a-presidencia-da-republica/|title=Collor anuncia pré-candidatura à Presidência da República|publisher=Veja|language=pt|first=Guilherme|last=Venaglia|date=19 January 2018|accessdate=19 January 2018}}</ref><ref>{{cite web|url=https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/06/26/fernando-collor-fica-fora-da-disputa-a-presidencia.htm|title=PTC desiste de candidatura, e Collor fica fora da disputa à Presidência|last=Garcia|first=Daniela|date=2018-06-25|website=UOL|access-date=2018-06-27}}</ref><ref>{{cite web|url=https://www1.folha.uol.com.br/poder/2018/07/ptc-descarta-candidatura-de-collor-a-presidencia.shtml|title=PTC descarta candidatura de Collor à Presidência|last=Vettorazzo|first=Lucas|date=28 July 2018|website=Folha de S.Paulo|archive-url=https://web.archive.org/web/20010202144500/http://www.se/|archive-date=2001-02-02|url-status=dead|access-date=28 July 2018}}</ref>
+
+;Communist Party of Brazil (PCdoB)
+*[[Manuela d'Ávila]], former [[Chamber of Deputies (Brazil)|Federal Deputy]] for Rio Grande do Sul (2007–2015)<ref name=":27" />
+* [[Flávio Dino]], [[List of Governors of Maranhão|Governor of Maranhão]] (2015–)<ref>{{cite web|url=https://www.revistaforum.com.br/oito-meses-da-eleicao-pesquisa-aponta-vitoria-de-flavio-dino-no-primeiro-turno-no-maranhao/|title=A oito meses da eleição, pesquisa aponta vitória de Flávio Dino no primeiro turno no Maranhão|publisher=Revista Fórum|language=pt|date=15 February 2018|accessdate=28 March 2018}}</ref>
+
+;Democrats (DEM)
+* [[Rodrigo Maia]], [[President of the Chamber of Deputies (Brazil)|President of the Chamber of Deputies]] (2016–) and [[Chamber of Deputies (Brazil)|Federal Deputy]] for Rio Grande do Sul (1999–)<ref name=DEM>{{cite web|url=https://www.poder360.com.br/eleicoes/rodrigo-maia-sobre-2018-meu-nome-e-1-dos-4-fortes-do-dem-para-o-planalto/|title=Rodrigo Maia sobre 2018: "meu nome é 1 dos 4 mais fortes do DEM" para o Planalto|publisher=Poder360|language=pt|first=Naomi|last=Matsui|date=29 December 2017|accessdate=30 December 2017}}</ref><ref name="MaiaAldo">{{cite web|url=https://www1.folha.uol.com.br/poder/2018/03/maia-traca-roteiro-para-disputar-planalto.shtml|title=Maia traça roteiro para disputar Planalto|last=Carvalho|first=Daniel|date=4 March 2018|publisher=Folha de S. Paulo|language=pt|accessdate=5 March 2018}}</ref><ref name="Centrão"/><ref>{{cite web|url=http://www.redetv.uol.com.br/jornalismo/eleicoes2018/blog/eleicoes-2018/rodrigo-maia-desiste-de-ser-candidato-a-presidencia-nas-eleicoes|title=Rodrigo Maia desiste de ser candidato à Presidência nas eleições|publisher=RedeTV!|language=pt|date=23 July 2018|accessdate=24 July 2018}}</ref>
+
+;Green Party (PV)
+* [[Eduardo Jorge]], former [[Chamber of Deputies (Brazil)|Federal Deputy]] for São Paulo (1987–2003)<ref>{{cite web|url=http://conexaoto.com.br/2017/02/17/ciro-gomes-anuncia-candidatura-para-2018-nao-deixarei-ninguem-fazer-um-golpe-comigo|title=Ciro Gomes anuncia candidatura para 2018: "Não deixarei ninguém fazer um golpe comigo"}}</ref><ref>{{cite web|url=http://www.pvsp.org.br/index.php/ultimas-noticias/item/4222-eduardo-jorge-deve-disputar-mandato-para-deputado-estadual.html|title=Eduardo Jorge deve disputar mandato para deputado estadual|publisher=Partido Verde de São Paulo|language=pt|date=9 July 2018|accessdate=19 July 2018|archive-url=https://web.archive.org/web/20180719175635/http://www.pvsp.org.br/index.php/ultimas-noticias/item/4222-eduardo-jorge-deve-disputar-mandato-para-deputado-estadual.html|archive-date=19 July 2018|url-status=dead}}</ref><ref>{{cite web|url=https://www1.folha.uol.com.br/poder/2018/08/eduardo-jorge-sera-vice-de-marina-silva-confirma-presidente-do-pv.shtml|title=Eduardo Jorge será vice de Marina Silva, confirma presidente do PV|publisher=Folha de S. Paulo|language=pt|first=Joelmir|last=Tavares|date=2 August 2018|accessdate=2 August 2018}}</ref>
+
+;Party of the Republic (PR)
+*Josué Gomes, President of the Coteminas Company<ref name="Centrão"/><ref>{{Cite news|url=https://www.otempo.com.br/capa/pol%C3%ADtica/josu%C3%A9-alencar-%C3%A9-disputado-por-quatro-partidos-para-as-elei%C3%A7%C3%B5es-de-2018-1.1606275|title=Josué Alencar é disputado por quatro partidos para as eleições de 2018|last=TEMPO|first=O|date=2018-05-01|work=Política|access-date=2018-06-09|language=pt-BR}}</ref><ref>{{Cite news|url=https://politica.estadao.com.br/noticias/geral,josue-gomes-se-coloca-a-disposicao-do-pr-para-ser-candidato,70002329909|title=Josué Gomes se coloca à disposição do PR para ser candidato – Política – Estadão|work=Estadão|access-date=2018-06-09|language=pt-BR}}</ref>
+* [[Magno Malta]], [[Brazilian Senate|Senator]] for [[Espírito Santo]] (2003–)<ref>{{cite web|url=https://www1.folha.uol.com.br/poder/2018/03/potencial-vice-de-bolsonaro-magno-malta-quer-multiplicar-bancada-religiosa.shtml|title=Potencial vice de Bolsonaro, Magno Malta quer multiplicar bancada religiosa|publisher=Folha de S. Paulo|language=pt|date=9 March 2018|accessdate=28 March 2018}}</ref>
+
+;Patriota (PATRI)
+*[[Roberto M. Rey Jr.|Roberto Rey]], former Vice President of PATRI (2015–17)<ref>{{cite web|url=https://vejasp.abril.com.br/cidades/dr-rey-desiste-de-concorrer-a-presidencia-da-republica/|title=Dr. Rey desiste de concorrer à presidência da República|publisher=Veja São Paulo|access-date=2018-04-07|language=pt-BR}}</ref>
+
+;Popular Socialist Party (PPS)
+* [[Cristovam Buarque]], [[Brazilian Senate|Senator]] for the [[Federal District (Brazil)|Federal District]] (2003–) and nominee for President in [[2006 Brazilian general election|2006]]<ref>{{cite web|url=https://g1.globo.com/distrito-federal/noticia/cristovam-buarque-anuncia-licenca-do-mandato-de-senador-para-avaliar-candidatura-a-presidencia.ghtml|title=Cristovam Buarque anuncia licença do mandato de senador para avaliar candidatura à Presidência|publisher=G1|language=pt|first=Gustavo|last=Garcia|date=13 November 2017|accessdate=13 November 2017}}</ref><ref>{{cite web|url=https://www1.folha.uol.com.br/poder/2018/03/descartando-filiacao-de-huck-pps-aprova-posicao-de-apoio-a-alckmin.shtml|title=Descartando filiação de Huck, PPS aprova posição de apoio a Alckmin|publisher=Folha de S. Paulo|language=pt|first1=Thais|last1=Bilenky|first2=Joelmir|last2=Tavares|date=26 March 2018|accessdate=27 March 2018}}</ref>
+
+;Progressive Party (PP)
+* [[Blairo Maggi]], [[Ministry of Agriculture (Brazil)|Minister of Agriculture]] (2016-)<ref>{{cite web|url=https://g1.globo.com/mt/mato-grosso/noticia/blairo-maggi-anuncia-que-nao-vai-disputar-eleicao-em-2018-e-diz-que-nao-teme-perder-o-foro-privilegiado.ghtml|title=Blairo Maggi anuncia que não vai disputar eleição em 2018 e diz que não teme perder o foro privilegiado|publisher=G1|language=pt|first=Tiago|last=Terclotty|date=26 February 2018|accessdate=28 March 2018}}</ref>
+
+;Social Christian Party (PSC)
+*[[Paulo Rabello de Castro]], former President of the [[Brazilian Development Bank]] (2017–18) and the [[Brazilian Institute of Geography and Statistics]] (2016–17)<ref>{{cite web|url=https://g1.globo.com/politica/eleicoes/2018/noticia/2018/08/01/psc-desiste-de-ter-candidato-proprio-a-prtesidente-e-indica-paulo-rabello-de-castro-para-vice-de-alvaro-dias.ghtml|title=PSC desiste de ter candidato próprio a presidente e indica Paulo Rabello de Castro para vice de Alvaro Dias|last=Maia|first=Gustavo|date=1 August 2018|publisher=G1|language=pt|accessdate=1 August 2018}}</ref>
+
+;Socialism and Liberty Party (PSOL)
+* [[Chico Alencar]], [[Chamber of Deputies (Brazil)|Federal Deputy]] for [[Rio de Janeiro (state)|Rio de Janeiro]] (2003–)<ref name=PSOL/><ref>{{cite news|url=http://politica.estadao.com.br/noticias/geral,chico-alencar-desiste-de-disputar-a-presidencia-e-vai-se-lancar-ao-senado-em-2018,70002050057|title=Chico Alencar desiste de disputar a Presidência e vai se lançar ao Senado em 2018|newspaper=Estadão|language=pt|first=Isadora|last=Peron|date=17 October 2017|accessdate=16 November 2017}}</ref>
+* [[Marcelo Freixo]], [[Legislative Assembly of Rio de Janeiro|State Deputy]] of [[Rio de Janeiro (state)|Rio de Janeiro]] (2007–)<ref name=PSOL/><ref>{{cite web|url=https://noticias.uol.com.br/politica/ultimas-noticias/2017/12/22/ainda-pequeno-psol-ganha-25-mil-filiados-em-um-ano-e-quer-dobrar-bancada-na-camara.htm|title=Ainda "pequeno", PSOL ganha 25 mil filiados em um ano e quer dobrar bancada na Câmara|publisher=Uol|language=pt|first=Gustavo|last=Maia|date=22 December 2017|accessdate=22 December 2017}}</ref>
+* [[Luciana Genro]], former [[Chamber of Deputies (Brazil)|Federal Deputy]] for [[Rio Grande do Sul]] (2003–11) and nominee for President in [[2014 Brazilian general election|2014]]<ref name=PSOL>{{cite web|url=http://veja.abril.com.br/blog/maquiavel/luciana-genro-desiste-e-psol-pode-lancar-chico-alencar-para-2018/|title=Luciana Genro desiste, e PSOL pode lançar Chico Alencar para 2018|publisher=Veja|language=pt|date=6 April 2017|accessdate=7 June 2017|trans-title=Luciana Genro gives up, and PSOL can launch Chico Alencar for 2018}}</ref>
+
+;Solidarity (SD)
+* [[Aldo Rebelo]], former [[President of the Chamber of Deputies (Brazil)|President of the Chamber of Deputies]] (2005–2007) and member of the [[Dilma Rousseff|Rousseff]] cabinet (2011–16)<ref name=MaiaAldo/><ref name="Centrão">{{cite web|url=http://www.band.com.br/noticias/eleicoes/conteudo.asp?ID=100000924290&t=cupula-do-centrao-fecha-apoio-a-alckmin-nas-eleicoes-2018|publisher=Band|title=Cúpula do Centrão fecha apoio a Alckmin nas eleições 2018|author=Mauricio Lima|date=19 July 2018}}</ref><ref>{{cite web|url=http://politica.estadao.com.br/noticias/geral,paulinho-da-forca-pensamos-em-lancar-aldo-rebelo-a-presidencia,70002265988|title=Paulinho da Força: 'Pensamos em lançar Aldo Rebelo à Presidência'|last=Peron|first=Isadora|date=12 April 2018|website=Folha de S.Paulo|access-date=12 April 2018}}</ref><ref>{{cite web|url=https://noticias.uol.com.br/politica/ultimas-noticias/2018/04/16/sd-oficializa-aldo-como-nome-a-presidencia-com-promessa-de-pacificar-esquerda-e-direita.htm|title=SD oficializa Aldo como nome à Presidência com promessa de 'pacificar esquerda e direita'|publisher=Uol|language=pt|first=Janaina|last=Garcia|trans-title=SD officializes Aldo candidate for the Presidency with promise to 'pacify left and right-wings'|date=16 April 2018|accessdate=16 April 2018}}</ref><ref>{{cite web|url=https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/07/26/apos-apoio-do-centrao-a-alckmin-aldo-rebelo-desiste-de-candidatura.htm|title=Apõs apoio do centrão a Alckmin, Aldo Rebelo desiste de candidatura|publisher=Uol|language=pt|first=Gustavo|last=Maia|date=26 July 2018|accessdate=27 July 2018}}</ref>
+
+;Workers' Party (PT)
+* [[Fernando Pimentel]], [[Governor of Minas Gerais]] (2015–)<ref>{{cite web|url=http://noticias.r7.com/blogs/helcio-zolini/eleicao-2018-pimentel-lidera-corrida-para-o-governo-de-minas-kalil-aparece-em-segundo-20171009/|title=Eleições 2018: Pimentel lidera corrida para o governo de Minas; Kalil aparece em segundo|publisher=R7|language=pt|first=Hélcio|last=Zolini|date=9 October 2017|accessdate=28 March 2018}}</ref>
+
+;Other
+* [[Silvio Santos]], Owner of [[Grupo Silvio Santos]] (1958–)<ref>{{cite web|url=http://entretenimento.r7.com/famosos-e-tv/silvio-santos-pode-se-candidatar-a-presidencia-do-brasil-em-2018-diz-jornal-22122016|title=Silvio Santos pode se candidatar à presidência do Brasil em 2018, diz jornal – Entretenimento – R7 Famosos e TV|website=R7|language=pt-br|access-date=2017-02-12}}</ref>
+* [[Pedro Parente]], former President of [[Petrobras]] (2016–18)<ref>{{cite web|url=https://veja.abril.com.br/blog/radar/mesmo-com-pedido-de-fh-parente-deve-negar-candidatura/|title=Mesmo com pedido de FH, Parente deve negar candidatura|publisher=Veja|language=pt|first=Mauricio|last=Lima|date=25 February 2018|accessdate=28 March 2018}}</ref>
+* [[Roberto Justus]], television presenter and Chairman of Grupo Newcomm (1998–)<ref>{{Cite news|url=https://tvefamosos.uol.com.br/colunas/flavio-ricco/2016/12/17/roberto-justus-aparece-como-candidato-a-presidencia-me-festa-da-record.htm|title=Roberto Justus aparece como candidato à Presidência em festa da Record|access-date=2017-02-12|language=pt-BR}}</ref><ref>{{cite web|url=http://veja.abril.com.br/blog/radar-on-line/roberto-justus-poe-projeto-politico-na-geladeira/|publisher=Veja|title=Roberto Justus põe projeto político na geladeira|author=Mauricio Lima|date=27 January 2017}}</ref>
+* [[Luciano Huck]], television presenter<ref>{{cite web|url=http://politica.estadao.com.br/blogs/coluna-do-estadao/huck-desiste-de-disputar-eleicao-presidencial/|title=Huck desiste de disputar eleição presidencial}}</ref>
+* [[Luís Roberto Barroso]], Minister of the [[Supreme Federal Court]] (2013-)<ref>{{cite web|url=http://veja.abril.com.br/blog/maquiavel/ministro-barroso-nega-intencao-de-ser-candidato-em-2018/|title=Ministro Barroso nega intenção de ser candidato em 2018|publisher=Veja|language=pt|first=Laryssa|last=Borges|date=15 November 2017|accessdate=16 November 2017}}</ref>
+{{election box end}}
+
+==Campaign==
+===Rejection of Lula's candidacy===
+On 1 September, the [[Superior Electoral Court]] voted 6–1 to reject Lula's candidacy based on the [[Ficha Limpa|Lei da Ficha Limpa]] and his [[conviction]] on [[corruption]] charges, but approved the PT-PCdoB-PROS coalition "''The People Happy Again''" and the candidacy of Fernando Haddad.<ref>{{cite web|url=http://www.tse.jus.br/imprensa/noticias-tse/2018/Setembro/tse-indefere-pedido-de-registro-de-candidatura-de-lula-a-presidencia-da-republica|title=TSE indefere pedido de registro de canddidatura de Lula à Presidência da República|publisher=Tribunal Superior Eleitoral|language=pt|date=1 September 2018|accessdate=9 September 2018}}</ref> The Workers' Party replaced Lula with Haddad and announced former presidential candidate [[Manuela d'Ávila]] as his running mate.<ref>{{cite web|url=https://veja.abril.com.br/politica/pt-aprova-haddad-para-substituir-lula-como-candidato-a-presidencia/|title=PT aprova Haddad para substituir Lula como candidato à Presidência|publisher=Veja|language=pt|first=Eduardo|last=Gonçalves|date=11 September 2018|accessdate=11 September 2018}}</ref>
+
+===Stabbing of Jair Bolsonaro===
+[[File:Bolsonaro é esfaqueado (2).jpg|right|thumb|Bolsonaro being stabbed at a [[Juiz de Fora]] rally]]
+[[Jair Bolsonaro]] was stabbed on 6 September 2018 while campaigning in the city of [[Juiz de Fora]], [[Minas Gerais]] and interacting with supporters.<ref name="Londono18">{{cite news |last1=Londoño |first1=Ernesto |title=Brazil Presidential Candidate Jair Bolsonaro Is Stabbed at Campaign Rally |url=https://www.nytimes.com/2018/09/06/world/americas/brazil-jair-bolsonaro.html |accessdate=6 September 2018 |work=The New York Times |date=6 September 2018 }}</ref> Bolsonaro's son, [[Flávio Bolsonaro|Flávio]], has stated that his father's wounds were only superficial and he was recovering in hospital.<ref name="Phillips18">{{cite news |last1=Phillips |first1=Dom |title=Jair  Bolsonaro: Brazil's far-right presidential hopeful stabbed at campaign rally |url=https://www.theguardian.com/world/2018/sep/06/brazil-jair-bolsonaro-far-right-presidential-candidate-stabbed |accessdate=6 September 2018 |work=the Guardian |date=6 September 2018 }}</ref> Police arrested and identified the attacker as Adelio Bispo de Oliveira, who claimed that he was "ordered by God to carry out the attack".<ref name="SaveresePrengaman18">{{cite news |last1=Savarese |first1=Mauricio |last2=Prengaman |first2=Peter |title=Brazil presidential candidate Bolsonaro stabbed during event |url=https://www.washingtonpost.com/world/the_americas/brazilian-candidate-jair-bolsonaro-stabbed-during-event/2018/09/06/d4f13876-b20c-11e8-8b53-50116768e499_story.html |accessdate=6 September 2018 |work=Washington Post |date=6 September 2018 }}</ref> Flávio Bolsonaro later stated that the wounds inflicted seem worse than initially thought. He tweeted about his father's condition, explaining that the perforation reached part of the liver, the lung and part of the intestine. He also stated that Bolsonaro had lost a large amount of blood, arriving at the hospital with a pressure of 10/3, but had since stabilized.<ref name="Londono18" /><ref>{{cite web|url=https://twitter.com/FlavioBolsonaro/status/1037808900660256773|title=Flávio Bolsonaro 177 Senador_RJ Verified account|last=Flávio|first=Bolsonaro|date=6 September 2018|website=Twitter|access-date=6 September 2018}}</ref><ref>{{cite news |last1=Savarese |first1=Mauricio |last2=Prengaman |first2=Peter |title=Brazilian candidate Jair Bolsonaro stabbed during event |url=https://abcnews.go.com/International/wireStory/brazilian-candidate-jair-bolsonaro-stabbed-event-57652075 |accessdate=6 September 2018 |work=ABC News |date=6 September 2018 |archive-url=https://web.archive.org/web/20180906232058/https://abcnews.go.com/International/wireStory/brazilian-candidate-jair-bolsonaro-stabbed-event-57652075 |archive-date=6 September 2018 |url-status=dead |df=dmy-all }}</ref> Most of the other candidates in the presidential race (from both sides of the [[political spectrum]]), and the then-Brazilian president, [[Michel Temer]], condemned the attack.<ref>{{cite news |title=Bolsonaro leva facada em MG: veja repercussão |url=https://g1.globo.com/politica/eleicoes/2018/noticia/2018/09/06/bolsonaro-leva-facada-veja-repercussao.ghtml |accessdate=6 September 2018 |work=G1.com |date=6 September 2018 |language=pt}}</ref> After being stabbed, Bolsonaro did not attend any further debates.<ref>{{cite web|url=https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/10/18/bolsonaro-nao-vai-participar-de-debates-nem-viajar-no-2-turno.htm|title=Bolsonaro não vai participar de debates no 2º turno: é secundário - Notícias - UOL Eleições 2018}}</ref>
+
+===Debates===
+Two debates were held on 9 August and 17 August, featuring eight presidential candidates: Bolsonaro, Alckmin, Silva, Gomes, Dias, Meirelles, Boulos, and Daciolo.  Lula was unable to participate in the debates.<ref>{{cite web|url=https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/08/17/ministro-do-tse-nega-pedido-do-pt-para-lula-participar-de-debate-da-redetv.htm|title=Ministro do TSE nega pedido do PT para Lula participar de debate da RedeTV|publisher=UOL|language=pt|date=17 August 2018|accessdate=17 August 2018}}</ref>  The 9 August debate was moderated by [[Ricardo Boechat]],<ref name="DebateBand">{{cite web|url=https://www.poder360.com.br/eleicoes/oito-candidatos-a-presidente-participam-de-debate-da-tv-band/|title=Oito candidatos a presidente participam de debate da TV Band na 5ª feira|publisher=Poder360|language=pt|first=Lauriberto|last=Brasil|date=7 August 2018|accessdate=9 August 2018}}</ref> and the 17 August debate was moderated by Amanda Klein, [[Boris Casoy]] and Mariana Godoy.<ref name="DebateRedeTV">{{cite web|url=http://www.redetv.uol.com.br/jornalismo/eleicoes2018/blog/eleicoes-2018/redetv-promove-debates-multiplataforma-entre-candidatos-a-presidencia-e-ao-|title=RedeTV! promove debates multiplataforma entre candidatos à Presidência e ao governo de São Paulo|publisher=RedeTV|language=pt|date=14 August 2018|accessdate=16 August 2018}}</ref>
+
+A debate scheduled for 27 August<ref name="DebatePan">{{cite web|url=https://jovempan.uol.com.br/noticias/jovem-pan-decide-nao-promover-debate-presidencial.html|title=Jovem Pan decide não promover debate presidencial|publisher=Jovem Pan|language=pt|date=24 August 2018|accessdate=8 September 2018}}</ref> was canceled after Jair Bolsonaro expressed his uncertainty about participating in the debates and the Workers' Party insisted on the participation of Lula, prohibited by the Electoral Justice.<ref>{{cite web|url=https://jovempan.uol.com.br/noticias/jovem-pan-decide-nao-promover-debate-presidencial.html|title=Jovem Pan decide não promover debate presidencial|publisher=Jovem Pan|language=pt|date=24 August 2018|accessdate=11 September 2018}}</ref> Bolsonaro did not participate in further debates after he was attacked on 6 September.<ref name="DebateGazeta">{{cite web|url=https://www.infomoney.com.br/mercados/politica/noticia/7608809/como-assistir-online-ao-debate-entre-os-candidatos-a-presidente-de-tv-gazeta-e-estadao|title=Como assistir online ao debate entre os candidatos a presidente de TV Gazeta e Estadão|publisher=InfoMoney|language=pt|first=Lara|last=Rizério|date=9 September 2018|accessdate=9 September 2018}}</ref>
+
+After a debate on 9 September moderated by Maria Lydia Flândoli,<ref name="DebateTVGazeta">{{cite news|url=https://politica.estadao.com.br/noticias/eleicoes,estado-faz-debate-com-presidenciaveis,70002493780|title=‘Estado’ faz debate com presidenciáveis|newspaper=Estadão|language=pt|date=8 September 2018|accessdate=8 September 2018}}</ref> Fernando Haddad participated in all remaining debates. These occurred on 20 September (moderated by Joyce Ribeiro),<ref name="DebateAparecida">{{cite web|url=http://www.a12.com/tv/rede-aparecida-organiza-debate-presidencial-no-santuario-nacional|title=Rede Aparecida organiza debate presidencial no Santuário Nacional|publisher=A12|language=pt|date=6 August 2018|accessdate=8 September 2018}}</ref> 26 September (moderated by Carlos Nascimento),<ref name="DebateSBT">{{cite news|url=https://www1.folha.uol.com.br/poder/2018/08/folha-uol-e-sbt-farao-debate-com-presidenciaveis-em-26-de-setembro.shtml|title=Folha, UOL e SBT farão debate com presidenciáveis em 26 de setembro|newspaper=Folha de S.Paulo|language=pt|date=6 August 2018|accessdate=9 August 2018}}</ref> 30 September (moderated by Adriana Araújo and Celso Freitas),<ref name="DebateRecord">{{cite web|url=http://recordtv.r7.com/2018/03/12/record-tv-realiza-debate-presidencial-do-primeiro-turno-no-dia-30-de-setembro/|title=Record TV realiza debate presidencial do primeiro turno no dia 30 de setembro|publisher=Record|language=pt|date=12 March 2018|accessdate=8 September 2018}}</ref> and 4 October (moderated by [[William Bonner (newscaster)|William Bonner]]).<ref name="DebateGlobo">{{cite web|url=https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2018/08/debates-dos-presidenciaveis-na-tv-candidatos-devem-discutir-planos-em-seis-transmissoes-cjkn0fg2h007m01n0iw8cd7lk.html|title=Debates dos presidenciáveis na TV: candidatos devem discutir planos em seis transmissões|publisher=Gaúcha ZH|language=pt|date=9 August 2018|accessdate=8 September 2018}}</ref>
+
+A vice presidential debate was held on 5 September featuring four candidates; Fernando Haddad did not attend.<ref>{{cite web|url=https://veja.abril.com.br/tveja/em-pauta/veja-na-integra-o-debate-entre-candidatos-a-vice-presidente-da-republica/|title=Veja na íntegra o debate entre candidatos a vice-presidente da república|publisher=Veja|language=pt|date=5 September 2018|accessdate=8 September 2018}}</ref>
+
+While several debates were scheduled for the second round, none were held. Debates planned for 12 October,<ref>{{cite web|url=https://www.oantagonista.com/brasil/band-cancela-debate-desta-sexta/|title=Band cancela debate desta sexta|publisher=OAntagonista|language=pt|date=10 October 2018|accessdate=11 October 2018}}</ref> 14 October,<ref>{{cite web|url=https://www.destakjornal.com.br/brasil/eleicoes-2018/detalhe/band-e-redetv-cancelam-debates-entre-bolsonaro-e-haddad|title=Band e RedeTV! cancelam debates entre Bolsonaro e Haddad|publisher=Destak|language=pt|date=10 October 2018|accessdate=16 October 2018|archive-url=https://web.archive.org/web/20181017082110/https://www.destakjornal.com.br/brasil/eleicoes-2018/detalhe/band-e-redetv-cancelam-debates-entre-bolsonaro-e-haddad|archive-date=17 October 2018|url-status=dead}}</ref> and 15 October<ref>{{cite web|url=https://www.terra.com.br/noticias/eleicoes/redetv-cancela-debate-presidencial-devido-ao-estado-de-saude-de-bolsonaro,a3d20ec13fd3bf70f56afa3d49fca256rcviuaq8.html|title=RedeTV! cancela debate pelo estado de saúde de Bolsonaro|publisher=Terra|language=pt|date=10 October 2018|accessdate=11 October 2018}}</ref> were cancelled due to Bolsonaro's health issues.  A debate scheduled for 21 October<ref>{{cite web|url=https://veja.abril.com.br/politica/apos-recusa-de-bolsonaro-record-cancela-debate-presidencial/|title=Após recusa de Bolsonaro, Record cancela debate presidencial|publisher=Veja|language=pt|date=19 October 2018|accessdate=19 October 2018}}</ref> was cancelled after the campaigns were unable to agree to terms.
+
+==Opinion polls==
+{{main|Opinion polling for the 2018 Brazilian general election}}
+
+==Results==
+===President===
+[[File:Candidats premier tour 2018 bresil.png|thumb|First place candidate on first round per state]]
+[[File:Runoff results by state of the Brazilian Presidential Election of 2018.png|thumb|Second round results by state]]
+{|class=wikitable style=text-align:right
+!colspan=2 rowspan=2|Candidate
+!rowspan=2|Party
+!rowspan=2|Running mate
+!rowspan=2|Party
+!colspan=2|First round
+!colspan=2|Second round
+|-
+!Votes
+!%
+!Votes
+!%
+|-
+|bgcolor=#203b78|
+|align=left|[[Jair Bolsonaro]]||align=left|[[Social Liberal Party (Brazil)|PSL]]||align=left|[[Hamilton Mourão|<small>Hamilton Mourão</small>]]||align=left|[[Brazilian Labour Renewal Party|<small>PRTB</small>]]||49,276,990||46.03||57,797,847 ||55.13
+|-
+|bgcolor=#c00| 
+|align=left|[[Fernando Haddad]]||align=left|[[Workers' Party (Brazil)|PT]]||align=left|[[Manuela d'Ávila|<small>Manuela d'Ávila</small>]]||align=left|[[Communist Party of Brazil|<small>PCdoB</small>]]||31,342,005||29.28||47,040,906 ||44.87
+|-
+|bgcolor=#f00|
+|align=left|[[Ciro Gomes]]||align=left|[[Democratic Labour Party (Brazil)|PDT]]||align=left|[[Kátia Abreu|<small>Kátia Abreu</small>]]||align=left|[[Democratic Labour Party (Brazil)|<small>PDT</small>]]||13,344,366||12.47||colspan=2 rowspan=11|
+|-
+|bgcolor="{{Brazilian Social Democracy Party/meta/color}}"|
+|align=left|[[Geraldo Alckmin]]||align=left|[[Brazilian Social Democracy Party|PSDB]]||align=left|[[Ana Amélia Lemos|<small>Ana Amélia</small>]]||align=left|[[Progressistas|<small>PP</small>]]||5,096,349||4.76
+|-
+|bgcolor=#ff8511| 
+|align=left|[[João Amoêdo]]||align=left|[[New Party (Brazil)|NOVO]]||align=left|<small>Christian Lohbauer</small>|| align="left" |[[New Party (Brazil)|<small>NOVO</small>]]||2,679,744||2.50
+|-
+|bgcolor="{{National Ecologic Party/meta/color}}"|
+|align=left|[[Cabo Daciolo]]||align=left|[[Patriota|PATRI]]||align=left|<small>Suelene Balduino</small>|| align="left" |[[Patriota|<small>PATRI</small>]]||1,348,323||1.26
+|-
+|bgcolor="{{Brazilian Democratic Movement Party/meta/color}}"|
+|align=left|[[Henrique Meirelles]]||align=left|[[Brazilian Democratic Movement|MDB]]||align=left|[[Germano Rigotto|<small>Germano Rigotto</small>]]||align=left|[[Brazilian Democratic Movement|<small>MDB</small>]]||1,288,948||1.20
+|-
+|bgcolor=#20b2aa| 
+|align=left|[[Marina Silva]]||align=left|[[Sustainability Network|REDE]]||align=left|[[Eduardo Jorge|<small>Eduardo Jorge</small>]]||align=left|[[Green Party (Brazil)|<small>PV</small>]]||1,069,577||1.00
+|-
+|bgcolor=#2da933|
+|align=left|[[Alvaro Dias]]||align=left|[[Podemos (Brazil)|PODE]]||align=left|[[Paulo Rabello de Castro|<small>Paulo Rabello de Castro</small>]]||align=left|[[Social Christian Party (Brazil)|<small>PSC</small>]]||859,601||0.80
+|-
+|bgcolor=#b80000|
+|align=left|[[Guilherme Boulos]]||align=left|[[Socialism and Liberty Party|PSOL]]||align=left|[[Sônia Guajajara|<small>Sônia Guajajara</small>]]||align=left|[[Socialism and Liberty Party|<small>PSOL</small>]]||617,122||0.58
+|-
+|bgcolor=#ffd500| 
+|align=left|[[Vera Lúcia]]||align=left|[[United Socialist Workers' Party|PSTU]]||align=left|<small>Hertz Dias</small>|| align="left" |[[United Socialist Workers' Party|PSTU]]||55,762||0.05
+|-
+|bgcolor=#afb908| 
+|align=left|[[José Maria Eymael]]||align=left|[[Christian Democracy (Brazil)|DC]]||align=left|<small>Hélvio Costa</small>|| align="left" |[[Christian Democracy (Brazil)|DC]]||41,710||0.04
+|-
+|bgcolor=#006000| 
+|align=left|[[João Vicente Goulart]]||align=left|[[Free Homeland Party (Brazil)|PPL]]||align=left|<small>Léo Dias</small>|| align="left" |[[Free Homeland Party (Brazil)|PPL]]||30,176||0.03
+|-
+|align=left colspan=5|Invalid/blank votes||10,313,141||–||11,094,698||–<!--Please do not add a percentage here as it makes the table sum incorrectly-->
+|-
+|align=left colspan=5|'''Total'''||'''117,364,560'''||'''100'''||'''115,933,451'''||'''100'''
+|-
+|align=left colspan=5|Registered voters/turnout||147,305,825||79.67||147,305,155||78.70
+|-
+|align=left colspan=9|Source: [https://g1.globo.com/politica/eleicoes/2018/apuracao/presidente.ghtml Globo]
+|}
+{{bar box
+|title=Popular vote (first round)
+|titlebar=#ddd
+|width=550px
+|barwidth=500px
+|bars=
+{{bar percent|[[Jair Bolsonaro|Bolsonaro]]|#203b78|46.03}}
+{{bar percent|[[Fernando Haddad|Haddad]]|#CC0000|29.28}}
+{{bar percent|[[Ciro Gomes|Ciro]]|#FF0000|12.47}}
+{{bar percent|[[Geraldo Alckmin|Alckmin]]|{{Brazilian Social Democracy Party/meta/color}}|4.76}}
+{{bar percent|[[João Amoêdo|Amoêdo]]|#FF8511|2.50}}
+{{bar percent|[[Cabo Daciolo|Daciolo]]|{{National Ecologic Party/meta/color}}|1.26}}
+{{bar percent|[[Henrique Meirelles|Meirelles]]|{{Brazilian Democratic Movement Party/meta/color}}|1.20}}
+{{bar percent|[[Marina Silva|Silva]]|#20b2aa|1.00}}
+{{bar percent|Others|{{Other/meta/color}}|1.50}}
+}}
+{{bar box
+|title=Popular vote (second round)
+|titlebar=#ddd
+|width=550px
+|barwidth=500px
+|bars=
+{{bar percent|[[Jair Bolsonaro|Bolsonaro]]|#203b78|55.13}}
+{{bar percent|[[Fernando Haddad|Haddad]]|#CC0000|44.87}}
+}}
+
+====Voter demographics====
+{| class="wikitable plainrowheaders" style="text-align:right;"
+|-
+!scope="col"| Demographic group
+! {{party shading/Green}}|Bolsonaro
+! {{party shading/Republican}}|Haddad
+! % of<br />total vote
+|-
+!scope="row"| Total vote
+| style="background:#17aa5c;"| 55
+| style="background:#fff3f3;"| 45
+| 100
+|-
+! colspan=5|Gender
+|-
+!scope="row"| Men
+| style="background:#17aa5c;"| 60
+| style="background:#fff3f3;"| 40
+| 47
+|-
+!scope="row"| Women
+| style="background:#d0c0d7;"| 50
+| style="background:#d0c0d7;"| 50
+| 53
+|-
+! colspan=5|Age
+|-
+!scope="row"| 16–24 years old
+| style="background:#d0c0d7;"| 50
+| style="background:#d0c0d7;"| 50
+| 15
+|-
+!scope="row"| 25–34 years old
+| style="background:#17aa5c;"| 56
+| style="background:#fff3f3;"| 44
+| 21
+|-
+!scope="row"| 35-44 years old
+| style="background:#17aa5c;"| 56
+| style="background:#fff3f3;"| 44
+| 21
+|-
+!scope="row"| 45-59 years old
+| style="background:#17aa5c;"| 54
+| style="background:#fff3f3;"| 46
+| 24
+|-
+!scope="row"| 60 and older
+| style="background:#17aa5c;"| 56
+| style="background:#fff3f3;"| 44
+| 19
+|-
+! colspan=5|Education
+|-
+!scope="row"| Less than high school
+| style="background:#f0f0ff;"| 44
+| style="background:#ffb6b6;"| 56
+| 33
+|-
+!scope="row"| High school diploma
+| style="background:#17aa5c;"| 58
+| style="background:#fff3f3;"| 42
+| 43
+|-
+!scope="row"| Bachelor’s degree or more
+| style="background:#17aa5c;"| 61
+| style="background:#fff3f3;"| 39
+| 24
+|-
+! colspan=5|Family income
+|-
+!scope="row"| Under 2x min wage 
+| style="background:#f0f0ff;"| 42
+| style="background:#ffb6b6;"| 58
+| 40
+|-
+!scope="row"| 2-5x min wage 
+| style="background:#17aa5c;"| 61
+| style="background:#fff3f3;"| 39
+| 38
+|-
+!scope="row"| 5-10x min wage
+| style="background:#17aa5c;"| 69
+| style="background:#fff3f3;"| 31
+| 12
+|-
+!scope="row"| Over 10x min wage 
+| style="background:#17aa5c;"| 67
+| style="background:#fff3f3;"| 33
+| 10
+|-
+! colspan=5|Region
+|-
+!scope="row"| Southeast
+| style="background:#17aa5c;"| 63
+| style="background:#fff3f3;"| 37
+| 44
+|-
+!scope="row"| South
+| style="background:#17aa5c;"| 65
+| style="background:#fff3f3;"| 35
+| 15
+|-
+!scope="row"| Northeast
+| style="background:#f0f0ff;"| 32
+| style="background:#ffb6b6;"| 68
+| 27
+|-
+!scope="row"| Central-West
+| style="background:#17aa5c;"| 66
+| style="background:#fff3f3;"| 34
+| 7
+|-
+!scope="row"| North 
+| style="background:#17aa5c;"| 55
+| style="background:#fff3f3;"| 45
+| 7
+|-
+|align=left colspan=4|Source: [http://media.folha.uol.com.br/datafolha/2018/10/28/b469d4556e176c907bad8986ccc459cd.pdf Datafolha]
+|}
+
+===Congress===
+[[File:Camara dos Deputados do Brasil 2018.svg|thumb|right|247x247px|Chamber of Deputies]]
+[[File:Senado Federal Brasil 2018.svg|thumb|right|247x247px|Senate]]
+
+{| class="wikitable sortable" style=text-align:right
+!colspan=2 rowspan=2|Party
+!colspan=4|[[Chamber of Deputies (Brazil)|Chamber of Deputies]]
+!colspan=5|[[Brazilian Senate|Senate]]
+|-
+!Votes
+!%
+!Seats
+!+/–
+!Votes
+!%
+!Elected
+!Total
+!+/–
+|-
+|bgcolor=#203B78| ||align=left|[[Social Liberal Party (Brazil)|Social Liberal Party]]||11,457,878||11.7||52||{{increase}}44||19,413,869||11.3||4||4||{{increase}}4
+|-
+|bgcolor=#CC0000| ||align=left|[[Workers' Party (Brazil)|Workers' Party]]||10,126,611||10.3||56||{{decrease}}13|| 24,785,670|| 14.5|| 4||6||{{decrease}}6
+|-
+|bgcolor=#0080ff| ||align=left|[[Brazilian Social Democracy Party]]||5,905,541||6.0||29||{{decrease}}25|| 20,310,558|| 11.9|| 4||8||{{decrease}}2
+|-
+|bgcolor=#FFA500| ||align=left|[[Social Democratic Party (Brazil, 2011)|Social Democratic Party]]||5,749,008||5.8||34||{{decrease}}2|| 8,202,342|| 4.8|| 4||7||{{increase}}4
+|-
+|bgcolor=#7DC9FF| ||align=left|[[Progressistas]]||5,480,067||5.6||37||{{decrease}}1|| 7,529,901|| 4.4|| 5||6||{{increase}}1
+|-
+|bgcolor=#30914d| ||align=left|[[Brazilian Democratic Movement]]||5,439,167||5.5||34||{{decrease}}32|| 12,800,290|| 7.5|| 7||12||{{decrease}}6
+|-
+|bgcolor=#ffc300| ||align=left|[[Brazilian Socialist Party]]||5,386,400||5.5||32||{{decrease}}2|| 8,234,195|| 4.8|| 2||2||{{decrease}}5
+|-
+|bgcolor=#0F0073| ||align=left|[[Liberal Party (Brazil, 2006)|Party of the Republic]]||5,224,591||5.3||33||{{decrease}}1||3,130,082||1.8|| 1||2||{{decrease}}2
+|-
+|bgcolor=#00e6a8| ||align=left|[[Republicanos|Brazilian Republican Party]]||4,992,016||5.1||30||{{increase}}9||1,505,607||0.9|| 1||1||{{steady}}
+|-
+|bgcolor=#99FF33| ||align=left|[[Democrats (Brazil)|Democrats]]||4,581,162||4.7||29||{{increase}}8|| 9,218,658|| 5.4|| 4||6||{{increase}}2
+|-
+|bgcolor=#FF0000| ||align=left|[[Democratic Labour Party (Brazil)|Democratic Labour Party]]||4,545,846||4.6||28||{{increase}}9|| 7,737,982|| 4.5|| 2||5||{{decrease}}3
+|-
+|bgcolor=#700000| ||align=left|[[Socialism and Liberty Party]]||2,783,669||2.8||10||{{increase}}5||5,273,853||3.1|| 0||0||{{decrease}}1
+|-
+|bgcolor=#ff5e00| ||align=left|[[New Party (Brazil)|New Party]]||2,748,079||2.8||8||New|| 3,467,746|| 2.0|| 0||0||{{steady}}
+|-
+|bgcolor=#2da933| ||align=left|[[Podemos (Brazil)|Podemos]]||2,243,320||2.3||11||{{increase}}7|| 5,494,125|| 3.2|| 1||5||{{increase}}5
+|-
+|bgcolor=#ff5460| ||align=left|[[Republican Party of the Social Order]]||2,042,610||2.1||8||{{decrease}}3|| 1,370,513|| 0.8|| 1||1||{{steady}}
+|-
+|bgcolor=#7b7b7b| ||align=left|[[Brazilian Labour Party (current)|Brazilian Labour Party]]||2,022,719||2.1||10||{{decrease}}15|| 1,899,838|| 1.1|| 2||3||{{steady}}
+|-
+|bgcolor=#ff9c2b| ||align=left|[[Solidariedade]]||1,953,067||2.0||13||{{decrease}}2|| 4,001,903|| 2.3|| 1||1||{{steady}}
+|-
+|bgcolor=#ed5f36| ||align=left|[[Avante (political party)|Avante]]||1,844,048||1.9||7||{{increase}}5|| 713,379|| 0.4|| 0||0||{{steady}}
+|-
+|bgcolor=#009118| ||align=left|[[Social Christian Party (Brazil)|Social Christian Party]]||1,765,226||1.8||8||{{decrease}}5|| 4,126,068|| 2.4|| 1||1||{{increase}}1
+|-
+|bgcolor=#006600| ||align=left|[[Green Party (Brazil)|Green Party]]||1,592,173||1.6||4||{{decrease}}4|| 1,226,392|| 0.7|| 0||0||{{decrease}}1
+|-
+|bgcolor=#ff9191| ||align=left|[[Cidadania|Popular Socialist Party]]||1,590,084||1.6||8||{{decrease}}2|| 2,954,800|| 1.7|| 2||2||{{increase}}2
+|-
+|bgcolor=#CCAA00| ||align=left|[[Patriota]]||1,432,304||1.5||5||{{increase}}3|| 60,589|| 0.0|| 0||0||{{steady}}
+|-
+|bgcolor=#ffb478| ||align=left|[[Humanist Party of Solidarity (Brazil)|Humanist Party of Solidarity]]||1,426,444||1.5||6||{{increase}}1|| 4,228,973|| 2.5|| 2||2||{{increase}}2
+|-
+|bgcolor=#a30000| ||align=left|[[Communist Party of Brazil]]||1,329,575||1.4||9||{{decrease}}1|| 1,673,190|| 1.0|| 0||0||{{decrease}}1
+|-
+|bgcolor=#9dacd1| ||align=left|[[Progressive Republican Party (Brazil)|Progressive Republican Party]]||851,368||0.9||4||{{increase}}1|| 1,974,061|| 1.2|| 1||1||{{increase}}1
+|-
+|bgcolor=#00c2bb| ||align=left|[[Sustainability Network]]||816,784||0.8||1||New|| 7,166,003|| 4.2|| 5||5||New
+|-
+|bgcolor=#006324| ||align=left|[[Brazilian Labour Renewal Party]]||684,976||0.7||0||{{decrease}}1|| 886,267|| 0.5|| 0||0||{{steady}}
+|-
+|bgcolor=#DD3333| ||align=left|[[Party of National Mobilization]]||634,129||0.6||3||{{steady}}|| 329,973|| 0.2|| 0||0||{{steady}}
+|-
+|bgcolor=#FFFF00| ||align=left|[[Christian Labour Party]]||601,814||0.6||2||{{steady}}|| 222,931|| 0.1|| 0||1||{{increase}}1
+|-
+|bgcolor=#58b324| ||align=left|[[Free Fatherland Party (Brazil)|Free Fatherland Party]]||385,197||0.4||1||{{increase}}1|| 504,209|| 0.3|| 0||0||{{steady}}
+|-
+|bgcolor=#333E90| ||align=left|[[Christian Democracy (Brazil)|Christian Democracy]]||369,386||0.4||1||{{decrease}}1|| 154,068|| 0.1|| 0||0||{{steady}}
+|-
+|bgcolor=#88458f| ||align=left|[[Party of the Brazilian Women|Party of Brazilian Women]]||228,302||0.2||0||{{steady}}|| 51,027|| 0.0|| 0||0||{{steady}}
+|-
+|bgcolor=#9c0000| ||align=left|[[Brazilian Communist Party]]||61,343||0.1||0||{{steady}}|| 256,655|| 0.1|| 0||0||{{steady}}
+|-
+|bgcolor=#ffe600| ||align=left|[[Unified Workers' Socialist Party|United Socialist Workers Party]]||41,304||0.0||0||{{steady}}|| 413,914|| 0.2|| 0||0||{{steady}}
+|-
+|bgcolor=#5c0000| ||align=left|[[Labour Cause's Party|Workers Cause Party]]||2,785||0.0||0||{{steady}}|| 38,691|| 0.0|| 0||0||{{steady}}
+|-
+|align=left colspan=2|Invalid/blank votes||18,771,737||–||–||–||61,995,824||–||–||–||–
+|-
+|align=left colspan=2|'''Total'''||'''117,111,476'''||'''100.0'''||'''513'''||'''0'''||'''117,111,478'''||'''100.0'''||'''54'''||'''81'''||'''0'''
+|-
+|align=left colspan=2|Registered voters/turnout||146,750,529||79.8||–||–|| 146,750,529|| 79.8||–||–||–
+|-
+|align=left colspan=11|Source: [http://electionresources.org/br/deputies.php?election=2018&state=BR Election Resources] 
+|}
+
+==Aftermath and reactions==
+{{Main|Presidency of Jair Bolsonaro}}
+
+===Americas===
+
+====Argentina ====
+* [[President of Argentina|President]] [[Mauricio Macri]] congratulated Bolsonaro on his election victory, stating that, "I hope we will work together soon for the relationship between our countries and the welfare of Argentines and Brazilians."<ref>{{cite news |title=Presidente da Argentina parabeniza Jair Bolsonaro no Twitter |url=https://www.valor.com.br/internacional/5954901/presidente-da-argentina-parabeniza-jair-bolsonaro-no-twitter |accessdate=28 October 2018 |agency=Valor}}</ref>
+
+==== Bolivia ====
+* [[President of Bolivia|President]] [[Evo Morales]] expressed his congratulations, "we greet the brother people of Brazil for their democratic participation in the second round of presidential elections in which Jair Bolsonaro was elected, to whom we extend our recognition. Bolivia and Brazil are brother peoples with deep integration ties."<ref name="dw.com">{{cite news |title=Líderes internacionais parabenizam Bolsonaro |url=https://www.dw.com/pt-br/l%C3%ADderes-internacionais-parabenizam-bolsonaro/a-46066371 |language=pt |date=29 October 2018 |agency=DW}}</ref>
+
+==== Chile ====
+* [[President of Chile|President]] [[Sebastián Piñera]] expressed his congratulations on Twitter, "congratulations to the Brazilian people for a clean and democratic election. I congratulate Jair Bolsonaro for your great electoral triumph."<ref name="dw.com"/>
+
+==== Colombia ====
+* [[President of Colombia|President]] [[Iván Duque Márquez|Iván Duque]] praised Bolsonaro on Twitter. "Congratulations to Jair Bolsonaro, the new democratically elected president of Brazil. Our wish for this new stage of the neighboring country to be one of well-being and unity. We look forward to continuing our fellowship relationship to strengthen political, commercial and cultural ties."<ref>{{cite news |title=Iván Duque destaca caráter democrático da eleição de Bolsonaro |url=https://www.efe.com/efe/brasil/destacada/ivan-duque-destaca-carater-democratico-da-elei-o-de-bolsonaro/50000238-3796081 |language=pt |date=28 October 2018 |agency=EFE}}</ref>
+
+==== Costa Rica ====
+* [[President of Costa Rica|President]] [[Carlos Alvarado Quesada|Carlos Alvarado]] using his official Twitter account expressed: "Costa Rica ratifies its willingness to work with Brazil in favor of inclusion, economic growth and respect for the rights of all people, as well as to achieve the sustainable development of the region."<ref>{{cite news |title=Costa Rica espera trabajar con Bolsonaro y fortalecer multilateralismo |url=http://www.elpais.cr/2018/10/31/costa-rica-espera-trabajar-con-bolsonaro-y-fortalecer-multilateralismo/ |accessdate=2 November 2018 |agency=El País CR |date=31 October 2018}}</ref>
+
+==== Ecuador ====
+* [[President of Ecuador|President]] [[Lenín Moreno]] expressed on Twitter, "More congratulations to the Brazilian people for this new democratic feat. Best wishes for new President Jair Bolsonaro."<ref name="veja.abril.com.br">{{cite news |title=Líderes mundiais cumprimentam Bolsonaro e falam em trabalhar juntos |url=https://veja.abril.com.br/mundo/lideres-internacionais-cumprimentam-bolsonaro-pela-vitoria |language=pt |date=29 October 2018 |agency=Veja}}</ref>
+
+==== Mexico ====
+* [[President of Mexico|President]] [[Enrique Peña Nieto]] praised Bolsonaro on Twitter. "On behalf of the people and the Government of Mexico, I congratulate Jair Bolsonaro for his election as President of the Federative Republic of Brazil, on an exemplary day that reflects the democratic strength of that country."<ref name="dw.com"/>
+
+==== Paraguay ====
+* [[President of Paraguay|President]] [[Mario Abdo Benítez]] expressed on Twitter, "congratulations to the people of Brazil and their elected president Jair Bolsonaro for this election! We want to work together for stronger democracies in the region, with strengthened institutions and always looking for the prosperity of our peoples!"<ref name="dw.com"/>
+
+==== Peru ====
+* [[President of Peru|President]] [[Martín Vizcarra]] congratulated Bolsonaro on his election, "I congratulate Jair Bolsonaro for his election as president of Brazil and I wish him the greatest success in his administration. I express my willingness to work together to deepen our fraternal bilateral relationship."<ref name="dw.com"/>
+
+==== United States ====
+* [[President of the United States|President]] [[Donald Trump]] congratulated Bolsonaro on his election victory, Trump and Bolsonaro both agreed to work side-by-side to improve the lives of the people of the United States and Brazil, and as regional leaders, of the Americas.<ref>{{cite web|url=https://www.reuters.com/article/us-brazil-election-usa/trump-congratulates-brazils-bolsonaro-on-election-win-idUSKCN1N305W|title=Trump congratulates Brazil's Bolsonaro on election win|first=Reuters|last=Editorial}}</ref>
+
+===Asia===
+==== China ====
+* [[President of the People's Republic of China|President]] [[Xi Jinping]] congratulated Bolsonaro on his election, and said that his country was willing to "respect the fundamental interests" of both nations. He also congratulated the statements made by Bolsonaro shortly after winning the elections, in which he assured that Brazil will maintain ties with China, its main trading partner, regardless of its ideological differences.<ref>{{cite news |title=Xi Jinping felicita Bolsonaro e defende respeito aos interesses dos países |url=https://exame.abril.com.br/brasil/xi-jinping-felicita-bolsonaro-e-defende-respeito-aos-interesses-dos-paises |accessdate=16 August 2019 |agency=Exame |date=3 January 2019}}</ref>
+
+===Europe===
+==== France ====
+* [[President of France|President]] [[Emmanuel Macron]] congratulated Bolsonaro on his election victory, added that France would look to continue to cooperate with Brazil on areas including environmental issues. “France and Brazil have a strategic partnership based around common values of respect and the promotion of democratic principles,” added Macron in his statement.<ref>{{cite web|url=https://www.reuters.com/article/us-brazil-election-france/french-president-macron-congratulates-bolsonaro-on-brazil-win-idUSKCN1N319Y|title=French President Macron congratulates Bolsonaro on Brazil win|first=Reuters|last=Editorial}}</ref>
+* [[National Rally (France)|President of the National Rally Party]] [[Marine Le Pen]] praised Bolsonaro on his election victory, "Brazilians just punished the widespread corruption and terrifying crime that thrived during far left governments. Good luck to President Bolsonaro who will have to re-establish Brazil's very compromised economic, security and democratic situation."<ref name="veja.abril.com.br"/>
+
+==== Germany ====
+* According to an official publication, the [[Chancellor of Germany|Chancellor]] [[Angela Merkel]] said she "hopes that their cooperation will continue to be based on democratic values and the rule of law. Two countries have long been linked by friendly relations and common interests."<ref>{{cite news |title=Merkel felicita Bolsonaro e cita cooperação "baseada em valores democráticos" |url=https://www.efe.com/efe/brasil/mundo/merkel-felicita-bolsonaro-e-cita-coopera-o-baseada-em-valores-democraticos/50000243-3800034 |language=pt |date=1 November 2018 |agency=EFE}}</ref>
+
+==== Russia ====
+* According to an official publication from the [[Kremlin]], [[Russian President|President]] [[Vladimir Putin]]: "praised the significant experience of mutually beneficial bilateral cooperation in various spheres that Russia and Brazil have acquired as part of their strategic collaboration" and "expressed confidence in the further promotion of the entire complex of Russian-Brazilian ties as well as constructive cooperation in the framework of the United Nations, the G20, BRICS and other multilateral organisations in the interests of the Russian and Brazilian people."<ref>{{cite web |title=Greetings to Jair Bolsonaro on winning presidential elections in Brazil |url=http://en.kremlin.ru/events/president/news/58946/print |website=Kremlin |accessdate=2 November 2018}}</ref>
+
+==== Italy ====
+* [[Deputy Prime Minister of Italy|Deputy Prime Minister]] [[Matteo Salvini]] praised Bolsonaro on Twitter. "In Brazil citizens expelled the left! Good job for President Bolsonaro, the friendship between our peoples and government will be even stronger".<ref>{{cite news |title=Premiê italiano parabeniza Bolsonaro e pede extradição de Cesare Battisti |url=http://br.rfi.fr/europa/20181029-premie-italiano-parabeniza-bolsonaro-e-pede-extradicao-de-cesare-battisti |language=pt |date=28 October 2018 |agency=RFI}}</ref>
+
+==== Spain ====
+* [[Prime Minister of Spain|Prime Minister]] [[Pedro Sánchez]] expressed on Twitter, "The Brazilian people have decided their future for years to come. The challenges will be huge. Brazil will always count on Spain to achieve a more egalitarian and fairer Latin America, the hope that will illuminate the decisions of any ruler."<ref name="veja.abril.com.br"/>
+
+===Middle East===
+==== Israel ====
+* [[Prime Minister of Israel|Prime Minister]] [[Benjamin Netanyahu]] congratulated Bolsonaro on his election victory, stating that, "I am confident that your election will bring great friendship between the two peoples and strengthen the ties between Brazil and Israel."<ref>[https://www.jpost.com/Breaking-News/Netanyahu-congratulates-Brazils-President-elect-Bolsonaro-570643 Netanyahu congratulates Brazil's President-elect Bolsonaro] Jerusalem Post</ref>
+
+==See also==
+*[[Ele Não movement]] &ndash; protests against the candidacy of Bolsonaro
+*[[2018 in Brazil]]
+*[[2018 São Paulo gubernatorial election]]
+*[[2018 Rio de Janeiro gubernatorial election]]
+*[[2018 Espírito Santo gubernatorial election]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|2018 Brazilian election}}
+
+===Official campaign websites===
+
+*[https://web.archive.org/web/20181009151456/https://www.geraldoalckmin.com.br/ Geraldo Alckmin (PSDB, DEM, PP, PR, PRB, SD, PTB, PSD, PPS) para Presidente]
+*[https://web.archive.org/web/20190528103512/http://joaoamoedo.com.br/ João Amoêdo (NOVO) para Presidente]
+*[https://web.archive.org/web/20181031100817/https://www.bolsonaro.com.br/ Jair Bolsonaro (PSL, PRTB) para Presidente]
+*[https://web.archive.org/web/20181013081128/https://vamoscomboulosesonia.com.br/ Guilhemere Boulos (PSOL, PCB) para Presidente]
+*[https://www.alvarodias.com.br/ Álvaro Dias (PODE, PSC, PTC, PRP) para Presidente]
+*[https://web.archive.org/web/20190510092200/https://www.eymaelpresidente27.com.br/ José Maria Eymael (DC) para Presidente]
+*[https://web.archive.org/web/20180812132936/https://www.portalcirogomes.com.br/ Ciro Gomes (PDT, AVANTE) para Presidente]
+*[https://web.archive.org/web/20190116054030/https://haddadpresidente.com.br/ Fernando Haddad (PT, PROS, PCdoB) para Presidente]
+*[https://doacaolegal.com.br/vera Vera Lúcia (PSTU) para Presidente]
+*[https://web.archive.org/web/20021012172552/http://www.henriquemeirelles.com.br/ Henrique Meirelles (MDB, PHS) para Presidente]
+*[https://marinasilva.org.br/ Marina Silva (REDE, PV) para Presidente]
+
+===Infographics===
+* [http://especiais.g1.globo.com/politica/eleicoes/2018/mapa-da-apuracao-no-brasil-presidente/1-turno/ Map of first round results divided by electoral zones]
+{{Brazilian elections}}
+
+[[Category:2018 Brazilian general election| ]]
+[[Category:2018 elections in Brazil]]
+[[Category:2018 in Brazil]]
+[[Category:General elections in Brazil|2018]]
+[[Category:October 2018 events in South America]]
+[[Category:Election and referendum articles with incomplete results|2018]]
+[[Category:Presidential elections in Brazil|2018]]

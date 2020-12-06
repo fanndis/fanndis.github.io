@@ -1,0 +1,489 @@
+{{short description|Telecommunications software service/application}}
+{{about|the software|the subsidiary company that develops it|Skype Technologies|the enterprise application formerly known as Microsoft Lync|Skype for Business}}
+{{pp-pc1|small=yes}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox software
+| title = Skype
+| name = Skype
+| logo = Skype logo (2019–present).svg
+| logo size = 100px
+| logo alt = Logo of Skype (2019–present)
+| screenshot = Skype.png
+| screenshot size = 
+| screenshot alt = Screenshot of Skype
+| caption = Screenshot of Skype version 8 (14.32.55.0) for Windows desktop on Windows 10 in dark mode (note: contacts censored)
+| collapsible =
+| author = [[Priit Kasesalu]] and [[Jaan Tallinn]]
+| developer = [[Skype Technologies]] ([[Microsoft]])
+| released = {{Start date and age|df=yes|2003|08|29}}
+| discontinued = 
+| ver layout = stacked
+| operating system = [[Windows]], [[macOS]], [[Linux]], [[Android (operating system)|Android]], [[iOS]], [[Windows Phone]], [[HoloLens]], [[Xbox One]]
+| platform = 
+| size = 
+| language = 
+| language count = 108
+| language footnote = <ref>{{cite web |url=https://www.microsoft.com/en-us/store/p/skype-preview/9wzdncrfj364 |title=Skype |publisher=Microsoft Store}}</ref>
+| genre = [[Videoconferencing]], [[Voice over IP|VoIP]], and [[Instant messaging]]
+| license = [[Freemium]]
+| alexa = {{Increase}} 285 ({{as of|2020|01|14|alt=January 2020}})<ref name="alexa">{{cite web |title=Skype.com Traffic, Demographics and Competitors – Alexa |url=https://www.alexa.com/siteinfo/skype.com |website=www.alexa.com |accessdate=14 January 2020 |language=en}}</ref>
+| website = {{URL|https://www.skype.com/}}
+| standard = 
+| AsOf = 
+}}
+{{Microsoft Skype Division}}
+
+'''Skype''' ({{IPAc-en|s|k|aɪ|p}}) is a telecommunications application that specializes in providing [[Videotelephony|video chat]] and voice calls between computers, tablets, mobile devices, the [[Xbox One]] console, and smartwatches over the [[Internet]]. Skype also provides [[Instant messaging client|instant messaging]] services.  Users may transmit [[instant messaging|text]], [[video messaging|video]], audio and images. Skype allows [[videoconferencing|video conference calls]].
+
+At the end of 2010, there were over 660 million worldwide users, with over 300 million estimated active each month as of August 2015.<ref>{{Cite web|title = Global social networks by users 2015 {{!}} Statistic|url = http://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/|website = Statista |accessdate = 4 November 2015}}</ref> At one point in February 2012, there were 34 million users concurrently online on Skype.<ref>{{cite web|url=https://blogs.skype.com/stories/2012/02/27/34-million-people-concurrently/ |title=34 Million People Concurrently Online on Skype |work=Skype Blogs |date=27 February 2012}}</ref>
+
+In March 2020, Skype was used by 100 million people on a monthly basis and by 40 million people on a daily basis.<ref>{{Cite web|title=Microsoft Teams is coming to consumers – but Skype is here to stay|url=https://social.techcrunch.com/2020/03/30/microsoft-teams-is-coming-to-consumers-but-skype-is-here-to-stay/|website=TechCrunch|language=en-US|access-date=2020-05-02}}</ref> That was a 70% increase in the number of daily users from the previous month, due to the [[COVID-19 pandemic]].<ref>{{cite web|url=https://www.cnet.com/news/microsofts-skype-sees-massive-increase-in-usage-as-coronavirus-spreads/ |title=Microsoft's Skype sees massive increase in usage as coronavirus spreads |work=CNET |date=30 March 2020}}</ref>
+
+First released in August 2003, Skype was created by the [[Swedes|Swede]] [[Niklas Zennström]] and the [[Danes|Dane]] [[Janus Friis]], in cooperation with [[Ahti Heinla]], [[Priit Kasesalu]], [[Jaan Tallinn]], and Toivo Annus, [[Estonians]] who developed the [[peer-to-peer]] backend that was also used in the music-sharing application [[Kazaa]]. In September 2005, [[eBay]] acquired Skype for $2.6&nbsp;billion.<ref>{{cite web|title=EBay to buy Skype in $2.6bn deal|url=http://news.bbc.co.uk/1/hi/business/4237338.stm|publisher=BBC|accessdate=2 October 2014|date=12 September 2005}}</ref> In September 2009,<ref>{{cite web|url=https://www.thestar.com/business/2009/09/02/canada_pension_plan_buys_skype_stake.html |title=Canada Pension plan buys Skype stake &#124; Toronto Star |work=Thestar|date=2 September 2014 |accessdate=21 August 2014}}</ref> [[Silver Lake Partners|Silver Lake]], [[Andreessen Horowitz]], and the [[Canada Pension Plan Investment Board]] announced the acquisition of 65% of Skype for $1.9&nbsp;billion from [[eBay]], which attributed to the enterprise a market value of $2.92&nbsp;billion. [[Microsoft]] bought Skype in May 2011 for $8.5&nbsp;billion. Skype's division headquarters are in [[Luxembourg]], but most of the development team and 44% of all the division's employees are still situated in [[Tallinn]] and [[Tartu]], Estonia.<ref name="Skype employees">{{cite web|url=http://www.ap3.ee/article/2011/5/10/44-skype-i-tootajatest-on-parit-odava-toojouga-eestist|title=Skype eelistab odavat Eesti tööjõudu|work=Äripäev}}</ref><ref>{{cite web|url=http://blogs.skype.com/en/2011/10/acquisitionclose.html|title=Tony Bates Weighs in on Microsoft's Acquisition of Skype – – Skype Blogs|work=Skype Blogs|url-status=dead|archiveurl=https://web.archive.org/web/20111015124254/http://blogs.skype.com/en/2011/10/acquisitionclose.html|archivedate=15 October 2011}}</ref><ref>{{cite news| url=https://www.bbc.co.uk/news/business-13343600|date=10 May 2011| title=Microsoft confirms takeover of Skype| publisher=bbc.com| accessdate=6 November 2012}}</ref>
+
+Skype allows users to communicate over the Internet by voice, using a [[microphone]], by video using a [[webcam]], and by [[instant messaging]]. Skype implements a [[freemium]] business model with Skype-to-Skype calls being free of charge, while calls to [[landlines|landline telephones]] and mobile phones (over [[Public switched telephone network|traditional telephone networks]]) are charged via a [[debits and credits|debit]]-based user account system called Skype Credit. Some network administrators have banned Skype on corporate, government, home, and education networks,<ref name="arstechnica">{{cite web| url=https://arstechnica.com/old/content/2006/09/7814.ars| title=More universities banning Skype| date=24 September 2006| accessdate=14 December 2010}}</ref> citing such reasons as inappropriate usage of resources, excessive bandwidth usage and security concerns.<ref name="tmcnet">{{cite web| url=http://blog.tmcnet.com/blog/rich-tehrani/voip/ban-skype.html| title=Ban Skype| date=10 November 2005| accessdate=14 December 2010}}</ref>
+
+Skype originally featured a hybrid [[peer-to-peer]] and [[Client–server model|client–server]] system.<ref>{{cite news|last1=Ferdinand|first1=Von Götzen|date=1 December 2014|title=An interview with Jaan Tallinn, co-founder and author of Skype|url=http://affairstoday.co.uk/interview-jaan-tallinn-co-founder-author-skype/|publisher=Affairs Today|url-status=dead|archiveurl=https://web.archive.org/web/20141207051233/http://affairstoday.co.uk/interview-jaan-tallinn-co-founder-author-skype/|archivedate=7 December 2014}}</ref> Skype has been powered entirely by Microsoft-operated [[supernode (networking)|supernodes]] since May 2012.<ref>{{Cite web|url = https://arstechnica.com/business/2012/05/skype-replaces-p2p-supernodes-with-linux-boxes-hosted-by-microsoft/|title = Skype replaces P2P supernodes with Linux boxes hosted by Microsoft (updated)}}</ref> The [[Global surveillance disclosures (2013–present)|2013 mass surveillance disclosures]] revealed that Microsoft had granted intelligence agencies unfettered access to supernodes and Skype communication content.<ref name="guardian1">{{cite news |url=https://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data |title=How Microsoft handed the NSA access to encrypted messages |work=The Guardian|date= 11 July 2013|accessdate=20 July 2013 |location=London |first1=Glenn |last1=Greenwald |authorlink=Glenn Greenwald |first2=Spencer |last2=Ackerman |first3=Laura |last3=Poitras |first4=Ewen |last4=MacAskill |first5=Dominic |last5=Rushe}}</ref>
+
+Throughout 2016 and 2017, Microsoft redesigned its Skype clients in a way that transitioned Skype from [[peer-to-peer]] service to a centralized [[Microsoft Azure|Azure]] service and adjusted the user interfaces of apps to make text-based messaging more prominent than voice calling. Skype for Windows,<ref name="win10preview">{{cite web|url= https://blogs.skype.com/news/2017/04/11/skype-preview-evolves-in-the-latest-version-of-windows-10/ |title= Skype Preview evolves in the latest version of Windows 10 |date=11 April 2017 |website=Skype blog | publisher= Microsoft |accessdate=11 April 2017}}</ref> iOS,<ref>{{cite web|title=Introducing new ways to express yourself on Skype|url=https://blogs.skype.com/news/2017/02/16/introducing-new-ways-express-skype/|date=16 February 2017|website=Skype blog|publisher=Microsoft}}</ref> Android,<ref name="Thurrott">{{cite web|last1=Thurrott|first1=Paul|title=Microsoft Issues First Skype Preview Build on Android|date=16 February 2017|url=https://www.thurrott.com/cloud/microsoft-consumer-services/skype/90522/microsoft-issues-first-skype-preview-build-android|website=Thurrott}}</ref> Mac<ref>{{cite web |url=https://blogs.skype.com/news/2017/08/17/hello-desktops-meet-skype-preview/ |title=Hello, desktops. Meet Skype Preview |date=17 August 2017 |website=Skype blog }}</ref> and Linux<ref>{{cite web |url=http://www.omgubuntu.co.uk/2017/08/skype-redesign-everyone-hates-now-available-linux |title=The Skype Redesign Everyone Hates Is Now Available on Linux |author=Joey Sneddon |date=31 August 2017 |website=OMG! Ubuntu! }}</ref> received significant, visible overhauls.
+
+== Etymology ==
+The name for the software is derived from "Sky [[peer-to-peer]]", which was then abbreviated to "Skyper". However, some of the domain names associated with "Skyper" were already taken.<ref>{{cite web|url=http://www.eplanetventures.com/en/news/releases/pr_013006_1.html|title=The World's Hottest VC?|archiveurl=https://web.archive.org/web/20080109184710/http://www.eplanetventures.com/en/news/releases/pr_013006_1.html|archivedate=9 January 2008|url-status=dead}}</ref> Dropping the final "r" left the current title "Skype", for which domain names were available.<ref name="nameorigin">{{cite web|url=http://share.skype.com/blog/insight/origin_of_the_name%10word_%22skype%22/|title=Origin of the name/word Skype|archiveurl=https://web.archive.org/web/20051104064354/http://share.skype.com/blog/insight/origin_of_the_name%10word_%22skype%22/|archivedate=4 November 2005|url-status=dead|accessdate=13 August 2010}}</ref>
+
+== History ==
+{{Main|Skype Technologies}}
+* Skype was founded in 2003 by [[Niklas Zennström]], from [[Sweden]], and [[Janus Friis]], from [[Denmark]].<ref>{{cite web|url=http://about.skype.com/|title=About Skype: What is Skype?|accessdate=28 July 2010}}</ref> The Skype software was created by Estonians [[Ahti Heinla]], [[Priit Kasesalu]], [[Jaan Tallinn]], and Toivo Annus.<ref name=":0">{{Cite web|last=Tänavsuu|first=Toivo|date=2018-09-03|title="How can they be so good?": The strange story of Skype|url=https://arstechnica.com/information-technology/2018/09/skypes-secrets/|url-status=live|access-date=2020-07-21|website=Ars Technica|language=en-us}}</ref> Friis and Annus are credited with the idea of reducing the cost of voice calls by using a P2P protocol like in Kazaa.<ref name=arsp2>{{Cite web|last=Tänavsuu|first=Toivo|date=2018-09-03|title="How can they be so good?": The strange story of Skype|url=https://arstechnica.com/information-technology/2018/09/skypes-secrets/2/|url-status=live|access-date=2020-07-21|website=Ars Technica|language=en-us}}</ref> An early alpha version was created and tested in spring 2003, and the first public beta version was released on 29 August 2003.<ref>{{cite news|title=Happy Birthday Skype: Even monkeys use it now|url=http://www.emirates247.com/news/happy-birthday-skype-even-monkeys-use-it-now-2013-08-28-1.519060|accessdate=28 August 2013|newspaper=[[Emirates 24/7]]|date=28 August 2013}}</ref><ref name=arsp2/>
+* In June 2005, Skype entered an agreement with the Polish web portal Onet.pl for an integrated offering on the Polish market.<ref>{{cite web|url=http://www.ceeitandtelecom.com/news/21202/onet-and-skype-join-forces | title=Onet and Skype join forces| publisher=PMR| accessdate=1 October 2014}}</ref> On 12 September 2005, [[eBay]] Inc. agreed to acquire Luxembourg-based Skype Technologies SA for approximately US$2.5 billion in up-front cash and eBay stock, plus potential performance-based consideration.<ref name="eBay Completes Acquisition of Skype">{{cite web | url=http://investor.ebay.com/releasedetail.cfm?releaseid=176402 | title=eBay Completes Acquisition of Skype | publisher=eBay | date=14 October 2005 | accessdate=8 April 2013}}</ref> On 1 September 2009, eBay announced it was selling 65% of Skype to [[Silver Lake Partners|Silver Lake]], [[Andreessen Horowitz]], and the [[CPP Investment Board|Canada Pension Plan Investment Board]] for US$1.9 billion, valuing Skype at US$2.75 billion.<ref>{{Cite web|url=https://money.cnn.com/2009/09/01/technology/ebay_skype/|title=EBay to unload big stake in Skype – Sep. 1, 2009|last=writer|first=By David Goldman, CNNMoney.com staff|website=money.cnn.com|access-date=2018-01-15}}</ref>
+* On 14 July 2011, Skype partnered with Comcast to bring its video chat service to Comcast subscribers via HDTV sets.<ref>Ryan Lawler, GigaOm. "[http://gigaom.com/video/comcast-skype-video-chat/ Comcast bringing Skype video chat into the living room] {{webarchive|url=https://web.archive.org/web/20110615101722/http://gigaom.com/video/comcast-skype-video-chat/ |date=15 June 2011 }}." 13 June 2011. Retrieved 13 June 2011.</ref>
+* On 17 June 2013, Skype released a free video messaging service, which can be operated on Windows, Mac OS, iOS, Android and BlackBerry.<ref>{{cite web |url=https://www.engadget.com/2013/06/17/skype-video-messaging-launches-free-unlimited/ |title=Skype video messaging officially launches on Windows, Mac, iOS, Android – but not Windows Phone |date=17 June 2013}}</ref>
+* Between 2017 and 2020 Skype collaborated with PayPal to provide a money send feature. It allowed users to transfer funds via the Skype mobile app in the middle of a conversation.<ref>{{Cite web|url=https://blogs.skype.com/news/2017/08/02/skype-and-paypal-team-up-with-new-send-money-feature/|title=Skype and PayPal team up with new Send Money feature {{!}} Skype Blog|date=2017-08-02|website=Skype Blogs|language=en-US|access-date=2019-03-08}}</ref> In 2019, Skype was announced to be the 6th most downloaded [[Mobile phone|mobile]] app of the decade, from 2010 to 2019.<ref>{{Cite web|url=https://www.cnet.com/news/10-most-downloaded-apps-of-the-decade-facebook-dominated-2010-2019/|title=Facebook was the most-downloaded app of the decade|last=Rayome|first=Alison DeNisco|website=CNET|language=en|access-date=2019-12-18}}</ref>
+
+=== Microsoft acquisition ===
+{{multiple image
+ | width = 70
+ | image1            = Skype-icon.svg
+ | caption1          = Skype icon, 2006–2012
+ | image2            = Skype-icon-new.png
+ | caption2          = Skype icon, 2012–2020
+}}
+* On 10 May 2011, [[Microsoft|Microsoft Corporation]] acquired [[Skype Technologies|Skype Communications, S.à r.l]] for US$8.5 billion.<ref name="SkypeMicrosoftPressRelease">{{cite web|url=http://about.skype.com/press/2011/05/microsoft_to_acquire_skype.html#more|title=Microsoft to acquire Skype|date=10 May 2011|accessdate=10 May 2011|archive-url=https://web.archive.org/web/20110512044223/http://about.skype.com/press/2011/05/microsoft_to_acquire_skype.html#more#more|archive-date=12 May 2011|url-status=dead}}</ref> The company was incorporated as a division of Microsoft, which acquired all its technologies with the purchase. The acquisition was completed on 13 October 2011.<ref name="SkypeMicrosoftPressRelease" /><ref>{{cite web|last=Toor|first=Amar|title=Microsoft finalizes acquisition of Skype, Tony Bates shares his thoughts (video)|url=https://www.engadget.com/2011/10/14/microsoft-finalizes-acquisition-of-skype-tony-bates-shares-his/|publisher=Engadget|date = 13 October 2011|accessdate=29 January 2019}}</ref>
+* Shortly after its acquisition, Microsoft began integrating the Skype service with its own products. Along with taking over the development of existing Skype desktop and [[mobile app]]s, the company developed a dedicated client app for its then-newly released, touch-focused [[Windows 8]] and [[Windows RT]] operating systems. They were made available from [[Windows Store]] when the then-new OS launched on 26 October 2012. The following year, it became the default messaging app for [[Windows 8.1]], replacing the Windows 8 Messaging app at the time, and became pre-installed software on every device that came with or upgraded to 8.1.<ref>{{Cite web|url=https://www.pcmag.com/news/314824/skype-to-come-pre-installed-on-windows-8-1|title=Skype to Come Pre-Installed on Windows 8.1|last=Albanesius|first=By Chloe|last2=August 15|first2=2013 2:50PM EST|website=PCMAG|language=en|access-date=2019-11-05|last3=August 15|first3=2013}}</ref>
+* Furthermore, Microsoft discontinued two of its own products in favor of Skype: in a month-long transition period from 8 to 30 April 2013, Microsoft phased out its long-standing [[Windows Live Messenger]] instant messaging service in favor of Skype, although Messenger continued in mainland China.<ref>{{cite web|url=http://www.trutower.com/2013/01/09/microsoft-windows-live-messenger-retiring-users-moving-to-skype-on-march-15/|title=Microsoft: Windows Live Messenger Retiring, Users Moving to Skype on 15 March|last=Nay|first=Josh Robert|date=9 January 2013|website=TruTower|accessdate=6 February 2013}}</ref><ref>{{cite web|url=http://www.liveside.net/2013/02/15/skype-news-messenger-shutting-down-new-video-messages-and-lots-of-growth/|title=Skype news: Messenger shutting down, new Video Messages, and lots of growth|date=15 February 2013|website=LiveSide.net|last1=Kniskern|first1=Kip|accessdate=17 February 2013}}</ref> On 11 November 2014, Microsoft announced that in 2015, Lync would be replaced by [[Skype for Business]]. The latest version of the communication software combines features of Lync and consumer Skype software. There are two user interfaces—organizations can switch their users from the default Skype for Business interface to the Lync interface.<ref>{{cite web|url=https://support.office.com/en-us/article/Switching-between-the-Skype-for-Business-and-the-Lync-client-user-interfaces-a2394a4c-7522-484c-a047-7b3289742be0|title=Switching between the Skype for Business and the Lync client user interfaces|website=Office Support|publisher=[[Microsoft]]|accessdate=21 February 2016}}</ref>
+
+=== Post acquisition ===
+* On 12 August 2013, Skype released the 4.10 update to the app for Apple iPhone and [[iPad]] that allows HD quality video for iPhone 5 and fourth-generation iPads.<ref>{{cite web |url=http://hd-report.com/2013/08/12/skype-app-for-iphoneipad-updated-to-hd/ |title=Skype app for iPhone/iPad updated to HD |date=12 August 2013}}</ref>
+* On 20 November 2014, Microsoft Office's team announced that a new chat powered by Skype would be implemented in their software, giving tools to be able to chat with co-workers in the same document.<ref name="Office">{{cite web |url=https://thenextweb.com/insider/2014/11/20/microsoft-taps-skype-bring-real-time-chats-office-online/ |title=Microsoft taps Skype to bring real-time chats to Office Online |author= Nadier Lopez |date= 20 November 2014 |publisher= The Next Web |accessdate= 24 November 2014 }}</ref>
+* On 15 September 2015, Skype announced the release of Mojis, "a brand new way to express yourself on Skype". Mojis are short clips/gifs featuring characters from films and TV shows to be entered into conversations with the same ease as emoticons. They worked with [[Universal Studios]], [[The Muppets|Disney Muppets]], [[BBC Worldwide|BBC]] and other studios to add to the available collection of Mojis.<ref>{{Cite web|title = Mojis: Express Yourself on Skype-Like Never Before|url = http://blogs.skype.com/2015/09/15/mojis-express-yourself-on-skype-like-never-before/|website = Skype Blogs|accessdate = 16 September 2015}}</ref> Later that year, Gurdeep Singh Pall, Corporate Vice President of Skype, announced that Microsoft had acquired the technology from Talko, "maker of an innovative mobile app for on-the-go business communications (...) Together, the new technology and talent will help us deliver great new features and capabilities in both Skype and Skype for Business."<ref>{{cite web |url=https://blogs.microsoft.com/firehose/2015/12/21/talko-comes-to-skype-2/ |title=Talko comes to Skype |date=21 December 2015}}</ref>
+* In July 2016, Skype introduced an early Alpha version of a new Skype for Linux client, built with [[WebRTC]] technology, after several petitions had asked Microsoft to continue development for Linux.<ref>{{Cite web|url=http://blogs.skype.com/2016/07/13/skype-for-linux-alpha-and-calling-on-chrome-and-chromebooks/|title=Skype for Linux Alpha and calling on Chrome and Chromebooks|date=13 July 2016|website=Skype Blogs|access-date=14 July 2016}}</ref><ref>{{Cite web|url=http://www.winbuzzer.com/2016/07/13/microsoft-debuts-skype-linux-alpha-xcxwbn/|title=Microsoft Debuts Skype for Linux Alpha|last=Jones|first=Luke|date=13 July 2016|website=WinBuzzer|access-date=14 July 2016}}</ref> In September of that year, Skype updated their iOS app with new features, including an option to call contacts on Skype through Siri voice commands.<ref>{{Cite web|url=https://venturebeat.com/2016/09/28/skype-for-ios-10-lets-you-use-siri-to-make-a-call-and-answer-calls-from-your-lock-screen/|title=Skype for iOS 10 lets you use Siri to make a call and answer calls from your lock screen|website=VentureBeat|access-date=30 September 2016}}</ref> In October of that year, Microsoft launched Skype for Business for Mac.<ref>{{Cite web|url=https://venturebeat.com/2016/10/27/skype-business-mac-public/|title=Skype for Business launches on Mac, mobile version now lets you give PowerPoint presentations remotely|last=Paul|first=Sawers|date=27 October 2016|website=VentureBeat|access-date=29 October 2016}}</ref>
+* In February 2017, Microsoft announced plans to discontinue its Skype Wi-Fi service globally. The application was delisted, and the service itself became non-functional from 31 March 2017.<ref>{{Cite news|url=https://techcrunch.com/2017/02/27/skype-is-killing-off-its-wifi-service-march-31-to-focus-on-core-features/|title=Skype is killing off its WiFi service 31 March to focus on 'core' features|publisher=TechCrunch|author=Ingrid Lunden|date=28 February 2017|access-date=1 March 2017}}</ref><ref>{{cite web|title = Is Skype WiFi being discontinued?|url = https://support.skype.com/en/faq/FA10010/is-skype-wifi-being-discontinued| website=Skype Support|access-date = 1 March 2017}}</ref> On 5 June 2017, Microsoft announced its plans to revamp Skype with similar features to Snapchat, allowing users to share temporary copies of their photos and video files.<ref>{{cite web|url=https://seekingalpha.com/article/4078871-microsoft-revamps-skype-like-snapchat|title=Microsoft Revamps Skype To Be More Like Snapchat|first=Motek|last=Moyen|date=5 June 2017|website=Seeking Alpha}}</ref> In late June 2017, Microsoft rolled out their latest update for iOS, incorporating a revamped design and new third-party integrations, with platforms including [[Gfycat]], [[YouTube]], and [[Upworthy|UpWorthy]].<ref>{{Cite news|url=https://techcrunch.com/2017/06/01/skypes-snapchat-inspired-makeover-puts-the-camera-a-swipe-away-adds-stories/|title=Skype’s Snapchat-inspired makeover puts the camera a swipe away, adds stories|last=Perez|first=Sarah|work=TechCrunch|access-date=2017-10-30|language=en}}</ref> It was not well-received, with numerous "1 star" reviews and complaints that the new client broke existing functionality.<ref>{{Cite news|url=https://www.forbes.com/sites/amitchowdhry/2017/07/17/microsoft-monday-negative-skype-reviews-increasing-broadband-in-rural-areas-new-outlook-features/#3613750449fc|title=Negative Skype Reviews|work=Forbes|author= Chowdhry, Amit|date = 17 July 2017|access-date= 17 July 2017|language=en}}</ref> In December 2017, Microsoft added "Skype Interviews", a shared code editing system for those wishing to hold job interviews for programming roles.<ref>{{cite web|url=http://www.linuxedge.org/skype-adds-real-time-code-editor-interview-programmers/|title=Skype adds real-time code editor to interview programmers|date=25 December 2017|website=Linux Edge}}</ref><ref>{{cite web|url=https://www.skype.com/en/interviews/|title=Skype Interviews}}</ref>
+
+== Features ==
+{{Main|Features of Skype}}
+Registered users of Skype are identified by a unique Skype ID and may be listed in the Skype directory under a Skype username.<ref>{{cite web
+| title=Usernames, aliases, and nicknames&nbsp;– your Skype passport
+| url=http://www.skype.com/allfeatures/skypename/
+| publisher=Skype.com
+| accessdate=27 August 2009
+}}</ref> Skype allows these registered users to communicate through both instant messaging and voice chat. Voice chat allows [[telephone call]]s between pairs of users and conference calling and uses proprietary audio [[codec]]. Skype's text chat client allows group chats, [[emoticon]]s, storing chat history, and editing of previous messages. Offline messages were implemented in a beta build of version 5 but removed after a few weeks without notification. The usual features familiar to instant messaging users—user profiles, online status indicators, and so on—are also included.
+
+The ''Online Number'', a.k.a. SkypeIn, service allows Skype users to receive calls on their computers dialed by conventional phone subscribers to a local Skype phone number; local numbers are available for Australia, Belgium, Brazil, Chile, Colombia, Denmark, the Dominican Republic, Estonia, Finland, France, Germany, Hong Kong, Hungary, India, Ireland, Japan, Mexico, Nepal, New Zealand, Poland, Romania, South Africa, South Korea, Sweden, Switzerland, Turkey, the Netherlands, the United Kingdom, and the United States.<ref name="skypeincountries">{{cite web
+ |url         = http://share.skype.com/sites/en/2007/06/four_new_skypein_countries.html
+ |title       = Four new SkypeIn countries
+ |author      = Arak, Villu
+ |publisher   = Skype Blogs
+ |accessdate  = 13 August 2007
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20070902213919/http://share.skype.com/sites/en/2007/06/four_new_skypein_countries.html
+ |archivedate = 2 September 2007}}</ref><ref>{{cite web
+| url=http://www.skype.com/allfeatures/onlinenumber/
+| title=Skype.com
+| publisher=Skype.com
+| accessdate=10 October 2010
+}}</ref> A Skype user can have local numbers in any of these countries, with calls to the number charged at the same rate as calls to fixed lines in the country.
+
+Skype supports conference calls, video chats, and screen sharing between 25 people at a time for free,<ref>{{cite web|url=http://blogs.skype.com/2014/04/28/skype-loves-bringing-groups-together-with-free-group-video-calling/|title=Skype Loves Bringing Groups Together – With FREE Group Video Calling|last=Snalune|first=Phillip|date=28 April 2014|work=Skype Blogs|publisher=[[Microsoft]]|accessdate=12 May 2014}}</ref> which then increased to 50 on 5 April 2019.<ref>{{Cite web|url=https://www.cnet.com/news/skype-launches-50-person-video-call-feature/|title=Skype launches 50-person video call feature|last=Brown|first=Shelby|website=CNET|language=en|access-date=2020-04-08}}</ref>
+
+Skype does not provide the ability to call [[Emergency telephone number|emergency numbers]], such as [[112 (emergency telephone number)|112]] in Europe, [[9-1-1|911]] in North America, [[999 (emergency telephone number)|999]] in the UK or 100 in India and Nepal.<ref>{{cite web |url=http://www.skype.com/allfeatures/no911/ |title=Skype and Emergency Services}}</ref> However, as of December 2012, there is limited support for emergency calls in the United Kingdom, Australia, Denmark, and Finland.<ref>{{cite web |url=http://www.skype.com/en/legal/emergency-calling/ |title=Skype Emergency Calling}}</ref> The U.S. [[Federal Communications Commission]] (FCC) has ruled that, for the purposes of section 255 of the [[Telecommunications Act of 1996|Telecommunications Act]], Skype is not an "interconnected VoIP provider".<ref>{{cite web |url=http://www.access-board.gov/sec508/refresh/teitac8th/tf-report.htm |title=Draft Report from TEITAC Task Force on 255/508 differences, with proposals for TEITAC discussion |accessdate=13 July 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20100630185419/http://www.access-board.gov/sec508/refresh/teitac8th/tf-report.htm |archivedate=30 June 2010}}</ref> As a result, the U.S. [[National Emergency Number Association]] recommends that all VoIP users have an analog line available as a backup.<ref>{{cite web |url=http://www.911voip.org/faqs.htm |title=Frequently Asked Questions |publisher=911VoIP.org |accessdate=31 March 2009}}</ref>
+
+In 2019, Skype added an option to blur the background in a video chat interface using A.I. algorithms purely done using software, despite a depth sensing camera not being present in most webcams.<ref>{{cite web |title=Introducing background blur in Skype |url=https://blogs.skype.com/news/2019/02/06/introducing-background-blur-in-skype/ |date=6 February 2019 |accessdate=8 December 2019}}</ref>
+
+== Usage and traffic ==
+{{update|section|date=February 2020}}
+{| class="wikitable collapsible collapsed" style="font-size:88%; min-width:60em"
+!colspan=6| Usage and traffic
+|-
+! Date
+! Total user accounts<br /><span style="font-weight: normal;">(millions)<br /><ref>{{cite web | url=http://investor.ebay.com/common/download/download.cfm?companyid=ebay&fileid=69405&filekey=2cbacae7-15cf-46fb-9a19-a89664d4e591&filename=eBayIncEarningsReleaseQ42006.pdf| title=eBay Inc. reports third quarter 2006 results }}</ref><ref>{{cite web | url=http://investor.ebay.com/common/download/download.cfm?companyid=ebay&fileid=91666&filekey=69437bfc-314d-4be6-a2d5-ec014c8e9313&filename=eBayIncQ12007EarningsRelease.pdf| title=eBay Inc. reports first quarter 2007 results }}</ref><ref>{{cite web | url=http://files.shareholder.com/downloads/ebay/290714019x0x188143/0f787a2a-4ebb-4b72-8439-40e711047d9d/eBay_FINALQ12008EarningsRelease.pdf| title=eBay Inc. reports first quarter 2008 results }}</ref><ref name="fz2009-01-10">{{cite web
+ | url=http://www.fudzilla.com/index.php?option=com_content&task=view&id=11338&Itemid=1
+ | title=Skype is the limit thanks to recession
+ | accessdate=6 January 2009
+}}</ref><ref name="slideshare1">{{cite web | url=http://www.slideshare.net/earningreport/presentation-on-q1-2009-earning-report-of-ebay-inc | title=Skype facts Q1 2011 }}</ref><ref>{{cite web | url=http://ebayinkblog.com/wp-content/uploads/2009/01/skype-fast-facts-q4-08.pdf| title=Skype fast facts Q4 2008 }}</ref><ref>{{cite web|url=https://www.sec.gov/Archives/edgar/data/1498209/000119312511056174/ds1a.htm | title=Skype S.à r.l. SEC filing |date=4 March 2011|accessdate=26 May 2011}}</ref></span>
+! Active users, daily use<br /><span style="font-weight: normal;">(millions)<br /><ref>{{cite web | url=http://glimfeather.com/borderless/OnlineNow.htm | title=Skype users online now | access-date=21 January 2009 | archive-url=https://web.archive.org/web/20090202083356/http://glimfeather.com/borderless/OnlineNow.htm | archive-date=2 February 2009 | url-status=dead}}</ref><ref name="Ars-buyout">{{cite web|url=https://arstechnica.com/microsoft/news/2011/05/wsj-microsoft-to-buy-skype-for-7bn-rest-of-world-for-real.ars|title=WSJ: Microsoft to buy Skype for $7bn. Rest of world: for real?|publisher=ArsTechnica|date=10 May 2011|accessdate=10 May 2011}}</ref><ref>{{cite web|url=http://www.ft.com/cms/s/2/e858ad1c-7b1f-11e0-9b06-00144feabdc0,dwp_uuid=9a36c1aa-3016-11da-ba9f-00000e2511c8.html#axzz1LtCJH6ph|title=Skype's changing traffic growth|work=Financial Times|date=10 May 2011|accessdate=10 May 2011}}</ref></span>
+! Skype to Skype minutes<br /><span style="font-weight: normal;">(billions)<br /><ref name="GigaOm2009q4">{{cite web
+ | url=http://gigaom.com/2010/04/20/skype-q4-2009-number/
+ | title=Skype by the Numbers: It's really Big
+ | accessdate=1 July 2011
+}}</ref> </span>
+! SkypeOut minutes<br /><span style="font-weight: normal;">(billions)</span>
+! Revenue USD<br /><span style="font-weight: normal;">(millions)</span>
+|-
+| Q4&nbsp;2005 || 74.7 || 10.8 || {{N/a}} || {{N/a}} || {{N/a}}
+|-
+| Q1 2006 || 94.6 || 15.2 || 6.9 || 0.7 || 35
+|-
+| Q2 2006 || 113.1 || 16.6 || 7.1 || 0.8 || 44
+|-
+| Q3 2006 || 135.9 || 18.7 || 6.6 || 1.1 || 50
+|-
+| Q4 2006 || 171.2 || 21.2 || 7.6 || 1.5 || 66
+|-
+| Q1 2007 || 195.5 || 23.2 || 7.7 || 1.3 || 79
+|-
+| Q2 2007 || 219.6 || 23.9 || 7.1 || 1.3 || 90
+|-
+| Q3 2007 || 245.7 || 24.2 || 6.1 || 1.4 || 98
+|-
+| Q4 2007 || 276.3 || 27.0 || 11.9 || 1.6 || 115
+|-
+| Q1 2008 || 309.3 || 31.3 || 14.2 || 1.7 || 126
+|-
+| Q2 2008 || 338.2 || 32.0 || 14.8 || 1.9 || 136
+|-
+| Q3 2008 || 370 || 33.7 || 16.0 || 2.2 || 143
+|-
+| Q4 2008 || 405 || 36.5 || 20.5 || 2.6 || 145
+|-
+| Q1 2009 || 443 || 42.2 || 23.6 || 2.9 || 153
+|-
+| Q2 2009 || 483 || {{dunno}} || 25.5 || 3.0 || 170
+|-
+| Q3 2009 || 521 || {{dunno}} || 27.7 || 3.1 || 185
+|-
+| Q4 2009 || 560 || {{dunno}} || 36.1 || {{dunno}} || {{dunno}}
+|-
+| Q1 2010 || {{dunno}} || {{dunno}} || 190 || 12.8 || 860
+|-
+| Q2 2010 || {{dunno}} || {{dunno}} || {{dunno}}|| {{dunno}} || {{dunno}}
+|-
+| Q3 2010 || {{dunno}} || {{dunno}} || {{dunno}}|| {{dunno}} || {{dunno}}
+|-
+| Q4 2010 || {{dunno}} || {{dunno}} || {{dunno}}|| {{dunno}} || {{dunno}}
+|-
+| Q1 2011 || {{dunno}} || {{dunno}} || {{dunno}}|| {{dunno}} || {{dunno}}
+|-
+| Q2 2011 || {{dunno}} || {{dunno}} || {{dunno}}|| {{dunno}} || {{dunno}}
+|-
+| Q3 2011 || 663 || {{dunno}} || {{dunno}}|| {{dunno}} || {{dunno}}
+|-
+| Q4 2011 || {{dunno}} || {{dunno}} || {{dunno}}|| {{dunno}} || {{dunno}}
+|-
+| Q1 2012 || {{dunno}} || {{dunno}} || {{dunno}}|| {{dunno}} || {{dunno}}
+|-
+| Q2 2012 || {{dunno}} || {{dunno}} || {{dunno}}|| {{dunno}} || {{dunno}}
+|-
+|colspan=6 |
+Users may have more than one account; it is not possible to count users, only accounts.
+
+The volume of international traffic routed via Skype is significant. In 2009 it was considered the largest international voice carrier (by minutes of calls).<ref name="networkworld.com">{{cite web |url=http://www.networkworld.com/news/2009/032509-skype-is-largest-international-voice.html |title=Skype is largest international voice carrier, says study |author=Ricknäs, Mikael |date=25 March 2009 |work=Network World |publisher=IDG News Service |url-status=dead |archiveurl=https://web.archive.org/web/20090328150708/http://www.networkworld.com/news/2009/032509-skype-is-largest-international-voice.html |archivedate=28 March 2009}}</ref>
+|}
+{|class="wikitable"
+|-
+!Year
+!International call market share
+|-
+|2005
+|2.9%<ref name="tele1">{{cite web |url=http://www.telegeography.com/cu/article.php?article_id=15656&email=html |title=International carriers' traffic grows despite Skype popularity |publisher=TeleGeography Report and Database |accessdate=7 December 2006}}</ref>
+|-
+|2006
+|4.4%<ref name="tele1" />
+|-
+|2008
+|8%<ref name="networkworld.com" />
+|-
+|2009
+|12%<ref name="GigaOm2009q4" />
+|-
+|2010
+|13%<ref name="inquis">{{cite web
+ | title=Skype Commands 13 Percent of International Phone Calls
+ | publisher=The Inquisitr
+ | date=3 May 2010
+ | accessdate=4 May 2010
+ | url=http://www.inquisitr.com/71802/skype-commands-13-percent-of-international-calls
+}}</ref>
+|-
+|2012
+|33%<ref name="Phonearena">{{cite web
+ | title=Skype now accounts for a third of international calls
+ | publisher=Phonearena
+ | date=16 February 2013
+ | accessdate=28 September 2014
+ | url=http://www.phonearena.com/news/Skype-now-accounts-for-a-third-of-international-calls_id39861\
+}}</ref>
+|-
+|2013
+|36%<ref name="Telegeo">{{cite web
+ | title=Skype traffic continues to thrive
+ | publisher=TeleGeography
+ | date=15 January 2014
+ | accessdate=28 September 2014
+ | url=http://www.telegeography.com/products/commsupdate/articles/2014/01/15/skype-traffic-continues-to-thrive/
+}}</ref>
+|-
+|2014
+|40%<ref name="Anorak">{{cite web
+ | title=Skype Is Now 40% Of The Entire International Telephone Market
+ | publisher=Anorak
+ | date=17 January 2014
+ | accessdate=28 September 2014
+ | url=http://www.anorak.co.uk/383464/money/skype-is-now-40-of-the-entire-international-telephone-market.html/
+}}</ref>
+|}
+
+In January 2011, after the release of video calling on the Skype client for iPhone, Skype reached a record 27 million simultaneous online users.<ref name="engadget2">{{cite web | url=https://www.engadget.com/2011/01/11/skype-hits-new-record-of-27-million-simultaneous-users-in-wake-o/ | title=Skype Hits New Record of 27 Million Simultaneous Users | accessdate=11 January 2011}}</ref> This record was broken with 29 million simultaneous online users on 21 February 2011<ref name="29milusers">{{cite web | url=http://blogs.skype.com/en/2011/02/29_million_people_online.html | title=29 million people online on Skype | accessdate=23 February 2011 | url-status=dead | archiveurl=https://web.archive.org/web/20110224074348/http://blogs.skype.com/en/2011/02/29_million_people_online.html | archivedate=24 February 2011}}</ref> and again on 28 March 2011 with 30 million online users.<ref name="30milusers">{{cite web | url=http://blogs.skype.com/en/2011/03/30_million_people_online.html | title=30 million people online on Skype | accessdate=28 March 2011 | url-status=dead | archiveurl=https://web.archive.org/web/20110330131020/http://blogs.skype.com/en/2011/03/30_million_people_online.html | archivedate=30 March 2011}}</ref> On 25 February 2012, Skype announced that it has over 32 million users for the first time ever.<ref name="32milusers">{{cite web | url=http://techcask.com/internet/skype-reaches-milestone-32-million | title=Skype reaches new milestone with 32 million users | accessdate=26 February 2012}}</ref> By 5 March 2012, it had 36 million simultaneous online users,<ref name="35milusers">{{cite web | url=http://blogs.skype.com/en/2012/03/35_million_people_concurrently.html | title=35 Million People Concurrently Online on Skype | accessdate=8 March 2012 | url-status=dead | archiveurl=https://web.archive.org/web/20120308033805/http://blogs.skype.com/en/2012/03/35_million_people_concurrently.html | archivedate=8 March 2012}}</ref> and less than a year later, on 21 January 2013, Skype had more than 50 million [[concurrent user]]s online.<ref name="50milusers">{{cite web | url=http://skypenumerology.blogspot.se/2013/01/50-million-concurrent-users-online.html | title=50 million concurrent users online | accessdate=25 March 2013}}</ref>
+In June 2012, Skype had surpassed 70 million downloads on an Android device.<ref name="and70down">{{cite web | url= https://www.facebook.com/photo.php?fbid=10150889594876976&set=a.501649771975.274148.29282006975&type=3 | title=More than 70 Million downloads on an Android device | accessdate=26 June 2012}}</ref>
+
+On 19 July 2012, Microsoft announced that Skype users had logged 115 billion minutes of calls in the quarter, up to 50% since the last quarter.<ref name="techcrunch">{{cite web | url= https://techcrunch.com/2012/07/19/skype-at-microsoft/ | title=How's Skype Doing at MSFT? Usage Jumps 50%, Users Logged 115B Minutes of Calls Last Quarter | accessdate=21 July 2012}}</ref>
+
+On 15 January 2014, TeleGeography estimated that Skype-to-Skype international traffic has gone up to 36% in 2013 to 214 billion minutes.<ref name="TeleGeography">{{cite web | url= http://www.telegeography.com/products/commsupdate/articles/2014/01/15/skype-traffic-continues-to-thrive/ | title=Skype traffic continues to thrive | accessdate=3 September 2014}}</ref>
+
+== System and software ==
+=== Client applications and devices ===
+==== Windows app ====
+[[File:Skype 4.0 screenshot.png|thumb|Skype 4.0 (released 2009)]]
+Multiple different versions of Skype have been released for Windows since its conception. The original line of Skype applications continued from versions 1.0 through 4.0. It has offered a desktop-only app since 2003. Later, a mobile version was created for Windows Phones.
+
+In 2012, Skype introduced a new version for Windows 8 similar to the [[Windows Phone]] version.<ref>{{cite web
+ |url        = https://www.microsoft.com/en-us/store/apps/skype/9wzdncrfj364
+ |title      = Skype
+ |website    = Microsoft Store
+ |publisher  = [[Microsoft]]
+ |accessdate = 4 April 2016
+}}</ref> On 7 July 2015 Skype modified the app to direct Windows users to download the desktop version of the app, but it was set to continue working on Windows RT until October 2016.<ref>{{cite web
+ |url        = http://blogs.skype.com/2015/06/11/a-more-efficient-skype-experience-for-your-pc/
+ |title      = A More Efficient Skype Experience for Your PC 
+ |website    = Skype
+ |publisher  = Skype
+ |accessdate = 4 April 2016
+}}</ref> In November 2015, Skype introduced three new apps, called Messaging, Skype Video, and Phone, intended to provide an integrated Skype experience in Windows 10.<ref>{{cite web
+ |url        = https://www.microsoft.com/en-us/store/apps/messaging-skype/9wzdncrfjbq6
+ |title      = Messaging + Skype 
+ |website    = Microsoft Store
+ |publisher  = [[Microsoft]]
+ |accessdate = 4 April 2016
+}}</ref><ref>{{cite web
+ |url        = http://blogs.skype.com/2015/11/12/the-consumer-preview-of-skype-integration-for-windows-10-is-here-tell-us-what-you-want-to-see-next/
+ |title      = The Consumer Preview of Skype Integration for Windows 10 is here – Tell us what you want to see next 
+ |website    = Skype
+ |publisher  = Skype
+ |accessdate = 4 April 2016
+}}</ref> On 24 March 2016, Skype announced the integrated apps did not satisfy most users' needs and announced that they and the desktop app would eventually be replaced with a new UWP app,<ref name="blogs.skype.com">{{cite web |url=http://blogs.skype.com/2016/03/24/skype-universal-windows-platform-app-preview-for-windows-10-is-coming-to-windows-insiders/ |title=Skype Universal Windows Platform app Preview for Windows 10 is coming to Windows Insiders |date=24 March 2016 |website=Skype Blogs}}</ref> which was released as a preview version for the Windows 10 Anniversary Update and dubbed as the stable version with the release of the Windows 10 Creators Update.
+
+The latest version of Skype for Windows is Skype 11, which is based on the Universal Windows Platform and runs on various Windows 10-related systems, including [[Xbox One]], Windows phones, and [[Microsoft Hololens]]. Microsoft still offers the older Skype 8, which is Win32-based and runs on all systems from [[Windows XP]] (which is otherwise unsupported by Microsoft) to the most recent release of Windows 10.<ref name="system-requirements">{{cite web|title=What are the system requirements for Skype?|url=https://support.skype.com/en/faq/fa10328/what-are-the-system-requirements-for-skype|website=Skype Support|publisher=Microsoft|accessdate=17 February 2018}}</ref>
+
+In late 2017, this version was upgraded to Skype 12.9 in which several features were both removed and added.<ref>{{cite web|title=About Skype for Desktop Version 12 |url=https://support.skype.com/en/faq/FA34685/what-s-new-in-skype-for-windows-10/|website=Skype|publisher=Microsoft}}</ref>
+
+==== Other desktop apps ====
+* [[macOS]] (10.9 or newer)<ref name="system-requirements" />
+* [[Linux]] ([[Ubuntu (operating system)|Ubuntu]], [[Debian]], [[openSUSE]], [[Fedora (operating system)|Fedora]])<ref name="system-requirements" />
+
+==== Other mobile devices ====
+* [[iOS]]
+* [[Android (operating system)|Android]]
+* [[Nokia X]]<ref>{{cite web |url=https://blogs.skype.com/stories/2014/02/24/say-hello-to-skype-for-the-nokia-x-family/ |title=Say Hello to Skype for the Nokia X Family |date=24 February 2014 |website=Skype Blog |publisher=Microsoft }}</ref>
+Skype was previously available on selected [[Symbian]], [[BlackBerry OS]] and [[BlackBerry 10]] devices. In May 2009 a Version 3.0 was available on [[Windows Mobile 5]] to [[Windows Mobile 6.1|6.1]], and in September 2015 a Version 2.29<ref>{{cite web |url=http://www.windowscentral.com/skype-updated-windows-10-mobile-and-windows-phone-81 |title=Skype updated on Windows 10 Mobile and Windows Phone 8.1 with 'set default' option |author=Thorp-Lancaster, Dan |date=17 September 2015 |website=Windows Central}}</ref> was available on [[Windows Phone 8.1]]; in 2016 Microsoft announced that this would stop working in early 2017 once Skype's transition from peer-to-peer to client-server is complete.<ref>{{cite web |url=https://mspoweruser.com/skype-will-stop-working-windows-phone-early-2017/ |title=Skype will stop working on Windows Phone 8.1 (and older devices) in early 2017 |author=Sean Chan |date=12 August 2016 |publisher=MSPoweruser}}</ref>
+
+==== Skype phones ====
+On 29 October 2007, Skype launched its own mobile phone under the brand name [[3 Skypephone Series|3 Skypephone]], which runs a [[Binary Runtime Environment for Wireless|BREW]] OS.<ref>{{cite web
+| url=http://about.skype.com/2007/10/3_skypephone_delivers_free_sky.html
+| title= 3 Skypephone Delivers Free Skype to Skype Mobile Calls and Instant Messages at the Touch of a Button 
+| date=29 October 2007
+}}</ref>
+
+Skype also offers a Skype Wi-Fi Phone, which is a wireless mobile phone that allows users to make Skype calls, using a wireless Internet connection. The Skype Wi-Fi Phone has an on-screen menu that lets Skype users see who is online and available to talk, similar to what is seen on a PC. It can also be used to talk with non-Skype users. SkypeOut minutes can be used to call any phone for a low price and no monthly fee. The Skype Wi-Fi Phone does not contain a web browser and so cannot access hotspots that require web-based login or authentication.<ref>{{cite web
+ |url         = http://www.voipyeah.com/144_NETGEAR-Skype-WiFi-Phone.html
+ |title       = NETGEAR Skype WiFi Phone
+ |publisher   = voipyeah.com
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20110515212730/http://www.voipyeah.com/144_NETGEAR-Skype-WiFi-Phone.html
+ |archivedate = 15 May 2011}}</ref>
+
+In December 2018 Skype announced it's going to add captions and subtitles during live calls. Features will appear in a real-time. The company says a new feature will allow deaf people to use Skype audio and video calls.<ref>{{Cite news|url=https://techcrunch.com/2018/12/03/skype-launches-real-time-captions-and-subtitles/|title=Skype launches real-time captions and subtitles|work=TechCrunch|access-date=2018-12-04|language=en-US}}</ref>
+
+==== Other platforms ====
+* The [[Nokia N800]], [[Nokia N810|N810]], and [[Nokia N900|N900]] Internet tablets, which run [[Maemo]]
+* The [[Nokia N9]], which runs [[MeeGo]], comes with Skype voice calling and text messaging integrated; however, it lacks video-calling.
+* Both the [[mylo (Sony)|Sony mylo]] COM-1 and COM-2 models
+* The [[PlayStation Portable]] Slim and Lite series, though the user needs to purchase a specially designed microphone peripheral. The [[PSP-3000]] has a built-in microphone, which allows communication without the Skype peripheral.<ref>{{cite web|url=http://about.skype.com/2008/01/skype_expands_mobile_strategy.html|title=Skype Expands Mobile Strategy at 2008 International CES|accessdate=7 January 2008}}</ref> The [[PSP Go]] has the ability to use [[Bluetooth]] connections with the Skype application, in addition to its built-in microphone.<ref>{{cite web|url=http://playstationlifestyle.net/2009/09/24/psp-go-pairing-with-official-psp-go-bluetooth-headset/|title=Playstationlifestyle.net|publisher=Playstationlifestyle.net|accessdate=10 October 2010}}</ref> Skype for [[PlayStation Vita]] may be downloaded via the PlayStation Network in the U.S. It includes the capability to receive incoming calls with the application running in the background.
+* [[Samsung Smart TV]] had a Skype app, which could be downloaded for free.<ref>{{cite web|url=http://www.samsung.com/uk/tvapps/app-detail.htm|title=Skype for Samsung Smart TV|accessdate=12 February 2013}}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> It used the built-in camera and microphone for the newer models. Alternatively, a separate mountable Skype camera with built-in speakers and microphones is available to purchase for older models.<ref>{{cite web|url=http://www.samsung.com/us/video/tvs-accessories/CY-STC1100/ZA|title=Skype camera accessory for Samsung Smart TV|accessdate=12 February 2013|url-status=dead|archiveurl=https://web.archive.org/web/20130206020859/http://www.samsung.com/us/video/tvs-accessories/CY-STC1100/ZA|archivedate=6 February 2013}}</ref> This functionality has now been disabled along with any other "TV Based" Skype clients.
+* Some devices are made to work with Skype by talking to a desktop Skype client or by embedding Skype software into the device. These are usually either tethered to a PC or have a built-in [[Wi-Fi]] client to allow calling from Wi-Fi hotspots, like the [[Netgear]] SPH101 Skype Wi-Fi Phone, the [[SMC Networks|SMC]] WSKP100 Skype Wi-Fi Phone, the [[Belkin]] F1PP000GN-SK Wi-Fi Skype Phone, the [[Panasonic]] KX-WP1050 Wi-Fi Phone for Skype Executive Travel Set, the [[IPEVO]] So-20 Wi-Fi Phone for Skype and the [[Linksys]] CIT200 Wi-Fi Phone.
+
+==== Third-party licensing ====
+Third-party developers, such as [[Truphone]], [[Nimbuzz]], and [[Fring (VoIP)|Fring]], previously allowed Skype to run in parallel with several other competing VoIP/IM networks (Truphone and Nimbuzz provide TruphoneOut and NimbuzzOut as a competing paid service) in any Symbian or Java environment. Nimbuzz made Skype available to [[BlackBerry]] users and Fring provided mobile video calling over Skype as well as support for the Android platform. Skype disabled Fring users from accessing Skype in July 2010.<ref>{{cite web|url=http://blogs.skype.com/en/2010/07/fring.html|title=Skype&nbsp;– The Big Blog&nbsp;– Fring's misuse of Skype software was damaging to our brand and reputation|accessdate=3 August 2010|url-status=dead|archiveurl=https://web.archive.org/web/20100715075745/http://blogs.skype.com/en/2010/07/fring.html|archivedate=15 July 2010}}</ref> Nimbuzz discontinued support on request of Skype in October 2010.<ref>{{cite web|url=http://blog.nimbuzz.com/2010/10/25/what-the-skypenimbuzz-breakup-means-to-you/|title=What the Skype/Nimbuzz Breakup Means To You|accessdate=25 October 2010}}</ref>
+
+Before and during the Microsoft acquisition, Skype withdrew licensing from several third parties producing software and hardware compatible with Skype. The Skype for [[Asterisk (PBX)|Asterisk]] product from [[Digium]] was withdrawn as "no longer available for sale".<ref>{{cite web|url=http://www.digium.com/en/docs/SFA/sfa_faq.php|title=Phone Systems to Power Your Business – Sfa_faq – Digium The Asterisk Company|publisher=Digium.com|accessdate=4 December 2011|url-status=dead|archiveurl=https://web.archive.org/web/20111206160048/http://www.digium.com/en/docs/SFA/sfa_faq.php|archivedate=6 December 2011}}</ref> The [[Senao Networks|Senao]] SN358+ long-range (10–15&nbsp;km) cordless phone was discontinued due to loss of licenses to participate in the Skype network as peers. In combination, these two products made it possible to create roaming cordless mesh networks with a robust handoff.
+
+== Technology ==
+=== Protocol ===
+{{Main|Skype protocol}}
+
+Skype uses a [[proprietary protocol|proprietary]] Internet telephony ([[VoIP]]) network called the [[Skype protocol]]. The protocol has not been made publicly available by Skype, and official applications using the protocol are [[Proprietary software|closed-source]]. Part of the Skype technology relies on the Global Index P2P protocol belonging to the Joltid Ltd. corporation. The main difference between Skype and standard VoIP clients is that Skype operates on a [[peer-to-peer]] model (originally based on the [[Kazaa]] software<ref>{{cite web |url=http://blogs.zdnet.com/ip-telephony/?p=988 |title=StreamCast sues Kazaa, Skype: here's my take |publisher=Blogs.zdnet.com |date=27 March 2006 |accessdate=31 March 2009}}</ref>), rather than the more usual [[client–server model]] (note that the very popular [[Session Initiation Protocol]] (SIP) model of VoIP is also peer-to-peer, but implementation generally requires registration with a server, as does Skype).
+
+On 20 June 2014, Microsoft announced the deprecation of the old Skype protocol. Within several months from this date, in order to continue using Skype services, Skype users will have to update to Skype applications released in 2014. The new Skype protocol—[[Microsoft Notification Protocol#MSNP24|Microsoft Notification Protocol 24]] was released. The deprecation became effective in the second week of August 2014. Transferred files are now saved on central servers.
+
+As far as networking stack support is concerned, Skype only supports the [[IPv4]] protocol. It lacks support for the next-generation Internet protocol, [[IPv6]].<ref>{{cite web|url=https://twitter.com/SkypeTalks/status/264057558262747136|title=Skype does not support IPv6.|publisher=Skype official Twitter account|date=1 November 2012|accessdate=4 November 2012}}</ref> [[Skype for Business]], however, includes support for IPv6 addresses, along with continued support of IPv4.<ref>{{cite web |url=https://docs.microsoft.com/en-us/skypeforbusiness/plan-your-deployment/network-requirements/ipv6 |title=Plan for IPv6 in Skype for Business |date=21 February 2018 |accessdate=2018-06-13 |work=[[Microsoft]]}}</ref>
+
+=== Protocol detection and control ===
+Many networking and security companies have claimed to detect and control Skype's protocol for enterprise and carrier applications. While the specific detection methods used by these companies are often private, [[Pearson's chi-squared test]] and [[Naive Bayes classifier|naive Bayes classification]] are two approaches that were published in 2008.<ref>{{cite web |url=https://www.dpacket.org/articles/revealing-skype-traffic-when-randomness-plays-you |title=Dario Bonfiglio et al. "Revealing Skype Traffic: When Randomness Plays with You", ACM SIGCOMM Computer Communication Review, Volume 37:4 (SIGCOMM 2007), p. 37-48 |publisher=Dpacket.org |date=30 May 2008 |accessdate=31 March 2009 |url-status=dead |archiveurl=https://web.archive.org/web/20110430074127/https://www.dpacket.org/articles/revealing-skype-traffic-when-randomness-plays-you |archivedate=30 April 2011}}</ref> Combining statistical measurements of payload properties (such as byte frequencies and initial byte sequences) as well as flow properties (like packet sizes and packet directions) has also shown to be an effective method for identifying Skype's TCP- and UDP-based protocols.<ref name="breaking">{{cite web|url=http://www.iis.se/docs/hjelmvik_breaking.pdf|title=Breaking and Improving Protocol Obfuscation|last1=Hjelmvik|first1=Erik|last2=John|first2=Wolfgang|date=27 July 2010|issn=1652-926X}}</ref>
+
+=== Audio codecs ===
+Skype 2.x used [[G.729]], Skype 3.2 introduced [[SVOPC]], and Skype 4.0 added a Skype-created codec called [[:SILK]], intended to be "lightweight and embeddable".<ref>{{cite web |url=http://www.wirevolution.com/2009/01/13/skypes-new-super-wideband-codec/ |title=Skype's new super wideband codec |publisher=Wirevolution.com |date=13 January 2009 |accessdate=31 March 2009}}</ref> Additionally, Skype has released [[Opus (audio format)|Opus]] as an open-source codec, which integrates the SILK codec principles for voice transmission with the [[CELT]] codec principles for higher-quality audio transmissions, such as live music performances. Opus was submitted to the [[Internet Engineering Task Force]] (IETF) in September 2010.<ref>{{cite web |url=http://blogs.skype.com/2012/09/12/skype-and-a-new-audio-codec/ |title=Skype and a New Audio Codec |publisher=Skype |date=12 September 2012 |accessdate=3 May 2014}}</ref> Since then, it has been standardized as RFC 6716.<ref name="xiph.org">{{cite web |url=https://wiki.xiph.org/OpusFAQ |title=OpusFAQ |publisher=Xiph.org Foundation |date=22 April 2014 |accessdate=3 May 2014}}</ref>
+
+=== Video codecs ===
+[[VP7]] is used for versions prior to Skype 5.5.<ref>{{cite web |url=http://www.on2.com/index.php?id=486&news_id=164 |archiveurl=https://web.archive.org/web/20071204065709/http://www.on2.com/index.php?id=486&news_id=164 |archivedate=4 December 2007 |title=On2 Technologies Codec Offers High Quality Video to Skype}}</ref><ref>{{cite web |url=http://broadcastengineering.com/newsrooms/skype-on2-technologies-truemotion/ |title=Skype adds On2 Technologies TrueMotion VP7 |date=16 November 2007 |accessdate=9 August 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20110818091024/http://broadcastengineering.com/newsrooms/skype-on2-technologies-truemotion/ |archivedate=18 August 2011}}</ref><ref>{{cite web |url=http://gigaom.com/video/skype-vp8-video-conferencing/ |title=Skype goes VP8, embraces open video codec |date=3 August 2011 |accessdate=9 August 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20110813064806/http://gigaom.com/video/skype-vp8-video-conferencing/ |archivedate=13 August 2011}}</ref><ref>{{cite web |url=http://blog.webmproject.org/2011/08/one-to-one-vp8-video-calling-now.html |title=One-to-One VP8 Video Calling Now Supported in Skype |date=3 August 2011 |accessdate=9 August 2011}}</ref><ref>{{cite web |url=http://h-online.com/-1318315 |archiveurl=https://web.archive.org/web/20120523181458/http://www.h-online.com/open/news/item/Skype-moves-to-VP8-for-all-video-calls-1318315.html|archivedate=23 May 2012|title=Skype moves to VP8 for all video calls |publisher=The H |date=4 August 2011 |accessdate=9 August 2011}}</ref>
+
+As of version 7.0, [[H.264/MPEG-4 AVC|H.264]] is used for both group and one-on-one video chat, at [[standard definition]], [[720p]] and [[1080p]] [[High-definition video|high-definition]].<ref>{{cite web |author=Mau, Jodi|url=http://blogs.skype.com/en/2012/01/see_and_talk_to_your_friends_o.html |title=See and Talk to Your Friends on Skype in Full-HD 1080p with the New Logitech HD Pro Webcam C920 |publisher=Blogs.skype.com |date=9 January 2012 |accessdate=24 February 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20120112062616/http://blogs.skype.com/en/2012/01/see_and_talk_to_your_friends_o.html |archivedate=12 January 2012}}</ref><ref>{{cite web|url=http://blog.logitech.com/2012/01/05/webcamc920/ |title=Reveal the real you with the Logitech HD Pro Webcam C920 |publisher=Blog.Logitech |date=5 January 2012 |accessdate=24 February 2012}}</ref>
+
+=== Skype Qik ===
+{{main|Skype Qik}}Skype acquired the video service Qik in 2011. After shutting down Qik in April 2014, Skype relaunched the service as [[Skype Qik]] on 14 October 2014. Although Qik offered video conferencing and Internet streaming, the new service focuses on mobile video messaging between individuals and groups.<ref>{{Cite news|url = https://blogs.wsj.com/personal-technology/2014/10/14/skype-relaunches-qik-as-social-video-messaging-app/|title = Skype Relaunches Qik as Social Video Messaging App|last = Olivarez-Giles|first = Nathan|date = 14 October 2014|work = [[The Wall Street Journal]]|accessdate = 14 October 2014}}</ref>
+
+=== Hyperlink Format ===
+Skype uses [[URI]]s as <code>skype:USER?call</code> for a call.<ref>{{cite web |url=https://msdn.microsoft.com/en-us/library/office/dn745882.aspx |title=Skype URI API reference |website=Office Dec Center |publisher=Microsoft}}</ref>
+
+== Security and privacy ==
+{{Main|Skype security}}
+Skype was claimed initially to be a [[secure communication]], with one of its early web pages stating "highly secure with end-to-end encryption".<ref>{{cite web |url=http://skype.com/|archiveurl=https://web.archive.org/web/20040701004241/http://skype.com/|archivedate=1 July 2004|title=Skype (Wayback Machine Archive) |accessdate=20 May 2013 }}</ref> Security services were invisible to the user, and encryption cannot be disabled. Skype claims to use publicly documented, widely trusted encryption techniques for Skype-to-Skype communication: [[RSA (algorithm)|RSA]] for key negotiation and the [[Advanced Encryption Standard]] to encrypt conversations.<ref>{{cite web |url=https://support.skype.com/en/faq/FA31/does-skype-use-encryption?q=security |title=Does Skype use encryption? |website=Skype |date=<!--not stated, copyright 2020-->  |author=<!--not stated--> |accessdate= 25 July 2020}}</ref> However, it is impossible to verify that these algorithms are used correctly, completely, and at all times, as there is no public review possible without a protocol specification and/or the app source code. Skype provides an uncontrolled registration system for users with no proof of identity. Instead, a free choice of nicknames permits users to use the system without revealing their identities to other users. It is trivial to set up an account using any name; the displayed caller's name is no guarantee of authenticity. A third-party paper analyzing the security and methodology of Skype was presented at [[Black Hat Briefings|Black Hat]] Europe 2006. It analyzed Skype and found a number of security issues with the then-current security model.<ref>{{cite web |url=https://www.blackhat.com/presentations/bh-europe-06/bh-eu-06-biondi/bh-eu-06-biondi-up.pdf|title=Silver Needle in the Skype |author=Philippe Biondi and Fabrice Desclaux |publisher=blackhat |accessdate=2 March 2006 }}</ref>
+
+[[File:Prism-slide-8.jpg|thumb|[[PRISM (surveillance program)|PRISM]]: a [[clandestine operation|clandestine]] [[global surveillance|surveillance]] program under which the [[National Security Agency|NSA]] collects user data from companies like [[Skype Technologies|Skype]] and Facebook.<ref>{{cite news |last1=Greenwald |first1=Glenn |authorlink=Glenn Greenwald |last2=MacAskill |first2=Ewen |title=NSA Prism program taps in to user data of Apple, Google and others |date=7 June 2013 |work=[[The Guardian]] |location=London |access-date= 14 December 2018 |url=https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data }}</ref>]]
+
+Skype incorporates some features which tend to hide its traffic, but it is not specifically designed to thwart [[traffic analysis]] and therefore does not provide [[Anonymous P2P|anonymous communication]]. Some researchers have been able to [[Digital watermarking|watermark]] the traffic so that it is identifiable even after passing through an [[Tor (anonymity network)|anonymizing network]].<ref>{{cite web|url=http://cs.gmu.edu/~xwangc/Publications/CCS05-VoIPTracking.pdf |title=George Mason University|accessdate=10 October 2010}}</ref>
+
+In an interview, Kurt Sauer, the Chief Security Officer of Skype, said, "We provide a safe communication option. I will not tell you whether we can listen or not."<ref>{{cite web|author=ZDNet.de |url=http://www.zdnet.de/mobiles_internet_drahtloses_arbeiten_telefonieren_uebers_internet_wie_sicher_ist_skype_wirklich_story-39001620-39151472-1.htm |title=Telefonieren übers Internet: Wie sicher ist Skype wirklich?&nbsp;– Telekommunikation &#124; Mobile Business |publisher=ZDNet.de |accessdate=31 March 2009}}</ref> This does not deny the fact that the NSA monitors Skype conversations. Skype's client uses an undocumented and proprietary protocol. The [[Free Software Foundation]] (FSF) is concerned about user privacy issues arising from using proprietary software and protocols and has made a replacement for Skype one of their high-priority projects.<ref>"[http://www.fsf.org/campaigns/priority.html#skypereplacement FSF High Priority Projects]", [[Free Software Foundation]]. Retrieved 26 January 2009.</ref> Security researchers Biondi and Desclaux have speculated that Skype may have a [[Backdoor (computing)|back door]], since Skype sends traffic even when it is turned off and because Skype has taken extreme measures to obfuscate their traffic and functioning of their app.<ref>{{cite web |author=Biondi P., Desclaux F |url=https://www.blackhat.com/presentations/bh-europe-06/bh-eu-06-biondi/bh-eu-06-biondi-up.pdf |title=Silver Needle in the Skype |publisher=EADS Corporate Research Center |date=2–3 March 2006 |accessdate=26 January 2009}}</ref> Several media sources reported that at a meeting about the "Lawful interception of IP based services" held on 25 June 2008, high-ranking unnamed officials at the Austrian interior ministry said that they could listen in on Skype conversations without problems. Austrian public broadcasting service [[Österreichischer Rundfunk|ORF]], citing minutes from the meeting, reported that "the Austrian police are able to listen in on Skype connections". Skype declined to comment on the reports.<ref>{{cite web |last=Sokolov |first=David AJ |url=http://www.h-online.com/security/Speculation-over-back-door-in-Skype--/news/111170 |archiveurl=https://web.archive.org/web/20100713002734/http://www.h-online.com/security/news/item/Speculation-over-back-door-in-Skype-736607.html |archivedate=13 July 2010 |title=Speculation over back door in Skype |publisher=Heise Security UK |date=24 July 2008 |accessdate=26 January 2009}}</ref><ref>{{cite web |last=Leyde |first=John |url=https://www.theregister.co.uk/2008/07/25/skype_backdoor_rumours/ |title=Austrian official fuels Skype backdoor rumours |publisher=The Register UK |date=24 July 2008 |accessdate=29 January 2009}}</ref> One easily demonstrated method of monitoring is to set up two computers with the same Skype user ID and password. When a message is typed or a call is received on one computer, the second computer duplicates the audio and text. This requires knowledge of the user ID and password.
+
+The United States [[Federal Communications Commission]] (FCC) has interpreted the [[Communications Assistance for Law Enforcement Act]] (CALEA) as requiring digital phone networks to allow [[wiretapping]] if authorized by an FBI warrant, in the same way as other phone services. In February 2009, Skype said that, not being a telephone company owning phone lines, it is exempt from CALEA and similar laws, which regulate US phone companies, and in fact, it is not clear whether Skype could support wiretapping even if it wanted to.<ref name=voipnews>{{cite web|url=http://www.voip-news.com/feature/skype-secrecy-attack-022409 |title=Skype Secrecy Under Attack Again |publisher=VoIP News |date=24 February 2009 |accessdate=10 October 2010}}</ref> According to the [[American Civil Liberties Union|ACLU]], the Act is inconsistent with the original intent of the [[Fourth Amendment to the United States Constitution|Fourth Amendment to the U.S. Constitution]];<ref name="ACLU 1999">{{cite web|url=https://www.aclu.org/privacy/spying/15440pub19980301.html|title=Big Brother in the Wires: Wiretapping in the Digital Age|publisher=[[American Civil Liberties Union|ACLU]]|accessdate=23 March 2009}}</ref> more recently, the ACLU has expressed the concern that the FCC interpretation of the Act is incorrect.<ref name="ACLU/FCC">{{cite web|url=https://www.aclu.org/privacy/gen/20223res20050912.html|title=CALEA feature page|publisher=[[American Civil Liberties Union|ACLU]] |accessdate=23 March 2009}}</ref><ref name="techdirt1">{{cite web|url=http://www.techdirt.com/articles/20080918/0208152302.shtml |title=German Authorities Raiding Homes To Find Skype Tapping Whistleblower |publisher=Techdirt |date=18 September 2008 |accessdate=31 March 2009}}</ref> It has been suggested that Microsoft made changes to Skype's infrastructure to ease various wiretapping requirements;<ref>{{cite web|url=http://www.itworld.com/cloud-computing/286482/was-skype-reworked-microsoft-make-it-easier-wiretap|title=Was Skype reworked by Microsoft to make it easier to wiretap?|author=Gaskin, James E. |date=18 July 2012|work=ITworld}}</ref> however, Skype denies the claims.<ref>{{cite web |url=http://blogs.skype.com/2012/07/26/what-does-skypes-architecture-do/ |title=What Does Skype's Architecture Do?|date=26 July 2012 |accessdate=20 May 2013}}</ref>
+
+Sometime before Skype was sold in 2009, the company had started its own app, called ''Project Chess'', to explore legal and technical ways to easily share calls with intelligence agencies and law enforcement.<ref>{{cite news|last=Risen|first=James|title=Web's Reach Binds N.S.A. and Silicon Valley Leaders|url=https://www.nytimes.com/2013/06/20/technology/silicon-valley-and-spy-agency-bound-by-strengthening-web.html|accessdate=29 October 2013|work=[[The New York Times]]|date=19 June 2013|author2=Nick Wingfield}}</ref>
+
+On 20 February 2009, the European Union's [[Eurojust]] agency announced that the Italian Desk at Eurojust would "play a key role in the coordination and cooperation of the investigations on the use of internet telephony systems (VoIP), such as 'Skype'. ... The purpose of Eurojust's coordination role is to overcome the technical and judicial obstacles to the interception of internet telephony systems, taking into account the various data protection rules and civil rights"<ref>{{cite web |url=http://www.eurojust.europa.eu/press_releases/2009/20-02-2009.htm |title=Press release: Eurojust coordinates internet telephony |publisher=Eurojust.europa.EU |date=20 February 2009 |accessdate=10 October 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20100529170616/http://www.eurojust.europa.eu/press_releases/2009/20-02-2009.htm |archivedate=29 May 2010}}</ref>
+
+In November 2010, a flaw was disclosed to Skype that showed how hackers could secretly track any user's IP address.<ref>{{cite news |url=https://blogs.wsj.com/cio/2012/05/01/skype-knew-of-security-flaw-since-november-2010-researchers-say/ |title=Skype Knew of Security Flaw Since November 2010, Researchers say |work=The Wall Street Journal |date=1 May 2012}}</ref> Due to Skype's [[peer-to-peer]] nature, this was a difficult issue to address, but this bug was eventually remedied in a 2016 update.<ref>{{Cite web|url=https://krebsonsecurity.com/2016/01/skype-now-hides-your-internet-address/|title=Skype Now Hides Your Internet Address —  Krebs on Security|website=krebsonsecurity.com|language=en-US|access-date=15 October 2018}}</ref>
+
+In 2012, Skype introduced automatic updates to better protect users from security risks but received some challenge from users of the Mac product, as the updates cannot be disabled from version 5.6 on,<ref>{{cite web|url=http://blogs.skype.com/garage/2012/03/skype_56_for_mac.html|title=Skype 5.6 for Mac|url-status=dead |archiveurl=https://web.archive.org/web/20120406192256/http://blogs.skype.com/garage/2012/03/skype_56_for_mac.html|archivedate=6 April 2012}}</ref> both on Mac OS and Windows versions, although in the latter, and only from version 5.9 on, automatic updating can be turned off in certain cases.<ref>{{cite web |url=http://blogs.skype.com/garage/2012/04/skype_59_for_windows.html |title=Skype 5.9 for Windows |url-status=dead |archiveurl=https://web.archive.org/web/20120414235334/http://blogs.skype.com/garage/2012/04/skype_59_for_windows.html |archivedate=14 April 2012}}</ref>
+
+According to a 2012 ''[[The Washington Post|Washington Post]]'' article, Skype "has expanded its cooperation with law enforcement authorities to make online chats and other user information available to police"; the article additionally mentions Skype made changes to allow authorities access to addresses and credit card numbers.<ref>{{cite web|url=https://www.washingtonpost.com/business/economy/skype-makes-chats-and-user-data-more-available-to-police/2012/07/25/gJQAobI39W_story.html?wpisrc=nl_cuzheads|title=Skype makes chats and user data more available to police|author=Craig Timberg|date=25 July 2012|work=The Washington Post|accessdate=9 March 2016}}</ref>
+
+In November 2012, Skype was reported to have handed over user data of a pro-[[WikiLeaks]] activist to [[Dallas]], Texas-based private security company iSIGHT Partners without a warrant or court order. The alleged handover would be a breach of Skype's privacy policy. Skype responded with a statement that it launched an internal investigation to probe the breach of user [[information privacy|data privacy]].<ref>{{cite news |first=Ryan |last=Gallagher |title=Did Skype Give a Private Company Data on Teen WikiLeaks Supporter Without a Warrant? |date=9 November 2012 |url=http://www.slate.com/blogs/future_tense/2012/11/09/skype_gave_data_on_a_teen_wikileaks_supporter_to_a_private_company_without.html |work=[[Slate (magazine)|Slate]] |accessdate=11 November 2012}}</ref>
+
+On 13 November 2012, a Russian user published a flaw in Skype's security, which allowed any person to take over a Skype account knowing only the victim's email by following 7 steps.<ref>{{cite web|url=http://www.geek.com/articles/geek-pick/skype-accounts-can-be-hacked-with-an-email-address-20121114/ |title=Skype accounts can be hacked with an email address}}</ref><ref>{{cite web|url=http://habrahabr.ru/post/158545/ |title=Уязвимость в skype, позволяющая угнать любой аккаунт}}</ref> This vulnerability was claimed to exist for months and existed for more than 12 hours since published widely.
+
+On 14 May 2013, it was documented that a URL sent via a Skype [[instant messaging]] session was usurped by the Skype service and subsequently used in a [[HTTP HEAD]] query originating from an [[IP address]] registered to Microsoft in Redmond (the IP address used was 65.52.100.214). The Microsoft query used the full URL supplied in the IM conversation and was generated by a previously undocumented security service.<ref>{{cite web |url=http://www.h-online.com/security/news/item/Skype-with-care-Microsoft-is-reading-everything-you-write-1862870.html |archiveurl=https://web.archive.org/web/20131226140249/http://www.h-online.com/security/news/item/Skype-with-care-Microsoft-is-reading-everything-you-write-1862870.html |archivedate=26 December 2013 |title=Skype with Care – Microsoft is Reading Everything You Write |publisher=Heise Security |date=14 May 2013 |accessdate=20 May 2013}}</ref> Security experts speculate the action was triggered by a technology similar to Microsoft's SmartScreen Filter used in its browsers.<ref>{{cite web |url=http://lists.randombit.net/pipermail/cryptography/2013-May/004224.html |title=[Cryptography] Skype backdoor confirmation |author=Adam Back|date=16 May 2013 |accessdate=20 May 2013 }}</ref>
+
+The [[2013 mass surveillance disclosures]] revealed that agencies such as the [[NSA]] and the [[FBI]] have the ability to eavesdrop on Skype, including the monitoring and storage of text and video calls and file transfers.<ref name="guardian1" /><ref name="sn413">{{cite podcast |host=Leo Laporte, Steve Gibson |title=Security Now |number=episode 413 |publisher=[[This Week in Tech]] |date=17 July 2013 |url=http://twit.tv/show/security-now/413 |accessdate=17 July 2013}}</ref><ref>{{cite news |first=Tom |last=McCarthy |title=Obama defends secret NSA surveillance programs – as it happened |date=7 June 2013 |url=https://www.theguardian.com/world/2013/jun/07/obama-administration-nsa-prism-revelations-live |work=[[The Guardian]] |accessdate=9 June 2013 |location=London}}</ref> The [[PRISM (surveillance program)|PRISM]] surveillance program, which requires [[United States Foreign Intelligence Surveillance Court|FISA court]] authorization, reportedly has allowed the NSA unfettered access to its data center supernodes. According to the leaked documents, integration work began in November 2010, but it was not until February 2011 that the company was served with a directive to comply signed by the attorney general,<ref name="guardian1" /> with NSA documents showing that collection began on 31 March 2011.<ref>{{cite web |author=[[National Security Agency]] |url=https://commons.wikimedia.org/wiki/File:Prism_slide_5.jpg |title=Prism slide 5.jpg |publisher=[[Wikimedia Commons]] |date=7 June 2013 |accessdate=1 June 2014}} Sourced from:
+: {{Cite news |title=NSA slides explain the PRISM data-collection program |url=https://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/ |date=6 June 2013|work=[[The Washington Post]] |accessdate=1 June 2014}}</ref>
+
+On 10 November 2014, Skype scored 1 out of 7 points on the [[Electronic Frontier Foundation]]'s secure messaging scorecard. Skype received a point for encryption during transit but lost points because communications are not encrypted with a key the provider doesn't have access to (i.e. the communications are not [[End-to-end encryption|end-to-end encrypted]]), users can't verify contacts' identities, past messages are not secure if the encryption keys are stolen (i.e. the service does not provide [[forward secrecy]]), the code is not open to independent review (i.e. the code is not [[Open-source software|open-source]]), the security design is not properly documented, and there has not been a recent independent security audit.<ref name="secure-messaging-scorecard">{{cite web |url=https://www.eff.org/secure-messaging-scorecard |publisher=[[Electronic Frontier Foundation]] |title=Secure Messaging Scorecard. Which apps and tools actually keep your messages safe? |date=4 November 2014 |accessdate=1 June 2015}}</ref><ref>{{cite web|url=https://www.eff.org/deeplinks/2014/11/scorecard-update-we-cannot-credit-skype-end-end-encryption |publisher=Electronic Frontier Foundation|title=Scorecard Update: We Cannot Credit Skype For End-to-end Encryption |date=10 November 2014}}</ref><ref>{{cite web |url=https://www.pcmag.com/article2/0,2817,2471658,00.asp |work=[[PC Magazine]] |title=Only 6 Messaging Apps Are Truly Secure |date=5 November 2014 |accessdate=8 January 2015}}</ref> [[AOL Instant Messenger|AIM]], [[BlackBerry Messenger]], [[EBuddy|Ebuddy XMS]], [[Hushmail]], [[Kik Messenger]], [[Viber]] and [[Yahoo! Messenger|Yahoo Messenger]] also scored 1 out of 7 points.<ref name="secure-messaging-scorecard" />
+
+As of August 2018, Skype now supports [[end-to-end encryption]] across all platforms.<ref>{{Cite news|url=https://www.theverge.com/2018/8/20/17725226/skype-private-conversation-end-to-end-encrypted-opt-in|title=Skype now offers end-to-end encrypted conversations|work=The Verge|access-date=2018-10-15}}</ref>
+
+===Cybercrime on application===
+[[Cybersex trafficking]] has occurred on Skype
+<ref>{{cite web|url=https://www.dailytelegraph.com.au/news/nsw/first-paedophile-in-nsw-charged-with-cybersex-trafficking/news-story/bd7d1e178b1f6f55ad99f8d0433afa94|title=First paedophile in NSW charged with cybersex trafficking|date=27 March 2017|website=the Daily Telegraph}}</ref><ref>{{cite web|url=https://www.abc.net.au/news/2016-09-07/predators-using-internet-to-direct-live-online-sex-abuse/7819150|title=Australian cyber sex trafficking 'most dark and evil crime we are seeing'|date=7 September 2016|website=ABC}}</ref><ref>{{cite web|url=https://www.reuters.com/article/us-britain-trafficking-crime/former-uk-army-officer-jailed-for-online-child-sex-abuse-idUSKCN1SS2BO|title=Former UK army officer jailed for online child sex abuse|date=22 May 2019|website=Reuters}}</ref><ref name="nbcnews.com">{{cite web|url=https://www.nbcnews.com/tech/tech-news/cheap-tech-widespread-internet-access-fuel-rise-cybersex-trafficking-n886886|title=Cheap tech and widespread internet access fuel rise in cybersex trafficking|date=30 June 2018|website=NBC News}}</ref> and other [[videoconferencing]] applications.<ref>{{cite web|url=https://www.rappler.com/nation/174257-child-cybersex-trafficking-philippines-status|title=PHILIPPINES Even 2-month-old babies can be cybersex victims – watchdog
+|date=29 June 2017|website=Rappler}}</ref> According to the [[Australian Federal Police]], overseas pedophiles are directing [[child sex abuse]] using its live streaming services.<ref>{{cite web|url=https://www.abc.net.au/news/2016-09-07/predators-using-internet-to-direct-live-online-sex-abuse/7819150|title=Australian cyber sex trafficking 'most dark and evil crime we are seeing'|date=7 September 2016|website=ABC News}}</ref><ref name="nbcnews.com"/>
+
+=== Service in the People's Republic of China ===
+{{Update|inaccurate=yes|date=January 2012}}
+
+Since September 2007, users in China trying to download the Skype software client have been redirected to the site of [[TOM Online]], a joint venture between a Chinese wireless operator and Skype, from which a modified Chinese version can be downloaded.<ref>{{cite web |url=http://callcenterinfo.tmcnet.com/news/2007/09/24/2962449.htm |title=Dynamic Internet Technology Inc. Alleges Skype Redirects Users in China to Censorware Version&nbsp;– Ten Days After Users Are Able To Download Freegate Software Through Skype |archiveurl=https://web.archive.org/web/20080115165204/http://www.tmcnet.com/usubmit/2007/09/24/2962449.htm |archivedate=15 January 2008 |publisher=TMCnet |date=24 September 2007}}</ref> The TOM client participates in China's system of [[Internet censorship in the People's Republic of China|Internet censorship]], monitoring text messages between Skype users in China as well as messages exchanged with users outside the country.<ref>{{cite web |url=http://www.iht.com/articles/2008/10/02/technology/02skype.php |title=Surveillance of Skype messages found in China |work=[[International Herald Tribune]]|date=2 October 2008}}</ref><ref name=claburn>{{cite web |first=Thomas |last=Claburn |url=http://www.informationweek.com/news/telecom/voip/showArticle.jhtml?articleID=210605439 |title=Skype Defends VoIP IM Monitoring in China |work=[[InformationWeek]] |date=2 October 2008}}</ref> Niklas Zennström, then chief executive of Skype, told reporters that TOM "had implemented a text filter, which is what everyone else in that market is doing. Those are the regulations." He also stated, "One thing that's certain is that those things are in no way jeopardising the privacy or the security of any of the users."<ref>{{cite news |url=http://www.ft.com/cms/s/2/875630d4-cef9-11da-925d-0000779e2340.html |archiveurl=https://web.archive.org/web/20110207002929/http://www.ft.com/cms/s/2/875630d4-cef9-11da-925d-0000779e2340.html |archivedate=7 February 2011 |title=Skype says texts are censored by China |work=[[Financial Times]] |date=18 April 2006 |url-status=dead}}</ref>
+
+In October 2008, it was reported that TOM had been saving the full message contents of some Skype text conversations on its servers, apparently focusing on conversations containing political issues such as [[Tibet]], [[Falun Gong]], [[Taiwan independence]], and the [[Communist Party of China|Chinese Communist Party]]. The saved messages contain [[personally identifiable information]] about the message senders and recipients, including IP addresses, usernames, landline phone numbers, and the entire content of the text messages, including the time and date of each message. Information about Skype users outside China who were communicating with a TOM-Skype user was also saved. A server misconfiguration made these log files accessible to the public for a time.<ref name=claburn /><ref>{{cite news |url=https://www.wsj.com/articles/SB122291621892397279 |title=Skype's China Practices Draw Ire: Joint Venture's Tracking of Text Messages Adds Impetus to Web Code of Conduct |first=Geoffrey A. |last=Fowler |author2=Jason Dean |newspaper=[[The Wall Street Journal]] |date=3 October 2008}}</ref><ref>{{cite news |url=https://www.nytimes.com/2008/10/02/technology/internet/02skype.html |title=Huge System for Web Surveillance Discovered in China |work=[[The New York Times]] |first=John |last=Markoff |date=1 October 2008}}</ref>
+
+Research on the TOM-Skype venture has revealed information about blacklisted keyword checks, allowing censorship and surveillance of its users. The partnership has received much criticism for the latter. Microsoft remains unavailable for comment on the issue.<ref name="Reuters">{{cite news |url=https://www.reuters.com/article/2013/11/27/us-microsoft-china-censorship-idUSBRE9AQ0Q520131127 |title=Microsoft blocks censorship of Skype in China: advocacy group |publisher=Reuters |date=27 November 2013}}</ref>
+
+According to reports from the advocacy group Great Fire, Microsoft has modified censorship restrictions and ensured encryption of all user information.<ref name="Reuters" /> Furthermore, Microsoft is now partnered with Guangming Founder (GMF) in China.<ref>{{cite news |url=http://blogs.skype.com/2013/11/25/skype-a-new-relationship-for-a-better-experience-in-china/ |title=A new relationship for a better experience in China |publisher=Skype |agency=Skype Blogs |date=25 November 2013}}</ref>
+
+All attempts to visit the official Skype web page from mainland China redirects the user to skype.gmw.cn. The Linux version of Skype is unavailable.{{Citation needed|date=April 2020}}
+
+== Localization ==
+Skype comes bundled with the following locales and languages: Arabic, Bulgarian, Catalan, Chinese (Traditional and Simplified), Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Latvian, Lithuanian, Nepali, Norwegian, Polish, Portuguese (Brazilian and European), Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukrainian, and Vietnamese.
+
+As the Windows desktop app offers users the option of creating new language files, at least 80 other (full or partial) localizations are also available for many languages.<ref>{{cite web|url=https://sourceforge.net/projects/skypeinyourlang|title=SkypeInYourLanguage|author=akerbeltzalba|work=SourceForge}}</ref>
+
+== Customer service ==
+In January 2010, Skype rescinded its policy of seizing funds in Skype accounts that have been inactive (no paid call) for 180 days. This was in settlement of a class-action lawsuit.<ref>{{cite news |url=https://blogs.wsj.com/digits/2010/01/14/skype-lawsuit-to-yield-credit-for-customers/|title=WSJ | work=The Wall Street Journal | first=Sarmad | last=Ali | date=14 January 2010}}</ref> Skype also paid up to US$4 to persons who opted into the action.
+
+As of February 2012, Skype provides support through their web support portal, support community, @skypesupport on Twitter, and Skype Facebook page. Direct contact via email and live chat is available through their web support portal. Chat Support is a premium feature available to Skype Premium and some other paid users.
+
+Skype's refund policy states that they will provide refunds in full if customers have used less than 1 euro of their Skype Credit. "Upon a duly submitted request, Skype will refund you on a pro-rata basis for the unused period of a Product".
+
+Skype has come under some criticism from users for the inability to completely close accounts. Users not wanting to continue using Skype can make their account inactive by deleting all personal information, except for the username.<ref>{{cite web|url=https://www.techwhoop.com/delete-your-skype-account/|title=How to delete Your Skype account?|work=TechWhoop}}</ref>
+
+Due to an outage on 21 September 2015 that affected several users in New Zealand, Australia, and other countries, Skype decided to compensate their customers with 20 minutes of free calls to over 60 landline and 8 mobile phone numbers.<ref>{{cite news |title=Skype to compensate users for September outage|url=http://www.itnews.com.au/news/skype-to-compensate-users-for-september-outage-410250 | work=itNews | first=Juha | last=Saarinen | date=8 October 2015}}</ref>
+
+== Educational use ==
+Although Skype is a commercial product, its free version is used with increasing frequency among teachers, schools, and charities interested in global education projects.<ref>{{cite web|url=http://eric.ed.gov/ERICWebPortal/search/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ763085&ERICExtSearch_SearchType_0=no&accno=EJ763085 |title=Talk Is Cheap: Skype Can Make VoIP a Very Real Communication Option for Your School |publisher=Technology & Learning, v27 n8 p36 | first=Jeffrey | last=Branzburg | date=March 2007|accessdate=10 May 2011}}</ref> A popular use case is to facilitate language learning through conversations that alternate between each participant's native language.<ref>Language Magazine [http://languagemagazine.com/?page_id=2565 article]</ref><ref>{{cite web|url=http://www.linguaelive.ca/|title=LinguaeLive – Connect students who want to learn each other's languages|author=Han Sha|work=linguaelive.ca}}</ref><ref>{{cite web|url=http://www.languageforexchange.com//|title=Practice a new language with native speakers via Skype|work=languageforexchange.com|url-status=dead|archiveurl=https://web.archive.org/web/20160505000814/http://www.languageforexchange.com/|archivedate=5 May 2016}}</ref><ref>{{cite web|url=http://www.language-exchanges.org/|title=The Mixxer – a free educational website for language exchanges via Skype|work=language-exchanges.org}}</ref>
+
+The video conferencing aspect of the software has been praised for its ability to connect students who speak different languages, facilitate virtual field trips, and engage directly with experts.<ref>{{cite news | first = Ian | last = Quillen | title = Educators Move Beyond the Hype Over Skype | date = 4 February 2011 | url = http://www.edweek.org/dd/articles/2011/02/09/02skype.h04.html | work = Education Week | accessdate = 9 June 2013}}</ref><ref>{{cite web|url=http://www.edtechteacher.org/index.php/teaching-technology/discussion-ollaboration/25-video-conferencing|title=Video Conferencing with Skype|url-status=dead|archiveurl=https://web.archive.org/web/20140508025849/http://www.edtechteacher.org/index.php/teaching-technology/discussion-ollaboration/25-video-conferencing|archivedate=8 May 2014}}</ref>
+
+Skype in the classroom is another free tool that Skype has set up on its website, designed to encourage teachers to make their classrooms more interactive, and collaborate with other teachers around the world. There are various Skype lessons, in which students can participate. Teachers can also use a search tool and find experts in a particular field.<ref>{{cite web|url=https://education.skype.com/|title=Skype in the Classroom|work=Skype in the Classroom|access-date=30 November 2012|archive-url=https://web.archive.org/web/20121201222656/https://education.skype.com/|archive-date=1 December 2012|url-status=dead}}</ref> The educational program [[Skype a Scientist]], set up by biologist [[Sarah McAnulty]] in 2017, had in two years connected 14,312 classrooms with over 7000 volunteer scientists.<ref>{{Cite web|url=https://www.forbes.com/sites/kristinakillgrove/2019/02/27/how-the-skype-a-scientist-program-combats-fake-news-through-public-education/#13ba6f3025d7|title=How The 'Skype A Scientist' Program Combats Fake News Through Public Education|last=Killgrove|first=Kristina|date=27 February 2019|website=Forbes|url-status=live|access-date=27 January 2020}}</ref>
+
+However, Skype is not adopted universally, with many educational institutions in the United States and Europe blocking the application from their networks.
+
+== See also ==
+{{Portal|Internet}}
+* [[Caller ID spoofing]]
+* [[Censorship of Skype]]
+* [[Comparison of instant messaging clients]]
+* [[Comparison of instant messaging protocols]]
+* [[Comparison of VoIP software]]
+* [[List of video telecommunication services and product brands]]
+* [[Mobile VoIP]]
+* [[Presence information]]
+* [[Unified communications]]
+
+== References ==
+{{Reflist|20em}}
+
+== External links ==
+<!-- Please note that inclusion of links not obviously relevant by WP criteria will most likely get reverted fast.
+Consider discussing their inclusion on the talk page first to avoid such problems. /!-->
+* {{Official website}}
+
+{{Cryptographic software}}
+{{Instant messaging}}
+{{Microsoft}}
+{{Telecommunications}}
+{{Windows Components}}
+{{Andreessen Horowitz}}
+
+[[Category:Skype| ]]
+[[Category:2003 software]]
+[[Category:2011 mergers and acquisitions]]
+[[Category:Android (operating system) software]]
+[[Category:Android Auto software]]
+[[Category:Companies in the PRISM network]]
+[[Category:Cross-platform software]]
+[[Category:Estonian brands]]
+[[Category:Estonian inventions]]
+[[Category:Freeware]]
+[[Category:Instant messaging clients]]
+[[Category:IOS software]]
+[[Category:MacOS instant messaging clients]]
+[[Category:Microsoft acquisitions]]
+[[Category:Pascal (programming language) software]]
+[[Category:Peer-to-peer software]]
+[[Category:Pocket PC software]]
+[[Category:Portable software]]
+[[Category:Proprietary freeware for Linux]]
+[[Category:Proprietary software that uses Qt]]
+[[Category:Silver Lake (investment firm) companies]]
+[[Category:Symbian software]]
+[[Category:Universal Windows Platform apps]]
+[[Category:Videoconferencing software for Linux]]
+[[Category:Videotelephony]]
+[[Category:Voice over IP clients for Linux]]
+[[Category:VoIP companies of the United States]]
+[[Category:VoIP services]]
+[[Category:VoIP software]]
+[[Category:Windows instant messaging clients]]
+[[Category:Windows Mobile Standard software]]
+[[Category:Windows Phone software]]

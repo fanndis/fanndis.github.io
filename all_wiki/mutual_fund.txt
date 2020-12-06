@@ -1,0 +1,356 @@
+{{short description|Professionally managed investment fund}}
+A '''mutual fund''' is an [[Open-end fund|open-end]] professionally managed [[investment fund]]<ref>{{Cite web|url=https://www.merriam-webster.com/dictionary/mutual+fund|title=Definition of MUTUAL FUND|website=www.merriam-webster.com|language=en|access-date=2020-02-28}}</ref> that pools money from many investors to purchase [[Security (finance)|securities]]. Mutual funds are "the largest proportion of equity of U.S. corporations."<ref>{{Cite journal|last=Hirst|first=Scott|date=2016-10-01|title=Social Responsibility Resolutions|url=https://scholarship.law.bu.edu/faculty_scholarship/342|journal=The Harvard Law School Program on Corporate Governance Discussion Paper|volume=No. 2016-06}}</ref>'''{{rp|2}}''' Mutual fund investors may be retail or institutional in nature. The term is typically used in the [[United States]], [[Canada]], and [[India]], while similar structures across the globe include the SICAV in Europe ('investment company with variable capital') and [[open-ended investment company]] (OEIC) in the UK.
+
+Mutual funds have advantages and disadvantages compared to direct investing in individual securities. The advantages of mutual funds include economies of scale, diversification, liquidity, and professional management. However, these come with [[mutual fund fees and expenses]].
+
+Primary structures of mutual funds are [[Open-end fund|open-end funds]], [[Unit investment trust|unit investment trusts]], [[Closed-end fund|closed-end funds]] and [[Exchange-traded fund|exchange-traded funds]] (ETFs). 
+
+Mutual funds are often classified by their principal investments as [[money market fund]]s, bond or fixed income funds, stock or equity funds, hybrid funds, or other. Funds may also be categorized as [[index fund]]s, which are passively managed funds that match the performance of an index, or actively managed funds. [[Hedge fund]]s are not mutual funds as hedge funds cannot be sold to the general public.
+
+==History==
+=== Early history ===
+{{More information|Financial history of the Dutch Republic}}
+The first modern [[investment fund]]s (the precursor of today's mutual funds) were established in the [[Dutch Republic]].  In response to the [[financial crisis]], of 1772–1773, Amsterdam-based businessman Abraham (or Adriaan) van Ketwich formed a trust named Eendragt Maakt Magt ("unity creates strength"). His aim was to provide small investors with an opportunity to diversify.<ref>Goetzmann, William N.; Rouwenhorst, K. Geert (2005). ''The Origins of Value: The Financial Innovations that Created Modern Capital Markets''. (Oxford University Press, {{ISBN|978-0195175714}}))</ref><ref name=geert>K. Geert Rouwenhorst (December 12, 2004), [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=636146 "The Origins of Mutual Funds"], Yale ICF Working Paper No. 04-48.</ref>
+
+Mutual funds were introduced to the United States in the 1890s. Early U.S. funds were generally closed-end funds with a fixed number of shares that often traded at prices above the portfolio [[net asset value]]. The first open-end mutual fund with redeemable shares was established on March 21, 1924, as the Massachusetts Investors Trust (which still in existence today and managed by [[MFS Investment Management]]).
+
+In the United States, closed-end funds remained more popular than open-end funds throughout the 1920s. In 1929, open-end funds accounted for only 5% of the industry's $27 billion in total assets.
+
+After the [[Wall Street Crash of 1929]], the [[United States Congress]] passed a series of acts regulating the securities markets in general and mutual funds in particular. 
+* The [[Securities Act of 1933]] requires that all investments sold to the public, including mutual funds, be registered with the SEC and that they provide prospective investors with a [[Prospectus (finance)|prospectus]] that discloses essential facts about the investment. 
+* The [[Securities and Exchange Act of 1934]] requires that issuers of securities, including mutual funds, report regularly to their investors. This act also created the Securities and Exchange Commission, which is the principal regulator of mutual funds. 
+* The [[Revenue Act of 1936]] established guidelines for the taxation of mutual funds. It allowed mutual funds to be treated as a [[flow-through entity|flow-through or pass-through entity]], where income is passed through to investors who are responsible for the tax on that income.
+* The [[Investment Company Act of 1940]] established rules specifically governing mutual funds. 
+These new regulations encouraged the development of open-end mutual funds (as opposed to closed-end funds).<ref>{{Cite book|last=Fink|first=Matthew P.|url=https://books.google.com/books?id=VtpQovTBAfIC|title=The Rise of Mutual Funds: An Insider's View|date=2011-01-13|publisher=Oxford University Press, USA|isbn=978-0-19-975350-5|language=en}}</ref>
+
+Growth in the U.S. mutual fund industry remained limited until the 1950s when confidence in the stock market returned. In the 1960s, Boston's [[Fidelity Investments]] began the marketing of mutual funds to the public at large, rather than only wealthier individuals or those working in the finance industry.<ref>Peter Lynch and John Rothschild, Beating the Street Simon & Schuster; Revised edition (May 25, 1994) 0671891634</ref>  The introduction of money market funds in the high-interest rate environment of the late 1970s boosted industry growth dramatically. The first retail [[index fund]], First Index Investment Trust, was formed in 1976 by [[The Vanguard Group]], headed by [[John Bogle]]; it is now called the "Vanguard 500 Index Fund" and is one of the world's largest mutual funds. 
+
+Beginning the 1980s, the mutual fund industry began a period of growth that has continued largely uninterrupted through the present day. (For instance, global mutual fund assets have increased in every year since 2003 except for 2008 and 2011.<ref>{{Cite book|last=|first=|title=2010 Investment Company Fact Book|publisher=Investment Company Institute|year=2010|isbn=|location=|pages=}}</ref><ref name=":5">{{Cite book|last=|first=|title=2020 Investment Company Fact Book|publisher=Investment Company Institute|year=2020|isbn=|location=|pages=}}</ref>) According to [[Robert Pozen]] and Theresa Hamacher, growth was the result of three factors:
+# A [[bull market]] for both stocks and bonds, 
+# New product introductions (including funds based on [[municipal bond]]s, various industry sectors, international funds, and [[target date fund]]s) and 
+# Wider distribution of fund shares. Among the new distribution channels were retirement plans. Mutual funds are now the a preferred investment option in certain types of retirement plans, specifically in [[401(k)]], other [[defined contribution plan]]s and in [[individual retirement account]]s (IRAs), all of which surged in popularity in the 1980s.<ref name=":2">{{Cite book|title=The Fund Industry: How Your Money is Managed|last1=Pozen|first1=Robert|last2=Hamacher|first2=Theresa|publisher=Wiley|year=2015|isbn=9781118929940|location=Hoboken, New Jersey|pages=8–14}}</ref>
+
+In 2003, the mutual fund industry was involved in a [[2003 mutual fund scandal|scandal]] involving unequal treatment of fund shareholders. Some fund management companies allowed favored investors to engage in [[late trading]], which is illegal, or [[market timing]], which is a practice prohibited by fund policy. The scandal was initially discovered by former [[New York Attorney General]] [[Eliot Spitzer]] and led to a significant increase in regulation. In a study about German mutual funds [[Gomolka]] (2007) found statistical evidence of illegal time zone arbitrage in trading of German mutual funds.<ref>Gomolka, Johannes (2007): Die zwei Gesichter der deutschen Fondsbranche. Cut-Off-Zeit und Zeitzonenarbitrage, publisher: IBIDEM, Hannover, 158 pages</ref> Though reported to regulators [[BaFin]] never commented on these results.
+
+=== Mutual funds today ===
+At the end of 2019, mutual fund assets worldwide were $54.9 [[Trillion (short scale)|trillion]], according to the Investment Company Institute.<ref name=":5" /> The countries with the largest mutual fund industries are:
+# United States: $26.7 trillion
+# Australia: $5.3 trillion
+# Ireland: $3.4 trillion
+# Germany: $2.5 trillion
+#Luxembourg: $2.2 trillion
+# France: $2.2 trillion
+# Japan: $2.1 trillion
+#Canada: $1.9 trillion
+#United Kingdom: $1.9 trillion
+# China: $1.4 trillion
+
+In the United States, mutual funds play an important role in U.S. household finances. At the end of 2019, 23% of household financial assets were held in mutual funds. Their role in retirement savings was even more significant since mutual funds accounted for roughly half of the assets in individual retirement accounts, 401(k)s and other similar retirement plans.<ref name=":5" /> In total, mutual funds are large investors in stocks and bonds.
+
+Luxembourg and Ireland are the primary jurisdictions for the registration of [[UCITS]] funds. These funds may be sold throughout the [[European Union]] and in other countries that have adopted mutual recognition regimes.
+
+At the end of 2018, the largest mutual fund managers in the United States based on assets under management were:<ref>{{Cite journal|last=Hazenberg|first=Jan Jaap|date=2020-06-08|title=A New Framework for Analyzing Market Share Dynamics among Fund Families|journal=Financial Analysts Journal|volume=0|issue=3|pages=110–133|doi=10.1080/0015198X.2020.1744211|issn=0015-198X|doi-access=free}}</ref>
+
+# Vanguard Group: $4.7 trillion
+# Fidelity: $1.7 trillion
+# BlackRock: $1.7 trillion
+# Capital Group: $1.6 trillion
+# T. Rowe Price: $0.7 trillion
+# State Street: $0.6 trillion
+# Dimensional: $0.4 trillion
+# JPMorgan Asset Management: $0.4 trillion
+# Franklin Templeton Group: $0.3 trillion
+# Invesco: $0.3 trillion
+
+==Features==
+Mutual funds have advantages and disadvantages compared to alternative structures or investing directly in individual securities. According to Robert Pozen and Theresa Hamacher, these are:
+
+=== Advantages ===
+* Increased diversification: A fund diversifies holding many securities. This [[Diversification (finance)|diversification]] decreases risk.
+*Daily liquidity: In the United States, mutual fund shares can be redeemed for their net asset value within seven days, but in practice the redemption is often much quicker. This liquidity can create [[asset–liability mismatch]] which poses challenges, which in part motivated an SEC liquidity management rule in 2016.<ref name=":3">{{Cite web|last=|first=|date=|title=Investment Company Liquidity Risk Management Programs RIN 3235-AL61|url=https://www.regulations.gov/document?D=SEC-2016-2027-0001|url-status=live|archive-url=|archive-date=|access-date=2020-02-29|website=www.regulations.gov}}</ref>
+* Professional investment management: Open-and closed-end funds hire portfolio managers to supervise the fund's investments. 
+* Ability to participate in investments that may be available only to larger investors. For example, individual investors often find it difficult to invest directly in foreign markets. 
+* Service and convenience: Funds often provide services such as check writing.
+* Government oversight: Mutual funds are regulated by a governmental body
+
+* Transparency and ease of comparison: All mutual funds are required to report the same information to investors, which makes them easier to compare to each other.<ref name=":2" />
+
+===Disadvantages===
+Mutual funds have disadvantages as well, which include:
+* [[Mutual fund fees and expenses|Fees]]
+* Less control over the timing of recognition of gains
+* Less predictable income
+* No opportunity to customize<ref name=":2" />
+
+== Regulation and operation ==
+
+===United States===
+In the United States, the principal laws governing mutual funds are:
+* The [[Securities Act of 1933]] requires that all investments sold to the public, including mutual funds, be registered with the SEC and that they provide potential investors with a [[Prospectus (finance)|prospectus]] that discloses essential facts about the investment. 
+* The [[Securities and Exchange Act of 1934]] requires that issuers of securities, including mutual funds, report regularly to their investors; this act also created the Securities and Exchange Commission, which is the principal regulator of mutual funds. 
+* The [[Revenue Act of 1936]] established guidelines for the taxation of mutual funds. Mutual funds are not taxed on their income and profits if they comply with certain requirements under the U.S. [[Internal Revenue Code]]; instead, the taxable income is passed through to the investors in the fund. Funds are required by the IRS to diversify their investments, limit ownership of voting securities, distribute most of their income (dividends, interest, and capital gains net of losses) to their investors annually, and earn most of the income by investing in securities and currencies.<ref>{{cite web|url=https://www.law.cornell.edu/uscode/text/26/851|title=26 U.S. Code §& 851 – Definition of regulated investment company|website=Legal Information Institute|publisher=[[Cornell Law School]]}}</ref> The characterization of a fund's income is unchanged when it is paid to shareholders. For example, when a mutual fund distributes dividend income to its shareholders, fund investors will report the distribution as dividend income on their tax return. As a result, mutual funds are often called [[Flow-through entity|flow-through or pass-through vehicles]], because they simply pass on income and related tax liabilities to their investors.{{Citation needed|date=July 2020}}
+* The [[Investment Company Act of 1940]] establishes rules specifically governing mutual funds. The focus of this Act is on disclosure to the investing public of information about the fund and its investment objectives, as well as on investment company structure and operations.
+* The [[Investment Advisers Act of 1940]] establishes rules governing the investment advisers. With certain exceptions, this Act requires that firms or sole practitioners compensated for advising others about securities investments must register with the SEC and conform to regulations designed to protect investors.<ref>{{Cite web|url=https://www.sec.gov/answers/about-lawsshtml.html|title=SEC.gov {{!}} The Laws That Govern the Securities Industry|website=www.sec.gov|language=en|access-date=2018-01-20}}</ref>
+* The [[National Securities Markets Improvement Act of 1996]] gave rulemaking authority to the federal government, preempting state regulators. However, states continue to have the authority to investigate and prosecute fraud involving mutual funds.
+
+Open-end and closed-end funds (including exchange-traded funds) are overseen by a [[board of directors]] if organized as a corporation, or by a board of [[trustee]]s, if organized as a trust. The Board must ensure that the fund is managed in the interests of the fund's investors. The board hires the fund manager and other service providers to the fund.
+
+The sponsor or fund management company often referred to as the fund manager, [[Trade (financial instrument)|trades]] (buys and sells) the fund's investments in accordance with the fund's investment objective. Funds that are managed by the same company under the same brand are known as a fund family or fund complex. A fund manager must be a [[registered investment adviser]].
+
+===European Union===
+In the European Union, funds are governed by laws and regulations established by their home country. However, the European Union has established a mutual recognition regime that allows funds regulated in one country to be sold in all other countries in the European Union, if they comply with certain requirements. The directive establishing this regime is the [[Undertakings for Collective Investment in Transferable Securities Directive 2009]], and funds that comply with its requirements are known as UCITS funds.
+
+=== Canada ===
+Regulation of mutual funds in Canada is primarily governed by National Instrument 81-102 "Mutual Funds", which is implemented separately in each province or territory. The Canadian Securities Administrator works to harmonize regulation across Canada.<ref>{{Cite web|url=http://www.securities-administrators.ca/aboutcsa.aspx?id=45|title=Canadian Securities Administrator: Overview|last=|first=|date=|website=|archive-url=|archive-date=|access-date=}}</ref>
+
+===Hong Kong===
+In the Hong Kong market mutual funds are regulated by two authorities:
+* The Securities and Futures Commission (SFC) develops rules that apply to all mutual funds marketed in Hong Kong.<ref>{{Cite web|url=http://www.sfc.hk/web/EN/regulatory-functions/products/|title=Investment products {{!}} Securities and Futures Commission|last=|first=|date=|website=|archive-url=|archive-date=|access-date=}}</ref>
+* The Mandatory Provident Funds Schemes Authority (MPFA) rules apply only to mutual funds that are marketed for use in the retirement accounts of Hong Kong residents. The MPFA rules are generally more restrictive than the SFC rules.<ref>{{Cite web|url=http://www.mpfa.org.hk/eng/main/|title=MPFA|last=|first=|date=|website=|archive-url=|archive-date=|access-date=}}</ref>
+
+===Taiwan===
+In Taiwan, mutual funds are regulated by the [[Financial Supervisory Commission (Taiwan)|Financial Supervisory Commission]] (FSC).<ref>{{Cite web|url=http://www.fsc.gov.tw/en/index.jsp|title=Financial Supervisory Commission|last=|first=|date=|website=|archive-url=|archive-date=|access-date=}}</ref>
+
+===India===
+In India, mutual funds are regulated by Securities and Exchange Board of India, the regulator of the securities and commodity market owned by the Government of India. <ref>{{cite web |title=Mutual Funds - India |url=https://www.mutualfundindia.com/Home/MfBasics |accessdate=1 November 2020}}</ref>
+
+== Fund structures ==
+
+There are three primary structures of mutual funds: [[Open-end fund|open-end funds]], [[Unit investment trust|unit investment trusts]], and [[Closed-end fund|closed-end funds]]. [[Exchange-traded fund|Exchange-traded funds]] (ETFs) are open-end funds or unit investment trusts that trade on an exchange.
+
+=== Open-end funds ===
+Open-end mutual funds must be willing to buy back ("redeem") their shares from their investors at the <nowiki>[[net asset value]]</nowiki> (NAV) computed that day based upon the prices of the securities owned by the fund. In the United States, open-end funds must be willing to buy back shares at the end of every business day. In other jurisdictions, open-funds may only be required to buy back shares at longer intervals. For example, UCITS funds in Europe are only required to accept redemptions twice each month (though most UCITS accept redemptions daily).
+
+Most open-end funds also sell shares to the public every business day; these shares are priced at NAV.
+
+Open-end funds are often referred to simply as "mutual funds".
+
+In the United States at the end of 2019, there were 7,945 open-end mutual funds with combined assets of $21.3 trillion, accounting for 83% of the U.S. industry.<ref name=":5" />
+
+=== Unit investment trusts ===
+Unit investment trusts (UITs) are issued to the public only once when they are created. UITs generally have a limited life span, established at creation. Investors can redeem shares directly with the fund at any time (similar to an open-end fund) or wait to redeem them upon the trust's termination. Less commonly, they can sell their shares in the open market.
+
+Unlike other types of mutual funds, unit investment trusts do not have a professional investment manager. Their portfolio of securities is established at the creation of the UIT.
+
+In the United States, at the end of 2019, there were 4,571 UITs with combined assets of less than $0.1 trillion.<ref name=":5" />
+
+=== Closed-end funds ===
+{{Main|Closed-end fund}}
+Closed-end funds generally issue shares to the public only once, when they are created through an [[initial public offering]]. Their shares are then listed for trading on a [[stock exchange]]. Investors who want to sell their shares must sell their shares to another investor in the market; they cannot sell their shares back to the fund. The price that investors receive for their shares may be significantly different from NAV; it may be at a "premium" to NAV (i.e., higher than NAV) or, more commonly, at a "discount" to NAV (i.e., lower than NAV).
+
+In the United States, at the end of 2019, there were 500 closed-end mutual funds with combined assets of $0.28 trillion.<ref name=":5" />
+
+=== Exchange-traded funds (ETFs) ===
+Exchange-traded funds (ETFs) combine characteristics of both closed-end funds and open-end funds. They are structured as open-end investment companies or UITs. ETFs are traded throughout the day on a stock exchange. An [[arbitrage]] mechanism is used to keep the trading price close to [[net asset value]] of the ETF holdings.
+
+In the United States, at the end of 2019, there were 2,096 ETFs in the United States with combined assets of $4.4 trillion, accounting for 17% of the U.S. industry.<ref name=":5" />
+
+==Classification of funds by types of underlying investments==
+Mutual funds may be classified by their principal investments, as described in the prospectus and investment objective. The four main categories of funds are money market funds, bond or fixed-income funds, stock or equity funds, and hybrid funds. Within these categories, funds may be sub-classified by investment objective, investment approach, or specific focus.
+
+The types of securities that a particular fund may invest in are set forth in the fund's [[prospectus (finance)|prospectus]], a legal document that describes the fund's investment objective, investment approach and permitted investments. The investment objective describes the type of income that the fund seeks. For example, a capital appreciation fund generally looks to earn most of its returns from increases in the prices of the securities it holds, rather than from dividend or interest income. The investment approach describes the criteria that the fund manager uses to select investments for the fund.
+
+Bond, stock, and hybrid funds may be classified as either index (or passively-managed) funds or actively managed funds.
+
+[[Alternative investment|Alternative investments]] which incorporate advanced techniques such as hedging known as "liquid alternatives".
+
+===Money market funds===
+
+{{Main|Money market fund}}
+
+Money market funds invest in [[money market]] instruments, which are fixed income securities with a very short time to maturity and high credit quality. Investors often use money market funds as a substitute for bank [[savings account]]s, though money market funds are not insured by the government, unlike bank savings accounts.
+
+In the United States, money market funds sold to retail investors and those investing in government securities may maintain a stable net asset value of $1 per share, when they comply with certain conditions. Money market funds sold to institutional investors that invest in non-government securities must compute a net asset value based on the value of the securities held in the funds.
+
+In the United States, at the end of 2019, assets in money market funds were $3.6 trillion, representing 14% of the industry.<ref name=":5" />
+
+===Bond funds===
+{{Main|Bond fund}}
+
+Bond funds invest in fixed income or debt securities. Bond funds can be sub-classified according to:
+* The specific types of bonds owned (such as [[high-yield debt|high-yield or junk bonds]], investment-grade [[corporate bond]]s, government bonds or [[municipal bond]]s)
+* The maturity of the bonds held (i.e., short-, intermediate- or long-term)
+* The country of issuance of the bonds (such as the U.S., emerging market or global)
+* The tax treatment of the interest received (taxable or tax-exempt)
+
+In the United States, at the end of 2019, assets in bond funds (of all types) were $5.7 trillion, representing 22% of the industry.<ref name=":5" />
+
+===Stock funds===
+{{Main|Stock fund}}
+
+Stock or equity funds invest in [[common stock]]s. Stock funds may focus on a particular area of the stock market, such as 
+* Stocks from only a certain industry
+* Stocks from a specified country or region
+* Stocks of companies experiencing strong ''growth''
+* Stocks that the portfolio managers deem to be a good ''value'' relative to the value of the company's business
+* Stocks paying high [[dividend]]s that provide ''income''
+* Stocks within a certain market capitalization range
+
+In the United States, at the end of 2019, assets in stock funds (of all types) were $15.0 trillion, representing 58% of the industry.<ref name=":5" />
+
+Funds which invest in a relatively small number of stocks are known as "focus funds."
+
+===Hybrid funds===
+Hybrid funds invest in both bonds and stocks or in [[convertible security|convertible securities]]. Balanced funds, asset allocation funds, target date or target-risk funds, and lifecycle or lifestyle funds are all types of hybrid funds.
+
+Hybrid funds may be structured as [[Fund of funds|funds of funds]], meaning that they invest by buying shares in other mutual funds that invest in securities. Many funds of funds invest in affiliated funds (meaning mutual funds managed by the same fund sponsor), although some invest in unaffiliated funds (i.e., managed by other fund sponsors) or some combination of the two.
+
+In the United States, at the end of 2019, assets in hybrid funds were $1.6 trillion, representing 6% of the industry.<ref name=":5" />
+
+=== Other funds ===
+Funds may invest in commodities or other investments.
+
+==Expenses==
+Investors in a mutual fund pay the fund's expenses. Some of these expenses reduce the value of an investor's account; others are paid by the fund and reduce [[net asset value]].
+
+These expenses fall into five categories:
+
+===Management fee===
+{{Main|Management fee}}
+The management fee is paid by the fund to the management company or sponsor that organizes the fund, provides the portfolio management or investment advisory services, and normally lends its brand to the fund. The fund manager may also provide other administrative services. The management fee often has breakpoints, which means that it declines as assets (in either the specific fund or in the fund family as a whole) increase. The fund's board reviews the management fee annually. Fund shareholders must vote on any proposed increase, but the fund manager or sponsor can agree to waive some or all of the management fees in order to lower the fund's expense ratio.
+
+Index funds generally charge a lower management fee than actively-managed funds. 
+
+===Distribution charges===
+{{Main|Mutual fund fees and expenses}}
+
+Distribution charges pay for marketing, distribution of the fund's shares as well as services to investors. There are three types of distribution charges.
+
+* Front-end load or sales charge. A [[front-end load]] or [[sales charge]] is a [[Commission (remuneration)|commission]] paid to a [[broker]] by a mutual fund when shares are purchased. It is expressed as a percentage of the total amount invested or the "public offering price", which equals the net asset value plus the front-end load per share. The front-end load often declines as the amount invested increases, through [[Mutual fund fees and expenses#United States|breakpoints]]. The front-end load is paid by the investor; it is deducted from the amount invested.
+* Back-end load. Some funds have a [[back-end load]], which is paid by the investor when shares are redeemed. If the back-end load declines the longer the investor holds shares, it is called a contingent deferred sales charges (CDSC). Like the front-end load, the back-end load is paid by the investor; it is deducted from the redemption proceeds.
+* Distribution and services fee. Some funds charge an annual fee to compensate the distributor of fund shares for providing ongoing services to fund shareholders. In the United States, this fee is sometimes called a 12b-1 fee, after the SEC rule authorizing it. The distribution and services fee is paid by the fund and reduces net asset value.
+Distribution charges generally vary for each share class.
+
+===Securities transaction fees incurred by the fund===
+A mutual fund pays expenses related to buying or selling the securities in its portfolio. These expenses may include [[broker]]age commissions. These costs are normally positively correlated with turnover.
+
+===Shareholder transaction fees===
+Shareholders may be required to pay fees for certain transactions, such as buying or selling shares of the fund. A fund may charge a fee for maintaining an individual retirement account for an investor. 
+
+Some funds charge redemption fees when an investor sells fund shares shortly after buying them (usually defined as within 30, 60, or 90 days of purchase). Redemption fees are computed as a percentage of the sale amount. Shareholder transaction fees are not part of the expense ratio.
+
+===Fund services charges===
+A mutual fund may pay for other services including:
+* Board of directors or trustees fees and expenses
+* Custody fee: paid to a [[custodian bank]] for holding the fund's portfolio in safekeeping and collecting income owed on the securities
+* [[Fund administration]] fee: for overseeing all administrative affairs such as preparing financial statements and shareholder reports, SEC filings, monitoring compliance, computing total returns and other performance information, preparing/filing tax returns and all expenses of maintaining compliance with state [[blue sky law]]s
+* Fund accounting fee: for performing investment or securities accounting services and computing the [[net asset value]] (usually every day the [[New York Stock Exchange]] is open)
+* Professional services fees: legal and auditing fees
+* Registration fees: paid to the SEC and state securities regulators
+* Shareholder communications expenses: printing and mailing required documents to shareholders such as shareholder reports and prospectuses
+* Transfer agent service fees and expenses: for keeping shareholder records, providing statements and tax forms to investors and providing telephone, internet and or other investor support and servicing
+* Other/miscellaneous fees
+
+The fund manager or sponsor may agree to subsidize some of these charges.
+
+=== Expense ratio ===
+The expense ratio equals recurring fees and expenses charged to the fund during the year divided by average net assets. The management fee and fund services charges are ordinarily included in the expense ratio. Front-end and back-end loads, securities transaction fees, and shareholder transaction fees are normally excluded.
+
+To facilitate comparisons of expenses, regulators generally require that funds use the same formula to compute the expense ratio and publish the results.
+
+=== No-load fund ===
+In the United States, a fund that calls itself "[[no-load]]" cannot charge a front-end load or back-end load under any circumstances and cannot charge a distribution and services fee greater than 0.25% of fund assets
+
+===Controversy regarding fees and expenses===
+Critics of the fund industry argue that fund expenses are too high. They believe that the market for mutual funds is not competitive and that there are many hidden fees so that it is difficult for investors to reduce the fees that they pay. They argue that the most effective way for investors to raise the returns they earn from mutual funds is to invest in funds with low expense ratios.
+
+Fund managers counter that fees are determined by a highly competitive market and, therefore, reflect the value that investors attribute to the service provided. They also note that fees are clearly disclosed.
+
+== Definitions of key terms ==
+
+===Average annual total return===
+Mutual funds in the United States are required to report the average annual compounded rates of return for one-, five-and-ten year-periods using the following formula:<ref>{{cite web|url=https://www.sec.gov/rules/final/33-7512f.htm#E12E2|title=Final Rule: Registration Form Used by Open-End Management Investment Companies: Sample Form and instructions|date=March 23, 1998|publisher=U.S. Securities and Exchange Commission (SEC)}}</ref>
+
+P(1+T)<sup>n</sup> = ERV
+
+Where:
+
+P = a hypothetical initial payment of $1,000
+
+T = average annual total return
+
+n = number of years
+
+ERV = ending redeemable value of a hypothetical $1,000 payment made at the beginning of the one-, five-, or ten-year periods at the end of the one-, five-, or ten-year periods (or fractional portion).
+
+=== Market capitalization ===
+Market capitalization equals the number of a company's shares outstanding multiplied by the market price of the stock. Market capitalization is an indication of the size of a company. Typical ranges of market capitalizations are:
+
+* Mega cap - companies worth $200 billion or more
+* Big/large cap - companies worth between $10 billion and $200 billion
+* Mid cap - companies worth between $2 billion and $10 billion
+* Small cap - companies worth between $300 million and $2 billion
+* Micro cap - companies worth between $50 million and $300 million
+* Nano cap - companies worth less than $50 million
+
+===Net asset value===
+{{Main|Net asset value}}
+A fund's net asset value (NAV) equals the current market value of a fund's holdings minus the fund's liabilities (this figure may also be referred to as the fund's "net assets"). It is usually expressed as a per-share amount, computed by dividing net assets by the number of fund shares outstanding. Funds must compute their net asset value according to the rules set forth in their prospectuses. Most compute their NAV at the end of each business day.
+
+Valuing the securities held in a fund's portfolio is often the most difficult part of calculating net asset value. The fund's board typically oversees security valuation.
+
+=== Share classes ===
+A single mutual fund may give investors a choice of different combinations of front-end loads, back-end loads and distribution and services fee, by offering several different types of shares, known as share classes. All of them invest in the same portfolio of securities, but each has different expenses and, therefore, different net asset values and different performance results. Some of these share classes may be available only to certain types of investors.
+
+Typical share classes for funds sold through brokers or other intermediaries in the United States are:
+* '''Class A''' shares usually charge a front-end sales load together with a small distribution and services fee.
+* '''Class B''' shares usually do not have a front-end sales load; rather, they have a high [[Deferred sales charge|contingent deferred sales charge]] (CDSC) that gradually declines over several years, combined with a high [[12b-1]] fee. Class B shares usually convert automatically to Class A shares after they have been held for a certain period.
+* '''Class C''' shares usually have a high distribution and services fee and a modest contingent deferred sales charge that is discontinued after one or two years. Class C shares usually do not convert to another class. They are often called "level load" shares.
+* '''Class I''' are usually subject to very high minimum investment requirements and are, therefore, known as "institutional" shares. They are no-load shares.
+* '''Class R''' are usually for use in retirement plans such as [[401(k)]] plans. They typically do not charge loads but do charge a small distribution and services fee.
+No-load funds in the United States often have two classes of shares:
+* '''Class I''' shares do not charge a distribution and services fee
+* '''Class N''' shares charge a distribution and services fee of no more than 0.25% of fund assets
+Neither class of shares typically charges a front-end or back-end load.
+
+=== Portfolio Turnover ===
+''Portfolio Turnover'' is a measure of the volume of a fund's securities trading. It is expressed as a percentage of the average market value of the portfolio's long-term securities. Turnover is the lesser of a fund's purchases or sales during a given year divided by average long-term securities market value for the same period. If the period is less than a year, turnover is generally annualized.
+
+==See also==
+{{div col}}
+
+* [[Active management]]
+* [[Fund derivative]]
+* [[Global assets under management]]
+* [[Index fund]]
+* [[Lipper average]]
+* [[List of mutual-fund families in Canada]]
+* [[List of mutual-fund families in the United States]]
+* [[List of US mutual funds by assets under management|List of U.S. mutual funds by assets under management]]
+* [[Money fund]]
+* [[Collective trust fund]]
+* [[Mutual funds in India]]
+* [[Mutual-fund scandal (2003)]]
+* [[Operation Perfect Hedge]]
+<!-- * [[Real estate fund]] -->
+* [[Retirement plans in the United States]]
+* [[Rights of accumulation]]
+* [[Separately managed account]]
+* [[Value investing]]
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite book|url=https://books.google.com/books?id=7yYhBgAAQBAj|title=The Fund Industry: How Your Money is Managed|date=2015|publisher=Wiley Finance|isbn=978-1118929940|edition=2nd|location=Hoboken, NJ|author1=Robert Pozen|author2=Theresa Hamacher}}
+* {{cite book|author1=Thomas P. Lemke|author2=Gerald T. Lins|author3=A. Thomas Smith|title=Regulation of Investment Companies|date=2017|publisher=Matthew Bender|isbn=978-0-8205-2005-6}}
+* {{cite book|author1=Thomas P. Lemke|author2=Gerald T. Lins|author3=W. John McGuire|title=Regulation of Exchange-Traded Funds|date=2017|publisher=Matthew Bender|isbn=978-0-7698-9131-6}}
+
+
+== External links ==
+* U.S. Securities and Exchange Commission, [https://www.sec.gov/investor/pubs/sec-guide-to-mutual-funds.pdf Mutual Funds and ETFs: A Guide for Investors]
+
+
+{{investment funds}}
+{{investment-management}}
+{{Dutch business and financial innovations}}
+
+{{DEFAULTSORT:Mutual Fund}}
+[[Category:Mutual funds]]
+[[Category:Mutualism (movement)]]
+[[Category:Institutional investors]]
+[[Category:Dutch inventions]]
+[[Category:18th-century introductions]]
+
+[[pt:Fundo de investimento]]

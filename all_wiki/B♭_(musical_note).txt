@@ -1,0 +1,82 @@
+{{Other uses|B-flat (disambiguation){{!}}B-flat}}
+{{unreferenced|date=January 2012}}
+{{stack|<score>{ \override Score.TimeSignature #'stencil = ##f { bes' \clef bass bes } }</score>}}
+'''B{{music|flat}}''' ('''B-flat'''; also called '''si bémol''') is the eleventh step of the Western [[chromatic scale]] (starting from [[C (musical note)|C]]).
+It lies a [[diatonic semitone]] above [[A (musical note)|A]] and a [[chromatic semitone]] below B, thus being [[enharmonic]] to [[A♯ (musical note)|A{{music|♯}}]], even though in some [[musical tuning]]s, B{{music|flat}} will have a different sounding pitch than A{{music|sharp}}. B-flat is also enharmonic to C{{music|bb}}.
+
+When calculated in [[equal temperament]] with a reference of [[A (musical note)|A]] above [[middle C]] as 440 [[hertz|Hz]], the [[frequency]] of the B{{music|flat}} above middle C is approximately 466.164&nbsp;Hz. See [[pitch (music)]] for a discussion of historical variations in frequency.
+
+While [[orchestra]]s tune to an A provided by the [[oboe|oboist]], [[wind ensembles]] usually tune to a B-flat provided by a [[tuba]], [[Horn (instrument)|horn]], or [[clarinet]].
+
+In Germany, Russia, Poland and Scandinavia, this pitch is designated B, with 'H' used to designate the B-[[Natural (music)|natural]]. Since the 1990s, B-flat is often denoted Bb or "Bess" instead of B in Swedish music textbooks. Natural B is called B by Swedish jazz and pop musicians, but still denoted H in classical music. See [[B (musical note)#Variation of meaning by geographical region|B (musical note)]] and [[Musical note#Note_names_and_their_history|Musical note: Note names and their history]] for explanations.
+
+==Designation by octave==
+{|class="wikitable"
+![[Scientific pitch notation|Scientific]] designation
+![[Helmholtz pitch notation|Helmholtz]] designation
+!Octave name
+!Frequency (Hz)
+|-
+|B{{music|flat}}<sub>−1</sub> || B{{music|flat}}͵͵͵ or ͵͵͵B{{music|flat}} or BBBB{{music|flat}} || Subsubcontra ||align="right"| {{#expr:440 * 2^((10-69)/12) round 3}}
+|-
+|B{{music|flat}}<sub>0</sub> || B{{music|flat}}͵͵ or ͵͵B{{music|flat}} or BBB{{music|flat}} ||Subcontra ||align="right" | {{#expr:440 * 2^((22-69)/12) round 3}}
+|-
+|B{{music|flat}}<sub>1</sub> || B{{music|flat}}͵ or ͵B{{music|flat}} or BB{{music|flat}} ||Contra ||align="right" | {{#expr:440 * 2^((34-69)/12) round 3}}
+|-
+|B{{music|flat}}<sub>2</sub> || B{{music|flat}} ||Great ||align="right" | {{#expr:440 * 2^((46-69)/12) round 3}}
+|-
+|B{{music|flat}}<sub>3</sub> || b{{music|flat}} ||Small ||align="right" | {{#expr:440 * 2^((58-69)/12) round 3}}
+|-
+|B{{music|flat}}<sub>4</sub> || b{{music|flat}}&prime; ||One-lined ||align="right" | {{#expr:440 * 2^((70-69)/12) round 3}}
+|-
+|B{{music|flat}}<sub>5</sub> || b{{music|flat}}&prime;&prime; ||Two-lined ||align="right" | {{#expr:440 * 2^((82-69)/12) round 3}}
+|-
+|B{{music|flat}}<sub>6</sub> || b{{music|flat}}&prime;&prime;&prime; ||Three-lined ||align="right" | {{#expr:440 * 2^((94-69)/12) round 3}}
+|-
+|B{{music|flat}}<sub>7</sub> || b{{music|flat}}&prime;&prime;&prime;&prime; ||Four-lined ||align="right" | {{#expr:440 * 2^((106-69)/12) round 3}}
+|-
+|B{{music|flat}}<sub>8</sub> || b{{music|flat}}&prime;&prime;&prime;&prime;&prime; ||Five-lined ||align="right" | {{#expr:440 * 2^((118-69)/12) round 3}}
+|-
+|B{{music|flat}}<sub>9</sub> || b{{music|flat}}&prime;&prime;&prime;&prime;&prime;&prime; ||Six-lined ||align="right" | {{#expr:440 * 2^((130-69)/12) round 3}}
+|-
+|B{{music|flat}}<sub>10</sub> || b{{music|flat}}&prime;&prime;&prime;&prime;&prime;&prime;&prime; ||Seven-lined ||align="right" | {{#expr:440 * 2^((142-69)/12) round 3}}
+|}
+
+==Scales==
+===Common scales beginning on B{{music|b}}===
+*[[B-flat major]]: B{{music|b}} C D E{{music|b}} F G A B{{music|b}}
+*[[B-flat minor|B-flat natural minor]]: B{{music|b}} C D{{music|b}} E{{music|b}} F G{{music|b}} A{{music|b}} B{{music|b}}
+*B-flat [[Minor scale#Harmonic minor scale|harmonic minor]]: B{{music|b}} C D{{music|b}} E{{music|b}} F G{{music|b}} A B{{music|b}}
+*B-flat [[Minor scale#Melodic minor scale|melodic minor]] ascending: B{{music|b}} C D{{music|b}} E{{music|b}} F G A B{{music|b}}
+*B-flat melodic minor descending: B{{music|b}} A{{music|b}} G{{music|b}} F E{{music|b}} D{{music|b}} C B{{music|b}}
+
+===[[Diatonic scale]]s===
+*B{{music|b}} [[Ionian mode|Ionian]]: B{{music|b}} C D E{{music|b}} F G A B{{music|b}}
+*B{{music|b}} [[Dorian mode|Dorian]]: B{{music|b}} C D{{music|b}} E{{music|b}} F G A{{music|b}} B{{music|b}}
+*B{{music|b}} [[Phrygian mode|Phrygian]]: B{{music|b}} C{{music|b}} D{{music|b}} E{{music|b}} F G{{music|b}} A{{music|b}} B{{music|b}}
+*B{{music|b}} [[Lydian mode|Lydian]]: B{{music|b}} C D E F G A B{{music|b}}
+*B{{music|b}} [[Mixolydian mode|Mixolydian]]: B{{music|b}} C D E{{music|b}} F G A{{music|b}} B{{music|b}}
+*B{{music|b}} [[Aeolian mode|Aeolian]]: B{{music|b}} C D{{music|b}} E{{music|b}} F G{{music|b}} A{{music|b}} B{{music|b}}
+*B{{music|b}} [[Locrian mode|Locrian]]: B{{music|b}} C{{music|b}} D{{music|b}} E{{music|b}} F{{music|b}} G{{music|b}} A{{music|b}} B{{music|b}}
+
+===[[Jazz scale#Modes of the melodic minor scale|Jazz melodic minor]]===
+*B{{music|b}} [[Jazz minor scale|ascending melodic minor]]: B{{music|b}} C D{{music|b}} E{{music|b}} F G A B{{music|b}}
+*B{{music|b}} [[Dorian ♭2 scale|Dorian ♭2]]: B{{music|b}} C{{music|b}} D{{music|b}} E{{music|b}} F G A{{music|b}} B{{music|b}}
+*B{{music|b}} [[Lydian augmented scale|Lydian augmented]]: B{{music|b}} C D E F{{music|#}} G A B{{music|b}}
+*B{{music|b}} [[Lydian dominant scale|Lydian dominant]]: B{{music|b}} C D E F G A{{music|b}} B{{music|b}}
+*B{{music|b}} [[Aeolian dominant scale|Mixolydian ♭6]]: B{{music|b}} C D E{{music|b}} F G{{music|b}} A{{music|b}} B{{music|b}}
+*B{{music|b}} [[Half diminished scale|Locrian ♮2]]: B{{music|b}} C D{{music|b}} E{{music|b}} F{{music|b}} G{{music|b}} A{{music|b}} B{{music|b}}
+*B{{music|b}} [[Altered scale|altered]]: B{{music|b}} C{{music|b}} D{{music|b}} E{{music|bb}} F{{music|b}} G{{music|b}} A{{music|b}} B{{music|b}}
+
+==See also==
+*[[Piano key frequencies]]
+*[[:Category:B-flat instruments]]
+*[[B-flat major]]
+*[[B-flat minor]]
+*[[Root (chord)]]
+{{Semitones}}
+
+{{DEFAULTSORT:B Flat}}
+[[Category:Musical notes]]
+
+[[sv:Ton (ljud)#B, H och Bess]]

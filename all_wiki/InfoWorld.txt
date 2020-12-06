@@ -1,0 +1,60 @@
+{{short description|Information technology media business}}
+{{Use dmy dates|date=January 2020|cs1-dates=y}}
+{{Infobox magazine
+| title = InfoWorld
+| logo = InfoWorld Logo with Maroon Background.svg
+| image_file = InfoWorld cover.png
+| firstdate = {{Start date and age|1978|12|11|df=yes}}
+| finaldate = {{End date|2007|04|02|df=yes}}<ref name="IW_2007-04-02"/> (Now published online)
+| finalnumber = 
+| publisher= Popular Computing, Inc. (CW Communications, Inc.)<!-- (-1987) --><br>InfoWorld Publishing, Inc. ([[IDG Communications, Inc.]])<!-- (1987-) -->
+| country = [[United States]]
+| based = [[San Francisco]]
+| language = English
+| website = {{URL|www.infoworld.com}}
+| issn = 0199-6649
+}}
+
+'''''InfoWorld''''' (abbreviated '''IW''') is an [[information technology]] media business. Founded in 1978, it began as a monthly magazine. In 2007, it transitioned to a web-only publication. Its parent company today is [[International Data Group]],<ref>{{cite newspaper
+    |newspaper=[[The New York Times]] |url=https://www.nytimes.com/2008/05/05/business/media/05idg.html |date=5 May 2008 |title=IDG}}</ref> and its sister publications include ''[[Macworld]]'' and ''[[PC World]]''. InfoWorld is based in [[San Francisco]], with contributors and supporting staff based across the [[United States]].<ref name="IW_2018-12-06"/>
+
+Since its founding, InfoWorld's readership has largely consisted of [[IT]] and business professionals. InfoWorld focuses on how-to, analysis, and editorial content from a mixture of experienced technology journalists and working technology practitioners. The site averages 4.6 million monthly [[page view]]s and 1.1 million monthly unique visitors.<ref name="IW_2016-06-16"/>
+
+==History==
+The magazine was founded by [[Jim Warren (computer specialist)|Jim Warren]] in 1978 as '''''The Intelligent Machines Journal''''' ('''IMJ''').<ref name="McCracken_2008-11-20"/> It sold to [[International Data Group|IDG]] in late 1979. On 18 February 1980, the name was changed to ''InfoWorld''.<ref name="IW_2007-04-02"/> In 1986, the [[Robert X. Cringely]] column began; for many, that pseudonymous column was the face of InfoWorld and its close ties to [[Silicon Valley]] in particular.<ref name="IW_2007-04-02"/><ref name="CSR_2006-04-18"/><ref name="Freiberger_2000"/>
+
+Up to including the 15 June 1987 issue 24, volume 9, InfoWorld was published by [[Popular Computing, Inc.]], a subsidiary of [[CW Communications, Inc.]] Since then<!-- 22 June 1987, Volume 9, Issue 25 --> it was published by InfoWorld Publishing, Inc., a subsidiary of [[IDG Communications, Inc.]]
+
+[[Ethernet]] inventor [[Bob Metcalfe]] was CEO and publisher from 1991 to 1996, and contributed a weekly column until 2000.<ref name="Metcalfe_1993-08-23"/><ref name="Metcalfe_1993-12-13"/> As the magazine transitioned to be exclusively Web-based, a final print edition was dated 2 April 2007 (Volume 29, Issue 14, Number 1384).<ref name="IW_2007-04-02"/>
+
+In its web incarnation, InfoWorld has transitioned away from widely available news stories to a focus on how-to, expert testing, and thought leadership.<ref>{{cite newspaper |newspaper=[[The New York Times]]
+  |url=http://www.nytimes.com/external/idg/2009/07/17/17idg-the-nsa-wiretapping-story-that-nobody-wanted-10561.html
+  |title=The NSA Wiretapping Story That Nobody Wanted |date=17 July 2009}}</ref> InfoWorld also offers its content for mobile devices.{{Citation needed|date=March 2018}}
+
+==References==
+{{Reflist|refs=
+<ref name="Metcalfe_1993-08-23">{{cite newspaper |title=Telecommunicating via ISDN is getting cheaper |series=From the Ether |author-first=Bob |author-last=Metcalfe |author-link=Bob Metcalfe |newspaper=InfoWorld |date=1993-08-23 |volume=15 |issue=34 <!-- |id=# |number= --> |page=46 |url=https://books.google.com/books?id=rjsEAAAAMBAJ&pg=PA46 |access-date=2010-08-24}}</ref>
+<ref name="Metcalfe_1993-12-13">{{cite newspaper |title=Stuck in the non-eeny PC mindset for 15 years |series=From the Ether |author-first=Bob |author-last=Metcalfe |author-link=Bob Metcalfe |newspaper=InfoWorld |date=1993-12-13 |volume=15 |issue=50 <!-- |id=# |number= --> |page=47 |url=https://books.google.com/books?id=IjsEAAAAMBAJ&pg=PA47 |access-date=2010-08-24}}</ref>
+<ref name="IW_2016-06-16">{{cite newspaper |title=Media Kit 2015 |newspaper=InfoWorld |date=2015 |url=http://marketing.infoworld.com/pdf/IFW_Media_Kit_2015.pdf |access-date=2016-06-16 |url-status=dead |archive-url=https://web.archive.org/web/20160616203003/http://marketing.infoworld.com/pdf/IFW_Media_Kit_2015.pdf |archive-date=2016-06-16}}</ref>
+<ref name="IW_2007-04-02">{{cite newspaper |title=InfoWorld Through the Years |newspaper=InfoWorld |date=2007-04-02 |volume=29 |issue=14 |id=#1384 <!-- |number=1384 --> |page=17 |url=https://books.google.com/books?id=vTcEAAAAMBAJ&pg=PA17 |access-date=2010-08-24}}</ref>
+<ref name="IW_2018-12-06">{{cite newspaper |title=About Us |newspaper=InfoWorld |date=2018-12-06 |url=http://www.infoworld.com/about/about.html |access-date=2018-12-06 |url-status=live |archive-url=https://web.archive.org/web/20181206150254/https://www.infoworld.com/about/about.html |archive-date=2018-12-06}}</ref>
+<ref name="McCracken_2008-11-20">{{cite newspaper |author-first=Harry |author-last=McCracken |author-link=Harry McCracken |title=The Twelve Greatest Defunct Tech Magazines Ever |work=[[Technologizer]] |date=2008-11-20 |url=http://www.technologizer.com/2008/11/20/the-twelve-greatest-defunct-tech-magazines-ever/ |access-date=2015-08-03 |url-status=live |archive-url=https://web.archive.org/web/20150809185745/http://www.technologizer.com/2008/11/20/the-twelve-greatest-defunct-tech-magazines-ever/ |archive-date=2015-08-09}}</ref>
+<ref name="CSR_2006-04-18">{{cite book |title=Computer Science Resources: A Guide to Professional Literature |date=2006-04-18 |publisher=[[American Society for Information Science]] |url=https://books.google.com/books?id=WywIAAAAIAAJ |access-date=2010-08-24}}</ref>
+<ref name="Freiberger_2000">{{cite book |title=Fire in the Valley: The Making of the Personal Computer |author-first1=Paul |author-last1=Freiberger |author-link=Paul Freiberger |author-first2=Michael |author-last2=Swaine |author-link2=Michael Swaine (technical author) |publisher=[[McGraw-Hill]] |date=2000 |edition=illustrated 2nd |isbn=0-07135892-7 |url=https://archive.org/details/fireinvalleymaki00frei |url-access=registration |access-date=2010-08-24 |url-status=live}}</ref>
+}}
+
+==External links==
+* {{Official website|www.infoworld.com}}
+* [https://books.google.com/books?id=KzAEAAAAMBAJ&source=gbs_all_issues_r&cad=1&atm_aiy=1990#all_issues_anchor Digitized InfoWorld magazines] on [[Google Books]]
+
+{{IDG}}
+
+{{DEFAULTSORT:Infoworld}}
+[[Category:Monthly magazines published in the United States]]
+[[Category:Defunct computer magazines published in the United States]]
+[[Category:International Data Group]]
+[[Category:Magazines established in 1978]]
+[[Category:Magazines disestablished in 2007]]
+[[Category:Magazines published in San Francisco]]
+[[Category:Online computer magazines]]
+[[Category:Online magazines with defunct print editions]]

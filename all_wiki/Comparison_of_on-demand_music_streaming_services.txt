@@ -1,0 +1,770 @@
+{{Use dmy dates|date=April 2019}}
+The following is a list of on-demand [[music streaming]] services. The services offer streaming of full-length content via the Internet as a part of their service,<ref>{{cite web| url=http://stream-recorder.com/forum/showthread.php?p=9 | work=Matthews, Paul | publisher=SRF | title=The best online music service! | accessdate=1 April 2011}}</ref> without the listener necessarily purchasing a file for download.<ref>{{cite web| url=http://aisel.aisnet.org/amcis2010/36/ | work=Doerr, Jonathan; Benlian, Alexander; Vetter, Johannes; Hess, Thomas | title=Pricing of Content Services – An Empirical Investigation of Music as a Service | accessdate=26 February 2011}}</ref> This type of service is comparable to [[Internet radio]]. Many of these sites have advertising and offer [[Non-free software|non-free]] options in the style of an [[online music store]]. For a list of online music stores that provide a means of purchasing and downloading music as files of some sort, see: [[Comparison of online music stores]]. Many of both types of sites offer services similar to an online music database.
+
+== Current services ==
+{| class="sortable wikitable" style="text-align: center; width: auto; margin: auto auto;"
+|+
+! Service
+! Free access available
+! Selective streaming
+! [[Lossless compression|Lossless]] (hi-fi)
+! Track downloads
+! data-sort-type="number" | # of tracks (millions)
+! data-sort-type="number" | # of active users (millions)
+! data-sort-type="number" | # of paying users (millions)
+! Global availability
+! Web
+! Android
+! iOS
+! Desktop
+! Other platforms
+! First launched
+! Login required
+|-
+|[[AccuRadio]]
+| {{Yes}}
+| {{No}}
+| {{No}}
+|
+|
+|1.5<ref>{{Cite web|url=https://www.accuradio.com/about/|title=Free Internet Radio {{!}} AccuRadio Online|website=AccuRadio online radio|access-date=20 May 2018}}</ref>
+|
+| 
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+|[[Roku]], [[Sonos]]
+|2000
+|limited, can listen, but banning/liking songs requires login
+|-
+|[[Amazon Music]] & [[List_of_Amazon_products_and_services#Amazon_Music_Unlimited|Amazon Music Unlimited]]
+| {{Yes}} (Currently only on Alexa devices)
+| {{Yes}}
+| {{Yes}}<ref>{{Cite web|title = Amazon.com Help: What is Amazon HD|url = https://www.amazon.com/gp/help/customer/display.html?nodeId=G8X4YJYLED87FSH2|accessdate = 20 September 2019}}</ref> (With HD add-on)
+| {{Yes}}<ref>{{Cite web|title = Amazon.com Help: Download Prime Music for Offline Playback|url = https://www.amazon.com/gp/help/customer/display.html?nodeId=201535240|accessdate = 31 July 2015}}</ref>
+| 50 (Unlimited), 2 (Prime Music)<ref>{{Cite web|url = https://www.amazon.co.uk/b/ref=dm_hf_lp_fourpack?ie=UTF8&node=11741995031|title = Amazon Music Unlimited FAQ|accessdate = 18 November 2016}}</ref>
+|55<ref name="Amazon Music">{{cite web |title=Amazon Music has more than 55 million customers worldwide |url=https://blog.aboutamazon.com/entertainment/more-than-55-million-amazon-music-customers |website=US Day One Blog |language=en |date=22 January 2020}}</ref>
+|55<ref name="Amazon Music" />
+| {{Partial|Australia, Austria, Brazil, Canada, France, Germany, Italy, India, Japan, Mexico, New Zealand, Poland, Switzerland, Spain, US, UK}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes|Windows, Mac}}
+|[[Amazon Echo]], [[Fire TV]], [[Bose Corporation|Bose]], [[Sonos]], [[BlackBerry]], [[Xbox One]], [[Roku]]
+|
+|Yes
+|-
+| [[Anghami]]
+| {{Yes}} (radio mode)
+| {{Yes}}<ref name="Anghami">{{Cite web|title = Discover & download music you love for FREE! – Anghami|url = http://www.anghami.com|website = anghami.com|accessdate = 31 July 2015}}</ref>
+| {{No}}
+| {{Yes}}
+| 30<ref name=":1" />
+|70<ref name=":1">{{Cite web|url=https://www.anghami.com/about|title=About Anghami|website=Anghami|access-date=5 January 2018}}</ref>
+|
+| {{Partial}}{{refn|group=r|Full access in Middle East and North Africa, Arabic music only elsewhere}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+|[[BlackBerry]], [[Carplay]], [[Android Auto]], [[Chromecast]], [[PlayStation]], [[Apple watch]], [[Wear OS]], [[Apple TV]], [[Android TV]], [[WebOS]], [[Samsung TV]]
+| November 2012
+|limited, can browse, but playing requires login
+|-
+| [[Apple Music]]
+| {{No}}
+| {{Yes}}
+| {{No}}
+| {{Yes}}
+|70<ref>{{Cite web|title=Apple Music|url=https://www.apple.com/apple-music/|access-date=2020-09-16|website=Apple|language=en-US}}</ref>
+|60<ref name=":6">{{cite web|url=https://www.wsj.com/articles/apple-music-on-track-to-overtake-spotify-in-u-s-subscribers-1517745720|title=Apple Music on Track to Overtake Spotify in U.S. Subscribers|accessdate=6 February 2018}}</ref>
+|60<ref name=":7">{{Cite web|url=https://techcrunch.com/2018/03/28/pandora-takes-on-spotify-with-dozens-of-personalized-playlists-built-using-its-music-genome/|title=Pandora takes on Spotify with dozens of personalized playlists built using its Music Genome – TechCrunch|website=techcrunch.com|access-date=20 May 2018}}</ref>
+| {{Partial}}{{refn|group=r|Anguilla, Antigua & Barbuda, Argentina, Armenia, Australia, Austria, Azerbaijan, Bahrain, Barbados, Belarus, Belgium, Belize, Bermuda, Bolivia, Botswana, Brazil, British Virgin Islands, Bulgaria, Cambodia, Canada, Cape Verde, Cayman Islands, Chile, China, Colombia, Costa Rica, Cyprus, Czech Republic, Denmark, Dominica, Dominican Republic, Ecuador, Egypt, El Salvador, Estonia, Federated States of Micronesia, Fiji, Finland, France, Gambia, Germany, Ghana, Greece, Grenada, Guatemala, Guinea-Bissau, Honduras, Hong Kong, Hungary, India, Indonesia, Ireland, Israel, Italy, Japan, Jordan, Kazakhstan, Kenya, Kyrgyzstan, Laos, Latvia, Lebanon, Lithuania, Luxembourg, Macau, Malaysia, Malta, Mauritius, Mexico, Moldova, Mongolia, Nepal, Netherlands, New Zealand, Nicaragua, Niger, Nigeria, Norway, Oman, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Portugal, Romania, Russia, Saudi Arabia, Singapore, Slovakia, Slovenia, South Africa, Spain, Sri Lanka, St. Kitts & Nevis, Swaziland, Sweden, Switzerland, Tajikistan, Thailand, Trinidad & Tobago, Turkey, Turkmenistan, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uzbekistan, Venezuela, Vietnam, Zimbabwe}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes|Windows and Mac with [[iTunes]]}}
+|[[Sonos]], [[AirPlay]], [[Apple TV]], [[Apple Watch]], [[Apple HomePod]], [[Amazon Echo]]
+| {{date|2015-06-30|MDY}}
+|Yes
+|-
+| [[Bandcamp]]
+| {{Yes}}
+| {{N/A}}
+| {{No}}<ref>{{cite web|title=Bandcamp Help|url=https://bandcamp.com/help/audio_basics|website=Bandcamp|accessdate=2 May 2018}}</ref> (Download Only)
+| {{Yes}}
+| TBD
+| TBD
+| 
+|
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes|Windows}}
+| 
+|
+|No
+|-
+| [[Deezer]]
+| {{Yes}} (radio mode)
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}<ref>{{Cite web|title = How can I download tracks on to my mobile device?|url = http://support.deezer.com/hc/en-gb/articles/201331981-How-can-I-download-tracks-on-to-my-mobile-device-|website = Deezer Support|accessdate = 31 July 2015|archive-url = https://web.archive.org/web/20150804061312/http://support.deezer.com/hc/en-gb/articles/201331981-How-can-I-download-tracks-on-to-my-mobile-device-|archive-date = 4 August 2015|url-status = dead}}</ref>
+| 56<ref>{{cite web|url=http://www.deezer.com/en/legal/about.php|title=About us|website=Deezer|access-date=12 November 2019}}</ref>
+| 16<ref>{{Cite web|url=https://www.deezer.com/en/company|title=About us|website=Deezer|access-date=12 November 2019}}</ref>
+| 7<ref>{{Cite web|url=http://www.statista.com/statistics/321559/deezer-paying-subscribers/|title=Number of Deezer's paying subscribers 2017|website=Statista|accessdate=11 May 2018}}</ref>
+| {{Partial}} {{refn|group=r|180+ countries <ref>{{cite web|title=Available regions|url=https://developers.deezer.com/guidelines/countries/ |website=Deezer|accessdate=14 January 2020}}</ref>}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Bose Corporation|Bose]], [[Sonos]], [[Chromecast]], webOS [[Symbian]], [[BlackBerry]], [[Fitbit]]
+|
+|Yes
+|-
+| [[Gaana.com|Gaana]]
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+| {{Yes}}
+| 45
+| 201<ref name="auto1">{{Cite web|last=Mehta|first=Ivan|date=2020-02-07|title=India's streaming music market is now 200 million strong - but hardly anyone's paying for it|url=https://thenextweb.com/in/2020/02/07/indias-streaming-music-market-is-now-200-million-strong-but-hardly-anyones-paying-for-it/|access-date=2020-08-03|website=The Next Web|language=en-us}}</ref>
+| Never Disclosed<ref name="auto1"/>
+| {{Yes|Global}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| 
+| April 2010
+| limited, can listen, but liking songs requires login
+|-
+| [[Google Play Music]]
+| {{No}}
+| {{Yes}}
+| {{No}}
+| {{Yes}}<ref>{{Cite web|title = Download music to listen offline – Google Play Help|url = https://support.google.com/googleplay/answer/1250232?hl=en-GB|accessdate = 31 July 2015}}</ref>
+| 40<ref>{{Cite web|url=https://play.google.com/music/listen|title=Google Play Music|website=play.google.com}}</ref>
+|
+|
+| {{Partial}}{{refn|group=r|Australia, Argentina, Austria, Belarus, Belgium, Bolivia, Bosnia-Herzegovina, Brazil, Bulgaria, Canada, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czech Republic, Denmark, Dominican Republic, Ecuador, El Salvador, Estonia, Finland, France, Germany, Greece, Guatemala, Honduras, Hungary, Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Mexico, Netherlands, New Zealand, Nicaragua, Norway, Panama, Paraguay, Peru, Poland, Portugal, Romania, Russia, Slovakia, Slovenia, Spain, South Africa, Sweden, Switzerland, Ukraine, United Kingdom, United States, Uruguay, Venezuela}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Sonos]], [[Chromecast]], [[Android TV]], [[Android Auto]], [[CarPlay]], [[Google Home]], [[Google Chrome App]], [[Wear OS]]
+|November 2011
+|Yes
+|-
+| [[Hoopla (digital media service)|hoopla]]
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+| {{Yes}}
+| 5
+|2.5
+|
+| {{Partial | US and Canada}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+|[[Chrome OS]], [[AirPlay]], [[Chromecast]],
+|
+|Yes
+|-
+| [[iHeartRadio]]
+| {{Yes}} (radio mode)
+| {{No}}
+| {{No}}
+| {{No}}
+|30<ref name="auto2">{{Cite web|url=https://expandedramblings.com/index.php/iheartradio-statistics/|title=20 Amazing iHeartRadio Statistics|first=Craig|last=Smith|date=25 June 2015|website=DMR}}</ref>
+|120<ref name="auto2"/>
+|
+| {{Partial|US, Australia, New Zealand}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes|Mac}}
+| [[Bose Corporation|Bose]], [[Sonos]]
+|
+|No
+|-
+| [[Jango (website)|Jango]]
+| {{Yes}}
+| {{No}}
+| {{No}}
+| {{No}}
+| 30<ref>{{Cite news|url=https://www.ghacks.net/2013/07/19/jango-radio-is-like-pandora-but-without-the-country-restriction/|title=Jango Radio is like Pandora, but without the country restriction – gHacks Tech News|date=19 July 2013|work=gHacks Technology News|access-date=20 May 2018}}</ref>
+|
+|
+| {{Yes|Global}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+| 
+|
+|No
+|-
+| [[JOOX]]
+| {{Yes}} (radio mode)
+| {{Yes}}
+| {{Partial}}
+| {{Yes}}
+|
+|
+|
+| {{Partial|Hong Kong, Indonesia, Malaysia, Myanmar, Thailand}}<ref>{{Cite web|title = Tencent's Joox music streaming service proves a hit across Asia|url = http://www.scmp.com/tech/china-tech/article/2046842/tencents-joox-music-streaming-service-proves-hit-across-asia|website = South China Morning Post|accessdate = 24 November 2016}}</ref>
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}<ref>{{Cite web|title = Download Joox App |url = https://www.joox.com/hk/download|website = joox.com|accessdate = 12 March 2020}}</ref>
+|
+|2015
+|
+|-
+|[[KKBOX]]
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+| {{Yes}}
+| 45<ref>{{Cite web|url=https://www.kkbox.com/about/en/about|title=Company - KKBOX| accessdate=2019-12-20}}</ref>
+| 
+|
+| {{Partial}}{{refn|group=r|Hong Kong, Japan, Malaysia, Singapore, Taiwan.}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+|[[Chromecast]], [[Android TV]], [[Android Auto]], [[Apple TV]]
+|October 2004
+| Yes
+|-
+| [[Line Music]]
+| {{No}}
+| {{Yes}}
+| {{No}}
+| {{Yes}}
+| 1.5<ref>{{cite web
+                  |url        = http://www.pcworld.com/article/2934632/line-launches-paid-music-streaming-service-in-japan.html
+                  |title      = Line launches paid music streaming service in Japan ahead of Apple Music
+                  |accessdate = 3 August 2015
+                  |work  = PC World}}</ref>
+|
+|
+| {{Partial|Japan}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+| 
+|
+|Yes
+|-
+| [[LiveXLive]]
+| {{Yes}} (radio mode)
+| {{Yes}}
+| {{No}}
+| {{Yes}}
+| 13<ref name=":4">{{Cite web|title = Slacker Blog : Press|url = http://www.slacker.com/components/pages/pressReleases/02132013-listenUp.jsp|website = slacker.com|accessdate = 31 July 2015|archive-url = https://web.archive.org/web/20150208211636/http://www.slacker.com/components/pages/pressReleases/02132013-listenUp.jsp|archive-date = 8 February 2015|url-status = dead}}</ref>
+|26<ref name=":4" />
+|
+| {{Partial|US, Canada}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Sonos]], [[Tesla, Inc.|Tesla]]
+|
+|No
+|-
+| [[MOOV]]
+| {{No}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| 1.5<ref>{{Cite web|url=http://butterboom.com/tech/techtop10/top-four-music-streaming-apps-hong-kong/|title=Top Four Music Streaming Apps in Hong Kong|website=ButterBoom|access-date=10 April 2019}}</ref>
+| 
+| 
+| {{Partial|Hong Kong, China, Vietnam}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+| [[Chromecast]], [[Apple Watch]] 
+| {{dts|2006|4|24}}
+| Yes
+|-
+| [[Music Choice]]
+| {{Yes}}
+| {{No}}
+| {{No}}
+|
+|
+|55<ref>{{Cite web|url=https://be-at.tv/editorial/news/trackitdown-music-choice-partnership|title=Trackitdown announce partnership with US Cable channel Music Choice|website=BE-AT.TV|access-date=20 May 2018|archive-url=https://web.archive.org/web/20180520124454/https://be-at.tv/editorial/news/trackitdown-music-choice-partnership|archive-date=20 May 2018|url-status=dead}}</ref>
+|
+| 
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+|
+|
+|Yes, cable subscribers only
+|-
+| [[MyTuner Radio]]
+| {{No}}
+| {{No}}
+| {{No}}
+|
+|30
+|
+|
+|
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| Samsung & LG TV, [[Android TV]], [[Amazon Alexa|Alexa]], [[Sonos]], [[CarPlay]], [[Android Auto]]
+|
+|No
+|-
+| [[Napster (streaming music service)|Napster]]
+| {{No}}
+| {{Yes}}<ref name="Napster">{{Cite web|title = Download Songs {{!}} Napster|url = http://www.napster.co.uk/music/download-songs.html|website = www.napster.co.uk|accessdate = 31 July 2015}}</ref>
+| {{No}}
+| {{Yes}}
+| 32<ref>{{cite web|url=http://www.rhapsody.com/about/index.html|title=About – Rhapsody|accessdate=9 June 2015}}</ref>
+| 2.5<ref name="Napster2">{{Cite web|title = Napster still exists, and it has millions of streaming music subscribers|url = http://qz.com/342218/napster-still-exists-and-it-has-millions-of-streaming-subscribers/|accessdate = 31 August 2015|first = John|last = McDuling}}</ref>
+|
+| {{Partial|US, Canada, and most of Europe}}<ref>{{Cite web|url=http://help.napster.com/hc/en-us/articles/222763108|title=Rhapsody is Now Napster|website=Napster Help}}</ref>
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes|Windows}}
+| [[Sonos]], WebOS
+|
+|Yes
+|-
+| [[NetEase Music|NetEase Cloud Music]]
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+| {{Yes}}
+| 36<ref name="NCM">{{Cite web|url = http://ent.163.com/14/1218/17/ADOVEQ5100031H0O.html|title = 网易云音乐发布14年中国移动音乐用户行为报告|trans-title=NetEase cloud music released Chinese mobile music user behavior reports for 14 years|accessdate = 4 May 2015|website = [[NetEase]]|publisher = 来源: 网易娱乐 NetEase Entertainment|language=Chinese}}</ref>
+| 55<ref name="NCM" />
+|
+| {{Partial}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes|Windows, Mac, Linux}}
+| [[BlackBerry]]
+| 2013
+|
+|-
+| [[Pandora Radio|Pandora]]
+| {{Yes}} (radio mode)
+| {{Yes}}
+| {{No}}
+| {{Yes}}<ref>{{Cite news|url=https://www.tomsguide.com/us/pandora-premium-vs-spotify,news-24655.html|title=Pandora Premium vs Spotify Unlimited: How They Stack Up|date=8 December 2017|work=Tom's Guide|access-date=7 January 2018}}</ref>
+| 30–40<ref>{{Cite news|url=https://variety.com/2017/digital/news/pandora-premium-subscription-details-close-look-1202007498/|title=Inside Pandora Premium: How the Online Radio Pioneer Aims to Take on Spotify and Apple Music|last=Roettgers|first=Janko|date=13 March 2017|work=Variety|access-date=7 January 2018}}</ref>
+|78<ref name=":5">{{Cite web|url=http://pandoraforbrands.com|title=Pandora Statistics|date=21 December 2016|publisher=CNET|accessdate=31 August 2015}}</ref>
+|5.48<ref name=":7" />
+| {{Partial|US}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes|Windows, Mac}}{{refn|group=n|Desktop clients only available with ''Pandora One'' subscription}}
+|[[BlackBerry]], [[Bose Corporation|Bose]], [[Chromecast]], [[Android TV]], [[PlayStation]], [[Roku]], [[Sonos]], [[Amazon Echo]], [[Google Home]], [[TiVo digital video recorders|TiVo]], [[Xbox One]]<ref>{{Cite web|url=https://www.pandora.com/everywhere|title=Pandora Everywhere – Device Availability|website=pandora.com|access-date=6 January 2017}}</ref>[[Fitbit]]
+|
+|No
+|-
+|[[Patari.pk]]
+| {{Yes}}
+| {{Yes}}
+| 
+| {{Yes}}
+|0.02
+|
+|
+| {{Yes|Global}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+|
+|
+|No
+|-
+| [[Qobuz]]
+| {{No}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| 40<ref>{{Cite web|url=http://www.qobuz.com/us-en/discover|title=Qobuz - Unlimited high quality streaming.|website=Qobuz}}</ref>
+|
+|
+| {{Partial|France, UK, Netherlands, Germany, Italy, Spain, USA|align=|style=|color=}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| Linn, [[Sonos]], BubbleUPnP
+| 2007
+|Yes
+|-
+| [[QQ Music]]{{refn|group=n|User totals include users of Tencent Music's other music streaming services, Kugou Music and Kuwo Music.}}
+| {{Yes}}
+| {{Yes}}
+| {{Partial}}
+| {{Yes}}
+| 17
+| 657
+| 42.7<ref name="Tencent">{{Cite web|title = Tencent Music Entertainment Group Announces First Quarter 2020 Unaudited Financial Results|url = https://ir.tencentmusic.com/2020-05-11-Tencent-Music-Entertainment-Group-Announces-First-Quarter-2020-Unaudited-Financial-Results|date=2020-05-11|accessdate = 2020-07-29}}</ref>
+| {{Partial}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Bose Corporation|Bose]]
+| 2016
+|
+|-
+| [[ROXI]]
+| {{No}}
+| {{Yes}}
+| {{No}}
+| {{No}}
+| 40<ref>{{Cite web|url=https://roximusicsystem.com/|title=ROXi: Transform the way you enjoy music|website=ROXi - Transform the way you enjoy music}}</ref>
+|
+|
+| {{Partial| UK, USA|align=|style=|color=}}
+| {{No}}
+| {{No}}
+| {{No}}
+| {{No}}
+| [[ROXI]]
+| 2016
+|Yes
+|-
+| [[JioSaavn]]
+| {{Yes}}
+| {{Yes}}
+| {{Partial}} (requires premium account)
+| {{Yes}}
+|30<ref name=":2">{{Cite web|title = Saavn, 'India's Spotify', Reveals It Has 11M Monthly Users And Hires Ex-Google Exec|url = https://techcrunch.com/2015/01/21/saavn-11-million-mau/|website = TechCrunch|accessdate = 29 August 2015|first = Jon|last = Russell}}</ref>
+| 100<ref name="auto1"/>
+|
+| {{Yes|Global}}
+| {{Yes|Global}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+|[[Amazon Echo]], [[Google Nest (smart speakers)|Google Nest]], [[Sonos One]], [[Shazam (application)|Shazam]]
+|2007
+|limited, can listen, but liking songs requires login
+|-
+|[[Sirius XM Holdings|SiriusXM]]
+| {{Yes}} (radio mode)
+| {{Yes}}
+| {{No}}
+|
+|
+|34.9<ref>{{Cite web|url=https://www.billboard.com/articles/business/8550086/siriusxm-earnings-q4-2019-satellite-radio-pandora-subscribers|title=SiriusXM Adds 355,000 Satellite Radio, Loses 88,000 Pandora Subscribers|website=billboard.com|access-date=2 April 2020}}</ref>
+| 
+| {{Partial| Canada, USA|align=|style=|color=}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Bose Corporation|Bose]], [[Sonos]]
+|
+|
+|-
+|[[SoundCloud]]
+| {{Yes}}
+| {{Yes}}
+| {{Partial}}
+| {{Partial|Limited}}
+| 200+<ref>{{cite web |title=SiriusXM Acquires Minority Stake in SoundCloud With $75 Million Investment | url=https://www.billboard.com/articles/business/8550690/siriusxm-invests-75-million-into-soundcloud | date=11 February 2019}}</ref>
+|175<ref>{{Cite news|title = SoundCloud's Valuation Could Top Billion With New Fundraising|url = https://blogs.wsj.com/digits/2014/12/09/soundclouds-valuation-could-top-1-2-billion-with-new-fundraising/|website = WSJ Blogs – Digits|date = 9 December 2014|accessdate = 9 August 2015|first = Evelyn M.|last = Rusli|first2 = Hannah|last2 = Karp|first3 = Douglas|last3 = MacMillan}}</ref>
+|
+| {{Yes|Global}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Sonos]], [[Xbox One]]<ref>{{Cite web|title=SoundCloud / Xbox One App|url=http://help.soundcloud.com/hc/en-us/articles/115000146233|access-date=2020-08-19|website=SoundCloud Help Center|language=en-US}}</ref>
+|
+|No
+|-
+| [[Spotify]]
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+| {{Yes}}
+| 60+<ref name="Spotify">{{Cite web|url=https://newsroom.spotify.com/2020-07-29/spotify-reports-second-quarter-2020-earnings/|title=Spotify Reports Second Quarter 2020 Earnings|date=2020-07-29|accessdate=2020-07-29}}</ref>
+| 299<ref name="Spotify" />
+| 138<ref name="Spotify" />
+| {{Partial}}{{refn|group=r|Albania, Andorra, Argentina, Australia, Austria, Belarus, Belgium, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czech Republic, Denmark, Dominican Republic, Ecuador, El Salvador, Estonia, Finland, France, Germany, Greece, Guatemala, Honduras, Hong Kong, Hungary, Iceland, Indonesia, Ireland, Israel, Italy, Japan, Kazakhstan, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Moldova, Monaco, Montenegro, the Netherlands, New Zealand, Nicaragua, North Macedonia, Norway, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Romania, Russia, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, Taiwan, Thailand, Turkey, Ukraine, United Kingdom, the United States, Uruguay, Vietnam}}<ref name="Spotify-Expansion">{{Cite web|url=https://newsroom.spotify.com/2020-07-14/spotify-is-now-available-in-russia-croatia-ukraine-and-10-other-european-markets/|title=Spotify Is Now Available in Russia, Croatia, Ukraine, and 10 Other European Markets|date=2020-07-14|accessdate=2020-07-29}}</ref>
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes|Windows, Mac, Linux}}
+| [[Bose Corporation|Bose]], [[Palm, Inc.|Palm]], [[Sonos]], [[Symbian]], [[Android TV]], [[Android Auto]], [[CarPlay]], [[Boxee]],<ref>{{cite web |title=Spotify and Boxee, together at last |url=http://www.spotify.com/us/blog/archives/2011/10/14/spmarket-2spotify-and-boxee-together-at-lastspmarket/ |accessdate=14 October 2011 |archive-url=https://web.archive.org/web/20111015102347/http://www.spotify.com/us/blog/archives/2011/10/14/spmarket-2spotify-and-boxee-together-at-lastspmarket/ |archive-date=15 October 2011 |url-status=dead }}</ref> [[Telia Company|Telia]] Digital-TV, Virgin TiVo, [[Linux]],<ref>{{cite web|url=http://news.spotify.com/us/2010/07/12/linux/|title=Spotify for Linux|work=Spotify Blog|accessdate=9 June 2015|archive-url=https://web.archive.org/web/20160402025529/https://news.spotify.com/us/2010/07/12/linux/|archive-date=2 April 2016|url-status=dead}}</ref> [[PlayStation]],<ref name="PlayStation, Meet Spotify">{{Cite web|title = PlayStation, Meet Spotify|url = http://blog.us.playstation.com/2015/01/28/playstation-meet-spotify/|website = PlayStation.Blog|accessdate = 21 July 2015}}</ref> [[Xbox One]], [[BlackBerry]], [[Chromecast]], [[Amazon Echo]], [[Google Home]], [[Tesla, Inc.|Tesla]],<ref name="Introducing Software Version">{{Cite web|title = "Introducing Software Version 10.0"|url=https://www.tesla.com/blog/introducing-software-version-10-0/|website = Tesla.Blog|accessdate = 30 December 2019}}</ref> WebOS, Roku, [[Comcast]] X1<ref name="Spotify" />
+|October 2008
+|Yes
+|-
+|[[Stingray Music]]
+| {{Yes}} (radio mode)
+| {{No}}
+| {{Partial}} (requires premium account)
+|
+| 25+<ref>{{Cite web|url=https://business.stingray.com/background-music|title=Licensed Background Music &#124; Stingray Business|website=business.stingray.com}}</ref>
+|
+| 
+| {{Yes|Global}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Sonos]]
+| 2014
+| Yes (free in Canada and U.S., TV subscription required in other countries)
+|-
+| [[Tidal (service)|Tidal]]
+| {{No}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| 60+<ref>{{cite web |url=https://tidal.com/about |website=Tidal |publisher=Tidal |title=About TIDAL. |access-date=23 April 2019}}</ref>
+|4.2<ref>{{Cite web|url=http://www.digitalmusicnews.com/2016/05/16/tidal-become-major-competitor-spotify-apple-music/|title=Tidal Is Growing Faster Than Apple and Spotify COMBINED|website=Digital Music News|access-date=16 May 2016}}</ref>
+|3<ref>{{Cite news|url=https://variety.com/2018/digital/news/tidal-investigating-potential-data-breach-after-reports-of-inflated-subscriber-and-streaming-numbers-1202815447/|title=Tidal Investigating 'Potential Data Breach' After Reports of Inflated Subscriber and Streaming Numbers|last=Aswad|first=Jem|date=18 May 2018|work=Variety|access-date=20 May 2018}}</ref>
+| {{Partial}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes|Windows, Mac}}
+|[[Sonos]], [[Chromecast]], [[Android TV]]
+|
+|limited, preview only
+|-
+|[[TuneIn]]
+|{{Yes}} (radio mode)
+|{{Partial}}
+|{{No}}
+|{{Partial}} (Requires premium account)
+|
+|75<ref>{{Cite web|url=https://www.prnewswire.com/news-releases/tunein-brings-top-summer-music-festivals-and-artists-directly-to-listeners-through-exclusively-curated-stations-and-new-podcast-series-300650951.html|title=TuneIn Brings Top Summer Music Festivals and Artists Directly To Listeners Through Exclusively Curated Stations and New Podcast Series|last=TuneIn|agency=PR Newswire|access-date=20 May 2018}}</ref>
+|
+|{{Yes|Global}}
+|{{Yes}}
+|{{Yes}}
+|{{Yes}}
+|{{Yes}} (Windows Store)
+|[[Bose Corporation|Bose]], [[Sonos]], [[Xbox One]],<ref name="auto">{{Cite web|url=https://www.microsoft.com/en-gb/p/tunein-radio/9wzdncrfj3sf|title=Get TuneIn Radio - Microsoft Store en-GB|website=Microsoft Store|language=en-gb|access-date=2019-04-23}}</ref> [[PlayStation Vita|PSVita]],<ref name="auto3">{{Cite web|url=https://store.playstation.com/en-gb/search/tunein|title=Search tunein {{!}} Official PlayStation™Store UK|website=store.playstation.com|access-date=2019-04-23}}</ref> [[PlayStation 3|PS3]],<ref name="auto3"/> [[Microsoft HoloLens|HoloLens]],<ref name="auto"/> [[Squeezebox (network music player)|Squeezebox]],<ref>{{cite web |url=https://mysqueezebox.com/appgallery/RadioTime |title=App Gallery - Welcome to mysqueezebox.com! |access-date=2019-10-20 |quote=}}</ref> [[Tesla, Inc.|Tesla]]]<ref name="Introducing Software Version"/>
+|January 2002
+|No
+|-
+|[[Wolfgang%27s_(Vault)|Wolfgang's]]
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+| {{Yes}}
+| 0.2
+|
+| 
+| {{Partial}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Sonos]]
+| 2006
+| {{Yes}}
+|-
+|[[YouTube Music]]
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+| {{Yes}}
+|50<ref>{{Cite web|title=YouTube Music is making it simple to transfer over your Google Play Music library|url=https://youtube.googleblog.com/2020/05/youtube-music-transfer-google-play-music-library.html|access-date=2020-06-15|website=Official YouTube Blog|language=en}}</ref>
+|
+|15<ref>{{Cite web|last=|first=|date=2019-05-08|title=Google Tops 15 Million Music Subscribers as It Chases Spotify|url=https://www.bloomberg.com/news/articles/2019-05-08/google-tops-15-million-music-subscribers-as-it-chases-spotify|url-status=live|archive-url=|archive-date=|access-date=2020-08-09|website=www.bloomberg.com}}</ref>
+| {{Partial}}{{refn|group=r|Argentina, Australia, Austria, Belgium, Bolivia, Brazil, Bulgaria, Canada, Chile, Colombia, Costa Rica, Cyprus, Czech Republic, Denmark, Dominican Republic, Ecuador, El Salvador, Finland, France, Germany, Guatemala, Honduras, Hungary, Hong Kong, India, Ireland, Italy, Japan, Luxembourg, Mexico, Netherlands, New Zealand, Nicaragua, North Macedonia, Norway, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Romania, Russia, South Africa, South Korea, Spain, Sweden, Switzerland, Ukraine, United Kingdom, United States and Uruguay.}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}} (PWA)<ref>https://9to5google.com/2019/10/28/youtube-music-desktop-pwa/</ref>
+|[[Amazon Alexa]], [[Google Home]], [[Sonos]], [[Chromecast]], [[Android TV]], [[Android Auto]]
+|November 2015
+|No
+|- class="sortable wikitable" style="text-align: center; width: auto; margin: auto auto;"
+! Service
+!Free access available
+!Selective streaming
+!Lossless (hi-fi)
+!Track downloads
+!# of tracks (millions)
+!# of users (millions)
+!# of paying users (millions)
+! Regional availability
+! Web
+! Android
+! iOS
+! Desktop
+! Other platforms
+! First launched
+! Requires Login?
+|}
+
+==Discontinued services==
+{| class="sortable wikitable" style="text-align: center; width: auto; margin: auto auto;"
+! Service
+! Reason
+! tlf|Discontinued
+|-
+|[[8tracks.com]]
+|Shut down<ref>{{Cite web|url=https://blog.8tracks.com/2019/12/26/to-everything-there-is-a-season/|title=To everything there is a season|last=Porter|first=David|date=2019-12-26|website=8tracks blog|language=en|access-date=2020-02-10}}</ref>
+| {{dts|31 December 2019}}
+|-
+| [[Radical.fm]]
+| Shut down<ref>{{cite web |last1=Roettgers |first1=Janko |last2=Roettgers |first2=Janko |title=Radical.fm Shuts Down After Tip Jar Model Fails |url=https://variety.com/2018/digital/news/radical-fm-shuts-down-1202861883/ |website=Variety |accessdate=10 November 2019 |language=en |date=29 June 2018}}</ref>
+| {{dts|29 June 2018}}
+|-
+| [[Xbox Music]]
+| Succeeded by [[Groove Music]]<ref name="arstechnica.co.uk">{{cite web|url=http://arstechnica.co.uk/information-technology/2015/07/xbox-music-is-now-groove-as-microsoft-recycles-and-rebrands/|title=Xbox Music is now Groove, as Microsoft recycles and rebrands|work=Ars Technica UK}}</ref>
+| {{dts|6 July 2015}}
+|-
+|[[iTunes Radio]]
+|Integrated into [[Apple Music]]<ref name="PlayStation, Meet Spotify" />
+| {{dts|30 June 2015}}
+|-
+|[[Beats Music]]
+|Succeeded by [[Apple Music]]<ref name=":3">{{Cite web|title = Beats Music Tells Users To Switch To Apple Music|url = https://techcrunch.com/2015/06/08/beat-it/|website = TechCrunch|accessdate = 21 July 2015|first = Josh|last = Constine}}</ref>
+| {{dts|30 June 2015}}
+|-
+|[[Blinkbox Music]]
+|Under administration<ref>{{Cite web|title = Blinkbox Music goes into administration|url = http://www.cityam.com/217751/former-tesco-asset-blinkbox-music-goes-administration-less-six-months-after-sale|accessdate = 31 July 2015}}</ref>
+| {{dts|11 June 2015}}
+|-
+| [[Groove Music]]
+| Shut down<ref>{{Cite web|url=https://www.pcworld.com/article/3229973/what-groove-users-need-to-do-now-that-microsoft-is-killing-groove-music-pass.html|title=What Groove users need to do now that Microsoft is killing Groove Music Pass|date=2017-10-02|website=PCWorld|language=en|access-date=3 October 2017}}</ref>
+| {{dts|31 December 2017}}
+|-
+| [[Grooveshark]]
+| Shut down<ref>{{cite web|url=http://grooveshark.com/|title=Grooveshark|accessdate=9 June 2015|url-status=dead|archiveurl=https://web.archive.org/web/20140329002832/http://grooveshark.com/|archivedate=29 March 2014}}</ref>
+| {{dts|30 April 2015}}
+|-
+|[[Google Play Music]]
+|Merged with [[YouTube Music]]<ref>{{Cite web|title=YouTube Music adds a transfer option ahead of Google Play Music’s shutdown this year|url=https://social.techcrunch.com/2020/05/12/youtube-music-adds-a-transfer-option-ahead-of-google-play-musics-shutdown-this-year/|access-date=2020-08-09|website=TechCrunch|language=en-US}}</ref>
+|Q4 2020
+|-
+|[[Guvera]]
+|Shut down<ref>{{Cite news|url=http://www.afr.com/technology/guvera-ceases-operations-cofounder-claes-loberg-leaves-20170512-gw40oq|title=Guvera shuts down as co-founder leaves|date=12 May 2017|work=Financial Review|access-date=9 August 2017}}</ref>
+| {{dts|12 May 2017}}
+|-
+| [[rara.com|Rara]]
+| Shut down
+| {{dts|29 March 2015}}
+|-
+| [[Last.fm]]
+| Discontinued radio streaming service; now a database for tracking listening histories<ref>{{cite web|url=http://www.last.fm/announcements/subscriptions2014|title=Changes to Last.fm Subscriptions|work=Last.fm|accessdate=9 June 2015}}</ref>
+| {{dts|28 April 2014}}
+|-
+| [[Batanga Radio]]
+| Shut down<ref>{{Cite web|url=http://www.bradio.com/|title=Bradio|website=www.bradio.com}}</ref>
+| {{dts|25 December 2017}}
+|-
+|[[MixRadio]]
+|Shut down<ref>{{cite web|url = http://linecorp.com/en/pr/news/en/2016/1235|title=MixRadio|accessdate= 16 February 2016}}</ref>
+| {{dts|21 March 2016}}
+|-
+|[[Music Unlimited]]
+|Replaced by PlayStation Music powered [[Spotify]].<ref>{{Cite web|title = Sony closing Music Unlimited in favor of Spotify-powered service (update)|url = https://www.engadget.com/2015/01/28/playstation-spotify/|website = Engadget|accessdate = 3 August 2015}}</ref>
+| {{dts|29 March 2015}}
+|-
+|[[Musicovery]]
+|Shut down the interactive radio service and now a music playlist supplier.
+|{{dts|2 January 2017}}
+|-
+| [[Electric Jukebox]]
+| Succeeded by [[ROXI]]
+| {{dts|1 August 2017}}
+|-
+|[[WiMP]]
+|Integrated into [[Tidal (service)|Tidal]]<ref name=":0">{{Cite web|title = Tidal Claims Three Million Global Subscribers, Finally Releases Kanye's 'Pablo' Stream Numbers |url = https://www.billboard.com/articles/columns/hip-hop/7317826/tidal-three-million-global-subscribers-kanye-west-pablo-streams|accessdate = 29 March 2016}}</ref>
+| {{dts|23 March 2015}}
+|-
+|[[Simfy]]
+|Shut down. Temporarily, the website referred users to [[Deezer]].<ref>{{Cite web|title = Simfy Music – Deine Musik. Jederzeit. Überall.|url = http://www.simfy.de|website = Simfy|accessdate = 31 July 2015|first = Simfy AG|last = i.L.}}</ref>
+| {{dts|1 March 2015}}
+|-
+|[[MOG (online music)|MOG]]
+|Succeeded by [[Beats Music]] and subsequently [[Apple Music]]<ref name=":3" /><ref>{{Cite news|title = Beats Music sets shutdown date for MOG music service|url = https://www.usatoday.com/story/tech/personal/2014/01/21/mog-music-service-ends-april-15/4692309/|accessdate = 31 July 2015 | work=USA Today|date=21 January 2014}}</ref>
+| {{dts|21 January 2015}}
+|-
+|[[Songza]]
+|Merged into [[Google Play Music]]<ref>{{Cite web|title = Google brings Songza's best feature to Play Music|url = https://www.theverge.com/2014/10/21/7027707/google-brings-best-songza-feature-to-play-music|website = The Verge|accessdate = 31 July 2015}}</ref>
+| {{dts|21 October 2014}}
+|-
+| [[Ubuntu One Music Store|Ubuntu One Music]]
+| Discontinued<ref name="Ubuntu One Music">{{cite web|url=http://blog.canonical.com/2014/04/02/shutting-down-ubuntu-one-file-services/|title=Canonical Blog|accessdate=9 June 2015}}</ref>
+| {{dts|2 April 2014}}
+|-
+| [[Zune Marketplace]]
+| Succeeded by [[Xbox Music]] and subsequently by [[Microsoft Groove|Groove]]<ref>{{cite web|url=https://www.engadget.com/2012/10/15/xbox-music-hands-on/|title=Xbox Music heads to Xbox 360 first tomorrow, PC / tablets on Oct. 26, WP8 soon after; we go hands-on|work=Engadget|publisher=AOL}}</ref>
+| {{dts|15 October 2012}}
+|-
+| [[Mflow]]
+| Succeeded by [[Bloom.fm]]
+| {{dts|1 January 2012}}
+|-
+| [[Thumbplay]]
+| Acquired by [[iHeartRadio]]<ref>{{Cite web|title = Clear Channel Radio Announces Acquisition of Thumbplay's Cloud-Based Music Business {{!}} Business Wire|url = http://www.businesswire.com/news/home/20110228007392/en/Clear-Channel-Radio-Announces-Acquisition-Thumbplay%E2%80%99s-Cloud-Based|website = www.businesswire.com|accessdate = 18 August 2015}}</ref>
+| {{dts|1 March 2011}}
+|-
+| [[Rdio]]
+| Shut down / Assets purchased by [[Pandora Radio|Pandora]]
+| {{dts|22 December 2015}}<ref>{{Cite web|title = Rdio shuts down December 22nd, provides a way to save your music|url = http://betanews.com/2015/12/19/rdio-shuts-down-december-22nd-provides-a-way-to-save-your-music/|website = betanews.com|accessdate = 22 December 2015}}</ref>
+|-
+|[[Rhapsody (online music service)|Rhapsody]]
+|Succeeded by [[Napster (streaming music service)|Napster]]<ref>{{Cite web|url=http://blog.napster.com/2016/06/14/rhapsody-becoming-napster/|title=Rhapsody is Becoming Napster|date=14 June 2016|website=Napster|access-date=9 August 2017}}</ref>
+| {{dts|14 June 2016}}
+|-
+|[[thesixtyone]]
+|Shut down
+| {{dts|1 May 2017}}  
+|-
+|[[Yahoo! Music Unlimited]]
+|Shut down (users offered option to transfer account to Rhapsody)
+| {{dts|30 September 2008}}
+|-
+|[[LiveXLive|Slacker Radio]]
+|Succeeded by LiveXLive<ref>{{Cite web|url=https://www.androidpolice.com/2019/04/25/slacker-radio-rebranded-as-livexlive-focusing-on-streaming-live-performances-apk-download/|title=Slacker Radio rebranded as LiveXLive, focusing on streaming live performances [APK Download]|date=25 April 2019}}</ref>
+| {{dts|25 April 2019}}
+|}
+
+==See also==
+* [[Comparison of online music stores]]
+* [[Comparison of online music lockers]]
+* [[List of online music databases]]
+* [[List of music software]]
+
+== Notes ==
+{{Reflist|group=n}}
+
+=== Regional availability ===
+{{Reflist|group=r}}
+
+==References==
+{{Reflist|30em}}
+
+{{Music streaming services}}
+
+[[Category:Music streaming services|*]]
+[[Category:Online content distribution|Music]]
+[[Category:Online services comparisons|Music streaming]]

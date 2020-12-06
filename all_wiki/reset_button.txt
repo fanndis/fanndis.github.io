@@ -1,0 +1,37 @@
+{{for|the plot device|Reset button technique}}
+{{Refimprove|date=September 2007}}
+
+In [[electronics]] and [[technology]], a '''reset button''' is a [[Push-button|button]] that can [[Reset (computing)|reset]] a [[machine|device]]. On [[video game console]]s, the reset button restarts the game, losing the player's unsaved progress. On personal computers,<ref group=NB>On [[IBM mainframes]] '''reset''' neither clears memory nor initiates an [[Initial Program Load|IPL]].</ref> the reset button clears the memory and reboots the machine forcibly. Reset buttons are found on [[circuit breaker]]s to reset the circuit. This button can cause data corruption which is why it often doesn't exist on many machines. Usually, in computers and other electronic devices, it is present as a small button, possibly recessed into the case or only accessible by a pin or similarly thin object, to prevent it being pressed accidentally.
+
+==Personal computers==
+[[Image:Reset button.svg|120px|thumb|The icon denoting the power or [[Reset (computing)|reset function]] on most devices]]
+
+The reset button could be an actual button or concept. The reset button would typically kick off a [[soft boot]], instructing the computer to go through the process of shutting down, which would clear memory and reset devices to their initialized state. Contrary to the 'Power Button', which would simply remove power immediately.
+
+Pressing the reset button would be preferable to the power button, which could potentially leave a device in the middle of some operation and subject to defect. In most commodity hardware, the consumer would expect the device to be resilient enough to 'reset' when power was  restored.
+
+Depending on the architecture, the reset button might have different effects. On PCs, usually it is connected to the [[motherboard]], and when pressed it sends a reset signal to all peripherals.
+
+Many newer computers have no separate button for resetting the computer; it is integrated with the power button. On most newer operating systems, the user can customize what happens when they press the power button. For example, they may set it to 'Do nothing', 'restart', 'shutdown', or 'stand by'. This is only for pressing the button once; on most computers the power button can remove power immediately if held down for a few seconds. When the OS hangs, the reset button is no longer "integrated with the power button".
+
+Many early microcomputers sported a reset button or key, such as the Apple II, TRS-80, and Atari 8-bit. Commodore did not include one on their computers until the CBM-II line.
+
+The original IBM PC had no hardware reset button and IBM did not include one on any of their personal computers until the early 1990s, however many clones began sporting them early on. Some operating systems can be rebooted by pressing Ctrl+Alt+Del, which triggers the BIOS startup routines and re-initializes and reboots the computer, but does not invoke the Power On Start Up Test (POST) or clear memory. Hardware reset buttons on PCs work by pulling the reset line on the CPU, which resets it and causes the computer to reboot. Unlike Ctrl+Alt+Del, pressing the reset button causes the BIOS to perform the POST check.
+
+Reset buttons or keypresses on any computer cannot erase the contents of system RAM, which can only be done by powering the computer off and waiting approximately 10 seconds for residual current in the RAM chips to dissipate.
+
+==Game consoles==
+
+On game consoles, many times it is simply a software signal. For example, on the [[Nintendo 64]] and the [[Nintendo GameCube|GameCube]], it instructs the currently running software (game or console BIOS) to restart forcibly, usually fading out the volume and/or screen brightness for a cleaner effect. On the [[PlayStation 2]], the button is by default programmed to restart the whole system, but, especially on games using the Network Adapter/HDD, it might clean up the connection, unmount hard drive partitions, and remove power from the hard drive before restarting the machine. In the latter case, many times it switches off the system instead of restarting it (the reset button is actually also the on/off button, but under normal circumstances, the button needs to be held for 2–4 seconds to turn the system off). However, older systems would turn off with a single press or flick of the button/switch.
+
+On certain games (especially those that use [[autosave]]), one can gain an advantage by using the reset button. If a mistake is made, such as getting a character killed, the reset button can be pressed instead of [[saved game|saving]], and start from a point before the mistake occurred.  Purists consider this poor sport, a sentiment that manifests itself as an [[Easter egg (media)|easter egg]] in the [[Animal Crossing (series)|''Animal Crossing'' series]].  In this series, a character named [[Mr. Resetti]] appears if the player terminates the playing session other than  by the save-and-quit procedure defined by the game.
+
+==See also==
+* [[Power symbol]]
+* [[RC snubber]]
+
+==Notes==
+{{Reflist|group=NB}}
+
+[[Category:Computing input devices]]
+[[Category:Video game consoles]]

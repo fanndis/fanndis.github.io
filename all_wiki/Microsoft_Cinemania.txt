@@ -1,0 +1,35 @@
+{{short description|Film database released annually by Microsoft between 1992 and 1997}}
+'''Microsoft Cinemania''' was an interactive movie guide as part of the [[Microsoft Home]] series of reference and educational [[CD-ROM|multimedia application CD-ROM]] titles produced by [[Microsoft]] and published annually beginning in 1992 until 1997.
+
+== History ==
+The software was available for both Windows and Macintosh. Early versions for Windows were 16-bit, Cinemania 96 had both 16-bit and 32-bit EXEs for compatibility with Windows 3.1 and native Windows 95 support respectively. The last edition of Cinemania was released in 1997 and is the only purely 32-bit version. This version was supported on [[Windows 95]] or [[Windows NT]], or [[Apple Macintosh]]es running [[System 7 (Macintosh)|System 7]].<ref name=":0">{{cite press release|title=Lights! Camera! Action! Microsoft Debuts Cinemania 97, Latest Edition of Top-Selling Guide to Movies and Movie Makers|date=1996-09-17|publisher=[[Microsoft]] PressPass|url=http://news.microsoft.com/1996/09/17/lights-camera-action-microsoft-debuts-cinemania-97-latest-edition-of-top-selling-guide-to-movies-and-movie-makers/|accessdate=2014-12-30}}</ref> [[Melinda Gates]], wife of [[Bill Gates]], worked on the development of this software in the early 1990s.<ref>{{Cite book|title=Melinda Gates : Philanthropist and Education Advocate.|last=Cathleen.|first=Small|date=2017|publisher=Cavendish Square Publishing LLC|isbn=9781502627087|location=New York, NY|oclc=1039680502}}</ref>
+
+== Content ==
+The software was mainly a database of films, in a similar fashion to the [[Internet Movie Database]], and gave descriptions of the films and who starred in them. Most of this information was not readily accessible before broadband internet.
+
+Cinemania contained professional material by:
+* [[Leonard Maltin]]: 19,000 reviews from his ''Movie and Video Guide''
+* [[Roger Ebert]]: over 1300 reviews from his ''Video Companion'' (starting from the 2nd edition, published as Cinemania '94)
+* [[Pauline Kael]]: 2500 reviews from her ''5001 Nights at the movies'' book (also starting with Cinemania '94)
+* [[Baseline (database)|Baseline]]: ''The Motion Picture Guide'' and ''The Encyclopedia of Film''
+* [[James Monaco]]: ''How to Read a Film''
+* [[Ephraim Katz]]: ''The Film Encyclopedia''
+
+The program also included over 2000 [[image|still images]] for movies and actors, a large number of sound clips, dialogues and soundtracks, and a smaller selection of full-motion [[video]] clips. As the amount of material increased with each new edition, the quality of media tended to decrease, in order to fit everything on a single CD-ROM. Cinemania 97 also had guided tours from numerous celebrities and online features which made use of an associated [[MSN]] website. It could be updated monthly over the Internet, which brought new movies, new material about older movies and new celebrity tours.<ref name=":0" />
+
+==References==
+{{reflist}}
+
+== External links ==
+
+* https://www.wired.com/1994/11/cinemania-94/
+* http://ew.com/article/1995/11/24/microsoft-cinemania-96/
+* http://www.technofile.com/articles/cinemania.html
+* https://www.pcworld.pl/news/Microsoft-Cinemania-97,297664.html
+* http://articles.latimes.com/1995-04-02/entertainment/ca-49831_1_film-clips
+* http://adage.com/article/news/microsoft-ceases-production-cinemania-music-central/4935/
+* http://www.denofgeek.com/movies/microsoft-cinemania/36973/remembering-microsoft-cinemania
+{{Microsoft}}
+
+[[Category:Discontinued Microsoft software|Cinemania]]
+[[Category:Educational software for Windows]]

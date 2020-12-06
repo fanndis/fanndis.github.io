@@ -1,0 +1,61 @@
+{{Use mdy dates|date=December 2019}}
+{{Infobox SCOTUS case
+  |Litigants=Strate v. A-1 Contractors
+  |ArgueDate=January 7
+  |ArgueYear=1997
+  |DecideDate=April 28
+  |DecideYear=1997
+  |FullName=Strate, Associate Tribal Judge, Tribal Court of the Three Affiliated Tribes of the Fort Berthold Indian Reservation, Et Al. v. A-1 Contractors Et Al.
+  |USVol=520
+  |USPage=438
+  |ParallelCitations=117 S. Ct. 1404; 137 [[L. Ed. 2d]] 661
+  |Prior=''A-1 Contractors v. Strate'', 76 [[F.3d]] [https://law.justia.com/cases/federal/appellate-courts/F3/76/930/519989/ 930] ([[8th Cir.]] 1996); [[Certiorari|cert]]. granted, {{ussc|518|1056|1996|el=no}}.
+  |Subsequent=
+  |Holding=
+  |Majority=Ginsburg
+  |JoinMajority=''unanimous''
+  |Dissent=
+  |JoinDissent=
+  |LawsApplied=
+}}
+
+'''''Strate v. A-1 Contractors''''', 520 U.S. 438 (1997), is a [[Supreme Court of the United States|United States Supreme Court]] case addressing [[Tribal sovereignty in the United States|Tribal courts]]' adjudicatory authority over civil matters between nonmembers of the Tribe that take place on public highways in Indian Country.<ref>{{cite book |editor1-last=Dodson |editor1-first=Scott |title=The Legacy of Ruth Bader Ginsburg |date=2015 |publisher=Cambridge University Press |location=New York, NY |isbn=978-1-107-06246-7 |page=168 |url=https://www.google.com/books/edition/The_Legacy_of_Ruth_Bader_Ginsburg/BNMOBgAAQBAJ?hl=en&gbpv=1&dq=ginsburg+%22strate%22&pg=PA168&printsec=frontcover |accessdate=September 23, 2020}}</ref><ref>{{cite news |title=RBG’s Mixed Record on Race and Criminal Justice |url=https://www.themarshallproject.org/2020/09/23/rbg-s-mixed-record-on-race-and-criminal-justice |accessdate=September 23, 2020 |work=[[The Marshall Project]] |date=September 23, 2020}}</ref><ref>{{ussc|name=Strate v. A-1 Contractors|volume=520|page=438|pin=|year=1997}}.</ref> Applying [[Montana v. United States|Montana v. US]], the Court held that, absent Congressional authorization, Tribal courts cannot adjudicate civil matters between nonmembers that occur on state-maintained public highways passing over reservation land.<ref name=Strate442>520 U.S. at 442.</ref> [[Ruth Bader Ginsburg|Justice Ginsburg]] delivered the unanimous decision of the Court.<ref>520 U.S. at 441.</ref>
+
+== Facts ==
+In November 1990, on a strip of state highway passing through the [[Fort Berthold Indian Reservation]], a gravel truck, owned by A-1 Contractors and driven by their employee Lyle Stockert allegedly struck Gisela Frederick's car.<ref name=Strate442/>
+
+Seriously injured, Fredericks spent 24 days in the hospital.<ref name=Strate443>520 U.S. at 443.</ref> In May 1991, Fredericks filed a personal injury lawsuit in the Tribal Court for the [[Three Affiliated Tribes]] of the Fort Berthold Reservation. She, and her children, who filed a [[loss of consortium]] claim, sought over $13&nbsp;million in damages.<ref>520 U.S. at 444</ref>
+
+The State of North Dakota maintained the highway and was granted a right-of-way from the United States federal government.<ref>520 U.S. at 442–43.</ref>Although A-1 Contractors was subcontracting for a Tribal owned corporation at the time of the accident, it was not Indian-owned and its principal place of business was outside the reservation. The driver was not a member of the Tribe. Nor was Gisela Fredricks, although her children and her late husband were all Tribe members.<ref name=Strate443/>
+
+== Opinion ==
+The Court held that the [[Montana v. United States|''Montana'']] Rule, which governs whether Tribes have civil jurisdiction over nonmembers on fee-simple land, also applied to the state-maintained public highway because the terms of the federal right of way grants the State control over traffic. The Tribe reserved the right to construct crossings, but did not reserve any rights to "dominion or control" over the right-of-way.<ref>520 U.S. at 440.</ref>  
+
+Applying ''Montana'', Tribes do not have civil jurisdiction over matters involving non-Tribe members and occurring in areas within their reservation where they do not have dominion or control unless (1) the nonmembers "enter consensual relationships with the tribe or its members, through commercial dealing, contracts, leases, or other arrangements"<ref>520 U.S. at 456–57.</ref> or (2) the nonmember's conduct "threatens or has some direct effect on the political integrity, the economic security, or the health or welfare of the tribe."<ref name=Strate457>520 U.S. at 457–58.</ref> The Court found that neither exception applied. 
+
+First, the Court found no "consensual relationship" for a car accident. Even though A-1 Contractors was in a consensual relationship with the Tribe as a subcontractor for a Tribally-owned company, Fredericks was not a party to this contract. The court differentiates the accident from prior case law where the "consensual relationship" exception applied, such as ''[[Williams v. Lee]]''; These cases typically involve sales taxes or taxes for doing business on the reservation.<ref>520 U.S. at 457.</ref> 
+
+Second, although the Court recognized that "driv[ing] carelessly on a public highway running through a reservation endanger[s] all in the vicinity, and surely jeopardize[s] the safety of tribal members", this concern is not enough of a threat to the welfare of the Tribe to qualify as an exception under ''Montana''.<ref name=Strate457/> Instead, the Court quotes narrowing language from ''Montana'', asserting that "a tribe's inherent power does not reach beyond what is necessary to protect tribal self-government or to control internal relations."<ref>520 U.S. at 459 (brackets omitted).</ref>
+
+== See also ==
+
+* ''[[Oliphant v. Suquamish Indian Tribe]]''
+* ''[[Montana v. United States]]''
+* ''[[Atkinson Trading Co. v. Shirley]]''
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{caselaw source
+ | case = ''Strate v. A-1 Contractors'', {{ussc|520|438|1997|el=no}}
+ | courtlistener =https://www.courtlistener.com/opinion/118105/strate-v-a-1-contractors/
+ | justia =https://supreme.justia.com/cases/federal/us/520/438/
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep520/usrep520438/usrep520438.pdf
+ | oyez =https://www.oyez.org/cases/1996/95-1872
+ }}
+
+[[Category:1997 in United States case law]]
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Rehnquist Court]]
+[[Category:Mandan, Hidatsa, and Arikara Nation]]

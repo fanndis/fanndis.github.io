@@ -1,0 +1,82 @@
+{{about|the Google subsidiary|the computer term|double-click|the nerd-folk duo|The Doubleclicks}}
+{{short description|Subsidiary of Google that provides Internet ad services}}
+{{Use mdy dates|date=June 2019}}
+{{Infobox company
+| name   = DoubleClick 
+| logo   = File:Doubleclick.svg
+| type   = [[Subsidiary]] of [[Google]]
+| parent         = [[Google]] ([[Alphabet Inc.]])
+| foundation     = {{start date and age|1996|2}}<br>[[New York City]]| location       = New York City<ref>{{cite web|last1=Cox|first1=Beth|title=DoubleClick Reportedly to Relocate in New York City|url=https://www.clickz.com/doubleclick-reportedly-to-relocate-in-new-york-city/79639/|website=ClickZ|accessdate=16 December 2017}}</ref>
+| industry       = [[Online advertising]]
+| key_people     = – Stephanie Abramson, ''Executive VP and General Counsel''<br/>– Neal Mohan, '' Senior VP of Strategy and Product Development''<br/>– Stuart Frankel, ''Senior VP of DoubleClick & GM of Performics''<br/>– John M. Rehl, ''Senior VP, Global Technical Services''
+| products       = DART family includes DFP (For Publishers), DFA (For Advertisers), DS (DART Search), Motif (Rich Media), DE (Enterprise), Sales Manager (Publisher), Media Visor (Advertisers), Adapt (Publishers), Doubleclick Advertising Exchange (Both Publishers & Advertisers)
+| homepage       = {{Official website}}
+
+}}
+
+'''DoubleClick''' was a company acquired by [[Google]] in 2007 which developed and provided Internet [[ad serving]] services. Its clients included agencies, marketers and publishers who served businesses like [[Microsoft]], [[General Motors]], [[Coca-Cola]], [[Motorola]], [[L'Oréal]], [[Palm, Inc.|Palm]], [[Apple Inc.|Apple]], [[Visa Inc.|Visa]], [[Nike, Inc.|Nike]], and [[Carlsberg Group|Carlsberg]], among others.
+
+DoubleClick was founded in 1995 by [[Kevin O'Connor (entrepreneur)|Kevin O'Connor]] and [[Dwight Merriman]] and had headquarters in [[New York City]], [[United States]]. It was formerly listed as "DCLK"<ref>{{Cite web|url=https://www.nasdaq.com/markets/ipos/company/doubleclick-inc-7108-5111|title=DOUBLECLICK INC (DCLK) IPO|website=NASDAQ.com|language=en-us|access-date=2018-07-26}}</ref> on the Nasdaq Stock Market ([[NASDAQ]]), and was initially purchased by [[private equity]] firms [[Hellman & Friedman]] and [[JMI Equity]] in July 2005.
+
+On March 11, 2008, Google acquired DoubleClick for $3.1 [[billion]]. In June 2018, Google announced plans to rebrand its ads platforms, and DoubleClick was merged into the new [[Google Marketing Platform]] brand.<ref>{{Cite news|url=https://variety.com/2018/digital/news/google-doubleclick-adwords-rebranding-1202859088/|title=Google Killing Off DoubleClick, AdWords Names in Rebranding of Ad Products|last=Spangler|first=Todd|date=2018-06-27|work=Variety|access-date=2018-07-27|language=en-US}}</ref> Core products adopted new names. DoubleClick Bid Manager became Display and Video 360, DoubleClick Search became Search Ads 360, and DoubleClick for Publishers (DFP) became Google Ad Manager 360.<ref>{{Cite web|url=https://searchengineland.com/google-is-retiring-the-adwords-doubleclick-brands-in-a-major-rebranding-aimed-at-simplification-301073|title=Google is retiring the AdWords & DoubleClick brands in a major rebranding aimed at simplification|date=2018-06-27|website=Search Engine Land|access-date=2019-09-08}}</ref>
+
+==History==
+
+=== Early years ===
+In 1995, Kevin O'Connor and Dwight Merriman developed the concept for DoubleClick in O'Connor's basement. The pair created a system to display banner ads across a network of websites and track their performance to better target internet users.<ref name=":1">{{Cite web|url=https://www.forbes.com/sites/jjcolao/2013/07/24/gilt-10gen-doubleclick-meet-the-duo-behind-new-yorks-most-successful-tech-companies/|title=Gilt, MongoDB, DoubleClick: Meet The Duo Behind New York's Biggest Tech Companies|last=Colao|first=J.J.|date=December 16, 2017|website=Forbes}}</ref> The product caught the attention of entrepreneur Kevin Ryan, who later joined as the company's CFO and later became its CEO.<ref name=":1" />
+
+Later that year, O'Connor and Merriman met Fergus O'Daily, the CEO of Poppe Tyson. Poppe Tyson had created an Interactive Sales division, but lacked the technology to deliver online ads across its network of client's sites. O'Connor, Merriman, and O'Daily decided to merge the two companies.<ref name=":0">{{Cite news|url=http://adage.com/article/adage-encyclopedia/modem-media-poppe-tyson/98782/|title=Modem Media Poppe Tyson|access-date=2017-09-07|language=en}}</ref><ref>{{Cite book|title=The Click: A Memoir and Lessons Learned During the Great Internet Boom|last=Sidor|first=David|publisher=iUniverse|year=2004|isbn=978-0-595-32784-3|pages=5}}</ref> The merger caused some issues at Poppe Tyson, however, because it meant that Poppe's sales force would compete against the internal sales teams of the websites it served. To remedy the situation, in November 1995 they spun off DoubleClick as an independent, wholly owned subsidiary.<ref name=":0" /> DoubleClick was founded as one of the earliest known [[Application Service Provider]] (ASP) for internet "ad-serving"—primarily banner ads.<ref>{{Cite book|url=https://books.google.com/?id=1FC9FRxlnckC&pg=PA16&lpg=PA16|title=The Definitive Guide to Google AdWords: Create Versatile and Powerful Marketing and Advertising Campaigns|last=Weller|first=Bart|last2=Calcott|first2=Lori|date=2012-07-13|publisher=Apress|isbn=9781430240150|language=en}}</ref>
+
+=== Early developments ===
+DoubleClick launched an IPO on the NASDAQ under the "DCLK" ticker symbol in early 1998.<ref>{{Cite news|url=https://www.zdnet.com/article/doubleclick-enjoys-banner-ipo/|title=DoubleClick enjoys banner IPO {{!}} ZDNet|last=Staff|work=ZDNet|access-date=2018-09-10|language=en}}</ref> In June 1999, DoubleClick announced that it would merge with Abacus Direct Corp., which marketed consumer-purchasing data to catalog firms.<ref>{{Cite web|url=https://www.wsj.com/articles/SB92931652622688372|title=DoubleClick, Abacus Direct Are Set To Merge in $1 Billion Stock Deal|last=Petersen|first=Andrea|date=14 June 1999}}</ref> Soon after, privacy groups complained that DoubleClick's plan to combine its online profiling information with offline information gathered by Abacus Direct would violate privacy rules, as it would allow the company to match a person's identity with their online habits, which it tracks through cookies.<ref>{{Cite news|url=https://adage.com/article/news/ftc-concludes-doubleclick-investigation/31935/|title=FTC concludes DoubleClick investigation|access-date=2018-10-19|language=en}}</ref><ref name="cookiemonster">{{cite web|url=http://www.slate.com/id/2129656/|title=Cookie Monsters|last=Penenberg|first=Adam L.|date=7 November 2005|via=Slate}}</ref> In February 2000, The FTC announced it had launched an investigation into the matter.<ref>{{Cite news|url=https://www.nytimes.com/2000/02/17/technology/us-investigating-doubleclick-over-privacy-concerns.html|title=U.S. Investigating DoubleClick Over Privacy Concerns|access-date=2018-10-19|language=en}}</ref> The investigation was concluded in early 2001, with the FTC stating that it found no evidence that DoubleClick used or disclosed consumers personal identifying information.<ref>{{Cite web|url=https://abcnews.go.com/Technology/story?id=99060&page=1|title=FTC Closes DoubleClick Investigation|date=2006-01-07|website=ABC News|language=en|access-date=2018-10-19}}</ref><ref>See In re DoubleClick Inc. Privacy Litigation, 154 F. Supp. 2d 497, 505–06 (S.D.N.Y. 2001)</ref>
+
+In April 2005, [[Hellman & Friedman]], a San Francisco-based private equity firm, announced its intent to acquire the company for $1.1 billion.<ref name=":2">{{Cite news|url=https://adage.com/article/digital/doubleclick-acquired-1-1-billion/45636/|title=DOUBLECLICK ACQUIRED FOR $1.1 BILLION|access-date=2018-10-19|language=en}}</ref> Following the acquisition, the company was separated into two divisions, an internet ad-management business and a data-solutions{{buzzword inline|date=September 2019}} business for direct marketers.<ref name=":2" />
+
+===Acquisition by Google, Inc.===
+[[Google]] announced on April 13, 2007 that it had come to a definitive agreement to acquire DoubleClick for US$3.1 billion in cash.<ref>{{cite web|url=http://www.google.com/intl/en/press/pressrel/doubleclick.html |title=Google to Acquire DoubleClick – News announcements – News from Google – Google |accessdate=2013-11-14}}</ref><ref>{{Cite news|url=https://www.nytimes.com/2007/04/14/technology/14DoubleClick.html|title=Google Buys DoubleClick for $3.1 Billion|last=Helft|first=Louise Story and Miguel|access-date=2018-10-19|language=en}}</ref> The deal raised concerns surrounding competition with both the FTC and the European Union. In May 2007, the FTC requested additional information about the deal after it was urged by competitors, including Microsoft,<ref>{{cite web|url=http://adage.com/digital/article?article_id=120800|title=Microsoft: DoubleClick Deal Will Bring New Meaning to 'Being Googled' &#124; Digital - Advertising Age|last=Teinowitz|first=Ira|date=2007-09-27|publisher=Adage.com|accessdate=2013-11-14}}</ref> who believed it would give Google too much control over online advertising.<ref>{{Cite news|url=https://www.reuters.com/article/idUSN1832669720070719|title=US lawmakers plan Google-Doubleclick deal hearings|last=Editorial|first=Reuters|work=U.S.|access-date=2018-10-19|language=en-US}}</ref>  On December 20, 2007, the [[Federal Trade Commission|FTC]] approved Google's purchase of DoubleClick from its owners [[Hellman & Friedman]] and [[JMI Equity]], saying, "after carefully reviewing the evidence, we have concluded that Google's proposed acquisition of DoubleClick is unlikely to substantially lessen competition."<ref>{{cite web|last=Bartz |first=Diane |url=https://www.reuters.com/article/mergersNews/idUSN2039512220071220 |title=Google wins antitrust OK to buy DoubleClick |publisher=Reuters |date=2007-12-20 |accessdate=2013-11-14}}</ref> [[European Union]] regulators granted approval on March 11, 2008, and Google completed the acquisition later that day.<ref>{{Cite news|url=https://www.reuters.com/article/us-google-doubleclick-eu-idUSBFA00058020080311|title=Google closes DoubleClick merger after EU approval|last=Lawsky|first=David|work=U.S.|access-date=2018-10-19|language=en-US}}</ref> On April 2, 2008, Google announced it would cut 300 jobs at DoubleClick due to organizational redundancies. Selected employees would be matched within the Google organization as per position and experience.<ref>{{cite web|last=Mills |first=Elinor |url=https://www.cnet.com/news/google-to-lay-off-300-at-doubleclick|title=Google to lay off 300 at DoubleClick &#124; News Blogs - CNET News |publisher=News.com |date=2008-04-02 |accessdate=2020-06-04}}</ref>
+
+In 2007, shortly after the announcement of the acquisition, it was reported that DoubleClick had been serving ads designed to trick users into buying malware. This occurred after a malicious website tricked several name-brand websites into serving the ads.<ref>{{Cite web|url=https://www.theregister.co.uk/Print/2007/11/13/doubleclick_distributes_malware/|title=DoubleClick caught supplying malware-tainted ads • The Register|website=www.theregister.co.uk|language=en|access-date=2018-10-19}}</ref>
+
+==Products==
+{{more citations needed|section|date=February 2019}}
+DoubleClick offers technology products and services that are sold primarily to [[advertising agencies]] and [[Mass media|media]].<ref>{{Cite web|url=https://www.businessinsider.com/google-brings-doubleclick-to-ooh-billboards-2015-10|title=Google is bringing DoubleClick to billboard ads for the first time — which could be huge for outdoor advertising|last=O'Reilly|first=Lara|website=Business Insider|access-date=2019-04-11}}</ref> The company's main product line is formally known as ''DART'', which is intended to increase the purchasing efficiency of advertisers and to minimize unsold inventory for publishers.<ref>{{Cite web|url=https://www.geek.com/google/google-launches-doubleclick-display-ad-exchange-network-on-auto-pilot-908172/|title=Google launches DoubleClick display ad exchange network on auto-pilot|date=2009-09-18|website=Geek.com|language=en-US|access-date=2019-04-11}}</ref> ''DART'' Enterprise is the rebranded version of [[NetGravity]] AdServer, which DoubleClick acquired with its purchase of NetGravity in 1999.<ref>{{Cite web|url=https://www.wsj.com/articles/SB931823854604934844|title=DoubleClick to Acquire NetGravity In Push to Own Online-Ad Market|last=Journal|first=Andrea PetersenStaff Reporter of The Wall Street|website=WSJ|language=en-US|access-date=2019-04-11}}</ref>
+
+In 2004, DoubleClick acquired Performics.<ref>{{cite web |url=http://www.imediaconnection.com/news/3473.asp |title=DoubleClick Buys Performics |publisher=iMedia Connection |date=2004-05-18 |accessdate=2013-11-14 |url-status=dead |archive-url=https://web.archive.org/web/20131128220017/http://www.imediaconnection.com/news/3473.asp |archive-date=2013-11-28 }}</ref> Performics offers [[affiliate marketing]], [[search engine optimization]], and [[search engine marketing]] products. These products were integrated into the core DART system and rebranded DART search. DoubleClick Advertising Exchange (released Q2 2007) attempts to go even further by connecting both media buyers and sellers on an [[advertising exchange]] much like a traditional [[stock exchange]]. In June 2010, [[Google]] confirmed its acquisition of [[Invite Media]], a [[demand-side platform]] which it later renamed DoubleClick Bid Manager.<ref>{{cite web|last1=Schonfeld|first1=Erick|title=Google Confirms Invite Media Acquisition, Brings Bidding To Display Ads|url=https://techcrunch.com/2010/06/03/google-confirms-invite-media/|website=Techcrunch|publisher=Techcrunch|accessdate=12 September 2015}}</ref>
+
+==Data collection==
+{{unreferenced section|date=February 2019}}
+DoubleClick targets along various criteria. Targeting can be accomplished using [[IP address]]es, business rules set by the client or by reference to information about users stored using [[HTTP cookie|cookies]] on their machines. Some of the types of information collected are:
+
+* [[Web browser]]
+* [[Operating System]]
+* [[Internet service provider|ISP]]
+* [[Bandwidth (computing)|Bandwidth]]
+* [[daypart|Time of day]]
+* [[IP address]]
+
+In addition, the cookie information may be used to target ads based on the number of times the user has been exposed to any given message. This is known as "[[frequency capping]]".
+
+==See also==
+* [[Tech companies in the New York City metropolitan region]]
+
+==References==
+{{reflist|30em}}
+
+{{Google Inc.|corporate=yes|products=yes}}
+{{Digital Marketing Company}}
+{{Bain Capital}}
+
+{{DEFAULTSORT:DoubleClick}}
+[[Category:Google acquisitions]]
+[[Category:Bain Capital companies]]
+[[Category:Digital marketing companies of the United States]]
+[[Category:Online advertising services and affiliate networks]]
+[[Category:American companies established in 1996]]
+[[Category:Marketing companies established in 1996]]
+[[Category:Technology companies established in 1996]]
+[[Category:1996 establishments in New York (state)]]
+[[Category:Companies based in New York City]]
+[[Category:1998 initial public offerings]]
+[[Category:2005 mergers and acquisitions]]
+[[Category:2008 mergers and acquisitions]]
+[[Category:Alphabet Inc.]]

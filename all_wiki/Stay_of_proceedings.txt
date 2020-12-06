@@ -1,0 +1,48 @@
+{{Globalize|date=January 2011}}
+
+A '''stay of proceedings''' is a ruling by the [[court]] in [[civil procedure|civil]] and [[criminal procedure]], halting further legal process in a [[trial (law)|trial]] or other legal proceeding.<ref name="hallellis1">[https://www.hallellis.co.uk/stay-of-proceedings/ Hall Ellis Solicitors, dictionary entry]</ref> The court can subsequently lift the stay and resume proceedings based on events taking place after the stay is ordered. However, a stay is sometimes used as a device to postpone proceedings indefinitely.
+
+==United Kingdom==
+In civil procedure, stays of proceedings are governed by the [[Civil Procedure Rules]].  In criminal trials, they are governed by the [[Prosecution of Offences Act 1985]].<ref name="POA1985">[https://www.legislation.gov.uk/ukpga/1985/23], ss 22(4), 22A, 22B </ref> 
+
+===Scope of power to order===
+Court have the power to stay: 
+* the whole or part of any part of litigation before it 
+* litigation permanently or temporarily 
+* the proceedings pending some contingent event, such as conclusion of an appeal or a period allowed for mediation.
+
+===Inherent power===
+UK courts also maintain an inherent jurisdiction to manage legal proceedings before them,<ref name="Case">[http://www.bailii.org/ew/cases/EWHC/Comm/2018/1503.html China Export & Credit Insurance Corporation v Emerald Energy Resources Ltd [2018] EWHC 1503 (Comm) (22 June 2018), para 61]</ref> but it is rarely exercised. Stays of proceedings are usually made under case management powers,<ref name="CPR3.1">[https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part03#I CPR 3.1(2)(f)]</ref> and may be ordered upon the application by one of the parties or by the court's own motion (the latter being infrequent). 
+
+A court may issue a stay in a winding-up upon the creation of an application for [[rescission (contract law)|rescission]], an order being made against a false or mistaken institution, the petition debt being paid in full, the pertaining institution ceasing to exist, or the prior existence of a winding-up order.<ref name="insolvency1">"[http://www.insolvency.gov.uk/freedomofinformation/technical/casehelpmanual/A/Annulments/StayOfProceedings.htm Stay of Proceedings] {{Webarchive|url=https://web.archive.org/web/20110127071359/http://insolvency.gov.uk/freedomofinformation/technical/CaseHelpManual/A/Annulments/StayOfProceedings.htm |date=2011-01-27 }}". Insolvency.gov.uk</ref>
+
+In [[bankruptcy]], a case can be stayed if a certification for [[annulment]] exists or an [[individual voluntary arrangement]] is being negotiated.<ref name="insolvency1"/>
+
+When the parties agree to terms of settlement while litigation is on foot, they may file a [[Tomlin order]] to stay the proceedings. Once approved by the court, the proceedings are permanently stayed pending an application by one of the parties to enforce the terms of the settlement agreement.
+
+===Lifting of stays===
+When a stay of proceedings is lifted, the proceedings continue. Allowances are made for interference of the stay with any case management directions (which specify dates which the parties must take steps in the action), so that parties are not time prejudiced by the making or interference caused by the stay.
+
+===Examples of stays===
+In ''R v. Crawley and others'' [2014] EWCA Crim 1028<ref>[https://www.judiciary.gov.uk/wp-content/uploads/2014/05/r-v-crawley-others-21052014.pdf ''R v. Crawley and others''] [2014] EWCA Crim 1028. ''judiciary.gov.uk''. Retrieved 18 August 2018.</ref> a stay was given. As part of the Conservative government's [[United Kingdom government austerity programme|fiscal austerity policy]], the Ministry of Justice decided to cut the fees paid to barristers for Very High Cost Cases (VHCC) by 30% in November 2013. Due to the amount of papers involved this case was classed as a VHCC by the Legal Aid Authority (LAA) who pay the defendant's costs (as free representation ([[legal aid]]) is required under the [[European Convention on Human Rights]]). Barristers in protest of the cuts refused the instructions to act on behalf of the defendants at the reduced fees, so no suitably qualified barristers could be found to represent the defendants. As the defendants would not be able to have a fair trial without suitable representation (in breach of their right to a fair trial under [[Article 6 of the European Convention on Human Rights]]) the case could not proceed and was stayed. An adjournment was found to be unlikely to resolve the case and excessive delay would contradict a further requirement of the ECHR (Article 6(1)) requiring timely handling of prosecution.
+
+===Stays of execution===
+Stays of execution have a similar effect in respect of execution of judgments. No step may be taken to enforce a judgment while a stay of execution remains in force.
+
+==United States==
+According to the [[legal code]], a stay of proceedings can be issued in a case "brought in any of the courts of the United States upon any issue referable to arbitration under an agreement in writing for such arbitration" when the ruling on the case is pending, can be stayed "until such arbitration has been had in accordance with the terms of the agreement, providing the applicant for the stay is not in default in proceeding with such arbitration".<ref name="cornell1">[https://www.law.cornell.edu/uscode/text/9/3- Cornell Law- Title 9, Chapter 1,3]</ref> "The standard for stay determinations ostensibly includes four factors: (1) the likelihood of success on appeal; (2) the likelihood of irreparable harm pending appeal; (3) the balance of the hardships; and (4) the public interest."<ref>{{Cite journal|last=Pedro|first=Portia|date=2018-06-01|title=Stays|url=https://scholarship.law.bu.edu/faculty_scholarship/335|journal=California Law Review|volume=106|issue=3|pages=869}}</ref>'''{{rp|870}}'''
+
+For example, in the [[2010s]], as federal and state judges struck down [[same-sex marriage in the United States|same-sex marriage]] bans across the country, many judges stayed the rulings during the appeals process. Although a state's ban was struck down, such as that of [[Louisiana]], the stay prevented implementation of their ruling pending a higher court decision and so prevented same-sex couples from obtaining a [[marriage license]].<ref>http://www.nola.com/politics/index.ssf/2014/09/louisiana_same-sex_marriage_ru.html</ref>
+
+==See also==
+* [[Continuance]]
+* [[Preliminary injunction]]
+* [[Subpoena ad testificandum]]
+* [[Subpoena duces tecum]]
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Stay Of Proceedings}}
+[[Category:Civil procedure]]
+[[Category:Criminal procedure]]

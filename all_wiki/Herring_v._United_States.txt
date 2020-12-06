@@ -1,0 +1,76 @@
+{{Infobox SCOTUS case
+  |Litigants=Herring v. United States
+  |ArgueDate=October 7
+  |ArgueYear=2008
+  |DecideDate=January 14
+  |DecideYear=2009
+  |FullName=Bennie Dean Herring, Plaintiff, v. United States of America
+  |Docket=07-513
+  |USVol=555
+  |USPage=135
+  |ParallelCitations=129 S. Ct. 695; 172 [[L. Ed. 2d]] 496; 2009 [[U.S. LEXIS]] 581 
+  |Prior=Motion to suppress evidence denied, ''United States v. Herring'', 451 [[F. Supp. 2d]] [https://www.leagle.com/decision/20051741451fsupp2d129011640 1290] ([[M.D. Ala.]] 2005); defendant convicted; affirmed, 492 [[F.3d]] [https://www.leagle.com/decision/20071704492f3d121211704 1212] ([[11th Cir.]] 2007); [[Certiorari|cert]]. granted, {{ussc|552|1178|2008|el=no}}.
+  |Subsequent=Rehearing denied, {{ussc|556|1161|2009|el=no}}.
+  |Holding=Evidence obtained after illegal searches or arrests based on simple police mistakes that are not the result of repeated patterns or flagrant misconduct cannot have the exclusionary rule used to suppress evidence. Convictions upheld.
+  |Majority=Roberts
+  |JoinMajority=Scalia, Kennedy, Thomas, Alito
+  |Dissent=Ginsburg
+  |JoinDissent=Stevens, Souter, Breyer
+  |Dissent2=Breyer
+  |JoinDissent2=Souter
+  |LawsApplied=[[Fourth Amendment to the United States Constitution|U.S. Const. amend. IV]]
+}}
+
+'''''Herring v. United States''''', 555 U.S. 135 (2009), was a case decided by the [[Supreme Court of the United States]] on January 14, 2009. The court decided that the [[good-faith exception]] to the [[exclusionary rule]] applies when a police officer makes an arrest based on an outstanding warrant in another jurisdiction, but the information regarding that warrant is later found to be incorrect because of a negligent error by that agency.<ref name=Opinion>{{ussc|name=Herring v. United States|volume=555|page=135|pin=|year=2009}}.</ref><ref name="JURIST">{{cite news|publisher=JURIST, University of Pittsburgh |author=Leslie Schulman |title=US Supreme Court to hear evidence suppression, state water rights cases |url=http://jurist.law.pitt.edu/paperchase/2008/02/us-supreme-court-to-hear-evidence.php |date=2008-02-19 |accessdate=2008-02-29 |url-status=dead |archiveurl=https://web.archive.org/web/20090221090845/http://jurist.law.pitt.edu/paperchase/2008/02/us-supreme-court-to-hear-evidence.php |archivedate=2009-02-21 }}</ref>
+
+==Background==
+===The evolution of the exclusionary rule===
+"The [[Fourth Amendment to the United States Constitution|Fourth Amendment]] contains no provision expressly precluding the use of evidence obtained in violation of its commands,"<ref>{{ussc|name=United States v. Leon|volume=468|page=897|pin=906|year=1984}}.</ref> but in ''[[Weeks v. United States]]'' (1914) and ''[[Mapp v. Ohio]]'' (1961), the Supreme Court created the [[exclusionary rule]], which generally operates to suppress – i.e. prevent the introduction at trial of – evidence obtained in violation of Constitutional rights. "Suppression of evidence, however, has always been [the court's] last resort, not [its] first impulse. The exclusionary rule generates substantial social costs, which sometimes include setting the guilty free and the dangerous at large."<ref>{{ussc|name=Hudson v. Michigan|volume=547|page=586|pin=|year=2006}} (quoting ''Leon'', 468 U.S. at 907) (internal quotation marks omitted).</ref> In ''[[United States v. Leon]]'', the Supreme Court clarified that the exclusionary rule "operates as a judicially created remedy designed to safeguard Fourth Amendment rights generally through its deterrent effect, rather than a personal constitutional right of the party aggrieved." <ref>''Leon'', 468 U.S. at 906 (quoting {{ussc|name=United States v. Calandra|volume=414|page=338|pin=348|year=1974}} (internal quotation marks omitted)).</ref>  Application of the rule should be sensitive to this purpose, the court said: If suppression "does not result in appreciable deterrence," the court had said, "its use ... is unwarranted."<ref>''Leon'', 468 U.S. at 909 (quoting {{ussc|name=Stone v. Powell|volume=428|page=433|pin=454|year=1976}} (internal quotation mark omitted)).</ref> 
+
+Thus, for example, in ''Leon'' itself, the court concluded that the fruits of a search based on a search warrant later found defective should not be excluded because the rule's deterrent purpose "will only rarely be served by applying it in such circumstances,"<ref>''Leon'', 468 U.S. at 926.</ref> and in ''[[Arizona v. Evans]]'', the court concluded that the fruits of a search based on an arrest warrant that was no longer valid, but that was still listed in the police system because of an error by the issuing court's clerk, should not be excluded because such exclusion would have no deterrent effect.<ref>See {{ussc|name=Arizona v. Evans|volume=514|page=1|pin=15–16|year=1995}}.</ref>
+
+===The beginnings of the ''Herring'' case===
+Bennie Herring drove to the [[Coffee County, Alabama|Coffee County]], [[Alabama]], sheriff's department to check on a pickup truck that had been impounded. Mark Anderson, an investigator with the Coffee County Sheriff's Department, asked the department's warrant clerk to check for any outstanding warrants; the warrant clerk in the neighboring [[Dale County, Alabama|Dale County]] Sheriff's Department was contacted, and advised that there was an outstanding warrant. Within fifteen minutes, the Dale County clerk called back to warn the Coffee County sheriff's department that there had been a clerical mistake: the warrant had been recalled five months prior.<ref name="LATimes">{{cite news|work=Los Angeles Times |author=David G. Savage |date=2008-08-20 |accessdate=2008-02-29 |title=Supreme Court to review 'exclusionary rule' on evidence |url=http://www.latimes.com/news/nationworld/nation/la-na-evidence20feb20,1,494682.story |archiveurl=https://web.archive.org/web/20080228225332/http://www.latimes.com/news/nationworld/nation/la-na-evidence20feb20%2C1%2C494682.story |archivedate=2008-02-28 |url-status=dead }}</ref> But it was too late; Anderson had already arrested Herring and searched his vehicle, discovering firearms and [[methamphetamine]].<ref name="USDOJ">{{cite web|title=No. 07-503, Herring v. United States; United States Department of Justice |url=http://www.usdoj.gov/osg/briefs/2007/0responses/2007-0513.resp.html |accessdate=2008-02-29 |url-status=dead |archiveurl=https://web.archive.org/web/20080910024540/http://www.usdoj.gov/osg/briefs/2007/0responses/2007-0513.resp.html |archivedate=2008-09-10 }}</ref>
+
+Herring was indicted in the United States District Court for the Middle District of Alabama for violations of 18 U.S.C. § 922(g)(1) (felon in possession of a firearm) and 21 U.S.C. § 844(a) (possession of a controlled substance, viz. methamphetamine) and invoked the [[exclusionary rule]] to have both the firearm and drug evidence suppressed. He claimed that the arrest was unlawful as a result of an invalid/recalled warrant ("failure to appear", issued by neighboring Dale County, Alabama), a motion denied by the [[United States District Court for the Middle District of Alabama|trial court]].<ref>{{cite court |litigants=United States v. Herring |vol=451 |reporter=F. Supp. 2d |opinion=1290 |pinpoint= |court=[[M.D. Ala.]] |date=2005  |url=https://www.leagle.com/decision/20051741451fsupp2d129011640 |accessdate=2019-08-12 |quote=}}</ref><ref name="LATimes"/><ref name="USDOJ"/> He was convicted, and sentenced to 27 months in [[federal prison]].<ref name="USDOJ"/> The [[United States Court of Appeals for the Eleventh Circuit]] affirmed, ruling—based on ''Leon''—that the evidence was admissible because the mistake was made by the Dale County officials, not the Coffee County police.<ref>{{cite court |litigants=United States v. Herring |vol=492 |reporter=F.3d |opinion=1212 |pinpoint= |court=[[11th Cir.]] |date=2007  |url=https://www.leagle.com/decision/20071704492f3d121211704 |accessdate=2019-08-12 |quote=}}</ref><ref name="LATimes"/> Because the error was corrected in a very short time, there was no evidence that the Dale County Sheriff's Department had problems disposing of recalled warrants, and thus no negligence could be claimed because of the lack of a pattern of disposal problems.
+
+The Supreme Court of the United States granted ''[[certiorari]]'' on February 19, 2008. The case was argued before the Court on October 7, 2008.
+
+==Result==
+In a 5–4 decision hewing to ''Leon'' and ''Evans'', the Court, speaking through [[Chief Justice of the United States|Chief Justice]] [[John G. Roberts|Roberts]], affirmed the trial court and the Eleventh Circuit. While noting that there had not necessarily been a constitutional violation in the case, the Court accepted for the sake of argument Herring's contention that there had been. On that stipulation, the court held that the exclusionary rule did not apply to a search that resulted from isolated and attenuated police negligence, holding that "[t]o trigger the exclusionary rule, police conduct must be sufficiently deliberate that exclusion can meaningfully deter it, and sufficiently culpable that such deterrence is worth the price paid by the justice system." Suppression was unwarranted because an error in recordkeeping—not flagrant or deliberate misconduct—led to Herring's arrest.<ref name=Opinion/> The Court also warned that it was not "suggest[ing] that all recordkeeping errors by the police are immune from the exclusionary rule. ...  If the police have been shown to be reckless in maintaining a warrant system, or to have knowingly made false entries to lay the groundwork for future false arrests, exclusion would certainly be justified under our cases should such misconduct cause a Fourth Amendment violation." Nevertheless, in the case at bar, "the [police] conduct at issue was not so objectively culpable as to require exclusion." "[W]hen police mistakes are the result of negligence such as that described here, rather than systemic error or reckless disregard of constitutional requirements," the Chief Justice wrote, "any marginal deterrence does not 'pay its way.'" 
+
+Justice Ginsburg dissented, joined by Justices Stevens, Souter, and Breyer. She wrote that "the exclusionary rule provides redress for Fourth Amendment violations by placing the government in the position it would have been in had there been no unconstitutional arrest and search. The rule thus strongly encourages police compliance with the Fourth Amendment in the future." The prosecution had contested the unlawful case in court because of contraband found on Herring's person and in his vehicle, but, Ginsburg wrote, narrowing the scope of the exclusionary rule would most typically hurt innocent persons who are wrongfully arrested.<ref name=Opinion/>
+
+==Reaction==
+Writing shortly after the decision, [[SCOTUSblog]] author [[Tom Goldstein]] stated that the decision was of "surpassing significance";<ref>{{Cite news|url=http://www.scotusblog.com/2009/01/the-surpassing-significance-of-herring/|title=The Surpassing Significance of Herring|last=Goldstein|first=Tom|date=2009-01-14|work=SCOTUSblog|access-date=2018-09-22|language=en-US}}</ref> but law professor and [[Fourth Amendment to the United States Constitution|Fourth Amendment]] expert [[Orin Kerr]] suggested Goldstein was reading too much into the case, writing that ''Herring'' was best seen as "a narrow and interstitial decision, not one that is rocking the boat. ... I don't see it as suggesting a general good faith exception for police conduct ... [which is] why the dissenters didn't sound the alarm...."<ref>{{Cite web|url=http://volokh.com/archives/archive_2009_01_11-2009_01_17.shtml#1231961926|title=Responding to Tom Goldstein on Herring|last=Kerr|first=Orin|date=2009-01-14|website=[[The Volokh Conspiracy]]|access-date=2018-09-22}}</ref> Around two weeks later, The ''New York Times''' [[Adam Liptak]] expressed concern that the decision was a step towards overruling ''Mapp''.<ref>{{Cite news|url=https://www.nytimes.com/2009/01/31/washington/31scotus.html|title=Justices Step Closer to Repeal of Evidence Ruling|last=Liptak|first=Adam|date=2009-01-30|work=New York Times|access-date=2018-09-22|language=en}}</ref>
+
+Eight years later, a 2017 paper in the [[Journal of Criminal Law & Criminology]] concluded that "''Herring'' invited evidence laundering by police and laid the groundwork for judicial approval of this practice", based on a case law examination of how state courts and lower federal courts had applied the Supreme Court decision since 2009.<ref name=":0">{{cite journal|last1=Levine|first1=Kay L.|last2=Iontcheva Turner|first2=Jenia|last3=Wright|first3=Ronald F.|date=17 May 2017|title=Evidence Laundering: How Herring Made Ignorance the Best Detergent|journal=Journal of Criminal Law and Criminology|language=en|volume=106|issue=4|doi=10.2139/ssrn.2558737|issn=1556-5068}}</ref>
+
+== See also ==
+*[[Fruit of the poisonous tree]]
+*[[Parallel construction]]
+*[[List of United States Supreme Court cases, volume 555]]
+*[[List of United States Supreme Court cases]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{caselaw source
+ | case = ''Herring v. United States'', {{ussc|555|135|2009|el=no}}
+ | courtlistener =https://www.courtlistener.com/opinion/145922/herring-v-united-states/
+ | googlescholar = https://scholar.google.com/scholar_case?case=10573986864908308313
+ | justia =https://supreme.justia.com/cases/federal/us/555/135/
+ | oyez =https://www.oyez.org/cases/2008/07-513
+ | other_source1 = Supreme Court (slip opinion)
+ | other_url1 =https://www.supremecourt.gov/opinions/08pdf/07-513.pdf
+ }}
+*[https://www.supremecourt.gov/oral_arguments/argument_transcripts/07-513.pdf Transcript of oral argument before the Supreme Court (PDF)]
+
+{{US4thAmendment|remedies|state=expanded}}
+
+[[Category:United States Fourth Amendment case law]]
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Roberts Court]]
+[[Category:2009 in United States case law]]
+[[Category:Coffee County, Alabama]]

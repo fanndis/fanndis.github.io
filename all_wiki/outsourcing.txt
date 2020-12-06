@@ -1,0 +1,998 @@
+{{distinguish|Offshoring}}
+{{short description|Contracting out of an internal business process to a third-party organization}}
+'''Outsourcing''' is an agreement in which one company hires another company to be responsible for a planned or existing activity that is or could be done internally,<ref name="Brit.Ency103">{{cite web |website=Britannica.com
+   |url=https://www.britannica.com/topic/outsourcing
+   |title=Oursourcing}}</ref><ref>{{Cite journal
+     |author1=Ian McCarthy  |author2=Angela Anagnostou 
+     |title=The impact of outsourcing on the transaction costs and boundaries of manufacturing
+     |journal=International Journal of Production Economics |volume=88  |issue=1  |pages=61–71
+     |doi=10.1016/s0925-5273(03)00183-x |date=2004 |citeseerx=10.1.1.468.9139 }}</ref>
+<!-- This is a compromise used to not make it mostly machine-readable and also not long scroll-up/down -->
+and sometimes involves transferring employees and assets from one [[firm]] to another.
+
+The term ''outsourcing'', which came from the phrase ''outside resourcing'', originated no later than 1981.<ref>{{cite book
+   |title=The Global Supply Chain and Risk Management
+   |url=https://books.google.com/books?isbn=1631579592 |isbn=978-1631579592
+   |author=Stuart Rosenberg |date=2018 }}</ref><ref>Outsource 1979, outsourcing 1981: {{cite book
+  |title=Organizing Identity, Persons and Organizations After Theory
+  |url=https://books.google.com/books?isbn=1497042151 |isbn=978-1497042155
+  |publisher=CTI Reviews |date=2016 }}</ref><ref>OED</ref> The concept, which ''[[The Economist]]'' says has "made its presence felt since the time of the Second World War",<ref>{{cite web
+   |url=http://store.ectap.ro/articole/734.pdf
+   |title=Outsourcing. The Concept
+   |author1=Adrian Victor |author2=Alexandru Dumitru Bodislav}}</ref> often involves the contracting of a [[business process]] (e.g., [[payroll]] processing, claims processing), operational, and/or non-core functions, such as manufacturing, [[facility management]], [[call center]]/call centre support).
+
+Outsourcing is also the practice of [[Privatization|handing over control of public services to private enterprises]], even if on a short-term limited basis,<ref>{{cite web
+   |url=https://www.jdsupra.com/legalnews/judge-rebukes-government-for-69266
+   |title=Judge Rebukes Government for Outsourcing Internal Investigation of LIBOR rigging
+   |date=June 28, 2019}}</ref> may also be described as "outsourcing".<ref>Jamieson, Dave, [https://www.huffingtonpost.com/2013/07/01/afscme-public-interest-privatization_n_3530817.html "Public Interest Group Challenges Privatization Of Local, State Government Services"] {{webarchive|url=https://web.archive.org/web/20131211181510/http://www.huffingtonpost.com/2013/07/01/afscme-public-interest-privatization_n_3530817.html |date=2013-12-11 }}, The Huffington Post, July 1, 2013. Retrieved 2013-07-01</ref>
+
+Outsourcing includes both foreign and domestic contracting,<ref name="Hira, Ron 2008">Hira, Ron, and Anil Hira. Outsourcing America: What's behind Our National Crisis and How We Can Reclaim American Jobs. New York: AMACOM, 2008. Print # 67-96.</ref> and sometimes includes [[offshoring]] (relocating a business function to a distant country)<ref>Davies, Paul. ''What's This India Business?: Offshoring, Outsourcing, and the Global Services Revolution''. London: Nicholas Brealey International, 2004. Print.</ref> or [[#nearshoring|nearshoring]] (transferring a business process to a nearby country).
+
+[[Offshoring]] and outsourcing are not mutually inclusive: there can be one without the other. They can be intertwined (offshore outsourcing), and can be individually or jointly, partially or completely reversed,<ref name=DELL.back>{{cite web  |access-date=2019-05-14
+   |url=http://www.nbcnews.com/id/4853511/ns/business-forbes_com/t/dell-moves-outsourced-jobs-back-us-shores
+   |title=Dell moves outsourced jobs back to U.S. shores
+   |author=Elizabeth Corcoran   |date=April 28, 2004
+   |quote=customers were not happy with ...}}</ref> involving terms such as reshoring, inshoring, and insourcing.
+
+==Terminology==
+* '''Offshoring''' is moving the work to a distant country. If the distant workplace is a foreign subsidiary/owned by the company, then the offshore operation is a {{anchor|Offshore Captive}}'''[[#captive|captive]]''',<ref name="cap">{{cite newspaper
+   |newspaper=[[The New York Times]]
+   |title=Offshore insurers creating concerns among regulators
+   |url=https://www.nytimes.com/1992/10/19/us/offshore-insurers-creating-concerns-among-regulators.html
+   |date=October 19, 1992}}</ref> sometimes referred to as ''in-house offshore.''<ref name=InH.off_CIO>{{cite magazine
+   |magazine=[[CIO magazine]]
+   |url=https://www.cio.com/article/2437922/captive-audience--how-to-partner-with-service-providers-to-improve-in-house-offshore-ope.html
+   |title=Captive Audience: How to Partner with Service Providers to Improve In-House Offshore Operations
+   |quote=a.k.a. internal shared-services centers in low-cost locations
+   |author1=Cliff Justice |author2=Stan Lepeak}}</ref>
+* '''{{Visible anchor|Offshore outsourcing}}''' is the practice of hiring an external organization to perform some business functions ("Outsourcing") in a country other than the one where the products or services are actually performed, developed or manufactured ("Offshore").<ref name=Mankiw/> 
+* [[Insourcing]] entails bringing processes handled by third-party firms in-house, and is sometimes accomplished via [[vertical integration]].
+* '''Nearshoring''' refers to outsource to a nearby country.
+* '''{{Visible anchor|Farmshoring}}''' refers to outsourcing to companies in more rural locations within the same country.<ref>also called domestic outsourcing. {{cite web
+   |url=https://www.oreilly.com/library/view/managing-without-walls/9781583470626/9781583470626_ch05lev1sec3.html
+   |title=Domestic Inshoring and Farmshoring}}</ref>
+* '''{{Visible anchor|Homeshoring}}''' (also known as {{Visible anchor|Homesourcing}}) is a form of [[#IT-enabled services offshore outsourcing|IT-enabled]] "transfer of service industry employment from offices to home-based ... with appropriate telephone and Internet facilities".<ref>{{cite web |title=New words
+  |work=Macmillan English Dictionary
+  |url=http://www.macmillandictionary.com/new-words/050530-homeshoring.htm
+  |access-date=2007-10-05}}</ref><ref>{{distinguish|Small office/home office}}</ref> These [[telecommuting]] positions may be customer-facing or [[Back office|back-office]],<ref>{{cite journal 
+      |author=Kevin G. Hall 
+      |date=December 5, 2006 |journal=Knight Ridder 
+      |title=Homeshoring Grows: Companies Cut Costs by Shipping Jobs to Workers' Homes 
+      |url=http://www.itpaa.org/modules.php?name=News&file=article&sid=2062
+|archive-url=https://web.archive.org/web/20071020050203/http://www.itpaa.org/modules.php?name=News&file=article&sid=2062
+      |url-status=dead  |archive-date=October 20, 2007}}</ref> and the workers may be [[employee]]s or [[independent contractor]]s.
+* '''In-housing''' refers to hiring employees.<ref>{{cite web
+   |url=https://www.forbes.com/sites/forbeslacouncil/2019/09/13/what-are-the-benefits-of-in-housing-versus-outsourcing
+   |title=What Are The Benefits Of In-Housing Versus Outsourcing?
+   |author=Ben Zimmerman |date=September 13, 2019}}</ref><ref>{{cite web
+|url=https://www.tulos.fi/blogi/housing-versus-outsourcing-move-digital-marketing-house
+|title=In-housing versus Outsourcing. Should you move your digital marketing in-house?
+|author=Aleksandr Simukovic  |date=April 15, 2019}}</ref>
+* An '''[[Intermediary]]''' is when a business provides a contract service to another organization while contracting out that same service.<ref>{{cite web
+  |title=Delegated authority: Outsourcing in the general insurance market
+  |url=https://www.fca.org.uk/publication/thematic-reviews/tr15-07.pdf
+  |date=June 29, 2015}}</ref><ref>{{cite web
+    |url=http://www.nortonrosefulbright.com/knowledge/publications/67184/binder-and-other-intermediary-agreements
+    |title=Binder and other intermediary agreements 
+    |date=April 5, 2012}}</ref>
+
+===Acronyms===
+Some of the acronyms related to BPO ([[#Business Process Outsourcing|Business Process Outsourcing]]) are:
+{{columns-list|colwidth=27em|
+* EPO - {{Visible anchor|Engineering Process Outsourcing}}
+* ITO - {{Visible anchor|Information Technology Outsourcing}}
+* KPO - [[Knowledge process outsourcing]]
+* LPO - [[Legal process outsourcing]]<ref>Also called ''Legal outsourcing''</ref>
+* RPO - [[Recruitment|Recruitment process outsourcing]]
+* HRO - Human Resource Outsourcing}}
+
+==Overview==
+
+===Motivations===
+[[Global labor arbitrage]] can provide major financial savings from lower international labor rates, which could be a major motivation for offshoring. Historically, there has been a strong focus on cost optimization and service improvement, however, there is now greater prioritization towards revenue generation.<ref>{{Cite web|date=2016-06-14|title=The Evolution of Sourcing Advisory|url=https://avasant.com/insights/publications/the-evolution-of-sourcing-advisory/|access-date=2020-10-23|website=Avasant|language=en-US}}</ref> Cost savings from [[economies of scale]] and specialization can also motivate outsourcing, but a report by Forrester Research in 2015 observed that "cost-cutting is no longer the top goal of outsourcing".<ref name=forrester>Forrester Research, Inc., [https://www.forrester.com/report/The+Forrester+Wave+Global+Infrastructure+Outsourcing+Q1+2015/-/E-RES118404# The Forrester Wave™: Global Infrastructure Outsourcing, Q1 2015], published 13 January 2015, accessed 21 November 2020</ref> Forrester's research among 13,822 global and technology decision-makers identified the following main objectives:
+
+*Revenue growth (75% of respondents stated this was a high or critical priority)
+*Improving the customer experience (75%)
+*Cost reduction (64%)
+*Market differentiation (50%)
+*[[Regulatory compliance]] (46%).<ref name=forrester />
+
+Another motivation is speed to market; to make this work, a new process was developed: "outsource the outsourcing process".<ref name="CIO.97">{{cite magazine |magazine=[[CIO (magazine)|CIO]] |date=April 1, 1997 |page=12
+   |author=Abbie Lundberg
+   |title=Outsourcing: Letter from the editor}}</ref> Details of managing [[DuPont]]'s [[Chief Information Officer|CIO]] [[Cinda Hallman]]'s $4 billion 10-year outsourcing contract with [[Computer Sciences Corporation]] and [[Accenture|Andersen Consulting]] were outsourced, thus avoiding "inventing a process if we'd done it in-house". A term subsequently developed to describe this is ''{{Visible anchor|midsourcing}}''{{anchor|Midsourcing}}{{anchor|Mid-sourcing}}.<ref>{{cite magazine |magazine=[[InfoWorld]] |date=February 21, 2000  |page=14
+  |url=https://books.google.com/books?id=WjkEAAAAMBAJ
+  |title=Messaging and Collaboration
+  |quote= ... will offer .. through .. "midsourcing" model}}</ref><ref>{{cite book
+|title=Information Security Management Handbook, Fifth Edition
+|url=https://books.google.com/books?isbn=0849319978 |isbn=978-0-8493-1997-6
+|author1=Harold F. Tipton |author2=Micki Krause  |date=2003
+|quote=The term midsourcing refers to ... }}</ref><ref>The term "Midsourcing" subsequently became known as contracting a local or regional manufacturing service provider to arrange for the outsourced task(s). {{cite web
+  |url=http://sissoncorp.com/2017/10/10/your-source-for-commercial-manufacturing-services
+  |title=Your Source for Commercial Manufacturing Services
+  |date=October 10, 2017}}</ref>
+
+Outsourcing can offer greater budget flexibility and control by allowing organizations to pay for the services and business functions they need, when they need them. It also reduces the need to hire and train specialized staff, makes available specialized expertise, and can reduce capital, operating expenses,<ref>{{cite journal |author=B. Olive
+  |title=Outsourcing Growing, Despite Controversy  |journal=Power  |date=2004  |pages=148(4), 19–20}}</ref> and risk.
+
+"Do what you do best and outsource the rest" has become an internationally recognized business tagline first "coined and developed"<ref name=Drucker10>{{cite web |author=Marian Haus
+   |title=Best 10 Peter Drucker quotes
+   |url=http://pmseed.com/best-10-peter-drucker-quotes |website=pmseed |publisher=pmseed 
+   |access-date=26 April 2015  |date=2011
+|archive-url=https://web.archive.org/web/20150416043146/http://pmseed.com/best-10-peter-drucker-quotes
+|archive-date=April 16, 2015}}</ref> in the 1990s by management consultant [[Peter Drucker]]. The slogan was primarily used to advocate outsourcing as a viable business strategy. Drucker began explaining the concept of "Outsourcing" as early as 1989 in his ''[[The Wall Street Journal|Wall Street Journal]]'' article entitled "Sell the Mailroom".<ref>Drucker, Peter F. (1989), "Sell the Mailroom", ''Wall Street Journal'', accessible at {{cite web
+  |url=https://www.wsj.com/articles/SB113202230063197204   |title=Archived copy |access-date=2015-04-27
+  |archive-url=https://web.archive.org/web/20150522111235/http://www.wsj.com/articles/SB113202230063197204
+  |archive-date=2015-05-22}}</ref>
+
+Sometimes the effect of what looks like outsourcing from one side and insourcing from the other side can be unexpected: The New York Times reported in 2001 that "6.4 million Americans .. worked for foreign companies as of 2001, [but] more jobs are being outsourced than" [the reverse].<ref>{{cite web
+   |url=https://www.nytimes.com/2004/04/11/business/outsourcing-turned-inside-out.html
+   |title=Outsourcing, Turned Inside Out
+   |author=Ken Belson |date=April 11, 2004}}</ref>
+
+===Agreements===
+Two organizations may enter into a contractual agreement involving an [[Financial transaction|exchange]] of [[Service (economics)|services]], expertise, and [[payments]]. Outsourcing is said to help firms to perform well in their core competencies, fuel [[innovation]], and mitigate a shortage of skill or expertise in the areas where they want to outsource.<ref>Overby, S (2007) [http://www.cio.com/article/40380/ABC_An_Introduction_to_Outsourcing ABC: An Introduction to Outsourcing] {{webarchive|url=https://web.archive.org/web/20070630130752/http://www.cio.com/article/40380/ABC_An_Introduction_to_Outsourcing |date=2007-06-30 }}. CIO.com.</ref>
+
+==History==
+
+===20th century===
+Following the adding of management layers in the 1950s and 1960s to support expansion for the sake of economy of scale, corporations found that agility and added profits could be obtained by focusing on core strengths; the 1970s and 1980s were the beginnings of what later was named outsourcing.<ref name="Brief20">{{cite web
+|url=https://scm.ncsu.edu/scm-articles/article/a-brief-history-of-outsourcing
+|title=A Brief History of Outsourcing}}</ref> [[Kodak]]'s 1989 "outsourcing most of its information technology systems"<ref name="K89">{{cite newspaper
+|url=https://timesofindia.indiatimes.com/business/india-business/Outsourcing-emerged-as-a-new-business-strategy-in-early-1980s/articleshow/6588306.cms
+|title= Outsourcing emerged as a new business strategy in early 1980s
+|date=September 20, 2010}}</ref> was followed by others during the 1990s.<ref name="K89"/>
+
+In 2013, the International Association of Outsourcing Professionals gave recognition to [[Electronic Data Systems]] Corporation's [[Morton H. Meyerson Symphony Center|Morton H. Meyerson]]<ref>EDS's founder named it for Mort Meyerson</ref> who, in 1967, proposed the business model that eventually became known as outsourcing.<ref>{{cite web
+   |url=https://www.iaop.org/Content/23/196/3600
+   |title=IAOP Announces Outsourcing Hall of Fame Inductees
+   |date=January 8, 2013
+   |website=IAOP.org (The International Association of Outsourcing Professionals)}}</ref>
+
+====IT-enabled services offshore outsourcing====
+Growth of offshoring of IT-enabled services, although not universally accepted,<ref>{{cite newspaper
+   |newspaper=[[Computerworld]] |page=58
+   |url=https://www.computerworld.com/article/2555167/the-seven-deadly-sins-of-outsourcing.html
+   |title=The Seven Deadly Sins of Outsourcing
+   |author= Judy Artunian  |date=May 8, 2006}}</ref><ref>{{cite book
+   |title=Outsourcing Information Security  |page=216
+   |author=C. Warren Axelrod  |year=2004}}</ref> both to subsidiaries and to outside companies (offshore outsourcing) is linked to the availability of large amounts of reliable and affordable communication infrastructure following the telecommunication and Internet expansion of the late 1990s.<ref name=Telcom.out>{{cite book
+   |title=Managing Projects in Telecommunication Services
+   |url=https://books.google.com/books?isbn=0470047674  |isbn=0470047674
+   |author=Mostafa Hashem Sherif |date=2006
+   |quote=(chapter) COMMUNICATION AND OUTSOURCING ... Roche, 1998}}</ref> Services making use of low-cost countries included
+* back-office and administrative functions, such as finance and accounting, HR, and legal
+* call centers and other customer-facing departments, such as marketing and sales services
+* IT infrastructure and application development
+* knowledge services, including engineering support,<ref>{{cite web
+   |url=https://www.mbtmag.com/global/article/13215297/how-globalization-is-reshaping-the-engineering-services-outsourcing-market
+   |title=How Globalization is Reshaping the Engineering Services Outsourcing Market
+   |date=June 22, 2015}}</ref> product design, research and development, and analytics.
+
+===Early 21st century===
+In the early 21st century, businesses increasingly outsourced to suppliers outside their own country, sometimes referred to as offshoring or [[offshore outsourcing]]. Other options subsequently emerged: [[#nearshoring|nearshoring]], [[crowdsourcing]], [[multisourcing]],<ref>(Q4 2006)[http://www.btquarterly.com/?mc=mandatory-multisourcing-discipline&page=ss-viewresearch Mandatory Multisourcing Discipline] {{webarchive|url=https://web.archive.org/web/20070928142453/http://www.btquarterly.com/?mc=mandatory-multisourcing-discipline&page=ss-viewresearch |date=2007-09-28 }} Business Trends Quarterly</ref><ref>(2006) [http://www.businessweek.com/globalbiz/content/nov2006/gb20061108_738883.htm?chan=top+news_top+news+index_global+business Mandatory Multisourcing Discipline] {{webarchive|url=https://web.archive.org/web/20071119082031/http://www.businessweek.com/globalbiz/content/nov2006/gb20061108_738883.htm?chan=top+news_top+news+index_global+business |date=2007-11-19 }}</ref> [[strategic alliances]]/[[strategic partnership]]s, strategic outsourcing.<ref>See Holcomb & Hitt, 2007 and [[Vested outsourcing]]</ref>
+
+From Drucker's perspective, a company should only seek to subcontract in those areas in which it demonstrated no special ability.<ref name=RightMix.RW>{{cite journal |author=Rick Wartzman |journal=Bloomberg Business
+  |title=The Drucker Difference: Insourcing and Outsourcing: the Right Mix
+  |date=February 5, 2010 |url=http://www.businessweek.com/managing/content/feb2010/ca2010024_507452.htm
+  |access-date=May 6, 2015 |publisher=Bloomberg L.P.
+|archive-url=https://web.archive.org/web/20150522173550/http://www.businessweek.com/managing/content/feb2010/ca2010024_507452.htm
+|archive-date=May 22, 2015}}</ref> The business strategy outlined by his slogan recommended that companies should take advantage of a specialist provider's knowledge and economies of scale to improve performance and achieve the service needed.<ref>{{cite book
+  |author=Gwynne Richards
+  |title=Warehouse Management: A Complete Guide To Improving Efficiency and Minimizing Costs In the Modern Warehouse
+  |date=2014 |publisher=Kogan Page Limited |location=Walnut Street Suite 1100 Philadelphia PA 19102
+  |isbn=978-0-7494-6934-4 |page=316 |edition=Second
+|url=https://books.google.com/books?id=oimhAwAAQBAJ&q=Do+what+you+do+best+and+outsource+the+rest+drucker+drucker&pg=PA316
+|access-date=May 6, 2015
+|archive-url=https://web.archive.org/web/20150924053857/https://books.google.com/books?id=oimhAwAAQBAJ&pg=PA316&lpg=PA316&dq=Do+what+you+do+best+and+outsource+the+rest+drucker+drucker&source=bl&ots=rE56Ap5bc9&sig=g4gAp2w9iinUOujS7uJnJFDqqHI&hl=en&sa=X&ei=Iac7VZH3DsKWNvDYgKgI&ved=0CF0Q6AEwBQ#v=onepage&q=Do%20what%20you%20do%20best%20and%20outsource%20the%20rest%20drucker%20drucker&f=false
+|archive-date=September 24, 2015}}</ref>
+
+In 2009, by way of recognition, Peter Drucker posthumously received a significant honor when he was inducted into the Outsourcing Hall of Fame for his outstanding work in the field.<ref name=RightMix.RW/>
+
+====Limitations due to growth====
+Inflation, high domestic interest rates, and economic growth pushed India's IT salaries 10 - 15%, making some jobs relatively "too" expensive, compared to other offshoring destinations. Areas for advancing within the value chain included research and development, equity analysis, tax-return processing, radiological analysis, and [[medical transcription]].
+
+====Offshore alternatives====
+Japanese companies outsourced to China, particularly to formerly Japanese-occupied cities.<ref>(discussed in the book ''[[The World is Flat]]'').</ref> German companies have outsourced to [[Eastern Europe]]an countries with German-language affiliation, such as [[Poland]] and [[Romania]].<ref name="http">{{cite journal 
+  |author1=Stephan Manning  |author2=Jörg Sydow |author3=Arnold Windeler 
+  |title=Securing Access to Lower-cost Talent Globally: The Dynamics of Active Embedding and Field Structuration 
+  |journal=Regional Studies |volume=46 |year=2012 |issue=9 |pages=1201–1218 |doi=10.1080/00343404.2011.571243 |s2cid=27458563 |url=http://sro.sussex.ac.uk/id/eprint/86264/1/RA13WP%202012%20RS%20Active%20Embedding.pdf }}</ref> French companies outsource to North Africa for similar reasons.
+
+For Australian IT companies, [[Indonesia]] is one of the major choice of offshoring destination. Near-shore location, common time zone and adequate IT work force are the reasons for offshoring IT services to Indonesia.
+
+===Growth of white-collar outsourcing===
+Although offshoring initially focused on manufacturing, [[White-collar worker|white-collar]] offshoring/outsourcing has grown rapidly since the early 21st century. The [[digital workplace|digital workforce]] of countries like [[India]] and [[China]] are only paid a fraction of what would be [[minimum wage]] in the US. On average, [[software engineer]]s are getting paid between 250,000 and 1,500,000 rupees (US$4,000 to US$23,000) in India as opposed to $40,000–$100,000 in countries such as the [[US]] and [[Canada]].<ref name="Gillis">[http://search.proquest.com/docview/203549187 Gillis, A. (2001, Digital sweatshops. This, 34, 6-6.]</ref> Closer to the US, [[Costa Rica]] has become a big source for the advantages of a highly educated labor force, a large bilingual population, stable democratic government, and similar time zones with the United States. It takes only a few hours to travel between Costa Rica and the US. Companies such as [[Intel]], [[Procter & Gamble]], HP, [[Gensler]], [[Amazon (company)|Amazon]] and [[Bank of America]] have big operations in Costa Rica.<ref>{{cite newspaper
+  |newspaper=Cincinnati Business Courier
+  |url=https://www.bizjournals.com/cincinnati/news/2018/04/03/former-p-g-manager-elected-president-of-costa-rica.html
+  |title=Former P&G manager elected president of Costa Rica
+  |author=Barrett J. Brunsman  |date=April 3, 2018}}</ref>
+
+Unlike outsourced manufacturing, outsourced white collar workers can choose their working hours, and for which companies to work. Clients benefit from [[telecommuting]], reduced office space, management salary, and employee benefits as these individuals are [[independent contractor|contracted workers]].<ref name="Ross">Ross, J; Irani, L; Silberman, M.S.; Zaldivar, A; Tomlinson, B (2010). "Who are the Crowdworkers? Shifting Demographics in Mechanical Turk". CHI 2010.</ref>
+
+However, ending a government oursourcing arrangement has its difficulties too.<ref>{{cite web  |website=[[The Washington Post]]
+  |url=https://www.washingtonpost.com/wp-srv/politics/documents/crsreportoninsourcing.pdf
+  |title=Insourcing Functions Performed by Federal Contractors: An Overview of the Legal Issues
+  |author1=Kate M. Manuel  |author2=Jack Maskell  |date=May 5, 2011}}</ref>
+
+==Reasons for outsourcing==      <!--- "Personal Offshoring" redirects to Outsourcing#Reasons for outsourcing,based on NYT article -->
+While U.S. companies do not outsource to reduce high top level executive or managerial costs,<ref name="CEO.pay">{{cite newspaper
+  |newspaper=[[The New York Times]]  |author=Albert R. Hunt
+  |url=https://www.nytimes.com/2007/02/18/world/americas/18iht-letter.4637416.html
+  |title=Letter From Washington: As U.S. rich-poor gap grows, so does public outcry – Americas – International Herald Tribune
+  |date=February 18, 2007}}</ref> they primarily outsource to reduce peripheral and "non-core" business expenses.<ref>Forey, Gail, and Jane Lockwood. Globalization, Communication and the Workplace: Talking across the World. New York: Continuum, 2011. Electronic Book #21-26.</ref> Further reasons are higher taxes, high energy costs, and excessive government regulation or mandates.
+
+Mandated benefits like [[social security]], [[Medicare (United States)|Medicare]], and safety protection ([[Occupational Safety and Health Administration|OSHA]] regulations) are also motivators.<ref>Buchholz, Todd G. Bringing the Jobs Home: How the Left Created the Outsourcing Crisis&nbsp;— and How We Can Fix It. New York: Sentinel, 2004. Print 97-118.</ref> By contrast, [[executive pay in the United States]] in 2007, which could exceed 400 times more than average workers — a gap 20 times bigger than it was in 1965<ref name="CEO.pay"/>
+is not a factor.<ref>"You don't hear complaints about Bill Gates."</ref>
+
+Other reasons include reducing and controlling operating costs, improving company focus, gaining access to world-class capabilities, tax credits,<ref>''[[Carbon Copy (software)|Carbon Copy]]'' accepted tax credits to move software duplication and packaging to Puerto Rico: (''Captive'') {{cite web
+   |url=https://www.joc.com/maritime-news/tax-benefits-low-labor-costs-lure-microcom-puerto-rico_19890126.html
+   |title=Tax Benefits, Low Labor Costs lure Microcom to Puerto Rico
+   |quote=the third U.S. software manufacturer to select Puerto Rico as a production site for the booming U.S. software market.
+   |author=Larry Luxner  |date=January 26, 1989}}</ref> freeing internal resources for other purposes, streamlining or increasing efficiency for time-consuming functions, and maximizing use of external resources. For small businesses, contracting/subcontracting/"outsourcing" might be done to improve [[work-life balance]]<ref>{{cite newspaper  |newspaper=[[Wall Street Journal]] (WSJ)
+   |url=https://www.wsj.com/articles/SB118073815238422013
+   |title=Outsourcing Your Life
+   |author=Ellen Gamerman  |date=June 2, 2007 |access-date=October 10, 2018}}</ref>
+
+==Outsourcing models==
+There are many outsourcing models, with variations<ref>{{cite web
+  |url=https://bpoconnect.com.au/define-outsourcing-models-5-forms-business-process-outsourcing
+  |title=Define Outsourcing Models: 5 Forms of Business Process Outsourcing
+  |date=January 29, 2015}}</ref> by country,<ref>{{cite magazine  |magazine=[[The Economist]]
+|url=https://www.economist.com/britain/2018/06/28/britains-outsourcing-model-copied-around-the-world-is-in-trouble
+|title=Britain's outsourcing model, copied around the world, is in trouble
+|date=June 28, 2018}}</ref> year<ref>{{cite web
+  |url=https://www.ssonetwork.com/customer-experience/articles/vested-a-business-model-for-21st-century-outsourci
+  |title=Vested: A Business Model for 21st Century Outsourcing
+  |date=May 29, 2012}}</ref><ref>[[Vested outsourcing]]</ref> and industry.<ref>{{cite web  |website=ADLittle ([[Arthur D. Little]])
+|url=http://www.adlittle.com/en/insights/viewpoints/outsourcing-model-redesign
+|title=Outsourcing model redesign}}</ref><ref name="TOA-MOO">{{Cite web
+   |url=https://theoutsourcedaccountant.com/blog/models-of-outsourcing
+   |title=Models of Outsourcing    |author=Nicholas Sinclair
+   |date=August 21, 2014  |website=The Outsourced Accountant
+   |archive-url=https://web.archive.org/web/20180627170819/http://theoutsourcedaccountant.com/blog/models-of-outsourcing
+   |archive-date=June 27, 2018  |access-date=February 19, 2019}}</ref>
+
+Another approach is to differentiate between tactical and strategic outsourcing models.  Tactical models include
+* staff augmentation
+* project-based
+* to gain expertise not available in-house.
+
+Strategic consultancy includes for [[Business process improvement]].<ref>{{Cite magazine  |magazine=[[Network World]]
+  |url=https://www.networkworld.com/article/2931822/infrastructure-management/what-outsourcing-engagement-model-is-right-for-you.html
+  |title=Outsourcing Engagement Models   |author1=Serhiy Haziyev  |author2=Halyna Semenova
+  |date=June 4, 2015  |publisher=IDG
+  |archive-url=https://web.archive.org/web/20180519085407/https://www.networkworld.com/article/2931822/infrastructure-management/what-outsourcing-engagement-model-is-right-for-you.html
+  |archive-date=May 19, 2018
+  |access-date=February 19, 2019}}</ref>
+
+===Innovation outsourcing===
+When offshore outsourcing knowledge work, firms heavily rely on the availability of technical personnel at offshore locations. One of the challenges in offshoring engineering innovation is a reduction in quality.<ref name=Failed4>{{Cite journal
+  |author1=Nils Brede Moe  |author2=Darja Šmite |author3=Geir Kjetil Hanssen |author4=Hamish Barney 
+  |date=2013-08-29  |title=From offshore outsourcing to insourcing and partnerships: four failed outsourcing attempts
+  |journal=Empirical Software Engineering  |volume=19 |issue=5 |pages=1225–1258
+  |doi=10.1007/s10664-013-9272-x |s2cid=6243809 |issn=1382-3256}}</ref>
+
+===Co-sourcing===
+'''Co-sourcing''' is a hybrid of internal staff supplemented by an external service provider.<ref>{{cite web |publisher=hreonline.com
+  |url=http://www.hreonline.com/HRE/story.jsp?storyId=80237620
+  |title='Co-Sourcing' and More   | author=Andrew R. McIlvaine
+  |date=March 16, 2008   |access-date=May 23, 2012
+  |archive-url=https://web.archive.org/web/20130513092203/http://www.hreonline.com/HRE/story.jsp?storyId=80237620
+  |archive-date=May 13, 2013}}</ref><ref>{{cite web  |publisher=[[informationweek]].com
+|url=http://www.informationweek.com/news/6502924
+|title=Out With 'Outsourcing' And In With 'Co-Sourcing'   |author=Diane Rezendes Khirallah
+|date=September 2, 2002   |access-date=May 23, 2012}}</ref>  Co-sourcing can minimize sourcing risks, increase transparency, clarity and lend toward better control than fully outsourced.<ref>Business Dictionary: {{cite web
+|url=http://www.businessdictionary.com/definition/co-sourcing.html
+|title=Archived copy   |access-date=2016-08-18
+|archive-url= https://web.archive.org/web/20160819235940/http://www.businessdictionary.com/definition/co-sourcing.html
+|archive-date=2016-08-19}}</ref>
+
+Co-sourcing services can supplement internal audit staff with specialized skills such as information [[risk management]] or integrity services, or help during peak periods, or similarly for other areas such as software development or human resources.
+
+====Identity management co-sourcing====
+[[Identity management]] co-sourcing is when on-site hardware<ref>{{cite web
+|url=https://www.microsoft.com/en-us/p/service-levels-68-success-secrets-68-most-asked-questions-on-service-levels-what-you-need-to-know/fgqpf3h0gvsd
+|title=68 success secrets |publisher=microsoft.com}}</ref><ref>{{cite web  |publisher=IBM.com
+   |title=extending messaging to enterprise collaboration
+   |url=ftp://ftp.software.ibm.com/pub/lotusweb/sox/eema05.pdf}}</ref> interacts with outside identity services.
+
+This contrasts with an "all in-the-cloud" service scenario, where the identity service is built, hosted and operated by the service provider in an externally hosted, [[cloud computing]] infrastructure.
+
+====Offshore Software R&D Co-sourcing====
+'''Offshore Software R&D''' is the provision of [[software development]] services by a supplier (whether external or internal) located in a different country from the one where the software will be used. The global software R&D services market, as contrasted to ''Information Technology Outsourcing'' (ITO) and [[Business process outsourcing|BPO]], is rather young and currently is at a relatively early stage of development.<ref name="news.bbc.co.uk">{{cite web|url=http://news.bbc.co.uk/2/hi/business/6279679.stm
+   |title=Globalisation shakes the world
+   |date=January 21, 2007 |access-date=April 10, 2019  |via=news.bbc.co.uk}}</ref>
+
+=====Countries involved in outsourced software R&D=====
+[[Canada]], [[India]], [[Ireland]], and [[Israel]] were the four leading countries as of 2003.<ref name="news.bbc.co.uk"/> Although many countries have participated in the Offshore outsourcing of software development, their involvement in co-sourced and outsourced Research & Development (R&D) was somewhat limited. Canada, the second largest by 2009, had 21%<ref>{{cite web
+   |title=UN Information Economy Report 2010  |page=49
+   |url=http://www.unctad.org/Templates/webflyer.asp?docid=13912&intItemID=5637&lang=1&mode=downloads}}</ref>
+
+As of 2018, the top three were deemed by one "research-based policy analysis and commentary from leading economists" as China, India and Israel."<ref>{{cite web
+   |url=https://voxeu.org/article/it-revolution-and-globalisation-rd
+   |title=The IT revolution and the globalisation of R&D 
+   |author1=Lee Branstetter  |author2=Britta Glennon  |author3=J. Bradford Jensen
+   |date=August 21, 2018}}</ref>
+
+[[Gartner]] Group adds in [[Russia]], but does not make clear whether this is pure R&D or run-of-the-mill IT outsourcing.<ref name="russoft.org">{{cite web
+   |url=http://www.russoft.org/docs/?doc=1123  |title=Offshore Outsourcing: Why Russia?
+   |access-date=April 10, 2019}}</ref>
+
+==Usability issues in offshore development==
+The main driver for offshoring development work has been the greater availability of developers at a lower cost than in the home country. However, the rise in offshore development has taken place in parallel with an increased awareness of the importance of usability, and the user experience, in software. Outsourced development poses special problems for development, i.e. the more formal, contractual relationship between the supplier and client, and geographical separation place greater distance between the developers and users, which makes it harder to reflect the users' needs in the final product. This problem is exacerbated if the development is offshore. Further complications arise from cultural differences, which apply even if the development is carried out by an in-house offshore team.<ref name=GrailComm.cio>{{cite magazine  |magazine=[[CIO magazine]]
+   |url=https://www.cio.com/article/2438045/communication--the-holy-grail-of-outsourcing.html
+   |title=Communication: The Holy Grail of Outsourcing
+   |author=Gabriel Fuchs   |date=September 14, 2007}}</ref>
+
+Historically offshore development concentrated on back office functions but, as offshoring has grown, a wider range of applications have been developed. Offshore suppliers have had to respond to the commercial pressures arising from usability issues by building up their usability expertise. Indeed, this problem has presented an attractive opportunity to some suppliers to move up market and offer higher value services.<ref>[http://www.userindesign.com/Images/Papers/Usability%20Issues%20in%20Offshore.pdf "Usability Issues in Offshore Development: an Indian Perspective"], accessed January 8, 2013</ref><ref>[http://www.clarotesting.com/page12.htm "What Happens to Usability when Development goes Offshore?"], accessed January 8, 2013</ref><ref>[http://www.userindesign.com/Images/Papers/Offshore%20Development%20Culture%20and%20UX.pdf "Offshore Development Culture and User Experience"], accessed January 8, 2013</ref>
+
+===Legal issues===
+Offshore Software R&D means that company A turns over responsibility, in whole or in part, of an in-house software development to company B whose location is outside of company A's national jurisdiction. Maximizing the economic value of an offshore software development asset critically depends on understanding how best to use the available forms of legal regulations to protect intellectual rights. If the vendor cannot be trusted to protect trade secrets, then the risks of an offshoring software development may outweigh its potential benefits. Hence, it is critical to review the intellectual property policy of the potential offshoring supplier. The intellectual property protection policy of an offshore software development company must be reflected in these crucial documents: General Agreement; Non-Disclosure Agreement; Employee Confidentiality Contract.<ref>How to protect intellectual property and confidential information dealing with offshore software development company? https://belitsoft.com/offshore-software-development-company/protect-intellectual-property-and-confidential-information</ref>
+
+===2000-2012 R&D===
+As forecast in 2003,<ref>{{cite web
+  |url=http://www.internetnews.com/dev-news/article.php/3069991
+  |title=R&D the Latest Target of Silicon Valley Outsourcing - InternetNews.
+  |website=internetnews.com  |access-date=April 10, 2019}}</ref> R&D is outsourced. Ownership of [[intellectual property]] by the outsourcing company, despite outside development, was the goal. To defend against tax-motivated cost-shifting, the US government passed regulations in 2006 to make outsourcing research harder.<ref>{{cite web
+  |url=https://www.rediff.com/money/2006/nov/27guest.htm
+  |title=US tightens grip on Indian R&D centres
+  |website=Rediff  |access-date=April 10, 2019}}</ref> Despite many R&D contracts given to Indian universities and labs, only some research solutions were patented.<ref>{{cite web
+  |url=https://economictimes.indiatimes.com/articleshow/693457.cms
+  |title=Desi scientists help MNCs with R&D solutions
+  |author=Sujata Dutta Sachdeva   |date=December 3, 2006
+  |access-date=April 10, 2019|via=The Economic Times}}</ref>
+
+While [[Pfizer]] moved some of its R&D from the UK to India,<ref>{{cite book
+   |title=India Inside: The Emerging Innovation Challenge to the West
+   |url=https://books.google.com/books?isbn=142214240X  |isbn=978-1422142400
+   |author1=Nirmalya Kumar  |author2=Phanish Puranam  |date=2011}}</ref> a [[Forbes]] article suggested that it is increasingly more dangerous to offshore IP sensitive projects to India, because of India's continued ignorance of patent regulations.<ref>{{cite web
+   |title=It's time to stop Outsourcing Pharma R&D to India
+   |date=October 2012
+   |url=https://www.forbes.com/sites/johnlamattina/2012/10/11/its-time-to-stop-outsourcing-pharma-rd-to-india/}}</ref> In turn, companies such as [[Pfizer]] and Novartis, have lost rights to sell many of their cancer medications in India because of lack of [[Intellectual Property|IP protection]].
+
+===Future trends===
+A 2018 "The Future of Outsourcing" report began with "The future of outsourcing is digital."<ref name=ChiLaw18>{{cite web
+   |access-date=2019-04-17     |title=The Future of Outsourcing  |date=2018
+   |url=https://www.law.uchicago.edu/files/2018-11/tech_transactions_uofc_event_compilation.pdf
+   |author1=Rebecca S. Eisner |author2=Daniel A. Masur |author3=Brad L. Peterson}}</ref> The ''""Do what you do best and outsource the rest"''<ref name=Drucker10/> approach means that "integration with retained systems"<ref name=ChiLaw18/> is the new transition challenge - people training still exists, but is merely an "also."
+
+There is more complexity than before, especially when the outside company may be an integrator.<ref name=ChiLaw18/>
+
+While the number of technically skilled labor grows in India, Indian offshore companies are increasingly tapping into the skilled labor already available in Eastern Europe to better address the needs of the Western European R&D market.<ref>Indian BPOs Dial Eastern Europe. Jun 2009. http://articles.economictimes.indiatimes.com/2009-06-12/news/27663963_1_indian-bpo-outsourcing-market-india-s-bpo</ref>
+
+====Changed government outsourcing focus====
+Forbes considers the [[US Presidential election 2016|US Presidential election of 2016] "the most disruptive change agent for the outsourcing industry",<ref name=Forb2020>{{cite magazine
+   |magazine=[[Forbes]]
+   |url=https://www.forbes.com/sites/forbestechcouncil/2018/03/21/outsourcing-in-the-new-normal-three-trends-reshaping-the-global-industry
+   |title=Outsourcing In The New Normal: Three Trends Reshaping The Global Industry
+   |author=Anna Frazzetto |date=March 21, 2018 |access-date=2019-04-17}}</ref> especially the renewed "invest in America" goalhighlighted in campaigning.
+
+Furthermore, there are growing legal requirements for [[data protection]], where obligations and implementation details must be understood by both sides.<ref name=ChiLaw18/><ref>e.g. NYS-mandated cybersecurity standards affecting "all institutions authorized ... to operate in New York..."</ref> This includes dealing with customer rights.<ref>South Korea requires giving digital service even when "the user refuses to give permission for data or functions that are not necessary to the provision of the service".</ref>
+
+==Implications==
+
+===Performance measurement===
+Focusing on [[software quality]] metrics is a good way to maintain track of how well a project is performing.
+
+===Management processes===
+Globalization and complex [[supply chains]], along with greater physical distance between higher management and the production-floor employees often requires a change in management methodologies, as inspection and feedback may not be as direct and frequent as in internal processes. This often requires the assimilation of new communication methods such as [[voice over IP]], [[instant messaging]], and [[Issue tracking]] systems, new [[time management]] methods such as [[Comparison of time tracking software|time tracking software]], and new cost- and schedule-assessment tools such as [[Comparison of development estimation software|cost estimation software]].{{Citation needed|date=August 2018}} Outsourcing often represents a managerial challenge, as outsourcing drivers and goals need to be continuously aligned with contractual and managerial aspects of the business relationship.<ref>{{Cite journal|last1=Obwegeser|first1=Nikolaus|last2=Arenfeldt|first2=Katrine|last3=Dam|first3=Amalie Corty|last4=Fenger|first4=Kim Harder|last5=Silkjaer|first5=Johan Vang|date=2020-01-02|title=Aligning drivers, contractual governance, and relationship management of IT-outsourcing initiatives|url=https://www.tandfonline.com/doi/full/10.1080/15228053.2020.1786265|journal=Journal of Information Technology Case and Application Research|language=en|volume=22|issue=1|pages=40–66|doi=10.1080/15228053.2020.1786265|s2cid=221056997|issn=1522-8053}}</ref> For example, strategic outsourcing initiatives that resemble corporate partnerships may rely less on strict contractual regulations and their enforcement (e.g., penalties and [[Service-level agreement|service-level-agreements]]) but rather focus on developing mutual [[Trust (social science)|trust]] and a shared strategic [[Strategic vision|vision]].<ref>{{Citation|last1=Jensen|first1=Preben|title=Trust and Control in Complex Information Systems Development|date=2015|url=http://link.springer.com/10.1007/978-3-319-24366-5_3|work=Information Systems: Development, Applications, Education|volume=232|pages=32–44|editor-last=Wrycza|editor-first=Stanislaw|place=Cham|publisher=Springer International Publishing|doi=10.1007/978-3-319-24366-5_3|isbn=978-3-319-24365-8|access-date=2020-09-17|last2=Ladefoged|first2=Christian|last3=Søgård|first3=Michael|last4=Obwegeser|first4=Nikolaus}}</ref><ref>{{Citation|last1=Maida|first1=Martina|title=A Multidimensional Model of Trust in Recommender Systems|date=2012|url=http://link.springer.com/10.1007/978-3-642-32273-0_19|work=E-Commerce and Web Technologies|volume=123|pages=212–219|editor-last=Huemer|editor-first=Christian|place=Berlin, Heidelberg|publisher=Springer Berlin Heidelberg|language=en|doi=10.1007/978-3-642-32273-0_19|isbn=978-3-642-32272-3|access-date=2020-09-17|last2=Maier|first2=Konradin|last3=Obwegeser|first3=Nikolaus|last4=Stix|first4=Volker|editor2-last=Lops|editor2-first=Pasquale}}</ref>
+
+====Communications and customer service====
+In the area of [[call center]] outsourcing, especially when combined with offshoring,<ref>Nadeem, S (2009) [http://nadeem.commons.gc.cuny.edu/files/2010/04/CS_Nadeem.pdf Macaulay's (Cyber) Children: The Cultural Politics of Outsourcing in India] {{webarchive|url=https://web.archive.org/web/20100620105537/http://nadeem.commons.gc.cuny.edu/files/2010/04/CS_Nadeem.pdf |date=2010-06-20 }}. Cultural Sociology.</ref> agents may speak with different [[linguistics|linguistic]] features such as [[Accent (dialect)|accents]], word use and phraseology, which may impede comprehension.<ref>Alster, N (2005) [http://www.cfo.com/article.cfm/4390954/c_2984406/?f=archives Customer Disservice.] {{webarchive|url=https://web.archive.org/web/20070702092211/http://www.cfo.com/article.cfm/4390954/c_2984406/?f=archives |date=2007-07-02 }} CFO.com.</ref><ref name="PC100">The words "100% U.S.Based Customer Service" (followed by "Talk to a real person any time") are on the back of envelopes mailed by a major USA corporation.</ref><ref>{{cite web
+   |url=https://www.moneyunder30.com/discover-card-customer-service
+   |title=Discover card's 100% U.S. Based Customer Service
+   |date=March 18, 2019}}</ref><ref>{{cite web
+|url=https://www.nerd#wallet.com/card-details/card-name/Discover-It-18-Month-Balance-Transfer <!--need better source,Black ?listed-->
+|title=Dis...
+|access-date=March 29, 2019}}</ref>   <!--- not clickable, info only, may be better off dropping now that found an acceptable source -->
+
+====Governance====
+In 1979, Nobel laureate [[Oliver E. Williamson]] wrote that the [[governance]] structure is the "framework within which the integrity of a transaction is decided." Adding further that "because contracts are varied and complex, governance structures vary with the nature of the transaction."<ref>Williamson, Oliver E. (1979) "Transaction-Cost Economics: The Governance of Contractual Relations," Journal of Law and Economics: Vol. 22: No. 2, Article 3|accessible at: {{cite web
+|url=http://chicagounbound.uchicago.edu/jle/vol22/iss2/3
+|title=Archived copy  |access-date=2016-08-16
+|archive-url=https://web.archive.org/web/20160919093134/http://chicagounbound.uchicago.edu/jle/vol22/iss2/3/
+|archive-date=2016-09-19}}</ref> [[University of Tennessee]] researchers have been studying complex outsourcing relationships since 2003. Emerging thinking regarding strategic outsourcing is focusing on creating a contract structure in which the parties have a vested interest in managing what are often highly complex business arrangements in a more collaborative, aligned, flexible, and credible way.<ref>{{cite book
+|author=Kate Vitasek  |title=The Vested Outsourcing Manual  |year=2011  |publisher=Palgrave Macmillan
+|location=New York  |isbn=978-0-230-11268-1  |edition=first|author-link=Kate Vitasek }}</ref><ref>Also see [[relational contract]]</ref>
+
+====Security====
+Reduced security, sometimes related to lower loyalty<ref>{{cite web  |website=BBC.co.uk
+|title=Outsourcing exposes firms to fraud   |url=http://news.bbc.co.uk/2/hi/business/4094894.stm 
+|date=June 16, 2005}}</ref> may occur, even when "outsourced" staff change their legal status but not their desk.  While security and compliance issues are supposed to be addressed through the contract between the client and the suppliers, fraud cases have been reported.
+
+In April 2005, a high-profile case involved the theft of $350,000 from four [[Citibank]] customers when call-center workers acquired the passwords to customer accounts and transferred the money to their own accounts opened under fictitious names. Citibank did not find out about the problem until the American customers noticed discrepancies with their accounts and notified the bank.<ref>{{cite web   |author=J. Ribeiro   |date=2005   |website=[[InfoWorld]].com   |url=http://www.infoworld.com/article/2668975/application-development/indian-call-center-workers-charged-with-citibank-fraud.html   |title=Indian call center workers charged with Citibank fraud   |access-date=2015-05-18   |archive-url=https://web.archive.org/web/20150924042721/http://www.infoworld.com/article/2668975/application-development/indian-call-center-workers-charged-with-citibank-fraud.html   |archive-date=2015-09-24   |url-status=dead   }}</ref>
+<!---  |date=2015-09-24 }}. www.infoworld.com</ref> -->
+
+====Information Technology====
+[[Richard Baldwin (economist)|Richard Baldwin]]'s 2006 ''The Great Unbundling'' work was followed in 2012 by ''Globalization's Second Acceleration (the Second Unbundling)'' and in 2016 by ''The Great Convergence: Information Technology and the New Globalization''.<ref>{{cite book
+|url=https://harvardpress.typepad.com/hup_publicity/2016/11/globalizations-three-unbundlings-richard-baldwin.html
+|title=The Great Convergence: Information Technology and the New Globalization
+|author=Richard Baldwin|author-link=Richard Baldwin (economist)
+}}</ref> It is here, rather than in manufacturing, that the bits economy can advance in ways that the economy of atoms and things can't: an early 1990s Newsweek had a half page cartoon showing someone who had just ordered a pizza online, and was seeking help to download it.
+
+====Step-in rights====
+{{main|Step-in rights}}
+If both sides have a contract clause permitting [[step-in rights]],<ref name=StepIn.BBC19>{{cite web |website=[[BBC News|BBC.com]]
+   |url=https://www.bbc.co.uk/mediacentre/speeches/2019/clementi-omc
+   |title=Speech by Sir David Clementi to the Oxford Media
+   |quote=oversight of the BBC, including step-in rights
+   |date=March 18, 2019}}</ref> then there is a right, though not an obligation,<ref name=StepIn.FCAmag>{{cite magazine
+|magazine=FCA Magazine
+|url=https://www.fca-magazine.com/features/legal-and-business/511-collateral-warranties-and-third-party-rights
+|title=Collateral Warranties and Third Party Rights
+|author=David Brown |date=April 1, 2016}}</ref> to take over a task that is not going well, or even the entire project.
+
+==Issues and reversals==
+[[File:Gambling table - Zensar (3630410644).jpg|thumb|Demonstrating need to ensure outsourcing gains are realised and losses avoided at a summit in London in 2009]]
+A number of outsourcings and offshorings that were deemed failures<ref>{{cite magazine
+|url=https://www.informationweek.com/it-leadership/why-it-outsourcing-often-fails/d/d-id/1105317
+|title=Why IT Outsourcing Often Fails
+|quote=ineffectual leadership, process failures, talent issues
+|author=Jim Ditmore |magazine=[[InformationWeek]]}}</ref><ref>{{cite web
+   |url=https://www.cio.com/article/2434091/it-outsourcing-gone-bad--4-painful-lessons.html
+   |title=IT Outsourcing Gone Bad: 4 Painful Lessons
+   |quote=In the .. $4 billion deal between the U.S. Navy and .. EDS, .. in 2003, ... reasons behind the failure are complex, but ..
+   |author=Ephraim Schwartz}}</ref><ref name=Failed4/> led to reversals<ref name="Forbes.CIO">{{cite magazine  |magazine=[[Forbes]]  |url=https://www.forbes.com/sites/ciocentral/2013/01/16/why-some-u-s-companies-are-giving-up-on-outsourcing
+|title=Why Some U.S. Companies Are Giving Up On Outsourcing
+|author1=Eric Savitz  |author2=Andy Sealock  |author3=Christopher Stacy
+|quote=GM is not the only company to pull back at least a portion of its previously outsourced offshore IT operations.
+|date=January 16, 2013}}</ref><ref>NYTimes,2017: "Mr. Lacerte ... had farmed out but the headaches of navigating time zones, cultures and language ...  problems went away when ...</ref> signaled by use of terms such as [[#Insourcing|Insourcing]] and [[reshoring]]. The New York Times reported in 2017 that IBM "plans to hire 25,000 more workers in the United States over the next four years," overlapping India-based [[Infosys]]'s "10,000 workers in the United States over the next two years."<ref name="NYT.17">{{cite website  |website=NYTimes.com
+  |url=https://www.nytimes.com/2017/07/30/technology/hot-spot-for-tech-outsourcing-the-united-states.html
+  |title=Hot Spot for Tech Outsourcing: The United States
+  |author=Steve Lohr  |date=July 30, 2017}}</ref> A clue to a tipping point having been reached was a short essay titled "Maybe You Shouldn’t Outsource Everything After All"<ref name="NYT.Hap18">{{cite newspaper  |newspaper=[[The New York Times]]
+|url=https://www.nytimes.com/2018/05/07/your-money/outsource-happiness.html
+|title=Maybe You Shouldn't Outsource Everything After All
+|author=Carl Richards  |date=May 7, 2018}}</ref> and the longer "That Job Sent to India May Now Go to Indiana."
+<!--NYTimes-->
+
+Among problems encountered were supply-and-demand induced raises in salaries and lost benefits of similar-time-zone. Other issues were differences in language and culture.<ref name="NYT.17" /><ref name="PC100" /> Another reason for a decrease in outsourcing is that many jobs that were subcontracted abroad have been replaced by technological advances.<ref name=Econ1/>
+
+According to a 2005 [[Deloitte|Deloitte Consulting]] survey, a quarter of the companies which had outsourced tasks reversed their strategy.<ref name=Econ1>{{cite web
+|url=https://www.economist.com/news/special-report/21569572-after-decades-sending-work-across-world-companies-are-rethinking-their-offshoring
+|title=Here, There and Everywhere - After decades of sending work across the world, companies are rethinking their offshoring strategies
+|publisher=[[The Economist]] (London) |date=January 17, 2013 |access-date=January 19, 2013 |author=Tamzin Booth
+|archive-url=https://web.archive.org/web/20130118202607/http://www.economist.com/news/special-report/21569572-after-decades-sending-work-across-world-companies-are-rethinking-their-offshoring|archive-date=January 18, 2013}}</ref>
+
+These reversals, however, did not undo the damage. New factories often:
+* were in different locations
+* needed different skill sets
+* used more automation.<ref name=NYT.ecoBart/>
+
+Public opinion in the US and other Western powers opposing outsourcing was particularly strengthened by the drastic increase in unemployment as a result of the 2007–2008 financial crisis. From 2000 to 2010, the US experienced a net loss of 687,000 jobs due to outsourcing, primarily in the computers and electronics sector. Public disenchantment with outsourcing has not only stirred political responses, as seen in the [[2012 United States presidential election|2012 US presidential campaigns]], but it has also made companies more reluctant to outsource or offshore jobs.<ref name=Econ1/>
+
+A counterswing depicted by a 2016 [[Deloitte]] survey suggested that companies are no longer reluctant to outsource.<ref>"Outsourcing accelerates forward", (2016) Deloitte 2016 Global Outsourcing Survey accessed 18 August 2016 at {{cite web
+ |url=http://www2.deloitte.com/content/dam/Deloitte/us/Documents/process-and-operations/us-cons-sdt-gos-exec-summary-2016.pdf
+ |title=Archived copy |access-date=2016-08-18
+ |archive-url=https://web.archive.org/web/20170112100552/https://www2.deloitte.com/content/dam/Deloitte/us/Documents/process-and-operations/us-cons-sdt-gos-exec-summary-2016.pdf
+ |archive-date=2017-01-12}}</ref> Deloitte's survey identified three trends:
+* Companies are broadening their approach to outsourcing as they begin to view it as more than a simple cost-cutting play
+* Organizations are "redefining the ways they enter into outsourcing relationships and manage the ensuing risks".
+* Organizations are changing the way they are managing their relationships with outsourcing providers to "maximize the value of those relationships".
+
+===Insourcing===
+'''Insourcing''' is the process of reversing an outsourcing, possibly using help from those not currently part of the inhouse staff.<ref name="auto">{{cite web |website=Plunkettresearch.com
+  |url=http://www.plunkettresearch.com/outsourcing-offshoring-bpo-market-research/industry-and-business-data
+  |title=Outsourcing, BPO & Contract Manufacturing Market Research-Access Industry Trends, Revenues, Statistics, Forecasts, Technologies, Mailing Lists
+  |access-date=2017-05-23}}</ref><ref>{{cite web |website=Whatis.techtarget.com
+  |author=Margaret Rouse 
+  |url=http://whatis.techtarget.com/definition/insourcing
+  |title= What is insourcing? - Definition from WhatIs.com  |access-date=2017-05-23}}</ref><ref>Marc J. Schniederjans, ''Outsourcing and Insourcing In an International Context''(New York: M.E. Sharpe, 2005) 3.</ref>
+
+Outsourcing has gone through many iterations and reinventions, and some outsourcing contracts have been partially or fully reversed.  Often the reason is to maintain control of critical production or competencies, and insourcing is used to reduce costs of taxes, labor and transportation.<ref name="Shermon, G.">Shermon, G (2017). "Digital Talent – Business Models and Competencies" Page 190</ref>
+
+[[Regional insourcing]], a related term, is when a company assigns work to a subsidiary that is within the same country. This differs from ''onshoring'' and ''reshoring'': these may be either inside or outside the company.
+
+====Regional insourcing====
+'''Regional insourcing''' is a process in which a company establishes satellite locations for specific entities of their business, making use of advantages one state may have over another<ref>such as taxes, education, or workforce skill sets</ref><ref>David Van Adelsberg, and Edward A Trolley, "Strategic Insourcing: Getting the Most from the Best," ''Training and Development'' 52. no. 7 (1998): 57-59.</ref> This concept focuses on the delegating or reassigning of procedures, functions, or jobs from production within a business in one location to another internal entity that specializes in that operation.  This allows companies to streamline production, boost competency, and increase their bottom line.
+
+This competitive strategy applies the classical argument of [[Adam Smith]], which posits that two nations would benefit more from one another by trading the goods that they are more proficient at manufacturing.<ref>Adam Smith, ''The Wealth of Nations: Part II'' (New York: Princeton Library, 1902), 102-104</ref><ref>Robert C. Feenstra, Gordon H. Hanson, "Globalization, Outsourcing, and Wage Inequality." ''American Economic Review'' 86. no 2 (1996): 240-245.</ref>
+
+====Net effect on jobs====
+To those who are concerned that nations may be losing a net number of jobs due to outsourcing, some<ref>{{cite web
+  |author=Harold L. Sirkin
+  |url=https://www.bcgperspectives.com/content/articles/manufacturing_supply_chain_management_made_in_america_again
+  |title=Made in America, Again     |website=Bcg.perspectives
+  |date=2011-08-25  |access-date=2017-05-23}}</ref> point out that insourcing also occurs. A 2004 study<ref>{{cite web
+     |author1=Mary Amiti  |author2=Shang-Jin Wei  |date=2004
+     |url=http://www.imf.org/external/pubs/ft/wp/2004/wp04186.pdf
+     |title=Fear of Service Outsourcing: Is it Justified?   |publisher=WP/04/186, International Monetary Fund
+     |access-date=2017-05-23}}</ref> in the United States, the United Kingdom, and many other industrialized countries more jobs are insourced than outsourced.  The New York Times disagreed, and wrote that free trade with low-wage countries is win-lose for many employees who find their jobs offshored or with stagnating wages.<ref>{{cite newspaper
+   |newspaper=[[The New York Times]] |date=December 12, 2007
+   |url=https://www.nytimes.com/2007/12/28/opinion/28krugman.html
+   |author=Paul Krugman
+   |title=The Trouble with Trade}}</ref>
+
+The impact of offshore outsourcing, according to two estimates published by [[The Economist]] showed unequal effect during the period studied 2004 to 2015, ranging from 150,000 to as high as 300,000 jobs lost per year.<ref>{{cite magazine  |magazine=[[The Economist]]
+   |url=https://www.economist.com/news/special-report/21569568-offshored-jobs-return-rich-countries-must-prove-they-have-what-it-takes-shape 
+   |title=What to Do Now: Shape Up  |date=January 2013}}</ref>
+
+In 2010, a group of manufacturers started the Reshoring Initiative, focusing on bringing manufacturing jobs for American companies back to the country.<ref name=Manor>{{Cite news
+  |url=https://www.manortool.com/blog/top-reasons-for-reshoring-in-manufacturing
+  |title=Top Reasons for Reshoring in Manufacturing - Manor Tool
+  |date=2015-01-29  |work=Manor Tool  |access-date=2018-02-08}}</ref> Their data indicated that
+140,000 American jobs were lost in 2003 due to offshoring. Eleven years later in 2014, the United States recovered 10,000 of those offshored positions; this marked the highest net gain in 20 years.<ref name=R.init>{{Cite news
+  |url=http://www.industryweek.com/competitiveness/reshoring-numbers
+  |title=Reshoring: By the Numbers  |date=2017-03-20  |work=IndustryWeek 
+  |access-date=2018-02-08}}</ref> More than 90% of the jobs that American companies "offshored" and outsourced manufacturing to low cost countries such as [[China]], [[Malaysia]] and [[Vietnam]] did not return.<ref name=Manor/><ref name=R.init/>
+
+====Insourcing crossbreeds====
+The fluctuation of prefixes and names give rise to many more "cross-breeds" of insourcing. For example, "offshore insourcing" is "when companies set up their own "{{visible anchor|captive}}" process centers overseas, sometimes called a ''Captive Service'',<ref>{{cite web
+   |publisher=OutsourceNews  |title=Business Process Outsourcing – Captive service or third party vendors?
+   |url=http://www.CustomerFocusServices.com/www/Outsourcenews.com/Articles/captive_bpo_and_third_party_bpo.html 
+   |access-date=2008-10-09 |url-status=dead
+|archive-url=https://web.archive.org/web/20081011091128/http://www.customerfocusservices.com/www/Outsourcenews.com/Articles/captive_bpo_and_third_party_bpo.html |archive-date=2008-10-11}}</ref> taking advantage of their cheaper surroundings while maintaining control of their back-office work and business processes."<ref>{{cite web  |website=Searchcio.techtarget.com
+|url=http://searchcio.techtarget.com/news/922525/Gartner-Dont-forget-to-insource
+|title=Gartner: Don't forget to insource    |date=2003-09-04  |access-date=2017-05-23}}</ref> "{{Visible anchor|Remote insourcing}}" refers to hiring developers to work in-house from virtual (remote) facilities.<ref>{{cite web
+|url=http://www.bpmwatch.com/columns/in-sourcing-a-closer-look-at-an-emerging-outsourcing-trend
+|title= Archived copy  |access-date=2013-03-25   |url-status=dead
+|archive-url=https://web.archive.org/web/20130303212216/http://www.bpmwatch.com/columns/in-sourcing-a-closer-look-at-an-emerging-outsourcing-trend
+|archive-date=2013-03-03}}</ref>
+
+====In the United States====
+A 2012 series of articles in [[The Atlantic|Atlantic Magazine]]<ref name="PastF.ATL">January: {{cite magazine
+|url=https://www.theatlantic.com/business/archive/2012/01/the-past-and-future-of-american-manufacturing/251351
+|title=The Past and Future of American Manufacturing}}</ref><ref name="ManSpecial.ATL">February: {{cite magazine
+   |url=https://www.theatlantic.com/business/archive/2012/02/manufacturing-is-special-why-america-needs-its-makers/252796
+   |title=Manufacturing is Special: Why America Needs its Makers}}</ref><ref name="ManRecov.ATL">June:{{cite magazine
+|url=https://www.theatlantic.com/business/archive/2012/06/the-amazing-and-puzzling-manufacturing-recovery/258148
+|title=The Amazing (and Puzzling) Manufacturing Recovery}}</ref><ref name="InBoom.ATL">December: {{cite magazine
+|url=https://www.theatlantic.com/magazine/archive/2012/12/the-insourcing-boom/309166
+|title=The Insourcing Boom}}</ref> highlighted a turning of the tide for parts of the USA's manufacturing industry. Specific causes identified include rising third-world wages, recognition of hidden off-shoring costs, innovations in design/manufacture/assembly/time-to-market, increasing fuel and transportation costs, falling energy costs in the US, increasing US labor productivity, and union flexibility. Hiring at GE's giant [[Appliance Park]] in [[Louisville, Kentucky|Louisville]] increased 90% during 2012.
+
+===Standpoint of labor===
+From the standpoint of labor, outsourcing may represent a new threat, contributing to worker insecurity, and is reflective of the general process of [[globalization]] and [[Polarization (economics)|economic polarization]].<ref>[[Paul Krugman|Krugman, Paul]] (2006). "Feeling No Pain." ''New York Times'', March 6, 2006.</ref>
+* ''Low-skilled work'': Outsourced low-skilled work to contractors who tend to employ migrant labor<ref>{{Cite web
+   |title=Union takes action against university on grounds of discrimination against outsourced BAME staff
+   |url=https://londonnewsonline.co.uk/union-takes-action-against-university-on-grounds-of-discrimination-against-outsourced-bame-staff
+   |access-date=2020-08-01 |language=en-GB}}</ref> is causing a revival of radical trade union activity. In the UK, major hospitals, universities,<ref>{{Cite newspaper |last=Elia |first=Petros |date=2019-10-24
+|title=It's time for universities to stop underpaying their outsourced workers {{!}} Petros Elia |language=en-GB
+|newspaper=[[The Guardian]]
+|url=https://www.theguardian.com/education/2019/oct/24/its-time-for-universities-to-finally-stop-underpaying-their-outsourced-workers
+|access-date=2020-08-01 |issn=0261-3077}}</ref> ministries and corporations are being pressured; outsourced workers often earn minimum wage and lack sick pay, annual leave, pensions and other entitlements enjoyed by directly employed staff at the same workplaces.<ref>{{Cite web
+   |title=Subscribe to read {{!}} Financial Times
+   |url=https://www.ft.com/content/576c68ea-3784-11ea-a6d3-9a26f8c3cba4|access-date=2020-08-01
+   |website=www.ft.com}}</ref>
+* ''In-housing'': In January 2020, Tim Orchard, the CEO of [[Imperial College Healthcare NHS Trust|Imperial College Healthcare Trust]] stated that the in-housing of over 1,000 [[Sodexo]] cleaners, caterers and porters across five [[National Health Service|NHS]] hospitals in London "will create additional cost pressures next year but we are confident that there are also benefits to unlock, arising from better team working, more co-ordinated planning and improved quality."<ref>{{Cite web|title=Subscribe to read {{!}} Financial Times|url=https://www.ft.com/content/d2cabb4a-4373-11ea-a43a-c4b328d9061c|access-date=2020-08-01|website=www.ft.com}}</ref>
+* ''USA base'': On June 26, 2009, [[Jeff Immelt]], the CEO of [[General Electric]], called for the United States to increase its manufacturing base employment to 20% of the workforce, commenting that the U.S. has outsourced too much and can no longer rely on consumer spending to drive demand.<ref name="Immelt">Bailey, David and Soyoung Kim (June 26, 2009).[https://www.theguardian.com/business/feedarticle/8578904 GE's Immelt says U.S. economy needs industrial renewal] {{webarchive|url=https://web.archive.org/web/20150611181851/http://www.theguardian.com/business/feedarticle/8578904 |date=2015-06-11 }}.''UK Guardian.''. Retrieved on June 28, 2009.</ref>
+
+===Standpoint of government===
+Western governments may attempt to compensate workers affected by outsourcing through various forms of legislation. In Europe, the [[Acquired Rights Directive]] attempts to address the issue. The Directive is implemented differently in different nations. In the United States, the [[Trade Adjustment Assistance]] Act is meant to provide compensation for workers directly affected by international trade agreements. Whether or not these policies provide the security and fair compensation they promise is debatable.
+
+====Government response====
+In response to the recession, President Obama launched the [[SelectUSA]] program in 2011. In January 2012, President Obama Issued a Call to Action to Invest in America at the White House "Insourcing American Jobs" Forum.<ref name="whitehouse1">{{Cite web
+ |url= http://www.whitehouse.gov/the-press-office/2012/01/11/president-obama-issues-call-action-invest-america-white-house-insourcing
+ |title=President Obama Issues Call to Action to Invest in America at White House "Insourcing American Jobs" Forum|work=The White House
+ |access-date=January 11, 2012  |author=Office of the Press Secretary}}</ref> Obama met with representatives of companies such as [[Otis Elevator]], [[Apple Inc.|Apple]], [[DuPont]], [[Master Lock]], all of which had recently brought jobs back or made significant investments in the United States.
+
+====Policy-making strategy====
+A main feature of outsourcing influencing policy-making is the unpredictability it generates regarding the future of any particular sector or skill-group. The uncertainty of future conditions influences governance approaches to different aspects of long-term policies.
+
+In particular, distinction is needed between
+* ''cyclical unemployment'' – for which ''pump it up'' solutions have worked in the past, and
+* ''structural unemployment'' – when "businesses and industries that employed them no longer exist, and their skills no longer have the value they once did."<ref name=NYT.ecoBart>{{cite newspaper
+  |url=https://economix.blogs.nytimes.com/2013/01/29/outsourcing-insourcing-and-automation
+  |title=Outsourcing, Insourcing and Automation
+  |author1=Floyd Norris  |author2=chief financial correspondent  |newspaper=[[The New York Times]]
+  |date=January 29, 2013}}</ref>
+
+=====Competitiveness=====
+A governance that attempts adapting to the changing environment will facilitate growth and a stable transition to new economic structures<ref name="Baldwin.2006">{{cite book   |author=Richard Baldwin  |date=2006
+  |title=Globalisation: the great unbundling(s), Chapter 1: Globalization Challenges for Europe
+  |publisher=Secretariat of the Economic Council, Finnish Prime Minister's Office, Helsinki, 2006 |url=https://tind-customer-iheid.s3.amazonaws.com/ac47d5b8-b994-46e6-82f2-6db4706472e9?response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27Baldwin_06-09-20.pdf&response-content-type=application%2Fpdf&AWSAccessKeyId=AKIAXL7W7Q3XHRF6JAHR&Expires=1559755900&Signature=O5WWc62BT8WNLmewqAeoFfT1roA%3D}}</ref> until the economic structures become detrimental to the social, political and cultural structures.
+
+Automation increases output and allows for reduced cost per item. When these changes are not well synronized, unemployment or underemployment is a likely result. When transportation costs remain unchanged, the negative effect may be permanent;<ref name=NYT.ecoBart/> jobs in protected sectors may no longer exist.<ref name="Stiglitz, J. And Charlton 2005">Stiglitz, J. And Charlton, A., (2005). "Trade can be Good for Development," Ch. 2 in Fair Trade for All, Oxford University Press, Oxford, NY.</ref>
+
+USA outsourcing's effect on Mexico, studies suggest, is that for every 10% increase in US wages, north Mexico cities along the [[Mexico–United States border|border]] experienced wage rises of 2.5%, about 0.69% higher than in inner cities.<ref>Hanson, G. (2003), "What Has Happened to Wages in Mexico Since [[North American Free Trade Agreement|NAFTA]]", NBER Working Paper Series, National Bureau of Economic Research, Cambridge, MA.</ref>
+
+By contrast, higher rates of saving and investment in Asian countries, along with rising levels of education, studies suggest, fueled the ‘Asian miracle’ rather than improvements in productivity and industrial efficiency. There was also an increase in patenting and research and development expenditures.<ref>Krugman, P., Obtsfeld, M. And Melitz, M., (2012) "East Asia: Success and Crisis", in International Economics: Theory and Policy, Addison-Wesley.</ref>
+
+=====Industrial policy=====
+Outsourcing results from an internationalization of labor markets as more tasks become tradable. According to leading economist [[Greg Mankiw]], the labour market functions under the same forces as the market of goods, with the underlying implication that the greater the number of tasks available to being moved, the better for efficiency under the gains from trade. With technological progress, more tasks can be offshored at different stages of the overall corporate process.<ref name=Mankiw>{{cite web
+   |website=Harvard.edu (drafted 2005, published 2006: working paper for the American Enterprise Institute for Public Policy)
+   |title=The Politics and Economics of Offshore Outsourcing
+   |url=https://scholar.harvard.edu/files/mankiw/files/outsourcing_-_march_7_2006.pdf
+   |author1=N. G. Mankiw   |author2=P. Swagel |date=2006}}</ref>
+
+The tradeoffs are not always balanced, and a 2004 viewer of the situation said "the total number of jobs realized in the United States from insourcing is far less than those lost through outsourcing."<ref name="NYT.in">{{cite web   |website=NYTimes.com
+  |url=https://www.nytimes.com/2004/04/25/business/l-outsourcing-s-other-side-347981.html
+  |title=Outsourcing's Other Side  |date=April 25, 2004}}</ref>
+
+=====Environmental policy=====
+Import competition has caused a de facto ‘race-to-the-bottom’ where countries lower environmental regulations to secure a competitive edge for their industries relative to other countries.
+
+As Mexico competes with China over Canadian and American markets, its national [[Commission for Environmental Cooperation]] has not been active in enacting or enforcing regulations to prevent environmental damage from increasingly industrialized Export Processing Zones. Similarly, since the signing of [[North American Free Trade Agreement|NAFTA]], heavy industries have increasingly moved to the US which has a comparative advantage due to its abundant presence of capital and well-developed technology. A further example of environmental de-regulation with the objective of protecting trade incentives have been the numerous exemptions to carbon taxes in European countries during the 1990s.
+
+Although outsourcing can influence environmental de-regulatory trends, the added cost of preventing pollution does not majorly determine trade flows or industrialization.<ref>Copeland, B. (2007), "Trade and the Environment: What do we do now", Ch. 39 in Handbook on International Trade Policy, ed. Kerr, W and Gaosford, J., Edward Elgar Publishing</ref>
+
+===Success stories===
+Companies such as [[Jain Irrigation Systems|ET Water Systems (now a Jain Irrigation Systems company)]],<ref name=OutsoETwater.NYT2012>{{cite newspaper
+   |newspaper=[[The New York Times]]
+   |url=https://www.nytimes.com/2012/06/28/technology/google-and-others-give-manufacturing-in-the-us-a-try.html
+   |title=Google Tries Something Retro: Made in the U.S.A.
+   |author=John Markoff  |date=June 27, 2012}}</ref> [[GE Appliances]] and [[Caterpillar Inc.|Caterpillar]] found that with the increase of labor costs in Japan and China, the cost of shipping and custom fees, it cost only about 10% more to manufacture in America.<ref name=Econ1/> Advances in technology and automation such as [[3D printing]] technologies<ref>{{Cite journal
+ |author1=Christian F. Durach  |author2=Stefan Kurpjuweit |author3=Stephan M. Wagner
+ |date=2017-09-25  |title=The impact of additive manufacturing on supply chains
+ |journal=International Journal of Physical Distribution & Logistics Management
+ |volume=47  |issue=10  |pages=954–971 |doi=10.1108/ijpdlm-11-2016-0332
+ |issn=0960-0035}}</ref> have made bringing manufacturing back to the United States, both cost effective and possible. [[Adidas]], for example, plans producing highly customized shoes with 3D printers in the U.S.<ref>{{Cite news
+   |url=https://www.reuters.com/article/us-adidas-manufacturing/adidas-to-mass-produce-3d-printed-shoe-with-silicon-valley-start-up-idUSKBN1790F6
+   |title=Adidas to mass-produce 3D-printed shoe with Silicon Valley start-up
+   |date=April 7, 2017  |work=[[Reuters]] |access-date=2018-01-02}}</ref>
+
+===Globalization and socio-economic implications===
+{{Main|Globalization}}
+
+====Industrialization====
+Outsourcing has contributed to further levelling of global inequalities as it has led to general trends of industrialization in the Global South and deindustrialization in the Global North.
+
+Not all manufacturing should return to the U.S.<ref name="bsc1">{{Cite web
+  |url=https://www.reshoringinstitute.org/reshoring-blog/china-its-in-the-cards
+  |title=China – It's in the Cards
+  |work=Reshoring Institute Blog
+  |access-date=March 17, 2014  |author=Daisie Hobson}}</ref> The rise of the middle class in China, India and other countries has created markets for the products made in those countries. Just as the U.S. has a "Made in U.S.A." program, other countries support products made in their countries as well.  Localization, the process of manufacturing products for the local market, is an approach to keeping some manufacturing offshore and bringing some of it back. Besides the cost savings of manufacturing closer to the market, the lead time for adapting to changes in the market is faster.
+
+The rise in industrial efficiency which characterized development in developed countries has occurred as a result of labor-saving technological improvements. Although these improvements do not directly reduce employment levels but rather increase output per unit of work, they can indirectly diminish the amount of labor required for fixed levels of output.<ref>Easterly, W. (2002), "Solow's Surprise: Investment is not the Key to Growth", Ch. 3 in The Elusive Quest for Growth, The MIT Press, Cambridge.</ref>
+
+====Growth and income====
+It has been suggested that "workers require more education and different skills, working with software rather than drill presses" rather than rely on limited growth labor requirements for non-tradable services.<ref name=NYT.ecoBart/>
+
+==By location==
+
+===United States===
+Protection of some data involved in outsourcing, such as about patients ([[Health Insurance Portability and Accountability Act|HIPAA]]) is one of the few federal protections.<ref>{{cite web
+   |url=https://iclg.com/practice-areas/outsourcing-laws-and-regulations/usa
+   |title=Outsourcing 2018 (USA)}}</ref>
+
+"Outsourcing" is a continuing political issue in the United States, having been conflated with offshoring during the [[2004 United States presidential election|2004 U.S. presidential election]]. The political debate centered on outsourcing's consequences for the domestic U.S. workforce. [[United States Democratic Party|Democratic]] U.S. presidential candidate [[John Kerry]] called U.S. firms that outsource jobs abroad or that incorporate overseas in [[tax haven]]s to avoid paying their "fair share" of [[Taxation in the United States|U.S. taxes]] "[[Benedict Arnold]] corporations".
+
+A [[Zogby International]] August 2004 poll found that 71% of American voters believed "outsourcing jobs overseas" hurt the economy while another 62% believed that the U.S. government should impose some legislative action against these companies, possibly in the form of increased taxes.<ref>Zogby International survey results online at [http://www.zogby.com/news/2004/09/22/majority-of-americans-71-say-outsourcing-jobs-overseas-bad-for-us-economy-china-viewed-as-greatest-e/ zogby.com]{{dead link|date=December 2017 |bot=KAP03 |fix-attempted=yes }}</ref><ref>Bonasia, J. (2010, December 03). Offshoring, for good or ill, comes of age putting India on the map competitive world markets demand outsourcing, but it does drain domestic jobs. Investor's Business Daily. A04.</ref> President Obama promoted the '[http://www.govtrack.us/congress/bills/112/s3364 Bring Jobs Home Act]' to help reshore jobs by using tax cuts and credits for moving operations back to the USA.<ref>Congressional Documents and Publications. (2012, May 16). Brown outlines "Bring Jobs Home Act" aim at encouraging business to bring hobs back to the U.S. 2012 Federal Information and News Dispatch, Inc.</ref> The same bill was reintroduced in the [[113th United States Congress]] as the [[Bring Jobs Home Act (S. 2569; 113th Congress)]].<ref name="PoliticoBorrowedTime">{{cite news
+   |author=Burgess Everett
+   |title=Borrowed time: Tale of a Walsh bill
+   |url=http://www.politico.com/story/2014/07/john-walsh-bring-jobs-home-act-bill-109307.html
+   |access-date=July 25, 2014   |publisher=Politico   |date=July 23, 2014
+   |archive-url=https://web.archive.org/web/20140724223856/http://www.politico.com/story/2014/07/john-walsh-bring-jobs-home-act-bill-109307.html
+   |archive-date=July 24, 2014}}</ref><ref name="2569sum">{{cite web   |publisher=United States Congress
+|title=S. 2569 – Summary
+|url=https://beta.congress.gov/bill/113th-congress/senate-bill/2569
+|access-date=July 25, 2014
+|archive-url=https://web.archive.org/web/20140728161506/https://beta.congress.gov/bill/113th-congress/senate-bill/2569
+|archive-date=July 28, 2014}}</ref>
+
+While labor advocates claim [[union busting]] as one possible cause of outsourcing,<ref>{{cite web  |publisher=[[American Rights at Work]]
+|url=http://act.americanrightsatwork.org/p/dia/action/public/?action_KEY=576
+|title=Tell Xerox to Stop Unionbusting and Shipping Jobs Overseas
+|access-date=2011-03-09
+|url-status=dead
+|archive-url=https://web.archive.org/web/20110714040839/http://act.americanrightsatwork.org/p/dia/action/public/?action_KEY=576
+|archive-date=2011-07-14}}</ref> another claim is high corporate income tax rate in the U.S. relative to other OECD nations,<ref>{{cite web
+   |url=http://www.taxfoundation.org/news/show/1466.html
+   |title=U.S. Lagging Behind OECD Corporate Tax Trends  |publisher=The Tax Foundation
+   |date=2006-05-05   |access-date=2010-03-15
+   |archive-url=https://web.archive.org/web/20090706032603/http://www.taxfoundation.org/news/show/1466.html
+   |archive-date=2009-07-06}}</ref><ref>{{cite web
+|author=John Tamny
+|url=http://article.nationalreview.com/?q=ODZjNjI4ZTNjZmNiOGMxYjAwOTg1ZGI0NmFiOWFjZjI=
+|title=John Tamny on Hillary Clinton Economics on NRO Financial
+|publisher=Article.nationalreview.com   |access-date=2010-03-15
+|url-status=dead
+|archive-url=https://web.archive.org/web/20090109171714/http://article.nationalreview.com/?q=ODZjNjI4ZTNjZmNiOGMxYjAwOTg1ZGI0NmFiOWFjZjI=
+|archive-date=2009-01-09}}</ref>{{update inline|date=June 2018}} and the practice of taxing revenues earned outside of U.S. jurisdiction, a very uncommon practice. Some counterclaim that the actual taxes paid by US corporations may be considerably lower than "official" rates due to the use of tax loopholes, tax havens, and "gaming the system".<ref>{{cite web
+   |url=http://www.smartmoney.com/investing/economy/high-corporate-tax-rate-is-misleading-22463
+   |title=High Corporate Tax Rate Is Misleading
+   |publisher=Smartmoney.com   |access-date=2010-03-15
+   |archive-url=https://web.archive.org/web/20100210200332/http://www.smartmoney.com/investing/economy/high-corporate-tax-rate-is-misleading-22463
+   |archive-date=2010-02-10}}</ref>
+
+[[Sarbanes-Oxley]] has also been cited as a factor.
+
+{{See also|Disney litigation}}
+
+===Europe===
+Council Directive 77/187 of 14 February 1977 protects employees' rights in the event of transfers of undertakings, businesses or parts of businesses (as amended 29 June 1998, Directive 98/50/EC & 12 March 2001's Directive 2001/23). Rights acquired by employees with the former employer are to be safeguarded when they, together with the undertaking in which they are employed, are transferred to another employer, i.e., the contractor.
+
+Case subsequent to the European Court of Justice's Christel Schmidt v. Spar- und Leihkasse der früheren Ämter Bordesholm, Kiel und Cronshagen, Case C-392/92 [1994] have disputed whether a particular contracting-out exercise constituted a transfer of an undertaking (see, for example, [[Süzen v Zehnacker Gebaeudereingung GmbH|Ayse Süzen v. Zehnacker Gebäudereinigung GmbH Krankenhausservice]], Case C-13/95 [1997]). In principle, employees may benefit from the protection offered by the directive.
+
+===Asia===
+Countries that have been the focus of outsourcing include India, Pakistan, and the Philippines for American and European companies, and China and [[Vietnam]] for Japanese companies.
+
+The Asian IT service market is still in its infancy, but in 2008 industry think tank Nasscom-McKinsey predicted a $17 billion IT service industry in India alone.<ref>Global Sourcing of Business and IT Services, https://books.google.com/books?id=_IHStt6MRukC&lpg</ref>
+
+A China-based company, [[Lenovo]], outsourced/reshored manufacturing of some time-critical customized [[Personal computer|PC]]s to the U.S. since "If it made them in China they would spend six weeks on a ship."<ref name="Econ1" />
+
+Article 44 of Japan's Employment Security Act implicitly bans the domestic/foreign workers supplied by unauthorized companies regardless of their operating locations. The law will apply if at least one party of suppliers, clients, labors reside in Japan, and if the labors are the integral part of the chain of command by the client company, or the supplier.
+* No person shall carry out a labor supply business or have workers supplied by a person who carries out a labor supply business work under his/her own directions or orders, except in cases provided for in the following Article.
+** A person who falls under any of the following items shall be punished by imprisonment with work for not more than one year or a fine of not more than one million yen. (Article 64)
+* Unless permitted by act, no person shall obtain profit by intervening, as a business, in the employment of another.<ref>{{cite web|title=日本法令外国語訳データベースシステム - [法令本文表示] - 労働基準法|url=http://www.japaneselawtranslation.go.jp/law/detail/?yo=%E5%8A%B4%E5%83%8D%E5%9F%BA%E6%BA%96%E6%B3%95&ft=2&re=01&ky=|access-date=April 10, 2019|website=www.japaneselawtranslation.go.jp}}</ref>
+
+Victims can lodge a criminal complaint against the CEO of the suppliers and clients. The CEO risks arrest, and the Japanese company may face a private settlement with financial package in the range between 20 and 100 million JPY (200,000 - million USD).
+
+==Nearshoring{{Anchor|nearshoring}}==
+When the New York Times headlined "Near Source of Supplies the Best Policy"<ref name=Near.NYT_1913>{{cite newspaper  |newspaper=[[The New York Times]]
+   |url=https://www.nytimes.com/1913/11/30/archives/how-to-handle-material-founding-industries-near-source-of-supplies.html
+   |title=How to handle material: Founding Industries Near Source of Supplies the Best Policy
+   |date=November 30, 1913   |page=2}}</ref> their main focus was on "cost of production."
+Although transportation cost was addressed, they did not choose among:
+* transporting supplies to place of production<ref name="TransP.NYT_1939">{{cite newspaper  |newspaper=[[The New York Times]]
+   |url=https://www.nytimes.com/1939/08/06/archives/plants-seen-near-source-of-supply-shift-of-the-chemical-industry-to.html
+   |title=Factory migration  |date=August 6, 1939  |page=5}}</ref>
+
+* transporting finished goods to place(s) of sale
+* cost and availability of labor
+'''Nearshoring''' or Nearsourcing is having [[business process]]es, especially [[information technology]] processes such as application maintenance and development or testing, in a nearby country, often sharing a border with the target country. Commonalities usually include: geographic, temporal (time zone), cultural, social, linguistic, economic, political, or historical linkages.<ref name="cacm">{{cite web |work=Communications of the ACM
+  |url=http://dl.acm.org/citation.cfm?id=1290959
+  |title=Why 'nearshore' means that distance matters
+  |date=October 2007 |author1=Erran Carmel |author2=Pamela Abbott }}</ref> However, some of these commonalities — such as cultural, social, and linguistic linkages — can also be achieved through offshore outsourcing because, historically, several nations have attempted at expanding their territory and control over other, more distant nations through [[colonization]]. 
+
+The term '''Nearshoring''' is a derivative of the business term [[offshoring]]. The hybrid term "nearshore outsourcing" is sometimes used as an alternative for '''nearshoring''', since nearshore workers are not employees of the company for which the work is performed. It can also be a reversal, by contracting a development partner in a different country but in close proximity (same or nearby time zone), facilitating communication and allowing frequent visits. This is a business strategy to place some or all of its operations close to where its products are sold. Typically, this is contrasted with the trend to outsource low-wage manufacturing operations to developing nations (offshoring), and reflects a reversal of that trend. Sometime, the work is done by an outside contracted company rather than internally ([[insourcing]]), but unlike offshore outsourcing, the work is done in fairly close proximity to either the company headquarters or its target market.
+
+In Europe, nearshore outsourcing relationships are between clients in larger European economies and various providers in smaller European nations.
+
+Major centers are [[Czech Republic]], [[Hungary]], [[Portugal]], [[Poland]], [[Slovakia]], [[Romania]], [[Bulgaria]], [[Belarus]], [[Ukraine]] and the [[Baltic states|Baltic]]. The attraction is lower-cost skilled labor forces, and a less stringent regulatory environment, but crucially they allow for more day to day physical oversight. These countries also have strong cultural ties to the major economic centers in Europe as they are part of EU. For example, as of 2020 Portugal is considered to be the most trending outsourcing destination<ref>{{Cite web  |website=EY.com ([[Ernst & Young]])
+   |date=2019-06-01 |title=EY Attractiveness Survey Portugal
+   |url=https://www.ey.com/Publication/vwLUAssets/ey-attractiveness-survey-portugal-june-2019/$FILE/ey-attractiveness-survey-portugal-june-2019.pdf
+   }}</ref> as big companies like Mercedes, Google,<ref>{{Cite news
+|date=2018-04-17 |title=After Google, Portugal's tech scene gets boost from VW
+|language=en |work=[[Reuters]] 
+|url=https://www.reuters.com/article/us-volkswagen-portugal-software-idUSKBN1HO2MF
+|access-date=2020-08-05}}</ref> Jaguar, Sky News, Natixis and BNP Paribas opening development centers in Lisbon and Porto, where labor costs are lower, talent comes from excellent Universities, there's availability of skills and the time zone is GMT (the same as London).<ref>{{Cite web
+|last=Nearshore |first=velv |date=2020-07-24
+|title=Nearshoring in Portugal
+|url=https://medium.com/@velv_nearshore/nearshoring-in-portugal-4d04021bc0de
+|access-date=2020-08-05 |website=Medium |language=en}}</ref> The WebSummit is considered to be one of the biggest drivers<ref name="nearshore in europe">Forbes [https://www.forbes.com/sites/heatherfarmbrough/2018/02/28/all-roads-lead-to-lisbon-why-startups-are-booming-in-the-portuguese-capital/ "Why Startups are booming in the Portuguese Capital"]</ref> of this trend since 2017.
+
+In the US, American clients nearshore to [[Canada]] and [[Mexico]], as well as to many nations in Central and South America.
+
+===Reasons to nearshore ===
+====Culture====
+Cultural alignment with the business is often more readily achieved through near-sourcing due to there being similarities between the cultures in which the business is located and in which services are sub-contracted, including for example proficiency with the language used in that culture.<ref name=GrailComm.cio/> 
+
+====Communication====
+Constraints imposed by time zones can complicate communication; near-sourcing or nearshoring offers a solution. English language skills are the cornerstone of Nearshore and IT services. Collaboration by universities, industry, and government has slowly produced improvements. Proximity also facilitates in-person interaction regularly and/or when required.<ref name=NearZone.FT>{{cite newspaper
+    |newspaper=[[Financial Times]]
+    |url=https://www.ft.com/content/acbb6f8c-69e6-11db-952e-0000779e2340
+    |title=Indian IT moves to 'near-sourcing'
+    |date=November 1, 2006}}</ref><ref name=CommTimeZone>{{cite web
+|url=https://smallbusiness.chron.com/communication-problems-outsourcing-80651.html
+|title=Communication Problems When Outsourcing
+|author=Elizabeth Mott   |publisher=Hearst Newspapers}}</ref><ref>{{cite web
+       |url=https://www.pmi.org/learning/library/effective-communication-successful-outsourcing-7585
+        |title=Effective communication for successful outsourcing}}</ref>
+
+====Other Advantages====
+Software development nearshoring is mainly due to flexibility when it comes to upscale or downscale<ref>{{Cite news
+|date=2020-07-21 |title=Nearshore Software Development
+|url=https://www.velv.pt/updates/2020/7/2/nearshore-software-development-teams}}</ref> teams or availability of low cost 
+skilled developers.<ref>{{cite news
+|url=https://www.nearshore-it.eu
+|title=Custom Software Development Company  |access-date=2018-01-22
+|publisher=nearshore-it.eu}}</ref> The nearshoring of call centers, shared services centers, and ([[Business process outsourcing|Business Process Outsourcing]]) rose as offshore outsourcing was seen to be relatively less valuable.<ref>{{Cite news
+|url=https://www.nearshoreamericas.com/philippines-value-proposition-sinks-nearshore-gains-atento
+|title=As Philippines Value Prop Sinks, Nearshore Steps Up, Says Atento Exec – Nearshore Americas
+|date=2017-08-23  |work=Nearshore Americas  |access-date=2018-08-20}}</ref>
+
+The complexities of offshoring stem from language and cultural differences, travel distances, workday/time zone mismatches, and greater effort for needed for establishing trust and long-term relationships. Many nearshore providers attempted to circumvent communication and project management barriers by developing new ways to align organizations. As a result, concepts such as remote insourcing were created to give clients more control in managing their own projects. Nearshoring still hasn't overcome all barriers, but proximity allows more flexibility to align organizations.<ref name="sam">{{Cite web |author=Sam Cinquegrani
+|title=Nearshoring: A Smart Alternative to Offshore
+|url=http://www.ittoday.info/Articles/nearshoring.htm
+|access-date=January 9, 2011 |work=IT Today |publisher=Auerbach Publications}}</ref>
+
+==Visa requirements==
+{{main|H-1B visa}}
+The United States has a special [[Travel visa|visa]], the [[H-1B visa|H-1B]],<ref>H1B</ref> which enables American companies to [[Foreign worker|temporarily (up to three years, or by extension, six) hire foreign workers]] to supplement their employees or replace those holding existing positions. In hearings on this matter, a United States senator called these "their outsourcing visa."<ref>{{cite web
+    |url=http://durbin.senate.gov/showRelease.cfm?releaseId=280890
+    |title=Floor Statement: H-1B Visa Reform  |author=Senator Richard Durbin
+|archive-url=https://web.archive.org/web/20110108195825/http://durbin.senate.gov/showRelease.cfm?releaseId=280890
+|archive-date=2011-01-08}}</ref>
+
+==Examples==
+* In 2003 [[Procter & Gamble]] outsourced their facilities' management support, but it did not involve offshoring.<ref>{{Cite news
+   |url=https://www.americanprogress.org/issues/economy/news/2012/07/09/11898/5-facts-about-overseas-outsourcing/
+   |title=5 Facts About Overseas Outsourcing
+   |date=2012-07-09
+   |work=Center for American Progress  |access-date=2018-05-31}}</ref>
+* [[Dell]] offshored to India in 2001 but reversed since "customers were not happy with the prior arrangement ..."<ref name=DELL.back/>
+
+==Print and mail outsourcing==
+'''Print and mail outsourcing''' is the outsourcing of document printing and distribution.
+
+The [[Print Services & Distribution Association]] was formed in 1946, and its members provide services that today might involve the word outsource. Similarly, members of the [[Direct Mail Marketing Association]] were the "outsourcers" for advertising agencies and others doing mailings. DMMA celebrated their 100th anniversary in 2017.
+
+The term "outsourcing" became very common in the print and mail business during the 1990s, and later expanded to be very broad and inclusive of most any process by the year 2000. Today, there are web based print to mail solutions for small to mid-size companies which allow the user to send one to thousands of documents into the mail stream, directly from a desktop or web interface.<ref>examples: Neopost.com's IS-330 Mailing System (desktop), Click2mail.com, USPS Web Tool Kit Application Program Interface ... web-based  {{cite web
+   |title=Business Shipping Services & Direct Mail Options
+   |url=https://www.usps.com/business}}</ref>
+
+==Marketing outsourcing==
+The term '''outsource marketing''' has been used in Britain to mean the outsourcing of the marketing function.<ref>{{cite web
+   |url=https://www.theguardian.com/media/2010/may/17/guardian-news-and-media
+   |title=Guardian News & Media to outsource marketing design services
+   |author=Jason Deans  |date=May 17, 2010  |access-date=April 10, 2019
+   |via=www.theguardian.com}}</ref> The motivation for this has been:
+* [[cost reduction]].<ref>[http://hbswk.hbs.edu/item/4883.html Should You Outsource Your Marketing?]. ''Harvard Business School. 2005-007-04.''</ref><ref>{{Cite web
+|url=https://rsmconnect.com/
+|title=RSM Marketing {{!}} Outsourced Marketing Department
+ |website=RSM Connect|language=en-US|access-date=2018-06-11}}</ref>
+* specialized expertise.<ref>{{Cite web   |website=forbes.com
+|url=https://www.forbes.com/sites/ilyapozin/2014/04/23/leave-it-to-the-experts-should-you-outsource-your-marketing/#56f9bc8d2393
+|title=Leave It To The Experts: Should You Outsource Your Marketing?
+|access-date=2018-06-11}}</ref>
+* speed of execution
+* short term staff augmentation<ref>{{Cite web
+|url=http://think-moa.com.au/employee-augmentation-marketing-outsourcing
+|title=Employee Augmentation – Marketing Outsourcing – THiNK – Marketing Operations Advisory
+|website=think-moa.com.au  |access-date=2017-12-05}}</ref>
+
+While much of this work is the "bread and butter" of specialized departments within advertising agencies, sometimes specialist are used, such as when the [[Guardian newspaper]] outsourced most of their marketing design in May 2010.<ref>{{cite news
+|url=https://www.theguardian.com/media/2010/may/17/guardian-news-and-media
+|location=London   |work=The Guardian
+|author=Jason Deans
+|title=Guardian News & Media to outsource marketing design services
+|date=May 17, 2010}}</ref>
+
+==Business process outsourcing==
+'''Business process outsourcing''' ('''BPO''') is a subset of outsourcing that involves the [[contract]]ing of the operations and responsibilities of a specific [[business process]] to a third-party [[service provider]]. Originally, this was associated with [[manufacturing]] firms, such as [[Coca-Cola]] that outsourced large segments of its [[supply chain]].<ref>Tas, J. & Sunder, S. 2004, ''Financial Services Business Process Outsourcing'', Communications of the ACM, Vol 47, No. 5</ref>
+
+BPO is typically categorized into [[back office]] and [[front office]] outsourcing.<ref>{{cite web  |work=[[Forbes]]
+|title=Getting A Piece Of Business Process Outsourcing
+|url=https://www.forbes.com/sites/greatspeculations/2015/06/22/getting-a-piece-of-business-process-outsourcing/#12b9f2c56f90}}</ref>
+
+BPO can be [[offshore outsourcing]] or to a neighbouring (or nearby) country: nearsourcing (nearshore outsourcing). [[Information technology|Information Technology]] Enabled Service (ITES-BPO),<ref name="NellisParker2006">{{cite book
+ |author1=J. G. Nellis  |author2=David Parker 
+ |title=Principles of Business Economics
+ |url=https://books.google.com/books?id=a8RFUZHfz2gC&pg=PA213  |year=2006
+ |publisher=Financial Times Prentice Hall   |isbn=978-0-273-69306-2  |page=213}}</ref> [[Knowledge process outsourcing]] (KPO) and [[Legal process outsourcing]] (LPO) are some of the sub-segments of BPO.
+
+Although BPO began as a cost-reducer, changes (specifically the move to more service-based rather than product-based contracts), companies now choose to outsource their back-office increasingly for time flexibility and direct quality control.<ref>Sagoo, Anoop. [http://www.cio.co.uk/article/3378334/how-it-is-reinvigorating-business-process-outsourcing/ "How IT is reinvigorating business process outsourcing"] CIO. 6 Sep 2012. Retrieved 25 March 2013.</ref> Business process outsourcing enhances the flexibility of an organization in different ways:
+
+BPO vendor charges are project-based or fee-for-service, using business models such as Remote In-Sourcing or similar software development and outsourcing models.<ref>BPM Watch. "In-Sourcing Remotely: A Closer Look at an Emerging Outsourcing Trend" {{cite web
+|url=http://www.bpmwatch.com/columns/in-sourcing-a-closer-look-at-an-emerging-outsourcing-trend
+|title=Archived copy
+|access-date=2013-03-25
+|url-status=dead
+|archive-url=https://web.archive.org/web/20130303212216/http://www.bpmwatch.com/columns/in-sourcing-a-closer-look-at-an-emerging-outsourcing-trend
+|archive-date=2013-03-03}}</ref><ref>{{Cite web
+|url=http://www.cio-asia.com/mgmt/outsourcing/boundaries-between-it-outsourcing-and-bpo-are-becoming-blurred-ovum/
+|title=Archived copy
+|access-date=2013-03-25
+|archive-url=https://web.archive.org/web/20141025113103/http://www.cio-asia.com/mgmt/outsourcing/boundaries-between-it-outsourcing-and-bpo-are-becoming-blurred-ovum |archive-date=2014-10-25
+|url-status=dead }}</ref> This can help a company to become more flexible by transforming fixed into [[variable costs]].<ref>Willcocks, L., Hindle, J., Feeny, D. & Lacity, M. 2004, ''IT and Business Process Outsourcing: The Knowledge Potential'', Information Systems Management, Vol. 21, pp 7–15</ref> A variable cost structure helps a company responding to changes in required capacity and does not require a company to invest in assets, thereby making the company more flexible.<ref>Gilley, K.M., Rasheed, A. 2000. ''Making More by Doing Less: An Analysis of Outsourcing and its Effects on Firm Performance.'' Journal of Management, 26 (4): 763-790.</ref>
+
+BPO also permits focusing on a company's [[core competencies]].<ref>Kakabadse, A., Kakabadse. N. 2002. ''Trends in Outsourcing: Contrasting USA and Europe.'' European Management Journal Vol. 20, No. 2: 189–198</ref>
+
+Supply chain management with effective use of supply chain partners and business process outsourcing can increase the speed of several business processes.<ref>Tas, Jeroen, Sunder, Shyam. 2004. ''Financial Services Business Process Outsourcing.'' COMMUNICATIONS OF THE ACM Vol. 47, No. 5</ref>
+
+=== BPO caveats ===
+Even various contractual compensation strategies may leave the company as having a new "single point of failure" (where even an after the fact payment is not enough to offset "complete failure of the customer's business").<ref>{{cite web
+   |website=[[Westlaw]].com
+   |url=https://content.next.westlaw.com/Document/I8417d3ea1cb111e38578f7ccc38dcbee/View/FullText.html?contextData=(sc.Default)&transitionType=Default
+   |title=Risk transfer in outsourcing contracts
+   |author1=Dan Burge  |author2=Catherine Bingham  |author3=Amanda Lewis
+   |date=February 1, 2012  |access-date=July 11, 2019}}</ref> Unclear contractual issues are not the only risks; there's also changing requirements and unforeseen charges, failure to meet service levels, and a dependence on the BPO which reduces flexibility.  The latter is called [[Vendor lock-in|lock-in]]; flexibility may be lost due to penalty clauses and other contract terms.<ref>Michel, Vaughan, Fitzgerald, Guy. 1997. ''The IT outsourcing market place: vendors and their selection.'' Journal of Information Technology 12: 223-237</ref> Also, the selection criteria may seem vague and undifferentiated<ref>Adsit, D. (2009)  Will a Toyota Emerge from the Pack of Me-Too BPO's?, ''In Queue'' {{cite web
+|url=http://www.nationalcallcenters.org/pubs/In_Queue/vol3no21.html
+|title=Archived copy  |access-date=May 6, 2009  |url-status=dead
+|archive-url=https://web.archive.org/web/20090410035351/http://www.nationalcallcenters.org/pubs/In_Queue/vol3no21.html
+|archive-date=April 10, 2009}}</ref>
+
+Security risks can arise regarding both from physical communication and from a privacy perspective.  Employee attitude may change, and the company risks losing independence.<ref>Bunmi Cynthia Adeleye, Fenio Annansingh and Miguel Baptista Nunes. "Risk management practices in IS outsourcing: an investigation into commercial banks in Nigeria", International Journal of Information Management 24 (2004): 167-180.</ref><ref>K. Altinkemer, A. Chaturvedi and R. Gulati. "Information systems outsourcing: Issues and evidence", International Journal of Information Management 14- 4 (1994): 252- 268.</ref>
+
+Risks and threats of outsourcing must therefore be managed, to achieve any benefits. In order to manage outsourcing in a structured way, maximising positive outcome, minimising risks and avoiding any threats, a [[business continuity management]] (BCM) model is set up. BCM consists of a set of steps, to successfully identify, manage and control the business processes that are, or can be outsourced.<ref>Forbes Gibb, and Steven Buchanan. "A framework for business continuity management", International Journal of Information Management 26- 2 (2006): 128- 141.</ref>
+
+'''Analytical hierarchy process''' [[analytic hierarchy process|(AHP)]] is a framework of BPO focused on identifying potential outsourceable information systems.<ref>Chyan Yang and Jen-Bor Huang. "A decision model for IS outsourcing", International Journal of Information Management 20- 3 (2000): 225- 239.</ref> L. Willcocks, M. Lacity and G. Fitzgerald identify several contracting problems companies face, ranging from unclear contract formatting, to a lack of understanding of technical IT processes.<ref>L. Willcocks, M. Lacity and G. Fitzgerald. "Information technology outsourcing in Europe and the USA: Assessment issues", International Journal of Information Management 15-5 (1995): 333&ndash;351.</ref>
+
+=== Technological pressures ===
+Industry analysts have identified [[robotic process automation]] (RPA) software and in particular the enhanced self-guided RPAAI based on [[artificial intelligence]] as a potential threat to the industry<ref name="HfSThreat">{{Citation
+|title=Robotic Automation Emerges as a Threat to Traditional Low Cost Outsourcing
+|publisher=HfS Research
+|url=http://www.hfsresearch.com/Robotic-Automation-as-Threat-to-Traditional-Low-Cost-Outsourcing
+|url-status=dead
+|archive-url=https://web.archive.org/web/20150921062911/http://www.hfsresearch.com/Robotic-Automation-as-Threat-to-Traditional-Low-Cost-Outsourcing
+|archive-date=2015-09-21}}</ref><ref name="GartnerPredicts2014">{{Citation
+   |title=Gartner Predicts 2014: Business and IT Services Are Facing the End of Outsourcing as We Know It
+   |publisher=Gartner
+   |url=https://www.gartner.com/doc/2656215/predicts--business-it-services}}</ref> and speculate as to the likely long-term impact.<ref>{{Citation  |publisher=Outsource Magazine   |title=Visions of the Future: The Next Decade in BPO
+   |url=http://outsourcemagazine.co.uk/visions-of-the-future-the-next-decade-in-bpo  |url-status=dead
+   |archive-url=https://web.archive.org/web/20150413032822/http://outsourcemagazine.co.uk/visions-of-the-future-the-next-decade-in-bpo
+   |archive-date=2015-04-13}}</ref> In the short term, however, there is likely to be little impact as existing contracts run their course: it is only reasonable to expect demand for cost efficiency and innovation to result in transformative changes at the point of contract renewals. With the average length of a BPO contract being 5 years or more<ref name="GartnerLength">{{Citation  |publisher=Gartner
+|title=Market Trends: Outsourcing Contracts, Worldwide
+|url=http://www.gartner.com/DisplayDocument?ref=g_search&id=490855}}</ref> – and many contracts being longer – this hypothesis will take some time to play out.
+
+On the other hand, an academic study by the [[London School of Economics]] was at pains to counter the so-called "myth" that ''RPA will bring back many jobs from offshore''.<ref name="LSEXchanging">{{Citation |publisher=London School of Economics
+|title=Robotic Process Automation at Xchanging
+|url=http://www.xchanging.com/system/files/dedicated-downloads/robotic-process-automation.pdf}}</ref> One possible argument behind such an assertion is that new technology provides new opportunities for increased quality, reliability, scalability and cost control, thus enabling BPO providers to increasingly compete on an outcomes-based model rather than competing on cost alone. With the core offering potentially changing from a "lift and shift" approach based on fixed costs to a more qualitative, service based and outcomes-based model, there is perhaps a new opportunity to grow the BPO industry with a new offering.
+
+=== Industry size ===
+One estimate of the worldwide BPO market from the BPO Services Global Industry Almanac 2017, puts the size of the industry in 2016 at about US$140 billion.<ref name="almanac">{{cite web  |website=itproportal.com
+|url=https://www.itproportal.com/features/the-battle-of-the-bpo-titans-eastern-europe-vs-india/
+|title=The battle of the BPO titans: Eastern Europe vs. India}}</ref>
+
+India, China and the Philippines are major powerhouses in the industry. In 2017, in India, the BPO industry generated US$30 billion in revenue according to the national industry association.<ref>{{cite web   |website=ETCIO.com
+|url=https://cio.economictimes.indiatimes.com/news/enterprise-services-and-applications/india-holds-its-global-edge-in-bpm-sector-with-28billion-revenue/54474665
+|title=India holds its global edge in BPM sector with $28billion revenue}}</ref> The BPO industry is a small segment of the total outsourcing industry in India. The BPO industry workforce in India is expected to shrink by 14% in 2021.<ref>{{Cite web|url=https://www.ey.com/Publication/vwLUAssets/ey-future-of-jobs-in-india/%24FILE/ey-future-of-jobs-in-india.pdf|title=Future of jobs in India}}</ref>
+
+The BPO industry and IT services industry in combination are worth a total of US$154 billion in revenue in 2017.<ref>{{cite web
+|url=http://www.business-standard.com/article/companies/bpm-sector-sees-faster-growth-than-it-services-nasscom-117101201283_1.html
+|title=BPM sector sees faster growth than IT services: Nasscom
+|author=Ayan Pramanik   |date=October 12, 2017}}</ref> The BPO industry in the Philippines generated $22.9 billion in revenues in 2016,<ref>{{Cite web 
+|url=https://asia.nikkei.com/Business/Trends/Dutertes-antiWest-rhetoric-cast-shadow-on-Philippine-BPO-industrys-future
+|title=Archived copy  |access-date=2017-12-07
+|archive-url=https://web.archive.org/web/20171208122333/https://asia.nikkei.com/Business/Trends/Dutertes-antiWest-rhetoric-cast-shadow-on-Philippine-BPO-industrys-future
+|archive-date=2017-12-08  |url-status=dead}}</ref> while around 700 thousand medium and high skill jobs would be created by 2022.<ref>{{Cite web|last=News|first=Katrina Domingo, ABS-CBN|title=BPO automation may displace 40,000, add 700,000 jobs|url=https://news.abs-cbn.com/business/08/01/17/bpo-automation-may-displace-40000-add-700000-jobs|access-date=2020-07-22|website=ABS-CBN News|language=en}}</ref>
+
+In 2015, official statistics put the size of the total outsourcing industry in China, including not only the BPO industry but also IT outsourcing services, at $130.9 billion.<ref name="itoutsourcing">{{cite news  |agency=China Daily
+|title=China's service outsourcing grows in 2015
+|url=http://www.chinadaily.com.cn/business/chinadata/2016-01/20/content_23167866.htm
+|date=January 20, 2016}}</ref>
+<!--- "Engineering Process Outsourcing" (EPO) was in "..articles with possible conflicts of interest" -->
+<!--- "Transition methodology" (5 entries in SEE ALSO, 2 External links, a 5-step/norefs PMO text) was the only article "re" EPO, and there was no "THERE" there -->
+<!--- EPO seems to be a subset of BPO, which already has a section in the Outsourcing article -->
+<!--- datestamp: April 1, 2019 ... a bit odd to be doing this REAL edit on _April F.O.O.. day_ -->
+
+== Economic theory ==
+In [[economic theory]], the pros and cons of outsourcing have been discussed since [[Ronald Coase]] (1937) asked the famous question: Why is not all production carried on by one big firm?<ref>{{Cite journal|last=Coase|first=R. H.|date=1937|title=The Nature of the Firm|url=http://doi.wiley.com/10.1111/j.1468-0335.1937.tb00002.x|journal=Economica|language=en|volume=4|issue=16|pages=386–405|doi=10.1111/j.1468-0335.1937.tb00002.x|issn=0013-0427}}</ref> An informal answer has been provided by [[Oliver E. Williamson|Oliver Williamson]] (1979), who has emphasized the importance of different transaction costs within and between firms.<ref>{{Cite journal|last=Williamson|first=Oliver E.|date=1979|title=Transaction-Cost Economics: The Governance of Contractual Relations|url=https://www.journals.uchicago.edu/doi/10.1086/466942|journal=The Journal of Law and Economics|language=en|volume=22|issue=2|pages=233–261|doi=10.1086/466942|s2cid=8559551|issn=0022-2186}}</ref> The boundaries of the firm (i.e., the distinction between transactions taking place within a firm and transactions between different firms) have been formally studied by [[Oliver Hart (economist)|Oliver Hart]] (1995) and his coauthors.<ref>{{Cite book|last=Hart, Oliver D.|url=https://www.worldcat.org/oclc/32703648|title=Firms, contracts, and financial structure|date=1995|publisher=Clarendon Press|isbn=0-19-828881-6|location=Oxford|oclc=32703648}}</ref> According to the property rights approach to the theory of the firm based on [[Incomplete contracts|incomplete contracting]], the ownership structure (i.e., integration or non-integration) determines how the returns to non-contractible investments will be divided in future negotiations. Hence, whether or not outsourcing an activity to a different firm is optimal depends on the relative importance of the investments that the trading partners have to make. For instance, if only one party has to make an important non-contractible investment decision, then this party should be owner.<ref>{{Cite journal|last1=Grossman|first1=Sanford J.|last2=Hart|first2=Oliver D.|date=1986|title=The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integration|url=https://www.journals.uchicago.edu/doi/10.1086/261404|journal=Journal of Political Economy|language=en|volume=94|issue=4|pages=691–719|doi=10.1086/261404|issn=0022-3808}}</ref><ref>{{Cite journal|last1=Hart|first1=Oliver|last2=Moore|first2=John|date=1990|title=Property Rights and the Nature of the Firm|url=https://www.journals.uchicago.edu/doi/10.1086/261729|journal=Journal of Political Economy|language=en|volume=98|issue=6|pages=1119–1158|doi=10.1086/261729|s2cid=15892859|issn=0022-3808}}</ref> However, the conclusions of the incomplete contracting theory crucially rely on the specification of the negotiations protocol (DeMeza and Lockwood, 1998)<ref>{{Cite journal|last1=de Meza|first1=D.|last2=Lockwood|first2=B.|date=1998|title=Does Asset Ownership Always Motivate Managers? Outside Options and the Property Rights Theory of the Firm|url=https://academic.oup.com/qje/article-lookup/doi/10.1162/003355398555621|journal=The Quarterly Journal of Economics|language=en|volume=113|issue=2|pages=361–386|doi=10.1162/003355398555621|issn=0033-5533}}</ref> and on whether or not there is asymmetric information (Schmitz, 2006).<ref>{{Cite journal|last=Schmitz|first=Patrick W|date=2006|title=Information Gathering, Transaction Costs, and the Property Rights Approach|url=https://pubs.aeaweb.org/doi/10.1257/000282806776157722|journal=American Economic Review|language=en|volume=96|issue=1|pages=422–434|doi=10.1257/000282806776157722|s2cid=154717219|issn=0002-8282}}</ref> 
+
+== See also ==
+{{div col|colwidth=25em}}
+* [[Banking BPO services]]
+* [[BPO security]]
+* [[Business process outsourcing to India]]
+* [[Business process outsourcing in the Philippines]]
+* [[Business process outsourcing in China]]
+* [[Call center industry in the Philippines]]
+* [[Call center industry in Bangladesh]]
+* [[Contingent workforce]]
+* [[Crowdsourcing]]
+* [[Facilities management]]
+* [[Freelance marketplace]]
+* [[Globality]]
+* [[Global sourcing]]
+* [[Globalization]]
+* [[Globally Integrated Enterprise]]
+* [[Offshore custom software development]]
+* [[Offshoring Research Network]]
+* [[Outsourced document processing]]
+* [[Professional Employer Organization]]
+* [[Programmers Guild]]
+* [[Recruitment]]
+* [[Selfsourcing]]
+* [[Software testing outsourcing]]
+* [[Supply chain]]
+* [[Telecentre]]
+* [[Telecommuting]]
+* [[Virtual assistant (occupation)|Virtual assistance]]
+{{div col end}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* {{cite web  |website=Digitalcommons.ilr.cornell.edu
+   |url=http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1525&context=key_workplace
+   |title=Outsourcing and Insourcing Jobs in the U.S. Economy: Evidence Based on Foreign Investment Data (RL32461)
+   |date=2008-06-24  |publisher=[[Congressional Research Service]]
+   |author=James K. Jackson   |access-date=2017-05-23}}
+* {{cite web  |website=Fas.org
+   |url=http://www.fas.org/sgp/crs/misc/R41810.pdf
+   |title=Insourcing Functions Performed by Federal Contractors: Legal Issues
+   |date=2013-02-22     |publisher=[[Congressional Research Service]]
+   |author1=Kate M. Manuel  |author2=Jack Maskell    |access-date=2017-05-23}}
+
+==External links==
+{{Wiktionary|outsourcing|nearshore#English}}
+* {{Wikiquote-inline}}
+
+{{-}}
+{{Trade|state=expanded}}
+
+{{Authority control}}
+
+[[Category:Outsourcing| ]]
+[[Category:Business-to-business]]
+[[Category:Business process]]
+[[Category:Business terms]]
+[[Category:Economic globalization]]
+[[Category:Information technology]]
+[[Category:Information technology management]]
+[[Category:International business]]
+[[Category:International factor movements]]
+[[Category:International trade]]
+[[Category:Office work]]
+[[Category:Offshoring]]
+[[Category:Postal services]]
+[[Category:Telecommuting]]

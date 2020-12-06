@@ -1,0 +1,865 @@
+{{short description|Material that a government body claims is sensitive information that requires protection of confidentiality, integrity, or availability}}
+
+[[Image:NSALibertyReport.p13.jpg|thumb|A typical classified document. Page 13 of a [[U.S. National Security Agency]] report<ref>{{cite web|url=http://www.nsa.gov/public_info/_files/uss_liberty/attack_sigint.pdf |title=United States Cryptologic History: Attack on a Sigint Collector, the U.S.S. Liberty |publisher=NSA.gov |access-date=2012-11-14 |url-status=dead |archive-url=https://web.archive.org/web/20121030155345/http://www.nsa.gov/public_info/_files/uss_liberty/attack_sigint.pdf |archive-date=2012-10-30 }}</ref> on the [[USS Liberty incident|USS ''Liberty'' incident]], partially declassified and released to the public in July 2004. The original overall classification of the page, "top secret", and the Special Intelligence code word "umbra", are shown at top and bottom. The classification of individual paragraphs and reference titles is shown in parentheses—there are six different levels on this page alone. Notations with leader lines at top and bottom cite statutory authority for not declassifying certain sections.]]
+
+'''Classified information''' is material that a government body deems to be [[sensitive information]] that must be protected. Access is restricted by [[law]] or regulation to particular groups of people with the necessary security clearance and need to know, and mishandling of the material can incur criminal penalties. 
+
+A formal [[security clearance]] is required to view or handle classified documents or to access classified data. The clearance process requires a satisfactory background investigation. Documents and other information must be properly marked "by the author" with one of several (hierarchical) levels of sensitivity—e.g. restricted, confidential, secret and top secret. The choice of level is based on an impact assessment; governments have their own criteria, which include how to determine the classification of an information asset, and rules on how to protect information classified at each level. This often includes security clearances for personnel handling the information. 
+
+Although "classified information" refers to the formal [[categorization]] and marking of material by level of sensitivity, it has also developed a sense synonymous with "[[censorship|censored]]" in [[American English|US English]]. A distinction is often made between formal security classification and privacy markings such as "commercial in confidence". Classifications can be used with additional keywords that give more detailed instructions on how data should be used or protected.{{Citation needed|date=October 2019}}
+
+Some [[corporation]]s and non-government organizations also assign levels of protection to their private information, either from a desire to protect [[trade secret]]s, or because of laws and regulations governing various matters such as [[personal privacy]], sealed legal proceedings and the timing of financial information releases.
+
+With the passage of time much classified information can become a bit less sensitive, or becomes much less sensitive, and may be declassified and made public. Since the late twentieth century there has been [[freedom of information legislation]] in some countries, whereby the public is deemed to have the right to all information that is not considered to be damaging if released. Sometimes documents are released with information still considered confidential obscured ([[Sanitization (classified information)|redacted]]), as in the adjacent example.
+
+The question exists among some political science and legal experts, whether the definition of classified ought to be information that would cause injury to the cause of justice, human rights, etc, rather than information that would cause injury to the national interest, to distinguish when classifying information is in the collective best interest of a just society or merely the best interest of a society acting unjustly, to protect its people, government, or administrative officials from legitimate recourses consistent with a fair and just social contract.
+
+==Government classification==
+The purpose of classification is to protect information. Higher classifications protect information that might endanger [[national security]]. Classification formalises what constitutes a "state secret" and accords different levels of protection based on the expected damage the information might cause in the wrong hands.
+
+However, classified information is frequently "leaked" to reporters by officials for political purposes. Several U.S. presidents have leaked sensitive information to get their point across to the public.<ref>{{cite book |last=Turner |first=Stansfield |author-link=Stansfield Turner |title=Burn Before Reading: Presidents, CIA Directors and Secret Intelligence |location=New York |publisher=Hyperion |year=2005 |isbn=9780786867820 |url-access=registration |url=https://archive.org/details/burnbeforereadin00turn }}</ref><ref>{{cite web |url=https://www.lawfareblog.com/classified-information-woodwards-obamas-wars |title=Classified Information in Woodward's 'Obama's Wars' |first=Jack |last=Goldsmith |work=Lawfare |date=29 September 2010 |access-date=5 September 2015}}</ref>
+
+==Typical classification levels==
+Although the classification systems vary from country to country, most have levels corresponding to the following British definitions (from the highest level to lowest).
+
+==={{Visible anchor|Top Secret (TS)}}===
+{{Redirect|Top Secret}}
+[[File:KGB traitors list seen in Museum of Genocide Victims Vilnius.jpg|thumb|KGB traitors list seen in Museum of Genocide Victims Vilnius: originally marked ''top secret'']]
+''Top Secret'' is the highest level of classified information.<ref>{{cite book|title=Random House Webster's Unabridged Dictionary|date=2004|publisher=Random House|location=New York [u.a.]|isbn=0375425993|edition=2. ed., [Nachdr.]}}</ref> Information is further compartmented so that specific access using a code word after ''top secret'' is a legal way to hide collective and important information.<ref>{{cite web | url=https://apps.dtic.mil/docs/citations/ADA340216 | title =DoD Guide to Marking Classified Documents | author =[[Defense Technical Information Center]] | publisher =dtic.mil | date =April 1997}}</ref> Such material would cause "exceptionally grave damage" to [[national security]] if made publicly available.<ref>{{cite web | url=https://fas.org/sgp/library/quist2/chap_7.html#1 | title =Chapter 7. Classification Levels | author =[[Federation of American Scientists]] | publisher =fas.org | date =June 8, 2013}}</ref> Prior to 1942, the United Kingdom and other members of the British Empire used ''Most Secret'', but this was later changed to match the United States' category name of ''Top Secret'' in order to simplify Allied interoperability.
+
+''The Washington Post'' reported in an investigation entitled ''Top Secret America'' that, as of 2010, "An estimated 854,000 people ... hold top-secret security clearances" in the United States.<ref>{{cite news |url= http://projects.washingtonpost.com/top-secret-america/articles/a-hidden-world-growing-beyond-control/ |title=A hidden world, growing beyond control |first1=Dana |last1=Priest |first2=William |last2=Arkin |work=[[The Washington Post]] |date=19 July 2010 |access-date=5 September 2015 |archive-url=https://web.archive.org/web/20100720183755/http://projects.washingtonpost.com/top-secret-america/articles/a-hidden-world-growing-beyond-control/ |archive-date=20 July 2010 |url-status=dead}}</ref>
+
+===Secret===
+{{Quote box
+| quote = '''''"It is desired that no document be released which refers to [[Unethical human experimentation in the United States|experiments with humans]] and might have adverse effect on public opinion or result in legal suits. Documents covering such work field should be classified 'secret'."'''''
+| source = April 17, 1947 Atomic Energy Commission memo from Colonel O.G. Haywood, Jr. to Dr. Fidler at the Oak Ridge Laboratory in Tennessee.<ref>[https://www.gwu.edu/~nsarchiv/radiation/dir/mstreet/commeet/meet9/brief9/tab_i/br9i2.txt Atomic Energy Commission's Declassification Review of Reports on Human Experiments and the Public Relations and Legal Liability Consequences] {{Webarchive|url=https://web.archive.org/web/20130606120441/https://www.gwu.edu/~nsarchiv/radiation/dir/mstreet/commeet/meet9/brief9/tab_i/br9i2.txt |date=2013-06-06 }}, presented as evidence during the 1994 ACHRE hearings.</ref> {{as of|2010}}, [[Executive Order 13526]] bans classification of documents simply to "conceal violations of law, inefficiency, or administrative error" or "prevent embarrassment to a person, organization, or agency".<ref>Section 1.7 (1) and (2).</ref>
+| width = 25%
+}}
+
+''Secret'' material would cause "serious damage" to national security if it were publicly available.<ref>{{cite web|url=http://www.uscg.mil/petaluma/e-pme/e-pme/apprentice/G-Lessons/4-G-03.pdf|title=E-PME Enlisted Professional Military Education Reporting Unsecured and Securing Classified Material 4.G.03|publisher=[[United States Coast Guard]]|archive-url=https://web.archive.org/web/20131029204918/http://www.uscg.mil/petaluma/e-pme/e-pme/apprentice/G-Lessons/4-G-03.pdf|archive-date=October 29, 2013|url-status=dead}}</ref>
+
+In the United States, operational "Secret" information can be marked with an additional "LIMDIS", to limit distribution.
+
+===Confidential===
+''Confidential'' material would cause "damage" or be prejudicial to national security if publicly available.<ref name="GWU Army Regulation (1936)">{{cite web |url=http://www.gwu.edu/~nsarchiv/radiation/dir/mstreet/commeet/meet14/brief14/tab_d/br14d1b.txt |title=Attachment 2 AR 320-5, Classification of OFC. Army Regulations (1936) |author=[[George Washington University]] |publisher=gwu.edu |access-date=2013-06-16 |archive-url=https://web.archive.org/web/20130713152933/http://www.gwu.edu/~nsarchiv/radiation/dir/mstreet/commeet/meet14/brief14/tab_d/br14d1b.txt |archive-date=2013-07-13 |url-status=dead }}</ref>
+
+===Restricted===
+''Restricted'' material would cause "undesirable effects" if publicly available. Some countries do not have such a classification in public sectors, such as commercial industries. Such a level is also known as "''Private'' Information".
+
+===Official===
+''Official'' (Equivalent to US DOD classification FOUO – For Official Use Only) material forms the generality of government business, public service delivery and commercial activity. This includes a diverse range of information, of varying sensitivities, and with differing consequences resulting from compromise or loss. OFFICIAL information must be secured against a [[threat model]] that is broadly similar to that faced by a large private company.
+
+The OFFICIAL SENSITIVE classification replaced the Restricted classification in April 2014 in the UK; OFFICIAL indicates the previously used UNCLASSIFIED marking. <ref name=UK_Classifications>{{cite book|title=Government Security Classifications April 2014|date=October 2013|publisher=HMG Cabinet Office|url=https://www.gov.uk/government/publications/government-security-classifications}}</ref>
+
+===Unclassified===
+{{Redirect|Unclassified|the albums|Unclassified (Robert Randolph and the Family Band album)|and|Unclassified (Adult Swim album)|and|Unclassified (Derrick Hoh album)}}
+
+''Unclassified'' is technically not a classification level, but this is a feature of some classification schemes, used for government documents that do not merit a particular classification or which have been declassified. This is because the information is low-impact, and therefore does not require any special protection, such as vetting of personnel.
+
+A plethora of pseudo-classifications exist under this category.
+
+===Clearance===
+''Clearance'' is a general classification, that comprises a variety of rules controlling the level of permission required to view some classified information, and how it must be stored, transmitted, and destroyed. Additionally, access is restricted on a "[[need to know]]" basis. Simply possessing a clearance does not automatically authorize the individual to view all material classified at that level or below that level. The individual must present a legitimate "need to know" in addition to the proper level of clearance.
+
+===Compartmented information===
+In addition to the general risk-based classification levels, additional [[Sensitive Compartmented Information|compartmented constraints on access]] exist, such as ([[Classified information in the United States#Sensitive Compartmented Information (SCI) and Special Access Programs (SAP)|in the U.S.]]) Special Intelligence (SI), which protects intelligence sources and methods, No Foreign dissemination (NOFORN), which restricts dissemination to U.S. nationals, and Originator Controlled dissemination (ORCON), which ensures that the originator can track possessors of the information. Information in these compartments is usually marked with specific keywords in addition to the classification level.
+
+Government information about [[nuclear weapon]]s often has an additional marking to show it contains such information ([[CNWDI]]).
+
+==International==
+When a government agency or group shares information between an agency or group of other country's government they will generally employ a special classification scheme that both parties have previously agreed to honour.
+
+For example, the marking ATOMAL, is applied to U.S. RESTRICTED DATA or FORMERLY RESTRICTED DATA and United Kingdom ATOMIC information that has been released to NATO. ATOMAL information is marked COSMIC TOP SECRET ATOMAL (CTSA), NATO SECRET ATOMAL (NSAT), or NATO CONFIDENTIAL ATOMAL (NCA).
+
+===NATO classifications===
+{{Redirect|Cosmic Top Secret|the video game|Cosmic Top Secret (video game)}}
+For example, sensitive information shared amongst [[NATO]] allies has four levels of security classification; from most to least classified:<ref>{{cite web|url=http://www.bip.abw.gov.pl/bip/informacje-niejawne-1/ochrona-informacji-nie/153,OCHRONA-INFORMACJI-NIEJAWNYCH-MIEDZYNARODOWYCH-W-SFERZE-CYWILNEJ-I-WOJSKOWEJ.html|title=OCHRONA INFORMACJI NIEJAWNYCH MIĘDZYNARODOWYCH W SFERZE CYWILNEJ I WOJSKOWEJ – Ochrona informacji niejawnych międzynarodowych w sferze cywilnej i wojskowej – BIP – Agencja Bezpieczeństwa Wewnętrznego|first=JSK|last=Internet|website=www.bip.abw.gov.pl}}</ref><ref>{{Cite web|url=https://www.act.nato.int/images/stories/structure/reserve/hqrescomp/nato-security-brief.pdf|title=NATO Security Indoctrination}}</ref>
+# COSMIC TOP SECRET (CTS) 
+# NATO SECRET (NS)
+# NATO CONFIDENTIAL (NC)
+# NATO RESTRICTED (NR)
+
+A special case exists with regard to NATO UNCLASSIFIED (NU) information. Documents with this marking are NATO property ([[copyright]]) and must not be made public without NATO permission.
+
+COSMIC is an abbreviation for "Control Of Secret Material in an International Command".<ref>{{Cite web|last=Government of Canada|first=Public Services and Procurement Canada|date=2018-08-30|title=Chapter 9: Security requirements for the North Atlantic Treaty Organization – Industrial Security Manual – Security requirements for contracting with the Government of Canada – Canada.ca|url=https://www.tpsgc-pwgsc.gc.ca/esc-src/msi-ism/chap9-eng.html|access-date=2020-09-10|website=www.tpsgc-pwgsc.gc.ca}}</ref>
+
+===International organisations===
+* [[European Institutions]], have four levels: EU TOP SECRET, EU SECRET, EU CONFIDENTIAL, EU RESTRICTED.<ref>{{cite web |url=http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:274:0001:0050:EN:PDF |date=15 October 2013 |title=Decision of 23 September 2013 on the security rules for protecting EU classified information |work=Official Journal of the European Union |access-date=5 September 2015}}</ref> (Note that usually the French term is used.{{citation needed|date=November 2014}})
+**'''TRÈS SECRET UE/EU TOP SECRET''': information and material the unauthorised disclosure of which could cause exceptionally grave prejudice to the essential interests of the European Union or of one or more of the Member States;
+**'''SECRET UE/EU SECRET''': information and material the unauthorised disclosure of which could seriously harm the essential interests of the European Union or of one or more of the Member States;
+**'''CONFIDENTIEL UE/EU CONFIDENTIAL''': information and material the unauthorised disclosure of which could harm the essential interests of the European Union or of one or more of the Member States;
+**'''RESTREINT UE/EU RESTRICTED''': information and material the unauthorised disclosure of which could be disadvantageous to the interests of the European Union or of one or more of the Member States.
+* [[Organisation for Joint Armament Cooperation]], a European defence organisation, has three levels of classification: OCCAR SECRET, OCCAR CONFIDENTIAL, and OCCAR RESTRICTED.<ref>{{cite web|url=http://www.fco.gov.uk/Files/kfile/306652_CM6554.pdf |title=306652_CM6554 |access-date=2012-11-14|archive-url=http://webarchive.nationalarchives.gov.uk/20050525181742/http://www.fco.gov.uk/Files/kfile/306652_CM6554.pdf|archive-date=2005-05-25}}</ref>
+* [[ECIPS]], the European Centre for Information Policy and Security, has 4 levels of Security Information, COSMIC (TOP SECRET), EC-SECRET, EC-CONFIDENTIAL and EC-COMMITTEES.
+
+==By country==
+[[Image:FialkaManualCoverPage.jpg|thumb|Facsimile of the cover page from an [[East Germany|East German]] operation manual for the M-125 [[Fialka]] [[cipher|cipher machine]]. The underlined classification markings can be translated as "Cryptologic material! Secret restricted material" [[:de:Verschlusssache]].]]
+Most countries employ some sort of classification system for certain government information. For example, in [[Canada]], information that the U.S. would classify SBU (Sensitive but Unclassified) is called "protected" and further subcategorised into levels A, B, and C.
+
+===Australia===
+On 19 July 2011, the National Security (NS) classification marking scheme and the Non-National Security (NNS) classification marking scheme in [[Australia]] was unified into one structure.
+
+The Australian Government Security Classification system now comprises TOP SECRET, SECRET, CONFIDENTIAL and PROTECTED. A new dissemination limiting markers (DLMs) scheme was also introduced for information where disclosure may be limited or prohibited by legislation, or where it may otherwise require special handling. The DLM marking scheme comprises For Official Use Only (FOUO), Sensitive, Sensitive: Personal, Sensitive: Legal, and Sensitive: Cabinet.<ref>{{Citation
+ |title       = Information security management guidelines
+ |publisher   = [[Attorney-General's Department (Australia)|Attorney-General's Department]]
+ |date        = 18 July 2011
+ |url         = http://www.protectivesecurity.gov.au/informationsecurity/Documents/Australian%20Government%20classification%20system.pdf
+ |archive-url  = https://web.archive.org/web/20130504052957/http://www.protectivesecurity.gov.au/informationsecurity/Documents/Australian%20Government%20classification%20system.pdf
+ |archive-date = 4 May 2013
+ |url-status     = dead
+ |access-date = 14 July 2013
+ |df          = dmy-all
+}}</ref>
+
+Documents marked Sensitive Cabinet, relating to discussions in Federal Cabinet, are treated as PROTECTED at minimum due to its higher sensitivity.
+
+===Brazil===
+There are three levels of [[document classification]] under Brazilian [http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/Lei/L12527.htm Information Access Law]: ''ultrassecreto'' (top secret), ''secreto'' (secret) and ''reservado'' (restricted).
+
+A top secret (''ultrassecreto'') government-issued document may be classified for a period of 25 years, which may be extended up to another 25 years. Thus, no document remains classified for more than 50 years. This is mandated by the 2011 Information Access Law (''Lei de Acesso à Informação''), a change from the previous rule, under which documents could have their classification time length renewed indefinitely, effectively shuttering state secrets from the public. The 2011 law applies retroactively to existing documents.
+
+===Canada===
+{{further|Security clearance#Canada}}
+
+====Background and hierarchy====
+The Government of Canada employs two main types of sensitive information designation: ''Classified'' and ''Protected''. The access and protection of both types of information is governed by the ''[[Security of Information Act]]'', effective December 24, 2001, replacing the ''Official Secrets Act 1981''.<ref>[http://www.csis.gc.ca/nwsrm/bckgrndrs/bckgrndr12-eng.asp Security of Information Act],  {{webarchive|url=https://wayback.archive-it.org/all/20080116134930/http://www.csis-scrs.gc.ca/en/newsroom/backgrounders/backgrounder12.asp |date=January 16, 2008 }}</ref> To access the information, a person must have the appropriate security clearance and the need to know.
+
+In addition, the caveat "Canadian Eyes Only" is used to restrict access to Classified or Protected information only to Canadian citizens with the appropriate security clearance and need to know.<ref>{{cite web|title=Industrial Security Services – Frequently Asked Questions |url=http://ssi-iss.tpsgc-pwgsc.gc.ca/questions/esp-pss-eng.html#q4 |archive-url=https://web.archive.org/web/20131120011009/http://ssi-iss.tpsgc-pwgsc.gc.ca/questions/esp-pss-eng.html#q4 |url-status=dead |archive-date=20 November 2013 |work=Public Works and Government Services Canada |publisher=Government of Canada |access-date=8 November 2012 }}</ref>
+
+====Special operational information====
+SOI is not a classification of data ''per se''. It is defined under the ''Security of Information Act'', and unauthorised release of such information constitutes a higher breach of trust, with penalty of life imprisonment.
+
+SOIs include:
+* military operations in respect of a potential, imminent or present armed conflict
+* the identity of confidential source of information, intelligence or assistance to the Government of Canada
+* tools used for information gathering or intelligence
+* the object of a covert investigation, or a covert collection of information or intelligence
+* the identity of any person who is under covert surveillance
+* encryption and cryptographic systems
+* information or intelligence to, or received from, a foreign entity or terrorist group
+
+====Classified information====
+Classified information can be designated ''Top Secret'', ''Secret'' or ''Confidential''. These classifications are only used on matters of national interest.
+* Top Secret: applies when compromise might reasonably cause exceptionally grave injury to the national interest. The possible impact must be great, immediate and irreparable.
+* Secret: applies when compromise might reasonably cause serious injury to the national interest.
+* Confidential: disclosure might reasonably cause injury to the national interest.
+
+====Protected information====
+Protected information is not classified. It pertains to any sensitive information that does not relate to national security and cannot be disclosed under the access and privacy legislation because of the potential injury to particular public or private interests.<ref>{{cite web |url=http://www.hc-sc.gc.ca/fniah-spnia/pubs/nihb-ssna/_priv/2005_code/index-eng.php#app2 |title=ARCHIVED – Non-Insured Health Benefits Program: Privacy Code, 2005 (Appendix II) |work=Health Canada, First Nations and Inuit Health Branch |year=2015 |access-date=5 September 2015 |archive-url=https://web.archive.org/web/20150924043739/http://www.hc-sc.gc.ca/fniah-spnia/pubs/nihb-ssna/_priv/2005_code/index-eng.php#app2 |archive-date=24 September 2015 |url-status=dead }}</ref><ref>{{Cite web|url=http://www.tbs-sct.gc.ca/pubs_pol/gospubs/TB_J2/dwnld/spmh_e.rtf|archive-url=https://web.archive.org/web/20050601030559/http://www.tbs-sct.gc.ca/pubs_pol/gospubs/TB_J2/dwnld/spmh_e.rtf|url-status=dead|title=Security Policy – Manager's Handbook|archive-date=June 1, 2005}}</ref>
+* Protected C (Extremely Sensitive protected information): designates extremely sensitive information, which if compromised, could reasonably be expected to cause extremely grave injury outside the national interest. Examples include bankruptcy, identities of informants in criminal investigations, etc.
+* Protected B (Particularly Sensitive protected information): designates information that could cause severe injury or damage to the people or group involved if it was released. Examples include medical records, annual personnel performance reviews, income tax returns, etc.
+* Protected A (Low-Sensitive protected information): designates low sensitivity information that should not be disclosed to the public without authorization and could reasonably be expected to cause injury or embarrassment outside the national interest. Example of Protected A information include employee identification number, pay deposit banking information, etc.
+
+Federal Cabinet ([[Queen's Privy Council for Canada]]) papers are either protected (e.g., overhead slides prepared to make presentations to Cabinet) or classified (e.g., draft legislation, certain memos).<ref>{{cite web |url=http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25487&section=text=True |title=Archived – Access to Information Guidelines – Confidences of the Queen's Privy Council for Canada |work=Treasury Board of Canada Secretariat |year=2015 |access-date=5 September 2015 |url-status=dead |archive-url=https://web.archive.org/web/20151017171415/http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25487&section=text%3DTrue |archive-date=17 October 2015 }}</ref>
+
+===People's Republic of China===
+[[File:Wuhan Hubei foreign affairs office 4232.jpg|thumb|A building in [[Wuhan]] housing provincial offices for dealing with foreign countries etc. The red slogan says, "Protection of national secrets is a duty of every citizen".]]
+The [[Criminal Law]] of the [[People's Republic of China]] (which is not operative in the Special Administrative Regions of [[#Hong Kong|Hong Kong]] and [[Macau]]) makes it a crime to release a state secret. Regulation and enforcement is carried out by the [[National Administration for the Protection of State Secrets]].
+
+Under the 1989 "Law on Guarding State Secrets,"<ref>Standing Committee of the National People's Congress, "[http://www.gov.cn/banshi/2005-08/21/content_25096.htm Law on Guarding State Secrets]" (中华人民共和国保守国家秘密法), promulgated 1988 and effective 1989.</ref> state secrets are defined as those that concern:
+
+# Major policy decisions on state affairs
+# The building of national defence and in the activities of the armed forces
+# Diplomatic activities and in activities related to foreign countries and those to be maintained as commitments to foreign countries
+# National economic and social development
+# Science and technology
+# Activities for preserving state security and the investigation of criminal offences
+# Any other matters classified as "state secrets" by the national State Secrets Bureau<ref name="prcssreport">Translation per Human Rights in China, ''[http://hrichina.org/public/contents/41421 State Secrets: China's Legal Labyrinth],'' (2007).</ref>
+
+Secrets can be classified into three categories:
+* Top secret (绝密): defined as "vital state secrets whose disclosure would cause extremely serious harm to state security and national interests"
+* Highly secret (机密): defined as "important state secrets whose disclosure would cause serious harm to state security and national interests"
+* Secret (秘密): defined as "ordinary state secrets whose disclosure would cause harm to state security and national interests"<ref name="prcssreport" />
+
+===France===
+In France, classified information is defined by article 413-9 of the Penal Code.<ref>{{cite web |url=http://legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&idArticle=LEGIARTI000020933029&dateTexte=20150905 |title=Code pénal – Article 413-9 |work=Legifrance |year=2009 |access-date=5 September 2015}}</ref> The three levels of military classification are
+* ''Très Secret Défense'' (Very Secret Defence): Information deemed extremely harmful to national defense,{{citation needed|date=February 2014}} and relative to governmental priorities in national defense. No service or organisation can elaborate, process, stock, transfer, display or destroy information or protected supports classified at this level without authorization from the Prime Minister or the national secretary for National Defence. Partial or exhaustive reproduction is strictly forbidden.
+* ''Secret Défense'' (Secret Defence): Information deemed very harmful to national defense. Such information cannot be reproduced without authorisation from the emitting authority, except in exceptional emergencies.
+* ''Confidentiel Défense'' (Confidential Defence): Information deemed potentially harmful to national defense, or that could lead to uncovering some information classified at a higher level of security.
+
+Less sensitive information is "protected". The levels are
+* ''Confidentiel personnels Officiers'' ("Confidential officers")
+* ''Confidentiel personnels Sous-Officiers'' ("Confidential non-commissioned officers")
+* ''Diffusion restreinte'' ("restricted information")
+* ''Diffusion restreinte administrateur'' ("administrative restricted information")
+* ''Non Protégé'' (unprotected)
+
+A further caveat, "''spécial France''" (reserved France) restricts the document to French citizens (in its entirety or by extracts). This is not a classification level.
+
+Declassification of documents can be done by the ''Commission consultative du secret de la défense nationale'' (CCSDN), an independent authority. Transfer of classified information is done with double envelopes, the outer layer being plastified and numbered, and the inner in strong paper. Reception of the document involves examination of the physical integrity of the container and registration of the document. In foreign countries, the document must be transferred through specialised military mail or [[diplomatic bag]]. Transport is done by an authorised convoyer or habilitated person for mail under 20&nbsp;kg. The letter must bear a seal mentioning "''PAR VALISE ACCOMPAGNEE-SACOCHE''". Once a year, ministers have an inventory of classified information and supports by competent authorities.
+
+Once their usage period is expired, documents are transferred to archives, where they are either destroyed (by incineration, crushing, or overvoltage), or stored.
+
+In case of unauthorized release of classified information, competent authorities are the [[Minister of the Interior (France)|Ministry of Interior]], the ''Haut fonctionnaire de défense et de sécurité'' ("high civil servant for defence and security") of the relevant ministry, and the General secretary for National Defence. Violation of such secrets is an offence punishable with 7 years of imprisonment and a 100,000 Euro fine; if the offence is committed by imprudence or negligence, the penalties are 3 years of imprisonment and a 45,000 Euro fine.
+
+===Hong Kong===
+The [[Security Bureau (Hong Kong)|Security Bureau]] is responsible for developing policies in regards to the protection and handling of confidential government information. In general, the system used in Hong Kong is very similar to the UK system, developed from the [[Colonial Hong Kong]] era.
+
+Four classifications exists in Hong Kong, from highest to lowest in sensitivity:<ref>[http://www.csb.gov.hk/hkgcsb/doclib/general.pdf] {{webarchive|url=https://web.archive.org/web/20061201013917/http://www.csb.gov.hk/hkgcsb/doclib/general.pdf|date=December 1, 2006}}</ref>
+* Top Secret (絕對機密)
+* Secret (高度機密)
+* Confidential (機密)
+** Temporary Confidential (臨時保密)
+* Restricted (限閱文件/內部文件)
+** Restricted (staff) (限閱文件(人事))
+** Restricted (tender) (限閱文件 (投標))
+** Restricted (administration) (限閱文件 (行政))
+
+Restricted documents are not classified ''per se'', but only those who have a need to know will have access to such information, in accordance with the ''Personal Data (Privacy) Ordinance''.<ref>{{Cite web|url=http://www.hab.gov.hk/en/publications_and_press_releases/press_releases_speeches/equal_opportunities/191103q3.htm|archive-url=https://web.archive.org/web/20081227080400/http://www.hab.gov.hk/en/publications_and_press_releases/press_releases_speeches/equal_opportunities/191103q3.htm|url-status=dead|title=LCQ3: Equal Opportunities Commission|archive-date=December 27, 2008}}</ref>
+
+===New Zealand===
+[[New Zealand]] uses the Restricted classification, which is lower than Confidential.
+People may be given access to Restricted information on the strength of an authorisation by their [[Head of Department]], without being subjected to the background [[vetting]] associated with Confidential, Secret and Top Secret clearances. New Zealand's security classifications and the national-harm requirements associated with their use are roughly similar to those of the [[United States]].
+
+In addition to national security classifications there are two additional security classifications, In Confidence and Sensitive, which are used to protect information of a policy and privacy nature. There are also a number of information markings used within ministries and departments of the government, to indicate, for example, that information should not be released outside the originating ministry.
+
+Because of strict privacy requirements around personal information, personnel files are controlled in all parts of the public and private sectors. Information relating to the security vetting of an individual is usually classified at the In Confidence level.
+
+===Romania===
+In [[Romania]], classified information is referred to as "state secrets" (''secrete de stat'') and is defined by the Penal Code as "documents and data that manifestly appear to have this status or have been declared or qualified as such by decision of Government".<ref>{{cite web | url=http://legeaz.net/cod-penal-actualizat-2011/art-150-cpen | title=Penal Code of Romania, art. 150 | access-date=January 28, 2013}}</ref> There are three levels of classification—Secret, Top Secret, and Top Secret of Particular Importance.<ref>{{cite web | url=http://legislatie.resurse-pentru-democratie.org/182_2002.php | title=Law no. 182/2002 on protection of classified information | access-date=January 28, 2013}}</ref> The levels are set by the [[Romanian Intelligence Service]] and must be aligned with NATO regulations—in case of conflicting regulations, the latter are applied with priority. Dissemination of classified information to foreign agents or powers is punishable by up to life imprisonment, if such dissemination threatens Romania's national security.<ref>{{cite web | url=http://legeaz.net/cod-penal-actualizat-2011/art-157-cpen | title=Penal Code of Romania, art. 157 | access-date=January 28, 2013}}</ref>
+
+[[File:KGB Regulation seen in Museum of Genocide Victims Vilnius.jpg|thumb|KGB Regulation seen in Museum of Genocide Victims Vilnius]]
+
+===Russia===
+{{main|Classified information in Russia}}
+
+In the [[Russian Federation]], a state secret (Государственная тайна) is information protected by the state on its military, foreign policy, economic, intelligence, counterintelligence, operational and investigative and other activities, dissemination of which could harm state security.
+
+===Sweden===
+[[File:Hemligstamplar collage 02.jpeg|thumb|Some Swedish examples of markings attached to documents that are to be kept secret. A single frame around the text indicates ''Hemlig'', which can be equal to either Secret, Confidential or Restricted. Double frames means ''Kvalificerat hemlig'', that is, Top Secret.]]
+The Swedish classification has been updated due to increased NATO/PfP cooperation. All classified defence documents will now have both a Swedish classification (''Kvalificerat hemlig'', ''Hemlig'', ''Konfidentiell'' or ''Begränsat Hemlig''), and an English classification (Top Secret, Secret, Confidential, or Restricted).{{Citation needed|date=June 2008}} The term ''skyddad identitet'', "protected identity", is used in the case of protection of a threatened person, basically implying "secret identity", accessible only to certain members of the police force and explicitly authorised officials.
+
+===Switzerland===
+
+At the federal level, classified information in Switzerland is assigned one of three levels, which are from lowest to highest:  INTERNAL, CONFIDENTIAL, SECRET.<ref name=":0">{{Cite web|url=https://www.admin.ch/opc/en/classified-compilation/20070574/index.html|title=Ordinance on the Protection of Federal Information|date=1 January 2018|website=Swiss Federal Government|access-date=29 January 2020}}</ref> Respectively, these are, in German, INTERN, VERTRAULICH, GEHEIM; in French, INTERNE, CONFIDENTIEL, SECRET; in Italian, AD USO INTERNO, CONFIDENZIALE, SEGRETO. As in other countries, the choice of classification depends on the potential impact that the unauthorised release of the classified document would have on Switzerland, the federal authorities or the authorities of a foreign government.  
+
+According to the Ordinance on the Protection of Federal Information, information is classified as INTERNAL if its "disclosure to unauthorised persons may be disadvantageous to national interests."<ref name=":0" />  Information classified as CONFIDENTIAL could, if disclosed, compromise "the free formation of opinions and decision-making of [[Federal Assembly (Switzerland)|the Federal Assembly]] or [[Federal Council (Switzerland)|the Federal Council]]," jeopardise national monetary/economic policy, put the population at risk or adversely affect the operations of the [[Swiss Armed Forces]]. Finally, the unauthorised release of SECRET information could seriously compromise the ability of either the Federal Assembly or the Federal Council to function or impede the ability of the Federal Government or the Armed Forces to act.
+
+=== Turkey ===
+According to the related regulations in [[Turkey]], there are four levels of document classification:<ref name="tr">{{cite journal |last1=Diri |first1=Mustafa |last2=Gülçiçek |first2=Mirac |title=Türkiye'de Kamu Hizmetinin Görülmesinde Kullanılmakta Olan Gizlilik Derecesi Tanımları : Uygulamadaki Sorunlar ve Çözüm Önerileri |journal=Maliye Dergisi |date=2012 |issue=162 |pages=497-537 |url=https://ms.hmb.gov.tr/uploads/2019/09/26.pdf |language=tr}}</ref> ''çok gizli'' (top secret), ''gizli'' (secret), ''hizmete özel'' (confidential) and ''özel'' (restricted). The fifth "inscription" is ''tasnif dışı'', which means unclassified.
+
+===United Kingdom===
+[[File:Government Security Classifications Policy.png|thumb|Security classifications in the UK]]
+{{Main|Classified information in the United Kingdom}}
+Until 2013, the [[United Kingdom]] used five levels of classification—from lowest to highest, they were: PROTECT, RESTRICTED, CONFIDENTIAL, SECRET and TOP SECRET (formerly MOST SECRET). The [[Cabinet Office]] provides guidance on how to protect information, including the [[Classified information in the United Kingdom#Security clearance|security clearances]] required for personnel. Staff may be required to sign to confirm their understanding and acceptance of the [[Official Secrets Acts 1911 to 1989]], although the Act applies regardless of signature. PROTECT is not in itself a security protective marking level (such as RESTRICTED or greater), but is used to indicate information which should not be disclosed because, for instance, the document contains tax, national insurance, or other personal information.
+
+Government documents without a classification may be marked as UNCLASSIFIED or NOT PROTECTIVELY MARKED.<ref>{{cite web |url=http://www.cabinetoffice.gov.uk/spf/faqs.aspx |title=Understanding the Security Policy Framework & frequently asked questions |publisher=Cabinet Office |date=1 April 2013 |access-date=5 September 2015}}</ref>
+
+This system was replaced by the [[Government Security Classifications Policy]], which has a simpler model: TOP SECRET, SECRET, and OFFICIAL from April 2014.<ref name=UK_Classifications/> OFFICIAL SENSITIVE is a security marking which may be followed by one of three authorised descriptors: COMMERCIAL, LOCSEN (location sensitive) or PERSONAL. SECRET and TOP SECRET may include a caveat such as UK EYES ONLY.
+
+Also useful is that scientific discoveries may be classified via the [[D-Notice]] system if they are deemed to have applications relevant to national security. These may later emerge when technology improves so for example the specialised processors and routing engines used in graphics cards are loosely based on top secret military chips designed for code breaking and image processing.
+They may or may not have safeguards built in to generate errors when specific tasks are attempted and this is invariably independent of the card's operating system.
+
+===United States===
+{{Main|Classified information in the United States}}
+The U.S. classification system is currently established under [[Executive Order 13526]] and has three levels of classification—Confidential, Secret, and Top Secret. The U.S. had a Restricted level during [[World War II]] but no longer does. U.S. regulations state that information received from other countries at the Restricted level should be handled as Confidential. A variety of markings are used for material that is not classified, but whose distribution is limited administratively or by other laws, e.g., [[For Official Use Only]] (FOUO), or [[Sensitive but Unclassified]] (SBU). The Atomic Energy Act of 1954 provides for the protection of information related to the design of nuclear weapons. The term "Restricted Data" is used to denote certain nuclear technology. Information about the storage, use or handling of nuclear material or weapons is marked "Formerly Restricted Data". These designations are used in addition to level markings (Confidential, Secret and Top Secret). Information protected by the Atomic Energy Act is protected by law and information classified under the Executive Order is protected by Executive privilege.
+
+The U.S. government insists it is "not appropriate" for a court to question whether any document is legally classified.<ref name=JudRev>
+{{cite journal | last = Aftergood | first = Steven | author-link = Steven Aftergood | date = August 27, 2014 | title = Gov't Resists Court Review of State Secrets | journal = Secrecy News | publisher = Federation of American Scientists | url = https://fas.org/blogs/secrecy/2014/08/review-state-secrets/ | access-date = 2014-09-26}}</ref> In the [[Daniel Ellsberg#Trial and dismissal|1973 trial of Daniel Ellsberg for releasing the Pentagon Papers]], the judge did not allow any testimony from Ellsberg, claiming it was "irrelevant", because the assigned classification could not be challenged. The charges against Ellsberg were ultimately dismissed after it was revealed that the government had broken the law in secretly breaking into the office of Ellsberg's psychiatrist and in tapping his telephone without a warrant. Ellsberg insists that the legal situation in the U.S. today is worse than it was in 1973, and [[Edward Snowden]] could not get a fair trial.<ref>{{cite news | last = Ellsberg | first = Daniel | author-link = Daniel Ellsberg | date = 30 May 2014 | title = Daniel Ellsberg: Snowden would not get a fair trial – and Kerry is wrong | newspaper = The Guardian | url = https://www.theguardian.com/commentisfree/2014/may/30/daniel-ellsberg-snowden-fair-trial-kerry-espionage-act | access-date = 2014-09-26}}</ref> The [[State Secrets Protection Act]] of 2008 might have given judges the authority to review such questions [[in camera]], but the bill was not passed.<ref name=JudRev/>
+
+When a government agency acquires classified information through covert means, or designates a program as classified, the agency asserts "ownership" of that information and considers any public availability of it to be a violation of their ownership — even if the same information was acquired independently through "parallel reporting" by the press or others. For example, although the [[Drone strikes in Pakistan|CIA drone program]] has been widely discussed in public since the early 2000s, and reporters personally observed and reported on drone missile strikes, the CIA still considers the very existence of the program to be classified in its entirety, and any public discussion of it technically constitutes exposure of classified information. "Parallel reporting" was an issue in determining what constitutes "classified" information during the [[Hillary Clinton email controversy]] when [[Assistant Secretary of State for Legislative Affairs]] [[Julia Frifield]] noted, "When policy officials obtain information from open sources, ‘think tanks,’ experts, foreign government officials, or others, the fact that some of the information may also have been available through intelligence channels does not mean that the information is necessarily classified.”<ref>{{Cite web|url=https://fas.org/blogs/secrecy/2013/06/dod-classified/|title=DoD Warns Employees of Classified Info in Public Domain – Federation Of American Scientists}}</ref><ref>{{Cite web|url=https://www.nytimes.com/2016/02/06/us/politics/agencies-battle-over-what-is-top-secret-in-hillary-clintons-emails.html|title=Agencies Battle Over What Is 'Top Secret' in Hillary Clinton's Emails|first1=Steven Lee|last1=Myers|first2=Mark|last2=Mazzetti|date=February 5, 2016|via=NYTimes.com}}</ref><ref>{{Cite web|url=https://www.washingtonpost.com/world/national-security/secrecy-defines-obamas-drone-war/2011/10/28/gIQAPKNR5O_story.html|title=Secrecy defines Obama's drone war|website=Washington Post}}</ref>
+
+===Table of equivalent classification markings in various countries===
+
+{| class="wikitable"
+|-
+! (State)
+! Top Secret
+! Secret
+! Confidential
+! Restricted
+|-
+| [[Albania]]
+| Teper Sekret
+| Sekret
+| Konfidencial
+| I Kufizuar
+|-
+| [[Argentina]]
+| Estrictamente Secreto y Confidencial
+| Secreto
+| Confidencial
+| Reservado
+|-
+| [[Australia]]
+| Top Secret
+| Secret
+| Confidential
+| Protected
+|-
+| [[Austria]]
+| Streng Geheim
+| Geheim
+| Vertraulich
+| Eingeschränkt
+|-
+| [[Belgium]]
+| Zeer Geheim / Très Secret
+| Geheim / Secret
+| Vertrouwelijk / Confidentiel
+| Beperkte Verspreiding / Diffusion restreinte
+|-
+| [[Bolivia]]
+| Supersecreto<br/>or Muy Secreto
+| Secreto
+| Confidencial
+| Reservado
+|-
+| [[Bosnia and Herzegovina]]
+| Vrlo tajno
+| Tajno
+| Povjerljivo
+| Interno
+|-
+| [[Brazil]]
+| Ultrassecreto
+| Secreto
+| {{n/a|no equivalent (formerly ''Confidencial'')}}
+| Reservado
+|-
+| [[Bulgaria]]
+| ''Strògo sècretno'' 
+Строго секретно
+| ''Sècretno''
+Секретно
+| ''Poveritèlno''
+Поверително
+| ''Za služebno polzvàne'' 
+За служебно ползване
+|-
+| [[Cambodia]]
+| Sam Ngat Bamphot
+| Sam Ngat Roeung
+| Art Kambang
+| Ham Kom Psay
+|-
+| [[Canada]]
+| Top Secret/Très secret
+| Secret/Secret
+| Confidential/Confidentiel
+| Protected A, B or C / Protégé A, B ou C
+|-
+| [[Chile]]
+| Secreto
+| Secreto
+| Reservado
+| Reservado
+|-
+| [[China|China, People's Republic of]]
+| Juémì (绝密)
+| Jīmì (机密)
+| Mìmì (秘密)
+| Nèibù (内部)
+|-
+| [[Colombia]]
+| Ultrasecreto
+| Secreto
+| Confidencial
+| Reserva del sumario
+|-
+| [[Costa Rica]]
+| Alto Secreto
+| Secreto
+| Confidencial
+| &nbsp;
+|-
+| [[Croatia]]
+| Vrlo tajno
+| Tajno
+| Povjerljivo
+| Ograničeno
+|-
+| [[Czech Republic]]
+| Přísně tajné
+| Tajné
+| Důvěrné
+| Vyhrazené
+|-
+| [[Denmark]]
+| Yderst Hemmeligt (YHM)
+| Hemmeligt (HEM)
+| Fortroligt (FTR)
+| Til Tjenestebrug (TTJ)<br>
+Foreign Service: Fortroligt<br>
+(thin Black border)
+|-
+| [[Ecuador]]
+| Secretisimo
+| Secreto
+| Confidencial
+| Reservado
+|-
+| [[Egypt]]
+| {{transl|ar|DIN|Sirriy lil-Ġāyah}} <br> {{lang|ar|سري للغاية}}
+| {{transl|ar|DIN|Sirriy Ǧiddan}} <br> {{lang|ar|سري جداً}}
+| {{transl|ar|DIN|Khāṣ}} <br> {{lang|ar|خاص}}
+| {{transl|ar|DIN|Maḥzūr}} <br> {{lang|ar|محظور}}
+|-
+| [[El Salvador]]
+| Ultra Secreto
+| Secreto
+| Confidencial
+| Reservado
+|-
+| [[Estonia]]
+| Täiesti salajane
+| Salajane
+| Konfidentsiaalne
+| Piiratud
+|-
+| [[Ethiopia]]
+| ብርቱ ምስጢር
+| ምስጢር
+| ጥብቅ
+| ክልክል
+|-
+| [[European Union]] (EU)
+| TRES SECRET UE / EU TOP SECRET
+| SECRET UE / EU SECRET
+| CONFIDENTIEL UE / EU CONFIDENTIAL
+| RESTREINT UE / EU RESTRICTED
+|-
+| [[Western European Union|European Union (Western)]] (WEU)
+| FOCAL TOP SECRET
+| WEU SECRET
+| WEU CONFIDENTIAL
+| WEU RESTRICTED
+|-
+| [[European Atomic Energy Community|Euratom]]
+| EURA TOP SECRET
+| EURA SECRET
+| EURA CONFIDENTIAL
+| EURA RESTRICTED
+|-
+| [[Finland]]{{efn|group=table|Finland uses also uses the label ''Salassa pidettävä'', "to be kept secret" for information that is not classified but must not be revealed on some other basis than national security. (E.g. privacy, trade secrets etc.)}}
+| Erittäin salainen (ST I)
+| Salainen (ST II)
+| Luottamuksellinen (ST III)
+| Käyttö rajoitettu (ST IV)
+|-
+| [[France]]
+| Très secret défense
+| Secret défense
+| Confidentiel défense
+| Diffusion restreinte
+|-
+| [[Germany]]
+| STRENG GEHEIM
+| GEHEIM
+| VS-VERTRAULICH
+| VS-NUR FÜR DEN DIENSTGEBRAUCH
+|-
+| [[Greece]]
+| Άκρως Απόρρητον
+| Απόρρητον
+| Εμπιστευτικόν
+| Περιορισμένης<br>Χρήσης
+|-
+| [[Guatemala]]
+| Alto Secreto
+| Secreto
+| Confidencial
+| Reservado
+|-
+| [[Haiti]]
+| Top Secret
+| Secret
+| Confidential
+| Reserve
+|-
+| [[Honduras]]
+| Super Secreto
+| Secreto
+| Confidencial
+| Reservado
+|-
+| [[Hong Kong]]
+| Top Secret, 高度機密
+| Secret, 機密
+| Confidential, 保密
+| Restricted, 內部文件/限閱文件
+|-
+| [[Hungary]]
+| Szigorúan Titkos
+| Titkos
+| Bizalmas
+| Korlátozott Terjesztésű
+|-
+| [[India]] ([[Hindi language|Hindi]])
+| परम गुप्त (Param Gupt)
+| गुप्त (Gupt)
+| गोपनीय (Gopniya)
+| प्रतिबंधित/सीमित (Pratibandhit/seemit)
+|-
+| [[India]] ([[English language|English]])
+| Top Secret
+| Secret
+| Confidential
+| Restricted
+|-
+| [[Indonesia]]
+| Sangat Rahasia
+| Rahasia
+| Rahasia Dinas
+| Terbatas
+|-
+| [[Iran]]
+| Bekoli-Serri بکلی سری
+| Serri سری
+| Kheili-Mahramaneh خیلی محرمانه
+| Mahramaneh محرمانه
+|-
+| [[Iraq]]
+| {{transl|ar|DIN|Sirriy lil-Ġāyah}} <br> {{lang|ar|سري للغاية}}
+| {{transl|ar|DIN|Sirriy}} <br> {{lang|ar|سري}}
+| {{transl|ar|DIN|Khāṣ}} <br> {{lang|ar|خاص}}
+| {{transl|ar|DIN|Maḥdūd}} <br> {{lang|ar|محدود}}
+|-
+| [[Iceland]]
+| Algert Leyndarmál
+| Leyndarmál
+| Trúnaðarmál
+| Þjónustuskjal
+|-
+| [[Ireland]] ([[Irish language]])
+| An-sicreideach
+| Sicreideach
+| Runda
+| Srianta
+|-
+| [[Israel]]
+| Sodi Beyoter<br>סודי ביותר
+| Sodi<br>סודי
+| Shamur<br>שמור
+| Mugbal<br>מוגבל
+|-
+| [[Italy]]
+| Segretissimo
+| Segreto
+| Riservatissimo
+| Riservato
+|-
+| [[Japan]]
+| Kimitsu, {{lang|ja|機密}}
+| Gokuhi, 極秘
+| Hi, 秘
+| Toriatsukaichuui, 取り扱い注意
+|-
+| [[Jordan]]
+| {{transl|ar|DIN|Maktūm Ǧiddan}} <br> {{lang|ar|مكتوم جداً}}
+| {{transl|ar|DIN|Maktūm}} <br> {{lang|ar|مكتوم}}
+| {{transl|ar|DIN|Sirriy}} <br> {{lang|ar|سري}}
+| {{transl|ar|DIN|Maḥdūd}} <br> {{lang|ar|محدود}}
+|-
+| [[South Korea|Korea]], South
+| I(Il)-geup Bimil, {{lang|ko|1급비밀, 1級秘密}}
+| II(I)-geup Bimil, {{lang|ko|2급비밀, 2級秘密}}
+| III(Sam)-geup Bimil, {{lang|ko|3급비밀, 3級秘密}}
+| Daeoebi, {{lang|ko|대외비, 對外秘}}
+|-
+| [[Laos]]
+| Lup Sood Gnod
+| Kuam Lup
+| Kuam Lap
+| Chum Kut Kon Arn
+|-
+| [[Latvia]]
+| Sevišķi slepeni
+| Slepeni
+| Konfidenciāli
+| Dienesta vajadzībām
+|-
+| [[Lebanon]]
+| Tres Secret
+| Secret
+| Confidentiel
+| &nbsp;
+|-
+| [[Lithuania]]
+| Visiškai Slaptai
+| Slaptai
+| Konfidencialiai
+| Riboto Naudojimo
+|-
+| [[Malaysia]]
+| Rahsia Besar
+| Rahsia
+| Sulit
+| Terhad
+|-
+| [[Mexico]]
+| Ultra Secreto
+| Secreto
+| Confidencial
+| Restringido
+|-
+| [[Montenegro]]
+| Strogo Tajno
+| Tajno
+| Povjerljivo
+| Interno
+|-
+| [[Netherlands]]<ref>{{cite web|url=http://wetten.overheid.nl/BWBR0016435/#B |title=Wet- en regelgeving – Besluit voorschrift informatiebeveiliging rijksdienst – bijzondere informatie – BWBR0016435 |language=nl |publisher=Wetten.overheid.nl |access-date=2013-07-04}}</ref>
+| STG. Zeer Geheim
+| STG. Geheim
+| STG. Confidentieel
+| Departementaal Vertrouwelijk
+|-
+| [[New Zealand]]
+| Top Secret
+| Secret
+| Confidential
+| Restricted
+|-
+| [[Nicaragua]]
+| Alto Secreto
+| Secreto
+| Confidencial
+| Reservado
+|-
+| [[Norway]]
+| STRENGT HEMMELIG
+| HEMMELIG
+| KONFIDENSIELT
+| BEGRENSET
+|-
+| [[Pakistan]] ([[Urdu]])
+| Intahai Khufia <br> {{lang|ur|انتہائی خفیہ}}
+| Khufia <br> {{lang|ur|خفیہ}}
+| Sigh-e-Raz <br> {{lang|ur|صیخہ راز}}
+| Barai Mahdud Taqsim <br> {{lang|ur|محدود تقسیم}}
+|-
+| [[Pakistan]] ([[English language|English]])
+| Top Secret
+| Secret
+| Confidential
+| Restricted
+|-
+| [[Paraguay]]
+| Secreto
+| Secreto
+| Confidencial
+| Reservado
+|-
+| [[Peru]]
+| Estrictamente Secreto
+| Secreto
+| Confidencial
+| Reservado
+|-
+| [[Philippines]] ([[English language|English]])
+[[Philippines]] ([[Tagalog language|Tagalog]])
+| Top Secret
+Matinding Lihim
+| Secret
+Mahigpit na Lihim
+| Confidential
+Lihim
+| Restricted
+Ipinagbabawal
+|-
+| [[Poland]]
+| Ściśle tajne
+| Tajne
+| Poufne
+| Zastrzeżone
+|-
+| [[Portugal]]
+| Muito Secreto
+| Secreto
+| Confidencial
+| Reservado
+|-
+| [[Romania]]
+| Strict Secret de Importanță Deosebită
+| Strict Secret
+| Secret
+| Secret de serviciu
+|-
+| [[Russia]]
+| Особой важности <br>(вариант: Совершенно Секретно (''Sovershenno Sekretno''))
+| Совершенно секретно <br>(вариант: Секретно (''Sekretno''))
+| Секретно <br>(вариант: Не подлежит оглашению <br>(Конфиденциально) (''Ne podlezhit oglasheniyu (Konfidentsial'no))''
+| Для Служебного Пользования (ДСП)<br>(''Dlya Sluzhebnogo Pol'zovaniya'')
+|-
+| [[Saudi Arabia]]
+| Saudi Top Secret
+| Saudi Very Secret
+| Saudi Secret
+| Saudi Restricted
+|-
+| [[Serbia]]
+| Latin: Državna tajna <br>Cyrillic: Државна тајна
+| Latin: Strogo poverljivo <br>Cyrillic: Строго поверљиво
+| Latin: Poverljivo <br>Cyrillic: Поверљиво
+| Latin: Interno <br>Cyrillic: Интерно
+|-
+| [[Singapore]]
+| Top Secret
+| Secret
+| Confidential
+| Restricted
+|-
+| [[Somalia]]
+| Sir Muhiim ah
+| Sir Gooniya
+| Xog Qarsoon
+| Qarsoon
+|-
+| [[Slovak Republic]]
+| Prísne tajné
+| Tajné
+| Dôverné
+| Vyhradené
+|-
+| [[Slovenia]]
+| Strogo tajno
+| Tajno
+| Zaupno
+| Interno
+|-
+| [[Spain]]
+| Secreto
+| Reservado
+| Confidencial
+| Difusión Limitada
+|-
+| [[Sri Lanka]]
+| අති රහස්‍ය
+| රහස්‍ය
+| රහසිගත
+| සීමාන්විත
+|-
+| [[Sweden]]
+| Kvalificerat Hemlig (KH); Hemlig/Top Secret (H/TS)
+| Hemlig (H); Hemlig/Secret (H/S)
+| Hemlig/Confidential (H/C)
+| Hemlig/Restricted (H/R)
+|-
+| [[Switzerland]]
+|
+| GEHEIM / SECRET
+| VERTRAULICH / CONFIDENTIEL
+| INTERN / INTERNE
+|-
+| [[Taiwan|Taiwan (Republic of China)]]<ref>{{cite web|url=http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=I0060003 |title=The Classified National Security Information Protection Act |date=2003-02-06 |access-date=2014-03-26}}</ref>
+| Top Secret (絕對機密)
+| Secret (極機密)
+| Confidential (機密)
+| {{n/a|no direct equivalent}}
+|-
+| [[Tanzania]] ([[Swahili language|Swahili]])
+| SIRI KUU
+| SIRI
+| STIRI
+| IMEZUILIWA
+|-
+| [[Thailand]]
+| Lap thi sut (ลับที่สุด)
+| Lap mak (ลับมาก)
+| Lap (ลับ)
+| Pok pit (ปกปิด)
+|-
+| [[Turkey]]
+| Çok Gizli
+| Gizli
+| Özel
+| Hizmete Özel
+|-
+| [[South Africa]] (English)
+| Top Secret
+| Secret
+| Confidential
+| Restricted
+|-
+| South Africa ([[Afrikaans]])
+| Uiters Geheim
+| Geheim
+| Vertroulik
+| Beperk
+|-
+| [[Ukraine]]
+| Цілком таємно
+| Таємно
+| Конфіденційно
+| Для службового користування
+|-
+| [[United Kingdom]]
+| TOP SECRET
+| SECRET
+| OFFICIAL-SENSITIVE (formerly CONFIDENTIAL)
+| OFFICIAL (formerly RESTRICTED)
+|-
+| [[United States]]
+| Top Secret
+| Secret
+| Confidential
+| {{n/a|no direct equivalent}}
+|-
+| [[Uruguay]]
+| Ultra Secreto
+| Secreto
+| Confidencial
+| Reservado
+|-
+| [[Vietnam]]
+| Tuyệt Mật, 絕密
+| Tối Mật, 最密
+| Mật, 密
+| Phổ Biến Hạn Chế, 普遍限制
+|-
+| style="background:#ececec;;"colspan="5"|'''Table notes:'''
+{{notelist|group=table}}
+
+<small>'''Table source:''' {{cite web |last1=US Department of Defense |author-link1=United States Department of Defense |title=National Industrial Security Program - Operating Manual (DoD 5220.22-M) |url=https://apps.dtic.mil/dtic/tr/fulltext/u2/a291750.pdf |access-date=27 July 2019 |archive-url=https://web.archive.org/web/20190727225319/https://apps.dtic.mil/dtic/tr/fulltext/u2/a291750.pdf |archive-date=27 July 2019 |pages=B1 - B3 (PDF pages:121 - 123 ) |language=en |date=January 1995}}</small>
+|}
+
+==Corporate classification==
+Private [[corporation]]s often require written [[non-disclosure agreement|confidentiality agreements]] and conduct [[background check]]s on candidates for sensitive positions.<ref>{{cite web |url=http://www.privacyrights.org/fs/fs16-bck.htm |title=Employment Background Checks: A Jobseeker's Guide &#124; Privacy Rights Clearinghouse |publisher=Privacyrights.org |access-date=2011-12-12 |archive-url=https://web.archive.org/web/20120109003413/http://www.privacyrights.org/fs/fs16-bck.htm |archive-date=2012-01-09 |url-status=dead }}</ref> In the U.S. the [[Employee Polygraph Protection Act]] prohibits private employers from requiring lie detector tests, but there are a few exceptions. Policies dictating methods for marking and safeguarding company-sensitive information (e.g. "IBM Confidential") are common and some companies have more than one level. Such information is protected under [[trade secret]] laws. New product development teams are often sequestered and forbidden to share information about their efforts with un-cleared fellow employees, the original [[Apple Macintosh]] project being a famous example. Other activities, such as [[merger]]s and [[financial report]] preparation generally involve similar restrictions. However, corporate security generally lacks the elaborate hierarchical clearance and sensitivity structures and the harsh criminal sanctions that give government classification systems their particular tone.
+
+==Traffic Light Protocol==
+The [[Traffic Light Protocol]]<ref>{{cite web|url=http://www.oecd.org/dataoecd/25/10/40761118.pdf |title=Development of Policies for Protection of Critical Information Infrastructures |publisher=Cecd.ord |access-date=2012-11-14}}</ref><ref>{{cite web|url=http://marc.info/?l=bugtraq&m=122754275122010&w=2 |title='Re: OpenSSH security advisory: cbc.adv' – MARC |publisher=Marc.info |access-date=2011-12-12}}</ref> was developed by the [[Group of Eight]] countries to enable the sharing of sensitive information between government agencies and corporations. This protocol has now been accepted as a model for trusted information exchange by over 30 other countries. The protocol provides for four "information sharing levels" for the handling of sensitive information.
+
+==See also==
+{{div col|colwidth=30em}}
+* [[Economic Espionage Act of 1996]] (U.S.)
+* [[Espionage]]
+* [[Espionage Act of 1917]] (U.S.)
+* [[Eyes only]]
+* [[Government Security Classifications Policy]] (UK)
+* [[Illegal number]]
+* [[Information security]]
+* [[Official Secrets Act]] (UK, India, Ireland, Malaysia, New Zealand)
+* [[Security of Information Act]] (Canada)
+* [[State Secrets Privilege]] (US)
+* [[Wassenaar Arrangement]]
+* [[WikiLeaks]]
+* [[UKUSA Agreement]]
+* [[Five Eyes]]
+* [[Golden Shield Project]]
+{{div col end}}
+
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Wikiquote}}{{Commons}}
+
+* [http://www.mod.uk/DefenceInternet/AboutDefence/WhatWeDo/SecurityandIntelligence/DVA/DefenceVettingAgency.htm Defence Vetting Agency]. Carries out national security checks in the UK.
+*[[Peter Galison]], [http://www.fas.harvard.edu/~hsdept/bios/docs/Removing%20Knowledge.pdf Removing Knowledge] in ''[[Critical Inquiry]]'' n°31 (Autumn 2004).
+* Goldman, Jan, & Susan Maret. ''Intelligence and information policy for national security: Key terms and concepts.'' Rowman & Littlefield, 2016.
+* Lerner, Brenda Wilmoth, & K. Lee Lerner, eds. ''Terrorism: Essential primary sources.'' Thomson Gale, 2006.
+* [https://web.archive.org/web/20120510051228/http://badge.lanl.gov/uk-usa_classification.shtml Los Alamos table of equivalent US and UK classifications]
+* Maret, Susan. ''On their own terms: A lexicon with an emphasis on information-related terms produced by the U.S. federal government''. [https://fas.org/sgp/library/maret.pdf], FAS, 6th ed., 2016. 
+* [https://www.archives.gov/isoo/training/marking-booklet.pdf Marking Classified National Security Information] ISOO booklet.
+* [http://www.gwu.edu/~nsarchiv/ The National Security Archive] – a collection of declassified documents acquired through the [[Freedom of Information Act (United States)|FOIA]].
+* [http://www.skupstina.me/index.php?strana=zakoni&id=618 Parliament of Montenegro], Law on confidentiality of data. {{in lang|sr}}.
+* [http://www.parlament.gov.rs/upload/archive/files/lat/pdf/zakoni/2009/2502-09Lat.zip Parliament of Serbia], Law on confidentiality of data. {{in lang|sr}}.
+* [https://web.archive.org/web/20110807094949/http://www.dss.mil/isp/odaa/nispom06.html U.S. Department of Defense ''National Industrial Security Program - Operating Manual (DoD 5220.22-M)''], explaining rules and policies for handling classified information.
+
+{{authority control}}
+
+{{DEFAULTSORT:Classified Information}}
+[[Category:Classified information| ]]
+[[Category:Information sensitivity]]

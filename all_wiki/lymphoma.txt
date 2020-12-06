@@ -1,0 +1,341 @@
+{{short description|Hematologic cancer that affects lymphocytes that reside in the lymphatic system and in blood-forming organs}}
+{{Infobox medical condition (new)
+| name            = Lymphoma
+| image           = Lymphoma macro.jpg
+| caption         = [[Follicular lymphoma]] replacing a [[lymph node]]
+| field           = [[Hematology]] and [[oncology]]
+| symptoms        = [[Lymphadenopathy|Enlarged lymph node]]s, [[fever]], [[diaphoresis|sweats]], unintended weight loss, [[pruritus|itching]], [[Fatigue (medicine)|feeling tired]]<ref name=HL2014/><ref name=NHL2014/>
+| complications   = 
+| onset           = 
+| duration        = 
+| causes          = 
+| risks           = [[Epstein–Barr virus]], [[autoimmune disease]]s, [[HIV/AIDS]], [[tobacco smoking]]<ref name=NHL2014/><ref name=Kam2013/>
+| diagnosis       = [[Lymph node biopsy]]<ref name=HL2014/><ref name=NHL2014/>
+| differential    = 
+| prevention      = 
+| treatment       = [[Chemotherapy]], [[radiation therapy]], [[proton therapy]], [[targeted therapy]], [[surgery]]<ref name=HL2014/><ref name=NHL2014/>
+| medication      = 
+| prognosis       = Average [[five year survival]] 85% (USA)<ref name=seer/>
+| frequency       = 4.9 million (2015)<ref name=GBD2015Pre>{{cite journal|last1=GBD 2015 Disease and Injury Incidence and Prevalence|first1=Collaborators.|title=Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990-2015: a systematic analysis for the Global Burden of Disease Study 2015.|journal=Lancet|date=8 October 2016|volume=388|issue=10053|pages=1545–1602|pmid=27733282|doi=10.1016/S0140-6736(16)31678-6|pmc=5055577}}</ref>
+| deaths          = 204,700 (2015)<ref name=GBD2015De>{{cite journal|last1=GBD 2015 Mortality and Causes of Death|first1=Collaborators.|title=Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980-2015: a systematic analysis for the Global Burden of Disease Study 2015.|journal=Lancet|date=8 October 2016|volume=388|issue=10053|pages=1459–1544|pmid=27733281|doi=10.1016/s0140-6736(16)31012-1|pmc=5388903}}</ref>
+}}
+<!-- Definition and Symptoms -->
+'''Lymphoma''' is a group of [[blood cancer|blood malignancie]]s that develop from [[lymphocyte]]s (a type of [[white blood cell]]).<ref name=D2000/> The name often refers to just the [[cancer]]ous versions rather than all such tumours.<ref name=D2000>{{cite book|last1=Taylor|first1=Elizabeth J.|title=Dorland's Illustrated medical dictionary.|date=2000|publisher=Saunders|location=Philadelphia|isbn=0721662544|page=[https://archive.org/details/trent_0116404640520/page/1038 1038]|edition=29th|url=https://archive.org/details/trent_0116404640520/page/1038}}</ref> Signs and symptoms may include [[Lymphadenopathy|enlarged lymph node]]s, [[fever]], drenching [[diaphoresis|sweats]], unintended weight loss, [[pruritus|itching]], and constantly [[Fatigue (medicine)|feeling tired]].<ref name=HL2014/><ref name=NHL2014/> The enlarged lymph nodes are usually painless.<ref name=HL2014/> The sweats are most common at night.<ref name=HL2014>{{cite web|title=General Information About Adult Hodgkin Lymphoma|url=http://www.cancer.gov/cancertopics/pdq/treatment/adulthodgkins/Patient/page1/AllPages|website=National Cancer Institute|access-date=20 June 2014|date=2014-04-23|url-status=live|archive-url=https://web.archive.org/web/20140705231802/http://www.cancer.gov/cancertopics/pdq/treatment/adulthodgkins/Patient/page1/AllPages|archive-date=5 July 2014}}</ref><ref name=NHL2014>{{cite web|title=General Information About Adult Non-Hodgkin Lymphoma|url=http://www.cancer.gov/cancertopics/pdq/treatment/adult-non-hodgkins/Patient/page1/AllPages|website=National Cancer Institute|access-date=20 June 2014|date=2014-04-25|url-status=live|archive-url=https://web.archive.org/web/20140705115658/http://www.cancer.gov/cancertopics/pdq/treatment/adult-non-hodgkins/Patient/page1/AllPages|archive-date=5 July 2014}}</ref>
+
+<!-- Classification -->
+Many subtypes of lymphomas are known.<ref>{{cite book|author1=Aditya Bardia|title=Johns Hopkins Patients' Guide to Lymphoma|date=2010|publisher=Jones & Bartlett Learning|isbn=9781449631413|page=6|url=https://books.google.com/books?id=IG05tEhKGq4C&pg=PA6|url-status=live|archive-url=https://web.archive.org/web/20170910174453/https://books.google.com/books?id=IG05tEhKGq4C&pg=PA6|archive-date=2017-09-10}}</ref> The two main categories of lymphomas are the [[non-Hodgkin lymphoma]] (NHL) (90% of cases) and [[Hodgkin lymphoma]] (HL) (10%).<ref name=Society2013>{{cite book|title=The Lymphoma Guide Information for Patients and Caregivers|date=2013|website=Leukemia and Lymphoma Society|url=http://www.lls.org/content/nationalcontent/resourcecenter/freeeducationmaterials/lymphoma/pdf/lymphomaguide.pdf|access-date=20 June 2014|url-status=live|archive-url=https://web.archive.org/web/20140714194242/http://www.lls.org/content/nationalcontent/resourcecenter/freeeducationmaterials/lymphoma/pdf/lymphomaguide.pdf|archive-date=14 July 2014}}</ref> The [[World Health Organization]] (WHO) includes two other categories as types of lymphoma - [[multiple myeloma]] and [[immunoproliferative diseases]].<ref name=WCR2014/> About 90% of lymphomas are non-Hodgkin lymphomas.<ref name=Society2013/><ref>{{cite web|title=Lymphoma|url=http://www.cancer.gov/dictionary?cdrid=45368|website=NCI|access-date=13 June 2014|url-status=live|archive-url=https://web.archive.org/web/20140705001350/http://www.cancer.gov/dictionary?CdrID=45368|archive-date=5 July 2014|date = 2011-02-02}}</ref> Lymphomas and [[leukemia]]s are a part of the broader group of [[tumors of the hematopoietic and lymphoid tissues]].<ref>{{cite journal|vauthors=Vardiman JW, Thiele J, Arber DA, Brunning RD, Borowitz MJ, Porwit A, Harris NL, Le Beau MM, Hellström-Lindberg E, Tefferi A, Bloomfield CD|s2cid=3101472|date=Jul 30, 2009|title=The 2008 revision of the World Health Organization (WHO) classification of myeloid neoplasms and acute leukemia: rationale and important changes.|journal=Blood|volume=114|issue=5|pages=937–51|doi=10.1182/blood-2009-03-209262|pmid=19357394|doi-access=free}}</ref>
+
+<!-- Cause and Diagnosis -->
+Risk factors for Hodgkin lymphoma include infection with [[Epstein–Barr virus]] and a history of the disease in the family.<ref name=HL2014/> Risk factors for common types of non-Hodgkin lymphomas include [[autoimmune disease]]s, [[HIV/AIDS]], infection with [[human T-lymphotropic virus]], [[immunosuppressant medication]]s, and some [[pesticide]]s.<ref name=NHL2014/><ref>{{cite journal|last1=Hu|first1=L|last2=Luo|first2=D|last3=Zhou|first3=T|last4=Tao|first4=Y|last5=Feng|first5=J|last6=Mei|first6=S|title=The association between non-Hodgkin lymphoma and organophosphate pesticides exposure: A meta-analysis.|journal=Environmental Pollution (Barking, Essex : 1987)|date=12 August 2017|volume=231|issue=Pt 1|pages=319–328|doi=10.1016/j.envpol.2017.08.028|pmid=28810201}}</ref> Eating large amounts of red meat and [[tobacco smoking]] may also increase the risk.<ref name=Kam2013>{{cite journal|last1=Kamper-Jørgensen|first1=M|last2=Rostgaard|first2=K|last3=Glaser|first3=SL|last4=Zahm|first4=SH|last5=Cozen|first5=W|last6=Smedby|first6=KE|last7=Sanjosé|first7=S|last8=Chang|first8=ET|last9=Zheng|first9=T|last10=La Vecchia|first10=C|last11=Serraino|first11=D|last12=Monnereau|first12=A|last13=Kane|first13=EV|last14=Miligi|first14=L|last15=Vineis|first15=P|last16=Spinelli|first16=JJ|last17=McLaughlin|first17=JR|last18=Pahwa|first18=P|last19=Dosman|first19=JA|last20=Vornanen|first20=M|last21=Foretova|first21=L|last22=Maynadie|first22=M|last23=Staines|first23=A|last24=Becker|first24=N|last25=Nieters|first25=A|last26=Brennan|first26=P|last27=Boffetta|first27=P|last28=Cocco|first28=P|last29=Hjalgrim|first29=H|title=Cigarette smoking and risk of Hodgkin lymphoma and its subtypes: a pooled analysis from the International Lymphoma Epidemiology Consortium (InterLymph).|journal=Annals of Oncology|date=September 2013|volume=24|issue=9|pages=2245–55|pmid=23788758|doi=10.1093/annonc/mdt218|pmc=3755332}}</ref><ref>{{cite journal|last1=Yang|first1=L|last2=Dong|first2=J|last3=Jiang|first3=S|last4=Shi|first4=W|last5=Xu|first5=X|last6=Huang|first6=H|last7=You|first7=X|last8=Liu|first8=H|title=Red and Processed Meat Consumption Increases Risk for Non-Hodgkin Lymphoma: A PRISMA-Compliant Meta-Analysis of Observational Studies.|journal=Medicine|date=November 2015|volume=94|issue=45|pages=e1729|pmid=26559248|doi=10.1097/MD.0000000000001729|pmc=4912242}}</ref><ref>{{cite journal|last1=Solimini|first1=AG|last2=Lombardi|first2=AM|last3=Palazzo|first3=C|last4=De Giusti|first4=M|s2cid=17430078|title=Meat intake and non-Hodgkin lymphoma: a meta-analysis of observational studies.|journal=Cancer Causes & Control|date=May 2016|volume=27|issue=5|pages=595–606|pmid=27076059|doi=10.1007/s10552-016-0745-2}}</ref> Diagnosis, if enlarged lymph nodes are present, is usually by [[lymph node biopsy]].<ref name=HL2014/><ref name=NHL2014/> Blood, urine, and [[bone marrow aspiration|bone marrow testing]] may also be useful in the diagnosis.<ref name=NHL2014/> [[Medical imaging]] may then be done to determine if and where the cancer has spread.<ref name=HL2014/><ref name=NHL2014/> Lymphoma most often spreads to the lungs, liver, and brain.<ref name=HL2014/><ref name=NHL2014/>
+
+<!-- Treatment, prognosis, and epidemiology -->
+Treatment may involve one or more of the following: [[chemotherapy]], [[radiation therapy]], [[proton therapy]], [[targeted therapy]], and surgery.<ref name=HL2014/><ref name=NHL2014/> In some non-Hodgkin lymphomas, an increased amount of protein produced by the lymphoma cells causes the blood to become so thick that [[plasmapheresis]] is performed to remove the protein.<ref name=NHL2014/> [[Watchful waiting]] may be appropriate for certain types.<ref name=NHL2014/> The outcome depends on the subtype with some being curable and treatment prolonging survival in most.<ref name=Society2013/> The [[five-year survival rate]] in the United States for all Hodgkin lymphoma subtypes is 85%,<ref name="seer">{{cite web |url=http://seer.cancer.gov/statfacts/html/hodg.html |title=Hodgkin Lymphoma—SEER Stat Fact Sheets |publisher=Seer.cancer.gov |access-date=2012-08-26 |url-status=live |archive-url=https://web.archive.org/web/20121017064937/http://seer.cancer.gov/statfacts/html/hodg.html |archive-date=2012-10-17 }}</ref> while that for non-Hodgkin lymphomas is 69%.<ref>{{cite web|title=SEER Stat Fact Sheets: Non-Hodgkin Lymphoma|url=http://seer.cancer.gov/statfacts/html/nhl.html|website=NCI|access-date=18 June 2014|url-status=live|archive-url=https://web.archive.org/web/20140706125600/http://www.seer.cancer.gov/statfacts/html/nhl.html|archive-date=6 July 2014}}</ref> Worldwide, lymphomas developed in 566,000 people in 2012 and caused 305,000 deaths.<ref name=WCR2014>{{cite book|title=World Cancer Report 2014.|date=2014|publisher=World Health Organization|isbn=978-9283204299|pages=Chapter 5.13}}</ref> They make up 3–4% of all cancers, making them as a group the seventh-most common form.<ref name=WCR2014/><ref name=Rob2013>{{cite book|last1=Marcus|first1=Robert|title=Lymphoma : pathology, diagnosis and treatment|date=2013|isbn=9781107010598|page=1|edition=Second|url=https://books.google.com/books?id=SX0LAgAAQBAJ&lpg=PP1|url-status=live|archive-url=https://web.archive.org/web/20150906082735/https://books.google.com/books?id=SX0LAgAAQBAJ&lpg=PP1|archive-date=2015-09-06}}</ref> In children, they are the third-most common cancer.<ref>{{cite book|last1=Tepper|first1=John E. Niederhuber, James O. Armitage, James H. Doroshow, Michael B. Kastan, Joel E.|title=Abeloff's clinical oncology|date=2014|isbn=978-1455728657|page=Chapter 97|edition=Fifth|chapter=Childhood lymphoma}}</ref> They occur more often in the [[developed world]] than the [[developing world]].<ref name=WCR2014/>
+{{TOC limit}}
+
+==Signs and symptoms==
+[[File:Diagram showing the lymph nodes lymphoma most commonly develops in CRUK 311.svg|thumb|right|The lymph nodes where lymphoma most commonly develops]]
+[[File:Blausen 0626 lymphoma.png|thumb|Lymphoma and lymphatic system]]
+Lymphoma may present with certain nonspecific symptoms; if the symptoms are persistent, an evaluation to determine their cause, including possible lymphoma, should be undertaken.
+*[[Lymphadenopathy]]<ref name=lymphoma.org>{{cite web|title=About Lymphoma|url=http://www.lymphoma.org/site/pp.asp?c=bkLTKaOQLmK8E&b=6299689|publisher=Lymphoma Research Foundation|access-date=22 December 2012|url-status=live|archive-url=https://web.archive.org/web/20121202175216/http://www.lymphoma.org/site/pp.asp?c=bkLTKaOQLmK8E&b=6299689|archive-date=2 December 2012}}</ref><ref name=lymphoma.about.com/> or swelling of lymph nodes, is the primary presentation in lymphoma. It is generally painless.
+*[[B symptoms]] (systemic symptoms) – can be associated with both Hodgkin lymphoma and non-Hodgkin lymphoma. They consist of:
+**[[Fever of unknown origin|Fever]]<ref name=lymphoma.org/><ref name=lymphoma.about.com/>
+**[[Night sweats]]<ref name=lymphoma.org/><ref name=lymphoma.about.com/>
+**[[Weight loss]]<ref name=lymphoma.org/><ref name=lymphoma.about.com/>
+*Other symptoms:
+**Anemia, bleeding, increase susceptibility to infections<ref>{{Cite journal|date=2019-11-09|title=Primary CNS Lymphoma: Overview, Etiology, Epidemiology|url=https://emedicine.medscape.com/article/1157638-overview}}</ref>
+**[[Anorexia (symptom)|Loss of appetite or anorexia]]<ref name=lymphoma.about.com>{{cite web |url=http://lymphoma.about.com/od/symptoms/tp/warningsigns.htm |title=Warning Signs of Lymphoma — First Signs of Lymphoma |publisher=Lymphoma.about.com |access-date=2012-12-01 |url-status=live |archive-url=https://web.archive.org/web/20121118231746/http://lymphoma.about.com/od/symptoms/tp/warningsigns.htm |archive-date=2012-11-18 }}</ref>
+**[[Fatigue (medical)|Fatigue]]<ref name=lymphoma.org/><ref name=lymphoma.about.com/>
+**[[Dyspnea|Respiratory distress or dyspnea]]<ref name=lymphoma.about.com/>
+**[[Itching]]<ref name=lymphoma.org/><ref name=lymphoma.about.com/>
+
+=== Mouth ===
+Asymptomatic soft swelling, which may or may not be ulcerated, is primarily seen on the tonsils, buccal mucosa, palate, gums, salivary glands, tongue, floor of the mouth, and retromolar region.
+
+==Diagnosis==
+Lymphoma is definitively diagnosed by a [[lymph node biopsy|lymph-node biopsy]], meaning a partial or total excision of a [[lymph node]] examined under the microscope.<ref name=diag.about.com>{{cite web|last=Mallick|first=Indranil|title=How Is Lymphoma Diagnosed?|url=http://lymphoma.about.com/od/testsforlymphoma/p/diagnosis.htm|publisher=lymphoma.about.com|access-date=22 December 2012|url-status=live|archive-url=https://web.archive.org/web/20130116151305/http://lymphoma.about.com/od/testsforlymphoma/p/diagnosis.htm|archive-date=16 January 2013}}</ref> This examination reveals [[histopathology|histopathological]] features that may indicate lymphoma. After lymphoma is diagnosed, a variety of tests may be carried out to look for specific features characteristic of different types of lymphoma. These include:
+* [[Immunophenotyping]]
+* [[Flow cytometry]]
+* [[Fluorescence in situ hybridization|Fluorescence ''in situ'' hybridization]] testing
+
+===Classification===
+[[File:Hodgkin lymphoma, nodular lymphocyte predominant - low power view - H&E - by Gabriel Caponetti.jpg|thumb|Lymph node with mantle cell lymphoma (low-power view, H&E)]]
+
+According to the World Health Organization (WHO), lymphoma classification should reflect in which lymphocyte population the neoplasm arises.<ref name=":0">Manli Jiang, N. Nora Bennani, and Andrew L. Feldman. Lymphoma classification update: T-cell lymphomas, Hodgkin lymphoma, and histiocytic/dendritic cell neoplasms. Expert Rev Hematol. 2017 Mar; 10(3): 239-249. Author Manuscript.</ref> Thus, neoplasms that arise from precursor lymphoid cells are distinguished from those that arise from mature lymphoid cells.<ref name=":0" /> Most mature lymphoid neoplasms comprise the non-Hodgkin lymphomas.<ref name=":0" /> Historically, mature histiocytic and dendritic cell (HDC) neoplasms have been considered mature lymphoid neoplasms, since these often involve lymphoid tissue.<ref name=":0" />
+
+Lymphoma can also spread to the [[central nervous system]], often around the brain in the [[meninges]], known as lymphomatous meningitis (LM).<ref>{{cite journal|last1=Canova|first1=F|last2=Marino|first2=D|last3=Trentin|first3=C|last4=Soldà|first4=C|last5=Ghiotto|first5=C|last6=Aversa|first6=SM|title=Intrathecal chemotherapy in lymphomatous meningitis.|journal=Critical Reviews in Oncology/Hematology|date=August 2011|volume=79|issue=2|pages=127–34|pmid=20696592|doi=10.1016/j.critrevonc.2010.07.005}}</ref>
+
+====Hodgkin lymphoma====
+{{Main|Hodgkin lymphoma}}
+Hodgkin lymphoma accounts for about 15% of lymphomas.<ref>{{cite web|title=Hodgkins Lymphoma Incidence|url=http://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/hodgkin-lymphoma|access-date=2 October 2017|date=2015-05-14}}</ref> It differs from other forms of lymphomas in its [[prognosis]] and several [[pathology|pathological]] characteristics. A division into Hodgkin and non-Hodgkin lymphomas is used in several of the older classification systems. A Hodgkin lymphoma is marked by the presence of a type of cell called the [[Reed–Sternberg cell]].<ref>National Cancer Institute, "Hodgkin Lymphoma", {{cite web |url=http://www.cancer.gov/cancertopics/types/hodgkin |title=Lymphoma—Patient Version |access-date=2013-08-05 |url-status=live |archive-url=https://web.archive.org/web/20130802123430/http://www.cancer.gov/cancertopics/types/hodgkin |archive-date=2013-08-02 }}, accessed on 2013-08-05</ref><ref>National Cancer Institute. "What You Need To Know About Hodgkin Lymphoma". U.S. Dept of Health and Human Services, (online at {{cite web |url=http://www.cancer.gov/cancertopics/wyntk/hodgkin.pdf |title=Archived copy |access-date=2013-08-05 |url-status=dead |archive-url=https://web.archive.org/web/20140124181551/http://www.cancer.gov/cancertopics/wyntk/hodgkin.pdf |archive-date=2014-01-24 }}), pg 4.</ref>
+
+====Non-Hodgkin lymphomas====
+[[Non-Hodgkin lymphoma]]s, which are defined as being all lymphomas except Hodgkin lymphoma, are more common than Hodgkin lymphoma. A wide variety of lymphomas are in this class, and the causes, the types of cells involved, and the prognoses vary by type. The number of cases per year of non-Hodgkin lymphoma increases with age. It is further divided into several subtypes.
+
+====Epstein-Barr virus-associated lymphoproliferative diseases====
+[[Epstein-Barr virus-associated lymphoproliferative diseases]] are a group of benign, [[premalignant]], and malignant diseases of [[lymphoid cells]], i.e. [[B cells]], [[T cells]], [[NK cells]], and [[Histiocyte|histiocytic-dendritic cells]] in which one or more of these cell types is infected with the [[Epstein-Barr virus]] (EBV). The virus may be responsible for the development and/or progression of these diseases. In addition to [[Epstein-Barr virus-associated lymphoproliferative diseases#Epstein-Barr virus-positive Hodgkin lymphoma|EBV-positive Hodgkin lymphomas]], the World Health Organization (2016) includes the following lymphomas, when associated with EBV infection, in this group of diseases: [[Epstein-Barr virus-associated lymphoproliferative diseases#Epstein-Barr virus-positive Burkitt lymphoma|Burkitt lymphoma]]; [[Epstein-Barr virus-associated lymphoproliferative diseases#Epstein-Barr virus-positive diffuse large B cell lymphoma, not otherwise specified diffuse|large B cell lymphoma, not otherwise specified]]; [[Epstein-Barr virus-associated lymphoproliferative diseases#Epstein Barr virus-associated diffuse large B cell lymphoma associated with chronic inflammation|diffuse large B cell lymphoma associated with chronic inflammation]]; [[Epstein-Barr virus-associated lymphoproliferative diseases#Fibrin-associated diffuse large B cell lymphoma|fibrin-associated diffuse large B cell lymphoma]]; [[Epstein-Barr virus-associated lymphoproliferative diseases#Primary effusion lymphoma|primary effusion lymphoma]]; [[Epstein-Barr virus-associated lymphoproliferative diseases#Epstein Barr virus-positive plasmablastic lymphoma|plasmablastic lymphoma]]; [[Epstein-Barr virus-associated lymphoproliferative diseases#Extranodal NK/T cell lymphoma, nasal type|extranodal NK/T cell lymphoma, nasal type]]; [[Epstein-Barr virus-associated lymphoproliferative diseases#Epstein-Barr virus-associated peripheral T cell lymphoma, not otherwise specified|peripheral T cell lymphoma, not otherwise specified]]; [[Epstein-Barr virus-associated lymphoproliferative diseases#Angioimmunoblastic T cell lymphoma|angioimmunoblastic T cell lymphoma]]; [[Epstein-Barr virus-associated lymphoproliferative diseases#Follicular T Cell lymphoma|follicular T cell lymphoma]]; and [[Epstein-Barr virus-associated lymphoproliferative diseases#Systemic Epstein-Barr virus-positive T cell lymphoma of childhood|systemic T cell lymphoma of childhood]].<ref name="pmid29885408">{{cite journal | vauthors = Rezk SA, Zhao X, Weiss LM | title = Epstein - Barr virus - associated lymphoid proliferations, a 2018 update | journal = Human Pathology | volume = 79| pages = 18–41| date = June 2018 | pmid = 29885408 | doi = 10.1016/j.humpath.2018.05.020 }}</ref>
+
+====WHO classification====
+The WHO classification, published in 2001 and updated in 2008,<ref name="Jaffe_2011_1"/><ref name="Swerdlow2008"/> is based upon the foundations laid within the "revised European-American lymphoma classification" (REAL). This system groups lymphomas by cell type (i.e. the normal cell type that most resembles the tumor) and defining [[phenotypic]], [[molecular]], or [[cytogenetic]] characteristics. The five groups are shown in the table. Hodgkin lymphoma is considered separately within the WHO and preceding classifications, although it is recognized as being a tumor, albeit markedly abnormal, of lymphocytes of mature B cell lineage.
+
+Of the many forms of lymphoma, some are categorized as indolent (e.g. [[small lymphocytic lymphoma]]), compatible with a long life even without treatment, whereas other forms are aggressive (e.g. [[Burkitt's lymphoma]]), causing rapid deterioration and death. However, most of the aggressive lymphomas respond well to treatment and are curable. The [[prognosis]], therefore, depends on the correct diagnosis and classification of the disease, which is established after examination of a biopsy by a [[pathology|pathologist]] (usually a [[hematopathology|hematopathologist]]).<ref>{{cite book |author=Wagman LD. |chapter=Principles of Surgical Oncology |chapter-url=http://www.cancernetwork.com/cancer-management-11/chapter01/article/10165/1399286 |veditors=Pazdur R, Wagman LD, Camphausen KA, Hoskins WJ |title=Cancer Management: A Multidisciplinary Approach |publisher=CMPMedica |year=2008 |isbn=9781891483622 |edition=11th |url=http://www.cancernetwork.com/cancer-management-11/ |url-status=live |archive-url=https://web.archive.org/web/20131004224102/http://www.cancernetwork.com/cancer-management-11/ |archive-date=2013-10-04 }}</ref>
+
+<div style="text-align: center; background-color:#7fbfff;">Lymphoma subtypes (WHO 2008)</div>
+<div style="text-align: center; background-color:#ffffec;">{{hidden begin| border=solid 1px #aaa|title=Mature [[B cell]] neoplasms}}
+[[File:DNA-microarray analysis.jpg|thumb|right|DNA-microarray analysis of Burkitt's lymphoma and diffuse large B-cell lymphoma (DLBCL) showing differences in gene expression patterns. Colors indicate levels of expression; green indicates genes that are underexpressed in lymphoma cells (as compared to normal cells), whereas red indicates genes that are overexpressed in lymphoma cells.]]
+*[[B-cell chronic lymphocytic leukemia|B-cell chronic lymphocytic leukemia/small cell lymphoma]]
+:: 3 to 4% of lymphomas in adults
+:: Small resting lymphocytes mixed with variable numbers of large activated cells, lymph nodes diffusely [[Effacement (histology)|effaced]]
+:: CD5, surface [[immunoglobulin]]
+:: 5-year survival rate 50%.<ref>{{cite web |title=Chronic Leukemias |work=The Merck Manual of Geriatrics |url=http://www.merck.com/mkgr/mmg/sec9/ch73/ch73b.jsp |url-status=live |archive-url=https://web.archive.org/web/20100704145645/http://www.merck.com/mkgr/mmg/sec9/ch73/ch73b.jsp |archive-date=2010-07-04 }}</ref>
+:: Occurs in older adults, usually involves lymph nodes, bone marrow and spleen, most patients have peripheral blood involvement, indolent
+*[[B-cell prolymphocytic leukemia]]
+*[[Lymphoplasmacytic lymphoma]] (such as [[Waldenström macroglobulinemia]])
+*[[Splenic marginal zone lymphoma]]
+*[[Hairy cell leukemia]]
+*[[Plasma cell]] neoplasms:
+**[[Plasma cell myeloma]] (also known as multiple myeloma)
+**[[Plasmacytoma]]
+**Monoclonal immunoglobulin deposition diseases
+**[[Heavy chain diseases]]
+*[[Extranodal marginal zone B cell lymphoma]], also called [[MALT lymphoma]]
+:: About 5% of lymphomas in adults
+:: Variable cell size and differentiation, 40% show [[plasma cell]] differentiation, [[Homing (hematopoietic)|homing]] of B cells to epithelium creates lymphoepithelial lesions.
+:: CD5, [[CD10]], surface Ig
+:: Frequently occurs outside lymph nodes, very indolent, may be cured by local excision
+*[[Nodal marginal zone B cell lymphoma]]
+*[[Follicular lymphoma]]
+:: About 40% of lymphomas in adults
+:: Small "cleaved" [cleft] cells ([[centrocyte]]s) mixed with large activated cells ([[centroblast]]s), usually nodular ("follicular") growth pattern
+:: [[CD10]], surface [[immunoglobulin|Ig]]
+:: About 72–77%<ref>{{EMedicine|article|203268|Lymphoma, Follicular}}</ref>
+:: Occurs in older adults, usually involves lymph nodes, bone marrow and spleen, associated with t(14;18) [[chromosomal translocation|translocation]] overexpressing [[Bcl-2]], indolent
+*[[Primary cutaneous follicle center lymphoma]]
+*[[Mantle cell lymphoma]]
+:: About 3 to 4% of lymphomas in adults
+:: Lymphocytes of small to intermediate size growing in diffuse pattern
+:: [[CD5 (protein)|CD5]]
+:: About 50<ref name=Leitch&Herrmann/> to 70%<ref name=Leitch&Herrmann>
+:::: 50% for limited stage: {{cite journal |vauthors=Leitch HA, Gascoyne RD, Chhanabhai M, Voss NJ, Klasa R, Connors JM | title = Limited-stage mantle-cell lymphoma | journal = Ann. Oncol. | volume = 14 | issue = 10 | pages = 1555–61 | date = October 2003 | pmid = 14504058 | doi = 10.1093/annonc/mdg414 | doi-access = free }}
+:::: 70% for advanced stage: {{cite journal |vauthors=Herrmann A, Hoster E, Zwingers T, Brittinger G, Engelhard M, Meusers P, Reiser M, Forstpointner R, Metzner B, Peter N, Wörmann B, Trümper L, Pfreundschuh M, Einsele H, Hiddemann W, Unterhalt M, Dreyling M | s2cid = 32350562 | title = Improvement of overall survival in advanced stage mantle cell lymphoma | journal = J. Clin. Oncol. | volume = 27 | issue = 4 | pages = 511–8 | date = February 2009 | pmid = 19075279 | doi = 10.1200/JCO.2008.16.8435 }}</ref>
+:: Occurs mainly in adult males, usually involves lymph nodes, bone marrow, spleen and [[Human gastrointestinal tract|GI tract]], associated with t(11;14) translocation overexpressing [[cyclin D1]], moderately aggressive
+*[[Diffuse large B cell lymphoma]], not otherwise specified
+:: About 40 to 50% of lymphomas in adults
+:: Variable, most resemble B cells of large germinal centers, diffuse growth pattern
+:: Variable expression of [[CD10]] and surface Ig
+:: [[Five-year survival rate]] 60%<ref name="Turgeon">{{cite book |first=Mary Louise |last=Turgeon |title=Clinical Hematology: Theory and Procedures |url=https://books.google.com/books?id=cHAjsUgegpQC |year=2005 |publisher=Lippincott Williams & Wilkins |isbn=978-0-7817-5007-3 |volume=936 |edition=4 |pages=285–6 |url-status=live |archive-url=https://web.archive.org/web/20150906095500/https://books.google.com/books?id=cHAjsUgegpQC |archive-date=2015-09-06 }}</ref>
+:: Occurs in all ages, but most commonly in older adults, may occur outside lymph nodes, aggressive
+*[[Diffuse large B-cell lymphoma associated with chronic inflammation]]
+*[[Epstein–Barr virus-positive DLBCL of the elderly]]
+*[[Lymphomatoid granulomatosis]]
+*[[Primary mediastinal (thymic) large B-cell lymphoma]]
+*[[Intravascular large B-cell lymphoma]]
+*[[ALK+ large B-cell lymphoma]]
+*[[Plasmablastic lymphoma]]
+*[[Primary effusion lymphoma]]
+*[[Large B-cell lymphoma arising in HHV8-associated multicentric Castleman's disease]]
+*[[Burkitt's lymphoma|Burkitt lymphoma/leukemia]]
+:: < 1% of lymphomas in the United States
+:: Round lymphoid cells of intermediate size with several nucleoli, [[starry-sky appearance]] by diffuse spread with interspersed [[apoptosis]]
+:: CD10, surface Ig
+:: Five-year survival rate 50%<ref>{{cite journal |vauthors=Diviné M, Casassus P, Koscielny S, Bosq J, Sebban C, Le Maignan C, Stamattoulas A, Dupriez B, Raphaël M, Pico JL, Ribrag V | title = Burkitt lymphoma in adults: a prospective study of 72 patients treated with an adapted pediatric LMB protocol | journal = Ann. Oncol. | volume = 16 | issue = 12 | pages = 1928–35 | date = December 2005 | pmid = 16284057 | doi = 10.1093/annonc/mdi403 | doi-access = free }}</ref>
+:: Endemic in Africa, sporadic elsewhere, more common in immunocompromised and children, often visceral involvement, highly aggressive
+{{hidden end}}
+{{hidden begin|border=solid 1px #aaa|title=
+Mature [[T cell]] and [[natural killer cell|natural killer]] (NK) cell neoplasms}}
+*[[T-cell prolymphocytic leukemia]]
+*[[T-cell large granular lymphocyte leukemia]]
+*[[Aggressive NK cell leukemia]]
+*[[Adult T-cell leukemia/lymphoma]]
+*[[Extranodal NK/T-cell lymphoma, nasal type]]
+*[[Enteropathy-associated T-cell lymphoma]]
+*[[Hepatosplenic T-cell lymphoma]]
+*[[Blastic NK cell lymphoma]]
+*[[Mycosis fungoides]]/[[Sezary syndrome]]
+:: Most common cutaneous lymphoid malignancy
+:: Usually small lymphoid cells with convoluted nuclei that often infiltrate the epidermis, creating [[Pautrier microabscesses]]es
+:: [[CD4]]
+:: [[Five-year survival rate|5-year<br>survival]] 75%<ref>{{cite journal |vauthors=Kirova YM, Piedbois Y, Haddad E, Levy E, Calitchi E, Marinello G, Le Bourgeois JP | title = Radiotherapy in the management of mycosis fungoides: indications, results, prognosis. Twenty years experience | journal = Radiother Oncol | volume = 51 | issue = 2 | pages = 147–51 | date = May 1999 | pmid = 10435806 | doi = 10.1016/S0167-8140(99)00050-X }}</ref>
+:: Localized or more generalized skin symptoms, generally indolent, in a more aggressive variant, [[Sézary's disease]], skin [[erythema]] and peripheral blood involvement
+*Primary cutaneous CD30-positive T cell lymphoproliferative disorders
+**Primary cutaneous anaplastic large cell lymphoma
+**[[Lymphomatoid papulosis]]
+* [[Peripheral T-cell lymphoma not otherwise specified]]
+:: Most common T cell lymphoma
+:: Variable, usually a mix small to large lymphoid cells with irregular nuclear contours
+:: [[CD3 (immunology)|CD3]]
+:: Probably consists of several rare tumor types, often disseminated and generally aggressive
+*[[Angioimmunoblastic T cell lymphoma]]
+*[[Anaplastic large cell lymphoma]]
+{{hidden end}}
+{{hidden begin|border=solid 1px #aaa|title= Precursor lymphoid neoplasms}}
+* [[Precursor B-cell lymphoblastic leukemia|B-lymphoblastic leukemia/lymphoma not otherwise specified]]
+* [[Precursor B-cell lymphoblastic leukemia|B-lymphoblastic leukemia/lymphoma with recurrent genetic abnormalities]]
+* [[T-lymphoblastic leukemia/lymphoma]]
+:: 15% of childhood [[acute lymphoblastic leukemia]] and 90% of [[lymphoblastic lymphoma]].<ref name="Jaffe_2011_1"/>{{rp|635}}
+:: [[Lymphoblast]]s with irregular nuclear contours, condensed chromatin, small nucleoli and scant cytoplasm without granules
+:: [[Terminal deoxynucleotidyl transferase|TdT]], [[CD2]], [[CD7]]
+:: It often presents as a [[mediastinal mass]] because of involvement of the [[thymus]]. It is highly associated with ''[[NOTCH1]]'' mutations, and is most common in [[adolescent]] males.{{hidden end}}
+{{hidden begin|border=solid 1px #aaa|title= Hodgkin lymphoma }}
+*Classical [[Hodgkin lymphoma]]s:
+**[[Nodular sclerosis]] form of Hodgkin lymphoma
+:: Most common type of Hodgkin lymphoma
+:: Reed-Sternberg cell variants and inflammation, usually broad sclerotic bands that consist of collagen
+:: [[CD15]], [[CD30]]
+:: Most common in young adults, often arises in the [[mediastinum]] or [[cervical lymph node]]s
+**Mixed cellularity Hodgkin lymphoma
+:: Second-most common form of Hodgkin lymphoma
+:: Many classic Reed-Sternberg cells and inflammation
+:: CD15, CD30
+:: Most common in men, more likely to be diagnosed at advanced stages than the nodular sclerosis form [[Epstein-Barr virus]] involved in 70% of cases
+**Lymphocyte-rich
+**Lymphocyte depleted or not depleted
+*[[Nodular lymphocyte-predominant Hodgkin lymphoma]]
+{{hidden end}}
+{{hidden begin|border=solid 1px #aaa|title=Immunodeficiency-associated lymphoproliferative disorders}}
+*Associated with a primary immune disorder
+*Associated with the human immunodeficiency virus ([[HIV]])
+*Post-transplant
+*Associated with [[methotrexate]] therapy
+*[[Primary central nervous system lymphoma]] occurs most often in immunocompromised patients, in particular those with AIDS, but it can occur in the immunocompetent, as well. It has a poor prognosis, particularly in those with AIDS. Treatment can consist of [[corticosteroids]], [[radiotherapy]], and [[chemotherapy]], often with methotrexate.
+{{hidden end}}</div>
+
+====Previous classifications====
+
+Several previous classifications have been used, including Rappaport 1956, Lennert/Kiel 1974, BNLI, Working formulation (1982), and REAL (1994).
+
+The [[Working Formulation]] of 1982 was a classification of [[non-Hodgkin lymphoma]]. It excluded the Hodgkin lymphomas and divided the remaining lymphomas into four grades (low, intermediate, high, and miscellaneous) related to prognosis, with some further subdivisions based on the size and shape of affected cells. This purely histological classification included no information about [[cell surface markers]], or genetics, and it made no distinction between [[T-cell lymphoma]]s and [[B-cell lymphoma]]s. It was widely accepted at the time of its publication, but is now obsolete.<ref>{{cite journal |vauthors=Clarke CA, Glaser SL, Dorfman RF, Bracci PM, Eberle E, Holly EA | title = Expert review of non-Hodgkin lymphomas in a population-based cancer registry: reliability of diagnosis and subtype classifications | journal = Cancer Epidemiol. Biomarkers Prev. | volume = 13 | issue = 1 | pages = 138–43 | date = January 2004 | pmid = 14744745 | doi = 10.1158/1055-9965.EPI-03-0250 | doi-access = free }}</ref>
+
+In 1994, the Revised European-American Lymphoma (REAL) classification applied immunophenotypic and genetic features in identifying distinct clinicopathologic entities among all the lymphomas except Hodgkin lymphoma.<ref>{{EMedicine|article|203399|Non-Hodgkin Lymphoma}}</ref> For coding purposes, the [[ICD-O]] (codes 9590–9999)<ref>{{cite web|url=http://www.cog.ufl.edu/publ/apps/icdo/icdo_morph.txt |title=Archived copy |access-date=2005-11-07 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20040627090029/http://www.cog.ufl.edu/publ/apps/icdo/icdo_morph.txt |archive-date=June 27, 2004 }}</ref> and [[ICD|ICD-10]] (codes C81-C96)<ref>[http://www3.who.int/icd/vol1htm2003/fr-icd.htm?gc81.htm+ who.int]</ref> are available.
+
+===Staging===
+[[File:DIagram showing where lymphoma can spread in the body CRUK 382.svg|thumb|Diagram showing common sites where lymphoma spreads]]
+After a diagnosis and before treatment, a cancer is [[cancer staging|staged]]. This refers to determining if the cancer has spread, and if so, whether locally or to distant sites. Staging is reported as a grade between I (confined) and IV (spread). The stage of a lymphoma helps predict a patient's prognosis and is used to help select the appropriate therapy.<ref name="Cheson">{{cite journal |last1=Cheson |first1=Bruce D. |last2=Fisher |first2=Richard I. |last3=Barrington |first3=Sally F. |last4=Cavalli |first4=Franco |last5=Schwartz |first5=Lawrence H. |last6=Zucca |first6=Emanuele |last7=Lister |first7=T. Andrew |title=Recommendations for Initial Evaluation, Staging, and Response Assessment of Hodgkin and Non-Hodgkin Lymphoma: The Lugano Classification |journal=J Clin Oncol |date=20 September 2014 |volume=32 |issue=27 |pages=3059–3067 |doi=10.1200/JCO.2013.54.8800|pmid=25113753 |pmc=4979083 }}</ref>
+
+The [[Ann Arbor staging|Ann Arbor staging system]] is routinely used for staging of both HL and NHL. In this staging system, I represents localized disease contained within a lymph node group, II represents the presence of lymphoma in two or more lymph nodes groups, III represents spread of the lymphoma to lymph nodes groups on both sides of the [[Thoracic diaphragm|diaphragm]], and IV indicates spread to tissue outside the lymphatic system. Different suffixes imply involvement of different organs, for example S for the spleen and H for the liver. Extra-lymphatic involvement is expressed with the letter E. In addition, the presence of B symptoms (one or more of the following: unintentional loss of 10% body weight in the last 6 months, night sweats, or persistent fever of 38°C or more) or their absence is expressed with B or A, respectively.<ref>{{cite journal |last1=Carbone |first1=PP |last2=Kaplan |first2=HS |last3=Musshoff |first3=K |last4=Smithers |first4=DW |last5=Tubiana |first5=M |title=Report of the Committee on Hodgkin's Disease Staging Classification. |journal=Cancer Res |date=November 1971 |volume=31 |issue=11 |pages=1860–1 |pmid=5121694}}</ref>
+
+[[CT scan]] or [[PET scan]] imaging modalities are used to stage a cancer. PET scanning is advised for [[fludeoxyglucose (18F)|fluorodeoxyglucose]]-avid lymphomas, such as Hodgkin lymphoma, as a staging tool that can even replace bone marrow biopsy. For other lymphomas, CT scanning is recommended for staging.<ref name="Cheson"/>
+
+Age and poor [[performance status]] are other established poor prognostic factors.<ref>{{cite journal |title=A Predictive Model for Aggressive Non-Hodgkin's Lymphoma |journal=N Engl J Med |date=30 September 1993 |volume=329 |issue=14 |pages=987–994 |doi=10.1056/NEJM199309303291402|pmid=8141877 |author1=International Non-Hodgkin's Lymphoma Prognostic Factors Project }}</ref>  This means that people who are elderly or too sick to take care of themselves are more likely to die from lymphoma than others.
+
+<gallery>
+File:Nodular Mantle Cell Lymphoma - high power view - by Gabriel Caponetti.jpg|Mantle cell lymphoma: Notice the irregular nuclear contours of the medium-sized lymphoma cells and the presence of a pink histiocyte. By immunohistochemistry, the lymphoma cells expressed CD20, CD5, and Cyclin D1 (high-power view, H&E)
+File:Hodgkin lymphoma, nodular lymphocyte predominant - low power view - H&E - by Gabriel Caponetti.jpg|Hodgkin lymphoma, nodular lymphocyte predominant (low-power view): Notice the nodular architecture and the areas of "mottling".(H&E)
+File:Hodgkin lymphoma, nodular lymphocyte predominant - high power view - H&E - by Gabriel Caponetti.jpg|Hodgkin lymphoma, nodular lymphocyte predominant (high-power view): Notice the presence of L&H cells, also known as "popcorn cells". (H&E)
+</gallery>
+
+=== Differential diagnosis ===
+Certain lymphomas ([[extranodal NK/T-cell lymphoma, nasal type]] and [[enteropathy-associated T-cell lymphoma#Genetics|type II enteropathy-associated T-cell lymphoma]]) can be mimicked by two benign diseases which involve the excessive proliferation of non-malignant NK cells in the GI tract, [[natural killer cell enteropathy]], a disease wherein NK cell infiltrative lesions occur in the intestine, colon, stomach, or esophagus, and [[Natural killer cell enteropathy|lymphomatoid gastropathy]], a disease wherein these cells' infiltrative lesions are limited to the stomach. These diseases do not progress to cancer, may regress spontaneously and do not respond to, and do not require, chemotherapy or other lymphoma treatments.<ref name="pmid30212873">{{cite journal | vauthors = Xia D, Morgan EA, Berger D, Pinkus GS, Ferry JA, Zukerberg LR | s2cid = 52272766 | title = NK-Cell Enteropathy and Similar Indolent Lymphoproliferative Disorders: A Case Series With Literature Review | journal = American Journal of Clinical Pathology | volume = 151 | issue = 1 | pages = 75–85 | date = January 2019 | pmid = 30212873 | doi = 10.1093/ajcp/aqy108 | doi-access = free }}</ref>
+
+==Treatment==
+Prognoses and treatments are different for HL and between all the different forms of NHL,<ref name="pmid20017283">{{cite journal | author = Sweetenham JW | title = Treatment of lymphoblastic lymphoma in adults | journal = Oncology (Williston Park, N.Y.) | volume = 23 | issue = 12 | pages = 1015–20 | date = November 2009 | pmid = 20017283 }}</ref> and also depend on the [[cancer grading|grade]] of tumour, referring to how quickly a cancer replicates. Paradoxically, high-grade lymphomas are more readily treated and have better prognoses: {{Citation needed|date=July 2013}} [[Burkitt lymphoma]], for example, is a high-grade tumour known to double within days, and is highly responsive to treatment. Lymphomas may be curable if detected in early stages with modern treatment.
+
+=== Low-grade===
+Many low-grade lymphomas remain [[Indolent lymphoma|indolent]] (growing slowly or not at all) for many years – sometimes, for the rest of the person's life. With an indolent lymphoma, such as follicular lymphoma, [[watchful waiting]] is often the initial course of action, because monitoring is less risky and less harmful than early treatment.<ref name="pmid18467294">{{cite journal|author=Elphee EE|s2cid=25207677|date=May 2008|title=Understanding the concept of uncertainty in patients with indolent lymphoma|journal=Oncol Nurs Forum|volume=35|issue=3|pages=449–54|doi=10.1188/08.ONF.449-454|pmid=18467294}}</ref> 
+
+If a low-grade lymphoma becomes symptomatic, radiotherapy or chemotherapy are the treatments of choice.  Although these treatments do not permanently cure the lymphoma, they can alleviate the symptoms, particularly painful [[lymphadenopathy]]. People with these types of lymphoma can live near-normal lifespans, even though the disease is technically [[incurable]]. 
+
+Some centers advocate the use of single agent [[rituximab]] in the treatment of follicular lymphoma rather than the wait-and-watch approach. Watchful waiting is not a desirable strategy for everyone, as it leads to significant distress and [[anxiety]] in some people. It has been called "watch and worry".<ref>{{cite journal | author = Ansell SM | title = Follicular lymphoma: Watch and wait is watch and worry | journal = The Lancet Oncology | volume = 15 | issue = 4 | pages = 368–9 | year = 2014 | pmid = 24602759 | doi = 10.1016/S1470-2045(14)70066-X }}</ref>
+
+===High-grade===
+
+Treatment of some other, more aggressive, forms of lymphoma {{which|date=July 2013}} can result in a cure in the majority of cases, but the prognosis for people with a poor response to therapy is worse.<ref name="pmid20008238">{{cite journal | author = Bernstein SH, Burack WR | title = The incidence, natural history, biology, and treatment of transformed lymphomas | journal = Hematology Am Soc Hematol Educ Program | volume = 2009 | pages = 532–41 | year = 2009 | pmid = 20008238 | doi = 10.1182/asheducation-2009.1.532 | last2 = Burack }}</ref> Treatment for these types of lymphoma typically consists of aggressive chemotherapy, including the [[CHOP (chemotherapy)|CHOP or R-CHOP]] regimen. A number of people are cured with first-line chemotherapy. Most relapses occur within the first two years, and the relapse risk drops significantly thereafter.<ref>{{cite journal | author = Jenkins EC | title = Wire-loop application of liquid emulsion to slides for autoradiography in light microscopy. | journal = Stain Technology | volume = 47 | issue = 1 | pages = 23–6 | date = Jan 1972 | pmid = 4550425 | doi = 10.3109/10520297209116530 }}</ref> For people who relapse, high-dose chemotherapy followed by autologous stem cell transplantation is a proven approach.<ref>{{cite journal |vauthors=Philip T, Guglielmi C, Hagenbeek A, Somers R, Van der Lelie H, Bron D, Sonneveld P, Gisselbrecht C, Cahn JY, Harousseau JL | title = Autologous bone marrow transplantation as compared with salvage chemotherapy in relapses of chemotherapy-sensitive non-Hodgkin's lymphoma. | journal = The New England Journal of Medicine | volume = 333 | issue = 23 | pages = 1540–5 | date = Dec 7, 1995 | pmid = 7477169 | doi = 10.1056/nejm199512073332305 }}</ref>
+
+The treatment of side effects is also important as they can occur due to the chemotherapy or the [[Hematopoietic stem cell transplantation|stem cell transplantation]]. It was evaluated whether mesenchymal stromal cells can be used for the treatment and prophylaxis of [[graft-versus-host disease]]s. The evidence is very uncertain about the therapeutic effect of mesenchymal stromal cells to treat graft-versus-host diseases on the all-cause mortality and complete disappear of chronic acute graft-versus-host diseases. Mesenchymal stromal cells may results in little to no difference in the all-cause mortality, relapse of malignant disease and incidence of acute and chronic graft-versus-host diseases if they are used for prophylactic reason.<ref>{{Cite journal|last1=Fisher|first1=Sheila A|last2=Cutler|first2=Antony|last3=Doree|first3=Carolyn|last4=Brunskill|first4=Susan J|last5=Stanworth|first5=Simon J|last6=Navarrete|first6=Cristina|last7=Girdlestone|first7=John|date=2019-01-30|editor-last=Cochrane Haematological Malignancies Group|title=Mesenchymal stromal cells as treatment or prophylaxis for acute or chronic graft-versus-host disease in haematopoietic stem cell transplant (HSCT) recipients with a haematological condition|journal=Cochrane Database of Systematic Reviews|volume=2019|issue=1|pages=CD009768|language=en|doi=10.1002/14651858.CD009768.pub2|pmid=30697701|pmc=6353308}}</ref> Moreover, it was seen that [[platelet transfusion]]s for people undergoing a chemotherapy or a stem cell transplantation for the prevention of bleeding events had different effects on the number of participants with a bleeding event, the number of days on which a bleeding occurred, the mortality secondary to bleeding and the number of platelet transfusions depending of the way they were used (therapeutic, depending on a threshold, different dose schedules or prophylactic).<ref>{{Cite journal|last1=Estcourt|first1=Lise|last2=Stanworth|first2=Simon|last3=Doree|first3=Carolyn|last4=Hopewell|first4=Sally|last5=Murphy|first5=Michael F|last6=Tinmouth|first6=Alan|last7=Heddle|first7=Nancy|date=2012-05-16|editor-last=Cochrane Haematological Malignancies Group|title=Prophylactic platelet transfusion for prevention of bleeding in patients with haematological disorders after chemotherapy and stem cell transplantation|journal=Cochrane Database of Systematic Reviews|issue=5|pages=CD004269|language=en|doi=10.1002/14651858.CD004269.pub3|pmid=22592695}}</ref><ref>{{Cite journal|last1=Estcourt|first1=Lise J|last2=Stanworth|first2=Simon J|last3=Doree|first3=Carolyn|last4=Hopewell|first4=Sally|last5=Trivella|first5=Marialena|last6=Murphy|first6=Michael F|date=2015-11-18|editor-last=Cochrane Haematological Malignancies Group|title=Comparison of different platelet count thresholds to guide administration of prophylactic platelet transfusion for preventing bleeding in people with haematological disorders after myelosuppressive chemotherapy or stem cell transplantation|journal=Cochrane Database of Systematic Reviews|volume=11|issue=11|pages=CD010983|language=en|doi=10.1002/14651858.CD010983.pub2|pmid=26576687|pmc=4717525}}</ref>
+
+====Hodgkin lymphoma====
+Hodgkin lymphoma typically is treated with radiotherapy alone, as long as it is localized.<ref name="pmid19883306">{{cite journal | author = Martin NE, Ng AK | title = Good things come in small packages: low-dose radiation as palliation for indolent non-Hodgkin lymphomas | journal = Leuk. Lymphoma | volume = 50 | issue = 11 | pages = 1765–72 | date = November 2009 | pmid = 19883306 | doi = 10.3109/10428190903186510 | last2 = Ng | s2cid = 11004437 }}</ref>
+
+Advanced Hodgkin disease requires systemic chemotherapy, sometimes combined with radiotherapy.<ref name="pmid20008235">{{cite journal | author = Kuruvilla J | title = Standard therapy of advanced Hodgkin lymphoma | journal = Hematology Am Soc Hematol Educ Program | volume = 2009 | pages = 497–506 | year = 2009 | pmid = 20008235 | doi = 10.1182/asheducation-2009.1.497 | doi-access = free }}</ref> Chemotherapy used includes the [[ABVD]] regimen, which is commonly used in the United States. Other regimens used in the management of Hodgkin lymphoma include [[BEACOPP]] and [[Stanford V]]. Considerable controversy exists regarding the use of ABVD or BEACOPP. Briefly, both regimens are effective, but BEACOPP is associated with more toxicity. Encouragingly, a significant number of people who relapse after ABVD can still be salvaged by stem cell transplant.<ref>{{cite journal | vauthors=Viviani S, Zinzani PL, Rambaldi A, Brusamolino E, Levis A, Bonfante V, Vitolo U, Pulsoni A, Liberati AM, Specchia G, Valagussa P, Rossi A, Zaja F, Pogliani EM, Pregno P, Gotti M, Gallamini A, Rota Scalabrini D, Bonadonna G, Gianni AM | title = ABVD versus BEACOPP for Hodgkin's lymphoma when high-dose salvage is planned | journal = New England Journal of Medicine | volume = 365 | issue = 3 | pages = 203–12 | year = 2011 | pmid = 21774708 | doi = 10.1056/NEJMoa1100340 | author22 = Gruppo Italiano di Terapie Innovative nei Linfomi | s2cid = 10038896 }}</ref>
+
+Scientists evaluated whether [[Positron emission tomography|positron-emission-tomography]] scans between the chemotherapy cycles can be used to make assumptions about the survival. The evidence is very uncertain about the effect of negative (= good prognosis) or positive (= bad prognosis) interim PET scan results on the progression-free survival. Negative interim PET scan results may result in an increase in progression-free survival compared if the adjusted result was measured. Negative interim PET scan results probably result in a large increase in the overall survival compared to those with a positive interim PET scan result.<ref>{{Cite journal|last1=Aldin|first1=Angela|last2=Umlauff|first2=Lisa|last3=Estcourt|first3=Lise J|last4=Collins|first4=Gary|last5=Moons|first5=Karel GM|last6=Engert|first6=Andreas|last7=Kobe|first7=Carsten|last8=von Tresckow|first8=Bastian|last9=Haque|first9=Madhuri|last10=Foroutan|first10=Farid|last11=Kreuzberger|first11=Nina|date=2020-01-13|editor-last=Cochrane Haematology Group|title=Interim PET-results for prognosis in adults with Hodgkin lymphoma: a systematic review and meta-analysis of prognostic factor studies|journal=Cochrane Database of Systematic Reviews|volume=1|pages=CD012643|language=en|doi=10.1002/14651858.CD012643.pub3|pmid=31930780|pmc=6984446}}</ref>
+
+Current research evaluated whether [[Nivolumab]] can be used for the treatment of a Hodgkin's lymphoma. The evidence is very uncertain about the effect of Nivolumab for patients with a Hodgkin’s lymphoma on the overall survival, the quality of life, the survival without a progression, the response rate (=complete disappear) and grade 3 or 4 serious adverse events.<ref>{{Cite journal|last1=Goldkuhle|first1=Marius|last2=Dimaki|first2=Maria|last3=Gartlehner|first3=Gerald|last4=Monsef|first4=Ina|last5=Dahm|first5=Philipp|last6=Glossmann|first6=Jan-Peter|last7=Engert|first7=Andreas|last8=von Tresckow|first8=Bastian|last9=Skoetz|first9=Nicole|date=2018-07-12|editor-last=Cochrane Haematological Malignancies Group|title=Nivolumab for adults with Hodgkin's lymphoma (a rapid review using the software RobotReviewer)|journal=Cochrane Database of Systematic Reviews|volume=2018|issue=7|pages=CD012556|language=en|doi=10.1002/14651858.CD012556.pub2|pmid=30001476|pmc=6513229}}</ref>
+
+=== Palliative care ===
+[[Palliative care]], a specialized medical care focused on the symptoms, pain, and stress of a serious illness, is recommended by multiple national cancer treatment guidelines as an accompaniment to curative treatments for people suffering from lymphoma.<ref name="pmid17531914">{{cite journal |vauthors=Ferrell B, Connor SR, Cordes A, Dahlin CM, Fine PG, Hutton N, Leenay M, Lentz J, Person JL, Meier DE, Zuroski K | title = The national agenda for quality palliative care: the National Consensus Project and the National Quality Forum | journal = J Pain Symptom Manage | volume = 33 | issue = 6 | pages = 737–44 | year = 2007 | pmid = 17531914 | doi = 10.1016/j.jpainsymman.2007.02.024 | doi-access = free }}</ref><ref>*The American Society of Clinical Oncology made this recommendation based on various cancers. See {{Citation|author1=American Society of Clinical Oncology |author1-link=American Society of Clinical Oncology |title=Five Things Physicians and Patients Should Question |publisher=[[American Society of Clinical Oncology]] |work=Choosing Wisely: an initiative of the [[ABIM Foundation]] |url=http://choosingwisely.org/wp-content/uploads/2012/04/5things_12_factsheet_Amer_Soc_Clin_Onc.pdf |access-date=August 14, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120731073425/http://choosingwisely.org/wp-content/uploads/2012/04/5things_12_factsheet_Amer_Soc_Clin_Onc.pdf |archive-date=July 31, 2012 }}</ref> It is used to address both the direct symptoms of lymphoma and many unwanted side effects that arise from treatments.<ref name="pmid20890138">{{cite journal | author = Higginson IJ, Evans CJ | title = What is the evidence that palliative care teams improve outcomes for cancer patients and their families? | journal = Cancer J | volume = 16 | issue = 5 | pages = 423–35 | year = 2010 | pmid = 20890138 | doi = 10.1097/PPO.0b013e3181f684e5 | last2 = Evans | s2cid = 39881122 }}</ref><ref>{{cite web |url=http://www.medscape.com/viewarticle/826011 |title=Palliative Care: It's for Caregivers Too, Says Study |access-date=2014-08-21 |url-status=live |archive-url=https://web.archive.org/web/20140601190945/http://www.medscape.com/viewarticle/826011 |archive-date=2014-06-01 }}</ref> Palliative care can be especially helpful for children who develop lymphoma, helping both children and their families deal with the physical and emotional symptoms of the disease.<ref name="pmid20890138"/><ref name="pmid20078405">{{cite journal |vauthors=Heath JA, Clarke NE, Donath SM, McCarthy M, Anderson VA, Wolfe J | title = Symptoms and suffering at the end of life in children with cancer: an Australian perspective | journal = Med J Aust | volume = 192 | issue = 2 | pages = 71–5 | year = 2010 | pmid = 20078405 | doi =  10.5694/j.1326-5377.2010.tb03420.x| s2cid = 8355159 }}</ref><ref name="pmid23901834">{{cite journal |vauthors=Schmidt P, Otto M, Hechler T, Metzing S, Wolfe J, Zernikow B | title = Did increased availability of pediatric palliative care lead to improved palliative care outcomes in children with cancer? | journal = J Palliat Med | volume = 16 | issue = 9 | pages = 1034–9 | year = 2013 | pmid = 23901834 | doi = 10.1089/jpm.2013.0014 }}</ref><ref name="pmid22836818">{{cite journal|vauthors=Tang ST, Chang WC, Chen JS, Wang HM, Shen WC, Li CY, Liao YC|year=2013|title=Course and predictors of depressive symptoms among family caregivers of terminally ill cancer patients until their death|journal=Psychooncology|volume=22|issue=6|pages=1312–8|doi=10.1002/pon.3141|pmid=22836818|s2cid=31552330}}</ref> For these reasons, palliative care is especially important for people requiring bone marrow transplants.<ref name="pmid19151797">{{cite journal | vauthors=Chung HM, Lyckholm LJ, Smith TJ | title = Palliative care in BMT | journal = Bone Marrow Transplant | volume = 43 | issue = 4 | pages = 265–73 | year = 2009 | pmid = 19151797 | doi = 10.1038/bmt.2008.436 | doi-access = free }}</ref><ref>{{cite web |url=http://www.medscape.com/viewarticle/735542_4 |title=Providing Palliative Care to Family Caregivers Throughout the Bone Marrow Transplantation Trajectory |access-date=2014-08-21 |url-status=live |archive-url=https://web.archive.org/web/20130812111427/http://www.medscape.com/viewarticle/735542_4 |archive-date=2013-08-12 }}</ref>
+
+=== Supportive treatment ===
+Adding physical exercises to the standard treatment for adult patients with haematologicl malignancies like lymphomas may result in little to no difference in the mortality, the quality of life and the physical functioning. These exercises may result in a slight reduction in depression. Furthermore, aerobic physical exercises probably reduce fatigue. The evidence is very uncertain about the effect on anxiety and serious adverse events.<ref>{{Cite journal|last1=Knips|first1=Linus|last2=Bergenthal|first2=Nils|last3=Streckmann|first3=Fiona|last4=Monsef|first4=Ina|last5=Elter|first5=Thomas|last6=Skoetz|first6=Nicole|date=2019-01-31|editor-last=Cochrane Haematological Malignancies Group|title=Aerobic physical exercise for adult patients with haematological malignancies|journal=Cochrane Database of Systematic Reviews|volume=2019|issue=1|pages=CD009075|language=en|doi=10.1002/14651858.CD009075.pub3|pmid=30702150|pmc=6354325}}</ref>   
+
+==Prognosis==
+{| class="wikitable"
+|-
+|colspan="3;" style="text-align:center;" bgcolor="#7fbfff"|Five-year relative survival by stage at diagnosis<ref>{{cite web | url = http://seer.cancer.gov/statfacts/html/lymph.html | title = SEER Stat Fact Sheets: Lymphoma | archive-url = https://web.archive.org/web/20131010130208/http://seer.cancer.gov/statfacts/html/lymph.html | archive-date = 2013-10-10 | url-status=dead }}</ref>
+|-
+| style=align="center;" bgcolor="#ffffec"| Stage at diagnosis 
+| style=align="center;" bgcolor="#ffffec"| Five-year relative<br>survival (%)
+| style=align="center;" bgcolor="#ffffec"| Percentage<br>of cases (%)
+|-
+| style=align="center;" bgcolor="#ffffec"| Localized (confined to primary site) 
+| style=align="center;" bgcolor="#ffffec"| 82.3 
+| style=align="center;" bgcolor="#ffffec"| 26
+|-
+| style=align="center;" bgcolor="#ffffec"| Regional (spread to regional lymph nodes) 
+| style=align="center;" bgcolor="#ffffec"| 78.3 
+| style=align="center;" bgcolor="#ffffec"| 19
+|-
+| style=align="center;" bgcolor="#ffffec"| Distant (cancer has metastasized) 
+| style=align="center;" bgcolor="#ffffec"| 62.7 
+| style=align="center;" bgcolor="#ffffec"| 47
+|-
+| style=align="center;" bgcolor="#ffffec"| Unknown (unstaged)
+| style=align="center;" bgcolor="#ffffec"| 68.6 
+| style=align="center;" bgcolor="#ffffec"| 8
+|}
+
+==Epidemiology==
+[[File:Lymphomas, multiple myeloma world map-Deaths per million persons-WHO2012.svg|thumb|upright=1.3|Deaths from lymphomas and multiple myeloma per million persons in 2012 {{refbegin|3}}{{legend|#ffff20|0-13}}{{legend|#ffe820|14-18}}{{legend|#ffd820|19-22}}{{legend|#ffc020|23-28}}{{legend|#ffa020|29-34}}{{legend|#ff9a20|35-42}}{{legend|#f08015|43-57}}{{legend|#e06815|58-88}}{{legend|#d85010|89-121}}{{legend|#d02010|122-184}}{{refend}}]]
+
+Lymphoma is the most common form of [[hematological malignancy]], or "blood cancer", in the developed world.
+
+Taken together, lymphomas represent 5.3% of all cancers (excluding simple basal cell and squamous cell skin cancers) in the United States and 55.6% of all blood cancers.<ref>{{cite web |title       = SEER Cancer Statistics Review, 1975–2006 |work        = Surveillance Epidemiology and End Results (SEER) |publisher   = [[National Cancer Institute]] |url         = http://seer.cancer.gov/csr/1975_2006/ |vauthors    = Horner MJ, Ries LG, Krapcho M, Neyman N |location    = Bethesda, MD |access-date  = 3 November 2009 |quote       = Table 1.4: Age-Adjusted SEER Incidence and U.S. Death Rates and 5-Year Relative Survival Rates By Primary Cancer Site, Sex and Time Period |url-status     = live |archive-url  = https://web.archive.org/web/20090926004001/http://seer.cancer.gov/csr/1975_2006/ |archive-date = 26 September 2009 }}</ref>
+
+According to the [[National Institutes of Health|U.S. National Institutes of Health]], lymphomas account for about 5%, and Hodgkin lymphoma in particular accounts for less than 1% of all cases of cancer in the United States.
+
+Because the whole system is part of the body's immune system, people with a weakened immune system such as from HIV infection or from certain drugs or medication also have a higher number of cases of lymphoma.<ref>{{cite journal |vauthors=Tran H, Nourse J, Hall S, Green M, Griffiths L, Gandhi MK | title = Immunodeficiency-associated lymphomas | journal = Blood Reviews | volume = 22 | issue = 5 | pages = 261–281 | date = Sep 2008 | pmid = 18456377 | doi = 10.1016/j.blre.2008.03.009 }}</ref>
+
+==History==
+{{see also|Timeline of lymphoma}}
+[[File:Thomas Hodgkin photo.jpg|thumb|190px|Thomas Hodgkin]]
+[[Thomas Hodgkin]] published the first description of lymphoma in 1832, specifically of the form named after him.<ref name="Mauch1999">{{cite book | last = Hellman | first = Samuel |author2=Mauch, P.M. Ed.  | title = Hodgkin's Disease | publisher = Lippincott Williams & Wilkins | year = 1999 | location = Chapter 1 | page = 5 | isbn = 0-7817-1502-4}}</ref> Since then, many other forms of lymphoma have been described.
+
+The term "lymphoma" is from latin lympha ("water") and from greek -oma ("morbid growth, tumor").<ref>{{Cite web|url=https://www.etymonline.com/word/-oma?ref=etymonline_crossreference|title=-oma|website=Online Etymology Dictionary}}</ref>
+
+==Research==
+The two types of lymphoma research are clinical or [[translational research]] and [[basic research]]. Clinical/translational research focuses on studying the disease in a defined and generally immediately applicable way, such as testing a new drug in people. Studies may focus on effective means of treatment, better ways of treating the disease, improving the quality of life for people, or appropriate care in remission or after cures. Hundreds of [[clinical trials]] are being planned or conducted at any given time.<ref>{{cite web |url=http://www.clinicaltrials.gov/ct2/results?term=lymphoma |title=Archived copy |access-date=2012-10-30 |url-status=live |archive-url=https://web.archive.org/web/20130106213155/http://www.clinicaltrials.gov/ct2/results?term=lymphoma |archive-date=2013-01-06 }}</ref>
+
+Basic science research studies the disease process at a distance, such as seeing whether a suspected carcinogen can cause healthy cells to turn into lymphoma cells in the laboratory or how the DNA changes inside lymphoma cells as the disease progresses. The results from basic research studies are generally less immediately useful to people with the disease,<ref>{{cite web|website=The Leukemia & Lymphoma Society|title=Understanding Clinical Trials for Blood Cancers|url=http://www.leukemia-lymphoma.org/attachments/National/br_1162487596.pdf|publisher=Leukemia and Lymphoma Society|access-date=19 May 2010|url-status=dead|archive-url=https://web.archive.org/web/20110105213515/http://www.leukemia-lymphoma.org/attachments/National/br_1162487596.pdf|archive-date=5 January 2011}}</ref> but can improve scientists' understanding of lymphoma and form the foundation for future, more effective treatments.
+
+==Other animals==
+{{Main|Lymphoma in animals}}
+<!-- For a discussion of lymphoma in animals other than humans see the above link. -->
+
+==References==
+{{reflist|2|refs=
+
+<ref name="Jaffe_2011_1">{{Cite book | last1=Jaffe | first1=ES | last2=Harris |first2=NL|last3=Vardiman |first3=JW|last4=Campo |first4=E|last5=Arber|first5=DA.|title=Hematopathology | publisher=Elsevier Saunders| year=2011 |edition=1st |isbn= 9780721600406}}</ref>
+
+<ref name="Swerdlow2008">{{cite book |first1=Steven H. |last1=Swerdlow |author2=International Agency for Research on Cancer |author3=World Health Organization |title=WHO classification of tumours of haematopoietic and lymphoid tissues |url=http://apps.who.int/bookorders/anglais/detart1.jsp?codlan=1&codcol=70&codcch=4002 |year=2008 |publisher=International Agency for Research on Cancer |edition=4th |volume=2 |series=World Health Organization classification of tumours |isbn=9789283224310 |url-status=live |archive-url=https://web.archive.org/web/20150211163852/http://apps.who.int/bookorders/anglais/detart1.jsp?codlan=1&codcol=70&codcch=4002 |archive-date=2015-02-11 }}</ref>
+
+}}
+
+==External links==
+* {{Curlie|Health/Conditions_and_Diseases/Cancer/Hematologic/Lymphoma/}}
+
+{{Medical condition classification and resources| DiseasesDB       =
+| ICD10            = {{ICD10|C|81||c|81}}–{{ICD10|C|96||c|81}}
+| ICD9             = 202.8
+| ICDO             = 9590–9999
+| OMIM             =
+| MedlinePlus      = 000580
+| MedlinePlus_mult = {{MedlinePlus2|000581}}
+| eMedicineSubj    =
+| eMedicineTopic   =
+| MeshID           = D008223
+}}
+
+[[Category:Lymphoma| ]]
+[[Category:Anatomical pathology]]
+[[Category:Hematology]]
+[[Category:Pediatric cancers]]
+[[Category:Wikipedia medicine articles ready to translate]]

@@ -1,0 +1,349 @@
+{{short description|Area of the European Union's internal market and some of EFTA states established in 1994}}
+{{Use dmy dates|date=June 2020}}
+{{Use British English|date=November 2015}}
+{{Infobox Geopolitical organization
+| name                = {{Collapsible list
+  | titlestyle = background:transparent; text-align:center; font-size:9pt;white-space:nowrap;
+  | title = {{resize|11.5pt|{{nbsp|8}}European Economic Area{{nbsp|8}}}}
+  | {{Unbulleted list
+     |style=font-size:10pt;font-weight:normal;
+     |{{native name|bg|Европейска икономическа зона}} |{{native name|hr|Europski gospodarski prostor}} |{{native name|cs|Evropský hospodářský prostor}} |{{native name|da|Europæiske Økonomiske Samarbejdsområde}} |{{native name|nl|Europese Economische Ruimte}} |{{native name|et|Euroopa Majanduspiirkond}} |{{native name|fi|Euroopan talousalue}} |{{native name|fr|Espace économique européen}} |{{native name|de|Europäischer Wirtschaftsraum}} |{{native name|el|Ευρωπαϊκός Οικονομικός Χώρος}} |{{native name|hu|Európai Gazdasági Térség}} |{{native name|is|Evrópska efnahagssvæðið}} |{{native name|ga|Limistéar Eorpach Eacnamaíoch}} |{{native name|it|Spazio economico europeo}} |{{native name|lv|Eiropas Ekonomikas zona}} |{{native name|lt|Europos ekonominės erdvės}} |{{native name|smj|Europealasj Ekonomalasj Aktanbarggambájkke}} |{{native name|mt|Żona Ekonomika Ewropea}} |{{native name|se|Eurohppá ekonomalaš oktasašbargoguovlu}}<ref>{{Cite web|url=https://www.samediggi.fi/wp-content/uploads/materiaalit/samedikki_lahkasanit_2005.pdf|title=Láhkasánit - Saamelaiskäräjät|work=Sámi Parliament of Finland|accessdate=2019-08-29}}</ref> |{{native name|nb|Europeiske økonomiske samarbeidsområde}} |{{native name|nn|Europeiske økonomiske samarbeidsområdet}} |{{native name|pl|Europejski Obszar Gospodarczy}} |{{native name|pt|Espaço Económico Europeu}} |{{native name|ro|Spațiul Economic European}} |{{native name|sk|Európsky hospodársky priestor}} |{{native name|sl|Evropski gospodarski prostor}} |{{native name|es|Espacio Económico Europeo}} |{{native name|sv|Europeiska ekonomiska samarbetsområdet}}
+ }} }}
+| image_map                = European Economic Area members.svg
+| alt_map                = 
+| map_caption                = <!--
+-->{{leftlegend|#003399|EU states which form part of the EEA}}<!--
+-->{{leftlegend|#276d3a|EFTA states which form part of the EEA}}<!--
+-->{{leftlegend|#00a9b9|Non-EU/non-EFTA state which transitionally forms part of the EEA<ref name="BrexitNote">Under the [[Brexit]] withdrawal agreement, during a transition period the UK continues to be treated as a member of the EU and thus as a member of the EEA. It is planned that as soon as the transition period ends the UK will no longer be a member of the EEA.</ref>}}<!--
+-->{{leftlegend|orange|EU state which forms part of the EEA through the provisional application of an accession agreement}}<!--
+-->{{leftlegend|#ff1111|EFTA state which signed the EEA agreement but did not join}}
+| admin_center                = {{unbulleted list
+|style=white-space:nowrap;line-height:140%;
+|item1_style=line-height:normal;margin-top:19px;margin-bottom:2px; |{{hlist|[[EEA Joint Committee]]|<br />EEA Council}}
+|{{hlist|[[European Commission|EC]]|[[European Free Trade Association Surveillance Authority|EFTA SA]]}}
+|{{hlist|[[Court of Justice of the European Union|ECJ]] |[[EFTA Court]]}}
+}}
+| admin_center_type                = {{unbulleted list
+|style=white-space:nowrap;line-height:140%;
+|Institutions
+|item_style=margin-bottom:14px;|{{nobold|&nbsp;• Governance}}
+|{{nobold|&nbsp;• Regulators}}
+|{{nobold|&nbsp;• Courts}}
+}}
+| membership_type                = Member states<ref name="rat">{{cite web |url=http://www.consilium.europa.eu/en/documents-publications/agreements-conventions/agreement/?aid=1992045 |title=Agreement details |publisher=[[Council of the European Union]] |accessdate=7 July 2013}}</ref><ref name="croatiarat">{{cite web |url=http://www.consilium.europa.eu/en/documents-publications/agreements-conventions/agreement/?aid=2014013 |title=Agreement details |publisher=Council of the European Union |accessdate=23 April 2014}}</ref>
+| membership                = {{Collapsible list
+  | titlestyle = background:transparent;text-align:left;font-weight:normal;
+  | title = 26 EU member<br/>states
+  | {{flagcountry|Austria}} |{{flagcountry|Belgium|state}} |{{flagcountry|Bulgaria}} |{{flagcountry|Cyprus}} |{{flagcountry|Czech Republic}} |{{flagcountry|Denmark}} |{{flagcountry|Estonia}} |{{flagcountry|Finland}} |{{flagcountry|France}} |{{flagcountry|Germany}} |{{flagcountry|Greece}} |{{flagcountry|Hungary}} |{{flagcountry|Ireland}} |{{flagcountry|Italy}} |{{flagcountry|Latvia}} |{{flagcountry|Lithuania}} |{{flagcountry|Luxembourg}} |{{flagcountry|Malta}} |{{flagcountry|Netherlands}} |{{flagcountry|Poland}} |{{flagcountry|Portugal}}|{{flagcountry|Romania}} |{{flagcountry|Slovakia}} |{{flagcountry|Slovenia}}|{{flagcountry|Spain}} |{{flagcountry|Sweden}}
+}}
+{{Collapsible list
+  | titlestyle = background:transparent;text-align:left;font-weight:normal;
+  | title = 3 EFTA member states
+  |{{flagcountry|Iceland}}|{{flagcountry|Norway}}|{{flagcountry|Liechtenstein}}<br/>
+}}
+{{Collapsible list
+  | titlestyle = background:transparent;text-align:left;font-weight:normal;line-height:normal;margin-top:2px;
+  | title = 1 former EU member state the EEA agreement continues to apply to during a transition period
+  | {{flagcountry|United Kingdom}}
+}}
+{{Collapsible list
+  | titlestyle = background:transparent;text-align:left;font-weight:normal;line-height:normal;margin-top:2px;
+  | title = 1 EU member state the EEA agreement provisionally applies to
+  | {{flagcountry|Croatia}}
+}}
+| org_type                = 
+| established_event1                = EEA&nbsp;Agreement signed
+| established_date1                = 2 May 1992
+| established_event2                = Entry into force
+| established_date2                = 1 January 1994
+| government_type                = 
+| area_magnitude                = 
+| area_km2                = 4944753
+| area_sq_mi                = 
+| percent_water                = 
+| population_estimate                = 515,000,000
+| population_estimate_year                = 2017
+| population_density_km2                = 
+| GDP_PPP                = 
+| GDP_PPP_year                = 
+| GDP_PPP_per_capita                = 
+| GDP_nominal                = [[US$]]20&nbsp;trillion<ref>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?pr.x=50&pr.y=7&sy=2018&ey=2018&scsm=1&ssd=1&sort=country&ds=.&br=1&c=998&s=NGDPD,PPPGDP,PPPPC&grp=1&a=1 |title=Report for Selected Country Groups and Subjects |website=www.imf.org}}</ref><ref>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?sy=2018&ey=2018&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=78&pr1.y=6&c=142,176,146&s=NGDPD,PPPGDP,LP&grp=0&a= |title=Report for Selected Countries and Subjects |website=www.imf.org}}</ref>
+| GDP_nominal_year                = 2018
+| GDP_nominal_per_capita                = [[US$]]40,000
+| Gini_year                = 
+| Gini_change                = <!--increase/decrease/steady-->
+| Gini                = <!--number only-->
+| Gini_ref                = 
+| Gini_rank                = 
+| HDI_year                = 
+| HDI_change                = <!--increase/decrease/steady-->
+| HDI                = <!--number only-->
+| HDI_ref                = 
+| HDI_rank                = 
+| currency                = 
+| currency_code                = 
+| demonym                = 
+| area_rank                = 
+| today                = 
+}}
+
+The '''European Economic Area''' ('''EEA''') was established via the ''Agreement on the European Economic Area'', an international agreement which enables the extension of the [[European Union]]'s single market to member states of the [[European Free Trade Association]].<ref>{{cite web |url=http://www.efta.int/eea/eea-agreement/eea-basic-features#1 |title=The Basic Features of the EEA Agreement - European Free Trade Association |website=www.efta.int}}</ref> The EEA links the EU member states and three EFTA states (Iceland, Liechtenstein, and Norway) into an internal market governed by the same basic rules.  The United Kingdom benefits from this relationship during the transition/implementation period planned by the treaties.<ref name="BrexitNote" /> These rules aim to enable [[Freedom of movement for workers in the European Union|free movement of persons]], goods, services, and capital within the [[European Single Market]], including the freedom to choose residence in any country within this area. The EEA was established on 1 January 1994 upon entry into force of the EEA Agreement. The contracting parties are the EU, its member states, and Iceland, Liechtenstein, Norway, and the United Kingdom.<ref name="agreement">{{cite web |title=AGREEMENT ON THE EUROPEAN ECONOMIC AREA |url=http://efta.int/~/media/Documents/legal-texts/eea/the-eea-agreement/Main%20Text%20of%20the%20Agreement/EEAagreement.ashx |website=[[European Free Trade Association]] |accessdate=7 May 2017 |date=19 August 2016}}</ref>
+
+The EEA Treaty is a commercial treaty and differs from the [[Treaties of the European Union|EU Treaties]] in certain key respects. According to Article 1 its purpose is to "promote a continuous and balanced strengthening of trade and economic relation". The EFTA members do not participate in the [[Common Agricultural Policy]] or the [[Common Fisheries Policy]].
+
+The right to free movement of persons between EEA member states and the relevant provisions on safeguard measures are identical to those applying between members of the EU.<ref name="eur-lex.europa.eu">{{cite web |url=https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:21994A0103(01)&from=en |title=Agreement on the European Economic Area |publisher=[[Official Journal of the European Union]] |accessdate=2018-11-25}}</ref><ref name="Directive-2004-38-EC">{{cite web |url=https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32004L0038 |title=Directive 2004/38/EC of the European Parliament and of the Council |publisher=Official Journal of the European Union|accessdate=2018-11-25}}</ref> The right and rules applicable in all EEA member states, including those which are not members of the EU, are specified in Directive 2004/38/EC<ref name="Directive-2004-38-EC" /> and in the EEA Agreement.<ref name="eur-lex.europa.eu"/>
+
+The EEA Agreement specifies that membership is open to member states either of the EU or of the EFTA. EFTA states that are party to the EEA Agreement participate in the EU's internal market without being members of the EU or the [[European Union Customs Union]]. They adopt most EU legislation concerning the single market, with notable exclusions including laws regarding the Common Agricultural Policy and Common Fisheries Policy.<ref>{{cite web |url=http://www.efta.int/eea/eea-agreement/eea-basic-features#5 |title=The Basic Features of the EEA Agreement &#124; European Free Trade Association |publisher=Efta.int |accessdate=2017-05-07}}</ref> The EEA's "decision-shaping" processes enable EEA EFTA member states to influence and contribute to new EEA policy and legislation from an early stage.<ref name="influence">{{cite web |url=http://www.efta.int/~/media/Files/Publications/Bulletins/eeadecisionshaping-bulletin.pdf |title=2182-BULLETIN-2009-07:1897-THIS-IS-EFTA-24|accessdate=2017-05-07}}</ref> Third country goods are excluded for these states on [[rules of origin]].
+
+When entering into force in 1994, the EEA parties were 17 states and two [[European Communities]]: the [[European Economic Community|European Community]], which was later absorbed into the EU's wider framework, and the now defunct [[European Coal and Steel Community]]. Membership has grown to 30 states as of 2020: [[Member state of the European Union|27 EU member states]], as well as three of the four member states of the EFTA ([[Iceland]], [[Liechtenstein]] and [[Norway]]).<ref name="agreement"/> The Agreement is applied provisionally with respect to [[Croatia]]—the remaining and most recent EU member state—pending [[ratification]] of its accession by all EEA parties.<ref name="croatiarat"/><ref name="croatsign">{{cite web |url=http://www.efta.int/eea/news/croatia-joins-eea-2750 |title=Croatia joins the EEA |date=12 April 2014 |accessdate=11 April 2014 |publisher=European Free Trade Association}}</ref> The United Kingdom transitionally continues to be an EEA member after it withdrew from the EU on 31 January 2020, and entered into a transition period ending 31 December 2020. During the transition, the EEA agreement will remain unchanged, and continue to apply as before, to both the remaining EEA members and the United Kingdom, as the UK will continue to be treated as if an EEA state.<ref name=UK_Brexit>{{cite web |url=https://www.efta.int/About-EFTA/Frequently-asked-questions-EFTA-EEA-EFTA-membership-and-Brexit-328676 |website=[[EFTA]] |accessdate=2 February 2020 |title=Frequently asked questions on EFTA, the EEA, EFTA membership and Brexit}}</ref> One EFTA member, [[Switzerland]], has not joined the EEA, but has a set of [[Switzerland–European Union relations|bilateral sectoral agreements with the EU]] which allow it to participate in the internal market.
+
+==Origins==
+{{see also|1995 enlargement of the European Union|2004 enlargement of the European Union|2007 enlargement of the European Union}}
+
+In the late 1980s, the EFTA member states, led by Sweden, began looking at options to join the then-existing [[European Economic Community]] (EEC), the precursor of the [[European Union]] (EU). The reasons identified for this are manifold. Many authors cite the economic downturn at the beginning of the 1980s, and the subsequent adoption by the EEC of the "Europe 1992 agenda", as a primary reason. Arguing from a [[liberal intergovernmentalism|liberal intergovernmentalist]] perspective, these authors argue that large multinational corporations in EFTA countries, especially Sweden, pressed for EEC membership under threat of relocating their production abroad. Other authors point to the end of the [[Cold War]], which made joining the EEC less politically controversial for neutral countries.<ref name="Bache and George">Bache, Ian and Stephen George (2006) ''Politics in the European Union.'' Second Edition. Oxford: Oxford University Press: 543–548.</ref>
+
+Meanwhile, [[Jacques Delors]], who was [[President of the European Commission]] at the time, did not like the idea of the EEC enlarging with more member states, as he feared that it would impede the ability of the Community to complete internal market reform and establish monetary union. He proposed a European Economic Space (EES) in January 1989, which was later renamed the European Economic Area, as it is known today.<ref name="Bache and George" />
+
+By the time the EEA was established in 1994, however, several developments hampered its credibility. First of all, Switzerland rejected the EEA agreement in a national referendum on 6 December 1992, obstructing full EU-EFTA integration within the EEA. Furthermore, Austria had applied for full EEC membership in 1989, and was followed by Finland, Norway, Sweden, and Switzerland between 1991 and 1992 (Norway's EU accession [[1994 Norwegian European Union membership referendum|was rejected in a referendum]], Switzerland froze its EU application after the EEA agreement was [[1992 Swiss referendums|rejected in a referendum]]). [[Revolutions of 1989|The fall of the Iron Curtain]] had made the EU less hesitant to accept these highly developed countries as member states, since that would relieve the pressure on the EU's budget when the former socialist countries of Central Europe were to join.<ref name="Bache and George" />
+
+==Membership==
+The EEA Agreement was signed in [[Porto]] on 2 May 1992 by the then seven states of the [[European Free Trade Association]] (EFTA), the [[European Communities|European Community]] (EC) and its then 12 [[Member state of the European Union|member states]].<ref>{{cite web |url=http://europa.eu/abc/history/1990-1999/1992/index_en.htm |title=1992 |work=The EU at a glance – The History of the European Union |publisher=[[Europa (web portal)|Europa]] |accessdate=7 April 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20090206183726/http://europa.eu/abc/history/1990-1999/1992/index_en.htm |archivedate=6 February 2009}}</ref><ref>{{cite web |url=http://efta.int/~/media/Documents/legal-texts/eea/the-eea-agreement/Final%20Act/FinalAct.ashx |title=Final Act}}&nbsp;{{small|(434 KB)}}</ref> On 6 December 1992, Switzerland's voters rejected the [[ratification]] of the agreement in a constitutionally mandated [[referendum]],<ref>{{cite news |url=https://nytimes.com/1992/12/07/business/worldbusiness/07iht-reax.html |title=EEA Rejection Likely to Hurt Swiss Markets |last=Mitchener |first=Brandon |date=7 December 1992 |work=[[The New York Times]] |accessdate=7 April 2010}}</ref> effectively freezing the application for EC membership submitted earlier in the year. Switzerland is instead linked to the EU by a series of [[Switzerland–European Union relations|bilateral agreements]]. On 1 January 1995, three erstwhile members of the EFTA—[[Austria]], [[Finland]] and [[Sweden]]—acceded to the [[European Union]], which had superseded the European Community upon the entry into force of the [[Maastricht Treaty]] on 1 November 1993. Liechtenstein's participation in the EEA was delayed until 1 May 1995.<ref>{{cite web |url=http://europa.eu/abc/history/1990-1999/1995/index_en.htm |title=1995 |work=The EU at a glance – The History of the European Union |publisher=Europa |accessdate=9 April 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20090405170456/http://europa.eu/abc/history/1990-1999/1995/index_en.htm |archivedate=5 April 2009}}</ref> Any European State becoming a member of the EU shall, or becoming a member of EFTA may, apply to become a Party to the EEA agreement according to article 128 of the agreement.<ref>https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:1994:001:FULL&from=DE</ref>
+
+{{As of|2020|}}, the contracting parties to the EEA are three of the four [[European Free Trade Association#Current members|EFTA member states]] and the 27 [[member states of the EU|EU member states]].<ref>[https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22014X0611(04) Information relating to the provisional application of an Agreement on the participation of the Republic of Croatia in the European Economic Area]</ref> The newest EU member, [[Croatia]], finished negotiating their accession to the EEA in November 2013,<ref name=croatendneg>{{cite web |url=http://www.regjeringen.no/en/dep/nfd/press-centre/Press-releases/press-releases-2013/croatia-joins-the-eea.html?id=745904 |title=Croatia joins the EEA|date=20 November 2013 |accessdate=20 November 2013 |publisher=Government of Norway}}</ref> and since 12 April 2014 has provisionally applied the agreement pending its ratification by all EEA member states.<ref name=croatiarat/><ref name=croatsign/>
+
+On the question of the Withdrawal of the [[United Kingdom]] from the European Union (commonly known as ''[[Brexit]]''), the EEA Agreement will continue to apply with regards to the UK during the ''[[Brexit transition period|transition period]]'', in pursuance of Article 126 of the ''Withdrawal Agreement''.<ref name="UK_Brexit" /> Until (by default) 31 December 2020,<ref name="Bennett">{{Cite news|url=https://www.telegraph.co.uk/politics/0/brexit-2020-transition-period/|title=How will the Brexit transition period work?|author=Asa Bennett|date=27 January 2020|newspaper=The Telegraph}}</ref> the UK and the EU will seek to enter into negotiations on future relationship.
+
+The ''EEA EFTA States'' (Norway, Iceland, Liechtenstein) signed a ''Separation Agreement'' with the UK on 28 January 2020, which is understood to mirror the EEA-relevant parts of the EU-UK Withdrawal Agreement.<ref name=UK_Brexit/>
+
+===Treaties===
+Besides the 1992 Treaty, 1 amending treaty was signed, as well as 3 treaties to allow for accession of new members of the European Union.
+
+{| class="wikitable sortable"
+|-
+! Treaty!! Signature!! Entry into force !! original signatories||comment
+|-
+| EEA agreement || {{dts|2 May 1992}} || {{dts|1 January 1994}} ||19 states + [[EEC]] and [[European Coal and Steel Community|ECSC]] || Entered into force as adjusted by the 1993 Protocol
+|-
+| Adjusting Protocol || {{dts|17 March 1993}} || {{dts|1 January 1994}}||18 states + [[EEC]] and [[European Coal and Steel Community|ECSC]] ||Allowing entry into force without Switzerland
+|-
+| Participation of 10 new States || {{dts|14 October 2003}} || {{dts|6 December 2005}}||28 states + [[European Community|EC]] ||following [[2004 enlargement of the European Union]]
+|-
+| Participation of two new States || {{dts|25 July 2007}} ||{{dts|9 November 2011}}||30 states + [[European Community|EC]] ||following [[2007 enlargement of the European Union]]
+|-
+| Participation of one new State || {{dts|11 April 2014}} ||not in force||31 states + [[EU]] ||following [[2013 enlargement of the European Union]]
+|}
+
+===Ratification of the EEA Agreement===
+{|class="wikitable sortable"
+|-
+!State
+!Signed<br />{{refn|Of the original agreement, or a subsequent agreement on participation of that particular state in the EEA.|name=sigrat|group=Note}}<ref name=rat/><ref name=EEAsign>{{cite web |url=http://europa.eu/legislation_summaries/internal_market/living_and_working_in_the_internal_market/em0024_en.htm |title=Agreement on the European Economic Area |accessdate=2014-10-27 |date=2010-01-08 |publisher=[[European Union]]}}</ref>
+!Ratified<br />{{refn|name=sigrat|group=Note}}<ref name=rat/>
+!Entered&nbsp;into force<ref name=rat/>
+!Exit
+!Notes
+|-
+| {{AUT}} || 2 May 1992 || 15 October 1992 || 1 January 1994 || || EU member (from 1 January 1995)<br/>Acceded to the EEA as an [[EFTA]] member<ref name=EEAsign/>
+|-
+| {{BEL}} || 2 May 1992 || 9 November 1993 || 1 January 1994 || || EU member
+|-
+| {{BUL}}<ref name=bulgrom/> || 25 July 2007 || 29 February 2008 || 9 November 2011 ||||  EU member
+|-
+| {{CRO}}<ref name="croatiarat" /> || 11 April 2014 || 24 March 2015<ref>{{cite web |url=http://www.sabor.hr/lgs.axd?t=13&id=74874 |title=Hrvatski sabor |publisher=Sabor.hr |accessdate=2017-05-07}}</ref> || No || ||  EU member (from 1 July 2013)<br/>Provisional application (as a participating non-EEA state) from 12 April 2014<ref name="croatiarat" />
+|-
+| {{CYP}}<ref name=1stenlarg>{{cite web |url=http://www.consilium.europa.eu/en/documents-publications/agreements-conventions/agreement/?aid=2003093|title=Agreement details |date=14 October 2003 |accessdate=27 October 2014 |publisher=Council of the European Union}}</ref> || 14 October 2003 || 30 April 2004 || 6 December 2005 || || EU member <br/>(The application (and implementation) of the agreement is ''suspended'' in territories known as [[Northern Cyprus]]{{refn|Protocol 10 of the [[Treaty of Accession 2003|treaty of accession of the European Union to Cyprus]] suspended the application of the EU acquis to Northern Cyprus.<ref>{{cite web |url=http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2003:236:FULL&from=EN |title=Protocol No 10 on Cyprus |date=2003-09-23 |accessdate=2015-05-30 |publisher=Official Journal of the European Union |page=955}}</ref><ref>{{cite web |url=http://ec.europa.eu/cyprus/turkish_cypriots/index_en.htm |title=Turkish Cypriot Community |accessdate=2015-05-30 |publisher=[[European Commission]] |url-status=dead |archiveurl=https://web.archive.org/web/20150530224528/http://ec.europa.eu/cyprus/turkish_cypriots/index_en.htm |archivedate=30 May 2015}}</ref> The EEA Agreement states that it only applies to the territories of EU member states to which the [[EU treaties]] apply.<ref>{{cite web |url=http://www.efta.int/media/documents/legal-texts/eea/the-eea-agreement/Main%20Text%20of%20the%20Agreement/EEAagreement.pdf|title=AGREEMENT ON THE EUROPEAN ECONOMIC AREA |accessdate=2015-05-30 |publisher=European Free Trade Association |page=40}}</ref> A joint declaration to the Final Act of treaty on accession of Cyprus to the EEA confirmed that this included the Protocol on Cyprus.<ref>{{cite web |url=http://ec.europa.eu/world/agreements/downloadFile.do?fullText=yes&treatyTransId=3641 |title=AGREEMENT on the participation of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic in the European Economic Area|date=2004-04-29|accessdate=2015-05-30|publisher=[[European Union]]}}</ref>|group=Note}})
+|-
+| {{CZE}}<ref name=1stenlarg/> || 14 October 2003 || 10 June 2004 || 6 December 2005 || || EU member
+|-
+| {{DEN}} || 2 May 1992 || 30 December 1992 || 1 January 1994 || || EU member
+|-
+| {{Flag|European Union}} || 2 May 1992 || 13 December 1993 || 1 January 1994 || || originally as European Economic Community <br/>and European Coal and Steel Community
+|-
+| {{EST}}<ref name=1stenlarg/> || 14 October 2003 || 13 May 2004 || 6 December 2005 || || EU member
+|-
+| {{FIN}} || 2 May 1992 || 17 December 1992 || 1 January 1994 || || EU member (from 1 January 1995)<br/>Acceded to the EEA as an [[EFTA]] member<ref name=EEAsign/>
+|-
+| {{FRA}} || 2 May 1992 || 10 December 1993 || 1 January 1994 || || EU member
+|-
+| {{GER}} || 2 May 1992 || 23 June 1993 || 1 January 1994 || || EU member
+|-
+| {{GRE}} || 2 May 1992 || 10 September 1993 || 1 January 1994 || || EU member
+|-
+| {{HUN}}<ref name=1stenlarg/> || 14 October 2003 || 26 April 2004 || 6 December 2005 || || EU member
+|-
+| {{ISL}} || 2 May 1992 || 4 February 1993 || 1 January 1994 || || [[EFTA]] member
+|-
+| {{IRL}} || 2 May 1992 || 29 July 1993 || 1 January 1994 || || EU member
+|-
+| {{ITA}} || 2 May 1992 || 15 November 1993 || 1 January 1994 || || EU member
+|-
+| {{LAT}}<ref name=1stenlarg/> || 14 October 2003 || 4 May 2004 || 6 December 2005 || || EU member
+|-
+| {{LIE}} || 2 May 1992 || 25 April 1995 || 1 May 1995 || || [[EFTA]] member
+|-
+| {{LIT}}<ref name=1stenlarg/> || 14 October 2003 || 27 April 2004 || 6 December 2005 || || EU member
+|-
+| {{LUX}} || 2 May 1992 || 21 October 1993 || 1 January 1994 || || EU member
+|-
+| {{MLT}}<ref name=1stenlarg/> || 14 October 2003 || 5 March 2004 || 6 December 2005 || || EU member
+|-
+| {{NED}} || 2 May 1992 || 31 December 1992 || 1 January 1994 || || EU member
+|-
+| {{NOR}} || 2 May 1992 || 19 November 1992 || 1 January 1994 || || [[EFTA]] member
+|-
+| {{POL}}<ref name=1stenlarg/> || 14 October 2003 || 8 October 2004 || 6 December 2005 || || EU member
+|-
+| {{POR}} || 2 May 1992 || 9 March 1993 || 1 January 1994 || || EU member
+|-
+| {{ROU}}<ref name=bulgrom/> || 25 July 2007 || 23 May 2008 || 9 November 2011 || || EU member
+|-
+| {{SVK}}<ref name=1stenlarg/> || 14 October 2003 || 19 March 2004 || 6 December 2005 || || EU member
+|-
+| {{SLO}}<ref name=1stenlarg/> || 14 October 2003 || 30 June 2005 || 6 December 2005 || || EU member
+|-
+| {{ESP}} || 2 May 1992 || 3 December 1993 || 1 January 1994 || || EU member
+|-
+| {{SWE}} || 2 May 1992 || 18 December 1992 || 1 January 1994 || || EU member (from 1 January 1995)<br/>Acceded to the EEA as an [[EFTA]] member<ref name=EEAsign/>
+|-
+| {{CHE}}<ref name=EEAsign/> || ''2 May 1992'' || No || No || || [[EFTA]] member<br/>EEA ratification rejected in a [[1992 Swiss referendums|1992 referendum]]<br/>Removed as contracting party in 1993 protocol
+|-
+| {{UK}} || 2 May 1992 || 15 November 1993 || 1 January 1994 || 31 January 2020 || Former EU member and for the purpose of EU membership (and the EEA) including also (with exceptions) [[Gibraltar]] and the [[Sovereign Base Areas of Akrotiri and Dhekelia]] as well as including (for limited purposes) the three [[Crown Dependencies]] ([[Isle of Man]], [[Jersey]] and [[Bailiwick of Guernsey|Guernsey]]). The EEA Agreement and EEA Regulations will continue to be applicable in respect of the UK (and the UK in respect of the aforementioned Associated Territories) during the ''[[Brexit withdrawal agreement|Transition period]]'' (also known in the UK as the ''Implementation period'') until (by default) 31 December 2020.<ref name=UK_Brexit/>{{,}}<ref name="BrexitNote" />
+|}
+
+'''Notes'''
+{{Reflist|group="Note"}}
+
+==Future enlargement==
+===Recent EU member states===
+When a state joins the EU, they do not necessarily immediately become part of the EEA but are obliged to apply.<ref>{{cite web |url=http://www.efta.int/~/media/Documents/legal-texts/eea/the-eea-agreement/Main%20Text%20of%20the%20Agreement/EEAagreement.pdf |title=EEA Agreement |accessdate=7 July 2013 |publisher=European Free Trade Association |at=Article 128}}</ref> Following the [[2007 enlargement of the European Union|2007 enlargement of the EU]], which saw Bulgaria and Romania [[Treaty of Accession 2005|acceding to the EU]] on 1 January 2007, an EEA Enlargement Agreement was not signed until 25 July 2007 and only provisionally entered into force on 1 August 2007.<ref>{{cite web |url=http://www.eu-norway.org/about/41C3B197_B600_4489_8D22_A35FA685B979/ |title=Enlargement of the EU and the EEA |date=8 June 2009 |accessdate=4 July 2013 |publisher=Mission of Norway to the EU}}</ref><ref>{{cite web |url=http://www.efta.int/eea/enlargement-of-the-eea.aspx |title=Enlargement of the EEA |accessdate=4 July 2013 |publisher=European Free Trade Association}}</ref><ref name=bulgrom>{{cite web |url=http://www.consilium.europa.eu/en/documents-publications/agreements-conventions/agreement/?aid=2007059 |title=Agreement details |date=25 July 2007 |accessdate=7 July 2013 |publisher=Council of the European Union}}</ref> The agreement did not fully enter into force until 9 November 2011.<ref name=bulgrom/> On the other hand, the EEA Agreement was applied on a provisional basis to the 10 [[2004 enlargement of the European Union|acceding countries in May 2004]] as from the date of their accession to the EU.<ref>{{cite web |url=http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004D0368:EN:HTML |title=EUR-Lex – 32004D0368 – EN |publisher=Eur-lex.europa.eu |accessdate=2017-05-07}}</ref>
+
+;Croatia
+[[Croatia]] signed its [[Treaty of Accession 2011|Treaty of Accession]] to the EU on 9 December 2011<ref>{{cite web |url=http://europa.eu/news/external-relations/2011/03/20110302_en.htm |title=Croatians vote "Yes" to EU accession |date=22 January 2012 |accessdate=9 December 2011 |archiveurl=https://web.archive.org/web/20120123185048/http://europa.eu/news/external-relations/2011/03/20110302_en.htm |archivedate=23 January 2012}}</ref> and subsequently lodged their application to the EEA on 13 September 2012.<ref>{{cite web |url=http://daily.tportal.hr/214482/Croatian-gov-t-files-for-Croatia-s-entry-into-EEA.html |title=Croatian gov't files for Croatia's entry into EEA |date=13 September 2012 |accessdate=7 July 2013 |url-status=dead |archiveurl=https://web.archive.org/web/20131224114835/http://daily.tportal.hr/214482/Croatian-gov-t-files-for-Croatia-s-entry-into-EEA.html |archivedate=24 December 2013}}</ref> Negotiations started on 15 March 2013 in Brussels, with the aim of achieving simultaneous accession to both the EU and the EEA on 1 July 2013.<ref>{{cite web |url=http://www.regjeringen.no/nb/sub/europaportalen/aktuelt.html?contentid=717881&id=467564 |title=Forhandlinger med Kroatia om medlemskap i EØS |accessdate=26 July 2013 |author=Europaportalen |date=15 March 2013 |language=Norwegian}}</ref> However, this was not achieved.<ref>{{cite web |url=http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/er/139648.pdf |title=Conclusions of the 40th meeting of the EEA Council Brussels, 19 November 2013 |date=19 November 2013 |accessdate=19 November 2013 |publisher=Council of the EEA}}</ref><ref>{{cite web |url=http://www.eu2013.lt/en/news/pressreleases/minister-of-foreign-affairs-european-economic-area-should-work-on-reducing-economic-disparities |title=Minister of Foreign Affairs: European Economic Area should work on reducing economic disparities |date=19 November 2013 |accessdate=19 November 2013 |publisher=Council of the European Union}}</ref><ref>{{cite web |url=http://www.udi.no/Nyheter/2013/Kroatia-inn-i-EU/ |title=Kroatia inn i EU |language=Norwegian |date=2 July 2013 |publisher=Norwegian Directorate of Immigration |accessdate=7 July 2013}}</ref><ref>{{cite web |url=http://www.norwegianembassy.hr/News_and_events/Norway-congratulates-Croatia-on-EU-membership/ |title=Norway congratulates Croatia on EU membership |date=2 July 2013 |accessdate=7 July 2013 |publisher=The Royal Norwegian Embassy in Zagreb}}</ref>
+
+On 20 November 2013, it was announced that an enlargement agreement was reached. The text was initialled on 20 December 2013, and following its signature in April 2014 the agreement is being [[Provisional application (treaty)|provisionally applied]] pending [[ratification]] by Croatia, all EEA states, and the European Union.<ref name=croatsign/><ref name=croatendneg/><ref>{{cite web |url=http://www.efta.int/eea/news/croatia-one-step-closer-eea-2629 |title=Croatia one step closer to the EEA |date=20 December 2013 |accessdate=23 December 2013 |publisher=European Free Trade Association}}</ref> As of September 2020, the agreement has been ratified by 19 out of 32 parties.<ref name="croatiarat"/>
+
+===Future EU member states===
+{{See also|Future enlargement of the European Union}}
+
+There are five recognised candidates for EU membership that are not already EEA members: [[Accession of Albania to the European Union|Albania]] (applied 2009, negotiating since March 2020), [[Accession of North Macedonia to the European Union|North Macedonia]] (applied 2004, negotiating since March 2020), [[Accession of Montenegro to the European Union|Montenegro]] (applied 2008, negotiating since June 2012), [[Accession of Serbia to the European Union|Serbia]] (applied 2009, negotiating since January 2014) and [[Accession of Turkey to the European Union|Turkey]] (applied 1987, negotiating since October 2005).<ref>{{cite web |url=http://ec.europa.eu/economy_finance/international/non_eu/candidate/index_en.htm |title=Acceding and candidate countries |accessdate=26 July 2013 |author=European Commission |date=7 December 2011}}</ref><ref name="ReferenceA">{{cite web |url=http://ec.europa.eu/enlargement/the-policy/countries-on-the-road-to-membership/index_en.htm |title=Ec.europa.eu |publisher=European Commission |date=20 April 2012 |accessdate=7 January 2011 |archiveurl=https://web.archive.org/web/20120620095109/http://ec.europa.eu/enlargement/the-policy/countries-on-the-road-to-membership/index_en.htm |archivedate=20 June 2012}}</ref> [[Accession of Bosnia and Herzegovina to the European Union|Bosnia and Herzegovina]] and [[Accession of Kosovo to the European Union|Kosovo]] are considered potential candidates for membership. Bosnia and Herzegovina signed a [[Stabilisation and Association Agreement]] (SAA) with the EU and its member states, that went into effect in June 2015, which allowed the lodging of a membership application in February 2016,<ref name="ec.europa.eu">{{cite web |url=http://ec.europa.eu/enlargement/enlargement_process/accession_process/how_does_a_country_join_the_eu/sap/index_en.htm |title=The Stabilisation and Association Process |publisher=European Commission |date=30 October 2010 |accessdate=7 January 2011 |archiveurl=https://web.archive.org/web/20110310153035/http://ec.europa.eu/enlargement/enlargement_process/accession_process/how_does_a_country_join_the_eu/sap/index_en.htm |archivedate=10 March 2011}}</ref> while [[Kosovo]], whose independence is [[International recognition of Kosovo|unrecognised by five EU member states]], finalised negotiations on a SAA that went into effect in April 2016.<ref>{{cite web |url=http://ec.europa.eu/economy_finance/international/http://ec.europa.eu/enlargement/countries/detailed-country-information/kosovo/_eu/candidate/index_en.htm |title=Kosovo |accessdate=26 July 2013 |author=European Commission |date=27 June 2013}}</ref>
+
+In mid-2005, representatives of the [[Faroe Islands]] hinted at the possibility of their territory joining the EFTA.<ref>{{cite news |last=Spongenberg |first=Helena |title=Faroe Islands seek closer EU relations |publisher=EUobserver |date=8 October 2007 |url=http://euobserver.com/9/24907 |accessdate=18 July 2009}}</ref> However, the ability of the Faroes to join is uncertain because, according to Article 56 of the EFTA Convention, only states may become members of the Association.<ref>{{cite web |title=Convention Establishing the European Free Trade Association |date=21 June 2001 |url=http://www.efta.int/~/media/Documents/legal-texts/efta-convention/efta-convention-texts/8963-v6-Vaduz_Convention_Agreement.pdf|accessdate=18 July 2009 |url-status=dead |archiveurl=https://web.archive.org/web/20130810155628/http://efta.int/~/media/Documents/legal-texts/efta-convention/efta-convention-texts/8963-v6-Vaduz_Convention_Agreement.pdf |archivedate=10 August 2013}}</ref> The Faroes, which form part of the [[Danish Realm]], is not a [[sovereign state]], and according to a report prepared for the Faroes Ministry of Foreign Affairs "under its constitutional status the Faroes cannot become an independent Contracting Party to the EEA Agreement due to the fact that the Faroes are not a state".<ref name=faroes/> However, the report went on to suggest that it is possible that the "Kingdom of Denmark in respect of the Faroes" could join the EFTA.<ref name=faroes>{{cite web|url=http://www.mfa.fo/Files/Billeder/Uttanrikisradid/tekstir/ESfr%C3%A1grei%C3%B0ingEN%5B1%5D.pdf|title=The Faroes and the EU – possibilities and challenges in a future relationship|year=2010|publisher=The Ministry of Foreign Affairs in the Faroes|page=53|accessdate=15 August 2013|url-status=dead|archiveurl=https://web.archive.org/web/20110823140509/http://www.mfa.fo/Files/Billeder/Uttanrikisradid/tekstir/ESfr%C3%A1grei%C3%B0ingEN%5B1%5D.pdf|archivedate=23 August 2011}}</ref> The Danish Government has stated that the Faroes cannot become an independent member of the EEA as Denmark is already a party to the EEA Agreement.<ref name=faroes/> The Faroes already have an extensive bilateral free trade agreement with Iceland, known as the [[Hoyvík Agreement]].
+
+===European microstates===
+{{See also|Microstates and the European Union}}
+
+In November 2012, after the [[Council of the European Union]] had called for an evaluation of the [[Microstates and the European Union|EU's relations with the sovereign European microstates]] of Andorra, Monaco and San Marino, which they described as "fragmented",<ref>{{cite web |url=http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/EN/foraff/118458.pdf |title=Council conclusions on EU relations with EFTA countries |publisher=[[Council of the European Union]] |date=14 December 2010 |accessdate=1 April 2013}}</ref> the [[European Commission]] published a report outlining options for their further integration into the EU.<ref name=options>{{cite web |url=http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2012:0680:REV1:EN:HTML |title=EUR-Lex – 52012DC0680R(01) – EN |publisher=Eur-lex.europa.eu |accessdate=2017-05-07}}</ref> Unlike Liechtenstein, which is a member of the EEA via the EFTA and the Schengen Agreement, relations with these three states are based on a collection of agreements covering specific issues. The report examined four alternatives to the current situation: 1) a Sectoral Approach with separate agreements with each state covering an entire policy area, 2) a comprehensive, multilateral Framework Association Agreement (FAA) with the three states, 3) EEA membership, and 4) EU membership. The Commission argued that the sectoral approach did not address the major issues and was still needlessly complicated, while EU membership was dismissed in the near future because "the EU institutions are currently not adapted to the accession of such small-sized countries". The remaining options, EEA membership and a FAA with the states, were found to be viable and were recommended by the Commission.
+
+As EEA membership is currently only open to EFTA or EU members, the consent of existing EFTA member states is required for the microstates to join the EEA without becoming members of the EU. In 2011, [[Jonas Gahr Støre]], the then [[Minister of Foreign Affairs (Norway)|Foreign Minister of Norway]] which is an EFTA member state, said that EFTA/EEA membership for the microstates was not the appropriate mechanism for their integration into the [[internal market]] because their requirements differed from those of larger countries such as Norway, and suggested that a simplified association would be better suited for them.<ref>{{cite web|url=http://www.nationen.no/2011/05/19/politikk/eos/eos-avtalen/eu/eeas/6642688/|title=Norge sier nei til nye mikrostater i EØS|date=19 May 2011|accessdate=6 April 2013}}</ref> [[Espen Barth Eide]], Støre's successor, responded to the Commission's report in late 2012 by questioning whether the microstates have sufficient administrative capabilities to meet the obligations of EEA membership. However, he stated that Norway was open to the possibility of EFTA membership for the microstates if they decide to submit an application, and that the country had not made a final decision on the matter.<ref>{{cite web|url=http://www.regjeringen.no/nb/dep/ud/aktuelt/taler_artikler/eide_taler/2013/eosutvalget_130128.html?id=712742|title=Innlegg på møte i Stortingets europautvalg|date=28 January 2013|accessdate=1 April 2013|publisher=[[Ministry of Foreign Affairs (Norway)|Ministry of Foreign Affairs of Norway]]}}</ref><ref>{{cite web|url=http://www.klassekampen.no/61007/article/item/null |archive-url=https://archive.is/20130413223348/http://www.klassekampen.no/61007/article/item/null |url-status=dead |archive-date=13 April 2013 |title=Eide: Bedre blir det ikke |date=21 December 2012 |accessdate=1 April 2013 }}</ref><ref name=NORLIE>{{cite web|url=http://www.nationen.no/2012/12/08/politikk/eos-avtalen/eos/san_marino/eu/7845048/|title=Regjeringa open for diskutere EØS-medlemskap for mikrostatar|language=Norwegian|last=Aalberg Undheim|first=Eva|date=8 December 2012|accessdate=6 April 2013}}</ref><ref>{{cite web|url=http://www.latribunasammarinese.net/edizioni/2013/01-gennaio/03-01-2013boiw.pdf |title=La Norvegia chiude le porte a San Marino |date=3 January 2013 |accessdate=6 April 2013 |publisher=La Tribuna Sammarinese |page=7 |url-status=dead |archiveurl=https://web.archive.org/web/20140307181930/http://www.latribunasammarinese.net/edizioni/2013/01-gennaio/03-01-2013boiw.pdf |archivedate=7 March 2014}}</ref> Pascal Schafhauser, the Counsellor of the Liechtenstein Mission to the EU, said that Liechtenstein, another EFTA member state, was willing to discuss EEA membership for the microstates provided their joining did not impede the functioning of the organisation. However, he suggested that the option of direct membership in the EEA for the microstates, outside both the EFTA and the EU, should be given consideration.<ref name=NORLIE/>
+
+On 18 November 2013, the EU Commission concluded that "the participation of the small-sized countries in the EEA is not judged to be a viable option at present due to the political and institutional reasons", and that Association Agreements were a more feasible mechanism to integrate the microstates into the internal market.<ref>{{cite web |url=http://ec.europa.eu/transparency/regdoc/rep/1/2013/EN/1-2013-793-EN-F1-1.Pdf |title=EU Relations with the Principality of Andorra, the Principality of Monaco and the Republic of San Marino: Options for their participation in the Internal Market |date=18 November 2013 |accessdate=20 November 2013 |publisher=European Commission}}</ref>
+
+==Withdrawal of the United Kingdom==
+The United Kingdom, in [[2016 United Kingdom European Union membership referendum|a 2016 referendum]], voted to [[Brexit|withdraw from the European Union]]. Staying in the EEA, possibly eventually as an EFTA member, was one of the suggested options.
+
+A 2013 research paper presented to the [[Parliament of the United Kingdom]] proposed a number of alternatives to EU membership which would continue to allow it access to the EU's [[internal market]], including continued EEA membership as an EFTA member state, or the [[Switzerland–European Union relations|Swiss model]] of a number of bilateral treaties covering the provisions of the single market.<ref>{{cite web |url=//www.parliament.uk/briefing-papers/rp13-42.pdf |title=Leaving the EU – RESEARCH PAPER 13/42 |date=2013-07-01 |accessdate=2015-05-19 |publisher=House of Commons Library}}</ref> The United Kingdom was a co-founder of EFTA in 1960, but ceased to be a member upon joining the European Community. In the first meeting since the Brexit vote, EFTA reacted by saying both that it was open to a United Kingdom return and that it had many issues to work through<ref>{{cite web |url=https://www.cnbc.com/2016/06/27/the-associated-press-the-latest-lithuania-says-uk-must-say-if-decision-is-final.html |title=The Latest: Lithuania says UK must say if decision is final |publisher=[[CNBC]] |date=2016-06-27 |via=[[Associated Press]] |archive-date=2016-07-03 |archive-url=https://web.archive.org/web/20160703064040/http://www.cnbc.com/2016/06/27/the-associated-press-the-latest-lithuania-says-uk-must-say-if-decision-is-final.html |accessdate=2016-09-18 |url-status=live}}</ref> although the Norwegian Government later expressed reservations.<ref>Norway's European affairs minister, [[Elisabeth Vik Aspaker]], told the newspaper ''[[Aftenposten]]'': "It's not certain that it would be a good idea to let a big country into this organisation. It would shift the balance, which is not necessarily in Norway’s interests". {{cite news |author=Patrick Wintour |url=https://www.theguardian.com/world/2016/aug/09/norway-may-block-uk-return-to-european-free-trade-association |title=Norway may block UK return to European Free Trade Association &#124; World news |newspaper=[[The Guardian]] |date=2016-08-09 |accessdate=2016-08-17}}</ref> In January 2017, [[Theresa May]], then the [[British Prime Minister]], announced a 12-point plan of negotiating objectives and confirmed that the government of the United Kingdom would not seek continued permanent membership in the [[European Single Market|single market]].<ref>{{cite news |url=https://www.telegraph.co.uk/news/2017/01/17/theresa-may-brexit-12-point-plan-live/ |title=Theresa May confirms Britain will leave Single Market as she sets out 12-point Brexit plan |last=Wilkinson |first=Michael |date=17 January 2017 |work=[[The Daily Telegraph]] |access-date=18 January 2017}}</ref> The United Kingdom could be allowed by other member states to join the EEA and EFTA but existing EEA members such as Norway would have concerns about taking the risk of opening a difficult negotiation with the EU that could lead them to lose their current advantages.<ref>{{cite web |url=https://www.theguardian.com/world/2017/sep/03/efta-court-president-suggests-uk-should-join-efta-to-end-brexit-crisis |title=Efta court chief visits UK to push merits of 'Norway model' |first=Patrick |last=Wintour |date=3 September 2017 |website=The Guardian |accessdate=16 March 2018}}</ref> The [[Scottish Government]] has looked into membership of the EFTA to retain access to the EEA.<ref>{{cite web |url=//www.pressandjournal.co.uk/fp/news/politics/holyrood/1086376/sturgeon-hints-the-scottish-government-could-seek-norway-style-eu-relationship/ |title=Sturgeon hints the Scottish Government could seek Norway-style EU relationship |date=2016-11-17 |accessdate=2016-11-17}}</ref> However, other EFTA states have stated that only sovereign states are eligible for membership, so it could only join if it became independent from the United Kingdom.<ref>{{cite web |url=https://www.telegraph.co.uk/news/2017/03/16/iceland-scotland-could-not-start-applying-efta-independence/ |title=Iceland: Scotland could not start applying for EFTA until after independence |date=2017-03-16 |accessdate=2017-03-24 |newspaper=The Daily Telegraph}}</ref>
+
+During the transition period, both the United Kingdom and the other EEA members remain bound by the existing obligations stemming from international agreements concluded by the EU, including the EEA Agreement.<ref name="UK_Brexit" /> In January and February 2020, the government of the United Kingdom ruled out a future alignment to the rules of the internal market, effectively ruling out EEA membership after the end of the transition period.<ref>{{Cite web|url=https://www.itv.com/news/2020-01-18/no-eu-regulation-alignment-post-brexit-warns-sajid-javid/|title=No EU regulation alignment post-Brexit, warns Sajid Javid|website=ITV News|language=en|access-date=2020-02-08}}</ref><ref>{{Cite news|url=https://www.belfasttelegraph.co.uk/news/brexit/uk-government-cant-guarantee-frictionless-trade-after-brexit-admits-michael-gove-38913775.html|title=UK Government can't guarantee 'frictionless trade' after Brexit, admits Michael Gove|work=belfasttelegraph|access-date=2020-02-08|language=en-GB|issn=0307-1235}}</ref><ref>{{Cite web|url=https://www.ft.com/content/2e255fd2-45a3-11ea-aeb3-955839e06441|title=Boris Johnson to reject regulatory alignment in EU trade talks|date=2 February 2020|website=Financial Times|url-status=live|access-date=8 February 2020}}</ref>
+
+==Rights and obligations==
+The EEA relies on the same "four freedoms" underpinning the [[European Single Market]] as does the European Union: the free movement of goods, persons, services, and capital among the EEA countries. Thus, the EEA countries that are not part of the EU enjoy free trade with the European Union. Also, the 'free movement of persons is one of the core rights guaranteed in the European Economic Area (EEA) [...] [it] is perhaps the most important right for individuals, as it gives citizens of the 31 EEA countries the opportunity to live, work, establish business and study in any of these countries'.<ref>{{cite web |url=http://www.efta.int/eea/policy-areas/persons |title=Free Movement of Persons &#124; European Free Trade Association |publisher=Efta.int |accessdate=2017-05-07}}</ref>
+
+As a counterpart, these countries have to adopt part of the [[European Union law|Law of the European Union]].
+However they also contribute to and influence the formation of new EEA relevant policies and legislation at an early stage as part of a formal decision-shaping process.<ref name="influence" />
+
+Agriculture and fisheries are not covered by the EEA. Not being bound by the [[Common Fisheries Policy]] is perceived as very important by Norway and Iceland, and a major reason not to join the EU. The Common Fisheries Policy would mean giving away fishing quotas in their waters.
+
+The EEA countries that are not part of the EU do not contribute financially to Union objectives to the same extent as do its members, although they contribute to the [[EEA Grants]] scheme to "reduce social and economic disparities in the EEA". Additionally, some choose to take part in EU programmes such as [[Trans-European Networks]] and the [[European Regional Development Fund]]. Norway also has its own Norway Grants scheme.<ref>{{cite web |url=http://www.eu-norway.org/eu/Financial-contribution/#.V7xAbSlriM8 |title=Norway's financial contribution |author=Lars-Erik Hauge |website=eu-norway.org |access-date=24 August 2016 |quote=10.08.2016}}</ref> After the EU/EEA enlargement of 2004, there was a tenfold increase in the financial contribution of the EEA States, in particular [[Norway]], to social and economic cohesion in the Internal Market (€1167&nbsp;million over five years).{{citation needed|date=December 2017}}
+
+==Legislation==
+{{Supranational European Bodies|size=400px|align=right}}
+The non-EU members of the EEA (Iceland, Liechtenstein and Norway) have agreed to enact legislation similar to that passed in the EU in the areas of [[social policy]], [[consumer protection]], [[Natural environment|environment]], [[company law]] and statistics.{{citation needed|date=December 2017}} These are some of the areas covered by the former [[European Community]] (the "first pillar" of the [[European Union]]).
+
+The non-EU members of the EEA are not represented in [[Institutions of the European Union]] such as the [[European Parliament]] or European Commission. This situation has been described as "fax democracy", with Norway waiting for their latest legislation to be [[fax]]ed from the Commission.<ref>{{cite web |last1=Ekman |first1=Ivar |title=In Norway, EU pros and cons (the cons still win) |url=https://www.nytimes.com/2005/10/26/world/europe/26iht-norway.html |website=The New York Times |accessdate=7 May 2017 |date=27 October 2005}}</ref><ref>{{cite web |url=https://publications.parliament.uk/pa/cm200506/cmhansrd/vo050608/debtext/50608-17.htm |title=House of Commons Hansard Debates for 8 Jun 2005 (pt 17) |publisher=Publications.parliament.uk |date=2005-06-08 |accessdate=2017-05-07}}</ref> However, EEA countries are consulted about new EU legislative proposals and participate in shaping legislation at an early stage. The EEA Agreement contains provisions for input from the EEA/EFTA countries at various stages before legislation is adopted, including consent at the [[EEA Joint Committee]]. Once approved at the EEA Joint Committee, it is part of the EEA Agreement, and the EFTA states within the EEA must implement it in their national law.<ref>{{cite web |url=http://www.efta.int/eea/decision-shaping |title=Influencing the EU – EEA Decision Shaping &#124; European Free Trade Association |publisher=Efta.int |accessdate=2017-05-07}}</ref>
+
+==Institutions==
+{{See also|European Free Trade Association#Institutions|l1=European Free Trade Association}}
+
+The [[EEA Joint Committee]] consists of the EEA-EFTA States plus the European Commission (representing the EU) and has the function of amending the EEA Agreement to include relevant EU legislation. An [[EEA Council]] meets twice yearly to govern the overall relationship between the EEA members.
+
+Rather than setting up pan-EEA institutions, the activities of the EEA are regulated by the European Union institutions, as well as the [[EFTA Surveillance Authority]] and the [[EFTA Court]]. The EFTA Surveillance Authority and the EFTA Court regulate the activities of the EFTA members in respect of their obligations in the European Economic Area (EEA). The EFTA Surveillance Authority performs the European Commission's role as "guardian of the treaties" for the EFTA countries to ensure the EEA Agreement is being followed. The EFTA Court performs a similar role to the [[European Court of Justice]]'s in that it resolves disputes under the EEA Agreement.
+
+While the ECJ and European Commission are respectively responsible for the interpretation and application of the EEA Agreement in the EU (between EU member states and within EU member states), and the EFTA Court and EFTA Surveillance Authority are likewise respectively responsible for interpreting and monitoring the application of the EEA Agreement among the EEA-EFTA states (between the EEA-EFTA states and within the EEA-EFTA states), disputes ''between'' an EU state and an EEA-EFTA state are referred to the EEA Joint Committee rather to either court. Only if the Joint Committee cannot provide a resolution within three months, would the disputing parties jointly submit to the ECJ for a ruling (if the dispute concerns provisions identical to EU law) or to arbitration (in all other cases).<ref name="governance of international agreements">[https://ec.europa.eu/commission/sites/beta-political/files/governance.pdf Internal preparatory discussions on framework for future relationship – Governance of an International Agreement p. 14]</ref>
+
+The original plan for the EEA lacked the EFTA Court or the EFTA Surveillance Authority, as the "EEA court" (which would be composed of five European Court of Justice members and three members from EFTA countries and which would be functionally integrated with the ECJ)<ref name="EEA Judicial System">{{cite web|url=http://www.ejil.org/pdfs/3/2/2043.pdf |title=The EEA Judicial System and the Supreme Courts of the EFTA States|accessdate=2017-05-07}}</ref> and the European Commission were to exercise those roles. However, during the negotiations for the EEA agreement, the European Court of Justice informed the [[Council of the European Union]] (Opinion 1/91) that they considered that giving the EEA court jurisdiction with respect to EU law that would be part of the EEA law, would be a violation of the treaties, and therefore the current arrangement was developed instead. After having negotiated the Surveillance Authority, the ECJ confirmed its legality in Opinion 1/92.
+
+The EFTA Secretariat is headquartered in [[Geneva]], [[Switzerland]]. The EFTA Surveillance Authority has its headquarters in [[Brussels]], [[Belgium]] (the same location as the headquarters of the European Commission), while the EFTA Court has its headquarters in Luxembourg (the same location as the headquarters of the European Court of Justice).
+
+==EEA and Norway Grants==
+{{main|EEA and Norway Grants}}
+
+The EEA and Norway Grants are the financial contributions of Iceland, Liechtenstein and Norway to reduce social and economic disparities in Europe. In the period from 2004 to 2009, €1.3&nbsp;billion of project funding is made available for project funding in the 15 beneficiary states in Central and Southern Europe.
+
+Established in conjunction with the 2004 enlargement of the European Economic Area (EEA), which brings together the EU, Iceland, Liechtenstein and Norway in the Internal Market, the EEA and Norway Grants were administered by the Financial Mechanism Office, which is affiliated to the EFTA Secretariat in Brussels.
+
+==See also==
+*[[Rules of Origin]]
+*[[Market access]]
+*[[Free-trade area]]
+*[[Tariffs]]
+*[[EudraVigilance]]
+*[[European integration]]
+*[[Free trade areas in Europe]]
+**[[European Union free trade agreements]]
+**[[Central European Free Trade Agreement]]
+**[[European Free Trade Association]]
+*[[Future enlargement of the European Union#EFTA states|EU enlargement to EFTA states]]
+*[[Iceland–European Union relations]]
+*[[Liechtenstein–European Union relations]]
+*[[Norway–European Union relations]]
+*[[Switzerland–European Union relations]]
+*[[Parallel importation]]
+*[[Schengen Agreement]]
+*''[[Societas cooperativa Europaea]]''
+* [[European Union Customs Union]]
+*[[Trade bloc]]
+*[[Eurasian Economic Union]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|European Economic Area}}
+*[http://www.efta.int/legal-texts/eea.aspx Text of the EEA Agreement]
+*[http://www.eu-norway.org/about/eeaforside.htm Information about the EEA on the website of the Mission of Norway to the EU]
+*[http://www.eeagrants.org/ EEA Grants and Norway Grants]
+*[https://web.archive.org/web/20081201040236/http://ec.europa.eu/external_relations/eea/ The EU and the European Economic Area] [[Europa (web portal)]]: External Relations
+
+{{European Economic Area (EEA)|state=expanded}}
+{{EU countries and candidates}}
+{{European Union topics|state=collapsed}}
+{{Europe topics (small)}}
+{{Portal bar|Europe|Norway|Iceland|European Union|Croatia|United Kingdom|Switzerland}}
+
+{{Authority control}}
+
+[[Category:European Economic Area| ]]
+[[Category:1993 in Belgium]]
+[[Category:1993 in the European Union]]
+[[Category:1994 establishments in Europe]]
+[[Category:Foreign relations of Croatia]]
+[[Category:Foreign relations of the European Union]]
+[[Category:Foreign relations of Iceland]]
+[[Category:Foreign relations of Liechtenstein]]
+[[Category:Foreign relations of Norway]]
+[[Category:Foreign relations of Switzerland]]
+[[Category:Foreign relations of the United Kingdom]]
+[[Category:Iceland–European Union relations]]
+[[Category:Intergovernmental organizations established by treaty]]
+[[Category:International relations]]
+[[Category:Multi-speed Europe]]
+[[Category:Organizations established in 1994]]
+[[Category:Norway–European Union relations]]
+[[Category:Switzerland–European Union relations]]
+[[Category:Treaties concluded in 1993]]
+[[Category:Treaties entered into force in 1994]]
+[[Category:United Kingdom and the European Union]]
+[[Category:Withdrawal from the European Union]]
+[[Category:March 1993 events]]
+
+[[la:Consociatio Europaea liberi commercii#Spatium oeconomicum Europaeum]]

@@ -1,0 +1,880 @@
+{{about|the U.S. city|the county|Los Angeles County|other uses|Los Angeles (disambiguation)|and|City of Los Angeles (disambiguation)}}
+{{redirect|LA}}
+{{pp-vandalism|small=yes}}
+{{Use mdy dates|date=July 2020}}
+{{use American English|date=September 2019}}
+<!--The article is about the city proper of Los Angeles. Please do not put information about the metropolitan area in this article; it belongs in [[Los Angeles metropolitan area]]. Please do not put info about the county in this article; it belongs in [[Los Angeles County, California]]. -->
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+{{Infobox settlement
+| name                    = Los Angeles, California
+| settlement_type         = [[City]]
+| official_name           = City of Los Angeles
+| image_skyline           = {{Photomontage
+| photo1a                 = Los Angeles with Mount Baldy.jpg
+| photo2a                 = Wiki training 0226.jpg
+| photo2b                 = Griffith Observatory - Dusk.jpg
+| photo3a                 = Vincent Thomas Bridge 2.jpg
+| photo3b                 = Los Angeles City Hall 2013.jpg
+| photo4a                 = TheThemeBuildingLosAngeles (cropped2).jpg
+| photo4b                 = Venice Beach, Los Angeles, CA 01 (cropped).jpg
+| spacing                 = 1
+| position                = center
+| color_border            = white
+| color                   = white
+| size = 280
+| foot_montage            = Clockwise from top: [[Downtown Los Angeles]], [[Griffith Observatory]], [[Los Angeles City Hall|City Hall]], [[Venice, Los Angeles|Venice Beach]], [[Theme Building]] at [[Los Angeles International Airport]], [[Vincent Thomas Bridge]], and the [[Hollywood Sign]]
+}}
+| image_flag              = Flag of Los Angeles, California.svg
+| image_seal              = Seal of Los Angeles.svg
+| seal_link               = Seal of the City of Los Angeles
+| nickname                = L.A., City of Angels,<ref name=VOAnick /> [[The Entertainment Capital of the World]],<ref name=VOAnick>{{cite news|url=http://learningenglish.voanews.com/content/nicknames-for-los-angeles/1644584.html|title=Nicknames for Los Angeles|work=[[Voice of America]]|first1=Shelley|last1=Gollust|date=April 18, 2013|accessdate=June 26, 2014}}</ref> La-la-land, Tinseltown<ref name=VOAnick />
+| image_map               = LA County Incorporated Areas Los Angeles highlighted.svg
+| map_caption             = Location within Los Angeles County
+| pushpin_map             = California#USA#North America
+| pushpin_map_caption     = Location within California##Location within the United States##Location within North America
+| pushpin_label           = Los Angeles
+| pushpin_mapsize         = 280
+| pushpin_relief          = 1
+| pushpin_label_position  = right
+| coordinates             = {{coord|34|03|N|118|15|W|region:US-CA|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name        = {{flag|United States}}
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_type2       = [[List of counties in California|County]]
+| subdivision_name1       = {{flag|California}}
+| subdivision_name2       = {{Flagicon image|Flag of Los Angeles County, California.svg}} [[Los Angeles County, California|Los Angeles]]
+----
+| subdivision_type3      = [[List of regions of California|Region]]
+| subdivision_type4       = [[Combined Statistical Area|CSA]]
+| subdivision_type5       = [[Metropolitan statistical area|MSA]]
+| subdivision_name3      = [[Southern California]]
+| subdivision_name4      = [[Greater Los Angeles|Los Angeles-Long Beach]]
+| subdivision_name5       = [[Los Angeles metropolitan area|Los Angeles-Long Beach-Anaheim]]
+| established_title       = [[Pueblo de Los Ángeles|Pueblo]]
+| established_date        = September 4, 1781<ref name="CaliforniaCounty1899">{{cite book|last=Barrows|first=H.D.|title=Historical Society of Southern California Quarterly|chapter-url=https://books.google.com/books?id=JMg1AAAAIAAJ&pg=PA151|accessdate=September 28, 2011|year=1899|page=151ff|chapter=Felepe de Neve|volume=4}}</ref>
+| established_title1      = [[City status]]
+| established_date1       = May 23, 1835<ref>{{cite web|url = https://www.kcet.org/shows/lost-la/this-1835-decree-made-the-pueblo-of-los-angeles-a-ciudad-and-californias-capital| title = This 1835 Decree Made the Pueblo of Los Angeles a Ciudad – And California's Capital| publisher=[[KCET]]| accessdate = January 27, 2018| date = April 2016}}</ref>
+| established_title2      = [[Municipal corporation|Incorporated]]
+| established_date2       = April 4, 1850<ref>{{cite web|url = http://www.calafco.org/docs/Cities_by_incorp_date.doc|archive-url = https://web.archive.org/web/20130221091414/http://www.calafco.org/docs/Cities_by_incorp_date.doc|url-status=dead|archive-date = February 21, 2013| title = California Cities by Incorporation Date| format =DOC|publisher=California Association of [[Local Agency Formation Commission]]s| accessdate = August 25, 2014}}</ref>
+| named_for               = [[Queen of Heaven|Our Lady, Queen of the Angels]]
+<!-- Government ----------->
+| government_type         = [[Mayor–council government|Mayor-Council-Commission]]<ref>{{cite web |url=http://www.lacity.org/city-government/about-city-government |title=About the City Government |publisher=City of Los Angeles |accessdate=February 8, 2015 |archive-url=https://web.archive.org/web/20150208103544/http://www.lacity.org/city-government/about-city-government |archive-date=February 8, 2015 |url-status=dead  }}</ref>
+| governing_body          = [[Los Angeles City Council]]
+| leader_title            = [[Mayor of Los Angeles, California|Mayor]]
+| leader_name             = [[Eric Garcetti]] ([[Democratic Party (United States)|D]])<ref name=dir>{{cite web|url=http://www.lacity.org/CityDirectory/index.htm |title=City Directory
+|accessdate=September 28, 2014 |publisher=City of Los Angeles |url-status=dead |archive-url=https://web.archive.org/web/20141113102218/http://www.lacity.org/CityDirectory/index.htm |archive-date=November 13, 2014 }}</ref>
+| leader_title1           = [[Los Angeles City Attorney|City Attorney]]
+| leader_name1            = [[Mike Feuer]] (D)<ref name=dir />
+| total_type              = Total
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|accessdate=July 1, 2020}}</ref>
+| area_total_km2          = 1302.06
+| area_total_sq_mi        = 502.73
+| area_land_km2           = 1214.63
+| area_land_sq_mi         = 468.97
+| area_metro_km2          = 12562
+| area_urban_sq_mi        = 1736.02
+| area_water_km2          = 87.43
+| area_water_sq_mi        = 33.76
+| area_water_percent      =
+| elevation_footnotes     = <ref>{{Cite GNIS|1682200|Los Angeles City Hall|accessdate=October 16, 2014}}</ref>
+| elevation_m             = 93
+| elevation_ft            = 305
+| elevation_min_ft        = 0
+| elevation_max_footnotes = <ref name=elvadist>{{cite web|url=http://egsc.usgs.gov/isb//pubs/booklets/elvadist/elvadist.html|title=Elevations and Distances|publisher=US Geological Survey|date=April 29, 2005|accessdate=February 10, 2015}}</ref>
+| elevation_min_footnotes = <ref name=elvadist />
+| population_total        = 3792621
+| population_as_of        = [[2010 United States Census|2010]]
+| population_footnotes    = <ref name="CADeptFinancePop17">{{cite web|url=http://www.dof.ca.gov/Forecasting/Demographics/Estimates/e-1/documents/E-1_2017PressRelease.pdf |title=CA Dept. of Finance – New State Population Report |accessdate=July 2, 2016}}</ref>
+| population_density_km2  = 3276.37
+| population_density_sq_mi = 8485.74
+| population_est          = 3979576
+| pop_est_as_of           = 2019
+| pop_est_footnotes       = <ref name="USCensusEst2019"/>
+| population_urban        = 12,150,996
+| population_urban_footnotes = <ref>{{cite web|title=Urban Areas|url=http://www2.census.gov/geo/ua/ua_list_all.txt|archive-url=https://web.archive.org/web/20120516110036/http://www2.census.gov/geo/ua/ua_list_all.txt|url-status=dead|archive-date=May 16, 2012|publisher=[[United States Census Bureau]]|accessdate=August 29, 2014}} https://www.census.gov/geo/reference/ua/urban-rural-2010.html {{Webarchive|url=https://web.archive.org/web/20190403024045/https://www.census.gov/geo/reference/ua/urban-rural-2010.html |date=April 3, 2019 }}</ref>
+| population_metro        = 13,131,431 (U.S.: [[List of Metropolitan Statistical Areas|2nd]])
+| population_metro_footnotes = <ref>{{cite web|title=Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2013 – United States – Metropolitan Statistical Area; and for Puerto Rico|url=https://www.census.gov |publisher=[[United States Census Bureau]] |accessdate=August 29, 2014 }}</ref>
+| population_rank         = [[List of largest California cities by population|1st]], California<br />[[List of United States cities by population|2nd, U.S.]]<!--Do ''not'' change this to the 4.0&nbsp;million that the CA Dept of Finance has. For more info, see the talk page archives-->
+| population_blank1_title = [[Combined statistical area|CSA]]
+| population_blank1       = 18,679,763 (U.S.: [[List of Combined Statistical Areas|2nd]])
+| population_demonym      = Los Angeleno, Angeleno
+| postal_code_type        = [[ZIP Code]]s
+| postal_code             = {{collapsible list |framestyle = text-align:left;border:0;padding:0;line-height:16px; |titlestyle = background:transparent;text-align:left;font-weight:normal; |hlist = true |90001–90084, 90086–90089, 90091, 90093–90097, 90099, 90101–90103, 90174, 90185, 90189, 90291–90293, 91040–91043, 91303–91308, 91311, 91316, 91324–91328, 91330, 91331, 91335, 91340, 91342–91349, 91352–91353, 91356–91357, 91364–91367, 91401–91499, 91504–91505, 91601–91609<ref>[https://media.metro.net/about_us/pla/images/lazipcodes.pdf Zip Codes Within the City of Los Angeles] – LAHD</ref> }}
+| area_code               = [[Area codes 213 and 323|213/323]], [[Area codes 310 and 424|310/424]], [[Area codes 747 and 818|747/818]]
+| area_code_type          = [[North American Numbering Plan|Area codes]]
+| blank_name_sec1         = [[Federal Information Processing Standards|FIPS]] code
+| blank_info_sec1         = {{FIPS|06|44000}}
+| blank1_name_sec1        = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info_sec1        = {{GNIS 4|1662328}}, {{GNIS 4|2410877}}
+| website                 = {{Official URL}}
+| short_description       = City in California
+| leader_title2           = [[Los Angeles City Controller|City Controller]]
+| leader_name2            = [[Ron Galperin]] (D)<ref name=dir />
+| elevation_max_ft        = 5074
+| population_blank1_footnotes = <ref>{{cite web|title=Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2013 – United States – Combined Statistical Area; and for Puerto Rico |url=https://www.census.gov|website=Census Bureau |publisher=Census Bureau |accessdate=August 29, 2014 }}</ref>
+| timezone                = [[Pacific Time Zone|Pacific]]
+| utc_offset              = −08:00
+| timezone_DST            = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST          = −07:00
+}}
+
+'''Los Angeles''' ({{IPAc-en|l|ɔː|s|_|ˈ|æ|n|dʒ|ə|l|ə|s|audio=En-us-los-angeles.ogg}};{{efn|{{IPAc-en|uk|audio=En-uk-Los Angeles.ogg|l|ɒ|s|_|ˈ|æ|n|dʒ|ɪ|l|iː|z|,_|-|l|ɪ|z|,_|-|l|ɪ|s}}<ref name="EPD" />}} {{lang-es|Los Ángeles}}; ''{{langnf||Spanish|The Angels}})'',<ref name="EPD">{{Cite EPD|18}}</ref> officially the '''City of Los Angeles''' and often known by its initials '''L.A.''', is the [[List of cities and towns in California|largest city]] in [[California]]. With an estimated population of nearly four million people,<ref name=PopEstCities>{{cite web|url=https://www2.census.gov/programs-surveys/popest/tables/2010-2019/cities/totals/SUB-IP-EST2019-ANNRNK.xlsx|title=Annual Estimates of the Resident Population for Incorporated Places of 50,000 or More, Ranked by July 1, 2019 Population: April 1, 2010 to July 1, 2019|publisher=[[United States Census Bureau]], Population Division|accessdate=May 21, 2020}}</ref> it is the [[List of U.S. cities by population|second most populous city]] in the [[United States]] (after [[New York City]]) and the [[List of North American cities by population|third most populous city]] in [[North America]] (after [[Mexico City]] and New York City). Los Angeles is known for its [[Mediterranean climate]], ethnic diversity, [[Cinema of the United States|Hollywood entertainment industry]], and its sprawling metropolis.
+
+Los Angeles lies in [[Los Angeles Basin|a basin]] in [[Southern California]], adjacent to the [[Pacific Ocean]], with [[San Gabriel Mountains|mountains]] as high as {{convert|10000|ft}}, and [[High Desert (California)|deserts]]. The city, which covers about {{convert|469|sqmi}},<ref name="gazetteer">{{Cite US Gazetteer|2010|places|CA}}</ref> is the [[county seat|seat]] of [[Los Angeles County]], the most populous [[County (United States)|county]] in the United States. The [[Los Angeles metropolitan area]] (MSA) is home to 13.1&nbsp;million people, making it the [[List of Metropolitan Statistical Areas|second-largest metropolitan area]] in the nation after [[New York metropolitan area|New York]].<ref>{{cite web|url=https://www.census.gov|title=Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2013 – United States – Metropolitan Statistical Area; and for Puerto Rico|publisher=[[United States Census Bureau]]}}</ref> [[Greater Los Angeles]] includes metro Los Angeles as well as the [[Inland Empire]] and [[Ventura County]].<ref name="CombinedStatisticalAreasDelineation">{{cite web|url=https://www.whitehouse.gov/wp-content/uploads/2018/09/Bulletin-18-04.pdf|title=Revised Delineations of Metropolitan Statistical Areas, Micropolitan Statistical Areas and Combined Statistical Areas: September 14, 2018, p. 134|publisher=Office of Management and Budget, Executive Office, White House, Washington, D.C.|accessdate=February 27, 2020}}</ref> It is the second most populous U.S. [[combined statistical area]], also after New York, with a 2015 estimate of 18.7&nbsp;million people.<ref name="2015combinedest">{{cite web|url=http://factfinder.census.gov/bkmk/table/1.0/en/PEP/2015/GCTPEPANNR.US41PR|archive-url=https://archive.today/20200213005001/http://factfinder.census.gov/bkmk/table/1.0/en/PEP/2015/GCTPEPANNR.US41PR|url-status=dead|archive-date=February 13, 2020|title=Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2015 – Combined Statistical Area; and for Puerto Rico – 2015 Population Estimates|publisher=U.S. Census Bureau|accessdate=April 6, 2016}}</ref>
+
+Home to the [[Chumash people|Chumash]] and [[Tongva]], the area that became Los Angeles was claimed by [[Juan Rodríguez Cabrillo]] for [[Spanish Empire|Spain]] in 1542. The city was founded on September 4, 1781, under Spanish governor [[Felipe de Neve]], on the village of [[Yaanga]].<ref name=":02">{{Cite book|last=Estrada|first=William David|title=The Los Angeles Plaza: Sacred and Contested Space|publisher=University of Texas Press|year=2009|isbn=9780292782099|pages=15-50}}</ref> It became a part of [[First Mexican Empire|Mexico]] in 1821 following the [[Mexican War of Independence]]. In 1848, at the end of the [[Mexican–American War]], Los Angeles and the rest of California were purchased as part of the [[Treaty of Guadalupe Hidalgo]], and thus became part of the United States. Los Angeles was [[Municipal corporation|incorporated]] as a municipality on April 4, 1850, five months before California achieved [[U.S. state|statehood]]. The discovery of oil in the 1890s brought rapid growth to the city.<ref>{{cite web|url=http://blogs.getty.edu/iris/subterranean-l-a-the-urban-oil-fields/|title=Subterranean L.A.: The Urban Oil Fields {{!}} The Getty Iris|date=July 16, 2013|website=blogs.getty.edu|accessdate=December 31, 2015}}</ref> The city was further expanded with the completion of the [[Los Angeles Aqueduct]] in 1913, which delivers water from [[Eastern California]].
+
+Los Angeles has a diverse economy and hosts businesses in a broad range of professional and cultural fields. It also has the [[Port of Los Angeles|busiest container port]] in the Americas.<ref>{{Cite web|url=http://www.worldshipping.org/about-the-industry/global-trade/top-50-world-container-ports/|title=Top 50 World Container Ports {{!}} World Shipping Council|publisher=[[World Shipping Council]]|access-date=October 16, 2019}}</ref> The Los Angeles metropolitan area also has a [[gross metropolitan product]] of $1.0&nbsp;trillion<ref name=bea /> ({{As of|2017|lc=y}}), making it the [[List of cities by GDP|third-largest city by GDP]] in the world, after the [[Greater Tokyo Area|Tokyo]] and [[New York metropolitan area|New York City]] metropolitan areas. Los Angeles hosted the [[1932 Summer Olympics|1932]] and [[1984 Summer Olympics]] and will host the [[2028 Summer Olympics]].
+
+{{TOC limit|3}}
+
+== History ==
+{{Main|History of Los Angeles}}
+{{See also|Timeline of Los Angeles|Los Angeles in the 1920s}}
+
+=== Pre-colonial history ===
+The Los Angeles coastal area was settled by the [[Tongva people|Tongva]] (''Gabrieleños'') and [[Chumash people|Chumash]] [[Indigenous peoples of California|tribes]]. Los Angeles would eventually be founded on the village of ''iyáangẚ'' or [[Yaanga]] (written "Yang-na" by the Spanish), meaning "[[Toxicodendron diversilobum|poison oak]] place."<ref name="google86">{{cite book|url=https://books.google.com/books?id=CET4QodMZysC&pg=PA86&lpg=PA86|title=Fifteen Hundred California Place Names|last=Bright|first=William|publisher=University of California Press|year=1998|isbn=978-0-520-21271-8|page=86|lccn=97043147|quote=Founded on the site of a Gabrielino Indian village called Yang-na, or iyáangẚ, 'poison-oak place.'}}</ref><ref name="sfgate2002">{{cite news|url=http://www.sfgate.com/homeandgarden/thedirt/article/Roots-of-native-names-2712675.php|title=Roots of native names|last=Sullivan|first=Ron|date=December 7, 2002|newspaper=[[San Francisco Chronicle]]|access-date=January 7, 2015|quote=Los Angeles itself was built over a Gabrielino village called Yangna or iyaanga', 'poison oak place.'}}</ref><ref name=":02"/>
+
+Maritime explorer [[Juan Rodríguez Cabrillo]] claimed the area of southern [[California]] for the [[Spanish Empire]] in 1542 while on an official military exploring expedition moving north along the [[Pacific Ocean|Pacific]] coast from earlier colonizing bases of [[New Spain]] in [[Central America|Central]] and [[South America]].<ref>{{cite book|url=https://books.google.com/books?id=o0cOAAAAIAAJ&pg=PA21|title=The Herald's History of Los Angeles|last=Willard|first=Charles Dwight|publisher=Kingsley-Barnes & Neuner|year=1901|location=Los Angeles|pages=21–24|accessdate=September 29, 2011}}</ref> [[Gaspar de Portolà]] and [[Franciscan]] missionary [[Juan Crespí]], reached the present site of Los Angeles on August 2, 1769.<ref>{{cite web|url=http://pacificahistory.wikispaces.com/Portola+Expedition+1769+Diaries|title=Portola Expedition 1769 Diaries|publisher=Pacifica Historical Society|accessdate=January 7, 2015}}</ref>
+
+=== Spanish rule ===
+In 1771, Franciscan friar [[Junípero Serra]] directed the building of the [[Mission San Gabriel Arcángel]], the first mission in the area.<ref name="LeffingwellWorden2005">{{cite book|url=https://books.google.com/books?id=zFn57UJ1mJIC&pg=PA43|title=California missions and presidios|last1=Leffingwell|first1=Randy|last2=Worden|first2=Alastair|date=November 4, 2005|publisher=Voyageur Press|isbn=978-0-89658-492-1|pages=43–44|accessdate=September 30, 2011}}</ref> On September 4, 1781, a group of forty-four settlers known as "[[Los Angeles Pobladores|Los Pobladores]]" founded the pueblo they called {{Lang-es|[[El Pueblo de Nuestra Señora la Reina de los Ángeles]]|label=none|region=MX|italics=no|translation=The Town of Our Lady the Queen of the Angels}}.<ref name="LA almanac">{{Cite web|url=http://www.laalmanac.com/history/hi03b.php|title=Settlement of Los Angeles|website=Los Angeles Almanac|language=en-US|access-date=September 2, 2018}}</ref>{{efn|It is popularly believed that the original name was El Pueblo de Nuestra Señora la Reina de los Ángeles de Porciuncula ("The Town of Our Lady the Queen of the Angels of (the River) Porciuncula"), but official documents make it clear that it was not.<ref name="LA almanac" />}} The present-day city has the largest [[Archdiocese of Los Angeles|Roman Catholic archdiocese]] in the United States. Two-thirds of the Mexican or ([[New Spain]]) settlers were [[mestizo]] or [[mulatto]], a mixture of African, indigenous and European ancestry.<ref>{{cite book|title=Seeking El Dorado: African Americans in California|last1=Mulroy|first1=Kevin|last2=Taylor|first2=Quintard|author3=Autry Museum of Western Heritage|date=March 2001|publisher=University of Washington Press|isbn=978-0-295-98082-9|page=79|chapter=The Early African Heritage in California (Forbes, Jack D.)|accessdate=September 30, 2011|chapter-url=https://books.google.com/books?id=2eH35EuLuUsC}}</ref> The settlement remained a small ranch town for decades, but by 1820, the population had increased to about 650 residents.<ref>{{cite book|url=https://books.google.com/books?id=KyFPAAAAYAAJ|title=Historical and biographical record of southern California: containing a history of southern California from its earliest settlement to the opening year of the twentieth century|last=Guinn|first=James Miller|publisher=Chapman pub. co.|year=1902|page=63|accessdate=September 30, 2011}}</ref> Today, the pueblo is commemorated in the historic district of [[El Pueblo de Los Ángeles Historical Monument|Los Angeles Pueblo Plaza]] and [[Olvera Street]], the oldest part of Los Angeles.<ref name="Estrada2006">{{cite book|url=https://books.google.com/books?id=NzlO8C5-Q88C|title=Los Angeles's Olvera Street|last=Estrada|first=William D.|publisher=Arcadia Publishing|year=2006|isbn=978-0-7385-3105-2|accessdate=September 30, 2011}}</ref>
+
+=== Mexican rule ===
+[[New Spain]] achieved its independence from the Spanish Empire in 1821, and the pueblo continued as a part of [[Mexico]]. During Mexican rule, Governor [[Pío Pico]] made Los Angeles [[Alta California]]'s regional capital.<ref>{{cite web|url=http://www.aaregistry.org/historic_events/view/pio-pico-afro-mexican-governor-mexican-california|title=Pio Pico, Afro Mexican Governor of Mexican California|website=African American Registry|archive-url=https://web.archive.org/web/20170202031612/http://www.aaregistry.org/historic_events/view/pio-pico-afro-mexican-governor-mexican-california|archive-date=February 2, 2017|url-status=dead|accessdate=January 24, 2017}}</ref>
+
+=== 1847 to present ===
+[[File:Advertisement_stressing_clarity_of_view_in_Angeles_Mesa_tract,_Los_Angeles,_1913.jpg|thumb|350px|right|Advertisement from the ''[[Los Angeles Herald-Express|Los Angeles Evening Herald]]'' of March 22, 1913, stressing the clarity of the view from the [[Angeles Mesa, Los Angeles|Angeles Mesa]] tract. [[Downtown Los Angeles]] is in the distance in the center, [[Mount San Antonio|Mt. Baldy]] can be seen on the horizon, and there appears to be a [[brush fire]] at the left.]]
+
+Mexican rule ended during the [[Mexican–American War]]: Americans took control from the [[Californios]] after a series of battles, culminating with the signing of the [[Treaty of Cahuenga]] on January 13, 1847.<ref>{{cite book|url=https://books.google.com/books?id=KyFPAAAAYAAJ|title=Historical and biographical record of southern California: containing a history of southern California from its earliest settlement to the opening year of the twentieth century|last=Guinn|first=James Miller|publisher=Chapman pub. co.|year=1902|page=50|accessdate=September 30, 2011}}</ref>
+
+[[History of Los Angeles#Railroads|Railroads arrived]] with the completion of the transcontinental [[Southern Pacific Railroad|Southern Pacific]] line from [[New Orleans]] to Los Angeles in 1876 and the [[Atchison, Topeka and Santa Fe Railway|Santa Fe Railroad]] in 1885.<ref name="Mulholland2002">{{cite book|url=https://books.google.com/books?id=iP575do7D48C|title=William Mulholland and the Rise of Los Angeles|last=Mulholland|first=Catherine|publisher=University of California Press|year=2002|isbn=978-0-520-23466-6|page=15|accessdate=September 30, 2011}}</ref> [[Petroleum]] was discovered in the city and surrounding area in 1892, and by 1923, the discoveries had helped California become the country's largest oil producer, accounting for about one-quarter of the world's petroleum output.<ref name="Kipen2011">{{cite book|url=https://books.google.com/books?id=aezmS52IavcC&pg=PA45|title=Los Angeles in the 1930s: The WPA Guide to the City of Angels|last=Kipen|first=David|publisher=University of California Press|year=2011|isbn=978-0-520-26883-8|pages=45–46|accessdate=September 30, 2011}}</ref>
+
+By 1900, the population had grown to more than 102,000,<ref>{{cite web|url=https://www.census.gov/population/www/documentation/twps0027/tab13.txt|title=Population of the 100 Largest Urban Places: 1900|date=June 15, 1998|publisher=[[United States Census Bureau]]|accessdate=January 8, 2015}}</ref> putting pressure on the city's [[water supply]].<ref>{{cite web|url=http://www1.american.edu/ted/mono.htm|title=The Los Angeles Aqueduct and the Owens and Mono Lakes (MONO Case)|publisher=[[American University]]|archive-url=https://web.archive.org/web/20150109051618/http://www1.american.edu/ted/mono.htm|archive-date=January 9, 2015|url-status=dead|accessdate=January 8, 2015}}</ref> The completion of the [[Los Angeles Aqueduct]] in 1913, under the supervision of [[William Mulholland]], ensured the continued growth of the city.<ref name="Reisner1993">{{cite book|url=https://books.google.com/books?id=Akn6rUgR_eEC|title=Cadillac desert: the American West and its disappearing water|last=Reisner|first=Marc|publisher=Penguin|year=1993|isbn=978-0-14-017824-1|page=86|author-link=Marc Reisner|accessdate=September 30, 2011}}</ref> Because of clauses in the city's charter that prevented the City of Los Angeles from selling or providing water from the aqueduct to any area outside its borders, many adjacent cities and communities felt compelled to annex themselves into Los Angeles.<ref name="LAgrowth">{{cite citation|last=Basiago|first=Andrew D.|authorlink=|publisher=The Regents of the University of California|title=Water For Los Angeles&nbsp;– Sam Nelson Interview|url=http://texts.cdlib.org/view?docId=ft0v19n64m&doc.view=entire_text|date=February 7, 1988|at=11|accessdate=October 7, 2013}}</ref><ref>{{cite map|publisher=City of Los Angeles Bureau of Engineering|title=Annexation and Detachment Map|url=http://navigatela.lacity.org/common/mapgallery/pdf/annex34x44.pdf}}</ref><ref name="FinalReport">{{cite web|url=http://www.lamag.com/citythink/citythinkblog/2013/09/25/citydig-las-20th-century-land-grab|title=CityDig: L.A.'s 20th Century Land Grab|last=Creason|first=Glen|date=September 26, 2013|publisher=Los Angeles Magazine|accessdate=October 10, 2013}}</ref>
+
+Los Angeles created the first municipal [[zoning]] ordinance in the United States. On September 14, 1908, the [[Los Angeles City Council, 1889–1909|Los Angeles City Council]] promulgated residential and industrial land use zones. The new ordinance established three residential zones of a single type, where industrial uses were prohibited. The proscriptions included barns, lumber yards, and any industrial land use employing machine-powered equipment. These laws were enforced against industrial properties after-the-fact. These prohibitions were in addition to existing activities that were already regulated as nuisances. These included explosives warehousing, gas works, oil-drilling, slaughterhouses, and [[Tannery|tanneries]]. Los Angeles City Council also designated seven industrial zones within the city. However, between 1908 and 1915, Los Angeles City Council created various exceptions to the broad proscriptions that applied to these three residential zones, and as a consequence, some industrial uses emerged within them. There are two differences from the 1908 Residence District Ordinance and later zoning laws in the United States. First, the 1908 laws did not establish a comprehensive zoning map as the [[Zoning in the United States#Origins and history|1916 New York City Zoning Ordinance]] did. Second, the residential zones did not distinguish types of housing; it treated apartments, hotels, and detached-single-family housing equally.<ref name="weiss80">{{cite book|title=The Rise of the Community Builders: The American Real Estate Industry and Urban Land Planning|author=Weiss, Marc A|publisher=Columbia University Press|year=1987|isbn=978-0-231-06505-4|location=New York|pages=80{{endash}}86}}</ref>
+[[File:View of Hill Street, looking north from 6th Street, Los Angeles, ca.1913 (CHS-5692).jpg|thumb|220x220px|left|[[Hill Street (Los Angeles)|Hill Street]], looking north from 6th Street, c. 1913. Notable sites include Central Park (today's [[Pershing Square (Los Angeles)|Pershing Square)]] (the trees, lower left), Hotel Portsmouth (lower right), and the Hill Street tunnel (at end of street).]]
+In 1910, [[Hollywood]] merged into Los Angeles, with 10 movie companies already operating in the city at the time. By 1921, more than 80 percent of the world's film industry was concentrated in LA.<ref name="Buntin2010">{{cite book|url=https://books.google.com/books?id=y6ZlIkYXjiMC&pg=PA18|title=L.A. Noir: The Struggle for the Soul of America's Most Seductive City|last=Buntin|first=John|date=April 6, 2010|publisher=Random House Digital, Inc.|isbn=978-0-307-35208-8|page=18|accessdate=September 30, 2011}}</ref> The money generated by the industry kept the city insulated from much of the economic loss suffered by the rest of the country during the [[Great Depression in the United States|Great Depression]].<ref name="YoungYoung2007">{{cite book|url=https://books.google.com/books?id=QYYMqXUyjnUC&pg=PA21|title=The Great Depression in America: a cultural encyclopedia|last1=Young|first1=William H.|last2=Young|first2=Nancy K.|date=March 2007|publisher=Greenwood Publishing Group|isbn=978-0-313-33521-1|page=21|accessdate=September 30, 2011}}</ref>
+<!-- i'm leaving out the bit about the aviation industry arriving in the 1920s pending further research, as the part about the movies turned out to be somewhat inaccurate; and it was all unsourced anyway.-->
+By 1930, the population surpassed one million.<ref>{{cite web|url=https://www.census.gov/population/www/documentation/twps0027/tab16.txt|title=Population of the 100 Largest Urban Places: 1930|date=June 15, 1998|publisher=[[United States Census Bureau]]|accessdate=January 8, 2015}}</ref> In 1932, the city hosted the [[1932 Summer Olympics|Summer Olympics]].
+
+During [[United States home front during World War II|World War II]], Los Angeles was a major center of wartime manufacturing, such as shipbuilding and aircraft. [[California Shipbuilding Corporation|Calship]] built hundreds of [[Liberty Ship]]s and [[Victory Ship]]s on Terminal Island, and the Los Angeles area was the headquarters of six of the country's major aircraft manufacturers ([[Douglas Aircraft Company]], [[Hughes Aircraft Company|Hughes Aircraft]], [[Lockheed Corporation|Lockheed]], [[North American Aviation]], [[Northrop Corporation]], and [[Vultee Aircraft|Vultee]]). During the war, more aircraft were produced in one year than in all the pre-war years since the Wright brothers flew the first airplane in 1903, combined. Manufacturing in Los Angeles skyrocketed, and as [[William S. Knudsen]], of the National Defense Advisory Commission put it, "We won because we smothered the enemy in an avalanche of production, the like of which he had never seen, nor dreamed possible."<ref>Parker, Dana T. ''Building Victory: Aircraft Manufacturing in the Los Angeles Area in World War II,'' pp.5–8, 14, 26, 36, 50, 60, 78, 94, 108, 122, Cypress, CA, 2013. {{ISBN|978-0-9897906-0-4}}.</ref>
+
+In the 1930s–1940s, Los Angeles county was the national leader in agriculture.<ref>{{Cite web|last=Carp|first=David|date=2019-06-05|title=Everything you didn’t even know you wanted to know about celery|url=https://www.latimes.com/food/la-fo-when-celery-ruled-the-southland-20190508-story.html|access-date=2020-11-06|website=Los Angeles Times|language=en-US}}</ref>
+[[File:Patton during a welcome home parade in Los Angeles, June 9, 1945.jpg|thumb|[[George Patton]] during a welcome home parade in Los Angeles, June 9, 1945|alt=|left]]
+Following the end of [[World War II]], Los Angeles grew more rapidly than ever, [[Urban sprawl|sprawling]] into the [[San Fernando Valley]].<ref name="Bruegmann2006">{{cite book|url=https://books.google.com/books?id=HFjLm2BauZ8C|title=Sprawl: A Compact History|last=Bruegmann|first=Robert|date=November 1, 2006|publisher=University of Chicago Press|isbn=978-0-226-07691-1|page=133|author-link=Robert Bruegmann|accessdate=October 1, 2011}}</ref> The expansion of the [[Interstate Highway System]] during the 1950s and 1960s helped propel suburban growth and signaled the demise of the city's [[Pacific Electric|electrified rail system]], once the world's largest.
+
+Previous to the 1950s, Los Angeles' name had multiple pronunciations, but the soft "G" pronunciation is universal today. Some early movies or video shows it pronounced with a hard "G" ({{IPAc-en|l|ɔː|s|_|ˈ|æ|n|g|ə|l|ə|s|}}).<ref>{{Cite web|url=https://www.youtube.com/watch?v=4-l13UMBlkM|title= Welcome to Southern California (1953)|website=Youtube}}</ref> [[Sam Yorty]] was one of the last public figures who still used the hard "G" pronunciation.<ref>{{Cite web|url=https://www.youtube.com/watch?v=hz5uAblGC6U|title= Sam Yorty speaking at UCLA 11/21/1968|website=Youtube}}</ref>
+
+Racial tensions led to the [[Watts riots]] in 1965, resulting in 34 deaths and over 1,000 injuries.
+
+In 1969, California became the birthplace of the [[Internet]], as the first [[ARPANET]] transmission was sent from the [[University of California, Los Angeles]] (UCLA) to the [[Stanford Research Institute]] in [[Menlo Park, California|Menlo Park]].<ref name="HafnerLyon1999">{{cite book|url=https://books.google.com/books?id=RLKxSvCBQZcC|title=Where Wizards Stay Up Late: The Origins Of The Internet|last1=Hafner|first1=Katie|last2=Lyon|first2=Matthew|date=August 1, 1999|publisher=Simon and Schuster|isbn=978-0-684-87216-2|page=153|author-link1=Katie Hafner|accessdate=October 1, 2011}}</ref>
+
+In 1973, [[Tom Bradley (American politician)|Tom Bradley]] was elected as the city's first [[African American]] mayor, serving for five terms until retiring in 1993. Other events in the city during the 1970s included the [[Symbionese Liberation Army]]'s [[South Los Angeles|South Central]] standoff in 1974 and the [[Hillside Stranglers]] [[murder]] cases in 1977–1978.
+
+In 1984, the city hosted the Summer Olympic Games [[1984 Summer Olympics|for the second time]]. Despite being [[1984 Summer Olympics boycott|boycotted by 14 Communist countries]], the 1984 Olympics became more financially successful than any previous,<ref>{{cite news|url=https://articles.latimes.com/2004/jun/30/local/me-rood30|title=Rodney W. Rood, 88; Played Key Role in 1984 Olympics, Built Support for Metro Rail|last=Woo|first=Elaine|date=June 30, 2004|newspaper=[[Los Angeles Times]]|accessdate=October 1, 2011}}</ref> and the second Olympics to turn a profit until then–the other, according to an analysis of contemporary newspaper reports, being the 1932 Summer Olympics, also held in Los Angeles.<ref name="Zarnowski">{{cite journal|author-link1=Frank Zarnowski|last=Zarnowski|first=C. Frank|date=Summer 1992|title=A Look at Olympic Costs|url=http://www.la84foundation.org/SportsLibrary/JOH/JOHv1n1/JOHv1n1f.pdf|url-status=dead|journal=Citius, Altius, Fortius|volume=1|issue=1|pages=16–32|archive-url=https://web.archive.org/web/20080528012143/http://www.la84foundation.org/SportsLibrary/JOH/JOHv1n1/JOHv1n1f.pdf|archive-date=May 28, 2008|accessdate=October 1, 2011}}</ref>
+
+Racial tensions erupted on April 29, 1992, with the acquittal by a [[Simi Valley]] jury of four [[Los Angeles Police Department]] (LAPD) officers captured on videotape beating [[Rodney King]], culminating in [[Los Angeles riots of 1992|large-scale riots]].<ref name="RuckerUpton2007">{{cite book|title=Encyclopedia of American race riots|last1=Rucker|first1=Walter C.|last2=Upton|first2=James N.|last3=Hughey|first3=Matthew W.|publisher=Greenwood Publishing Group|year=2007|isbn=978-0-313-33301-9|pages=376–85|chapter=Los Angeles (California) Riots of 1992|accessdate=October 1, 2011|chapter-url=https://books.google.com/books?id=mQcrpqn0124C&pg=PA376}}</ref><ref>{{Cite news|url=http://www.cnn.com/2012/04/25/us/california-post-riot/|title=Riot anniversary tour surveys progress and economic challenges in Los Angeles|last=Wilson|first=Stan|date=April 25, 2012|work=[[CNN]]|access-date=January 23, 2015}}</ref>
+
+In 1994, the 6.7 [[Northridge earthquake]] shook the city, causing $12.5&nbsp;billion in damage and 72 deaths.<ref>{{cite news|url=https://articles.latimes.com/1995-12-20/news/mn-16032_1_quake-death-toll|title=Study Raises Northridge Quake Death Toll to 72|last=Reich|first=Kenneth|date=December 20, 1995|newspaper=[[Los Angeles Times]]|accessdate=October 1, 2011|page=B1}}</ref> The century ended with the [[Rampart scandal]], one of the most extensive documented cases of police misconduct in American history.<ref>{{Cite news|url=https://www.pbs.org/wgbh/pages/frontline/shows/lapd/scandal/cron.html|title=Rampart Scandal Timeline|access-date=October 1, 2011|publisher=[[Frontline (U.S. TV series)|PBS Frontline]]}}</ref>
+
+In 2002, Mayor [[James Hahn]] led the campaign against secession, resulting in voters defeating efforts by the San Fernando Valley and Hollywood to secede from the city.<ref>{{cite news|url=http://www.dailynews.com/20121104/secession-drive-changed-san-fernando-valley-los-angeles|title=Secession drive changed San Fernando Valley, Los Angeles|author=Orlov, Rick|date=November 3, 2012|newspaper=[[Los Angeles Daily News]]|accessdate=January 12, 2015}}</ref>
+
+Los Angeles will host the [[2028 Summer Olympics]] and [[Paralympic Games]], making Los Angeles the third city to host the Olympics three times.<ref>{{Cite web|url=https://money.cnn.com/2017/07/31/news/los-angeles-olympics-2028/index.html|title=Los Angeles will host 2028 Olympics|last=Horowitz|first=Julia|date=August 1, 2017|website=[[CNNMoney]]|archive-url=https://web.archive.org/web/20170731190432/http://money.cnn.com/2017/07/31/news/los-angeles-olympics-2028/index.html|archive-date=July 31, 2017|url-status=live}}</ref><ref>{{Cite web|url=http://www.worldatlas.com/articles/cities-which-have-hosted-multiple-summer-olympic-games.html|title=Cities Which Have Hosted Multiple Summer Olympic Games|website=worldatlas|archive-url=https://web.archive.org/web/20161215161622/http://www.worldatlas.com/articles/cities-which-have-hosted-multiple-summer-olympic-games.html|archive-date=December 15, 2016|url-status=live}}</ref>
+
+== Geography ==
+{{See also|Los Angeles Basin|San Fernando Valley|Greater Los Angeles Area|Los Angeles County, California}}
+
+=== Topography ===
+[[File:Los Angeles by Sentinel-2, 2019-03-30.jpg|left|thumb|Satellite photo shows The city of Los Angeles]]
+[[File:Los Angeles night aerial.jpg|right|thumb|Night photograph of [[South Bay (Los Angeles County)]], 2017, with the [[Pacific Ocean]] to the left (dark region), [[Palos Verdes]] next to the right (few lights), [[San Pedro, Los Angeles, California|San Pedro]] in the center foreground, and [[Terminal Island]] in the right foreground (bright region)]]
+The city of Los Angeles covers a total area of {{convert|502.7|sqmi|km2|0|sp=us}}, comprising {{convert|468.7|sqmi|km2}} of land and {{convert|34.0|sqmi|km2}} of water.<ref name="gazetteer" /> The city extends for {{convert|44|mi|km}} north-south and for {{convert|29|mi|km}} east-west. The perimeter of the city is {{convert|342|mi|km}}.
+
+Los Angeles is both flat and hilly. The highest point in the city proper is [[Mount Lukens]] at {{convert|5074|ft|m|abbr=on}},<ref>{{cite web|url=http://egsc.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html#50|title=Elevations of the 50 Largest Cities (by population, 1980 Census)|publisher=[[United States Geological Survey]]|archive-url=https://web.archive.org/web/20111002023211/http://egsc.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html|archive-date=October 2, 2011|url-status=dead|accessdate=October 3, 2011}}</ref><ref>{{cite web|url=http://angeles.sierraclub.org/hps/guides/09e.htm|title=Mount Lukens Guide|publisher=[[Sierra Club]] Angeles Chapter|accessdate=October 3, 2011}}</ref> located at the northeastern end of the [[San Fernando Valley]]. The eastern end of the [[Santa Monica Mountains]] stretches from [[Downtown Los Angeles|Downtown]] to the [[Pacific Ocean]] and separates the Los Angeles Basin from the San Fernando Valley. Other hilly parts of Los Angeles include the [[Mt. Washington, Los Angeles|Mt. Washington]] area north of Downtown, eastern parts such as [[Boyle Heights]], the [[Crenshaw, Los Angeles|Crenshaw district]] around the [[Baldwin Hills, Los Angeles|Baldwin Hills]], and the [[San Pedro, Los Angeles|San Pedro]] district.
+
+Surrounding the city are much higher mountains. Immediately to the north lie the [[San Gabriel Mountains]], which is a popular recreation area for Angelenos. Its high point is [[Mount San Antonio]], locally known as Mount Baldy, which reaches {{convert|10064|ft|m}}. Further afield, the highest point in the Greater Los Angeles area is [[San Gorgonio Mountain]], with a height of {{convert|11503|ft}}.
+
+The [[Los Angeles River]], which is largely seasonal, is the primary [[drainage channel]]. It was straightened and lined in {{convert|51|mi|km}} of concrete by the [[United States Army Corps of Engineers|Army Corps of Engineers]] to act as a flood control channel.<ref name="Gumprecht2001">{{cite book|url=https://books.google.com/books?id=2ftBJpp7aIoC|title=The Los Angeles River: Its Life, Death, and Possible Rebirth|last=Gumprecht|first=Blake|date=March 2001|publisher=JHU Press|isbn=978-0-8018-6642-5|page=173|accessdate=October 3, 2011}}</ref> The river begins in the [[Canoga Park, Los Angeles|Canoga Park]] district of the city, flows east from the San Fernando Valley along the north edge of the Santa Monica Mountains, and turns south through the city center, flowing to its mouth in the Port of [[Long Beach, California|Long Beach]] at the Pacific Ocean. The smaller [[Ballona Creek]] flows into the [[Santa Monica Bay]] at [[Playa del Rey, Los Angeles|Playa del Rey]].
+
+=== Vegetation ===
+[[File:Palm tree expo park coliseum peristyle.jpg|thumb|239x239px|Oldest palm tree in Los Angeles, 2019]]
+Los Angeles is rich in native plant species partly because of its diversity of habitats, including beaches, [[wetland]]s, and mountains. The most prevalent plant communities are [[coastal sage scrub]], [[chaparral]] shrubland, and [[riparian woodland]].<ref name="Miller2008">{{cite book|url=https://books.google.com/books?id=RjbPQ6ZOgzMC&pg=PA15|title=Landscaping with Native Plants of Southern California|last=Miller|first=George Oxford|date=January 15, 2008|publisher=Voyageur Press|isbn=978-0-7603-2967-2|page=15|accessdate=October 6, 2011}}</ref> Native plants include: the [[California poppy]], [[matilija poppy]], [[Heteromeles|toyon]], [[Ceanothus]], [[Chamise]], [[Coast Live Oak]], [[Platanus racemosa|sycamore]], [[willow]] and [[Leymus condensatus|Giant Wildrye]]. Many of these native species, such as the [[Helianthus nuttallii|Los Angeles sunflower]], have become so rare as to be considered endangered. Although it is not native to the area, the official tree of Los Angeles is the Coral Tree (''[[Erythrina caffra]]'')<ref name="Innovation1979">{{cite book|url=https://books.google.com/books?id=MkArAAAAYAAJ&pg=PA258|title=Tropical legumes: resources for the future : report of an ad hoc panel of the Advisory Committee on Technology Innovation, Board on Science and Technology for International Development, Commission on International Relations, National Research Council|author=National Research Council (U.S.). Advisory Committee on Technology Innovation|publisher=National Academies|year=1979|page=258|id=NAP:14318|accessdate=October 6, 2011}}</ref> and the official flower of Los Angeles is the Bird of Paradise (''[[Strelitzia reginae]]'').<ref name="Communications2003">{{cite book|title=Los Angeles Magazine|date=April 2003|publisher=Emmis Communications|page=62|chapter=Flower|journal=Los Angeles|issn=1522-9149|accessdate=October 6, 2011|chapter-url=https://books.google.com/books?id=-10EAAAAMBAJ&pg=PA62}}</ref> [[Washingtonia robusta|Mexican Fan Palms]], [[Phoenix canariensis|Canary Island Palms]], [[Syagrus romanzoffiana|Queen Palms]], [[Date Palm]]s, and [[Washingtonia filifera|California Fan Palms]] are common in the Los Angeles area, although only the last is native.
+
+=== Geology ===
+Los Angeles is subject to earthquakes because of its location on the [[Ring of Fire|Pacific Ring of Fire]]. The geologic instability has produced numerous [[Fault (geology)|faults]], which cause approximately 10,000 [[earthquake]]s annually in Southern California, though most of them are too small to be felt.<ref name="quakes">{{cite web|url=https://earthquake.usgs.gov/learn/facts.php|title=Earthquake Facts|publisher=[[United States Geological Survey]]|accessdate=October 3, 2011}}</ref> The [[Strike-slip fault|strike-slip]] [[San Andreas Fault]] system, which sits at the boundary between the [[Pacific Plate]] and the [[North American Plate]], passes through the Los Angeles metropolitan area. The segment of the fault passing through Southern California experiences a major earthquake roughly every 110 to 140 years, and seismologists have warned about the next "big one", as the last major earthquake was the [[1857 Fort Tejon earthquake]].<ref>{{cite web |last1=Zielinski |first1=Sarah |title=What Will Really Happen When San Andreas Unleashes the Big One? |url=https://www.smithsonianmag.com/science-nature/what-will-really-happen-california-when-san-andreas-unleashes-big-one-180955432/ |website=[[Smithsonian (magazine)|Smithsonian]] |accessdate=September 6, 2020 |date=May 28, 2015}}</ref> The Los Angeles basin and metropolitan area are also at risk from [[blind thrust earthquake]]s.<ref>{{cite journal|last1=Shaw|first1=John H.|last2=Shearer|first2=Peter M.|date=March 5, 1999|title=An Elusive Blind-Thrust Fault Beneath Metropolitan Los Angeles|journal=Science|volume=283|issue=5407|pages=1516–1518|bibcode=1999Sci...283.1516S|doi=10.1126/science.283.5407.1516|pmid=10066170|s2cid=21556124|url=https://semanticscholar.org/paper/905d085f280f3cbfb61736e16ec0bd2f2f7dd3f4}}</ref> Major earthquakes that have hit the Los Angeles area include the [[1933 Long Beach earthquake|1933 Long Beach]], [[1971 San Fernando earthquake|1971 San Fernando]], [[1987 Whittier Narrows earthquake|1987 Whittier Narrows]], and the [[1994 Northridge earthquake|1994 Northridge]] events. All but a few are of low intensity and are not felt. The USGS has released the [[California earthquake forecast|UCERF California earthquake forecast]], which models earthquake occurrence in California. Parts of the city are also vulnerable to [[tsunami]]s; harbor areas were damaged by waves from [[1946 Aleutian Islands earthquake|Aleutian Islands earthquake]] in 1946, [[1960 Valdivia earthquake|Valdivia earthquake]] in 1960, [[1964 Alaska earthquake|Alaska earthquake]] in 1964, [[2010 Chile earthquake|Chile earthquake]] in 2010 and [[2011 Tōhoku earthquake and tsunami|Japan earthquake]] in 2011.<ref>{{cite web|url=http://geology.com/records/largest-earthquake/|title=World's Largest Recorded Earthquake|publisher=Geology.com|accessdate=January 12, 2015}}</ref>
+
+=== Cityscape ===
+{{Main|List of districts and neighborhoods of Los Angeles}}
+
+{{wide image|Los Angeles Panorama from Griffith Observatory 2013.jpg|1340px|Panorama of the urban sprawl of Los Angeles in 2013 as viewed from [[Griffith Observatory]].<br />Left to right: [[Los Feliz]], [[Echo Park, Los Angeles|Echo Park]], [[Downtown Los Angeles|Downtown]], and [[Hollywood]].|align-cap=center}}
+
+The city is divided into many different districts and neighborhoods,<ref>{{Cite web|url=http://maps.latimes.com/neighborhoods/|title=Mapping L.A. Neighborhoods|website=Los Angeles Times|access-date=June 7, 2019}}</ref><ref>{{cite web|url=https://www.usmapguide.com/california/los-angeles-zip-code-map/#regions|title=Los Angeles CA Zip Code Map|website=USMapGuide|accessdate=June 6, 2019}}</ref> some of which were incorporated cities that merged with Los Angeles.<ref name="Abu-Lughod1999">{{cite book|url=https://books.google.com/books?id=rrLlt1k59voC&pg=PA66|title=New York, Chicago, Los Angeles: America's global cities|last=Abu-Lughod|first=Janet L.|publisher=U of Minnesota Press|year=1999|isbn=978-0-8166-3336-4|page=66|author-link=Janet L. Abu-Lughod|accessdate=October 2, 2011}}</ref> These neighborhoods were developed piecemeal, and are well-defined enough that the city has signage marking nearly all of them.<ref>{{Cite web|url=http://ladot.lacity.org/WhatWeDo/Operations/NeighborhoodServices/Neighborhoodsigns/index.htm|archive-url=https://web.archive.org/web/20150907050707/http://ladot.lacity.org/WhatWeDo/Operations/NeighborhoodServices/Neighborhoodsigns/index.htm|url-status=dead|title=LADOT|archive-date=September 7, 2015}}</ref>
+
+==== Overview ====
+The city's street patterns generally follow a [[grid plan]], with uniform block lengths and occasional roads that cut across blocks. However, this is complicated by rugged terrain, which has necessitated having different grids for each of the valleys that Los Angeles covers. Major streets are designed to move large volumes of traffic through many parts of the city, many of which are extremely long; [[Sepulveda Boulevard]] is {{convert|43|mi}} long, while [[Foothill Boulevard (Southern California)|Foothill Boulevard]] is over {{convert|60|mi}} long, reaching as far east as San Bernardino. Drivers in Los Angeles suffer from one of the worst rush hour periods in the world, according to an annual traffic index by navigation system maker, [[TomTom]]. LA drivers spend an additional 92 hours in traffic each year. During the peak rush hour there is 80% congestion, according to the index.<ref>{{cite web|url=https://www.usatoday.com/story/news/nation-now/2015/04/01/worst-cities-traffic-usa-los-angeles/70762026/|title=Los Angeles tops worst cities for traffic in USA|website=USA TODAY|accessdate=December 31, 2015}}</ref>
+
+Los Angeles is often characterized by the presence of [[low-rise]] buildings. Outside of a few centers such as [[Downtown Los Angeles|Downtown]], [[Warner Center]], [[Century City]], [[Koreatown, Los Angeles|Koreatown]], [[Miracle Mile, Los Angeles|Miracle Mile]], [[Hollywood]], and [[Westwood, Los Angeles|Westwood]], skyscrapers and high-rise buildings are not common. The few skyscrapers built outside of those areas often stand out above the rest of the surrounding landscape. Most construction is done in separate units, rather than [[Curtain wall (architecture)|wall-to-wall]]. That being said, Downtown Los Angeles itself has many buildings over 30 stories, with fourteen over 50 stories, and two over 70 stories, the tallest of which is the [[Wilshire Grand Center]]. Also, Los Angeles is increasingly becoming a city of apartments rather than single family dwellings, especially in the dense inner city and [[Westside (Los Angeles County)|Westside]] neighborhoods.
+
+==== Landmarks ====
+{{See also||List of sites of interest in the Los Angeles area|National Register of Historic Places listings in Los Angeles, California}}
+
+Important landmarks in Los Angeles include the [[Hollywood Sign]], [[Walt Disney Concert Hall]], [[Capitol Records Building]], the [[Cathedral of Our Lady of the Angels]], [[Angels Flight]], [[Grauman's Chinese Theatre]], [[Dolby Theatre]], [[Griffith Observatory]], [[Getty Center]], [[Getty Villa]], [[Stahl House]], the [[Los Angeles Memorial Coliseum]], [[L.A. Live]], the [[Los Angeles County Museum of Art]], the [[Venice Canal Historic District|Venice Canal Historic District and boardwalk]], [[Theme Building]], [[Bradbury Building]], [[U.S. Bank Tower]], [[Wilshire Grand Center]], [[Hollywood Boulevard]], [[Los Angeles City Hall]], [[Hollywood Bowl]], Battleship {{USS|Iowa|BB-61|6}}, [[Watts Towers]], [[Staples Center]], [[Dodger Stadium]], and [[Olvera Street]].
+
+=== Climate ===
+{{Main|Climate of Los Angeles}}
+[[File:MacArthurParkLA.jpg|alt=|thumb|[[MacArthur Park]] in Westlake]]
+{{climate chart
+| Los Angeles (Downtown)
+|49.7|68.6|3.23
+|51.1|69.2|3.80
+|53.0|70.5|2.43
+|55.5|73.1|0.91
+|59.0|75.0|0.28
+|62.0|78.6|0.10
+|65.3|83.5|0.02
+|65.8|84.8|0.05
+|64.8|83.5|0.30
+|60.4|78.8|0.66
+|53.6|73.1|1.08
+|49.2|68.0|2.41
+|float     = left
+|clear     = left
+|units     = imperial
+|source    = <ref>{{Cite web|url=https://w2.weather.gov/climate/xmacis.php?wfo=lox|title=National Weather Service - NWS Los Angeles/Oxnard|first=National Weather Service Corporate Image Web|last=Team|website=w2.weather.gov}}</ref>
+}}
+Los Angeles has a [[Mediterranean climate]] ([[Köppen climate classification|Köppen]] ''Csb'' on the coast and most of downtown, ''Csa'' near the metropolitan region to the west), and receives just enough annual precipitation to avoid [[semi-arid climate]] (''BSh)'',<ref name="Peel">{{cite journal|author1=Peel, M. C.|author2=Finlayson B. L.|author3=McMahon, T. A.|name-list-style=amp|year=2007|title=Updated world map of the Köppen−Geiger climate classification|journal=Hydrol. Earth Syst. Sci.|volume=11|issue=5|pages=1633–1644|doi=10.5194/hess-11-1633-2007|issn=1027-5606|doi-access=free|bibcode=2007HESS...11.1633P}}</ref>. Daytime temperatures are generally temperate all year round. In winter, they average around {{convert|68|F}} giving it a [[tropical]] feel although it is a few degrees too cool to be a true tropical climate on average due to cool night temperatures.<ref>{{Cite web|url=https://boomcalifornia.com/2017/05/22/the-myth-of-a-desert-metropolis-los-angeles-was-not-built-in-a-desert-but-are-we-making-it-one/|title=The Myth of a Desert Metropolis: Los Angeles was not built in a desert, but are we making it one?|date=May 22, 2017|website=Boom California|language=en|access-date=March 8, 2019}}</ref><ref>{{Cite web|url=https://www.plantmaps.com/koppen-climate-classification-map-north-america.php|title=Interactive North America Koppen-Geiger Climate Classification Map|website=www.plantmaps.com|access-date=March 8, 2019}}</ref> Los Angeles has plenty of sunshine throughout the year, with an average of only 35 days with measurable precipitation annually.<ref name="weatherbase">{{cite web|url=http://www.weatherbase.com/weather/weather.php3?s=159227&refer=|title=Historical Weather for Los Angeles, California, United States of America|publisher=Weatherbase.com|accessdate=December 15, 2011}}</ref>
+
+Temperatures in the coastal basin exceed {{convert|90|F}} on a dozen or so days in the year, from one day a month in April, May, June and November to three days a month in July, August, October and to five days in September.<ref name="weatherbase" /> Temperatures in the San Fernando and San Gabriel Valleys are considerably warmer. Temperatures are subject to substantial daily swings; in inland areas the difference between the average daily low and the average daily high is over {{convert|30|F-change|0}}.<ref name="NCDC-CANOGA">{{cite web|url=http://cdo.ncdc.noaa.gov/climatenormals/clim20/ca/041484.pdf|title=Climatography of the United States No. 20 (1971–2000)|year=2004|publisher=[[National Oceanic and Atmospheric Administration]]|archive-url=https://web.archive.org/web/20130902181245/http://cdo.ncdc.noaa.gov/climatenormals/clim20/ca/041484.pdf|archive-date=September 2, 2013|url-status=dead|accessdate=October 5, 2011}}</ref> The average annual temperature of the sea is {{convert|63|F}}, from {{convert|58|F}} in January to {{convert|68|F}} in August.<ref>{{cite web|url=http://www.beachcalifornia.com/beach/california-ocean-temperature.html|title=Pacific Ocean Temperatures on California Coast|publisher=beachcalifornia.com|accessdate=October 5, 2011}}</ref> Hours of sunshine total more than 3,000 per year, from an average of 7 hours of sunshine per day in December to an average of 12 in July.<ref>{{cite web|url=http://www.weather2travel.com/climate-guides/united-states/california/los-angeles-ca.php|title=Los Angeles Climate Guide|publisher=weather2travel.com|accessdate=October 5, 2011}}</ref>
+[[File:Griffith Observatory entrance lawn with Hollywood sign.jpg|thumb|A very clear evening view of [[Mount Lee]] and the Hollywood Sign from the Griffith Observatory lawn, one day after a rain]]
+The Los Angeles area is also subject to phenomena typical of a [[microclimate]], causing extreme variations in temperature in close physical proximity to each other. For example, the average July maximum temperature at the [[Santa Monica Pier]] is {{convert|70|F}} whereas it is {{convert|95|F}} in Canoga Park, {{convert|15|mi}} away.<ref name="climateofCA">{{cite web|url=http://www.wrcc.dri.edu/narratives/CALIFORNIA.htm|title=Climate of California|publisher=Western Regional Climate Center|accessdate=October 6, 2011}}</ref> The city, like much of the southern California coast, is subject to a late spring/early summer weather phenomenon called "[[June Gloom]]". This involves overcast or foggy skies in the morning that yield to sun by early afternoon.<ref name="Poole2010">{{cite book|url=https://books.google.com/books?id=HAPWv2OkeXUC&pg=PA22|title=Frommer's Los Angeles 2011|last=Poole|first=Matthew R.|date=September 22, 2010|publisher=John Wiley & Sons|isbn=978-0-470-62619-1|page=22|accessdate=October 5, 2011}}</ref>
+
+Downtown Los Angeles averages {{convert|14.93|in|mm|abbr=on}} of precipitation annually, mainly occurring between November and March,<ref name="NCDC-CANOGA" /> generally in the form of moderate rain showers, but sometimes as heavy rainfall during winter storms. Rainfall is usually higher in the hills and coastal slopes of the mountains because of [[orographic]] uplift. Summer days are usually rainless. Rarely, an incursion of moist air from the south or east can bring brief thunderstorms in late summer, especially to the mountains. The coast gets slightly less rainfall, while the inland and mountain areas get considerably more. Years of average rainfall are rare. The usual pattern is year to year variability, with a short string of dry years of {{convert|5|–|10|in|abbr=on|mm}} rainfall, followed by one or two wet years with more than {{convert|20|in|mm|abbr=on}}.<ref name="NCDC-CANOGA" /> Wet years are usually associated with warm water [[El Niño]] conditions in the Pacific, dry years with cooler water [[La Niña]] episodes. A series of rainy days can bring floods to the lowlands and mudslides to the hills, especially after [[wildfire]]s have denuded the slopes.
+
+Both freezing temperatures and snowfall are extremely rare in the city basin and along the coast, with the last occurrence of a {{convert|32|F}} reading at the downtown station being January 29, 1979;<ref name="NCDC-CANOGA" /> freezing temperatures occur nearly every year in valley locations while the mountains within city limits typically receive snowfall every winter. The greatest snowfall recorded in downtown Los Angeles was {{convert|2.0|in|cm|0}} on January 15, 1932.<ref name="NCDC-CANOGA" /><ref name="BurtStroud2007">{{cite book|url=https://books.google.com/books?id=SV229set7RIC&pg=PA100|title=Extreme weather: a guide & record book|last1=Burt|first1=Christopher C.|last2=Stroud|first2=Mark|date=June 26, 2007|publisher=W. W. Norton & Company|isbn=978-0-393-33015-1|page=100|accessdate=October 5, 2011}}</ref> While the most recent snowfall occurred in February 2019, the first snowfall since 1962.<ref>{{cite web|url=https://thehill.com/policy/energy-environment/e2-wire/431056-city-of-los-angeles-sees-first-snow-since-1962|title=Los Angeles sees first snow in years|website=thehill.com|last=Frazin|first=Rachel|date=February 21, 2019|publisher=Capitol Hill Publishing Corp.|accessdate=April 6, 2019}}</ref><ref>{{cite web|url=https://www.nbcnews.com/video/snow-falling-in-los-angeles-pasadena-and-california-s-coastal-cities-1446644291928|title=Snow falling in Los Angeles, Pasadena and California's coastal cities|website=nbcnews.com|date=February 22, 2019|publisher=NBC Universal|accessdate=April 6, 2019}}</ref> At the official downtown station, the highest recorded temperature is {{convert|113|F}} on September 27, 2010,<ref name="NCDC-CANOGA" /><ref name="RecordHighTemp113">{{cite news|url=https://articles.latimes.com/2010/sep/27/local/la-me-hottest-ever-20100928|title=L.A.'s hottest day ever|last1=Pool|first1=Bob|date=September 27, 2010|newspaper=[[Los Angeles Times]]|accessdate=October 5, 2011|last2=Lin II|first2=Rong-Gong}}</ref> while the lowest is {{convert|28|F}},<ref name="NCDC-CANOGA" /> on January 4, 1949.<ref name="NCDC-CANOGA" /> Within the City of Los Angeles, the highest temperature ever officially recorded is {{convert|121|F}}, on September 6, 2020, at the weather station at [[Los Angeles Pierce College|Pierce College]] in the [[San Fernando Valley]] neighborhood of [[Woodland Hills, Los Angeles|Woodland Hills]].<ref>{{cite web |author1=National Oceanic and Atmospheric Administration |title=Los Angeles/Oxnard |url=https://w2.weather.gov/climate/index.php?wfo=lox |website=National Weather Service Forecast Office |accessdate=9 September 2020}}</ref> During autumn and winter, [[Santa Ana winds]] sometimes bring much warmer and drier conditions to Los Angeles, and raise wildfire risk.
+{{Los Angeles weatherbox}}
+
+{{Weather box|location=Los Angeles ([[Canoga Park]], in the [[San Fernando Valley]])|collapsed=Y|single line=Y|Jan record high F=93|Feb record high F=94|Mar record high F=101|Apr record high F=105|May record high F=113|Jun record high F=113|Jul record high F=115|Aug record high F=116|Sep record high F=115|Oct record high F=110|Nov record high F=99|Dec record high F=96|year record high F=116|Jan high F=67.9|Feb high F=69.9|Mar high F=72.0|Apr high F=77.7|May high F=81.3|Jun high F=88.8|Jul high F=95.0|Aug high F=96.0|Sep high F=91.7|Oct high F=84.4|Nov high F=74.7|Dec high F=68.8|year high F=80.7|Jan mean F=53.7|Feb mean F=55.4|Mar mean F=57.2|Apr mean F=61.3|May mean F=65.2|Jun mean F=71.0|Jul mean F=76.0|Aug mean F=76.8|Sep mean F=73.5|Oct mean F=66.8|Nov mean F=58.2|Dec mean F=53.6|year mean F=64.1|Jan low F=39.5|Feb low F=40.9|Mar low F=42.3|Apr low F=44.8|May low F=49.1|Jun low F=53.2|Jul low F=56.9|Aug low F=57.6|Sep low F=55.2|Oct low F=49.2|Nov low F=41.7|Dec low F=38.3|year low F=47.4|Jan record low F=19|Feb record low F=18|Mar record low F=26|Apr record low F=30|May record low F=33|Jun record low F=36|Jul record low F=42|Aug record low F=42|Sep record low F=38|Oct record low F=27|Nov record low F=23|Dec record low F=20|year record low F=18
+|rain colour = green
+|Jan rain inch=3.83|Feb rain inch=4.40|Mar rain inch=3.60|Apr rain inch=0.88|May rain inch=0.32|Jun rain inch=0.07|Jul rain inch=0.01|Aug rain inch=0.15|Sep rain inch=0.24|Oct rain inch=0.62|Nov rain inch=1.29|Dec rain inch=2.38|Jan rain days=6.2|Feb rain days=5.9|Mar rain days=6.1|Apr rain days=3.0|May rain days=1.3|Jun rain days=0.4|Jul rain days=0.1|Aug rain days=0.7|Sep rain days=1.3|Oct rain days=2.0|Nov rain days=3.2|Dec rain days=4.4|source 1=NOAA<ref name="NCDC-CANOGA" />|date=August 2010}}
+{| class="wikitable"
+|+Hottest and coldest, wettest and driest averages for a month (°F/inch and °C/mm), 1895–2019<ref>{{Cite web|url=http://prism.oregonstate.edu/explorer/|title=PRISM Climate Group, Oregon State U|website=prism.oregonstate.edu|access-date=March 28, 2019}}</ref>
+!Month
+!Jan
+!Feb
+!Mar
+!Apr
+!May
+!Jun
+!Jul
+!Aug
+!Sep
+!Oct
+!Nov
+!Dec
+|-
+|Hottest
+|{{convert|63.9|F}}
+|{{convert|64.2|F}}
+|{{convert|67.5|F}}
+|{{convert|68.2|F}}
+|{{convert|71.5|F}}
+|{{convert|75.9|F}}
+|{{convert|79.8|F}}
+|{{convert|79.0|F}}
+|{{convert|80.3|F}}
+|{{convert|75.4|F}}
+|{{convert|66.9|F}}
+|{{convert|62.2|F}}
+|-
+|Coldest
+|{{convert|46.7|F}}
+|{{convert|51.1|F}}
+|{{convert|52.0|F}}
+|{{convert|55.2|F}}
+|{{convert|57.2|F}}
+|{{convert|62.9|F}}
+|{{convert|66.2|F}}
+|{{convert|66.3|F}}
+|{{convert|63.1|F}}
+|{{convert|57.8|F}}
+|{{convert|55.2|F}}
+|{{convert|49.4|F}}
+|-
+|Wettest
+|{{convert|14.43|in}}
+|{{convert|15.23|in}}
+|{{convert|10.44|in}}
+|{{convert|7.31|in}}
+|{{convert|3.83|in}}
+|{{convert|0.98|in}}
+|{{convert|0.43|in}}
+|{{convert|2.54|in}}
+|{{convert|5.13|in}}
+|{{convert|5.13|in}}
+|{{convert|9.96|in}}
+|{{convert|11.46|in}}
+|-
+|Driest
+|{{convert|0|in}}
+|{{convert|0|in}}
+|{{convert|0|in}}
+|{{convert|0|in}}
+|{{convert|0|in}}
+|{{convert|0|in}}
+|{{convert|0|in}}
+|{{convert|0|in}}
+|{{convert|0|in}}
+|{{convert|0|in}}
+|{{convert|0|in}}
+|{{convert|0|in}}
+|}
+
+=== Environmental issues ===
+{{Further|Pollution in California#Los Angeles Air Pollution}}
+[[File:Los Angeles Pollution.jpg|thumb|The city is often covered in smog, as in this December 2005 image.]]
+{{external media|width=210px|align=right|headerimage=|audio1=[https://www.sciencehistory.org/distillations/podcast/fighting-smog-in-los-angeles “Fighting Smog in Los Angeles”], ''Distillations'' Podcast, 2018 [[Science History Institute]]}}
+
+A Gabrielino settlement in the area was called ''iyáangẚ'' (written ''Yang-na'' by the Spanish), which has been translated as "poison oak place".<ref name="google86" /><ref name="sfgate2002" /> ''Yang-na'' has also been translated as "the valley of smoke".<ref>{{cite news|url=http://www.sacbee.com/101/story/1066675.html|title=Smoke is Normal&nbsp;– for 1800|last=Bowman|first=Chris|date=July 8, 2008|newspaper=[[The Sacramento Bee]]|accessdate=October 6, 2011|archive-url=https://web.archive.org/web/20080709015204/http://www.sacbee.com/101/story/1066675.html|archive-date=July 9, 2008}}</ref><ref>{{cite web|url=http://webarchive.iiasa.ac.at/Admin/PUB/Documents/IR-98-077.pdf|title=Environment: Evolution of a Concept|author=Gordon J. MacDonald|page=2|quote=The Native American name for Los Angeles was Yang na, which translates into "the valley of smoke."}}</ref> Owing to geography, heavy reliance on automobiles, and the Los Angeles/Long Beach port complex, Los Angeles suffers from [[air pollution]] in the form of [[smog]]. The [[Los Angeles Basin]] and the [[San Fernando Valley]] are susceptible to [[Inversion (meteorology)|atmospheric inversion]], which holds in the exhausts from road vehicles, airplanes, locomotives, shipping, manufacturing, and other sources.<ref>{{cite journal|url=https://books.google.com/books?id=xdwDAAAAMBAJ&pg=PA65|title=What can we do about smog?|last=Stimson|first=Thomas E.|journal=Popular Mechanics, 2015|date=July 1955|publisher=[[Popular Mechanics]]|page=65|issn=0032-4558|accessdate=October 6, 2011}}</ref> The percentage of small particle pollution (the kind that penetrates into the lungs) coming from vehicles in the city can get as high as 55 percent.<ref>{{cite news|last=Conniff|first= Richard|title= The Urban Pedestrian Strikes Back|newspaper=The New York Times| date= December 16, 2018| page= 5|url=https://www.nytimes.com/2018/12/15/opinion/sunday/cars-pedestrians-cities.html?searchResultPosition=1}}</ref>
+
+The smog season lasts from approximately May to October.<ref name="Information1983">{{cite journal|url=https://books.google.com/books?id=CJNJjq8h2zwC&pg=PA393|title=Smog Hangs Over Olympic Athletes|date=August 11, 1983|journal=New Scientist|page=393|issn=0262-4079|accessdate=October 6, 2011}}</ref> While other large cities rely on rain to clear smog, Los Angeles gets only {{convert|15|in|mm|-1}} of rain each year: pollution accumulates over many consecutive days. Issues of air quality in Los Angeles and other major cities led to the passage of early national environmental legislation, including the [[United States Clean Air Act|Clean Air Act]]. When the act was passed, California was unable to create a [[State Implementation Plan]] that would enable it to meet the new air quality standards, largely because of the level of pollution in Los Angeles generated by older vehicles.<ref>“Early Implementation of the Clean Air Act of 1970 in California.” EPA Alumni Association. [[Video]], [https://www.epaalumni.org/userdata/pdf/2B9E3C6816EC9466.pdf#page=7 Transcript] (see p7,10). July 12, 2016.</ref> More recently, the state of California has led the nation in working to limit pollution by mandating [[low-emission vehicle]]s. Smog is expected to continue to drop in the coming years because of aggressive steps to reduce it, which include [[Electric car|electric]] and [[Hybrid electric vehicle|hybrid]] cars, improvements in [[mass transit]], and other measures.
+
+The number of Stage 1 smog alerts in Los Angeles has declined from over 100 per year in the 1970s to almost zero in the new millennium.<ref>{{cite web|url=https://news.usc.edu/76761/las-environmental-success-story-cleaner-air-healthier-kids/|title=L.A.'s Environmental Success Story: Cleaner Air, Healthier Kids|last1=Marziali|first1=Carl|date=March 4, 2015|website=USC News|accessdate=March 16, 2015}}</ref> Despite improvement, the 2006 and 2007 annual reports of the [[American Lung Association]] ranked the city as the most polluted in the country with short-term particle pollution and year-round particle pollution.<ref name="shortTermPollutedCities">{{cite web|url=http://www.stateoftheair.org/2013/city-rankings/most-polluted-cities.html|title=Most Polluted Cities|publisher=[[American Lung Association]]|accessdate=January 12, 2015}}</ref> In 2008, the city was ranked the second most polluted and again had the highest year-round particulate pollution.<ref>{{cite web|url=http://www.citymayors.com/environment/polluted_uscities.html|title=Pittsburgh and Los Angeles the most polluted US cities|date=May 4, 2008|publisher=citymayors.com|accessdate=October 7, 2011}}</ref> The city met its goal of providing 20 percent of the city's power from renewable sources in 2010.<ref name="Renewable Energy">{{cite news|url=https://www.bloomberg.com/news/2011-01-14/los-angeles-meets-20-percent-renewable-energy-goal.html|title=Los Angeles meets 20 percent renewable energy goal|date=January 14, 2011|work=[[Bloomberg News]]|accessdate=October 7, 2011|archive-url=https://web.archive.org/web/20110201090303/http://www.bloomberg.com/news/2011-01-14/los-angeles-meets-20-percent-renewable-energy-goal.html|archive-date=February 1, 2011}}</ref> The American Lung Association's 2013 survey ranks the metro area as having the nation's worst smog, and fourth in both short-term and year-round pollution amounts.<ref>{{cite web|url=http://www.stateoftheair.org/2013/msas/los-angeles-long-beach-riverside-ca.html#ozone|title=American Lung Association State of the Air 2013 – Los Angeles-Long Beach-Riverside, CA|work=American Lung Association State of the Air 2013|accessdate=September 1, 2015}}</ref>
+
+Los Angeles is also home to the nation's largest urban [[oil field]]. There are more than 700 active oil wells within 1,500 feet of homes, churches, schools and hospitals in the city, a situation about which the [[United States Environmental Protection Agency|EPA]] has voiced serious concerns.<ref>{{cite web|url=https://www.latimes.com/local/la-me-1109-fumes-20131109-story.html|title=EPA officers sickened by fumes at South L.A. oil field|website=latimes.com|access-date=March 24, 2016}}</ref>
+
+== Demographics ==
+{{Main|Demographics of Los Angeles|African-American neighborhoods in Los Angeles}}
+{|class="wikitable collapsible collapsed" style="float:right; margin:0 0 0.5em 1em; text-align:right; font-size:90%;"
+|-
+! style="background:tan; text-align:center" colspan="4"|<span style="color:black">City compared to State & U.S.</span>&nbsp;
+|- style="background:#ccc; text-align:center;"
+|'''2019 Estimate'''<ref name="QuickFacts2019">{{Cite web|url=https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,NY,US/PST045219|title=U.S. Census Bureau QuickFacts: New York city, New York; New York; United States|website=www.census.gov}}</ref>||'''L.A.'''||'''CA'''||'''U.S.'''
+|-
+|align=left|Total population|| 3,979,576 || 39,512,223 || 328,239,523
+|-
+|align=left|Population change, 2010 to 2019|| +4.9% || +6.1% || +6.3%
+|-
+|align=left|Population density (people/sqmi)|| 8,514.4 || 253.9 || 92.6
+|-
+|align=left|Median household income (2018)|| $58,385 || $71,228 || $60,293
+|-
+|align=left|Bachelor's degree or higher|| 33.7% || 33.3% || 31.5%
+|-
+|align=left|Foreign born|| 37.3% || 26.9% || 13.5%
+|-
+|align=left|White (non-Hispanic)|| 28.5% || 36.8% || 60.4%
+|-
+|align=left|Black|| 8.9% || 6.5% || 13.4%
+|-
+|align=left|Hispanic (any race)|| 48.6% || 39.3% || 18.3%
+|-
+|align=left|Asian|| 11.6% || 15.3% || 5.9%
+|}
+{{US Census population
+|1850= 1610
+|1860= 4385
+|1870= 5728
+|1880= 11183
+|1890= 50395
+|1900= 102479
+|1910= 319198
+|1920= 576673
+|1930= 1238048
+|1940= 1504277
+|1950= 1970358
+|1960= 2479015
+|1970= 2811801
+|1980= 2968528
+|1990= 3485398
+|2000= 3694820
+|2010= 3792621
+|estyear=2019
+|estimate=3979576
+|estref=<ref name="USCensusEst2019">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|title=Population and Housing Unit Estimates|accessdate=May 21, 2020}}</ref>
+|align-fn=center
+|footnote={{center|U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref>}}
+}}
+
+The [[2010 United States Census]]<ref>{{cite web|url=https://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0644000|title=2010 Census Interactive Population Search: CA — Los Angeles|publisher=[[United States Census Bureau]]|accessdate=July 12, 2014|archive-url=https://web.archive.org/web/20140724205607/http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0644000|archive-date=July 24, 2014|url-status=dead}}</ref> reported Los Angeles had a population of 3,792,621.<ref name="Census 2010, LA city">{{cite web|url=https://www.census.gov/quickfacts/table/PST045215/0644000,06|title=Los Angeles (city), California|publisher=[[United States Census Bureau]]|accessdate=October 3, 2016}}</ref> The population density was 8,092.3 people per square mile (2,913.0/km<sup>2</sup>). The age distribution was 874,525 people (23.1%) under 18, 434,478 people (11.5%) from 18 to 24, 1,209,367 people (31.9%) from 25 to 44, 877,555 people (23.1%) from 45 to 64, and 396,696 people (10.5%) who were 65 or older.<ref name="Census 2010, LA city" /> The median age was 34.1 years. For every 100 females, there were 99.2 males. For every 100 females age 18 and over, there were 97.6 males.<ref name="Census 2010, LA city" />
+
+There were 1,413,995 housing units—up from 1,298,350 during 2005–2009<ref name="Census 2010, LA city" />—at an average density of 2,812.8 households per square mile (1,086.0/km<sup>2</sup>), of which 503,863 (38.2%) were owner-occupied, and 814,305 (61.8%) were occupied by renters. The homeowner vacancy rate was 2.1%; the rental vacancy rate was 6.1%. 1,535,444 people (40.5% of the population) lived in owner-occupied housing units and 2,172,576 people (57.3%) lived in rental housing units.<ref name="Census 2010, LA city" />
+[[File:Distribution of high income households across LA County.png|thumb|Percentage of households with incomes above $150k across LA County census tracts]]
+According to the 2010 United States Census, Los Angeles had a median household income of $49,497, with 22.0% of the population living below the federal poverty line.<ref name="Census 2010, LA city" />
+
+=== Race and ethnicity ===
+{| class="wikitable sortable collapsible" style="font-size: 90%;"
+!Racial composition
+!2010
+!1990<ref name="Census" />
+!1970<ref name="Census" />
+!1940<ref name="Census" />
+|-
+|[[Non-Hispanic White]]
+|28.7%
+|37.3%
+|61.1%<ref name="fifteen">From 15% sample</ref>
+|86.3%
+|-
+|[[African American|Black or African American]]
+|9.6%
+|14.0%
+|17.9%
+|4.2%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|48.5%
+|39.9%
+|17.1%<ref name="fifteen" />
+|7.1%<ref>Hispanic origin based on the White population of Spanish mother tongue.</ref>
+|-
+|[[Asian American|Asian]]
+|11.3%
+|9.8%
+|3.6%
+|2.2%
+|}
+[[File:Race and ethnicity 2010- Los Angeles (5560490330).png|thumb|Map of racial distribution in Los Angeles, 2010 U.S. Census. Each dot is 25 people: <span style="color:#ff0000">'''White'''</span>, <span style="color:#0000ff">'''Black'''</span>, <span style="color:#00ff80">'''Asian'''</span>, <span style="color:#ff8000">'''Hispanic'''</span> or '''Other''' (yellow)]]
+
+According to the 2010 Census, the racial makeup of Los Angeles included: 1,888,158 [[White American|Whites]] (49.8%), 365,118 [[African American]]s (9.6%), 28,215 [[Native Americans in the United States|Native Americans]] (0.7%), 426,959 [[Asian American|Asians]] (11.3%), 5,577 [[Pacific Islander American|Pacific Islanders]] (0.1%), 902,959 from [[Race and ethnicity in the United States Census#Race|other races]] (23.8%), and 175,635 (4.6%) from [[Multiracial American|two or more races]].<ref name="Census 2010, LA city" /> [[Hispanic and Latino Americans|Hispanics or Latinos]] of any race were 1,838,822 persons (48.5%). Los Angeles is home to people from more than 140 countries speaking 224 different identified languages.<ref name="World Population Review">{{cite web |title=Los Angeles, California Population 2019 |url=http://worldpopulationreview.com/us-cities/los-angeles-population/ |website=World Population Review |accessdate=August 21, 2019}}</ref> [[Ethnic enclave]]s like [[Chinatown, Los Angeles|Chinatown]], [[Historic Filipinotown, Los Angeles|Historic Filipinotown]], [[Koreatown, Los Angeles|Koreatown]], [[Little Armenia, Los Angeles|Little Armenia]], [[Little Ethiopia, Los Angeles|Little Ethiopia]], [[Tehrangeles]], [[Little Tokyo, Los Angeles|Little Tokyo]], [[Little Bangladesh]], and [[Thai Town, Los Angeles|Thai Town]] provide examples of the [[Multiculturalism|polyglot]] character of Los Angeles.
+
+[[Non-Hispanic whites]] were 28.7% of the population in 2010,<ref name="Census 2010, LA city" /> compared to 86.3% in 1940.<ref name="Census">{{cite web|url=https://www.census.gov/population/www/documentation/twps0076/twps0076.html|title=Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990|publisher=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20120812191959/http://www.census.gov/population/www/documentation/twps0076/twps0076.html|archive-date=August 12, 2012|url-status=dead|accessdate=November 6, 2015}}</ref> The majority of the Non-Hispanic white population is living in areas along the Pacific coast as well as in neighborhoods near and on the Santa Monica Mountains from the [[Pacific Palisades, Los Angeles|Pacific Palisades]] to [[Los Feliz, Los Angeles|Los Feliz]].
+
+[[Mexican American|Mexican]] ancestry make up the largest ethnic group of Hispanics at 31.9% of the city's population, followed by those of [[Salvadoran American|Salvadoran]] (6.0%) and [[Guatemalan American|Guatemalan]] (3.6%) heritage. The Hispanic population has a long established Mexican-American and Central American community and is spread well-nigh throughout the entire city of Los Angeles and its metropolitan area. It is most heavily concentrated in regions around Downtown as [[East Los Angeles (region)|East Los Angeles]], [[Northeast Los Angeles]] and [[Westlake, Los Angeles|Westlake]]. Furthermore, a vast majority of residents in neighborhoods in eastern [[South Los Angeles]] towards [[Downey, California|Downey]] are of Hispanic origin.
+
+The largest Asian ethnic groups are [[Filipino American|Filipinos]] (3.2%) and [[Korean American|Koreans]] (2.9%), which have their own established ethnic enclaves—[[Koreatown, Los Angeles|Koreatown]] in the Wilshire Center and [[Historic Filipinotown]]. [[Chinese American|Chinese]] people, which make up 1.8% of Los Angeles's population, reside mostly outside of Los Angeles city limits and rather in the [[San Gabriel Valley]] of eastern Los Angeles County, but make a sizable presence in the city, notably in [[Chinatown, Los Angeles|Chinatown]]. Chinatown and [[Thaitown, Los Angeles, California|Thaitown]] are also home to many [[Thai American|Thais]] and [[Cambodian American|Cambodians]], which make up 0.3% and 0.1% of Los Angeles's population, respectively. The [[Japanese American|Japanese]] comprise 0.9% of LA's population, and have an established [[Little Tokyo, Los Angeles|Little Tokyo]] in the city's downtown, and another significant community of Japanese Americans is in the [[Sawtelle, Los Angeles|Sawtelle]] district of West Los Angeles. [[Vietnamese American|Vietnamese]] make up 0.5% of Los Angeles's population. [[Indian American|Indians]] make up 0.9% of the city's population.
+
+The [[Los Angeles metropolitan area]] is home to a large population of [[Armenian American|Armenians]], [[Assyrian Americans|Assyrians]], and [[Iranian Americans|Iranians]], many of whom live in enclaves like [[Little Armenia, Los Angeles|Little Armenia]] and [[Tehrangeles]].
+
+[[African Americans]] have been the predominant ethnic group in [[South Los Angeles]], which has emerged as the largest African American community in the western United States since the 1960s. The neighborhoods of South Los Angeles with highest concentration of African Americans include [[Crenshaw, Los Angeles|Crenshaw]], [[Baldwin Hills, Los Angeles|Baldwin Hills]], [[Leimert Park, Los Angeles|Leimert Park]], [[Hyde Park, Los Angeles|Hyde Park]], [[Gramercy Park, Los Angeles|Gramercy Park]], [[Manchester Square, Los Angeles|Manchester Square]] and [[Watts, Los Angeles|Watts]].<ref name="MaryEllen">{{cite book|title=The City of Watts, California: 1907 to 1926|author=Ray, MaryEllen Bell|year=1985|isbn=978-0-917047-01-5|url-access=registration|url=https://archive.org/details/cityofwattscalif0000raym}}</ref> Apart from South Los Angeles, neighborhoods in the [[Central Los Angeles|Central]] region of Los Angeles, as [[Mid-City, Los Angeles|Mid-City]] and [[Mid-Wilshire, Los Angeles|Mid-Wilshire]] have a moderate concentration of African Americans as well.
+
+=== Religion ===
+{{bar box
+|title = Religious affiliation (2014)<ref name="LAReligion1"/><ref name="LAReligion2"/>
+|titlebar=#ccf |background-color=#f8f9fa |float=right
+|bars =
+{{bar percent|[[Christianity|Christian]]|darkblue|65}}
+{{bar percent|[[Catholic Church|Catholic]]|mediumblue|32}}
+{{bar percent|[[Protestant]]|mediumblue|30}}
+{{bar percent|Other Christian|mediumblue|3}}
+{{bar percent|Unaffiliated|purple|25}}
+{{bar percent|[[Jewish]]|lightgreen|3}}
+{{bar percent|[[Muslim]]|lightgreen|2}}
+{{bar percent|[[Buddhist]]|lightgreen|2}}
+{{bar percent|[[Hindu]]|lightgreen|1}}
+{{bar percent|Other faiths|lightgreen|1}}
+}}
+[[File:Los Angeles Cathedral-2.jpg|thumb|The [[Cathedral of Our Lady of the Angels]] is the mother [[cathedral]] for the [[Roman Catholic Archdiocese of Los Angeles|Los Angeles archdiocese]].<ref name="olahistory">{{cite web| url=http://www.olacathedral.org/cathedral/about/history1.html| publisher=Cathedral of Our Lady of the Angels| title=About: History| accessdate=July 18, 2011| archive-url=https://web.archive.org/web/20110709151235/http://www.olacathedral.org/cathedral/about/history1.html| archive-date=July 9, 2011| url-status=live}}</ref>]]
+According to a 2014 study by the [[Pew Research Center]], [[Christianity]] is the most prevalently practiced religion in Los Angeles (65%).<ref name="LAReligion1">[http://www.pewresearch.org/fact-tank/ Major U.S. metropolitan areas differ in their religious profiles], Pew Research Center</ref><ref name="LAReligion2">{{cite web|url=http://www.pewforum.org/2015/05/12/americas-changing-religious-landscape/|title=America's Changing Religious Landscape|date=May 12, 2015|publisher=[[Pew Research Center]]: Religion & Public Life}}</ref> The [[Roman Catholic Archdiocese of Los Angeles]] is the largest [[Diocese|archdiocese]] in the country.<ref>{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2006/04/01/AR2006040101206.html|title=Cardinal Puts Church in Fight for Immigration Rights|last=Pomfret|first=John|date=April 2, 2006|work=[[Washington Post]]|accessdate=October 22, 2011}}</ref> [[Roger Mahony|Cardinal Roger Mahony]], as the archbishop, oversaw construction of the [[Cathedral of Our Lady of the Angels]], which opened in September 2002 in Downtown Los Angeles.<ref>{{cite news|url=https://articles.latimes.com/2002/sep/04/local/me-cathedral4|title=Pomp Past, Masses Flock to Cathedral|last1=Stammer|first1=Larry B.|date=September 4, 2002|newspaper=[[Los Angeles Times]]|accessdate=October 22, 2011|last2=Becerra|first2=Hector}}</ref>
+
+In 2011, the once common, but ultimately lapsed, custom of conducting a procession and mass in honor of Nuestra Señora de los Ángeles, in commemoration of the founding of the City of Los Angeles in 1781, was revived by the [[Queen of Angels Foundation]] and its founder Mark Albert, with the support of the Archdiocese of Los Angeles as well as several civic leaders.<ref>{{cite news|url=http://www.thequeenofangels.com/wp-content/media/tidings-online20110906.pdf|title=2011 'Grand Procession' revives founding of L.A. Marian devotion|author=Dellinger, Robert|date=September 6, 2011|work=The Tidings Online|accessdate=January 14, 2015}}</ref> The recently revived custom is a continuation of the original processions and masses that commenced on the first anniversary of the founding of Los Angeles in 1782 and continued for nearly a century thereafter.
+
+With 621,000 [[American Jews|Jews]] in the metropolitan area, the region has the second-largest population of Jews in the United States.<ref name="Jews">{{cite web|url=http://www.simpletoremember.com/vitals/world-jewish-population.htm|title=World Jewish Population|publisher=SimpleToRemember.com|accessdate=October 23, 2011}}</ref> Many of Los Angeles's Jews now live on the [[Westside (Los Angeles County)|Westside]] and in the [[San Fernando Valley]], though [[Boyle Heights, Los Angeles, California|Boyle Heights]] once had a large Jewish population prior to World War II due to restrictive housing covenants. Major Orthodox Jewish neighborhoods include [[Hancock Park, Los Angeles|Hancock Park]], [[Pico-Robertson]], and [[Valley Village, Los Angeles|Valley Village]], while Jewish Israelis are well represented in the [[Encino, Los Angeles|Encino]] and [[Tarzana, Los Angeles|Tarzana]] neighborhoods, and [[Persian Jews]] in [[Beverly Hills, California|Beverly Hills]]. Many varieties of Judaism are represented in the greater Los Angeles area, including [[Reform Judaism|Reform]], [[Conservative Judaism|Conservative]], [[Orthodox Judaism|Orthodox]], and [[Reconstructionist Judaism|Reconstructionist]]. The [[Breed Street Shul]] in [[East Los Angeles, California|East Los Angeles]], built in 1923, was the largest synagogue west of Chicago in its early decades; it is no longer in daily use as a synagogue and is being converted to a museum and community center.<ref>{{cite news|url=http://www.isjm.org/jhr/no1/america.htm|title=Washington Symposium and Exhibition Highlight Restoration and Adaptive Reuse of American Synagogues|date=March 1997|work=Jewish Heritage Report|accessdate=October 23, 2011|number=1|archive-url=https://web.archive.org/web/20110327105250/http://www.isjm.org/jhr/no1/america.htm|archive-date=March 27, 2011|url-status=dead}}</ref><ref>{{cite news|url=http://www.isjm.org/jhr/IInos1-2/breedstreet.htm|title=Los Angeles's Breed Street Shul Saved by Politicians|date=Spring–Summer 1998|work=Jewish Heritage Report|accessdate=October 23, 2011|number=1–2|volume=II|archive-url=https://web.archive.org/web/20110327105245/http://www.isjm.org/jhr/IInos1-2/breedstreet.htm|archive-date=March 27, 2011|url-status=dead}}</ref> The [[Kabbalah Centre]] also has a presence in the city.<ref>{{cite news|url=http://www.time.com/time/magazine/article/0,9171,1223372,00.html|title=Madonna Finds A Cause|last=Luscombe|first=Belinda|date=August 6, 2006|work=[[Time Magazine]]|accessdate=October 23, 2011}}</ref>
+
+The [[International Church of the Foursquare Gospel]] was founded in Los Angeles by [[Aimee Semple McPherson]] in 1923 and remains headquartered there to this day. For many years, the church convened at [[Angelus Temple]], which, when built, was one of the largest churches in the country.<ref>Edith Waldvogel Blumhofer, ''Aimee Semple McPherson: everybody's sister'', Wm. B. Eerdmans Publishing, USA, 1993, page 246-247</ref>
+
+Los Angeles has had a rich and influential Protestant tradition. The first Protestant service in Los Angeles was a Methodist meeting held in a private home in 1850 and the oldest Protestant church still operating, [[First Congregational Church of Los Angeles|First Congregational Church]], was founded in 1867.<ref name="Eighteen5019Thirty">{{cite web|url=http://www.prolades.com/glama/la5co07/overview_1850-1930.htm|title=n Overview of Religion in Los Angeles from 1850 to 1930|author=Clifton L. Holland}}</ref> In the early 1900s the [[Bible Institute Of Los Angeles]] published the founding documents of the [[Christian Fundamentalist]] movement and the [[Azusa Street Revival]] launched [[Pentecostalism]].<ref name="Eighteen5019Thirty" /> The [[Metropolitan Community Church]] also had its origins in the Los Angeles area.<ref>{{Cite web|url=https://www.mccchurch.org/overview/history-of-mcc/|title=History of MCC – Metropolitan Community Churches|website=www.mccchurch.org}}</ref> Important churches in the city include [[First Presbyterian Church of Hollywood]], [[Bel Air Presbyterian Church]], [[First African Methodist Episcopal Church of Los Angeles]], [[West Angeles Church of God in Christ]], [[Second Baptist Church (Los Angeles, California)|Second Baptist Church]], [[Crenshaw Christian Center]], [[McCarty Memorial Christian Church]], and First Congregational Church.
+
+The [[Los Angeles California Temple]], the second-largest [[Temple (Latter Day Saints)|temple]] operated by [[The Church of Jesus Christ of Latter-day Saints]], is on [[California State Route 2|Santa Monica Boulevard]] in the [[Westwood, Los Angeles|Westwood neighborhood]] of Los Angeles. Dedicated in 1956, it was the first [[Temple (LDS Church)|temple]] of [[The Church of Jesus Christ of Latter-day Saints]] built in California and it was the largest in the world when completed.<ref>{{cite web|url=https://churchofjesuschristtemples.org/los-angeles-california-temple/|title=LDS Los Angeles California Temple|publisher=The Church of Jesus Christ of Latter-day Saints|accessdate=October 23, 2011}}</ref>
+
+The Hollywood region of Los Angeles also has several significant headquarters, churches, and the [[Celebrity Center]] of [[Scientology]].<ref>{{cite web|url=http://www.scientology.cc/en_US/index.html|title=Church of Scientology Celebrity Centre International|website=Church of Scientology Celebrity Centre International|accessdate=June 17, 2018}}</ref>{{citation needed|date=September 2017}}
+
+Because of Los Angeles's large multi-ethnic population, a wide variety of faiths are practiced, including [[Buddhism]], [[Hinduism]], [[Islam]], [[Zoroastrianism]], [[Sikhism]], [[Baháʼí Faith|Baháʼí]], various [[Eastern Orthodox Church|Eastern Orthodox churches]], [[Sufism]], [[Shinto]]ism, [[Taoism]], [[Confucianism]], [[Chinese folk religion]] and countless others. Immigrants from Asia for example, have formed a number of significant [[Buddhism|Buddhist]] congregations making the city home to the greatest variety of Buddhists in the world. The first Buddhist [[joss house]] was founded in the city in 1875.<ref name="Eighteen5019Thirty" /> [[Atheism]] and other [[secular]] beliefs are also common, as the city is the largest in the Western U.S. [[Unchurched Belt]].
+
+== Economy ==
+{{See also|Los Angeles Chamber of Commerce|Los Angeles County, California#Economy}}
+[[File:Tree Map of Employment by Industries in Los Angeles County, Ca (2015).svg|thumb|Employment by industry in Los Angeles County (2015)]]
+[[File:Kaiser Sunset Hospital.jpg|thumb|Kaiser Sunset Hospital in Los Angeles. [[Kaiser Permanente]] was the largest non-government employer in Los Angeles County in 2018.]]
+The economy of Los Angeles is driven by international trade, entertainment (television, motion pictures, video games, music recording, and production), aerospace, technology, petroleum, fashion, apparel, and tourism.{{citation needed|date=June 2015}} Other significant industries include finance, telecommunications, law, healthcare, and transportation. In the 2017 [[Global Financial Centres Index]], Los Angeles was ranked as having the 19th most competitive financial center in the world, and sixth most competitive in United States (after [[Economy of New York City#Finance|New York City]], [[San Francisco#Economy|San Francisco]], [[Economy of Chicago#Finance|Chicago]], [[Boston#Economy|Boston]], and [[Washington, D.C.#Economy|Washington, D.C.]]).<ref>{{cite web|url=http://www.longfinance.net/images/gfci/gfci_21.pdf|title=The Global Financial Centres Index 21|date=March 2017|publisher=Long Finance|archive-url=https://web.archive.org/web/20170611000617/http://www.longfinance.net/images/gfci/gfci_21.pdf|archive-date=June 11, 2017|url-status=dead}}</ref>
+
+One of the five [[major film studio]]s, [[Paramount Pictures]], is within the city limits,<ref>{{Cite book|url=https://books.google.com/books?id=KnzsAgAAQBAJ&lpg=PA143|title=The New Historical Dictionary of the American Film Industry|last=Slide|first=Anthony|date=February 25, 2014|publisher=Routledge|isbn=978-1-135-92554-3|language=en}}</ref> its location being part of the so-called "[[Studio zone|Thirty-Mile Zone]]" of entertainment headquarters in Southern California.
+
+Los Angeles is the largest manufacturing center in the United States.<ref name="citydata">{{cite web|url=http://www.city-data.com/us-cities/The-West/Los-Angeles-Economy.html|title=Los Angeles: Economy|publisher=[[City-Data]]|accessdate=October 7, 2011}}</ref> The contiguous [[Port of Los Angeles|ports of Los Angeles]] and [[Port of Long Beach|Long Beach]] together comprise the busiest port in the United States by some measures and the fifth-busiest port in the world, vital to trade within the [[Pacific Rim]].<ref name="citydata" />
+
+The [[Los Angeles metropolitan area]] has a [[gross metropolitan product]] of $1.0&nbsp;trillion ({{As of|2017|lc=y}}),<ref name=bea>{{cite web|url=https://apps.bea.gov/itable/iTable.cfm?ReqID=70&step=1|title=Table 3.1. GDP & Personal Income|publisher=U.S. Bureau of Economic Analysis|year=2018|accessdate=April 6, 2019}}</ref> making it the third-largest economic metropolitan area in the world, after [[Greater Tokyo Area|Tokyo]] and [[New York metropolitan area|New York]].<ref name=bea /> Los Angeles has been classified an "[[Global city|alpha world city]]" according to a 2012 study by a group at [[Loughborough University]].<ref>{{cite web|url=http://www.lboro.ac.uk/gawc/world2012t.html|title=The World According to GaWC 2012|work=Globalization and World Cities Research Network|publisher=[[Loughborough University]]|accessdate=January 25, 2014}}</ref>
+
+The Department of Cannabis Regulation enforces cannabis legislation after the legalization of the sale and distribution of [[Cannabis (drug)|cannabis]] in 2016.<ref>{{Cite web|last=Queally|first=James|date=December 13, 2019|title=Dozens of unlicensed cannabis dispensaries raided in L.A. this week|url=https://www.latimes.com/california/story/2019-12-12/authorities-shut-down-unlicensed-dispensary-in-palms|access-date=December 14, 2019|website=Los Angeles Times|language=en-US}}</ref> {{As of|2019|October|df=}}, more than 300 existing cannabis businesses (both retailers and their suppliers) have been granted approval to operate in what is considered the nation's largest market.<ref>{{Cite news|last=Chiotakis|first=Steve|date=October 1, 2019|title=Navigating LA's cannabis industry with the city's pot czar|language=en|work=KCRW|url=https://www.kcrw.com/news/shows/greater-la/la-opens-its-first-cannabis-cafe/navigating-las-cannabis-industry-with-the-citys-pot-czar|access-date=October 30, 2019}}</ref><ref>{{Cite news|last=REYES|first=EMILY ALPERT|date=October 29, 2019|title=L.A. should suspend vetting applications for pot shops amid concerns, Wesson urges|language=en-US|newspaper=[[Los Angeles Times]]|url=https://www.latimes.com/california/story/2019-10-29/la-pot-shops-licensing-suspection-urged|access-date=October 30, 2019}}</ref>
+
+{{as of|2018}}, Los Angeles is home to three Fortune 500 companies: [[AECOM]], [[CBRE Group]], and [[Reliance Steel & Aluminum Co.|Reliance Steel & Aluminum Co]].<ref name="Fortune_500">{{cite web|url=http://fortune.com/fortune500/list/filtered?hqcity=Los%20Angeles|title=Fortune 500 Companies 2018: Who Made The List|website=Fortune|publisher=[[Meredith Corporation]]|access-date=April 13, 2015}}</ref>
+{| class="wikitable sortable"
+|+
+! colspan="3" |Largest Non-Government Employers in Los Angeles County, August 2018<ref>{{Cite web|url=https://lacontroller.org/wp-content/uploads/2019/02/FY18_CAFR_Final_1.31.19_v3.pdf|title=City of Los Angeles' Comprehensive Annual Financial Report|date=January 31, 2019|accessdate=September 9, 2019}}</ref>
+|-
+!Rank
+!Employer
+!Employees
+|-
+|1
+|[[Kaiser Permanente]]
+|37,468
+|-
+|2
+|[[University of Southern California]]
+|21,055
+|-
+|3
+|[[Northrop Grumman|Northrop Grumman Corp.]]
+|16,600
+|-
+|4
+|[[Providence Health & Services|Providence Health and Services Southern California]]
+|15,952
+|-
+|5
+|[[Target Corporation|Target Corp.]]
+|15,000
+|-
+|6
+|[[Ralphs|Ralphs/Food 4 Less (Kroger Co. Division)]]
+|14,970
+|-
+|7
+|[[Cedars-Sinai Medical Center]]
+|14,903
+|-
+|8
+|[[The Walt Disney Company|Walt Disney Co.]]
+|13,000
+|-
+|9
+|[[Allied Universal]]
+|12,879
+|-
+|10
+|[[NBCUniversal|NBC Universal]]
+|12,000
+|}
+
+== Culture ==
+{{Main|Culture of Los Angeles}}
+[[File:Hollywood bowl and sign.jpg|right|thumb|220x220px|[[Hollywood Bowl]]]]
+
+Los Angeles is often billed as the "Creative Capital of the World", because one in every six of its residents works in a creative industry<ref>{{cite web|url=http://www.smartplanet.com/blog/smart-takes/is-los-angeles-really-the-creative-capital-of-the-world-report-says-yes/2202|title=Is Los Angeles really the creative capital of the world? Report says yes|date=November 19, 2009|publisher=SmartPlanet|accessdate=October 14, 2011}}</ref> and there are more artists, writers, filmmakers, actors, dancers and musicians living and working in Los Angeles than any other city at any other time in history.<ref name="Only In LA">{{cite web|url=http://stevens.usc.edu/news_only_in_la.php|title=Only In LA: Tapping L.A. Innovation|publisher=[[University of Southern California]]|archive-url=https://web.archive.org/web/20111002195549/http://stevens.usc.edu/news_only_in_la.php|archive-date=October 2, 2011|url-status=dead|accessdate=October 14, 2011}}</ref>
+
+=== Movies and the performing arts ===
+The city's [[Hollywood, Los Angeles|Hollywood neighborhood]] has become recognized as the center of the [[Film industry|motion picture industry]] and the Los Angeles area is also associated as being the center of the [[television industry]]. The city is home to the major film studios as well as major record labels. Los Angeles plays host to the annual [[Academy Awards]], the [[Primetime Emmy Awards]], the [[Grammy Awards]] as well as many other entertainment industry awards shows. Los Angeles is the site of the [[USC School of Cinematic Arts]], the oldest [[film school]] in the United States.<ref>{{cite news|url=https://www.nytimes.com/2006/01/31/movies/31film.html|title=At U.S.C., a Practical Emphasis in Film|last=Waxman|first=Sharon|date=January 31, 2006|newspaper=[[The New York Times]]|accessdate=October 14, 2011}}</ref>[[File:Dolby Theatre.jpg|alt=|thumb|The [[Dolby Theatre]], venue for the [[Academy Awards]]]]The performing arts play a major role in Los Angeles's cultural identity. According to the USC Stevens Institute for Innovation, "there are more than 1,100 annual theatrical productions and 21 openings every week."<ref name="Only In LA" /> The [[Los Angeles Music Center]] is "one of the three largest performing arts centers in the nation", with more than 1.3&nbsp;million visitors per year.<ref>{{cite web|url=http://www.musiccenter.org/visit/index.html|title=Explore the Center|publisher=Music Center of Los Angeles County|archive-url=https://web.archive.org/web/20111005150134/http://musiccenter.org/visit/index.html|archive-date=October 5, 2011|url-status=dead|accessdate=October 14, 2011}}</ref> The [[Walt Disney Concert Hall]], centerpiece of the Music Center, is home to the prestigious [[Los Angeles Philharmonic]]. Notable organizations such as [[Center Theatre Group]], the [[Los Angeles Master Chorale]], and the [[Los Angeles Opera]] are also resident companies of the Music Center. Talent is locally cultivated at premier institutions such as the [[Colburn School]] and the [[USC Thornton School of Music]].
+
+=== Museums and galleries ===
+{{See also|List of museums in California#Los Angeles|l1=Los Angeles City Museums}}
+
+There are 841 museums and art galleries in [[Los Angeles County, California|Los Angeles County]],<ref name="lmu">{{cite web|url=http://www.lmu.edu/about/The_Los_Angeles_Region.htm|title=The Los Angeles Region|date=May 5, 2008|publisher=[[Loyola Marymount University]]|archive-url=https://web.archive.org/web/20111018115613/http://www.lmu.edu/about/The_Los_Angeles_Region.htm|archive-date=October 18, 2011|url-status=dead|accessdate=October 20, 2011}}</ref> more museums per capita than any other city in the U.S.<ref name="lmu" /> Some of the notable museums are the [[Los Angeles County Museum of Art]] (the largest art museum in the Western United States<ref>{{cite web|url=http://www.lacma.org/overview|title=Overview|publisher=[[Los Angeles County Museum of Art]]|accessdate=October 20, 2011}}</ref>), the [[Getty Center]] (part of the [[J. Paul Getty Trust]], the world's wealthiest art institution<ref>{{cite news|url=https://articles.latimes.com/2009/mar/16/entertainment/et-getty16|title=Getty slashes operating budget after severe investment losses|last=Boehm|first=Mike|date=March 16, 2009|newspaper=[[Los Angeles Times]]|accessdate=October 20, 2011}}</ref>), the [[Petersen Automotive Museum]], the [[Huntington Library]], the [[Natural History Museum of Los Angeles County|Natural History Museum]], the [[Battleship Iowa]], and the [[Museum of Contemporary Art, Los Angeles|Museum of Contemporary Art]]. A significant number of art galleries are on [[Gallery Row]], and tens of thousands attend the monthly Downtown Art Walk there.<ref>{{cite news|url=https://articles.latimes.com/2011/aug/05/local/la-me-0805-art-walk-20110805|title=Downtown L.A. Art Walk safety changes planned|last=Mather|first=Kate|date=August 5, 2011|newspaper=[[Los Angeles Times]]|accessdate=October 20, 2011}}</ref>
+
+== Sports ==
+
+{{See also|Sports in Los Angeles|History of the National Football League in Los Angeles}}
+[[File:USC_vs_University_of_Oregon_November_2019.png|alt=|thumb|[[Los Angeles Memorial Coliseum]]]]
+The city of Los Angeles and its metropolitan area are the home of eleven top level professional sports teams, several of which play in neighboring communities but use Los Angeles in their name. These teams include the [[Los Angeles Dodgers]] and [[Los Angeles Angels]] of [[Major League Baseball]] (MLB), the [[Los Angeles Rams]] and [[Los Angeles Chargers]] of the [[National Football League]] (NFL), the [[Los Angeles Lakers]] and [[Los Angeles Clippers]] of the [[National Basketball Association]] (NBA), the [[Los Angeles Kings]] and [[Anaheim Ducks]] of the [[National Hockey League]] (NHL), the [[Los Angeles Galaxy]] and [[Los Angeles Football Club]] of [[Major League Soccer]] (MLS), and the [[Los Angeles Sparks]] of the [[Women's National Basketball Association]] (WNBA).
+
+Other notable sports teams include the [[UCLA Bruins]] and the [[USC Trojans]] in the [[National Collegiate Athletic Association]] (NCAA), both of which are Division I teams in the [[Pac-12 Conference]].
+[[File:Dodger Stadium field from upper deck 2015-10-04.jpg|thumb|[[Dodger Stadium]]|alt=|left]]Los Angeles is the second-largest city in the United States but hosted no NFL team between 1995 and 2015. At one time, the Los Angeles area hosted two NFL teams: the [[Los Angeles Rams|Rams]] and the [[Las Vegas Raiders|Raiders]]. Both left the city in 1995, with the Rams moving to [[St. Louis]], and the Raiders moving back to their original home of [[Oakland, California|Oakland]]. After 21 seasons in St. Louis, on January 12, 2016, the NFL announced the Rams would be moving back to Los Angeles for the [[2016 NFL season]] with its home games played at the [[Los Angeles Memorial Coliseum]] for four seasons.<ref>{{cite news|url=http://www.nfl.com/news/story/0ap3000000621645/article/rams-to-relocate-to-la-chargers-first-option-to-join|title=Rams to relocate to L.A.; Chargers first option to join|last=Hanzus|first=Dan|date=January 12, 2016|accessdate=January 13, 2016|publisher=National Football League|website=NFL.com}}</ref><ref>{{cite news|url=http://www.therams.com/news-and-events/article-1/Rams-to-Return-to-Los-Angeles/802b4e16-671e-4864-97b6-943115cdc4cf|title=Rams to Return to Los Angeles|date=January 12, 2016|accessdate=January 13, 2016|archive-url=https://web.archive.org/web/20160120221040/http://www.therams.com/news-and-events/article-1/Rams-to-Return-to-Los-Angeles/802b4e16-671e-4864-97b6-943115cdc4cf|archive-date=January 20, 2016|url-status=dead|publisher=St. Louis Rams}}</ref><ref>{{cite news|url=https://www.washingtonpost.com/news/sports/wp/2015/01/12/nfl-returns-to-los-angeles-owners-approve-move-by-rams-chargers-with-option-to-join/|title=NFL returns to Los Angeles: Owners approve move by Rams; Chargers with option to join|last=Maske|first=Mark|date=January 12, 2016|newspaper=[[The Washington Post]]|accessdate=January 12, 2016}}</ref> Prior to 1995, the Rams played their home games in the Coliseum from 1946 to 1979 which made them the first professional sports team to play in Los Angeles, and then moved to [[Anaheim Stadium]] from 1980 until 1994. The [[History of the San Diego Chargers|San Diego Chargers]] announced on January 12, 2017 that they would also relocate back to Los Angeles (the first since its inaugural season in 1960) and become the [[Los Angeles Chargers]] beginning in the [[2017 NFL season]] and played at [[Dignity Health Sports Park]] in [[Carson, California]] for three seasons. The Rams and the Chargers would soon moved to the newly-built [[SoFi Stadium]], located in nearby [[Inglewood, California|Inglewood]] during the 2020 season.[[File:Staples Center 2012.jpg|thumb|[[Staples Center]] is a sports arena, home to the [[Los Angeles Lakers]], [[Los Angeles Clippers]], [[Los Angeles Kings]] and [[Los Angeles Sparks]].]]
+
+Los Angeles boasts a number of sports venues, including [[Dodger Stadium]], the [[Los Angeles Memorial Coliseum]], [[Banc of California Stadium]] and the [[Staples Center]]. [[The Forum (Inglewood, California)|The Forum]], [[SoFi Stadium]], [[Dignity Health Sports Park]], the [[Rose Bowl (stadium)|Rose Bowl]], [[Angel Stadium]] and [[Honda Center]] are also in adjacent cities and cities in Los Angeles's metropolitan area.<ref>{{Cite web|url=https://www.xfl.com/teams/los-angeles|title=XFL.com – Official home of the XFL|website=www.xfl.com}}</ref>
+
+Los Angeles has twice hosted the [[Summer Olympic Games]]: in [[1932 Summer Olympics|1932]] and in [[1984 Summer Olympics|1984]], and will host the games for a third time in [[2028 Summer Olympics|2028]].<ref>{{cite news|url=https://www.nytimes.com/2017/07/31/sports/olympics/los-angeles-2028-summer-olympics.html|title=Los Angeles Makes Deal to Host the 2028 Summer Olympics|last1=NAGOURNEY|first1=Adam|date=July 31, 2017|archive-url=https://web.archive.org/web/20170802233825/https://www.nytimes.com/2017/07/31/sports/olympics/los-angeles-2028-summer-olympics.html|archive-date=August 2, 2017|url-status=live|newspaper=[[The New York Times]]|last2=LONGMAN|first2=JERÉ|author-link=Adam Nagourney}}</ref> Los Angeles will be the third city after London ([[1908 Summer Olympics|1908]], [[1948 Summer Olympics|1948]] and [[2012 Summer Olympics|2012]]) and Paris ([[1900 Summer Olympics|1900]], [[1924 Summer Olympics|1924]] and [[2024 Summer Olympics|2024]]) to host the Olympic Games three times. When the tenth Olympic Games were hosted in 1932, the former 10th Street was renamed Olympic Blvd. Los Angeles also hosted the [[Deaflympics]] in [[1985 Summer Deaflympics|1985]]<ref>{{cite web|url=https://www.deaflympics.com/games.asp?1985-s|title=Games – Deaflympics|work=deaflympics.com|access-date=June 29, 2016|archive-url=https://web.archive.org/web/20180211093131/http://deaflympics.com/games.asp?1985-s|archive-date=February 11, 2018|url-status=dead}}</ref> and [[Special Olympics World Games|Special Olympics World Summer Games]] in [[2015 Special Olympics World Summer Games|2015]].<ref>{{cite web|url=http://www.specialolympics.org/RegionsPages/content.aspx?id=17736&LangType=1033|title=Los Angeles To Host 2015 Special Olympics World Summer Games|date=September 14, 2011|publisher=[[Special Olympics]]|accessdate=February 9, 2012}}</ref>
+
+7 [[NFL]] [[Super Bowl]]s were also held in the city and its surrounding areas- 2 at the Memorial Coliseum ([[Super Bowl I|the first Super Bowl, I]] and [[Super Bowl VII|VII]]) and 5 at the Rose Bowl in suburban [[Pasadena, California|Pasadena]] ([[Super Bowl XI|XI]], [[Super Bowl XIV|XIV]], [[Super Bowl XVII|XVII]], [[Super Bowl XXI|XXI]], and [[Super Bowl XXVII|XXVII]]), 10 miles north of downtown Los Angeles. [[Super Bowl LVI]] will be held at [[SoFi Stadium]] in [[Inglewood, California|Inglewood]] in 2022. The Rose Bowl is also host to an annual and highly prestigious [[NCAA]] [[college football]] game called the [[Rose Bowl game|Rose Bowl]], which happens every New Year's Day.
+
+Los Angeles also hosted 8 [[FIFA World Cup]] soccer games at the [[Rose Bowl (stadium)|Rose Bowl]] in [[1994 FIFA World Cup|1994]], including the [[1994 FIFA World Cup Final|final]], where [[Brazil national football team|Brazil]] won. The Rose Bowl also hosted 4 matches in the [[1999 FIFA Women's World Cup]], including the [[1999 FIFA Women's World Cup Final|final]], where the [[United States women's national soccer team|United States]] won against [[China women's national football team|China]] on penalty kicks. This was the game where [[Brandi Chastain]] took her shirt off after she scored the tournament-winning penalty kick, creating an iconic image.
+
+Los Angeles is one of six North American cities to have won championships in all five of its major leagues (MLB, NFL, NHL, NBA and MLS), having completed the feat with the Kings' [[2012 Stanley Cup Finals|2012 Stanley Cup title]].
+
+== Government ==
+{{Main|Government of Los Angeles}}
+{{See also|Government of Los Angeles County}}
+[[File:City Hall interior.jpg|thumb|The Tom Bradley Room, making up the whole interior of L.A. City Hall's 27th floor]]
+Los Angeles is a [[charter city]] as opposed to a [[general law city]]. The current charter was adopted on June 8, 1999, and has been amended many times.<ref>{{cite web|url=http://www.lacity.org/city-government/city-charter-rules-and-codes|title=Los Angeles, California Code Resources|publisher=American Legal Publishing|archive-url=https://web.archive.org/web/20150123035002/http://lacity.org/city-government/city-charter-rules-and-codes|archive-date=January 23, 2015|url-status=dead|accessdate=January 23, 2015}}</ref> The [[List of elected officials in Los Angeles|elected government]] consists of the [[Los Angeles City Council]] and the [[mayor of Los Angeles]], which operate under a [[mayor–council government]], as well as the [[Los Angeles City Attorney|city attorney]] (not to be confused with the [[Los Angeles County District Attorney|district attorney]], a county office) and [[Los Angeles City Controller|controller]]. The mayor is [[Eric Garcetti]]. There are [[Los Angeles City Council|15 city council districts]].
+
+The city has many departments and appointed officers, including the [[Los Angeles Police Department]] (LAPD), the [[Los Angeles Board of Police Commissioners]], the [[Los Angeles Fire Department]] (LAFD), the [[Housing Authority of the City of Los Angeles]] (HACLA), the [[Los Angeles Department of Transportation]] (LADOT), and the [[Los Angeles Public Library]] (LAPL).
+
+The charter of the City of Los Angeles ratified by voters in 1999 created a system of advisory neighborhood councils that would represent the diversity of stakeholders, defined as those who live, work or own property in the neighborhood. The neighborhood councils are relatively autonomous and spontaneous in that they identify their own boundaries, establish their own bylaws, and elect their own officers. There are about 90 neighborhood councils.
+
+Residents of Los Angeles elect [[Los Angeles County Board of Supervisors|supervisors]] for the 1st, 2nd, 3rd, and 4th supervisorial districts.
+
+=== Federal and state representation ===
+
+In the [[California State Assembly]], Los Angeles is split between fourteen districts.<ref>{{cite web|url=http://wedrawthelines.ca.gov/downloads/meeting_handouts_072011/handouts_20110729_q2_ad_finaldraft_splits.zip|title=Communities of Interest&nbsp;— City|publisher=California Citizens Redistricting Commission|archive-url=https://web.archive.org/web/20151023054757/http://wedrawthelines.ca.gov/downloads/meeting_handouts_072011/handouts_20110729_q2_ad_finaldraft_splits.zip|archive-date=October 23, 2015|url-status=dead|accessdate=September 28, 2014}}</ref> In the [[California State Senate]], the city is split between eight districts.<ref>{{cite web|url=http://wedrawthelines.ca.gov/downloads/meeting_handouts_072011/handouts_20110729_q2_sd_finaldraft_splits.zip|title=Communities of Interest&nbsp;— City|publisher=California Citizens Redistricting Commission|archive-url=https://web.archive.org/web/20151023054153/http://wedrawthelines.ca.gov/downloads/meeting_handouts_072011/handouts_20110729_q2_sd_finaldraft_splits.zip|archive-date=October 23, 2015|url-status=dead|accessdate=September 28, 2014}}</ref> In the [[United States House of Representatives]], it is split among ten congressional districts.<ref>{{cite web|url=http://wedrawthelines.ca.gov/downloads/meeting_handouts_072011/handouts_20110729_q2_cd_finaldraft_splits.zip|title=Communities of Interest&nbsp;— City|publisher=California Citizens Redistricting Commission|archive-url=https://web.archive.org/web/20130930184128/http://wedrawthelines.ca.gov/downloads/meeting_handouts_072011/handouts_20110729_q2_cd_finaldraft_splits.zip|archive-date=September 30, 2013|url-status=dead|accessdate=September 27, 2014}}</ref>
+
+== Crime ==
+{{See also|Crime in Los Angeles|List of criminal gangs in Los Angeles}}
+[[File:May Day Immigration March LA66.jpg|left|thumb|The [[Los Angeles Police Department|LAPD]] on [[May Day]] 2006 in front of the new Caltrans District 7 Headquarters]]
+In 1992, the city of Los Angeles recorded 1,092 murders.<ref>{{cite news |title=LA riots: 20 years later, a facelift for the police but scars for South Central |url=https://www.theguardian.com/world/2012/apr/26/la-riots-20-years-later |work=The Guardian |date=April 26, 2012}}</ref> Los Angeles experienced a significant decline in crime in the 1990s and late 2000s and reached a 50-year low in 2009 with 314 homicides.<ref>{{cite news|url=http://abclocal.go.com/story?section=news/local/los_angeles&id=7204706|title=Los Angeles crime rates hit 50-year lows|author=Powell, Amy|date=January 6, 2010|accessdate=January 14, 2015|archive-url=https://web.archive.org/web/20150721210109/http://abclocal.go.com/story?section=news%2Flocal%2Flos_angeles&id=7204706|archive-date=July 21, 2015|url-status=dead|publisher=[[KABC-TV]]}}</ref><ref>{{cite web|url=http://www.lapdonline.org/read_the_beat_magazine/pdf_view/43819|title=LAPD year-end crime statistics|publisher=[[Los Angeles Police Department]]|accessdate=April 13, 2010}}</ref> This is a rate of 7.85 per 100,000 population—a major decrease from 1980 when a homicide rate of 34.2 per 100,000 was reported.<ref>{{cite web|url=http://www.disastercenter.com/californ/crime/976.htm|title=Uniform Crime Reports of Los Angelesand Index from 1985 to 2005|accessdate=April 20, 2016}}</ref><ref>{{cite web|url=http://www.lapdonline.org/assets/pdf/cityprof.pdf|title=LAPD Online Crime Rates|publisher=[[Los Angeles Police Department]]|accessdate=April 13, 2010}}</ref> This included 15 officer-involved shootings. One shooting led to the death of a [[LAPD Metropolitan Division#S.W.A.T. ("D" Platoon)|SWAT]] team member, Randal Simmons, the first in LAPD's history.<ref name="swat_killed">{{cite web|url=http://www.lapdonline.org/officers_killed_in_the_line_of_duty/content_basic_view/37466|title=Simmons, Randal|work=[[Los Angeles Police Department]]|accessdate=July 9, 2008}}</ref> Los Angeles in the year of 2013 totaled 251 murders, a decrease of 16 percent from the previous year. Police speculate the drop resulted from a number of factors, including young people spending more time online.<ref>{{cite web|url=http://losangeles.cbslocal.com/2014/01/06/lapd-city-murder-rate-drops-16-percent-in-2013/|title=LAPD City Murder Rate Drops 16 Percent|date=January 6, 2014|publisher=[[KCBS-TV]]|accessdate=February 4, 2014}}</ref>
+
+In 2015, it was revealed that the LAPD had been under-reporting crime for eight years, making the crime rate in the city appear much lower than it really is.<ref>{{cite news |title=Los Angeles Police Underreported Crime Stats for 8 Years |url=https://time.com/4074896/los-angeles-crime-rates-higher-assaults/ |work=[[Time (magazine)|Time]] |date=October 15, 2015}}</ref><ref>{{cite news |title=LAPD captain accuses department of twisting crime statistics to make city seem safer |url=https://www.latimes.com/local/lanow/la-me-ln-lapd-crime-stats-claim-20171103-story.html |work=Los Angeles Times |date=November 6, 2017}}</ref>
+
+The [[Los Angeles crime family|Dragna crime family]] and the [[Cohen crime family]] dominated organized crime in the city during the [[Prohibition in the United States|Prohibition era]]<ref name="mafiaLA" /> and reached its peak during the 1940s and 1950s with the [[battle of Sunset Strip]] as part of the [[American Mafia]], but has gradually declined since then with the rise of various black and [[Hispanic]] gangs in the late 1960s and early 1970s.<ref name="mafiaLA">{{cite book|url=https://books.google.com/books?id=vyIXw1oq56YC&pg=PA153|title=The Mafia Made Easy: The Anatomy and Culture of La Cosa Nostra|last=DeVico|first=Peter|publisher=Tate Publishing|year=2007|isbn=978-1-60247-254-9|page=154|accessdate=September 6, 2012}}</ref>
+
+According to the [[Los Angeles Police Department]], the city is home to 45,000 gang members, organized into 450 gangs.<ref>{{cite web|url=http://www.lapdonline.org/get_informed/content_basic_view/1396|title=Gangs|publisher=[[Los Angeles Police Department]]|accessdate=April 13, 2010}}</ref> Among them are the [[Crips]] and [[Bloods]], which are both African American street gangs that originated in the [[South Los Angeles]] region. Latino street gangs such as the [[Sureños]], a Mexican American street gang, and [[Mara Salvatrucha]], which has mainly members of [[Salvadoran American|Salvadoran]] descent, all originated in Los Angeles. This has led to the city being referred to as the "Gang Capital of America".<ref>{{cite news|url=https://www.reuters.com/article/2007/02/09/idUSN08492271|title=Police target 11 worst Los Angeles street gangs|author=Serjeant, Jill|date=February 8, 2007|newspaper=[[Reuters]]|accessdate=January 14, 2015}}</ref>
+
+== Education ==
+
+=== Colleges and universities ===
+[[File:UCLA-old-statenormal-campus.jpg|alt=|thumb|Second branch of the [[California State Normal School]] in downtown Los Angeles opened its doors in 1882.]]
+
+[[File:Cal State University, Los Angeles.jpg|right|thumb|220x220px|[[Cal State LA]]]]
+
+There are three public universities within the city limits: [[California State University, Los Angeles]] (CSULA), [[California State University, Northridge]] (CSUN) and [[University of California, Los Angeles]] (UCLA).
+
+Private colleges in the city include:
+{{colbegin}}
+* [[AFI Conservatory|American Film Institute Conservatory]]
+* [[Alliant International University]]
+* [[American Academy of Dramatic Arts]] (Los Angeles Campus)
+* [[American Jewish University]]
+* [[Abraham Lincoln University]]
+* [[American Musical and Dramatic Academy|The American Musical and Dramatic Academy – Los Angeles campus]]
+* [[Antioch University]]'s Los Angeles campus
+* [[Charles R. Drew University of Medicine and Science]]
+* [[Columbia College Hollywood]]
+* [[Emerson College]] (Los Angeles Campus)
+* [[Emperor's College]]
+* [[Fashion Institute of Design & Merchandising]]'s Los Angeles campus (FIDM)
+* [[Los Angeles Film School]]
+* [[Loyola Marymount University]] (LMU is also the parent university of [[Loyola Law School]] in Los Angeles)
+* [[Marymount College, Palos Verdes|Marymount College]]
+* [[Mount St. Mary's College]]
+* [[National University (California)|National University]] of California
+* [[Occidental College]] ("Oxy")
+* [[Otis College of Art and Design]] (Otis)
+* [[Southern California Institute of Architecture]] (SCI-Arc)
+* [[Southwestern Law School]]
+* [[University of Southern California]] (USC)
+* [[Woodbury University]]
+{{colend}}
+The community college system consists of nine campuses governed by the trustees of the Los Angeles Community College District:
+{{colbegin}}
+* [[East Los Angeles College]] (ELAC)
+* [[Los Angeles City College]] (LACC)
+* [[Los Angeles Harbor College]]
+* [[Los Angeles Mission College]]
+* [[Los Angeles Pierce College]]
+* [[Los Angeles Valley College]] (LAVC)
+* [[Los Angeles Southwest College]],
+* [[Los Angeles Trade-Technical College]]
+* [[West Los Angeles College]]
+{{colend}}
+
+There are numerous additional colleges and universities outside the city limits in the Greater Los Angeles area, including the [[Claremont Colleges]] consortium, which includes the most selective liberal arts colleges in the U.S., and the [[California Institute of Technology]] (Caltech), one of the top STEM-focused research institutions in the world.[[File:Los-angeles-central-library.jpg|thumb|220x220px|[[Los Angeles Public Library|The Los Angeles Central Library]] is in [[Downtown Los Angeles]].]]
+
+=== Schools and libraries ===
+{{See also|Los Angeles County, California#Colleges and universities|List of high schools in Los Angeles County, California}}[[Los Angeles Unified School District]] serves almost all of the city of Los Angeles, as well as several surrounding communities, with a student population around 800,000.<ref>{{cite web|url=https://www.census.gov/hhes/www/saipe/district.html|title=US Census, District information|publisher=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20081225054728/http://www.census.gov/hhes/www/saipe/district.html|archive-date=December 25, 2008|url-status=dead|accessdate=October 24, 2011}}</ref> After [[California Proposition 13 (1978)|Proposition 13]] was approved in 1978, urban school districts had considerable trouble with funding. LAUSD has become known for its underfunded, overcrowded and poorly maintained campuses, although its 162 [[Magnet school]]s help compete with local private schools.
+
+Several small sections of Los Angeles are in the [[Las Virgenes Unified School District]]. The Los Angeles County Office of Education operates the [[Los Angeles County High School for the Arts]]. The [[Los Angeles Public Library]] system operates 72 public libraries in the city.<ref>{{cite web|url=http://www.lapl.org/branches/|title=Los Angeles Public Library Branches|publisher=[[Los Angeles Public Library]]|accessdate=October 24, 2011}}</ref> Enclaves of unincorporated areas are served by branches of the [[County of Los Angeles Public Library]], many of which are within walking distance to residents.
+
+== Media ==
+{{Main|Media in Los Angeles}}
+{{See also|List of television shows set in Los Angeles|List of films set in Los Angeles}}[[File:LA Times building.jpg|alt=|thumb|Former Los Angeles Times headquarters in the Civic Center]]
+The Los Angeles metro area is the second-largest broadcast [[designated market area]] in the U.S. (after [[Media in New York City|New York]]) with 5,431,140 homes (4.956% of the U.S.), which is served by a wide variety of local [[Media in Los Angeles#AM|AM]] and [[Media in Los Angeles#FM|FM]] radio and [[Media in Los Angeles#Television stations|television]] stations. Los Angeles and New York City are the only two media markets to have seven [[VHF]] allocations assigned to them.<ref>{{cite web|url=http://www.museum.tv/archives/etv/A/htmlA/allocation/allocation.htm|title=Allocation|publisher=[[Museum of Broadcast Communications]]|accessdate=October 20, 2011|archive-url=https://web.archive.org/web/20130829172310/http://www.museum.tv/archives/etv/A/htmlA/allocation/allocation.htm|archive-date=August 29, 2013|url-status=dead}}</ref>[[File:Foxplaza la.jpg|alt=|thumb|The [[Fox Plaza (Los Angeles)|Fox Plaza]] in [[Century City, Los Angeles|Century City]], headquarters for [[20th Century Fox]]|189px]]As part of the region's aforementioned creative industry, the Big Four major broadcast television networks, [[American Broadcasting Company|ABC]], [[CBS]], [[Fox Broadcasting Company|FOX]], and [[NBC]], all have production facilities and offices throughout various areas of Los Angeles. All four major broadcast television networks, plus major Spanish-language networks [[Telemundo]] and [[Univision]], also own and operate stations that both serve the Los Angeles market and serve as each network's West Coast [[flagship station]]: ABC's [[KABC-TV]] (Channel 7), CBS's [[KCBS-TV]] (Channel 2), Fox's [[KTTV|KTTV-TV]] (Channel 11), NBC's [[KNBC|KNBC-TV]] (Channel 4), MyNetworkTV's [[KCOP|KCOP-TV]] (Channel 13), Telemundo's [[KVEA|KVEA-TV]] (Channel 52), and Univision's [[KMEX-DT|KMEX-TV]] (Channel 34). The region also has three [[Public Broadcasting Service|PBS]] stations, as well as [[KCET]] (Channel 28), the nation's largest independent public television station. [[KTBN]] (Channel 40) is the [[flagship station]] of the religious [[Trinity Broadcasting Network]], based out of [[Santa Ana, California|Santa Ana]]. A variety of independent television stations, such as [[KCAL-TV]] (Channel 9) and [[KTLA|KTLA-TV]] (Channel 5), also operate in the area.
+
+The major daily English-language newspaper in the area is the ''[[Los Angeles Times]]''. ''[[La Opinión]]'' is the city's major daily Spanish-language paper. ''[[The Korea Times (Los Angeles)|The Korea Times]]'' is the city's major daily [[Korean language]] paper while ''[[The World Journal]]'' is the city and county's major Chinese newspaper. The ''[[Los Angeles Sentinel]]'' is the city's major [[African-American]] weekly paper, boasting the largest African-American readership in the [[Western United States]]. ''[[Investor's Business Daily]]'' is distributed from its LA corporate offices, which are headquartered in Playa del Rey.
+
+There are also a number of smaller regional newspapers, alternative weeklies and magazines, including the ''[[Freedom Communications|Los Angeles Register]]'', Los Angeles Community News, (which focuses on coverage of the greater Los Angeles area), ''[[Los Angeles Daily News]]'' (which focuses coverage on the [[San Fernando Valley]]), ''[[LA Weekly]]'', ''[[L.A. Record]]'' (which focuses coverage on the music scene in the [[Greater Los Angeles Area]]), ''Los Angeles Magazine'', the ''[[Los Angeles Business Journal]]'', the ''Los Angeles Daily Journal'' (legal industry paper), ''[[The Hollywood Reporter]]'', ''[[Variety (magazine)|Variety]]'' (both entertainment industry papers), and ''[[Los Angeles Downtown News]]''. In addition to the major papers, numerous local periodicals serve immigrant communities in their native languages, including Armenian, English, Korean, Persian, Russian, Chinese, Japanese, Hebrew, and Arabic. Many cities adjacent to Los Angeles also have their own daily newspapers whose coverage and availability overlaps into certain Los Angeles neighborhoods. Examples include ''The [[Daily Breeze]]'' (serving the [[South Bay, Los Angeles|South Bay]]), and ''The [[Long Beach Press-Telegram]]''.
+
+Los Angeles arts, culture and nightlife news is also covered by a number of local and national online guides like ''Time Out Los Angeles'', ''[[Thrillist]]'', ''Kristin's List'', ''DailyCandy'', ''Diversity News Magazine'', ''LAist'', and ''Flavorpill''.<ref>{{cite web|url=http://beta.flavorpill.com/losangeles|title=Flavorpill|archive-url=https://web.archive.org/web/20130207012702/http://beta.flavorpill.com/losangeles|archive-date=February 7, 2013|url-status=dead|accessdate=September 1, 2015}}</ref>
+
+== Transportation ==
+{{Main|Transportation in Los Angeles}}
+
+=== Freeways ===
+{{Main|Southern California freeways}}
+
+[[File:Los Angeles - Echangeur autoroute 110 105.JPG|thumb|The [[Judge Harry Pregerson Interchange]], connecting the Century Freeway (I-105) and the Harbor Freeway (I-110)]]
+The city and the rest of the [[Los Angeles metropolitan area]] are served by an extensive network of freeways and highways. The [[Texas Transportation Institute]], which publishes an annual Urban Mobility Report, ranked Los Angeles road traffic as the most congested in the United States in 2005 as measured by annual delay per traveler.<ref>{{cite news|url=https://www.forbes.com/2008/04/24/cities-commute-fuel-forbeslife-cx_mw_0424realestate.html|title=Best And Worst Cities For Commuters|last=Woolsey|first=Matt|date=April 25, 2008|work=[[Forbes]]|accessdate=October 24, 2011}}</ref> The average traveler in Los Angeles experienced 72 hours of traffic delay per year according to the study. Los Angeles was followed by [[San Francisco]]/[[Oakland]], [[Washington, D.C.]] and [[Atlanta]], (each with 60 hours of delay).<ref>{{cite news|url=https://www.forbes.com/2008/04/24/cities-commute-fuel-forbeslife-cx_mw_0424realestate3_slide_3.html?thisSpeed=undefined|title=In Depth: 10 Worst Cities For Commuters|last=Woolsey|first=Matt|work=[[Forbes]]|accessdate=October 24, 2011}}</ref> Despite the congestion in the city, the mean travel time for commuters in Los Angeles is shorter than other major cities, including [[New York City]], [[Philadelphia]] and [[Chicago]]. Los Angeles's mean travel time for work commutes in 2006 was 29.2 minutes, similar to those of San Francisco and Washington, D.C.<ref name="ACS2006">{{cite web|url=http://factfinder.census.gov/servlet/DCGeoSelectServlet?ds_name=ACS_2006_EST_G00_|title=American Community Survey 2006, Table S0802|publisher=[[United States Census Bureau]]|archive-url=https://wayback.archive-it.org/all/20141115201053/http://factfinder2.census.gov/legacy/aff_sunset.html?ds_name=ACS_2006_EST_G00_|archive-date=November 15, 2014|url-status=dead}}https://www.census.gov/programs-surveys/acs/</ref>
+
+Among the major highways that connect LA to the rest of the nation include [[Interstate 5]], which runs south through [[San Diego]] to [[Tijuana]] in Mexico and north through [[Sacramento, California|Sacramento]], [[Portland, Oregon|Portland]], and [[Seattle]] to the [[Canada–United States border|Canada–US border]]; [[Interstate 10]], the southernmost east–west, coast-to-coast [[Interstate Highway]] in the United States, going to [[Jacksonville, Florida]]; and [[U.S. Route 101]], which heads to the [[California Central Coast]], San Francisco, the [[Redwood Empire]], and the [[Oregon]] and [[Washington (state)|Washington]] coasts.
+
+=== Transit systems ===
+{{Main|Los Angeles County Metropolitan Transportation Authority}}
+[[File:Los Angeles County Metro Rail and Metro Liner map.svg|thumb|[[Los Angeles County Metro Rail|Los Angeles Metro Rail]] and Metro Transitway map]]
+
+The LA County Metropolitan Transportation Authority (LA County Metro) and other agencies operate an extensive system of bus lines, as well as [[Rapid transit|subway]] and light rail lines across Los Angeles County, with a combined monthly ridership (measured in individual boardings) of 38.8&nbsp;million {{as of|2011|September|lc=y}}. The majority of this (30.5&nbsp;million) is taken up by the city's bus system,<ref name="metro">{{cite web|url=http://www.metro.net/news/pages/ridership-statistics/|title=Ridership Statistics|publisher=[[Los Angeles County Metropolitan Transportation Authority]]|accessdate=October 24, 2011}}</ref> the second busiest in the country. The subway and light rail combined average the remaining roughly 8.2&nbsp;million boardings per month.<ref name="metro" /> LA County Metro recorded over 397&nbsp;million boardings for the 2017 calendar year, including about 285&nbsp;million bus riders and about 113&nbsp;million riding on rail transit.<ref>{{cite web|url=http://isotp.metro.net/MetroRidership/Index.aspx|title=Interactive Estimated Ridership Stats: Calendar Year, 2017|publisher=Los Angeles County Metro Transit Authority|accessdate=May 6, 2018}}</ref> For the first quarter of 2018, there were just under 95&nbsp;million system-wide boardings, down from about 98&nbsp;million in 2017, and about 105&nbsp;million in 2016.<ref>{{cite web|url=http://isotp.metro.net/MetroRidership/YearOverYear.aspx|title=Interactive Estimated Ridership Stats: Year over Year, 2018|publisher=Los Angeles County Metro Transit Authority|accessdate=May 6, 2018}}</ref> In 2005, 10.2% of Los Angeles commuters rode some form of public transportation.<ref>{{cite news|url=https://money.cnn.com/2007/06/13/real_estate/public_transit_commutes/index.htm|title=New Yorkers are Top Transit Users|last=Christie|first=Les|date=June 29, 2007|accessdate=October 24, 2011|publisher=CNN}}</ref> According to the 2016 American Community Survey, 9.2% of working Los Angeles (city) residents made the journey to work via public transportation.<ref>{{cite web|url=https://censusreporter.org/data/table/?table=B08101&geo_ids=16000US0644000&primary_geo_id=16000US0644000|title=Means of Transportation to Work by Age|publisher=Census Reporter|accessdate=May 6, 2018}}</ref>
+
+The [[Metro Rail (Los Angeles County)|city's subway system]] is the [[List of United States rapid transit systems by ridership|ninth busiest in the United States]] and its light rail system is the country's [[List of United States light rail systems by ridership|busiest]].<ref name="APTA">{{cite web|url=http://www.apta.com/resources/statistics/Documents/Ridership/2011_q1_ridership_APTA.pdf|title=Public Transit Ridership Report|year=2011|publisher=[[American Public Transportation Association]]|accessdate=October 24, 2011}}</ref> The rail system includes the [[B Line (Los Angeles Metro)|B]] and [[D Line (Los Angeles Metro)|D]] subway lines, as well as the [[A Line (Los Angeles Metro)|A]], [[C Line (Los Angeles Metro)|C]], [[E Line (Los Angeles Metro)|E]], and [[L Line (Los Angeles Metro)|L]] light rail lines. In 2016, the E Line was extended to the Pacific Ocean at [[Santa Monica]]. The [[G Line (Los Angeles Metro)|Metro G]] and [[J Line (Los Angeles Metro)|J]] lines are [[bus rapid transit]] lines with stops and frequency similar to those of light rail. {{as of|2018}}, the total number of light rail stations is 93. The city is also central to the [[commuter rail]] system [[Metrolink (Southern California)|Metrolink]], which links Los Angeles to all neighboring counties as well as many suburbs.
+
+Besides the rail service provided by [[Metrolink (Southern California)|Metrolink]] and the Los Angeles County Metropolitan Transportation Authority, Los Angeles is served by inter-city passenger trains from [[Amtrak]]. The main rail station in the city is [[Union Station (Los Angeles)|Union Station]] just north of Downtown.
+
+In addition, the city directly contracts for local and commuter bus service through the [[Los Angeles Department of Transportation]], or LADOT.
+
+=== Airports ===
+{{Main|List of airports in the Los Angeles area}}
+[[File:LAX LA.jpg|thumb|The Theme Building at [[Los Angeles Airport]]]]
+The main international and domestic airport serving Los Angeles is [[Los Angeles International Airport]] {{airport codes|LAX|KLAX}}, commonly referred to by its airport code, '''LAX'''.
+
+Other major nearby commercial airports include:
+* {{airport codes|ONT|KONT}} [[Ontario International Airport]], owned by the city of Ontario, CA; serves the Inland Empire.
+* {{airport codes|BUR|KBUR}} [[Hollywood Burbank Airport]], jointly owned by the cities of Burbank, Glendale, and Pasadena. Formerly known as Bob Hope Airport and Burbank Airport; the closest airport to Downtown Los Angeles; serves the San Fernando, San Gabriel, and Antelope Valleys.
+* {{airport codes|LGB|KLGB}} [[Long Beach Airport]], serves the Long Beach/Harbor area.
+* {{airport codes|SNA|KSNA}} [[John Wayne Airport]] of Orange County.
+
+One of the world's busiest general-aviation airports is also in Los Angeles, [[Van Nuys Airport]] {{airport codes|VNY|KVNY}}.<ref>{{cite web|url=http://www.lawa.org/welcome_VNY.aspx?id=92|title=Van Nuys Airport General Description|publisher=[[Los Angeles World Airports]]|accessdate=October 25, 2011}}</ref>
+
+=== Seaports ===
+[[File:Vincent Thomas bridge.San Pedro.JPG|alt=|thumb|The [[Vincent Thomas Bridge]] is at [[Terminal Island]].]]
+The [[Port of Los Angeles]] is in [[San Pedro Bay (California)|San Pedro Bay]] in the [[San Pedro, Los Angeles|San Pedro]] neighborhood, approximately {{convert|20|mi|km}} south of Downtown. Also called Los Angeles Harbor and WORLDPORT LA, the port complex occupies {{convert|7500|acre|km2}} of land and water along {{convert|43|mi|km}} of waterfront. It adjoins the separate [[Port of Long Beach]].
+
+The sea ports of the [[Port of Los Angeles]] and [[Port of Long Beach]] together make up the ''Los Angeles/Long Beach Harbor''.<ref>{{cite web|url=http://www.mxsocal.org/pdffiles/108th%20HSC%20Mtg%20Apr%205%202006.pdf|title=Los Angeles/Long Beach Harbor Safety Committee|archive-url=https://web.archive.org/web/20061008141319/http://www.mxsocal.org/pdffiles/108th%20HSC%20Mtg%20Apr%205%202006.pdf|archive-date=October 8, 2006|url-status=dead|accessdate=March 16, 2011}}</ref><ref>{{cite web|url=http://www.harboremployers.com/web/|title=Los Angeles/Long Beach Harbor Employers Association|publisher=Harboremployers.com|accessdate=March 16, 2011}}</ref> Together, both ports are the fifth busiest [[Container (cargo)|container]] port in the world, with a trade volume of over 14.2&nbsp;million [[Twenty-foot equivalent unit|TEU's]] in 2008.<ref>{{cite web|url=http://aapa.files.cms-plus.com/Statistics/WORLD%20PORT%20RANKINGS%2020081.pdf|title=AAPA World Port Rankings 2008|accessdate=March 16, 2011}}</ref> Singly, the Port of Los Angeles is the busiest container port in the United States and the largest cruise ship center on the [[West Coast of the United States]]&nbsp;– The Port of Los Angeles's World Cruise Center served about 590,000 passengers in 2014.<ref>{{cite web|url=http://www.portoflosangeles.org/facilities/passenger.asp|title=Cruise Passenger and Ferry Terminals|publisher=[[Port of Los Angeles]]|accessdate=January 14, 2015}}</ref>
+
+There are also smaller, non-industrial harbors along Los Angeles's coastline. The port includes four bridges: the [[Vincent Thomas Bridge]], [[Henry Ford Bridge]], [[Gerald Desmond Bridge (2020-present)|Gerald Desmond Bridge]], and [[Commodore Schuyler F. Heim Bridge]]. Passenger ferry service from San Pedro to the city of [[Avalon, California|Avalon]] on [[Santa Catalina Island, California|Santa Catalina Island]] is provided by Catalina Express.
+
+== Homelessness ==
+As of January 2020, there are 41,290 [[Homelessness in the United States|homeless people]] in the City of Los Angeles, comprising roughly 62% of the homeless population of LA County.<ref>{{Cite web|title=4558 - 2020 Greater Los Angeles Homeless Count Presentation|url=https://www.lahsa.org/documents?id=4558-2020-greater-los-angeles-homeless-count-presentation|access-date=July 6, 2020|website=www.lahsa.org}}</ref> This is an increase of 14.2% over the previous year (with a 12.7% increase in the overall homeless population of LA County).<ref name=":0">{{Cite news|last=Cowan|first=Jill|date=June 12, 2020|title=What Los Angeles's Homeless Count Results Tell Us|language=en-US|work=The New York Times|url=https://www.nytimes.com/2020/06/12/us/la-county-homeless-population.html|access-date=July 6, 2020|issn=0362-4331}}</ref><ref>{{Cite news|last=Cowan|first=Jill|date=June 5, 2019|title=Homeless Populations Are Surging in Los Angeles. Here's Why.|language=en-US|work=The New York Times|url=https://www.nytimes.com/2019/06/05/us/los-angeles-homeless-population.html|access-date=July 6, 2020|issn=0362-4331}}</ref> The epicenter of homelessness in Los Angeles is the [[Skid Row, Los Angeles|Skid Row]] neighborhood, which contains 8,000 homeless people, one of the largest stable populations of homeless people in the United States.<ref>{{cite news |title=L.A. agrees to let homeless people keep skid row property — and some in downtown aren't happy |url=https://www.latimes.com/local/lanow/la-me-ln-homeless-cleanup-property-skid-row-downtown-lawsuit-mitchell-case-20190529-story.html |work=Los Angeles Times |date=May 29, 2019}}</ref><ref name="abc7_06132019">{{cite news|url=https://abc7.com/society/las-homeless-aerial-tour-of-skid-row-epicenter-of-crisis/5344680/|title=LA's homeless: Aerial view tour of Skid Row, epicenter of crisis|last=Cristi|first=Chris|date=June 13, 2019|work=ABC7|accessdate=June 19, 2019}}</ref> The increased homeless population in Los Angeles has been attributed largely to lack of housing affordability.<ref>{{Cite news|url=https://www.nytimes.com/2019/06/05/us/los-angeles-homeless-population.html|title=Homeless Populations Are Surging in Los Angeles. Here's Why.|last=Cowan|first=Jill|date=June 5, 2019|work=The New York Times|access-date=September 5, 2019|language=en-US|issn=0362-4331}}</ref> Almost 60 percent of the 82,955 people who became newly homeless in 2019 said their homelessness was because of economic hardship.<ref name=":0" /> In Los Angeles, black people are roughly four times more likely to experience homelessness, which has been partially attributed to systemic racism.<ref name=":0" /><ref>{{Cite web|title=2823 - Report And Recommendations Of The Ad Hoc Committee On Black People Experiencing Homelessness|url=https://www.lahsa.org/documents?id=2823-report-and-recommendations-of-the-ad-hoc-committee-on-black-people-experiencing-homelessness|access-date=July 6, 2020|website=www.lahsa.org}}</ref>
+
+== Notable people ==
+{{Main|List of people from Los Angeles}}
+
+As home to Hollywood and its entertainment industry, numerous singers, actors, celebrities and other entertainers live in various districts of Los Angeles.
+
+== Twin towns and sister cities ==
+<!--
+ *** IMPORTANT ***
+ * Please do not add or remove sister cities unless you provide a reliable *
+ * source. This list is verified by http://sistercities.lacity.org/, *
+ * which lists 25 sister cities. If you make changes to this list without *
+ * citing a source, your edits will be reverted. *
+-->[[File:Sister cities of Los Angeles.jpg|alt=|thumb|A sign near [[Los Angeles City Hall|City Hall]] points to the sister cities of Los Angeles.]]
+Los Angeles has 25 [[sister cities]],<ref name="Sistercities">{{cite web|url=http://sistercities.lacity.org/|title=Sister Cities of Los Angeles|publisher=[[Government of Los Angeles|Sister Cities Los Angeles]]|accessdate=February 25, 2019}}</ref> listed chronologically by year joined:
+{{Colbegin}}
+* {{flagdeco|ISR}} [[Eilat]], Israel (1959)
+* {{flagdeco|JPN}} [[Nagoya]], Japan (1959)
+* {{flagdeco|BRA}} [[Salvador, Bahia|Salvador]], Brazil (1962)
+* {{flagdeco|FRA}} [[Bordeaux]], France (1964)<ref name="Bordeaux twinnings">{{cite web | url=http://www.bordeaux.fr/p63778/europe%C2%A0et%C2%A0international | title=Bordeaux– Rayonnement européen et mondial | work=Mairie de Bordeaux | accessdate=July 29, 2013 | language=fr |archive-url=https://web.archive.org/web/20130207154903/http://www.bordeaux.fr/p63778/europe%C2%A0et%C2%A0international | archive-date=February 7, 2013}}</ref><ref name="Bordeaux twinnings 2">{{cite web | url=http://www.cncd.fr/frontoffice/bdd-recherche-resultat.asp?searchField=bordeaux&x=36&y=14 | title=Bordeaux-Atlas français de la coopération décentralisée et des autres actions extérieures | work=Délégation pour l'Action Extérieure des Collectivités Territoriales (Ministère des Affaires étrangères) | accessdate=July 29, 2013 | language=fr |archive-url=https://web.archive.org/web/20130207152951/http://www.cncd.fr/frontoffice/bdd-recherche-resultat.asp?searchField=bordeaux&x=36&y=14 | archive-date=February 7, 2013}}</ref>
+* {{flagdeco|DEU}} [[Berlin]], Germany (1967)<ref name="Berlin twinnings">{{cite web | url=http://www.berlin.de/rbmskzl/staedteverbindungen/staedtepartnerschaft_ueberblick.en.html | title=Berlin City Partnerships | work=Der Regierende Bürgermeister Berlin | accessdate=September 17, 2013 |archive-url=https://web.archive.org/web/20130521054019/http://www.berlin.de/rbmskzl/staedteverbindungen/staedtepartnerschaft_ueberblick.en.html | archive-date=May 21, 2013}}</ref>
+* {{flagdeco|ZMB}} [[Lusaka]], Zambia (1968)
+* {{flagdeco|MEX}} [[Mexico City]], Mexico (1969)
+* {{flagdeco|NZL}} [[Auckland]], New Zealand (1971)
+* {{flagdeco|ROK}} [[Busan]], South Korea (1971)
+* {{flagdeco|IND}} [[Mumbai]], India (1972)
+* {{flagdeco|IRN}} [[Tehran]], Iran (1972)
+* {{flagdeco|ROC}} [[Taipei]], Taiwan, Republic of China (1979)
+* {{flagdeco|PRC}} [[Guangzhou]], People's Republic of China (1981)<ref name="Guangzhou twinnings">{{cite web | url=http://www.gzwaishi.gov.cn/Category_121/Index.aspx | title=Guangzhou Sister Cities | publisher=Guangzhou Foreign Affairs Office | accessdate=July 21, 2013 |archive-url=https://web.archive.org/web/20121024091437/http://www.gzwaishi.gov.cn/Category_121/Index.aspx | archive-date=October 24, 2012}}</ref>
+* {{flagdeco|GRC}} [[Athens]], Greece (1984)
+* {{flagdeco|RUS}} [[Saint Petersburg]], Russia (1984)
+* {{flagdeco|CAN}} [[Vancouver]], Canada (1986)<ref name="Vancouver">{{cite web | url=http://vancouver.ca/ctyclerk/cclerk/20080311/documents/a14.pdf | title=Vancouver Twinning Relationships | publisher=City of Vancouver | accessdate=December 5, 2009 }}</ref>
+* {{flagdeco|EGY}} [[Giza]], Egypt (1989)
+* {{flagdeco|IDN}} [[Jakarta]], Indonesia (1990)
+* {{flagdeco|LTU}} [[Kaunas]], Lithuania (1991)
+* {{flagdeco|PHL}} [[Makati]], Philippines (1992)
+* {{flagdeco|CRO}} [[Split, Croatia]] (1993)<ref name="Split twinnings">{{cite web | url=http://www.split.hr/Default.aspx?sec=526 | title=Gradovi prijatelji Splita |trans-title=Split Twin Towns | work=Grad Split [Split Official City Website] | accessdate=December 19, 2013 | language=hr |archive-url=https://web.archive.org/web/20120324035937/http://www.split.hr/Default.aspx?sec=526 | archive-date=March 24, 2012}}</ref>
+* {{flagdeco|SLV}} [[San Salvador]], El Salvador (2005)
+* {{flagdeco|LBN}} [[Beirut]], Lebanon (2006)
+* {{flagdeco|ITA}} [[Ischia, Campania]], Italy (2006)
+* {{flagdeco|ARM}} [[Yerevan]], Armenia (2007)<ref name="Yerevan twinnings 2">{{cite web | url=http://www.yerevan.am/en/partner/sister-cities/ | title=Yerevan Twin Towns & Sister Cities | work=Yerevan Municipality Official Website | accessdate=November 4, 2013}}</ref>
+{{Colend}}
+In addition, Los Angeles has the following "friendship cities":
+* {{flagdeco|UK}} [[London]], United Kingdom{{citation needed|date=October 2019}}
+* {{flagdeco|POL}} [[Łódź]], Poland
+* {{flagicon|AUS}} [[Melbourne]], Australia
+* {{flagdeco|UK}} [[Manchester]], United Kingdom<ref name="Manchester">{{cite web|url=http://www.manchestereveningnews.co.uk/news/greater-manchester-news/twinning-link-with-la-925445|title=Twinning link with LA|date=July 27, 2009|archive-url=https://web.archive.org/web/20130731001604/http://www.manchestereveningnews.co.uk/news/greater-manchester-news/twinning-link-with-la-925445|archive-date=July 31, 2013|url-status=dead|accessdate=July 28, 2009|newspaper=[[Manchester Evening News]]}}</ref>
+* {{flagdeco|ISR}} [[Tel Aviv]], Israel<ref>{{cite web|url=http://www.jewishla.org/Tel_Aviv_LA_Partnership.cfm|title=Tel Aviv/Los Angeles Partnership|year=2007|publisher=The Jewish Federation of Greater Los Angeles|archive-url=https://web.archive.org/web/20080623075353/http://www.jewishla.org/Tel_Aviv_LA_Partnership.cfm|archive-date=June 23, 2008|accessdate=August 7, 2008}}</ref>
+
+== See also ==
+{{Portal|Greater Los Angeles|California|United States}}
+{{colbegin}}
+* [[Largest cities in Southern California]]
+* [[Largest cities in the Americas]]
+* [[List of hotels in Los Angeles]]
+* [[List of largest houses in the Los Angeles Metropolitan Area]]
+* [[List of museums in Los Angeles]]
+* [[List of museums in Los Angeles County, California]]
+* [[List of music venues in Los Angeles]]
+* [[List of people from Los Angeles]]
+* [[List of tallest buildings in Los Angeles]]
+* [[Los Angeles in popular culture]]
+* [[National Register of Historic Places listings in Los Angeles, California]]
+{{colend}}
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+{{See also|Bibliography of Los Angeles}}
+
+===General===
+* {{cite book|title=Southern California: An Island on the Land|author=Carey McWilliams|publisher=Peregrine Smith|year=2009|isbn=978-0-87905-007-8|edition=9th|author-link=Carey McWilliams (journalist)|url=https://archive.org/details/southerncaliforn00mcwi}}
+* {{cite book|title=It's Your Misfortune and None of My Own: A New History of the American West|title-link=It's Your Misfortune and None of My Own|author=Richard White|publisher=University of Oklahoma Press|year=1991|isbn=978-0-8061-2567-1|author-link=Richard White (historian)}}
+* {{cite book|title=Los Angeles: Capital of the Third World|author=David Rieff|publisher=Touchstone|year=1992|isbn=978-0-671-79210-7|author-link=David Rieff}}
+* {{cite book|title=Translating LA: A Tour of the Rainbow City|author=Peter Theroux|publisher=Norton|year=1994|isbn=978-0-393-31394-9|author-link=Peter Theroux|url=https://archive.org/details/translatingla00pete}}
+* {{cite book|title=Los Angeles: A History of the Future|author=Paul Glover|publisher=Greenplanners|year=1995|isbn=978-0-9622911-0-4|author-link=Paul Glover (activist)}}
+* {{cite book|title=Los Angeles A to Z: An Encyclopedia of the City and County|author=Leonard Pitt & Dale Pitt|publisher=University of California Press|year=2000|isbn=978-0-520-20530-7|place=Berkeley}}
+* {{cite book|title=Los Angeles: Portrait of a City|author=[[Kevin Starr]] and David Ulin|publisher=[[Taschen]] America|year=2009|isbn=978-3-8365-0291-7|editor=Jim Heimann|url-access=registration|url=https://archive.org/details/losangelesportra0000unse}}
+
+===Architecture and urban theory===
+* {{cite book|title=Los Angeles: The Architecture of Four Ecologies|author=Reyner Banham|publisher=[[University of California Press]]|year=2009|isbn=978-0-520-26015-3|edition=2nd|place=Berkeley|author-link=Reyner Banham}}
+* {{cite book|title=City of Quartz: Excavating the Future in Los Angeles|title-link=City of Quartz|author=Mike Davis|publisher=Verso|year=2006|isbn=978-1-84467-568-5|author-link=Mike Davis (scholar)}}
+* {{cite book|title=The Fragmented Metropolis: Los Angeles 1850–1930|author=Robert M. Fogelson|publisher=University of California Press|year=1993|isbn=978-0-520-08230-4|place=Berkeley}}
+* {{cite book|title=The History of Forgetting: Los Angeles and the Erasure of Memory|author=Norman M. Klein|publisher=Verso|year=1997|isbn=978-1-84467-242-4}}
+* {{cite book|title=L.A. Lost & Found: An Architectural History of Los Angeles|author=Sam Hall Kaplan|publisher=Hennessey and Ingalls|year=2000|isbn=978-0-940512-23-8}}
+* {{cite book|title=Overdrive: L.A. Constructs the Future, 1940–1990|author=Wim de Wit and Christopher James Alexander|publisher=Getty Publications|year=2013|isbn=978-1-60606-128-2}}
+
+===Race relations===
+* {{cite book|url=https://books.google.com/books?id=0lQXqQPNOUcC|title=Anything but Mexican: Chicanos in contemporary Los Angeles|last=Acuña|first=Rodolfo|publisher=Verso|year=1996|isbn=978-1-85984-031-3|author-link=Rodolfo Acuña|accessdate=September 30, 2011}}
+* {{cite book|title=No Crystal Stair: African Americans in the City of Angels|last=George|first=Lynell|publisher=Verso|year=1992|isbn=978-0-86091-389-4}}
+* {{cite book|title=L.A. City Limits: African American Los Angeles from the Great Depression to the Present|last=Sides|first=Josh|publisher=University of California Press|year=2006|isbn=978-0-520-24830-4|place=Berkeley}}
+* {{cite book|title=Murder at the Sleepy Lagoon: Zoot Suits, Race, and Riot in Wartime L.A.|author=Eduardo Obregón Pagán|publisher=The University of North Carolina Press|year=2006|isbn=978-0-8078-5494-5}}
+* {{cite book|title=The Great Black Way: L.A. in the 1940s and the Last African American Renaissance|url=https://archive.org/details/greatblackwayla00smit|url-access=registration|author=R. J. Smith|publisher=PublicAffairs|year=2007|isbn=978-1-58648-521-4}}
+
+===LGBT===
+* {{cite book|title=Gay L. A.: A History of Sexual Outlaws, Power Politics, And Lipstick Lesbians|author=[[Lillian Faderman]] and Stuart Timmons|publisher=Basic Books|year=2006|isbn=978-0-465-02288-5|url=https://archive.org/details/gaylahistoryofse00lill}}
+* {{cite book|title=Bohemian Los Angeles: and the Making of Modern Politics|last=Hurewitz|first=Daniel|publisher=University of California Press|year=2007|isbn=978-0-520-24925-7|place=Berkeley|url-access=registration|url=https://archive.org/details/bohemianlosangel0000hure}}
+
+===Environment===
+* {{cite book|title=Cadillac Desert: The American West and its Disappearing Water|title-link=Cadillac Desert|author=Marc Reisner|publisher=[[Penguin Books]]|year=1986|isbn=978-0-14-017824-1|author-link=Marc Reisner}}
+* {{cite book|title=Smogtown: The Lung-Burning History of Pollution in Los Angeles|author=Chip Jacobs and William Kelly|publisher=Outlook Hardcover|year=2008|isbn=978-1-58567-860-0|url=https://archive.org/details/smogtownlungburn00jaco}}
+
+===Art and literature===
+* {{cite book|title=Writing Los Angeles: A Literary Anthology|publisher=[[Library of America]]|year=2002|isbn=978-1-931082-27-3|editor=David L. Ulin|url-access=registration|url=https://archive.org/details/writinglosangele0000unse}}
+* {{cite book|title=Pop L.A.: Art and the City in the 1960s|last=Whiting|first=Cécile|publisher=University of California Press|year=2008|isbn=978-0-520-25634-7|place=Berkeley}}
+
+== External links ==
+{{Wikimedia|voy=Los Angeles|collapsible=true}}
+
+<!--
+*********************** ({{No More Links}}) ***************************
+* Please be cautious in adding more links to this article. Wikipedia  *
+* is not a collection of links nor should it be used for advertising. *
+*                                                                     *
+*           Excessive or inappropriate links Will-Be-Deleted.         *
+* See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  *
+*                                                                     *
+* If there are already plentiful links, please propose additions or   *
+* replacements on this article's [[[[Talk:Los Angeles|talk page]]]],  *
+* or submit your link to the relevant category at the Open Directory  *
+* Project (dmoz.org) and link back to that category using the {{dmoz}}*
+* template.                                                           *
+********************** ({{No More Links}}) ****************************
+-->
+<!-- {{Spoken Wikipedia|LosAngelesPart1.ogg|2011-10-08}} -->
+* [[Geographic coordinate system|Geographic coordinates]]: {{Coord|34|3|N|118|15|W|display=inline}}
+* {{official website}}
+
+{{-}}
+{{Los Angeles}}
+{{Navboxes
+|title = Articles related to Los Angeles
+|list =
+{{Los Angeles County, California}}
+{{Greater Los Angeles Area}}
+{{California county seats}}
+{{California}}
+{{Olympic Summer Games Host Cities}}
+{{Paralympic Summer Games Host Cities}}
+{{World's most populated urban areas}}
+{{California cities and mayors of 100,000 population}}
+{{Megacities}}
+{{Southern California megaregion}}
+}}
+
+{{authority control}}
+
+[[Category:Los Angeles| ]]
+[[Category:Cities in Los Angeles County, California]]
+[[Category:County seats in California]]
+[[Category:Incorporated cities and towns in California]]
+[[Category:Populated coastal places in California]]
+[[Category:Port cities in California]]
+[[Category:Railway towns in California]]
+[[Category:Populated places established in 1781]]
+[[Category:1781 establishments in New Spain]]
+[[Category:1850 establishments in California]]

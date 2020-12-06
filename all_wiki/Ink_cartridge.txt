@@ -1,0 +1,137 @@
+{{other uses|Cartridge (disambiguation)}}
+
+[[Image:Ink-jet printer inside-cartridges.jpg|thumb|300px|Two cartridges (one with black [[ink]], one with colored inks) installed in an [[inkjet printer]]]]
+
+An '''ink cartridge''' or '''inkjet cartridge''' is a component of an [[inkjet printer]] that contains the [[ink]] that is deposited onto paper during printing.
+
+Each ink cartridge contains one or more ink reservoirs; certain producers also add [[Inkjet printer#Underlying business model|electronic contacts and a chip]] that communicates with the printer.
+
+== Design ==
+{{Main|Inkjet printer}}
+
+=== Thermal ===
+Most consumer inkjet printers, such as those made by [[Canon (company)|Canon]], [[Hewlett-Packard|HP]], and [[Lexmark]] (but not [[Epson]]) use a thermal inkjet; inside each partition of the ink reservoir is a [[heating element]] with a tiny metal plate or resistor. In response to a signal given by the printer, a tiny [[current (electricity)|current]] flows through the metal or resistor making it warm, and the ink in contact with the heated resistor is vaporized into a tiny steam bubble inside the [[nozzle]].<ref>{{Cite web|title = How Is Inkjet Printing Done?|url = http://www.science20.com/mei/how_inkjet_printing_done|website = Science 2.0|accessdate = 2015-06-16|last = Fang|first = Mei|date = 12 April 2010|publisher = ION Publications LLC|url-status = live|archiveurl = https://web.archive.org/web/20150412002659/http://www.science20.com/mei/how_inkjet_printing_done|archivedate = 12 April 2015}}</ref> As a consequence, an ink droplet is forced out of the cartridge nozzle onto the paper. This process takes a fraction of a millisecond.
+
+The printing depends on the smooth flow of ink, which can be hindered if the ink begins to dry at the print head, as can happen when an ink level becomes low. Dried ink can be cleaned from a cartridge print head using 91% denatured isopropyl alcohol (not rubbing alcohol).{{cn|date=August 2020}} Isopropyl alcohol does not damage the susceptible sponge that is vital in transferring ink to paper. But it is strong enough to dissolve clogs. It must be administered carefully with a dropper or a syringe.{{cn|date=August 2020}} Tap water contains contaminants that may clog the print head, so distilled water and a lint-free cloth is recommended.<ref>{{Cite web|title=How to Manually Clean Clogged Ink Cartridges|url=https://smallbusiness.chron.com/manually-clean-clogged-ink-cartridges-63631.html|access-date=2020-08-07|website=Small Business - Chron.com}}</ref>
+
+The ink also acts as a coolant to protect the metal-plate heating elements − when the ink supply is depleted, and printing is attempted, the heating elements in thermal cartridges often burn out, permanently damaging the print head.  When the ink first begins to run low, the cartridge should be refilled or replaced, to avoid overheating damage to the print head.
+
+=== Piezoelectric ===
+All Epson printers use a [[piezoelectric]] crystal in each nozzle instead of a heating element. When current is applied, the crystal changes shape or size, increasing the pressure in the ink channel and thus forcing a droplet of ink from the nozzle.<ref>{{Cite web|title = imaging.org - Online|url = http://www.imaging.org/ist/resources/tutorials/inkjet_printer.cfm|website = www.imaging.org|accessdate = 2015-06-16|last = Hanson|first = Eric|publisher = Society for Imaging Science and Technology|url-status = dead|archiveurl = https://web.archive.org/web/20150622040831/http://www.imaging.org/ist/resources/tutorials/inkjet_printer.cfm|archivedate = 2015-06-22}}</ref> There are two types of crystals used: those that elongate when subjected to electricity or bi-morphs which bend. The ink channels in a piezoelectric ink jet print head can be formed using a variety of techniques, but one common method is lamination of a stack of metal plates, each of which includes precision micro-fabricated features of various shapes (i.e. containing an ink channel, orifice, reservoir and crystal). This cool environment allows use of inks which react badly when heated. For example, roughly 1/1000 of every ink jet is vaporised due to the intense heat, and ink must be designed not the clog the printer with the products of thermal decomposition. It also can make a smaller ink drop in some situations than thermal inkjet schemes.
+
+=== Parts ===
+
+==== Cartridge body ====
+Stores the ink of the ink cartridge. Others contain hydrophobic foam that prevents refilling.
+
+==== Printhead ====
+Some ink cartridges have printheads installed on them. Printheads of ink cartridges consists of four parts:
+
+* '''Nozzle plate''': the part where ink goes through from ink cartridge to paper. 
+* '''Cover''' '''plate''': covers the nozzles when they are not in use.
+* '''Common ink chamber''': where ink is transferred from the body before printing.
+* (In piezoelectric printers) '''piezoelectric substrate''': houses the piezoelectric crystal.
+* (In thermal printers) '''metallic plate / resistor''': is heated with a weak electrical current which heats the ink.<ref>{{Cite web|title=Printer Ink Cartridges|url=http://www.designlife-cycle.com/printer-ink-cartridges|access-date=2020-08-06|website=Design Life-Cycle|language=en-US}}</ref>
+
+== Variants ==
+* Color inkjets use the [[CMYK color model]]: ''c''yan, ''m''agenta, ''y''ellow, and the ''k''ey, black.  Over the years, two distinct forms of black have become available: one that blends readily with other colors for graphical printing, and a near-waterproof variant for text.
+* Most modern inkjets carry a black cartridge for text, and either a single CMYK combined or a discrete cartridge for each color; while keeping colors separate was initially rare, it has become common in more recent years.  Some higher-end inkjets offer cartridges for extra colors.
+* Some cartridges contain ink specially formulated for printing photographs.
+* All printer suppliers produce their own type of ink cartridges. Cartridges for different printers may be incompatible — either physically or electrically.
+* Some manufacturers incorporate the printer's head into the cartridge (examples include [[Hewlett-Packard|HP]], [[Dell]], and [[Lexmark]]), while others such as [[Epson]] keep the print head a part of the printer itself.  Both sides make claims regarding their approach leading to lower costs for the consumer.
+* More recently{{when|date=December 2018}} Epson has introduced a range of printers that use refillable ink tanks, providing a major reduction in printing cost. This operates similar to continuous ink system printers such as provided by Canon. Epson does not subsidise the cost of these printers termed its "Ecotank" range.
+
+== Consumer exploitation lawsuits ==
+It can sometimes be cheaper to buy a new printer than to replace the set of ink cartridges supplied with the printer. The major printer manufacturers − Hewlett Packard, Lexmark, Dell, Canon, Epson and [[Brother Industries|Brother]] − use a "[[razor and blades]]" business model, often breaking even or losing money selling printers while expecting to make a profit by selling cartridges over the life of the printer.{{cn|date=August 2020}} Since much of the printer manufacturers' profits are from ink and toner cartridge sales, some of these companies have taken various actions against aftermarket cartridges.<ref>{{Cite web|title=ACRA v. Lexmark|url=https://www.eff.org/cases/acra-v-lexmark|url-status=live|archiveurl=https://web.archive.org/web/20150422211626/https://www.eff.org/cases/acra-v-lexmark|archivedate=2015-04-22|accessdate=2015-06-16|publisher=Electronic Frontier Foundation}}</ref>
+
+Some printer manufacturers set up their cartridges to interact with the printer, preventing operation when the ink level is low, or when the cartridge has been refilled. One researcher with the magazine ''[[Which?]]'' over-rode such an interlocked system and found that in one case he could print up to 38% more good quality pages, after the chip stated that the cartridge was empty. In the [[United Kingdom]], in 2003, the cost of ink has been the subject of an [[Office of Fair Trading]] investigation, as ''Which?'' magazine has accused manufacturers of a lack of transparency about the price of ink and called for an industry standard for measuring ink cartridge performance. ''Which?'' stated that color HP cartridges cost over seven times more per milliliter than 1985 [[Dom Pérignon (wine)|Dom Perignon]].<ref name="BBC">{{cite news|date=3 July 2003|title='Raw deal' on printer ink|work=BBC|url=http://news.bbc.co.uk/2/hi/technology/3035500.stm|url-status=live|accessdate=24 June 2020|archiveurl=https://web.archive.org/web/20040203033341/http://news.bbc.co.uk/2/hi/technology/3035500.stm|archivedate=3 February 2004}}</ref>
+
+In 2006, Epson lost from a class action lawsuit that claimed Epson inkjet printers and ink cartridges stop printer operation due to "empty" cartridge notifications even when usable ink still remains. Epson settled the case by giving $45 e-coupons in their online stores for people who bought Epson inkjet printers and ink cartridges from April 8, 1999 to May 8, 2006.{{cn|date=August 2020}}
+
+In 2010, HP lost from three class action lawsuits: 1.) claims of HP inkjet printers giving false low ink notifications, 2.) claims of cyan ink being spent when printing with black ink, 3.) claims of ink cartridges being disabled by printers upon being detected as "empty" even if they are not yet empty. HP paid $5 million in settlement.{{cn|date=August 2020}}
+
+In 2017, [http://www.halteobsolescence.org/ Halte à L’Obsolescence Programmêe] (HOP) — End Planned Obsolescence — filed a lawsuit and won against Brother, Canon, Epson, HP and other companies for intentionally shortening product lifespans - inkjet printers and ink cartridges included. The companies were fined €15,000.
+
+In September 2018, HP lost a class action lawsuit where plaintiffs claim HP printer firmware updates caused fake error messages upon using third party ink cartridges. HP settled the case with $1.5 million. 
+
+In October 2019, Epson was filed a class action complaint for printer firmware updates that prevent printer operation upon detection of third party cartridges.{{cn|date=August 2020}}
+
+== Pricing ==
+Ink cartridges are typically priced at {{convert|13|to|75|$/usfloz|$/gal $/l|0|abbr=on}} of ink,<ref>{{cite web |publisher=[[Consumer Reports]] |date=June 2013 |title=The high cost of wasted printer ink |url=http://www.consumerreports.org/cro/magazine/2013/08/the-high-cost-of-wasted-printer-ink/index.htm |url-status=live |archiveurl=https://web.archive.org/web/20160919080015/http://www.consumerreports.org/cro/magazine/2013/08/the-high-cost-of-wasted-printer-ink/index.htm |archivedate=2016-09-19 }}</ref> meaning that refill cartridges sometimes cost a substantial fraction of the cost of the printer. To save money, many people use compatible ink cartridges from a vendor other than the printer manufacturer.  Others use aftermarket inks, refilling their own ink cartridges using a kit that includes bulk ink.  The high cost of cartridges has also provided an incentive for counterfeiters to supply cartridges falsely claiming to be made by the original manufacturer.<ref>{{Cite web|title = HP Gets Tough on Ink Counterfeiters|url = https://www.bloomberg.com/bw/magazine/content/09_23/b4134044747987.htm|website = BloombergView|accessdate = 2015-06-16|date = 28 May 2009|last = Edwards|first = Cliff|publisher = Bloomberg L.P.|url-status = live|archiveurl = https://web.archive.org/web/20160306024611/http://www.bloomberg.com/bw/magazine/content/09_23/b4134044747987.htm|archivedate = 6 March 2016}}</ref> The print cartridge industry lost an estimated $3 billion in 2009 due to this, according to an [[International Data Corporation]] estimate.
+
+Another alternative involves modifications of an original cartridge allowing use of [[continuous ink system]]s with external ink tanks.{{cn|date=August 2020}} Some manufacturers, including [[Canon Inc.|Canon]] and [[Epson]], have introduced new models featuring in-built continuous ink systems.<ref>{{Cite web|title = L100 & L200 High-Capacity Ink Tank Inkjet Printers - Milestone Products - Epson|url = http://global.epson.com/company/corporate_history/milestone_products/44_l100l200.html|website = global.epson.com|accessdate = 2015-06-16|date = October 2010|url-status = live|archiveurl = https://web.archive.org/web/20150626045235/http://global.epson.com/company/corporate_history/milestone_products/44_l100l200.html|archivedate = 2015-06-26}}</ref> This was seen as a welcome move by users, especially small business owners who rely on bulk-printing solutions, like Internet cafes and small-scale print shops.{{cn|date=August 2020}}
+
+== Refills and third party replacements ==
+{{More citations needed section|date=February 2008}}
+[[Image:Wiki vb InfusPrint.jpg|thumb|Infusing an inkjet printer]]
+
+Because printer cartridges from the original manufacturer are often expensive, demand exists for cheaper third party options. These include:
+
+=== Ink refill services ===
+Ink refill services are available in office supplies stores, pharmacies and warehouse clubs such as Office Max, Walgreens and Costco.<ref>{{Cite web|title=Places That Refill Printer Ink Cartridges|url=https://smallbusiness.chron.com/places-refill-printer-ink-cartrigdes-57166.html|access-date=2020-08-06|website=Small Business - Chron.com}}</ref> People simply give them their empty ink cartridges in order for them to be refilled.
+
+=== Ink Sold in Bulk ===
+People buy large bottles of ink, ranging from 100 mL to 5 gallons.{{cn|date=August 2020}} Ink from these bottles are transferred through syringes or droppers.
+
+=== Cartridge refill kits ===
+Cartridge refill kits can contain both ink syringes/droppers, rubber plugs, drill tool, screw driver and sealing tape.{{cn|date=August 2020}} These are tools that you will need depending on your cartridge model. Some cartridges needed to be unscrewed or drilled or simply injected, depending on the design.<ref>{{Cite web|title=How to Refill an Inkjet Printer Cartridge|url=https://www.wikihow.com/Refill-an-Inkjet-Printer-Cartridge|access-date=2020-08-06|website=wikiHow|language=en}}</ref>
+
+=== Re-manufactured cartridges ===
+Remanufactured toner and ink cartridges makes up 30% of total printer cartridge market.{{cn|date=August 2020}} Remanufactured cartridges are recycled cartridges that have been disassembled, cleaned and tested for quality. Worn or damaged parts are replaced and the cartridge is then re-assembled and refilled with ink. Manufacturing costs stay low since remanufactured cartridges do not require many new parts.{{cn|date=August 2020}}
+
+=== Compatible ink cartridges ===
+Compatible ink cartridges are generic cartridges that are made of 100% new materials instead of remanufactured cartridges.
+
+=== Continuous ink supply system ===
+Perhaps the easiest, most trouble-free method of refilling ink cartridges is through the use of a CISS (Continuous Ink Supply System).  A CISS consists of a set of cartridges that have tubes connected to them, through which the ink continuously flows from ink reservoirs on the outside of the printer.  Instead of refilling the cartridges themselves, the user simply refills the bottles on the outside of the printer. Early CIS systems were composed of OEM cartridges that had been drilled and outfitted with fittings to accept the ink delivery tubes, a set of 'ribbon' tubes, and plastic bottles with holes drilled in the caps for the tubes and the vents. Today's CIS systems are mass-produced in China, often incorporating all ink bottles into one partitioned container.  They typically utilize auto-reset chips, which means the cartridges rarely have to be removed from the printer.
+
+[[Image:Wiki vb ngeresetEpson.gif|thumb|Resetting an Epson ink cartridge using a resetter tool]]
+
+=== Legality of refills and third party replacements ===
+The legality of this industry was brought to the [[United States Court of Appeals for the Sixth Circuit]] in the case of ''[[Lexmark Int'l v. Static Control Components]]''. The Court ruled that reverse-engineering the [[handshaking]] procedure to enable compatibility did not violate the [[Digital Millennium Copyright Act]].<ref>{{cite web |last1=Judge |first1=Tricia |title=A Decade Later: Prebate is Out...And That Isn't All |url=https://rechargermag.com/Articles/2009/06/01/A-Decade-Later-Prebate-is-Out-That-Isnt-All.aspx |website=Recharger Magazine |accessdate=24 June 2020 |archiveurl=https://web.archive.org/web/20130527212255/https://rechargermag.com/Articles/2009/06/01/A-Decade-Later-Prebate-is-Out-That-Isnt-All.aspx |archivedate=27 May 2013 |date=1 June 2009 |url-status=dead}}</ref> The [[Supreme Court of the United States]] also ruled in May 2017 in ''[[Lexmark Int'l, Inc. v. Impression Prods., Inc.|Impression Products v. Lexmark]]'' that companies cannot use patent law to block reuse of products protected by patent once the product is sold, which in the case of ink cartridges, allows the sale of refurbished cartridges both within the United States and overseas.<ref>{{Cite web | url = https://www.bloomberg.com/news/articles/2017-05-30/u-s-supreme-court-curbs-patent-holders-power-to-block-resale | title = U.S. Supreme Court Curbs Patent-Holder Power to Block Resale | first1 = Greg | last1 = Stohr | first2 = Susan | last2 = Decker | date = May 30, 2017 | accessdate = May 30, 2017 | work = [[Bloomberg L.P.]] | url-status = live | archiveurl = https://web.archive.org/web/20170530161011/https://www.bloomberg.com/news/articles/2017-05-30/u-s-supreme-court-curbs-patent-holders-power-to-block-resale | archivedate = May 30, 2017 }}</ref>
+
+HP has fiercely defended its printing interests from the refill industry, including filing patent complaints and false advertising lawsuits which allege that inferior ink is not properly differentiated from the original HP ink.<ref>{{cite web| url=http://news.cnet.com/8301-1001_3-10469284-92.html?tag=mncol| title=HP settles inkjet cartridge patent complaints| first=Lance| last=Whitney| date=2010-03-18| work=cnet.com| accessdate=2010-09-13}}</ref>
+
+=== Quality of refills and third party replacements ===
+Back in 2007, ''[[PC World (magazine)|PC World]]'' reports that refilled cartridges have higher failure rates, print fewer pages than new cartridges, and demonstrate more on-page problems like streaking, curling, and color bleed.<ref>{{cite web|date=2007-04-03|title=Printers: Refills or new cartridges?|url=http://www.pcworld.ca/news/column/b8b60d050a01040800fd4bba7a3c8c1a/pg1.htm|archiveurl=https://web.archive.org/web/20070605173324/http://www.pcworld.ca/news/column/b8b60d050a01040800fd4bba7a3c8c1a/pg1.htm|archivedate=2007-06-05|accessdate=2009-07-22|publisher=PCWorld.ca}}</ref> Therefore product or service research is often recommended.<ref>{{Cite web|title=3 Things You Should Know About Remanufactured Ink|url=https://www.inkcartridges.com/blog/ink-guides/3-things-you-should-know-about-remanufactured-ink/|access-date=2020-08-06|language=en-US}}</ref> In the tests made by Wilhelm Imaging Research, Epson ink is fade-resistant up to 40 years. Ink from remanufactured cartridges are only fade-resistant up to 3.9 years.{{cn|date=August 2020}}
+
+=== Environmental impact ===
+{{Tone|section|date=January 2011}}
+
+==== Facts ====
+The list below outlines a few facts about toner/ink cartridges and the impact they have on the environment.{{cn|date=October 2019}}
+
+* Each year over 350 million cartridges are thrown out to [[landfill]]s.
+* By the year 2012, 500 million laser cartridges and 1.8 billion ink cartridges had been dumped in landfills.
+* Cartridges can take up to 425 to 1,000 years to [[Decomposition|decompose]].
+* Every ink cartridge becomes {{convert|3.5|lb|kg}} of solid waste.{{cn|date=August 2020}}
+
+==== New laws ====
+Many programs have been implemented in the United States and Europe<ref>{{cite web |last1=Cradden |first1=John |title=Printer-makers hit by new EU law |url=http://www.electricnews.net/news.html?code=8859027 |website=ElectricNews.net |accessdate=24 June 2020 |archiveurl=https://web.archive.org/web/20030601122929/http://electricnews.net/index.html |archivedate=1 June 2003 |date=19 December 2002 |url-status=dead}}</ref> to encourage the recycling of ink cartridges. New York has implemented a recycling law for businesses and consumers regarding toner and ink cartridges.<ref>{{cite web |title=NYCWasteLe$$: What to Recycle in New York City |url=https://www.nyc.gov/html/nycwasteless/html/recycling/recycle_what.shtml |website=NYC.gov |accessdate=24 June 2020 |archiveurl=https://web.archive.org/web/20100617063005/http://www.nyc.gov/html/nycwasteless/html/recycling/recycle_what.shtml |archivedate=17 June 2010 |url-status=dead}}</ref> In California the Public Contract Code (PCC) section 12156<ref>{{cite web |title=Office Machines - Toner and Inkjet Cartridges |url=https://www.green.ca.gov/EPP/OfficeMach/toner.htm |website=Green California |accessdate=24 June 2020 |archiveurl=https://web.archive.org/web/20060218231253/https://www.green.ca.gov/EPP/OfficeMach/toner.htm |archivedate=18 February 2006 |url-status=dead}}</ref> encourages businesses to purchase recycled ink and toner cartridges.
+In the [[United Kingdom|UK]], large compatible cartridge manufacturers have implemented recycling programs in order to receive back empty cartridges for refilling of HP, Lexmark, Dell, etc. cartridges, as no compatible version is readily available.
+
+== Faults ==
+
+Occasionally an error occurs in a factory which can lead to an ink cartridge developing a fault. While such a case is rare, the cartridge will be irreparable and the customer should seek a refund from the manufacturer. This is not to be confused with a clogged printhead.
+
+== See also ==
+<!-- Note: Please do not add links to websites that sell or recycle cartridges, they are considered spam and will be removed. -->
+
+* [[Arizona Cartridge Remanufacturers Association Inc. v. Lexmark International Inc.]]
+* [[ROM cartridge]]
+* [[Inkjet refill kit]]
+* [[Razor and blades business model]]
+* [[Damaged good]]s (business strategy)
+* [[Toner cartridge]]
+* [[Ecofont]] (inksaving font)
+* [[Under cover removal]]
+
+== References ==
+{{reflist|24em}}
+
+{{Commons category|Ink-jet cartridges}}
+
+{{DEFAULTSORT:Ink Cartridge}}
+[[Category:Computer printers]]
+[[Category:Inks]]
+[[Category:Office equipment]]

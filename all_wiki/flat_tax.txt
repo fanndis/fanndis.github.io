@@ -1,0 +1,341 @@
+{{For|the term related to tax incidence regarding flat progressivity|Proportional tax}}
+{{Use dmy dates|date=October 2019}}
+{{Taxation}}
+A '''flat tax''' (short for '''flat-rate tax''') is a [[tax]] system where the tax payment is calculated as fixed percentage of income. For example, if income is $10,000 then the tax due is 20% x $10,000 = $2,000 and if income is $100,000 then tax due is $20,000. If you were to graph tax percentage rate as a function of income, the graph would be a “flat” line.  
+
+The concept of  [[marginal tax rate|marginal rate]] is not needed with the flat tax system. Marginal rate applies to a progressive tax where tax rate changes with different income brackets. If we define income brackets anyway, in a flat tax system the marginal rate would be zero since the tax rate percentage is constant (zero change) across all income brackets.  A true flat tax would be a [[proportional tax]], but implementations are often [[progressive tax|progressive]] and sometimes [[regressive tax|regressive]] depending on [[tax deduction|deductions]] and [[Tax exemption|exemptions]] in the tax base. There are various tax systems that are labeled "flat tax" even though they are significantly different.
+
+==Major categories==
+Flat tax proposals differ in how the subject of the tax is defined.
+
+===True flat-rate income tax===
+A true flat-rate tax is a system of taxation where one tax rate is applied to all personal income with no deductions.
+
+===Marginal flat tax===
+Where deductions are allowed, a 'flat tax' is a progressive tax with the special characteristic that, above the maximum deduction, the marginal rate on all further income is constant. Such a tax is said to be marginally flat above that point. The difference between a true flat tax and a marginally flat tax can be reconciled by recognizing that the latter simply excludes certain types of income from being defined as taxable income; hence, both kinds of tax are flat on taxable income.
+
+===Flat tax with limited deductions===
+Modified flat taxes have been proposed which would allow deductions for a very few items, while still eliminating the vast majority of existing deductions. Charitable deductions and home mortgage interest are the most discussed examples of deductions that would be retained, as these deductions are popular with voters and are often used. Another common theme is  a single, large, fixed deduction. This large fixed deduction would compensate for the elimination of various existing deductions and would simplify taxes, having the side-effect that many (mostly low income) households will not have to file tax returns.
+
+===Hall–Rabushka flat tax===
+{{Main|Hall–Rabushka flat tax}}
+Designed by economists at the [[Hoover Institution]], Hall–Rabushka is a flat tax on [[consumption tax|consumption]].<ref>[http://www.hoover.org/publications/books/3602666.html Hoover Institution – Books – The Flat Tax<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20100523210531/http://www.hoover.org/publications/books/3602666.html |date=23 May 2010 }}</ref> Principally, Hall–Rabushka accomplishes a consumption tax effect by taxing income and then excluding investment. [[Robert Hall (economist)|Robert Hall]] and [[Alvin Rabushka]] have consulted extensively in designing the flat tax systems in Eastern Europe.
+
+===Negative income tax===
+{{Main|Negative income tax}}
+
+The negative income tax (NIT), which [[Milton Friedman]] proposed in his 1962 book ''[[Capitalism and Freedom]]'', is a type of flat tax. The basic idea is the same as a flat tax with personal deductions, except that when deductions exceed income, the taxable income is allowed to become negative rather than being set to zero. The flat tax rate is then applied to the resulting "negative income," resulting in a "negative income tax" that the government would owe to the household—unlike the usual "positive" income tax, which the household owes the government.
+
+For example, let the flat rate be 20%, and let the deductions be $20,000 per adult and $7,000 per dependent. Under such a system, a family of four making $54,000 a year would owe no tax. A family of four making $74,000 a year would owe tax amounting to 0.20 × (74,000 − 54,000) = $4,000, as would be the case under a flat tax system with deductions. Families of four earning less than $54,000 per year, however, would experience a "negative" amount of tax (that is, the family would receive money from the government instead of paying to the government). For example, if the family earned $34,000 a year, it would receive a check for $4,000. The NIT is intended to replace not just the [[United States|USA]]'s income tax, but also many benefits low income American households receive, such as [[Supplemental Nutrition Assistance Program|food stamps]] and [[Medicaid]]. The NIT is designed to avoid the [[welfare trap]]—effective high marginal tax rates arising from the rules reducing benefits as market income rises. An objection to the NIT is that it is welfare without a work requirement. Those who would owe negative tax would be receiving a form of welfare without having to make an effort to obtain employment. Another objection is that the NIT subsidizes industries employing low-cost labor, but this objection can also be made against current systems of benefits for the [[working poor]].
+
+===Capped flat tax===
+A '''capped''' flat tax is one in which income is taxed at a flat rate until a specified cap amount is reached. For example, the United States [[Federal Insurance Contributions Act tax]] is 6.2% of gross compensation up to a limit (in 2019, up to $132,900 of earnings, for a maximum tax of $8239.80).<ref>[https://www.ssa.gov/policy/docs/quickfacts/prog_highlights/index.html OASDI and SSI Program Rates & Limits] {{Webarchive|url=https://web.archive.org/web/20190218021520/https://www.ssa.gov/policy/docs/quickfacts/prog_highlights/index.html |date=18 February 2019 }}, United States Social Security Administration.</ref> This cap has the effect of turning a nominally flat tax into a [[regressive tax]].<ref>[https://www.economist.com/blogs/freeexchange/2009/04/are_payroll_taxes_regressive Are Payroll Taxes Regressive] {{Webarchive|url=https://web.archive.org/web/20170604093358/http://www.economist.com/blogs/freeexchange/2009/04/are_payroll_taxes_regressive |date=4 June 2017 }} ''The Economist''.</ref>
+
+==Requirements for a fully defined schema==
+In devising a flat tax system, several recurring issues must be enumerated, principally with deductions and the identification of when money is earned.
+
+===Defining when income occurs===
+Since a central tenet of the flat tax is to minimize the compartmentalization of incomes into myriad  special or sheltered cases, a vexing problem is deciding when income occurs. This is demonstrated by the taxation of interest income and stock dividends.  The shareholders own the company and so the company's profits belong to them.  If a company is taxed on its profits, then the funds paid out as dividends have already been taxed.  It's a debatable question if they should subsequently be treated as income to the shareholders and thus subject to further tax.   A similar issue arises in deciding if interest paid on loans should be deductible from the taxable income since that interest is in-turn taxed as income to the loan provider.<ref name="debate" /> There is no universally agreed answer to what is fair. For example, in the United States, dividends are not deductible<ref>{{cite web|url=http://www.cfo.com/article.cfm/12260551|title=When Is a Dividend Deductible?|work=CFO|date=18 September 2008|access-date=28 November 2009|archive-url=https://web.archive.org/web/20100314160131/http://www.cfo.com/article.cfm/12260551|archive-date=14 March 2010|url-status=live}}</ref> but mortgage interest is deductible.<ref>{{cite web|url=https://www.irs.gov/publications/p936/ar02.html|title=Publication 936 (2014), Home Mortgage Interest Deduction|access-date=10 August 2017|archive-url=https://web.archive.org/web/20170910203429/https://www.irs.gov/publications/p936/ar02.html|archive-date=10 September 2017|url-status=live}}</ref> ''Thus a Flat Tax proposal is not fully defined until it differentiates new untaxed income from a pass-through of already taxed income.''
+
+===Policy administration===
+Taxes, in addition to providing revenue,  can be potent instruments of policy. For example, it is common for governments to encourage social policy such as home insulation or low income housing with tax credits rather than constituting a ministry  to implement these policies.<ref>For example the [http://www.energystar.gov/index.cfm?c=tax_credits.tx_index ENERGYSTAR] {{Webarchive|url=https://web.archive.org/web/20091202143751/http://www.energystar.gov/index.cfm?c=tax_credits.tx_index |date=2 December 2009 }} tax credit</ref>  In a  flat tax system with limited deductions such policy administration, mechanisms are  curtailed.  In addition to social policy, flat taxes can remove tools for adjusting economic policy as well.  For example, in the United States, short-term [[capital gain]]s are taxed at a higher rate than long-term gains as means to promote long-term investment horizons and damp speculative fluctuation.<ref name="tobin">As a recent example, transaction costs to damp speculation proposed by [[James Tobin]], winner of the 1972 Nobel prize in economics, were recently (2009) proposed to the G20 by British PM Gordon brown as a way to prevent international currency speculation. [https://www.nytimes.com/2009/11/27/opinion/27krugman.html?_r=1  Krugman] {{Webarchive|url=https://web.archive.org/web/20170524021301/http://www.nytimes.com/2009/11/27/opinion/27krugman.html?_r=1 |date=24 May 2017 }}</ref> ''Thus, if one assumes that government should be active in policy decisions such as this, then claims that flat taxes are cheaper/simpler to administer than others are incomplete until they factor in costs for alternative policy administration.''
+
+===Minimizing deductions===
+In general, the question of how to eliminate deductions is fundamental to the flat tax design; deductions dramatically affect the effective "flatness" in the tax rate. Perhaps the single biggest necessary deduction is for business expenses. If businesses were not allowed to deduct expenses, businesses with a profit margin below the flat tax rate could never earn any money since the tax on revenues would always exceed the earnings. For example, grocery stores typically earn pennies on every dollar of revenue; they could not pay a tax rate of 25% on revenues unless their markup exceeded 25%. Thus, [[corporation]]s must be able to deduct operating expenses even if individual citizens cannot. A practical dilemma now arises as to identifying what is an expense for a business.<ref>{{Cite web|url=https://www.irs.gov/corporations|title=Corporations {{!}} Internal Revenue Service|website=www.irs.gov|language=en|accessdate=12 November 2017|archive-url=https://web.archive.org/web/20171113112658/https://www.irs.gov/corporations|archive-date=13 November 2017|url-status=live}}</ref>
+For example, if a peanut butter producer purchases a jar manufacturer, is that an expense (since they have to purchase jars somehow) or a sheltering of their income through investment? Flat tax systems can differ greatly in how they accommodate such gray areas. For example, the "9-9-9" flat tax proposal would allow businesses to deduct purchases but not labor costs.<ref>[http://www.hermancain.com/999plan Herman Cain's 9-9-9 flat tax variation] {{webarchive |url=https://web.archive.org/web/20110926051459/http://www.hermancain.com/999plan |date=26 September 2011 }}.</ref> (This effectively taxes labor-intensive industrial revenue at a higher rate.<ref>[https://ssrn.com/abstract=1941800 E.D> Kleinbart, An analysis of Herman Cain's 999 plan, Social Science Research Center, 2011] {{Webarchive|url=https://web.archive.org/web/20111015154319/https://ssrn.com/abstract=1941800 |date=15 October 2011 }}.</ref>) How deductions are implemented will dramatically change the effective total tax, and thus the flatness of the tax.<ref name="debate" /> ''Thus, a flat tax proposal is not fully defined unless the proposal includes a differentiation between deductible and non-deductible expenses.''
+
+==Tax effects==
+
+===Diminishing marginal utility===
+Flat tax benefits higher income brackets progressively due to decline in [[marginalism|marginal value]].<ref>The diminishing marginal utility means that the number of units of additional 'happiness' afforded by an extra unit of additional money, decreases as one spends more money.  [http://www.daviddfriedman.com/Academic/Price_Theory/PThy_Chapter_4/PThy_Chapter_4.html] {{Webarchive|url=https://web.archive.org/web/20100330024448/http://www.daviddfriedman.com/Academic/Price_Theory/PThy_Chapter_4/PThy_Chapter_4.html |date=30 March 2010 }}</ref> For example, if a flat tax system has a large per-citizen deductible (such as the "Armey" scheme below), then it is a [[progressive tax]]. As a result, the term Flat Tax is actually a shorthand for the more proper marginally flat tax.<ref name="debate">See for example the flat tax resources at idebate.org</ref>
+
+===Administration and enforcement===
+One type of flat tax would be imposed on all income once; at the source of the income. Hall and Rabushka (1995) includes a proposed amendment to the U.S. [[Internal Revenue Code]] that would implement the variant of the flat tax they advocate.<ref>{{Cite book|chapter-url=http://www.hoover.org/sites/default/files/flat_tax_appendix.pdf|title=The Flat Tax|last1=Hall|first1=Robert|last2=Rabushka|first2=Alvin|publisher=Hoover Press|year=2007|isbn=9780817993115|edition=2nd|chapter=Appendix: A Flat-Tax Law|access-date=6 May 2017|archive-url=https://web.archive.org/web/20151223072322/http://www.hoover.org/sites/default/files/flat_tax_appendix.pdf|archive-date=23 December 2015|url-status=live}}</ref> This amendment, only a few pages long, would replace hundreds of pages of statutory language (although most statutory language in taxation statutes is ''not'' directed at specifying graduated tax rates).
+
+As it now stands, the U.S. Internal Revenue Code is over several million words long, and contains many loopholes, deductions, and exemptions which, advocates of flat taxes claim, render the collection of taxes and the enforcement of tax law complicated and inefficient.
+
+It is further argued that current tax law slows economic growth by distorting economic incentives, and by allowing, even encouraging, tax avoidance. With a flat tax, there are fewer incentives than in the current system to create tax shelters, and to engage in other forms of tax avoidance.
+
+Flat tax critics contend that a flat tax system could be created with many loopholes, or a progressive tax system without loopholes, and that a progressive tax system could be as simple, or simpler, than a flat tax system. A simple progressive tax would also discourage tax avoidance.
+
+Under a pure flat tax without deductions, every tax period a company would make a single payment to the government covering the taxes on the employees and the taxes on the company profit.<ref>{{cite news | url=http://www.economist.com/printedition/displayStory.cfm?Story_ID=3861190 | work=The Economist | title=The flat-tax revolution | date=14 April 2005 | access-date=28 October 2005 | archive-url=https://web.archive.org/web/20051220030127/http://www.economist.com/printedition/displayStory.cfm?Story_ID=3861190 | archive-date=20 December 2005 | url-status=live }}</ref> For example, suppose that in a given year, a company called ACME earns a profit of 3 million, spends 2 million in wages, and spends 1 million on other expenses that under the tax law is taxable income to recipients, such as the receipt of stock options, bonuses, and certain executive privileges. Given a flat rate of 15%, ACME would then owe the U.S. [[Internal Revenue Service]] (IRS) (3M + 2M + 1M) × 0.15 = 900,000. This payment would, in one fell swoop, settle the tax liabilities of ACME's employees as well as the corporate taxes owed by ACME. Most employees throughout the economy would never need to interact with the IRS, as all tax owed on wages, interest, dividends, royalties, etc. would be withheld at the source. The main exceptions would be employees with incomes from personal ventures. The ''Economist'' claims that such a system would reduce the number of entities required to file returns from about 130 million individuals, households, and businesses, as at present, to a mere 8 million businesses and self-employed.<ref>{{cite news | url=http://www.economist.com/node/3860731 | work=The Economist | title=The case for flat taxes | date=14 April 2005 | access-date=17 January 2011 | archive-url=https://web.archive.org/web/20101111105707/http://www.economist.com/node/3860731 | archive-date=11 November 2010 | url-status=live }}</ref>
+
+However, this simplicity depends on the absence of deductions of any kind being allowed (or at least no variability in the deductions of different people). Furthermore, if income of differing types are segregated (e.g., pass-through, long term cap gains, regular income, etc.) then complications ensue. For example, if realized capital gains were subject to the flat tax, the law would require brokers and mutual funds to calculate the realized capital gain on all sales and redemption. If there were a gain, a tax equal to 15% of the amount of the gain would be withheld and sent to the IRS. If there were a loss, the amount would be reported to the IRS. The loss would offset gains, and then the IRS would settle up with taxpayers at the end of the period. Lacking deductions, this scheme cannot be used to implement economic and social policy indirectly by tax credits and thus, as noted above, the simplifications to the government's revenue collection apparatus might be offset by new government ministries required to administer those policies.
+
+===Revenues===
+The Russian Federation is considered a prime case of the success of a flat tax; the real revenues from its Personal Income Tax rose by 25.2% in the first year after the Federation introduced a flat tax, followed by a 24.6% increase in the second year, and a 15.2% increase in the third year.<ref name="rabushka">[http://www.hoover.org/research/flat-tax-work-russia-year-three The Flat Tax at Work in Russia: Year Three] {{Webarchive|url=https://web.archive.org/web/20150402105238/http://www.hoover.org/research/flat-tax-work-russia-year-three |date=2 April 2015 }}, Alvin Rabushka, Hoover Institution Public Policy Inquiry, www.russianeconomy.org, 26 April 2004</ref>
+
+The Russian example is often used as proof of the validity of this analysis, despite an [[International Monetary Fund]] study in 2006 which found that there was no sign "of Laffer-type behavioral responses generating revenue increases from the tax cut elements of these reforms" in Russia or in other countries.<ref>{{Cite web |url=http://www.imf.org/external/pubs/ft/wp/2006/wp06218.pdf |title=The "Flat Tax(es)": Principles and Evidence |access-date=8 March 2007 |archive-url=https://web.archive.org/web/20070320070141/http://www.imf.org/external/pubs/ft/wp/2006/wp06218.pdf |archive-date=20 March 2007 |url-status=live }}</ref>
+
+===Overall structure===
+Taxes other than the income tax (for example, taxes on sales and payrolls) tend to be regressive. Hence, making the income tax flat could result in a [[Regressive tax|regressive]] overall tax structure. Under such a structure, those with lower incomes tend to pay a ''higher'' proportion of their income in total taxes than the affluent do. The fraction of household income that is a return to capital (dividends, interest, royalties, profits of unincorporated businesses) is positively correlated with total household income.{{Citation needed|date=November 2007}} Hence a flat tax limited to wages would seem to leave the wealthy better off. Modifying the tax base can change the effects.  A flat tax could be targeted at income (rather than wages), which could place the tax burden equally on all earners, including those who earn income primarily from returns on investment.  Tax systems could utilize a flat [[sales tax]] to target all consumption, which can be modified with rebates or exemptions to remove regressive effects (such as the proposed [[Fair Tax]] in the U.S.<ref name="fairtaxbook">{{cite book | first=Neal | last=Boortz |author2=Linder, John | year=2006 | title=The Fair Tax Book | edition=Paperback | publisher=[[Regan Books]]|isbn=0-06-087549-6 | title-link=The Fair Tax Book }}</ref>).
+
+===Border adjustable===
+A flat tax system and income taxes overall are not inherently border-adjustable; meaning the tax component embedded into products via taxes imposed on companies (including [[corporate tax]]es and [[payroll tax]]es) are not removed when exported to a foreign country ''(see [[Effect of taxes and subsidies on price]])''. Taxation systems such as a [[sales tax]] or [[value added tax]] can remove the tax component when goods are exported and apply the tax component on imports. The domestic products could be at a disadvantage to foreign products (at home and abroad) that are border-adjustable, which would impact the global competitiveness of a country. However, it's possible that a flat tax system could be combined with tariffs and credits to act as border adjustments (the proposed ''Border Tax Equity Act'' in the U.S. attempts this). Implementing an income tax with a border adjustment tax credit is a violation of the [[World Trade Organization]] agreement. Tax exemptions (allowances) on low income wages, a component of most income tax systems could mitigate this issue for high labour content industries like textiles that compete Globally.
+
+In a subsequent section, various proposals for flat tax-like schemes are discussed, these differ mainly on how they approach with the following issues of deductions,  defining income, and policy implementation.
+
+==Around the world==
+{{Main|List of countries by tax rates}}
+
+Most countries tax personal income at the national level using progressive rates, but some use a flat rate. Most countries that have or had a flat tax on personal income at the national level are [[Communist state#Former communist states|former communist countries]] or [[List of island countries|islands]].
+
+In some countries, subdivisions are allowed to tax personal income in addition to the national government. Many of these subdivisions use a flat rate, even if their national government uses progressive rates. Examples are all [[subdivisions of the Nordic countries|counties and municipalities of the Nordic countries]], all [[administrative divisions of Japan|prefectures and municipalities of Japan]], and some [[Italy#Constituent entities|subdivisions of Italy]] and [[Political divisions of the United States|of the United States]].
+
+===Jurisdictions that have a flat tax on personal income===
+
+The table below lists jurisdictions where the personal income tax imposed by all levels of government is a flat rate. It includes independent countries and other autonomous jurisdictions. The tax rate listed is the one that applies to income from work, but does not include mandatory contributions to [[social security]]. In some jurisdictions, different rates (also flat) apply to other types of income, such as from investments.
+
+{|
+|rowspan=2 valign=top|
+{|class="wikitable sortable nowrap"
+!Jurisdiction !! Tax rate
+|-
+|{{flag|Abkhazia}}<ref>[http://www.tppra.org/ru/документы/zakon-respubliki-abhaziya-o-podohodnom-naloge-s-fizicheskih-lic Law on the income tax on individuals] {{Webarchive|url=https://web.archive.org/web/20190612003243/http://www.tppra.org/ru/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/zakon-respubliki-abhaziya-o-podohodnom-naloge-s-fizicheskih-lic |date=12 June 2019 }}, Chamber of Commerce and Industry of the Republic of Abkhazia. {{in lang|ru}}</ref> || 10%
+|-
+|{{flag|Armenia}}<ref>[https://jam-news.net/armenia-introduces-flat-income-tax-wealthy-rejoice-experts-concerned/ Armenia introduces flat income tax – wealthy rejoice, experts concerned], JAMnews, 8 January 2020.</ref> || 23%
+|-
+|{{flag|Artsakh}}<ref>[http://www.aif.am/images/photos/2016_en.pdf Guide to investment] {{Webarchive|url=https://web.archive.org/web/20180903160616/http://aif.am/images/photos/2016_en.pdf |date=3 September 2018 }}, Artsakh Investment Fund, 2016.</ref> || 21%
+|-
+|{{flag|Belarus}}<ref name=personaltaxguide>[https://www.ey.com/en_gl/tax-guides/worldwide-personal-tax-and-immigration-guide-2019-20 Worldwide Personal Tax and Immigration Guide 2019–20], [[Ernst & Young]], November 2019.</ref> || 13%
+|-
+|{{flag|Belize}}<ref>{{Cite web|url=http://incometaxbelize.gov.bz/wp-content/uploads/2016/07/cap055.pdf|title=Income and business tax act chapter 55|publisher=Income Tax Department of Belize|access-date=17 February 2019|archive-url=https://web.archive.org/web/20181007195535/http://incometaxbelize.gov.bz/wp-content/uploads/2016/07/cap055.pdf|archive-date=7 October 2018|url-status=live}}</ref> || 25%
+|-
+|{{flag|Bolivia}}<ref name=personaltaxguide/> || 13%
+|-
+|{{flag|Bosnia and Herzegovina}}<ref name=ba>[http://www.fipa.gov.ba/publikacije_materijali/brosure/TAX_BROSURA.26.01.2016.pdf Bosnia and Herzegovina tax system] {{Webarchive|url=https://web.archive.org/web/20181025094012/http://www.fipa.gov.ba/publikacije_materijali/brosure/TAX_BROSURA.26.01.2016.pdf |date=25 October 2018 }}, Foreign Investment Promotion Agency of Bosnia and Herzegovina, 26 January 2016.</ref> || 10%{{efn|The national government does not tax income, but all three subdivisions ([[Federation of Bosnia and Herzegovina]], [[Republika Srpska]] and [[Brčko District]]) tax income using the same flat rate.<ref name=ba/>}}
+|-
+|{{flag|Bulgaria}}<ref name=personaltaxguide/> || 10%
+|-
+|{{flag|East Timor}}<ref>[https://www.mof.gov.tl/taxation/income-tax/annual-income-tax-return/?lang=en Annual income tax return] {{Webarchive|url=https://web.archive.org/web/20190218081805/https://www.mof.gov.tl/taxation/income-tax/annual-income-tax-return/?lang=en |date=18 February 2019 }}, Timor-Leste Ministry of Finance.</ref> || 10%
+|-
+|{{flag|Estonia}}<ref name=personaltaxguide/> || 20%
+|-
+|{{flag|Georgia}}<ref name=personaltaxguide/> || 20%
+|-
+|{{flag|Greenland}}<ref name=gl>[https://aka.gl/~/media/Skattestyrelsen/Meddelelser%20fra%202008/2019%20efteraar/Udskrivningspcter%202020.pdf Set percentages for the 2020 income year], Tax Agency of Greenland, 4 December 2019.{{in lang|kl|da}}</ref> || 36, 42 or 44%{{efn|The national government imposes an income tax rate of 10%. Residents of a [[administrative divisions of Greenland|municipality]] also pay a joint municipal tax of 6% (collected by the national government and distributed to the municipality) and a municipal tax of 26% or 28% (depending on the municipality), for a total income tax rate of 42 or 44%. Residents of an unincorporated area pay an additional tax of 26% (set by the national government for the area), for a total income tax rate of 36%.<ref name=gl/>}}
+|-
+|{{flag|Guernsey}}<ref name=personaltaxguide/> || 20%{{efn|Applies to Guernsey and [[Alderney]].<ref name=personaltaxguide/>  [[Sark]] does not tax income, but taxes assets at a flat rate with minimum and maximum amounts.<ref>[http://www.guernseylegalresources.gg/CHttpHandler.ashx?id=122027 The Direct Taxes for 2020 (Sark) Ordinance, 2019], Guernsey Legal Resources.</ref>}}
+|-
+|{{flag|Hungary}}<ref name=personaltaxguide/> || 15%
+|-
+|{{flag|Jersey}}<ref name=personaltaxguide/> || 20%
+|-
+|{{flag|Kazakhstan}}<ref name=personaltaxguide/> || 10%
+|-
+|{{flag|Kurdistan}}<ref name=iq>[https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-iraqhighlights-2020.pdf Iraq Highlights 2020], Deloitte, April 2020.</ref> || 5%{{efn|The autonomous region of Kurdistan taxes personal income at a flat rate instead of the progressive rates set by the federal government of [[Iraq]].<ref name=iq/>}}
+|-
+|{{flag|Kyrgyzstan}}<ref>[https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-kyrgyzstanhighlights-2018.pdf Kyrgyzstan highlights 2018] {{Webarchive|url=https://web.archive.org/web/20190218021423/https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-kyrgyzstanhighlights-2018.pdf |date=18 February 2019 }}, Deloitte.</ref> || 10%
+|-
+|{{flag|Madagascar}}<ref name=personaltaxguide/> || 20%
+|-
+|{{flag|Mongolia}}<ref name=personaltaxguide/> || 10%
+|-
+|{{flag|Romania}}<ref name=personaltaxguide/> || 10%
+|-
+|{{flag|Russia}}<ref name=personaltaxguide/> || 13%
+|-
+|{{flag|Seychelles}}<ref name=personaltaxguide/> || 15%
+|-
+|{{flag|South Ossetia}}<ref>{{cite web |url=http://www.nalog-rso.ru/zakon/zakon9.php |title=Law on the income tax on individuals |publisher=Committee on Taxes and Duties of the Republic of South Ossetia |language=ru |archive-url=https://web.archive.org/web/20131105212726/http://www.nalog-rso.ru/zakon/zakon9.php |archive-date=5 November 2013 |accessdate=19 June 2017 }}</ref> || 12%
+|-
+|{{flag|Transnistria}}<ref>[http://flattaxes.blogspot.com/2008/11/low-flat-tax-has-been-adopted-in.html A Low Flat Tax Has Been Adopted in Pridnestrovie] {{Webarchive|url=https://web.archive.org/web/20150610231607/http://flattaxes.blogspot.com/2008/11/low-flat-tax-has-been-adopted-in.html |date=10 June 2015 }}, Alvin Rabushka, 17 August 2007.</ref> || 10%
+|-
+|{{flag|Turkmenistan}}<ref>[https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-turkmenistanhighlights-2019.pdf Turkmenistan highlights 2019] {{Webarchive|url=https://web.archive.org/web/20190218021427/https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-turkmenistanhighlights-2019.pdf |date=18 February 2019 }}, Deloitte.</ref> || 10%
+|-
+|{{flag|Ukraine}}<ref name=personaltaxguide/> || 19.5%{{efn|Composed of a regular tax rate of 18% and a military tax of 1.5%.<ref name=personaltaxguide/>}}
+|}
+|valign=top|[[Image:Personal income tax progressivity.png|thumb|600px|right|Personal income taxed by:
+{{legend|#00FF00|None}}
+{{legend|#00C0FF|One government level, at a flat rate}}
+{{legend|#FF8080|One government level, at progressive rates}}
+{{legend|#0040FF|Multiple government levels, at a flat rate}}
+{{legend|#FF0000|Multiple government levels, at progressive rates}}
+{{legend|#C00080|Multiple government levels, some at a flat rate and some at progressive rates}}]]
+|-
+|valign=bottom|{{notelist}}
+|}
+
+====Subnational jurisdictions====
+
+The table below lists subnational jurisdictions that tax personal income at a flat rate, in addition to the progressive rates used by their national government. The tax rates listed are those that apply to income from work, except as otherwise noted. Where a range of rates is listed, it means that the flat rate varies by location, not progressive rates.
+
+{|
+|valign=top|
+{|class="wikitable sortable nowrap" style="font-size:90%"
+!Country or<br>territory !! Subnational<br>jurisdictions !! Tax rate !! Subnational<br>jurisdictions !! Tax rate
+|-
+|{{flag|Denmark}}<ref>[https://www.statistikbanken.dk/statbank5a/selectvarval/saveselections.asp?MainTable=PSKAT&PLanguage=1&PXSId=121032&ST=ST Local government personal taxation by time, region and tax rate], Statistics Denmark.</ref> || [[municipalities of Denmark|all municipalities]]{{efn|In [[Ertholmene]], which is not part of a municipality, there is no municipal tax.<ref>[https://www.dr.dk/nyheder/politik/kv17/bornholm/beboerne-paa-dansk-oe-maa-ikke-stemme-man-foeler-sig-vel-lidt-udenfor Residents of Danish island cannot vote], DR, 21 November 2017.{{in lang|da}}</ref>}} || 22.8 to 27.8%{{efn|name=church|Plus [[church tax]] for members of certain religions, also at a flat rate.}} || {{sometimes|}} || {{sometimes|}}
+|-
+|{{flag|Faroe Islands}}<ref>[https://www.taks.fo/fo/borgari/gjold-og-agodar/talva-yvir-kommunuskatt-kirkjuskatt-og-barnafradratt/ Table of municipal tax, church tax and child deduction 2020], TAKS. {{in lang|fo}}</ref> || [[municipalities of the Faroe Islands|all municipalities]] || 16 to 22%{{efn|name=church}} || {{sometimes|}} || {{sometimes|}}
+|-
+|{{flag|Finland}}<ref>[https://www.vero.fi/contentassets/6598f374ce154cd6ae071f50aaff084f/verohallinto_kuntien-ja-seurakuntien-tuloveroprosentit-2020.pdf List of municipal and church income tax rates in year 2020], Tax Administration of Finland, 27 November 2019. {{in lang|fi}}</ref> || [[municipalities of Finland|all municipalities]] || 16.5 to 23.5%{{efn|name=church}} || {{sometimes|}} || {{sometimes|}}
+|-
+|{{flag|Iceland}}<ref>[https://www.samband.is/wp-content/uploads/2020/06/utsvarsprosentur_net.xls Municipal tax rates], Icelandic Association of Local Authorities. {{in lang|is}}</ref> || [[municipalities of Iceland|all municipalities]] || 12.44 to 14.52% || {{sometimes|}} || {{sometimes|}}
+|-
+|rowspan=8| {{flag|Italy}}<ref>[https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/addregirpef/download/download.php?tipo=reg&anno=2020 Regional additional to the personal income tax], Department of Finance of Italy, 2020. {{in lang|it}}</ref><ref name=it>[https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/addirpef_newDF/download/download.php?tipo=add&anno=2020 Municipal additional to the personal income tax], Department of Finance of Italy, 2020. {{in lang|it}}</ref>{{efn|Most municipalities in every region, including all municipalities in Aosta Valley, do not tax income. Of the municipalities that tax income, most in every region, including all in [[Basilicata]], [[Molise]] and Sicily, use a flat rate, but some use progressive rates.<ref name=it/>}} || {{flag|Abruzzo}} || 1.73% || [[List of communes of Abruzzo|some municipalities]] || 0.2 to 0.8%
+|-
+|{{flag|Aosta Valley}} || 1.23% || {{sometimes|}} || {{sometimes|}}
+|-
+|{{flag|Calabria}} || 1.73% || [[List of communes of Calabria|some municipalities]] || 0.4 to 0.8%
+|-
+|{{flag|Campania}} || 2.03% || [[List of communes of Campania|some municipalities]] || 0.2 to 0.8%
+|-
+|{{flag|Sardinia}} || 1.23% || [[List of communes of Sardinia|some municipalities]] || 0.08 to 0.6%
+|-
+|{{flag|Sicily}} || 1.23% || [[List of communes of Sicily|some municipalities]] || 0.5 to 0.8%
+|-
+|{{flag|Veneto}} || 1.23% || [[List of communes of Veneto|some municipalities]] || 0.2 to 0.8%
+|-
+|[[regions of Italy|other regions]] || {{sometimes|progressive}} || [[comune|some municipalities]] || 0.1 to 0.8%
+|-
+|{{flag|Japan}}<ref>[https://www.jetro.go.jp/en/invest/setting_up/section3/page7.html Overview of individual tax system], Japan External Trade Organization.</ref> || [[prefectures of Japan|all prefectures]] || 4% || [[municipalities of Japan|all municipalities]] || 6%
+|-
+|{{flag|Norway}}<ref>[https://www.statsbudsjettet.no/Statsbudsjettet-2020/Dokumenter1/Budsjettdokumenter/Skatte--avgifts/Prop-1-LS-/Del-2-Forslagene-/4-Personskatt-for-ovrig-/ Other personal tax], Department of Finance of Norway, 27 September 2019. {{in lang|no}}</ref>{{efn|Also applies to other Norwegian territories except [[Svalbard]].<ref>[https://www.skatteetaten.no/en/rettskilder/type/handboker/skatte-abc/2019/jan-mayen-og-de-norske-bilandene-i-antarktis/J-1.001/ Jan Mayen and the Norwegian dependencies in Antarctica], Norwegian Tax Administration. {{in lang|no}}</ref>}} || [[counties of Norway|all counties]] || 2.45% || [[List of municipalities of Norway|all municipalities]] || 11.1%
+|-
+|rowspan=2| {{flag|Sweden}}<ref name=se>[https://www.scb.se/en/finding-statistics/statistics-by-subject-area/public-finances/local-government-finances/local-taxes/pong/tables-and-graphs/local-tax-rates-changes-by-municipality/ Local tax rates 2020, by municipality], Statistics Sweden, 17 January 2020.</ref>{{efn|The combined county and municipal tax rate ranges from 29.18 to 35.15%.<ref name=se/> In [[Gotland]], the only municipality handles both county and municipal functions, so the county does not tax income and the municipality uses a tax rate similar to the combined rate in other counties.}} || {{flagdeco|Gotland}} [[Gotland County]] || {{sometimes|}} || [[Gotland Municipality]] || 33.6%
+|-
+|[[counties of Sweden|other counties]] || 10.83 to 12.08% || [[municipalities of Sweden|all municipalities]] || 17.1 to 23.8%
+|-
+|rowspan=2| {{flag|Switzerland}}{{efn|All other [[cantons of Switzerland|cantons]] and municipalities use progressive rates.}} || {{flag|Obwalden}}<ref>[https://www.ow.ch/de/kanton/publired/publikationen/?action=info&pubid=8258 Tax bases 2001–2020], Canton of Obwalden, 6 January 2020. {{in lang|de}}</ref> || 6.03% || [[Obwalden|all municipalities]] || 6.768 to 9%{{efn|name=church}}
+|-
+|{{flag|Uri}}<ref>[https://www.ur.ch/_docn/198086/SteuersaetzeTarifeNP2012bis2020.pdf Ordinary taxes 2012–2020], Canton of Uri, 19 December 2019. {{in lang|de}}</ref> || 7.1% || [[Municipalities of the canton of Uri|all municipalities]] || 6.39 to 8.52%{{efn|name=church}}
+|-
+|{{flag|United Kingdom}}{{efn|The national progressive rates apply to [[England]] and [[Northern Ireland]] without modifications. They are reduced in Wales, whose government adds a flat rate.<ref>[https://gov.wales/welsh-rates-income-tax Welsh Rates of Income Tax], Welsh Government, 3 March 2020.</ref> [[Scotland]] replaces the national rates with its own progressive rates.<ref>[https://www.gov.uk/scottish-income-tax Income Tax in Scotland], Gov.uk.</ref>}} || {{flag|Wales}}<ref>[https://business.senedd.wales/ieIssueDetails.aspx?IId=27914&PlanId=0&Opt=3 Welsh Rates of Income Tax 2020–2021], Welsh Parliament, 3 March 2020.</ref> || 10% || {{sometimes|}} || {{sometimes|}}
+|-
+|rowspan=24| {{flag|United States}}{{efn|All other states, counties and municipalities either use progressive rates or do not tax income.}} ||rowspan=2| {{flag|Alabama}}{{efn|Most counties and most municipalities in this state do not tax income,<ref>[https://help.timetrex.com/latest/enterprise/References/USA-State-Taxes/USA-Alabama-Taxes.htm Alabama], TimeTrex, January 2020.</ref> and all those that do use a flat rate. Where a county or municipal tax exists, the combined rate ranges from 0.5 to 4% depending on the location.}} ||rowspan=2 {{sometimes|progressive}} || [[Macon County, Alabama|Macon County]]<ref name=us-al>[http://revds.com/taxpayerpdfs/Alabama/taxpayerforms/Occupational%20Withholding%20Tax/Occupational%20Tax%20Return.pdf Occupational Tax Return], Avenu, November 2019.</ref> || 1%
+|-
+|[[List of cities and towns in Alabama|some municipalities]]<ref name=us-al/><ref>[https://www.tuskegeealabama.gov/finance-department/files/occupational-tax-form Occupational tax reporting], City of Tuskegee.</ref> || 0.5 to 3%
+|-
+|{{flag|Colorado}}<ref>[https://leg.colorado.gov/agencies/legislative-council-staff/individual-income-tax%C2%A0 Individual income tax], Colorado General Assembly.</ref> || 4.63% || {{sometimes|}} || {{sometimes|}}
+|-
+|{{flag|Delaware}}{{efn|name=most|Most municipalities in this state do not tax income. All those that do use a flat rate.}} || {{sometimes|progressive}} || [[Wilmington, Delaware|Wilmington]]<ref>[https://www.wilmingtonde.gov/home/showdocument?id=462 Earned income tax regulations], City of Wilmington, February 2011.</ref> || 1.25%
+|-
+|{{flag|Illinois}}<ref>[https://www2.illinois.gov/rev/research/taxrates/Pages/income.aspx Income Tax Rates], Illinois Department of Revenue.</ref> || 4.95% || {{sometimes|}} || {{sometimes|}}
+|-
+|{{flag|Indiana}}<ref>[https://www.in.gov/dor/files/dn01.pdf How to compute withholding for state and county income tax], Department of Revenue of Indiana, 1 January 2020.</ref> || 3.23% || [[List of counties in Indiana|all counties]] || 0.5 to 3.38%
+|-
+|rowspan=2| {{flag|Kansas}}{{efn|No counties or municipalities in this state tax income from work, but some tax interest and dividends, all using a flat rate. Where a county or municipal tax exists, the combined rate ranges from 0.5 to 3% depending on the location.<ref name=us-ks>[https://www.ksrevenue.org/pdf/20020.pdf Local intangibles tax return 2020], Kansas Department of Revenue.</ref>}} ||rowspan=2 {{sometimes|progressive}} || [[List of counties in Kansas|some counties]]<ref name=us-ks/> || 0.75%{{efn|name=interest|Only applies to interest and dividends. This jurisdiction does not tax income from work.<ref name=us-ks/>}}
+|-
+|[[Lists of places in Kansas|some municipalities]]<ref name=us-ks/> || 0.125 to 2.25%{{efn|name=interest}}
+|-
+|rowspan=3| {{flag|Kentucky}}<ref>[https://revenue.ky.gov/Individual/Individual-Income-Tax/Pages/default.aspx Individual Income Tax], Kentucky Department of Revenue.</ref>{{efn|Most counties, some municipalities and some school districts in this state tax income, most using a flat rate but some using regressive rates.<ref>[https://www.kentoncounty.org/232/Rates Rates], Kenton County.</ref> Where a county, municipal or school district tax exists, the combined rate ranges from 0.45 to 4.25% depending on the location.<ref name=mercer>[https://mercercounty.ky.gov/fiscal-court/Pages/Tax-Administrator.aspx Tax Administrator], Mercer County.</ref><ref>[https://cumberlandcounty.ky.gov/docs/Pages/Documents.aspx Important Documents], Cumberland County.</ref><ref name=KLC>[https://www.klc.org/userfiles/files/OccLiclTaxRatesCities2020.pdf City Occupational Tax Rates], Kentucky League of Cities, 21 October 2019.</ref><ref name=KYSD>[https://education.ky.gov/districts/SEEK/Pages/Taxes.aspx Taxes], Kentucky Department of Education, 16 March 2020.</ref>}} ||rowspan=3| 5% || [[List of counties in Kentucky|most counties]]<ref name=mercer/><ref>[https://montgomerycounty.ky.gov/Dept/Pages/Occupational-Tax-Forms.aspx Occupational Tax Forms], Montgomery County.</ref> || 0.45 to 2%
+|-
+|[[List of cities in Kentucky|some municipalities]]<ref name=KLC/> || 0.5 to 2.5%
+|-
+|[[List of school districts in Kentucky|some school districts]]<ref name=KYSD/><ref>[https://louisvilleky.gov/sites/default/files/revenue_commission/w1ret_instructions.4.pdf Form W1 instructions], Louisville-Jefferson County Metro Government.</ref> || 0.5 to 0.75%
+|-
+|{{flag|Maryland}} || {{sometimes|progressive}} || [[List of counties in Maryland|all counties]]<ref>[https://www.marylandtaxes.gov/individual/income/tax-info/tax-rates.php Tax Rates], Comptroller of Maryland.</ref>{{efn|Including the city of [[Baltimore]], which is equivalent to a county.}} || 2.25 to 3.2%
+|-
+|{{flag|Massachusetts}}<ref>[https://www.mass.gov/guides/personal-income-tax-for-residents Personal income tax for residents], Commonwealth of Massachusetts.</ref> || 5% || {{sometimes|}} || {{sometimes|}}
+|-
+|{{flag|Michigan}}<ref>[https://www.michigan.gov/taxes/0,4676,7-238-75545_43715-153723--,00.html What are the current tax rate and exemption amounts?], Michigan Department of Treasury.</ref>{{efn|name=most}} || 4.25% || [[List of municipalities in Michigan|some municipalities]]<ref>[http://www.michigan.gov/taxes/0,4676,7-238-75545_43715-153955--,00.html What cities impose an income tax?], Michigan Department of Treasury.</ref> || 1 to 2.4%
+|-
+|rowspan=2| {{flag|Missouri}}{{efn|name=most}} ||rowspan=2 {{sometimes|progressive}} || [[Kansas City, Missouri|Kansas City]]<ref>[https://www.kcmo.gov/city-hall/departments/finance/earnings-tax Have you paid your KCMO earnings tax?], Kansas City, Missouri.</ref> || 1%
+|-
+|[[St. Louis|Saint Louis]]<ref>[https://www.stlouis-mo.gov/collector/earnings-tax-home.cfm Earnings tax], City of Saint Louis.</ref> || 1%
+|-
+|{{flag|New Hampshire}}<ref>[https://www.revenue.nh.gov/assistance/tax-overview.htm Overview of New Hampshire taxes], Department of Revenue Administration of New Hampshire.</ref> || 5%{{efn|name=interest}} || {{sometimes|}} || {{sometimes|}}
+|-
+|{{flag|North Carolina}}<ref>[https://www.ncdor.gov/taxes-forms/individual-income-tax/tax-rate-schedules/tax-rate-tax-year-2019 Tax rate for tax year 2019], North Carolina Department of Revenue.</ref> || 5.25% || {{sometimes|}} || {{sometimes|}}
+|-
+|rowspan=2| {{flag|Ohio}}{{efn|Most municipalities and some school districts in this state tax income, all using a flat rate. Where a municipal or school district tax exists, the combined rate ranges from 0.25 to 4.5% depending on the location.<ref name=us-oh-muni>[https://thefinder.tax.ohio.gov/StreamlineSalesTaxWeb/Download/MuniRateTableInstructions.aspx Municipal Income Tax Rate Database], The Finder.</ref><ref name=us-oh-sd>[https://thefinder.tax.ohio.gov/StreamlineSalesTaxWeb/Download/SDRateTableInstructions.aspx School District Income Tax Rate Database], The Finder.</ref>}} ||rowspan=2 {{sometimes|progressive}} || [[Administrative divisions of Ohio|most municipalities]]<ref name=us-oh-muni/> || 0.5 to 3%
+|-
+| [[List of school districts in Ohio|some school districts]]<ref name=us-oh-sd/> || 0.25 to 2%
+|-
+|rowspan=2| {{flag|Pennsylvania}}<ref>[https://www.revenue.pa.gov/GeneralTaxInformation/Tax%20Types%20and%20Information/PIT/Pages/default.aspx Personal income tax], Pennsylvania Department of Revenue.</ref>{{efn|Most municipalities and most school districts in this state tax income, all using a flat rate. Where a municipal or school district tax exists, the combined rate ranges from 0.312 to 3.8712% depending on the location.<ref name=us-pa>[https://munstats.pa.gov/Reports/ReportInformation2.aspx?report=EitWithCollector_Dyn_Excel&type=O EIT / PIT / LST Tax Registers], Pennsylvania Department of Community and Economic Development, 15 June 2020.</ref>}} ||rowspan=2| 3.07% || [[List of municipalities in Pennsylvania|most municipalities]]<ref name=us-pa/> || 0.312 to 3.8712%
+|-
+| [[List of school districts in Pennsylvania|most school districts]]<ref name=us-pa/> || 0.5 to 2.05%
+|-
+|{{flag|Tennessee}}<ref>[https://www.tn.gov/revenue/taxes/hall-income-tax/due-date-and-tax-rates.html Due date and tax rates], Department of Revenue of Tennessee.</ref> || [[Hall income tax|1%]]{{efn|name=interest}} || {{sometimes|}} || {{sometimes|}}
+|-
+|{{flag|Utah}}<ref>[https://incometax.utah.gov/paying/tax-rates Tax rates], Utah State Tax Commission.</ref> || 4.95% || {{sometimes|}} || {{sometimes|}}
+|}
+|valign=bottom|{{notelist}}
+|}
+
+====Jurisdictions without permanent population====
+
+Despite not having a permanent population, some jurisdictions tax the local income of temporary workers, using a flat rate.
+
+{|
+|valign=top|
+{|class="wikitable sortable nowrap"
+!Jurisdiction !! Tax rate
+|-
+|{{flag|British Antarctic Territory}}<ref>[https://www.bas.ac.uk/wp-content/uploads/2015/04/bat-tax-faqs.pdf Frequently Asked Questions about BAT Tax], British Antarctic Survey, September 2014.</ref> || 7%
+|-
+|{{flag|French Southern and Antarctic Lands}}<ref name=tf>[https://taaf.fr/content/uploads/2019/09/2.-guide_pratique_de_l_hivernant_version_Sept-2019.pdf Practical guide of the winter sojourner in the French Southern Lands], French Southern and Antarctic Lands, September 2019. {{in lang|fr}}</ref> || 9%{{efn|6.3% for residents of [[Réunion]].<ref name=tf/>}}
+|-
+|{{flag|South Georgia and the South Sandwich Islands}}<ref>[http://www.gov.gs/docsarchive/Legislation/20170130%20Guidance%20to%20Income%20Tax.pdf Guide to the Income Tax Ordinance], Government of South Georgia and the South Sandwich Islands, 30 January 2017.</ref> || 7%
+|}
+|valign=bottom|{{notelist}}
+|}
+
+===Jurisdictions reputed to have a flat tax===
+*{{flag|Anguilla}} does not have a general income tax,<ref>[https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-anguillahighlights-2018.pdf Anguilla Highlights 2018] {{Webarchive|url=https://web.archive.org/web/20181109111951/https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-anguillahighlights-2018.pdf |date=9 November 2018 }}, Deloitte.</ref> but since 2011 it imposes an "interim stabilisation levy" on salaries, composed of a portion paid by the employer and another paid by the employee through withholding. Each portion has a flat rate of 3%.<ref>[http://www.gov.ai/documents/brochures/ird/Interim%20Stabilization%20Levy%20Brochure%20.pdf Interim Stabilisation Levy] {{Webarchive|url=https://web.archive.org/web/20181109112652/http://www.gov.ai/documents/brochures/ird/Interim%20Stabilization%20Levy%20Brochure%20.pdf |date=9 November 2018 }}, Inland Revenue Department of Anguilla.</ref> This tax is in addition to a mandatory contribution to social security.<ref>[http://www.ssbai.com/contributions.php Social Security Contributions] {{Webarchive|url=https://web.archive.org/web/20181109112033/http://www.ssbai.com/contributions.php |date=9 November 2018 }}, Anguilla Social Security Board.</ref>
+
+*{{flag|British Virgin Islands|name=The British Virgin Islands}} do not have a general income tax,<ref>[https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-britishvirginislandshighlights-2018.pdf British Virgin Islands Highlights 2018] {{Webarchive|url=https://web.archive.org/web/20181109111929/https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-britishvirginislandshighlights-2018.pdf |date=9 November 2018 }}, Deloitte.</ref> but impose a payroll tax on salaries, composed of a portion paid by the employer and another paid by the employee through withholding. The employee portion has a flat rate of 8%.<ref>[http://www.bvi.gov.vg/content/payroll-tax Payroll Tax] {{Webarchive|url=https://web.archive.org/web/20181109153104/http://www.bvi.gov.vg/content/payroll-tax |date=9 November 2018 }}, Government of the British Virgin Islands.</ref> This tax is in addition to mandatory contributions to social security and national health insurance.<ref>[http://www.bvissb.vg/bvissbwp/registration-and-contribution/ Registration and contribution] {{Webarchive|url=https://web.archive.org/web/20181109112041/http://www.bvissb.vg/bvissbwp/registration-and-contribution/ |date=9 November 2018 }}, British Virgin Islands Social Security Board.</ref><ref>[http://vinhi.vg/wp-content/nhi/NHI-Brochure.pdf National Health Insurance] {{Webarchive|url=https://web.archive.org/web/20181109112227/http://vinhi.vg/wp-content/nhi/NHI-Brochure.pdf |date=9 November 2018 }}, British Virgin Islands National Health Insurance.</ref>
+
+*{{flag|Hong Kong}}: Some sources claim that Hong Kong has a flat tax,<ref name="broken">Daniel Mitchell. "Fixing a Broken Tax System with a Flat Tax." ''Capitalism Magazine,'' 23 April 2004.[http://www.capmag.com/article.asp?ID=3636] {{Webarchive|url=https://web.archive.org/web/20110516024832/http://www.capmag.com/article.asp?ID=3636 |date=16 May 2011 }}</ref> though its salary tax structure has several different rates ranging from 2% to 17% after deductions.<ref>{{cite web|url=http://www.gov.hk/en/residents/taxes/taxfiling/taxrates/salariesrates.htm|title=GovHK: Tax Rates of Salaries Tax & Personal Assessment|date=24 June 2015|access-date=22 February 2013|archive-url=https://web.archive.org/web/20130306113625/http://www.gov.hk/en/residents/taxes/taxfiling/taxrates/salariesrates.htm|archive-date=6 March 2013|url-status=live}}</ref> Taxes are capped at 15% of gross income, so this rate is applied to upper income returns if taxes would exceed 15% of gross otherwise.<ref>[http://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-hongkonghighlights-2015.pdf Hong Kong Highlights 2015] {{Webarchive|url=https://web.archive.org/web/20160102020901/http://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-hongkonghighlights-2015.pdf |date=2 January 2016 }}, [[Deloitte]].</ref> Accordingly, Duncan B. Black of the progressive media-monitoring group [[Media Matters for America]], says "Hong Kong's 'flat tax' is better described as an 'alternative maximum tax.'" <ref>Duncan B. Black. "Fund wrong on Hong Kong 'flat tax'." ''Media Matters'', 28 February 2005. [http://mediamatters.org/items/200502280004] {{Webarchive|url=https://web.archive.org/web/20070929125315/http://mediamatters.org/items/200502280004 |date=29 September 2007 }}</ref> Alan Reynolds of the [[Right-libertarian]] [[think tank]] Cato Institute similarly notes that Hong Kong's "tax on salaries is not flat but steeply progressive."<ref>Alan Reynolds. "Hong Kong's Excellent Taxes." ''townhall.com'', but the column was syndicated. 6 June 2005. [http://www.cato.org/pub_display.php?pub_id=3793] {{Webarchive|url=https://web.archive.org/web/20070609091009/http://www.cato.org/pub_display.php?pub_id=3793 |date=9 June 2007 }}</ref> Hong Kong has, nevertheless, a flat profit tax regime.
+
+*{{flag|Saudi Arabia}} does not have a general income tax, but it imposes [[zakat]] (wealth tax) on the business assets of residents who are nationals of [[Gulf Cooperation Council|GCC]] countries, and income tax on the business income of residents who are not nationals of GCC countries and of nonresidents. Zakat has a flat rate of 2.5%, and income tax has a flat rate of 20%.<ref>[https://www.ey.com/Publication/vwLUAssets/Worldwide_Personal_Tax_and_Immigration_Guide_2017-18/$FILE/Worldwide-Personal-Tax-and-Immigration-Guide-2017-18.pdf Worldwide Personal Tax and Immigration Guide 2017-18] {{Webarchive|url=https://web.archive.org/web/20180329032933/http://www.ey.com/Publication/vwLUAssets/Worldwide_Personal_Tax_and_Immigration_Guide_2017-18/$FILE/Worldwide-Personal-Tax-and-Immigration-Guide-2017-18.pdf |date=29 March 2018 }}, Ernst & Young, September 2017.</ref>
+
+===Jurisdictions that had a flat tax===
+*{{flag|Albania}} introduced a flat tax of 10% on personal income in 2008, and replaced it with two rates of 13% and 23% in 2014.<ref>[http://flattaxes.blogspot.com/2009/01/flat-tax-at-work-in-albania-year-one.html The Flat Tax at Work in Albania: Year One] {{Webarchive|url=https://web.archive.org/web/20160102020901/http://flattaxes.blogspot.com/2009/01/flat-tax-at-work-in-albania-year-one.html |date=2 January 2016 }}, Alvin Rabushka, 21 January 2009.</ref><ref>[http://flattaxes.blogspot.com/2013/12/albania-abandons-its-flat-tax.html Albania Abandons Its Flat Tax] {{Webarchive|url=https://web.archive.org/web/20160102020901/http://flattaxes.blogspot.com/2013/12/albania-abandons-its-flat-tax.html |date=2 January 2016 }}, Alvin Rabushka, 29 December 2013.</ref>
+*{{flag|Czech Republic}} introduced a flat tax of 15% on personal income in 2008, and a second higher rate of 22% in 2013.<ref name="dec2012">[http://flattaxes.blogspot.com/2012/12/flat-tax-roundup-december-2012.html Flat tax roundup December 2012] {{Webarchive|url=https://web.archive.org/web/20130417065227/http://flattaxes.blogspot.com/2012/12/flat-tax-roundup-december-2012.html |date=17 April 2013 }}, Alvin Rabushka, 29 December 2012.</ref>
+*{{flag|Grenada}} had a flat tax of 30% on personal income until 2014, when it introduced a second lower rate of 15%.<ref>[https://drive.google.com/file/d/0B-zhRw2s7oXgekMwQmgwVU1xY0U/view Income Tax (Amendment) Order, 2014], Grenada Inland Revenue Division.</ref>
+*{{flag|Guyana}} had a flat tax of 30% on personal income until 2017, when it replaced it with progressive rates of 28% and 40%.<ref>[http://parliament.gov.gy/publications/acts-of-parliament/income-tax-amendmentact-2017/ Income Tax (Amendment) Act 2017] {{Webarchive|url=https://web.archive.org/web/20181109112241/http://parliament.gov.gy/publications/acts-of-parliament/income-tax-amendmentact-2017/ |date=9 November 2018 }}, Parliament of Guyana.</ref>
+*{{flag|Iceland}} introduced a national flat tax on personal income in 2007, at a rate of 22.75%. With the additional municipal tax, which was already flat, the total tax rate was up to 36%.<ref>[http://www.cato.org/publications/commentary/iceland-comes-cold-flat-tax-revolution Iceland Comes in From the Cold With Flat Tax Revolution] {{Webarchive|url=https://web.archive.org/web/20120728203948/http://www.cato.org/publications/commentary/iceland-comes-cold-flat-tax-revolution |date=28 July 2012 }}, The Business, 21 March 2007.</ref> In 2010, Iceland replaced its national flat tax with progressive rates of 24.1% to 33%. With the additional municipal tax, which remained flat, the top rate became 46.28%.<ref>[http://flattaxes.blogspot.com/2010/03/iceland-abandons-flat-tax.html Iceland abandons the flat tax] {{Webarchive|url=https://web.archive.org/web/20120305144609/http://flattaxes.blogspot.com/2010/03/iceland-abandons-flat-tax.html |date=5 March 2012 }}, Alvin Rabushka, 16 March 2010.</ref>
+*{{flag|Jamaica}} had a flat tax of 25% on personal income until 2010, when it introduced additional higher rates of 27.5% and 33%. It restored the flat tax of 25% in 2011, and introduced a second higher rate of 30% in 2016.<ref>[https://www.jamaicatax.gov.jm/documents/10194/31132/Income+Tax+Exemption+2003+-2018+-Jan+2018.pdf Income tax rates, thresholds and exemptions 2003-2018] {{Webarchive|url=https://web.archive.org/web/20190218021408/https://www.jamaicatax.gov.jm/documents/10194/31132/Income+Tax+Exemption+2003+-2018+-Jan+2018.pdf |date=18 February 2019 }}, Tax Administration Jamaica.</ref>
+*{{flag|Latvia}} introduced a flat tax of 25% on personal income in 1997.<ref name=4liberty>[http://4liberty.eu/flat-tax-reforms/ Flat tax reforms] {{Webarchive|url=https://web.archive.org/web/20180216205846/http://4liberty.eu/flat-tax-reforms/ |date=16 February 2018 }}, 4liberty.eu, 6 March 2013.</ref> The rate was changed to 23% in 2009, 26% in 2010, 25% in 2011, 24% in 2013, and 23% in 2015.<ref>Janis Grasis and Juris Bojārs, [https://books.google.com/books?id=1jY0CwAAQBAJ&printsec=frontcover "Necessity of the introduction of the progressive income tax system: A case of Latvia"], ''Economics, Social Sciences and Information Management'', March 2015.</ref> In 2018, Latvia replaced its flat tax with progressive rates of 20%, 23% and 31.4%.<ref>[https://www.tax-news.com/news/Latvian_Parliament_Adopts_Tax_Reform____74901.html Latvian parliament adopts tax reform] {{Webarchive|url=https://web.archive.org/web/20180216204355/https://www.tax-news.com/news/Latvian_Parliament_Adopts_Tax_Reform____74901.html |date=16 February 2018 }}, Tax-News, 3 August 2017.</ref>
+*{{flag|Lithuania}} introduced a flat tax of 33% on personal income in 1995.<ref name=4liberty/> The rate was changed to 27% in 2006, 24% in 2008, and 15% in 2009. In 2019, Lithuania replaced its flat tax with progressive rates of 20% and 27%.<ref>[https://www.oecd.org/ctp/tax-policy/personal-income-tax-rates-explanatory-annex.pdf OECD tax database explanatory annex], OECD, April 2019.</ref>
+*{{flag|Mauritius}} introduced a flat tax rate of 15% on personal income in 2009.<ref name="flat-and-flatter">Alvin Rabushka. "Flat and Flatter Taxes Continue to Spread Around the Globe." 16 January 2007.{{cite web |url=http://www.hoover.org/research/russianecon/essays/5222856.html |title=Archived copy |accessdate=24 June 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070707094006/http://www.hoover.org/research/russianecon/essays/5222856.html |archive-date=7 July 2007  }}</ref> In 2017, it introduced an additional "solidarity levy" of 5% on high income, for a combined top rate of 20%.<ref>[http://www.mra.mu/download/CircularLetter020817.pdf Income Tax - Pay As You Earn (PAYE)] {{Webarchive|url=https://web.archive.org/web/20171215102700/http://www.mra.mu/download/CircularLetter020817.pdf |date=15 December 2017 }}, Mauritius Revenue Authority, 1 August 2017.</ref> In 2018, it introduced an additional lower rate of 10%.<ref>[http://www.mra.mu/download/CircularLetterPAYE1819.pdf Income Tax - Pay As You Earn (PAYE)] {{Webarchive|url=https://web.archive.org/web/20181024153110/http://www.mra.mu/download/CircularLetterPAYE1819.pdf |date=24 October 2018 }}, Mauritius Revenue Authority, 3 August 2018.</ref>
+*{{flag|Montenegro}} introduced a flat tax of 15% on personal income in 2007, reduced to 12% in 2009 and 9% in 2010.<ref>[http://flattaxes.blogspot.com/2008/11/flat-tax-spreads-to-montenegro-april-13.html The Flat Tax Spreads to Montenegro] {{Webarchive|url=https://web.archive.org/web/20161014020443/http://flattaxes.blogspot.com/2008/11/flat-tax-spreads-to-montenegro-april-13.html |date=14 October 2016 }}, Alvin Rabushka, 13 April 2007.</ref> It introduced a second higher rate of 15% on salaries in 2013, reduced to 13% in 2015 and 11% in 2016.<ref>[http://www.internationaltaxreview.com/Article/3439659/Montenegro-Crisis-tax.html Montenegro: Crisis tax] {{Webarchive|url=https://web.archive.org/web/20161006083442/http://www.internationaltaxreview.com/Article/3439659/Montenegro-Crisis-tax.html |date=6 October 2016 }}, International Tax Review, 25 March 2015.</ref><ref>[http://www.cdm.me/english/crisis-tax-also-in-2016-the-tax-rate-decreased-to-11 Crisis tax also in 2016; the tax rate decreased to 11%] {{Webarchive|url=https://web.archive.org/web/20160927095457/http://www.cdm.me/english/crisis-tax-also-in-2016-the-tax-rate-decreased-to-11 |date=27 September 2016 }}, Cafe del Montenegro, 14 November 2015.</ref>
+*{{flag|North Macedonia}} introduced a flat tax of 12% on personal income in 2007, reduced to 10% in 2008.<ref name="flat-and-flatter"/><ref>"The lowest flat corporate and personal income tax rates." ''Invest Macedonia'' government web site. Retrieved 6 June 2007. {{cite web |url=http://www.investinmacedonia.org/news.aspx?news=35 |title=Archived copy |accessdate=6 June 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070224012548/http://www.investinmacedonia.org/news.aspx?news=35 |archive-date=24 February 2007  }}</ref> In 2019, it introduced a second higher rate of 18% on salaries, and increased the flat tax rate on investment income to 15%.<ref>[https://www.lexology.com/library/detail.aspx?g=b99461c1-33d7-4dda-bf05-584626459ebc Macedonia: Changes in the tax legislation] {{Webarchive|url=https://web.archive.org/web/20190107170730/https://www.lexology.com/library/detail.aspx?g=b99461c1-33d7-4dda-bf05-584626459ebc |date=7 January 2019 }}, Lexology, 28 December 2018.</ref>
+*{{flag|Saint Helena}} introduced a flat tax of 25% on personal income in 2012, and replaced it with two rates of 26% and 31% in 2015.<ref>[http://flattaxes.blogspot.com/2013/11/st-helena-adopts-25-flat-tax.html St. Helena Adopts a 25% Flat Tax] {{Webarchive|url=https://web.archive.org/web/20161013043951/http://flattaxes.blogspot.com/2013/11/st-helena-adopts-25-flat-tax.html |date=13 October 2016 }}, Alvin Rabushka, 3 November 2013.</ref><ref>[http://www.sainthelena.gov.sh/wp-content/uploads/2013/01/Income-Tax-Ordinance-310712-1.pdf Income Tax Ordinance] {{Webarchive|url=https://web.archive.org/web/20160919181148/http://www.sainthelena.gov.sh/wp-content/uploads/2013/01/Income-Tax-Ordinance-310712-1.pdf |date=19 September 2016 }}, Government of Saint Helena.</ref>
+*{{flag|Slovakia}} introduced a flat tax of 19% on personal income in 2004, and a second higher rate of 25% in 2013.<ref name="dec2012" />
+*{{flag|Trinidad and Tobago}} had a flat tax of 25% on personal income until 2017, when it introduced a second higher rate of 30%.<ref>[https://oxfordbusinessgroup.com/overview/letter-law-comprehensive-review-tax-framework Trinidad & Tobago's recent tax changes and regulations] {{Webarchive|url=https://web.archive.org/web/20190218081846/https://oxfordbusinessgroup.com/overview/letter-law-comprehensive-review-tax-framework |date=18 February 2019 }}, Oxford Business Group.</ref>
+*{{flag|Tuvalu}} had a flat tax of 30% on personal income until 2009, when it introduced a second lower rate of 15%.<ref>[http://www.paclii.org/tv/legis/num_act/ita1992116/ Income Tax Act 1992] {{Webarchive|url=https://web.archive.org/web/20120410050340/http://www.paclii.org/tv/legis/num_act/ita1992116/ |date=10 April 2012 }}, Pacific Islands Legal Information Institute.</ref><ref>[http://www.tuvalu-legislation.tv/cms/images/LEGISLATION/AMENDING/2008/2008-0010/IncomeTaxAmendmentAct2008.pdf Income Tax (Amendment) Act 2008] {{Webarchive|url=https://web.archive.org/web/20190218021407/http://www.tuvalu-legislation.tv/cms/images/LEGISLATION/AMENDING/2008/2008-0010/IncomeTaxAmendmentAct2008.pdf |date=18 February 2019 }}, Tuvalu Legislation.</ref>
+
+====Subnational jurisdictions====
+*{{flag|Alberta}} introduced a flat tax of 10% on personal income in 2001, and additional higher rates of 12, 13, 14 and 15% in 2016.<ref>[https://www.macleans.ca/economy/economicanalysis/the-winners-and-losers-if-alberta-returns-to-a-flat-tax-system/ The winners and losers if Alberta returns to a flat tax system], Maclean's, 9 May 2018.</ref> This flat tax was in addition to the progressive rates imposed by the federal government of [[Canada]].
+
+==See also==
+''Economic Concepts''
+*[[Excess burden of taxation]] (or more broadly [[deadweight loss]])
+*[[Fiscal drag]] (also known as Bracket creep)
+*[[Taxable income elasticity]] (also known as Laffer Curve)
+
+''Tax Systems''
+*[[Consumption tax]]
+*[[FairTax]]
+*[[Income tax]]
+*[[Kemp Commission]]
+*[[Land value tax]]
+*[[Negative income tax]]
+*[[Optimal tax]]
+*[[Progressive tax]]
+*[[Regressive tax]]
+*[[Sales tax]]
+*[[Single tax]]
+*[[Value added tax]]
+*[[9–9–9 Plan]]
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+*[[Steve Forbes]], 2005. ''Flat Tax Revolution''. Washington: Regnery Publishing.  {{ISBN|0-89526-040-9}}
+*[[Robert Hall (economist)|Robert Hall]] and [[Alvin Rabushka]], 1995 (1985). ''[https://web.archive.org/web/20050224084602/http://www-hoover.stanford.edu/publications/books/flattax.html The Flat Tax]''. Hoover Institution  Press.
+*Richard Parncutt, 2006–2010. Free enterprise without poverty: Effectively progressive income tax.''[https://web.archive.org/web/20110514152858/http://www.uni-graz.at/~parncutt/BIFT2.html]''.
+*Anthony J. Evans,  "[https://web.archive.org/web/20070808181054/http://www.openrepublic.org/open_republic/20050701_vol1_no1/articles/20050619_ft.htm Ideas and Interests: The Flat Tax]" ''Open Republic'' 1(1), 2005
+
+==External links==
+{{wikiquote|Taxation}}
+*[http://www.heritage.org/Research/Taxes/bg1765.cfm The Laffer Curve: Past, Present and Future]: A detailed examination of the theory behind the Laffer curve, and many case studies of tax cuts on government revenue in the United States
+*[http://www.econtalk.org/archives/2007/04/rabushka_on_the.html Podcast of Rabushka discussing the flat tax] Alvin Rabushka discusses the flat tax with [[Russell Roberts (economist)|Russ Roberts]] on [[EconTalk]].
+*[https://web.archive.org/web/20101008222858/http://politalkshow.com/2010/09/20/episode-96-the-flat-tax/ Podcast of Rabushka discussing the flat tax] Alvin Rabushka discusses the flat tax on [http://politalkshow.com/ PoliTalk].
+* [http://freedomandprosperity.org/2010/videos/the-flat-tax-how-it-works-and-why-it-is-good-for-america/ The Flat Tax: How it Works and Why it is Good for America]
+
+[[Category:Taxation and redistribution]]

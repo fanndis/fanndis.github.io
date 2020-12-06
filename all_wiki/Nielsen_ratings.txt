@@ -1,0 +1,982 @@
+{{short description|Audience measurement systems operated by Nielsen Media Research}}
+'''Nielsen TV ratings''' (commonly referred to as '''Nielsen ratings''') are the [[audience measurement]] systems operated by [[Nielsen Media Research]] that seek to determine the [[audience]] size and composition of [[broadcast programming|television programming]] in the United States using a rating system.
+
+Nielsen Media Research was founded by [[Arthur Nielsen|Arthur C. Nielsen]], a market analyst who started his career in the 1920s with marketing research and performance analysis.  The company expanded into radio market analysis in the late 1930s, culminating in the Nielsen Radio Index in 1942,<ref name="NRhx">{{Cite web|url=http://sites.nielsen.com/timelines/our-history/|title=Our history|website=The Nielsen Company}}</ref> which was meant to provide statistics as to the markets of radio shows. The first Nielsen ratings for radio programs were released the first week of December 1947. They measured the top 20 programs in four areas: total audience, average audience, cumulative audience, and homes per dollar spent for time and talent.<ref>{{cite news|title=Top 20 Network Shows, Rated 4 Ways, Announced by Nielsen|url=http://www.americanradiohistory.com/Archive-BC/BC-1947/1947-12-08-BC.pdf|periodical=[[Broadcasting & Cable|Broadcasting • Telecasting]]|date=December 8, 1947|accessdate=October 26, 2014}}</ref>
+
+In 1950, Nielsen moved to television, developing a ratings system using the methods he and his company had developed for radio. That method became the primary source of audience measurement information in the US television industry. In September 2020, Nielsen started compiling a weekly Top 10 list of most watched shows on streaming platforms.
+
+==Measuring ratings==
+The original data collection methods used to generate Nielsen TV ratings included:
+# Paper "viewer diaries", in which a household recruited by the company self-recorded its viewing or listening habits. By targeting various [[demographics]], the assembled statistical models provided a rendering of the audiences of any given show, network, and programming hour.  This methodology was phased out by the company as electronic data collection became more sophisticated, and it was discontinued completely in June 2018.<ref>{{Cite web|url=https://digital.pbs.org/blogs/spi-blog/nielsen-retiring-the-tv-diary-benefits-pbs-stations/|title=Nielsen retiring the TV Diary benefits PBS Stations|last=Bhansali|first=Raj|date=October 29, 2018|website=PBS Digital}}</ref>
+# Set Meters, which are small devices connected to televisions in recruited homes. These devices gather the viewing [[Habit (psychology)|habits]] of the home and transmit the information nightly to Nielsen through a telephone line. This system is designed to allow market researchers to study television viewing habits on a minute-to-minute basis, recording the moment viewers change channels or turn off their television set. Nielsen replaced the set meters with [[Portable People Meter]]s (PPM), which collect the data of individual household members through the use of separate logon credentials and allow the company to separate household viewing information into various demographic groups.
+
+Changing systems of viewing have impacted Nielsen's methods of market research. In 2005, Nielsen began measuring the usage of [[digital video recorder|digital video recording devices]] such as [[TiVo]]s. Initial results indicated that time-shifted viewing (i.e., programs that are watched after the networks have aired them) will have a significant impact on television ratings. A year later, the networks were not factoring these new results into their ad rates because of the resistance of advertisers.<ref>{{cite news|title=Playback time for Nielsens|author=Gary Levin|newspaper=[[USA Today]]|page=1D|date=October 12, 2006}}</ref>
+
+In July 2017, Nielsen announced that it would include select programs from subscription-based [[video on demand]] (vSVOD) services Hulu and YouTube TV in its Digital in TV Ratings system.<ref>{{Cite web|url=https://www.nielsen.com/us/en/press-releases/2017/hulu-and-youtube-tv-now-included-in-tv-ratings-announces-nielsen/|title=Hulu and YouTube TV Now Included in TV Ratings Announces Nielsen|date=2017-07-25|website=The Nielsen Company|type=press release}}</ref>  Since about October 2017, Nielsen also began to track select programs from [[Netflix]]. Partnering distributors insert a "tag" into the program to be distributed on these services, which Nielsen then tracks through its meters system. Partnering distributors are able to determine if these ratings can be released publicly or not.<ref>{{cite web | url = https://variety.com/2017/tv/news/nielsen-measurement-netflix-1202592985/ | title = Nielsen Says It Will Measure Audiences for TV Episodes That Stream Via Netflix | first=  Brian  | last = Steinberg | date = October 18, 2017 | accessdate = February 19, 2018 | work = [[Variety (magazine)|Variety]] }}</ref>
+
+===Ratings/share and total viewers===
+The most commonly cited Nielsen results are reported in two measurements: ratings points and share, usually reported as: "ratings points/share". There were 119.6&nbsp;million TV homes in the U.S. for the 2017–18 TV season (Nielsen's National Television Household Universe Estimates).<ref>{{cite web | url=http://www.nielsen.com/us/en/insights/news/2017/nielsen-estimates-119-6-million-us-tv-homes-2017-2018-tv-season.html | title=Nielsen Estimates 119.6 Million TV Homes in the U.S. for the 2017–18 TV Season | accessdate=2017-11-05 | date=2017-08-25 | publisher=[[Nielsen Media Research|The Nielsen Company]] | url-status=live | archive-url=https://web.archive.org/web/20171107032542/http://www.nielsen.com/us/en/insights/news/2017/nielsen-estimates-119-6-million-us-tv-homes-2017-2018-tv-season.html | archive-date=2017-11-07}}</ref> The number of persons age 2 and older in U.S. TV households is estimated to be 304.5&nbsp;million. A single national ratings point represents 1% of the total number. Nielsen re-estimates the number of television-equipped households each August for the upcoming television season.<ref>{{cite web|title=Nielsen Media Research’s Glossary of Media Terms.|at=Glossary Search ''Rating'' / ''Ratings Point''|url=http://www.nielsenmedia.com/glossary/index.htm|author=[[Nielsen Media Research]]|accessdate=November 19, 2017|url-status=dead|archive-url=https://web.archive.org/web/20170713105550/http://www.nielsenmedia.com/glossary/index.htm|archive-date=July 13, 2017}}</ref>
+
+A Rating is a percentage of the group. It is basically calculated at RTG = HUT x SHARE where HUT (or PUT when measuring demos) is Homes Using Television and share is the percentage of TV sets that are being used which are tuned to a particular show. Share is NOT the percentage of television sets in use.
+
+Share is the percentage of television sets in use, Households Using Television (HUT) or Persons Using Television (PUT) who are tuned to a specific program, station or network in a specific area at a specific time.<ref>{{cite web|title=Nielsen Media Research's Glossary of Media Terms|at=Glossary Search ''Share''|url=http://www.nielsenmedia.com/glossary/index.htm|author=[[Nielsen Media Research]]|accessdate=November 27, 2017|url-status=dead|archive-url=https://web.archive.org/web/20170713105550/http://www.nielsenmedia.com/glossary/index.htm|archive-date=July 13, 2017}}</ref><ref>{{cite web|title=What is a RATING|url=http://www.frankwbaker.com/ratingshare.htm|author=Frank Baker|work=Media Literacy Clearinghouse|date=February 12, 2009|accessdate=December 8, 2017|url-status=dead|archive-url=https://web.archive.org/web/20160513175054/http://www.frankwbaker.com/ratingshare.htm|archive-date=May 13, 2016}}</ref> For example, Nielsen may report a show as receiving a 4.4/8 during its broadcast; this would mean that 4.4% of all television-equipped households (that is to say homes with a TV set, not total number of people), regardless of the TV being on or not, were tuned in to that program, while 8% of households that were watching TV at that time were watching the specific program.<ref>{{cite web |title=Frequently Asked Questions About Nielsen Ratings |url=http://www.thefutoncritic.com/ratings.aspx?id=ratings_faq |author=The Futon Critic Staff (TFC) |date=2010-09-19 |accessdate=December 8, 2017 |url-status=live |archive-url=https://archive.today/20170905133327/http://www.thefutoncritic.com/ratings.aspx?id=ratings_faq |archive-date=September 5, 2017}}</ref>
+
+Because ratings are based on samples, it is possible for shows to get a 0.0 rating, despite having an audience; the [[CNBC]] talk show ''[[McEnroe (TV series)|McEnroe]]'' was one notable example.<ref>{{cite news|title=Where's the Love? CNBC Scrambles to Woo Viewers for 'McEnroe'|url=https://www.washingtonpost.com/wp-dyn/articles/A61516-2004Aug12.html|author=Lisa de Moraes|newspaper=[[The Washington Post]] |date=August 13, 2004|accessdate=December 8, 2017|url-status=live|archive-url=https://web.archive.org/web/20170721070725/http://www.washingtonpost.com/wp-dyn/articles/A61516-2004Aug12.html|archive-date=July 21, 2017}}</ref> Another example is [[The CW]] show, ''[[CW Now]]'', which received two 0.0 ratings in the same season. In 2014, Nielsen reported that American viewership of live television (totaling on average four hours and 32 minutes per day) had dropped 12 minutes per day compared to the year before. Nielsen reported several reasons for the shift away from live television: increased viewership of time-shifted television (mainly through DVRs) and viewership of internet video (clips from video sharing websites and streams of full-length television shows).<ref>{{cite news|title=Nielsen trends: Total audience measurement|url=https://money.cnn.com/2014/12/03/media/nielsen-trends-total-audience-measurement/index.html?section=money_media|website=[[CNN Money]]|date=December 8, 2017|url-status=live|archive-url=https://web.archive.org/web/20160304104355/http://money.cnn.com/2014/12/03/media/nielsen-trends-total-audience-measurement/index.html?section=money_media|archive-date=March 4, 2016}}</ref>
+
+{{Anchor|RatingDemographics}}
+
+===Demographics===
+Nielsen Media Research also provides statistics on specific demographics as advertising rates are influenced by such factors as age, gender, race, economic class, and area. Younger viewers are considered more attractive for many products, whereas in some cases older and wealthier audiences are desired, or female audiences are desired over males.
+
+In general, the number of viewers within the 18–49 age range is more important than the total number of viewers.<ref name=demos>{{cite news|title=THE TV COLUMN: Not in 18–49 age group? TV execs write you off|url=http://www2.arkansasonline.com/news/2009/apr/23/tv-column-not-18-49-age-group-tv-execs-wr-20090423/|author=Michael Storey|newspaper=[[Arkansas Democrat Gazette]]|date=April 23, 2009|accessdate=May 2, 2008|url-status=live|archive-url=https://web.archive.org/web/20090822204911/http://www2.arkansasonline.com/news/2009/apr/23/tv-column-not-18-49-age-group-tv-execs-wr-20090423/|archive-date=August 22, 2009}}</ref><ref name=nyt>{{cite news|title=An ‘Idol’ Ratings Loss, but Not in Its Pocketbook|url=https://www.nytimes.com/2010/04/07/business/media/07adco.html|author=[[Bill Carter]]|newspaper=[[The New York Times]]|date=April 6, 2010|accessdate=April 8, 2010|url-status=live|archive-url=https://web.archive.org/web/20100408034410/http://www.nytimes.com//2010//04//07//business//media//07adco.html|archive-date=April 8, 2010}}</ref> According to ''[[Advertising Age]]'', during the 2007–08 season, [[American Broadcasting Company|ABC]] was able to charge $419,000 per commercial sold during its medical drama ''[[Grey's Anatomy]]'', compared to only $248,000 for a commercial during [[CBS]]' ''[[CSI: Crime Scene Investigation]]'', despite ''CSI'' having almost five million more viewers on average.<ref name=demos2>{{cite news|title=For Advertising Purposes, 'Grey's Anatomy' May Well be Colored Green|url=http://www.buddytv.com/articles/greys-anatomy/for-advertising-purposes-greys-11849.aspx|author=Rosario Santiago|website=[[BuddyTV]]|date=October 3, 2007|accessdate=May 3, 2009|url-status=live|archive-url=https://web.archive.org/web/20090628164655/http://www.buddytv.com/articles/greys-anatomy/for-advertising-purposes-greys-11849.aspx|archive-date=June 28, 2009}}</ref> Because of its strength in young "demos" (demographic groups), NBC was able to charge almost three times as much for a commercial during ''[[Friends]]'' as CBS charged for ''[[Murder, She Wrote]]'', even though the two series had a similar amount of total viewership during the two seasons they were on the air concurrently.<ref name=demos/> ''[[Glee (TV series)|Glee]]'' (on [[Fox Broadcasting Company|Fox]]) and ''[[The Office (American TV series)|The Office]]'' (on NBC) drew fewer total viewers than ''[[NCIS (TV series)|NCIS]]'' (on CBS) during the 2009–10 season, but earned an average of $272,694 and $213,617 respectively, compared to $150,708 for ''NCIS''.<ref name=estadrates>{{cite news|title=Simon Who? 'Idol' Spots Still Priciest in Prime Time|url=http://adage.com/article?article_id=146495#tues|author=Brian Steinberg|periodical=[[Advertising Age]]|date=October 18, 2010|accessdate=October 28, 2010|url-status=live|archive-url=https://web.archive.org/web/20101020200120/http://adage.com/article?article_id=146495#tues|archive-date=October 20, 2010}}</ref>
+
+===Commercial ratings===
+Nielsen also provides viewership data calculated as the average viewership for only the commercial time within the program. These "Commercial Ratings" first became available on May 31, 2007. Additionally, Nielsen provides different "streams" of this data in order to take into consideration delayed viewing (DVR) data, at any interval up to seven days.<ref>{{cite web|title=Nielsen Announces Schedule And Plan For Commercial-Minute Ratings |url=http://www.nielsenmedia.com/nc/portal/site/Public/menuitem.55dc65b4a7d5adff3f65936147a062a0/?allRmCB=on&newSearch=yes&vgnextoid=264b66f7e2c20110VgnVCM100000ac0a260aRCRD&searchBox=media |archive-url=https://web.archive.org/web/20070828102623/http://www.nielsenmedia.com/nc/portal/site/Public/menuitem.55dc65b4a7d5adff3f65936147a062a0/?allRmCB=on&newSearch=yes&vgnextoid=264b66f7e2c20110VgnVCM100000ac0a260aRCRD&searchBox=media |url-status=dead |archive-date=August 28, 2007 |author=Gary Holmeys |website=Nielsen Media Research |date=January 16, 2006 |accessdate=July 2, 2007}}</ref> C3 was the metric launched in 2007, and refers to the ratings for average commercial minutes in live programming plus total playback by digital video recorder out to three days after.<ref>{{cite web|title=Commercial Ratings Shuffle the Deck|url=http://www.tvweek.com/news/2007/10/commercial_ratings_shuffle_the.php|author=Jon Lafayette|periodical=Television Week|date=October 7, 2007|accessdate=May 13, 2008|url-status=dead|archive-url=https://web.archive.org/web/20080417025917/http://www.tvweek.com/news/2007/10/commercial_ratings_shuffle_the.php|archive-date=April 17, 2008}}</ref> By the end of 2012, some television executives wanted to see C7, ratings for live plus seven days, with [[CBS Corporation]] [[chief executive officer]] [[Les Moonves]] making the claim C7 made ratings increase by 30%.<ref>{{cite journal|title=C3POh No! Broadcasters Agitate for Better Ratings Currency|url=http://www.adweek.com/news/television/c-3poh-no-broadcasters-agitate-better-ratings-currency-145195|author=Anthony Crupi|periodical=[[AdWeek]]|date=November 14, 2012|accessdate=April 9, 2013|url-status=live|archive-url=https://web.archive.org/web/20130411035626/http://www.adweek.com/news/television/c-3poh-no-broadcasters-agitate-better-ratings-currency-145195|archive-date=April 11, 2013}}</ref>
+
+===Sweeps===
+<!-- This section is linked from [[Academy Award]] -->
+{{Redirect|Sweeps}}
+The American television measurement by Nielsen is based on three different methodological approaches. In the 25 TV markets with the highest sales (e. g. New York, Los Angeles, Chicago, Denver) the Local People Meter (LPM) is measured. Individuals register individually, the measurement is carried out on 365 days over 24 hours.<ref name=locmeas>{{cite web|title=Local Measurement: Methodology. LPM, SET-Meter, Diary only.|url=http://en-us.nielsen.com/sitelets/cls/documents/nielsen/Local-Measurement-Methodology-Ex.pdf|publisher=Nielsen – Client Knowledge Service Team|accessdate=December 21, 2017|url-status=live|archive-url=https://web.archive.org/web/20160327180124/http://en-us.nielsen.com/sitelets/cls/documents/nielsen/Local-Measurement-Methodology-Ex.pdf|archive-date=March 27, 2016}}</ref> The SET Meter (Diary & Electronic) is used in 31 smaller markets (such as Nashville, Salt Lake City). In four sweeps in the months of February, May, July and November, target group data are collected with the diary and validated with the data of the devices (TV set on/off) in the participating households.<ref name=locmeas /> In the 154 TV markets with the lowest sales (e. g. Harrisburg, PA or Honolulu) the use of TV is only recorded by means of a diary survey.
+
+Each year, Nielsen processes approximately two million paper diaries from households across the country,<ref>{{cite web|title=Television Measurement &#124; TV Ratings|url=http://www.nielsen.com/us/en/nielsen-solutions/nielsen-measurement/nielsen-tv-measurement.htmlpublisher=Nielsen|archive-url=https://archive.today/20150426190852/http://www.nielsen.com/us/en/nielsen-solutions/nielsen-measurement/nielsen-tv-measurement.htmlpublisher=Nielsen|url-status=dead|archive-date=April 26, 2015|accessdate=June 2, 2014}}</ref> for the months of November, February, May and July—also known as the "sweeps" rating periods.<ref name=bn8614>{{cite news|title=Summertime, when the leaving is easy to figure out|url=http://blogs.buffalonews.com/talkintv/2014/08/summertime-when-the-leaving-is-easy-to-figure-out.html|author=Alan Pergament|newspaper=[[The Buffalo News]]|publisher=[[Berkshire Hathaway|BH Media Group, LLC]]|date=August 6, 2014|accessdate=August 6, 2014|url-status=dead|archive-url=https://web.archive.org/web/20140808044901/http://blogs.buffalonews.com/talkintv/2014/08/summertime-when-the-leaving-is-easy-to-figure-out.html|archive-date=August 8, 2014}}</ref> The term "sweeps" dates from 1954, when Nielsen collected diaries from households in the [[Eastern United States]] first; from there they would "sweep" west.<ref>{{cite news|title=For the TV Station Business, Sweeps Stakes Are Still High|periodical=Broadcasting & Cable|page=34|date=February 17, 2014}}</ref><ref>{{cite web |publisher=The Nielsen Company |url=http://www.nielsenmedia.com/glossary/terms/S/S.html |title=Nielsen Media Research’s Glossary of Media Terms. |quote=Glossary search for ''Sweeps'' |accessdate=December 23, 2017 |url-status=dead |archive-url=https://web.archive.org/web/20141118123110/http://www.nielsenmedia.com/glossary/terms/S/S.html |archive-date=November 18, 2014 }}</ref> Seven-day diaries (or eight-day diaries in homes with DVRs) are mailed to homes to keep a tally of what is watched on each television set and by whom. Over the course of a sweeps period, diaries are mailed to a new panel of homes each week. At the end of the month, all of the viewing data from the individual weeks is aggregated. One exception to the normal sweeps periods occurred in [[2008–09 United States network television schedule|2008–09]], when the February sweeps period was moved to March in order to accommodate the [[Digital television transition in the United States|digital television transition]], which was scheduled to take place on February 17, 2009.  The transition date was [[DTV Delay Act|moved]] to June 12, but Nielsen stayed with the March sweeps period.
+
+This local viewing information provides a basis for program scheduling and advertising decisions for local television stations, cable systems, and advertisers. Typically, the November, February and May sweeps are considered more important; nevertheless, the July sweeps can have local impact in regard to personnel.<ref name=bn8614/>
+
+In some of the mid-size markets, diaries provide viewer information for up to two additional "sweeps" months (October and January).
+
+{|class="wikitable"
+|+ Nielsen sweeps periods
+|-
+! Season
+! November
+! February
+! May
+! July
+|-
+| 2016–2017
+| October 27 – November 23, 2016
+| February 2 – March 1, 2017<ref>{{cite web |title=Local Survey Dates for the 2016-2017 Television Season. |url=https://www.tvb.org/Portals/0/media/file/Nielsen_Local_Survey_Dates_2016-17.pdf |publisher=Nielsen |accessdate=December 23, 2017 |url-status=live |archive-url=https://web.archive.org/web/20170301180633/https://www.tvb.org/Portals/0/media/file/Nielsen_Local_Survey_Dates_2016-17.pdf |archive-date=March 1, 2017}}</ref>
+| April 27 – May 24, 2017
+| June 29 – July 26, 2017
+|-
+| 2017–2018
+| October 26 – November 22, 2017
+| February 1–28, 2018
+| April 26 – May 23, 2018
+| June 28 – July 25, 2018
+|-
+| 2018–2019
+| October 25 – November 21, 2018
+| January 31 – February 27, 2019
+| April 25 – May 22, 2019
+| June 27 – July 24, 2019
+|-
+| 2019–2020
+| October 31 – November 27, 2019
+| January 30 – February 26, 2020
+| April 23 – May 20, 2020
+| June 25 – July 22, 2020
+|}
+
+===Criticism of ratings systems===
+There is some public critique regarding accuracy and potential bias within Nielsen's rating system, including some concerns that the Nielsen ratings system is rapidly becoming outdated because of new technology like [[smartphone]]s, [[Digital video recorder|DVRs]], [[tablet computers]] and [[Internet]] streaming services as preferred or alternative methods for television viewing. In June 2006, however, Nielsen announced a plan to revamp its entire methodology to include all types of media viewing in its sample.<ref>{{cite web|title=Digital TV Prompts Nielsen Ratings Revamp|url=http://www.ft.com/cms/s/0/47d9b068-fc0b-11da-b1a1-0000779e2340.html#axzz2t7dWKn7Z|author=Aline van Duynin|newspaper=[[Financial Times]]|date=June 15, 2006|accessdate=February 12, 2014|url-status=live|archive-url=https://web.archive.org/web/20141202005442/http://www.ft.com/cms/s/0/47d9b068-fc0b-11da-b1a1-0000779e2340.html#axzz2t7dWKn7Z|archive-date=December 2, 2014}}</ref>
+
+Since viewers are aware of being part of the Nielsen sample, it can lead to [[response bias]] in recording and viewing habits. Audience counts gathered by the self-reporting diary methodology are sometimes higher than those gathered by the electronic meters which eliminate any response bias.
+
+Another criticism of the measuring system itself is that it fails the most important criterion of a sample: it is not random. A small fraction of the population is selected and only those that accept are used as the sample size. In many local areas during the 1990s, the difference between a rating that kept a show on the air and one that would cancel it was so small as to be statistically insignificant, and yet the show with the higher rating would survive.<ref name="believe">{{cite episode|series=[[Nova (American TV series)|Nova]] / [[Horizon (BBC TV series)|Horizon]]|title=Can You Believe TV Ratings?|network=PBS|airdate=February 18, 1992}}</ref> In addition, the Nielsen ratings encouraged a strong push for demographic measurements. This caused problems with households that had multiple television sets or households where viewers would enter the simpler codes (usually their child's) raising serious questions to the quality of the demographic data.<ref name="believe"/> The situation further deteriorated as the popularity of cable television increased the number of viewable networks to the extent that the [[margin of error]] has increased, because the sampling sizes are too small.<ref name="believe"/><ref>{{cite web|title=Nielsen Ratings: An Inaccurate Truth|url=http://cornellsun.com/node/23180|author=Andrea Segal|newspaper=The Cornell Daily Sun|date=April 26, 2007|accessdate=January 19, 2008|url-status=dead|archive-url=https://web.archive.org/web/20070430012300/http://cornellsun.com/node/23180|archive-date=April 30, 2007}}</ref><ref>{{cite web|title=Why Nielsen Ratings Are Inaccurate, and Why They'll Stay That Way|url=http://splitsider.com/2011/01/why-nielsen-ratings-are-inaccurate-and-why-theyll-stay-that-way/|author=John Herrman|website=Splitsider|date=January 31, 2011|accessdate=April 28, 2012|url-status=live|archive-url=https://web.archive.org/web/20120505182637/http://splitsider.com/2011/01/why-nielsen-ratings-are-inaccurate-and-why-theyll-stay-that-way/|archive-date=May 5, 2012}}</ref> Compounding matters is that of the sample data that is collected, advertisers will not pay for [[timeshifting|time shifted]] programs (those that are recorded for replay at a different time),<ref>{{cite news|title=Networks' top shows at a rating loss|author=Gary Levin|newspaper=USA Today|page=1D|date=April 25, 2007}}</ref> rendering the "raw" numbers useless from a statistical point of view. Even in 2013, it was noted that Internet streams of television programs were still not counted because they had either no ads (such as [[Netflix]]) or totally different advertising (such as [[Hulu]]) than their television counterparts, effectively skewing the raw data on a show's popularity.<ref>{{cite news|title=Nielsen Adjusts Its Ratings to Add Web-Linked TVs|author=[[Brian Stelter]]|newspaper=The New York Times|date=February 21, 2013}}</ref>
+
+A related criticism of the Nielsen ratings system is its lack of a system for measuring television audiences outside homes, such as [[dormitory|college dormitories]], transport terminals, [[Bar (establishment)|bar]]s, [[prison]]s and other public places where television is frequently viewed, often by large numbers of people in a common setting. In 2005, Nielsen announced plans to incorporate viewing by away-from-home college students into its sample. Internet television viewing is another rapidly growing market for which Nielsen ratings fail to account for viewers. [[iTunes]], Hulu, [[YouTube]], and some of the networks' own websites (such as ABC.com and CBS.com) provide full-length web-based programming, either subscription-based or ad-supported. Though web sites can already track popularity of a site and the [[HTTP referrer|referring page]], they cannot track viewer demographics. To both track this and expand their [[market research]] offerings, Nielsen purchased NetRatings in 2007.<ref>{{cite web|title=Briefing: Nielsen to purchase all NetRatings shares|url=http://www.iht.com/articles/2007/02/05/business/techbrief.php|newspaper=[[The New York Times International Edition|International Herald Tribune]]|date=February 5, 2007|accessdate=October 10, 2008|url-status=dead|archive-url=https://web.archive.org/web/20081220034301/http://www.iht.com/articles/2007/02/05/business/techbrief.php|archive-date=December 20, 2008}}</ref> However, as noted in a February 2012 ''[[The New York Times|New York Times]]'' article, the computer and mobile streams of a program are counted separately from the standard television broadcasts, further degrading the overall quality of the sampling data. As a result, there was no way for NBC to tell if there was any overlap between the roughly 111.3 million traditional television viewers <ref>{{cite web|url=https://www.stern.de/news/us-repraesentantenhaus-segnet-trumps-steuerreform-ab-7702224.html|title=US-Repräsentantenhaus segnet Trumps Steuerreform ab|date=16 November 2017|accessdate=16 January 2018|url-status=live|archive-url=https://web.archive.org/web/20171117181751/https://www.stern.de/news/us-repraesentantenhaus-segnet-trumps-steuerreform-ab-7702224.html|archive-date=17 November 2017}}</ref><ref>{{cite web|url=https://www.stern.de/politik/deutschland/berlin--jamaika-sondierungen-vertagt---keine-einigung-in-sicht-7702436.html|title=Jamaika-Sondierungen gehen in die Verlängerung|website=stern.de|accessdate=16 January 2018|url-status=live|archive-url=https://web.archive.org/web/20171117112413/https://www.stern.de/politik/deutschland/berlin--jamaika-sondierungen-vertagt---keine-einigung-in-sicht-7702436.html|archive-date=17 November 2017}}</ref> and 2.1 million live stream viewers of [[Super Bowl XLVII]].<ref>{{cite news|title=Youths Are Watching, but Less Often on TV|author=Brian Stelter|newspaper=The New York Times|date=February 8, 2012}}</ref>
+
+Responding to the criticism regarding accusations by several media executives (including [[Viacom (2005–present)|Viacom]] CEO Phillippe Dauman and former [[Fox Entertainment Group]] [[chief operating officer]] [[Chase Carey]]) that it failed to count viewers watching television programs on digital platforms, Nielsen executive vice president of global product leadership Megan Clarken stated in an April 2015 summit by the Coalition for Innovative Media Measurement that the company is able to count digital viewers in audience and demographic reports, but unable to do so under the current set of rules devised by networks and advertising industries last revised in 2006. As such, Nielsen can only count viewership for television-originated broadcasts, and must exclude viewers who watch programs on digital platforms if the program does not have an identical advertising load or a linear [[watermark]].<ref>{{cite web|title=Nielsen Says Industry Rules Bar It From Including Digital Viewers In TV Ratings|url=https://deadline.com/2015/04/nielsen-tv-ratings-rules-1201414432/|author=David Lieberman|website=[[Deadline Hollywood]]|publisher=Mail.com Media|date=April 22, 2015|url-status=live|archive-url=https://web.archive.org/web/20160222160728/http://deadline.com/2015/04/nielsen-tv-ratings-rules-1201414432/|archive-date=February 22, 2016}}</ref>
+
+After Nielsen took over the contract for producing data on Irish advertising in 2009, agencies said that they were "disastrous" and claimed that the information produced by them is too inaccurate to be trusted by them or their clients.<ref>{{cite web|title=Media agencies losing trust in Nielsen for supply of critical data|url=http://www.independent.ie/business/media/media-agencies-losing-trust-in-nielsen-for-supply-of-critical-data-2047454.html|author=Laura Noonan|website=Independent.ie|date=February 4, 2010|accessdate=June 17, 2011}}</ref>
+
+In 2004, [[News Corporation (1980–2013)|News Corporation]] retained the services of [[public relations]] firm Glover Park to launch a campaign aimed at delaying Nielsen's plan to replace its aging household electronic data collection methodology in larger local markets with its newer electronic People Meter system. The advocates in the public relations campaign claimed that data derived from the newer People Meter system represented a bias toward underreporting minority viewing, which could lead to a de facto discrimination in employment against minority actors and writers. However, Nielsen countered the campaign by revealing its sample composition counts. According to Nielsen Media Research's sample composition counts, {{As of|2004|alt=as of November 2004}}, nationwide, [[African American]] households using People Meters represented 6.7% of the Nielsen sample, compared to 6.0% in the general population. [[Hispanic and Latino Americans|Latino]] households represent 5.7% of the Nielsen sample, compared to 5.0% in the general population. By October 2006, News Corporation and Nielsen settled, with Nielsen agreeing to spend an additional $50 million to ensure that minority viewing was not being underreported by the new electronic people meter system.<ref>{{cite web|title=Rupe ends Nielsen tiff|url=http://www.encyclopedia.com/doc/1G1-154755762.html|author=Michael Learmonth|website=Encyclopedia.com|date=October 26, 2006|accessdate=April 20, 2009}} {{subscription required}}</ref>
+
+In 2011, CBS and Nielsen proposed a model consisting of six viewer segments which according to their empirical research are more relevant for advertisers than older models based on gender and age. The segments are based on user behavior, motivations, and [[psychographic]]s. It is argued that the model can increase reaching the desired audience as well as message recall and advertisement likeability.<ref>{{cite web|title=CBS: Viewers' Age and Sex Shouldn't Matter to Marketers|url=http://adage.com/article/mediaworks/cbs-viewers-age-sex-matter-marketers/149534/|author=Jack Neff|periodical=Advertising Age|date=March 23, 2011|url-status=live|archive-url=https://web.archive.org/web/20110411223012/http://adage.com/article/mediaworks/cbs-viewers-age-sex-matter-marketers/149534/|archive-date=April 11, 2011}}</ref>
+
+==Advent of streaming==
+Starting in September 2020, Nielsen releases a weekly list of top 10 television shows most watched on streaming platforms, or subscription video on demand (SVOD).<ref>https://www.forbes.com/sites/tomnunan/2020/09/04/nielsen-announces-top-10-streaming-winners--with-big-surprises/?sh=4dd21b72f9bb</ref><ref>https://www.latimes.com/entertainment-arts/business/story/2020-09-03/nielsen-launches-weekly-top-10-list-of-most-popular-shows-on-streaming-platforms</ref>
+
+==Top-rated programs in the U.S.==
+{{Main|List of most-watched television broadcasts|List of most watched television broadcasts in the United States}}
+The table below lists television shows in the U.S. with the highest average household Nielsen rating for each television season.<ref name="McNeil">{{cite book|title=Total Television|edition=4th|author=Alex McNeil|publisher=[[Penguin Books]]|location=New York City, New York|year=1996|pages=1143–1161|isbn=0-14-024916-8}}</ref><ref>{{cite web|title=2003-04 Season To Date Program Rankings from September 22, 2003 Through May 30, 2004|url=http://www.abcmedianet.com/pressrel/dispDNR.html?id=060204_11|date=2004-06-02|website=ABC Medianet|accessdate=November 24, 2006|archive-url=https://web.archive.org/web/20070208132303/http://www.abcmedianet.com/pressrel/dispDNR.html?id=060204_11|archive-date=February 8, 2007}}</ref><ref>{{cite book|title=The Complete Directory to Prime Time Network and Cable TV Shows, 1946–present|author=Tim Brooks|author2=Earle Marsh|publisher=[[Ballantine Books|Ballantine]]|location=New York City, New York|pages=1679–1698|year=2007|ISBN=978-0-345-49773-4}}</ref><ref>{{cite web|title=Full 2010-11 Season Series Rankers|url=https://www.deadline.com/2011/05/full-2010-11-season-series-rankers/|author=Nellie Andreeva|website=Deadline Hollywood|publisher=Mail.com Media|date=May 27, 2011|accessdate=May 27, 2011|url-status=live|archive-url=https://web.archive.org/web/20121008190741/http://www.deadline.com/2011/05/full-2010-11-season-series-rankers/|archive-date=October 8, 2012}}</ref><ref>{{cite web|title=Top-Rated Programs by Season (2007-Present)|url=http://www.timbrooks.net/ratings/|website=TimBrooks.net|url-status=live|archive-url=https://web.archive.org/web/20120621210328/http://www.timbrooks.net/ratings/|archive-date=2012-06-21}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan="2" style="width:9%;" | Season 
+! colspan="4" style="width:34%;" | Live
+! colspan="3" style="width:28%;" | Live + 3 [[Digital video recorder|DVR]] 
+! colspan="3" style="width:28%;" | Live + 7 [[Digital video recorder|DVR]] 
+|-
+! style="width:15%;" | Show 
+! style="width:5%;" | Network
+! style="width:7%;" | Households<br><small>(in millions)</small>
+! style="width:7%;" | Viewers<br><small>(in millions)</small>
+! style="width:15%;" | Show 
+! style="width:5%;" | Network
+! style="width:7%;" | Viewers<br><small>(in millions)</small>
+! style="width:15%;" | Show 
+! style="width:5%;" | Network
+! style="width:7%;" | Viewers<br><small>(in millions)</small>
+|-
+| colspan="11" {{n/a|'''1950s'''}}
+|-
+| '''[[1950–51 United States network television schedule|1950–1951]]'''
+| ''[[Texaco Star Theatre]]''
+| [[NBC]]
+| 6.28<ref>{{cite web |title=TV Ratings: 1950-1951 |url=http://www.classictvhits.com/tvratings/1950.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1951–52 United States network television schedule|1951–1952]]'''
+| ''[[Arthur Godfrey's Talent Scouts]]''
+| rowspan="9" | [[CBS]]
+| 8.23<ref>{{cite web |title=TV Ratings: 1951-1952 |url=http://www.classictvhits.com/tvratings/1951.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1952–53 United States network television schedule|1952–1953]]'''
+| rowspan="3" | ''[[I Love Lucy]]''
+| 13.73<ref>{{cite web |title=TV Ratings: 1952-1953 |url=http://www.classictvhits.com/tvratings/1952.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1953–54 United States network television schedule|1953–1954]]'''
+| 15.29<ref>{{cite web |title=TV Ratings: 1953-1954 |url=http://www.classictvhits.com/tvratings/1953.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1954–55 United States network television schedule|1954–1955]]'''
+| 15.14<ref>{{cite web |title=TV Ratings: 1954-1955 |url=http://www.classictvhits.com/tvratings/1954.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1955–56 United States network television schedule|1955–1956]]'''
+| ''[[The $64,000 Question]]''
+| 16.58<ref>{{cite web |title=TV Ratings: 1955-1956 |url=http://www.classictvhits.com/tvratings/1955.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1956–57 United States network television schedule|1956–1957]]'''
+| ''[[I Love Lucy]]''
+| 17.00<ref>{{cite web |title=TV Ratings: 1956-1957 |url=http://www.classictvhits.com/tvratings/1956.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1957–58 United States network television schedule|1957–1958]]'''
+| rowspan="3" | ''[[Gunsmoke]]''
+| 18.07<ref>{{cite web |title=TV Ratings: 1957-1958 |url=http://www.classictvhits.com/tvratings/1957.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1958–59 United States network television schedule|1958–1959]]'''
+| 17.40<ref>{{cite web |title=TV Ratings: 1958-1959 |url=http://www.classictvhits.com/tvratings/1958.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1959–60 United States network television schedule|1959–1960]]'''
+| 18.44<ref>{{cite web |title=TV Ratings: 1959-1960 |url=http://www.classictvhits.com/tvratings/1959.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| colspan="11" {{n/a|'''1960s'''}}
+|-
+| '''[[1960–61 United States network television schedule|1960–1961]]'''
+| ''[[Gunsmoke]]''
+| [[CBS]]
+| 17.61<ref>{{cite web |title=TV Ratings: 1960-1961 |url=http://www.classictvhits.com/tvratings/1960.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1961–62 United States network television schedule|1961–1962]]'''
+| ''[[Wagon Train]]''
+| [[NBC]]
+| 15.59<ref>{{cite web |title=TV Ratings: 1961-1962 |url=http://www.classictvhits.com/tvratings/1961.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1962–63 United States network television schedule|1962–1963]]'''
+| rowspan="2" | ''[[The Beverly Hillbillies]]''
+| rowspan="2" | [[CBS]]
+| 18.11<ref>{{cite web |title=TV Ratings: 1962-1963 |url=http://www.classictvhits.com/tvratings/1962.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1963–64 United States network television schedule|1963–1964]]'''
+| 20.18<ref>{{cite web |title=TV Ratings: 1963-1964 |url=http://www.classictvhits.com/tvratings/1963.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1964–65 United States network television schedule|1964–1965]]'''
+| rowspan="3" | ''[[Bonanza]]''
+| rowspan="3" | [[NBC]]
+| 19.13<ref>{{cite web |title=TV Ratings: 1964-1965 |url=http://www.classictvhits.com/tvratings/1964.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1965–66 United States network television schedule|1965–1966]]'''
+| 17.12<ref>{{cite web |title=TV Ratings: 1965-1966 |url=http://www.classictvhits.com/tvratings/1965.htm |website=ClassicTVHits.com |accessdate=June 14, 2018 |archive-url=https://web.archive.org/web/20170608064840/http://www.classictvhits.com/tvratings/1965.htm |archive-date=June 8, 2017 |url-status=dead }}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1966–67 United States network television schedule|1966–1967]]'''
+| 16.04<ref>{{cite web |title=TV Ratings: 1966-1969 |url=http://www.classictvhits.com/tvratings/1966.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1967–68 United States network television schedule|1967–1968]]'''
+| ''[[The Andy Griffith Show]]''
+| [[CBS]]
+| 15.64<ref>{{cite web |title=TV Ratings: 1967-1968 |url=http://www.classictvhits.com/tvratings/1967.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1968–69 United States network television schedule|1968–1969]]'''
+| rowspan="2" | ''[[Rowan & Martin's Laugh-In]]''
+| rowspan="2" | [[NBC]]
+| 18.52<ref>{{cite web |title=TV Ratings: 1968-1969 |url=http://www.classictvhits.com/tvratings/1968.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1969–70 United States network television schedule|1969–1970]]'''
+| 15.39<ref>{{cite web |title=TV Ratings: 1969-1970 |url=http://www.classictvhits.com/tvratings/1969.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| colspan="11" {{n/a|'''1970s'''}}
+|-
+| '''[[1970–71 United States network television schedule|1970–1971]]'''
+| ''[[Marcus Welby, M.D.]]''
+| [[American Broadcasting Company|ABC]]
+| 17.79<ref>{{cite web |title=TV Ratings: 1970-1971 |url=http://www.classictvhits.com/tvratings/1970.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1971–72 United States network television schedule|1971–1972]]'''
+| rowspan="5" | ''[[All in the Family]]''
+| rowspan="5" | [[CBS]]
+| 21.11<ref>{{cite web |title=TV Ratings: 1971-1972 |url=http://www.classictvhits.com/tvratings/1971.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1972–73 United States network television schedule|1972–1973]]'''
+| 21.58<ref>{{cite web |title=TV Ratings: 1972-1973 |url=http://www.classictvhits.com/tvratings/1972.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1973–74 United States network television schedule|1973–1974]]'''
+| 20.65<ref>{{cite web |title=TV Ratings: 1973-1974 |url=http://www.classictvhits.com/tvratings/1973.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1974–75 United States network television schedule|1974–1975]]'''
+| 20.69<ref>{{cite web |title=TV Ratings: 1974-1975 |url=http://www.classictvhits.com/tvratings/1974.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1975–76 United States network television schedule|1975–1976]]'''
+| 20.95<ref>{{cite web |title=TV Ratings: 1975-1976 |url=http://www.classictvhits.com/tvratings/1975.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1976–77 United States network television schedule|1976–1977]]'''
+| ''[[Happy Days]]''
+| rowspan="3" | [[American Broadcasting Company|ABC]]
+| 22.43<ref>{{cite web |title=TV Ratings: 1976-1977 |url=http://www.classictvhits.com/tvratings/1976.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1977–78 United States network television schedule|1977–1978]]'''
+| rowspan="2" | ''[[Laverne & Shirley]]''
+| 23.04<ref>{{cite web |title=TV Ratings: 1977-1978 |url=http://www.classictvhits.com/tvratings/1977.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1978–79 United States network television schedule|1978–1979]]'''
+| 22.72<ref>{{cite web |title=TV Ratings: 1978-1979 |url=http://www.classictvhits.com/tvratings/1978.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1979–80 United States network television schedule|1979–1980]]'''
+| ''[[60 Minutes]]''
+| [[CBS]]
+| 21.67<ref>{{cite web |title=TV Ratings: 1979-1980 |url=http://www.classictvhits.com/tvratings/1979.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| colspan="11" {{n/a|'''1980s'''}}
+|-
+| '''[[1980–81 United States network television schedule|1980–1981]]'''
+| rowspan="2" | ''[[Dallas (1978 TV series)|Dallas]]''
+| rowspan="4" | [[CBS]]
+| 27.57<ref>{{cite web |title=TV Ratings: 1981-1982 |url=http://www.classictvhits.com/tvratings/1980.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1981–82 United States network television schedule|1981–1982]]'''
+| 23.15<ref>{{cite web |title=TV Ratings: 1981-1982 |url=http://www.classictvhits.com/tvratings/1981.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1982–83 United States network television schedule|1982–1983]]'''
+| ''[[60 Minutes]]''
+| 21.24<ref>{{cite web |title=TV Ratings: 1982-1983 |url=http://www.classictvhits.com/tvratings/1982.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1983–84 United States network television schedule|1983–1984]]'''
+| ''[[Dallas (1978 TV series)|Dallas]]''
+| 21.54<ref>{{cite web |title=TV Ratings: 1983-1984 |url=http://www.classictvhits.com/tvratings/1983.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1984–85 United States network television schedule|1984–1985]]'''
+| ''[[Dynasty (1981 TV series)|Dynasty]]''
+| [[American Broadcasting Company|ABC]]
+| 21.23<ref>{{cite web |title=TV Ratings: 1984-1985 |url=http://www.classictvhits.com/tvratings/1984.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1985–86 United States network television schedule|1985–1986]]'''
+| rowspan="5" | ''[[The Cosby Show]]''
+| rowspan="5" | [[NBC]]
+| 28.95<ref>{{cite web |title=TV Ratings: 1985-1986 |url=http://www.classictvhits.com/tvratings/1985.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1986–87 United States network television schedule|1986–1987]]'''
+| 30.50<ref>{{cite web |title=TV Ratings: 1986-1987 |url=http://www.classictvhits.com/tvratings/1986.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1987–88 United States network television schedule|1987–1988]]'''
+| {{unknown}}
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1988–89 United States network television schedule|1988–1989]]'''
+| 23.14<ref>{{cite web |title=TV Ratings: 1988-1989 |url=http://www.classictvhits.com/tvratings/1988.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| rowspan="2" | '''[[1989–90 United States network television schedule|1989–1990]]'''
+| rowspan="2" | 21.28<ref>{{cite web |title=TV Ratings: 1989-1990 |url=http://www.classictvhits.com/tvratings/1989.htm |website=ClassicTVHits.com |accessdate=June 14, 2018 |archive-date=December 9, 2015 |archive-url=https://web.archive.org/web/20151209043417/http://www.classictvhits.com/tvratings/1989.htm |url-status=dead }}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| ''[[Roseanne]]''
+| [[American Broadcasting Company|ABC]]
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| colspan="11" {{n/a|'''1990s'''}}
+|-
+| '''[[1990–91 United States network television schedule|1990–1991]]'''
+| ''[[Cheers]]''
+| [[NBC]]
+| 19.83<ref>{{cite web |title=TV Ratings: 1990-1991 |url=http://www.classictvhits.com/tvratings/1990.htm |website=ClassicTVHits.com |accessdate=June 14, 2018 |archive-date=December 15, 2015 |archive-url=https://web.archive.org/web/20151215141002/http://www.classictvhits.com/tvratings/1990.htm |url-status=dead }}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1991–92 United States network television schedule|1991–1992]]'''
+| rowspan="3" | ''[[60 Minutes]]''
+| rowspan="3" | [[CBS]]
+| 20.17<ref>{{cite web |title=TV Ratings: 1991-1992 |url=http://www.classictvhits.com/tvratings/1991.htm |website=ClassicTVHits.com |accessdate=June 14, 2018 |archive-date=November 19, 2015 |archive-url=https://web.archive.org/web/20151119034124/http://www.classictvhits.com/tvratings/1991.htm |url-status=dead }}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1992–93 United States network television schedule|1992–1993]]'''
+| 20.39<ref>{{cite web |title=TV Ratings: 1992-1993 |url=http://www.classictvhits.com/tvratings/1992.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1993–94 United States network television schedule|1993–1994]]'''
+| 19.69<ref>{{cite web |title=TV Ratings: 1993-1994 |url=http://www.classictvhits.com/tvratings/1993.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1994–95 United States network television schedule|1994–1995]]'''
+| ''[[Seinfeld]]''
+| rowspan="5" | [[NBC]]
+| 19.65<ref>{{cite web |title=TV Ratings: 1994-1995 |url=http://www.classictvhits.com/tvratings/1994.htm |website=ClassicTVHits.com |accessdate=June 14, 2018 |archive-url=https://web.archive.org/web/20091026022514/http://www.classictvhits.com/tvratings/1994.htm |archive-date=October 26, 2009 |url-status=dead }}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1995–96 United States network television schedule|1995–1996]]'''
+| rowspan="2" | ''[[ER (TV series)|ER]]''
+| 21.10<ref>{{cite web |title=TV Ratings: 1995-1996 |url=http://www.classictvhits.com/tvratings/1995.htm |website=ClassicTVHits.com |accessdate=June 14, 2018}}</ref>
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1996–97 United States network television schedule|1996–1997]]'''
+| 20.56<ref>{{cite web |title=TV Ratings: 1996-1997 |url=http://www.classictvhits.com/tvratings/1996.htm |website=ClassicTVHits.com |accessdate=February 13, 2019}}</ref>
+| 30.79<ref>{{cite web |last1=Lowry |first1=Brian |title=A Milestone Year, for a Decidedly Dubious Reason |url=https://articles.latimes.com/1997-05-23/entertainment/ca-61847_1_recent-years/2 |website=[[Los Angeles Times]] |accessdate=June 14, 2018 |date=May 23, 1997}}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1997–98 United States network television schedule|1997–1998]]'''
+| ''[[Seinfeld]]''
+| 21.27<ref>{{cite web |title=TV Ratings: 1996-1997 |url=http://www.classictvhits.com/tvratings/1996.htm |website=ClassicTVHits.com |accessdate=February 13, 2019}}</ref>
+| 34.10<ref>{{cite magazine |url=https://ew.com/ew/article/0,,283382,00.html |title= The Final Countdown |magazine=[[Entertainment Weekly]] Published in issue #434 May 29, 1998|accessdate=June 14, 2018 |date=May 29, 1998}}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1998–99 United States network television schedule|1998–1999]]'''
+| ''[[ER (TV series)|ER]]''
+| 17.69<ref>{{cite web |title=TV Ratings: 1998-1999 |url=http://www.classictvhits.com/tvratings/1998.htm |website=ClassicTVHits.com |accessdate=February 13, 2019}}</ref>
+| 25.40<ref>{{cite web |url=http://www.geocities.com/Hollywood/4616/ew0604.html|publisher=[[GeoCities]]|title=TV Winners & Losers: Numbers Racket A Final Tally Of The Season's Show (from Nielsen Media Research)| date=June 4, 1999 | accessdate=June 14, 2018|archive-url=https://web.archive.org/web/20091029011819/http://geocities.com/Hollywood/4616/ew0604.html|archive-date=October 29, 2009}}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[1999–2000 United States network television schedule|1999–2000]]'''
+| ''[[Who Wants to Be a Millionaire (American game show)|Who Wants to Be a Millionaire]]'' (Tues)
+| [[American Broadcasting Company|ABC]]
+| {{unknown}}
+| 28.53<ref>{{cite web |title=Top TV Shows For 1999-2000 Season |url=https://variety.com/index.asp?layout=chart_pass&charttype=chart_topshows99&dept=TV |publisher=[[Variety (magazine)|Variety]] |accessdate=February 15, 2019 |archive-url=https://web.archive.org/web/20120120065741/http://www.variety.com/index.asp?layout=chart_pass&charttype=chart_topshows99&dept=TV |archive-date=January 20, 2012 |date=August 6, 2000}}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| colspan="11" {{n/a|'''2000s'''}}
+|-
+| '''[[2000–01 United States network television schedule|2000–2001]]'''
+| ''[[Survivor (American TV series)|Survivor]]''
+| [[CBS]]
+| {{unknown}}
+| 29.80<ref>{{cite news|url=http://www.wndu.com/entertainment/052001/entertainment_7900.php|archive-url=https://archive.today/20010723041021/http://www.wndu.com/entertainment/052001/entertainment_7900.php|url-status=dead|archive-date=July 23, 2001|publisher=E! Online|date=May 25, 2001|accessdate=May 25, 2014|title=E! Online: CBS Wins Season (via WNDU)}}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[2001–02 United States network television schedule|2001–2002]]'''
+| ''[[Friends]]''
+| [[NBC]]
+| {{unknown}}
+| 24.50<ref>{{cite web |title=How did your favorite show rate? |url=http://usatoday30.usatoday.com/life/television/2002/2002-05-28-year-end-chart.htm |website=[[USA Today]] |accessdate=June 13, 2018 |date=May 28, 2002}}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[2002–03 United States network television schedule|2002–2003]]'''
+| ''[[CSI: Crime Scene Investigation]]''
+| [[CBS]]
+| {{unknown}}
+| 26.12<ref>{{cite web |title=Nielsen's TOP 156 Shows for 2002-03 |url=https://groups.google.com/forum/?fromgroups=#!topic/rec.arts.tv/7oLAZAvK6wY |website=Google Groups |accessdate=June 13, 2018}}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[2003–04 United States network television schedule|2003–2004]]'''
+| rowspan="3" | ''[[American Idol]]'' (Tues)
+| rowspan="7" | [[Fox Broadcasting Company|Fox]]
+| {{unknown}}
+| 25.73<ref>{{cite web |title=SEASON TO DATE PROGRAM RANKINGS - part 1|url=http://www.abcmedianet.com/pressrel/dispDNR.html?id=060204_11 |publisher=Web.archive.org |archive-url = https://web.archive.org/web/20070208132303/http://www.abcmedianet.com/pressrel/dispDNR.html?id=060204_11 |accessdate= June 13, 2018 |archive-date = February 8, 2007}}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[2004–05 United States network television schedule|2004–2005]]'''
+| {{unknown}}
+| 27.32<ref>{{cite web|url=http://abcmedianet.com/web/dnr/dispDNR.aspx?id=060105_05 |title=Disney – ABC Press |accessdate=June 13, 2018 |url-status=dead |archive-url=https://web.archive.org/web/20120421023509/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=060105_05 |archive-date=April 21, 2012 }}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[2005–06 United States network television schedule|2005–2006]]'''
+| {{unknown}}
+| 31.17<ref>{{cite web|url=http://abcmedianet.com/web/dnr/dispDNR.aspx?id=053106_05 |title=Disney – ABC Press |accessdate=June 13, 2018 |url-status=dead |archive-url=https://web.archive.org/web/20141011060406/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=053106_05 |archive-date=October 11, 2014 |df=mdy }}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[2006–07 United States network television schedule|2006–2007]]'''
+| ''[[American Idol]]'' (Wed)
+| {{unknown}}
+| 30.58<ref>{{cite web|url=http://abcmedianet.com/web/dnr/dispDNR.aspx?id=053007_08 |title=Disney – ABC Press |accessdate=June 13, 2018 |url-status=dead |archive-url=https://web.archive.org/web/20120323004317/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=053007_08 |archive-date=March 23, 2012 }}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[2007–08 United States network television schedule|2007–2008]]'''
+| ''[[American Idol]]'' (Tues)
+| {{unknown}}
+| 28.80<ref>{{cite web|url=http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052808_06 |title=Disney – ABC Press |accessdate=June 13, 2018 |url-status=dead |archive-url=https://web.archive.org/web/20100413172935/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052808_06 |archive-date=April 13, 2010 |df=mdy }}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''[[2008–09 United States network television schedule|2008–2009]]'''
+| ''[[American Idol]]'' (Wed)
+| {{unknown}}
+| 25.53<ref name="tvbtn2008-09">{{cite web |title=Dollhouse Had Largest Share of Viewing From DVRs, Did That Save The Show? |url=http://tvbythenumbers.zap2it.com/sdsdskdh279882992z1/dollhouse-had-largest-share-of-viewing-from-dvrs-did-that-save-the-show/ |archive-url=https://web.archive.org/web/20161008211710/http://tvbythenumbers.zap2it.com/sdsdskdh279882992z1/dollhouse-had-largest-share-of-viewing-from-dvrs-did-that-save-the-show/ |url-status=dead |archive-date=October 8, 2016 |website=[[TV by the Numbers]] |accessdate=June 20, 2018 |date=June 18, 2009}}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| ''[[American Idol]]'' (Wed)
+| rowspan="2" | [[Fox Broadcasting Company|Fox]]
+| 26.88<ref name="tvbtn2008-09"/>
+|-
+| '''[[2009–10 United States network television schedule|2009–2010]]'''
+| ''[[American Idol]]'' (Tues)
+| {{unknown}}
+| 22.97<ref>{{cite web |title=Final 2009-10 Broadcast Primetime Show Average Viewership |url=http://tvbythenumbers.zap2it.com/broadcast/final-2009-10-broadcast-primetime-show-average-viewership/54336/ |archive-url=https://web.archive.org/web/20161030041534/http://tvbythenumbers.zap2it.com/broadcast/final-2009-10-broadcast-primetime-show-average-viewership/54336/ |url-status=dead |archive-date=October 30, 2016 |website=[[TV by the Numbers]] |accessdate=June 13, 2018 |date=June 16, 2010}}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| ''[[American Idol]]'' (Tues)
+| 24.71<ref>{{cite web |last1=Andreeva |first1=Nellie |title=Full Series Rankings For The 2009-10 Broadcast Season |url=https://deadline.com/2010/05/full-series-rankings-for-the-2009-10-broadcast-season-44277/ |website=[[Deadline Hollywood]] |accessdate=June 14, 2018 |date=May 27, 2010}}</ref>
+|-
+| colspan="11" {{n/a|'''2010s'''}}
+|-
+| '''[[2010–11 United States network television schedule|2010–2011]]'''
+| ''[[American Idol]]'' (Wed)
+| [[Fox Broadcasting Company|Fox]]
+| {{unknown}}
+| 23.95<ref name="tvbtn2010-11">{{cite web |last1=Gorman |first1=Bill |title='Modern Family' Tops DVR Ratings Gain For The 2010-11 Season; 'Fringe' Has Biggest % Increase By DVR |url=http://tvbythenumbers.zap2it.com/2011/06/13/modern-family-tops-dvr-ratings-gain-for-the-2010-11-season-fringe-has-biggest-increase-by-dvr/95418/ |website=TV by the Numbers |accessdate=April 7, 2019 |archive-url=https://web.archive.org/web/20110616110035/http://tvbythenumbers.zap2it.com/2011/06/13/modern-family-tops-dvr-ratings-gain-for-the-2010-11-season-fringe-has-biggest-increase-by-dvr/95418/ |archive-date=June 16, 2011 |date=June 13, 2011}}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| ''[[American Idol]]'' (Wed)
+| [[Fox Broadcasting Company|Fox]]
+| 26.20<ref name="tvbtn2010-11"/>
+|-
+| '''[[2011–12 United States network television schedule|2011–2012]]'''
+| rowspan="9" | ''[[NBC Sunday Night Football]]''
+| rowspan="9" | [[NBC]]
+| {{unknown}}
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| ''[[NBC Sunday Night Football]]''
+| [[NBC]]
+| 20.74<ref>{{cite web |title=Complete List Of 2011-12 Season TV Show Viewership: 'Sunday Night Football' Tops, Followed By 'American Idol,' 'NCIS' & 'Dancing With The Stars' |url=http://tvbythenumbers.zap2it.com/1/complete-list-of-2011-12-season-tv-show-viewership-sunday-night-football-tops-followed-by-american-idol-ncis-dancing-with-the-stars/135785/ |archive-url=https://web.archive.org/web/20161221233459/http://tvbythenumbers.zap2it.com/1/complete-list-of-2011-12-season-tv-show-viewership-sunday-night-football-tops-followed-by-american-idol-ncis-dancing-with-the-stars/135785/ |url-status=dead |archive-date=December 21, 2016 |website=[[TV by the Numbers]] |accessdate=June 13, 2018 |date=May 24, 2012}}</ref>
+|-
+| '''[[2012–13 United States network television schedule|2012–2013]]'''
+| {{unknown}}
+| {{unknown}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| ''[[NCIS (TV series)|NCIS]]''{{efn|''[[NBC Sunday Night Football]]'' aired three broadcasts before the official start of television season which are not counted in the rankings. If these broadcasts were counted, ''NBC Sunday Night Football'' would average 21.44 million viewers—more than ''[[NCIS (TV series)|NCIS]].<ref>{{cite web |title=Complete List Of 2012-13 Season TV Show Viewership: ‘Sunday Night Football’ Tops, Followed By ‘NCIS,’ ‘The Big Bang Theory’ & ‘NCIS: Los Angeles’ |url=http://tvbythenumbers.zap2it.com/1/complete-list-of-2012-13-season-tv-show-viewership-sunday-night-football-tops-followed-by-ncis-the-big-bang-theory-ncis-los-angeles/ |archive-url=https://web.archive.org/web/20161009105210/http://tvbythenumbers.zap2it.com/1/complete-list-of-2012-13-season-tv-show-viewership-sunday-night-football-tops-followed-by-ncis-the-big-bang-theory-ncis-los-angeles/ |url-status=dead |archive-date=October 9, 2016 |website=[[TV by the Numbers]] |accessdate=June 13, 2018 |date=May 29, 2013}}</ref>}}
+| rowspan="2"| [[CBS]]
+| 21.34<ref>{{cite web |last1=Platten |first1=Dominic |title=Full 2012-2013 TV Season Series Rankings |url=https://deadline.com/2013/05/tv-season-series-rankings-2013-full-list-506970/ |website=[[Deadline Hollywood]] |accessdate=June 13, 2018 |date=May 23, 2013}}</ref>
+|-
+| '''[[2013–14 United States network television schedule|2013–2014]]'''
+| {{unknown}}
+| 21.42<ref name="tvbtn2013-14">{{cite web |title=Live+7 DVR Ratings: Complete 2013-14 Season ‘The Big Bang Theory’ Leads Adults 18-49 Ratings Increase; ‘Raising Hope’ Earns Biggest Percentage Increase, ‘The Blacklist’ Tope Viewership Gains |url=http://tvbythenumbers.zap2it.com/1/live7-dvr-ratings-complete-2013-14-season-the-big-bang-theory-leads-adults-18-49-ratings-increase-raising-hope-earns-biggest-percentage-increase-the-blacklist-tope-viewership-gains/ |archive-url=https://web.archive.org/web/20170713232206/http://tvbythenumbers.zap2it.com/1/live7-dvr-ratings-complete-2013-14-season-the-big-bang-theory-leads-adults-18-49-ratings-increase-raising-hope-earns-biggest-percentage-increase-the-blacklist-tope-viewership-gains/ |url-status=dead |archive-date=July 13, 2017 |website=[[TV by the Numbers]] |accessdate=June 13, 2018 |date=June 9, 2014}}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| ''[[The Big Bang Theory]]''
+| 23.10<ref name="tvbtn2013-14"/>
+|-
+| '''[[2014–15 United States network television schedule|2014–2015]]'''
+| {{unknown}}
+| 20.69<ref name="tvbtn2014-15">{{cite web |last1=Baron |first1=Steve |title=Live+7 Ratings: Complete 2014-15 Season 'The Big Bang Theory' Leads Adults 18-49 Ratings Increase; 'The Messengers' Earns Biggest Percentage Increase, 'The Blacklist' Tops Viewership Gains |url=http://tvbythenumbers.zap2it.com/1/live7-dvr-ratings-complete-2014-15-season-the-big-bang-theory-leads-adults-18-49-ratings-increase-raising-hope-earns-biggest-percentage-increase-the-blacklist-tops-viewership-gains/ |archive-url=https://web.archive.org/web/20170128171612/http://tvbythenumbers.zap2it.com/1/live7-dvr-ratings-complete-2014-15-season-the-big-bang-theory-leads-adults-18-49-ratings-increase-raising-hope-earns-biggest-percentage-increase-the-blacklist-tops-viewership-gains/ |url-status=dead |archive-date=January 28, 2017 |website=[[TV by the Numbers]] |accessdate=June 13, 2018 |date=June 8, 2015}}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| rowspan="3" | ''[[NBC Sunday Night Football]]''
+| rowspan="3" | [[NBC]]
+| 20.81<ref name="tvbtn2014-15"/>
+|-
+| '''[[2015–16 United States network television schedule|2015–2016]]'''
+| {{unknown}}
+| 21.30<ref>{{cite web |last1=Porter |first1=Rick |title=Final same-day viewer averages for 2015-16: Football, ‘NCIS’ lead charts |url=http://tvbythenumbers.zap2it.com/more-tv-news/final-same-day-viewer-averages-for-2015-16-football-ncis-lead-charts/ |archive-url=https://web.archive.org/web/20161012014357/http://tvbythenumbers.zap2it.com/more-tv-news/final-same-day-viewer-averages-for-2015-16-football-ncis-lead-charts/ |url-status=dead |archive-date=October 12, 2016 |website=[[TV by the Numbers]] |accessdate=June 13, 2018 |date=May 27, 2016}}</ref>
+| rowspan="2" | ''[[NBC Sunday Night Football]]''
+| rowspan="2" | [[NBC]]
+| 21.38<ref>{{cite web |last1=Porter |first1=Rick |title=Final Live +3 viewer averages for 2015-16: NFL, ‘NCIS’ remain on top |url=http://tvbythenumbers.zap2it.com/more-tv-news/final-live-3-viewer-averages-for-2015-16-nfl-ncis-remain-on-top/ |archive-url=https://web.archive.org/web/20161008153814/http://tvbythenumbers.zap2it.com/more-tv-news/final-live-3-viewer-averages-for-2015-16-nfl-ncis-remain-on-top/ |url-status=dead |archive-date=October 8, 2016 |website=[[TV by the Numbers]] |accessdate=June 13, 2018 |date=June 3, 2016}}</ref>
+| 21.39<ref>{{cite web |last1=Rick |first1=Porter |title=Final Live +7 viewer averages for 2015-16: ‘The Big Bang Theory’ moves ahead of ‘NCIS,’ NFL stays No. 1 |url=http://tvbythenumbers.zap2it.com/more-tv-news/final-live-7-viewer-averages-for-2015-16-the-big-bang-theory-moves-ahead-of-ncis-nfl-stays-no-1/ |archive-url=https://web.archive.org/web/20161010004910/http://tvbythenumbers.zap2it.com/more-tv-news/final-live-7-viewer-averages-for-2015-16-the-big-bang-theory-moves-ahead-of-ncis-nfl-stays-no-1/ |url-status=dead |archive-date=October 10, 2016 |website=[[TV by the Numbers]] |accessdate=June 13, 2018 |date=June 13, 2016}}</ref>
+|-
+| '''[[2016–17 United States network television schedule|2016–2017]]'''
+| {{unknown}}
+| 19.63<ref>{{cite web |last1=Porter |first1=Rick |title=Final same-day viewer averages for 2016-17: ‘Sunday Night Football’ leads for 6th straight year |url=http://tvbythenumbers.zap2it.com/more-tv-news/final-same-day-viewer-averages-for-2016-17-sunday-night-football-leads-for-6th-straight-year/ |archive-url=https://web.archive.org/web/20170530133229/http://tvbythenumbers.zap2it.com/more-tv-news/final-same-day-viewer-averages-for-2016-17-sunday-night-football-leads-for-6th-straight-year/ |url-status=dead |archive-date=May 30, 2017 |website=[[TV by the Numbers]] |accessdate=June 13, 2018 |date=May 26, 2017}}</ref>
+| 19.73<ref>{{cite web |last1=Porter |first1=Rick |title=Final Live +3 viewer averages for 2016-17: ‘Big Bang Theory,’ ‘NCIS’ pass ‘Thursday Night Football’ |url=http://tvbythenumbers.zap2it.com/more-tv-news/final-live-3-viewer-averages-for-2016-17-big-bang-theory-ncis-pass-thursday-night-football/ |archive-url=https://web.archive.org/web/20170609051259/http://tvbythenumbers.zap2it.com/more-tv-news/final-live-3-viewer-averages-for-2016-17-big-bang-theory-ncis-pass-thursday-night-football/ |url-status=dead |archive-date=June 9, 2017 |website=[[TV by the Numbers]] |accessdate=June 13, 2018 |date=June 5, 2017}}</ref>
+| 19.75<ref>{{cite web |last1=Porter |first1=Rick |title=Final Live +7 viewer averages for 2016-17: ‘Sunday Night Football’ holds off ‘The Big Bang Theory |url=http://tvbythenumbers.zap2it.com/more-tv-news/final-live-7-viewer-averages-for-2016-17-sunday-night-football-holds-off-the-big-bang-theory/ |archive-url=https://web.archive.org/web/20170616194047/http://tvbythenumbers.zap2it.com/more-tv-news/final-live-7-viewer-averages-for-2016-17-sunday-night-football-holds-off-the-big-bang-theory/ |url-status=dead |archive-date=June 16, 2017 |website=[[TV by the Numbers]] |accessdate=June 13, 2018|date=June 12, 2017}}</ref>
+|-
+| '''[[2017–18 United States network television schedule|2017–2018]]'''
+| {{unknown}}
+| 17.58<ref>{{cite web |last1=Porter |title=Final same-day total viewer averages for 2017-18: ‘Sunday Night Football’ No. 1 for 7th straight year |url=http://tvbythenumbers.zap2it.com/more-tv-news/final-same-day-total-viewer-averages-for-2017-18-sunday-night-football-no-1-for-7th-straight-year/ |archive-url=https://web.archive.org/web/20180602083731/http://tvbythenumbers.zap2it.com/more-tv-news/final-same-day-total-viewer-averages-for-2017-18-sunday-night-football-no-1-for-7th-straight-year/ |url-status=dead |archive-date=June 2, 2018 |website=[[TV by the Numbers]] |accessdate=June 13, 2018 |date=May 29, 2018}}</ref>
+| ''[[Roseanne]]''
+| [[American Broadcasting Company|ABC]]
+| 18.21<ref>{{cite web |last1=Porter |first1=Rick |title=Final Live +3 viewer rankings for 2017-18: ‘Roseanne’ takes over first place |url=http://tvbythenumbers.zap2it.com/more-tv-news/final-live-3-viewer-rankings-for-2017-18-roseanne-takes-over-first-place/ |archive-url=https://web.archive.org/web/20180607134309/http://tvbythenumbers.zap2it.com/more-tv-news/final-live-3-viewer-rankings-for-2017-18-roseanne-takes-over-first-place/ |url-status=dead |archive-date=June 7, 2018 |website=[[TV by the Numbers]] |accessdate=June 13, 2018 |date=June 4, 2018}}</ref>
+| ''[[Roseanne]]''
+| [[American Broadcasting Company|ABC]]
+| 19.96<ref>{{cite web |last1=Porter |first1=Rick |title=Final Live +7 viewer averages for 2017-18: ‘Roseanne,’ ‘Big Bang Theory’ surpass ‘SNF’ |url=http://tvbythenumbers.zap2it.com/more-tv-news/final-live-7-viewer-averages-for-2017-18-roseanne-big-bang-theory-surpass-snf/ |archive-url=https://web.archive.org/web/20180612142325/http://tvbythenumbers.zap2it.com/more-tv-news/final-live-7-viewer-averages-for-2017-18-roseanne-big-bang-theory-surpass-snf/ |url-status=dead |archive-date=June 12, 2018 |website=[[TV by the Numbers]] |accessdate=June 13, 2018 |date=June 11, 2018}}</ref>
+|-
+| '''[[2018–19 United States network television schedule|2018–2019]]'''
+| {{unknown}}
+| 18.80<ref name="PI2018-19">{{cite web |last1=Pucci |first1=Douglas |title=2018-19 Live+3 Season Ratings: ‘This Is Us’ Leads in Raw Adults 18-49 Gains for Third Straight Year, Freshman Drama ‘Manifest’ Tops in Raw Viewer Lifts |url=https://programminginsider.com/2018-19-live3-season-ratings-this-is-us-leads-in-raw-adults-18-49-gains-for-third-straight-year-freshman-drama-manifest-tops-in-raw-viewer-lifts/ |website=Programming Insider |accessdate=June 24, 2019 |date=June 8, 2019}}</ref>
+| ''[[NBC Sunday Night Football]]''
+| [[NBC]]
+| 18.92<ref name="PI2018-19"/>
+| rowspan="2"|''[[NBC Sunday Night Football]]''
+| rowspan="2"|[[NBC]]
+| 18.94<ref>{{cite web |last1=Porter |first1=Rick |title=2018-19 TV Season: Live-Plus-7 Ratings for Every Broadcast Series |url=https://www.hollywoodreporter.com/live-feed/live-7-ratings-broadcast-tv-series-2018-19-1217293 |website=[[The Hollywood Reporter]] |publisher=[[Prometheus Global Media]] |accessdate=June 11, 2019 |date=June 10, 2019}}</ref>
+|-
+| '''[[2019–20 United States network television schedule|2019–2020]]'''
+| {{unknown}}
+| 19.96<ref name="2019-20rtg">{{cite web |last1=Pucci |first1=Douglas |title=2019-20 Live+Same Day Season Ratings: NFL Football Rules Prime Time and Exhibits Slight Growth, 90’s Chicago Bulls-Michael Jordan Doc ‘The Last Dance’ Tops All Non-NFL Telecasts |url=https://programminginsider.com/2019-20-livesame-day-season-ratings-nfl-football-rules-prime-time-and-exhibits-slight-growth-90s-chicago-bulls-michael-jordan-doc-the-last-dance-tops-all-non-nfl-telecasts/ |website=Programming Insider |archive-url=https://web.archive.org/web/20200626095305/https://programminginsider.com/2019-20-livesame-day-season-ratings-nfl-football-rules-prime-time-and-exhibits-slight-growth-90s-chicago-bulls-michael-jordan-doc-the-last-dance-tops-all-non-nfl-telecasts/ |archive-date=June 26, 2020 |date=June 21, 2020}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 20.09<ref>{{cite web |last1=Porter |first1=Rick |title=TV Ratings: 7-Day Season Averages for Every 2019-20 Broadcast Series |url=https://www.hollywoodreporter.com/live-feed/tv-ratings-7-day-season-averages-2019-20-broadcast-series-1297228 |work=[[The Hollywood Reporter]] |archive-url=https://web.archive.org/web/20200605132531/https://www.hollywoodreporter.com/live-feed/tv-ratings-7-day-season-averages-2019-20-broadcast-series-1297228 |archive-date=June 5, 2020 |date=June 4, 2020}}</ref>
+|-
+|}
+
+;Notes
+{{notelist}}
+
+=== Television network ratings by year  ===
+(total viewership, exclusive of demographics)
+{| class="wikitable sortable"
+! Total View Rank
+! Network
+!2019 views<ref>{{Cite web|url=https://variety.com/2019/tv/news/network-ratings-top-channels-fox-news-espn-cnn-cbs-nbc-abc-1203440870/|title=Top-Rated Channels of 2019: TV Network Winners & Losers|last=Schneider|first=Michael|date=2019-12-26|website=Variety|language=en|access-date=2020-06-09}}</ref>
+!2018 views<ref>{{Cite web|url=https://www.indiewire.com/2018/12/network-ratings-top-channels-espn-cnn-fox-news-cbs-nbc-abc-1202030597/|title=Most-Watched Television Networks: Ranking 2018’s Winners and Losers|last=Schneider|first=Michael|date=2018-12-27|website=IndieWire|language=en|access-date=2019-11-12}}</ref>
+!2017 views<ref>{{Cite web|url=https://www.indiewire.com/2017/12/highest-network-ratings-2017-most-watched-hbo-cbs-espn-fx-msnbc-fox-news-1201911363/|title=Highest Network Ratings of 2017: Most Watched Winners & Losers|last=Schneider|first=Michael|website=IndieWire|access-date=2018-12-12|url-status=live|archive-url= https://web.archive.org/web/20181207032508/https://www.indiewire.com/2017/12/highest-network-ratings-2017-most-watched-hbo-cbs-espn-fx-msnbc-fox-news-1201911363/|archive-date=2018-12-07}}</ref>
+!2016 views<ref>{{Cite web|url=https://indiewire.com/2016/12/cnn-fox-news-msnbc-nbc-ratings-2016-winners-losers-1201762864/|title=Most-Watched Television Networks: Ranking 2016’s Winners and Losers|last=Schneider|first=Michael|website=IndieWire|access-date=2017-08-09|url-status=live|archive-url=https://web.archive.org/web/20170810013455/http://www.indiewire.com/2016/12/cnn-fox-news-msnbc-nbc-ratings-2016-winners-losers-1201762864/|archive-date=2017-08-10}}</ref>
+! 2015 views<ref name="tvinsider">{{cite web|title=Most Watched Television Networks: Ranking 2015's Winners and Losers|url=http://www.tvinsider.com/article/62572/most-watched-tv-networks-2015/|website=tvInsider.com|url-status=live|archive-url=https://web.archive.org/web/20161119115222/http://www.tvinsider.com/article/62572/most-watched-tv-networks-2015/|archive-date=2016-11-19}}</ref>
+! 2014 views<ref name="tvinsider" />
+|-
+| #1
+| [[NBC]]
+| 6,330,000
+|7,876,000
+| 7,284,000
+|8,426,000
+| 7,757,000
+| 8,264,000
+|-
+|#2
+| [[CBS]]
+| 7,140,000
+|7,385,000
+| 7,996,000
+|8,814,000
+| 9,419,000
+| 9,375,000
+|-
+| #3
+| [[American Broadcasting Company|ABC]]
+| 5,192,000
+|5,423,000
+| 5,592,000
+|6,325,000
+| 6,894,000
+| 6,838,000
+|-
+| #4
+| [[Fox Broadcasting Company|FOX]]
+| 4,623,000
+|4,401,000
+| 4,733,000
+|5,053,000
+| 5,198,000
+| 5,973,000
+|}
+
+==See also==
+* [[C. E. Hooper]]
+* [[Crossley ratings]]
+* [[Nielsen Audio]]
+* [[Top-rated United States television programs by season]]
+* [[List of most watched television broadcasts in the United States]]
+* [[List of most watched television broadcasts]]
+* [[Wikipedia:List of U.S. television ratings archives]]
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+* {{cite news|title=How Does 'Sweeps' Week Work?|url=http://www.slate.com/id/2095577|periodical=[[Slate (magazine)|Slate]]|date=February 16, 2004}}
+
+==External links==
+* {{Official website|http://www.nielsen.com/us/en.html|Nielsen Media Research official website}}
+
+{{Nielsen}}
+{{TopUSTVShows}}
+{{TopUSTVProgramsBySeason}}
+
+[[Category:Kohlberg Kravis Roberts companies]]
+[[Category:Lists of American television series]]
+[[Category:Market research]]
+[[Category:Mass media rivalries]]
+[[Category:Promotion and marketing communications]]
+[[Category:Television terminology]]

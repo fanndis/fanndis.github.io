@@ -1,0 +1,297 @@
+{{short description|Ongoing COVID-19 viral pandemic in Ethiopia}}
+{{EngvarB|date=March 2020}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox pandemic
+| name            = COVID-19 pandemic in Ethiopia
+| map1            = COVID-19 Cases in Ethiopia.svg
+| legend1         = {{center|Map of [[Regions of Ethiopia|regions]] with confirmed (red) coronavirus cases (as of 22 April)}}
+| map2            = 
+| legend2         = 
+| map3            = 
+| legend3         = 
+| first_case      = [[Addis Ababa]]
+| origin          = [[Wuhan]], [[Hubei]], China
+| arrival_date    = 13 March 2020<br />({{Age in years, months, weeks and days|month1=03|day1=13|year1=2020|month2=|day2=|year2=}})
+| location        = [[Ethiopia]]
+| virus_strain    = [[SARS-CoV-2]]
+| disease         = [[COVID-19]]
+| confirmed_cases = 112,740<ref>{{Cite web|url=https://www.worldometers.info/coronavirus/country/ethiopia/|title=Ethiopia Coronavirus - Worldometer |website=www.worldometers.info|access-date=2020-12-06}}</ref>
+| recovery_cases  = 79,579
+| deaths          = 1,745
+| active_cases    = 31,414
+| fatality_rate   = {{Percentage|1745|112740|2}}
+| website         = 
+}}
+The '''COVID-19 pandemic in Ethiopia''' is part of the ongoing [[COVID-19 pandemic|worldwide pandemic]] of [[coronavirus disease 2019]] ({{nowrap|COVID-19}}) caused by [[severe acute respiratory syndrome coronavirus&nbsp;2]] ({{nowrap|SARS-CoV-2}}). The virus was confirmed to have reached [[Ethiopia]] on 13 March 2020.<ref>{{Cite web|title=First case of covid-19 confirmed in Ethiopia|url=https://www.afro.who.int/news/first-case-covid-19-confirmed-ethiopia|website=WHO Regional Office for Africa|access-date=2020-05-26}}</ref> The national government, led by Prime Minister [[Abiy Ahmed]], declared a five-month [[state of emergency]] in April 2020 but has allowed economic activities to continue during the public health crisis.<ref>[https://www.weforum.org/agenda/2020/06/ethiopia-covid19-response/ Ethiopia’s unconventional COVID-19 response] Arkebe Oqubay, [[World Economic Forum]], 5 June 2020</ref>
+
+== Background ==
+On 12 January 2020, the [[World Health Organization]] (WHO) confirmed that a [[novel coronavirus]] was the cause of a respiratory illness in a cluster of people in Wuhan City, Hubei Province, China, which was reported to the WHO on 31 December 2019.<ref name=Elsevier>{{cite web |url=https://www.elsevier.com/connect/coronavirus-information-center |title=Novel Coronavirus Information Center |last=Elsevier |date= |website=Elsevier Connect|url-status=live|archive-url=https://web.archive.org/web/20200130171622/https://www.elsevier.com/connect/coronavirus-information-center|archive-date=30 January 2020|access-date=15 March 2020}}</ref><ref name=Reynolds4March2020>{{Cite news |last=Reynolds |first=Matt |url=https://www.wired.co.uk/article/china-coronavirus |title=What is coronavirus and how close is it to becoming a pandemic? |date=4 March 2020 |work=Wired UK|access-date=5 March 2020 |issn=1357-0978|archive-url=https://web.archive.org/web/20200305104806/https://www.wired.co.uk/article/china-coronavirus|archive-date=5 March 2020|url-status=live}}</ref> The [[Case fatality rate|case fatality ratio]] for COVID-19 has been much lower than [[Severe acute respiratory syndrome|SARS of 2003]],<ref name=Imperial13March2020>{{cite web |url= https://www.imperial.ac.uk/news/196137/crunching-numbers-coronavirus/ |title=Crunching the numbers for coronavirus |website=Imperial News|access-date=15 March 2020|archive-url= https://web.archive.org/web/20200319084913/https://www.imperial.ac.uk/news/196137/crunching-numbers-coronavirus/|archive-date=19 March 2020|url-status=live}}</ref><ref name=Gov.ukHCIDDef>{{cite web |url=https://www.gov.uk/guidance/high-consequence-infectious-diseases-hcid |title=High consequence infectious diseases (HCID); Guidance and information about high consequence infectious diseases and their management in England |last= |first= |date= |website=GOV.UK |language=en|url-status=live|archive-url= https://web.archive.org/web/20200303051938/https://www.gov.uk/guidance/high-consequence-infectious-diseases-hcid|archive-date=3 March 2020|access-date=17 March 2020}}</ref> but the [[Transmission (medicine)|transmission]] has been significantly greater, with a significant total death toll.<ref name=WFSA>{{cite web |url= https://www.wfsahq.org/resources/coronavirus |title=World Federation Of Societies of Anaesthesiologists – Coronavirus |last= |first= |date= |website=www.wfsahq.org|url-status=live|archive-url= https://web.archive.org/web/20200312233527/https://www.wfsahq.org/resources/coronavirus|archive-date=12 March 2020|access-date=15 March 2020}}</ref><ref name=Imperial13March2020/> Model-based simulations for Ethiopia indicate that the 95% [[confidence interval]] for the [[Basic reproduction number#Effective reproduction number|time-varying reproduction number]] ''R<sub> t</sub>'' was higher than 1.0 until the end of July 2020, while in August and September it was around 1.<ref>''Future scenarios of the healthcare burden of COVID-19 in low- or middle-income countries'', [[MRC Centre for Global Infectious Disease Analysis]] at [[Imperial College London]].</ref>
+
+==Timeline==
+{{COVID-19 pandemic data/Ethiopia medical cases chart}}{{anchor|COVID chart}}
+===March 2020===
+On 13 March, the first coronavirus case was reported in the country and the victim later identified was a Japanese citizen.<ref>{{Cite web|url=https://www.aljazeera.com/news/2020/03/stocks-collapse-coronavirus-global-pandemic-live-200312235606108.html|title=Ethiopia confirms first coronavirus case: Live updates|website=aljazeera.com|access-date=13 March 2020|archive-url=https://web.archive.org/web/20200313090407/https://www.aljazeera.com/news/2020/03/stocks-collapse-coronavirus-global-pandemic-live-200312235606108.html|archive-date=13 March 2020|url-status=live}}</ref> The process of contact tracing is currently taking place, according to [[Lia Tadesse]], the Health Minister of Ethiopia.<ref>{{Cite web|url=https://www.aa.com.tr/en/africa/ethiopia-confirms-first-coronavirus-case/1765130|title=Ethiopia confirms first coronavirus case|website=aa.com.tr|access-date=14 March 2020}}</ref>
+
+Despite worsening situations in other countries, Ethiopia will not be enforcing a travel ban, with Tadesse stating that the virus is in 134 countries, and enforcing a travel ban will not work.<ref>{{Cite web|url=https://www.voanews.com/science-health/coronavirus-outbreak/ethiopia-confirms-first-case-coronavirus|title=Ethiopia Confirms First Case of Coronavirus {{!}} Voice of America – English|website=voanews.com|language=en|access-date=14 March 2020}}</ref>
+
+On 15 March, three additional cases of the coronavirus were reported. The infected persons, one Ethiopian and two Japanese nationals, had contact with the individual who was reported to be infected by the virus on 13 March.<ref>{{Cite web|url=https://ethiopianmonitor.com/2020/03/15/coronavirus-3-new-ccases-identified-in-ethiopia|title=Coronavirus: 3 New Cases Identified in Ethiopia|website=ethiopianmonitor.com|access-date=15 March 2020}}</ref>
+
+On 16 March, a 34-year-old male Ethiopian who was said to have arrived from Dubai on 12 March 2020 tested positive for the virus.<ref>{{Cite web|url=https://www.fanabc.com/english/ethiopia-suspends-schools-sporting-events-for-15-days-due-to-coronavirus|title=Ethiopia Suspends Schools, Sporting Events Due To Coronavirus|website=fanabc.com|access-date=16 March 2020}}</ref><ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1239494668909412352 |date= 15 March 2020 |title=Ethiopia confirmed the 5th case on March 15, 2020 since the confirmation of the 1st case on March 13, 2020. }}</ref>
+
+On 17 March, a British diplomat who arrived from Dubai tested positive for the virus.<ref>{{Cite web|url=https://www.myjournalcourier.com/news/world/article/Coronavirus-local-spread-beginning-to-take-off-15137595.php|title=Coronavirus' local spread beginning to take off in Africa|website=myjournalcourier.com|access-date=17 March 2020}}</ref><ref>{{Cite web|url=http://apanews.net/en/pays/ethiopie/news/ethiopia-reports-sixth-case-of-coronavirus|title=Ethiopia reports sixth case of coronavirus|website=apanews.net|access-date=18 March 2020}}</ref>
+
+On 19 March, three more cases of the virus were confirmed. One is a 44-year-old Japanese national who had contact with the previously identified Japanese national. The second confirmed case is an 85-year-old Ethiopian who arrived in Ethiopia on 2 March. The third case is a 39-year-old Austrian national who arrived in Ethiopia on 15 March.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1240757313302118407 |date= 20 March 2020 |title=Ethiopia #COVID19 Status update }}</ref><ref>{{Cite web|url=https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/|title=Ethiopia Reports Three New Cases Of Coronavirus|website=fanabc.com|access-date=20 March 2020}}</ref>
+
+On 22 March, two additional cases were reported. The first confirmed case is of a 28-year-old Ethiopian who had travelled to [[Belgium]] and arrived in Ethiopia on 14 March. The second case is a 34-year-old Ethiopian who had arrived from Dubai on 19 March.<ref>{{Cite web|url=https://ethiopianmonitor.com/2020/03/22/ethiopia-coronavirus-case-reaches-double-digit|title=Ethiopia Coronavirus cases Reache Double Digits|website=ethiopianmonitor.com|access-date=22 March 2020}}</ref><ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1241610916736663558 |date= 22 March 2020 |title=Ethiopia #COVID19 Status update }}</ref>
+
+On 24 March, one additional case of the virus was reported. A 34-year-old Ethiopian who arrived from Dubai on 19 March tested positive for the virus. 15 people who are reported to have had contact with the individual are currently being monitored.<ref>{{Cite web|url=https://www.fanabc.com/english/ethiopia-confirms-one-more-covid-19-case|title=Ethiopia Confirms One More COVID-19 Case|website=fanabc.com|access-date=24 March 2020}}</ref><ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1242350694985879552 |date= 24 March 2020 |title=Ethiopia #COVID19 Status update }}</ref>
+
+On 27 March, four more cases of the virus were confirmed. The first case is of a 72-year-old [[Mauritian]] who had arrived from [[Congo Brazzaville]] on 14 March. The second case is of a 61-year-old individual from [[Adama]] in the [[Oromia Region]] with no prior travel history. The third case is of a 28-year-old Ethiopian national who traveled to [[Israel]] and arrived in Ethiopia on 21 March. The fourth case is a 24-year-old Ethiopian with no prior travel history.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1243475298940829696 |date= 27 March 2020 |title=Ethiopia #COVID19 Status update }}</ref><ref>{{Cite web|url=https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16|title=Ethiopia's Coronavirus Cases Rise To 16|website=fanabc.com|access-date=27 March 2020}}</ref> The case of this 24-year-old Ethiopian was later on announced to be a false-positive on 30 March 2020 after three follow up tests showed the patient to be negative.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1244657190452985862 |date= 30 March 2020 |title=Ethiopia #COVID19 Status update }}</ref>
+
+On 28 March, the [[Ministry of Health (Ethiopia)|Ministry of Health]] reported that one patient had fully recovered from the virus.<ref>{{Cite web|url=https://www.fanabc.com/english/ministry-reports-one-recovery-from-coronavirus|title=Ministry Reports One Recovery From Coronavirus|website=fanabc.com|access-date=28 March 2020}}</ref>
+
+On 29 March, five additional cases of the virus were reported. The first case is of a 28-year-old female Ethiopian who had travelled to Belgium and Cameroon on 17 March and 19 March, respectively. The second and third cases are of a 14-year-old male and 48-year-old female from [[Adama]] who are members of the same family and had previous contact with an individual with the virus.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1244194960817209344 |date= 29 March 2020 |title=Ethiopia #COVID19 Status update }}</ref><ref>{{Cite web|url=https://ethiopianmonitor.com/2020/03/29/coronavirus-three-new-cases-confirmed-in-ethiopia|title=CORONAVIRUS: Three New Cases Confirmed in Ethiopia|website=ethiopianmonitor.com|access-date=29 March 2020}}</ref> The fourth and fifth cases are of a 38-year-old male and a 35-year-old female Ethiopians from Addis Ababa with both having a travel history to Dubai at different dates. One patient was also reported to have fully recovered, making the total number of recoveries two.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1244291016301166593 |date= 29 March 2020 |title=Ethiopia #COVID19 Status update }}</ref>
+
+On 30 March, the [[Prime Minister of Ethiopia|Prime Minister]] said in a statement that the total number of cases in the country had risen to 23.<ref>{{Cite web|url=https://www.fanabc.com/english/pm-calls-on-public-to-apply-covid19-containment-measures|title=PM Calls On Public To Apply COVID19 Containment Measures|website=fanabc.com|access-date=30 March 2020}}</ref> One of the cases was of a 32-year-old male Ethiopian who had arrived from the United States on 19 March. The second case was of a 37-year-old female Ethiopian who had arrived from United Arab Emirates on 21 March. Both individuals were from the [[Amhara Region]].<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1244565328622911491 |date= 30 March 2020 |title=Ethiopia #COVID19 Status update }}</ref>
+
+On 31 March, four cases of the virus were reported. The first two cases were of two male Ethiopians, 30 and 36 years old, who arrived from Dubai on 24 March. They were both placed under mandatory quarantine upon entry. The third case was of a 60-year-old female Ethiopian from Addis Ababa who arrived from [[France]] on 15 March.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1244909896371515392 |date= 31 March 2020 |title=Ethiopia #COVID19 Status update }}</ref> The fourth confirmed case is of a 42-year-old male Ethiopian from [[Dire Dawa]] who arrived from [[Australia]] on 18 March.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1245035159071723523 |date= 31 March 2020 |title=Ethiopia #COVID19 Status update }}</ref>
+
+By the end of the months there had been 26 confirmed cases, two recoveries and no deaths, leaving 24 active cases going into April.<ref>{{Cite web|url=https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200401-sitrep-72-covid-19.pdf?sfvrsn=3dd8971b_2|title=Coronavirus disease (COVID-19) situation report 72|website=World Health Organization|page=8|date=1 April 2020|access-date=25 July 2020}}</ref>
+
+===April 2020===
+On 1 April, three more cases were reported. The first one is a 33-year-old female Ethiopian with a travel history to Djibouti, Brazil, India, and Congo Brazzaville. The second case is of a 26-year-old male Ethiopian with no travel history. The third case is of a 32-year-old male Ethiopian who had contact with a person with a confirmed case and was under isolation.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1245260642384252928 |date= 1 April 2020 |title=Ethiopia #COVID19 Status update }}</ref>
+
+On 2 April, one patient was reported to have fully recovered.<ref>{{cite tweet |user=FMoHealth|author=MoH ETHIOPIA|number=1245665847848374272|date= 2 April 2020 |title=Ethiopia #COVID19 Status update }}</ref>
+
+On 3 April, six more cases of the virus were reported. Five of the cases were from Addis Ababa and two of them had travel histories to Dubai on different dates. The sixth case is a 33-year-old female Ethiopian from Dire Dawa who said to have had contact with the person who tested positive on 31 March.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1246009436554121218|date= 3 April 2020 |title=Ethiopia #COVID19 Status update }}</ref>
+
+On 4 April, three additional cases of the virus were reported. All of the cases were from Addis Ababa. Two of the patients, 29-year-old and 34-year-old male Ethiopians, had travel histories to Dubai on different dates. The third case is of a 35-year-old female Ethiopian who had arrived from Sweden on 3 April.<ref>{{cite tweet |user=FMoHealth|author=MoH ETHIOPIA|number=1246385769771655169|date= 4 April 2020 |title=የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref> On the same date, one additional recovery was reported, increasing the total number of recoveries to 4.<ref>{{Cite web|url=https://www.fanabc.com/english/ethiopia-registers-3-new-covid19-cases|title=Ethiopia registers 3 new COVID19 cases|website=fanabc.com|access-date=4 April 2020}}</ref>
+
+On 5 April, five more positive cases of the virus were reported. Three of them are Ethiopians. The other two are Libyan and Eritrean nationals.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1246739633532276737|date= 5 April 2020 |title=የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref><ref>{{Cite web|url=https://ethiopianmonitor.com/2020/04/05/eritrean-libyan-among-5-covid-19-confirmed-cases-in-ethiopia-today|title=Eritrean, Libyan among Five COVID-19 Confirmed Cases in Ethiopia today|website=ethiopianmonitor.com|access-date=5 April 2020}}</ref> On the same date, the first deaths of patients from the coronavirus were reported. The first patient was a 60-year-old female Ethiopian with a travel history to France who tested positive for the virus on 31 March 2020.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1246780656652255232|date= 5 April 2020 |title=It is my deepest regret to announce the first death of a patient from #COVID19 in Ethiopia. The patient who was in critical condition after being admitted to Eka Kotebe hospital was in ICU care and strict medical follow up. My sincere condolences to the family and loved ones. }}</ref><ref>{{Cite web|url=https://ethiopianmonitor.com/2020/04/05/ethiopia-reports-first-coronavirus-death|title=Ethiopia Reports First Coronavirus Death |website=ethiopianmonitor.com|access-date=5 April 2020}}</ref> The second patient was a 56-year-old male Ethiopian with no travel history who was confirmed to have the virus on 3 April 2020.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1246852184958013441|date= 5 April 2020 |title=It is with great sadness that I announce the second death of a patient from #COVID19 in Ethiopia. The patient was admitted on April 2nd and was under strict medical follow up in the Intensive Care Unit. My sincere condolences to the family and loved ones. }}</ref>
+
+On 6 April, one case of the virus was reported. The case is of a 65-year-old female Ethiopian resident of [[Dukem]] with no travel history.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1247096607675482112|date= 6 April 2020 |title=የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref>
+
+On 7 April, eight more cases of the virus were reported. One of the infected persons is an Eritrean national and the remaining are Ethiopians.<ref>{{Cite web|url=https://ethiopianmonitor.com/2020/04/07/number-of-confirmed-covid-19-cases-in-ethiopia-surpasses-50|title=Confirmed COVID-19 Cases Count in Ethiopia Surpasses 50|website=ethiopianmonitor.com|access-date=7 April 2020}}</ref> A 9-month-old baby is one of the cases, making it the youngest confirmed case so far.<ref>{{Cite web|url=https://www.fanabc.com/english/ethiopias-covid-19-cases-rise-to-52|title=Ethiopia's COVID 19 Cases Rise To 52|website=fanabc.com|access-date=7 April 2020}}</ref>
+
+On 8 April, three cases of the virus were reported. Two of them are 29-year-old male Ethiopians with travel histories to Dubai. The other case is of a 36-year-old male Ethiopian from Addis Kidam in the [[Amhara Region|Amhara region]] with no travel history.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1247835876840869889|date= 8 April 2020 |title=Report#25 የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref><ref>{{Cite web|url=https://ethiopianmonitor.com/2020/04/08/covid-19-ethiopia-confirms-3-new-cases-today|title=COVID-19: Ethiopia confirms 3 New Cases today|website=ethiopianmonitor.com|access-date=8 April 2020}}</ref>
+
+On 9 April, one case of the virus was reported. The case is of a 43-year-old Canadian with a travel history to Dubai and Canada.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1248195789530292224|date= 9 April 2020 |title=Report#26 የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref>
+
+On 10 April, nine more cases of the virus were reported. Seven of them are Ethiopians and the others are Eritrean and Indian nationals. All of them had travel histories.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1248548249365024768|date= 10 April 2020 |title=Report#27 የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref> On the same date, a death of one patient was reported. The patient was the 65-year-old woman from [[Dukem]] who tested positive for the virus on 6 April.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1248632094965841927|date= 10 April 2020 |title=Report #28 It is with great sadness that I announce that we have lost a third patient from #COVID19 in Ethiopia. The patient was under strict medical follow up in the Intensive Care Unit. My sincere condolences to the family & loved ones }}</ref>
+
+On 11 April, four cases of the virus were reported. All of them are Ethiopians and three of them had travel histories. On the same date, six more recoveries were reported.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1248921791235530753|date= 11 April 2020 |title=Report#29 የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref>
+
+On 12 April, two cases were reported. The first case is of a 24-year-old female Ethiopian who returned from Dubai before the mandatory quarantine rule was imposed on anyone entering the country. The second case is of a 35-year-old female Ethiopian who returned from Turkey and was under mandatory quarantine.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1249270481724768256|date= 12 April 2020 |title=Report#30 የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref>
+
+On 13 April, three cases were reported. All of them are Ethiopians and had no travel histories. On the same date, four more recoveries were reported.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1249632965287727104|date= 13 April 2020 |title=Report#31 የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref><ref>{{Cite web|url=https://www.fanabc.com/english/ethiopia-registers-three-more-covid-19-cases|title=Ethiopia Registers Three More COVID-19 Cases|website=fanabc.com|access-date=13 April 2020|date=13 April 2020}}</ref>
+
+On 14 April, eight more cases were reported.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1249998972707573762|date= 14 April 2020 |title=Report#32 የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref><ref>{{Cite web|url=https://www.fanabc.com/english/ethiopia-reports-8-new-covid-19-cases|title=Ethiopia Reports 8 New COVID-19 Cases|website=fanabc.com|access-date=14 April 2020|date=14 April 2020}}</ref>
+
+On 15 April, three cases were reported. All of them are Ethiopians. On the same date, one patient was reported to have fully recovered.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1250342681504387072|date= 15 April 2020 |title=Report#33 የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref>
+
+On 16 April, seven more cases reported. All of them are Ethiopians and one of them had no travel history abroad.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1250717575056670721|date= 16 April 2020 |title=Report#34 የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref>
+
+On 17 April, four cases were reported. All of them are Ethiopians. Two of them are from [[Addis Ababa]] and the other two are from the [[Amhara Region]].<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1251092539572203520|date= 17 April 2020 |title=Report#35 የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref>
+
+On 18 April, nine cases were reported.  Eight of them are Ethiopians and one is Equatoguinean. Of the Ethiopians, four are from [[Addis Ababa]], three are from [[Dire Dawa]] and one is from [[Jimma]]. Three had no travel history but had known contact with someone with the virus. One person was reported to have fully recovered, bringing the total of those who have recovered to 16.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1251444846432321539|date= 18 April 2020 |title=Report#36 የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref>
+
+On 19 April, three cases were reported. All of them are Ethiopians and live in [[Addis Ababa]].  One had no travel history and contact tracing is being conducted.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1251812227771969538|date= 19 April 2020 |title=Report#37 የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref>
+
+On 20 April, three cases were reported. All of them are Ethiopians and live in [[Dire Dawa]]. One had no travel history but had known contact with someone with the virus.<ref>{{cite tweet |user=lia_tadesse |author=Lia Tadesse |number=1252169145178783744|date= 20 April 2020 |title=Report#38 የኢትዮጵያ የኮሮና ቫይረስ ሁኔታ መግለጫ Status update on #COVID19Ethiopia }}</ref>
+
+On 27 April, one case and nine newly recovered reported. The patient has travel history from United Kingdom and was in mandatory quarantine.<ref>{{Cite web|url=https://tena.et/update?lang=en|title=Ethiopia has confirmed 1 new case and 9 newly recovered. – Tena.ET|last=|first=|date=|website=|url-status=live|archive-url=|archive-date=|access-date=}}</ref>
+
+By the end of the month there had been 105 new cases, bringing the total number of confirmed cases to 131. The death toll was 3. The number of recovered patients increased to 59, leaving 69 active cases.<ref>{{cite web |title=Coronavirus disease (COVID-19) situation report 102 |url=https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200501-covid-19-sitrep.pdf?sfvrsn=742f4a18_4 |publisher=World Health Organization |accessdate=25 July 2020 |page=6 |date=1 May 2020}}</ref>
+
+===May 2020===
+During May there were 1041 cases, bringing the total number of confirmed cases to 1172. The death toll rose to 11. The number of recovered patients increased to 209, leaving 952 active cases at the end of the month.<ref>{{cite web |title=Coronavirus disease (COVID-19) situation report 133 |url=https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200601-covid-19-sitrep-133.pdf?sfvrsn=9a56f2ac_4 |publisher=World Health Organization |accessdate=25 July 2020 |page=6 |date=1 June 2020}}</ref>
+
+===June 2020===
+In June, the government announced that it was postponing the [[2020 Ethiopian general election|2020 general election]] due to the pandemic.<ref>{{Cite web |last=Zelalem |first=Zecharias |title=Ethiopia's plan to delay its election for Covid will have unintended consequences for democracy |url=https://qz.com/africa/1870457/ethiopias-abiy-election-delay-infuriates-opposition-on-democracy/ |access-date=2020-06-18 |website=Quartz Africa |language=en}}</ref>
+
+On 11 June, the first confirmed case was reported in one of the four [[refugee camp]]s in the north of the country, holding about 100,000 [[Eritreans]] living in crowded conditions.<ref>{{Cite web |title=Ethiopia Races to Stave Off Coronavirus in Refugee Camps - Voice of America - English |url=https://www.voanews.com/covid-19-pandemic/ethiopia-races-stave-coronavirus-refugee-camps |access-date=2020-06-18 |website=www.voanews.com |language=en}}</ref>
+
+There were 4674 new cases in June, raising the total number of confirmed cases to 5846. The death toll rose to 103. The number of recovered patients increased to 2430, leaving 3313 active cases at the end of the month.<ref>{{cite web |title=Coronavirus disease (COVID-19) situation report 163 |url=https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200701-covid-19-sitrep-163.pdf?sfvrsn=c202f05b_2 |publisher=World Health Organization |accessdate=25 July 2020 |page=6 |date=1 July 2020}}</ref>
+
+===July 2020===
+On 18 July, the [[World Health Organization|WHO]] stated that Ethiopia was one of ten African countries accounting for 88 percent of all reported COVID-19 cases in the African Region.<ref>{{Cite web |title=Ethiopia, 9 African Countries Account for 88 Percent COVID-19 Cases in Continent |url=https://www.msn.com/en-xl/news/other/ethiopia-9-african-countries-account-for-88-percent-covid-19-cases-in-continent/ar-BB16Ui1F |access-date=2020-07-18 |website=www.msn.com}}</ref>
+
+During the month there were 11,684 new cases, raising the total number of confirmed cases to 17,530. The death toll rose to 274. The number of recovered patients increased by 4,520 to 6,950. There were 10,306 active cases at the end of the month.<ref>{{cite web|title=Coronavirus disease (COVID-19) situation report 194|url=https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200801-covid-19-sitrep-194.pdf?sfvrsn=401287f3_2|publisher=World Health Organization|accessdate=4 August 2020|page=4|date=1 August 2020}}</ref>
+
+===August 2020===
+There were 34,601 new cases in August, raising the total number of confirmed cases to 52,131. The death toll nearly tripled to 809. There were 32,328 active cases at the end of the month.<ref>{{cite web|title=Outbreak brief 33: COVID-19 pandemic – 1 September 2020|url=https://africacdc.org/download/outbreak-brief-33-covid-19-pandemic-1-september-2020/?ind=1598972030109&filename=DRAFT_AfricaCDC_COVIDBrief_1SEPT20_EN.pdf&wpdmdl=6077&refresh=5f65579a746291600477082|publisher=CDC Africa|accessdate=19 September 2020|page=3|date=1 September 2020}}</ref>
+
+===September 2020===
+There were 22,453 new cases in September, raising the total number of confirmed cases to 74,584. The death toll rose to 1,191. The number of recovered patients increased to 30,952, leaving 42,441 active cases at the end of the month.<ref>{{cite web |title=COVID-19 situation update for the WHO Africa region. External situation report 31 |url=https://apps.who.int/iris/bitstream/handle/10665/335766/SITREP_COVID-19_WHOAFRO_20200930-eng.pdf?sequence=1&isAllowed=y |publisher=World Health Organization |accessdate=5 October 2020 |page=4 |date=30 September 2020}}</ref>
+
+===October 2020===
+There were 21,585 new cases in October, bringing the total number of confirmed cases to 96,169. The death toll rose to 1,469. The number of recovered patients increased to 52,517, leaving 42,183 active cases at the end of the month.<ref>{{cite web |title=COVID-19 weekly epidemiological update |url=https://www.who.int/publications/m/item/weekly-epidemiological-update---3-november-2020 |publisher=World Health Organization |accessdate=8 November 2020 |page=13 |date=3 November 2020}}</ref>
+
+===November 2020===
+There were 13,905 new cases in November, bringing the total number of confirmed cases to 110,074. The death toll rose to 1,706. The number of recovered patients increased to 73,808, leaving 34,560 active cases at the end of the month.<ref>{{cite web |title=East & Horn of Africa Covid-19 situation report 34 |url=https://www.iom.int/sites/default/files/situation_reports/file/iom_regional_office_for_east_and_horn_of_africa_covid-19_situation_report_34.pdf |publisher=IOM |access-date=4 December 2020 |page=1 |date=2 December 2020}}</ref>
+
+==Reactions==
+On 16 March 2020, the office of the [[Prime Minister of Ethiopia|Prime Minister]] announced that schools, sporting events, and public gatherings shall be suspended for 15 days.<ref>{{Cite web|url=https://www.aa.com.tr/en/africa/covid-19-ethiopia-closes-schools-bans-public-events/1767683|title=COVID-19: Ethiopia closes schools, bans public events|website=aa.com.tr|access-date=16 March 2020}}</ref>
+
+On 20 March 2020, [[Ethiopian Airlines]] suspended flights to 30 countries affected with the coronavirus. On the same date it was announced that anyone entering the country should undergo a mandatory self-quarantine for 14 days. Night clubs in [[Addis Ababa]] are also to remain closed until further notice.<ref>{{Cite web|url=https://www.fanabc.com/english/ethiopia-suspends-flights-to-30-countries|title=Ethiopia Suspends Flights To 30 Countries|publisher=fanabc.com|access-date=20 March 2020}}</ref>
+
+On 23 March 2020, Ethiopia closed all land borders and deployed security forces to halt the movement of people along the borders.<ref>{{Cite web|url=https://www.bloomberg.com/news/articles/2020-03-23/ethiopia-closes-land-border-deploys-troops-to-combat-virus|title=Ethiopia Closes Land Border, Deploys Troops to Combat Virus |publisher=bloomberg.com|access-date=23 March 2020}}</ref>
+
+On 25 March 2020, 4,011 prisoners were granted pardon by the [[President of Ethiopia|Ethiopian President]] [[Sahle-Work Zewde]] in an effort to prevent the coronavirus spread. The pardon applies only to prisoners convicted of minor crimes who are serving sentences of up to three years and those who are about to be released.<ref>{{Cite web|url=https://edition.cnn.com/2020/03/26/africa/ethiopia-pardons-4000-prisoners-over-coronavirus/index.html|title=Ethiopia pardons more than 4,000 prisoners to help prevent coronavirus spread|website=cnn.com|access-date=27 March 2020}}</ref><ref>{{cite tweet |user=SahleWorkZewde |author=Sahle-Work Zewde |number=1242936296068141058 |date= 26 March 2020|title=In order to reduce prison overcrowding and prevent the spread of #COVID19, I have, in accordance with article 71/7 of our Constitution, granted pardon to 4011 prisoners convicted of minor crimes serving a sentence up to 3 years and those about to be released. }}</ref>
+
+On 29 March 2020, [[Ethiopian Airlines]] suspended flights to more than 80 countries.<ref>{{Cite web|url=https://www.fanabc.com/english/ethiopian-suspends-flights-to-80-international-destinations|title=Ethiopian Suspends Flights To 80 International Destinations|website=fanabc.com|access-date=30 March 2020}}</ref><ref>{{cite tweet |user=flyethiopian |author=Ethiopian Airlines |number=1244266257484038145 |date= 29 March 2020|title=Announcement from Ethiopian Airlines Group}}</ref>
+
+On 2 April 2020, the Federal Attorney General granted pardon for 1,559 prisoners.<ref>{{Cite news|url=https://www.fanabc.com/english/ethiopia-pardons-additional-1-559-inmates/|title=Ethiopia pardons additional 1, 559 inmates|website=fanabc.com|access-date=2 April 2020}}</ref>
+
+On 8 April 2020, the [[Council of Ministers (Ethiopia)|Council of Ministers]] declared a five-month long state of emergency in response to the growing number of coronavirus cases.<ref>{{Cite web|url=https://www.fanabc.com/english/ethiopia-declares-state-of-emergency-over-covid19|title=Ethiopia Declares State Of Emergency Over COVID19|website=fanabc.com|access-date=8 April 2020}}</ref><ref>{{Cite web|url=https://ethiopianmonitor.com/2020/04/08/ethiopia-declares-state-of-emergency-over-coronavirus|title=Ethiopia Declares State of Emergency over coronavirus|website=ethiopianmonitor.com|access-date=8 April 2020}}</ref> The state of emergency was approved on 10 April by the parliament.<ref>{{Cite web|url=https://www.fanabc.com/english/ethiopian-parliament-approves-state-of-emergency|title=Ethiopian Parliament Approves State Of Emergency|publisher=fanabc.com|access-date=10 April 2020|date=10 April 2020}}</ref>
+
+===Regional governments===
+After multiple cases of the virus were reported, several regions of the country took measures to prevent further spread of the virus. Travel restrictions and lock downs were imposed by [[Amhara Region|Amhara]], [[Oromia Region|Oromia]], [[Tigray Region|Tigray]], [[Southern Nations, Nationalities, and Peoples' Region]], [[Benishangul-Gumuz Region|Benishangul Gumuz]], [[Afar Region|Afar]], [[Somali Region|Somali]], [[Gambela Region|Gambela]] regions.<ref>{{Cite web|url=https://www.ezega.com/News/NewsDetails/7865/Ethiopian-Regional-States-Impose-Travel-Ban-to-Halt-Spread-of-COVID-19|title=Ethiopian Regional States Impose Travel Ban to Halt Spread of COVID-19|publisher=ezega.com|access-date=10 April 2020|date=30 March 2020}}</ref>
+
+====Amhara====
+On 25 March 2020, the Amhara regional government ordered civil servants that are at high risk to work from home.<ref>{{Cite web|url=https://www.fanabc.com/%e1%8b%a8%e1%8a%a0%e1%88%9b%e1%88%ab-%e1%8a%ad%e1%88%8d%e1%88%8d-%e1%88%88%e1%8a%ae%e1%88%ae%e1%8a%93-%e1%89%ab%e1%8b%ad%e1%88%a8%e1%88%b5-%e1%89%b0%e1%8c%8b%e1%88%8b%e1%8c%ad-%e1%8b%a8%e1%88%86/|title=የአማራ ክልል ለኮሮና ቫይረስ ተጋላጭ የሆኑ የመንግስት ሰራተኞች ቤታቸው ሆነው ስራቸውን እንዲያከናውኑ ውሳኔ አሳለፈ|website=fanabc.com|access-date=10 April 2020|date=25 March 2020|trans-title=The Amhara regional government ordered civil servants that are high-risk of COVID-19 to work from home
+}}</ref>
+
+On 29 March 2020, a ban on all incoming public transportation vehicles were ordered.<ref>{{Cite web|url=https://www.fanabc.com/%e1%8b%88%e1%8b%b0-%e1%8a%a0%e1%88%9b%e1%88%ab-%e1%8a%ad%e1%88%8d%e1%88%8d-%e1%8b%a8%e1%88%95%e1%8b%9d%e1%89%a5-%e1%88%9b%e1%88%98%e1%88%8b%e1%88%88%e1%88%bb-%e1%89%b0%e1%88%bd%e1%8a%a8%e1%88%ad|title=ወደ አማራ ክልል የሕዝብ ማመላለሻ ተሽከርካሪ እንዳይገባ እገዳ ተጣለ|website=fanabc.com|access-date=10 April 2020|date=31 March 2020|trans-title=Amhara Regional State bans on all incoming public transport vehicles}}</ref>
+
+On 30 March 2020, it was announced that anyone who returned from abroad in the previous three weeks should report to the local health offices.<ref>{{Cite web|url=https://www.fanabc.com/%e1%8b%a8%e1%8a%a0%e1%88%9b%e1%88%ab-%e1%8a%ad%e1%88%8d%e1%88%8d-%e1%89%a3%e1%88%88%e1%8d%89%e1%89%b5-%e1%88%b6%e1%88%b5%e1%89%b5-%e1%88%b3%e1%88%9d%e1%8a%95%e1%89%b3-%e1%8a%a8%e1%8b%8d%e1%8c%ad|title=የአማራ ክልል ባለፉት ሶስት ሳምንታ ከውጭ ሀገራት ወደ ክልሉ የተመለሱ ዜጎች በየአካባቢያቸው ለሚገኝ የመንግስት የጤና ተቋም ሪፖርት እንዲያደርጉ አሳሰበ|website=fanabc.com|access-date=10 April 2020|date=31 March 2020|trans-title=Amhara regional state orders that anyone who returned from abroad in the previous three weeks to report to the local health offices.}}</ref>
+
+On 31 March 2020, a 14-day total lockdown of [[Bahir Dar]] and three other towns was imposed.<ref>{{Cite web|url=https://www.fanabc.com/%e1%8b%a8%e1%8a%a0%e1%88%9b%e1%88%ab-%e1%8a%ad%e1%88%8d%e1%88%8d-%e1%89%a04-%e1%8a%a8%e1%89%b0%e1%88%9e%e1%89%bd-%e1%88%9b%e1%8a%95%e1%8a%9b%e1%8b%8d%e1%88%9d-%e1%8a%a0%e1%8b%ad%e1%8a%90%e1%89%b5|title=በአማራ ክልል ባህርዳርን ጨምሮ በ4 ከተሞች ማንኛውም አይነት የህዝብና የተሽከርካሪ እንቅስቃሴ እንዳይኖር ተወሰነ|website=fanabc.com|access-date=10 April 2020|date=31 March 2020|trans-title=Amhara regional state introduced total lockdown in 4 cities including Bahir Dar}}</ref>
+
+====Oromia====
+On 29 March 2020, city of [[Adama]] in [[Oromia]] ordered a complete ban on public transportation systems. The order came after two people tested positive for the virus in the city.<ref>{{Cite web|url=https://www.ezega.com/News/NewsDetails/7864/Adama-City-Freezes-Transportation-Services-over-COVID-19|title=Adama City Freezes Transportation Services over COVID-19|website=ezega.com|access-date=10 April 2020|date=30 March 2020}}</ref> The town of [[Asella]] and [[Metu, Ethiopia|Metu]] also took measures banning movement of all public transportation to and from the city.<ref>{{Facebook |Mettu-Town-Government-Communication-Affairs-Office-1524063014587333|name=Mettu Town Government Communication Affairs Office}}</ref>
+
+On 30 March 2020, a complete ban on cross-country and inter-city public transportation was imposed.<ref>{{Cite web|url=https://www.ezega.com/News/NewsDetails/7865/Ethiopian-Regional-States-Impose-Travel-Ban-to-Halt-Spread-of-COVID-19|title=Ethiopian Regional States Impose Travel Ban to Halt Spread of COVID-19|website=ezega.com|access-date=10 April 2020|date=30 March 2020}}</ref>
+
+On 7 April 2020, the [[Oromia Region|regional state]] released 13,231 prisoners.<ref>{{Facebook|fanabroadcasting/photos/a.332889983468414/2915894328501287/|FBC (Fana Broadcasting Corporate S.C.)}}</ref>
+
+====Tigray====
+On 26 March 2020, [[Tigray Region]] declared a 15-day region-wide state of emergency, banning all travel and public activities within the region to prevent the spread of the virus.<ref>{{Cite web|url=https://www.africanews.com/2020/03/26/ethiopia-s-coronavirus-rules-crowd-ban-free-transport-regulate-essentials-etc|title=Ethiopia's Tigray region declares coronavirus state of emergency|website=africanews.com|access-date=27 March 2020}}</ref>
+
+On 29 March 2020, closure of all cafes and restaurants were ordered. The measures taken also include banning landlords from evicting tenants or increasing rent. Any travelers entering the state are also required to report to the nearest health office.<ref>{{Cite web|url=https://addisfortune.news/news-alert/tigray-state-orders-cafes-restaurants-closure/|title=Tigray State Orders Cafes, Restaurants Closure|website=addisfortune.news|access-date=10 April 2020|date=29 March 2020}}</ref>
+
+On 6 April 2020, the regional state released 1,601 prisoners.<ref>{{Cite web|url=https://www.fanabc.com/%e1%89%a0%e1%89%b5%e1%8c%8d%e1%88%ab%e1%8b%ad-%e1%8a%ad%e1%88%8d%e1%88%8d-1%e1%88%ba%e1%88%85-601-%e1%8b%a8%e1%88%85%e1%8c%8d-%e1%89%b3%e1%88%ab%e1%88%9a%e1%8b%8e%e1%89%bd-%e1%89%a0%e1%8b%ad%e1%89%85/|title=በትግራይ ክልል 1ሺህ 601 የህግ ታራሚዎች በይቅርታ መለቀቃቸው ተገለፀ|website=fanabc.com|access-date=10 April 2020|date=7 April 2020|trans-title=1,601 prisoners were reported to have been pardoned in Tigray Region}}</ref>
+
+==Impact==
+===Economic===
+The [[United Nations Economic Commission for Africa]] estimated that COVID-19 will shave 2.9 percentage points off of Ethiopia's economic growth for fiscal year 2020.<ref>{{cite web|url=https://www.unicef.org/ethiopia/media/2741/file/Socio-economic%20impacts%20of%20COVID-19.pdf|title=Socio-economic impacts of COVID-19|publisher=UNICEF Ethiopia|page=1|access-date=9 April 2020}}</ref>
+
+The pandemic has affected Ethiopia's flower export industry significantly. After [[COVID-19 pandemic in Europe|Europe]] was hit with the coronavirus, the demand for flowers has plummeted and the price dropped by more than 80%. A total of 150,000 employees in this industry are also at the risk of losing their jobs.<ref>{{Cite web|url=https://allafrica.com/stories/202003240613.html|title=Ethiopia: Covid-19 Outbreak Puts Flower Exports in Danger|website=allafrica.com|access-date=31 March 2020}}</ref><ref>{{Cite web|url=https://www.capitalethiopia.com/news-news/flower-export-plummets-to-zero|title=Flower export plummets to zero|website=capitalethiopia.com|access-date=31 March 2020}}</ref>
+
+[[Ethiopian Airlines]], the country's flag carrier, reported that it is working at only 10% of its capacity because of the coronavirus pandemic. The CEO, Tewolde Gebremariam, reported a loss of $550 million in the months of January to April 2020.<ref>{{Cite web|url=https://www.reuters.com/article/health-coronavirus-ethiopian-airlines/ethiopian-airlines-has-lost-550-million-this-year-due-to-coronavirus-ceo-idUSL8N2BV655|title=Ethiopian airlines has lost $550 million this year due to coronavirus -CEO|website=reuters.com|access-date=8 April 2020}}</ref>
+
+===Educational===
+More than 26 million students are affected by school closures due to the coronavirus. Consequently, school feeding programmes for around 1 million children across multiple regions of the country have stopped.<ref>{{cite web|url=https://www.unicef.org/ethiopia/media/2741/file/Socio-economic%20impacts%20of%20COVID-19.pdf|title=Socio-economic impacts of COVID-19|publisher=UNICEF Ethiopia|pages=3–4|access-date=9 April 2020}}</ref>
+
+===Political===
+The [[2020 Ethiopian general election|general elections]] which were set to be held on 29 August 2020 won't be held on the scheduled date, according to a statement by the National Electoral Board of Ethiopia released on 31 March. The board also stated that it has temporarily ceased all activities related to the election.<ref>{{Cite web|url=https://www.fanabc.com/english/nebe-says-impossible-to-hold-election-as-per-scheduled-due-to-covid-19/|title=NEBE Says Impossible To Hold Election As Per Scheduled Due To COVID-19|website=fanabc.com|access-date=31 March 2020|archive-url=https://web.archive.org/web/20200522035630/https://www.fanabc.com/english/nebe-says-impossible-to-hold-election-as-per-scheduled-due-to-covid-19/|archive-date=22 May 2020|url-status=dead}}</ref>
+
+Some people have been [[Misinformation related to the 2019–20 coronavirus pandemic#Efforts to combat misinformation|arrested]] for allegedly spreading [[false information]] about the COVID-19 pandemic.<ref>{{cite news |title=Ethiopian journalist Yayesew Shimelis detained following COVID-19 report |url=https://cpj.org/2020/04/ethiopian-journalist-yayesew-shimelis-detained-fol.php |work=Committee to Protect Journalists |date=1 April 2020}}</ref><ref>{{cite news |title=Ethiopia: Free Speech at Risk Amid Covid-19 |url=https://www.hrw.org/news/2020/05/06/ethiopia-free-speech-risk-amid-covid-19 |work=Human Rights Watch |date=6 May 2020}}</ref>
+
+==Statistics==
+===Total confirmed cases===
+
+{{Graph:Chart
+|type=line
+|linewidth=1
+|showSymbols=1
+|width=700
+|showValues=
+|xAxisTitle=Date
+|xAxisAngle=-40
+|xType=date
+|x=13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun
+|yAxisTitle=No. of cases
+|legend=Legend
+|y1= 1, 1, 4, 5, 6, 6, 9, 11, 11, 11, 11, 12, 12, 12, 15, 15, 20, 22, 26, 29, 29, 35, 38, 43, 44, 52, 55, 56, 65, 69, 71, 74, 82, 85, 92, 96, 105, 108, 111, 114, 116, 116, 117, 122, 123, 124, 126, 130, 131, 133, 133, 135, 140, 145, 162, 191, 194, 210, 241, 250, 261, 263, 272, 287, 306, 317, 352, 365, 389, 398, 433, 494, 582, 655, 701, 731, 831, 968, 1063, 1172, 1257, 1344, 1486, 1636, 1805, 1934, 2020
+|y1Title=Total No. of cases
+
+|yGrid= |xGrid=
+}}
+
+===Total confirmed cases by region===
+{{Graph:Chart
+|type=line
+|linewidth=1
+|showSymbols=1
+|width=700
+|showValues=
+|xAxisTitle=Date
+|xAxisAngle=-40
+|xType=date
+|x=13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar,22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May
+|yAxisTitle=No. of cases
+|legend=Legend
+|y1= 1, 1, 4, 5, 6, 6, 9, 11, 11, 11, 11, 12, 12, 12, 14, 14, 17, 17, 20, 23, 23, 28, 31, 36, 36, 44, 46, 47, 56, 60, 62, 65, 73, 76, 83, 85, 90, 93, 93, 95, 96, 96, 97, 98, 98, 99, 101, 101, 101, 101, 101, 101, 102, 104, 108, 129, 132, 145, 166, 171, 171, 171, 176, 184, 186, 190, 219, 228, 237,  240, 258, 306, 379, 435, 448, 463, 557, 666, 722, 821
+|y2= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6, 6, 6, 10, 10, 10, 10, 11, 11, 11, 11, 12, 12, 13, 13, 15, 15, 15, 16, 17, 17, 17, 17, 19, 19, 20, 21, 21, 21, 25, 27, 31, 31, 31, 32, 35, 43, 65, 70 
+|y3= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7, 7, 7, 8, 8, 8, 9, 9, 9, 10, 11, 12, 13, 13, 21, 23, 27, 28, 28, 30, 45, 53, 53, 70, 75, 75
+|y4= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 5, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 10, 10
+|y5= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 10, 10, 10, 10, 10, 10, 13, 21, 21, 21, 22, 22, 22, 22, 22, 22, 24, 27, 30, 30, 30, 30, 30, 30, 31, 32, 32
+|y6= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 4, 4, 6, 6, 6, 9, 9, 15, 15, 15, 15, 22, 22, 23, 24, 28, 31, 42, 48, 52, 55, 55, 56, 56, 73, 73, 81, 92, 92, 94, 94, 97, 97
+|y7= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5
+|y8= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 6, 8, 9, 10, 10, 10, 10, 10, 10, 10, 11, 18, 19, 22, 22, 30, 34, 36, 37, 37, 40, 42
+|y9= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 4
+|y10= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 4, 4, 4, 7, 10
+|y11= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 4, 7, 11, 12, 12, 12, 12, 12
+
+|y1Title=Addis Ababa
+|y2Title=Oromia
+|y3Title=Amhara
+|y4Title=Dire Dawa
+|y5Title=Afar
+|y6Title=Somali
+|y7Title=SNNPR
+|y8Title=Tigray
+|y9Title=Benishangul-Gumuz
+|y10Title=Harari
+|y11Title=Unspecified
+
+|yGrid= |xGrid=
+}}
+
+===Total confirmed cases by gender and age===
+{{col-begin}}
+{{Graph:Chart
+|type = stackedrect
+|linewidth=1
+|showSymbols=1
+|colors=#0060AB,#F78BA0
+|width=700
+|height=350
+|xAxisTitle=Age
+|xAxisAngle=-40
+|x=0–9, 10–19, 20–29, 30–39, 40–49, 50–59, 60–69, 70–79, 80–89, 90-
+|yAxisTitle=No. of cases
+|legend=Legend
+|y1=1, 12, 34, 32, 18, 6, 4, 4, 0, 0
+|y1Title=Men
+|y2=1, 6, 14, 11, 7, 3, 6, 2, 1, 0
+|y2Title=Women
+|yGrid= |xGrid=
+}}
+{{col-end}}
+
+== See also ==
+* [[COVID-19 pandemic in Africa]]
+* [[COVID-19 pandemic by country and territory]]
+*[[2020 in Ethiopia]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://ethiocovid19.info/ Ethiopian COVID-19 cases updates] - dashboard, graphs and summary
+* [https://tena.et/update Coronavirus update in Ethiopia] – Tena.et
+* [https://corona.arrangy.com Worldwide coronavirus map, confirmed cases]
+* [https://coronavirus-updates.live/country/ethiopia Coronavirus in Ethiopia] – daily updates
+* [https://coronavirusstatistics.cloud/coronavirus-et/ Covid-19 coronavirus statistics in Ethiopia]
+
+{{COVID-19 pandemic}}
+{{COVID-19 pandemic in Africa}}
+{{Ethiopia topics}}
+
+[[Category:COVID-19 pandemic in Ethiopia| ]]
+[[Category:COVID-19 pandemic by country|Ethiopia]]
+[[Category:COVID-19 pandemic in Africa|Ethiopia]]
+[[Category:Disease outbreaks in Ethiopia]]
+[[Category:2020 in Ethiopia|coronavirus pandemic]]

@@ -1,0 +1,684 @@
+{{short description|North Germanic language spoken in Sweden and Finland}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox language
+| name = Swedish
+| nativename = ''svenska''
+| pronunciation = {{IPA-sv|ˈsvɛ̂nːska|}}
+| states = [[Sweden]], [[Finland]], [[Estonia]]
+| region = 
+| ethnicity = [[Swedes]], [[Finns]]
+| speakers = {{sigfig|10|2}} million<br/>[[Second language|L2 speakers]]: 3.2 million
+| date = 2018
+| ref = <ref name=ethnologue>[https://www.ethnologue.com/language/swe Ethnologue 21st Edition], retrieved 21 February 2018</ref>
+| familycolor = Indo-European
+| fam2 = [[Germanic languages|Germanic]]
+| fam3 = [[North Germanic languages|North Germanic]]
+| fam4 = East Scandinavian
+| ancestor = [[Old Norse language|Old Norse]]
+| ancestor2 = [[Old East Norse]]
+| ancestor3 = [[Old Swedish]]
+| script = [[Latin script|Latin]] ([[Swedish alphabet]])<br/>[[Swedish Braille]]
+| nation = {{SWE|Sweden}}<br />{{FIN|Finland}}<br />{{flag|Åland Islands}}<br/>''{{EU|European Union}}''<br />''{{flag|Nordic Council}}''<!--Do not add Estonia here without first reading the talkpage.-->
+| agency = [[Swedish Language Council]] (in Sweden) <br />[[Swedish Academy]] (in Sweden)<br/>[[Institute for the Languages of Finland]] (in Finland)
+| iso1 = sv
+| iso2 = swe
+| iso3 = swe
+| lingua = 52-AAA-ck to -cw
+| map = Swedish_language_map.svg
+| mapcaption = Major Swedish-speaking areas
+| notice = IPA
+| sign = [[Swedish Sign Language]]<br>[[Tecknad svenska]] (falling out of use)
+| ancestor4 = [[Modern Swedish]]
+| glotto = swed1254
+| glottorefname = Swedish
+}}
+
+'''Swedish''' (Swedish: {{IPA-sv|ˈsvɛ̂nːska||Sv-svenska.ogg}}) is a [[North Germanic languages|North Germanic language]] spoken [[First language|natively]] by 10 million people, predominantly in [[Sweden]] (as the sole official language) and in parts of [[Finland]], where it has equal legal standing with [[Finnish language|Finnish]]. It is largely [[mutually intelligible]] with [[Norwegian language|Norwegian]] and [[Danish language|Danish]], although the degree of mutual intelligibility is largely dependent on the [[dialect]] and accent of the speaker. Written Norwegian and Danish are usually more easily understood by Swedish speakers than the spoken languages, due to the differences in [[Tone (linguistics)|tone]], accent and intonation. Swedish is a descendant of [[Old Norse]], the common language of the [[Germanic peoples]] living in Scandinavia during the [[Viking Era]]. It has more speakers than any other North Germanic language.
+
+[[Standard Swedish]], spoken by most [[Swedes]], is the [[national language]] that evolved from the Central Swedish dialects in the 19th century and was well established by the beginning of the 20th century. While distinct regional [[Variety (linguistics)|varieties]] and rural dialects still exist, the written language is uniform and [[Standard language|standardized]].
+
+The standard word order is, as in most [[Germanic languages]], [[V2 word order|V2]], which means that the [[finite verb]] (V) appears in the second position (2) of a declarative [[main clause]]. [[Swedish morphology]] is similar to English; that is, words have comparatively few [[inflections]]. Swedish has two [[grammatical gender|genders]]<ref>{{cite book |last1=Svanlund |first1=Jan |title=Språkriktighetsboken |date=2005 |publisher=Norstedts |location=Stockholm |isbn=978-91-1-304370-8 |page=73 |edition=2nd}}</ref> and is generally seen to have two [[grammatical cases]] – [[nominative]] and [[genitive]] (except for pronouns that, as in English, also are inflected in the [[Object (grammar)|object]] form) – although it is debated if the genitive in Swedish should be seen as a genitive case or just the nominative plus the so-called genitive ''s'', then seen as a [[clitic]]. Swedish has two [[grammatical number]]s – [[plural]] and [[Grammatical number|singular]]. [[Adjectives]] have discrete [[Comparison (grammar)|comparative and superlative]] forms and are also inflected according to gender, number and [[definiteness]]. The definiteness of nouns is marked primarily through [[suffixes]] (endings), complemented with separate definite and indefinite [[article (grammar)|articles]]. The [[prosody (linguistics)|prosody]] features both [[stress (linguistics)|stress]] and in most dialects tonal qualities. The language has a comparatively large [[vowel]] inventory. Swedish is also notable for the [[voiceless dorso-palatal velar fricative]], a highly variable consonant [[phoneme]].
+
+Swedish has also had historic use in [[Estonia]], although the current status of the [[Estonian Swedish]] speakers is almost extinct. Instead, it is used in the [[Swedish diaspora]], most notably in [[Oslo]], [[Norway]], with more than 50,000 resident Swedes.<ref>{{cite web|url=https://sverige-norge.se/var-tionde-oslobo-ar-nu-svensk/|title=Var tionde Oslobo är nu svensk|publisher=Sverige-Norge Personalförmedling|language=sv|accessdate=11 October 2018}}</ref>
+
+==Classification==
+Swedish is an [[Indo-European language]] belonging to the [[North Germanic languages|North Germanic]] branch of the [[Germanic languages]]. In the established classification, it belongs to the [[East Scandinavian languages]], together with [[Danish language|Danish]], separating it from the [[West Scandinavian languages]], consisting of [[Faroese language|Faroese]], [[Icelandic language|Icelandic]], and [[Norwegian language|Norwegian]]. However, more recent analyses divide the North Germanic languages into two groups: ''Insular Scandinavian'' (Faroese and Icelandic), and ''Continental Scandinavian'' (Danish, Norwegian, and Swedish), based on mutual intelligibility due to heavy influence of East Scandinavian (particularly Danish) on Norwegian during the last millennium and divergence from both Faroese and Icelandic.<ref name="crystal"/>
+
+By many general criteria of mutual intelligibility, the Continental Scandinavian languages could very well be considered [[dialect]]s of a common Scandinavian language. However, because of several hundred years of sometimes quite intense rivalry between [[Denmark]] and Sweden, including a long series of wars from the 16th to 18th centuries, and the [[nationalist]] ideas that emerged during the late 19th and early 20th centuries, the languages have separate [[Orthography|orthographies]], dictionaries, grammars, and regulatory bodies. Danish, Norwegian, and Swedish are thus from a linguistic perspective more accurately described as a [[dialect continuum]] of Scandinavian (North Germanic), and some of the dialects, such as those on the border between Norway and Sweden, especially parts of [[Bohuslän]], [[Dalsland]], western [[Värmland]], western [[Dalarna]], [[Härjedalen]], [[Jämtland]], and [[Scania]], could be described as intermediate dialects of the national standard languages.<ref name="crystal">{{Harvnb|Crystal|1999|loc=''Scandinavian''}}</ref>
+
+Swedish pronunciations also vary greatly from one region to another, a legacy of the vast geographic distances and historical isolation. Even so, the vocabulary is standardized to a level that make dialects within Sweden virtually fully mutually intelligible.
+
+==History==
+{{Main|History of Swedish}}
+
+===Old Norse===
+{{Main|Old Norse}}
+{{Old Norse language map}}
+In the 8th century, the common Germanic language of Scandinavia, [[Proto-Norse language|Proto-Norse]], evolved into Old Norse. This language underwent more changes that did not spread to all of Scandinavia, which resulted in the appearance of two similar dialects: ''Old West Norse'' (Norway, the Faroe Islands and Iceland) and ''Old East Norse'' (Denmark and Sweden). The dialects of Old East Norse spoken in Sweden are called ''[[Runic Swedish]]'', while the dialects of Denmark are referred to as ''Runic Danish''. The dialects are described as "runic" because the main body of text appears in the [[runic alphabet]]. Unlike Proto-Norse, which was written with the [[Elder Futhark]] alphabet, Old Norse was written with the [[Younger Futhark]] alphabet, which had only 16 letters. Because the number of runes was limited, some runes were used for a range of [[phoneme]]s, such as the rune for the vowel ''u'', which was also used for the vowels ''o'', ''ø'' and ''y'', and the rune for ''i'', also used for ''e''.<ref name=Edlund2010p26-31>Lars-Erik Edlund, "Språkhistorisk översikt" in {{harvnb|Dahl|Edlund|2010|pp=26–31}}</ref>
+
+From 1200 onwards, the dialects in Denmark began to diverge from those of Sweden. The innovations spread unevenly from Denmark which created a series of minor dialectal boundaries, or [[isogloss]]es, ranging from [[Zealand (Denmark)|Zealand]] in the south to [[Norrland]], [[Ostrobothnia (historical province)|Österbotten]] and northwestern [[Finland]] in the north.<ref name=Edlund2010p26-31/>
+
+An early change that separated Runic Danish from the other dialects of Old East Norse was the change of the [[diphthong]] ''æi'' to the [[monophthong]] ''é'', as in ''stæinn'' to ''sténn'' "stone". This is reflected in runic inscriptions where the older read ''stain'' and the later ''stin''. There was also a change of ''au'' as in ''dauðr'' into a long open ''ø'' as in ''døðr'' "dead". This change is shown in runic inscriptions as a change from ''tauþr'' into ''tuþr''. Moreover, the ''øy'' diphthong changed into a long, [[close vowel|close]] ''ø'', as in the Old Norse word for "island". By the end of the period, these innovations had affected most of the Runic Swedish-speaking area as well, with the exception of the dialects spoken north and east of [[Mälardalen]] where the diphthongs still exist in remote areas.<ref>{{Harvnb|Bergman|1984|pp=21–23}}</ref>
+
+===Old Swedish===
+[[File:Västgötalagen blad 21.jpg|thumb|right|The initial page of the first complete copy of ''[[Västgötalagen]]'', the [[code of law|law code]] of [[Västergötland]], from {{circa|1280}}. It is one of the earliest texts in Swedish written in the [[Latin script]].]]
+{{Main|Old Swedish}}
+Old Swedish (Swedish: ''fornsvenska'') is the term used for the [[medieval]] Swedish language. The start date is usually set to 1225 since this is the year that ''[[Västgötalagen]]'' ("the Västgöta Law") is believed to have been compiled for the first time.<ref>The oldest dated fragments are from 1250 and the oldest complete manuscript is from c. 1280</ref> It is among the most important documents of the period written in [[Latin script]] and the oldest Swedish [[code of law|law codes]]. Old Swedish is divided into ''äldre fornsvenska'' (1225–1375) and ''yngre fornsvenska'' (1375–1526), "older" and "younger" Old Swedish.<ref>Lars-Erik Edlund, "Språkhistorisk översikt" in {{harvnb|Dahl|Edlund|2010|pp=28–29}}</ref> Important outside influences during this time came with the firm establishment of the [[Roman Catholic Church|Christian church]] and various [[Monasticism|monastic]] orders, introducing many [[Greek language|Greek]] and [[Latin]] loanwords. With the rise of [[Hanseatic league|Hanseatic]] power in the late 13th and early 14th century, [[Middle Low German]] became very influential. The Hanseatic league provided Swedish commerce and administration with a large number of [[Low German]]-speaking immigrants. Many became quite influential members of Swedish medieval society, and brought terms from their native languages into the vocabulary. Besides a great number of loanwords for such areas as warfare, trade and administration, general grammatical suffixes and even conjunctions were imported. The League also brought a certain measure of influence from [[Danish language|Danish]] (at the time much more similar than today's language).<ref name=Edlund2010p29,31>Lars-Erik Edlund, "Språkhistorisk översikt" in {{harvnb|Dahl|Edlund|2010|pp=29, 31}}</ref>
+
+Early Old Swedish was markedly different from the modern language in that it had a more complex [[case (linguistics)|case]] structure and also retained the original Germanic three-[[gender (grammar)|gender]] system. [[Noun]]s, [[adjective]]s, [[pronoun]]s and certain [[Grammatical number|numerals]] were inflected in four cases; besides the extant [[Nominative case|nominative]], there were also the [[Genitive case|genitive]] (later [[possessive case|possessive]]), [[Dative case|dative]] and [[Accusative case|accusative]]. The gender system resembled that of modern [[German language|German]], having masculine, feminine and neuter genders. The masculine and feminine genders were later merged into a ''common gender'' with the [[Definiteness|definite suffix]] ''-en'' and the [[definite article]] ''den'', in contrast with the neuter gender equivalents ''-et'' and ''det''. The verb system was also more complex: it included [[subjunctive]] and [[Imperative mood|imperative]] [[mood (grammar)|moods]] and verbs were conjugated according to [[person (grammar)|person]] as well as [[number (grammar)|number]]. By the 16th century, the case and gender systems of the colloquial spoken language and the profane literature had been largely reduced to the two cases and two genders of modern Swedish.<ref>{{Harvnb|Pettersson|1996|pp=150–157}}</ref>
+
+A transitional change of the Latin script in the Nordic countries was to spell the letter combination "ae" as æ – and sometimes as a' – though it varied between persons and regions. The combination "ao" was similarly rendered a<sup>o</sup>, and "oe" became o<sup>e</sup>. These three were later to evolve into the separate letters [[ä]], [[å]] and [[ö]].<ref>{{Harvnb|Pettersson|1996|p=139}}</ref> The first time the new letters were used in print was in ''Aff dyäffwlsens frästilse'' ("By the Devil's temptation") published by [[Johan Gerson]] in 1495.<ref>Lars-Erik Edlund, "Språkhistorisk översikt" in {{harvnb|Dahl|Edlund|2010|p=29}}</ref>
+
+===Modern Swedish===
+{{Main|Modern Swedish}}
+[[File:Gustav Vasa Bible 1541.jpg|thumb|upright|Front page of [[Gustav Vasa]]'s Bible from 1541, using [[Fraktur (script)|Fraktur]]. The title translated to English reads: "The Bible / That is / The Holy Scripture / in Swedish. Printed in [[Uppsala]]. 1541".]]
+
+Modern Swedish (Swedish: ''nysvenska'') begins with the advent of the [[printing press]] and the European [[Protestant Reformation|Reformation]]. After assuming power, the new monarch [[Gustav Vasa]] ordered a Swedish translation of the [[Bible]]. The [[New Testament]] was published in 1526, followed by a full [[Bible translation]] in 1541, usually referred to as the ''[[Gustav Vasa Bible]]'', a translation deemed so successful and influential that, with revisions incorporated in successive editions, it remained the most common Bible translation until 1917. The main translators were [[Laurentius Andreæ]] and the brothers [[Laurentius Petri|Laurentius]] and [[Olaus Petri]].<ref>Lars-Erik Edlund, "Språkhistorisk översikt" in {{harvnb|Dahl|Edlund|2010|p=33}}</ref>
+
+The Vasa Bible is often considered to be a reasonable compromise between old and new; while not adhering to the colloquial spoken language of its day, it was not overly conservative in its use of archaic forms.<ref>{{Harvnb|Pettersson|1996|p=151}}</ref> It was a major step towards a more consistent [[Swedish orthography]]. It established the use of the vowels "å", "ä", and "ö", and the spelling "ck" in place of "kk", distinguishing it clearly from the Danish Bible, perhaps intentionally, given the ongoing rivalry between the countries. All three translators came from central Sweden which is generally seen as adding specific Central Swedish features to the new Bible.<ref>{{cite book |title=The Nordic Languages |url=https://books.google.com/books?id=Z17C7s3r_nwC&pg=PA1900 |year=2005 |publisher=Walter de Gruyter |isbn=978-3-11-019706-8 |page=1900}}</ref>
+
+Though it might seem as if the Bible translation set a very powerful precedent for orthographic standards, spelling actually became more inconsistent during the remainder of the century. It was not until the 17th century that spelling began to be discussed, around the time when the first grammars were written.<ref name="Grünbaum2012">{{cite web |author=Grünbaun, Katharina |url=http://www.sweden.se/upload/Sweden_se/otherlanguages/factsheets/SI/Svenska_spraket.pdf |title=Svenska språket |trans-title=The Swedish language |date=2012 |publisher=Svenska institutet |language=Swedish |url-status=dead |archive-url=https://web.archive.org/web/20121025181238/http://www.sweden.se/upload/Sweden_se/otherlanguages/factsheets/SI/Svenska_spraket.pdf |archive-date=25 October 2012}}</ref> [[Capitalization]] during this time was not standardized. It depended on the authors and their background. Those influenced by [[German language|German]] capitalized all nouns, while others capitalized more sparsely. It is also not always apparent which letters are capitalized owing to the Gothic or [[blackletter]] typeface which was used to print the Bible. This typeface was in use until the mid-18th century, when it was gradually replaced with a Latin typeface (often [[Antiqua (typeface class)|antiqua]]).<ref>{{cite book |last1=Bandle |first1=Oskar |last2=Elmevik |first2=Lennart |last3=Widmark |first3=Gun |title=The Nordic Languages |url=https://books.google.com/books?id=RqkBXIJkkuEC&pg=PA517 |year=2002 |publisher=Walter de Gruyter |isbn=978-3-11-014876-3 |page=517}}</ref>
+
+Some important changes in sound during the Modern Swedish period were the gradual assimilation of several different consonant clusters into the [[voiceless alveolar fricative|fricative]] {{IPA|[ʃ]}} and later into {{IPA|[ɧ]}}. There was also the gradual softening of {{IPA|[ɡ]}} and {{IPA|[k]}} into {{IPA|[j]}} and the [[voiceless alveolopalatal fricative|fricative]] {{IPA|[ɕ]}} before [[front vowel]]s. The [[voiced velar fricative|velar fricative]] {{IPA|[ɣ]}} was also transformed into the corresponding [[voiced velar plosive|plosive]] {{IPA|[ɡ]}}.<ref>{{Harvnb|Pettersson|1996|p=138}}</ref>
+
+[[File:August Strindberg.jpg|upright=0.8|thumb|[[August Strindberg]], one of the most influential writers in modern Swedish literature.]]
+
+===Contemporary Swedish===
+[[File:Dem-dom.jpg|thumb|right|A sign on the wall of a Swedish hotel, using both the recommended<ref>{{cite book |last1=Svanlund |first1=Jan (Ed.) |title=Språkriktighetsboken |date=2013 |publisher=Svenska språknämnden and Norstedts |isbn=978-91-1-304370-8 |pages=210–211 |edition=2}}</ref> ''dem'' and the colloquial ''dom'' for the word "them" on the same sign.]]
+The period that includes Swedish as it is spoken today is termed ''nusvenska'' (lit., "Now-Swedish") in linguistics, and started in the last decades of the 19th century. It saw a democratization of the language with a less formal written form that approached the spoken one. The growth of a public school system also led to the evolution of so-called ''boksvenska'' (literally, "book Swedish"), especially among the working classes, where spelling to some extent influenced pronunciation, particularly in official contexts. With the industrialization and urbanization of Sweden well under way by the last decades of the 19th century, a new breed of authors made their mark on [[Swedish literature]]. Many scholars, politicians and other public figures had a great influence on the emerging national language, among them prolific authors like the poet [[Gustaf Fröding]], Nobel laureate [[Selma Lagerlöf]], and radical writer and playwright [[August Strindberg]].<ref>{{Harvnb|Josephson|2005|loc=chapter 2}}</ref>
+
+It was during the 20th century that a common, standardized national language became available to all Swedes. The orthography finally stabilized and became almost completely uniform, with some minor deviations, by the time of the spelling reform of 1906.<ref>{{cite book |title=Sociolinguistics |url=https://books.google.com/books?id=MGl35Q3W5twC&pg=PA1751 |year=2006 |publisher=Walter de Gruyter |isbn=978-3-11-019987-1 |page=1751}}</ref> With the exception of plural forms of verbs and a slightly different syntax, particularly in the written language, the language was the same as the Swedish of today. The plural verb forms appeared decreasingly in formal writing into the 1950s, when their use was removed from all official recommendations.<ref>{{cite book|last1=Taavitsainen |first1=Irma |last2=Melchers |first2=Gunnel |last3=Pahta |first3=Päivi |title=Writing in Nonstandard English |url=https://books.google.com/books?id=5cQ9AAAAQBAJ&pg=PA302|year=2000 |publisher=John Benjamins Publishing |isbn=978-90-272-9903-1 |page=302}}</ref><ref>{{cite book|last1=Bandle|first1=Oskar |last2=Braunmuller|first2=Kurt |last3=Jahr|first3=Ernst Hakon|title=The Nordic Languages|url=https://books.google.com/books?id=6b7WwBC5tRAC&pg=PA1805|year=2005|publisher=Walter de Gruyter |isbn=978-3-11-017149-5|page=1805}}</ref>
+
+A very significant change in Swedish occurred in the late 1960s, with the so-called ''[[du-reformen]]'', "the you-reform". Previously, the proper way to address people of the same or higher social status had been by title and surname. The use of  ''herr'' ("Mr" or "Sir"), ''fru'' ("Mrs" or "Ma'am") or ''fröken'' ("Miss") was considered the only acceptable way to begin conversation with strangers of unknown occupation, academic title or military rank. The fact that the listener should preferably be referred to in the third person tended to further complicate spoken communication between members of society. In the early 20th century, an unsuccessful attempt was made to replace the insistence on titles with ''ni''—the standard [[Grammatical person|second person plural]] pronoun)—analogous to the [[French language|French]] ''vous''. (Cf. [[T-V distinction]].) ''Ni'' wound up being used as a slightly less familiar form of ''du'', the singular second person pronoun, used to address people of lower social status. With the liberalization and radicalization of Swedish society in the 1950s and 1960s, these class distinctions became less important, and ''du'' became the standard, even in formal and official contexts. Though the reform was not an act of any centralized political decree, but rather the result of sweeping change in social attitudes, it was completed in just a few years, from the late 1960s to early 1970s.<ref>Nationalencyklopedin, ''du-tilltal'' and ''ni-tilltal''</ref> The use of ''ni'' as a polite form of address is sometimes encountered today in both the written and spoken language, particularly among older speakers.<ref>{{cite book|last1=Holmes|first1=Philip|last2=Hinchliffe|first2=Ian|title=Swedish: An Essential Grammar|url=https://books.google.com/books?id=XGasMbSR-8gC&pg=PA86|year=2008|publisher=Psychology Press|isbn=978-0-415-45800-9|page=86}}</ref>
+
+==Geographic distribution==
+Swedish is the sole official national language of [[Sweden]], and one of two in [[Finland]] (alongside [[Finnish language|Finnish]]). As of 2006, it was the first or sole native language of 7.5 to 8 million Swedish residents.{{sfn|Parkvall|2009|p=24}} In 2007 around 5.5% (c. 290,000) of the population of [[Finland]] were native speakers of Swedish,<ref name="StatsFinland">[http://www.stat.fi/tup/suoluk/suoluk_vaesto_en.html#structure Population structure]. [[Statistics Finland]] (29 March 2007). Retrieved on 2007-11-27.</ref> partially due to a decline following the Russian annexation of Finland after the [[Finnish War]] 1808–1809.<ref>[http://finland.fi/public/default.aspx?contentid=160058&contentlan=2&culture=en-US Main outlines of Finnish History – thisisFINLAND].</ref> The [[Finland Swedish]] minority is concentrated in the coastal areas and [[archipelago]]s of southern and western Finland. In some of these areas, Swedish is the predominant language; in 19 [[municipality|municipalities]], 16 of which are located in [[Åland]], Swedish is the sole official language. Åland county is an autonomous region of Finland.<ref>{{citation|url=http://www.kommunerna.net/sv/kommuner/svensk-tvasprakiga/Sidor/default.aspx|title=Svensk- och tvåspråkiga kommuner|work=kommunerna.net|date=February 2007|accessdate=3 December 2007|language=Swedish}}</ref>
+
+According to a rough estimation, as of 2010 there were up to 300,000 Swedish-speakers living outside Sweden and Finland. The largest populations were in the United States (up to 100,000), the UK, Spain and Germany (c. 30,000 each) and a large proportion of the remaining 100,000 in the Scandinavian countries, France, Switzerland, Belgium, the Netherlands, Canada and Australia.<ref>Mikael Parkvall & Gunvor Flodell, "Sveriges språk ute i världen" in {{harvnb|Dahl|Edlund|2010|p=154}}</ref> Over 3 million people speak Swedish as a second language, with about 2,410,000 of those in Finland.<ref name=ethnologue/> According to a survey by the [[European Commission]], 44% of respondents from Finland who did not have Swedish as a native language considered themselves to be proficient enough in Swedish to hold a conversation.<ref>''[http://ec.europa.eu/public_opinion/archives/ebs/ebs_386_en.pdf Europeans and their languages] {{webarchive|url=https://web.archive.org/web/20160106183351/http://ec.europa.eu/public_opinion/archives/ebs/ebs_386_en.pdf |date=6 January 2016 }}'', Special Eurobarometer 386, 2012.</ref> Due to the close relation between the Scandinavian languages, a considerable proportion of speakers of Danish and especially Norwegian are able to understand Swedish.<ref>{{citation|last=Gooskens|first=Charlotte|year=2007|url=http://www.let.rug.nl/gooskens/pdf/publ_JMMD_2007.pdf|title=The Contribution of Linguistic Factors to the Intelligibility of Closely Related Languages|journal=Journal of Multilingual and Multicultural Development|volume=28|issue=6|pages=445–467|doi=10.2167/jmmd511.0|citeseerx=10.1.1.414.7645}}</ref>
+
+There is considerable migration between the [[Nordic countries]], but owing to the similarity between the cultures and languages (with the exception of [[Finnish language|Finnish]]), expatriates generally [[Assimilation (sociology)|assimilate]] quickly and do not stand out as a group. According to the 2000 [[United States Census]], some 67,000 people over the age of five were reported as Swedish speakers, though without any information on the degree of language proficiency.<ref>[http://www.usefoundation.org/userdata/file/Research/Languages/swedish.pdf Swedish] {{webarchive|url=https://web.archive.org/web/20160304203311/http://www.usefoundation.org/userdata/file/Research/Languages/swedish.pdf |date=4 March 2016 }}. [http://www.usefoundation.org/view/29 Many Languages, One America] {{webarchive|url=https://web.archive.org/web/20090525112805/http://www.usefoundation.org/view/29 |date=25 May 2009 }}. U.S. English Foundation (2005). Retrieved on 2015-02-27.</ref> Similarly, there were 16,915 reported Swedish speakers in Canada from the 2001 census.<ref>{{citation|url=http://www12.statcan.ca/english/census06/data/highlights/index.cfm |title=2006 Census: Highlight tables |publisher=2.statcan.ca |accessdate=28 September 2008}}</ref> Although there are no certain numbers, some 40,000 Swedes are estimated to live in the [[London]] area in the [[United Kingdom]].<ref>{{citation|url=http://www.dn.se/nyheter/varlden/krisberedskap-pa-svenska-ambassaden-i-london |title=Krisberedskap på svenska ambassaden |publisher=[[Dagens Nyheter]] |date=22 July 2005 |accessdate=4 January 2012}}</ref> Outside Sweden and Finland, there are about 40,000 active learners enrolled in Swedish language courses.<ref>[http://www.studyinsweden.se/Learn-Swedish/University-courses-outside-Sweden/ Learn Swedish]. [http://www.studyinsweden.se/ Studyinsweden.se]. Retrieved on 2011-01-27.</ref>
+
+===Official status===
+[[File:Oikokatu.JPG|thumb|A [[Finnish language|Finnish]]/Swedish street sign in [[Helsinki]], [[Finland]] ]]
+Swedish is the official main language of Sweden.<ref>{{citation|url=http://www.sprakforsvaret.se/sf/fileadmin/PDF/spraklagen_200509.pdf|title=Språklagen|date=1 July 2009|work=Språkförsvaret|language=Swedish|accessdate=15 July 2009}}</ref><ref>{{citation|url=http://www.thelocal.se/20090701/20404/|title=Swedish becomes official 'main language'|last=Landes|first=David|date=1 July 2009|work=The Local|publisher=thelocal.se|accessdate=15 July 2009}}</ref> Swedish is also one of two official languages of Finland. In Sweden, it has long been used in local and state government, and most of the educational system, but remained only a ''de facto'' primary language with no official status in law until 2009. A bill was proposed in 2005 that would have made Swedish an official language, but failed to pass by the narrowest possible margin (145–147) due to a [[Pair (parliamentary convention)|pairing-off]] failure.<ref>{{citation|url=http://www.svt.se/nyheter/inrikes/svenskan-blir-inte-officiellt-sprak|title=Svenskan blir inte officiellt språk|work=[[Sveriges Television]]|date=7 December 2005|accessdate=23 June 2006|language=Swedish}}</ref> A proposal for a broader language law, designating Swedish as the main language of the country and bolstering the status of the minority languages, was submitted by an expert committee to the Swedish Ministry of Culture in March 2008. It was subsequently enacted by the [[Riksdag]], and entered into effect on 1 July 2009.<ref>{{citation|url=http://www.regeringen.se/sb/d/10016/a/100959|title=Värna språken – förslag till språklag|work=[[Government Offices of Sweden]]|date=18 March 2008|accessdate=19 June 2008|language=Swedish}}</ref>
+
+Swedish is the sole official language of [[Åland]] (an [[Autonomous entity|autonomous]] province under the [[sovereignty]] of [[Finland]]), where the vast majority of the 26,000 inhabitants speak Swedish as a first language. In Finland as a whole, Swedish is one of the two "national" languages, with the same official status as [[Finnish language|Finnish]] (spoken by the majority) at the state level and an official language in some [[municipalities of Finland|municipalities]].
+
+Swedish is one of the official languages of the [[European Union]], and one of the working languages of the [[Nordic Council]]. Under the [[Nordic Language Convention]], citizens of the [[Nordic countries]] speaking Swedish have the opportunity to use their native language when interacting with official bodies in other Nordic countries without being liable for interpretation or translation costs.<ref>{{citation|url=http://www.norden.org/avtal/sprak/sk/sprak_sprak.asp?lang=|title=Konvention mellan Sverige, Danmark, Finland, Island, och Norge om nordiska medborgares rätt att använda sitt eget språk i annat nordiskt land|work=[[Nordic Council]]|date=2 May 2007|accessdate=25 April 2007|language=Swedish|archiveurl=https://web.archive.org/web/20070418154217/http://www.norden.org/avtal/sprak/sk/sprak_sprak.asp?lang=|archivedate=18 April 2007}}</ref><ref>{{citation|url=http://www.norden.org/webb/news/news.asp?id=6777&lang=6|title=20th anniversary of the Nordic Language Convention|work=Nordic news|date=22 February 2007|accessdate=25 April 2007|language=Swedish}}</ref>
+
+===Regulatory bodies===
+[[File:Estonian archipelago (Saaremaa and Hiiumaa).jpg|thumb|right|Map of the [[West Estonian archipelago|Estonian islands]] which formerly housed "''Coastal Swede''" populations]]
+
+The [[Swedish Language Council]] (''Språkrådet'') is the regulator of Swedish in Sweden but does not attempt to enforce control of the language, as for instance the ''[[Académie française]]'' does for [[French language|French]]. However, many organizations and agencies require the use of the council's publication ''Svenska skrivregler'' in official contexts, with it otherwise being regarded as a ''de facto'' orthographic standard. Among the many organizations that make up the Swedish Language Council, the [[Swedish Academy]] (established 1786) is arguably the most influential. Its primary instruments are the glossary ''[[Svenska Akademiens ordlista]]'' (''SAOL'', currently in its 14th edition) and the dictionary ''[[Svenska Akademiens Ordbok]]'', in addition to various books on grammar, spelling and manuals of style. Although the dictionaries have a [[Linguistic prescription|prescriptive]] element, they mainly describe current usage.<ref>{{cite web |last1=Gellerstam |first1=Martin |title=Norm och bruk i SAOL|url=https://gupea.ub.gu.se/handle/2077/24007 |publisher=Nordisk forening for leksikografi i samarbeit med Nordisk språksekretariat |accessdate=2 March 2018 |language=Swedish |date=2002}}</ref>
+
+In Finland, a special branch of the [[Research Institute for the Languages of Finland]] has official status as the regulatory body for Swedish in Finland. Among its highest priorities is to maintain intelligibility with the language spoken in Sweden. It has published ''Finlandssvensk ordbok'', a dictionary about the differences between Swedish in Finland and Sweden.<ref>{{Cite journal|url = http://ojs.statsbiblioteket.dk/index.php/lexn/article/view/18709/16362|title = Normeringen i Finlandssvensk ordbok|last = af Hällström|first = Charlotta|date = 2002|journal = LexicoNordica 9, 2002, S. 51–62|volume = 0|issue = 9}}</ref>
+
+===Language minorities in Estonia and Ukraine===
+From the 13th to 20th century, there were [[Estonian Swedes|Swedish-speaking communities in Estonia]], particularly on the islands (e. g., [[Hiiumaa]], [[Vormsi]], [[Ruhnu]]; in Swedish, known as ''Dagö'', ''Ormsö'', ''Runö'', respectively) along the coast of the [[Baltic Sea|Baltic]], communities which today have all disappeared. The Swedish-speaking minority was represented in [[parliament]], and entitled to use their native language in parliamentary debates. After the loss of Estonia to the [[Russian Empire]] in the early 18th century, around 1,000 Estonian Swedish speakers were forced to march to southern [[Ukraine]], where they founded a village, ''[[Gammalsvenskby]]'' ("Old Swedish Village"). A few elderly people in the village still speak Swedish and observe the holidays of the Swedish calendar, although the dialect is most likely facing extinction.<ref>The number of registered Swedes in Zmeyovka (the modern Ukrainian name of ''Gammalsvenskby'') in 1994 was 116 according to [[Nationalencyklopedin]], article ''svenskbyborna''.</ref>
+
+From 1918 to 1940, when Estonia was independent, the small Swedish community was well treated. Municipalities with a Swedish majority, mainly found along the coast, used Swedish as the administrative language and Swedish-Estonian culture saw an upswing. However, most Swedish-speaking people fled to Sweden before the end of [[World War II]], that is, before the invasion of Estonia by the Soviet army in 1944. Only a handful of speakers remain.<ref>''Nationalencyklopedin'', ''estlandssvenskar''.</ref>
+
+==Phonology==
+{{Main|Swedish phonology}}
+
+[[File:Swedish monophthongs chart.svg|thumb|right|The vowel phonemes of Central Standard Swedish<ref>{{Harvnb|Engstrand|1999|p=140}}</ref>]]
+
+Swedish dialects have either 17 or 18 vowel [[phoneme]]s, 9 long and 9 short. As in the other Germanic languages, including English, most long vowels are phonetically paired with one of the short vowels, and the pairs are such that the two vowels are of similar [[vowel quality|quality]], but with the short vowel being slightly lower and slightly centralized. In contrast to e.g. Danish, which has only tense vowels, the short vowels are slightly more lax, but the tense vs. lax contrast is not nearly as pronounced as in English, German or Dutch. In many dialects, the short vowel sound pronounced {{IPA|[ɛ]}} or {{IPA|[æ]}} has merged with the short {{IPA|/e/}} (transcribed {{angbr IPA|ɛ}} in the chart below).<ref name=AndersonEngstrand>{{Harvnb|Andersson|2002|pp=271–312}}; {{Harvnb|Engstrand|1999}}</ref>
+
+There are 18 consonant phonemes, two of which, {{IPAslink|ɧ}} and {{IPA|/r/}}, vary considerably in pronunciation depending on the dialect and social status of the speaker. In many dialects, sequences of {{IPA|/r/}} (pronounced alveolarly) with a dental consonant result in [[retroflex consonant]]s; alveolarity of the pronunciation of {{IPA|/r/}} is a precondition for this retroflexion. {{IPA|/r/}} has a [[guttural R|guttural]] or "French R" pronunciation in the [[South Swedish dialects]]; consequently, these dialects lack [[retroflex consonant]]s.<ref>{{Harvnb|Garlén|1988|pp=73–74}}</ref>
+
+Swedish is a [[stress-timed]] language, where the time intervals between [[Stress (linguistics)|stressed syllables]] are equal. However, when casually spoken, it tends to be [[syllable-timed]].<ref>{{cite journal|url=https://flov.gu.se/forskning/konferenser/fonetikkonferenser/fonetik2005|title=Fonetik 2005|last1=Eriksson|first1=Anders|last2=Abelin|first2=Åsa|last3=Lindh|first3=Jonas|publisher=[[University of Gothenburg]]|date=May 2005|pp=34–36}}</ref> Any stressed syllable carries one of two [[tone (linguistics)|tones]], which gives Swedish much of its characteristic sound. [[Prosody (linguistics)|Prosody]] is often one of the most noticeable differences between dialects.<ref>{{Harvnb|Garlén|1988}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|- 
+! colspan="2"| 
+! [[Bilabial consonant|Bilabial]]
+! [[Labiodental consonant|Labio-<br/>dental]]
+! [[Dental consonant|Dental]]
+! [[Retroflex consonant|Retroflex]]<br/>/[[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[glottal consonant|Glottal]]
+|-
+!colspan=2| [[Nasal consonant|Nasal]]
+| {{IPA link|m}}
+| 
+| {{IPA link|n̪|n}}
+| 
+| 
+| {{IPA link|ŋ}}
+| 
+|-
+!rowspan=2| [[Stop consonant|Plosive]]
+! {{small|[[voicelessness|voiceless]]}}
+| {{IPA link|p}}
+| 
+| {{IPA link|t̪|t}}
+| 
+| 
+| {{IPA link|k}}
+| 
+|-
+! {{small|[[voice (phonetics)|voiced]]}}
+|rowspan=2| {{IPA link|b}}
+| 
+|rowspan=2| {{IPA link|d̪|d}}
+| 
+| 
+|rowspan=2| {{IPA link|ɡ}}
+| 
+|-
+!colspan=2| [[Approximant consonant|Approximant]]
+|rowspan=2| {{IPA link|v}}
+|rowspan=4| {{IPA|r}}
+|rowspan=2| {{IPA link|j}}
+|rowspan=3| {{IPA link|h}}
+|-
+!rowspan=2| [[Fricative consonant|Fricative]]
+! {{small|[[voice (phonetics)|voiced]]}}
+| 
+| 
+| 
+|-
+! {{small|[[voicelessness|voiceless]]}}
+| 
+| {{IPA link|f}}
+| {{IPA link|s̪|s}}
+| {{IPA link|ɕ}}
+| {{IPA link|ɧ}}
+|-
+!colspan=2| [[Trill consonant|Trill]]
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+!colspan=2| [[Lateral consonant|Lateral]]
+| 
+| 
+| {{IPA link|l̪|l}}
+| 
+| 
+| 
+| 
+|}
+
+==Grammar==
+{{Main|Swedish grammar}}
+Swedish [[noun]]s and [[adjective]]s are declined in [[grammatical gender|genders]] as well as [[grammatical number|number]]. Nouns are of [[common gender]] (''en'' form) or [[neuter gender]] (''ett'' form).<ref>{{Harvnb|Granberry|1991|pp=18–19}}</ref> The gender determines the declension of the [[adjective]]s. For example, the word ''fisk'' ("fish") is a noun of common gender (''en fisk'') and can have the following forms:
+
+{| class="wikitable"
+|-
+!
+! Singular
+! Plural
+|-
+! Indefinite form
+| ''fisk''
+| ''fiskar''
+|-
+! Definite form
+| ''fisken''
+| ''fiskarna''
+|}
+
+The definite singular form of a noun is created by adding a suffix (''-en'', ''-n'', ''-et'' or ''-t''), depending on its gender and if the noun ends in a vowel or not. The definite articles ''den'', ''det'', and ''de'' are used for variations to the definitiveness of a noun. They can double as [[demonstrative]] [[pronoun]]s or [[Determiner (class)|demonstrative determiners]] when used with [[adverb]]s such as ''här'' ("here") or ''där'' ("there") to form ''den/det här (can also be "denna/detta")'' ("this"), ''de här (can also be "dessa")'' ("these"), ''den/det där'' ("that"), and ''de där'' ("those"). For example, ''den där fisken'' means "that fish" and refers to a specific fish; ''den fisken'' is less definite and means "that fish" in a more abstract sense, such as that set of fish; while ''fisken'' means "the fish". In certain cases, the definite form indicates possession, e. g., ''jag måste tvätta hår'''et''''' ("I must wash ''my'' hair").<ref name="Haugen"/>
+
+[[Adjective]]s are inflected in two declensions – indefinite and definite – and they must match the noun they modify in gender and number. The indefinite neuter and plural forms of an adjective are usually created by adding a suffix (''-t'' or ''-a'') to the common form of the adjective, e. g., ''en grön stol'' (a green chair), ''ett grönt hus'' (a green house), and ''gröna stolar'' ("green chairs"). The definite form of an adjective is identical to the indefinite plural form, e. g., ''den gröna stolen'' ("the green chair"), ''det gröna huset'' ("the green house"), and ''de gröna stolarna'' ("the green chairs").<ref name="Haugen">{{Harvnb|Haugen|2009}}</ref>
+
+Swedish [[pronoun]]s are similar to those of English. Besides the two natural genders ''han'' and ''hon'' ("he" and "she"), there are also the two [[grammatical gender]]s ''den'' and ''det'', usually termed [[Gender in Danish and Swedish|common and neuter]]. In recent years, a [[gender-neutral]] pronoun ''hen'' has been introduced, particularly in literary Swedish. Unlike the nouns, pronouns have an additional [[object (linguistics)|object]] form, derived from the old [[dative]] form. ''Hon'', for example, has the following nominative, possessive, and object forms:<ref name="Haugen"/>
+
+:''hon'' – ''hennes'' – ''henne''
+
+Swedish also uses third-person possessive [[reflexive pronoun]]s that refer to the subject in a clause, a trait which is restricted to North Germanic languages:
+
+:''Anna gav Maria sin bok.''; "Anna gave Maria her [Anna's] book." (reflexive)
+:''Anna gav Maria hennes bok.''; "Anna gave Maria her [Maria's] book." (not reflexive)
+
+Swedish used to have a [[genitive]] that was placed at the end of the head of a noun phrase. In modern Swedish, it has become an [[enclitic]] ''-s'', which attaches to the end of the noun phrase, rather than the noun itself.<ref>{{Harvnb|Hultman|2003|pp=70, 212–213}}</ref>
+
+:''hästen''; "the horse" – ''hästens'' "the horse's"
+:''hästen på den blommande ängens svarta man''; "the horse in the flowering meadow's black mane"
+
+In formal written language, it used to be considered correct to place the genitive ''-s'' after the head of the noun phrase (''hästen''), though this is today considered dated, and different grammatical constructions are often used.<ref>{{Harvnb|Hultman|2003|p=213}}</ref>
+
+Verbs are [[Grammatical conjugation|conjugated]] according to [[grammatical tense|tense]]. One group of verbs (the ones ending in ''-er'' in present tense) has a special [[Imperative mood|imperative]] form (generally the verb [[word stem|stem]]), but with most verbs the imperative is identical to the [[infinitive]] form. [[perfect (grammar)|Perfect]] and [[present tense|present]] [[participle]]s as adjectival verbs are very common:<ref name="Haugen"/>
+
+:Perfect participle: ''en stekt fisk''; "a fried fish" (steka = to fry)
+:Present participle: ''en stinkande fisk''; "a stinking fish" (stinka = to stink)
+
+In contrast to English and many other languages, Swedish does not use the perfect participle to form the present perfect and past perfect. Rather, the [[auxiliary verb]] ''har'' ("have"), ''hade'' ("had") is followed by a special form, called the [[supine]], used solely for this purpose (although often identical to the neuter form of the perfect participle):<ref name="Haugen"/>
+
+:Perfect participle: ''målad'', "painted" – supine ''målat'', present perfect ''har målat''; "have painted"
+:Perfect participle: ''stekt'', "fried" – supine ''stekt'', present perfect ''har stekt''; "have fried"
+:Perfect participle: ''skriven'', "written" – supine ''skrivit'', present perfect ''har skrivit''; "have written"
+
+When building the compound passive voice using the verb ''att bli'', the past participle is used:
+
+:''den blir målad''; "it's being painted"
+:''den blev målad''; "it was painted"
+
+There exists also an inflected passive voice formed by adding ''-s'', replacing the final ''r'' in the present tense:
+
+:''den målas''; "it's being painted"
+:''den målades''; "it was painted"
+
+In a subordinate [[clause]], the auxiliary ''har'' is optional and often omitted, particularly in written Swedish.
+
+:''Jag ser att han (har) stekt fisken''; "I see that he has fried the fish"
+
+[[Subjunctive mood]] is occasionally used for some verbs, but its use is in sharp decline and few speakers perceive the handful of commonly used verbs (as for instance: ''vore, månne'') as separate conjugations, most of them remaining only as set of [[Idiom|idiomatic expressions]].<ref name="Haugen"/>
+
+Where other languages may use [[grammatical cases]], Swedish uses numerous [[preposition]]s, similar to those found in [[English language|English]]. As in modern [[German language|German]], prepositions formerly determined case in Swedish, but this feature can only be found in certain idiomatic expressions like ''till fots'' ("on foot", genitive).<ref>{{Harvnb|Hultman|2003|pp=182–183}}</ref>
+
+As Swedish is a Germanic language, the [[syntax]] shows similarities to both English and German. Like English, Swedish has a [[subject–verb–object]] basic word order, but like German it utilizes [[V2 word order|verb-second word order]] in main clauses, for instance after [[adverbs]] and adverbial phrases, and [[dependent clauses]]. (Adverbial phrases denoting time are usually placed at the beginning of a main clause that is at the head of a sentence.) [[Prepositional phrase]]s are placed in a [[place–manner–time]] order, as in English (but not German). Adjectives precede the noun they modify.<ref>{{Harvnb|Bolander|2002}}</ref> Verb-second (inverted) word order is also used for questions.<ref name="Stensson 2013">{{cite web|last1=Stensson|first1=Leif|title=Swedish Grammar {{!}} Syntax|url=https://www.lysator.liu.se/language/Languages/Swedish/Grammar.html#syntax|publisher=Lysator Society, Linköping University|accessdate=9 March 2018|date=August 2013}}</ref>
+
+==Vocabulary==
+The [[vocabulary]] of Swedish is mainly Germanic, either through common Germanic heritage or through loans from German, Middle Low German, and to some extent, English. Examples of Germanic words in Swedish are ''mus'' ("mouse"), ''kung'' ("king"), and ''gås'' ("goose"). A significant part of the religious and scientific vocabulary is of [[Latin]] or [[Greek language|Greek]] origin, often borrowed from [[French language|French]] and, lately, English. Some 1–200 words are also borrowed from [[Scandoromani language|Scandoromani]] or [[Romani language|Romani]], often as slang varieties; a commonly used word from Romani is ''[[:wikt:tjej|tjej]]'' ("girl").<ref>{{Harvnb|Wessén|1998}}</ref>
+
+A large number of [[French language|French]] words were imported into Sweden around the 18th century. These words have been [[transcription (linguistics)|transcribed]] to the Swedish spelling system and are therefore pronounced recognizably to a French-speaker. Most of them are distinguished by a "French accent", characterized by emphasis on the last syllable. For example, ''nivå'' (fr. ''niveau'', "level"), ''fåtölj'' (fr. ''fauteuil'', "armchair") and ''affär'' ("shop; affair"), etc. Cross-borrowing from other Germanic languages has also been common, at first from Middle Low German, the [[lingua franca]] of the [[Hanseatic League|Hanseatic league]] and later from [[Standard German]]. Some compounds are translations of the elements ([[calque]]s) of German original compounds into Swedish, like ''{{lang|sv|bomull}}'' from German ''{{lang|de|Baumwolle}}'' ("cotton"; literally, ''tree-wool'').<ref>Nationalencyklopedin, ''svenska: språkhistoria''</ref>
+
+As with many Germanic languages, new words can be formed by compounding, e. g., nouns like ''{{lang|sv|nagellackborttagningsmedel}}'' ("nail polish remover") or verbs like ''{{lang|sv|smyglyssna}}'' ("to eavesdrop").<ref name=CompoundNoun/><ref>{{cite web |title=Smyglyssna |url=http://ordbok.woxikon.se/sv-en/smyglyssna |website=Woxikon |accessdate=3 March 2018}}</ref> Compound nouns take their [[grammatical gender|gender]] from the [[head (linguistics)|head]], which in Swedish is always the last morpheme.<ref name=CompoundNoun>{{cite web |title=Minor Grammar English-Swedish |url=https://www.scribd.com/document/194349317/Minor-Grammar-English-Swedish |publisher=Scribd |accessdate=3 March 2018}}</ref> New words can also be coined by [[Morphological derivation|derivation]] from other established words, such as the [[verbification]] of [[noun]]s by the adding of the [[suffix#Derivational suffixes|suffix]] ''-a'', as in ''{{lang|sv|bil}}'' ("car") and ''{{lang|sv|bila}}'' ("travel (recreationally) by car").<ref>{{cite book |editor1-last=Gomer |editor1-first=Eva |editor2-last=Morris-Nygren |editor2-first=Mona |title=Bila |work=Modern Svensk Engelsk Ordbok |date=1976 |publisher=Prisma |page=57}}</ref> The opposite, making nouns of verbs, is also possible, as in ''{{lang|sv|tänk}}'' ("way of thinking; concept") from ''{{lang|sv|tänka}}'' ("to think").<ref>{{cite web|title=Språket lever {{!}} tänk|url=https://www.sprakinstitutet.fi/sv/aktuellt/spraket_lever/tank.20235.news|publisher=Institutet för de inhemska språken|accessdate=3 March 2018|language=Swedish|date=18 February 2016}}</ref>
+
+==Writing system==
+{{Main|Swedish orthography}}
+The [[Swedish alphabet]] is a 29-letter [[alphabet]], using the 26-letter [[ISO basic Latin alphabet]] plus the three additional letters ''[[Å|Å''/''å]]'', ''[[Ä|Ä''/''ä]]'', and ''[[Ö|Ö''/''ö]]'' constructed in the 16th century by writing "o" and "e" on top of an "a", and an "e" on top of an "o". Though these combinations are historically modified versions of [[A]] and [[O]] according to the English range of usage for the term [[diacritic]], these three characters are not considered to be diacritics within the Swedish application, but rather separate letters, and are independent letters following ''z''. Before the release of the 13th edition of ''[[Svenska Akademiens ordlista]]'' in April 2006, ''w'' was treated as merely a variant of ''v'' used only in names (such as "Wallenberg") and foreign words ("bowling"), and so was both sorted and pronounced as a ''v''. Other [[diacritic]]s (to use the broader English term usage referenced here) are unusual in Swedish; [[é]] is sometimes used to indicate that the stress falls on a terminal syllable containing ''e'', especially when the stress changes the meaning (''ide'' vs. ''idé'', "winter lair" vs. "idea") as well as in some names, like ''Kastrén''; occasionally other [[acute accent]]s and, less often, [[grave accent]]s can be seen in names and some foreign words. The letter [[à]] is used to refer to unit cost (a loan from the French), equivalent to the [[at sign]] (@) in English.<ref>{{Harvnb|Svenska språknämnden|2000}}</ref>
+
+The German ''[[ü]]'' is treated as a variant of ''[[y]]'' and sometimes retained in foreign names and words, e. g., ''müsli'' ("muesli/granola"). A proper [[Diaeresis (diacritic)|diaeresis]] may very exceptionally be seen in elaborated style (for instance: "Aïda"). The German convention of writing ''ä'' and ''ö'' as ''ae'' and ''oe'' if the characters are unavailable is an unusual convention for speakers of modern Swedish. Despite the availability of all these characters in the Swedish national [[top-level domain|top-level Internet domain]] and other such domains, Swedish sites are frequently labelled using ''a'' and ''o'', based on visual similarity, though Swedish domains could be registered using the characters å, ä, and ö from 2003.<ref>{{cite web|title=Domain names with characters like å, ä, ö (IDN)|url=https://www.iis.se/english/domains/se/idn/|publisher=iiS|accessdate=3 March 2018}}</ref>
+
+In Swedish [[orthography]], the [[Colon (punctuation)|colon]] is used in a [[Colon (punctuation)#Usage|similar manner as in English]], with some exceptions: the colon is used for some abbreviations, such as ''3:e'' for ''tredje'' ("third") and ''S:t'' for ''Sankt'' ("Saint"), and for all types of [[suffix|endings]] that can be added to numbers, letters and abbreviations, such as ''a:et'' ("the a") and ''CD:n'' ("the CD"), or the genitive form ''USA:s'' ("USA's").<ref>{{Harvnb|Svenska språknämnden|2000|pp=154–156}}</ref>
+
+==Dialects==
+[[File:R-pronounciation in Swedish language.JPG|thumb|[[Isogloss]] for the pronunciation of "R" (c. 1960), being [[Alveolar trill|alveolar]] north of the boundary and [[guttural R|uvular]] ("French R") south of it. It follows that the R+S combination is pronounced as spelled south of the boundary, while pronounced {{IPAblink|ʂ}} (similar to "sh" in "shark") north of it. This isogloss is the most imperative of all Swedish pronunciation differences.]]
+{{Main|Swedish dialects}}
+According to a traditional division of Swedish [[dialect]]s, there are six main groups of dialects:<ref>{{Harvnb|Leinonen|2011}};{{Harvnb|Dahl|2000|pp=117–119}}; Lars-Erik Edlund "Språklig variation i tid och rum" in {{harvnb|Dahl|Edlund|2010|p=9}}</ref><ref>{{cite web|title=Hur många dialekter finns det i Sverige? Var går gränsen mellan olika dialekter?|url=http://www.sprakochfolkminnen.se/sprak/dialekter/fragor-och-svar-om-dialekter/faq/2013-10-21-hur-manga-dialekter-finns-det-i-sverige-var-gar-gransen-mellan-olika-dialekter.html|publisher=Institutet för språk och folkminnen|accessdate=2 March 2018|date=3 February 2017 |language=Swedish}}</ref>
+* [[Norrland dialects]]
+* [[Finland Swedish]]
+* [[Svealand Swedish|Svealand dialects]]
+* [[Gutnish|Gotland dialects]]
+* [[Götamål dialect|Götaland dialects]]
+* [[South Swedish dialects]]
+
+The traditional definition of a Swedish [[dialect]] has been a local variant that has not been heavily influenced by the standard language and that can trace a separate development all the way back to [[Old Norse]]. Many of the genuine rural dialects, such as those of [[Orsa, Sweden|Orsa]] in [[Dalarna]] or [[Närpes]] in [[Ostrobothnia (region)|Österbotten]], have very distinct phonetic and grammatical features, such as plural forms of verbs or archaic [[case (linguistics)|case]] inflections. These dialects can be near-incomprehensible to a majority of Swedes, and most of their speakers are also fluent in Standard Swedish. The different dialects are often so localized that they are limited to individual [[parish]]es and are referred to by Swedish linguists as ''sockenmål'' (lit., "parish speech"). They are generally separated into six major groups, with common characteristics of prosody, grammar and vocabulary. One or several examples from each group are given here. Though each example is intended to be also representative of the nearby dialects, the actual number of dialects is several hundred if each individual community is considered separately.<ref>{{Harvnb|Engstrand|2004|p=120}}; {{Harvnb|Pettersson|1996|p=184}}</ref>
+
+This type of classification, however, is based on a somewhat romanticized [[nationalism|nationalist]] view of ethnicity and language. The idea that only rural variants of Swedish should be considered "genuine" is not generally accepted by modern scholars. No dialects, no matter how remote or obscure, remained unchanged or undisturbed by a minimum of influences from surrounding dialects or the standard language, especially not from the late 19th century onwards with the advent of [[mass media]] and advanced forms of transport. The differences are today more accurately described by a scale that runs from "standard language" to "rural dialect" where the speech even of the same person may vary from one extreme to the other depending on the situation. All Swedish dialects with the exception of the highly diverging forms of speech in [[Dalarna]], [[Norrbotten]] and, to some extent, [[Gotland]] can be considered to be part of a common, mutually intelligible [[dialect continuum]]. This continuum may also include [[Norwegian dialects|Norwegian]] and some [[Danish dialects]].<ref>{{Harvnb|Dahl|2000|pp=117–119}}</ref>
+
+The samples linked below have been taken from SweDia, a research project on Swedish modern dialects available for download (though with information in Swedish only), with many more samples from 100 different dialects with recordings from four different speakers: older female, older male, younger female and younger male. The dialect groups are those traditionally used by dialectologists.<ref>{{Harvnb|Pettersson|1996|p=184}}</ref>
+
+[[File:Map of Swedish dialects.png|thumb|upright=1.6|Map showing location of the various modern dialect samples]]
+# [[Överkalix]], [[Norrbotten]]; [http://swedia.ling.gu.se/Norrland/Norrbotten/Overkalix/yw.html younger female]
+# [[Burträsk]], [[Västerbotten]]; [http://swedia.ling.gu.se/Norrland/Vasterbotten/Burtrask/ow.html older female]
+# [[Aspås]], [[Jämtland]]; [http://swedia.ling.gu.se/Norrland/Jamtland/Aspas/yw.html younger female]
+# [[Färila]], [[Hälsingland]]; [http://swedia.ling.gu.se/Norrland/Halsingland/Farila/om.html older male]
+# [[Älvdalen]], [[Dalarna]]; [http://swedia.ling.gu.se/Svealand/Dalarna/Alvdalen/ow.html older female]; traditionally considered a dialect, but now often recognized as [[Elfdalian]], a separate language
+# [[Gräsö]], [[Uppland]]; [http://swedia.ling.gu.se/Svealand/Uppland/Graso/om.html older male]
+# [[Sorunda]], [[Södermanland]]; [http://swedia.ling.gu.se/Svealand/Sodermanland/Sorunda/ym.html younger male]
+# [[Köla]], [[Värmland]] [http://swedia.ling.gu.se/Svealand/Varmland/Kola/yw.html younger female]
+# [[Viby, Närke|Viby]], [[Närke]]; [http://swedia.ling.gu.se/Svealand/Narke/Viby/om.html older male]
+# [[Sproge]], [[Gotland]]; [http://swedia.ling.gu.se/Gotaland/Gotland/Sproge/yw.html younger female]
+# [[Närpes]], [[Ostrobothnia (region)|Ostrobothnia]]; [http://swedia.ling.gu.se/Finland/Osterbotten/Narpes/yw.html younger female]
+# [[Dragsfjärd]], [[Southwest Finland]]; [http://swedia.ling.gu.se/Finland/Aboland/Dragsfjard/om.html older male]
+# [[Borgå]], [[Eastern Uusimaa]]; [http://swedia.ling.gu.se/Finland/Nyland/Borga/ym.html younger male]
+# [[Orust]], [[Bohuslän]]; [http://swedia.ling.gu.se/Gotaland/Bohuslan/Orust/om.html older male]
+# [[Floby]], [[Västergötland]]; [http://swedia.ling.gu.se/Gotaland/Vastergotland/Floby/ow.html older female]
+# [[Rimforsa]], [[Östergötland]]; [http://swedia.ling.gu.se/Gotaland/Ostergotland/Rimforsa/ow.html older female]
+# [[Årstad, Falkenberg|Årstad]]-[[Heberg]], [[Halland]]; [http://swedia.ling.gu.se/Gotaland/Halland/Arstad/ym.html younger male]
+# [[Stenberga]], [[Småland]]; [http://swedia.ling.gu.se/Gotaland/Smaland/Stenberga/yw.html younger female]
+# [[Jämshög]], [[Blekinge]]; [http://swedia.ling.gu.se/Gotaland/Blekinge/Jamshog/ow.html older female]
+# [[Bara, Scania|Bara]], [[Skåne]]; [http://swedia.ling.gu.se/Gotaland/Skane/Bara/om.html older male]
+
+===Standard Swedish===
+[[Standard Swedish]] is the language used by virtually all Swedes and most [[Swedish-speaking population of Finland|Swedish-speaking Finns]]. It is called ''rikssvenska'' or ''standardsvenska'' ("Standard Swedish") in Sweden.<ref>{{cite web |title=standardspråk |url=https://www.ne.se/uppslagsverk/encyklopedi/l%C3%A5ng/standardspr%C3%A5k |publisher=Nationalencyklopedin AB |accessdate=3 March 2018 |language=Swedish}}</ref> In Finland, ''högsvenska'' ("High Swedish") is used for the Finnish variant of standard Swedish and ''rikssvenska'' refers to Swedish as spoken in Sweden in general.<ref>{{cite web|last1=Mattfolk|first1=Leila|title=Do answers to a questionnaire give reliable data?|url=http://www.nordiska.uu.se/ICLaVE2/Kristiansen_w/Mattfolkw.pdf|publisher=Helsinki University|access-date=3 March 2018|quote=Employees on radio and television do not always follow the same Swedish norm. What do you think about them using their own ordinary spoken language instead of standard Finland-Swedish (''högsvenska'') in the broadcasted programs?|url-status=dead|archive-url=https://web.archive.org/web/20041102231321/http://www.nordiska.uu.se/ICLaVE2/Kristiansen_w/Mattfolkw.pdf|archive-date=2 November 2004}}</ref>
+
+In a poll conducted in 2005 by the [[Swedish Retail Institute]] (''[http://www.hui.se/ Handelns Utredningsinstitut]''), the attitudes of Swedes to the use of certain dialects by salesmen revealed that 54% believed that ''rikssvenska'' was the variety they would prefer to hear when speaking with salesmen over the phone, even though dialects such as ''gotländska'' or ''[[Scanian dialect|skånska]]'' were provided as alternatives in the poll.<ref>{{citation|last=Aronsson |first=Cecilia |url=http://www.di.se/Nyheter/?page=/Avdelningar/Artikel.aspx%3FArticleID%3D2005%5C05%5C03%5C142710%26words%3Drikssvenska%26SectionID%3DEttan%26menusection%3DStartsidan%3BHuvudnyheter |title=Norrländska låter bäst |work=[[Dagens Industri]] |date=3 May 2005 |access-date=24 August 2007 |quote=Norrländska och rikssvenska är de mest förtroendeingivande dialekterna. Men gotländska och värmländska gör svenskarna misstänksamma, enligt en ny riksomfattande undersökning. Handelns utredningsinstitut (HUI) har frågat 800 svenskar om hur de uppfattar olika dialekter som de hör i telefonservicesamtal, exempelvis från försäljare eller upplysningscentraler. Undersökningen visar att 54 procent föredrar att motparten pratar rikssvenska, vilket troligen hänger ihop med dess tydlighet. Men även norrländskan plockar höga poäng – 25 procent tycker att det är den mest förtroendeingivande dialekten. Tilltron till norrländska är ännu större hos personer under 29 år, medan stödet för rikssvenska är störst bland personer över 55 år. |archive-url=https://web.archive.org/web/20071013152413/http://www.di.se/Nyheter/?page=%2FAvdelningar%2FArtikel.aspx%3FArticleID%3D2005%5C05%5C03%5C142710&words=rikssvenska&SectionID=Ettan&menusection=Startsidan%3BHuvudnyheter |archive-date=13 October 2007 |url-status=dead }}</ref>
+
+===Finland Swedish===
+{{Main|Finland Swedish|Åland Swedish}}
+Finland was a part of Sweden from the 13th century until the loss of the Finnish territories to [[Russia]] in 1809. Swedish was the sole administrative language until 1902 as well as the dominant language of culture and education until Finnish independence in 1917. The percentage of Swedish speakers in Finland has steadily decreased since then. The Swedish-speaking population is mainly concentrated in the coastal areas of [[Ostrobothnia (region)|Ostrobothnia]], [[Southwest Finland]] and [[Uusimaa|Nyland]] where the percentage of Finland Swedes partly is high, with Swedish being spoken by more than 90% of the population in several municipalities, and on Åland, where Swedish is spoken by a vast majority of the population and is the only official language. Swedish is an official language also in the rest of Finland, though, with the same official status as [[Finnish language|Finnish]].<ref>http://www.finlex.fi/sv/laki/ajantasa/1999/19990731 Finlands grundlag – Constituiton of Finland "17 §
+
+Rätt till eget språk och egen kultur
+
+Finlands nationalspråk är finska och svenska.
+
+Vars och ens rätt att hos domstol och andra myndigheter i egen sak använda sitt eget språk, antingen finska eller svenska, samt att få expeditioner på detta språk skall tryggas genom lag. Det allmänna skall tillgodose landets finskspråkiga och svenskspråkiga befolknings kulturella och samhälleliga behov enligt lika grunder."</ref> The country's public broadcaster, [[Yle]], provides two Swedish-language radio stations, [[Yle Vega]] and [[Yle X3M]], as well a TV channel, [[Yle Fem]].<ref>[https://svenska.yle.fi/ Svenska Yle, scroll to the bottom of the page]</ref>
+
+===Immigrant variants===
+[[Rinkeby Swedish]] (after [[Rinkeby]], a suburb of northern Stockholm with a large immigrant population) is a common name among linguists for varieties of Swedish spoken by young people of foreign heritage in certain suburbs and urban districts in the major cities of Stockholm, [[Gothenburg]] and [[Malmö]]. These varieties could alternatively be classified as [[sociolect]]s, because the immigrant dialects share common traits independent of their geographical spread or the native country of the speakers. However, some studies have found distinctive features and led to terms such as Rosengård Swedish (after [[Rosengård]] in Malmö), a variant of [[Scanian dialect|Scanian]].<ref>{{citation|url=http://person.sol.lu.se/PetraBoden/papers/Ey_mannen_wazzup.htm |title=Ey, mannen! Wazzup? / På jakt efter "rosengårdssvenskan" |last=Bodén |first=Petra |publisher=Institutionen för nordiska språk och Institutionen för lingvistik, [[Lunds universitet]] |url-status=dead |archive-url=https://web.archive.org/web/20080506132803/http://person.sol.lu.se/PetraBoden/papers/Ey_mannen_wazzup.htm |archive-date=6 May 2008 }}</ref> A survey made by the Swedish linguist [[Ulla-Britt Kotsinas]] showed that foreign learners had difficulties in guessing the origins of Rinkeby Swedish speakers in Stockholm. The greatest difficulty proved to be identifying the speech of a boy speaking Rinkeby Swedish whose parents were both Swedish; only 1.8% guessed his native language correctly.<ref>{{Harvnb|Kotsinas|1994|p=151}}</ref>
+
+New linguistic practices in multilingual urban contexts in fiction and hip-hop culture and rap lyrics have been introduced that goes beyond traditional socio-linguistic domains.<ref>https://www.academia.edu/13820691/Multilingual_urban_Scandinavia</ref> Källström (Chapter 12) and Knudsen (Chapter 13).
+
+==Sample==
+Excerpt from ''[[Barfotabarn]]'' (1933), by [[Nils Ferlin]] (1898–1961):{{sfn|Ferlin|1976}}
+{| border="0" style="width:100%; text-align:left;"
+|-
+!|Original
+!|Free translation
+|-
+|''Du har tappat ditt ord och din papperslapp'',
+|"You have lost your word and your paper note,
+|-
+|''du barfotabarn i livet.''
+|you barefooted child in life.
+|-
+|''Så sitter du åter på handlar'ns trapp''
+|So you sit on the porch of the grocer anew
+|-
+|''och gråter så övergivet.''
+|and cry so abandoned.
+|-
+|''Vad var det för ord – var det långt eller kort'',
+|What word was it – was it long or short,
+|-
+|''var det väl eller illa skrivet?''
+|was it well or poorly written?
+|-
+|''Tänk efter nu – förr'n vi föser dig bort'',
+|Think twice now – before we shove you away,
+|-
+|''du barfotabarn i livet.''
+|you barefooted child in life."
+|}
+
+==See also==
+* [[Languages of Sweden]]
+* [[Languages of Finland]]
+* [[Swedish as a foreign language]]
+* [[Swenglish]]
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+{{Refbegin}}
+* {{citation
+|last=Andersson
+|first=Erik
+|editor-last=König
+|editor-first=Ekkehard
+|editor2-last=van der Auwera
+|editor2-first=Johan
+|year=2002
+|chapter=Swedish
+|title=The Germanic Languages
+|series=Routledge language family descriptions
+|publisher=Routledge
+|isbn=978-0-415-28079-2
+|pages=271–312
+}}
+* {{Citation
+|last = Bergman
+|first = Gösta
+|year = 1984
+|title = Kortfattad svensk språkhistoria
+|edition = 4th
+|place = Stockholm
+|publisher = Prisma
+|series = Prisma Magnum
+|isbn = 978-91-518-1747-7
+|oclc = 13259382
+|language = Swedish
+}}
+* {{Citation
+|last = Bolander
+|first = Maria
+|year = 2002
+|title = Funktionell svensk grammatik
+|place = Stockholm
+|publisher = Liber
+|isbn = 978-91-47-05054-3
+|oclc = 67138445
+|language = Swedish
+}}
+* {{Citation
+|last = Crystal
+|first = David
+|author-link = David Crystal
+|year = 1999
+|edition = 2nd
+|title = The Penguin dictionary of language
+|place = London
+|publisher = [[Penguin Books]]
+|isbn = 978-0-14-051416-2
+|oclc = 59441560
+}}
+* {{Citation
+|last = Dahl
+|first = Östen
+|year = 2000
+|title = Språkets enhet och mångfald
+|place = Lund
+|publisher = [[Studentlitteratur]]
+|isbn = 978-91-44-01158-5
+|oclc = 61100963
+|language = Swedish
+}}
+* {{Citation
+| editor1-last = Dahl
+| editor1-first = Östen
+| editor2-last = Edlund
+| editor2-first = Lars-Erik
+|year = 2010
+|title = Sveriges nationalatlas. Språken i Sverige
+|place = Stockholm
+|publisher = Kungl. Vitterhets historie och antikvitets akademien 
+|isbn = 978-91-87-76057-0
+|language = Swedish
+}}
+* {{Citation
+|last = Elert
+|first = Claes-Christian
+|year = 2000
+|title = Allmän och svensk fonetik
+|edition = 8th
+|place = Stockholm
+|publisher = Norstedts Akademiska Förlag
+|isbn = 978-91-1-300939-1
+|language = Swedish
+}}
+* {{Citation
+|last = Engstrand
+|first = Olle
+|year = 1999
+|chapter = Swedish
+|title = Handbook of the International Phonetic Association: A Guide to the usage of the International Phonetic Alphabet.
+|place = Cambridge
+|publisher = Cambridge University Press
+|isbn = 978-0-521-63751-0
+|oclc = 40305532
+|pages = 140–142
+}}
+* {{Citation
+|last = Engstrand
+|first = Olle
+|year = 2004
+|title = Fonetikens grunder
+|place = Lund
+|publisher = Studentlitteratur
+|isbn = 978-91-44-04238-1
+|oclc = 66026795
+|language = Swedish
+}}
+* {{Citation
+|last = Ferlin
+|first = Nils
+|title = Barfotabarn
+|year = 1976
+|orig-year=1933
+|place = Stockholm
+|publisher = Bonnier
+|isbn = 978-91-0-024187-2
+|language = Swedish
+ }}
+* {{Citation
+|last = Garlén
+|first = Claes
+|year = 1988
+|title = Svenskans fonologi
+|place = Lund
+|publisher = Studentlitteratur
+|isbn = 978-91-44-28151-3
+|oclc = 67420810
+|language = Swedish
+}}
+* {{Citation
+|last = Granberry
+|first = Julian
+|year = 1991
+|title = Essential Swedish Grammar
+|place = New York
+|publisher = [[Dover Publications]]
+|isbn = 978-0-486-26953-5
+|oclc = 23692877
+}}
+* {{cite book
+|last=Haugen
+|first=Einar
+|year=2009
+|chapter=Danish, Norwegian and Swedish
+|title=The World's Major Languages
+|url=https://archive.org/details/worldsmajorlangu00comr_362
+|url-access=limited
+|editor=Bernard Comrie
+|pages=[https://archive.org/details/worldsmajorlangu00comr_362/page/n141 125]–144
+|location= New York
+|publisher=Routledge
+|isbn = 978-0-415-35339-7
+|ref=harv}}
+* {{Citation
+|last = Hultman
+|first = Tor G.
+|year = 2003
+|title = Svenska Akademiens språklära
+|place = Stockholm
+|publisher = Norstedts
+|isbn = 978-9172273511
+|oclc = 55849724
+|language = Swedish
+}}
+* {{Citation
+|last = Josephson
+|first = Olle
+|year = 2005
+|title = Ju: ifrågasatta självklarheter om svenskan, engelskan och alla andra språk i Sverige
+|edition = 2nd
+|place = Stockholm
+|publisher = Nordstedts ordbok
+|isbn = 978-91-7227-446-4
+|language = Swedish
+ }}
+* {{Citation
+|last = Kotsinas
+|first = Ulla-Britt
+|year = 1994
+|title = Ungdomsspråk
+|place = Uppsala
+|publisher = Hallgren & Fallgren
+|isbn = 978-91-7382-718-8
+|oclc = 60994967
+|language = Swedish
+}}
+* {{Citation
+|last = Leinonen
+|first = Therese
+|title = Aggregate analysis of vowel pronunciation in Swedish dialects
+|journal = Oslo Studies in Language
+|volume = 3
+|issue = 2
+|year = 2011
+|url = https://www.journals.uio.no/index.php/osla/article/view/101
+ }}
+* [[Nationalencyklopedin]], [http://www.ne.se/svenska online edition] {{in lang|sv}}
+* {{Citation
+|last = Parkvall
+|first = Mikael
+|title = Sveriges språk. Vem talar vad och var?
+|journal = RAPPLING 1. Rapporter Från Institutionen för Lingvistik Vid Stockholms Universitet.
+|year = 2009
+|url = http://www.språkförsvaret.se/sf/fileadmin/PDF/Parkvall_spraakstatistik.pdf
+|language = Swedish
+ }}
+* {{Citation
+|last = Pettersson
+|first = Gertrud
+|year = 1996
+|title = Svenska språket under sjuhundra år: en historia om svenskan och dess utforskande
+|place = Lund
+|publisher = Studentlitteratur
+|isbn = 978-91-44-48221-7
+|oclc = 36130929
+|language = Swedish
+}}
+* {{Citation
+|author = Svenska språknämnden
+|authorlink = Svenska språknämnden
+|title = Svenska skrivregler
+|edition = 2nd
+|year = 2000
+|publication-date = 2002
+|publisher = Liber
+|place = Stockholm
+|isbn = 978-91-47-04974-5
+|language = Swedish
+}}
+* {{Citation
+|last = Svensson
+|first = Lars
+|year = 1974
+|title = Nordisk paleografi: Handbok med transkriberade och kommenterade skriftprov
+|place = Lund
+|publisher = Studentlitteratur
+|isbn = 978-91-44-05391-2
+|oclc = 1303752
+|language = Swedish
+}}
+* {{Citation
+|last=Wessén
+|first=Elias
+|title=Våra ord: deras uttal och ursprung : kortfattad etymologisk ordbok
+|edition=2nd
+|year=1998
+|origyear=1973
+|publisher=Norstedts
+|location=Stockholm
+|language=sv
+|isbn=978-91-7227-053-4
+}}
+{{Refend}}
+
+==Further reading==
+* ''Swedish Essentials of Grammar'' Viberg, Åke; et al. (1991) Chicago: Passport Books. {{ISBN|0-8442-8539-0}}
+* ''Swedish: An Essential Grammar''. Holmes, Philip; Hinchliffe, Ian; (2000). London; New York: Routledge. {{ISBN|0-415-16048-0}}.
+* ''Swedish: A Comprehensive Grammar Second Edition''. Holmes, Philip; Hinchliffe, Ian; (2003). London; New York: Routledge. {{ISBN|0-415-27884-8}}.
+* ''Svenska utifrån. Schematic grammar-Swedish structures and everyday phrases'' Byrman, Gunilla; Holm, Britta; (1998) {{ISBN|91-520-0519-4}}.
+
+==External links==
+{{InterWiki|code=sv}}
+{{Wikibooks|Swedish}}
+{{Wiktionary category|Swedish language}}
+{{Wikivoyage|Swedish phrasebook|Swedish|a phrasebook}}
+{{NIE Poster|year=1905|Swedish Language and Literature|Swedish language}}
+* [http://en.wiktionary.org/wiki/Appendix:Swedish_Swadesh_list Swadesh list of Swedish basic vocabulary words] (from Wiktionary's [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists Swadesh-list appendix])
+* [http://lexin2.nada.kth.se/swe-eng.html Swedish-English]/[http://lexin2.nada.kth.se/sve-ara.html Swedish-Arabic]/[http://lexin2.nada.kth.se/sve-rys.html Swedish-Russian]/[http://lexin2.nada.kth.se/sve-spa.html Swedish-Spanish] Dictionaries from [http://lexin2.nada.kth.se/ Språkrådet – Institute for Language and Folklore]
+* [http://folkets-lexikon.csc.kth.se/folkets/folkets.en.html People's dictionary]
+* [https://www.saob.se Online version] of ''[[Svenska Akademiens ordbok]]'' (Swedish)
+
+{{Swedish language|state=expanded}}
+{{Languages of Sweden}}
+{{Languages of Finland}}
+{{Germanic languages}}
+
+{{Authority control}}
+
+[[Category:Swedish language| ]]
+[[Category:Languages of Finland]]
+[[Category:Languages of Estonia]]
+[[Category:Languages of Sweden]]
+[[Category:East Scandinavian languages]]
+[[Category:North Germanic languages]]
+[[Category:Scandinavian culture]]
+[[Category:Stress-timed languages]]
+[[Category:Subject–verb–object languages]]
+[[Category:Tonal languages in non-tonal families]]
+[[Category:Verb-second languages]]

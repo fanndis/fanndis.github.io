@@ -1,0 +1,59 @@
+{{short description|Online multimedia archive of the Supreme Court of the US}}
+{{Infobox website
+|url              = {{url|https://www.oyez.org|Oyez.org}}
+|name             = Oyez.org
+|logo             = 
+|screenshot       = <!-- Deleted image removed: [[Image:Oyez.JPG|250px]] -->
+|caption          = Oyez.org homepage
+|commercial       = No
+|type             = [[database]]
+|registration     = None
+|current_status   = active
+|language         = [[English language|English]]
+|owner            = [[Legal Information Institute]] at [[Cornell Law School]], [[Justia]], [[Chicago-Kent College of Law]]
+|author           = Jerry Goldman
+}}
+The '''Oyez Project''' at the [[Illinois Institute of Technology]]'s [[Chicago-Kent College of Law]] is an unofficial online multimedia archive of the [[Supreme Court of the United States]], especially audio of oral arguments. The website "aims to be a complete and authoritative source for all audio recorded in the Court since <nowiki>[...]</nowiki> October 1955." <ref name="About Oyez">[https://www.oyez.org/about/ About Oyez] {{Webarchive|url=https://web.archive.org/web/20200929184407/https://www.oyez.org/about |date=2020-09-29 }} Oyez.org</ref> The website also includes [[biography|biographical information]] of both incumbent and historical [[justices]] of the Court and advocates who have argued before the court. The website was founded by Jerry Goldman, a research professor of law at the [[Chicago-Kent College of Law]] at [[Illinois Institute of Technology]].
+
+==Government and private support==
+
+According to the website, the Oyez Project received technological support from [[National Science Foundation]] and grants from [[National Endowment for the Humanities]]. The project is also supported by various academic institutions such as [[Weinberg College of Arts and Sciences]], the legal [[web portal]] [[FindLaw]], and the law firm [[Mayer Brown]], among others.<ref name="About Oyez"/>
+
+Jerry Goldman put the Oyez Project up for sale in 2016.  He estimated it is "worth well over $1 million", but he hopes the buyer will not put the project behind a paywall.  Harvard Law School offered to pay the project's operating costs, but not Goldman's price.<ref>{{cite news|last1=Bravin|first1=Jess|title=Future of Oyez Supreme Court Archive Hangs in the Balance|url=https://blogs.wsj.com/law/2016/02/01/future-of-oyez-supreme-court-archive-hangs-in-the-balance/|accessdate=2 February 2016|work=The Wall Street Journal|date=1 February 2016|archive-date=1 February 2016|archive-url=https://web.archive.org/web/20160201191532/http://blogs.wsj.com/law/2016/02/01/future-of-oyez-supreme-court-archive-hangs-in-the-balance/|url-status=live}}</ref> In July 2016, the [[Legal Information Institute]] at [[Cornell Law School]] and [[Justia]] joined IIT as sponsors.<ref>{{Cite web| title = Oyez website finds sponsors to take over its Supreme Court audio archives| work = ABA Journal| accessdate = 2017-09-08| url = http://www.abajournal.com/magazine/article/oyez_website_finds_sponsors_to_take_over_its_supreme_court_audio_archives/| archive-date = 2017-09-08| archive-url = https://web.archive.org/web/20170908064538/http://www.abajournal.com/magazine/article/oyez_website_finds_sponsors_to_take_over_its_supreme_court_audio_archives/| url-status = live}}</ref>
+
+==History==
+The Oyez Project was conceived in Chicago in the late 1980's by Jerry Goldman, a professor of political science, and initially implemented using [[Apple Inc.|Apple's]] [[HyperCard]] software. Subsequent support from the [[National Science Foundation]] and [[National Endowment for the Humanities]] allowed the project to evolve and establish a presence on the internet.<ref name="Oyez.org history page">{{cite web |title=The History of Oyez |url=https://www.oyez.org/history |website=Oyez |accessdate=18 January 2020 |archive-date=7 October 2020 |archive-url=https://web.archive.org/web/20201007050843/https://www.oyez.org/history |url-status=live }}</ref>
+
+==Recognition==
+Oyez.org is listed by the Supreme Court as an authentic, although unofficial, online source to access the court's information.<ref>[https://www.supremecourt.gov/opinions/obtainopinions.aspx Where to Obtain Supreme Court Opinions] {{Webarchive|url=https://web.archive.org/web/20200619093801/https://www.supremecourt.gov/opinions/obtainopinions.aspx |date=2020-06-19 }} Supreme Court of the United States</ref>
+
+Oyez.org was featured as "Website of the Week" by international broadcaster [[Voice of America]] in January 2006.<ref>[https://archive.org/details/OurWorld-2006-01-28pgm312 Oyez.org Segment in <i>Our World</i> program 28 January 2006] Audio is at timecode 10:36, HTML transcript also available. Retrieved 2019-08-08.</ref>
+
+The old version of the Oyez database was awarded the [[Silver Gavel Award]] for New Media by [[American Bar Association]] in 1998.<ref>[http://www.abanet.org/publiced/gavel/98/newmedia98.html Silver Gavel Awards for Media and The Arts] {{Webarchive|url=https://web.archive.org/web/20071012141834/http://www.abanet.org/publiced/gavel/98/newmedia98.html |date=2007-10-12 }} American Bar Association</ref>  Its founder, Jerry Goldman, was given a medal award in 1997 by [[EDUCAUSE]].<ref>[http://www.educause.edu/content.asp?page_id=1587&bhcp=1 educause.edu] {{Webarchive|url=https://web.archive.org/web/20070927002707/http://www.educause.edu/content.asp?page_id=1587&bhcp=1 |date=2007-09-27 }}, EDUCAUSE Medal Awards</ref>
+
+==See also==
+*[[Oyez]]
+*[[Supreme Court Historical Society]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite web
+ | title      = Once under wraps, Supreme Court audio trove now online. It's all politics.
+ | url        = https://www.npr.org/blogs/itsallpolitics/2013/04/24/178660998/Once-Under-Wraps-Supreme-Court-Audio-Trove-Now-Online
+ | author     = NPR staff
+ | date       = April 24, 2013
+ | quote      = But as of just a few weeks ago, all of the archived historical audio — which dates back to 1955 — has been digitized, and almost all of those cases can now be heard and explored at an online archive called the Oyez Project.
+ | accessdate = 2013-04-24
+}}
+
+==External links==
+*{{Official website|http://oyez.org}}
+
+{{Illinois Institute of Technology}}
+{{Cornell}}
+
+[[Category:American legal websites]]
+[[Category:Illinois Institute of Technology]]
+[[Category:Supreme Court of the United States]]

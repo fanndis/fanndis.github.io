@@ -1,0 +1,110 @@
+{{Distinguish|Tax refund}}
+{{US taxation}}
+'''Tax returns in the United States''' are reports filed with the [[Internal Revenue Service]] (IRS) or with the state or local [[tax]] collection agency ([[California Franchise Tax Board]], for example) containing information used to calculate [[Income tax in the United States|income tax]] or other taxes. Tax returns are generally prepared using [[Form (document)|forms]] prescribed by the IRS or other applicable taxing authority.
+
+==Federal returns==
+{{Refimprove section|date=April 2011}}
+Under the [[Internal Revenue Code]] returns can be classified as either ''tax returns'' or ''information returns'', although the term "tax return" is sometimes used to describe both kinds of returns in a broad sense. Tax returns, in the more narrow sense, are reports of tax liabilities and payments, often including financial information used to compute the tax. A very common federal tax form is IRS [[Form 1040]].
+
+A tax return provides information so that the taxation authority can check on the taxpayer's calculations, or can determine the amount of tax owed if the taxpayer is not required to calculate that amount.<ref name=Victor>Victor Thuronyi, ''[https://books.google.com/books?id=ab4Q9tktrX0C&pg=PA103 Tax Law Design and Drafting'', Volume 1, page 103](International Monetary Fund 1996).</ref> In contrast, an information return is a declaration by some person, such as a third party, providing economic information about one or more potential taxpayers.<ref name=Victor />
+
+Information returns are reports used to transmit information about income, receipts or other matters that may affect tax liabilities. For example, [[Form W-2]] and [[Form 1099]] are used to report on the amount of income that an employer, independent contractor, broker, or other payer pays to a taxpayer. A company, employer, or party which has paid income (or, in a few cases, proceeds that may ultimately be determined not to be income) to a taxpayer is required to file the applicable information return directly with the IRS. A copy of the information return is also sent directly to the payee. These procedures enable the IRS to make reasonably sure that taxpayers report income correctly.
+
+===Amended return===
+In the United States, taxpayers may file an amended return with the Internal Revenue Service to correct errors reported on a previous income tax return. Typically a taxpayer does not need to file an amended return if he or she has math errors as the IRS will make the necessary corrections. For individuals, amended returns are filed using [https://www.irs.gov/pub/irs-pdf/f1040x.pdf Form 1040X], Amended U.S. Individual Income Tax Return. In some cases taxpayers may use [http://www.amendedtaxreturn1040x.com/irs-amended-return/ Form 1045], for example, to carry back a Net Operating Loss to a prior tax period. Form 1045 is generally processed much faster than Form 1040X.
+
+===Federal income taxes===
+The filing of [[Income tax in the United States|Federal tax]] returns is required under {{USC|26|6011}}<ref name=Bulletin>Treasury Department, Internal Revenue Service. ''[https://books.google.com/books?id=mfxjCI_EKK0C&pg=PA829 Internal Revenue Cumulative Bulletin 2005-1, January-June]'', page 829 (Government Printing Office 2005).</ref> and {{USC|26|6012}}.<ref name=Bulletin /> Individuals who receive more than the statutory minimum amount of gross income must file.<ref name=Bulletin />
+
+The standard U.S. individual tax return is Form 1040. There are several variations of this form, such as the 1040EZ and the 1040A, as well as many supplemental forms.
+
+U.S. citizens and residents who realize gross income in excess of a specified amount (adjusted annually for inflation) are required by law to file Federal income tax returns (and pay remaining income taxes if applicable).
+
+Gross income includes most kinds of income regardless of whether the income arises from legitimate businesses. Income from the sale of illegal drugs, for example, is taxable. Many criminals, such as [[Al Capone]], are indicted not only for their non-tax crimes, but for failure to file Federal income tax returns (and pay income taxes).
+
+The IRS occasionally has seen "[[Fifth Amendment to the United States Constitution|Fifth Amendment]]" returns from people who accurately report their annual income and tax liability but refuse to reveal the source of the funds on the grounds that such a statement would tend to incriminate the individual.
+
+Many Americans find the process of filling out the tax forms more onerous than paying the taxes themselves. Many companies offer free and paid options for reducing the tedious labor involved in preparing one's tax return.
+
+A taxpayer who finds a mistake on a previously filed individual income tax return can file corrections with [[Form 1040X]].
+
+==Deadline==
+The annual deadline to file one's Federal individual income tax return is April 15. The IRS lists scenarios for which [[Tax Day]] does not follow this standard deadline - Taxpayers can file an extension where the taxes owed must be paid by April 15 but the completed tax return filed by October 15. <ref>{{cite web|title=Tax Topics - Topic 301 - When, Where, and How to File|url=https://www.irs.gov/taxtopics/tc301.html|publisher=IRS|accessdate=24 December 2011}}</ref>
+
+===Proof of timely filing===
+{{olist
+|1=A return that is '''mailed''' to the IRS is timely filed if it is delivered on or before its due date, that is April 15, but is extended to April 18th for the 2013 Tax Season which is the 2014 calendar year. A return with a U.S. postmark, which is delivered after its due date, is considered timely filed if: {{ulist
+ |the date of the postmark is no later than the due date;
+ |the return was properly addressed;
+ |the return had proper postage.
+ }} The timely filing, timely mailing rule requires that the return be postmarked within the prescribed filing period. Thus, an individual return postmarked April 16 and received on April 20 is considered filed on April 20.
+
+|2=A return delivered by a '''designated private carrier''' is timely if the carrier marks or records the return no later than the due date of the return. The IRS can designate a private carrier if the carrier: {{ulist
+ |is available to the general public;
+ |is as timely and reliable as U.S. first class mail;
+ |records the date on which the package was given to it for delivery;
+ |satisfies other conditions.
+ }} The IRS has identified DHL Express, Federal Express, and United Parcel Service as designated carriers.
+
+|3=A return delivered by '''other means''' than the U.S. mail or a designated private carrier must be delivered to the appropriate IRS office on or before its due date to be timely.
+
+|4=An '''electronically-filed''' return with a timely electronic postmark is timely filed, provided that the return is filed in the manner prescribed for electronic returns. An electronic postmark is a record of the date and time, in the taxpayer's time zone, that an authorized electronic return transmitter receives the e-filed document on its host system.
+}}
+
+==Privacy and public disclosure==
+Tax return laws generally prohibit disclosure of any information gathered on a state tax return.<ref name=Glee>Glee Harrah Cady, Pat McGregor. ''[https://books.google.com/books?id=WXVc9I_9nlsC&pg=PA373 Protect Your Digital Privacy: Survival Skills for the Information Age]'', pages 373 and 380 (Que Publishing, 2002).</ref> Likewise, the federal government may not (with certain exceptions) disclose tax return information without the filer's permission,<ref>See generally {{USC|26|6103}}.</ref> and each federal agency is also limited in how it can share such information with other federal agencies.<ref name=Glee />
+
+Occasionally there have been efforts in Congress to require tax returns to be open to public inspection. For example, Senators [[Robert M. La Follette, Sr.|Robert M. La Follette]] and [[George W. Norris]] supported such legislation, applicable to both individual and corporate returns, and public disclosure for wealthy taxpayers was required from 1923–1926.<ref>Roy Gillispie Blakey, Gladys C. Blakey. ''[https://books.google.com/books?id=KYQi9U62jG0C&pg=PA119 The Federal Income Tax]'', page 119 (The Lawbook Exchange 2006).</ref><ref>W. Elliot Brownlee. ''[https://books.google.com/books?id=If2T5ZaFxIEC&pg=PA97 Federal Taxation in America: A Short History]'', page 97 (Cambridge University Press 2004).</ref> Presidential candidates have sometimes [[United States presidential election#Financial disclosures|voluntarily released their tax returns]].
+
+==Preparation==
+{{Main|Tax preparation}}
+Popular tax preparation software includes [[TaxSlayer]], [[TaxACT]], [[H&R Block at Home]] (formerly [[TaxCut]]), and [[TurboTax]].
+
+In some countries, the tax agency provides a prefilled return to streamline the process, but the United States has failed to adopt these technologies as of 2013 after lobbying by tax preparation companies like [[Intuit]].<ref>[http://mobile.nytimes.com/2013/04/16/technology/personaltech/turbotax-or-irs-as-tax-preparer-intuit-has-a-favorite.html?_r=0 Would You Let the I.R.S. Prepare Your Taxes?]. ''NY Times''.</ref> A similar reform was unsuccessfully attempted in California, after a pilot known as [[ReadyReturn]].<ref>https://www.npr.org/2017/03/29/521954033/stanford-professor-loses-political-battle-to-simplify-tax-filing-process</ref>
+
+==List of common forms==
+{{see also|IRS tax forms}}
+Examples of common Federal tax returns (and, where noted, information returns) include:
+
+'''Transfer taxes'''
+
+*[[Form 706]], U.S. Estate Tax Return;
+*[[Form 709]], U.S. Gift (and Generation-Skipping Transfer) Tax Return;
+
+'''Statutory excise taxes'''
+
+*[[Form 720]], Quarterly Federal Excise Tax Return;
+*[[Form 2290]], Heavy Vehicle Use Tax Return;
+*[[Form 5330]], Return of Excise Taxes Related to Employee Benefit Plans;
+
+'''Employment (payroll) taxes'''
+
+*[[Form 940]], Employer's Annual Federal Unemployment (FUTA) Tax Return;
+*[[Form 941]], Employer's Quarterly Federal Tax Return;
+
+'''Income taxes'''
+
+*[[Form 1040]], U.S. Individual Income Tax Return;
+*[[Form 1040A]], U.S. Individual Income Tax Return;
+*[[Form 1040EZ]], Income Tax Return for Single and Joint Filers with No Dependents;
+*[[Form 1041]], U.S. Income Tax Return for Estates and Trusts (for 1993 and prior years, this was known as "U.S. Fiduciary Income Tax Return");
+*[[Form 1065]], U.S. Return of Partnership Income (for 1999 and prior years, this was known as "U.S. Partnership Return of Income") (information return);
+*[[Form 1099]] series (various titles) (information return);
+*[[Form W-2]] (information return);
+*[[Form 1120]], U.S. Corporation Income Tax Return;
+*[[Form 1120S]], U.S. Income Tax Return for an [[S Corporation]];
+*[[Form 2290]], Heavy Highway Vehicle Use Tax Return;
+
+==See also==
+* [[Affordable Care Act tax provisions]]
+* [[Taxation in the United States]]
+* [[Tax return (Australia)]]
+* [[Tax return (Canada)]]
+* [[Tax return (United Kingdom)]]
+
+==References==
+{{Reflist}}
+
+[[Category:Taxation in the United States]]
+[[Category:IRS tax forms| Tax return (United States)]]
+[[Category:Tax forms]]

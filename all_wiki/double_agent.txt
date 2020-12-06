@@ -1,0 +1,400 @@
+{{Other uses}}
+{{More citations needed|date=January 2010}}
+
+In the field of [[counterintelligence]], a '''double agent''' (also '''double [[secret agent]]''') is an employee of a secret intelligence service for one country, whose primary purpose is to [[spy]] on a target organization of another country, but who is now spying on their own country's organization for the target organization.<ref>{{cite web|url=http://www.merriam-webster.com/dictionary/double%20agent|title=Definition of DOUBLE AGENT|publisher=merriam-webster.com|accessdate=21 February 2018}}</ref>
+
+Double agentry may be practiced by spies of the target organization who infiltrate the controlling organization or may result from the ''turning'' (switching sides) of previously loyal agents of the controlling organization by the target.  The threat of execution is the most common method of turning a captured agent (working for an intelligence service) into a double agent (working for a foreign intelligence service) or a double agent into a '''[[Double agent#Re-doubled agent|re-doubled agent]]'''. It is unlike a [[Defection|defector]], who is not considered an agent as agents are in place to function for an intelligence service and defectors are not, but some consider that defectors in place are agents until they have defected.
+
+Double agents are often used to transmit [[disinformation]] or to identify other agents as part of [[Counterintelligence|counter-espionage]] operations. They are often very trusted by the controlling organization since the target organization will give them true, but useless or even counterproductive, information to pass along.<ref name=":30" />
+
+==Double agents==
+{| class="wikitable" style="margin-left:auto; margin-right:auto"
+|+ '''Examples of known double agents and [[Mole (espionage)|moles]]'''
+|-
+!Context
+!Agent
+!Nationality
+!Loyal to
+!Spying on
+!width="30%" |Comments
+!References
+|-
+|rowspan="2" | [[Wars of the Three Kingdoms]] <br /> <small>1639 – 1651</small>
+![[Samuel Morland]]
+|{{flagicon|England|1625|size=23px}}&nbsp;[[England|English]]
+|{{flagicon|England|1648|size=23px}}&nbsp;[[Restoration (England)|Restoration]]
+|{{flagicon|Commonwealth of England|1649|size=23px}} [[Commonwealth of England]]
+|<small>&nbsp;</small>
+|
+|-
+![[Sir Richard Willis, 1st Baronet|Richard Willis]]
+|{{flagicon|England|1614|size=23px}} [[England|English]]
+ |{{flagicon|Commonwealth of England|1649|size=23px}} [[Commonwealth of England]]
+|{{flagicon|England|1648|size=23px}} [[Restoration (England)|Restoration]]
+ |<small>&nbsp;</small>
+|
+|-
+|rowspan="1" | [[World War I]] <br /> <small>1914 – 1918</small>
+![[Mata Hari]]
+|{{flagicon|Netherlands|size=23px}} [[Netherlands|Dutch]]
+|{{flagicon|German Empire|1917|size=23px}} [[German Empire]]
+|{{flagicon|France|1917|size=23px}} [[French Third Republic]]
+|<small>&nbsp;</small>
+|
+|-
+| rowspan="15" | [[World War II]] <br /> <small>1939 – 1945</small>
+![[Mathilde Carré]] "La Chatte"
+|{{flagicon|France|1908|size=23px}} [[France|French]]
+|colspan="2" |{{flagicon|United Kingdom|1940|size=23px}} [[Double-Cross System]]
+|
+|
+|-
+![[Roman Czerniawski]] "Brutus"
+|{{flagicon|Poland|1910|size=23px}} [[Poland|Polish]]
+|colspan="2" |{{flagicon|United Kingdom|1940|size=23px}} [[Double-Cross System]]
+|
+|
+|-
+![[Eddie Chapman]] "ZigZag"
+|{{flagicon|England|1914|size=23px}} [[England|English]]
+|colspan="2" |{{flagicon|United Kingdom|1940|size=23px}} [[Double-Cross System]]
+|<small>Infiltrated the German [[Abwehr]] during World War II whilst feeding intelligence to MI5. He was so trusted by the Germans that he is reportedly the only [[United Kingdom|British]] citizen to have ever been awarded the [[Iron Cross]]</small>
+|
+|-
+![[Walter Dicketts]] "Celery"
+|{{flagicon|England|1914|size=23px}} [[England|English]]
+|colspan="2" |{{flagicon|United Kingdom|1940|size=23px}} [[Double-Cross System]]<small> (1940-1943)</small>
+|<small>Ex RNAS officer sent to Lisbon and Germany to infiltrate the Abwehr, report on invasion plans for Britain, and establish the bona fides of [[Arthur Owens|Snow]] (subsequently imprisoned until the end of war). Subjected to an intensive five-day interrogation in Hamburg and survived.<ref name= P&Sbook4>{{cite book|last1=Witt|first1=Carolinda|title=Double Agent Celery|date=November 2017|publisher=Pen & Sword Books|location=Barnsley, UK|isbn=9781526716149|url=https://www.pen-and-sword.co.uk/Double-Agent-Celery-Hardback/p/14046}} pp. 182-186</ref> Later sent back to Lisbon to persuade Abwehr officer, George Sessler, to defect and worked undercover in Brazil.</small>
+|
+|-
+![[Roger Grosjean]] "Fido"
+|{{flagicon|France|1920|size=23px}} [[France|French]]
+|colspan="2" |{{flagicon|United Kingdom|1940|size=23px}} [[Double-Cross System]]
+|<small>French Air Force pilot who worked for the British</small>
+|
+|-
+![[Christiaan Lindemans]] "King Kong"
+|{{flagicon|Netherlands|1912|size=23px}} [[Netherlands|Dutch]]
+|{{flagicon|Nazi Germany|1939|size=23px}} [[Abwehr]] <small>(1944)</small>
+|{{flagicon|Netherlands|1941|size=23px}} {{flagicon|United Kingdom|1940|size=23px}} [[Special Operations Executive|SOE]] <small>(1940-1944)</small> <br /> [[Dutch resistance]] <small>(1941-1944)</small>
+|<small>&nbsp;</small>
+|
+|-
+![[Arthur Owens]] "Snow"
+|{{flagicon|Wales|1807|size=23px}}&nbsp;[[Wales|Welsh]]
+|colspan="2" |{{flagicon|United Kingdom|1940|size=23px}}&nbsp;[[Double-Cross System]]
+|<small>&nbsp;</small>
+|
+|-
+![[Johnny Jebsen|Johann-Nielsen Jebsen]] "Jonny" "Artist"
+|{{flagicon|German Empire|1899|size=23px}}&nbsp;[[Germany|German]]
+|{{flagicon|Nazi Germany|1939|size=23px}} [[Abwehr]] <small>(1939-1941)</small><br />{{flagicon|United Kingdom|1940|size=23px}} [[Double-Cross System|MI6]] <small>(1941-1945)</small>
+|{{flagicon|Nazi Germany|1939|size=23px}} [[Abwehr]] <small>(1941-1945)</small>
+| <small>Anti-Nazi German intelligence officer and British double agent. Jebsen recruited Dušan Popov.</small>
+|
+|-
+![[Ivan Popov (spy)|Ivan Popov]] "LaLa" "Aesculap" "Dreadnought" "Hans"
+|{{flagicon|Kingdom of Yugoslavia|naval|size=23px}}&nbsp;[[Serbian people|Serbian]]
+|{{flagicon|Kingdom of Yugoslavia|naval|size=23px}} [[Vojnoobaveštajna agencija|VOA]] <small>(1939-1945)</small><br />{{flagicon|Nazi Germany|1939|size=23px}} [[Abwehr]] <small>(1940-1944)</small><br />{{flagicon|United Kingdom|1940|size=23px}} [[Double-Cross System|MI6]] <small>(1941-1945)</small>
+|{{flagicon|Nazi Germany|1939|size=23px}} [[Abwehr]] <small>(1941-1945)</small>
+|<small>Yugoslav working for his national military agency VOA. He also worked for British MI6 and German Abwehr. In German Gestapo he held rank of [[Obersturmbannführer]]. Brother of Dušan Popov.</small>
+|
+|-
+![[Dušan Popov]] "Duško" "Tricycle" "Ivan"
+|{{flagicon|Kingdom of Yugoslavia|naval|size=23px}}&nbsp;[[Serbian people|Serbian]]
+|{{flagicon|Kingdom of Yugoslavia|naval|size=23px}} [[Vojnoobaveštajna agencija|VOA]] <small>(1939-1945)</small><br />{{flagicon|Nazi Germany|1939|size=23px}} [[Abwehr]] <small>(1940-1941)</small><br />{{flagicon|United Kingdom|1940|size=23px}} [[Double-Cross System|MI6]] <small>(1940-1945)</small>
+|{{flagicon|Nazi Germany|1939|size=23px}} [[Abwehr]] <small>(1941-1945)</small>
+|<small>Yugoslav working for his national military agency VOA. He also worked for British MI6 and German Abwehr. In British army he held rank of [[Colonel (United Kingdom)|colonel]]. Brother of Ivan Popov.</small>
+|
+|-
+!John Herbert Neal Moe "[[Mutt and Jeff (spies)|Mutt and Jeff]]"
+|{{flagicon|Norway|1919|size=23px}}&nbsp;[[Norway|Norwegian]]
+|colspan="2" |{{flagicon|United Kingdom|1940|size=23px}}&nbsp;[[Double-Cross System]]
+|&nbsp;
+|
+|-
+!Tor Glad "[[Mutt and Jeff (spies)|Mutt and Jeff]]"
+|{{flagicon|Norway|1916|size=23px}}&nbsp;[[Norway|Norwegian]]
+|colspan="2" |{{flagicon|United Kingdom|1940|size=23px}}&nbsp;[[Double-Cross System]]
+|&nbsp;
+|
+|-
+![[Juan Pujol García]] "Garbo"
+|{{flagicon|Spain|1938|size=23px}}&nbsp;[[Spanish people|Spanish]]<ref name="garcia2011">{{Cite book|first1=Juan Pujol|last1=García|author-link1=Joan Pujol Garcia|first2=Nigel|last2=West|author-link2=Rupert Allason|title=Operation Garbo: The Personal Story of the Most Successful Spy of World War II|url=https://books.google.com/books?id=KgOuAwAAQBAJ|publisher=Biteback Publishing|year=2011|chapter=Childhood|chapter-url=https://books.google.com/books?id=KgOuAwAAQBAJ&lpg=PP1&pg=PT10|isbn=9781849546256}}</ref>
+|colspan="2" |{{flagicon|United Kingdom|1940|size=23px}}&nbsp;[[Double-Cross System]]
+|<small>British double agent in German spy service-awarded both an MBE and an Iron Cross</small>
+|
+|-
+![[Johann Wenzel]]
+|{{flagicon|Poland|1902|size=23px}}&nbsp;[[Poland|Polish]]
+ |
+;Before 1942:
+{{flagicon|Soviet Union|1942|size=23px}}&nbsp;[[Red Orchestra (espionage)|Red Orchestra]]
+;During 1942:
+{{flagicon|Nazi Germany|1942|size=23px}}&nbsp;[[Gestapo]]
+ |
+;Before 1942:
+{{flagicon|Nazi Germany|1942|size=23px}}&nbsp;[[Nazi Germany]]
+;During 1942:
+{{flagicon|Soviet Union|1942|size=23px}}&nbsp;[[Soviet Union]]
+|<small>Member of Red Orchestra spy ring who, after being unmasked by the Gestapo in 1942, fed false information to the Soviet Union from August until his escape in November. Later joined the Belgian resistance.</small>
+ |
+|-
+![[William G. Sebold|William Sebold]] "Tramp"
+|{{flagicon|German Empire|1899|size=23px}}&nbsp;[[Germany|German]] <br /> {{flagicon|United States|1936|size=23px}} [[United States|U.S.]] citizen
+ |{{flagicon|United States|1939|size=23px}}&nbsp;[[Federal Bureau of Investigation|FBI]] <small>(1939)</small>
+|{{flagicon|Nazi Germany|1939|size=23px}}&nbsp;[[Abwehr]] <small>(1939)</small>
+ |<small>Coerced by the Abwehr into becoming a spy, exposed the [[Duquesne Spy Ring]] to the FBI.</small>
+ |
+|-
+|rowspan="13" | [[Cold War]] <br /> <small>1947 – 1991</small>
+![[Aldrich Ames]]
+|{{flagicon|United States|1941|size=23px}}&nbsp;[[United States|American]]
+ |{{flagicon|Soviet Union|1985|size=23px}}&nbsp;[[KGB]]
+ |{{flagicon|United States|1957|size=23px}}&nbsp;[[Central Intelligence Agency|CIA]] <small>(1957-1994)</small>
+|<small>&nbsp;</small>
+|
+|-
+![[John Cairncross]] "Liszt"
+|{{flagicon|Scotland|1913|size=23px}}&nbsp;[[Scottish people|Scottish]]
+|{{flagicon|Soviet Union|1941|size=23px}}&nbsp;[[Ministry of State Security (Soviet Union)|MGB]] <br /> {{flagicon|Soviet Union|1941|size=23px}}&nbsp;[[Cambridge Five]]
+|{{flagicon|UK|1941|size=23px}}&nbsp;[[MI5]] <small>(1941-1944)</small> <br /> {{flagicon|UK|1942|size=23px}}&nbsp;[[Bletchley Park|GC&CS]] <small>(1942-1943)</small> <br /> {{flagicon|UK|1944|size=23px}}&nbsp;[[MI6]] <small>(1944-1945)</small>
+|<small>&nbsp;</small>
+|
+|-
+![[Anthony Blunt]] "Johnson"
+|{{flagicon|England|1907|size=23px}}&nbsp;[[England|English]]
+|{{flagicon|Soviet Union|1941|size=23px}}&nbsp;[[NKVD]] <br /> {{flagicon|Soviet Union|1941|size=23px}}&nbsp;[[Cambridge Five]]
+|{{flagicon|UK|1940|size=23px}}&nbsp;[[MI5]]
+|<small>&nbsp;</small>
+|
+|-
+![[Guy Burgess]] "Hicks"
+|{{flagicon|England|1911|size=23px}}&nbsp;[[England|English]]
+|{{flagicon|Soviet Union|1941|size=23px}}&nbsp;[[Ministry of State Security (Soviet Union)|MGB]] <br /> {{flagicon|Soviet Union|1941|size=23px}}&nbsp;[[Cambridge Five]]
+|{{flagicon|UK|1939|size=23px}}&nbsp;[[MI5]] <small>(1939-1941)</small> <br /> {{flagicon|UK|1939|size=23px}}&nbsp;[[Foreign Office]] <small>(1944-1956)</small>
+|<small>&nbsp;</small>
+|
+|-
+![[Donald Maclean (spy)|Donald Maclean]] "Homer"
+|{{flagicon|England|1913|size=23px}}&nbsp;[[England|English]]
+|{{flagicon|Soviet Union|1941|size=23px}}&nbsp;[[Ministry of State Security (Soviet Union)|MGB]] <br /> {{flagicon|Soviet Union|1941|size=23px}}&nbsp;[[Cambridge Five]]
+|{{flagicon|UK|1961|size=23px}}&nbsp;[[MI5]] <br /> {{flagicon|UK|1961|size=23px}}&nbsp;[[MI6]]
+|<small>&nbsp;</small>
+|
+|-
+![[Kim Philby]] "Stanley"
+|{{flagicon|England|1912|size=23px}}&nbsp;[[England|English]] <br /> {{flagicon|British Raj|1912|size=23px}}&nbsp;Born in [[British Raj|India]]
+|{{flagicon|Soviet Union|1941|size=23px}}&nbsp;[[Ministry of State Security (Soviet Union)|MGB]] <br /> {{flagicon|Soviet Union|1941|size=23px}}&nbsp;[[Cambridge Five]]
+|{{flagicon|UK|1941|size=23px}}&nbsp;[[MI6]]
+|<small>&nbsp;</small>
+|
+|-
+![[George Blake]]
+|{{flagicon|Netherlands|1922|size=23px}}&nbsp;[[Netherlands|Dutch]]
+|{{flagicon|Soviet Union|1953|size=23px}}&nbsp;[[KGB]]
+|{{flagicon|UK|1944|size=23px}}&nbsp;[[MI6]]
+|<small>&nbsp;</small>
+|
+|-
+![[Oleg Gordievsky]] "Sunbeam" "Nocton" "Pimlico" "Ovation"
+|{{flagicon|Russian SFSR|1938|size=23px}}&nbsp;[[Russian Soviet Federative Socialist Republic|Russian]]
+|{{flagicon|UK|1968|size=23px}}&nbsp;[[MI6]] <small>(1968-2008)</small>
+|{{flagicon|Soviet Union|1963|size=23px}}&nbsp;[[KGB]] <small>(1963-1985)</small>
+|<small>Abducted in Moscow in 1985; escaped to the United Kingdom two months later.</small>
+|
+|-
+![[Matei Pavel Haiducu]]
+|{{flagicon|Romania|1948|size=23px}}&nbsp;[[Romania]]n
+|{{flagicon|France|1981|size=23px}}&nbsp;[[Direction de la surveillance du territoire|DST]] <small>(1981)</small>
+|{{flagicon|Romania|1948|size=23px}}&nbsp;[[Foreign Intelligence Service (Romania)|DIE]] <small>(1975-1982)</small>
+|<small>Defected to France in 1981.</small>
+|
+|-
+![[Dmitri Polyakov]]
+|{{flagicon|Ukrainian SSR|1921|size=23px}}&nbsp;[[Ukrainian SSR|Ukrainian]]
+|{{flagicon|United States|1988|size=23px}}&nbsp;[[Federal Bureau of Investigation|FBI]] <br /> {{flagicon|United States|1988|size=23px}}&nbsp;[[Central Intelligence Agency|CIA]]
+|{{flagicon|Russian SFSR|1988|size=23px}}&nbsp;[[Main Intelligence Directorate (Russia)|GRU]]
+|<small>Executed in 1988.</small>
+|
+|-
+![[Robert Hanssen]]
+|{{flagicon|United States|1944|size=23px}}&nbsp;[[United States|American]]
+|{{flagicon|Russian SFSR|1979|size=23px}}&nbsp;[[Main Intelligence Directorate (Russia)|GRU]]
+|{{flagicon|United States|1976|size=23px}}&nbsp;[[Federal Bureau of Investigation|FBI]]
+|<small>Worked for the FBI and sold information to the Soviet Union as a mole.</small>
+|
+|-
+![[Oleg Penkovskiy]] "Hero"
+|{{flagicon|Russian Empire|1919|size=23px}}&nbsp;[[Russian Empire|Russian]]
+|{{flagicon|United States|1950|size=23px}}&nbsp;[[NSA]]<br/> {{flagicon|United Kingdom|1950|size=23px}}&nbsp;[[MI6]]
+|{{flagicon|Russian SFSR|1950|size=23px}}&nbsp;[[Main Intelligence Directorate (Russia)|GRU]]
+|<small>A colonel with GRU informed the U.K. and the U.S. about [[Cuban Missile Crisis|the Soviet emplacement of missiles in Cuba]]; executed by the Soviets in 1963.</small>
+|
+|-
+![[Stig Bergling]]
+|{{flagicon|Sweden|1937|size=23px}}&nbsp;[[Sweden|Swedish]]
+|{{flagicon|Russian SFSR|1979|size=23px}}&nbsp;[[Main Intelligence Directorate (Russia)|GRU]]
+|{{flagicon|Sweden|1979|size=23px}}&nbsp;[[Swedish Security Service|SÄPO]]
+|<small>Among other things, handed over the entire Swedish "FO-code", a top secret list of Sweden's defence establishments, [[Swedish Coastal Artillery|coastal artillery]] fortifications and mobilization stores. Convicted in 1979 and sentenced to life imprisonment for [[treason]].</small>
+|
+|-
+|rowspan="1" | [[Arab–Israeli conflict]] <br /> <small>1948 – </small>
+![[Ashraf Marwan]]
+|{{flagicon|Egypt|1944|size=23px}}&nbsp;[[Egypt]]ian
+|{{flagicon|Israel|2002|size=23px}}&nbsp;[[Mossad]]
+|{{flagicon|Egypt|2002|size=23px}}&nbsp;[[Egypt]]
+|<small>Egyptian businessman and an alleged spy for Israel, or possibly an Egyptian double agent; managed to become celebrated as a hero in each country for his alleged work against the other.</small>
+|
+|-
+|rowspan="1" | [[Basque conflict]] <br /> <small>1959 – 2011</small>
+![[Mikel Lejarza]] "El Lobo"
+|{{flagicon|Basque Country|1947|size=23px}}&nbsp;[[Basques|Basque]]
+|{{flagicon|Spain|1975|size=23px}}&nbsp;[[Centro Superior de Información de la Defensa|CESID]]
+|{{flagicon|Basque Country|1975|size=23px}}&nbsp;[[ETA (separatist group)|ETA]]
+|<small>&nbsp;</small>
+|
+|-
+|rowspan="4" | [[The Troubles|Northern Ireland conflict]] <br /> <small>1968 – 1998</small>
+![[Denis Donaldson]]
+|{{flagicon|Northern Ireland|1950|size=23px}}&nbsp;[[Northern Ireland|Northern Irish]]
+|{{flagicon|UK|2005|size=23px}}&nbsp;[[MI5]] <br /> {{flagicon|Northern Ireland|2005|size=23px}}&nbsp;[[Police Service of Northern Ireland|PSNI]]
+|{{flagicon|Ireland|2005|size=23px}}&nbsp;[[Provisional Irish Republican Army|Provisional IRA]]<br/> {{flagicon|Ireland|2005|size=23px}}&nbsp;[[Sinn Féin]]
+|<small>Assassinated at his cottage in [[County Donegal]] after being exposed by a Northern Ireland newspaper, ''[[Derry Journal|The Derry Journal]]''.</small>
+|
+|-
+!"[[Kevin Fulton]]"
+|{{flagicon|Northern Ireland|size=23px}}&nbsp;[[Northern Ireland|Northern Irish]]
+|{{flagicon|UK|army|size=23px}}&nbsp;[[Royal Irish Rangers]]<br/> {{flagicon|UK|army|size=23px}}&nbsp;[[Intelligence Corps (United Kingdom)|Int Corps]]
+|{{flagicon|Ireland|size=23px}}&nbsp;[[Provisional Irish Republican Army|Provisional IRA]]
+|
+|
+|-
+![[Freddie Scappaticci]] "Stakeknife"
+|{{flagicon|Italy|size=23px}}&nbsp;[[Italy|Italian]]
+|{{flagicon|UK|army|size=23px}}&nbsp;[[Force Research Unit|FRU]]
+|{{flagicon|Ireland|1974|size=23px}}&nbsp;[[Provisional Irish Republican Army|Provisional IRA]]<br/> {{flagicon|Ireland|1974|size=23px}}&nbsp;[[Internal Security Unit|ISU]]
+|
+|
+|-
+![[Robert Nairac]]
+|{{flagicon|England|1948|size=23px}}&nbsp;[[England|English]]<br/> {{flagicon|Mauritius|1948|size=23px}}&nbsp;born in [[Mauritius]]
+|{{flagicon|UK|army|size=23px}}&nbsp;[[British Army]]
+|{{flagicon|Ireland|1974|size=23px}}&nbsp;[[Provisional Irish Republican Army|Provisional IRA]]
+|<small>Murdered by the [[Provisional Irish Republican Army|Provisional IRA]] in [[County Louth]] in 1977.</small>
+|
+|-
+| rowspan="5" |[[South Africa]]n espionage in [[Zimbabwe]] and the ''[[Gukurahundi]]''<br /> <small>1980 – 1987</small>
+![[Matt Calloway]]
+|{{Flagicon|Zimbabwe}} [[Zimbabwe]]an
+|{{Flagicon|South Africa|variant=1928}} [[National Intelligence Service (South Africa)|NIS]]
+|{{Flagicon|Zimbabwe}} [[Central Intelligence Organisation|CIO]]
+|
+|<ref name=":29">{{Cite news|url=https://www.washingtonpost.com/archive/opinions/1989/10/22/apartheids-spies/78cac89e-ec8b-4c3e-87a7-8afc1c778c81|title=Apartheid's Spies|last=Berkeley|first=Bill|date=1989-10-22|work=The Washington Post|access-date=2018-10-18}}</ref>
+|-
+![[Philip Conjwayo]]
+|{{Flagicon|Zimbabwe}} [[Zimbabwe]]an
+{{Flagicon|South Africa|variant=1928}} [[South Africa]]n citizen
+|{{Flagicon|South Africa|variant=1928}} [[National Intelligence Service (South Africa)|NIS]]
+|{{Flagicon|Zimbabwe}} [[Central Intelligence Organisation|CIO]]
+|
+|<ref name=":0">{{Cite news|url=https://www.southerneye.co.zw/2014/02/21/philip-conjwayo-dies/|title=Philip Conjwayo dies|last=Dube|first=Benson|date=2014-02-21|work=Southern Eye|access-date=2018-10-22}}</ref>
+|-
+![[Geoffrey Price (spy)|Geoffrey Price]]
+|{{Flagicon|Zimbabwe}} [[Zimbabwe]]an
+|{{Flagicon|South Africa|variant=1928}} [[National Intelligence Service (South Africa)|NIS]]
+|{{Flagicon|Zimbabwe}} [[Central Intelligence Organisation|CIO]]
+|
+|<ref name=":29" />
+|-
+![[Michael Smith (spy)|Michael Smith]]
+|{{Flagicon|Zimbabwe}} [[Zimbabwe]]an
+{{Flagicon|South Africa|variant=1928}} [[South Africa]]n citizen
+|{{Flagicon|South Africa|variant=1928}} [[National Intelligence Service (South Africa)|NIS]]
+|{{Flagicon|Zimbabwe}} [[Central Intelligence Organisation|CIO]]
+|
+|<ref name=":0" />
+|-
+![[Kevin Woods]]
+|{{Flagicon|Zimbabwe}} [[Zimbabwe]]an
+{{Flagicon|South Africa|variant=1928}} [[South Africa]]n citizen
+|{{Flagicon|South Africa|variant=1928}} [[National Intelligence Service (South Africa)|NIS]]
+|{{Flagicon|Zimbabwe}} [[Central Intelligence Organisation|CIO]]
+|
+|<ref name=":29" /><ref name=":0" />
+|-
+|rowspan="2" | [[War on Terror|Global War on Terrorism]]<br/> <small>2001 – </small>
+!"[[April Fool (spy)|April Fool]]"
+|{{flagicon|United States|2003|size=23px}}&nbsp;[[United States|American]]
+|{{flagicon|United States|2003|size=23px}}&nbsp;[[United States]]
+|{{flagicon|Iraq|2003|size=23px}}&nbsp;[[Iraq]]
+|<small>Allegedly, an American officer who provided false information to [[Saddam Hussein]]</small>
+|
+|-
+! [[Iyman Faris]]
+ | {{flagicon|United States|1999|size=23px}}&nbsp;[[United States|U.S.]] citizen
+| {{flagicon image|Flag_of_al-Qaeda.svg}}&nbsp;[[al-Qaeda]]
+| {{flagicon|United States|2003|size=23px}}&nbsp;[[Federal Bureau of Investigation|FBI]]
+| <small>&nbsp;</small>
+|
+|-
+|}
+
+==Re-doubled agent==
+A '''re-doubled agent''' is an agent who gets caught as a double agent and is forced to mislead the foreign intelligence service. F.M. Begoum describes the redoubled agent as "one whose duplicity in doubling for another service has been detected by his original sponsor and who has been persuaded to reverse his affections again".<ref name=":30">{{cite web|last=Begoum|first=F.M.|publisher=Central Intelligence Agency|title=Observations on the Double Agent|url=https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi/vol6no1/html/v06i1a05p_0001.htm|accessdate=January 5, 2010}}</ref>
+* [[Vitaly Yurchenko]]
+
+==Triple agent==
+{{redirect|Triple agent|the 2004 French thriller film|Triple Agent}}
+A triple agent is a spy who pretends to be a double agent for one side, while they are truthfully a double agent for the other side. Unlike a re-doubled agent, who changes allegiance due to being compromised, a triple agent is usually considered to have always been loyal to their original side. It may also refer to a spy who works for three opposing sides, such that each side thinks the spy works for them alone.
+*[[Katrina Leung]]
+*[[Duško Popov]]
+*[[Humam Khalil Abu-Mulal al-Balawi|Humam Khalil]]
+*[[Ibrahim Ismail (general)|Ibrahim Ismail]]<ref>{{Cite web|url=http://tohairforce1981.blogspot.com/2019/03/af-132-panglima-angkatan-tentera.html|title=Putera Lapis Mahang: My Military Life: AF 132 PANGLIMA ANGKATAN TENTERA MALAYSIA (CDF)|last=Toharudin Rasid|date=2 March 2019|website=Putera Lapis Mahang|access-date=27 July 2019}}</ref>
+
+==Events in which double agents played an important role==
+* [[Babington plot]]
+* [[Battle of Lexington]]
+* [[Operation Overlord|Battle of Normandy]]
+* [[Camp Chapman attack]]
+* [[Cold War]]
+* [[Duquesne Spy Ring]]
+*[[Gukurahundi]]
+* [[Stormontgate]]
+* [[Vietnam War]]
+* [[War on Terrorism]]
+* [[Yom Kippur War]]
+
+==See also==
+<!-- New links in alphabetical order please -->
+{{Columns-list|colwidth=22em|
+* [[Clandestine HUMINT]]
+* [[Clandestine HUMINT operational techniques]]
+* [[Counterintelligence]]
+* [[Dangle (espionage)|Dangle]]
+* [[Double Cross System]]
+* [[Dual loyalty]]
+* [[Espionage]]
+* [[Mole (espionage)]]
+* [[Napoleonist Syndrome]]
+* [[Policy of deliberate ambiguity]]
+* [[Treason]]
+* [[Undercover]]
+* [[List of fictional double agents]]
+}}
+
+==References==
+<references />
+
+== Further reading ==
+* {{cite book |title=How to Catch a Russian Spy: The True Story of an American Civilian Turned Double Agent |author1=Naveed Jamali |author2=Ellis Henican |year=2015 |isbn=978-1476788821 |publisher=Scribner}}
+
+== External links ==
+* [https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi/vol6no1/html/v06i1a05p_0001.htm F. M. Begoum: Observations on the Double Agent]
+{{Stock characters}}
+{{espionage}}
+{{intelligence cycle management}}
+{{DEFAULTSORT:Double Agent}}
+[[Category:Double agents|*]]
+[[Category:Spies by role]]
+[[Category:Military command staff occupations]]

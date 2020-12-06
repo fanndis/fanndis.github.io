@@ -1,0 +1,585 @@
+{{pp-move-indef}}
+</noinclude>{{pp|small=yes}}
+{{short description|Dravidian language}}
+{{Use Indian English|date=February 2017}}
+{{Use dmy dates|date=June 2018}}
+{{Infobox language
+|name = Tamil
+|nativename = {{lang|ta|தமிழ்}} ''{{transl|ta|ISO|Tamiḻ}}''
+|pronunciation = {{IPA-ta|t̪amiɻ|}}; {{Audio|Tamil.ogg|pronunciation|help=}}
+|states = [[India]]<br />[[Sri Lanka]]
+|ethnicity   = [[Tamil people]]
+|speakers = {{sigfig|75|2}} million<!--68.889M India 2011, remainder from Ethn.21-->
+|date     = 2011–2015 
+|ref      = <ref name="Ethnologue_tam">{{e22|tam}}</ref><ref name=2011census>{{Cite web |url=http://www.censusindia.gov.in/2011Census/Language-2011/Statement-1.pdf | title=Scheduled Languages in descending order of speaker's strength - 2011 |access-date=28 June 2018 |archive-url=https://web.archive.org/web/20181114073426/http://www.censusindia.gov.in/2011Census/Language-2011/Statement-1.pdf |archive-date=14 November 2018 |url-status=live | publisher=[[Registrar General and Census Commissioner of India]] }}</ref>
+|speakers2 = [[Second language|L2 speakers]]: {{sigfig|5.95|1}} million<ref name="Ethnologue_tam"/>
+|familycolor = Dravidian
+|fam2 = [[Southern Dravidian languages|Southern]]
+|fam3 = [[Tamil–Kannada languages|Tamil–Kannada]]
+|fam4 = [[Tamil–Kodagu languages|Tamil–Kodagu]]
+|fam5 = [[Middle Tamil|Tamil–Malayalam]]
+|fam6 = [[Tamil languages]]
+|ancestor = [[Old Tamil language|Old Tamil]]
+|ancestor2 = [[Middle Tamil language|Middle Tamil]]
+|script = [[Tamil script|Tamil]] ([[Brahmic scripts|Brahmic]])<br />[[Tamil-Brahmi]] (historical)<br />[[Grantha script|Grantha]] (historical)<br />[[Vatteluttu alphabet|Vatteluttu]] (historical)<br />[[Pallava script|Pallava]] (historical)<br />[[Kolezhuthu]] (historical)<br />[[Arwi]] ([[Arabic alphabet|Abjad]])<br />[[Tamil Braille]] ([[Bharati Braille|Bharati]])<br />[[Latin script]] (informal)
+|nation={{flag|Sri Lanka}}<br />{{flag|Singapore}}<br />{{flag|India}}:
+* [[Tamil Nadu]]<ref name="TN">{{Citation|url=http://www.tn.gov.in/welcometn.htm |title=Official languages of Tamil Nadu |access-date=1 May 2007 |work=Tamil Nadu Government |url-status=dead |archive-url=https://web.archive.org/web/20121021154022/http://www.tn.gov.in/welcometn.htm |archive-date=21 October 2012 }}</ref>
+* [[Puducherry]]<ref>{{citation |url=http://nclm.nic.in/shared/linkimages/NCLM50thReport.pdf |title=Report of the Commissioner for Linguistic Minorities in India: 50th report (delivered to the Lokh Sabha in 2014) |page=155 |publisher=National Commissioner for Linguistic Minorities, Ministry of Minority Affairs, Government of India |access-date=8 June 2017 |url-status=dead |archive-url=https://web.archive.org/web/20160708012438/http://nclm.nic.in/shared/linkimages/NCLM50thReport.pdf |archive-date=8 July 2016 |df=dmy-all }}</ref>
+'''Organizations'''<br />
+{{flag|ASEAN}}<ref>{{citation|url=http://asean.org/asean/asean-member-states|title=Languages of ASEAN|access-date=7 August 2017}}</ref>
+----
+|minority= {{flag|Malaysia}}<ref name="MS">{{Citation|url=http://www10.gencat.net/pres_casa_llengues/AppJava/frontend/llengues_detall_print.jsp?id=632&idioma=5 |title=School languages |access-date=26 March 2016 |publisher=LINGUAMON |url-status=dead |archive-url=https://web.archive.org/web/20150902021816/http://www10.gencat.net/pres_casa_llengues/AppJava/frontend/llengues_detall_print.jsp?id=632&idioma=5 |archive-date=2 September 2015 }}</ref><br />{{flag|South Africa}}<ref>{{citation|url=http://www.gov.za/documents/constitution/chapter-1-founding-provisions|title=Constitution of the Republic of South Africa, 1996 – Chapter 1: Founding Provisions |publisher= South African Government|website=www.gov.za}}</ref>
+|iso1 = ta
+|iso2=tam
+|lc1=tam
+|ld1=Modern Tamil
+|lc2=oty
+|ld2=Old Tamil
+|linglist=oty
+|lingname=Old Tamil
+|lingua=49-EBE-a
+|image=Word Tamil.svg
+|map=Idioma tamil.png
+|mapcaption=
+|notice=IPA
+|sign=[[Signed Tamil]]
+|glotto=tami1289
+|glottoname=Modern Tamil
+|glottorefname=Tamil
+|glotto2=oldt1248
+|glottoname2=Old Tamil
+}}
+{{Contains special characters|Indic}}
+{{Tamil transliteration}}
+<!---
+NOTE:
+Before editing this page for unicode errors please check your OS configuration for complex character support. You can check it here: http://en.wikipedia.org/wiki/WP:INDIC and https://en.wikipedia.org/wiki/Help:Multilingual_support_(Indic)
+--->
+[[File:WIKITONGUES- Marapun speaking Tamil.webm|thumb|A Tamil speaker, recorded in [[Malaysia]].]]
+[[File:WIKITONGUES- Sai speaking Tamil.webm|thumb|A Tamil speaker.]]
+'''Tamil''' ({{IPAc-en|ˈ|t|æ|m|ɪ|l}}; {{lang|ta|தமிழ்}} ''{{transl|ta|ISO|Tamiḻ}}'' {{IPA-ta|t̪amiɻ|}}, {{Audio|Tamil.ogg|pronunciation|help=}}) is a [[Dravidian language]] natively spoken by the [[Tamil people]] of  [[South Asia]]. Tamil is the [[official language]] of the [[India]]n state of [[Tamil Nadu]], as well as two sovereign nations, [[Singapore]] and [[Sri Lanka]].<ref name=languagesdept/><ref name="statutes.agc.gov.sg">[http://statutes.agc.gov.sg/aol/search/display/view.w3p;ident=7655e14f-c579-47a2-b7a9-fffc9fea4815;page=0;query=DocId%3A%222cc15e67-cf27-44b1-a736-f28ab8190454%22%20Status%3Apublished%20Depth%3A0;rec=0 Republic of Singapore Independence Act, s.7]. Republic of Singapore</ref> In India, it is also the official language of the [[Union Territory]] of [[Puducherry]]. Tamil is spoken by significant minorities in the four other [[South India]]n states of [[Kerala]], [[Karnataka]], [[Andhra Pradesh]] and [[Telangana]] and the Union Territory of the [[Andaman and Nicobar Islands]]. It is also spoken by the [[Tamil diaspora]] found in many countries, including [[Malaysian Tamil|Malaysia]], [[Tamil South Africans|South Africa]], [[British Tamils|United Kingdom]], [[Tamil Americans|United States]], [[Tamil Canadians|Canada]], and [[Tamil Australians|Australia]]. Tamil is also natively spoken by [[Sri Lankan Moors]]. 
+
+One of 22 scheduled languages in the [[Constitution of India]], Tamil was the first to be classified as a [[Languages of India|classical language of India]] and is one of the longest-surviving [[classical language]]s in the world.<ref>https://www.thehindu.com/todays-paper/tamil-to-be-a-classical-language/article27670864.ece</ref><ref name="Circulation and the Historical Geog" /><ref>{{Harvnb|Steever|1998|pp=6–9}}</ref> [[A. K. Ramanujan]] described it as "the only language of contemporary India which is recognizably continuous with a classical past."<ref name="richestClassical">{{Citation
+| url = https://books.google.com/books?id=VF2VMUoY_okC&pg=PA11
+| title = The Smile of Murugan|first= Kamil |last = Zvelebil
+| publisher = BRILL
+| isbn = 978-90-04-03591-1
+| year = 1973|pages=11–12}}</ref> The variety and quality of classical Tamil literature has led to it being described as "one of the great classical traditions and literatures of the world".<ref>Hart, George L. [http://southasia.berkeley.edu/tamil-classes "Statement on the Status of Tamil as a Classical Language"], University of California Berkeley Department of South Asian Studies – Tamil</ref>
+
+A recorded [[Tamil literature]] has been documented for over 2000 years.<ref name="companion">{{Harvnb|Zvelebil|1992|p=12}}: "...the most acceptable periodisation which has so far been suggested for the development of Tamil writing seems to me to be that of A Chidambaranatha Chettiar (1907–1967): 1. Sangam Literature – 200BC to AD 200; 2. Post Sangam literature – AD 200 – AD 600; 3. Early Medieval literature – AD 600 to AD 1200; 4. Later Medieval literature – AD 1200 to AD 1800; 5. Pre-Modern literature – AD 1800 to 1900"</ref> The earliest period of Tamil literature, [[Sangam literature]], is dated from ca. 300 BC – AD 300.<ref>[https://web.archive.org/web/20100707000020/http://www.ciil-classicaltamil.org/project1.html Definitive Editions of Ancient Tamil Works]. Classical Tamil, Government of India</ref><ref>{{Citation | doi = 10.1353/asi.2003.0031| title = Chera, Chola, Pandya: Using Archaeological Evidence to Identify the Tamil Kingdoms of Early Historic South India| journal = Asian Perspectives| volume = 42| issue = 2| page = 207| year = 2003| last1 = Abraham | first1 = S. A. | hdl = 10125/17189| s2cid = 153420843| url = http://scholarspace.manoa.hawaii.edu/bitstream/10125/17189/1/AP-v42n2-207-223.pdf}}</ref> It has the oldest extant [[Tamil literature|literature]] among [[Dravidian languages]].<ref name="Circulation and the Historical Geog">{{Citation | doi = 10.2307/2053325| jstor = 2053325| title = Circulation and the Historical Geography of Tamil Country| journal = The Journal of Asian Studies| volume = 37| issue = 1| pages = 7–26| year = 1977| last1 = Stein | first1 = B. }}</ref> The earliest [[Epigraph (literature)|epigraphic]] records found on rock edicts and '[[hero stone]]s' date from around the 3rd century BC.<ref name="Maloney1970">{{Citation | doi = 10.2307/2943246| jstor = 2943246| title = The Beginnings of Civilization in South India| journal = The Journal of Asian Studies| volume = 29| issue = 3| pages = 603–616| year = 1970| last1 = Maloney | first1 = C. }} at p. 610</ref><ref name="Palani">{{Citation|url=http://www.thehindu.com/news/states/tamil-nadu/article2408091.ece|title=Palani excavation triggers fresh debate|last=Subramaniam|first=T.S|date=29 August 2011|newspaper=The Hindu|location=Chennai, India}}</ref> More than 55% of the epigraphical inscriptions (about 55,000) found by the [[Archaeological Survey of India]] are in the Tamil language.<ref>{{Citation |title= Students get glimpse of heritage |url= http://www.hindu.com/2005/11/22/stories/2005112215970400.htm |work=The Hindu |date = 22 November 2005|location=Chennai, India}}</ref> [[Tamil Brahmi|Tamil language inscriptions]] written in Brahmi script have been discovered in [[Sri Lanka]] and on trade goods in Thailand and Egypt.<ref name=Egypt /><ref name="Foreign locations">{{Citation |last=Mahadevan |first=Iravatham |title=An epigraphic perspective on the antiquity of Tamil |date=24 June 2010 |newspaper=The Hindu |url=http://www.thehindu.com/opinion/op-ed/an-epigraphic-perspective-on-the-antiquity-of-tamil/article482654.ece |location=Chennai, India }}</ref> The two earliest [[manuscript]]s from India,<ref>{{Citation|url=http://www.unesco.org/new/en/communication-and-information/memory-of-the-world/register/full-list-of-registered-heritage/registered-heritage-page-8/the-ias-tamil-medical-manuscript-collection/#c187096 |title=The I.A.S. Tamil Medical Manuscript Collection |publisher=UNESCO |access-date=13 September 2012}}</ref><ref>{{Citation|url=http://www.unesco.org/new/en/communication-and-information/memory-of-the-world/register/full-list-of-registered-heritage/registered-heritage-page-8/saiva-manuscript-in-pondicherry/ |title=Saiva Manuscript in Pondicherry |publisher=UNESCO |access-date=13 September 2012}}</ref> acknowledged and registered by the [[Memory of the World Programme|UNESCO Memory of the World register]] in 1997 and 2005, were written in Tamil.<ref>{{Citation|url=http://www.unesco.org/new/en/communication-and-information/memory-of-the-world/register/access-by-region-and-country/in/#c184233 |title=Memory of the World Register: India |publisher=UNESCO |access-date=13 September 2012}}</ref>
+
+In 1578, Portuguese Christian missionaries published a Tamil prayer book in old Tamil script named ''[[Thambiran Vanakkam]]'', thus making Tamil the first Indian language to be printed and published.<ref>{{Citation|url=http://www.thehindu.com/news/national/tamil-nadu/tamil-saw-its-first-book-in-1578/article476102.ece|title=Tamil saw its first book in 1578|author=Karthik Madhavan|newspaper=The Hindu|date=2010-06-20}}</ref> The ''[[Tamil Lexicon]],'' published by the [[University of Madras]], was one of the earliest [[dictionary|dictionaries]] published in the Indian languages.<ref>{{citation|last = Kolappan |first = B. |title = Delay, howlers in Tamil Lexicon embarrass scholars |newspaper = The Hindu| location = Chennai| date = 22 June 2014| url = http://www.thehindu.com/news/national/tamil-nadu/delay-howlers-in-tamil-lexicon-embarrass-scholars/article6138747.ece |access-date = 25 December 2014}}</ref> According to a 2001 survey, there were 1,863 newspapers published in Tamil, of which 353 were dailies.<ref>''India 2001: A Reference Annual 2001''. Compiled and edited by Research, Reference and Training Division, Publications Division, New Delhi: Government of India, Ministry of Information and Broadcasting.</ref>
+
+== Classification ==
+{{Main|Dravidian languages}}
+''Tamil'' belongs to the [[Southern Dravidian languages|southern]] branch of the [[Dravidian languages]], a family of around 26 languages native to the [[Indian subcontinent]].<ref>{{Harvnb|Krishnamurti|2003|p=19}}</ref> It is also classified as being part of a [[Tamil languages|Tamil language family]] that, alongside Tamil proper, includes the languages of about 35 ethno-linguistic groups<ref>Perumal, A. K. (2005) ''Manorama Yearbook'' (Tamil), pp. 302–318.</ref> such as the [[Irula language|Irula]] and [[Yerukala language|Yerukula]] languages (see [[SIL Ethnologue]]).
+
+The closest major relative of Tamil is [[Malayalam]]; the two began diverging around the 9th century AD.<ref>{{citation|title=Concise Encyclopedia of Languages of the World|date=2010|publisher=Elsevier|page=297}}</ref> Although many of the differences between Tamil and Malayalam demonstrate a pre-historic split of the western dialect,<ref name="malayalamorigin">{{Citation | doi = 10.1017/S0041977X00021285| title = Some observations on the sub-group Tamil-Malayalam: Differential realizations of the cluster * ṉt| journal = Bulletin of the School of Oriental and African Studies| volume = 53| page = 87| year = 2009| last1 = Menon | first1 = A. G. }}</ref> the process of separation into a distinct language, Malayalam, was not completed until sometime in the 13th or 14th century.<ref name="andronov">{{Harvnb|Andronov|1970|p=21}}</ref>
+
+== History ==
+
+[[File:Tamil inscriptions.jpg|thumb|Tamil inscriptions on a pillar in a large temple]]
+
+According to linguists like [[Bhadriraju Krishnamurti]], Tamil, as a Dravidian language, descends from [[Proto-Dravidian language|Proto-Dravidian]], a [[proto-language]]. Linguistic reconstruction suggests that Proto-Dravidian was spoken around the third [[millennium]] BC, possibly in the region around the lower [[Godavari]] river basin in peninsular India. The material evidence suggests that the speakers of Proto-Dravidian were of the culture associated with the [[Neolithic]] complexes of [[South India]].<ref>{{Harvnb|Southworth|2005|pp=249–250}}</ref> The earliest [[Tamil-Brahmi|epigraphic]] attestations of Tamil are generally taken to have been written from the 2nd century BC.<ref>{{Harvnb|Southworth|2005|pp=250–251}}</ref>
+
+Among Indian languages, Tamil has the most ancient non-Sanskritic Indian literature.<ref>{{citation|author=Sivathamby, K |year=1974|jstor=3516448 |title=Early South Indian Society and Economy: The Tinai Concept|journal= Social Scientist|volume=3 |issue=5|pages=20–37|doi=10.2307/3516448}}</ref> Scholars categorise the attested history of the language into three periods: Old Tamil (300 BC–AD 700), Middle Tamil (700–1600) and Modern Tamil (1600–present).<ref name="Lehmann 1998 75">{{Harvnb|Lehmann|1998|pp=75–76}}</ref> In November 2007, an excavation at Quseir-al-Qadim revealed Egyptian pottery dating back to first century BC with ancient Tamil Brahmi inscriptions.<ref name=Egypt>{{citation|title=Tamil Brahmi script in Egypt|url=http://www.thehindu.com/todays-paper/tamil-brahmi-script-in-egypt/article1952611.ece|access-date=5 January 2015|work=The Hindu|date=21 November 2007}}</ref> [[John Guy (historian)|John Guy]] states that Tamil was the [[lingua franca]] for early maritime traders from India.<ref name="scroll.in">{{citation|url=http://scroll.in/article/704603/Step-aside,-Gujaratis:-Tamilians-were-India's-earliest-recorded-maritime-traders|title=Scroll.in – News. Politics. Culture.|publisher=scroll.in}}</ref>
+
+=== Legend ===
+[[File:Mangulam inscription.jpg|thumb|upright=0.9|[[Mangulam]] Tamil Brahmi inscription in Mangulam, [[Madurai district]], Tamil Nadu, dated to Tamil [[Sangam period]] (c. 400 BC to c. 200 AD)]]
+[[File:Tamil Inscriptions.jpg|thumb|upright=0.9|Explanation for [[Mangulam]] Tamil Brahmi inscription in Mangulam, [[Madurai district]], Tamil Nadu, dated to Tamil [[Sangam period]] (c. 400 BC to c. 200 AD)]]
+[[File:Satavahana Bilingual Coin.jpg|thumb|right|upright=0.9|[[Tamil-Brahmi|Tamil Brahmi]] script in the reverse side of the bilingual silver coin of king [[Vashishtiputra Sātakarni]] (c. AD 160) of [[Deccan Plateau|Deccan]]. '''Rev:''' Ujjain/Sātavāhana symbol, crescented six-arch chaitya hill and river with Tamil Brahmi script<ref>{{Citation|last=Nagaswamy |first=N |title=Roman Karur |publisher=Brahad Prakashan |year=1995 |oclc=191007985 |url=http://www.tamilartsacademy.com/books/roman%20karur/chapter04.html |url-status=dead |archive-url=https://web.archive.org/web/20110720024602/http://www.tamilartsacademy.com/books/roman%20karur/chapter04.html |archive-date=20 July 2011 }}</ref><ref>{{Harvnb|Mahadevan|2003|pp=199–205}}</ref><ref>{{Citation|last=Panneerselvam|first=R|year=1969|title=Further light on the bilingual coin of the Sātavāhanas|journal=Indo-Iranian Journal|volume=4|issue=11|pages=281–288|doi=10.1163/000000069790078428}}</ref><ref>{{Citation|last=Yandel|first=Keith|title=Religion and Public Culture: Encounters and Identities in Modern South India |publisher=Routledge Curzon |year=2000 |page=235 |isbn=978-0-7007-1101-7}}</ref> '''Obv:''' Bust of king; [[Prakrit]] legend in the [[Brāhmī script|Brahmi]] script]]
+
+According to Hindu legend, Tamil or in personification form [[Tamil Thai|Tamil Thāi]] (Mother Tamil) was created by Lord [[Shiva]]. [[Murugan]], revered as the Tamil God, along with sage [[Agastya]], brought it to the people.{{sfn|Ramaswamy|1997|p=87}}
+
+=== Etymology ===
+The earliest extant Tamil literary works and their commentaries celebrate the [[Pandiyan Kingdom|Pandiyan Kings]] for the organization of long-termed [[Tamil Sangams]], which researched, developed and made amendments in Tamil language. Even though the name of the language which was developed by these [[Tamil Sangams]] is mentioned as Tamil, the period when the name "Tamil" came to be applied to the language is unclear, as is the precise etymology of the name. The earliest attested use of the name is found in [[Tholkappiyam]], which is dated as early as late 2nd century BC.<ref>{{Harvnb|Zvelebil|1992|p=x}}</ref><ref>{{Cite book|last=Zvelebil|first=Kamil|url=https://books.google.com/books?id=degUAAAAIAAJ&q=info:3mNeiVqlnhoJ:scholar.google.com/&pg=PR9|title=The Smile of Murugan: On Tamil Literature of South India|date=1973|publisher=BRILL|isbn=978-90-04-03591-1|language=en}}</ref>
+
+The [[Samavayanga Sutra]] dated to the 3rd century BC contains a reference to a Tamil script named 'Damili'.<ref>{{cite book|last=Jain|first=Sagarmal|title=Aspects of Jainology: Volume VI|year=1998|chapter=Jain Literature [From earliest time to c. 10th A.D.]}}</ref>
+
+Southworth suggests that the name comes from {{IAST|tam-miḻ}} > {{IAST|tam-iḻ}} "self-speak", or "one's own speech".<ref>{{Harvnb|Southworth|1998|pp=129–132}}</ref> [[Kamil Zvelebil]] suggests an etymology of {{IAST|tam-iḻ}}, with {{IAST|tam}} meaning "self" or "one's self", and "{{IAST|-iḻ}}" having the connotation of "unfolding sound". Alternatively, he suggests a derivation of {{IAST|tamiḻ}} < {{IAST|tam-iḻ}} < *{{IAST|tav-iḻ}} < *{{IAST|tak-iḻ}}, meaning in origin "the proper process (of speaking)".<ref>{{Harvnb|Zvelebil|1992|p=ix–xvi}}</ref>
+
+The Tamil Lexicon of University of Madras defines the word "Tamil" as "sweetness".<ref>{{Citation|publisher=University of Madras |title=Tamil lexicon |place=Madras |year=1924–36 |url=http://dsalsrv02.uchicago.edu/cgi-bin/philologic/contextualize.pl?p.5.tamillex.2763513 |access-date=26 February 2012 |postscript=.}} (Online edition at the University of Chicago)</ref> S. V. Subramanian suggests the meaning "sweet sound", from ''tam'' — "sweet" and ''il'' — "sound".<ref>{{Citation|last=Subramanian|first=S.V|title=Heritage of Tamils; Language and Grammar|year=1980|publisher=International Institute of Tamil Studies|pages=7–12}}</ref>
+
+=== Old Tamil ===
+{{Main|Old Tamil language}}
+Old Tamil is the period of the Tamil language spanning the 3rd century BC to the 8th century AD. The earliest records in Old Tamil are short inscriptions from between the 3rd and 2nd century BC in caves and on pottery. These inscriptions are written in a variant of the [[Brahmi script]] called [[Tamil-Brahmi]].<ref>{{Harvnb|Mahadevan|2003|pp=90–95}}</ref> The earliest long text in Old Tamil is the ''[[Tolkāppiyam]]'', an early work on Tamil grammar and poetics, whose oldest layers could be as old as the late 2nd century BC.<ref name="Lehmann 1998 75"/><ref>{{Cite book|last=Zvelebil|first=Kamil|url=https://books.google.com/books?id=degUAAAAIAAJ&q=info:3mNeiVqlnhoJ:scholar.google.com/&pg=PR9|title=The Smile of Murugan: On Tamil Literature of South India|date=1973|publisher=BRILL|isbn=978-90-04-03591-1|language=en}}</ref> Many literary works in Old Tamil have also survived. These include a corpus of 2,381 poems collectively known as [[Sangam literature]]. These poems are usually dated to between the 1st century BC and 5th century AD.<ref name="Lehmann 1998 75"/><ref>{{Cite book|last=Zvelebil|first=Kamil|url=https://books.google.com/books?id=degUAAAAIAAJ&q=info:3mNeiVqlnhoJ:scholar.google.com/&pg=PR9|title=The Smile of Murugan: On Tamil Literature of South India|date=1973|publisher=BRILL|isbn=978-90-04-03591-1|language=en}}</ref>
+
+=== Middle Tamil ===
+{{Main|Middle Tamil language}}
+[[File:Tanjavur Tamil Inscription2.jpg|thumb|upright=0.9|Tamil inscriptions in [[Vatteluttu|Vatteluttu script]] in stone during [[Chola empire|Chola]] period c.1000 AD at [[Brahadeeswara temple]] in [[Thanjavur]], Tamil Nadu.]]
+The evolution of [[Old Tamil]] into [[Middle Tamil]], which is generally taken to have been completed by the 8th century,<ref name="Lehmann 1998 75"/> was characterised by a number of phonological and grammatical changes. In phonological terms, the most important shifts were the virtual disappearance of the aytam (ஃ), an old phoneme,<ref>{{Harvnb|Kuiper|1958|p=194}}</ref> the coalescence of the alveolar and dental nasals,<ref>{{Harvnb|Meenakshisundaran|1965|pp=132–133}}</ref> and the transformation of the alveolar [[plosive]] into a [[Rhotic consonant|rhotic]].<ref>{{Harvnb|Kuiper|1958|pp=213–215}}</ref> In grammar, the most important change was the emergence of the present tense. The present tense evolved out of the verb ''{{IAST|kil}}'' ({{lang|ta|கில்}}), meaning "to be possible" or "to befall". In Old Tamil, this verb was used as an [[Grammatical aspect|aspect marker]] to indicate that an action was micro-durative, non-sustained or non-lasting, usually in combination with a time marker such as ''{{IAST|ṉ}}'' ({{lang|ta|ன்}}). In Middle Tamil, this usage evolved into a present tense marker – ''{{IAST|kiṉṟa}}'' ({{lang|ta|கின்ற}}) – which combined the old aspect and time markers.<ref>{{Citation | doi = 10.2307/601707| jstor = 601707| title = The Duration of an Action-Real or Aspectual? The Evolution of the Present Tense in Tamil| journal = Journal of the American Oriental Society| volume = 105| issue = 2| pages = 277–291| year = 1985| last1 = Rajam | first1 = V. S.}} at pp. 284–285</ref>
+
+=== Modern Tamil ===
+The [[Nannul]] remains the standard normative grammar for modern literary Tamil, which therefore continues to be based on Middle Tamil of the 13th century rather than on Modern Tamil.<ref>{{Harvnb|Shapiro|Schiffman|1983|p=2}}</ref> Colloquial spoken Tamil, in contrast, shows a number of changes. The negative conjugation of verbs, for example, has fallen out of use in Modern Tamil<ref>{{Harvnb|Annamalai|Steever|1998|p=100}}</ref> – instead, negation is expressed either morphologically or syntactically.<ref>{{Harvnb|Steever|2005|pp=107–8}}</ref> Modern spoken Tamil also shows a number of sound changes, in particular, a tendency to lower high vowels in initial and medial positions,<ref>{{Harvnb|Meenakshisundaran|1965|p=125}}</ref> and the disappearance of vowels between plosives and between a plosive and rhotic.<ref>{{Harvnb|Meenakshisundaran|1965|pp=122–123}}</ref>
+
+Contact with European languages affected written and spoken Tamil. Changes in written Tamil include the use of European-style punctuation and the use of consonant clusters that were not permitted in Middle Tamil. The syntax of written Tamil has also changed, with the introduction of new aspectual auxiliaries and more complex sentence structures, and with the emergence of a more rigid word order that resembles the [[Theta role|syntactic argument structure]] of English.<ref>{{Citation | doi = 10.1515/ijsl.1978.16.59| title = Standard Language and Socio-Historical Parameters: Standard Lankan Tamil| journal = International Journal of the Sociology of Language| volume = 1978| issue = 16| year = 1978| last1 = Kandiah | first1 = T. | s2cid = 143499414}} at pp. 65–69</ref> Simultaneously, a strong strain of [[linguistic purism]] emerged in the early 20th century, culminating in the [[Pure Tamil Movement]] which called for removal of all Sanskritic elements from Tamil.<ref name="thaniththamizh">{{Harvnb|Ramaswamy|1997}}</ref> It received some support from [[Dravidian parties]].<ref>{{Harvnb|Ramaswamy|1997}}: "Dravidianism, too, lent its support to the contestatory classicist project, motivated principally by the political imperative of countering (Sanskritic) Indian nationalism... It was not until the DMK came to power in 1967 that such demands were fulfilled, and the pure Tamil cause received a boost, although purification efforts are not particularly high on the agenda of either the Dravidian movement or the Dravidianist idiom of tamiḻppaṟṟu."</ref> This led to the replacement of a significant number of [[Sanskrit]] loanwords by Tamil equivalents, though many others remain.<ref name="Krishnamurti 2003 p=480">{{Harvnb|Krishnamurti|2003|p=480}}</ref>
+
+== Geographic distribution ==
+Tamil is the primary language of the majority of the people residing in [[Tamil Nadu]], [[Puducherry]], (in India) and in the [[Northern Province, Sri Lanka|Northern]] and [[Eastern Province, Sri Lanka|Eastern]] provinces of [[Sri Lanka]]. The language is spoken among small minority groups in other states of India which include [[Karnataka]], [[Andhra Pradesh]], [[Kerala]], [[Maharashtra]] and in certain regions of Sri Lanka such as [[Colombo]] and [[Central Province, Sri Lanka|the hill country]]. Tamil or dialects of it were used widely in the state of Kerala as the major language of administration, literature and common usage until the 12th century AD. Tamil was also used widely in inscriptions found in southern [[Andhra Pradesh]] districts of [[Chittoor district|Chittoor]] and [[Nellore district|Nellore]] until the 12th century AD.<ref>{{Harvnb|Talbot|2001|pp=27–37}}</ref> Tamil was used for inscriptions from the 10th through 14th centuries in southern Karnataka districts such as [[Kolar District|Kolar]], [[Mysore]], [[Mandya]] and [[Bangalore]].<ref>{{Harvnb|Murthy|Rao|Veluthat|Bari|1990|pp=85–106}}</ref>
+
+There are currently sizeable [[Tamil diaspora|Tamil-speaking populations]] descended from colonial-era migrants in [[Malaysia]], [[Singapore]], [[Philippines]], [[Mauritius]], [[Tamil South Africans|South Africa]], Indonesia,<ref>{{Harvnb|Ramstedt|2004|p= 243}}</ref> Thailand,<ref>{{Harvnb|Kesavapany|Mani|Ramasamy|2008|p= 60}}</ref> [[Burma]], and [[Vietnam]]. Tamil is used as one of the languages of education in [[Malaysia]], along with English, Malay and Mandarin.<ref name="Tamil Schools">[http://www.indianmalaysian.com/education.htm Tamil Schools]. Indianmalaysian.com. Retrieved 28 July 2013.</ref><ref>Ghazali, Kamila (2010). [https://web.archive.org/web/20121102173228/http://www.un.org/wcm/content/site/chronicle/home/archive/issues2010/un_academic_impact/national_identity_and_minority_languages?ctnscroll_articleContainerList=1_0&ctnlistpagination_articleContainerList=true UN Chronicle – National Identity and Minority Languages]. United Nations.</ref> A large community of [[Tamils in Pakistan|Pakistani Tamils]] speakers exists in [[Karachi]], [[Pakistan]], which includes Tamil-speaking Hindus<ref name="TNP">{{Citation
+ |url=http://www.thenews.com.pk/Todays-News-4-98530-Strangers-to-their-roots-and-those-around-them
+ |title=Strangers to Their Roots and Those Around Them
+ |author=Shahbazi, Ammar
+ |date=20 March 2012
+ |work=The News (Pakistan)
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20130617043012/http://www.thenews.com.pk/Todays-News-4-98530-Strangers-to-their-roots-and-those-around-them
+ |archive-date=17 June 2013
+}}</ref><ref name="PHP">Sunny, Sanjesh (21 September 2010) [http://pakistanhindupost.blogspot.com/2010/09/picture-of-tamil-hindus-in-karachi.html Tamil Hindus in Karachi]. ''Pakistan Hindu Post''</ref> as well as Christians and Muslims – including some Tamil-speaking Muslim refugees from Sri Lanka.<ref name="HBL">Raman, B. (15 July 2002) [http://www.thehindubusinessline.com/2002/07/15/stories/2002071500050800.htm Osama's shadow on Sri Lanka?]. ''The Hindu Business Line''</ref> There are about 100 Tamil Hindu families in [[Madrasi Para]] colony in Karachi .They speak impeccable Tamil along with Urdu, Punjabi and Sindhi.<ref>Sumit, Paul (4 November 2018).  [https://www.thehindu.com/opinion/open-page/for-tamil-cuisine-away-in-pakistan/article25414464.ece "For Tamil Cuisine, away in Pakistan."]  ''The Hindu''.  Retrieved 12 July 2019.</ref> Many in [[Réunion]], [[Guyana]], [[Fiji]], [[Suriname]], and [[Trinidad and Tobago]] have Tamil origins,<ref name="ucberkeleydiaspora">{{Citation|url=http://www.lib.berkeley.edu/SSEAL/SouthAsia/overview.html |title=Overview of the South Asian Diaspora |access-date=23 April 2008 |last=McMahon |first=Suzanne |publisher=University of California, Berkeley }}</ref> but only a small number speak the language. In Reunion where the Tamil language was forbidden to be learnt and used in public space by [[France]] it is now being relearnt by students and adults.<ref name="ucberkeleydiaspora1">{{Citation|url= http://www.lib.berkeley.edu/SSEAL/SouthAsia/tamil.html |title= Indentured immigration and social accommodation in La Réunion |access-date=8 January 2010 |last= Ghasarian |first=Christian |publisher=University of California, Berkeley }}</ref> Tamil is also spoken by migrants [[Sri Lankan Tamil diaspora|from Sri Lanka]] and India in [[Tamil Canadians|Canada]], the [[Tamil Americans|United States]] (especially [[New Jersey]] and [[Indians in the New York City metropolitan region|New York City]]), [[Tamil Australians|Australia]], the [[British Tamils|United Kingdom]], [[Tamil South Africans|South Africa]], and many other European and Middle Eastern countries.
+<gallery>
+File:GandhijiTamilWriting.jpg|[[Mahatma Gandhi]]'s written wishes in Tamil for [[Subramanya Bharathy]]
+File:Tsunami-warning-centre hikkaduwa sri-lanka.jpg|Multilingual signs with Tamil in [[Sri Lanka]] ([[tsunami]] early warning tower)
+File:Trincomalee .- Koneshwarama Temple.jpg|Nameboard with Tamil at [[Koneswaram temple]] at [[Trincomalee|Thirukonamalai]], [[Sri Lanka]].
+File:DangerKeepOut.jpg|A multilingual danger sign in [[Singapore]] with Tamil writing
+File:Mauritius currency.jpg|[[Mauritius]] currency note with Tamil <small>'{{lang|ta|இருநூறு ரூபாய்}}'</small> (200 rupee) written in the note with [[Abdool Razack Mohamed]], written next to him.
+File:Saravana Bhavan Edison NJ (cropped).jpg|A restaurant in [[Edison, New Jersey|Edison]], [[New Jersey]], near [[New York City]], with signage in Tamil and English translation
+File:Shri-lanka3.jpg|[[Sri Lanka]] currency note with Tamil (5,000 rupee)
+</gallery>
+
+== Legal status ==
+{{See also|States of India by Tamil speakers|List of territorial entities where Tamil is an official language}}
+Tamil is the [[official language]] of the Indian state of Tamil Nadu and one of the [[Languages with official status in India|22 languages under schedule 8 of the constitution of India]]. It is one of the official languages of the union territories of [[Puducherry]] and the [[Andaman and Nicobar Islands]].<ref>{{citation | last = Ramamoorthy | first = L | publisher = Language in India | url = http://www.languageinindia.com/feb2004/multilingual.html | date = February 2004 | title = Multilingualism and Second Language Acquisition and Learning in Pondicherry | access-date =16 August 2007}}</ref><ref>{{citation | last = Sunwani | first = Vijay K | publisher = Language in India | url = http://www.languageinindia.com/feb2007/northeasternstates.pdf | date = February 2007 | title = Amazing Andamans and North-East India: A Panoramic View of States, Societies and Cultures | access-date =16 August 2007}}</ref> Tamil is also one of the official languages of [[Singapore]]. Tamil is one of the official and national languages of Sri Lanka, along with [[Sinhala language|Sinhala]].<ref name=languagesdept>{{Citation|url=http://www.languagesdept.gov.lk |title=Department of Official Languages|publisher=Government of Sri Lanka|access-date=13 September 2012}}</ref> It was once given nominal official status in the Indian state of [[Haryana]], purportedly as a rebuff to [[Punjab (India)|Punjab]], though there was no attested Tamil-speaking population in the state, and was later replaced by [[Punjabi language|Punjabi]], in 2010.<ref>Bharadwaj, Ajay (7 March 2010) [http://www.dnaindia.com/india/1356124/report-punjabi-edges-out-tamil-in-haryana Punjabi edges out Tamil in Haryana]. DNA India</ref> In Malaysia, 543 primary education [[Education in Malaysia#Stages|government schools]] are available fully in [[medium of instruction|Tamil medium]].<ref>{{Citation|url=http://ccat.sas.upenn.edu/~haroldfs/540/handouts/sparadox/sparadox.html |title=Language Shift in the Tamil Communities of Malaysia and Singapore: the Paradox of Egalitarian Language Policy |publisher=Ccat.sas.upenn.edu |access-date=13 September 2012}}</ref> The establishment of Tamil medium schools has been in process in [[Myanmar]] to provide education completely in Tamil language by the Tamils who settled there 200 years ago.<ref name="bbc.com">Natarajan, Swaminathan (6 March 2014) [https://www.bbc.com/news/world-asia-25438275 Myanmar's Tamils seek to protect their identity]. BBC</ref> Tamil language is available as a course in some local school boards and major universities in [[Canada]] and the month of January has been declared "Tamil Heritage Month" by the [[Parliament of Canada]].<ref>{{citation|url=http://www.pm.gc.ca/eng/news/2017/01/14/statement-prime-minister-canada-thai-pongal|title=Statement by the Prime Minister of Canada on Thai Pongal|date=13 January 2017}}</ref><ref>{{Citation|url=http://www.thenewsminute.com/article/canada-officially-declares-pride-its-tamils-passes-bill-calling-tamil-heritage-month-51059|title=Canada officially declares pride in its Tamils, passes Bill calling for Tamil Heritage Month|date=8 October 2016|work=The News Minute|access-date=6 August 2017}}</ref> Tamil enjoys a special status of protection under Article 6(b), Chapter 1 of the [[Constitution of South Africa]] and is taught as a subject in schools in [[KwaZulu-Natal]] province.<ref>{{Citation|url=http://www.constitutionalcourt.org.za/site/constitution/english-web/ch1.html|title=Constitutional Court of South Africa – The Constitution|website=www.constitutionalcourt.org.za|language=en|access-date=5 August 2017}}</ref><ref>{{Citation|url=http://www.jagranjosh.com/current-affairs/five-indian-languages-reinstated-as-official-subjects-in-south-african-schools-1395392591-1|title=Five Indian languages reinstated as official subjects in South African schools|date=21 March 2014|work=Jagranjosh.com|access-date=6 August 2017}}</ref> Recently, it has been rolled out as a subject of study in schools in the [[Overseas France|French overseas department]] of [[Réunion]].<ref>{{Citation|url=http://www.thehindu.com/news/national/For-these-islanders-a-reunion-with-Tamil/article17009446.ece|title=For these islanders, a reunion with Tamil|work=The Hindu|access-date=6 August 2017|language=en}}</ref>
+
+In addition, with the creation in October 2004 of a legal status for classical languages by the [[Government of India]] and following a political campaign supported by several Tamil associations,<ref name="dmkpolitics2">{{Citation | url= http://www.telegraphindia.com/1040928/asp/frontpage/story_3813391.asp | title= Classic case of politics of language | access-date =20 April 2007 |work=The Telegraph | place = [[Kolkata]], India | quote= Members of the committee felt that the pressure was being brought on it because of the compulsions of the Congress and the UPA government to appease its ally, M. Karunanidhi's DMK. | first=Sujan | last=Dutta | date=28 September 2004}}</ref><ref name="historyofdemand">{{Citation|last=Viswanathan|first=S.|date=October 2004|url=https://frontline.thehindu.com/static/html/fl2122/stories/20041105004310600.htm |title=Recognising a classic|archive-url=https://web.archive.org/web/20070926212522/http://www.hinduonnet.com/fline/fl2122/stories/20041105004310600.htm |archive-date=26 September 2007 |work=The Hindu}}</ref> Tamil became the first legally recognised [[Languages of India#Classical languages|Classical language]] of India. The recognition was announced by the contemporaneous [[President of India]], [[Abdul Kalam]], in a joint sitting of both houses of the [[Parliament of India|Indian Parliament]] on 6 June 2004.<ref name="LanguageInIndia">{{Citation |last= Thirumalai |first= MS |date=November 2004 | title = Tradition, Modernity and Impact of Globalization&nbsp;– Whither Will Tamil Go? | journal = Language in India | volume = 4 |url= http://www.languageinindia.com/nov2004/tamilglobalization1.html |access-date=17 November 2007}}</ref><ref name = "BBC Classical language">[http://news.bbc.co.uk/2/hi/south_asia/3667032.stm India sets up classical languages]. BBC. 17 August 2004.</ref><ref name = "The Hindu Classical language">[http://www.hindu.com/2005/10/28/stories/2005102809281200.htm "Sanskrit to be declared classical language"]. ''The Hindu''. 28 October 2005.</ref>
+
+== Dialects ==
+[[File:Jambai Tamil Brahmi.jpg|thumb|upright=1.81|[[Athiyamān Nedumān Añci|Jambai Tamil Brahmi inscription]] near [[Tirukkoyilur]] in [[Villupuram district]], Tamil Nadu dated to the early [[Tamil Sangam]] age (c. 400 BC).]]
+{{Listen
+| type          = speech
+| header        =
+| filename      = Oppaari Song.ogg
+| title         = Colloquial Tamil 'Oppaari song'
+| description   = Oppaari song lamenting death, sung by women during a death ceremony. Here it is the death of a son lamented by the mother.
+| filename2     =Ta-ponnagaram.ogg
+| title2        = Pudumaipithan's short story 'Pon Nagaram'
+| description2  =Audio recording of [[Pudumaipithan]]'s short story 'Pon Nagaram' (showing a few loanwords).
+}}
+
+=== Region-specific variations ===
+
+The [[Socio-linguistics|socio-linguistic]] situation of Tamil is characterised by [[diglossia]]: there are two separate registers varying by [[socioeconomic status]], a high register and a low one.<ref>Arokianathan, S. [http://www.ciil-ebooks.net/html/piil/acharya2.html Writing and Diglossic: A Case Study of Tamil Radio Plays] {{webarchive|url=https://web.archive.org/web/20070928092717/https://www.ciil-ebooks.net/html/piil/acharya2.html |date=28 September 2007 }}. ciil-ebooks.net</ref><ref>{{Citation | doi = 10.2307/414796| jstor = 414796| title = Diglossia: A Study of the Theory, with Application to Tamil| journal = Language| volume = 64| issue = 1| pages = 152–155| year = 1988| last1 = Steever | first1 = S. B. | last2 = Britto | first2 = F. }}</ref> Tamil dialects are primarily differentiated from each other by the fact that they have undergone different phonological changes and sound shifts in evolving from Old Tamil. For example, the word for "here"—''{{IAST|iṅku}}'' in ''Centamil'' (the classic variety)—has evolved into ''{{IAST |iṅkū}}'' in the Kongu dialect of [[Coimbatore]], ''inga'' in the dialect of [[Thanjavur]],  and ''{{IAST |iṅkai}}'' in some [[Sri Lankan Tamil dialects|dialects of Sri Lanka]]. Old Tamil's ''{{IAST|iṅkaṇ}}'' (where ''{{IAST|kaṇ}}'' means place) is the source of ''{{IAST |iṅkane}}'' in the dialect of [[Tirunelveli]], Old Tamil ''{{IAST |iṅkiṭṭu}}'' is the source of ''{{IAST |iṅkuṭṭu}}'' in the dialect of [[Madurai]],  and ''{{IAST |iṅkaṭe}}'' in some northern dialects. Even now, in the Coimbatore area, it is common to hear "{{IAST|akkaṭṭa}}" meaning "that place". Although Tamil dialects do not differ significantly in their vocabulary, there are a few exceptions. The dialects spoken in Sri Lanka retain many words and grammatical forms that are not in everyday use in India,<ref name="Lehmann 1998 75"/><ref name=as>{{Harvnb|Annamalai|Steever|1998|pp=100–28}}</ref> and use many other words slightly differently.<ref>{{Citation | doi = 10.1163/000000066790086440| title = Some features of Ceylon Tamil| journal = Indo-Iranian Journal| volume = 9| issue = 2| page = 113| year = 1966| last1 = Zvelebil | first1 = K. }}</ref> Tamil dialects include [[Central Tamil dialect]], [[Kongu Tamil]], [[Madras Bashai]], [[Madurai Tamil]], [[Nellai Tamil]], [[Kumari tamil]] in [[India]] and [[Batticaloa Tamil dialect]], [[Jaffna Tamil dialect]], [[Negombo Tamil dialect]] in Sri Lanka. [[Sankethi dialect]] in Karnataka has been heavily influenced by [[Kannada]].
+
+==== Loanword variations ====
+{{See also|Indo-Aryan loanwords in Tamil|Loan words in Sri Lankan Tamil}}
+The dialect of the district of [[Palakkad]] in Kerala has many [[Malayalam language|Malayalam]] loanwords, has been influenced by Malayalam's syntax, and has a distinctive Malayalam accent. Similarly, Tamil spoken in Kanyakumari District has more unique words and phonetic style than Tamil spoken at other parts of Tamil Nadu. The words and phonetics are so different that a person from [[Kanyakumari district]] is easily identifiable by their spoken Tamil. [[Hebbar Iyengars|Hebbar]] and [[Mandyam]] dialects, spoken by groups of Tamil [[Vaishnavism|Vaishnavites]] who migrated to [[Karnataka]] in the 11th century, retain many features of the ''Vaishnava paribasai'', a special form of Tamil developed in the 9th and 10th centuries that reflect Vaishnavite religious and spiritual values.<ref>Thiru. Mu (1978). Kovintācāriyar, ''{{IAST|Vāḻaiyaṭi vāḻai}}'' Lifco, Madras, pp. 26–39.</ref> Several [[caste]]s have their own [[sociolect]]s which most members of that caste traditionally used regardless of where they come from. It is often possible to identify a person's caste by their speech.<ref name="EB 2007">Krishnamurti, Bhadriraju (2013) [http://global.britannica.com/EBchecked/topic/581953/Tamil-language "Tamil dialects"] in ''Tamil language''. Encyclopædia Britannica Online</ref> Tamil in Sri Lanka incorporates [[Loan words in Sri Lankan Tamil|loan words]] from [[Portuguese language|Portuguese]], [[Dutch Language|Dutch]], and English.
+
+== Spoken and literary variants ==
+{{Listen
+| type          = speech
+| header        =
+| filename      = Thiruppugazh - Umbartharu - Hamsadhwani.wav
+| title         = Thiruppugazh – Umbartharu – Hamsadhwani
+| description   = Literary Tamil in hymn 'Umbartharu' (Hamsadhwani) on lord [[Ganesha]] from [[Thiruppugazh]] (c. 1400s).
+| filename2      =Ta - குளிர் காய நேரமில்லை - அறிவுக் கதைகள் - ம.பொ.சிவஞானம்.ogg
+| title2         = Sivagnanam's 'Arivuk kadhaigal'.
+| description2   =Literary Tamil pronunciation. Reading an excerpt from [[Ma. Po. Si.]]'s book 'Arivuk kadhaigal' (1900s).
+| filename3      = Ta-Senthamizh Nadu.ogg
+| title3         = Bharathi's 'Senthamil nadu ennum' song
+| description3   =Literary Tamil pronunciation in song written by [[Subramanya Bharathi]], 'Senthamizh naadennum pothinile' (1900s ).
+}}
+In addition to its dialects, Tamil exhibits different forms: a classical literary style modelled on the ancient language (''{{IAST|sankattamiḻ}}''), a modern literary and formal style (''{{IAST|centamiḻ}}''), and a modern [[colloquial]] form (''{{IAST|koṭuntamiḻ}}''). These styles shade into each other, forming a stylistic continuum. For example, it is possible to write ''{{IAST|centamiḻ}}'' with a vocabulary drawn from ''{{IAST|caṅkattamiḻ}}'', or to use forms associated with one of the other variants while speaking ''{{IAST|koṭuntamiḻ}}''.<ref>Schiffman, Harold (1997). "[http://ccat.sas.upenn.edu/~haroldfs/messeas/diglossia/handbuk.html Diglossia as a Sociolinguistic Situation]", in Florian Coulmas (ed.), ''The Handbook of Sociolinguistics''. London: Basil Blackwell, Ltd. pp. 205 ff.</ref>
+
+In modern times, ''{{IAST|centamiḻ}}'' is generally used in formal writing and speech. For instance, it is the language of textbooks, of much of [[Tamil literature]] and of public speaking and debate. In recent times, however, ''{{IAST|koṭuntamiḻ}}'' has been making inroads into areas that have traditionally been considered the province of ''{{IAST|centamiḻ}}''. Most contemporary cinema, theatre and popular entertainment on television and radio, for example, is in ''{{IAST|koṭuntamiḻ}}'', and many politicians use it to bring themselves closer to their audience. The increasing use of ''{{IAST|koṭuntamiḻ}}'' in modern times has led to the emergence of unofficial ‘standard' spoken dialects. In India, the ‘standard' ''{{IAST|koṭuntamiḻ}}'', rather than on any one dialect,<ref name="Standard restandard">{{Citation | last1 = Schiffman | first1 = Harold | year = 1998 | title = Standardization or restandardization: The case for 'Standard' Spoken Tamil  | url =http://ccat.sas.upenn.edu/~haroldfs/public/stantam/STANTAM.HTM | journal = Language in Society | volume = 27 | issue = 3| pages = 359–385 |doi=10.1017/S0047404598003030 | postscript = .}}</ref> but has been significantly influenced by the dialects of [[Thanjavur]] and [[Madurai]]. In Sri Lanka, the standard is based on the dialect of [[Jaffna]].
+
+== Writing system ==
+<!---
+NOTE:
+Before editing this page for unicode errors please check your OS configuration for complex character support. You can check it here: http://en.wikipedia.org/wiki/WP:INDIC and https://en.wikipedia.org/wiki/Help:Multilingual_support_(Indic)
+--->
+{{Main|Tamil script|Tamil braille}}
+{{See also|Vatteluttu|Grantha script|Pallava script|Arwi|}}
+[[File:History of Tamil script.jpg|thumb|upright=1.81|Historical evolution of Tamil writing from the earlier [[Tamil Brahmi]] near the top to the current [[Tamil script]] at bottom.]]
+[[File:Tirukkural manuscript.jpg|thumb|upright=1.81|[[Tirukkural|Thirukkural]] [[palm leaf manuscript]].]]
+After [[Tamil Brahmi]] fell out of use, Tamil was written using a script called [[Vatteluttu alphabet|{{IAST|vaṭṭeḻuttu}}]] amongst others such as [[Grantha script|Grantha]] and [[Pallava script|Pallava]]. The current Tamil script consists of 12 [[vowel]]s, 18 [[consonant]]s and one special character, the ''[[āytam]]''. The vowels and consonants combine to form 216 compound characters, giving a total of 247 characters (12 + 18 + 1 + (12 x 18)). All consonants have an inherent vowel ''a'', as with other [[Indic scripts]]. This inherent vowel is removed by adding a [[tittle]] called a ''{{IAST|puḷḷi}}'', to the consonantal sign<!--, whereas no such distinction is there in other Indic scipts-->. For example, {{lang|ta|ன}} is ''ṉa'' (with the inherent ''a'') and {{lang|ta|ன்}} is ''ṉ'' (without a vowel). Many Indic scripts have a similar sign, generically called [[virama]], but the Tamil script is somewhat different in that it nearly always uses a visible ''puḷḷi'' to indicate a 'dead consonant' (a consonant without a vowel). In other Indic scripts, it is generally preferred to use a ligature or a half form to write a syllable or a cluster containing a dead consonant, although writing it with a visible virama is also possible. The Tamil script does not differentiate voiced and unvoiced [[plosive]]s. Instead, plosives are articulated with voice depending on their position in a word, in accordance with the rules of [[Tamil phonology]].
+
+In addition to the standard characters, six characters taken from the [[Grantha script]], which was used in the Tamil region to write Sanskrit, are sometimes used to represent sounds not native to Tamil, that is, words adopted from Sanskrit, Prakrit and other languages. The traditional system prescribed by classical grammars for writing loan-words, which involves respelling them in accordance with Tamil phonology, remains, but is not always consistently applied.<ref>{{citation|last=Fowler|first=Murray|title=The Segmental Phonemes of Sanskritized Tamil|journal=Language|volume=30|pages=360–367|doi=10.2307/410134|year=1954|jstor=410134|issue=3}} at p. 360.</ref> [[ISO 15919#Overview|ISO 15919]] is an international standard for the [[Tamil script#Letters|transliteration of Tamil]] and other Indic scripts into Latin characters. It uses diacritics to map the much larger set of Brahmic consonants and vowels to the Latin script. Tamil can be transliterated into English by using ISO 15919, since English language uses the [[Latin script]] for writing.
+
+=== Numerals and symbols ===
+{{Main|Tamil numerals}}
+
+Apart from the usual numerals, Tamil has numerals for 10, 100 and 1000. Symbols for day, month, year, debit, credit, as above, rupee, and numeral are present as well. Tamil also uses several historical fractional signs.
+{| class=wikitable style="text-align: center;"
+|-
+!  zero || one || two || three || four || five || six || seven|| eight || nine|| ten || hundred || thousand
+|- style="font-size: 150%"
+| {{lang|ta|௦}} || {{lang|ta|௧}} || {{lang|ta|௨}} || {{lang|ta|௩}} || {{lang|ta|௪}} || {{lang|ta|௫}} || {{lang|ta|௬}} || {{lang|ta|௭}} || {{lang|ta|௮}} || {{lang|ta|௯}} || {{lang|ta|௰}} || {{lang|ta|௱}} || {{lang|ta|௲}}
+|}
+{| class=wikitable style="text-align: center;"
+|-
+!  day || month || year || debit || credit || as above || rupee || numeral
+|- style="font-size: 150%"
+| {{lang|ta|௳}} || {{lang|ta|௴}} || {{lang|ta|௵}} || {{lang|ta|௶}} || {{lang|ta|௷}} || {{lang|ta|௸}} || {{lang|ta|௹}} || {{lang|ta|௺}}
+|}
+
+== Phonology ==
+<!---
+NOTE:
+Before editing this page for unicode errors please check your OS configuration for complex character support. You can check it here: http://en.wikipedia.org/wiki/WP:INDIC and https://en.wikipedia.org/wiki/Help:Multilingual_support_(Indic)
+--->
+{{Tamils}}
+{{Dravidian}}
+{{Main|Tamil phonology}}
+{{Listen
+| type          = speech
+| header        = Tamil tongue twisters.
+| filename      =நா நெகிழ் பயிற்சி வாக்கியம் 7.ogg
+| title         = ல-கரம், ழ-கரம்.
+| description   = <small>'குலை குலையாய் வாழைப்பழம், மழையில் அழுகி கீழே விழுந்தது.'</small>
+| filename2      =நா நெகிழ் பயிற்சி 2.ogg
+| title2         = (பேச்சுத் தமிழில்)  ந-கரம், ட-கரம்.
+| description2 =<small>கொக்கு நெட்ட கொக்கு. நெட்ட கொக்கு இட்ட முட்ட, கட்ட முட்ட.</small>
+| filename3      =Tamil tongue twister.ogg
+| title3         =  ழ-கரம்.
+| description3   =<small>ஏழை கிழவன் வாழைப் பழத் தோல் மேல் சருசருக்கி வழுவழுக்கி கீழே விழுந்தான்.</small>
+| filename4      =நா நெகிழ் பயிற்சி வாக்கியம் 10.ogg
+| title4         = ல-கரம், ள-கரம்.
+| description4   =<small>'அவள் அவலளந்தால், இவள் அவலளப்பாள். இவள் அவலளந்தால், அவள்  அவலளப்பாள். அவளும் இவளும் அவல் அளக்காவிட்டால்,  எவள் அவலளப்பாள் ?'</small>
+}}
+
+Tamil phonology is characterised by the presence of [[retroflex consonant]]s and multiple [[Rhotic consonant|rhotics]]. Tamil does not distinguish phonologically between voiced and unvoiced consonants; phonetically, voice is assigned depending on a consonant's position in a word.<ref>{{Citation | last1=Schiffman | first1=Harold F. | last2=Arokianathan | first2=S. | contribution=Diglossic variation in Tamil film and fiction | editor1-last=Krishnamurti | editor1-first=Bhadriraju | editor1-link=Bhadriraju Krishnamurti | editor2-last=Masica | editor2-first=Colin P. | editor2-link=Colin Masica | title=South Asian languages: structure, convergence, and diglossia | year=1986 | publisher=Motilal Banarsidass | place=New Delhi | isbn=978-81-208-0033-5 | page=371}}</ref> Tamil phonology permits few consonant clusters, which can never be word initial. Native grammarians classify Tamil phonemes into vowels, consonants, and a "secondary character", the āytam.
+
+=== Vowels ===
+Tamil has five vowel qualities, namely {{IPAslink|a}}, {{IPAslink|e}}, {{IPAslink|i}}, {{IPAslink|o}} and {{IPAslink|u}}. Each may be long or short. {{IPAslink|ɯ}} is an allophone of {{IPAslink|u}} at the end of words. There are two [[diphthong]]s, {{IPA|/aɪ/}} and {{IPA|/aʊ/}}. Long vowels are about twice as long as short vowels. The [[diphthong]]s are usually pronounced about 1.5 times as long as short vowels. Most grammatical texts place them with the long vowels.
+
+{| class="wikitable" style="text-align:center;"
+|-
+!rowspan="2"| !!colspan="3"| [[Vowel length|Short]] !!colspan="3"| Long
+|-
+! [[Front vowel|Front]] !! [[Central vowel|Central]] !! [[Back vowel|Back]] !! [[Front vowel|Front]] !! [[Central vowel|Central]] !! [[Back vowel|Back]]
+|-
+! rowspan=2|[[Close vowel|Close]]
+| {{IPA|i}} || || {{IPA|u/ɯ}} || {{IPA|iː}} || || {{IPA|uː}}
+|-
+|| {{lang|ta|இ}} || || {{lang|ta|உ}} || {{lang|ta|ஈ}} || || {{lang|ta|ஊ}}
+|-
+! rowspan=2|[[Mid vowel|Mid]]
+| {{IPA|e}} || || {{IPA|o}} || {{IPA|eː}} || || {{IPA|oː}}
+|-
+|| {{lang|ta|எ}} || || {{lang|ta|ஒ}} || {{lang|ta|ஏ}} || || {{lang|ta|ஓ}}
+|-
+! rowspan=2|[[Open vowel|Open]]
+| || {{IPA|a}} || || {{IPA|(aɪ̯)}} || {{IPA|aː}} || ({{IPA|aʊ̯}})
+|-
+|| || {{lang|ta|அ}} || || {{lang|ta|ஐ}} || {{lang|ta|ஆ}} || {{lang|ta|ஒள}}
+|}
+
+=== Consonants ===
+
+Tamil [[consonants]] are presented as hard, soft and medial in some grammars which roughly corresponds to plosives, nasals and approximants. Unlike most Indian languages, Tamil does not distinguish [[aspiration (phonetics)|aspirated and unaspirated]] consonants. In addition, the voicing of [[plosive]]s is governed by strict rules in ''{{IAST|centamiḻ}}''. Plosives are unvoiced if they occur word-initially or doubled. Elsewhere they are voiced, with a few becoming [[fricative]]s [[:wiktionary:intervocalic|intervocalically]], which means that voicing is not a phonological trait for plosives. [[Nasal stop|Nasals]] and [[Approximant consonant|approximants]] are always voiced.<ref>''See e.g.'' the pronunciation guidelines in G.U. Pope (1868). ''A Tamil hand-book, or, Full introduction to the common dialect of that language''. (3rd ed.). Madras, Higginbotham & Co.</ref>
+
+Tamil is characterised by its use of more than one type of [[coronal consonant]]s: like many of the other languages of India, it contains a series of [[retroflex consonant]]s. Notably, the Tamil retroflex series includes the [[retroflex approximant]] {{IPA|/ɻ/}} ({{lang|ta|ழ}}) (example Tami'''l'''; often transcribed 'zh'), which is rare in the Indo-Aryan languages. Among the other Dravidian languages, the retroflex approximant also occurs in [[Malayalam language|Malayalam]] (for example in 'Ko'''zh'''ikode'), disappeared from spoken [[Kannada language|Kannada]] around 1000 AD (although the character is still written, and exists in [[Unicode]], ೞ as in ಕೊೞೆ), and was never present in [[Telugu language|Telugu]]. In some dialects of colloquial Tamil, this consonant is seen as disappearing and shifting to the [[alveolar lateral approximant]] {{IPA|/l/}}.<ref name="retroflex_consonants">{{Citation
+| url = https://books.google.com/books?id=2Qwf3pAxJpUC&pg=PA40
+| title = A Reference Grammar of Classical Tamil Poetry: 150 B.C.-Pre-Fifth/Sixth Century A.D |first= V. S. | last= Rajam
+| access-date =1 June 2007
+| publisher = American Philosophical Society
+| isbn = 978-0-87169-199-6
+| year = 1992}}</ref> [[Dental consonant|Dental]] and [[alveolar consonant]]s also historically contrasted with each other, a typically Dravidian trait not found in the neighbouring Indo-Aryan languages. While this distinction can still be seen in the written language, it has been largely lost in colloquial spoken Tamil, and even in literary usage the letters {{lang|ta|ந}} (dental) and {{lang|ta|ன}} (alveolar) may be seen as [[allophonic]].<ref>{{Citation | first=Harold F. | last=Schiffman | title=Phonetics of Spoken Tamil | url =http://ccat.sas.upenn.edu/plc/tamilweb/book/chapter1/node5.html | pages =12–13 | year=1995 | access-date=28 August 2009|work=A Grammar of Spoken Tamil}}</ref> Likewise, the historical alveolar stop has transformed into a dental stop in many modern dialects.
+
+A chart of the Tamil consonant [[phoneme]]s in the [[Help:IPA|International Phonetic Alphabet]] follows:<ref name=as/>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! !! [[Labial consonant|Labial]] !! [[Dental consonant|Dental]] !! [[Alveolar consonant|Alveolar]] !! [[Retroflex consonant|Retroflex]] !! [[Palatal consonant|Palatal]] !! [[Velar consonant|Velar]]
+|-
+! rowspan =2| [[Nasal stop|Nasals]]
+| {{IPA|m}} || {{IPA|n̪}}|| {{IPA|n}} || {{IPA|ɳ}} || {{IPA|ɲ}} || {{IPA|ŋ}}
+|-
+|| {{lang|ta|ம}} || {{lang|ta|ந}} || {{lang|ta|ன}} || {{lang|ta|ண}} || {{lang|ta|ஞ}} || {{lang|ta|ங}}
+|-
+|-
+! rowspan= 2 |[[Stop consonant|Stop]] /<br/>[[Affricate consonant|Affricate]]
+| {{IPA|p}} || {{IPA|t̪}} || {{IPA|t}} || {{IPA|ʈ}} ||{{IPA|t͡ɕ}} || {{IPA|k}}
+|-
+|| {{lang|ta|ப}} || {{lang|ta|த}} || {{lang|ta|ற்ற}} || {{lang|ta|ட}} || {{lang|ta|ச}} || {{lang|ta|க}}
+|-
+! rowspan = 2|[[Tap consonant|Tap]]
+| || || {{IPA|ɾ}} || || ||
+|-
+|| || || {{lang|ta|ர}} || || ||
+|-
+! rowspan = 2|[[Trill consonant|Trill]]
+| || || {{IPA|r}} || || ||
+|-
+|| || || {{lang|ta|ற}} || || ||
+|-
+! rowspan=2 |[[Central consonant|Central]] [[Approximant consonant|approximants]]
+| {{IPA|ʋ}} || || ||{{IPA|ɻ}}  || {{IPA|j}} ||
+|-
+|| {{lang|ta|வ}} || || || {{lang|ta|ழ}} || {{lang|ta|ய}} ||
+|-
+! rowspan=2 |[[Lateral consonant|Lateral]] approximants
+| || {{IPA|l}} || || {{IPA|ɭ}} || ||
+|-
+|| || {{lang|ta|ல}} || || {{lang|ta|ள}} || ||
+|}
+
+The plosives are [[Voice (phonetics)|voiced]] when medial and after nasals. The sounds {{IPA|/f/}} and {{IPA|/ʂ/}} are peripheral to the phonology of Tamil, being found only in loanwords and frequently replaced by {{IPA|/p/}} and {{IPA|/s/}} respectively. There are well-defined rules for [[elision]] in Tamil categorised into classes based on the phoneme which undergoes elision.
+
+=== Āytam ===
+Classical Tamil had a phoneme called the ''[[visarga|āytam]]'', written as ‘{{lang|ta|ஃ}}'. Tamil grammarians of the time classified it as a dependent phoneme (or restricted phoneme<ref name="krishnamurti">{{harvnb|Krishnamurti|2003|p=154}}</ref>) (''{{IAST|cārpeḻuttu}}''), but it is very rare in modern Tamil. The rules of pronunciation given in the ''Tolkāppiyam'', a text on the grammar of Classical Tamil, suggest that the ''āytam'' could have [[Glottal stop|glottalised]] the sounds it was combined with. It has also been suggested that the ''āytam'' was used to represent the [[Implosive consonant|voiced implosive]] (or closing part or the first half) of geminated voiced plosives inside a word.<ref>{{harvnb|Kuiper|1958|p=191}}</ref> The āytam, in modern Tamil, is also used to convert ''p'' to ''f'' when writing English words using the Tamil script.
+
+== Grammar ==
+<!---
+NOTE:
+Before editing this page for unicode errors please check your OS configuration for complex character support. You can check it here: http://en.wikipedia.org/wiki/WP:INDIC and https://en.wikipedia.org/wiki/Help:Multilingual_support_(Indic)
+--->
+{{Main|Tamil grammar}}
+
+Tamil employs [[Agglutination|agglutinative]] grammar, where suffixes are used to mark [[noun class]], [[grammatical number|number]], and [[Grammatical case|case]], verb [[grammatical tense|tense]] and other grammatical categories. Tamil's standard [[metalanguage|metalinguistic]] terminology and scholarly vocabulary is itself Tamil, as opposed to the [[Sanskrit]] that is standard for most [[Indo-Aryan languages|Aryan languages]].<ref name="metalanguage_zvelbil">{{Citation
+| url = https://books.google.com/books?id=VF2VMUoY_okC&pg=PA4
+| title = The Smile of Murugan|first= Kamil |last = Zvelebil
+| publisher = BRILL
+| isbn = 978-90-04-03591-1
+| year = 1973|page=4}}</ref><ref>Ramanujam, A. K.; Dharwadker, V. (eds.) (2000) ''The collected essays of A.K. Ramanujam'', Oxford University Press, p. 111. {{ISBN|0195639375}}</ref>
+
+Much of Tamil grammar is extensively described in the oldest known grammar book for Tamil, the ''[[Tolkāppiyam]]''. Modern Tamil writing is largely based on the 13th century grammar ''{{IAST|Naṉṉūl}}''  which restated and clarified the rules of the ''Tolkāppiyam'', with some modifications. Traditional Tamil grammar consists of five parts, namely ''{{IAST|eḻuttu}}'', ''sol'', ''{{IAST|poruḷ}}'', ''yāppu'', ''{{IAST|aṇi}}''. Of these, the last two are mostly applied in poetry.<ref name="five_parts_grammar">{{Citation
+| url = http://www.southasia.upenn.edu/tamil/lit.html
+| title = Five fold grammar of Tamil
+| work=University of Pennsylvania}}
+</ref>
+
+Tamil words consist of a [[lexeme|lexical root]] to which one or more [[affix]]es are attached. Most Tamil affixes are [[suffix]]es. Tamil suffixes can be [[Morphological derivation|derivational]] suffixes, which either change the part of speech of the word or its meaning, or [[inflection]]al suffixes, which mark categories such as [[Grammatical person|person]], [[Grammatical number|number]], [[Grammatical mood|mood]], [[Grammatical tense|tense]], etc. There is no absolute limit on the length and extent of [[agglutination]], which can lead to long words with many suffixes, which would require several words or a sentence in English. To give an example, the word ''pōkamuṭiyātavarkaḷukkāka'' (போகமுடியாதவர்களுக்காக) means "for the sake of those who cannot go" and consists of the following [[morpheme]]s:
+
+{| class="wikitable" align="center"
+|-
+|align="center"|''போக''
+|align="center"|''முடி''
+|align="center"|''ஆத்''
+|align="center"|''அ''
+|align="center"|''வர்''
+|align="center"|''கள்''
+|align="center"|''உக்கு''
+|align="center"|''ஆக''
+|-
+|align="center"|''pōka''
+|align="center"|''muṭi''
+|align="center"|''āt''
+|align="center"|''a''
+|align="center"|''var''
+|align="center"|''kaḷ''
+|align="center"|''ukku''
+|align="center"|''āka''
+|-
+|'''go'''
+|'''accomplish'''
+|align="center"|'''negation<br />(impersonal)'''
+|align="center"|'''participle marker'''
+|align="center"|'''nominalizer<br />''he/she who does'''''
+|align="center"|'''plural marker'''
+|align="center"|'''to'''
+|align="center"|'''for'''
+|-
+|}
+
+=== Morphology ===
+Tamil nouns (and pronouns) are classified into two super-classes (''{{IAST|tiṇai}}'')—the "rational" (''{{IAST|uyartiṇai}}''), and the "irrational" (''{{transl|ta|ISO|akṟiṇai}}'')—which include a total of five classes (''pāl'', which literally means "gender"). Humans and [[deity|deities]] are classified as "rational", and all other nouns (animals, objects, abstract nouns) are classified as irrational. The "rational" nouns and pronouns belong to one of three classes (''pāl'')—masculine singular, feminine singular, and rational plural. The "irrational" nouns and pronouns belong to one of two classes: irrational singular and irrational plural. The ''pāl'' is often indicated through suffixes. The plural form for rational nouns may be used as an [[honorific]], gender-neutral, singular form.<ref name="classes_of_nouns">{{Citation
+| url = https://books.google.com/books?id=AfwCAAAAMAAJ&q=%22Classes+of+nouns+in+Tamil%22&pg=RA1-PA156
+| title = Classes of nouns in Tamil
+| access-date =1 June 2007
+| publisher = Trübner
+| last1 = Caldwell | first1 = Robert
+| year = 1875}}</ref>
+
+{| class="wikitable" align="center"
+|-
+|colspan="5" style="background: #f2f2f2;"  align="center"|'''peyarccol (Name-words)'''<ref name="classes_of_nouns2">{{citation
+| url = https://books.google.com/books?id=AfwCAAAAMAAJ&q=%22Classes+of+nouns+in+Tamil%22&pg=RA1-PA156
+| title = Classes of nouns in Tamil
+| access-date = 1 June 2007| last1 = Caldwell
+| first1 = Robert
+| year = 1875
+}}</ref>
+|-
+|colspan="3" style="background: #f2f2f2;" align="center"|'''''uyartiṇai'''''<br />(rational)
+|colspan="2" style="background: #f2f2f2;" align="center"|'''''aḵṟiṇai'''''<br />(irrational)
+|-
+|align="center" style="background: #f9f9f9;"|''āṇpāl''<br />Male
+|align="center" style="background: #f9f9f9;"|''peṇpāl''<br />Female
+|align="center" style="background: #f9f9f9;"|''palarpāl''<br />Collective
+|align="center" style="background: #f9f9f9;"|''oṉṟaṉpāl''<br />One
+|align="center" style="background: #f9f9f9;"|''palaviṉpāl''<br />Many
+|-
+|colspan="5" style="background: #f2f2f2;" align="center"|'''Example: the Tamil words for "doer"'''
+|-
+|align="center" style="background:#f9f9f9;"|''ceytavaṉ''<br />He who did
+|align="center" style="background:#f9f9f9;"|''ceytavaḷ''<br />She who did
+|align="center" style="background:#f9f9f9;"|''ceytavar''<br />They who did
+|align="center" style="background:#f9f9f9;"|''ceytatu''<br />That which did
+|align="center" style="background:#f9f9f9;"|''ceytavai''<br />Those ones which did
+|}
+
+Suffixes are used to perform the functions of [[Grammatical case|cases]] or [[postposition]]s. Traditional grammarians tried to group the various suffixes into eight cases corresponding to the cases used in [[Sanskrit]]. These were the [[nominative case|nominative]], [[accusative case|accusative]], [[dative case|dative]], [[sociative case|sociative]], [[genitive case|genitive]], [[instrumental case|instrumental]], [[locative case|locative]], and [[ablative case|ablative]]. Modern grammarians argue that this classification is artificial,<ref name='CaseMarkerZvelebil'>{{citation|title=Dravidian Case-Suffixes: Attempt at a Reconstruction|journal=Journal of the American Oriental Society|date=April–June 1972|first=K. V.|last=Zvelebil|volume=92|issue=2|pages=272–276 |jstor=600654|quote=The entire problem of the concept of "case" in Dravidian will be ignored in this paper. In fact, we might posit a great number of "cases" for perhaps any Dravidian language once we departed from the familiar types of paradigms forced upon us by traditional, indigenous and European grammars, especially of the literary languages. It is, for instance, sheer convention based on Tamil grammatical tradition (influenced no doubt by Sanskrit) that, as a rule, the number of cases in Tamil is given as eight.|doi=10.2307/600654}}</ref> and that Tamil usage is best understood if each suffix or combination of suffixes is seen as marking a separate case.<ref name="Standard restandard" /> Tamil nouns can take one of four [[Prefix (linguistics)|prefixes]]: ''i'', ''a'', ''u'', and ''e'' which are functionally equivalent to the [[demonstrative]]s in English. For example, the word ''vazhi'' (வழி) meaning "way" can take these to produce ''ivvazhi'' (இவ்வழி) "this way", ''avvazhi'' (அவ்வழி) "that way", ''uvvazhi'' (உவ்வழி) "the medial way" and ''evvazhi'' (எவ்வழி) "which way".
+
+Tamil verbs are also inflected through the use of suffixes. A typical Tamil verb form will have a number of [[suffix]]es, which show person, number, mood, tense, and voice.
+* Person and number are indicated by suffixing the [[oblique case]] of the relevant pronoun. The suffixes to indicate tenses and voice are formed from [[grammatical particle]]s, which are added to the stem.
+* Tamil has two voices. The first indicates that the subject of the sentence ''undergoes'' or ''is the object of'' the action named by the verb stem, and the second indicates that the subject of the sentence ''directs'' the action referred to by the verb stem.
+* Tamil has three simple tenses—past, present, and future—indicated by the suffixes, as well as a series of perfects indicated by compound suffixes. Mood is implicit in Tamil, and is normally reflected by the same [[morpheme]]s which mark tense categories. Tamil verbs also mark [[evidentiality]], through the addition of the hearsay [[clitic]] ''{{IAST|ām}}.''<ref name="steeverevidentiality">{{Citation |first=Sanford B. |last=Steever | editor-last=Güldemann | editor-first=Tom | editor2-last=von Roncador | editor2-first=Manfred | contribution=Direct and indirect discourse in Tamil |title=Reported Discourse: A Meeting Ground for Different Linguistic Domains |year=2002 |page=105 | place=Amsterdam |publisher=John Benjamins Publishing Company   |isbn=978-90-272-2958-8}}</ref> Verb inflection is shown below using example ''aḻintukkoṇṭiruntēṉ''; (அழிந்துக்கொண்டிருந்தேன்); "(I) was being destroyed".
+
+{| class="wikitable" align="center"
+|-
+|align="center"|''அழி''
+|align="center"|''ந்து''
+|align="center"|''கொண்டு''
+|align="center"|''இரு''
+|align="center"|''ந்த்''
+|align="center"|''ஏன்''
+|-
+|align="center"|''aḻi''
+|align="center"|''ntu''
+|align="center"|''koṇṭu''
+|align="center"|''iru''
+|align="center"|''nt''
+|align="center"|''ēn''
+|-
+|align="center"|'''root'''<br />destroy
+|align="center"|'''transitivity marker'''<br />intransitive
+|align="center"|'''aspect marker'''<br />continuous
+|align="center"|'''aspect marker'''<br />continuous
+|align="center"|'''tense marker'''<br />past tense
+|align="center"|'''person marker'''<br />first person,<br />singular
+|-
+|}
+
+Traditional grammars of Tamil do not distinguish between [[adjective]]s and [[adverb]]s, including both of them under the category ''uriccol'', although modern grammarians tend to distinguish between them on morphological and syntactical grounds.<ref name="lehmann1989">{{Citation |last=Lehmann |first=Thomas |title=A Grammar of Modern Tamil |year=1989 |publisher=Pondicherry Institute of Linguistics and Culture |location=Pondicherry|pages= 9–11}}</ref> Tamil has many [[ideophone]]s that act as adverbs indicating the way the object in a given state "says" or "sounds".<ref>{{Citation |last=Swiderski |first = Richard M. |title=The metamorphosis of English: versions of other languages |publisher=Bergin & Garvey |location=New York |year=1996 |page=61 |isbn=978-0-89789-468-5 }}</ref>
+
+Tamil does not have [[article (grammar)|articles]]. Definiteness and indefiniteness are either indicated by special grammatical devices, such as using the number "one" as an indefinite article, or by the context.<ref name="steeversummary">{{Harvnb|Annamalai|Steever|1998|p=109}}</ref> In the first person plural, Tamil makes a distinction between [[Clusivity|inclusive]] pronouns {{lang|ta|நாம் }} ''{{IAST|nām}}'' (we), {{lang|ta|நமது}} ''{{IAST|namatu}}'' (our) that include the addressee and exclusive pronouns {{lang|ta|நாங்கள் }} ''{{IAST|nāṅkaḷ}}'' (we), {{lang|ta|எமது}} ''{{IAST|ematu}}'' (our) that do not.<ref name="steeversummary"/>
+
+=== Syntax ===
+Tamil is a consistently [[head-final]] language. The verb comes at the end of the clause, with a typical word order of [[subject–object–verb]] (SOV).<ref name="SOV_language">{{Citation|url=http://www.linguistics.ucla.edu/people/schuh/lx001/Discussion/d02.html |archive-url=https://web.archive.org/web/20030919235821/http://www.linguistics.ucla.edu/people/schuh/lx001/Discussion/d02.html |url-status=dead |archive-date=19 September 2003 |title=Tamil is a head-final language |access-date=1 June 2007 }}</ref><ref>{{Citation|url=http://wals.info/languoid/lect/wals_code_tml |title=WALS – Tamil |publisher=Wals.info |access-date=13 September 2012}}</ref> However, word order in Tamil is also flexible, so that surface permutations of the SOV order are possible with different [[pragmatics|pragmatic]] effects. Tamil has [[postposition]]s rather than [[prepositions]]. Demonstratives and modifiers precede the noun within the noun phrase. Subordinate clauses precede the verb of the matrix clause.
+
+Tamil is a [[null-subject language]]. Not all Tamil sentences have subjects, verbs, and objects. It is possible to construct grammatically valid and meaningful sentences which lack one or more of the three. For example, a sentence may only have a verb—such as ''{{IAST|muṭintuviṭṭatu}}'' ("completed")—or only a subject and object, without a verb such as ''{{IAST|atu eṉ vīṭu}}'' ("That [is] my house"). Tamil does not have a [[copula (linguistics)|copula]] (a linking verb equivalent to the word ''is''). The word is included in the translations only to convey the meaning more easily.
+
+== Vocabulary ==
+<!---
+NOTE:
+Before editing this page for unicode errors please check your OS configuration for complex character support. You can check it here: http://en.wikipedia.org/wiki/WP:INDIC and https://en.wikipedia.org/wiki/Help:Multilingual_support_(Indic)
+--->
+The vocabulary of Tamil is mainly Dravidian. A strong sense of [[linguistic purism]] is found in Modern Tamil,<ref>{{Citation | doi = 10.1017/S0010417500018673| title = En/gendering Language: The Poetics of Tamil Identity| journal = Comparative Studies in Society and History| volume = 35| issue = 4| page = 683| year = 2009| last1 = Ramaswamy | first1 = S. }}</ref> which opposes the use of foreign loanwords.<ref>{{Harvnb|Krishnamurti|2003|p=480}}.</ref> Nonetheless, a number of words used in classical and modern Tamil are loanwords from the languages of neighbouring groups, or with whom the Tamils had trading links, including [[Munda languages|Munda]] (for example, {{IAST|tavaḷai}} "frog" from Munda {{IAST|tabeg}}), [[Malay language|Malay]] (e.g. {{IAST|cavvarici}} "sago" from Malay {{IAST|sāgu}}), Chinese (for example, {{IAST|campān}} "skiff" from Chinese san-pan) and Greek (for example, {{IAST|ora}} from Greek ὥρα). In more modern times, Tamil has imported words from [[Urdu]] and [[Marathi language|Marathi]], reflecting groups that have influenced the Tamil area at times, and from neighbouring languages such as [[Telugu language|Telugu]], [[Kannada language|Kannada]], and Sinhala. During the modern period, words have also been adapted from European languages, such as Portuguese, French, and English.<ref>{{Harvnb|Meenakshisundaran|1965|pp=169–193}}</ref>
+
+The strongest impact of purism in Tamil has been on words taken from Sanskrit. During its history, Tamil, along with other Dravidian languages like [[Telugu language|Telugu]], [[Kannada language|Kannada]], [[Malayalam]] etc., was influenced by [[Sanskrit]] in terms of vocabulary, grammar and literary styles,<ref name="influence">"Literature in all Dravidian languages owes a great deal to Sanskrit, the magic wand whose touch raised each of the languages from a level of patois to that of a literary idiom" (Sastri 1955, p. 309); Trautmann, Thomas R. (2006). ''Languages and nations: the Dravidian proof in colonial Madras''. Berkeley: University of California Press. "The author endeavours to demonstrate that the entire Sangam poetic corpus follows the "Kavya" form of Sanskrit poetry" – {{Harvnb|Tieken|2001|p=18}}.</ref><ref>{{Citation | doi = 10.2307/597587| jstor = 597587| title = Indo-Aryan Loan Words in the Cīvakacintāmaṇi| journal = Journal of the American Oriental Society| volume = 87| issue = 4| pages = 430–434| year = 1967| last1 = Vaidyanathan | first1 = S.}}</ref><ref name="caldwell">{{Harvnb|Caldwell|1974|pp=87–88}}</ref><ref name="takahashi">Takahashi, Takanobu. (1995). ''Tamil love poetry and poetics''. Brill's Indological Library, v. 9. Leiden: E. J. Brill, pp. 16, 18. {{ISBN|9004100423}}.</ref> reflecting the increased trend of [[Sanskritisation]] in the Tamil country.<ref>Pollock, Sheldon (1996). "The Sanskrit Cosmopolis 300–1300: Transculturation, vernacularisation and the question of ideology" in Jan E. M. Houben (ed.), ''The ideology and status of Sanskrit: Contributions to the history of the Sanskrit language''. E. J. Brill, Leiden. pp. 209–217. {{ISBN|9004106138}}.</ref>  Tamil vocabulary never became quite as heavily Sanskritised as that of the other Dravidian languages, and unlike in those languages, it was and remains possible to express complex ideas (including in science, art, religion and law) without the use of Sanskrit loan words.<ref>{{Citation|last=Trautmann|first=Thomas R.|title=Hullabaloo About Telugu|journal=South Asia Research| volume=19| issue=1 |year=1999 | pages=53–70|doi=10.1177/026272809901900104|s2cid=144334963}} at p. 64</ref><ref>{{Harvnb|Caldwell|1974|p=50}}</ref><ref>Ellis, F. W. (1820), "Note to the introduction" in Campbell, A.D., ''A grammar of the Teloogoo language.'' Madras: College Press, pp. 29–30.</ref>  In addition, Sanskritisation was actively resisted by a number of authors of the late medieval period,<ref>''See'' Ramaswamy's analysis of one such text, the ''{{transl|ta|ISO|Tamiḻ viṭututu}}'', in {{Citation | doi = 10.2307/2659024| jstor = 2659024| title = Language of the People in the World of Gods: Ideologies of Tamil before the Nation| journal = The Journal of Asian Studies| volume = 57| issue = 1| pages = 66–92| year = 1998| last1 = Ramaswamy | first1 = S. }}</ref> culminating in the 20th century in a movement called ''[[Tanittamil Iyakkam|{{IAST|taṉit tamiḻ iyakkam}}]]'' (meaning "pure Tamil movement"), led by [[Parithimaar Kalaignar]] and [[Maraimalai Adigal]], which sought to remove the accumulated influence of Sanskrit on Tamil.<ref>Varadarajan, M. ''A History of Tamil Literature'', transl. from Tamil by E. Sa. Viswanathan, Sahitya Akademi, New Delhi, 1988. p. 12: "Since then the movement has been popularly known as the ''tanittamil iyakkam'' or the Pure Tamil movement among the Tamil scholars."</ref>  As a result of this, Tamil in formal documents, literature and public speeches has seen a marked decline in the use Sanskrit loan words in the past few decades,<ref>{{harvnb|Ramaswamy|1997|loc = "[http://content.cdlib.org/view?docId=ft5199n9v7&chunk.id=ch4 Laboring for language]"}}: "Nevertheless, even impressionistically speaking, the marked decline in the use of foreign words, especially of Sanskritic origin, in Tamil literary, scholarly, and even bureaucratic circles over the past half century is quite striking."</ref> under some estimates having fallen from 40–50% to about 20%.<ref name="Krishnamurti 2003 p=480"/>  As a result, the Prakrit and Sanskrit loan words used in modern Tamil are, unlike in some other Dravidian languages, restricted mainly to some spiritual terminology and [[abstract noun]]s.<ref>Meenakshisundaram, T. P. (1982) ''A History of Tamil Language'', Sarvodaya Ilakkiya Pannai. (translated) pp. 241–2</ref>
+
+In the 20th century, institutions and learned bodies have, with government support, generated technical dictionaries for Tamil containing [[neologism]]s and words derived from Tamil roots to replace loan words from English and other languages.<ref name="thaniththamizh" /> As of 2019, the language had a listed vocabulary of over 470,000 unique words, including those from old literary sources. In November 2019, the state government issued an order to add 9,000 new words to the vocabulary.<ref>{{cite news
+| title = By govt. order: 9,000 words to enter Tamil vocabulary 
+| newspaper = The Hindu
+| location = Chennai
+| pages = 2
+| publisher = Kasturi & Sons
+| date = 9 November 2019
+| url = https://www.thehindu.com/news/national/tamil-nadu/tamil-to-get-9000-new-words/article29919044.ece
+| access-date = 29 December 2019}}</ref>
+
+== Influence ==
+{{Main|Tamil loanwords in other languages}}
+
+Words of Tamil origin occur in other languages. A notable example of a word in worldwide use with Dravidian (not specifically Tamil) etymology is ''[[:wikt:orange|orange]]'', via Sanskrit ''{{IAST|nāraṅga}}'' from a Dravidian predecessor of Tamil ''nartaṅkāy'' "fragrant fruit". One suggestion as to the origin of the word ''anaconda'' is the Tamil ''anaikkonda,'' "having killed an elephant".<ref>[https://www.etymonline.com/word/anaconda “Origin and Meaning of Anaconda.”] ''Online Etymology Dictionary''.</ref> [[Words of Tamil origin|Examples in English]] include ''cheroot'' (''{{IAST|churuṭṭu}}'' meaning "rolled up"),<ref name="OED">{{Citation| url = http://dictionary.oed.com| title = Oxford English Dictionary Online| access-date =14 April 2007| work = Oxford English Dictionary}}</ref> ''mango'' (from ''māngāi''),<ref name="OED"/> ''mulligatawny'' (from ''{{IAST|miḷaku taṇṇīr}}'', "pepper water"), ''pariah'' (from ''paraiyan''), ''curry'' (from ''kari''),<ref name="oed-curry">"curry, n.<sup>2</sup>", ''The Oxford English Dictionary''. 2nd ed. 1989. OED Online. Oxford University Press. 14 August 2009</ref> ''catamaran'' (from ''{{IAST|kaṭṭu maram}}'', "bundled logs"),<ref name="OED"/> and ''congee'' (from ''kanji'' – rice porridge or gruel).<ref>{{citation|title=congee|url=http://en.academic.ru/dic.nsf/mwc/12703/congee|website=academic.ru}}</ref>
+
+== Sample text ==
+The following is a sample text in literary Tamil of Article 1 of the [[Universal Declaration of Human Rights]]:
+
+'''Tamil in the [[Tamil script]]:'''
+:{{lang|ta|'''உறுப்புரை 1:''' மனிதப் பிறிவியினர் சகலரும் சுதந்திரமாகவே பிறக்கின்றனர்; அவர்கள் மதிப்பிலும், உரிமைகளிலும் சமமானவர்கள், அவர்கள் நியாயத்தையும் மனச்சாட்சியையும் இயற்பண்பாகப் பெற்றவர்கள். அவர்கள் ஒருவருடனொருவர் சகோதர உணர்வுப் பாங்கில் நடந்துகொள்ளல் வேண்டும்.।}}
+'''Romanized Tamil:'''
+:'''Uṟuppurai 1:''' Maṉitap piṟiviyiṉar cakalarum cutantiramākavē piṟakkiṉṟaṉar; avarkaḷ matippilum, urimaikaḷilum camamāṉavarkaḷ, avarkaḷ niyāyattaiyum maṉaccāṭciyaiyum iyaṟpaṇpākap peṟṟavarkaḷ. Avarkaḷ oruvaruṭaṉoruvar cakōtara uṇarvup pāṅkil naṭantukoḷḷal vēṇṭum.
+'''Tamil in the [[International Phonetic Alphabet]]:'''
+:{{IPA|urupːurai ond̺rʉ {{!}} mənid̪ə piriʋijinər səgələrum sud̪ən̪d̪irəmaːgəʋeː pirəkːin̺d̺ranər {{!}} əvərgəɭ məd̪ipːilum uriməigəɭilum səməmaːnəʋərgəɭ {{!}} əvərgəɭ nijaːjatːəijum mənətt͡ʃaːʈt͡ʃijəijum ijərpəɳbaːgə pet̺rəʋərgəɭ {{!}} əvərgəɭ oruʋəruɖənoruʋər sagoːdəɾə uɳərʋɨ paːŋgil nəɖən̪d̪ʉkoɭɭəl veːɳɖum {{!}}}}
+'''Gloss:'''
+:'''Section 1:''' Human beings all-of-them freely are born. They rights-in-and dignities-in-and equal-ones. They law-and conscience-and intrinsically possessed-ones. They among-one-another brotherly feeling share-in act must.
+'''Translation:'''
+:'''Article 1:''' All human beings are born free and equal in dignity and rights. They possess conscience and reason. Therefore, everyone should act in a spirit of brotherhood towards each other.
+
+== See also ==
+{{Portal bar|Tamils|India}}
+* [[List of countries where Tamil is an official language]]
+* [[List of languages by first written accounts]]
+* [[Tamil keyboard]]
+* [[Tamil population by cities]]
+* [[Tamil population by nation]]
+* [[Tamil Loanwords in other languages]]
+
+== Footnotes ==
+{{Reflist|25em}}
+
+== References ==
+{{refbegin|30em}}
+* {{Citation |last=Andronov |first=M.S. |title=Dravidian Languages |publisher=Nauka Publishing House |year=1970}}
+* {{Citation | last1=Annamalai | first1=E. | last2=Steever | first2=S.B. | contribution=Modern Tamil | editor-last=Steever | editor-first=Sanford | title=The Dravidian Languages | publisher=Routledge | year=1998 | place=London | isbn=978-0-415-10023-6 | pages=100–128}}
+* {{Citation |last=Caldwell|first= Robert|year= 1974|title=A comparative grammar of the Dravidian or South-Indian family of languages|place= New Delhi|publisher= Oriental Books Reprint Corp.}}
+* {{Citation | last=Hart | first=George L. | title=The poems of ancient Tamil : their milieu and their Sanskrit counterparts | publisher=University of California Press | place=Berkeley | year=1975 | isbn=978-0-520-02672-8 | url=https://archive.org/details/poemsofancientta00hart }}
+* {{Citation |last=Krishnamurti |first=Bhadriraju |title=The Dravidian Languages |publisher=[[Cambridge University Press]] | series = Cambridge Language Surveys |year=2003 |isbn=978-0-521-77111-5 }}
+* {{Citation | last1=Kesavapany | first1=K. | last2=Mani | first2=A | last3=Ramasamy | first3=Palanisamy | title=Rising India and Indian Communities in East Asia | year=2008 | place=Singapore | publisher=Institute of Southeast Asian Studies | isbn=978-981-230-799-6}}
+* {{Citation | doi = 10.1007/BF00162818| title = Two problems of old Tamil phonology I. The old Tamil āytam (with an appendix by K. Zvelebil)| journal = Indo-Iranian Journal| volume = 2| issue = 3| pages = 191–224| year = 1958| last1 = Kuiper | first1 = F. B. J.| s2cid = 161402102}}
+* {{Citation | last=Lehmann | first=Thomas | contribution=Old Tamil | editor-last=Steever | editor-first=Sanford | title=The Dravidian Languages | publisher=Routledge | year=1998 | place=London | isbn=978-0-415-10023-6 |  pages=75–99}}
+* {{Citation | last=Mahadevan | first=Iravatham | author-link=Iravatham Mahadevan | title=Early Tamil Epigraphy from the Earliest Times to the Sixth Century A.D | series=[[Harvard Oriental Series]] vol. 62 | year=2003 | place=Cambridge, Massachusetts | publisher=Harvard University Press | isbn=978-0-674-01227-1}}
+* {{Citation |last=Meenakshisundaran |first=T.P. |title=A History of Tamil Language |publisher=Deccan College | place=Poona |year=1965}}
+* {{Citation | last1=Murthy | first1=Srinivasa| last2=Rao | first2=Surendra |last3=Veluthat |first3=Kesavan |last4=Bari |first4=S.A. | year=1990 | title=Essays on Indian History and culture: Felicitation volume in Honour of Professor B. Sheik Ali | publisher=Mittal | place=New Delhi | isbn=978-81-7099-211-0}}
+* {{Citation | last=Ramstedt | first=Martin | year=2004 | title=Hinduism in modern Indonesia | publisher=Routledge | place=London | isbn=978-0-7007-1533-6}}
+* {{Citation | last=Rajam | first=VS | title=A Reference Grammar of Classical Tamil Poetry | year=1992 | place=Philadelphia | publisher=The American Philosophical Society |isbn=978-0-87169-199-6}}
+* {{Citation | last = Ramaswamy | first = Sumathy | title = Passions of the Tongue: Language Devotion in Tamil India, 1891–1970 | url = http://ark.cdlib.org/ark:/13030/ft5199n9v7/ | year = 1997 | publisher = University of California Press | location = Berkeley | chapter = Laboring for language | chapter-url = http://content.cdlib.org/view?docId=ft5199n9v7&chunk.id=ch4 | isbn = 978-0-585-10600-7}}
+* {{Citation | last1=Shapiro | first1=Michael C. | last2=Schiffman | first2=Harold F. | title=Language and society in South Asia | publisher=Foris | year=1983 | place=Dordrecht | isbn=978-90-70176-55-6}}
+* {{Citation | last=Schiffman | first=Harold F. | title=A Reference Grammar of Spoken Tamil | publisher=Cambridge University Press | year=1999 | place=Cambridge | isbn=978-0-521-64074-9 | url=http://ccat.sas.upenn.edu/plc/tamilweb/book.html }}
+* {{Citation | last=Southworth | first=Franklin C. | title=On the Origin of the word tamiz | year=1998 | journal=[[International Journal of Dravidian Linguistics]] | volume=27 | issue=1 | pages=129–132}}
+* {{Citation | last=Southworth | first=Franklin C. | title=Linguistic archaeology of South Asia |  publisher=Routledge | year=2005 | isbn=978-0-415-33323-8}}
+* {{Citation | last=Steever | first=Sanford | contribution=Introduction | editor-last=Steever | editor-first=Sanford | title=The Dravidian Languages | publisher=Routledge | year=1998 | place=London | isbn=978-0-415-10023-6 | pages=1–39}}
+* {{Citation | last=Steever | first=Sanford | title=The Tamil auxiliary verb system | publisher=Routledge | place=London | year=2005 | isbn=978-0-415-34672-6}}
+* {{Citation | editor1-last=Tharu | editor1-first=Susie | editor2-last=Lalita | editor2-first=K. | title=Women Writing in India: 600 B.C. to the present – Vol. 1: 600 B.C. to the early twentieth century | publisher=Feminist Press | year=1991 | isbn=978-1-55861-027-9 | url=https://archive.org/details/womenwritinginin00thar }}
+* {{Citation | last=Talbot | first=Cynthia | title= Precolonial India in practice: Society, Region and Identity in Medieval Andhra | place=New York | publisher=Oxford University Press | year=2001 | isbn=978-0-19-513661-6}}
+* {{Citation | last=Tieken | first=Herman | title=Kavya in South India: Old Tamil Cankam Poetry | series=Gonda Indological Studies, Volume X | place=Groningen | publisher=Egbert Forsten Publishing | year=2001 | isbn=978-90-6980-134-6}}
+* {{Citation | last=Varadarajan | first=Mu. | title=A History of Tamil Literature | publisher=Sahitya Akademi | place=New Delhi | year=1988}}  (Translated from Tamil by E.Sa. Viswanathan)
+* {{Citation | last=Zvelebil | first=Kamil | title=Companion studies to the history of Tamil literature | publisher=Brill | place=Leiden | year=1992 | isbn=978-90-04-09365-2 }}
+{{refend}}
+
+==Further reading==
+{{refbegin}}
+* [[Johann Philipp Fabricius|Fabricius, Johann Philip]] (1933 and 1972), [http://dsal.uchicago.edu/dictionaries/fabricius/ ''Tamil and English Dictionary'']. based on J.P. Fabricius ''Malabar-English Dictionary'', 3rd and 4th Edition Revised and Enlarged by David Bexell. Evangelical Lutheran Mission Publishing House, Tranquebar; called Tranquebar Dictionary.
+* {{Citation |last=Freeman |first=Rich |date=February 1998 |title=Rubies and Coral: The Lapidary Crafting of Language in Kerala |journal=The Journal of Asian Studies |volume=57 |issue=1 |pages=38–65 |doi=10.2307/2659023 |jstor=2659023 }}
+* {{Citation |last=Keane |first=Elinor |year=2004 |title=Tamil |journal=Journal of the International Phonetic Association |volume=34 |issue=1 |pages=111–116 |doi=10.1017/S0025100304001549|doi-access=free }}
+{{refend}}
+
+== External links ==
+{{InterWiki|code=ta}}
+* {{Curlie|Science/Social_Sciences/Linguistics/Languages/Natural/Dravidian/Tamil/}}
+* [https://www.britannica.com/topic/Tamil-language Tamil language] at ''[[Encyclopædia Britannica]]''
+* [https://tamilnation.org/literature/index.htm Tamil Language &  Literature]
+* {{Wiktionary-inline|Category:Tamil language|Tamil language}}
+* {{Wikibooks-inline|links=Tamil language}}
+* {{Wikivoyage-inline|Tamil|Tamil language}}
+
+{{Tamil language}}
+{{Tamil Nadu}}
+{{navboxes|
+|list =
+{{Dravidian languages}}
+{{Languages of India}}
+{{Languages of Singapore}}
+{{Languages of South Africa}}
+{{Languages of Sri Lanka}}
+{{Languages of Bahrain}}
+{{Languages spoken in Kerala}}
+{{Languages of Malaysia}}
+{{Languages of Mauritius}}
+}}
+{{Authority control}}
+{{featured article}}
+
+{{DEFAULTSORT:Tamil Language}}
+[[Category:Tamil language| ]]
+[[Category:Agglutinative languages]]
+[[Category:Classical Language in India]]
+[[Category:Dravidian languages]]
+[[Category:Languages of Andhra Pradesh]]
+[[Category:Languages of Indonesia]]
+[[Category:Languages of Karnataka]]
+[[Category:Languages of Kerala]]
+[[Category:Languages of Malaysia]]
+[[Category:Languages of Mauritius]]
+[[Category:Languages of Puducherry]]
+[[Category:Languages of South Africa]]
+[[Category:Languages of Singapore]]
+[[Category:Languages of Sri Lanka]]
+[[Category:Languages of Tamil Nadu]]
+[[Category:Official languages of India]]
+[[Category:Subject–object–verb languages]]
+[[Category:Languages attested from the 1st millennium BC]]
+[[Category:1st-millennium BC establishments]]
+[[Category:Ancient languages]]

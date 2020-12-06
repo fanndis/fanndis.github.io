@@ -1,0 +1,81 @@
+{{Infobox SCOTUS case
+  |Litigants=Weinberger v. Wiesenfeld
+  |ArgueDate=January 20
+  |ArgueYear=1975
+  |DecideDate=March 19
+  |DecideYear=1975
+  |FullName=Caspar Weinberger, Secretary of Health, Education, and Welfare v. Stephen Wiesenfeld
+  |USVol=420
+  |USPage=636
+  |ParallelCitations=95 S. Ct. 1225; 43 [[L. Ed. 2d]] 514; 1975 [[U.S. LEXIS]] 48 
+  |Prior=''Wiesenfeld v. Secretary of Health, Education & Welfare'', 367 [[F. Supp.]] [https://law.justia.com/cases/federal/district-courts/FSupp/367/981/1425614/ 981] ([[United States District Court for the District of New Jersey|D.N.J.]] 1973); probable jurisdiction noted, {{ussc|419|822|1974|el=no}}.
+  |Subsequent=
+  |Holding=The gender-based distinction under {{USCSub|42|402|g}} of the Social Security Act violates the right to equal protection secured by the Due Process Clause of the Fifth Amendment.
+  |Majority=Brennan
+  |JoinMajority=''unanimous''
+  |Concurrence=Powell
+  |JoinConcurrence=Burger
+  |Concurrence2=Rehnquist
+  |NotParticipating=Douglas
+  |LawsApplied={{USCSub|42|402|g}}; [[Fifth Amendment to the United States Constitution|U.S. Const. amend. V]]
+}}
+
+'''''Weinberger v. Wiesenfeld''''', 420 U.S. 636 (1975), was a decision by the [[Supreme Court of the United States|United States Supreme Court]], which unanimously held that the gender-based distinction under {{usc|42|402(g)}} of the [[Social Security Act]] of 1935—which permitted widows but not widowers to collect special benefits while caring for minor children—violated the right to equal protection secured by the [[Due Process Clause]] of the [[Fifth Amendment to the United States Constitution]].<ref>{{ussc|name=Weinberger v. Wiesenfeld|420|636|1975}}. {{usgovpd}}</ref>
+
+== Background ==
+
+Stephen Wiesenfeld and Paula Polatschek were married in 1970.  Stephen ran a [[minicomputer]] consulting business and had an irregular income.  Paula taught mathematics at [[Edison High School (New Jersey)|Edison High School]] and earned significantly more than her husband.   When Paula died in childbirth from an [[Amniotic fluid embolism|amniotic embolism]], Stephen became the sole provider for their newborn son, Jason.<ref name="strebeigh2009">{{cite book|last=Strebeigh|first=Fred|title=Equal: Women Reshape American Law|year=2009|publisher=Norton|isbn=978-0393065558|url-access=registration|url=https://archive.org/details/equalwomenreshap00stre}}</ref>{{rp|4-6}}  To take care of his son, Stephen cut his work hours and sought child care.  Wiesenfeld contested his ineligibility for Social Security survivors' benefits that were made available to widows, but not to widowers. [[Caspar Weinberger]], the Secretary of Health, Education, and Welfare (1973-75), appealed the case to the Supreme Court.
+
+[[Rutgers School of Law – Newark|Rutgers Law School]] professor [[Ruth Bader Ginsburg]], along with Melvin Wulf, took on ''Weinberger v. Wiesenfeld'' after several unfavorable Supreme Court decisions on gender discrimination cases.  In 1974, ''[[Kahn v. Shevin]]'' had upheld differences in property tax exemption between widows and widowers, and the Supreme Court ruled in ''[[Geduldig v. Aiello]]'' that denying compensation from work loss due to pregnancy did not violate the [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]].  Ginsburg looked to ''Weinberger v. Wiesenfeld'' to promote the idea of "the care of two loving parents, rather than just one."
+
+Ginsburg made the argument that Section 402(g) of the [[Social Security Act]] discriminated against Stephen Wiesenfeld by not providing him with the same survivors' benefits as it would to a widow.  Further, Ginsburg argued that Paula's contributions to Social Security were not treated on an equal basis to salaried men, so she was also being discriminated against.
+
+== Decision ==
+
+Eight of the nine justices voted in favor of Wiesenfeld, with Justice Douglas abstaining from voting. They declared that Section 402(g) of the Social Security Act was unconstitutional on the grounds that the gender based distinctions violated the Due Process Clause of the Fifth Amendment. 
+
+Justice Brennan wrote in the Court's opinion:
+{{quote|Since the Constitution forbids the gender-based differentiation premised upon assumptions as to dependency made in the statutes before us in ''[[Frontiero v. Richardson|Frontiero]]'', the Constitution also forbids the gender-based differentiation that results in the efforts of female workers required to pay social security taxes producing less protection for their families than is produced by the efforts of men.}}
+
+The Court differentiated the Social Security matter from the decision in ''Kahn v. Shevin''.  The court decided that Section 402(g):
+
+{{quote|linked as it is directly to responsibility for minor children, was intended to permit women to elect not to work and to devote themselves to the care of children. Since this purpose in no way is premised upon any special disadvantages of women, it cannot serve to justify a gender-based distinction which diminishes the protection afforded to women who do work.}}
+
+== Subsequent developments ==
+Wiesenfeld himself received no monetary benefits from the decision.  By the time he initiated the case, he had shut down his consulting business and obtained a well-paid position at a computer company.  His salary thus exceeded the income cutoff for receiving Social Security benefits.<ref name="strebeigh2009"/>{{rp|10}}
+
+Ginsburg helped highlight the idea that the social security provision had discriminated against men acting as caregivers, and women serving as breadwinners.  Brennan ruled that "such a gender-based generalization cannot suffice to justify the denigration...of women who do work and whose earnings contribute significantly to their families' support." The decision aimed to establish that it is just as important for a child to be cared for by the male parent, as they will encounter the same difficulties in parenting as the female parent.  The court's ruling challenged the traditional male breadwinner/female homemaker model in terms of allocating government benefits. This case gave widowed men the opportunities to collect Social Security for their dependent children, which was only allowed for widowed mothers to collect before this court case. Like men, women could now have their Social Security benefit their families if they died.<ref name=":0">{{Cite book|title=Reed v. Reed at 40 : equal protection and women's rights|author=Ruth Bader Ginsburg|author2=Emily J Martin|author3=Earl M Maltz|author4=Jacqueline A Berrien|author5=Nina Pillard|date=2012|publisher=American University|isbn=|location=|pages=325|oclc=801984789}}</ref> Though ''Weinberger v. Wiesenfeld'' was considered a victory for feminists, the court still was unclear on distinguishing between sex-based classifications that were damaging to women and those that nurtured sexual equality.  Gender based social security questions would continue to be explored further in cases such as ''[[Califano v. Goldfarb]]'', which Ginsburg was also involved in, and later in ''[[Califano v. Webster]]'', for which ''Weinberger v. Wiesenfeld'' had helped lay important groundwork.
+
+== See also ==
+* [[Gender equality]]
+* [[List of gender equality lawsuits]]
+* ''[[Califano v. Goldfarb]]'' (1977)
+* ''[[Geduldig v. Aiello]]'' (1974)
+
+== References ==
+{{Reflist}}
+* Mayeri, Serena (2011). ''Reasoning From Race''.  Harvard University Press.
+
+== Further reading ==
+* {{cite journal |last=Ahern |first=J. M. |authorlink= |year=1975 |title=Economic Discrimination—Denial of Social Security Benefits Premised on Gender-Based Classifications Is Unconstitutional—Violates Equal Protection—''Weinberger v. Wiesenfeld'' |journal=Akron Law Review |volume=9 |issue=1 |pages=166 |issn=0002-371X |url= |accessdate= |quote= }}
+* {{cite journal |last=Huaco |first=M. B. |authorlink= |year=1974 |title=''Weinberger v. Wiesenfeld'': Equal Protection and Sex Classifications in Government Benefit Programs |journal=New Mexico Law Review |volume=5 |issue= |pages=335 |issn=0028-6214 |url= |accessdate= |quote= }}
+
+== External links ==
+* {{caselaw source
+ |case=''Weinberger v. Wiesenfeld,'' {{Ussc|420|636|1975|el=no}}
+ | courtlistener =https://www.courtlistener.com/opinion/109218/weinberger-v-wiesenfeld/
+ | findlaw=https://caselaw.findlaw.com/us-supreme-court/420/636.html
+ | googlescholar = https://scholar.google.com/scholar_case?case=15918408689142142366
+ | justia=http://supreme.justia.com/us/420/636/case.html
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep420/usrep420636/usrep420636.pdf
+ | oyez =https://www.oyez.org/cases/1974/73-1892
+ }}
+
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Burger Court]]
+[[Category:United States equal protection case law]]
+[[Category:1975 in United States case law]]
+[[Category:Gender discrimination lawsuits]]
+[[Category:Social Security lawsuits]]
+[[Category:Men's rights]]
+[[Category:Ruth Bader Ginsburg]]

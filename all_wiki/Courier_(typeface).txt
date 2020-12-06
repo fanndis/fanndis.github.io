@@ -1,0 +1,307 @@
+{{short description|Monospaced slab serif font of IBM}}
+{{Use dmy dates|date=July 2013}}
+{{Infobox font
+| name =
+| image = IBMCourier.svg
+| style = [[Monospaced font|Monospaced]]
+| classifications = [[Slab serif]]
+| releasedate = c. 1956
+| creator = Howard "Bud" Kettler
+}}
+'''Courier''' is a [[Monospaced font|monospaced]] [[slab serif]] [[typeface]]. The typeface was designed by Howard "Bud" Kettler (1919–1999).<ref name="Designer of Courier: the Bud Kettler Page">{{cite web |last1=Troop |first1=Bill |author-link1=Bill Troop |title=Designer of Courier: the Bud Kettler Page |url=http://www.graphos.org/courier.html |website=Graphos |accessdate=27 December 2018}}</ref><ref name="Courier designer dies, aged 80">{{cite web |title=Courier designer dies, aged 80 |url=http://www.microsoft.com/typography/links/news.aspx?NID=985 |archive-url=https://web.archive.org/web/20040806194952/http://www.microsoft.com/typography/links/news.aspx?NID=985 |url-status=dead |archive-date=6 August 2004 |website=Microsoft Typography (archived) |publisher=Microsoft |accessdate=27 December 2018}}</ref><ref name="The Towpath">{{cite web |last1=Francis |first1=Lucille |title=Howard Kettler |url=https://www.findagrave.com/memorial/96702261/howard-george-kettler#source |website=Findagrave |publisher=The Towpath |accessdate=27 December 2018}}</ref> Initially created for [[IBM]]'s typewriters, it has been adapted to use as a [[computer font]] and versions of it are installed on most desktop computers.
+
+==History==
+IBM did not trademark the name Courier, so the typeface design concept and its name are now public-domain.<ref name="Notes on Typeface Protection">{{cite journal |last1=Bigelow |first1=Charles |author-link1=Charles Bigelow (type designer) |title=Notes on Typeface Protection |journal=[[TUGboat]] |date=1986 |volume=7 |issue=3 |pages=146-151 |url=https://www.tug.org/TUGboat/tb07-3/tb16bigelow.pdf |accessdate=27 December 2018 |quote=IBM neglected to trademark the typeface names like Courier and Prestige, so once the patents had lapsed, the names gradually fell into the public domain without IBM doing anything about it (at the time, and for a dozen years or so, IBM was distracted by a major U.S. anti-trust suit). Most students of the type protection field believe that those names are probably unprotectable by now, though IBM could still presumably make a try for it if sufficiently motivated.}}</ref> According to some sources, a later version for IBM's [[Selectric]] typewriters was developed with input from [[Adrian Frutiger]], although [[Paul Shaw (design historian)|Paul Shaw]] writes that this is a confusion with Frutiger's adaptation of his [[Univers]] typeface for the Selectric system.<ref name="The digital typography sourcebook">{{cite book |last1=Bryan |first1=Marvin |title=The digital typography sourcebook |publisher=Wiley |isbn=9780471148111 |pages=[https://archive.org/details/digitaltypograph00brya/page/4 4-5] |url-access=registration |url=https://archive.org/details/digitaltypograph00brya/page/4 }}</ref><ref name="State Department bans Courier New 12, except for treaties">{{cite web |last1=Shaw |first1=Paul |author-link1=Paul Shaw (design historian) |title=State Department bans Courier New 12, except for treaties |url=https://www.aiga.org/state-department-bans-courier-new-12-except-for-treaties |publisher=AIGA |accessdate=27 December 2018 |quote=Adrian Frutiger had nothing to do with the design, though IBM hired him in the late 1960s to design a version of his Univers typeface for the Selectric.}}</ref> Sources differ on whether the design was published in 1955 or 1956.<ref name="Designer of Courier: the Bud Kettler Page" /><ref name="Courier designer dies, aged 80" /><ref name="State Department bans Courier New 12, except for treaties" />
+
+As a monospaced font, in the 1990s Courier found renewed use in the electronic world in situations where columns of characters must be consistently aligned, for instance in coding. It has also become an industry standard for all [[screenplay]]s to be written in 12-[[point (typography)|point]] Courier or a close variant.  12-point Courier New was also the [[U.S. State Department]]'s standard [[typeface]] until January 2004, when it was replaced with 14-point [[Times New Roman]]. Reasons for the change included the desire for a more "modern" and "legible" font.<ref name=abc>{{cite web|url=http://www.abc.net.au/news/stories/2004/01/30/1034726.htm|title=US bans time-honoured typeface|date=30 January 2004|website=Abc.net.au|accessdate=2017-01-20}}</ref><ref name=slate>[http://www.slate.com/id/2095809/ Goodbye to the Courier font?] - [[Tom Vanderbilt]], ''[[Slate.com]]'', 20 February 2004.</ref><ref>{{cite web |url=http://www.aiga.org/content.cfm/state-department-bans-courier-new-12-except-for-treaties |title=State Department bans Courier New 12, except for treaties |author=Paul Shaw |date=10 March 2004 |accessdate=2010-04-15}}</ref>
+
+Kettler was once quoted about how the name was chosen. The font was nearly released with the name "Messenger."  After giving it some thought, Kettler said, "A letter can be just an ordinary messenger, or it can be the courier, which radiates dignity, prestige, and stability."<ref name="Designer of Courier: the Bud Kettler Page" />
+==Variants==
+
+=== Code variants ===
+With the rise of digital computing variants of Courier typeface were developed with features helpful in coding: larger punctuation marks, stronger distinctions between similar characters (such as the numeral 0 / upper-case O and numeral 1 / lower-case L), sans serif variants, and other features to provide increased legibility when viewed on screens. Today many Courier typefaces include a code version within the type family. Courier New Baltic, Courier New CE, Courier New Cyr, Courier New Greek, Courier New Tur are aliases created in the <code>FontSubstitutes</code> section of [[WIN.INI]]. These entries all point to the master font. When an alias YEW{{clarify|date=August 2014}} font is specified, the font's character map contains a different character set from the master font and the other alias fonts.
+
+=== IBM Courier ===
+IBM made Courier freely available in Postscript Type 1 format. Known as ''IBM Courier'' or simply ''Courier'', it is available under the IBM/MIT X Consortium Courier Typefont agreement.<ref>[https://web.archive.org/web/20010617080950/http://www.ctan.org/tex-archive/fonts/psfonts/courier/ ]</ref> Among other IBM-specific characters it contains optionally a dotted zero (which seems to have originated as an option on [[IBM 3270]] display controllers) and a [[slashed zero]].
+
+[[File:IBMCourierCharmap.svg|500px|IBM Courier character map]]
+
+=== Courier 10 Pitch BT and Courier Code ===
+[[File:Courier-10-pitch-code.png|thumb|Comparison of the typefaces Courier 10 Pitch and Courier Code. From left to right the characters are: zero, capital ''O'', one, lowercase ''L''.]] The Courier 10 Pitch BT typeface was released as a font by [[Bitstream Inc.|Bitstream]]. Courier 10 BT is heavier than Courier New and more closely approximates the look of the original Courier type on paper.<ref>http://www.rolandstroud.com/Fonts-1.html Stroud, Robert: 'Fonts for Download'</ref> The freely available version, often seen as a system font on electronic devices, includes the 255 characters of the [[ANSI]] [[character set]] in Type 1 format. Courier 10 BT has been donated to the [[X Consortium]] by Bitstream (along with [[Bitstream Charter]]) and is the default Courier font on most [[Linux]] distributions. Expanded Pan-European (W1G) character sets are made available for license by Bitstream. 
+
+Courier Code<ref>{{cite web|url=http://openfontlibrary.org/en/font/courier-code |title=Courier Code |website=Openfontlibrary.org |date=2014-05-24 |accessdate=2017-01-20}}</ref> is a variant of Courier 10 Pitch BT for use in programming. The zero is dotted to better distinguish it from the capital ''O'' and the lowercase ''L'' has been altered to better distinguish it from the number one. The leading has been increased slightly as well.
+
+=== Courier New ===
+[[File:Courier.svg|thumb|Courier New]]
+Courier New appears as a system font on many electronic devices. This Courier variant was produced for electronic use by [[Monotype Imaging|Monotype]]. Its thin appearance when printed on paper owes to its being "digitized directly from the golf ball of the [[IBM Selectric]]" without accounting for the visual weight normally added by the [[typewriter]]'s ink ribbon. [[ClearType]] rendering technology includes a hack to make the font appear more legible on screens, though printouts retain the thin look.<ref>{{cite web|url=https://blogs.msdn.microsoft.com/fontblog/2005/11/11/why-is-courier-new-so-thin|title=Why is Courier New so Thin?|website=Blogs.msdn.com|accessdate=2017-01-20}}</ref> The font family includes Courier New, Courier New Bold, Courier New Italic, Courier New Bold Italic.
+
+Courier New was introduced as a system font with [[Windows 3.1]], which also included [[rasterisation|raster]] Courier fonts. The fonts were also sold commercially by [[Ascender Corporation]]. The Ascender fonts have 'WGL' at the end of the font name, and cover only the [[Windows Glyph List|WGL]] characters.{{citation needed|date=August 2014}}
+
+Courier New features higher [[line space]] than Courier. Punctuation marks were reworked to make the dots and commas heavier. Versions from 2.76 onward include Hebrew and Arabic glyphs, with most of the Arabic characters added on non-italic fonts. The styling of Arabic glyphs is similar to those found in [[Times New Roman]] but adjusted for monospace. The Courier New version 5.00 includes over 3100 glyphs, covering over 2700 characters per font.
+
+=== Courier Prime ===
+{{Infobox font
+ | name = Courier Prime
+ | sample = [[File: Typeface specimen Courier Prime.svg |220px]]
+}}
+This Courier typeface, developed by [[Alan Dague-Greene]] with funding from [[John August]] and [[Quote-Unquote Apps]], includes a true Italic style and renders a wider range of Unicode characters than most Courier variants. Courier Prime matches the metrics of Courier New and Courier Final Draft, with some design changes and improvements aimed at greater legibility and beauty. The typeface was released in January 2013 under the SIL [[Open Font License]].<ref>{{cite web|last1=August|first1=John|title=About John August|url=http://johnaugust.com/about|accessdate=17 November 2014}}</ref> In 2016 the family was extended with Sans Serif and Code versions. By mid-2018 the family included Semi-Bold and Medium versions (designed by [[M. Babek Aliassa]]) and a [[Cyrillic alphabet]] version (designed by [[Dmitry Novikov]]). All fonts in the family are downloadable for free and can be used in any application.<ref>{{cite web|url=http://quoteunquoteapps.com/courierprime/ |title=Courier Prime |publisher=Quote-Unquote Apps |date=2015-10-13 |accessdate=2017-01-20}}</ref><ref>http://www.rolandstroud.com/Fonts-1.html Stroud, Robert: 'Fonts for Download'</ref>
+
+=== Courier Screenplay ===
+A typeface developed for [[Fade In (software)|Fade In]] Professional Screenwriting Software, Courier Screenplay is designed to offer the legibility of Courier 10 BT with the line counts favoured by screenwriters. The font is downloadable for free independent of the software and can be used in any application. The typeface provides the ANSI 255 character map used in Western European languages.<ref>http://www.rolandstroud.com/Fonts-1.html Stroud, Robert: 'Fonts for Download'</ref>
+
+=== Courier Final Draft ===
+Courier Final Draft is a version of Courier 10 BT developed for the [[Final Draft (software)|Final Draft]] screenwriting program. The installed font can be used in any application. Default settings in the program yield 55 lines per page.<ref>{{citation|url=http://www.rolandstroud.com/downloads/essays/courierfonts.pdf|title=Courier Fonts: Everything You Ever Wanted To Know About Courier...And Then Some|url-status=dead|archive-url=http://arquivo.pt/wayback/20160517191001/http://www.rolandstroud.com/downloads/essays/courierfonts.pdf|archive-date=17 May 2016|df=dmy-all}}</ref>
+[[File:Courier Final Draft.png|700px|thumb|center|Specimen of Courier Final Draft]]
+
+=== Dark Courier ===
+Dark Courier<ref>{{cite web |author=HP Inc. |url=http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=us&swItem=lj611en&jumpid=reg_R1002_USEN |title=Drivers & Software - HP Support Center |website=H20000.www2.hp.com |accessdate=2017-01-20 |archive-url=https://web.archive.org/web/20121107084839/http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=us&swItem=lj611en&jumpid=reg_R1002_USEN |archive-date=7 November 2012 |url-status=dead |df=dmy-all }}</ref> is a normal-weight typeface rather than a semi-bold or bold as its name may imply. Dark Courier, developed as a [[TrueType]] font by [[Hewlett-Packard|HP]], was one of the first fonts developed as a Courier New alternative for those who found that typeface too thin.<ref>http://www.rolandstroud.com/Fonts-1.html Stroud, Robert: 'Fonts for Download'</ref>
+
+=== Courier Standard ===
+{{update|section|date=August 2014}}
+Courier Standard, Courier Standard Bold, Courier Standard Bold Italic, Courier Standard Italic are fonts distributed with [[Adobe Reader]] 6, as a replacement for the PostScript Courier fonts. The stroke terminators are flat instead of round. The typeface contains code pages 1252, Windows OEM Character Set. The font is Hinted and Smoothed for all point sizes. It contains OpenType layout tables aalt, dlig, frac, ordn, sups for Default Language in Latin script; dlig for TUR language in Latin script. Each font contains 374 glyphs.
+
+=== Nimbus Mono L ===
+URW++<ref>[https://web.archive.org/web/20001027210304/http://www.urwpp.de/english/home.html ]</ref> produced a version of Courier called [[Nimbus Mono L]] in 1984, and eventually released under the [[GNU General Public License|GPL]] and [[Aladdin Free Public License|AFPL]] (as [[Type 1 font]] for Ghostscript) in 1996.<ref>{{Citation |url=http://www.geocrawler.com/archives/3/378/1996/5/0/2064811/ |archive-url=https://web.archive.org/web/20021023155414/http://www.geocrawler.com/archives/3/378/1996/5/0/2064811/ |title=Finally! Good-quality free (GPL) basic-35 PostScript Type 1 fonts. |archive-date=23 October 2002 |accessdate=2010-05-06}}</ref><ref>{{Citation |url=http://www.tug.org/fonts/deutsch-urw.txt |title=Finally! Good-quality free (GPL) basic-35 PostScript Type 1 fonts. |format=TXT |accessdate=2010-05-06}}</ref><ref>{{cite web |url=http://www.tug.org/fonts/ |title=Fonts and TeX |date=19 December 2009 |accessdate=2010-05-06}}</ref> It is one of the [[Ghostscript]] fonts, a free alternatives to 35 basic [[PostScript fonts#Core Font Set|PostScript fonts]] (which include Courier). It is available in major [[free software|free]] and [[open source software|open source]] operating systems.
+*Tex Gyre Cursor,<ref>{{cite web|url=http://www.gust.org.pl/projects/e-foundry/tex-gyre/cursor |title=TeX Gyre Cursor — GUST |language=pl|website=Gust.org.pl |accessdate=2017-01-20}}</ref> developed by GUST ("the Polish TeX Users Group"), is based on the URW Nimbus Mono L typeface.
+*[[FreeMono]], a free font descending from URW++ Nimbus Mono L, which in turn descends from Courier.<ref>{{cite web |url=https://www.gnu.org/software/freefont/articles/Why_Free_Fonts.html |title=GNU FreeFont - Why do we need free outline UCS fonts? |date=4 October 2009 |accessdate=2010-07-02}}</ref><ref>{{cite web |url=https://www.gnu.org/software/freefont/design-notes.html |title=GNU FreeFont - Design notes |date=4 October 2009 |accessdate=2010-07-02}}</ref> It is one of free fonts developed in GNU FreeFont project, first published in 2002. It is used in some free software as Courier replacement or for Courier font substitution.
+
+===Alternatives and derivatives===
+Many [[monospaced]] typefaces used as alternatives to Courier in coding are sans-serif fonts for on-screen legibility.
+*[[Liberation fonts|Liberation Mono]] is a sans-serif font [[metric-compatible|metrically equivalent]] to Courier New, developed by Ascender Corp. and published by Red Hat in 2007 under the GPL license with some exceptions.<ref>{{citation|url=https://fedorahosted.org/liberation-fonts/browser/master/License.txt |title=License.txt - License Agreement and Limited Product Warranty, Liberation Font Software |accessdate=2010-01-15 |df=dmy }}{{dead link|date=January 2017|bot=medic}}{{cbignore|bot=medic}}</ref> It is used in some GNU/Linux distributions as default font replacement for Courier New.<ref>{{citation |url=http://wiki.mandriva.com/en/Releases/Mandriva/2008.0/What%27s_New#Liberation_font_set |title=Mandriva Linux 2008 Release Tour |quote=integrated into Mandriva Linux 2008 |accessdate=2010-04-04 |url-status=dead |archive-url=https://web.archive.org/web/20100619073124/http://wiki.mandriva.com/en/Releases/Mandriva/2008.0/What%27s_New#Liberation_font_set |archive-date=19 June 2010 |df=dmy }}</ref>
+*Cousine [[Croscore fonts|Croscore font]], also by Ascender and basically the same as Liberation Mono 2.0
+
+==Applications==
+
+===In Latin 1 text===
+Courier is commonly used in [[ASCII art]] because it is a monospaced font and is available almost universally. "Solid-style" ASCII art uses the darkness/lightness of each character to portray an object, which can be quantified in pixels (here in pt. 12):
+{| class="wikitable" style="text-align: center;"
+|- style="font-family: Courier, monospace; font-size: 12pt;"
+| style="width: 20px;" | a
+| style="width: 20px;" | b
+| style="width: 20px;" | c
+| style="width: 20px;" | d
+| style="width: 20px;" | e
+| style="width: 20px;" | f
+| style="width: 20px;" | g
+| style="width: 20px;" | h
+| style="width: 20px;" | i
+| style="width: 20px;" | j
+| style="width: 20px;" | k
+| style="width: 20px;" | l
+| style="width: 20px;" | m
+| style="width: 20px;" | n
+| style="width: 20px;" | o
+| style="width: 20px;" | p
+| style="width: 20px;" | q
+| style="width: 20px;" | r
+| style="width: 20px;" | s
+| style="width: 20px;" | t
+| style="width: 20px;" | u
+| style="width: 20px;" | v
+| style="width: 20px;" | w
+| style="width: 20px;" | x
+| style="width: 20px;" | y
+| style="width: 20px;" | z
+|- 
+| 21
+| 25
+| 18
+| 25
+| 24
+| 19
+| 28
+| 24
+| 14
+| 15
+| 25
+| 16
+| 30
+| 21
+| 20
+| 27
+| 27
+| 18
+| 21
+| 17
+| 19
+| 17
+| 25
+| 20
+| 21
+| 21
+|}
+{| class="wikitable" style="text-align: center;"
+|- style="font-family: Courier, monospace; font-size: 12pt;"
+| style="width: 20px;" | A
+| style="width: 20px;" | B
+| style="width: 20px;" | C
+| style="width: 20px;" | D
+| style="width: 20px;" | E
+| style="width: 20px;" | F
+| style="width: 20px;" | G
+| style="width: 20px;" | H
+| style="width: 20px;" | I
+| style="width: 20px;" | J
+| style="width: 20px;" | K
+| style="width: 20px;" | L
+| style="width: 20px;" | M
+| style="width: 20px;" | N
+| style="width: 20px;" | O
+| style="width: 20px;" | P
+| style="width: 20px;" | Q
+| style="width: 20px;" | R
+| style="width: 20px;" | S
+| style="width: 20px;" | T
+| style="width: 20px;" | U
+| style="width: 20px;" | V
+| style="width: 20px;" | W
+| style="width: 20px;" | X
+| style="width: 20px;" | Y
+| style="width: 20px;" | Z
+|- 
+| 25
+| 29
+| 21
+| 26
+| 29
+| 25
+| 27
+| 31
+| 18
+| 19
+| 28
+| 20
+| 36
+| 24
+| 20
+| 25
+| 28
+| 30
+| 28
+| 24
+| 27
+| 22
+| 30
+| 26
+| 23
+| 24
+|}
+{| class="wikitable" style="text-align: center;"
+|- style="font-family: Courier, monospace; font-size: 12pt;"
+| style="width: 20px;" | `
+| style="width: 20px;" | 1
+| style="width: 20px;" | 2
+| style="width: 20px;" | 3
+| style="width: 20px;" | 4
+| style="width: 20px;" | 5
+| style="width: 20px;" | 6
+| style="width: 20px;" | 7
+| style="width: 20px;" | 8
+| style="width: 20px;" | 9
+| style="width: 20px;" | 0
+| style="width: 20px;" | -
+| style="width: 20px;" | =
+| style="width: 20px;" | ~
+| style="width: 20px;" | <nowiki>!</nowiki>
+| style="width: 20px;" | @
+| style="width: 20px;" | #
+| style="width: 20px;" | $
+| style="width: 20px;" | <nowiki>%</nowiki>
+| style="width: 20px;" | ^
+| style="width: 20px;" | &amp;
+| style="width: 20px;" | *
+| style="width: 20px;" | (
+| style="width: 20px;" | )
+| style="width: 20px;" | _
+| style="width: 20px;" | +
+|- 
+| 2
+| 16
+| 19
+| 20
+| 23
+| 23
+| 23
+| 16
+| 26
+| 23
+| 24
+| 6
+| 12
+| 9
+| 9
+| 36
+| 30
+| 26
+| 20
+| 7
+| 24
+| 21
+| 13
+| 13
+| 9
+| 13
+|}
+{| class="wikitable" style="text-align: center;"
+|- style="font-family: Courier, monospace; font-size: 12pt;"
+| style="width: 20px;" | <nowiki>[</nowiki>
+| style="width: 20px;" | <nowiki>]</nowiki>
+| style="width: 20px;" | \
+| style="width: 20px;" | <nowiki>;</nowiki>
+| style="width: 20px;" | '
+| style="width: 20px;" | ,
+| style="width: 20px;" | .
+| style="width: 20px;" | /
+| style="width: 20px;" | {
+| style="width: 20px;" | }
+| style="width: 20px;" | |
+| style="width: 20px;" | <nowiki>:</nowiki>
+| style="width: 20px;" | "
+| style="width: 20px;" | &lt;
+| style="width: 20px;" | &gt;
+| style="width: 20px;" | <nowiki>?</nowiki>
+|- 
+| 17
+| 17
+| 8
+| 11
+| 4
+| 7
+| 4
+| 8
+| 16
+| 16
+| 13
+| 8
+| 8
+| 9
+| 9
+| 13
+|}
+
+===In computer programming===
+Courier, as a common [[monospaced font]], is often used to signify [[computer programming|source code]].<ref>{{cite web|url=http://hivelogic.com/articles/top-10-programming-fonts/ |title=Top 10 Programming Fonts |website=Hivelogic.com |date=2009-05-17 |accessdate=2017-01-20}}</ref>
+
+==See also==
+* [[Core fonts for the Web]]
+* [[Monospaced font]]
+* [[Proportional font]]
+* [[Sentence spacing]]
+
+==References==
+{{Reflist|30em}}
+{{notelist|30em}}
+==Bibliography==
+*Macmillan, Neil. ''An A–Z of Type Designers.'' Yale University Press: 2006. {{ISBN |0-300-11151-7}}.
+
+==External links==
+* [http://quoteunquoteapps.com/courierprime/ Courier Prime]
+* [https://www.fontget.com/font/courier-prime-family/ Courier Prime Font]
+{{Monospaced fonts}}
+{{Microsoft Windows Typefaces}}
+{{macOS typefaces}}
+{{DEFAULTSORT:Courier (Typeface)}}
+[[Category:Monospaced typefaces]]
+[[Category:Slab serif typefaces]]
+[[Category:Typefaces and fonts introduced in the 1950s]]
+[[Category:Windows XP typefaces]]

@@ -1,0 +1,543 @@
+{{About|Capital gains tax in the United States|other countries|Capital gains tax}}
+
+{{UStaxation}}
+In the United States of America, individuals and corporations pay [[Income tax in the United States|U.S. federal income tax]] on the net total of all their [[capital gain]]s. The tax rate depends on both the investor's [[tax bracket#Tax brackets in the United States|tax bracket]] and the amount of time the investment was held. '''Short-term capital gains''' are taxed at the investor's [[ordinary income]] tax rate and are defined as investments held for a year or less before being sold. '''Long-term capital gains''', on dispositions of assets held for more than one year, are taxed at a lower rate.<ref>See subsection (h) of {{usc|26|1}}.</ref>
+
+==Current law==
+The United States taxes short-term capital gains at the same rate as it taxes [[ordinary income]]. 
+
+Long-term capital gains are taxed at lower rates shown in the table below. ([[Qualified dividend]]s receive the same preference.)
+
+{| class=wikitable style="text-align:right"
+|-
+! colspan="5" | Filing status and annual income - 2018
+! ROWSPAN=2 | Long-term<br />capital gain<br />rate<ref name="Fool2018" />
+|-
+! STYLE="width:  9em" | Single
+! STYLE="width: 11em" | Married Filing Jointly or Qualified Widow(er)
+! STYLE="width:  9em" | Married Filing Separately
+! STYLE="width:  9em" | Head of Household
+! STYLE="width:  9em" | Trusts and Estates
+|-
+| $0–$38,600 || $0–$77,200 || $0–$38,600 || $0–$51,700 || $0–$2,600
+| '''0%'''
+|-
+| $38,601–$425,800 || $77,201–$479,000 || $38,601–$239,500 || $51,701–$452,400 || $2,601–$12,700
+| '''15%'''
+|-
+| Over $425,800 || Over $479,000 || Over $239,500 || Over $452,400 || Over $12,700
+| '''20%'''
+|}
+
+Separately, the tax on collectibles and certain small business stock is capped at 28%. The tax on unrecaptured Section 1250 gain — the portion of gains on depreciable real estate (structures used for business purposes) that has been or could have been claimed as depreciation — is capped at 25%.
+
+The income amounts ("tax brackets") were reset by the [[Tax Cuts and Jobs Act of 2017]] for the 2018 tax year to equal the amount that would have been due under prior law.<ref name="Fool2018" /> They will be adjusted each year based on the [[United States Chained Consumer Price Index|Chained CPI]] measure of inflation. These income amounts are after deductions: There is another bracket, of income below that shown as $0 in the table, on which no tax is due. For 2018, this amount is at least the [[standard deduction]], $12,000 for an individual return and $24,000 for a joint return, or more if the taxpayer has over that amount in [[itemized deduction]]s.
+
+=== Additional taxes ===
+There may be taxes in addition to the tax rates shown in the above table.
+*Taxpayers earning income above certain thresholds ($200,000 for singles and heads of household, $250,000 for married couples filing jointly and qualifying widowers with dependent children, and $125,000 for married couples filing separately) pay an additional 3.8% tax on all investment income. This tax is known as the [[net investment income tax]].<ref>{{Cite web
+|url=https://www.irs.gov/uac/Newsroom/Net-Investment-Income-Tax-FAQs
+|title=Questions and Answers on the Net Investment Income Tax
+|publisher=IRS
+|date=2016-10-13
+|accessdate=2017-05-27
+}}</ref><ref>{{usc|26|1411}}</ref> Therefore, the top federal tax rate on long-term capital gains is 23.8%.
+*State and local taxes often apply to capital gains. In a state whose tax is stated as a percentage of the federal tax liability, the percentage is easy to calculate. Some states structure their taxes differently. In this case, the treatment of long-term and short-term gains does not necessarily correspond to the federal treatment.
+
+Capital gains do not push ordinary income into a higher income bracket. The Capital Gains and Qualified Dividends Worksheet in the Form 1040 instructions specifies a calculation that treats both long-term capital gains and qualified dividends as though they were the last income received, then applies the preferential tax rate as shown in the above table.<ref>{{Cite web
+|url=http://money.stackexchange.com/questions/28968/how-are-long-term-capital-gains-taxed-if-the-gain-pushes-income-into-a-new-tax-b
+|title=How are long-term capital gains taxed if the gain pushes income into a new tax bracket?
+|author=Dilip Sarwate
+|publisher=StackExchange.com
+|date=2014-03-12
+|accessdate=2016-12-04
+}}</ref>
+
+=== Cost basis ===
+The capital gain that is taxed is the excess of the sale price over the [[cost basis]] of the asset. The taxpayer reduces the sale price and increases the cost basis (reducing the capital gain on which tax is due) to reflect transaction costs such as brokerage fees, certain legal fees, and the transaction tax on sales.
+
+==== Depreciation ====
+In contrast, when a business is entitled to a [[depreciation]] deduction on an asset used in the business (such as for each year's wear on a piece of machinery), it reduces the cost basis of that asset by that amount, potentially to zero.<ref>{{usc|26|168}}</ref> The reduction in basis occurs whether or not the business claims the depreciation.
+
+If the business then sells the asset for a gain (that is, for more than its adjusted cost basis), this part of the gain is called [[Depreciation recapture (United States)|depreciation recapture]]. When selling certain real estate, it may be treated as capital gain. When selling equipment, however, depreciation recapture is generally taxed as ordinary income, not capital gain. Further, when selling some kinds of assets, none of the gain qualifies as capital gain.
+
+==== Other gains in the course of business ====
+If a business develops and sells properties, gains are taxed as business income rather than investment income. The [[Fifth Circuit Court of Appeals]], in ''[[Byram v. United States]]'' (1983), set out criteria for making this decision and determining whether income qualifies for treatment as a capital gain.<ref>{{Cite book|url=https://books.google.com/books?id=qZiXlHzr8FcC&q=%22Byram+v.+United+States%22&pg=PT751|title=Federal Income Tax: Doctrine, Structure, and Policy: Text, Cases, Problems|last1=Dodge|first1=Joseph M.|last2=Jr|first2=J. Clifton Fleming|last3=Peroni|first3=Robert J.|date=2012-02-16|publisher=LexisNexis|isbn=9780327174639|language=en}}</ref>
+
+==== Inherited property ====
+Under the [[stepped-up basis]] rule,<ref>{{usc|26|1014}}</ref> for an individual who inherits a capital asset, the cost basis is "stepped up" to its fair market value of the property at the time of the inheritance. When eventually sold, the capital gain or loss is only the difference in value from this stepped-up basis. Increase in value that occurred before the inheritance (such as during the life of the decedent) is never taxed.
+
+==== Capital losses ====
+If a taxpayer realizes both capital gains and capital losses in the same year, the losses offset (cancel out) the gains. The amount remaining after offsetting is the net gain or net loss used in the calculation of taxable gains.
+
+For individuals, a net loss can be claimed as a [[tax deduction]] against ordinary income, up to $3,000 per year ($1,500 in the case of a married individual filing separately). Any remaining net loss can be carried over and applied against gains in future years.  However, losses from the sale of personal property, including a residence, do not qualify for this treatment.<ref>See subsection (b) of {{usc|26|1212}}.</ref>
+
+Corporations with net losses of any size can re-file their tax forms for the previous three years and use the losses to offset gains reported in those years. This results in a refund of capital gains taxes paid previously. After the carryback, a corporation can carry any unused portion of the loss forward for five years to offset future gains.<ref>See subsection (a) of {{usc|26|1212}}.</ref>
+
+==== Return of capital ====
+Corporations may declare that a payment to shareholders is a [[return of capital]] rather than a dividend. Dividends are taxable in the year that they are paid, while returns of capital work by decreasing the cost basis by the amount of the payment, and thus increasing the shareholder's eventual capital gain. Although most [[qualified dividends]] receive the same favorable tax treatment as long-term capital gains, the shareholder can defer taxation of a return of capital indefinitely by declining to sell the stock.
+
+== History ==
+[[File:Federal Capital Gains Tax Collections 1954-2009 history chart.pdf|500px|right|thumb|US Capital Gains Taxes history chart]]
+From 1913 to 1921, capital gains were taxed at ordinary rates, initially up to a maximum rate of 7%.<ref name="ettp">{{cite web |author=Joseph J. Cordes, Robert D. Ebel, and Jane G. Gravelle (ed)|url=http://www.urban.org/publications/1000519.html |title= Capital Gains Taxation entry from The Encyclopedia of Taxation and Tax PolicyProject|accessdate=2007-10-03}}</ref> The [[Revenue Act of 1921]] allowed a tax rate of 12.5% gain for assets held at least two years.<ref name="ettp" /> From 1934 to 1941, taxpayers could exclude from taxation up to 70% of gains on assets held 1, 2, 5, and 10 years.<ref name="ettp" /> Beginning in 1942, taxpayers could exclude 50% of capital gains on assets held at least six months or elect a 25% alternative tax rate if their ordinary tax rate exceeded 50%.<ref name="ettp" /> From 1954 to 1967, the maximum capital gains tax rate was 25%.<ref>{{cite web|author=Tax Policy Center |url=http://www.taxpolicycenter.org/taxfacts/displayafact.cfm?Docid=161 |title=Historical Capital Gains and Taxes |publisher=Taxpolicycenter.org |date=2012-12-17 |accessdate=2014-04-15}}</ref> Capital gains tax rates were significantly increased in the [[Tax Reform Act of 1969|1969]] and [[Tax Reform Act of 1976|1976]] Tax Reform Acts.<ref name="ettp" /> In 1978, Congress eliminated the minimum tax on excluded gains and increased the exclusion to 60%, reducing the maximum rate to 28%.<ref name="ettp" /> The 1981 tax rate reductions further reduced capital gains rates to a maximum of 20%.
+
+The [[Tax Reform Act of 1986]] repealed the exclusion of long-term gains, raising the maximum rate to 28% (33% for taxpayers subject to phaseouts).<ref name="ettp" /> The 1990 and 1993 budget acts increased ordinary tax rates but re-established a lower rate of 28% for long-term gains, though effective tax rates sometimes exceeded 28% because of other tax provisions.<ref name="ettp" /> The [[Taxpayer Relief Act of 1997]] reduced capital gains tax rates to 10% and 20% and created the exclusion for one's primary residence.<ref name="ettp" /> The [[Economic Growth and Tax Relief Reconciliation Act of 2001]] reduced them further, to 8% and 18%, for assets held for five years or more. The [[Jobs and Growth Tax Relief Reconciliation Act of 2003]] reduced the rates to 5% and 15%, and extended the preferential treatment to [[qualified dividends]].
+
+The 15% tax rate was extended through 2010 as a result of the [[Tax Increase Prevention and Reconciliation Act of 2005]], then through 2012. The [[American Taxpayer Relief Act of 2012]] made qualified dividends a permanent part of the tax code but added a 20% rate on income in the new, highest tax bracket.
+
+The [[Emergency Economic Stabilization Act]] of 2008 caused the [[Internal Revenue Service|IRS]] to introduce Form 8949, and radically change Form 1099-B,<ref>{{Cite web
+|url=http://usatoday30.usatoday.com/money/perfi/taxes/story/2012-02-12/capital-gains-tax-statements/53061388/1
+|title=New rule puts a wrinkle in figuring taxes on stock sales
+|author=Mark Krantz
+|publisher=USA Today
+|date=2012-02-13
+|accessdate=2016-05-07
+}}</ref> so that brokers would report not just the amounts of sales proceeds but purchases to the IRS, enabling the IRS to verify reported capital gains.
+
+The [[Small Business Jobs Act of 2010]] exempted taxes on capital gains for angel and venture capital investors on small business stock investments if held for 5 years. It was a temporary measure but was extended through 2011 by the [[Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010]] as a jobs stimulus.<ref>{{cite web|url=http://www.journalofaccountancy.com/Web/20103682.htm |title=Congress Resolves Many Tax Issues During Lame Duck Session |publisher=Journalofaccountancy.com |accessdate=2014-04-15}}</ref><ref>{{cite web|author=12/20/2010 by Sanford Millar Contact |url=http://www.jdsupra.com/post/documentViewer.aspx?fid=7aa573b0-641c-4f87-a5b3-e8aceb48aab9 |title=Tax Relief Act Has Small Bus Investment Incentive &#124; Sanford Millar |publisher=JDSupra |date=2010-12-20 |accessdate=2014-04-15}}</ref>
+
+In 2013, [[provisions of the Patient Protection and Affordable Care Act]] ("Obama-care") took effect that imposed the Medicare tax of 3.8% (formerly a payroll tax) on capital gains of high-income taxpayers.
+
+===Summary of recent history===
+From 1998 through 2017, tax law keyed the tax rate for long-term capital gains to the taxpayer's tax bracket for ordinary income, and set forth a lower rate for the capital gains. (Short-term capital gains have been taxed at the same rate as ordinary income for this entire period.)<ref>{{cite web|title=Federal Capital Gains Tax Rates, 1988–2011|url=http://taxfoundation.org/article/federal-capital-gains-tax-rates-1988-2011|publisher=Tax Foundation|accessdate=2013-01-08}}</ref> This approach was dropped by the [[Tax Cuts and Jobs Act of 2017]], starting with tax year 2018.<ref name="Fool2018">{{Cite web
+|url=https://www.fool.com/taxes/2017/12/22/your-guide-to-capital-gains-taxes-in-2018.aspx
+|title=Your Guide to Capital Gains Taxes in 2018
+|author=Matthew Frankel
+|publisher=Motley Fool
+|date=2017-12-22
+}}</ref>
+
+{| class=wikitable style="text-align:right"
+! colspan="2" style="background:#efefef;" | July 1998 – 2000 || colspan="2" style="background:#efefef;" | 2001 – May 2003 ||colspan="2" style="background:#efefef;" | May 2003 – 2007 || style="background:#efefef;"| 2008 – 2012 || colspan="2" style="background:#efefef;" | 2013 – 2017
+|-
+! style="width:75px;"| Ordinary Income Tax Rate
+! width=100 | Long-term Capital Gains<br />Tax Rate
+! style="width:90px;"| Ordinary Income Tax Rate
+! width=100 | Long-term Capital Gains<br />Tax Rate**
+! style="width:75px;"| Ordinary Income Tax Rate
+! width=100 | Long-term Capital Gains<br />Tax Rate
+! width=100 | Long-term Capital Gains<br />Tax Rate
+! style="width:75px;"| Ordinary Income Tax Rate
+! width=100 | Long-term Capital Gains<br />Tax Rate
+|-
+| rowspan="2" style="background:#efefef;" | 15%
+| rowspan="2" | '''10%''' || style="background:#efefef;" | 10% || '''10%''' || style="background:#efefef;" | 10% || '''5%''' || '''0%''' || style="background:#efefef;" | 10% || '''0%'''
+|-
+|style="background:#efefef;" | 15% || '''10%''' || style="background:#efefef;" | 15% || '''5%''' || '''0%''' || style="background:#efefef;" | 15% || '''0%'''
+|-
+| style="background:#efefef;" | 28%
+| '''20%''' || style="background:#efefef;" | 27%* || '''20%''' || style="background:#efefef;" | 25% || '''15%''' || '''15%''' || style="background:#efefef;" | 25% || '''15%'''
+|-
+| style="background:#efefef;" | 31%
+| '''20%''' || style="background:#efefef;" | 30%*|| '''20%''' || style="background:#efefef;" | 28% || '''15%''' || '''15%''' || style="background:#efefef;" | 28% || '''15%'''
+|-
+| style="background:#efefef;" | 36%
+| '''20%''' || style="background:#efefef;" | 35%*|| '''20%''' || style="background:#efefef;" | 33% || '''15%''' || '''15%''' || style="background:#efefef;" | 33% || '''15%***'''
+|-
+| style="background:#efefef;" rowspan="2"| 39.6%
+| rowspan="2"| '''20%''' || style="background:#efefef;" rowspan="2"| 38.6%* || rowspan="2"| '''20%''' || style="background:#efefef;" rowspan="2"| 35% || rowspan="2"| '''15%''' || rowspan="2"| '''15%''' || style="background:#efefef;" | 35% || '''15%***'''
+|-
+| style="background:#efefef;" | 39.6% || '''20%***'''
+|}
+<nowiki>*</nowiki> This rate was reduced one-half percentage point for 2001 and one-half percentage point for 2002 and beyond.<br>
+<nowiki>**</nowiki> There was a two percentage point reduction for capital gains from certain assets held for more than five years, resulting in 8% and 18% rates.<br>
+<nowiki>***</nowiki> The gain may also be subject to the 3.8% Medicare tax.
+
+== Rationale ==
+[[File:Percent of Income from Capital Gains and Dividends (2006).gif|thumb|left|Percent of personal income from capital gains and dividends for different income groups (2006).]]
+
+===Who pays it===
+Capital gains taxes are disproportionately paid by high-income households, since they are more likely to own assets that generate the taxable gains.<ref name="effects"/> While this supports the argument that payers of capital gains taxes have more "ability to pay,"<ref name="Sanders">{{Cite web
+|url=https://berniesanders.com/issues/making-the-wealthy-pay-fair-share/
+|title=Making the Wealthy, Wall Street, and Large Corporations Pay their Fair Share
+|author=Sen. Bernie Sanders
+|date=2016
+|author-link=Sen. Bernie Sanders
+|access-date=2016-05-03
+|archive-url=https://web.archive.org/web/20160426182447/https://berniesanders.com/issues/making-the-wealthy-pay-fair-share/
+|archive-date=2016-04-26
+|url-status=dead
+}}</ref>
+it also means that the payers are especially able to defer or avoid the tax, as it only comes due if and when the owner sells the asset.
+
+Low-income taxpayers who do not pay capital gains taxes directly may wind up paying them through changed prices as the actual payers pass through the cost of paying the tax.  Another factor complicating the use of capital gains taxes to address [[income inequality]] is that capital gains are usually not recurring income.  A taxpayer may be "high-income" in the single year in which he or she sells an asset or invention.<ref>{{Cite web
+|url=https://www.creators.com/read/thomas-sowell/10/12/capital-gains-taxes
+|title=Capital Gains Taxes
+|author=Thomas Sowell
+|date=2012-10-02
+|accessdate=2016-05-06
+}}</ref>
+
+Debate on tax rates is often partisan; the [[Republican Party (United States)|Republican Party]] tends to favor lower rates, whereas the [[Democratic Party (United States)|Democratic Party]] tends to favor higher rates.<ref>{{Cite web
+|url=https://www.cslcpa.com/tax-bite/september-2016-republican-and-democratic-tax-platforms
+|title=Compare and Contrast the [2016] Republican and Democratic Tax Platforms
+|publisher=Christopher, Smith, Leonard, Bristow & Stanell
+|accessdate=2017-03-06}}</ref>
+
+===Existence of the tax===
+The existence of the capital gains tax is controversial. In 1995, to support the [[Contract with America]] legislative program of House Speaker [[Newt Gingrich]], [[Stephen Moore (writer)|Stephen Moore]] and John Silvia wrote a study for the [[Cato Institute]]. In the study, they proposed halving of capital gains taxes, arguing that this move would "substantially raise tax collections and increase tax payments by the rich" and that it would increase economic growth and job creation. They wrote that the tax "is so economically inefficient...that the optimal economic policy...would be to abolish the tax entirely."<ref>{{Cite web
+|url=http://www.cato.org/publications/policy-analysis/abcs-capital-gains-tax
+|title=The ABCs of the Capital Gains Tax
+|author1=Stephen Moore |author2=John Silvia |date=1995-10-04
+|accessdate=2016-05-03
+}}</ref>
+More recently, Moore has written that the capital gains tax constitutes double taxation. "First, most capital gains come from the sale of financial assets like stock. But publicly held companies have to pay corporate income tax....Capital gains is a second tax on that income when the stock is sold."<ref name="Moore">{{Cite web
+|url=http://www.washingtontimes.com/news/2015/aug/2/stephen-moore-five-myths-about-capital-gains-taxes/?page=all
+|title=Five myths about capital gains taxes
+|author=Stephen Moore
+|publisher=Washington Times
+|date=2015-08-02
+|accessdate=2016-05-03
+}}</ref>
+
+[[Richard Epstein]] says that the capital-gains tax "slows down the shift in wealth from less to more productive uses" by imposing a cost on the decision to shift assets. He favors repeal or a [[Rollover (finance)|rollover]] provision to defer the tax on gains that are reinvested.<ref>{{Cite web
+|url=http://www.newsweek.com/richard-epstein-why-trumps-tax-plan-welcome-594733
+|title=Why Trump's Tax Plan Is Welcome
+|author=Richard Epstein
+|publisher=Newsweek
+|date=2017-05-06
+|accessdate=2017-05-07
+}}</ref>
+
+===Preferential rate===
+The fact that the long-term capital gains rate is lower than the rate on ordinary income is regarded by the [[Left-wing politics|political left]], such as Sen. [[Bernie Sanders]], as a "tax break" that excuses investors from paying their "fair share."<ref name="Sanders" /><ref>{{Cite web
+|url=https://tcf.org/content/commentary/10-reasons-to-eliminate-the-tax-break-for-capital-gains/
+|title=10 Reasons to Eliminate the Tax Break for Capital Gains
+|author=Greg Anrig
+|publisher=The Century Foundation
+|date=2011-10-21
+|accessdate=2016-05-15
+}}</ref> The tax benefit for a long-term capital gain is sometimes referred to as a "tax expenditure" that government could elect to stop spending.<ref>{{Cite web
+|url=http://www.americanprogress.org/issues/open-government/news/2011/02/23/9163/tax-expenditure-of-the-week-capital-gains
+|title=Tax Expenditure of the Week: Capital Gains
+|author=Seth Hanlon 	
+|publisher=americanprogress.org 	
+|date=2011-02-23}}</ref> By contrast, Republicans favor lowering the capital gain tax rate as an inducement to saving and investment. Also, the lower rate partly compensates for the fact that some capital gains are illusory and reflect nothing but inflation between the time the asset is bought and the time it is sold. Moore writes, "when inflation is high....the tax rate can even rise above 100 percent",<ref name="Moore" /> as when a taxpayer owes tax on a capital gain that does not result in any increase in real wealth.
+
+===Holding period===
+The one-year threshold between short-term and long-term capital gains is arbitrary and has changed over time. Short-term gains are disparaged as [[speculation]] and are perceived as self-interested, myopic, and destabilizing,<ref>{{Cite web
+|url=https://www.aspeninstitute.org/sites/default/files/content/docs/pubs/overcome_short_state0909_0.pdf
+|title=Overcoming Short-termism: A Call for a More Responsible Approach to Investment and Business Management
+|author=Bogle, Buffett
+|publisher=Aspen Institute
+|date=2009-09-09
+|accessdate=2016-05-06
+|display-authors=etal}}</ref> while long-term gains are characterized as [[investment]], which supposedly reflects a more stable commitment that is in the nation's interest. Others call this a false dichotomy.<ref>{{Cite web
+|url=http://www.retailinvestor.org/next.html
+|title=Big Picture Investment Strategies (section "Investing vs Speculating")
+|publisher=RetailInvestor.org
+}}</ref>
+The holding period to qualify for favorable tax treatment has varied from six months to ten years (see [[#History|History]] above). There was special treatment of assets held for five years during the Presidency of [[George W. Bush]]. In her 2016 Presidential campaign, [[Hillary Clinton]] advocated holding periods of up to six years with a sliding scale of tax rates.<ref>{{Cite web
+|url=http://taxfoundation.org/blog/details-hillary-clinton-s-capital-gains-tax-proposal
+|title=The Details of Hillary Clinton's Capital Gains Tax Proposal
+|author=Alan Cole
+|publisher=Tax Foundation
+|date=2015-07-28
+|accessdate=2016-05-03
+}}</ref>
+
+=== Carried interest ===
+[[Carried interest]] is the share of any profits that the general partners of [[private equity]] funds receive as compensation, despite not contributing any initial funds.<ref>{{Cite web
+|url=http://www.investopedia.com/articles/investing/102515/carried-interest-loophole-americas-tax-code.asp
+|title=Carried Interest: A Loophole in America's Tax Code
+|author=Matthew Johnston
+|publisher=Investopedia
+}}</ref> The manager may also receive compensation that is a percentage of the assets under management.<ref name="cbo.gov">{{Cite web
+|url=http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/120xx/doc12085/03-10-reducingthedeficit.pdf
+|title=Reducing the Deficit: Spending and Revenue Options
+|publisher=Congressional Budget Office
+|date=March 2011
+}}</ref>
+Tax law provides that when such managers take, as a fee, a portion of the gain realized in connection with the investments they manage, the manager's gain is afforded the same tax treatment as the client's gain. Thus, where the client realizes long-term capital gains, the manager's gain is a long-term capital gain—generally resulting in a lower tax rate for the manager than would be the case if the manager's income were not treated as a long-term capital gain. Under this treatment, the tax on a long-term gain does not depend on how investors and managers divide the gain.
+
+This tax treatment is often called the "hedge-fund loophole",<ref>{{Cite web
+|url=https://www.usatoday.com/story/opinion/2015/09/15/hedge-fund-carried-interest-donald-trump-jeb-bush-editorials-debates/72268922/
+|title=Kill the hedge fund tax break
+|publisher=USA Today
+|date=2015-09-15
+|accessdate=2016-08-31}}</ref> even though it is private equity funds that benefit from the treatment; hedge funds usually do not have long-term gains.<ref>Timothy Spangler, ''One Step Ahead: Private Equity and Hedge Funds After the Global Financial Crisis'', page 93.</ref> It has been criticized as "indefensible" and a "gross unfairness",<ref>{{Cite web
+|url=https://www.bloomberg.com/news/2012-02-14/calpers-s-dear-calls-private-equity-tax-break-indefensible-.html
+|title=Calpers's Dear Calls Private Equity Tax Break 'Indefensible'
+|author1=Michael B. Marois |author2=Cristina Alesci |publisher=Bloomberg
+|date=2012-02-13
+}}</ref> because it taxes management services at a preferential rate intended for long-term gains. Warren Buffett has used the term "coddling the super rich".<ref>{{Cite news|url=https://www.nytimes.com/2011/08/15/opinion/stop-coddling-the-super-rich.html|title=Stop Coddling the Super-Rich|last=Buffett|first=Warren E.|date=2011-08-14|newspaper=The New York Times|issn=0362-4331|access-date=2016-08-29}}</ref>  One counterargument is that the preferential rate is warranted because a grant of carried interest is often deferred and contingent, making it less reliable than a regular salary.<ref>{{Cite web
+|url=http://tax.findlaw.com/federal-taxes/what-is-carried-interest-.html
+|title=What Is Carried Interest?
+|publisher=FindLaw
+|accessdate=2016-05-16
+}}</ref>
+
+The 2017 tax reform established a three-year holding period for these fund managers to qualify for the long-term capital-gains preference.<ref name="Reuters2017">{{Cite web
+|url=https://www.reuters.com/article/us-usa-tax-provisions-factbox/factbox-whats-in-the-republicans-final-tax-legislation-idUSKBN1EA023
+|title=Factbox: What's in the Republicans' final tax legislation
+|author=Staff
+|publisher=Reuters
+|date=2017-12-15}}</ref>
+
+==Effects==
+The capital gains tax raises money for government but penalizes investment (by reducing the final rate of return). Proposals to change the tax rate from the current rate are accompanied by predictions on how it will affect both results. For example, an increase of the tax rate would be more of a disincentive to invest in assets, but would seem to raise more money for government. However, the [[Laffer curve]] suggests that the revenue increase might not be linear and might even be a decrease, as Laffer's "economic effect" begins to outweigh the "arithmetic effect."<ref>{{cite web |last=Laffer |first=Arthur |title=The Laffer Curve: Past, Present, and Future |url=http://www.heritage.org/research/reports/2004/06/the-laffer-curve-past-present-and-future |publisher=The Heritage Foundation |accessdate=2016-05-02|author-link=Arthur Laffer}}</ref> For example, a 10% rate increase (such as from 20% to 22%) might raise less than 10% additional tax revenue by inhibiting some transactions. Laffer postulated that a 100% tax rate results in no tax revenue.
+
+Another economic effect that might make receipts differ from those predicted is that the United States competes for capital with other countries. A change in the capital gains rate could attract more foreign investment, or drive United States investors to invest abroad.<ref name="Robert Wood">{{Cite web
+|url=https://www.forbes.com/sites/robertwood/2015/03/25/u-s-capital-gain-rate-among-worlds-highest-but-president-obama-wants-more/#4939c6e020ce
+|title=U.S. Capital Gain Rate Among World's Highest but President Obama Wants More
+|author=Robert Wood
+|work=Forbes
+|date=2015-03-25
+}}</ref>
+
+Congress sometimes directs the [[Congressional Budget Office]] (CBO) to estimate the effects of a bill to change the tax code. It is contentious on partisan grounds whether to direct the CBO to use [[dynamic scoring]]<ref name=Lawler /> (to include economic effects), or static scoring that does not consider the bill's effect on the incentives of taxpayers. After failing to enact the [[Budget and Accounting Transparency Act of 2014]],<ref>{{Cite web
+|url=https://www.congress.gov/bill/113th-congress/house-bill/1872
+|title=H.R.1872 - Budget and Accounting Transparency Act of 2014
+|publisher=United States Congress
+|accessdate=2016-05-05
+}}</ref> Republicans mandated dynamic scoring in a rule change at the start of 2015, to apply to the Fiscal Year 2016 and subsequent budgets.<ref>{{Cite web
+|url=http://www.crfb.org/blogs/houses-new-rule-dynamic-scoring
+|title=The House's New Rule on Dynamic Scoring
+|publisher=Committee for a Responsible Federal Budget
+|date=2015-01-08
+|accessdate=2017-09-08}}</ref>
+
+===Measuring the effect on the economy===
+Supporters of cuts in capital gains tax rates may argue that the current rate is on the falling side of the Laffer curve (past a point of [[diminishing returns]]) — that it is so high that its disincentive effect is dominant, and thus that a rate cut would "pay for itself."<ref name=Lawler>{{Cite web
+|url=http://www.washingtonexaminer.com/can-tax-reform-pay-for-itself/article/2561437
+|title=Can tax reform pay for itself?
+|author=Joseph Lawler
+|publisher=Washington Examiner
+|date=2015-03-16
+|accessdate=2016-05-07
+}}</ref> Opponents of cutting the capital gains tax rate argue the correlation between top tax rate and total economic growth is inconclusive.<ref name="study"/>
+
+Mark LaRochelle wrote on the conservative website ''[[Human Events]]'' that cutting the capital gains rate increases employment. He presented a U.S. Treasury chart to assert that "in general, capital gains taxes and GDP have an inverse relationship: when the rate goes up, the economy goes down". He also cited statistical correlation based on tax rate changes during the presidencies of [[George W. Bush]], [[Bill Clinton]], and [[Ronald Reagan]].<ref>{{cite news
+|url=http://www.humanevents.com/2012/05/08/raising-the-capital-gains-tax-will-not-lead-to-fairness-but-only-slam-us-job-creation/
+|title=Raising the capital gains tax will not lead to 'fairness,' but only slam U.S. job creation
+|author=Mark LaRochelle
+|date=2012-05-08
+|work=Human Events}}</ref>
+
+[[File:Top Capital Gains Tax Rates and Economic Growth 1950-2011.jpg|thumb|Top tax rates on long-term capital gains and real economic growth (measured as the percentage change in real GDP) from 1950 to 2011. Burman found low correlation (0.12) between low capital gains taxes and economic growth.<ref name="Burman">{{cite news|first=Leonard|last=Burman|title=Tax Reform and the Tax Treatment of Capital Gains|url=http://www.finance.senate.gov/imo/media/doc/092012%20Burman%20Testimony.pdf|accessdate=2012-09-27|newspaper=House Committee on Ways and Means and the Senate Committee on Finance|date=2012-09-20}}</ref>]]
+However, comparing capital gains tax rates and economic growth in America from 1950 to 2011, [[Brookings Institution]] economist [[Leonard Burman]] found "no statistically significant correlation between the two", even after using "lag times of five years." Burman's data are shown in the chart at right.<ref name="study">{{cite news | url=https://www.bloomberg.com/news/2012-10-04/study-finds-benefit-is-elusive-for-low-capital-gains-rate.html | title= Study Finds Benefit Is Elusive for Low Capital Gains Rate | author=Brendan Greeley | work=bloomberg.com | date=2012-10-04}}</ref><ref name="Burman"/>
+
+Economist Thomas L. Hungerford of the liberal [[Economic Policy Institute]] found "little or even a negative" correlation between capital gains tax reduction and rates of saving and investment, writing: "Saving rates have fallen over the past 30 years while the capital gains tax rate has fallen from 28% in 1987 to 15% today .... This suggests that changing capital gains tax rates have had little effect on private saving".<ref name="effects">{{Cite web
+|url=https://fas.org/sgp/crs/misc/R40411.pdf
+|title=The Economic Effects of Capital Gains Taxation
+|author=Thomas L. Hungerford
+|date=2010-06-18}}</ref><ref>{{Cite web
+|url=http://research.stlouisfed.org/publications/review/07/11/Guidolin.pdf
+|title=The Decline in the U.S. Personal Saving Rate: Is It Real and Is It a Puzzle?
+|author1=Massimo Guidolin |author2=Elizabeth A. La Jeunesse |publisher=St. Louis Federal Reserve Bank
+|date=July 2011
+}} (See Figure 1)</ref>
+
+===Factors that complicate measurement===
+Researchers usually use the top [[marginal tax rate]] to characterize policy as high-tax or low-tax.  This figure measures the disincentive on the largest transactions per additional dollar of taxable income.  However, this might not tell the complete story.  The table [[#Summary of recent history|Summary of recent history]] above shows that, although the marginal rate is higher now than at any time since 1998, there is also a substantial bracket on which the tax rate is 0%.
+
+Another reason it is hard to prove correlation between the top capital gains rate and total economic output is that changes to the capital gains rate do not occur in isolation, but as part of a tax reform package. They may be accompanied by other measures to boost investment, and Congressional consensus to do so may derive from an economic shock, from which the economy may have been recovering independent of tax reform. A reform package may include increases and decreases in tax rates; the [[Tax Reform Act of 1986]] increased the top capital gains rate, from 20% to 28%, as a compromise for reducing the top rate on ordinary income from 50% to 28%.<ref>{{Cite web
+|url=http://taxfoundation.org/article/back-future-lessons-tax-reform-act-1986
+|title=Back to the Future? Lessons from the Tax Reform Act of 1986
+|author=Joseph Henchman
+|publisher=Tax Foundation
+|date=2012-09-28
+|accessdate=2016-05-05
+}}</ref><ref>{{Cite web
+|url=http://thehill.com/blogs/pundits-blog/finance/231728-on-capital-gains-obama-is-no-reagan
+|title=On capital gains, Obama is no Reagan
+|author=Mark Bloomfield
+|work=The Hill
+|date=2015-02-05
+|accessdate=2016-05-05
+}}</ref>
+
+== Tax avoidance strategies ==
+
+=== Strategic losses ===
+The ability to use capital losses to offset capital gains in the same year is discussed [[#Capital losses|above]]. Toward the end of a tax year, some investors sell assets that are worth less than the investor paid for them to obtain this tax benefit.
+
+A [[wash sale]], in which the investor sells an asset and buys it (or a similar asset) right back, cannot be treated as a loss at all, although there are other potential tax benefits as consolation.<ref>{{usc|26|1091}}</ref>
+
+In January, a new tax year begins; if stock prices increase, analysts may attribute the increase to an absence of such end-of-year selling and say there is a [[January effect]].  A [[Santa Claus rally]] is an increase in stock prices at the end of the year, perhaps in anticipation of a January effect.
+
+=== Versus purchase ===
+A taxpayer can designate that a sale of corporate stock corresponds to a specified purchase. For example, the taxpayer holding 500 shares may have bought 100 shares each on five occasions, probably at a different price each time. The individual '''lots''' of 100 shares are typically not held separate; even in the days of physical [[stock certificate]]s, there was no indication which stock was bought when. If the taxpayer sells 100 shares, then by designating which of the five lots is being sold, the taxpayer will realize one of five different capital gains or losses. The taxpayer can maximize or minimize the gain depending on an overall strategy, such as generating losses to offset gains, or keeping the total in the range that is taxed at a lower rate or not at all.
+
+To use this strategy, the taxpayer must specify ''at the time of a sale'' which lot is being sold (creating a "contemporaneous record"). This "versus purchase" sale is versus (against) a specified purchase. On brokerage websites, a "Lot Selector" may let the taxpayer specify the purchase to which a sell order corresponds.<ref>[https://www.irs.gov/publications/p551/index.html IRS Publication 551, Basis of Assets]</ref>
+
+=== Primary residence ===
+Section 121<ref>{{usc|26|121}}</ref> lets an individual exclude from gross income up to $250,000 ($500,000 for a married couple filing jointly) of gains on the sale of real property if the owner owned and used it as [[primary residence]] for two of the five years before the date of sale. The two years of residency do not have to be continuous. An individual may meet the ownership and use tests during different 2-year periods. A taxpayer can move and claim the primary-residence exclusion every two years if living in an area where home prices are rising rapidly.
+
+The tests may be waived for military service, disability, partial residence, unforeseen events, and other reasons. Moving to shorten one's commute to a new job is not an unforeseen event.<ref>[http://www.signonsandiego.com/uniontrib/20060820/news_1h20mailbag.html Real Estate Notebook], Robert J. Bruss, August 20, 2006</ref> Bankruptcy of an employer that induces a move to a different city is likely an unforeseen event, but the exclusion will be pro-rated if one has stayed in the home less than two years.<ref>{{cite news| url=https://www.washingtonpost.com/wp-dyn/content/article/2006/06/15/AR2006061502245_pf.html | work=The Washington Post | title=Real Estate Mailbag | first=Robert J. | last=Bruss | accessdate=April 28, 2010}}</ref>
+
+The amount of this exclusion is not increased for home ownership beyond five years.<ref>See IRS Publication 523.</ref> One is not able to deduct a loss on the sale of one's home.
+
+The exclusion is also pro-rated if there is a portion of the ownership period in which the home was not the principal residence of the taxpayer, spouse, or ex-spouse.<ref name="CPAjournal2009">{{cite journal|author1=Russell, Richard L|author2=Clovey, Robert|title=Gain on Sale of Primary Residence: New Tax Implications|journal=The CPA Journal|date=1 February 2009|url=http://www.moneyradio.org/www/pdf/3092.pdf|access-date=21 September 2017|archive-url=https://web.archive.org/web/20160910150946/http://www.moneyradio.org/www/pdf/3092.pdf|archive-date=10 September 2016|url-status=dead}}</ref><ref name="TaxAdviser2009">{{cite web|title=Sec. 121 Planning Opportunities After the Housing Assistance Tax Act|url=https://www.thetaxadviser.com/issues/2009/mar/sec121planningopportunitiesafterthehousingassistancetaxact.html|website=The Tax Adviser|date=28 February 2009}}</ref><ref name="flores">{{cite web|title=New law's reduced homesale exclusion for nonqualified use will mean headaches for sellers years down the road|url=http://www.floresattorneys.com/popup-newsletter.php?PageID=294798|website=The Flores Group: Business & Tax Attorneys|date=28 August 2008}}</ref>
+
+=== Deferral strategies ===
+Taxpayers can defer capital gains taxes to a future tax year using the following strategies:<ref>{{Cite web
+|url=https://www.irs.com/articles/capital-gains-tax-relief
+|title=Capital Gains Tax Relief
+|publisher=Internal Revenue Service
+|date=2010-08-15
+|accessdate=2016-05-02
+}}</ref>
+*[[Internal Revenue Code section 1031|Section 1031 exchange]]—If a business sells property but uses the proceeds to buy similar property, it may be treated as a "like kind" exchange. Tax is not due based on the sale; instead, the cost basis of the original property is applied to the new property.<ref name="Sec1031">[https://www.irs.gov/uac/Like-Kind-Exchanges-Under-IRC-Code-Section-1031 Internal Revenue Code, section 1031, Exchange of Property held for Productive Use or Investment] published February 2008</ref><ref>[https://www.irs.gov/publications/p334/ch03.html#en_US_2010_publink100025137 IRS "Like Kind Exchanges Tax Tips"]</ref>
+*[[Structured sale]]s, such as the self-directed installment sale, are sales that use a third party, in the style of an [[annuity]]. They permit sellers to defer recognition of gains on the sale of a business or real estate to the tax year in which the proceeds are received.<ref>[https://www.irs.gov/publications/p537/ar02.html IRS Publication 537, Installment Sales]</ref> Fees and complications should be weighed against the tax savings.<ref>{{Cite web
+|url=https://www.forbes.com/forbes/2007/0226/066.html
+|title=Deferral Games
+|work=Forbes
+|date=2007-02-09
+|accessdate=2016-05-02
+}}</ref>
+*[[Charitable trust]]s, set up to transfer assets to a charity upon death or after a term of years, normally avoid capital gains taxes on the appreciation of the assets, while allowing the original owner to benefit from the asset in the meantime.<ref>[https://www.irs.gov/Charities-&-Non-Profits/Private-Foundations/Charitable-Trusts Internal Revenue Code, section 4947(a)(1)]. 2014-04-18.</ref>
+* [[Opportunity Zone]]—Under the [[Tax Cuts and Jobs Act of 2017]], investors who reinvest gains into a designated low-income "opportunity zone" can defer paying capital gains tax until 2026, or as long as they hold the reinvestment, and can reduce or eliminate capital gain liability depending on the number of years they own it.<ref>{{cite web |last1=Brezski |first1=Jan |title=Opportunity Zone Investment vs. 1031 Exchanges |url=https://www.arixacapital.com/opportunity-zone-investment-vs-1031-exchange# |publisher=Arixa Capital |accessdate=2019-01-16}}</ref>
+
+== Proposals ==
+
+=== Simpson-Bowles ===
+In 2011, President [[Barack Obama]] signed [https://www.whitehouse.gov/the-press-office/executive-order-national-commission-fiscal-responsibility-and-reform Executive Order 13531] establishing the [[National Commission on Fiscal Responsibility and Reform]] (the "Simpson-Bowles Commission") to identify "policies to improve the fiscal situation in the medium term and to achieve fiscal sustainability over the long run". The [https://web.archive.org/web/20160513085723/https://www.fiscalcommission.gov/sites/fiscalcommission.gov/files/documents/TheMomentofTruth12_1_2010.pdf Commission's final report] took the same approach as the 1986 reform: eliminate the preferential tax rate for long-term capital gains in exchange for a lower top rate on ordinary income.<ref>{{Cite web
+|url=http://www.concordcoalition.org/tabulation/simpson-bowles-plan-could-play-vital-role-moving-towards-compromise
+|title=Simpson-Bowles Plan Could Play Vital Role in Moving Towards Compromise
+|author=Robert Bixby
+|publisher=Concord Coalition
+|date=2013-04-23
+|accessdate=2016-05-15
+}}</ref>
+
+The tax change proposals made by the National Commission on Fiscal Responsibility and Reform were never introduced. Republicans supported the proposed fiscal policy changes, yet Obama failed to garner support among fellow Democrats; During the 2012 election, presidential candidate [[Mitt Romney]] faulted Obama for "missing the bus" on his own Commission.<ref name=Politifact2012>{{Cite web
+|url=http://www.politifact.com/florida/statements/2012/oct/11/barack-obama/obama-says-his-plan-made-some-adjustments-simpson-/
+|title=Obama says his plan made "some adjustments" to Simpson-Bowles
+|author=Amy Sherman
+|publisher=Politifact
+|date=2012-10-11
+|accessdate=2016-05-15
+}}</ref>
+
+===In the 2016 campaign===
+Tax policy was a part of the [[2016 United States presidential election|2016 presidential campaign]], as candidates proposed changes to the tax code that affect the capital gains tax.
+
+President [[Donald Trump]]'s main proposed change to the capital gains tax was to repeal the 3.8% Medicare surtax that took effect in 2013. He also proposed to repeal the [[Alternative Minimum Tax]], which would reduce tax liability for taxpayers with large incomes including capital gains. His maximum tax rate of 15% on businesses could result in lower capital gains taxes. However, as well as lowering tax rates on ordinary income, he would lower the dollar amounts for the remaining tax brackets, which would subject more individual capital gains to the top (20%) tax rate.<ref>{{Cite web
+|url=http://taxfoundation.org/article/details-and-analysis-donald-trump-s-tax-plan
+|title=Details and Analysis of Donald Trump's Tax Plan
+|author=Alan Cole
+|publisher=Tax Foundation
+|date=2015-09-29
+|accessdate=2016-05-15
+}}</ref> Other Republican candidates proposed to lower the capital gains tax ([[Ted Cruz]] proposed a 10% rate), or eliminate it entirely (such as [[Marco Rubio]]).<ref>{{Cite web
+|url=http://taxfoundation.org/comparing-2016-presidential-tax-reform-proposals
+|title=Comparing the 2016 Presidential Tax Reform Proposals
+|publisher=Tax Foundation
+|accessdate=2016-05-15
+}}</ref>
+
+Democratic nominee [[Hillary Clinton]] proposed to increase the capital gains tax rate for high-income taxpayers by "creating several new, higher ordinary rates",<ref name=Forbes2016 /> and proposed a sliding scale for long-term capital gains, based on the time the asset was owned, up to 6 years.<ref name=Forbes2016>{{Cite web
+|url=https://www.forbes.com/sites/ryanellis/2016/01/26/clinton-and-sanders-propose-highest-capital-gains-tax-rate-in-history/
+|title=Clinton And Sanders Propose Highest Capital Gains Tax Rate In History
+|author=Ryan Ellis
+|work=Forbes
+|date=2016-01-26
+|accessdate=2016-05-15
+}}</ref> Gains on assets held from one to two years would be reclassified short-term<ref>{{Cite web
+|url=https://www.cnbc.com/2015/07/24/hillary-clinton-proposes-sharp-increase-in-short-term-capital-gains-taxes.html
+|title=Hillary Clinton proposes sharp increase in short-term capital gains taxes
+|author=Everett Rosenfeld
+|publisher=CNBC
+|date=2015-09-24
+|accessdate=2016-05-15
+}}</ref> and taxed as ordinary income, at an effective rate of up to 43.4%, and long-term assets not held for a full 6 years would also be taxed at a higher rate.<ref>{{Cite web
+|url=https://www.cnbc.com/2015/07/25/hillarys-inconceivably-stupid-capital-gains-tax-scheme-kudlow-commentary.html
+|title=Hillary's inconceivably stupid capital-gains tax scheme
+|author=Larry Kudlow
+|publisher=CNBC
+|date=2015-07-25
+|accessdate=2016-05-15
+}}</ref> Clinton also proposed to treat carried interest (see [[#Carried interest|above]]) as ordinary income, increasing the tax on it, to impose a tax on "high-frequency" trading, and to take other steps.<ref>{{Cite web
+|url=https://www.hillaryclinton.com/issues/wall-street/
+|title=Wall Street Reform
+|author=Hillary Clinton
+|accessdate=2016-05-15
+}}</ref> Bernie Sanders proposed to treat many capital gains as ordinary income, and increase the Medicare surtax to 6%, resulting in a top effective rate of 60% on some capital gains.<ref name=Forbes2016 />
+
+===In the 115th Congress===
+The Republican Party introduced the [[American Health Care Act]] ([https://www.congress.gov/bill/115th-congress/house-bill/1628 House Bill 1628]), which would amend the [[Patient Protection and Affordable Care Act]] ("ACA" or "Obamacare") to repeal the 3.8% tax on all investment income for high-income taxpayers<ref>{{Cite web
+|url=https://www.wsj.com/articles/what-the-senates-3-8-surtax-means-for-american-taxpayers-1500024603
+|title=What the Senate's 3.8% Surtax Means for American Taxpayers
+|author=Laura Saunders
+|publisher=Wall Street Journal
+|date=2017-07-14}}</ref> and the 2.5% "shared responsibility payment" ("individual mandate") for taxpayers who do not have an acceptable insurance policy, which applies to capital gains.<ref>{{cite news|last1=Golstein|first1=Amy|last2=DeBonis|first2=Mike|last3=Snell|first3=Kelsey|title=House Republicans release long-awaited plan to repeal and replace Obamacare|url=https://www.washingtonpost.com/powerpost/new-details-emerge-on-gop-plans-to-repeal-and-replace-obamacare/2017/03/06/04751e3e-028f-11e7-ad5b-d22680e18d10_story.html|date=2017-03-06|accessdate=2017-03-07|work=Washington Post}}</ref> The House passed this bill but the Senate did not.
+
+;2017 tax reform
+House Bill 1 (the [[Tax Cuts and Jobs Act of 2017]]) was released on November 2, 2017 by Chairman [[Kevin Brady]] of the House Ways and Means Committee. Its treatment of capital gains was comparable to current law, but it roughly doubled the standard deduction, while dropping personal exemptions in favor of a larger child tax credit. President Trump advocated using the bill to also repeal the shared responsibility payment, but Rep. Brady believed doing so would complicate passage.<ref>{{Cite web
+|url=https://www.bloomberg.com/news/articles/2017-11-01/trump-backs-repealing-obamacare-individual-mandate-in-tax-bill
+|title=Trump Calls for Using Tax Bill to Repeal Obamacare's Individual Mandate
+|author=Sahil Kapur
+|publisher=Bloomberg
+|date=2017-11-01
+}}</ref> The House passed H.B. 1 on November 16.
+
+The Senate version of H.B. 1 passed on December 2. It zeroed out the shared responsibility payment, but only beginning in 2019.  Attempts to repeal "versus purchase" sales of stock (see [[#Versus purchase|above]]),<ref>{{Cite web
+|url=https://taxfoundation.org/senate-tax-reform-bill-restricts-choice-shares-sell-first/
+|title=Senate Tax Reform Bill Restricts Choice of Which Shares to Sell First
+|publisher=Tax Foundation
+|date=2017-11-27}}</ref> and to make it harder to exclude gains on the sale of one's personal residence, did not survive the conference committee.<ref>{{Cite web
+|url=http://www.washingtonexaminer.com/beer-wins-bikers-lose-in-final-republican-tax-bill/article/2643710
+|title=Beer wins, bikers lose in final Republican tax bill
+|author=Joseph Lawler
+|publisher=Washington Examiner
+|date=2017-12-15}}</ref> Regarding "carried interest" (see [[#Carried interest|above]]), the conference committee raised the holding period from one year to three to qualify for long-term capital-gains treatment.<ref name="Reuters2017"></ref>
+
+The tax bills were "scored" to ensure their cost in lower government revenue was small enough to qualify under the Senate's [[Reconciliation (United States Congress)|reconciliation procedure]]. The law required this to use dynamic scoring (see [[#Effects|above]]), but Larry Kudlow claimed that the scoring underestimated economic incentives and inflow of capital from abroad.<ref>{{Cite web
+|url=https://townhall.com/columnists/larrykudlow/2017/12/05/id-vote-for-it-you-should-too-n2417893
+|title=I'd Vote for It - You Should, Too
+|author=Larry Kudlow
+|publisher=TownHall.com
+|date=2017-12-05}}</ref> To improve the scoring, changes to the personal income tax expired at the end of 2025.
+
+Both houses of Congress passed H.B. 1 on December 20 and President Trump signed it into law on December 22.
+
+;"Phase two"
+In March 2018, Trump appointed Kudlow the assistant to the President for Economic Policy and Director of the [[National Economic Council (United States)|National Economic Council]], replacing [[Gary Cohn (investment banker)|Gary Cohn]].<ref>{{Cite web
+|url=https://www.cnn.com/2018/03/14/politics/larry-kudlow-white-house-economist/index.html
+|title=Kudlow to become Trump's next top economic adviser
+|author=Kevin Liptak and Dan Merica
+|publisher=CNN
+|date=2018-03-14
+|accessdate=2018-03-16}}</ref> Kudlow supports indexing the cost basis of taxable investments to avoid taxing gains that are merely the result of inflation, and has suggested that the law lets Trump direct the IRS to do so without a vote of Congress.<ref>{{Cite web
+|url=http://nymag.com/daily/intelligencer/2018/03/kudlow-wants-new-tax-cut-for-rich-without-vote-in-congress.html
+|title=Trump Economist Wants to Give Rich People Another Tax Break, Without a Vote in Congress
+|author=Jonathan Chait
+|publisher=New York Magazine
+|date=2018-03-20
+|accessdate=2018-04-05}}</ref><ref>{{cite book |last1=Gravelle |first1=Jane G. |title=Indexing Capital Gains Taxes for Inflation |date=2018-06-18 |publisher=Congressional Research Service |location=Washington, DC |url=https://fas.org/sgp/crs/misc/R45229.pdf |accessdate=2018-06-23}}</ref> The Treasury confirmed it was investigating the idea, but a lead Democrat said it would be “legally dubious” and meet with “stiff and vocal opposition”.<ref>{{Cite web
+|url=https://www.reuters.com/article/us-usa-tax-capitalgains/capital-gains-tax-cut-idea-puts-pressure-on-trump-administration-idUSKBN1KL31C
+|title=Capital gains tax cut idea puts pressure on Trump administration
+|author=David Morgan
+|publisher=Reuters
+|date=2018-07-31}}</ref> In August 2018, Trump said indexation of capital gains would be "very easy to do", though telling reporters the next day that it might be perceived as benefitting the wealthy.<ref>{{Cite web
+|url=https://www.foxbusiness.com/economy/trump-capital-gains-tax-changes
+|title=Trump's capital gains tax change may still be on the table
+|author=Brittany De Lea
+|publisher=FoxBusiness.com
+|date=2019-09-11
+|accessdate=2019-09-15}}</ref>
+
+Trump and Kudlow both announced a "phase two" of tax reform, suggesting a new bill that included a lower capital gains rate.<ref>{{Cite web
+|url=https://www.bloomberg.com/news/articles/2018-03-14/americans-may-get-permanent-tax-cut-in-phase-two-kudlow-says
+|title=Americans May Get Permanent Tax Cut in 'Phase Two,' Kudlow Says
+|author=Toluse Olorunnipa
+|publisher=Bloomberg
+|date=2018-03-14
+|accessdate=2018-03-16}}</ref> However, prospects for a follow-on tax bill dimmed after the Democratic Party took the House of Representatives in the 2018 elections.<ref>{{Cite web
+|url=https://www.foxbusiness.com/politics/tax-cuts-2-0-prospects-post-midterms
+|title=Tax Cuts 2.0: Prospects post midterms
+|author=Brittany De Lea
+|publisher=Fox News
+|date=2018-11-14}}</ref>
+
+== References ==
+{{Reflist|2}}
+
+==Further reading==
+* {{Cite web |url=https://www.irs.gov/newsroom/ten-facts-that-you-should-know-about-capital-gains-and-losses |title=IRS Tax Tip 2015-21: Ten Facts That You Should Know about Capital Gains and Losses |publisher=IRS |date=2015-02-18 |accessdate=2017-12-28}}
+*{{cite journal |last=Black |first=Stephen |year=2011 |title=A Capital Gains Anomaly: Commissioner v. Banks and the Proceeds from Lawsuits |journal=St. Mary's Law Journal |volume=43 |pages=113 |ssrn=1858776 }}
+
+[[Category:Taxation in the United States]]
+[[Category:Capital gains taxes|United States]]
+[[Category:Investment in the United States]]

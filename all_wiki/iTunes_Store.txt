@@ -1,0 +1,769 @@
+{{short description|Digital media store}}
+{{DISPLAYTITLE:iTunes Store}}
+{{Use mdy dates|date=June 2019}}
+{{lowercase}}
+{{Infobox online service
+| name = iTunes Store
+| logo = iTunes Store logo.svg
+| image = ITunes screenshot.png
+| caption = The iTunes Store, as seen in iTunes 12.2, running on [[Windows 8]] from August 28, 2015 to September 3, 2015
+| launched = {{start date and age|2003|4|28}}
+| platform = [[macOS]], [[iOS]], [[Windows]], [[tvOS]]
+| availability = See [[#Internationalization|Internationalization]]
+| website = {{URL|https://apple.com/itunes/}}
+}}
+
+The '''iTunes Store''' is a software-based online [[digital media]] store operated by [[Apple Inc.]] that opened on April 28, 2003, as a result of [[Steve Jobs]]' push to open a digital marketplace for music.
+As of April 2020, iTunes offers 60 million songs, 2.2 million apps, 25,000 TV shows, and 65,000 films.<ref>Apple Keynote</ref> When it opened, it was the only legal digital catalog of music to offer songs from all five major [[Record label|record labels]].<ref>{{cite web|url=http://www.esquire.com/news-politics/a11177/steve-jobs-esquire-interview-0703/|title=Is Steve Jobs the God of Music?|last=Langer|first=Andy|date=September 10, 2014|website=[[Esquire (magazine)|Esquire]]|publisher=[[Hearst Communications]]|accessdate=July 10, 2017}}</ref> As of June 2013, the iTunes Store possessed 575 million active user accounts,<ref>{{cite web|url=http://tech.fortune.cnn.com/2013/06/15/apple-algebra-itunes-asymco/|title=The algebra of iTunes|date=June 15, 2013|publisher=CNN|archive-url=https://web.archive.org/web/20130621224139/http://tech.fortune.cnn.com/2013/06/15/apple-algebra-itunes-asymco/|archive-date=June 21, 2013|url-status=dead|access-date=June 17, 2013}}</ref> and served over 315 million mobile devices.<ref name="400MillionUsers">{{cite web|url=http://finance.ninemsn.com.au/newsbusiness/motley/8531541/iphone-5-announcement-3-important-things-to-watch|title=iPhone 5 announcement: 3 important things to watch|date=September 12, 2012|publisher=NineMSN.com.au|archive-url=https://web.archive.org/web/20120914182357/http://finance.ninemsn.com.au/newsbusiness/motley/8531541/iphone-5-announcement-3-important-things-to-watch|archive-date=September 14, 2012|url-status=dead}}</ref><ref name="25BillionApps" />
+
+The iTunes Store is available on most Apple devices, including the [[Macintosh|Mac]] (inside the [[Music (software)|Music]] app), the [[iPhone]], the [[iPad]], the [[IPod Touch|iPod touch]], and the [[Apple TV]], as well as on [[Microsoft Windows|Windows]] (inside iTunes). Video purchases from the iTunes Store are viewable on the [[Apple TV (software)|Apple TV]] app on [[Roku]]<ref>{{cite web|title=Apple TV is now available on the Roku platform|url=https://blog.roku.com/apple-tv|publisher=Roku, Inc.|accessdate=2020-02-11|date=2019-10-15}}</ref> and [[Amazon Fire TV]]<ref>{{cite web|url=https://www.theverge.com/2019/10/24/20930244/apple-tv-app-amazon-fire-tv-stick-models-now-available|title=Apple TV app launches on Amazon Fire TV devices|last=Kastrenakes|first=Jacob|website=[[The Verge]]|publisher=[[Vox Media]]}}</ref> devices and certain smart televisions.
+
+==History==
+Steve Jobs saw the opportunity to open a digital marketplace for music due to the rising popularity of easily downloadable tracks.<ref>{{cite web |first=Steve |last=Knopper |title=iTunes' 10th Anniversary: How Steve Jobs Turned the Industry Upside Down |url=https://www.rollingstone.com/music/news/itunes-10th-anniversary-how-steve-jobs-turned-the-industry-upside-down-20130426 |website=[[Rolling Stone]] |publisher=Wenner Media |date=April 26, 2013 |accessdate=July 10, 2017}}</ref><ref>{{cite web |first=Lucy |last=England |title=Apple has a playbook for killing free music, and it was written by Steve Jobs |url=http://www.businessinsider.com/how-steve-jobs-killed-free-music-2015-5 |website=[[Business Insider]] |publisher=[[Axel Springer SE]] |date=May 8, 2015 |accessdate=July 10, 2017}}</ref><ref>{{cite web|url=http://www.technologizer.com/2011/12/07/steve-jobs-on-the-itunes-music-store-the-unpublished-interview/|title=Steve Jobs on the iTunes Music Store: The Unpublished Interview|last=Locke|first=Laura|date=December 7, 2011|website=Technologizer|accessdate=July 10, 2017}}</ref><ref>{{cite web|url=https://www.engadget.com/2013/04/29/the-itunes-influence-part-one/|title=The iTunes influence, part one: How Apple changed the face of the music marketplace|last=Hill|first=Brad|date=April 29, 2013|website=[[Engadget]]|publisher=[[AOL]]|accessdate=July 10, 2017}}</ref> In 2002, Jobs made an agreement with the five major [[record label]]s to offer their content through iTunes.<ref>{{cite journal |first=Brian X. |last=Chen |title=April 28, 2003: Apple opens iTunes Store |url=https://www.wired.com/2010/04/0428itunes-music-store-opens/ |journal=[[Wired (website)|Wired]] |publisher=[[Condé Nast]] |date=April 28, 2010 |accessdate=July 10, 2017}}</ref> The iTunes Store was introduced by Jobs at the company's [[Apple Worldwide Developers Conference|Worldwide Developers Conference]] in April 2003.<ref>{{cite web |first=Kirk |last=McElhearn |title=15 years of iTunes: A look at Apple's media app and its influence on an industry |url=http://www.macworld.com/article/3019878/software/15-years-of-itunes-a-look-at-apples-media-app-and-its-influence-on-an-industry.html |website=[[Macworld]] |publisher=[[International Data Group]] |date=January 9, 2016 |accessdate=July 10, 2017}}</ref><ref>{{cite web |first=Luke |last=Dormehl |title=Apple introduced iTunes Store 13 years ago today |url=https://www.cultofmac.com/425543/apple-introduced-itunes-store-13-years-ago-today/ |website=Cult of Mac |date=April 28, 2016 |accessdate=July 10, 2017}}</ref> It was initially available on [[Macintosh|Mac]] computers and the [[iPod]],<ref>{{cite web |title=Apple Launches the iTunes Music Store |url=https://www.apple.com/newsroom/2003/04/28Apple-Launches-the-iTunes-Music-Store/ |website=Apple Newsroom |publisher=[[Apple Inc.]] |date=April 28, 2003 |accessdate=July 10, 2017}}</ref> and was later expanded to [[Microsoft Windows]] in October 2003.<ref>{{cite web |title=Apple Launches iTunes for Windows |url=https://www.apple.com/newsroom/2003/10/16Apple-Launches-iTunes-for-Windows/ |website=Apple Newsroom |publisher=[[Apple Inc.]] |date=October 16, 2003 |accessdate=July 11, 2017}}</ref>
+
+In April 2008, the iTunes Store was the largest music vendor in the United States,<ref name="iTunesTopRetailer">{{cite web|url=https://www.apple.com/pr/library/2008/04/03itunes.html|title=iTunes Store Top Music Retailer in the USA|date=April 3, 2008|work=[[Apple Inc.]]|archive-url=https://web.archive.org/web/20081123015344/http://www.apple.com./pr/library/2008/04/03itunes.html|archive-date=November 23, 2008|url-status=dead}}</ref> and in February 2010, it was the largest music vendor in the world.<ref name="WorldDomination">{{cite web|url=https://www.apple.com/pr/library/2010/02/25itunes.html|title=Apple's iTunes serves up 10-billionth song download|date=February 2010|publisher=Apple|archive-url=https://web.archive.org/web/20110521162137/http://www.apple.com/pr/library/2010/02/25itunes.html|archive-date=May 21, 2011|url-status=dead|access-date=June 17, 2013}}</ref> The iTunes Store's revenues in the first quarter of 2011 totaled nearly US$1.4 billion.<ref>{{cite web|url=http://www.appleinsider.com/articles/11/04/21/itunes_store_quietly_generates_record_revenues_of_1_4_billion.html|title=iTunes Store quietly generates record revenues of $1.4 billion|author=Daniel Eran Dilger|date=April 21, 2011|work=Apple Insider|publisher=AppleInsider|accessdate=April 18, 2013}}</ref> By May 28, 2014, the store had sold 35 billion songs worldwide.<ref name="macdailynews.com">{{cite web|url=http://macdailynews.com/2014/05/29/apples-itunes-store-passes-35-billion-songs-sold-milestone-itunes-radio-now-has-40-million-listeners/|title=Apple's iTunes Store passes 35 billion songs sold milestone, iTunes Radio now has 40 million listeners – MacDailyNews – Welcome Home|accessdate=December 30, 2016|date=May 29, 2014}}</ref>
+
+In 2016, it was reported that music streaming services had overtaken digital downloads in sales.<ref>{{Cite news|url=https://www.bloomberg.com/news/articles/2016-03-22/apple-s-itunes-overtaken-by-streaming-music-services-in-sales|title=Apple's ITunes Overtaken by Streaming Music Services in Sales|work=Bloomberg.com|access-date=2018-07-24|language=en}}</ref> It was reported that iTunes-style digital download sales had dropped 24% as streaming sales continued to increase.<ref>{{Cite news|url=https://www.recode.net/2017/9/20/16339484/music-streaming-riaa-spotify-apple-music-youtube-2017-revenue-subscription|title=The music business is growing again — really growing — and it's because of streaming|work=Recode|access-date=2018-07-24}}</ref>
+
+In April 2018, the iTunes app was added to the Microsoft Windows 10 app store.<ref>{{Cite web|url=https://www.theverge.com/2018/4/26/17287260/itunes-windows-10-microsoft-store-download|title=iTunes is now available in the Microsoft Store for Windows 10|last=Warren|first=Tom|date=2018-04-26|website=The Verge|access-date=2019-01-30}}</ref> Beginning in the spring of 2019, the iTunes app became available on Samsung Smart TVs.<ref>{{Cite web|url=https://www.cnn.com/2019/01/07/tech/apple-itunes-samsung-tvs/index.html|title=Apple brings iTunes to Samsung TVs as it seeks new revenue|last=Business|first=Heather Kelly, CNN|website=CNN|access-date=2019-01-30}}</ref>
+
+In October 2019, with the release of [[macOS Catalina]], iTunes was split into separate [[Music (software)|Music]], [[Apple TV (software)|TV]], and [[Podcasts (software)|Podcasts]] apps. Apple's storefront for movies and television shows moved inside the TV app. Any music in users' iTunes library would transfer to the Music app, which would still offer access to the iTunes Store.<ref>{{Cite web|url=https://www.hollywoodreporter.com/news/apple-end-itunes-1215257|title=Apple to Replace iTunes With 3 Media Apps|website=The Hollywood Reporter|language=en|access-date=2020-01-16}}</ref><ref>{{Cite web|url=https://www.independent.co.uk/life-style/gadgets-and-tech/news/itunes-shutting-down-music-apple-what-happens-download-backup-a8943306.html|title=What happens to your music and movie downloads now iTunes is dead|date=2019-06-04|website=The Independent|language=en|access-date=2020-01-16}}</ref>
+
+==Features and restrictions==
+
+===Pricing model===
+<!-- Please note [[WP:NOT#CATALOG]] before adding prices -->
+
+====History====
+Following the introduction of the iTunes Store, individual songs were all sold for the same price, though Apple introduced multiple prices in 2007. Music in the store is in the [[Advanced Audio Coding]] (AAC) format, which is the MPEG-4-specified successor to MP3. Originally, songs were only available with DRM and were encoded at 128 kbit/s. At the January 2009 Macworld Expo, Apple announced that all iTunes music would be made available without DRM, and encoded at the higher-quality rate of 256&nbsp;kbit/s. Previously, this model, known as "iTunes Plus", had been available only for music from EMI and some independent labels. Users can sample songs by listening to previews, ninety seconds in length, or thirty seconds for short tracks.
+
+In addition, the iTunes Store offers apps, which are applications used for various purposes (games, productivity, news, etc.) that are compatible with the iPod Touch, iPhone, and iPad, although some apps are specifically for the iPhone or iPad only. Some Apps cost money (called "Paid Apps") and some are free (called "Free Apps"). Developers can decide which prices they want to charge for apps, from a pre-set list of pricing tiers, from free to several hundred dollars. When someone downloads an App, 70 percent of the purchase goes to the developer(s), and 30 percent goes to Apple.<ref name="appleiosprogram">[https://developer.apple.com/programs/whats-included/ iOS Developer Program Website], Retrieved October 22, 2017 ''[[Apple Inc.]]''</ref>
+
+At the Macworld 2008 keynote, [[Steve Jobs]], who was Apple's CEO at the time, announced iTunes movie rentals.<ref>{{cite web|url=http://ipod.about.com/b/2008/01/15/macworld-keynote-coverage.htm|title=Macworld: New iPhone Software, iTunes Video Rentals, Updated AppleTV|accessdate=April 28, 2009|work=[[About.com]]}}</ref> Movies are available for rent in the iTunes Store on the same day they are released on DVD,<ref>{{cite web|url=http://www.appleinsider.com/articles/08/05/01/apple_expected_to_announce_new_movie_sales_in_itunes.html|title=AppleInsider, Apple Announces same day as DVD release iTunes movies sales|accessdate=June 12, 2009|work=AppleInsider}}</ref> though the iTunes Store also offers for rental some movies that are still in theaters. Movie rentals are only viewable for 24 hours (in the US) or 48 hours (in other countries) after users begin viewing them. The iTunes Store also offers one low-priced movie rental a week: in the United States, this rental costs 99 cents. Movie rentals are not yet available in all countries but it is available in the United States, Mexico, the United Kingdom, Canada, Australia and New Zealand.
+
+There is a weekly promotion in which one to three songs are available to download for free to logged-in users. Free downloads are available on Tuesdays, and remain free until the following Tuesday, when the store gets refreshed with new content.<ref>{{cite web|url=http://freeitunesmusic.blogspot.com/ |title=Free iTunes Music |publisher=Free iTunes Music |accessdate=September 19, 2013}}</ref> Some artists choose to have select songs available for no charge. This is not available at all iTunes Stores. Some iTunes television programs have begun the same technique to encourage brand loyalty; although those stay longer. In fact, the iTunes Store has a "Free TV Episodes" page where free episodes are organized by length, either as "featurettes" (shorter than 15 minutes) or full length episodes (longer than 15 minutes). Free content can vary from a preview of a show to bonus content to pilot episodes and entire seasons of TV shows (examples of free seasons include HBO's ''The Weight of the Nation'' and ABC's ''Pan-Am''). Some networks, such as ABC and NBC, have their own pages of "Free Season Premieres".
+
+While previously the US iTunes Store has offered as many as three free songs each week (the single of the week, Discovery Download, and Canción de la Semana) in recent years, the store has instead replaced the three aforementioned categories with a unified "Single of the Week" banner, with the week's single being from a new up and coming artist.<ref>{{cite web|url=http://forums.macrumors.com/showthread.php?t=1517419 |title=Free iTunes 2013 – MacRumors Forums |publisher=MacRumors |accessdate=December 31, 2012}}</ref>  In 2015, Apple discontinued the "Single of the Week" program.<ref>{{cite web|url=http://www.businessinsider.com/apple-ends-single-of-the-week-2015-1|title=It Seems Apple Has Ended Its 'Single of the Week' Promotion After 11 Years|publisher=Business Insider|accessdate=January 13, 2015}}</ref>
+
+====Current model====
+{{Globalize
+|2 = US
+|date=August 2020}}
+=====Music=====
+
+*A song usually costs 99¢; however, for songs with high popularity, the price is usually raised to $1.29. By default, songs that are more than 10 minutes are considered "Album Only"; distributors also have the power to make a song "Album Only." For special offers, song prices can be dropped to 69¢ or free.
+*By default, music albums cost $9.99 or the price of all the songs combined if it is less than $9.99. However, the music album's distributor can set a higher price for the album (as long as it is some amount of dollars and 99 cents), which usually happens on popular music albums. For special offers, prices of music albums can be dropped to $4.99, $5.99, $6.99, or $7.99.
+*On June 30, 2015 Apple launched Apple Music as a subscription service, initially available in 110 countries.<ref name="AppleMusicLaunch">{{cite web
+|url = https://www.macrumors.com/2015/06/30/apple-music-country-availability/
+|title = List of Countries Where Apple Music and Beats 1 Radio Are Now Available
+|accessdate = 2017-07-07
+|publisher = MacRumors.com}}</ref> New subscribers are offered a three-month free trial with ongoing subscriptions priced from $9.99/month in the US<ref name="AppleMusicUS">{{cite web
+|url = http://www.macworld.com/article/2934744/software-music/apple-music-faq-the-ins-and-outs-of-apples-new-streaming-music-service.html
+|title = Apple Music FAQ: The ins and outs of Apple's new streaming music service
+|accessdate = 2017-07-07
+|publisher = MacWorld.com}}</ref> and £9.99 in the UK<ref name="AppleMusicUK">{{cite web
+|url = https://www.apple.com/uk/apple-music/membership/
+|title = Take Apple Music for a spin.
+|accessdate = 2017-07-07
+|publisher = Apple.com}}</ref> or €9,99 for countries in the [[Eurozone]].<ref name="AppleMusicLaunchEU">{{cite web
+|url = https://nl.ccm.net/news/72-apple-music-nu-beschikbaar-voor-iedereen
+|title = (Dutch) Apple Music nu beschikbaar voor iedereen
+|accessdate = 2019-05-06
+|publisher = nl.CCM.net}}</ref>
+
+=====TV shows=====
+
+*By default, HD television episodes cost $2.99, while standard definition television episodes cost $1.99. However, distributors can make a television episode "Season Only." 
+*A television season costs either an amount of dollars (determined by number of episodes and definition) and 99 cents with the number in the one's place being a 4, 7, or 9, or the price of all episodes combined.
+
+=====Movies=====
+
+*Unpopular movies cost $7.99 to buy in standard definition and $13.99 or $14.99 to buy in HD. Popular movies or new releases cost $13.99 or $14.99 to buy in standard definition and $17.99 or $19.99 to buy in HD. 
+*Unpopular movies cost $2.99 to rent in standard definition and $3.99 to rent in HD. Popular movies cost $3.99 to rent in standard definition and $4.99 to rent in HD. For recent releases, this price is increased by $1.
+*Movies that are available in 4K and HDR (either HDR10 or Dolby Vision with an HDR10 profile) cost the same price as HD, and are automatically upgraded from HD to 4K and HDR at no additional cost. Movies can be played back in 4K and HDR on an Apple TV 4K or a Mac released in 2018 or later running macOS Catalina when hooked up to a compatible display, and can be played back in HDR on an iPhone 8/X or later, a 10.5" or 11" iPad Pro, and a 2nd gen or later 12.9" iPad Pro running iOS 11 or later, or a MacBook released in 2018 or later running macOS Catalina or later.
+*Movies that are available with a Dolby Atmos audio track requires an Apple TV 4K running tvOS 12 or later hooked up to a Dolby Atmos soundbar or receiver, a MacBook released in 2018 or later running macOS Catalina, an iPhone XS/XR running iOS 13 or later, or a 11"/3-gen 12.9" iPad Pro running iPadOS or later.
+
+=====Apps=====
+App prices are set by the developer; they can be free of charge or charged at 99 cents plus any number of dollars.
+
+===iTunes Store for iOS===
+The iTunes Store allows users to purchase and download items directly to portable Apple devices, such as the [[iPhone]], [[iPad]], [[Apple TV]] and [[iPod Touch]].<ref name=apple_touch_wi_fi>{{cite web|title=iPod touch Features|work=apple.com|url=https://www.apple.com/ipodtouch/features/|accessdate=September 25, 2007}}</ref> Apple offers three apps, each of which provides access to certain types of content.
+
+* The App Store app sells apps for iOS, and also provides updates to these apps.
+* The iTunes Store app sells music and videos.
+* The iBooks app sells ebooks.
+
+Other, free content available from the iTunes Store can be accessed from two other iOS apps:
+
+* The Podcasts apps lets users download, subscribe to and sync podcasts.
+* The iTunes U app gives access to iTunes U educational material.
+
+Originally, mobile users had to be connected to a Wi-Fi network in order to enter the store, hence its original name: ''iTunes Wi-Fi Music Store''. However, at Macworld 2009, Apple issued a software update which automatically allowed 3G and EDGE users to access the store's full functionality for files smaller than 10 megabytes (MB).<ref>{{cite web|url=http://ipod.about.com/b/2009/01/06/apple-ditches-itunes-drm-adds-variable-prices-3g-downloads.htm|title=Apple Ditches iTunes DRM, Adds Variable Prices, 3G Downloads|access-date=April 28, 2009|work=[[About.com]]|url-status=dead|archive-url=https://web.archive.org/web/20091202162358/http://ipod.about.com/b/2009/01/06/apple-ditches-itunes-drm-adds-variable-prices-3g-downloads.htm|archive-date=December 2, 2009}}</ref> The [[iOS version history#3.0|iOS 3.0 update]] added the ability to download movies, TV shows, audiobooks, iTunes U, and ringtones on mobile devices, in addition to the previously available songs and podcasts. On February 18, 2010, Apple increased the 10&nbsp;MB 3G download limit to 20&nbsp;MB. In March 2012, Apple increased the 3G download limit to 50&nbsp;MB,<ref>[https://gizmodo.com/5891417/you-can-now-download-ios-apps-up-to-50mb-over-3g-or-4g "You Can Now Download iOS Apps Up to 50MB Over 3G (or 4G)"]. [[Gizmodo]]. March 7, 2012. Retrieved June 12, 2012.</ref> and, in late 2013, Apple increased the limit to 100&nbsp;MB when they released the final version of [[iOS 7]] for their new iPhones.<ref>{{cite web|url=http://appleinsider.com/articles/13/09/18/apple-ups-limit-of-app-store-downloads-over-cellular-to-100mb|title=Apple ups limit of App Store downloads over cellular to 100MB|date=September 18, 2013|work=appleinsider.com}}</ref>
+
+===Customer support===
+In the United States, Apple provides [[technical support]] for the iTunes Store via email, there is no phone number for issues with iTunes purchases.<ref>{{cite web|last=Kazmucha|first=Allyson|title=Daily Tip: how to contact iTunes support with billing and account questions|url=http://www.imore.com/daily-tip-resolving-itunes-billing-issues|publisher=Mobile Nations|accessdate=July 8, 2013|date=July 2011}}</ref> Most customer service inquiries are handled online, via the Report a Problem link in iTunes.<ref>{{cite web|title=iTunes Store Support: Customer Service|work=[[Apple Inc.]]|url=https://www.apple.com/support/itunes/musicstore.html|accessdate=February 17, 2006}}</ref>
+
+===Charitable donations===
+In response to major [[natural disasters]], Apple provides the facility for donations to be made through the iTunes Store. Unlike other iTunes purchases, donations made to charitable organizations through this system are not subject to the 30% handling fee Apple usually charges.<ref name="DonateSandy">{{cite web | url=https://venturebeat.com/2012/11/01/sandy-itunes-ebay-donations/ | title=Support Sandy victims by donating through iTunes and eBay | publisher=VentureBeat | date=November 1, 2012 | accessdate=November 1, 2012 |author=Kelly, Meghan}}</ref> iTunes donation pages were set up following the [[2010 Haiti earthquake]],<ref name="DonateHaiti">{{cite web | url=http://current.com/groups/haiti-earthquake/91916287_idonate-itunes-and-the-haiti-earthquake.htm | title=iDonate: iTunes and the Haiti Earthquake | publisher=Current | date=January 15, 2010 | access-date=November 1, 2012 | archive-url=https://web.archive.org/web/20130116004548/http://current.com/groups/haiti-earthquake/91916287_idonate-itunes-and-the-haiti-earthquake.htm | archive-date=January 16, 2013 | url-status=dead }}</ref> the [[2011 Tōhoku earthquake and tsunami|2011 Japanese earthquake]] and ensuing tsunami,<ref name="DonateJapan">{{cite web | url=http://latimesblogs.latimes.com/technology/2011/03/apple-itunes-taking-red-cross-donations-for-japan-quake-and-tsunami-relief.html | title=Apple iTunes accepting Red Cross donations for Japan quake and tsunami relief | work=Los Angeles Times | date=March 13, 2011 | accessdate=November 1, 2012 |author=Olivarez-Giles, Nathan}}</ref> and 2012's [[Hurricane Sandy]].<ref name="DonateSandy" /> In all of these cases, donations were redirected to the [[International Red Cross and Red Crescent Movement|Red Cross]].
+
+===Music===
+The store began operations after Apple signed deals with five major record companies: [[EMI]], [[Universal Music Group]], [[Warner Music Group]], [[Sony Music Entertainment]], and [[Bertelsmann Music Group]]. Songs from more than 2,000 [[independent record label|independent labels]] were added later, the first being from [[The Orchard (music label)|The Orchard]] on June 24, 2003.
+
+As of April 2020, iTunes offers 60 million songs,<ref name=37Million>{{cite web|url=https://www.apple.com/pr/library/2012/09/12Apple-Unveils-New-iTunes.html|title=Apple Unveils New iTunes |publisher=Apple|date=September 12, 2012|accessdate=September 27, 2012}}</ref><ref name="itunesstoremainpage">{{cite web|url=https://www.apple.com/lae/itunes/music/|title=Apple – iTunes|work=[[Apple Inc.]]|accessdate=2017-09-13}}</ref> including exclusive tracks from numerous artists. Not all artists are available on iTunes, but many holdouts, such as [[Led Zeppelin]] and [[Radiohead]], have allowed their music to be sold on the iTunes Store in recent years. New songs are added to iTunes catalog on a daily basis, and the iTunes Store is updated each Tuesday.
+
+Downloaded songs come with song information (name, artist, album) already filled out, though iTunes provides a free service by [[Gracenote]] to do this for songs not purchased from the store, although they must be imported with iTunes. Songs that have an entry in the iTunes Store also come with album artwork (Artwork is embedded in the metadata). Artwork can be obtained for songs not purchased from the store for free if the user has an iTunes Store account. Purchased songs do not come with lyrics, nor does iTunes provide a service for acquiring the missing lyrics. However, several third-party applications exist to locate and automatically add lyrics to the user's music.
+
+===="Album Only" songs====
+Some songs are available from the store by "Album Only", meaning the song can only be acquired through the purchase of the entire album, whereas most songs can be downloaded separately from the album they belong to.
+
+Songs above 10 minutes in length are by default Album Only songs.<ref>{{cite web|url=http://observer.com/2015/06/the-itunes-download-model-is-broken-heres-how-to-fix-it/|title=The iTunes Download Model Is Broken—Here's How to Fix It|author=Allan Ripp|work=[[The New York Observer]]|publisher=Observer Media|date=June 17, 2015|accessdate=April 1, 2016}}</ref> However, this is not universally true; for example, ''Living in the Heart of the Beast'' by Henry Cow is 16 minutes and 18 seconds, yet is available for individual purchase as of December 24, 2013. Soundtracks also often have many Album Only tracks.
+
+Sometimes, the 10-minute restriction works in an artist's favor. Examples of this include Prince's ''Lovesexy'' and the deluxe version of Phoenix's ''Bankrupt!'', which both have an album as a single track instead of being separate, (in Prince's case, the track ''was'' the album, while in Phoenix's case, it was a collection of demos and outtakes) forcing the buyer to buy the album itself.
+
+Movie soundtracks normally include songs owned by many different labels, making licensing more complex. For example, ''[[Forrest Gump (soundtrack)|Forrest Gump: The Soundtrack]]'' includes songs from [[Peacock Records]], [[Argo Records]], and [[Capitol Records]], among many others. ''[[Greatest Hits (Red Hot Chili Peppers album)|Greatest Hits]]'' by [[Red Hot Chili Peppers]] has only one song, "[[Higher Ground (Red Hot Chili Peppers song)|Higher Ground]]", that is not available for download on a per song basis, whilst ''[[Circus (Britney Spears album)|Circus]]'' ([[Britney Spears]]' 2008 album) has two songs that are available for album download only, ''Rock Me In'' and ''Phonography''.
+
+==== Partial Albums ====
+Some albums area available from the store by "Partial Album", meaning that albums cannot be entirely purchased, but that one or more of the tracks that can be purchased on the physical CD version of them aren't included, e.g. possible due to licensing issues.
+
+===="Work Only" songs====
+Some tracks are listed as "Work Only", which means they can only be obtained by purchasing the entire piece of work (within the album); the tracks cannot be bought as singles. Works are generally pieces of classical music: symphonies, string quartets, etc., in multiple movements.
+
+===="LP" format====
+In September 2009, Apple introduced the [[iTunes LP]] format (known pre-launch by the code name "Cocktail")<ref>{{cite web|last=Rosoff |first=Matt |url=http://news.cnet.com/8301-13526_3-10347849-27.html |title=New iTunes LP format is live |publisher=CNET |date=September 9, 2009 |accessdate=September 19, 2013}}</ref> which features visual, interactive content alongside album tracks and lyrics.
+
+====Store Sections====
+When entering the US music store, there are multiple sections one can visit. Music is divided into genres (Alternative, Classical, Jazz, Soundtrack, etc.), and there are a number of links to other sections of the store under the Quick Links header. These include Recommended for You, Complete My Album, iTunes LP, as well as thematic sections, such as iTunes Festival sections.
+
+On November 1, 2006, Apple created a category for Latino and Hispanic content, "iTunes Latino". Telemundo and Mun2 made some of their popular programs available for purchase, becoming the first Hispanic television content in the store. It offers music, music videos, audiobooks, podcasts and television shows in Spanish in a single concentrated area. The brief descriptions given to the content are in Spanish as well as several subcategories.<ref>{{cite news|url=https://www.engadget.com/2006/11/01/apple-announces-itunes-latino-telemundo-and-mun2-in-itunes-stor/|title=Apple Announces iTunes Latino, Telemundo and mun2 in iTunes Store|author=David Chartier|work=[[Engadget]]|publisher=[[AOL]]|date=November 1, 2006|accessdate=March 30, 2016}}</ref> [[Gibraltar]]ian [[Flamenco]] [[Heavy metal music|Metal]] band [[Breed 77]], released an exclusive album called [[Un Encuentro]] to coincide with the launch of "iTunes Latino". It features 11 songs, all from previous albums, but all sung in Spanish.
+
+In 2012, Apple created Mastered for iTunes. When iTunes launched, the decision was made to standardize on AAC instead of the more popular MP3 format on the supposition that it offers better quality compared to other codecs at similar bit rates.<ref>{{cite web |title=Mastered for iTunes: Music as the Artist and Sound Engineer Intended |url=https://images.apple.com/itunes/mastered-for-itunes/docs/mastered_for_itunes.pdf |website=Apple |accessdate=June 27, 2018}}</ref> Mastered for iTunes (MFiT) is a procedure developed by Apple specifically for Mastering Engineers to follow. This set of tools allows Mastering Engineers to audition Apple's proprietary encoding during the mastering process to take into account how music will eventually interact with Apple's encoding. In addition to auditioning the encoder, there is also a tool (called afclip) that processes the audio file and creates a text file for audio clips. Because of this special encoding process, extra attention must be paid to headroom and inter-sample peaking while mastering.<ref>{{cite web |title=Hybrid Studios Mastering – Online Mastering Services – Free Sample of Services |url=https://www.hybridstudiosca.com/mastering/ |website=Hybrid Studios |accessdate=June 27, 2018}}</ref> In August 2019 it was announced that the Mastered for iTunes program would be rebranded as Apple Digital Masters. With the rebranding the high resolution masters are now available with Apple Music through streaming.<ref>{{Cite web|url=https://www.apple.com/itunes/mastered-for-itunes/|title=iTunes - Apple Digital Masters - Apple|website=www.apple.com|access-date=2019-08-15}}</ref> It is speculated that the rebranded came because the functionality of iTunes would be changing in macOS Catalina and there for the Mastered for iTunes name no longer made sense.
+
+=== Digital rights management ===
+While most downloaded files initially included usage restrictions enforced by [[FairPlay]], Apple's implementation of [[digital rights management]] (DRM), iTunes later initiated a shift into selling [[DRM-free]] music in most countries, marketed as iTunes Plus. On January 6, 2009, Apple announced that DRM had been removed from 80% of its music catalog in the US.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/technology/7813527.stm|title=Apple to end music restrictions|date=January 7, 2010|accessdate=January 5, 2010|publisher=BBC News}}</ref> Full iTunes Plus availability was achieved in the US on April 7, 2009, coinciding with the introduction of a three-tiered pricing model;<ref name="eng-pricing">{{cite web|url=https://www.engadget.com/2009/04/07/itunes-store-now-infected-with-variable-pricing-amazon-still-0/|title=iTunes Store now infected with variable pricing, Amazon still $0.99|date=April 7, 2009|publisher=[[Engadget]]|accessdate=January 25, 2010}}</ref> however, television episodes, many books, and films are still [[FairPlay]]-protected.
+
+==Censorship==
+{{main|Censorship by Apple|Censorship of the iTunes Store}}
+
+There is a policy of censoring [[profanity]] in titles on iTunes.<ref>[https://www.theguardian.com/music/musicblog/2008/oct/27/itunes-swear-words-censorship The songs that are too rude for iTunes], Michael Cragg, ''[[The Guardian]]'' October 27, 2008 . Retrieved October 27, 2008.</ref> This has resulted in a [[Scunthorpe problem|Scunthorpe glitch]], by which inoffensive titles are censored due to a coincidental string of letters.<ref>[http://news.bbc.co.uk/1/hi/entertainment/7688705.stm iTunes glitch censors song titles]. BBC.  October 24, 2008. Retrieved June 17, 2013.</ref> If the song has an explicit label, it will be marked "explicit" next to the song title. If a song is marked "explicit" it is unavailable for purchase if "restrict explicit content" is checked under the parental controls preference. Often there will be a "clean" mark next to the title of some songs, meaning the lyrics have been censored, and is available to purchase on all accounts. Generally if a song is marked "clean" there is an explicit version available as well.
+
+==Reception and commercial success==
+[[File:ITunes Store Songs Sales.jpg|thumb|right|300px|Sales of iTunes songs, 2003–2010.]]
+In the first 18 hours, the iTunes store sold about 275,000 tracks,<ref>{{Cite news|url=https://www.lifewire.com/itunes-store-history-2438593|title=Looking Back at the History of Apple's iTunes Store|newspaper=Lifewire|access-date=2017-01-02}}</ref><ref name=":0">{{Cite book|url=https://books.google.com/books?id=TxuXBQAAQBAJ&pg=PA158|title=Modern Trends Surrounding Information Technology Standards and Standardization within Organizations|last=Kai|first=Jakobs|date=2014-07-31|publisher=IGI Global|isbn=978-1-4666-6333-6|language=en}}</ref> and more than 1 million tracks were sold in its first 5 days.<ref>{{cite web|url=https://www.wsj.com/articles/SB105214495077652700|title=Apple's Online Music Store Makes Strong Debut|work=[[The Wall Street Journal]]|publisher=[[Dow Jones & Company]]|date=May 5, 2003|accessdate=March 28, 2016}}</ref><ref name=":0" /> When released for Windows in October 2003, iTunes was downloaded more than 1 million times in the first 3 days, selling more than 1 million songs in that period.{{citation needed|date=March 2016}} On December 15, 2003, Apple announced that it had sold 25 million songs.<ref>{{cite press release|url=https://www.apple.com/pr/library/2003/12/15iTunes-Music-Store-Downloads-Top-25-Million-Songs.html|title=iTunes Music Store Downloads Top 25 Million Songs|website=Newsroom|publisher=[[Apple Inc.]]|date=December 15, 2003|accessdate=March 28, 2016}}</ref>
+
+In January 2004 at the [[Macworld Conference & Expo]] in San Francisco, Steve Jobs announced (Sellers, 2004) that an unnamed person had purchased US$29,500 worth of music. On March 15, 2004, Apple announced that iTunes Music Store customers had purchased and downloaded 50 million songs from iTunes Music Store. A song sold on iTunes gives the artist 9 cents in profit. They also reported that customers were purchasing 2.5 million songs a week which translates to a projected annual run rate of 130 million songs a year. The 50 millionth song was "The Path of Thorns" by [[Sarah McLachlan]].<ref>{{cite web|title=iTunes Music Store Downloads Top 50 Million Songs|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2004/mar/15itunes.html|date=March 15, 2004|access-date=February 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20060218113843/http://www.apple.com/pr/library/2004/mar/15itunes.html|archive-date=February 18, 2006}}</ref>
+
+On April 28, 2004, iTunes Music Store marked its first anniversary with 70 million songs sold, clear dominance in the paid online music market and a slight profit.<ref>{{cite news|author=Markoff, John |date=April 29, 2004 |title=Apple Sells 70 Million Songs in First Year of ITunes Service |work=[[The New York Times]] |url=https://www.nytimes.com/2004/04/29/technology/29apple.html |access-date=February 17, 2006 |archive-url=https://web.archive.org/web/20090722054122/http://www.nytimes.com/2004/04/29/technology/29apple.html |archive-date=July 22, 2009 |url-status=dead  }}</ref> The store also offers hundreds of movie trailers and music videos, in an attempt to boost soundtrack sales. In the conference, [[Steve Jobs]] reiterated that a subscription service is still not in the interest of customers and reported that only 5 million of the 100 million songs offered in the [[Pepsi]] giveaway campaign were redeemed, which he blamed on technical problems in Pepsi distribution. According to an Apple [[News release|press release]] dated August 10, 2004, iTunes Music Store was the first store to have a catalog of more than one million songs.<ref>{{cite web|title=iTunes Music Store Catalog Tops One Million Songs|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2004/aug/10itms.html|date=August 10, 2004|access-date=February 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20060209114047/http://www.apple.com/pr/library/2004/aug/10itms.html|archive-date=February 9, 2006}}</ref> Also, iTunes Music Store at that point maintained a 70 percent market share of legal music downloads.
+
+The emerging monopoly of the store was criticized in 2011 by [[Mike Lang (film executive)|Mike Lang]] of [[Miramax]] for "effectively strangling the industry". He says that because the music industry has allowed too few content providers, it is now suffering. Lang views the issue as being more of a threat than [[music piracy]].<ref name="techeye threatens more than piracy">{{cite web | url=http://news.techeye.net/internet/itunes-threatens-music-industry-more-than-piracy | title=ITunes threatens music industry more than piracy | publisher=TechEYE.net | date=October 6, 2011 | access-date=October 18, 2011 |author=Farrell, Nick | quote=The CEO of Miramax [Mike Lang] has warned that iTunes is more of a threat to Big Content than piracy. [...] He said the chokepoints in the distribution chain were when there isn't enough diversity in distribution, so there are intermediaries that end up totally controlling an industry. He added that another problem is the emergence of digital monopolies such as the one Apple has in the digital music business. [...] The music business is suffering because it allowed too few players to flog content, presumably fearful of their content being stolen. Encouraging Apple's iTunes at the expense of others is effectively strangling the industry, he said. | archive-url=https://web.archive.org/web/20111016124748/http://news.techeye.net/internet/itunes-threatens-music-industry-more-than-piracy | archive-date=October 16, 2011 | url-status=dead }}</ref>
+
+==Sales milestones==
+
+===Music===
+:*'''100 million songs sold''': July 11, 2004
+::(Kevin Britten of [[Hays, Kansas|Hays]], Kansas, bought the 100 millionth song, and the twenty-year-old received a call from Steve Jobs congratulating him.)<ref name=ipodshuffles>Levy, Steven (2006). ''The Perfect Thing: How the iPod Shuffles''. New York, NY: [[Simon & Schuster]].</ref>
+:*'''125 million songs sold''': September 1, 2004<ref>{{cite web|title=Apple Launches iTunes Affiliate Program|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2004/sep/01itunesaffiliate.html|date=September 1, 2004|access-date=February 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20060212102633/http://www.apple.com/pr/library/2004/sep/01itunesaffiliate.html|archive-date=February 12, 2006}}</ref>
+:*'''150 million songs sold''': October 14, 2004<ref>{{cite web|title=iTunes Music Store Downloads Top 150 Million Songs|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2004/oct/14itunes.html|date=October 14, 2004|access-date=February 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20060213015403/http://www.apple.com/pr/library/2004/oct/14itunes.html|archive-date=February 13, 2006}}</ref>
+:*'''200 million songs sold''': December 16, 2004
+::(Ryan Alekman of [[Belchertown, Massachusetts|Belchertown]], Massachusetts, bought the 200 millionth song, which was one of the tracks on [[U2]]'s digital [[box set]] ''[[The Complete U2]].'')<ref>{{cite web|title=iTunes Music Store Downloads Top 200 Million Songs|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2004/dec/16itunes.html|date=December 16, 2004|access-date=February 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20060206210003/http://www.apple.com/pr/library/2004/dec/16itunes.html|archive-date=February 6, 2006}}</ref>
+:*'''250 million songs sold''': January 24, 2005<ref>{{cite web|title=iTunes Music Store Downloads Top a Quarter Billion Songs|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2005/jan/24itms.html|date=January 24, 2005|access-date=February 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20060212121418/http://www.apple.com/pr/library/2005/jan/24itms.html|archive-date=February 12, 2006}}</ref>
+:*'''300 million songs sold''': March 2, 2005<ref>{{cite web|title=iTunes Music Store Downloads Surpass 300 Million|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2005/mar/02itms.html|access-date=February 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20060215184810/http://www.apple.com/pr/library/2005/mar/02itms.html|archive-date=February 15, 2006}}</ref>
+:*'''400 million songs sold''': May 10, 2005<ref>{{cite web|title=iTunes Music Store Launches in Denmark, Norway, Sweden & Switzerland|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2005/may/10itms.html|date=May 10, 2005|access-date=February 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20060207103453/http://www.apple.com/pr/library/2005/may/10itms.html|archive-date=February 7, 2006}}</ref>
+On July 5, 2005, Apple announced a promotion counting down to half a billion songs
+sold.<ref>{{cite web|title=Apple Kicks Off iTunes Music Store Countdown to Half a Billion Songs|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2005/jul/05itms_live8.html|date=July 5, 2005|access-date=February 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20060217050152/http://www.apple.com/pr/library/2005/jul/05itms_live8.html|archive-date=February 17, 2006}}</ref>
+:* '''500 million songs sold''': July 18, 2005
+::(Amy Greer of [[Lafayette, Indiana|Lafayette]], Indiana, bought the 500 millionth song, "[[Mississippi Girl]]" by [[Faith Hill]].)<ref>{{cite web|title=iTunes Music Store Downloads Top Half a Billion Songs|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2005/jul/18itms.html|date=July 18, 2005|access-date=February 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20060202194052/http://www.apple.com/pr/library/2005/jul/18itms.html|archive-date=February 2, 2006}}</ref>
+:*'''850 million songs sold''': January 10, 2006<ref name="computerworld.com">{{cite web|title=Macworld '06: An overview of Apple's big day |work=[[Computerworld]] |url=http://www.computerworld.com/printthis/2006/0,4814,107631,00.html |archive-url=https://web.archive.org/web/20060219043733/http://www.computerworld.com/printthis/2006/0%2C4814%2C107631%2C00.html |archive-date=February 19, 2006 |access-date=February 17, 2006 |url-status=dead  }}</ref>
+:*'''1 billion songs sold''': February 23, 2006
+::(Alex Ostrovsky of [[West Bloomfield Township, Michigan|West Bloomfield]], [[Michigan]], bought the billionth song, "[[Speed of Sound (song)|Speed of Sound]]" by [[Coldplay]].<ref name="apple.com">{{cite web|title=iTunes Music Store Downloads Top One Billion Songs|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2006/feb/23itms.html|date=February 23, 2006|access-date=February 23, 2006|url-status=dead|archive-url=https://web.archive.org/web/20080724055403/http://www.apple.com/pr/library/2006/feb/23itms.html|archive-date=July 24, 2008}}</ref> He later got a call from Steve Jobs with the news that the sixteen-year-old was getting ten iPods, an iMac, a $10,000 music gift certificate, and a scholarship established in his name at the Juilliard School.)<ref name=ipodshuffles />
+:*'''1.5 billion songs sold''': September 12, 2006<ref name=2billion>{{cite web|title=iTunes Store Tops Two Billion Songs|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2007/01/09itunes.html|date=January 9, 2007|access-date=January 11, 2007|url-status=dead|archive-url=https://web.archive.org/web/20070112065454/http://www.apple.com/pr/library/2007/01/09itunes.html|archive-date=January 12, 2007}}</ref>
+:*'''2 billion songs sold''': January 10, 2007<ref name=2billion />
+:*''' 2.5 billion songs sold''': April 9, 2007<ref>{{cite web|title=100 Million iPods Sold|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2007/04/09ipod.html|date=April 9, 2007|access-date=April 9, 2007|url-status=dead|archive-url=https://web.archive.org/web/20070416004418/http://www.apple.com/pr/library/2007/04/09ipod.html|archive-date=April 16, 2007}}</ref>
+:*'''3 billion songs sold''': July 31, 2007<ref>{{cite web| title=iTunes Store Tops Three Billion Songs| work=[[Apple Inc.]]| url=https://www.apple.com/pr/library/2007/07/31itunes.html| date=July 31, 2007| access-date=July 31, 2007| url-status=dead| archive-url=https://web.archive.org/web/20070825091650/http://www.apple.com/pr/library/2007/07/31itunes.html| archive-date=August 25, 2007}}</ref>
+:*'''4 billion songs sold''': January 15, 2008
+:*'''5 billion songs sold''': June 19, 2008<ref>{{cite web|url=https://www.apple.com/pr/library/2008/06/19iTunes-Store-Tops-Over-Five-Billion-Songs-Sold.html |title=iTunes Store Tops Over Five Billion Songs Sold |publisher=Apple |date=June 19, 2008 |accessdate=September 19, 2013}}</ref>
+:*'''6 billion songs sold''': January 6, 2009<ref>{{cite web|title=iTunes Sells 6 Billion Songs, And Other Fun Stats From The Philnote|work=[[TechCrunch]]|url=https://techcrunch.com/2009/01/06/itunes-sells-6-billion-songs-and-other-fun-stats-from-the-philnote/|date=January 6, 2009|accessdate=January 6, 2009}}</ref>
+:*'''8 billion songs sold''': July 21, 2009
+:*'''8.6 billion songs sold''': September 9, 2009
+:*'''10 billion songs sold''': February 24, 2010<ref>{{cite web|url=https://www.apple.com/pr/library/2010/02/25iTunes-Store-Tops-10-Billion-Songs-Sold.html |title=iTunes Store Tops 10 Billion Songs Sold |publisher=Apple |date=February 25, 2010 |accessdate=September 19, 2013}}</ref>
+::(Louie Sulcer of [[Woodstock, Georgia]], downloaded "[[Guess Things Happen That Way]]" by [[Johnny Cash]]. At 71 years old, he was the oldest milestone winner to that date. He received a call from [[Steve Jobs]] and a $10,000 iTunes gift card.)<ref>{{cite web|url=https://abcnews.go.com/Technology/wireStory?id=9948047 |archive-url=https://web.archive.org/web/20100301075715/https://abcnews.go.com/Technology/wireStory?id=9948047 |title=10 Billionth Song Sold by Apple's iTunes |publisher=ABC News |date=February 25, 2010 |archive-date=March 1, 2010 |accessdate=September 19, 2013}}</ref>
+:*'''15 billion songs sold''': June 6, 2011<ref>[https://web.archive.org/web/20110609034134/http://digitalmusicnews.com/stories/060611itunes15 "Apple has now sold 15 billion iTunes songs"]. Digital Music News. June 6, 2011. Retrieved April 14, 2012.</ref>
+:*'''20 billion songs sold''': September 12, 2012<ref>[https://web.archive.org/web/20120913022954/http://www.apple.com/apple-events/september-2012/ "Apple Special Event"]. [[Apple Inc.]] September 12, 2012. Retrieved February 6, 2013.</ref>
+:*'''25 billion songs sold''': February 6, 2013<ref name=25Billion2013>[https://www.apple.com/pr/library/2013/02/06iTunes-Store-Sets-New-Record-with-25-Billion-Songs-Sold.html "iTunes Store Sets New Record with 25 Billion Songs Sold"]. [[Apple Inc.]] February 6, 2013. Retrieved February 6, 2013.</ref>
+:*'''35 billion songs sold''': May 28, 2014<ref name="macdailynews.com"/>
+
+===Video===
+:*'''1 million videos sold''': October 31, 2005<ref>{{cite web|title=iTunes Music Store Sells One Million Videos in Less Than 20 Days|publisher=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2005/oct/31itms.html|date=October 31, 2005|access-date=February 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20060219052610/http://www.apple.com/pr/library/2005/oct/31itms.html|archive-date=February 19, 2006}}</ref>
+:*'''3+ million videos sold''': December 6, 2005<ref>{{cite web|title=NBC Universal & Apple Offer New Primetime, Cable, Late-Night & Classic TV Shows on the iTunes Music Store|publisher=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2005/dec/06nbc.html|date=December 6, 2005|access-date=February 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20060217044428/http://www.apple.com/pr/library/2005/dec/06nbc.html|archive-date=February 17, 2006}}</ref>
+:*'''8 million videos sold''': January 10, 2006<ref name="computerworld.com"/>
+:*'''15 million videos sold''': February 23, 2006<ref name="apple.com"/>
+:*'''45 million videos sold''': September 12, 2006<ref name=2billion />
+:*'''50 million television episodes sold''': January 10, 2007<ref name=2billion />
+:*'''1.3 million feature-length films sold''': January 10, 2007<ref name=2billion />
+:*'''2 million feature-length films sold''': July 31, 2007<ref name="MGM_ApplePR20070411">{{cite web|work=[[Apple Inc.]]|title=Award-Winning MGM Films Now on the iTunes Store|url=https://www.apple.com/pr/library/2007/04/11itunes.html|access-date=April 12, 2007|url-status=dead|archive-url=https://web.archive.org/web/20070416003909/http://www.apple.com/pr/library/2007/04/11itunes.html|archive-date=April 16, 2007}}</ref>
+:*'''200 million television episodes sold''': October 16, 2008<ref name="EpisodeSales">{{cite web|work=[[Apple Inc.]]|title=ABC, CBS, FOX & NBC Offer Incredible Lineup of Programming in Stunning HD on the iTunes Store|url=https://www.apple.com/pr/library/2008/10/16itunes.html|access-date=October 16, 2008|url-status=dead|archive-url=https://web.archive.org/web/20081017125516/http://www.apple.com/pr/library/2008/10/16itunes.html|archive-date=October 17, 2008}}</ref>
+:*'''1+ million HD episodes sold''': October 16, 2008<ref name="EpisodeSales"/>
+
+===Applications===
+:*'''10 million apps downloaded''': July 14, 2008<ref>{{cite web|title=iPhone App Store Downloads Top 10 Million in First Weekend|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2008/07/14appstore.html|date=July 14, 2008|access-date=June 20, 2009|url-status=dead|archive-url=https://web.archive.org/web/20090625000302/http://www.apple.com//pr//library//2008//07//14appstore.html|archive-date=June 25, 2009}}</ref>
+:*'''100 million apps downloaded''': September 9, 2008<ref>{{cite web|title=App Store Downloads Top 100 Million Worldwide|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2008/09/09appstore.html|date=September 9, 2008|access-date=December 7, 2008|url-status=dead|archive-url=https://web.archive.org/web/20081215210607/http://www.apple.com/pr/library/2008/09/09appstore.html|archive-date=December 15, 2008}}</ref>
+:*'''200 million apps downloaded''': October 22, 2008<ref>{{cite web|title=iPhone App Store continues to exceed iTunes song sales growth|work=AppleInsider|url=http://www.appleinsider.com/articles/08/10/21/iphone_app_store_continues_to_exceed_itunes_song_sales_growth.html|date=October 22, 2008|accessdate=December 7, 2008}}</ref>
+:*'''300 million apps downloaded''': December 5, 2008<ref>{{cite web|title=Apple Apps "Bubble" Talk Just That, As Downloads Soar|work=[[CNBC]]|url=https://www.cnbc.com/id/28070203/site/14081545|date=December 5, 2008|accessdate=December 7, 2008}}{{dead link|date=February 2017}}</ref>
+:*'''500 million apps downloaded''': January 16, 2009<ref>{{cite web|title=The Little App Store That Could|work=[[CNBC]]|url=https://www.cnbc.com/id/28691281/site/14081545|date=January 16, 2009|accessdate=January 16, 2009}}{{dead link|date=February 2017}}</ref>
+:*'''800 million apps downloaded''': March 17, 2009<ref>{{cite web|title=App Store: 25 000 apps, 800 million downloads|work=[[VentureBeat]]|url=https://venturebeat.com/2009/03/17/app-store-25000-apps-800-million-downloads/|date=March 17, 2009|accessdate=March 25, 2009}}</ref>
+:*'''1 billion apps downloaded''': April 23, 2009<ref name="Billion apps">{{cite web|url=https://www.apple.com/itunes/billion-app-countdown/ |archive-url=https://web.archive.org/web/20090427080737/http://www.apple.com//itunes//billion-app-countdown// |title=iTunes – Thanks a Billion |publisher=Apple |archive-date=April 27, 2009 |accessdate=September 19, 2013}}</ref>
+:*'''1.5 billion apps downloaded''': July 14, 2009<ref>{{cite web|title=Apple's App Store Downloads Top 1.5 Billion in First Year|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2009/07/14apps.html|date=July 14, 2009|access-date=August 28, 2009|url-status=dead|archive-url=https://web.archive.org/web/20090822064637/http://www.apple.com/pr/library/2009/07/14apps.html|archive-date=August 22, 2009}}</ref>
+:*'''1.8 billion apps downloaded''': September 9, 2009
+:*'''2 billion apps downloaded''': September 28, 2009
+:*'''3 billion apps downloaded''': January 5, 2010
+:*'''7 billion apps downloaded''': October 20, 2010
+:*'''10 billion apps downloaded''': January 22, 2011<ref>{{cite web|title=Apple App Store hits more than 10 billion Apps downloads |url=http://www.newsden.net/apple-app-store-hits-more-than-10-billion-apps-downloads-6163 |archive-url=https://web.archive.org/web/20110125062336/http://www.newsden.net/apple-app-store-hits-more-than-10-billion-apps-downloads-6163/ |url-status=dead |archive-date=January 25, 2011  }}</ref>
+:*'''15 billion apps downloaded''': July 7, 2011<ref>{{cite press release|title=Apple's App Store Downloads Top 15 Billion|url=https://www.apple.com/pr/library/2011/07/07Apples-App-Store-Downloads-Top-15-Billion.html|website=Newsroom|date=July 7, 2011|accessdate=2019-08-03|publisher=[[Apple Inc]]}}</ref>
+:*'''25 billion apps downloaded''': March 5, 2012<ref name=25BillionApps>{{cite press release|title=Apple's App Store Downloads Top 25 Billion|url=https://www.apple.com/pr/library/2012/03/05Apples-App-Store-Downloads-Top-25-Billion.html|website=Newsroom|date=March 5, 2012|accessdate=May 10, 2012|publisher=[[Apple Inc]]}}</ref>
+:*'''30 billion apps downloaded''': June 11, 2012<ref name=30BillionApps>{{cite web|title=Apple: 30B apps downloaded, 400M App Store accounts set up|url=http://news.cnet.com/8301-13579_3-57450369-37/apple-30b-apps-downloaded-400m-app-store-accounts-set-up/|author=Don Reisinger|date=June 11, 2012|accessdate=February 6, 2013|work=[[CNET]]}}</ref>
+:*'''35 billion apps downloaded''': October 23, 2012<ref name=35BillionApps>{{cite web|title=Apple by the numbers|url=http://9to5mac.com/2012/10/23/apple-by-the-numbers-5m-iphones-3m-ipods-200m-ios6-160m-gamer-center-accounts-and-more/|author=Élyse Betters|website=9to5Mac|date=October 23, 2012|accessdate=February 6, 2013}}</ref>
+:*'''40 billion apps downloaded''': January 7, 2013<ref name=40BillionApps>{{cite press release|title=App Store Tops 40 Billion Downloads with Almost Half in 2012|url=https://www.apple.com/pr/library/2013/01/07App-Store-Tops-40-Billion-Downloads-with-Almost-Half-in-2012.html|website=Newsroom|date=January 7, 2013|accessdate=February 6, 2013|publisher=[[Apple Inc]]}}</ref>
+:*'''50 billion apps downloaded''': May 16, 2013
+:*'''60 billion apps downloaded''': October 22, 2013
+:*'''75 billion apps downloaded''': June 2, 2014<ref name="75BillionApps">{{cite web|last=Perez |first=Sarah |url=https://techcrunch.com/2014/06/02/itunes-app-store-now-has-1-2-million-apps-has-seen-75-billion-downloads-to-date/| title=iTunes App Store Now Has 1.2 Million Apps, Has Seen 75 Billion Downloads To Date |publisher=TechCrunch |date=June 2, 2014 |accessdate=June 10, 2015}}</ref>
+:*'''100 billion apps downloaded''': June 8, 2015<ref name="100BillionApps">{{cite web|last=Ingraham |first=Nathan |url=https://www.theverge.com/2015/6/8/8739611/apple-wwdc-2015-stats-update |title=Apple's App Store has passed 100 billion app downloads |publisher=The Verge |date=June 9, 2015 |accessdate=June 10, 2015}}</ref>
+:*'''250 billion apps downloaded''': December 2016 <ref>{{cite web|url=http://www.businessofapps.com/data/app-statistics/|title=App Download and Usage Statistics – Business of Apps|date=September 2017}}</ref>
+
+===Market share===
+:*On September 12, 2006, Steve Jobs announced in his "It's Showtime" keynote that Apple had 88% of the legal US music download market.<ref name=2billion />
+:*On April 11, 2007, Apple announced that the iTunes Store had sold more than two million movies, making it the world's most popular online movie store.<ref name="MGM_ApplePR20070411"/>
+:*On February 26, 2008, the iTunes Store surpassed [[Best Buy]] to become the second-largest music vendor in the US behind [[Walmart]], and became number one on April 3, 2008.<ref name=iTunesTopRetailer />
+:*On October 10, 2012, the iTunes Store was reported to have a 64% share of the online music market, and a 29% share of all music sales worldwide.<ref>{{cite web|url=http://www.cepro.com/article/itunes_dominates_download_market_streaming_audio_grows/|title=iTunes Dominates Download Market & Streaming Audio Grows|publisher=CEPro.com|date=October 10, 2012|accessdate=October 16, 2012|archive-url=https://web.archive.org/web/20150923202140/http://www.cepro.com/article/itunes_dominates_download_market_streaming_audio_grows/|archive-date=September 23, 2015|url-status=dead}}</ref>
+
+==Internationalization==
+Originally only Mac OS X users who had a US billing address could buy songs with the service, but [[Steve Jobs]] announced plans to support both [[Microsoft Windows|Windows]] and non-American users. The Windows version of iTunes and support for the Windows platform from iTunes Music Store were announced on October 16, 2003, with immediate availability. Beginning in 2004, the service has become available in a number of countries other than the United States:
+
+{| class = "wikitable sortable"
+|-
+! rowspan="2" | Country
+! colspan="10" | Product type
+! rowspan="2" | Affiliate program<ref name="itunesAffliates">{{cite web|url=https://www.apple.com/itunes/affiliates/resources/documentation/available-countries-regions.html|title=iTunes, App Store, iBooks, and Mac App Store Affiliate Resources – Available Countries and Regions|accessdate=October 27, 2013|archive-url=https://web.archive.org/web/20131024203943/http://www.apple.com/itunes/affiliates/resources/documentation/available-countries-regions.html|archive-date=October 24, 2013|url-status=dead}}</ref>
+! rowspan="2" | Price/song
+|-
+! Music<ref name="iTunesAvailability">{{cite web|url=http://support.apple.com/kb/TS3599 |title=iTunes Store: Which types of items can I buy in my country? |publisher=Apple |accessdate=September 19, 2013}}</ref>
+! Music Videos<ref name="iTunesAvailability"/>
+! Podcasts<ref name="iTunesAvailability"/>
+! TV shows<ref name="iTunesAvailability"/>
+! Movies<ref name="iTunesAvailability"/>
+! Apps<ref name="iTunesAvailability"/>
+! Books<ref name="iTunesAvailability"/>
+! iTunes Match<ref name="iTunesMatch">{{cite web|url=http://support.apple.com/kb/HT5085 |title=iTunes in the Cloud, iTunes Match, & iTunes Radio Availability |publisher=Apple |accessdate=September 19, 2013}}</ref>
+! iTunes U<ref name="iTunesAvailability"/>
+! iTunes Radio<ref name="iTunesMatch"/>
+|-
+| United States || {{Yes|April 28, 2003}} || {{Yes}} || {{Yes}} || {{Yes|October 12, 2005}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{No|Discontinued January 28, 2016}}<ref>[https://www.theverge.com/2016/1/15/10777790/itunes-radio-apple-music-january-28 "Apple will start charging for iTunes Radio on January 28th" ]. TheVerge.com. January 15, 2016. Retrieved July 7, 2017.</ref> || {{Yes}} || 0.69 – 1.29 [[United States dollar|USD]]
+|-
+| United Kingdom || {{Yes|June 15, 2004}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|June 4, 2008}} || {{Yes}} || {{Yes}} || {{Yes|December 15, 2011}}<ref name="iTunesMatchEU/CAN">{{cite web|last=Slivka |first=Eric |url=http://www.macrumors.com/2011/12/16/apple-temporarily-halts-new-itunes-match-subscriptions-in-new-international-markets/ |title=Apple Temporarily Halts New iTunes Match Subscriptions in New International Markets |publisher=MacRumors |date=December 16, 2011 |accessdate=September 19, 2013}}</ref> || {{Yes}} || {{No}} || {{Yes}} || 0.59 – 0.99 [[Pound sterling|GBP]]<br/><small>(0.91 – US$1.53)<ref name="curconvert">{{cite web |url=http://www.oanda.com/currency/average?amount=1&start_month=1&start_year=2010&end_month=12&end_year=2010&base=USD&avg_type=Year&Submit=1&exchange=AUD&exchange=CAD&exchange=CHF&exchange=DKK&exchange=EUR&exchange=GBP&exchange=JPY&exchange=MXN&exchange=NOK&exchange=NZD&exchange=SEK&interbank=0&format=HTML|title=Average for USD in multiple currencies for Jan 2010 to Dec 2010|accessdate=January 3, 2011}}</ref></small>
+|-
+| France || {{Yes|June 15, 2004}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|April 30, 2009}} || {{Yes}} || {{Yes}} || {{Yes|December 15, 2011}}<ref name="iTunesMatchEU/CAN"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Germany || {{Yes|June 15, 2004}} || {{Yes}} || {{Yes}} || {{Yes|April 2, 2008}}<ref>[http://www.pcwelt.de/start/dsl_voip/online/news/154212/ "iTunes nun mit Serien-Downloads auch in Deutschland" (in German)]. PCWelt.de. April 2, 2008. Retrieved January 27, 2013.</ref> || {{Yes|April 16, 2009}}<ref>[https://archive.is/20130103034532/http://www.hdtvtotal.com/module-pagesetter-viewpub-tid-1-pid-1319.html Apple iTunes Deutschland nun mit HD-Filmen zum Ausleihen] auf HDTVTotal.com</ref> || {{Yes}} || {{Yes}} ||  {{Yes|December 15, 2011}}<ref name="iTunesMatchEU/CAN"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Austria || {{Yes|October 26, 2004}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|April 30, 2012}}<ref name="iTunesMatchAUT/ITA">{{cite web|last=Heath |first=Alex |url=http://www.cultofmac.com/164069/itunes-match-rolling-out-to-more-countries-now-available-in-italy-greece-portugal-austria/ |title=iTunes Match Rolling Out To More Countries, Now Available in Italy, Greece, Portugal, Austria |publisher=Cult of Mac |date=April 30, 2012 |accessdate=September 19, 2013}}</ref>|| {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Belgium || {{Yes|October 26, 2004}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|December 15, 2011}}<ref name="iTunesMatchEU/CAN"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Finland || {{Yes|October 26, 2004}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|December 9, 2013}} || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Greece || {{Yes|October 26, 2004}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|April 30, 2012}}<ref name="iTunesMatchAUT/ITA"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Italy || {{Yes|October 26, 2004}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|April 30, 2012}}<ref name="iTunesMatchAUT/ITA"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Luxembourg || {{Yes|October 26, 2004}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|December 15, 2011}}<ref name="iTunesMatchEU/CAN"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Netherlands || {{Yes|October 26, 2004}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes|September 27, 2011<ref>{{cite web|title=(from Dutch) Breaking Movies have appeared in the Dutch iTunes Store|url=http://www.onemorething.nl/2011/09/breaking-films-verschenen-in-nederlandse-itunes-store|date=September 27, 2011}}</ref>}} || {{Yes}} || {{Yes}} || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST">{{cite web|last=Slivka |first=Eric |url=http://www.macrumors.com/2012/01/16/itunes-match-launches-in-19-new-countries-latin-america-baltics-netherlands/ |title=iTunes Match Launches in 19 New Countries: Latin America, Baltics, Netherlands |publisher=MacRumors |date=January 16, 2012 |accessdate=September 19, 2013}}</ref> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Portugal || {{Yes|October 26, 2004}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|April 30, 2012}}<ref name="iTunesMatchAUT/ITA"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Spain || {{Yes|October 26, 2004}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|December 15, 2011}}<ref name="iTunesMatchEU/CAN"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Canada || {{Yes|December 2, 2004}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|June 4, 2008}} || {{Yes}} || {{Yes}} || {{Yes|December 15, 2011}}<ref name="iTunesMatchEU/CAN"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 [[Canadian dollar|CAD]]<br/><small>(0.67 – US$1.25)<ref name="curconvert" /></small>
+|-
+| Ireland || {{Yes|January 6, 2005}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes|April 30, 2009}} || {{Yes}} || {{Yes}} || {{Yes|December 15, 2011}}<ref name="iTunesMatchEU/CAN"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Sweden || {{Yes|May 10, 2005}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|December 9, 2013}} || {{Yes}} || {{No}} || {{Yes}} || 9 – 12 [[Swedish krona|SEK]]<br/><small>(1.25 – US$1.67)<ref name="curconvert" /></small>
+|-
+| Norway || {{Yes|May 10, 2005}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|December 9, 2013}} || {{Yes}} || {{No}} || {{Yes}} || 8 – 10 [[Norwegian krone|NOK]]<br/><small>(1.32 – US$1.66)<ref name="curconvert" /></small>
+|-
+| Switzerland || {{Yes|May 10, 2005}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|December 15, 2011}}<ref name="iTunesMatchEU/CAN"/> || {{Yes}} || {{No}} || {{Yes}} || 1.60 – 2.20 [[Swiss franc|CHF]]<br/><small>(1.53 – US$2.11)<ref name="curconvert" /></small>
+|-
+| Denmark || {{Yes|May 10, 2005}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|December 9, 2013}} || {{Yes}} || {{No}} || {{Yes}} || 8 – 10 [[Danish krone|DKK]]<br/><small>(1.52 – US$1.90)<ref name="curconvert" /></small>
+|-
+| Japan || {{Yes|August 4, 2005}}<ref name="iTMS Japan">{{cite web|title=Apple Launches iTunes Music Store in Japan|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2005/aug/04itms.html|date=August 4, 2005|access-date=February 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20060210003347/http://www.apple.com/pr/library/2005/aug/04itms.html|archive-date=February 10, 2006}}</ref> || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes|March 6, 2013}}<ref>{{cite press release|title=Apple Launches iBookstore in Japan|website=Newsroom|publisher=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2013/03/06Apple-Launches-iBookstore-in-Japan.html|date=March 6, 2013|accessdate=March 6, 2013}}</ref> || {{Yes|May 2, 2014}} || {{Yes}} || {{No}} || {{Yes}} || 150 – 250 [[Japanese yen|JPY]]<br/><small>(1.81 – US$3.02)<ref name="curconvert" /></small>
+|-
+| Australia || {{Yes|October 25, 2005}} || {{Yes|October 25, 2005}} || {{Yes}} || {{Yes|June 24, 2008}}<ref>{{cite web|title=Award-Winning Television Programming Now Available on the iTunes Store in Australia|publisher=[[Apple Inc.]]|url=https://www.apple.com/au/pr/library/2008/06/24itunes.html|date=June 25, 2008|access-date=June 26, 2008|url-status=dead|archive-url=https://web.archive.org/web/20081103005604/http://www.apple.com/au/pr/library/2008/06/24itunes.html|archive-date=November 3, 2008}}</ref> || {{Yes|August 14, 2008}} || {{Yes}} || {{Yes}} || {{Yes|December 15, 2011}}<ref name="iTunesMatchEU/CAN"/> || {{Yes}} || {{No|Discontinued January 28, 2016}}<ref>{{cite web|url=http://www.theaustralian.com.au/technology/apple-makes-australia-the-second-country-to-get-itunes-radio/story-e6frgakx-1226823166524 |title=Apple makes Australia the second country to get iTunes Radio |publisher=The Australian |date=February 11, 2014 |accessdate=February 11, 2014}}</ref> || {{Yes}} || 1.19 – 2.19 [[Australian dollar|AUD]]<br/><small>(1.28 – US$2.35)<ref name="curconvert" /></small>
+|-
+| New Zealand || {{Yes|December 6, 2005}}<ref>{{cite web|title=Apple Launches iTunes & Online Apple Stores in New Zealand|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2006/dec/06itunes.html|date=December 6, 2006|access-date=December 6, 2006|url-status=dead|archive-url=https://web.archive.org/web/20061207023204/http://www.apple.com/pr/library/2006/dec/06itunes.html|archive-date=December 7, 2006}}</ref> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|August 14, 2008}} || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL">[http://www.tuaw.com/2012/10/22/paid-ibookstore-content-now-live-in-new-zealand-17-other-countr/ "Paid iBookstore content now live in New Zealand, 17 other countries"]. Tuaw.com. October 22, 2012.</ref> || {{Yes|December 15, 2011}}<ref name="iTunesMatchEU/CAN"/> || {{Yes}} || {{No}} || {{Yes}} || 1.79 – 2.39 [[New Zealand dollar|NZD]]<br/><small>(1.47 – US$1.96)<ref name="curconvert" /></small>
+|-
+| Mexico || {{Yes|August 4, 2009}}<ref>[https://archive.today/20130105124045/http://tech.yahoo.com/news/nm/20090808/wr_nm/us_mexico_1 "iTunes' Mexico launch could shake up digital market"]. Yahoo. Retrieved December 2, 2012.</ref> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|November 9, 2010}}<ref>{{cite web|url=https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMovie?id=396270268&s=143468 |title=iTunes México – Movies |publisher=iTunes |accessdate=September 19, 2013}}</ref> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|December 15, 2011}}<ref name="iTunesMatchEU/CAN"/> || {{Yes}} || {{No}} || {{Yes}} || 9 – 15 [[Mexican peso|MXN]]<br/><small>(0.71 – US$1.19)<ref name="curconvert" /></small>
+|-
+| Bulgaria || {{Yes|September 29, 2011}}<ref name="iTMS EU Erweiterung">{{cite news|url=http://www.timesofmalta.com/articles/view/20110929/local/itunes-store-now-available-in-malta.386974 |title=iTunes store now available in Malta |work=[[The Times (Malta)]] |date=September 29, 2011 |accessdate=October 11, 2011}}</ref> || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|April 30, 2012}}<ref name="iTunesMatchAUT/ITA"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Cyprus || {{Yes|September 29, 2011}}<ref name="iTMS EU Erweiterung" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|December 15, 2011}}<ref name="iTunesMatchEU/CAN"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Czech Republic || {{Yes|September 29, 2011}}<ref name="iTMS EU Erweiterung" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|December 15, 2011}}<ref name="iTunesMatchEU/CAN"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Estonia || {{Yes|September 29, 2011}}<ref name="iTMS EU Erweiterung" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Hungary || {{Yes|September 29, 2011}}<ref name="iTMS EU Erweiterung" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|July 19, 2012}}<ref name="iTunesMatchPOL/HUN">{{cite web|last=Slivka |first=Eric |url=http://www.macrumors.com/2012/07/19/itunes-match-goes-live-in-hungary-and-portugal-denmark-still-left-out/ |title=iTunes Match Goes Live in Hungary and Poland |publisher=MacRumors |date=July 19, 2012 |accessdate=September 19, 2013}}</ref> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Latvia || {{Yes|September 29, 2011}}<ref name="iTMS EU Erweiterung" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Lithuania || {{Yes|September 29, 2011}}<ref name="iTMS EU Erweiterung" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Malta || {{Yes|September 29, 2011}}<ref name="iTMS EU Erweiterung" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|December 15, 2011}}<ref name="iTunesMatchEU/CAN"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Poland || {{Yes|September 29, 2011}}<ref name="iTMS EU Erweiterung" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|July 19, 2012}}<ref name="iTunesMatchPOL/HUN"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Romania || {{Yes|September 29, 2011}}<ref name="iTMS EU Erweiterung" /> || {{Yes}} || {{Yes}} || {{No}} ||  {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Slovenia || {{Yes|September 29, 2011}}<ref name="iTMS EU Erweiterung" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes|April 30, 2012}}<ref name="iTunesMatchAUT/ITA"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Slovakia || {{Yes|September 29, 2011}}<ref name="iTMS EU Erweiterung" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.29 EUR<br/><small>(0.92 – US$1.72)<ref name="curconvert" /></small>
+|-
+| Argentina || {{Yes|December 13, 2011}}<ref name="iTMS Latin America">{{cite news| url=https://thenextweb.com/apple/2011/12/13/apple-confirms-itunes-store-in-15-latin-american-countries-and-itunes-match-launch-in-brazil/| work=TNW| title=Apple confirms iTunes Store launch in 15 Latin American countries and iTunes Match in Brazil| accessdate=2017-02-20}}</ref> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America"/> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Brazil || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|December 13, 2011}} || {{Yes}} || {{No}} || {{Yes}} || 1,90 – 2,90 BRL
+|-
+| Bolivia || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Chile || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Colombia || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Costa Rica || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Dominican Republic || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Ecuador || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| El Salvador || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Guatemala || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Honduras || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Nicaragua || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Panama || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Paraguay || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Peru || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Venezuela || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|December 13, 2011}}<ref name="iTMS Latin America" /> || {{Yes}} || {{Yes|October 22, 2012}}<ref name="iBooksNZL"/> || {{Yes|January 16, 2012}}<ref name="iTunesMatchNED/EST"/> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Brunei || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" >{{cite web|title=Apple launches iTunes Store in 12 new Asian markets|publisher=[[Channel NewsAsia]]|url=http://www.channelnewsasia.com/stories/technologynews/view/1210201/1/.html|accessdate=June 27, 2012}}</ref> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Cambodia || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes|June 21, 2012}} || {{No}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes|June 21, 2012}}<ref name="NewCountries062012">{{cite web|last=Slivka |first=Eric |url=http://www.macrumors.com/2012/06/21/app-store-launches-in-32-new-countries/ |title=App Store Launches in 32 New Countries |publisher=MacRumors |date=June 21, 2012 |accessdate=September 19, 2013}}</ref> || {{Yes-No|free books}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes|June 21, 2012}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Hong Kong || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes-No|free books}}|| {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" />|| {{Yes}} || {{No}} || {{Yes}} || 5 – 8 [[Hong Kong dollar|HKD]]
+|-
+| Laos || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes|June 21, 2012}} || {{No}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes|June 21, 2012}}<ref name="NewCountries062012"/>|| {{Yes-No|free books}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes|June 21, 2012}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Macao || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Malaysia || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Philippines || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Singapore || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{No}} || {{Yes}} || 0.98 – 1.48 [[Singapore dollar|SGD]]
+|-
+| Sri Lanka || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Taiwan || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{No}} || {{Yes}} || 15 – 30 [[New Taiwan dollar|TWD]]
+|-
+| Thailand || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Vietnam || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes}} || {{No}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes|June 27, 2012}}<ref name="iTunes 12 Asia" /> || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Anguilla || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica">{{cite news| url=https://www.apple.com/pr/library/2012/12/04Apple-Launches-iTunes-Store-in-Russia-Turkey-India-South-Africa-52-Additional-Countries-Today.html| title=Apple Launches iTunes Store in Russia, Turkey, India, South Africa & 52 Additional Countries Today}}</ref> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12">{{cite web|last=Slivka |first=Eric |url=http://www.macrumors.com/2012/12/12/itunes-store-movie-content-goes-live-in-42-new-countries/ |title=iTunes Store Movie Content Goes Live in 42 New Countries |publisher=MacRumors |date=December 12, 2012 |accessdate=September 19, 2013}}</ref> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Antigua and Barbuda || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Armenia || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Azerbaijan || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Bahamas || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Bahrain || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Barbados || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Belarus || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || 0.69 – US$1.29
+|-
+| Belize || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Bermuda || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Botswana || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Burkina Faso || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| British Virgin Islands || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Cape Verde || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Cayman Islands || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Dominica || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Egypt || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Fiji || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}} || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Gambia || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Ghana || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Grenada || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Guinea-Bissau || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| India || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || 9–15 [[Indian rupee|INR]]<br/><small>(0.18 – US$0.30)</small>
+|-
+| Indonesia || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || 3000 – 7000 [[Indonesian rupiah|IDR]]<br/>
+|-
+| Israel || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || 1.90 – 3.90 [[Israeli new shekel|ILS]]<br/>
+|-
+| Jordan ||{{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} ||{{Yes}} || {{n/a}}
+|-
+| Kazakhstan || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Kenya || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Kyrgyzstan || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Lebanon || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Mauritius || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Federated States of Micronesia || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Republic of Moldova || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Mongolia || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || 0.49 – 1.29 [[United States dollar|USD]]
+|-
+| Mozambique || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Namibia || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Nepal || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Niger || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Nigeria || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Oman || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Papua New Guinea || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Qatar || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Russia || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes|April 21, 2008}} || {{No}} || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes|April 21, 2008}}<ref>[http://telecom.cnews.ru/news/top/index.shtml?2008/04/06/295741#top_static "Один шаг до iPhone в России?" (in Russian)] {{webarchive|url=https://web.archive.org/web/20150503142734/http://telecom.cnews.ru/news/top/index.shtml?2008%2F04%2F06%2F295741 |date=May 3, 2015 }}. CNews.ru. April 6, 2008. Retrieved October 22, 2012.</ref> || {{Yes-No|free books}} || {{Yes}} || {{Yes|April 21, 2008}} || {{No}} || {{Yes}} || 15 – 19 [[Russian ruble|RUB]] <small>(0.49 – US$0.62)</small>
+|-
+| Saint Kitts and Nevis || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Saudi Arabia || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| South Africa || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Swaziland || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Trinidad and Tobago || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Turkey || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || 0.69 – 1.49 TRY
+|-
+| Tajikistan || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Turkmenistan || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Uganda || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Ukraine || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| United Arab Emirates || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Uzbekistan || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Zimbabwe || {{Yes|December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes| December 4, 2012}}<ref name="iTMS RusiaTurkeyIndiaSouthAfrica" /> || {{Yes}} || {{No}} || {{Yes|December 12, 2012}}<ref name="12-12-12" /> || {{Yes}} || {{Yes-No|free books}} || {{Yes}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Afghanistan || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020">{{cite news
+| last         = Porter
+| first        = Jon
+| date         = 2020-04-21
+| title        = Apple's App Store and other services launch in dozens more countries
+| url          = https://www.theverge.com/2020/4/21/21229187/apple-services-app-store-icloud-podcasts-arcade-music-africa-asia-pacific-europe-middle-east-oceana
+| work         = [[The Verge]]
+| access-date  = 2020-04-22
+}}</ref> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Albania || {{No}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{Yes|June 21, 2012}}<ref name="NewCountries062012"/> || {{Yes-No|free books}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Algeria || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Angola || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Benin || {{No}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{Yes|June 21, 2012}}<ref name="NewCountries062012"/> || {{Yes-No|free books}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Bhutan || {{No}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{Yes|June 21, 2012}}<ref name="NewCountries062012"/> || {{Yes-No|free books}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Bosnia and Herzegovina || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Cameroon || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Chad || {{No}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{Yes|June 21, 2012}}<ref name="NewCountries062012"/> || {{Yes-No|free books}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{n/a}}
+|-
+| China || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes|September 30, 2015}}<ref name="ChinaLaunchSeptember2015">{{cite web
+                  |url        = http://www.computerworld.com/article/2987665/personal-technology/apple-music-launches-in-china-so-dont-forget-to-cancel-trial-membership-itbwgk.html
+                  |title      = Apple Music launches in China, so don't forget to cancel trial membership
+                  |accessdate = 2015-09-30
+                  |publisher  = ComputerWorld|date = September 30, 2015
+ }}</ref> || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Republic of the Congo || {{No}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{Yes|June 21, 2012}}<ref name="NewCountries062012"/> || {{Yes-No|free books}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{n/a}}
+|-
+| Croatia || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Gabon || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Georgia || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Guyana || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Iceland || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Iraq || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Ivory Coast || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Jamaica || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Kosovo || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Korea, South || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes|June 10, 2008}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Kuwait || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Liberia || {{No}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{Yes|June 21, 2012}}<ref name="NewCountries062012"/> || {{Yes-No|free books}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{n/a}}
+|-
+| Libya || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Macedonia || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Madagascar || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{n/a}}
+|-
+| Malawi || {{No}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{Yes|June 21, 2012}}<ref name="NewCountries062012"/> || {{Yes-No|free books}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Maldives || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Mali || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{n/a}}
+|-
+| Mauritania || {{No}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{Yes|June 21, 2012}}<ref name="NewCountries062012"/> || {{Yes-No|free books}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{n/a}}
+|-
+| Montenegro || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Montserrat || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Morocco || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Mozambique || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Myanmar || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Nauru || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Pakistan || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Palau || {{No}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{Yes|June 21, 2012}}<ref name="NewCountries062012"/> || {{Yes-No|free books}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Rwanda || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Saint Lucia || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Saint Vincent and the Grenadines || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| São Tomé and Príncipe || {{No}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{Yes|June 21, 2012}}<ref name="NewCountries062012"/> || {{Yes-No|free books}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Senegal || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{n/a}}
+|-
+| Serbia || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Seychelles || {{No}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{Yes|June 21, 2012}}<ref name="NewCountries062012"/> || {{Yes-No|free books}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Sierra Leone || {{No}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{Yes|June 21, 2012}}<ref name="NewCountries062012"/> || {{Yes-No|free books}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Solomon Islands || {{No}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{No}} || {{Yes|June 21, 2012}}<ref name="NewCountries062012"/> || {{Yes-No|free books}} || {{No}} || {{Yes|June 21, 2012}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Suriname || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Tanzania || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Tonga || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Tunisia || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Turks and Caicos Islands || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Uruguay || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Vanuatu || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+| Yemen || {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{Yes}} || {{Yes-No|free books}} || {{No}} || {{Yes}} || {{No}} || {{Yes}} || {{n/a}}
+|-
+| Zambia || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{Yes|April 21, 2020}}<ref name = "AppStore2020" /> || {{No}} || {{No}} || {{No}} || {{No}} || {{n/a}} || {{n/a}}
+|-
+! rowspan="2" | Country
+! Music
+! Music Videos
+! Podcasts
+! TV shows
+! Movies
+! Apps
+! Books
+! iTunes Match
+! iTunes U
+! iTunes Radio
+! rowspan="2" | Affiliate program
+! rowspan="2" | Price/song
+|-
+! colspan="10" | Product type
+|}
+[[File:AppleStoreAvailability.png|thumb|right|The countries where the iTunes Store is available are shown in green.]]
+To buy files through the store, a user must install the proprietary digital media player [[iTunes]] to access the store. This software is available only for certain versions of the Macintosh or Windows operating systems.
+[[File:ITunes Store availability.jpg|thumb|iTunes Store availability. Green: full functionality (music, apps, videos, etc.) Red: available, but with limitations (only apps, iTunes U, etc.)]]
+*According to an Apple press release, the European iTunes Music Stores sold a combined total of 800,000 songs in one week, with 450,000 of those songs sold in the UK.<ref>{{cite web|title=iTunes Music Store in Europe Sells 800,000 Songs in First Week|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2004/jun/23itunes.html|date=June 23, 2004|access-date=February 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20060828040326/http://www.apple.com/pr/library/2004/jun/23itunes.html|archive-date=August 28, 2006}}</ref>
+*The Italian, Portuguese, Dutch, Greek stores have been localized.
+*On December 3, 2004 the British [[Office of Fair Trading]] referred iTunes Music Store to the [[European Commission]] because it prevents consumers in one EU country from buying music from stores in other EU countries, in violation of EU free-trade legislation; the immediate cause of the referral was because the €0.99 price charged in the [[Eurozone]] equates to GB£0.68 in sterling, rather than the GB£0.79 actually charged there.
+*iTunes Music Store in Japan had 1 million songs available at start.<ref name="iTMS Japan" /> In the next four days the store had sold one million songs&nbsp;– the pace faster than that of the US store.<ref>{{cite web|title=Japan iTunes Music Store Sells One Million Songs in First Four Days|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2005/aug/08itms.html|date=July 8, 2005|access-date=February 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20060209122724/http://www.apple.com/pr/library/2005/aug/08itms.html|archive-date=February 9, 2006}}</ref> In addition to a long delay, Apple failed to have one set price for singles. Pundits{{Who|date=December 2009}} speculated that this may have indicated the introduction of new price structure to the rest of the stores in future, in favor of record labels{{Who|date=December 2009}} who would like to see higher prices for new songs. This extension to other countries was announced in January 2009.
+*The release of video-capable [[iPod]]s also saw the store launch in Australia with music videos and short films by [[Pixar]]. iTunes Gift Cards (as they are now known) are now also available in many more stores such as [[JB Hi-Fi]], [[David Jones Limited|David Jones]], and the [[Woolworths Limited|Woolworths]] chain of stores. Access was inadvertently given to some people in New Zealand, too.<ref>{{cite web|title=Apple inadvertently lights up New Zealand iTMS|work=Infinite Loop|publisher=Ars Technica|url=https://arstechnica.com/journals/apple.ars/2005/10/26/1638|date=October 26, 2005|accessdate=February 17, 2006}}</ref> Failed negotiations with the [[Sony BMG]] label meant that none of that label's artists were available at the time of launch; they were later added on January 17, 2006.
+*New Zealand users had briefly been able to buy from the Australian store when it first opened until that loophole was closed.
+*On November 1, 2006, the store started offering a range of Latino content including television shows and music for its [[Hispanics in the United States|Hispanic American]], Mexican and Puerto Rican clients.<ref>{{cite web|title=Apple Announces iTunes Latino on the iTunes Store|work=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2006/nov/01ituneslatino.html|date=November 1, 2006|access-date=November 1, 2006|url-status=dead|archive-url=https://web.archive.org/web/20070114024903/http://www.apple.com/pr/library/2006/nov/01ituneslatino.html|archive-date=January 14, 2007}}</ref>
+*The Spanish used on the Mexican store has been modified to [[Mexican Spanish]].<ref>{{cite web|url=http://www.eluniversal.com.mx/articulos/54448.html |title=iTunes Music Store llegará en agosto a México |language=es |publisher=El Universal |date=June 30, 2009 |accessdate=September 19, 2013}}</ref>
+*As of the 2009 [[Macworld Conference & Expo]], Apple had given no new information of the (possible; future) inclusion and expansion of music videos, TV-shows and movies in other European countries.  The stores of the UK, Germany and France currently remain the only European Stores with local and/or localized selections of TV-shows, movies and music videos.
+
+===Payment options===
+A user must also pay with an iTunes [[gift card]] or a credit card with a billing address in Australia, Austria, Belgium, Brunei, Bulgaria, Brazil, Cambodia, Canada, Colombia, the Czech Republic, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, India, Indonesia, the Republic of Ireland, Italy, Japan, Laos, Latvia, Lithuania, Luxembourg, Macau, Malaysia, Malta, Mexico, the Netherlands, New Zealand, Norway, Philippines, Poland, Portugal, Puerto Rico, Romania, Russia, Singapore, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Turkey, United Kingdom, the United States or Vietnam. Apple also offers other payment methods (like [[PayPal]]), which differ from country to country. Residents in other countries can only buy a gift card from a merchant or download free podcasts and previews.
+
+==Digital rights management==
+[[File:ipod 5th Generation white.jpg|thumb|A fifth-generation [[iPod Classic|iPod]] with [[Headphones|earphones]]. The only portable devices licensed to play protected music from the iTunes Store are [[iPod]]s, the [[iPhone]], the [[iPod Touch]], the [[iPad]] and selected [[Motorola]] [[mobile phones]], such as the [[Motorola Rokr|ROKR]].]]
+{{Main|FairPlay}}
+The iTunes Store uses Apple's [[FairPlay]] [[digital rights management]] (DRM) technology. FairPlay is built into the [[MPEG-4 Part 14|MP4]] multimedia file format as an [[encrypted]] [[Advanced Audio Coding|AAC]] audio layer, and is used by the company to protect copyrighted works sold through the store, allowing only authorized devices to play the content.<ref>{{cite web |first=Ramya |last=Venkataramu |title=Analysis and enhancement of Apple's FairPlay digital rights management |url=http://www.cs.sjsu.edu/faculty/stamp/students/RamyaVenkataramu_CS298Report.pdf |website=Department of Computer Science |publisher=[[San Jose State University]] |access-date=July 7, 2017 |url-status=dead |archive-url=https://web.archive.org/web/20100720114232/http://www.cs.sjsu.edu/faculty/stamp/students/RamyaVenkataramu_CS298Report.pdf |archive-date=July 20, 2010  }}</ref><ref>{{cite web |first=Daniel Eran |last=Dilger |title=How FairPlay Works: Apple's iTunes DRM Dilemma |url=http://www.roughlydrafted.com/RD/RDM.Tech.Q1.07/2A351C60-A4E5-4764-A083-FF8610E66A46.html |website=Roughly Drafted |date=February 26, 2007 |access-date=July 7, 2017 |archive-url=https://web.archive.org/web/20170927030905/http://www.roughlydrafted.com/RD/RDM.Tech.Q1.07/2A351C60-A4E5-4764-A083-FF8610E66A46.html |archive-date=September 27, 2017 |url-status=dead  }}</ref> The restrictions imposed by FairPlay, mainly limited device compatibility, have sparked criticism, with a lawsuit alleging [[antitrust]] violation<ref>{{cite web |first=Eric |last=Slivka |title=Steve Jobs Required to Provide Deposition in 2005 iTunes Antitrust Case |url=https://www.macrumors.com/2011/03/22/steve-jobs-required-to-provide-deposition-in-2005-itunes-antitrust-case/ |website=[[MacRumors]] |date=March 22, 2011 |accessdate=July 7, 2017}}</ref> that was eventually closed in Apple's favor,<ref>{{cite web |first=Alan |last=Yuhas |title=Antitrust lawsuit against Apple: 10 years in the making, shot down in three hours |url=https://www.theguardian.com/technology/2014/dec/16/antitrust-lawsuit-apple-ipod-software-updates |website=[[The Guardian]] |publisher=[[Guardian Media Group]] |date=December 16, 2014 |accessdate=July 8, 2017}}</ref> and various successful efforts to remove the DRM protection from files,<ref>{{cite web |title=How Fairplay Works on Apple iTunes Content, like iTunes Movies/TV Shows, Music and eBook? |url=https://9to5mac.com/community/how-fairplay-works-on-apple-itunes-content-like-itunes-moviestv-shows-music-and-ebook/ |website=9to5Mac |date=June 19, 2014 |accessdate=July 8, 2017}}</ref><ref>{{cite web |first=Dave |last=Hamilton |title=How iTunes Movie DRM-Removal Software Keeps Me Honest |url=https://www.macobserver.com/tmo/article/itunes-drm-removal-keeps-me-legal |website=The Mac Observer |date=September 2, 2015 |accessdate=July 8, 2017}}</ref> with Apple continually updating its software to counteract such projects.<ref>{{cite web |first=Jim |last=Tanous |title=The iTunes DRM Removal Saga: NoteBurner and a Look Back at Requiem |url=https://www.tekrevue.com/itunes-drm-removal/ |website=TekRevue |date=September 2, 2015 |accessdate=July 8, 2017}}</ref>
+
+In February 2007, an open letter by [[Steve Jobs]], Apple's then-[[CEO]], discussed the use of DRM on music, raising points about the future of the protection and announcing the company's support for ending the use of DRM.<ref>{{cite web |title=Thoughts on Music |url=https://www.apple.com/hotnews/thoughtsonmusic |archive-url=https://web.archive.org/web/20070207234839/http://www.apple.com/hotnews/thoughtsonmusic |website=[[Apple Inc.]] |date=February 6, 2007 |archive-date=February 7, 2007 |access-date=June 23, 2017 |url-status=dead  }}</ref><ref>{{cite web |first=Arnold |last=Kim |title=Steve Jobs 'Thoughts on Music' – Asks for No Digital Rights Management |url=https://www.macrumors.com/2007/02/06/steve-jobs-thoughts-on-music/ |website=[[MacRumors]] |date=February 6, 2007 |accessdate=June 23, 2017}}</ref> Although the open letter initially caused mixed industry reactions,<ref>{{cite web |first=Arik |last=Hesseldahl |title=Steve Jobs' Music Manifesto |url=https://www.bloomberg.com/news/articles/2007-02-07/steve-jobs-music-manifestobusinessweek-business-news-stock-market-and-financial-advice |website=[[Bloomberg L.P.|Bloomberg]] |date=February 7, 2007 |accessdate=July 8, 2017}}</ref><ref>{{cite web |first=John |last=Markoff |title=Jobs Calls for End to Music Copy Protection |url=https://www.nytimes.com/2007/02/07/technology/07music.html |website=[[The New York Times]] |date=February 7, 2007 |accessdate=July 8, 2017}}</ref> Apple signed a deal with a major [[record label]] the following month to offer iTunes customers a purchase option for a higher-quality, DRM-free version of the label's tracks.<ref>{{cite web |first=Michael |last=Arrington |author-link=Michael Arrington |title=EMI, Apple To Sell DRM-Free Music for $1.29/song |url=https://techcrunch.com/2007/04/02/emi-apple-are-announcing-sale-of-non-drm-music/ |website=[[TechCrunch]] |publisher=[[AOL]] |date=April 2, 2007 |accessdate=June 23, 2017}}</ref> In January 2009, Apple signed deals with all major record labels as well as a large number of independent labels to offer all iTunes music in the DRM-free option.<ref>{{cite web |first=Bobbie |last=Johnson |title=Apple drops DRM copy protection from millions of iTunes songs |url=https://www.theguardian.com/technology/2009/jan/06/apple-drops-itunes-copy-protection |website=[[The Guardian]] |publisher=[[Guardian Media Group]] |date=January 6, 2009 |accessdate=July 8, 2017}}</ref><ref>{{cite web |first=Prince |last=McLean |title=iTunes Store goes DRM Free, offers over-the-air downloads |url=http://appleinsider.com/articles/09/01/06/itunes_store_goes_drm_free |website=AppleInsider |date=January 6, 2009 |accessdate=July 8, 2017}}</ref><ref>{{cite web |first=Peter |last=Cohen |title=iTunes Store goes DRM-free |url=http://www.macworld.com/article/1137946/itunestore.html |website=[[Macworld]] |publisher=[[International Data Group]] |date=January 6, 2009 |accessdate=July 8, 2017}}</ref> This does not apply to songs downloaded while using [[Apple Music]], Apple's subscription-based music streaming service.<ref>{{cite web |first1=Serenity |last1=Caldwell |first2=Joseph |last2=Keller |title=Apple Music will now let you store your music library DRM-free |url=https://www.imore.com/apple-rolling-out-improved-itunes-match-apple-music-subscribers |website=iMore |date=July 18, 2016 |accessdate=July 8, 2017}}</ref>
+
+==Promotions==
+On [[Super Bowl|Super Bowl Sunday]], February 1, 2004, Apple launched a promotion with [[Pepsi]] in which they gave away 100 million songs, through tokens on selected soft drink bottle caps. Unfortunately for Apple, Pepsi failed to properly distribute the bottles to major metropolitan areas until only weeks before the promotion ended, despite a one-month extension of the deadline by Apple. The promotion was repeated beginning January 31, 2005, with 200 million songs available, and an [[iPod Mini]] given away every hour.
+
+On July 1, 2004, Apple announced that, starting with the sale of the 95 millionth song, an [[iPod]] would be given away to the buyer of each 100 thousandth song, for a total of 50 iPods. The buyer of the 100 millionth song would receive a [[PowerBook]], iPod, and US$10,000 gift certificate to iTunes Music Store.
+
+Ten days later, on July 11, Apple announced that 100 million songs had been sold through iTunes Music Store. The 100 millionth song was titled "Somersault ([[Danger Mouse (musician)|Dangermouse]] Remix)" by [[Zero 7]], purchased by Kevin Britten of [[Hays, Kansas]]. He then received a phone call from Apple CEO [[Steve Jobs]], who offered his congratulations, as well as a 40&nbsp;GB 3rd Generation [[iPod]] laser-engraved with a message of thanks.
+
+Inspired by Pepsi's marketing success with iTunes giveaways, [[Coca-Cola]] partnered with [[7-Eleven]] to give away a free iTunes song with every {{convert|32|USfloz|ml|abbr=on}}. [[Slurpee]] frozen beverage until July 31, 2005. Songs could be redeemed until August 31, 2005 by entering a code printed on the Slurpee cup into iTunes Music Store application. Coca-Cola did this in spite of having its own music store, [[myCoke]]Music.com, that competed with iTunes Music Store in Europe. myCokeMusic.com ceased business on July 31, 2006.<ref>{{cite news|url=http://technology.guardian.co.uk/weekly/story/0,,1802533,00.html|author=Charles Arthur|title=Who benefits from the death of mycokemusic.com?|work=[[Guardian Unlimited]]|date=June 22, 2006|accessdate=February 19, 2007 | location=London}}</ref>
+
+On July 5, 2005, Apple announced that they were counting down to half a billion songs. The buyer of every 100 thousandth song up to 500 million would receive an [[iPod Mini]] and a 50-song gift card. The grand prize for the person who downloads the 500 millionth song was 10 iPods of their choice, a 10,000-song gift card, 10 50-song gift cards or 4 tickets to the [[Coldplay]] world tour. Twelve days later, on July 17, Apple announced that 500 million songs had been sold through iTunes Music Store. The 500 millionth song, purchased by Amy Greer of [[Lafayette, Indiana|Lafayette]], Indiana, was "Mississippi Girl" by [[Faith Hill]].
+
+On July 28, 2005, Apple and [[Gap (clothing retailer)|The Gap]] announced a promotion to award iTunes music downloads to Gap customers who tried on a pair of Gap jeans.<ref>{{cite web|title=Jeans and Music&nbsp;– The Perfect Fit at Gap this Fall |work=[[Gap Inc.]] |url=http://www.gapinc.com/public/Media/Press_Releases/med_pr_GapFallJuly2805.shtml |archive-url=https://web.archive.org/web/20050730024741/http://www.gapinc.com/public/Media/Press_Releases/med_pr_GapFallJuly2805.shtml |url-status=dead |archive-date=July 30, 2005 |date=July 28, 2005 |access-date=February 17, 2007  }}</ref> From August 8 to 31, 2005, each customer who tried on any pair of Gap jeans could receive a free download for a song of their choice from iTunes Music Store.
+
+On February 7, 2006, Apple announced that they were counting down to the billionth song download and began a promotion similar to the previous 100 million and 500 million countdown. Whoever downloaded the billionth song would receive a 20" iMac, ten 60&nbsp;GB iPods, and a US$10,000 iTunes Music Card. The billionth song was purchased on February 23, 2006 by Alex Ostrovsky of [[West Bloomfield Township, Michigan|West Bloomfield]], [[Michigan]]. The purchased song was "[[Speed of Sound (song)|Speed of Sound]]" as part of [[Coldplay]]'s ''[[X&Y]]'' album.
+
+On July 25, 2006, Facebook and iTunes began offering a promotion where members of the Apple Students group would receive a free 25 song sampler each week until September 30 in various music genres. The idea behind the promotion was to get students more familiar and enthusiastic with each service as Autumn classes approached.<ref name=itunespromotion>{{cite news|first=Jacqui|last=Cheng|url=https://arstechnica.com/journals/apple.ars/2006/7/25/4766|title=Infinite Loop: Apple and Facebook partner up for back to school iTunes promo|work=[[Ars Technica]]|date=July 25, 2006}}</ref> However, in order to prevent abuse of the promotion, the weekly code that Facebook provided stopped working after it was redeemed one million times. In addition, the promotion caused discontent among international students, as the code was only valid in the US iTunes Music Store.
+
+On April 10, 2009, Apple announced that it will be counting down to the billionth app. Apps being the applications for iPod Touch and iPhone. Launching a counter that is constantly running on [[Good Friday]], Apple starting counting down.<ref name="Billion apps"/> Connor Mulcahey, age 13 of [[Weston, CT]], downloaded the billionth app, "[[Bump (application)|Bump]]" by Bump Technologies, and received a 17" Macbook Pro, a 32GB iPod Touch, a Time Capsule, and a $10,000 Gift Card for the iTunes Store.
+
+On February 11, 2010, Apple announced that it would be counting down to 10 billion songs downloaded. A $10,000 gift card was offered as a prize. On February 24, 2010, the 10 billionth song, "[[Guess Things Happen That Way]]" by [[Johnny Cash]], was purchased by Louie Sulcer of Woodstock, Georgia.<ref>{{cite web|url=https://www.apple.com/itunes/10-billion-song-countdown/|title=Help iTunes reach 10 billion song downloads, and you could win a $10,000 iTunes Gift Card.|accessdate=February 11, 2010}}</ref>
+
+==Other platforms==
+Currently, iTunes is supported on the [[macOS]] ([[Mac OS X Leopard|Leopard]] and above) and [[Microsoft Windows]] operating systems. iTunes was known to run passably well in [[Linux]] on [[x86]]-based computers using the [[Wine (software)|Wine]] compatibility layer; however, by December 2011, this was no longer the case.<ref>{{cite web|title=Wine Application DB&nbsp;– Viewing App&nbsp;– iTunes |work=winehq.org |url=http://appdb.winehq.org/appview.php?appId=1347 |archive-url=https://web.archive.org/web/20040910164646/http://appdb.winehq.org/appview.php?appId=1347 |url-status=dead |archive-date=September 10, 2004 |access-date=May 1, 2006  }}</ref> Users without iTunes installed can see a content database (but not hear or view the content itself) using the iTunes Preview service, which runs inside their internet browser. This service also allows users to watch trailers for upcoming film releases. Should they choose to purchase any media, they will be redirected to iTunes.
+
+==Technical details==
+Store pages are delivered using standard HTML with a special header. This change was made when iTunes 9.0 was released. iTunes uses [[WebKit]] to render these pages on the screen.<ref>{{cite web|title=iTunes 9, now with more WebKit|work=Will Norris|url=http://willnorris.com/2009/09/itunes-9-now-with-more-webkit|accessdate=September 12, 2009}}</ref>  These pages are also accessible on the Web, at iTunes.apple.com, allowing pages from the iTunes Store to show up in search engine search results.
+
+Prior to iTunes 9.0, the iTunes Store was delivered using a custom [[XML]] format that describes the position of all of the elements, boxes, album art and all of their properties – including whether a reference link can be dragged out of iTunes and into another document.
+
+The store's back-end software uses [[WebObjects]] – Apple's own application server it acquired from [[NeXT]]. Content is uploaded to iTunes data store using an internal Apple program called iTunes Producer, which automatically encodes and adds metadata to uploaded files.{{Citation needed|date=January 2009}}
+
+==Legal disputes==
+{{Main|Apple Inc. litigation}}
+
+===Apple records===
+{{Main|Apple Corps v. Apple Computer}}
+For three years, [[The Beatles]]' record company [[Apple Records]] were in a legal dispute, ''[[Apple Corps v Apple Computer]]'', with Apple Computer over the name "Apple." On May 8, 2006, a ruling was declared in favor of Apple Computer, but Apple Records said it would appeal the ruling. Despite this, plans were announced by Neil Aspinall in April 2006 to remaster completely and release the entire Beatles catalog on an unspecified online music service, as well as release some previously unheard work by the band. No date was set at that time.<ref>{{cite web|url=http://www.starpulse.com/news/index.php/2006/04/11/beatles_catalog_to_be_remastered_offered|title=Beatles Catalog To Be Remastered, Offered Online|work=World Entertainment News Network|date=November 11, 2006|publisher=Starpulse|access-date=December 17, 2006|url-status=dead|archive-url=https://web.archive.org/web/20061112192842/http://www.starpulse.com/news/index.php/2006/04/11/beatles_catalog_to_be_remastered_offered|archive-date=November 12, 2006}}</ref> It has also been reported that the Beatles' music catalog might initially be appearing on iTunes only, as Apple is reported to be negotiating with Britain's EMI group over an online distribution deal that might be exclusive for a limited time.<ref>{{cite news|url=https://money.cnn.com/2006/11/22/technology/apple_beatles_ipod.fortune/index.htm|title=Beatles: only on iPod?|first=Tim|last=Arungo|date=November 27, 2006|work=[[Fortune (magazine)|Fortune]]|accessdate=December 17, 2006}}</ref>
+
+During his January 9, 2007 Macworld Keynote address, Apple CEO Steve Jobs used the band's song "[[Lovely Rita]]" to introduce the music-playing capabilities of the company's new iPhone. This was regarded by industry observers as further evidence that the Beatles catalog would be introduced to iTunes Music Store catalog in the near future.<ref>{{cite web|url=http://www.iht.com/articles/ap/2007/01/10/business/NA-FIN-TEC-US-Apple-Beatles.php|date=January 9, 2007|url-status=dead|archive-url=https://web.archive.org/web/20080510041021/http://www.iht.com/articles/ap/2007/01/10/business/NA-FIN-TEC-US-Apple-Beatles.php|archive-date=2008-05-10|title=Apple teases fans with "Lovely Rita"&nbsp;— but no Beatles on iTunes|work=[[International Herald Tribune]]|access-date=December 12, 2012}}</ref> On February 5, 2007, Apple Corps and Apple Inc. announced they had reached a settlement in their legal dispute.<ref>{{cite press release | url=https://www.apple.com/pr/library/2007/02/05apple.html | title=Apple Inc. and The Beatles' Apple Corps Ltd. Enter into New Agreement | publisher=[[Apple Inc.]] | date=February 5, 2007 | access-date=February 5, 2007 | url-status=dead | archive-url=https://web.archive.org/web/20070207020545/http://www.apple.com/pr/library/2007/02/05apple.html | archive-date=February 7, 2007 }}</ref>
+
+In a related development, Apple announced on August 14, 2007 that the entire solo catalog of [[John Lennon]] would be available on iTunes.<ref>{{cite press release |url=https://www.apple.com/pr/library/2007/08/14itunes.html |title=John Lennon Solo Catalog Debuts on iTunes Store |publisher=[[Apple Inc.]] |date=August 14, 2007 |access-date=August 15, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070821193255/http://www.apple.com/pr/library/2007/08/14itunes.html |archive-date=August 21, 2007  }}</ref> The solo catalogs of the other three Beatles, [[Paul McCartney]], [[Ringo Starr]], and [[George Harrison]], are also available on iTunes.
+
+On November 16, 2010, the entire Beatles catalog was officially made available on the iTunes Store.
+
+===The Consumer Council of Norway EULA challenge===
+On June 6, 2006, The Consumer [[Ombudsman|Ombudsmen]] in Norway, [[Sweden]] and [[Denmark]] launched a common open letter to Apple regarding the [[End-user license agreement|EULA]] of iTunes through the [[Norwegian Consumer Ombudsman]] [[Bjørn Erik Thon]].<ref>[https://web.archive.org/web/20061121163443/http://www.forbrukerombudet.no/index.gan?id=11032467&subid=0 iTunes violates Norwegian law], Homepage Forbrukerombudet Norway</ref> The iTunes case is based upon an official complaint<ref>{{cite web|url=http://forbrukerportalen.no/Artikler/2006/1138119849.71 |archive-url=https://web.archive.org/web/20070208163427/http://forbrukerportalen.no/Artikler/2006/1138119849.71 |title=iTunes' questionable terms and conditions |publisher=Forbrukerportalen |date=January 25, 2006 |archive-date=February 8, 2007 |accessdate=September 19, 2013}}</ref> filed by [[The Consumer Council of Norway]] on January 25, 2006.
+
+The main allegations were that:
+
+*The EULA is unbalanced to disfavor the customer. Scandinavian law requires any written agreement to favor both parties. The weak party also enjoys protection from exploitation according to Norwegian consumer laws.
+*The iTunes Store's use of [[Digital rights management]] limits the number of devices purchased songs can be played on.
+*iTunes' contract entitles the company to at any time change the terms of the contract without notice, including the selection of players or software that must be used for iTunes files, and also the number of times a customer can change or copy already purchased files.
+*The EULA is both vague and hard to understand for the customers.
+*The EULA states that the legal relationship between the company and customers is regulated by English contract law. It is unreasonable to expect Norwegian consumers to have comprehensive knowledge of [[English law]]. Products marketed to Norwegian consumers in Norway are subject to [[Law of Norway|Norwegian law]]—a right that cannot be waived by a clause in a company's standard customer contract.
+*The EULA removes iTunes' responsibility regarding damage to the consumer's computer caused by software errors even though responsibility cannot be waived in Scandinavian Law.
+
+Apple responded July 31, 2006.<ref>[https://web.archive.org/web/20060813083037/http://www.forbrukerombudet.no/asset/2445/1/2445_1.pdf Apple response], Simonsen Advokatfirma DA ([[PDF]])</ref>
+
+On January 22, 2007, German and French consumer groups joined forces with Norway and Finland.<ref>[https://web.archive.org/web/20070125230229/http://www.cnn.com/2007/TECH/internet/01/23/europe.itunes.ap/index.html European consumer organisations join forces in legal dispute over iTunes Music Store]. [[CNN]]. Retrieved on January 28, 2007.</ref><ref>[https://web.archive.org/web/20070304030555/http://www.forbrukerombudet.no/index.gan?id=11037079&subid=0 European drive against iTunes builds support]. Homepage Forbrukerombudet Norway</ref> Their goal is to create a united European front against iTunes (Germany and France have each had their own negotiation process with iTunes). According to the press statement Apple is in favor of this. The key points in the negotiations were:
+
+*Interoperability: the consumer should have the right and ability to play his or her music on any device of his or her own choice.
+*Change of conditions: iTunes must revoke their right to change the terms and conditions (EULA) at any time without the consent of the consumer.
+*Liability: iTunes should change its clause limiting its liability to recover consumer damages if they are caused by content sold by iTunes.
+*Applicable Law: Consumers entering into a contract with iTunes should be able to rely on the consumer protection rules according to the law of the country in which they live.
+
+====EU antitrust case====
+In 2004, ''[[Which?]]'' magazine complained to the [[European Commission]] about the higher prices in the UK for the same songs sold in other parts of the European Union: typically €0.99 in the rest of the EU and £0.79 in the UK.<ref name=ITTFFSS>{{cite web|url=https://www.theregister.co.uk/2008/01/09/apple_cuts_uk_prices/|title=Apple cuts UK iTunes prices|work=[[The Register]]|date=January 9, 2008|accessdate=December 12, 2012}}</ref> In 2008, the Commission withdrew its investigation after Apple agreed to end the price disparity.<ref name=ITTFFSS/>
+
+==Content disputes==
+
+===Universal Music Group===
+{{Update|date=August 2010}}
+On July 1, 2007, the ''[[New York Times]]'' reported<ref>{{cite web|url=https://www.nytimes.com/2007/07/02/business/media/02universal.html|title=Universal in Dispute With Apple Over iTunes|date=July 2, 2007|work=The New York Times|accessdate=December 30, 2016}}</ref> that [[Universal Music Group|Universal]] (the world's largest music corporation at the time of writing) would not renew its annual contract to sell music through iTunes. Instead, Universal said that it would market music to Apple at will, allowing it to remove its songs from the iTunes service on short notice if the two sides did not agree on pricing or other terms.
+
+On August 9, 2007, UMG announced a plan to sell some songs in MP3 format, without [[Digital rights management]], through a variety of online services such as [[Amazon Music]] and the newly created gBox. While these tracks continue to be available through the iTunes Store, Universal chose to license these songs in DRM-free formats only through other services.<ref>{{cite web | title = gBox&nbsp;– Not Google&nbsp;– has DRM-free Universal deal |author= Aughton, Simon | work = PC Pro | date = August 13, 2007 | accessdate=August 13, 2007 | url=http://www.pcpro.co.uk/news/122284/gbox-not-google-has-drmfree-universal-deal.html |archive-url = https://web.archive.org/web/20071011171928/http://pcpro.co.uk/news/122284/gbox-not-google-has-drmfree-universal-deal.html |archive-date = October 11, 2007}}</ref>
+
+===NBC Universal TV series===
+On August 31, 2007, Apple announced that programs on [[NBC]]'s 2007–08 television schedule would not be available on iTunes.<ref>{{cite web|work=[[Apple Inc.]]|title=iTunes Store To Stop Selling NBC Television Shows|url=https://www.apple.com/pr/library/2007/08/31itunes.html|date=August 31, 2007|url-status=dead|archive-url=https://web.archive.org/web/20110521102056/http://www.apple.com/pr/library/2007/08/31itunes.html|archive-date=May 21, 2011}}</ref> NBC had informed Apple the previous day that it would not be renewing its contract.<ref>{{cite news | date=August 31, 2007 | url=https://www.nytimes.com/2007/08/31/technology/31NBC.html?ex=1346299200&en=e8dc46b2e3dfee67&ei=5124&partner=permalink&exprod=permalink | title=NBC Will Not Renew ITunes Contract | work=[[The New York Times]] | accessdate=September 3, 2007 | first=Brooks | last=Barnes}}</ref> It was later clarified that this change only applied to series produced by [[NBC Universal]]-owned [[Universal Media Studios]], including Universal-produced shows on other networks such as ''[[House (TV series)|House]]''. NBC programs produced by other studios, such as ''[[Chuck (TV series)|Chuck]]'' ([[Warner Bros. Television|Warner Bros.]]) and ''[[Journeyman (TV series)|Journeyman]]'' ([[20th Century Fox Television|20th Century Fox]]), would remain available on iTunes.<ref>[https://web.archive.org/web/20071002214555/http://www.broadcastingcable.com/article/CA6485937.html New Episodes of Fox's House Won't Be on iTunes], [[Broadcasting & Cable]], October 1, 2007.</ref>
+
+Apple has publicly asserted that NBC would only renew their contract if Apple agreed to a price increase of US$4.99 per episode, which they did not. NBC disputes that claim, claiming that Apple balked at NBC's request to package shows together and make wholesale pricing more flexible.<ref>{{cite news | date=August 31, 2007 | url=https://variety.com/article/VR1117971161.html?categoryid=14&cs=1&query=NBC+iTunes | title=iTunes drops NBC's new fall shows | work=[[Variety (magazine)|Variety]] | accessdate=September 3, 2007 | first1=Ben | last1=Fritz}}</ref> NBC claims that they never asked to double the wholesale price and insisted that their shows would be sold by the iTunes Store through early December.<ref>{{cite news | date=August 31, 2007 | url=http://www.paidcontent.org/entry/419-nbcus-response-never-asked-to-double-price-shows-will-be-on-itunes-thro/ | title=NBCU's Response: Never Asked To Double Price; Shows Will Be On iTunes Through Early December}}</ref> Other networks who sold their shows via iTunes did not follow suit. On December 1, 2007, NBC shows were pulled from the iTunes Store.
+
+On September 9, 2008, Apple and NBC Universal announced that NBC's TV shows were once again available on the US iTunes Store.<ref>{{cite news|url=http://latimesblogs.latimes.com/technology/2008/09/apple-revamps-t.html|title=Apple revamps the iPod Nano, promises iPhone fixes|author=Michelle Quinn|work=[[Los Angeles Times]]|date=September 9, 2008|accessdate=March 30, 2016}}</ref>
+
+The UK iTunes Store has many shows from [[NBC]] available, although they are distributed by [[Universal Studios]]. The pricing for these seasons are higher than they were on the US store, an example being, Season 3 of [[The Office (U.S. TV series)|The Office]] is priced at GB£43.47 (roughly US$72) vs. $52.99 (US Store [[High-definition video|HD]]).
+
+==See also==
+*[[iTunes]]
+*[[Apple Music]]
+*[[iTunes Festival]]
+*[[Apple Inc.]]
+*[[Apple TV]]
+*[[iBookstore]]
+*[[Comparison of online music stores]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+{{iOS}}
+{{iPod}}
+{{Apple}}
+{{Music industry}}
+{{Music digital distribution platforms}}
+{{Video digital distribution platforms}}
+{{Video rental shops}}
+
+[[Category:ITunes|*Store]]
+[[Category:Apple Inc. services]]
+[[Category:Video on demand services]]
+[[Category:Internet properties established in 2003]]
+{{DEFAULTSORT:iTunes_Store}}

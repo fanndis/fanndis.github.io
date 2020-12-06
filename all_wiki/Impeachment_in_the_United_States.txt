@@ -1,0 +1,684 @@
+{{short description|Officially accusing a civil officer}}
+{{Use mdy dates|date=February 2020}} 
+ 
+[[File:Senate in session.jpg|thumb|upright=1.20|The 1999 [[Impeachment of Bill Clinton|impeachment trial of President Bill Clinton]], [[William H. Rehnquist|Chief Justice William Rehnquist]] presiding]]
+[[File:Chief Justice John Roberts presides over the impeachment trial of Donald Trump.jpg |thumb|upright=1.20|The 2020 [[Impeachment trial of Donald Trump|impeachment trial of President Donald Trump]], [[John Roberts|Chief Justice John Roberts]] presiding]]
+
+'''Impeachment in the United States''' is the process by which a legislature (usually in the form of the [[lower house]]) brings charges against a [[Civilian|civil]] officer of government for crimes alleged to have been committed, analogous to the bringing of an [[indictment]] by a [[Grand juries in the United States|grand jury]]. [[Impeachment]] may occur at the [[Federal government of the United States|federal level]] or the [[State governments of the United States|state level]]. The federal [[United States House of Representatives|House of Representatives]] can impeach federal officials, including the president, and each [[U.S. state|state]]'s [[State legislature (United States)|legislature]] can impeach state officials, including the [[Governor (United States)|governor]], in accordance with their respective [[United States Constitution|federal]] or [[State constitution (United States)|state constitution]].<!-- What about U.S territories and the District of Columbia? -->
+
+Most impeachments have concerned alleged crimes committed while in office, though there have been a few cases in which officials have been impeached and subsequently convicted for crimes committed prior to taking office.<ref name="CRSReport2015">{{cite web |last1=Cole |first1=J. P. |last2=Garvey |first2=T. |title=Report No. R44260, Impeachment and Removal |url=https://fas.org/sgp/crs/misc/R44260.pdf |publisher=Congressional Research Service |access-date=September 22, 2016 |pages=15–16 |date=October 29, 2015 |archive-url=https://web.archive.org/web/20191219011012/https://fas.org/sgp/crs/misc/R44260.pdf |archive-date=December 19, 2019 |url-status=live }}{{PD-notice}} An earlier version from 2005 is at https://www.senate.gov/reference/resources/pdf/98-806.pdf {{Webarchive|url=https://web.archive.org/web/20190724233725/https://www.senate.gov/reference/resources/pdf/98-806.pdf |date=July 24, 2019 }}.</ref> The impeached official remains in office until a [[trial]] is held. That trial, and removal from office if [[conviction|convicted]], is separate from the act of impeachment itself. 
+
+In impeachment proceedings, the defendant does not risk forfeiture of life, liberty, or property. According to the [[Constitution of the United States|Constitution]], the only penalties allowed to be imposed by the Senate are removal from office and disqualification from holding any federal office in the future.
+
+== Federal impeachment ==
+=== Constitutional provisions ===
+
+There are several provisions in the [[United States Constitution]] relating to impeachment:
+
+[[Article One of the United States Constitution#Clause 5: Speaker and other officers; Impeachment|Article I, Section 2, Clause 5]] provides:
+
+{{quote|The House of Representatives shall choose their Speaker and other Officers; and shall have the sole Power of Impeachment.}}
+
+[[Article One of the United States Constitution#Clause 6: Trial of Impeachment|Article I, Section 3, Clauses 6 and 7]] provide:
+
+{{quote|The Senate shall have the sole Power to try all Impeachments. When sitting for that Purpose, they shall be on Oath or Affirmation. When the President of the United States is tried, the Chief Justice shall preside: And no Person shall be convicted without the Concurrence of two-thirds of the Members present.
+
+Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States; but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law.}}
+
+[[Article Two of the United States Constitution#Section 2: Impeachment|Article II, Section 2]] provides:
+
+{{quote|[The President]{{nbsp}}... shall have power to grant reprieves and pardons for offenses against the United States, except in cases of impeachment.}}
+
+[[Article Two of the United States Constitution#Section 4: Impeachment|Article II, Section 4]] provides:
+
+{{quote|The [[President of the United States|President]], [[Vice President of the United States|Vice President]] and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, [[Treason]], [[Bribery]], or other high Crimes and Misdemeanors.<ref>{{Cite web|url=https://www.archives.gov/founding-docs/constitution-transcript|title=The Constitution of the United States: A Transcription|date=2015-11-04|website=National Archives|language=en|access-date=2019-12-19|archive-url=https://web.archive.org/web/20170131000136/https://www.archives.gov/founding-docs/constitution-transcript|archive-date=January 31, 2017|url-status=live}}</ref>}}
+
+{{Anchor|impeachable offenses}}
+
+=== Impeachable offenses: "Treason, Bribery, or other high Crimes and Misdemeanors" ===
+{{see also|High crimes and misdemeanors}}
+
+The Constitution limits grounds of impeachment to "Treason, Bribery, or other high Crimes and Misdemeanors".<ref name="law.cornell.edu">{{Cite web|url=https://www.law.cornell.edu/constitution/articleii|title=Article II|website=LII / Legal Information Institute|access-date=October 7, 2019|archive-url=https://web.archive.org/web/20191007123228/https://www.law.cornell.edu/constitution/articleii|archive-date=October 7, 2019|url-status=live}}</ref> The precise meaning of the phrase "high Crimes and Misdemeanors" is not defined in the Constitution itself.
+
+"High crimes and misdemeanors", in the legal and common parlance of England in the 17th and 18th centuries, is corrupt activity by those who have special duties that are not shared with common persons.<ref>{{cite web|url=http://constitution.org/cmt/high_crimes.htm|author=Roland, Jon|title=Meaning of High Crimes and Misdemeanors|publisher=[[Constitution Society]]|date=January 19, 1999|access-date=February 26, 2012|archive-url=https://web.archive.org/web/20120103201824/http://www.constitution.org/cmt/high_crimes.htm|archive-date=January 3, 2012|url-status=live}}</ref> Toward the end of the 1700s, "High crimes and misdemeanors" acquired a more technical meaning. As Blackstone says in his ''[[Commentaries on the Laws of England|Commentaries]]'': The first and principal high misdemeanor...was mal-administration of such high offices as are in public trust and employment.<ref>{{cite web |url=https://www.washingtonpost.com/wp-srv/politics/special/clinton/stories/watergatedoc_3.htm |title=Constitutional Grounds for Presidential Impeachment: II. The Historical Origins of Impeachment B. The Intentions of the Framers |author=US Judiciary Committee |date=1974 |work=Washington Post |access-date=January 11, 2020 |quote=The 'first and principal' high misdemeanor, according to Blackstone, was 'mal-administration of such high officers, as are in public trust and employment' usually punished by the method of parliamentary impeachment. |archive-url=https://web.archive.org/web/20191211160244/https://www.washingtonpost.com/wp-srv/politics/special/clinton/stories/watergatedoc_3.htm |archive-date=December 11, 2019 |url-status=live }}</ref>
+
+The notion that only ''criminal'' conduct can constitute sufficient grounds for impeachment does not comport with either the views of the founders or with historical practice.<ref name=CRSReport2015 /> [[Alexander Hamilton]], in Federalist 65, described impeachable offenses as arising from "the misconduct of public men, or in other words from the abuse or violation of some public trust".<ref name=Federalist65>THE FEDERALIST No. 65 (Alexander Hamilton)</ref> Such offenses were "''political'', as they relate chiefly to injuries done immediately to the society itself".<ref name=Federalist65 /> According to this reasoning, impeachable conduct could include behavior that violates an official's duty to the country, even if such conduct is not necessarily a prosecutable offense. Indeed, in the past both houses of Congress have given the phrase "high Crimes and Misdemeanors" a broad reading, finding that impeachable offenses need not be limited to criminal conduct.<ref name=CRSReport2015 /><ref name=WalterNixon1989>''Impeachment of Walter L. Nixon, Jr.'', H.Rept. 101-36 at 5 (1989).</ref>
+
+The purposes underlying the impeachment process also indicate that non-criminal activity may constitute sufficient grounds for impeachment.<ref name=CRSReport2015 /><ref>[[Joseph Story|Storey, Joseph]] (1833) ''[[Commentaries on the Constitution of the United States]]'' [https://lonang.com/library/reference/story-commentaries-us-constitution/sto-310/ §794-803] {{Webarchive|url=https://web.archive.org/web/20190925233859/https://lonang.com/library/reference/story-commentaries-us-constitution/sto-310/ |date=September 25, 2019 }}</ref> The purpose of impeachment is not to inflict personal punishment for criminal activity. Instead, impeachment is a "remedial" tool; it serves to effectively "maintain constitutional government" by removing individuals unfit for office.<ref name=CRSReport2015 /><ref name=House1974StaffReport >Staff of the Impeachment Inquiry, Committee on the Judiciary, House of Representatives, ''Constitutional Grounds for Presidential Impeachment'', 93rd Conf. 2nd Sess. (Feb. 1974), [https://web.archive.org/web/20190905072225/https://judiciary.house.gov/sites/democrats.judiciary.house.gov/files/1974ImpeachmentInquiryReport.pdf 1974 Impeachment Inquiry Report]</ref> Grounds for impeachment include abuse of the particular powers of government office or a violation of the "public trust"—conduct that is unlikely to be barred via statute.<ref name=CRSReport2015 /><ref name=WalterNixon1989/><ref name=House1974StaffReport />
+
+In drawing up articles of impeachment, the House has placed little emphasis on criminal conduct.<ref name=CRSReport2015 /> Less than one-third of the articles that the House have adopted have explicitly charged the violation of a criminal statute or used the word "criminal" or "crime" to describe the conduct alleged.<ref name=CRSReport2015 /> Officials have been impeached and removed for drunkenness, biased decision-making, or inducing parties to enter financial transactions, none of which is specifically criminal.<ref name=CRSReport2015 /> Two of the articles against President [[Andrew Johnson]] were based on rude speech that reflected badly on the office: President Johnson had made "harangues" criticizing the Congress and questioning its legislative authority, refusing to follow laws, and diverting funds allocated in an army appropriations act, each of which brought the presidency "into contempt, ridicule, and disgrace".<ref>See ''Impeachment of President Andrew Johnson'', in ''Impeachment—Selected Materials'', Committee on the Judiciary, 93d Cong., Impeachment—Selected Material 692 (Comm. Print 1973).</ref> A number of individuals have been impeached for behavior incompatible with the nature of the office they hold.<ref name=CRSReport2015 /> Some impeachments have addressed, at least in part, conduct before the individuals assumed their positions: for example, Article IV against Judge [[Thomas Porteous]] related to false statements to the [[FBI]] and Senate in connection with his nomination and confirmation to the court.<ref name=CRSReport2015 />
+
+On the other hand, the Constitutional Convention rejected language that would have permitted impeachment for "maladministration", with Madison arguing that "[s]o vague a term will be equivalent to a tenure during pleasure of the Senate."<ref>''[[Bowsher v. Synar]]'', {{Ussc|478|714|1986|pin=729-30}}.</ref>
+
+Congressional materials have cautioned that the grounds for impeachment "do not all fit neatly and logically into categories" because the remedy of impeachment is intended to "reach a broad variety of conduct by officers that is both serious and incompatible with the duties of the office".<ref name=CRSReport2015 /><ref name=House1974StaffReport /> Congress has identified three general types of conduct that constitute grounds for impeachment, although these categories should not be understood as exhaustive:
+
+# improperly exceeding or abusing the powers of the office;
+# behavior incompatible with the function and purpose of the office; and
+# misusing the office for an improper purpose or for personal gain.<ref name=CRSReport2015 /><ref name=House1974StaffReport />
+
+Conversely, not all criminal conduct is impeachable: in 1974, the Judiciary Committee rejected an article of impeachment against President Nixon alleging that he committed tax fraud, primarily because that "related to the President's private conduct, not to an abuse of his authority as President".<ref name=CRSReport2015 />
+
+Several commentators have suggested that [[United States Congress|Congress]] alone may decide for itself what constitutes a "high Crime or Misdemeanor", especially since the Supreme Court decided in ''[[Nixon v. United States]]'' that it did not have the authority to determine whether the Senate properly "tried" a defendant.<ref name="Nixon_v_US"/> In 1970, then-[[Party leaders of the United States House of Representatives|House Minority Leader]] [[Gerald R. Ford]] defined the criterion as he saw it: "An impeachable offense is whatever a majority of the House of Representatives considers it to be at a given moment in history."<ref>[https://www.fordlibrarymuseum.gov/library/speeches/700415.pdf Gerald Ford's Remarks on the Impeachment of Supreme Court Justice William Douglas] {{Webarchive|url=https://web.archive.org/web/20190412080455/https://www.fordlibrarymuseum.gov/library/speeches/700415.pdf |date=April 12, 2019 }} April 15, 1970. Retrieved 21 March 2019.]</ref>
+
+Of the 20 impeachments voted by the House:
+
+* No official has been charged with treason. (In 1797, Senator Blount was impeached for assisting Britain in capturing Spanish territory. In 1862, Judge Humphries was impeached and convicted for siding with the Confederacy and taking a position as a Confederate judge during the Civil War.)
+* Three officials have been charged with bribery. Of those, two proceeded to trial and were removed (Judge Archibald and Judge Hastings); the other resigned prior to trial (Secretary Belknap).
+* The remaining charges against all the other officials fall under the category of "high Crimes and Misdemeanors".
+
+The [[standard of proof]] required for impeachment and conviction is also left to the discretion of individual representatives and senators, respectively. Defendants have argued that impeachment trials are in the nature of criminal proceedings, with convictions carrying grave consequences for the accused, and that therefore proof [[beyond a reasonable doubt]] should be the applicable standard. House Managers have argued that a lower standard would be appropriate to better serve the purpose of defending the community against abuse of power, since the defendant does not risk forfeiture of [[United States Bill of Rights|life, liberty, or property]], for which the reasonable doubt standard was set.<ref>{{cite web|url=http://congressionalresearch.com/98-990/document.php|title=Standard of Proof in Senate Impeachment Proceedings|publisher=Congressional Research Service|author=Ripy, Thomas B.|access-date=February 10, 2019|archive-url=https://web.archive.org/web/20190423160246/http://congressionalresearch.com/98-990/document.php|archive-date=April 23, 2019|url-status=live}}</ref>
+
+=== Officers subject to impeachment: "civil officers of the United States" {{Anchor|officers subject to impeachment}} ===
+The Constitution gives Congress the authority to impeach and remove "The President, Vice President, and all civil officers of the United States" upon a determination that such officers have engaged in treason, bribery, or other high crimes and misdemeanors. The Constitution does not articulate who qualifies as a "civil officer of the United States".<ref>The Constitution also discusses the President's power to appoint "Officers of the United States", "the principal Officer in each of the executive Departments", and "Inferior officers". These are different.</ref>
+
+Federal judges are subject to impeachment. In fact, 15 of 20 officers impeached, and all eight officers removed after Senate trial, have been judges. The most recent impeachment effort against a Supreme Court justice that resulted in a House of Representatives investigation was against Justice William O. Douglas. In 1970, Representative Gerald Ford, who was then House minority leader, called for the House to impeach Douglas. However, a House investigation led by Congressman Emanuel Celler (D-NY) determined that Ford's allegations were baseless. According to Professor Joshua E. Kastenberg at the University of New Mexico, School of Law, Ford and Nixon sought to force Douglas off the Court in order to cement the "Southern Strategy" as well as to provide cover for the invasion of Cambodia. When their efforts failed, Douglas remained on the Court.<ref>Joshua E. Kastenberg, The Campaign to Impeach Justice William O. Douglas: Nixon, Vietnam, and the Conservative Attack on Judicial Independence (Lawrence, Kansas: University Press of Kansas, 2019)</ref>
+
+Within the executive branch, any Presidentially appointed "principal officer", including a head of an agency such as a Secretary, Administrator, or Commissioner, is a "civil officer of the United States" subject to impeachment.<ref name=CRSReport2015 /> At the opposite end of the spectrum, lesser functionaries, such as federal civil service employees, do not exercise "significant authority", and are not appointed by the President or an agency head. These employees do not appear to be subject to impeachment, though that may be a matter of allocation of House floor debate time by the Speaker, rather than a matter of law.
+
+The Senate has concluded that members of Congress (Representatives and Senators) are not "civil officers" for purposes of impeachment.<ref name=SenateJ1798>Senate Journal, 5th Cong., 3rd Sess., December 17, 1798 to January 10, 1799.</ref> As a practical matter, expulsion is effected by the simpler procedures of Article I, Section 5, which provides "Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members{{nbsp}}... Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behavior, and, with the Concurrence of two thirds, expel a Member." (''see [[List of United States senators expelled or censured]] and [[List of United States Representatives expelled, censured, or reprimanded]]''). This allows each House to expel its own members without involving the other chamber. In 1797, the House of Representatives impeached Senator [[William Blount]] of Tennessee.<ref>{{Cite web|url=https://www.senate.gov/artandhistory/history/common/briefing/Senate_Impeachment_Role.htm#4|archive-url=https://web.archive.org/web/20101202133604/http://senate.gov/artandhistory/history/common/briefing/Senate_Impeachment_Role.htm|url-status=dead|title=U.S. Senate: Impeachment|archive-date=December 2, 2010|website=www.senate.gov}}</ref> The Senate expelled Senator Blount under Article I, Section 5, on the same day. However, the impeachment proceeding remained pending (expulsion only removes the individual from office, but conviction after impeachment may also bar the individual from holding future office, so the question of further punishment remained to be decided). After four days of debate, the Senate concluded that a Senator is not a "civil officer of the United States" for purposes of the Impeachment clause, and dismissed for lack of jurisdiction.<ref name=SenateJ1798 /><ref>{{cite book |url=https://books.google.com/books?id=wxx-6rwQCe8C&q=%22the+first+impeachment%22 |title=The First Impeachment |author=Buckner F. Milton |year=1998 |publisher=Mercer University Press |isbn=9780865545977}}</ref> The House has not impeached a Member of Congress since Blount.
+
+=== Procedure ===
+At the federal level, the impeachment process is a three-step procedure.<ref name = crs>[https://www.everycrsreport.com/reports/R44260.html#_Toc433996055 ''Impeachment and Removal''] {{Webarchive|url=https://web.archive.org/web/20191115080919/https://www.everycrsreport.com/reports/R44260.html#_Toc433996055 |date=November 15, 2019 }}, Congressional Research Service, October 29, 2015</ref>
+* First, the Congress investigates. This investigation typically begins in the [[United States House Committee on the Judiciary|House Judiciary Committee]], but may begin elsewhere. For example, the [[impeachment process against Richard Nixon|Nixon impeachment inquiry]] began in the Senate Judiciary Committee. The facts that led to [[impeachment of Bill Clinton]] were first discovered in the course of an investigation by [[United States Office of the Independent Counsel|Independent Counsel]] Kenneth Starr.
+* Second, the [[United States House of Representatives|House of Representatives]] must pass, by a simple majority of those present and voting, articles of impeachment, which constitute the formal allegation or allegations. Upon passage, the defendant has been "impeached".
+* Third, the [[United States Senate|Senate]] tries the accused. In the case of the impeachment of a president, the [[Chief Justice of the United States]] presides over the proceedings. For the impeachment of any other official, the Constitution is silent on who shall preside, suggesting that this role falls to the Senate's usual presiding officer, the [[Presiding Officer of the United States Senate|President of the Senate]], who is also the [[Vice President of the United States]]. Conviction in the Senate requires the concurrence of a two-thirds [[supermajority]] of those present. The result of conviction is removal from office.<ref>{{Cite web|url=https://www.senate.gov/civics/constitution_item/constitution.htm#a1_sec3|title=U.S. Senate: Constitution of the United States|date=1789-03-04|website=U.S. Senate|url-status=live|archive-url=https://web.archive.org/web/20140210235825/http://www.senate.gov/civics/constitution_item/constitution.htm#a1_sec3|archive-date=February 10, 2014}}</ref>
+
+==== Rules ====
+A number of rules have been adopted by the House and Senate and are honored by tradition.
+
+[[Jefferson's Manual]], which is integral to the Rules of the House of Representatives,<ref>{{cite web|url=http://www.rules.house.gov/house_rules_precedents.htm |title=House Rules |access-date=December 31, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20101212085230/http://www.rules.house.gov/house_rules_precedents.htm |archive-date=December 12, 2010}}</ref> states that impeachment is set in motion by charges made on the floor, charges proffered by a memorial, a member's resolution referred to a committee, a message from the president, or from facts developed and reported by an investigating committee of the House. It further states that a proposition to impeach is a question of high privilege in the House and at once supersedes business otherwise in order under the rules governing the order of business.
+
+''The House Practice: A Guide to the Rules, Precedents and Procedures of the House''<ref>Parliamentarian of the House, U.S. House of Representatives, ''The House Practice: A Guide to the Rules, Precedents and Procedures of the House'', at https://www.govinfo.gov/collection/house-practice {{Webarchive|url=https://web.archive.org/web/20191221073500/https://www.govinfo.gov/collection/house-practice |date=December 21, 2019 }}. Each Congress adopts its own rules, available at https://rules.house.gov/rules-resources {{Webarchive|url=https://web.archive.org/web/20191223211208/https://rules.house.gov/rules-resources |date=December 23, 2019 }}</ref> is a reference source for information on the rules and selected precedents governing the House procedure, prepared by the House Parliamentarian. The manual has a chapter on the House's rules, procedures, and precedent for impeachment.
+
+In 1974, as part of the preliminary investigation in the Nixon impeachment inquiry, the staff of the Impeachment Inquiry of the House Judiciary Committee prepared a report, ''Constitutional Grounds for Presidential Impeachment''.<ref name=House1974StaffReport/> The primary focus of the Report is the definition of the term "high Crimes and Misdemeanors" and the relationship to criminality, which the Report traces through history from English roots, through the debates at the 1787 Constitutional Convention, and the history of the impeachments before 1974.
+
+The 1974 report has been expanded and revised on several occasions by the Congressional Research Service, and the current version ''Impeachment and Removal'' dates from October 2015.<ref name=CRSReport2015 /> While this document is only staff recommendation, as a practical matter, today it is probably the single most influential definition of "high Crimes and Misdemeanors".
+
+The Senate has formal ''Rules and Procedures of Practice in the Senate When Sitting on Impeachment Trials''.<ref name=R&PoP-USS>{{cite web| title=Rules and Procedures of Practice in the Senate When Sitting on Impeachment Trials| work=Senate Manual Containing the Standing Rules, Orders, Laws and Resolutions Affecting the Business of the United States Senate| at=Section 100–126, [[105th Congress]], pp. 177–185| date=August 16, 1986| url=https://www.senate.gov/artandhistory/history/resources/pdf/3_1986SenatesImpeachmentRules.pdf| publisher=United States Senate| access-date=June 14, 2018| archive-url=https://web.archive.org/web/20191219034649/https://www.senate.gov/artandhistory/history/resources/pdf/3_1986SenatesImpeachmentRules.pdf| archive-date=December 19, 2019| url-status=live}}</ref>
+
+==== Calls for impeachment, and Congressional power to investigate ====
+{{See also|Impeachment investigations of United States federal officials}}
+
+While the actual impeachment of a federal public official is a rare event, demands for impeachment, especially of presidents, are common,<ref name=mcfadden>{{cite web |author1=Clark, Richard C. |title=McFadden's Attempts to Abolish the Federal Reserve System |publisher = [[Scribd]] |date=July 22, 2008 |url=https://www.scribd.com/doc/4086334/McFaddens-Attempts-to-Abolish-the-Federal-Reserve-System |access-date=June 20, 2009 |quote=Though a Republican, he moved to impeach President Herbert Hoover in 1932 and introduced a resolution to bring conspiracy charges against the Board of Governors of the Federal Reserve. |archive-url=https://web.archive.org/web/20100302075409/http://www.scribd.com/doc/4086334/McFaddens-Attempts-to-Abolish-the-Federal-Reserve-System |archive-date=March 2, 2010 |url-status=dead}}</ref> going back to the administration of [[George Washington]] in the mid-1790s.
+
+While almost all of them were for the most part frivolous and were buried as soon as they were introduced, several did have their intended effect. Treasury Secretary [[Andrew Mellon]]<ref>{{cite news |url=http://www.time.com/time/magazine/article/0,9171,742975,00.html |work=Time |title=National Affairs: Texan, Texan & Texan |date=January 25, 1932 |access-date=May 5, 2010 |archive-url=https://web.archive.org/web/20101027080805/http://www.time.com/time/magazine/article/0,9171,742975,00.html |archive-date=October 27, 2010 |url-status=live }}</ref> and Supreme Court Justice [[Abe Fortas]] both resigned in response to the threat of impeachment hearings, and most famously, President [[Richard Nixon]] resigned from office after the House Judiciary Committee had already reported articles of impeachment to the floor.
+
+In advance of the formal resolution by the full House to authorize proceedings, committee chairmen have the same power for impeachment as for any other issue within the jurisdiction of the committee: to investigate, subpoena witnesses, and prepare a preliminary report of findings. For example:
+
+* In 1970, House minority leader [[Gerald R. Ford]] attempted to initiate impeachment proceedings against Associate Justice [[William O. Douglas]]; the attempt included a 90-minute speech on the House floor.<ref name=FordRoleImpeachmentDouglas>Legislative Reference Service of the Library of Congress, [https://www.fordlibrarymuseum.gov/library/document/0023/1687418.pdf ''Role of Vice-President Designate Gerald R. Ford in the Attempt to Impeach Associate Supreme Court Justice William O. Douglas''] {{Webarchive|url=https://web.archive.org/web/20190219025104/https://www.fordlibrarymuseum.gov/library/document/0023/1687418.pdf |date=February 19, 2019 }}.</ref> The House did not vote to initiate proceedings.
+* In 1973, the [[United States Senate Watergate Committee|Senate Watergate hearings]] (with testimony from [[John Dean]], and the revelation of the [[Nixon White House tapes|White House tapes]] by [[Alexander Butterfield]]) were held in May and June 1973, and the House Judiciary Committee authorized [[Peter W. Rodino|Chairman Rodino]] to commence an investigation, with subpoena power, on October 30, 1973. The full House voted to initiate impeachment proceedings on February 6, 1974, that is, after nine months of formal investigations by various Congressional committees.
+* Other examples are discussed in the article on [[Impeachment investigations of United States federal officials]].
+
+Targets of congressional investigations have challenged the power of Congress to investigate before a formal resolution commences impeachment proceedings. For example, [[United States House Select Committee to Investigate Alleged Corruptions in Government|President Buchanan]] wrote to the committee investigating his administration:
+
+<blockquote>I do, therefore,{{nbsp}}... solemnly protest against these proceedings of the House of Representatives, because they are in violation of the rights of the coordinate executive branch of the Government, and subversive of its constitutional independence; because they are calculated to foster a band of interested parasites and informers, ever ready, for their own advantage, to swear before ''ex parte'' committees to pretended private conversations between the President and themselves, incapable, from their nature, of being disproved; thus furnishing material for harassing him, degrading him in the eyes of the country{{nbsp}}...<ref>James Buchanan, ''The Works of James Buchanan'' Vol. XII, pp. 225–226 (John Bassett Moore ed., J.B. Lippincott Company) (1911)</ref></blockquote>
+
+He maintained that the House of Representatives possessed no general powers to investigate him, except when sitting as an impeaching body.
+
+When the Supreme Court has considered similar issues, it held that the power to secure "needed information{{nbsp}}... has long been treated as an attribute of the power to legislate.{{nbsp}}... [The power to investigate is deeply rooted in the nation's history:] It was so regarded in the British Parliament and in the colonial Legislatures before the American Revolution, and a like view has prevailed and been carried into effect in both houses of Congress and in most of the state Legislatures."<ref name="McGrain">''[[McGrain v. Daugherty]]'', {{Ussc|273|135|1927|pin=161}}.</ref> The Supreme Court also held, "There can be no doubt as to the power of Congress, by itself or through its committees, to investigate matters and conditions relating to contemplated legislation."<ref>''[[Quinn v. United States]]'', {{Ussc|349|155|1955|pin=160}}.</ref>
+
+The Supreme Court considered the power of the Congress to investigate, and to subpoena executive branch officials, in a pair of cases arising out of alleged corruption in the administration of President Warren G. Harding. In the first, ''[[McGrain v. Daugherty]]'', the Court considered a subpoena issued to the brother of Attorney General Harry Daugherty for bank records relevant to the Senate's investigation into the Department of Justice. Concluding that the subpoena was valid, the Court explained that Congress's "power of inquiry{{nbsp}}... is an essential and appropriate auxiliary to the legislative function", as "[a] legislative body cannot legislate wisely or effectively in the absence of information respecting the conditions which the legislation is intended to affect or change." The Supreme Court held that it was irrelevant that the Senate's authorizing resolution lacked an "avow[al] that legislative action was had in view" because, said the Court, "the subject to be investigated was{{nbsp}}... [p]lainly [a] subject{{nbsp}}... on which legislation could be had" and such legislation "would be materially aided by the information which the investigation was calculated to elicit." Although "[a]n express avowal" of the Senate's legislative objective "would have been better", the Court admonished that "the presumption should be indulged that [legislation] was the real object."<ref name="McGrain"/>
+
+Two years later, in ''Sinclair v. United States'',<ref>''[[Sinclair v. United States]]'', {{ussc|279|263|1929}}.</ref> the Court considered investigation of private parties involved with officials under potential investigation for public corruption. In ''Sinclair'', Harry Sinclair, the president of an oil company, appealed his conviction for refusing to answer a Senate committee's questions regarding his company's allegedly fraudulent lease on federal oil reserves at Teapot Dome in Wyoming. The Court, acknowledging individuals' "right to be exempt from all unauthorized, arbitrary or unreasonable inquiries and disclosures in respect of their personal and private affairs", nonetheless explained that because "[i]t was a matter of concern to the United States,&nbsp;... the transaction purporting to lease to [Sinclair's company] the lands within the reserve cannot be said to be merely or principally{{nbsp}}... personal." The Court also dismissed the suggestion that the Senate was impermissibly conducting a criminal investigation. "It may be conceded that Congress is without authority to compel disclosures for the purpose of aiding the prosecution of pending suits," explained the Court, "but the authority of that body, directly or through its committees, to require pertinent disclosures in aid of its own constitutional power is not abridged because the information sought to be elicited may also be of use in such suits."
+
+The Supreme Court reached similar conclusions in a number of other cases. In ''[[Barenblatt v. United States]]'',<ref>''[[Barenblatt v. United States]]'' {{Ussc|360|109|1959|pin=126}}.</ref> the Court permitted Congress to punish contempt, when a person refused to answer questions while testifying under subpoena by the House Committee on Un-American Activities. The Court explained that although "Congress may not constitutionally require an individual to disclose his ... private affairs except in relation to&nbsp;... a valid legislative purpose", such a purpose was present. Congress's "wide power to legislate in the field of Communist activity{{nbsp}}... and to conduct appropriate investigations in aid thereof[] is hardly debatable," said the Court, and "[s]o long as Congress acts in pursuance of its constitutional power, the Judiciary lacks authority to intervene on the basis of the motives which spurred the exercise of that power."
+
+Presidents have often been the subjects of Congress's legislative investigations. For example, in 1832, the House vested a select committee with subpoena power "to inquire whether an attempt was made by the late Secretary of War{{nbsp}}... [to] fraudulently [award]{{nbsp}}... a contract for supplying rations" to Native Americans and to "further{{nbsp}}... inquire whether the President{{nbsp}}... had any knowledge of such attempted fraud, and whether he disapproved or approved of the same." In the 1990s, first the House and Senate Banking Committees and then a Senate special committee investigated President and Mrs. Clinton's involvement in the [[Whitewater controversy|Whitewater land deal]] and related matters. The Senate had an enabling resolution; the House did not.
+
+The Supreme Court has also explained that Congress has not only the power, but the duty, to investigate so it can inform the public of the operations of government:
+
+{{quote|It is the proper duty of a representative body to look diligently into every affair of government and to talk much about what it sees. It is meant to be the eyes and the voice, and to embody the wisdom and will of its constituents. Unless Congress have and use every means of acquainting itself with the acts and the disposition of the administrative agents of the government, the country must be helpless to learn how it is being served; and unless Congress both scrutinize these things and sift them by every form of discussion, the country must remain in embarrassing, crippling ignorance of the very affairs which it is most important that it should understand and direct. The informing function of Congress should be preferred even to its legislative function.<ref>''[[United States v. Rumely]]'', {{Ussc|345|41|1953|pin=43}}, quoting Woodrow Wilson, ''Congressional Government: A Study in American Politics'', 303.</ref>}}
+
+==== House of Representatives: Impeachment ====
+{{Redirect|House Manager|theater operations|House management}}
+{{see also|U.S. presidential impeachment}}
+[[File:Opening day of the Nixon impeachment inquiry.jpg|thumb|left|First day of the Judiciary Committee's formal [[Impeachment process against Richard Nixon|impeachment hearings against President Nixon]], May&nbsp;9, 1974]]
+
+Impeachment proceedings may be requested by a member of the House of Representatives on his or her own initiative, either by presenting a list of the charges under oath or by asking for referral to the appropriate [[United States Congressional committee|committee]]. The impeachment process may be requested by non-members. For example, when the [[Judicial Conference of the United States]] suggests a federal judge be impeached, a charge of actions constituting grounds for impeachment may come from a [[special prosecutor]], the President, or [[List of U.S. state legislatures|state or territorial legislature]], [[grand jury]], or by [[petition]]. An impeachment proceeding formally begins with a resolution adopted by the full House of Representatives, which typically includes a referral to a House committee.<ref name = crs/>
+
+The type of impeachment [[Resolution (law)|resolution]] determines the committee to which it is referred. A resolution impeaching a particular individual is typically referred to the [[United States House Committee on the Judiciary|House Committee on the Judiciary]]. A resolution to authorize an investigation regarding impeachable conduct is referred to the [[United States House Committee on Rules|House Committee on Rules]], and then to the Judiciary Committee. The House Committee on the Judiciary, by majority vote, will determine whether grounds for impeachment exist (this vote is not law and is not required, US Constitution and US law). 
+
+==== Articles of impeachment ====
+
+Where the Committee finds grounds for impeachment, it will set forth specific allegations of misconduct in one or more articles of impeachment. The Impeachment Resolution, or Articles of Impeachment, are then reported to the full House with the committee's recommendations.
+
+{{anchor|House manager}}The House debates the resolution and may at the conclusion consider the resolution as a whole or vote on each article of impeachment individually. A [[Majority|simple majority]] of those present and voting is required for each article for the resolution as a whole to pass. If the House votes to impeach, managers (typically referred to as "House managers", with a "lead House manager") are selected to present the case to the Senate. Recently, managers have been selected by resolution, while historically the House would occasionally elect the managers or pass a resolution allowing the appointment of managers at the discretion of the [[Speaker of the United States House of Representatives]]. These managers are roughly the equivalent of the prosecution or district attorney in a standard criminal trial. Also, the House will adopt a resolution in order to notify the Senate of its action. After receiving the notice, the Senate will adopt an order notifying the House that it is ready to receive the managers. The House managers then appear before the bar of the Senate and exhibit the articles of impeachment. After the reading of the charges, the managers return and make a verbal report to the House.
+
+==== Senate trial ====
+[[File:Andrew Johnson impeachment trial.jpg|thumb|upright=1.10|Depiction of the impeachment trial of President [[Andrew Johnson]] in 1868, Chief Justice [[Salmon P. Chase]] presiding.]]
+The proceedings unfold in the form of a trial, with the Senate having the right to call witnesses and each side having the right to perform [[cross-examination]]s.<ref name=R&PoP-USS>{{cite web| title=Rules and Procedures of Practice in the Senate When Sitting on Impeachment Trials| work=Senate Manual Containing the Standing Rules, Orders, Laws and Resolutions Affecting the Business of the United States Senate| at=Section 100–126, [[105th Congress]], pp. 177–185| date=August 16, 1986| url=https://www.senate.gov/artandhistory/history/resources/pdf/3_1986SenatesImpeachmentRules.pdf| publisher=United States Senate| access-date=June 14, 2018| archive-url=https://web.archive.org/web/20191219034649/https://www.senate.gov/artandhistory/history/resources/pdf/3_1986SenatesImpeachmentRules.pdf| archive-date=December 19, 2019| url-status=live}}</ref> The House members, who are given the collective title of managers during the course of the trial, present the prosecution case, and the impeached official has the right to mount a defense with his or her own attorneys as well. Senators must also take an [[oath]] or [[Affirmation in law|affirmation]] that they will perform their duties honestly and with [[due diligence]]. After hearing the charges, the Senate usually deliberates in private. The Constitution requires a [[Supermajority#Two-thirds vote|two-thirds supermajority]] to convict a person being impeached.<ref>{{Cite web|url=https://whatifhq.com/question/what-would-trump-have-to-do-to-get-impeached/|title=What would Trump have to do to get impeached?|website=whatifhq.com|language=en-US|access-date=August 26, 2018|archive-url=https://web.archive.org/web/20180826214706/https://whatifhq.com/question/what-would-trump-have-to-do-to-get-impeached/|archive-date=August 26, 2018|url-status=live}}</ref> The Senate enters judgment on its decision, whether that be to convict or acquit, and a copy of the judgment is filed with the [[United States Secretary of State|Secretary of State]].<ref name=R&PoP-USS /> Upon conviction in the Senate, the official is automatically removed from office and may also be barred from holding future office. The trial is not an actual criminal proceeding and more closely resembles a civil service termination appeal in terms of the contemplated deprivation. Therefore, the removed official may still be liable to criminal prosecution under a subsequent criminal proceeding. The President may not grant a pardon in the impeachment case, but may in any resulting Federal criminal case.<ref>{{cite web| last=Gerhardt| first=Michael J.| title=Essays on Article I: Punishment for Impeachment| url=https://www.heritage.org/constitution/#!/articles/1/essays/18/punishment-for-impeachment| work=The Heritage Guide to the Constitution| publisher=Heritage Foundation| access-date=June 14, 2018| archive-url=https://web.archive.org/web/20190830071416/https://www.heritage.org/constitution/#!/articles/1/essays/18/punishment-for-impeachment| archive-date=August 30, 2019| url-status=live}}</ref>{{Failed verification|date=December 2019|talk=Pardon after impeachment}}
+
+Beginning in the 1980s with [[Harry E. Claiborne]], the Senate began using "Impeachment Trial Committees" pursuant to Senate Rule XI.<ref name=R&PoP-USS/> These committees presided over the evidentiary phase of the trials, hearing the evidence and supervising the examination and cross-examination of witnesses. The committees would then compile the evidentiary record and present it to the Senate; all senators would then have the opportunity to review the evidence before the chamber voted to convict or acquit. The purpose of the committees was to streamline impeachment trials, which otherwise would have taken up a great deal of the chamber's time. Defendants challenged the use of these committees, claiming them to be a violation of their fair trial rights as this did not meet the constitutional requirement for their cases to be "tried by the Senate". Several impeached judges, including [[United States District Court for the Southern District of Mississippi|District Court Judge]] [[Walter Nixon]], sought [[Federal judiciary of the United States|court]] intervention in their impeachment proceedings on these grounds. In ''[[Nixon v. United States]]'' (1993),<ref name="Nixon_v_US">''[[Nixon v. United States]]'', {{Ussc|506|224|1993}}.</ref> the [[Supreme Court of the United States|Supreme Court]] determined that the federal judiciary could not review such proceedings, as matters related to impeachment trials are [[political question]]s and [[Justiciability|could not be resolved in the courts]].<ref name=PresserArticleI>{{cite web| last=Presser| first=Stephen B.| title=Essays on Article I: Impeachment| url=https://www.heritage.org/constitution/#!/articles/1/essays/11/impeachment| work=The Heritage Guide to the Constitution| publisher=Heritage Foundation| access-date=June 14, 2018| archive-url=https://web.archive.org/web/20190830071416/https://www.heritage.org/constitution/#!/articles/1/essays/11/impeachment| archive-date=August 30, 2019| url-status=live}}</ref>
+
+In theory at least, as President of the Senate, the [[Vice President of the United States]] could preside over his own impeachment, although legal theories suggest that allowing a defendant to be the [[Nemo iudex in causa sua|judge in his own case]] would be a blatant [[conflict of interest]]. If the Vice President did not preside over an impeachment (of anyone besides the President), the duties would fall to the [[President pro tempore of the United States Senate|President pro tempore of the Senate]].
+
+To convict an accused, "the concurrence of two thirds of the [Senators] present" for at least one article is required. If there is no single charge commanding a "guilty" vote from two-thirds of the senators present, the defendant is acquitted and no punishment is imposed.
+
+==== Result of conviction: removal, and with an additional Senate vote, disqualification ====
+Conviction immediately removes the defendant from office. Following conviction, the Senate may vote to further punish the individual by barring him or her from holding future federal office, elected or appointed. As the threshold for disqualification is not explicitly mentioned in the Constitution, the Senate has taken the position that disqualification votes only require a simple majority rather than a two-thirds supermajority. The Senate has used disqualification sparingly, as only three individuals have been disqualified from holding future office.<ref>{{cite news |last1=Foley |first1=Edward B. |title=Congress Should Remove Trump from Office, But Let Him Run Again in 2020 |url=https://www.politico.com/magazine/story/2019/09/25/congress-should-remove-trump-from-office-but-let-him-run-again-228228 |publisher=Politico |date=September 25, 2019 |access-date=September 28, 2019 |archive-url=https://web.archive.org/web/20190928202836/https://www.politico.com/magazine/story/2019/09/25/congress-should-remove-trump-from-office-but-let-him-run-again-228228 |archive-date=September 28, 2019 |url-status=live }}</ref>
+
+Conviction does not extend to further punishment, for example, loss of pension. After conviction by the Senate, "the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law" in the regular federal or state courts.
+
+=== History of federal constitutional impeachment ===
+In the [[United Kingdom]], impeachment was a procedure whereby a member of the [[House of Commons]] could accuse someone of a crime. If the Commons voted for the impeachment, a trial would then be held in the [[House of Lords]]. Unlike a [[bill of attainder]], a law declaring a person guilty of a crime, impeachments did not require [[royal assent]], so they could be used to remove troublesome officers of the Crown even if the monarch was trying to protect them.
+
+The monarch, however, was above the law and could not be impeached, or indeed judged guilty of any crime. When [[King Charles I of England|King Charles I]] was tried before the [[Rump Parliament]] of the [[New Model Army]] in 1649 he denied that they had any right to legally indict him, their king, whose power was given by God and the laws of the country, saying: "no earthly power can justly call me (who is your King) in question as a delinquent{{nbsp}}... no learned lawyer will affirm that an impeachment can lie against the King." While the House of Commons pronounced him guilty and ordered his execution anyway, the jurisdictional issue tainted the proceedings.
+
+With this example in mind, the delegates to the 1787 [[Constitutional Convention (United States)|Constitutional Convention]] chose to include an impeachment procedure in Article II, Section{{nbsp}}4 of the Constitution which could be applied to any government official; they explicitly mentioned the President to ensure there would be no ambiguity. Opinions differed, however, as to the reasons Congress should be able to initiate an impeachment. Initial drafts listed only treason and bribery, but [[George Mason]] favored impeachment for "maladministration" (incompetence). [[James Madison]] argued that impeachment should only be for criminal behavior, arguing that a maladministration standard would effectively mean that the President would serve at the pleasure of the Senate.<ref>{{Cite web |url=http://ap.grolier.com/article?assetid=0146580-0 |title=Welcome to The American Presidency |access-date=April 20, 2007 |archive-url=https://web.archive.org/web/20070930165132/http://ap.grolier.com/article?assetid=0146580-0 |archive-date=September 30, 2007 |url-status=dead}}</ref> Thus the delegates adopted a compromise version allowing impeachment by the House for "treason, bribery and other high crimes and misdemeanors" and conviction by the Senate only with the concurrence of two-thirds of the senators present.
+
+{{Anchor|Federal officials impeached}}
+
+=== Formal federal impeachment investigations and results ===
+{{also|U.S. presidential impeachment}}
+The House of Representatives has initiated impeachment proceedings 62 times since 1789.{{citation needed|date=May 2016}}
+
+The House has impeached 20 federal officers. Of these:
+
+* 15 were [[United States federal judge|federal judges]]: thirteen [[United States district court|district court judges]], one [[United States court of appeals|court of appeals judge]] (who also sat on the [[United States Commerce Court|Commerce Court]]), and one [[Supreme Court of the United States|Supreme Court]] [[Associate Justice of the Supreme Court of the United States|Associate Justice]].
+* three were Presidents: [[Andrew Johnson]], [[Bill Clinton]] and [[Donald Trump]]<ref name="trump-vote">{{Cite news|url=https://www.nytimes.com/interactive/2019/12/18/us/politics/trump-impeachment-vote.html|title=Live House Vote: The Impeachment of Donald J. Trump|last1=Cai|first1=Weiyi|date=2019-12-18|work=[[The New York Times]]|access-date=2019-12-19|last2=Lai|first2=K. K. Rebecca|language=en-US|issn=0362-4331|last3=Parlapiano|first3=Alicia|last4=White|first4=Jeremy|last5=Buchanan|first5=Larry|archive-url=https://web.archive.org/web/20191219015350/https://www.nytimes.com/interactive/2019/12/18/us/politics/trump-impeachment-vote.html|archive-date=December 19, 2019|url-status=live}}</ref>
+
+* one was a [[United States Cabinet|Cabinet]] secretary
+* one was a [[United States Senate|U.S. Senator]].
+
+Of the 20 impeachments by the House, two cases did not come to trial because the individuals had left office, seven were acquitted, and eight officials were convicted, all of whom were judges.<ref>{{cite web |url=https://www.senate.gov/artandhistory/history/common/briefing/Senate_Impeachment_Role.htm |title=U.S. Senate: Impeachment |website=www.senate.gov |access-date=September 19, 2018 |archive-url=https://www.webcitation.org/5uplUoEZt?url=https://www.senate.gov/artandhistory/history/common/briefing/Senate_Impeachment_Role.htm |archive-date=December 8, 2010 |url-status=live }}</ref><ref>{{cite web |url=http://www.infoplease.com/spot/impeach.html |title=Impeachment History |website=Infoplease |access-date=July 12, 2013 |archive-url=https://web.archive.org/web/20130628232458/http://www.infoplease.com/spot/impeach.html |archive-date=June 28, 2013 |url-status=live }}</ref> One, former judge [[Alcee Hastings]], was elected as a member of the [[United States House of Representatives]] after being removed from office. No President impeached by the House has been removed from office.<ref>{{Cite journal|last=Erskine|first=Daniel H.|date=2008|title=The Trial of Queen Caroline and the Impeachment of President Clinton: Law As a Weapon for Political Reform|url=http://openscholarship.wustl.edu/law_globalstudies/vol7/iss1/2/|journal=Washington University Global Studies Law Review|language=en|volume=7|issue=1|issn=1546-6981|access-date=May 17, 2017|archive-url=https://web.archive.org/web/20170729213005/http://openscholarship.wustl.edu/law_globalstudies/vol7/iss1/2/|archive-date=July 29, 2017|url-status=live}}</ref>
+
+Additionally, an [[impeachment process against Richard Nixon]] was commenced, but not completed, as he resigned from office before the full House voted on the articles of impeachment.<ref name=PresserArticleI/> To date, no president or vice president has been removed from office by impeachment and conviction.
+
+The following table lists federal officials for whom impeachment proceedings were instituted and referred to a committee of the House of Representatives. '''Numbered''' lines of the table reflect officials impeached by a majority vote of the House. '''Unnumbered''' lines are those officials for whom an impeachment proceeding was formally instituted, but ended when (a) the Committee did not vote to recommend impeachment, (b) the Committee recommended impeachment but the vote in the full House failed, or (c) the official resigned or died before the full House vote.
+
+{| class="wikitable sortable"
+|-
+! #
+! data-sort-type="date"|Date of impeachment or investigation
+! colspan=2 | Accused
+! Office
+! Accusations
+! Result<ref name="TF_Definitions" group="Note">"Removed and disqualified" indicates that following conviction the Senate voted to disqualify the individual from holding further federal office pursuant to Article I, Section{{nbsp}}3 of the United States Constitution, which provides, in pertinent part, that "[j]udgment in cases of impeachment shall not extend further than to removal from office, and disqualification to hold and enjoy any office of honor, trust or profit under the United States."</ref>
+|-
+| 1
+| style="white-space: nowrap;" | July 7, 1797
+| [[File:William-blount-wb-cooper.jpg|70px]]
+| style="white-space: nowrap;" | [[William Blount]]
+| [[United States Senator]] ([[Tennessee]])
+| Conspiring to assist Britain in capturing Spanish territory
+| Senate refused to accept impeachment of a Senator by the House of Representatives, instead expelling him from the Senate on their own authority<ref name=SenateGovListOfTrials>{{cite web |title=Chapter 4: Complete List of Senate Impeachment Trials |publisher=United States Senate |url=http://www.senate.gov/artandhistory/history/common/briefing/Senate_Impeachment_Role.htm |access-date=December 8, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20101202133604/http://senate.gov/artandhistory/history/common/briefing/Senate_Impeachment_Role.htm |archive-date=December 2, 2010 }}</ref><ref name="TF_Blount" group="Note">During the impeachment trial of Senator Blount, it was argued that the House of Representatives did not have the power to impeach members of either House of Congress; though the Senate never explicitly ruled on this argument, the House has never again impeached a member of Congress. The Constitution allows either House to expel one of its members by a two-thirds vote, which the Senate had done to Blount on the same day the House impeached him (but before the Senate heard the case).</ref><ref name=gpo>{{cite web |author=U.S. Joint Committee on Printing |title=Impeachment Proceedings |work=[[Congressional Directory]] |date=September 2006 |url= http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=109_congressional_directory_interim_sep06&docid=109thin_txt-77 |access-date=June 19, 2009}} ([https://www.webcitation.org/5hgfBLQ9j?url=http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=109_congressional_directory_interim_sep06&docid=%5bDOCID:109thin_txt-77%5d Archived by WebCite])</ref>
+|-
+| 2
+| style="white-space: nowrap;" | March 2, 1803
+| 
+| style="white-space: nowrap;" | [[John Pickering (judge)|John Pickering]]
+| Judge <span style="white-space: nowrap;">([[United States District Court for the District of New Hampshire|District of New Hampshire]])</span>
+| Drunkenness and unlawful rulings
+| Convicted; removed on March 12, 1804<ref name=SenateGovListOfTrials /><ref name=gpo /><ref name=FedJudicialCtrList>{{cite web |title=Impeachments of Federal Judges |publisher=Federal Judicial Center |url=https://www.fjc.gov/history/judges/impeachments-federal-judges |access-date=May 16, 2017 |archive-url=https://web.archive.org/web/20170622162128/https://www.fjc.gov/history/judges/impeachments-federal-judges |archive-date=June 22, 2017 |url-status=live }}</ref>
+|-
+| 3
+| style="white-space: nowrap;" | March 12, 1804
+| [[File:Samuel Chase (bust crop).jpg|70px]]
+| style="white-space: nowrap;" | [[Samuel Chase]]
+| Associate Justice ([[Supreme Court of the United States]])
+| Political bias and arbitrary rulings, promoting a partisan political agenda on the bench<ref>{{cite web|url=https://www.senate.gov/artandhistory/history/minute/Senate_Tries_Justice.htm|title=1801: Senate Tries Supreme Court Justice|date=November 25, 2014|access-date=February 16, 2018|archive-url=https://web.archive.org/web/20180308052218/https://www.senate.gov/artandhistory/history/minute/Senate_Tries_Justice.htm|archive-date=March 8, 2018|url-status=live}}</ref>
+| Acquitted on March 1, 1805<ref name=SenateGovListOfTrials /><ref name=FedJudicialCtrList />
+|-
+| 4
+| style="white-space: nowrap;" | April 24, 1830
+| [[File:JamesHPeck.jpg|70px]]
+| style="white-space: nowrap;" | [[James H. Peck]]
+| Judge <span style="white-space: nowrap;">([[United States District Court for the District of Missouri|District of Missouri]])</span>
+| [[Abuse of power]]<ref>{{Cite web|url=https://www.pbs.org/newshour/impeachment/timeline/peck.html|title=PBS NewsHour|access-date=September 1, 2017|archive-url=https://web.archive.org/web/20120527135655/http://www.pbs.org/newshour/impeachment/timeline/peck.html|archive-date=May 27, 2012|url-status=live}}</ref>
+| Acquitted on January 31, 1831<ref name=SenateGovListOfTrials /><ref name=FedJudicialCtrList /><ref name=gpo />
+|-style="background:#afdcfc"
+| data-sort-value="4.5" *| 
+| data-sort-value="March 1, 1860"| March to June 1860
+| [[File:James_Buchanan.jpg|70px]]
+| style="white-space: nowrap;" | [[James Buchanan]]
+| [[President of the United States]]
+| [[United States House Select Committee to Investigate Alleged Corruptions in Government|Corruption]]
+| The [[United States House Select Committee to Investigate Alleged Corruptions in Government|Covode committee]] was established March 5, 1860, and submitted its final report on June 16, 1860. The committee found that Buchanan had not done anything to warrant impeachment, but that his was the most corrupt administration since the adoption of the US Constitution in 1789.<ref>Baker, Jean H.: James Buchanan; Times Books, 2004</ref><ref>U.S. House Journal, 36th Congress, 1st session, [http://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05668)) Page 450] {{Webarchive|url=https://web.archive.org/web/20191228130145/http://memory.loc.gov/cgi-bin/query/r?ammem%2Fhlaw%3A%40field%28DOCID+%40lit%28hj05668%29%29 |date=December 28, 2019 }}</ref>
+|-
+| 5
+| style="white-space: nowrap;" | May 6, 1862
+| [[File:West Hughes Humphreys.jpg|70px]]
+| style="white-space: nowrap;" | [[West Hughes Humphreys]]
+| Judge ([[United States District Court for the Eastern District of Tennessee|Eastern]], [[United States District Court for the Middle District of Tennessee|Middle]], and [[United States District Court for the Western District of Tennessee|Western]] Districts of [[Tennessee]])
+| Supporting the Confederacy
+| Convicted; removed and disqualified on June 26, 1862<ref name=gpo /><ref name=SenateGovListOfTrials /><ref name=FedJudicialCtrList />
+|-style="background:#afdcfc"
+| 6
+| style="white-space" | February 24, 1868
+| [[File:President Andrew Johnson.jpg|70px]]
+| style="white-space: nowrap;" | [[Andrew Johnson]]
+| [[President of the United States]]
+| Violating the [[Tenure of Office Act (1867)|Tenure of Office Act]]. The Supreme Court would later state in [[obiter dictum|dicta]] that the (by then repealed) Tenure of Office Act had been unconstitutional.<ref>{{ussc|name=Myers v. United States|272|52|1926}}.</ref>
+| [[Impeachment of Andrew Johnson|Acquitted]] on May 26, 1868, 35–19 in favor of conviction, falling one vote short of two-thirds.<ref name=SenateGovListOfTrials /><ref name=gpo />
+|-
+| 7
+| style="white-space: nowrap;" | February 28, 1873
+| [[File:Mark W. Delahay.jpg|70px]]
+| style="white-space: nowrap;" | [[Mark W. Delahay]]
+| Judge <span style="white-space: nowrap;">([[United States District Court for the District of Kansas|District of Kansas]])</span>
+| Drunkenness
+| Resigned on December 12, 1873<ref name=FedJudicialCtrList /><ref name=FJCDelahay>{{cite web |title=Judges of the United States Courts – Delahay, Mark W. |publisher=Federal Judicial Center |url=http://www.fjc.gov/servlet/nGetInfo?jid=598&cid=999&ctype=na&instate=na |access-date=June 20, 2009 |archive-url=https://web.archive.org/web/20100527135857/http://www.fjc.gov/servlet/nGetInfo?jid=598&cid=999&ctype=na&instate=na |archive-date=May 27, 2010 |url-status=live }}</ref>
+|-
+| 8
+| style="white-space: nowrap;" | March 2, 1876
+| [[File:WWBelknap.jpg|70px]]
+| style="white-space: nowrap;" | [[William W. Belknap]]
+| [[United States Secretary of War]] (resigned after impeachment and before trial)
+| Graft, corruption
+| Acquitted after his resignation on August 1, 1876<ref name=SenateGovListOfTrials /><ref name=gpo />
+|-
+| 9
+| style="white-space: nowrap;" | December 13, 1904
+|
+| style="white-space: nowrap;" | [[Charles Swayne]]
+| Judge <span style="white-space: nowrap;">([[United States District Court for the Northern District of Florida|Northern District of Florida]])</span>
+| Failure to live in his district, abuse of power<ref>{{cite web|url=http://www.gpo.gov/fdsys/pkg/GPO-HPREC-HINDS-V3/html/GPO-HPREC-HINDS-V3-27.htm|title=Hinds' Precedents, Volume 3 – Chapter 78 – The Impeachment and Trial of Charles Swayne|access-date=November 15, 2013|archive-url=https://web.archive.org/web/20141106022030/http://www.gpo.gov/fdsys/pkg/GPO-HPREC-HINDS-V3/html/GPO-HPREC-HINDS-V3-27.htm|archive-date=November 6, 2014|url-status=live}}</ref>
+| Acquitted on February 27, 1905<ref name=SenateGovListOfTrials /><ref name=FedJudicialCtrList /><ref name=gpo />
+|-
+| 10
+| style="white-space: nowrap;" | July 11, 1912
+| [[File:Robert W. Archbald cph.3a03594 (bust crop).jpg|70px]]
+| style="white-space: nowrap;" | [[Robert Wodrow Archbald]]
+| Associate Justice <span style="white-space: nowrap;">([[United States Commerce Court]])</span><br/>Judge <span style="white-space: nowrap;">([[United States Court of Appeals for the Third Circuit|Third Circuit Court of Appeals]])</span>
+| Improper acceptance of gifts from litigants and attorneys
+| Convicted; removed and disqualified on January 13, 1913<ref name=gpo /><ref name=SenateGovListOfTrials /><ref name=FedJudicialCtrList />
+|-
+| 11
+| style="white-space: nowrap;" | April 1, 1926
+| [[File:George W. English cph.3a03600.jpg|70px]]
+| style="white-space: nowrap;" | [[George W. English]]
+| Judge <span style="white-space: nowrap;">([[United States District Court for the Eastern District of Illinois|Eastern District of Illinois]])</span>
+| Abuse of power
+| Resigned on November 4, 1926,<ref name=gpo /><ref name=SenateGovListOfTrials /> proceedings dismissed on December 13, 1926<ref name=gpo /><ref name=FedJudicialCtrList />
+|-
+| 12
+| style="white-space: nowrap;" | February 24, 1933
+| 
+| style="white-space: nowrap;" | [[Harold Louderback]]
+| Judge <span style="white-space: nowrap;">([[United States District Court for the Northern District of California|Northern District of California]])</span>
+| Corruption
+| Acquitted on May 24, 1933<ref name=SenateGovListOfTrials /><ref name=FedJudicialCtrList /><ref name=gpo />
+|-
+| 13
+| style="white-space: nowrap;" | March 2, 1936
+|[[File:Halsted_Ritter_(US_federal_judge).jpg|70px]]
+| style="white-space: nowrap;" | [[Halsted L. Ritter]]
+| Judge <span style="white-space: nowrap;">([[United States District Court for the Southern District of Florida|Southern District of Florida]])</span>
+| [[Champerty and maintenance|Champerty]], corruption, tax evasion, practicing law while a judge
+| Convicted; removed on April 17, 1936<ref name=SenateGovListOfTrials /><ref name=FedJudicialCtrList /><ref name=gpo />
+|-
+| data-sort-value="13.3" *| 
+| data-sort-value="January 1, 1953"|1953
+| [[File:Justice_William_O_Douglas.jpg|70px]]
+| [[William O. Douglas]]
+| Associate Justice of the U.S. Supreme Court
+| Brief stay of execution for [[Julius and Ethel Rosenberg]]
+| Referred to Judiciary Committee (Jun. 18, 1953); committee voted to end the investigation (Jul 7, 1953). 
+|-
+| data-sort-value="13.6" *| 
+| data-sort-value="January 1, 1970"|1970
+| [[File:Justice_William_O_Douglas.jpg|70px]]
+| [[William O. Douglas]]
+| Associate Justice of the U.S. Supreme Court
+| Failure to recuse on obscenity cases while at the same time having articles published in ''[[Evergreen Review]]'' and ''[[Avant-Garde (magazine)|Avant-Garde]]'' magazines; conflict of paid board positions with two non-profits
+| Referred to a special subcommittee of the House Judiciary Committee (Apr. 21, 1970); subcommittee voted to end the investigation (Dec. 3, 1970). 
+|-style="background:#afdcfc"
+|* data-sort-value="13.9"| 
+| data-sort-value="January 1, 1974"| 1973–1974
+| [[File:Richard Nixon presidential portrait.jpg|70px]]
+| style="white-space: nowrap;" | [[Richard Nixon]]
+| [[President of the United States]]
+| [[Impeachment process against Richard Nixon#Articles of impeachment|Obstruction of justice, Abuse of Power, Contempt of Congress]]
+| House Judiciary Committee begins investigating and issuing subpoenas (Oct. 30, 1973); House Judiciary Report on committee investigation (Feb. 1, 1974);<ref>House Rept 93–774</ref> House resolution 93-803 authorizes Judiciary Committee investigation (Feb. 6, 1974);<ref>{{Cite web|url=https://www.congress.gov/bill/93rd-congress/house-resolution/803/actions|title=Actions - H.Res.803 - 93rd Congress (1973-1974): Resolution providing appropriate power to the Committee on the Judiciary to conduct an investigation of whether sufficient grounds exist to impeach Richard M. Nixon, President of the United States.|date=February 6, 1974|website=www.congress.gov|access-date=May 22, 2019|archive-url=https://web.archive.org/web/20190401203054/https://www.congress.gov/bill/93rd-congress/house-resolution/803/actions|archive-date=April 1, 2019|url-status=live}}</ref> House Judiciary Committee votes three articles of impeachment to House floor (July 27–30, 1974);<ref>{{Cite web| url= https://archive.org/stream/WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary+Committee+Hearings-+Impeachment+of+Richard+M+Nixon,+President+of+the+United+States_djvu.txt | title= Full text of "Watergate Hearings Before the House Committee on the Judiciary"|website=archive.org}}</ref> proceedings terminated by resignation of President Nixon (August 8, 1974).
+|-
+| 14
+| style="white-space: nowrap;" | July 22, 1986
+| [[File:Harry Claiborne (bust crop).jpg|70px]]
+| style="white-space: nowrap;" | [[Harry E. Claiborne]]
+| Judge <span style="white-space: nowrap;">([[United States District Court for the District of Nevada|District of Nevada]])</span>
+| Tax evasion
+| Convicted; removed on October 9, 1986<ref name=SenateGovListOfTrials /><ref name=FedJudicialCtrList /><ref name=gpo />
+|-
+| 15
+| style="white-space: nowrap;" | August 3, 1988
+| [[File:Alcee Hastings Portrait c111-112th Congress.jpg|70px]]
+| style="white-space: nowrap;" | [[Alcee Hastings]]
+| Judge <span style="white-space: nowrap;">([[United States District Court for the Southern District of Florida|Southern District of Florida]])</span>
+| Accepting a bribe, and committing perjury during the resulting investigation
+| Convicted; removed on October 20, 1989<ref name=SenateGovListOfTrials /><ref name=FedJudicialCtrList /><ref name=gpo />
+|-
+| 16
+| style="white-space: nowrap;" | May 10, 1989
+| [[File:Walter Nixon (bust crop).jpg|70px]]
+| style="white-space: nowrap;" | [[Walter Nixon]]
+| Chief Judge <span style="white-space: nowrap;">([[United States District Court for the Southern District of Mississippi|Southern District of Mississippi]])</span>
+| Perjury
+| Convicted; removed on November 3, 1989<ref name=SenateGovListOfTrials /><ref name=FedJudicialCtrList /><ref name="TF_Nixon" group="Note">Judge Nixon later challenged the validity of his removal from office on procedural grounds; the challenge was ultimately rejected as [[justiciability|nonjusticiable]] by the Supreme Court in ''[[Nixon v. United States]]''.</ref><ref name=gpo/>
+|-style="background:#afdcfc"
+| 17
+| style="white-space: nowrap;" | December 19, 1998
+| [[File:Bill Clinton.jpg|70px]]
+| style="white-space: nowrap;" | [[Bill Clinton]]
+| [[President of the United States]]
+| [[Impeachment of Bill Clinton#Impeachment by House of Representatives|Perjury and obstruction of justice]]<ref>https://www.congress.gov/congressional-report/105th-congress/house-report/830 {{Webarchive|url=https://web.archive.org/web/20190625211054/https://www.congress.gov/congressional-report/105th-congress/house-report/830/ |date=June 25, 2019 }} House Report 105-830 – Impeachment of William Jefferson Clinton, President of the United States</ref>
+| [[Impeachment of Bill Clinton#Acquittal by the Senate|Acquitted on February 12, 1999]]: 45–55 on perjury and 50–50 on obstruction of justice<ref name=SenateGovListOfTrials /><ref>{{cite journal|author=Erskine, Daniel H|date=2008|url=https://openscholarship.wustl.edu/law_globalstudies/vol7/iss1/2/|title=The Trial of Queen Caroline and the Impeachment of President Clinton: Law As a Weapon for Political Reform|journal=[[Washington University Global Studies Law Review]]|volume=7|issue=1|publisher=[[Washington University in St. Louis]]|access-date=April 8, 2019|archive-date=March 27, 2019|archive-url= https://web.archive.org/web/20190327102533/https://openscholarship.wustl.edu/law_globalstudies/vol7/iss1/2/}}</ref>
+|-
+| 18
+| style="white-space: nowrap;" | June 19, 2009
+| [[File:KentSamuel.jpg|70px]]
+| style="white-space: nowrap;" | [[Samuel B. Kent]]
+| Judge <span style="white-space: nowrap;">([[United States District Court for the Southern District of Texas|Southern District of Texas]])</span>
+| Sexual assault, and obstruction of justice during the resulting investigation
+| Resigned on June 30, 2009,<ref name=FedJudicialCtrList /><ref name=resignaccepted>{{cite web |last=Gamboa |first=Suzanne |title=White House accepts convicted judge's resignation |publisher=Associated Press |date=June 30, 2009 |url=http://www.theeagle.com/texas/White-House-accepts-convicted-judge-s-resignation |access-date=July 22, 2009 |url-status=live |archive-url= https://web.archive.org/web/20100326022938/http://www.theeagle.com/texas/White-House-accepts-convicted-judge-s-resignation |archive-date=March 26, 2010}}</ref> proceedings dismissed on July 22, 2009<ref name=SenateGovListOfTrials /><ref name=FedJudicialCtrList /><ref name=endoftrial>{{cite web |last=Gamboa |first=Suzanne |title=Congress ends jailed judge's impeachment |publisher=Associated Press |date=July 22, 2009 |url=http://seattletimes.nwsource.com/html/politics/2009518391_apusfederaljudgeimpeachment.html |access-date=December 8, 2010 |url-status=live |archive-url= https://web.archive.org/web/20110622092857/http://seattletimes.nwsource.com/html/politics/2009518391_apusfederaljudgeimpeachment.html |archive-date=June 22, 2011}}</ref><ref name=impeach>{{cite web |last=Powell |first=Stewart |title=U.S. House impeaches Kent |work=Houston Chronicle |date=June 19, 2009 |url=http://www.chron.com/disp/story.mpl/front/6488310.html |access-date=June 19, 2009 |quote=In action so rare it has been carried out only 14 times since 1803, the House on Friday impeached a federal judge—imprisoned U.S. District Court Judge Samuel B. Kent{{nbsp}}... |url-status=live
+|archive-url=https://web.archive.org/web/20090621075620/http://www.chron.com/disp/story.mpl/front/6488310.html |archive-date=June 21, 2009}}</ref>
+|-
+| 19
+| style="white-space: nowrap;" | March 11, 2010
+| [[File:PorteousThomasG.jpg|70px]]
+| style="white-space: nowrap;" | [[Thomas Porteous]]
+| Judge <span style="white-space: nowrap;">([[United States District Court for the Eastern District of Louisiana|Eastern District of Louisiana]])</span>
+| Making false financial disclosures, corruption. 
+| Convicted; removed and disqualified on December 8, 2010<ref name=SenateGovListOfTrials /><ref name=FedJudicialCtrList /><ref name=nolaremoved>{{cite news |last1=Alpert |first1=Bruce |last2=Tilove |first2=Jonathan |title=Senate votes to remove Judge Thomas Porteous from office |work=New Orleans Times-Picayune |date=December 8, 2010 |url=http://www.nola.com/crime/index.ssf/2010/12/senate_votes_to_remove_judge_t.html |access-date=December 8, 2010 |archive-url=https://web.archive.org/web/20101211010329/http://www.nola.com/crime/index.ssf/2010/12/senate_votes_to_remove_judge_t.html |archive-date=December 11, 2010 |url-status=live }}</ref><ref name=nolaimpeached>{{cite web |last=Alpert |first=Bruce |title=Judge Thomas Porteous impeached by U.S. House of Representatives |work=New Orleans Times-Picayune |date=March 11, 2010 |url=http://www.nola.com/crime/index.ssf/2010/03/judge_thomas_porteous_impeache.html |access-date=March 11, 2010 |archive-url=https://web.archive.org/web/20100419072017/http://www.nola.com/crime/index.ssf/2010/03/judge_thomas_porteous_impeache.html |archive-date=April 19, 2010 |url-status=live }}</ref>
+|-style="background:#afdcfc"
+| 20
+| data-sort-value="December 18, 2019"| December 18, 2019
+| [[File:Donald Trump official portrait.jpg|70px]]
+| style="white-space: nowrap;" | [[Donald Trump]]
+| [[President of the United States]]
+| [[Impeachment of Donald Trump|Abuse of power and obstruction of Congress]]
+| [[Impeachment trial of Donald Trump#Verdict|Acquitted on February 5, 2020]]: 48–52 on abuse of power and 47–53 on obstruction of Congress
+|-
+|}
+
+==Other impeachment attempts==
+There were unsuccessful attempts to initiate impeachment proceedings against [[John Tyler#Impeachment attempt|John Tyler]] (impeachment defeated in the House, 83–127),<ref>{{cite news |title=Long Before Trump, Impeachment Loomed Over Multiple Presidents |first=Peter |last=Baker |date=November 30, 2019 |newspaper=[[New York Times]] |url=https://www.nytimes.com/2019/11/30/us/politics/impeachment-presidents.html |access-date=December 3, 2019 |archive-url=https://web.archive.org/web/20191203161014/https://www.nytimes.com/2019/11/30/us/politics/impeachment-presidents.html |archive-date=December 3, 2019 |url-status=live }}</ref> [[Efforts to impeach George W. Bush|George W. Bush]], and [[Efforts to impeach Barack Obama|Barack Obama]].
+
+One notable impeachment attempt that never reached the point of House resolution was an attempt to impeach Associate Justice [[William O. Douglas]] by then-House Minority Leader [[Gerald R. Ford]]. The Legislative Reference Service of the Library of Congress prepared a report as part of Ford's vetting for confirmation as Vice President in 1973.<ref name=FordRoleImpeachmentDouglas />
+
+== Impeachment in the states ==
+State legislatures can impeach state officials, including governors, in every state except Oregon. The court for the trial of impeachments may differ somewhat from the federal model—in New York, for instance, the Assembly (lower house) impeaches, and the State Senate tries the case, but the members of the seven-judge New York State Court of Appeals (the state's highest, constitutional court) sit with the senators as jurors as well.<ref>New York State Constitution, Article VI, §&nbsp;24</ref> Impeachment and removal of governors has happened occasionally throughout the history of the United States, usually for corruption charges. A total of at least eleven U.S. state governors have faced an impeachment trial; a twelfth, [[Governor of Oklahoma|Governor]] [[Lee Cruce]] of [[Oklahoma]], escaped impeachment conviction by a single vote in 1912. Several others, most recently [[Missouri]]'s [[Eric Greitens]], have resigned rather than face impeachment, when events seemed to make it inevitable.<ref name=Greitens>{{cite news|last1=Suntrup|first1=Jack|first2=Kurt|last2=Erickson|title=Embattled Gov. Eric Greitens resigns|url=http://www.stltoday.com/news/local/crime-and-courts/judge-greitens-team-must-turn-over-documents-from-his-dark/article_b3674fa9-5972-529e-b0a2-4c6ca010dc42.html|publisher=St. Louis Post-Dispatch|access-date=September 2, 2018|archive-url=https://web.archive.org/web/20180602191857/http://www.stltoday.com/news/local/crime-and-courts/judge-greitens-team-must-turn-over-documents-from-his-dark/article_b3674fa9-5972-529e-b0a2-4c6ca010dc42.html|archive-date=June 2, 2018|url-status=live}}</ref> The most recent impeachment of a state governor occurred on January 14, 2009, when the [[Illinois House of Representatives]] voted 117–1 to impeach [[Rod Blagojevich]] on [[Rod Blagojevich corruption charges|corruption charges]];<ref name="TribuneBlagojevichImpeach">{{cite news|url=http://newsblogs.chicagotribune.com/clout_st/2009/01/blagojevich-ove.html|title=House votes to impeach Blagojevich again|date=January 14, 2009|work=[[Chicago Tribune]]|access-date=January 14, 2009|archive-url=https://web.archive.org/web/20090119214603/http://newsblogs.chicagotribune.com/clout_st/2009/01/blagojevich-ove.html|archive-date=January 19, 2009|url-status=live}}</ref> he was subsequently removed from office and barred from holding future office by the [[Illinois Senate]] on January 29. He was the eighth U.S. state governor to be removed from office.
+
+The procedure for impeachment, or removal, of local officials varies widely. For instance, in New York a mayor is removed directly by the governor "upon being heard" on charges—the law makes no further specification of what charges are necessary or what the governor must find in order to remove a mayor.
+
+In 2018, the entire [[Supreme Court of Appeals of West Virginia]] was [[Impeachment of the Supreme Court of Appeals of West Virginia, 2018|impeached]], something that has been often threatened, but had never happened before.
+
+=== State and territorial officials impeached ===
+{| class="wikitable"
+|-
+! Date
+! colspan=2 | Accused
+! Office
+! Result
+|-
+| style="white-space: nowrap;" | 1804
+| [[File:William W. Irvin.jpg|70px]]
+| style="white-space: nowrap;" | [[William W. Irvin]]
+| [[Associate Justice|Associate Judge]], <span style="white-space: nowrap;">[[Fairfield County, Ohio]],</span> <span style="white-space: nowrap;">[[Ohio Courts of Common Pleas|Court of Common Pleas]]</span>
+| Removed
+|-
+| style="white-space: nowrap;" | 1832
+| [[File:Theophilus W. Smith.jpg|70px]]
+| style="white-space: nowrap;" | [[Theophilus W. Smith]]
+| [[Associate Justice]], <span style="white-space: nowrap;">[[Supreme Court of Illinois|Illinois Supreme Court]]</span>
+| Acquitted<ref name="HEI">{{cite book |last1=Bateman |first1=Newton |first2=Paul |last2=Selby |first3=Frances M. |last3=Shonkwiler |first4=Henry L. |last4=Fowkes |title=Historical Encyclopedia of Illinois |url=https://archive.org/details/historicalencycl07bate |publisher=Munsell Publishing Company |year=1908 |location=Chicago, IL |page=[https://archive.org/details/historicalencycl07bate/page/489 489] |access-date=November 12, 2019 |archive-url=https://web.archive.org/web/20161122215955/https://archive.org/details/historicalencycl07bate |archive-date=November 22, 2016 |url-status=live }}</ref>
+|-
+| rowspan="3" style="white-space: nowrap;" | February 26, 1862
+| [[File:CRobinson.jpg|70px]]
+| style="white-space: nowrap;" | [[Charles L. Robinson]]
+| [[Governor of Kansas]]
+| Acquitted<ref name="ref1">{{cite web |url=http://www.cga.ct.gov/2004/rpt/2004-R-0184.htm |title=Impeachment of State Officials |publisher=Cga.ct.gov |access-date=September 6, 2008 |archive-url=https://web.archive.org/web/20080706172612/http://www.cga.ct.gov/2004/rpt/2004-R-0184.htm |archive-date=July 6, 2008 |url-status=live }}</ref>
+|-
+|
+| style="white-space: nowrap;" | [[Secretary of State of Kansas#State Secretaries of State|John Winter Robinson]]
+| [[Secretary of State of Kansas]]
+| Removed on June 12, 1862<ref name=Cyclopedia>{{cite book |last=Blackmar |first=Frank |title=Kansas: A Cyclopedia of State History |publisher=Standard Publishing Co. |year=1912 |page=598 |url={{Google books|Qi9cXyTWt9EC|page=|keywords=|text=|plainurl=yes}} }}</ref>
+|-
+|
+| style="white-space: nowrap;" | George S. Hillyer
+| [[State auditor]] of [[Kansas]]
+| Removed on June 16, 1862<ref name=Cyclopedia />
+|-
+| style="white-space: nowrap;" | 1871
+| [[File:NCG-WilliamHolden.jpg|70px]]
+| style="white-space: nowrap;" | [[William Woods Holden]]
+| [[Governor of North Carolina]]
+| Removed
+|-
+| style="white-space: nowrap;" | 1871
+| [[File:Hon. David Butler. Governor Nebraska - NARA - 528665.jpg|70px]]
+| style="white-space: nowrap;" | [[David Butler (Nebraska governor)|David Butler]]
+| [[Governor of Nebraska]]
+| Removed<ref name="ref1" />
+|-
+| style="white-space: nowrap;" | February 1872
+| [[File:Governor Harrison Reed of Florida.jpg|70px]]
+| style="white-space: nowrap;" | [[Harrison Reed (politician)|Harrison Reed]]
+| [[Governor of Florida]]
+| Acquitted<ref>{{cite web|url=https://www.floridamemory.com/exhibits/floridahighlights/governorharrison/ |title=Letters Relating to the Efforts to Impeach Governor Harrison Reed During the Reconstruction Era |publisher=floridamemory.com |access-date=November 4, 2016 |archive-url=https://web.archive.org/web/20160529065717/https://www.floridamemory.com/exhibits/floridahighlights/governorharrison/ |archive-date=May 29, 2016}}</ref>
+|-
+| style="white-space: nowrap;" | March 1872
+| [[File:Thirty years of New York politics up-to-date (1889) (14592180978).jpg|70px]]
+| style="white-space: nowrap;" | [[George G. Barnard]]
+| [[New York Supreme Court|New York Supreme Court (1st District)]]
+| Removed
+|-
+| style="white-space: nowrap;" | 1872
+| [[File:H C Warmoth 1870s W Kurtz.jpg|70px]]
+| style="white-space: nowrap;" | [[Henry C. Warmoth]]
+| [[Governor of Louisiana]]
+| "Suspended from office", though trial was not held<ref>{{cite web|url=http://enlou.com/people/warmothhc-bio.htm |title=State Governors of Louisiana: Henry Clay Warmoth |publisher=Enlou.com |access-date=September 6, 2008 |archive-url=https://web.archive.org/web/20080406164426/http://enlou.com/people/warmothhc-bio.htm |archive-date=April 6, 2008}}</ref>
+|-
+| style="white-space: nowrap;" | 1876
+| [[File:Gen. Adelbert Ames - NARA - 527085.jpg|70px]]
+| style="white-space: nowrap;" | [[Adelbert Ames]]
+| [[Governor of Mississippi]]
+| Resigned<ref name="ref1" />
+|-
+| style="white-space: nowrap;" | 1888
+| [[File:Honest Dick Tate.png|70px]]
+| style="white-space: nowrap;" | [[James "Honest Dick" Tate|James W. Tate]]
+| [[Kentucky State Treasurer]]
+| Removed
+|-
+| rowspan="2" style="white-space: nowrap;" | 1901
+| 
+| style="white-space: nowrap;" | [[David M. Furches]]
+| [[Chief Justice]], <span style="white-space: nowrap;">[[North Carolina Supreme Court]]</span>
+| Acquitted<ref name=christensen>[http://www.newsobserver.com/news/politics-government/politics-columns-blogs/rob-christensen/article159238904.html News & Observer: NC's dark impeachment history] {{Webarchive|url=https://web.archive.org/web/20170721095910/http://www.newsobserver.com/news/politics-government/politics-columns-blogs/rob-christensen/article159238904.html |date=July 21, 2017 }} by [[Rob Christensen]]</ref>
+|-
+| 
+| style="white-space: nowrap;" | [[Robert M. Douglas]]
+| [[Associate Justice]], <span style="white-space: nowrap;">[[North Carolina Supreme Court]]</span>
+| Acquitted<ref name=christensen />
+|-
+| style="white-space: nowrap;" | August 13, 1913<ref>"Sulzer Impeached by Assembly But Refuses to Surrender Office", ''Syracuse Herald'', August 13, 1913, p. 1</ref>
+| [[File:William Sulzer NY.jpg|70px]]
+| style="white-space: nowrap;" | [[William Sulzer]]
+| [[List of Governors of New York|Governor of New York]]
+| Removed on October 17, 1913<ref>"High Court Removes Sulzer from Office by a Vote of 43 to 12", ''Syracuse Herald'', October 17, 1913, p. 1</ref>
+|-
+| style="white-space: nowrap;" | July 1917
+| [[File:James E. Ferguson.jpg|70px]]
+| style="white-space: nowrap;" | [[James E. Ferguson]]
+| [[List of Governors of Texas|Governor of Texas]]
+|Removed<ref>{{cite web |url=http://txtell.lib.utexas.edu/stories/p0002-full.html |title=Permanent University Fund: Investing in the Future of Texas |year=2000 |access-date=February 14, 2009 |publisher=TxTell (University of Texas at Austin) |last=Block |first=Lourenda |archive-url=https://web.archive.org/web/20090204030641/http://txtell.lib.utexas.edu/stories/p0002-full.html |archive-date=February 4, 2009 |url-status=dead}}</ref>
+|-
+| style="white-space: nowrap;" | October 23, 1923
+| [[File:Jack Walton.jpg|70px]]
+| style="white-space: nowrap;" | [[John C. Walton]]
+| [[Governor of Oklahoma]]
+| Removed
+|-
+| style="white-space: nowrap;" | January 21, 1929
+| 
+| style="white-space: nowrap;" | [[Henry S. Johnston]]
+| [[Governor of Oklahoma]]
+| Removed
+|-
+| style="white-space: nowrap;" | April 6, 1929<ref>''Official Journal of the House of Representatives of the State of Louisiana'', April 6, 1929 pp. 292–94</ref>
+| [[File:HueyPLongGesture.jpg|70px]]
+| style="white-space: nowrap;" | [[Huey P. Long]]
+| [[Governor of Louisiana]]
+| Acquitted
+|-
+| style="white-space: nowrap;" | June 13, 1941
+|
+| style="white-space: nowrap;" | [[Daniel H. Coakley]]
+| [[Massachusetts Governor's Council]]or
+| Removed on October 2, 1941
+|-
+| style="white-space: nowrap;" | May 1958<ref name=schoolfielddied>{{cite web |title=Raulston Schoolfield, Impeached Judge, Dies |publisher=UPI |date=October 8, 1982 |url=https://www.nytimes.com/1982/10/08/obituaries/raulston-schoolfield-impeached-judge-dies.html |access-date=January 27, 2016 |archive-url=https://web.archive.org/web/20160204004841/http://www.nytimes.com/1982/10/08/obituaries/raulston-schoolfield-impeached-judge-dies.html |archive-date=February 4, 2016 |url-status=live }}</ref>
+| 
+| style="white-space: nowrap;" | [[Raulston Schoolfield]]
+| Judge, <span style="white-space: nowrap;">[[Hamilton County, Tennessee]]</span> <span style="white-space: nowrap;">[[Courts of Tennessee|Criminal Court]]</span>
+| Removed on July 11, 1958<ref name=schoolfieldremoved>{{cite web |title=Impeachment Trial Finds Judge Guilty |publisher=AP |date=July 11, 1958 |url=http://archives.chicagotribune.com/1958/07/12/page/8/article/impeachment-trial-finds-judge-guilty |access-date=January 27, 2016 |archive-url=https://web.archive.org/web/20161026215532/http://archives.chicagotribune.com/1958/07/12/page/8/article/impeachment-trial-finds-judge-guilty/ |archive-date=October 26, 2016 |url-status=live }}</ref>
+|-
+| style="white-space: nowrap;" | March 14, 1984<ref name=neagimpeached>{{cite web |title=Attorney General is Impeached |publisher=AP |date=March 14, 1984 |url=https://news.google.com/newspapers?id=qiQzAAAAIBAJ&pg=4704,8113616 |access-date=October 11, 2012 |archive-url=https://web.archive.org/web/20160506171208/https://news.google.com/newspapers?id=qiQzAAAAIBAJ&sjid=EQYEAAAAIBAJ&pg=4704,8113616 |archive-date=May 6, 2016 |url-status=live }}</ref>
+|
+| style="white-space: nowrap;" | [[Paul L. Douglas]]
+| [[Nebraska Attorney General]]
+| Acquitted by the [[Nebraska Supreme Court]] on May 4, 1984<ref name=neacquitted>{{cite web |title=Nebraskan Found Not Guilty |publisher=AP |date=May 4, 1984 |url=https://news.google.com/newspapers?id=QGgaAAAAIBAJ&pg=6976%2C3317653 |access-date=October 11, 2012 |archive-url=https://web.archive.org/web/20160513045224/https://news.google.com/newspapers?id=QGgaAAAAIBAJ&sjid=KyoEAAAAIBAJ&pg=6976,3317653 |archive-date=May 13, 2016 |url-status=live }}</ref>
+|-
+| style="white-space: nowrap;" | February 6, 1988<ref name=azimpeach>{{cite news |last=Gruson |first=Lindsey |title=House Impeaches Arizona Governor |work=The New York Times |date=February 6, 1988 |url=https://www.nytimes.com/1988/02/06/us/house-impeaches-arizona-governor.html |access-date=July 2, 2009 |archive-url=https://web.archive.org/web/20141106070753/http://www.nytimes.com/1988/02/06/us/house-impeaches-arizona-governor.html |archive-date=November 6, 2014 |url-status=live }}</ref>
+|
+| style="white-space: nowrap;" | [[Evan Mecham]]
+| [[List of Governors of Arizona|Governor of Arizona]]
+| Removed on April 4, 1988<ref name=azremoved>{{cite news |last=Gruson |first=Lindsey |title=Arizona's Senate Ousts Governor, Voting Him Guilty of Misconduct |work=The New York Times |date=April 5, 1988 |url=https://www.nytimes.com/1988/04/05/us/arizona-s-senate-ousts-governor-voting-him-guilty-of-misconduct.html |access-date=July 22, 2009 |archive-url=https://web.archive.org/web/20141106070208/http://www.nytimes.com/1988/04/05/us/arizona-s-senate-ousts-governor-voting-him-guilty-of-misconduct.html |archive-date=November 6, 2014 |url-status=live }}</ref>
+|-
+| style="white-space: nowrap;" | March 30, 1989<ref name=wvimpeached>{{cite news |author=AP staff reporter |title=Impeachment in West Virginia |work=The New York Times |date=March 30, 1989 |url=https://www.nytimes.com/1989/03/30/us/impeachment-in-west-virginia.html |access-date=October 17, 2009 |archive-url=https://web.archive.org/web/20141106073424/http://www.nytimes.com/1989/03/30/us/impeachment-in-west-virginia.html |archive-date=November 6, 2014 |url-status=live }}</ref>
+|
+| style="white-space: nowrap;" | [[A. James Manchin]]
+| [[State treasurer]] of [[West Virginia]]
+| Resigned<!-- or Retired --> on July 9, 1989, before trial started<ref name=wvresigned>{{cite news |last=Wallace |first=Anise C. |title=Treasurer of West Virginia Retires Over Fund's Losses |work=The New York Times |date=July 10, 1989 |url=https://www.nytimes.com/1989/07/10/business/treasurer-of-west-virginia-retires-over-fund-s-losses.html |access-date=October 17, 2009 |archive-url=https://web.archive.org/web/20141106074307/http://www.nytimes.com/1989/07/10/business/treasurer-of-west-virginia-retires-over-fund-s-losses.html |archive-date=November 6, 2014 |url-status=live }}</ref><!-- The source uses the adjectives retired and resigned to describe Manchin's actions. Which one is correct? -->
+|-
+| style="white-space: nowrap;" | January 25, 1991<ref name=kyimpeachment>{{cite news |title=Kentucky House Votes To Impeach Jailed Official |work=Orlando Sentinel |date=January 26, 1991 |url=http://articles.orlandosentinel.com/1991-01-26/news/9101260975_1_votes-to-impeach-burnette-secretary |access-date=November 16, 2015 |quote=The House voted unanimously Friday to impeach the agriculture commissioner six days after he began serving a one-year sentence for a payroll violation. |archive-url=https://web.archive.org/web/20151117121501/http://articles.orlandosentinel.com/1991-01-26/news/9101260975_1_votes-to-impeach-burnette-secretary |archive-date=November 17, 2015 |url-status=live }}</ref>
+|
+| style="white-space: nowrap;" | [[Ward "Butch" Burnette]]
+| [[Kentucky]] Commissioner of Agriculture
+| Resigned on February 6, 1991, before trial started<ref name=kyresigned>{{cite news |title=Jailed Official Resigns Before Impeachment Trial |work=Orlando Sentinel |date=February 7, 1991 |url=http://articles.orlandosentinel.com/1991-02-07/news/9102070797_1_impeachment-trial-burnette-resigns |access-date=November 16, 2015 |quote=Kentucky's commissioner of agriculture, serving a one-year jail sentence for felony theft, resigned Wednesday hours before his impeachment trial was scheduled to begin in the state Senate. |archive-url=https://web.archive.org/web/20151117114314/http://articles.orlandosentinel.com/1991-02-07/news/9102070797_1_impeachment-trial-burnette-resigns |archive-date=November 17, 2015 |url-status=live }}</ref>
+|-
+| style="white-space: nowrap;" | May 24, 1994<ref name=paimpeached>{{cite news |last=Hinds |first=Michael deCourcy |title=Pennsylvania House Votes To Impeach a State Justice |work=The New York Times |date=May 25, 1994 |url=https://www.nytimes.com/1994/05/25/us/pennsylvania-house-votes-to-impeach-a-state-justice.html |access-date=January 24, 2010 |quote=A State Supreme Court justice convicted on drug charges was impeached today by the Pennsylvania House of Representatives. |archive-url=https://web.archive.org/web/20141106074928/http://www.nytimes.com/1994/05/25/us/pennsylvania-house-votes-to-impeach-a-state-justice.html |archive-date=November 6, 2014 |url-status=live }}</ref>
+|
+| style="white-space: nowrap;" | [[Rolf Larsen]]
+|[[Associate Justice]], <span style="white-space: nowrap;">[[Supreme Court of Pennsylvania|Pennsylvania Supreme Court]]</span>
+|Removed on October 4, 1994, and declared ineligible to hold public office in Pennsylvania<ref name="paremoved">{{cite news|author=Moushey, Bill|author2=Tim Reeves|url=https://news.google.com/newspapers?id=gbcxAAAAIBAJ&pg=6214%2C3298929|title=Larsen Removed Senate Convicts Judge On 1 Charge|page=A1|date=October 5, 1994|newspaper=Pittsburgh Post-Gazette|location=Pittsburgh, PA|access-date=September 14, 2013|quote=Rolf Larsen yesterday became the first justice of the Pennsylvania Supreme Court to be removed from office through impeachment. The state Senate, after six hours of debate, found Larsen guilty of one of seven articles of impeachment at about 8:25 p.m, then unanimously voted to remove him permanently from office and bar him from ever seeking an elected position again.|archive-url=https://web.archive.org/web/20160519104600/https://news.google.com/newspapers?id=gbcxAAAAIBAJ&sjid=cW8DAAAAIBAJ&pg=6214,3298929|archive-date=May 19, 2016|url-status=live}}</ref>
+|-
+| style="white-space: nowrap;" | October 6, 1994<ref name="moimpeach">{{cite news |last=Young |first=Virginia |url=https://www.questia.com/library/1P2-32898809/moriarty-is-impeached-secretary-of-state-will-fight |title=Moriarty Is Impeached – Secretary Of State Will Fight Removal |page=1A |date=October 7, 1994 |newspaper=St. Louis Post-Dispatch |location=St. Louis, MO |access-date=September 14, 2013 |quote=The House voted overwhelmingly Thursday to impeach Secretary of State Judith K. Moriarty for misconduct that 'breached the public trust'. The move, the first impeachment in Missouri in 26 years, came at 4:25 p.m. in a hushed House chamber.}}</ref>
+|
+| style="white-space: nowrap;" | [[Judith Moriarty]]
+| [[Secretary of State of Missouri]]
+| Removed by the [[Missouri Supreme Court]] on December 12, 1994<ref name="moremoved">{{cite news |last1=Young |first1=Virginia |first2=Kim |last2=Bell |url=https://www.questia.com/library/1P2-32910092/high-court-ousts-moriarty |title=High Court Ousts Moriarty |page=1A |date=December 13, 1994 |newspaper=St. Louis Post-Dispatch |location = St. Louis, MO |access-date=September 14, 2013 |quote=In a unanimous opinion Monday, the Missouri Supreme Court convicted Secretary of State Judith K. Moriarty of misconduct and removed her from office.}}</ref>
+|-
+| style="white-space: nowrap;" | November 11, 2004<ref name=nvimpeached>{{cite web |last=Vogel |first=Ed |title=Augustine impeached |work=Review-Journal |date=November 12, 2004 |url=http://www.reviewjournal.com/lvrj_home/2004/Nov-12-Fri-2004/news/25242898.html |access-date=July 2, 2009 |archive-url=https://web.archive.org/web/20041113103635/http://www.reviewjournal.com/lvrj_home/2004/Nov-12-Fri-2004/news/25242898.html |archive-date=November 13, 2004 |url-status=live }}</ref>
+|
+| style="white-space: nowrap;" | [[Kathy Augustine]]
+| [[Nevada State Controller]]
+| Censured on December 4, 2004, not removed from office<ref name=nvcensured>{{cite web |last=Whaley |first=Sean |title=Senate lets controller keep job |work=Review-Journal |date=December 5, 2004 |url=http://www.reviewjournal.com/lvrj_home/2004/Dec-05-Sun-2004/news/25411108.html |access-date=July 2, 2009 |archive-url=https://web.archive.org/web/20100305115922/http://www.reviewjournal.com/lvrj_home/2004/Dec-05-Sun-2004/news/25411108.html |archive-date=March 5, 2010 |url-status=live }}</ref>
+|-
+| style="white-space: nowrap;" | April 11, 2006<ref name=neimpeached>{{cite web |last=Jenkins |first=Nate |title=Hergert impeached |work=Lincoln Journal Star |date=April 11, 2006 |url=http://journalstar.com/news/article_e2369c65-3298-5d66-9127-73a180477833.html |access-date=October 11, 2012 |quote=With the last vote and by the slimmest of margins, the Legislature did to University of Nebraska Regent David Hergert Wednesday what it hadn't done in 22 years—move to unseat an elected official. |archive-url=https://web.archive.org/web/20171107015804/http://journalstar.com/news/article_e2369c65-3298-5d66-9127-73a180477833.html |archive-date=November 7, 2017 |url-status=live }}</ref>
+|
+| style="white-space: nowrap;" | [[David Hergert]]
+| Member of the <span style="white-space: nowrap;">[[University of Nebraska]]</span> <span style="white-space: nowrap;">[[Board of Regents]]</span>
+| Removed by the Nebraska Supreme Court on July 7, 2006<ref name=neremoved>{{cite web |title = Hergert Convicted |work=WOWT-TV |date=August 8, 2006 |url = http://www.wowt.com/news/headlines/3293746.html |access-date=October 11, 2012 |quote = University of Nebraska Regent David Hergert was convicted Friday of manipulating campaign-finance laws during his 2004 campaign and then lying to cover it up. The state Supreme Court ruling immediately removed Hergert, 66, from office. |archive-url = https://web.archive.org/web/20130115040338/http://www.wowt.com/news/headlines/3293746.html |archive-date=January 15, 2013 |url-status=dead}}</ref>
+|-
+| style="white-space: nowrap;" | January 8, 2009<br>{{small|(first vote)}}<ref name=blagoimpeach>{{cite web |author = Staff reporter |title = Illinois House impeaches Gov. Rod Blagojevich |publisher = AP |date = January 9, 2009 |url = http://www.nbcnews.com/id/28539642 |access-date = July 2, 2009 |archive-url = https://web.archive.org/web/20141106115742/http://www.nbcnews.com/id/28539642/ |archive-date = November 6, 2014 |url-status = live }}</ref>
+| rowspan="2"| [[File:Rod Blagojevich (2911120436) (cropped).jpg|70px]]
+| rowspan="2" style="white-space: nowrap;" | [[Rod Blagojevich]]
+| rowspan="2"| [[List of Governors of Illinois|Governor of Illinois]]
+| 95th General Assembly ended
+|-
+| style="white-space: nowrap;" | January 14, 2009<br>{{small|(second vote)}}<ref name=blagoimpeachagain>{{cite web |last1 = Mckinney |first1 = Dave |first2 = Jordan |last2 = Wilson |title = Illinois House impeaches Gov. Rod Blagojevich |work = Chicago Sun-Times |date=January 14, 2009 |url = http://www.suntimes.com/news/metro/blagojevich/1377870,house-votes-impeach-blagojevich-011409.article |access-date=July 2, 2009 |archive-url = https://web.archive.org/web/20090201065307/http://www.suntimes.com/news/metro/blagojevich/1377870,house-votes-impeach-blagojevich-011409.article |archive-date=February 1, 2009 |url-status=dead}}</ref>
+| [[Rod Blagojevich corruption charges|Removed]] on January 29, 2009, and declared ineligible to hold public office in Illinois<ref name="latimes">{{cite news|author=Long, Ray|author2=Rick Pearson|title=Blagojevich is removed from office|work=Los Angeles Times|date=January 30, 2009|url=http://articles.latimes.com/2009/jan/30/nation/na-blagojevich30|access-date=June 21, 2009|archive-url=https://web.archive.org/web/20100301193317/http://articles.latimes.com/2009/jan/30/nation/na-blagojevich30|archive-date=March 1, 2010|url-status=live}}</ref>
+|-
+| style="white-space: nowrap;" | February 11, 2013<ref name=fitialimpeach>{{cite web |first=Haidee V. |last=Eugenio |title=CNMI governor impeached on 13 charges |work = Saipan Tribune |date=January 9, 2009 |url = http://www.rnzi.com/pages/news.php?op=read&id=73952 |access-date=September 14, 2013}}</ref>
+| [[File:Benigno Fitial 2009.jpg|70px]]
+| style="white-space: nowrap;" | [[Benigno Fitial]]
+| [[List of Governors of the Northern Mariana Islands|Governor of the <span style="white-space: nowrap;">Northern Mariana Islands</span>]]
+| Resigned on February 20, 2013
+|-
+|rowspan="4" style="white-space: nowrap;" | August 13, 2018<ref name="AP NEWS 2018">{{cite web | title=The Latest: All 4 West Virginia justices impeached | website=AP NEWS | date=Aug 14, 2018 | url=https://apnews.com/a0bee07747e54c50996efa2028893a42 | access-date=Oct 6, 2019 | archive-url=https://web.archive.org/web/20191006234857/https://apnews.com/a0bee07747e54c50996efa2028893a42 | archive-date=October 6, 2019 | url-status=live }}</ref>
+|
+| style="white-space: nowrap;" | [[Robin Davis]]
+| rowspan=3 | Associate Justices, <span style="white-space: nowrap;">[[Supreme Court of Appeals of West Virginia]]</span>
+| Retired on August 13, 2018.<ref name=davis>{{cite web |url=http://www.herald-dispatch.com/_recent_news/wv-supreme-court-justice-robin-davis-retires-after-her-impeachment/article_59ee0dda-9fcd-11e8-b87d-fbe66d83526f.html |title=WV Supreme Court Justice Robin Davis retires after her impeachment |publisher=Associated Press |work=Herald-Dispatch |date=August 14, 2018 |access-date=August 14, 2018 |archive-url=https://web.archive.org/web/20180814165033/http://www.herald-dispatch.com/_recent_news/wv-supreme-court-justice-robin-davis-retires-after-her-impeachment/article_59ee0dda-9fcd-11e8-b87d-fbe66d83526f.html |archive-date=August 14, 2018 |url-status=live }}</ref> Despite her retirement, the [[West Virginia Senate]] refused to dismiss the articles of impeachment and scheduled trial for October 29, 2018 although the trial is currently{{when?|date=January 2020}} delayed by court order.<ref name="newsandsentinel.com">{{Cite web|url=http://www.newsandsentinel.com/news/local-news/2018/10/effort-to-remove-convicted-justice-loughry-from-office-continues/|title=Effort to remove convicted Justice Loughry from office continues|access-date=October 29, 2018|archive-url=https://web.archive.org/web/20181029113532/http://www.newsandsentinel.com/news/local-news/2018/10/effort-to-remove-convicted-justice-loughry-from-office-continues/|archive-date=October 29, 2018|url-status=live}}</ref>
+|-
+|
+| style="white-space: nowrap;" | [[Allen Loughry]]
+| Resigned on November 12, 2018.<ref name="APResigns">{{Cite news|url=https://apnews.com/ff9b98f1681a400fb636bea646484cf2|title=The Latest: W.Va. lawmakers won't meet after justice resigns|date=November 11, 2018|work=[[Associated Press]]|access-date=February 10, 2019|archive-url=https://web.archive.org/web/20190331040344/https://apnews.com/ff9b98f1681a400fb636bea646484cf2|archive-date=March 31, 2019|url-status=live}}</ref><ref name="Governing">{{Cite web|url=http://www.governing.com/topics/public-justice-safety/Facing-Possible-Impeachment-West-Virginia-Supreme-Court-Justice-Resigns.html|title=Facing Possible Impeachment, West Virginia Supreme Court Justice Resigns|last=Allen Adams|first=Steven|date=November 12, 2018|website=[[Governing (magazine)|Governing]]|access-date=February 10, 2019|archive-url=https://web.archive.org/web/20190220112351/http://www.governing.com/topics/public-justice-safety/Facing-Possible-Impeachment-West-Virginia-Supreme-Court-Justice-Resigns.html|archive-date=February 20, 2019|url-status=live}}</ref> Possible trial before the [[West Virginia Senate]] delayed by court order.<ref name="newsandsentinel.com"/>
+|-
+|
+| style="white-space: nowrap;" | [[Beth Walker (judge)|Beth Walker]]
+| Reprimanded and censured on October 2, 2018, not removed from office.<ref>{{Cite web|url=https://www.wsaz.com/content/news/Justice-Walker-says-she-wants-to-go-ahead-with-impeachment-trial-494544891.html|title=Senators reprimand Justice Walker, but vote to not impeach|last=MetroNews|first=WSAZ News Staff, WV|website=www.wsaz.com|language=en|access-date=March 1, 2019|archive-url=https://web.archive.org/web/20190331005912/https://www.wsaz.com/content/news/Justice-Walker-says-she-wants-to-go-ahead-with-impeachment-trial-494544891.html|archive-date=March 31, 2019|url-status=live}}</ref>
+|-
+|
+| style="white-space: nowrap;" | [[Margaret Workman]]
+| Chief Justice, <span style="white-space: nowrap;">[[Supreme Court of Appeals of West Virginia]]</span>
+| Trial before the [[West Virginia Senate]] delayed by court order after originally being scheduled for October 15, 2018.<ref>{{Cite web|url=https://www.wvgazettemail.com/news/politics/with-workman-impeachment-trial-blocked-senate-debates-next-move/article_5ba57c73-ca21-57a1-aa95-44e653f7294a.html|title=With Workman impeachment trial blocked, Senate debates next move|last=writer|first=Phil Kabler Staff|website=Charleston Gazette-Mail|language=en|access-date=March 1, 2019|archive-url=https://web.archive.org/web/20190121233340/https://www.wvgazettemail.com/news/politics/with-workman-impeachment-trial-blocked-senate-debates-next-move/article_5ba57c73-ca21-57a1-aa95-44e653f7294a.html|archive-date=January 21, 2019|url-status=live}}</ref><ref>{{Cite web|url=http://wchstv.com/news/local/west-virginia-supreme-court-halts-impeachment-trial-for-justice-workman|title=West Virginia Supreme Court halts impeachment trial for Justice Workman|last=MORRIS|first=JEFF|date=October 11, 2018|website=WCHS|access-date=March 1, 2019|archive-url=https://web.archive.org/web/20190331193237/https://wchstv.com/news/local/west-virginia-supreme-court-halts-impeachment-trial-for-justice-workman|archive-date=March 31, 2019|url-status=live}}</ref>
+
+|-
+| style="white-space: nowrap;" | July 24, 2019<ref name=fitialimpeach2>{{cite web |url=https://www.elnuevodia.com/noticias/locales/nota/mendezlenotificoarosselloqueelprocesoderesidenciamientohabiainiciado-2507713/ |title=Méndez le notificó a Rosselló que el proceso de residenciamiento había iniciado |access-date=October 15, 2019 |archive-url=https://web.archive.org/web/20191004152430/https://www.elnuevodia.com/noticias/locales/nota/mendezlenotificoarosselloqueelprocesoderesidenciamientohabiainiciado-2507713/ |archive-date=October 4, 2019 |url-status=live }}</ref>
+|
+| style="white-space: nowrap;" | [[Ricardo Rossello]]
+| [[List of Governors of Puerto Rico|Governor of <span style="white-space: nowrap;">Puerto Rico</span>]]
+| Resigned on July 24, 2019; with effect August 2, 2019, immediately stopping impeachment proceedings
+|-
+|}
+
+==== State governors ====
+At least four state governors have been impeached and removed from office:
+* [[James E. Ferguson]], Democratic Governor of Texas, was impeached for misapplication of public funds and embezzlement. In July 1917, Ferguson was convicted and removed from office.
+* [[Jack C. Walton]], [[Democratic Party (United States)|Democratic]] [[Governor of Oklahoma]], was impeached for a variety of crimes including illegal collection of campaign funds, padding the public payroll, suspension of habeas corpus, excessive use of the pardon power, and general incompetence. In November 1923, Walton was convicted and removed from office.<ref>O'Dell, Larry. "[http://digital.library.okstate.edu/encyclopedia/entries/W/WA014.html WALTON, JOHN CALLOWAY (1881–1949)] {{Webarchive|url=https://web.archive.org/web/20141216062212/http://digital.library.okstate.edu/encyclopedia/entries/w/wa014.html |date=December 16, 2014 }}", ''[http://digital.library.okstate.edu/encyclopedia Encyclopedia of Oklahoma History and Culture] {{webarchive|url=https://web.archive.org/web/20090416084151/http://digital.library.okstate.edu/encyclopedia |date=April 16, 2009 }}''. Retrieved July 2, 2013.</ref>
+* [[Evan Mecham]], [[Republican Party (United States)|Republican]] [[Governor of Arizona]], was impeached for obstruction of justice and misusing government funds<ref>{{cite book |last=Watkins |first=Ronald J. |title=High Crimes and Misdemeanors: The Term and Trials of Former Governor Evan Mecham |publisher=William Morrow & Co |location=New York |year=1990 |isbn=978-0-688-09051-7 |url-access=registration |url=https://archive.org/details/highcrimesmisdem0000watk }}</ref> and removed from office in April 1988.
+* [[Rod Blagojevich]], [[Democratic Party (United States)|Democratic]] [[Governor of Illinois]], was impeached for abuse of power and corruption, including an attempt to sell the appointment to the [[United States Senate]] seat vacated by the resignation of [[Barack Obama]].<ref name=IHVtIGB>{{cite news|url=https://www.nytimes.com/2009/01/10/us/politics/10illinois.html|title=Illinois House Impeaches Governor|access-date=April 21, 2009|date=January 9, 2009|work=[[The New York Times]]|author=Saulny, Susan|archive-url=https://web.archive.org/web/20120517005916/http://www.nytimes.com/2009/01/10/us/politics/10illinois.html|archive-date=May 17, 2012|url-status=live}}</ref> He was removed from office in January 2009.
+
+== See also ==
+
+{{col-list|
+* [[Censure in the United States]]
+* [[Presidency of John Tyler#Impeachment proceedings|Impeachment attempt against John Tyler]]
+* [[United States House Select Committee to Investigate Alleged Corruptions in Government|Impeachment investigation against James Buchanan]]
+* [[Impeachment of Andrew Johnson]]
+* [[Harry S. Truman]]—Truman's firing of Gen. Douglas MacArthur led to introduction of two resolutions of impeachment and hearings in the Senate
+* [[Impeachment process against Richard Nixon]]
+* [[Impeachment of Bill Clinton]]
+* [[Efforts to impeach George W. Bush]]
+* [[Efforts to impeach Barack Obama]]
+* [[Impeachment of Donald Trump]]
+* [[Efforts to impeach Donald Trump]]
+* [[Impeachment investigations of United States federal officials]]
+* [[Impeachment investigations of United States federal judges]]
+* [[Jefferson's Manual]]
+* [[List of federal political scandals in the United States]]
+* [[Recall election]]
+|colwidth=25em}}
+
+== Notes ==
+* Stephen B. Presser, ''Essays on Article I: Impeachment''<!-- <ref name=PresserArticleI> -->{{cite web| last=Presser| first=Stephen B.| title=Essays on Article I: Impeachment| url=https://www.heritage.org/constitution/#!/articles/1/essays/11/impeachment| work=The Heritage Guide to the Constitution| publisher=Heritage Foundation| access-date=June 14, 2018}}
+<references group="Note" /> <!--This avoids shrinking the font as {{Reflist}} would do. -->
+
+== References ==
+; Attribution
+{{USGovernment}}
+
+{{reflist}}
+
+== Further reading ==
+*{{Cite book|title=Impeachment: The Constitutional Problems|last=Berger|first=Raoul|author-link=Raoul Berger|publisher=Harvard University Press|year=1999|isbn=9780674444782}}
+*{{Cite book|title=Impeachment: A Handbook|last=Black|first=Charles L.|publisher=Yale University Press|year=1998|isbn=9780300079500}}
+*{{citation|year=2017|title=The Case for Impeachment|first=Allan J.|last=Lichtman|author-link=Allan J. Lichtman|publisher=Dey Street Books|isbn=978-0062696823|title-link=The Case for Impeachment}}
+*{{Cite book|title=Impeachment: A Citizen's Guide|last=Sunstein|first=Cass R.|author-link=Cass Sunstein|publisher=Harvard University Press|year=2017|isbn=9780674983793}}
+
+== External links ==
+{{Commons category|Impeachment in the United States}}
+{{Wikisource|Constitution of the United States of America}}
+* [http://congressionalresearch.com/98-806/document.php An Overview of the Impeachment Process] at congressionalresearch.com
+* [https://crsreports.congress.gov/product/pdf/R/R46013 Congressional Research Service] at congressionalresearch.com
+* [https://constitution.congress.gov/browse/essay/intro_6/ Constitution Annotated - Resources about Impeachment]
+* House Judiciary Committee, [https://archive.org/details/constitutional_grounds_for_presidential_impeachment_-_house_judiciary_comm_staff_report_february_1974 Constitutional Grounds for Presidential Impeachment], February 1974, and [[Politico]] story, [https://www.politico.com/magazine/story/2019/09/16/hillary-clinton-impeachment-memo-trump-228107 September 2019]
+* [https://www.senate.gov/reference/Index/Impeachment.htm U.S. Senate : Impeachment]
+
+{{US Constitution}}
+{{United States Congress|powersprivilegesprocedurecommitteeshistoryandmedia}}
+
+[[Category:Impeachment in the United States| ]]
+[[Category:Clauses of the United States Constitution]]

@@ -1,0 +1,79 @@
+{{Primary sources|date=November 2019}}
+{{Infobox SCOTUS case
+  |Litigants=United States v. Place
+  |ArgueDate=March 2
+  |ArgueYear=1983
+  |DecideDate=June 20
+  |DecideYear=1983
+  |FullName=United States of America v. Raymond J. Place
+  |USVol=462
+  |USPage=696
+  |ParallelCitations=103 S. Ct. 2637; 77 [[L. Ed. 2d]] 110; 1983 [[U.S. LEXIS]] 74; 51 U.S.L.W. 4844
+  |Prior=Defendant's motion to suppress denied, 498 [[F. Supp.]] [https://law.justia.com/cases/federal/district-courts/FSupp/498/1217/1652001/ 1217] ([[E.D.N.Y.]] 1980), rev'd, 660 [[F.2d]] [https://law.justia.com/cases/federal/appellate-courts/F2/660/44/41885/ 44] ([[2d Cir.]] 1981), [[Certiorari|cert]]. granted, {{ussc|457|1104|1982|el=no}}
+  |Subsequent=
+  |Holding=A dog sniff is not a "search" within the meaning of the Fourth Amendment.
+  |Majority=O'Connor
+  |JoinMajority=Burger, White, Powell, Rehnquist, Stevens
+  |Concurrence=Brennan
+  |JoinConcurrence=Marshall
+  |Concurrence2=Blackmun
+  |JoinConcurrence2=Marshall
+  |LawsApplied=[[Fourth Amendment to the United States Constitution|U.S. Const. amend. IV]]
+}}
+'''''United States v. Place''''', 462 U.S. 696 (1983), was a decision by the [[Supreme Court of the United States]] which held that a [[Sniffer dog|sniff]] of luggage in a public place, by a [[police dog]] specially trained to detect the odor of narcotics, was not a "search" under the meaning of the [[Fourth Amendment to the United States Constitution]]. The Court reasoned that the sniff of a dog is ''[[sui generis]]'', intended to disclose only the presence or absence of narcotics. Because a dog sniff is such a limited test, the Court carved out this exception from the broad category of "searches" for which a warrant is generally required.<ref>{{ussc|name=United States v. Place|462|696|1983}}.</ref>
+
+==Background of the case==
+Raymond J. Place first aroused the suspicion of law enforcement officers as he was standing in line at the [[Miami International Airport|Miami airport]] waiting to buy a ticket to New York's [[LaGuardia Airport]]. The officers approached him on his way to the gate and asked him for identification. Place also agreed to let the officers search the luggage he had checked, but they declined to do so in light of the flight's imminent departure. Discrepancies between the two luggage tags on Place's two suitcases further aroused the officers' suspicions, and they confirmed that the addresses were false. The Miami officers alerted [[Drug Enforcement Administration|DEA]] agents at LaGuardia to their suspicions about Place.
+
+The DEA agents waited until Place had retrieved his luggage and called a limousine before approaching him in New York. The DEA agents again asked Place for his identification, which he produced. The agents discovered that Place had no outstanding warrants. They then asked to search Place's luggage, but Place declined to allow the agents to do so. The agents then told Place they were going to take the luggage to a federal judge to obtain a warrant to search the luggage, and that Place was free to accompany them if he chose to. An hour and a half later, the agents had taken Place's bags to [[John F. Kennedy International Airport|Kennedy airport]] and allowed a trained narcotics [[detection dog]] to perform a "sniff" test. The dog detected the presence of narcotics. This was late on a Friday afternoon; the agents retained the luggage over the weekend until Monday, when they obtained a warrant to search the luggage. They discovered over a kilogram of [[cocaine]].
+
+Place was indicted for possession of cocaine with intent to distribute. In the district court, Place moved to suppress the cocaine, arguing that the warrantless seizure of the luggage violated his Fourth Amendment rights.  The district court disagreed, reasoning instead that the police only needed reasonable suspicion to seize Place's bags, which they had.<ref>{{cite court |litigants=United States v. Place |vol=498 |reporter=F. Supp. |opinion=1217 |pinpoint= |court=[[E.D.N.Y.]] |date=1980 |url=https://law.justia.com/cases/federal/district-courts/FSupp/498/1217/1652001/ |accessdate=2018-06-01 |quote=}}</ref> Place pleaded guilty to the possession charge, but reserved the right to appeal the denial of his suppression motion. On appeal, the [[United States Court of Appeals for the Second Circuit|Second Circuit]] reversed, holding that the prolonged seizure of Place's bags violated the principles of ''[[Terry v. Ohio]]'' (1968).<ref>{{cite court |litigants=United States v. Place |vol=660 |reporter=F.2d |opinion=44 |pinpoint= |court=[[2d Cir.]] |date=1981 |url=https://law.justia.com/cases/federal/appellate-courts/F2/660/44/41885/ |accessdate=2018-06-01 |quote=}}</ref> The U.S. Supreme Court then agreed to hear the case.
+
+==Majority opinion==
+The Fourth Amendment protects the interest people have in keeping their persons, houses, papers, and effects free from unreasonable searches and seizures. Though most of the Court's container jurisprudence deals with the search of the container rather than the initial seizure, there existed some general principles. First, the seizure may not take place without a warrant, supported by probable cause, and describing particularly the things to be seized. Second, over time, exceptions to the warrant requirement had evolved, allowing for seizure without probable cause in exigent circumstances not allowing for the time to obtain a warrant.
+
+The Court first had to consider whether, as the lower courts had assumed, the framework of ''Terry v. Ohio'', under which a limited detention of a person can be justified in the face of reasonable suspicion, can apply to the temporary seizure of a person's luggage. Indeed, when government agents have reason to suspect (but not probable cause to believe) that, for instance, a traveler's luggage contains narcotics, it has a substantial interest in confirming or denying that suspicion. In order to dispel that suspicion, the Court reasoned a brief seizure of the luggage could be justified. This brief seizure could not encompass a full-blown "search," just as a ''Terry'' stop may not increase in seriousness to a full-blown arrest, unless probable cause to perform the search arose during the brief detention.
+
+In this case, the whole reason the DEA agents seized Place's luggage was so they could subject it to the dog sniff. The sniff, in turn, would violate Place's Fourth Amendment rights if it constituted a "search." A "search" is an unwarranted intrusion on a person's objectively reasonable expectation of privacy. But the sniff did not require opening the luggage; it did not expose things that are not contraband to public view. The sniff was thus far more limited than the typical search. Moreover, the sniff merely revealed the presence or absence of narcotics. Thus, it was ''[[sui generis]]'', and did not constitute a "search" under the Fourth Amendment.
+
+However, even though the DEA agents did not "search" Place's luggage when they subjected it to the dog sniff, their seizure of the luggage was unreasonable because it exceeded the limits of a ''Terry''-type investigative stop. The length of time the agents had possession of Place's luggage was too great&mdash;90 minutes before the dog sniff had been conducted. Also, the agents knew what time Place's plane was scheduled to land at LaGuardia, and thus had ample time to arrange their investigation accordingly, so that taking Place's luggage from LaGuardia to Kennedy airports should not have been necessary. Thus, the seizure of Place's luggage was unreasonable in this case.
+
+==Concurring opinions==
+===Justice Brennan===
+[[William J. Brennan, Jr.|Justice Brennan]] concurred in the Court's judgment because he agreed with the Second Circuit that the scope of the agents' seizure of Place's luggage was unreasonable. Furthermore, Brennan noted that while ''Terry'' may authorize seizures of personal effects incident to a lawful seizure of the person, nothing in the ''Terry'' line of cases authorizes the police to seize personal property, such as luggage, independent of the seizure of the person. For Brennan, it was therefore unnecessary for the Court to decide whether the dog sniff constitutes a "search" under the Fourth Amendment. It was Brennan's view that dog sniffs can reveal more information than just the presence or absence of narcotics, and therefore constituted a "search." But Brennan did not feel that this case was an appropriate vehicle for the Court to decide how to handle dog sniffs under the Fourth Amendment.
+
+===Justice Blackmun===
+[[Harry Blackmun|Justice Blackmun]] also felt that this case was not appropriate for deciding the status of dog sniffs under the Fourth Amendment. For one thing, Blackmun observed, Place had not raised the issue in either the district court or the Second Circuit. For another, Blackmun agreed with Brennan that it was not necessary to decide whether a dog sniff is a "search" in order to decide the case, because the seizure of Place's luggage was unreasonable in any event.
+
+==See also==
+* [[List of United States Supreme Court cases, volume 462]]
+* ''[[Illinois v. Caballes]]'' (2005)
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{caselaw source
+ | case=''United States v. Place'', {{ussc|462|696|1983|el=no}}
+ | courtlistener =https://www.courtlistener.com/opinion/110979/united-states-v-place/
+ | findlaw=https://caselaw.findlaw.com/us-supreme-court/462/696.html
+ | justia=https://supreme.justia.com/cases/federal/us/462/696/
+ | googlescholar = https://scholar.google.com/scholar_case?case=5031844227599510007
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep462/usrep462696/usrep462696.pdf
+ | oyez =https://www.oyez.org/cases/1982/81-1617
+}}
+
+{{US4thAmendment|scope|state=expanded}}
+
+[[Category:1983 in United States case law]]
+[[Category:Cocaine in the United States]]
+[[Category:Detector dogs]]
+[[Category:Drug Enforcement Administration litigation]]
+[[Category:Miami International Airport]]
+[[Category:History of Miami-Dade County, Florida]]
+[[Category:Search and seizure case law]]
+[[Category:United States controlled substances case law]]
+[[Category:United States Fourth Amendment case law]]
+[[Category:United States privacy case law]]
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Burger Court]]

@@ -1,0 +1,155 @@
+{{Short description|Province of Turkey}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Kocaeli
+| native_name             = Kocaeli<!-- if different from the English name -->
+| native_name_lang        = tr<!-- ISO 639-2 code e.g. "tr" for Turkish. If more than one, use {{lang}} instead -->
+| settlement_type         = [[Provinces of Turkey|Province of Turkey]]
+| image_skyline           = 
+| image_caption           = 
+| image_flag              = 
+| image_seal              = 
+<!-- maps and coordinates ------>
+| image_map               = Kocaeli in Turkey.svg
+| mapsize                 = 300px
+| map_caption             = Location of Kocaeli Province in Turkey 
+<!-- location ------------------>
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[First-level NUTS of Turkey|Region]]
+| subdivision_name1       = [[East Marmara Region (statistical)|East Marmara]]
+| subdivision_type2       = [[Second-level NUTS of Turkey|Subregion]]
+| subdivision_name2       = [[Kocaeli Subregion|Kocaeli]]
+| seat_type               = Provincial seat 
+| seat                    = [[İzmit]]
+| seat1_type              = Largest city
+| seat1                   = 
+<!-- coordinates -->
+| coordinates = {{coord|40.852|N|29.878|E|display=inline,title|region:TR-41_type:adm1st_source:nlwiki}}
+<!-- government type, leaders -->
+| leader_title            = [[Electoral districts of Turkey|Electoral district]]
+| leader_name             = [[Kocaeli (electoral district)|Kocaeli]]
+| leader_title1           = Governor
+| leader_name1            = Seddar Yavuz
+| total_type              = Total
+| area_total_km2          = 3,626
+| population_footnotes    = {{wikidata|reference|P1082|P585=2018}}
+| population_total        = {{wikidata|property|raw|P1082|P585=2018}}
+| population_as_of        = 2018
+| population_density_km2  = auto
+| population_urban        = 
+| population_urban_footnotes     =  
+| population_rural        = 
+| population_rural_footnotes     =  
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               = 00262
+| registration_plate      = 41
+| website                 = 
+| footnotes               = 
+}}
+'''Kocaeli Province''' ({{lang-tr|Kocaeli ili}}, {{IPA-tr|koˈdʒaeli|pron}}) is a [[Provinces of Turkey|province]] of [[Turkey]] and one of only two to not have the same official name as its capital, [[İzmit]], which is thus also sometimes called Kocaeli. The province is the successor of the [[Ottoman Empire|Ottoman]]-era [[Sanjak of Kocaeli]]. The largest towns in the province are [[İzmit]] and [[Gebze]]. The [[Turkish car number plates#Location codes|traffic code]] is 41. The province is located at the easternmost end of the [[Marmara Sea]] around the [[Gulf of İzmit]]. Kocaeli is bordered by the province of [[Istanbul Province|Istanbul]] and the Marmara Sea to the west, the [[Black Sea]] to the north, the province of [[Sakarya Province|Sakarya]] to the east, the province of [[Bursa Province|Bursa]] to the south and the province of [[Yalova Province|Yalova]] to the southwest. The metropolitan area of Istanbul extends to the Kocaeli-Istanbul provincial border.  The size and natural conditions of the Bay of İzmit allow for extensive port facilities, including the [[Gölcük Naval Base]].  The province is called the industrial capital of Turkey. Kocaeli has an airport named [[Cengiz Topel Naval Air Station]] which is used for military and civilian transport. Kocaeli has two universities: [[Kocaeli University]] and [[Gebze Institute of Technology|Gebze Technical University]].
+
+==Demographics==
+{{Main|Demographics of Turkey}}
+
+Data taken from Kocaeli Metropolitan Municipality<ref>{{Cite web|url = http://www.kocaeli.bel.tr/Files/Departmanlar/Stratejik-Yonetim-Sube-Mudurlugu/TUIK/Yas_bagmllk_oran.xlsx|title = Population of Districts by Year and Dependency Ratio|accessdate = 2015-07-29|publisher = Kocaeli Metropolitan Municipality}}</ref> and Central Dissemination System.<ref>{{Cite web|url = https://biruni.tuik.gov.tr/medas/?kn=95&locale=en|title = Central Dissemination System|accessdate = 2016-02-13|publisher = Turkish Statistical Institute}}</ref> The information is for '''(xxxx-12-31)'''. 
+{| class="sortable wikitable" 
+|-----
+| align="center" style="width:70pt;" | '''District''' 
+| align="center" style="width:60pt;" | '''2009''' 
+| align="center" style="width:60pt;" | '''2010''' 
+| align="center" style="width:60pt;" | '''2011''' 
+| align="center" style="width:60pt;" | '''2012'''
+| align="center" style="width:60pt;" | '''2013'''
+| align="center" style="width:60pt;" | '''2014'''
+| align="center" style="width:60pt;" | '''2015'''
+|-----
+|- bgcolor=#E2F2D2 align=right
+| align=left | Kocaeli ||1,522,408||1,560,138||1,601,720||1,634,691||1,676,202||1,722,795||1,780,055
+|-----
+|- align=right
+| align=left | [[İzmit]] ||313,964||315,734||322,588||327,435||332,754||338,710||347,074
+|-----
+|- align=right
+| align=left | [[Gebze]] ||297,029||305,557||314,122||319,307||329,195||338,412||350,115
+|-----
+|- align=right
+| align=left | [[Derince]] ||123,136||124,452||126,675||128,810||130,657||133,739||136,742
+|-----
+|- align=right
+| align=left | [[Darıca]] ||140,302||146,896||152,542||157,304||164,385||173,139||182,710
+|-----
+|- align=right
+| align=left | [[Körfez, Kocaeli|Körfez]] ||130,730||132,779||135,692||139,220||142,884||146,210||151,149
+|-----
+|- align=right
+| align=left | [[Gölcük, Kocaeli|Gölcük]] ||136,035||137,637||141,926||143,867||145,805||149,238||152,607
+|-----
+|- align=right
+| align=left | [[Çayırova District, Kocaeli|Çayırova]] ||82,494||88,523||93,640||98,367||103,536||109,698||117,230
+|-----
+|- align=right
+| align=left | [[Karamürsel]] ||50,886||51,987||52,501||52,621||53,033||54,225||55,169
+|-----
+|- align=right
+| align=left | [[Dilovası]] ||44,258||44,958||45,060||44,981||45,610||45,714||46,099
+|-----
+|- align=right
+| align=left | [[Kandıra]] ||46,984||49,769||49,554||50,042||50,046||49,203||48,937
+|-----
+|- align=right
+| align=left | [[Başiskele]] ||66,183||68,037||70,835||73,327||76,605||79,625||84,235
+|-----
+|- align=right
+| align=left | [[Kartepe]] ||90,407||93,809||96,585||99,410||101,692||104,882||107,988
+|-----
+|}
+
+==Districts==
+{{Main|List of districts in Turkey}}
+[[File:Kocaeli location districts.svg|thumb|right|320px|Districts of Kocaeli]]
+Kocaeli province is divided into 12 [[Districts of Turkey|districts]] with the capital district of '''[[İzmit]]''' (in '''bold'''):
+
+* KOCAELİ: 1,722,795
+** [[Derince]]: 133,739
+** [[Gebze]]: 338,412
+** [[Gölcük (District), Kocaeli|Gölcük]]: 149,238 
+** '''[[İzmit]]''': 338,710
+** [[Kandıra]]: 49,203
+** [[Karamürsel]]: 54,225
+** [[Körfez, Kocaeli|Körfez]]: 146,210
+** [[Kartepe, Kocaeli|Kartepe]]: 104,882
+** [[Başiskele]]: 79,625
+** [[Çayırova District, Kocaeli|Çayırova]]: 109,698
+** [[Dilovası]]: 45,714
+** [[Darıca]]: 173,139
+
+==Twin cities==
+* {{flagicon|Serbia}} '''[[Novi Pazar]]''', [[Serbia]]
+
+==See also==
+* [[East Marmara Development Agency]]
+* [[Kocaeli University]]
+* [[Pişmaniye]]
+* [[Provinces of Turkey]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category-inline}}
+* {{Official website|http://www.kocaeli.gov.tr/ }} {{in lang|tr}}
+* [http://www.kocaeli.bel.tr/ Kocaeli municipality's official website] {{in lang|tr|en}}
+* [http://www.kocaelivizyon.com/ Kocaeli Etkinlik] {{in lang|tr}}
+* [https://archive.is/20130504164031/http://www.kocaeli.net.tr/ Kocaeli Gazetesi ve Haberleri] {{in lang|tr}}
+
+{{Districts of Turkey
+|provname=Kocaeli
+|image=Kocaeli
+|}}
+{{Provinces of Turkey}}
+
+[[Category:Kocaeli Province| ]]
+
+
+{{Kocaeli-geo-stub}}

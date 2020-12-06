@@ -1,0 +1,64 @@
+{{Multiple issues|
+{{tone|date=September 2013}}
+{{Globalize|date=February 2011}}
+}}
+
+'''Civil procedure''' is the body of [[law]] that sets out the rules and standards that [[court]]s follow when adjudicating civil [[lawsuit]]s (as opposed to procedures in criminal law matters). These rules govern how a lawsuit or case may be commenced; what kind of service of process (if any) is required; the types of [[pleading]]s or statements of case, [[Motion (legal)|motion]]s or applications, and orders allowed in civil cases; the timing and manner of [[Deposition (law)|deposition]]s and discovery or disclosure; the conduct of [[trial]]s; the process for judgment; the process for post-trial procedures; various available remedies; and how the courts and clerks must function.
+
+==Differences between civil and criminal procedure==
+Some systems, including the [[England|English]] and [[France|French]], allow governmental persons to bring a [[criminal prosecution]] against another person. Prosecutions are nearly always started by the [[State (polity)|state]] in order to punish the accused. [[Civil action]]s, on the other hand, are started by private [[individual]]s, companies or organizations, for their own benefit. In addition, governments (or their subdivisions or agencies) may also be parties to civil actions.  The cases are usually in different courts.  However this is distinguished from civil penal actions.
+
+In jurisdictions based on English common-law systems, the party bringing a criminal charge (in most cases, the state) is called the "prosecution", but the party bringing most forms of civil action is the "plaintiff"  or "claimant". In both kinds of action the other party is known as the "defendant". A criminal case against a person called Ms. Sanchez would be described as “The People v. (=&nbsp;"versus", "against" or "and") Sanchez,” "The State (or Commonwealth) v. Sanchez" or "[The name of the State] v. Sanchez"  in the United States and “R. (''Regina'', [[Latin language|Latin]] for "[[Queen regnant|Queen]]" but spoken as "The Crown") v. Sanchez” in England and Wales, amongst other [[Commonwealth realms]]. But a civil action between Ms. Sanchez and a Mr. Smith would be “Sanchez v. Smith” if it were started by Sanchez, and “Smith v. Sanchez” if it were started by Mr. Smith (though the order of parties' names can change if the case is appealed).<ref>[[Case citation#Supreme Court of the United States]]</ref>
+
+Most countries make a clear distinction between civil and criminal procedure. For example, a [[Criminal law|criminal court]] may force a convicted defendant to pay a fine as punishment for his crime, and the [[criminal costs|legal cost]]s of both the [[prosecution]] and defence. But the victim of the [[crime]] generally pursues his claim for [[Damages|compensation]] in a civil, not a criminal, action.<ref name = "law1" /> In France and England, however, a victim of a crime may incidentally be awarded compensation by a criminal court [[judge]].
+
+Evidence from a [[criminal trial]] is generally admissible as evidence in a civil action about the same matter. For example, the victim of a road accident does not directly benefit if the driver who injured him is found guilty of the crime of careless driving. He still has to prove his case in a civil action, unless the doctrine of [[collateral estoppel]] applies, as it does in most American jurisdictions.<ref name = "law1" /> In fact he may be able to prove his civil case even when the driver is found not guilty in the criminal trial, because the standard to determine guilt is higher than the standard to determine fault. However, if a driver is found by a civil jury not to have been negligent, a prosecutor may be estopped from charging him criminally.
+
+If the plaintiff has shown that the defendant is liable, the main remedy in a civil court is the amount of [[money]], or "damages", which the defendant should pay to the plaintiff.<ref name="law1">{{cite book |author=Richard Powell|title=Law today|publisher=Longman|location=Harlow|year=1993 |pages=34|isbn=978-0-582-05635-0 |oclc=30075861|doi=}}</ref> Alternative civil remedies include restitution or transfer of property, or an injunction to restrain or order certain actions.
+
+The [[Legal burden of proof|standards of proof]] are higher in a [[criminal]] case than in a civil one, since the state does not wish to risk punishing an innocent person. In [[English law]] the prosecution must prove the guilt of a criminal “[[beyond reasonable doubt]]”; but the [[plaintiff]] in a civil action is required to prove his case “on the balance of probabilities”.<ref name = "law1" /> Thus, in a criminal case a crime cannot be proven if the person or persons judging it doubt the guilt of the suspect and have a reason (not just a feeling or intuition) for this doubt. But in a civil case, the court will weigh all the evidence and decide what is most probable.
+
+==Civil procedural types==
+Civil procedure is traditionally divided into [[inquisitorial system|inquisitorial]] and [[adversarial system|adversarial]].<ref>{{cite web|ssrn=2280682|title=Civil Procedure in Cross-Cultural Dialogue: Eurasia Context|author=|date=|work=ssrn.com}}</ref>
+
+==Civil procedure by country==
+*[[Civil procedure in Australia|Australia]]
+*[[Civil procedure in Brazil|Brazil]]
+*[[Civil procedure in Canada|Canada]]
+*[[Civil procedure in England and Wales|England and Wales]]
+*[[Civil procedure code of Germany|Germany]]
+*[[Civil procedure code of the Netherlands|Netherlands]]
+*[[Civil procedure code of Romania|Romania]]
+*[[Scots civil procedure|Scotland]]
+*[[Civil procedure in South Africa|South Africa]]
+*[[Civil procedure in the United States|United States]]
+
+==See also==
+*[[Affirmative defense]]
+*[[Civil Justice Fairness Act]]
+*[[Criminal procedure]]
+*[[Jurisdiction]]
+*[[Laches (equity)|Laches]]
+*[[Objection (law)|Objection]]
+*[[Prejudice (law)]]
+*[[Statute of limitations]]
+*[[Summary judgment]]
+*[[Time constraints]]
+*[[Trial de novo]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{NIE Poster|year=1905|Civil Procedure}}
+*[http://www.dca.gov.uk/civil/procrules_fin/ Civil Procedure Rules applying to England and Wales]
+*[https://www.law.cornell.edu/rules/frcp/ Complete text of Federal Rules of Civil Procedure (Cornell Univ.)]
+*[https://web.archive.org/web/20100414131653/http://highconstable.com/resources/ri/district_court_rules/ Rhode Island Civil Court Rules of Procedure - Optimized by a Constable from the law library at the 6th District Court of Rhode Island]
+
+{{Law}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Civil Procedure}}
+[[Category:Civil procedure| ]]
+[[Category:Legal procedure]]

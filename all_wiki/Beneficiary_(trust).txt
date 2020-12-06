@@ -1,0 +1,59 @@
+In [[trust law]], a '''beneficiary''' or '''''[[cestui que]]'' use''', a.k.a. '''''cestui que'' trust''', is the person or persons who are entitled to the benefit of any trust arrangement.  A beneficiary will normally be a [[natural person]], but it is perfectly possible to have a [[company (law)|company]] as the beneficiary of a trust, and this often happens in sophisticated commercial transaction structures.<ref>See for example [[Quistclose trust|''Quistclose'' trusts]] and [[orphan structure]]s, both of which commonly involve non-human beneficiaries of trusts.</ref>  With the exception of [[charitable trust]]s, and some specific anomalous [[purpose trust|non-charitable purpose trust]]s, all trusts are required to have ascertainable beneficiaries.
+
+Generally speaking, there are no strictures as to who may be a beneficiary of a trust; a beneficiary can be a minor, or under a mental disability (in fact many trusts are created specifically for persons with those legal disadvantages).  It is also possible to have trusts for unborn children, although the trusts must [[Vesting|vest]] within the applicable [[perpetuity period]].
+
+==Categorization==
+There are various ways in which beneficiaries of trusts can be categorised, depending upon the nature and need of the categorisation.
+
+From the perspective of the trustees' duties, it is most common to differentiate between:
+*fixed beneficiaries, who have a simple fixed entitlement to income and capital; and
+*discretionary beneficiaries, whom the trustees must make decisions as to the respective entitlements.
+
+Where a trust gives rise to sequential interests, from a tax perspective (and also from the point of view of trustee's duties), it is often necessary to differentiate beneficiaries sequentially, between:
+*those with a vested interest, such as [[tenant for life|tenants for life]]; and
+*those with a contingent interest, such as [[remainderman|remaindermen]].
+
+For the purposes of various exercise of beneficiaries' rights, it is often necessary to distinguish between:
+*beneficiaries under a [[bare trust]] (including a [[constructive trust|constructive]] or [[resulting trust]]), to whom the trustee owes basic duties arising by law; and
+*beneficiaries under an express trust (either an [[inter vivos trust|''inter vivos'' trust]] or a [[testamentary trust]]), where the trustee owes additional duties and has additional powers specified by the [[trust instrument]].
+
+==Rights and interest==
+The nature of a beneficiary's interest in the trust fund varies according to the type of trust.
+
+In the case of a fixed trust, the beneficiary's interest is proprietary; they are the owners of an equitable interest in the property held under the trust.
+
+The position is slightly different in the case of a [[discretionary trust]]; in such cases the beneficiaries are dependent upon the exercise by the trustees of their powers under the [[trust instrument]] in their favour.<ref>In {{cite BAILII |litigants=Gartside v Commissioners of Inland Revenue |year=1967 |court=UKHL |num=6 |date=13 December 1967 |parallelcite=[1968] [[Appeal Cases Law Reports|AC]] 553 |courtname=auto}} it was argued that because a beneficiary might receive all the income, he should be treated as being entitled to all of the income, however, the [[Judicial functions of the House of Lords|House of Lords]] held that it could not be said that any individual beneficiary under a discretionary trust was entitled to any quantifiable share.</ref>
+
+Similarly, where a trust gives rise to successive interest, the title of a remainderman is a prospective, or contingent, interest; although unlike a discretionary beneficiary, this is still a species of property that can be dealt with, much in the same way as a contingent or prospective debt.
+
+==Taxation==
+{{Main article|Taxation of trusts}}
+[[Tax planning]] usually plays a considerable role relative to the use of trusts.<ref>Although it is not the only role.  Trusts have a variety of uses outside of the tax sphere, notably for protecting minor and disabled beneficiaries.  Although because the tax treatment of trusts is usually complex in most countries, even when the trust is being used for non-tax related purposes, tax planning considerations often come into play.</ref>
+
+Historically, whilst the courts have been fairly amenable to the use of trusts in tax planning,<ref>In {{cite BAILII |litigants=Commissioners of Inland Revenue v Duke of Westminster |year=1935 |court=UKHL |num=4 |parallelcite=[1936] [[Appeal Cases Law Reports|AC]] 1 at p 19 |courtname=auto}} the House of Lords asserted "Every man is entitled to do what he can to order his affairs so that the tax attaching under the appropriate Acts is less than it otherwise would be".</ref> as tax planning schemes have become more aggressive, so the courts have increasingly taken a restrictive view of their tax treatment.
+
+Although individual countries tend to have very detailed rules about the taxation of trusts, the three mechanisms whereby taxation is usually assessed is by either treating (i) the trust as a separately taxable entity in its own right, (ii) treating the trust property as still the property of the [[settlor]], and (iii) treating the trust property as belonging absolutely to the beneficiaries.  Some jurisdictions apply different combinations of the rules in [[income tax]], [[capital gains tax]] and [[inheritance tax]].
+
+==Beneficiaries' powers==
+
+Because an interest under a trust is a species of property, adult beneficiaries of sound mind are able to deal with their rights under the trust fund as they could with any other species of property.  They can sell it, [[assignment (law)|assign]] it, exchange it, release it,<ref>Where the trust is a discretionary trust, the beneficiary may renounce his position as a class member; see ''Re Gulbenkian's Settlement (No 2)'' [1970] Ch 408</ref> [[mortgage law|mortgage]] it, and do most other things that they could do with a ''[[chose in action]]''.
+
+If all of the beneficiaries of the trust are adults and of sound mind, then they can terminate the trust under the [[rule in Saunders v Vautier|rule in ''Saunders v Vautier'']], and require the trustees to transfer absolute legal title to the trust assets to the beneficiaries.
+
+Bryson AJ in ''McDonald v Ellis'' states that beneficiaries are entitled to see trust documents and have information about trust property. This entitlement is a proprietary right.<ref>{{cite AustLII|NSWSC|1068|2007|litigants=McDonald v Ellis |courtname=auto}}.</ref>
+
+==See also==
+*[[Beneficiary|Beneficiary (general)]]
+*[[Trust law]]
+*[[Trustee]]
+*[[Settlor]]
+*[[Cestui que]]
+
+==Footnotes==
+{{Reflist}}
+
+{{DEFAULTSORT:Beneficiary (Trust)}}
+[[Category:Equity (law)]]
+[[Category:Wills and trusts]]
+
+[[ru:Доверительная собственность]]

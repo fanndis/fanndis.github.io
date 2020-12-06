@@ -1,0 +1,282 @@
+{{Use American English|date = March 2019}}
+{{Short description|United States research lab}}
+{{Use mdy dates|date = March 2019}}
+{{Infobox laboratory
+| name             = Sandia National Laboratories
+| image            = [[File:Sandia National Laboratories logo.svg]]
+| established      = 1949
+| director         = James S. Peery (January 1, 2020–)<ref name="auto2">{{cite web|url=https://share-ng.sandia.gov/news/resources/news_releases/labs_director/|title=Sandia National Laboratories: News Releases : New Sandia Labs Director named}}</ref><br>Stephen Younger<ref name="bizjournals.com">{{cite web |url=http://www.bizjournals.com/albuquerque/news/2017/01/25/director-deputy-director-of-sandia-national-labs.html |title= Director, deputy director of Sandia National Labs announced|last=Ortega |first=May |date=January 25, 2017 |website=www.bizjournals.com|access-date=2020-05-18}}</ref> (May 2017–December 2019)
+| city             = [[Albuquerque, New Mexico]]; [[Livermore, California]].
+| budget           = [[United States dollar|US$]]3.6 billion<ref>{{cite web|url=http://www.sandia.gov/about/facts_figures/index.html/ |title=Sandia Facts and Figures |publisher=Sandia.gov |accessdate=2019-03-30}}</ref>
+| type             = National security, nuclear science
+| staff            = 11,500<ref name="Sandia FAQ">{{cite web|url=http://www.sandia.gov/about/facts_figures/ |title=Sandia FAQ |publisher=Sandia.gov |accessdate=2019-04-30}}</ref>
+| students         = 830<ref name="Sandia FAQ"/>
+| campus           = {{convert|8699|acre|km2|abbr=on}}
+|free_label        = Named after
+|free              = [[Sandia Mountains]] in the [[Albuquerque metropolitan area]]
+| operating_agency = National Technology and Engineering Solutions of Sandia, under the direction of [[Honeywell International]] (since May 1, 2017)
+| website          = [http://www.sandia.gov/ www.sandia.gov]
+}}
+
+The '''Sandia National Laboratories''' ('''SNL'''), managed and operated by the National Technology and Engineering Solutions of Sandia (a wholly owned subsidiary of [[Honeywell International]]), is one of three [[National Nuclear Security Administration]] research and development laboratories in the United States. Their primary mission is to develop, engineer, and test the non-nuclear components of [[nuclear weapon]]s and [[high technology]]. Headquartered in Central [[New Mexico]] near the [[Sandia Mountains]], on [[Kirtland Air Force Base]] in [[Albuquerque, New Mexico|Albuquerque]], Sandia also has a campus in [[Livermore, California]], next to [[Lawrence Livermore National Laboratory]], and a test facility in [[Waimea, Kauai County, Hawaii|Waimea, Kauai, Hawaii]].<ref>{{cite web|url=http://www.sandia.gov/locations/kauai_test_facility.html|title=Sandia National Laboratories: Locations: Kauai Test Facility|website=www.sandia.gov|language=en|access-date=2017-11-09}}</ref>
+
+It is Sandia's mission to maintain the reliability and surety of nuclear weapon systems, conduct research and development in [[arms control]] and [[nonproliferation]] technologies, and investigate methods for the disposal of the United States' nuclear weapons program's [[hazardous waste]]. Other missions include research and development in energy and environmental programs, as well as the surety of critical national infrastructures. In addition, Sandia is home to a wide variety of research including [[computational biology]], [[mathematics]] (through its Computer Science Research Institute), [[materials science]], [[alternative energy]], [[psychology]], [[Microelectromechanical systems|MEMS]], and [[cognitive science]] initiatives. Sandia formerly hosted [[ASCI Red]], one of the world's fastest [[supercomputer]]s until its recent decommission, and now hosts [[Red Storm (computing)|ASCI Red Storm]], originally known as Thor's Hammer. Sandia is also home to the [[Z Pulsed Power Facility|Z Machine]]. The Z Machine is the largest [[X-ray]] generator in the world and is designed to test materials in conditions of extreme [[temperature]] and [[pressure]]. It is operated by Sandia National Laboratories to gather data to aid in computer modeling of nuclear guns. In December 2016, it was announced that National Technology and Engineering Solutions of Sandia, under the direction of [[Honeywell International]], would take over the management of Sandia National Laboratories starting on May 1, 2017.<ref name="energy.gov">{{cite web|url=https://nnsa.energy.gov/mediaroom/pressreleases/nnsa-awards-sandia-national-laboratories-management-operating-contract|title=NNSA Awards Sandia National Laboratories Management & Operating Contract to National Technology and Engineering Solutions of Sandia (NTESS)|publisher=}}</ref><ref name="auto">{{cite web|url=https://www.abqjournal.com/910533/sandia-national-laboratories-contract-awarded-unm-will-play-a-role.html|title=Updated: Honeywell selected to manage Sandia labs|author1=Michael Coleman |author2= Kevin Robinson-Avila |publisher=}}</ref><ref name="auto1">{{cite web|url=https://www.wsj.com/articles/honeywell-unit-wins-2-6-billion-contract-to-manage-sandia-national-laboratories-1481947893|title=Honeywell Unit Wins $2.6 Billion Contract to Manage Sandia National Laboratories|first=Associated|last=Press|date=17 December 2016|publisher=|via=Wall Street Journal}}</ref><ref name="bizjournals.com"/>
+
+== Lab history ==<!-- This section is linked from [[List of Soviet agents in the United States]] -->
+[[File:Sandia-Building800-1951.gif|thumb|One of Sandia's first permanent buildings (Building 800) was completed in 1949]]
+Sandia National Laboratories' roots go back to [[World War II]] and the [[Manhattan Project]]. Prior to the United States formally entering the war, the [[U.S. Army]] leased land near an Albuquerque, New Mexico airport known as Oxnard Field, to service transient Army and [[U.S. Navy]] aircraft. In January 1941 construction began on the Albuquerque Army Air Base, leading to establishment of the ''Bombardier School-Army Advanced Flying School'' near the end of the year. Soon thereafter it was renamed Kirtland Field, after early Army military pilot Colonel [[Roy C. Kirtland]], and in mid-1942 the Army acquired Oxnard Field. During the war years facilities were expanded further and [[Kirtland Field]] served as a major Army Air Forces training installation.
+
+In the many months leading up to successful detonation of the first [[atomic bomb]], the [[Trinity site|Trinity]] test, and delivery of the first airborne atomic weapon, [[Project Alberta]], [[J. Robert Oppenheimer]], Director of [[Los Alamos National Laboratory|Los Alamos Laboratory]], and his technical advisor, Hartly Rowe, began looking for a new site convenient to Los Alamos for the continuation of weapons development{{spaced ndash}} especially its non-nuclear aspects. They felt a separate division would be best to perform these functions. Kirtland had fulfilled Los Alamos' transportation needs for both the Trinity and Alberta projects, thus, Oxnard Field was transferred from the jurisdiction of the Army Air Corps to the U.S. Army Service Forces Chief of Engineer District, and thereafter, assigned to the Manhattan Engineer District. In July 1945, the forerunner of Sandia Laboratory, known as "Z" Division, was established at Oxnard Field to handle future weapons development, testing, and bomb assembly for the Manhattan Engineer District. The District-directive calling for establishing a secure area and construction of "Z" Division facilities referred to this as "[[Sandia Base]]"&nbsp;, after the nearby [[Sandia Mountains]] — apparently the first official recognition of the "Sandia" name.
+{| class="infobox"
+|+ Lab directors and presidents
+|-
+! Name !! Tenure
+|-
+| James S. Peery || January 2020–<ref name="auto2"/>
+|-
+| Stephen Younger || May 2017<br>–December 2019<ref name="bizjournals.com"/>
+|-
+| Jill M. Hruby || July 2015<br>–May 2017<ref>{{cite web|url=https://www.nti.org/about/leadership-and-staff/jill-hruby/|title=Jill Hruby &#124; Leadership & Staff &#124; About &#124; NTI|website=www.nti.org}}</ref><ref name="Hruby">{{cite web| url=https://share.sandia.gov/news/resources/news_releases/new_director/ | title=New Sandia director will be first woman to lead national security lab | date=2015-07-22 | archiveurl=https://web.archive.org/web/20150722123200/https://share.sandia.gov/news/resources/news_releases/new_director/|archivedate=2015-07-22| publisher=Sandia National Laboratories}}</ref>
+|-
+| Paul Hommert || July 2010<br>–July 2015<ref>{{cite web|url=https://www.llnl.gov/news/paul-hommert-named-director-sandia|title=Paul Hommert named director for Sandia &#124; Lawrence Livermore National Laboratory|website=www.llnl.gov}}</ref><ref name="Hruby" />
+|-
+| Thomas Hunter || April 2005<br>–July 2010<ref>{{cite web|url=https://www.abqjournal.com/3530/update-hunter-to-step-down-as-sandia-head.html|title=Update: Hunter to Step Down as Sandia Head|first=John Fleck &#124; Journal Staff|last=Writer|website=www.abqjournal.com}}</ref>
+|-
+| [[C. Paul Robinson]] || August 1995<br>–April 2005<ref>{{cite web|url=https://share-ng.sandia.gov/news/resources/releases/2005/other/mgt-changes.html|title=Sandia National Labs: News: Sandia Labs undergoes management changes|website=share-ng.sandia.gov}}</ref>
+|-
+| Albert Narath || 1989–1995<ref>{{cite web|url=https://history.aip.org/phn/11508007.html|title=Narath, Albert, 1933-|website=history.aip.org}}</ref>
+|-
+| Irwin Welber || February 1986<br>–March 1989<ref name="news2008"/><ref>{{cite web|url=https://www.sandia.gov/news/publications/labnews/articles/2017/20-01/welber.html|title=Sandia National Laboratories: Irwin Welber, Sandia’s 9th president, passes away at 92|first=Sandia|last=Labs|date=January 19, 2017|website=Sandia Labs}}</ref>
+|-
+| George C. Dacey || August 1981<br>–January 1986<ref name="news2008"/><ref>{{cite web|url=https://www.nap.edu/read/18477/chapter/13|title=Read "Memorial Tributes: Volume 17" at NAP.edu|via=www.nap.edu}}</ref>
+|-
+| [[Morgan Sparks]] || October 1972<br>–July 1981<ref name="news2008"/><ref>{{cite web|url=https://www.llnl.gov/community/retiree-and-employee-resources/in-memoriam/morgan-sparks|title=Morgan Sparks &#124; Lawrence Livermore National Laboratory|website=www.llnl.gov}}</ref>
+|-
+| John A. Hornbeck || November 1966<br>–September 1972<ref name="news2008"/>
+|-
+| Siegmund P. "Monk" Schwartz || September 1960<br>–October 1966<ref name="news2008">{{cite web|url=https://www.sandia.gov/LabNews/ln01-18-08/labnews01-18-08.pdf |title=Lab News |publisher=www.sandia.gov |date=January 1, 2018 |accessdate=2020-05-18}}</ref>
+|-
+| [[Julius Molnar]] || October 1958<br>–August 1960<ref name="news2008"/>
+|-
+| [[James W. McRae]] || September 1953<br>–September 1958<ref name="news2008"/>
+|-
+| [[Donald A. Quarles]] || March 1952<br>–August 1953<ref name="news2008"/>
+|-
+| [[George Landry]] || October 1949<br>–February 1952<ref name="news2008"/>
+|}
+Sandia Laboratory was operated by the [[University of California]] until 1949, when President [[Harry S. Truman]] asked [[Western Electric]], a subsidiary of [[American Telephone and Telegraph]] (AT&T), to assume the operation as an "opportunity to render an exceptional service in the national interest." Sandia Corporation, a wholly owned subsidiary of Western Electric, was formed on October 5, 1949, and, on November 1, 1949, took over management of the Laboratory.<ref>{{Cite web|title=Tech Area II: A history|url=https://www.sandia.gov/about/history/_assets/documents/UllrichTechAreaII981617.pdf|last=Ullrich|first=Rebecca|date=July 1, 1998|website=sandia.gov|publisher=Ktech Corporation|access-date=2020-05-18}}</ref> The [[United States Congress]] designated Sandia Laboratories as a National laboratory in 1979. In October 1993, Sandia National Laboratories (SNL) was managed and operated by '''Sandia Corporation''', a wholly owned subsidiary of [[Lockheed Martin]]. As of May 2017, management of Sandia National Laboratory transitioned to '''National Technology and Engineering Solutions of Sandia''', a wholly owned subsidiary of [[Honeywell International]],<ref name="energy.gov"/><ref name="auto"/><ref name="auto1"/><ref name="bizjournals.com"/><ref>{{Cite web|title=Sandia National Laboratories: About Sandia: Sandia's Government Owned/Contractor Operated heritage|url=https://www.sandia.gov/about/history/goco.html|website=www.sandia.gov|access-date=2020-05-19}}</ref> covering government-owned facilities in [[Albuquerque, New Mexico]] (SNL/NM); [[Livermore, California]] (SNL/CA); [[Tonopah, Nevada]]; [[Shoreview, Minnesota]]; and [[Kauai, Hawaii]]. SNL/NM is headquarters and the largest laboratory, employing more than 6,600 employees, while SNL/CA is a smaller laboratory, with about 850 employees. Tonopah and Kauai are occupied on a "campaign" basis, as test schedules dictate.
+
+Sandia led a project that studied how to decontaminate a subway system in the event of a biological weapons attack (such as [[anthrax]]). As of September 2017, the process to decontaminate subways in such an event is "virtually ready to implement," said a lead Sandia engineer.<ref>{{Cite news|url=https://homelandprepnews.com/stories/24445-plan-ready-decontaminate-subways-event-biological-attack/|title=Plan ready to decontaminate subways in the event of a biological attack|last=Carey|first=Liz|date=2017-09-28|work=Homeland Preparedness News|access-date=2017-10-11|language=en-US}}</ref>
+
+== Legal issues ==
+On February 13, 2007, a New Mexico State Court found Sandia Corporation liable for $4.7 million in damages for the firing of a former network security analyst, [[Shawn Carpenter]], who had reported to his supervisors that hundreds of military installations and defense contractors' networks were compromised and sensitive information was being stolen{{spaced ndash}} including hundreds of sensitive [[Lockheed Martin|Lockheed]] documents on the [[Mars Reconnaissance Orbiter]] project. When his supervisors told him to drop the investigation and do nothing with the information, he went to intelligence officials in the [[United States Army]] and later the [[Federal Bureau of Investigation]] to address the national security breaches. When Sandia managers discovered his actions months later, they revoked his [[security clearance]] and fired him.<ref>Scott Sandlin, "[http://www.abqjournal.com/news/metro/602547metro10-14-07.htm Analyst, Sandia Settle Suit]", ''Albuquerque Journal'', 14 October 2007</ref>
+
+In 2014 an investigation determined Sandia Corp. used lab operations funds to pay for lobbying related to the renewal of its $2 billion contract to operate the lab.  Sandia Corp. and its parent company, Lockheed Martin, agreed to pay a $4.8 million fine.<ref>Coleman, Michael. (August 24, 2015). "Feds fine Sandia for improper lobbying" [https://www.abqjournal.com/633395/sandia-corp-pays-4-8-million-fine-for-improper-lobbying.html Albuquerque Journal website] Retrieved January 27, 2017.</ref>
+
+== Technical areas ==
+[[File:Sandia national laboratories researcher (46702906002).jpg|thumb|A researcher displays a model of the Big Hill cavern field in Texas, part of the nation’s Strategic Petroleum Reserve]]
+SNL/NM consists of five technical areas (TA) and several additional test areas. Each TA has its own distinctive operations; however, the operations of some groups at Sandia may span more than one TA, with one part of a team working on a problem from one angle, and another subset of the same team located in a different building or area working with other specialized equipment. A description of each area is given below.
+
+TA-I operations are dedicated primarily to three activities{{spaced ndash}} the design, research, and development of [[weapon]] systems; limited production of weapon system components; and energy programs. TA-I facilities include the main [[library]] and offices, [[laboratory|laboratories]], and shops used by administrative and technical staff.
+
+TA-II is a {{convert|45|acre|m2|adj=on|abbr=on}} facility that was established in 1948 for the assembly of chemical [[explosive material|high explosive]] main [[explosive material|charges]] for [[nuclear weapons]] and later for production scale assembly of nuclear weapons. Activities in TA-II include the [[decontamination]], [[nuclear decommissioning|decommissioning]], and [[Environmental remediation|remediation]] of facilities and [[landfills]] used in past research and development activities. Remediation of the Classified Waste Landfill which started in March 1998, neared completion in FY2000. A testing facility, the Explosive Component Facility, integrates many of the previous TA-II test activities as well as some testing activities previously performed in other remote test areas. The Access Delay Technology Test Facility is also located in TA-II.
+
+TA-III is adjacent to and south of TA-V [both are approximately seven miles (11&nbsp;km) south of TA-I]. TA-III facilities include extensive design-test facilities such as [[rocket sled]] tracks, [[centrifuge]]s and a radiant [[heat]] facility. Other facilities in TA-III include a paper destructor, the Melting and Solidification Laboratory and the Radioactive and Mixed Waste Management Facility (RMWMF). RMWMF serves as central processing facility for packaging and storage of low-level and mixed waste. The remediation of the Chemical Waste Landfill, which started in September 1998, is an ongoing activity in TA-III.
+
+TA-IV, located approximately 1/2 mile (1&nbsp;km) south of TA-I, consists of several inertial-confinement [[nuclear fusion|fusion]] research and pulsed power research facilities, including the High Energy Radiation Megavolt Electron Source (Hermes-III), the [[Z Pulsed Power Facility|Z Facility]], the Short Pulsed High Intensity Nanosecond X-Radiator (SPHINX) Facility, and the Saturn Accelerator. TA-IV also hosts some computer science and cognition research.
+
+TA-V contains two research [[nuclear reactor technology|reactor]] facilities, an intense [[gamma ray|gamma]] irradiation facility (using [[cobalt|cobalt-60]] and [[caesium|caesium-137]] sources), and the [[Hot Cell]] Facility.
+
+SNL/NM also has test areas outside of the five technical areas listed above. These test areas, collectively known as Coyote Test Field, are located southeast of TA-III and/or in the canyons on the west side of the Manzanita Mountains. Facilities in the Coyote Canyon Test Field include the Solar Tower Facility (34.9623 N, 106.5097 W), the Lurance Canyon Burn Site and the Aerial Cable Facility.
+
+== Open-source software ==
+In the 1970s, the Sandia, Los Alamos, Air Force Weapons Laboratory Technical Exchange Committee initiated the development of the [[SLATEC]] library of mathematical and statistical routines, written in [[FORTRAN 77]].
+
+Today, Sandia National Laboratories is home to several [[open-source software]] projects:
+* FCLib (Feature Characterization Library) is a library for the identification and manipulation of coherent regions or structures from spatio-temporal data.<ref name="fclib">
+{{cite web
+ |title       = Main Page&nbsp;— FCLib
+ |publisher   = Sandia National Laboratories
+ |url         = http://www.sandia.gov/csit/research/visualization/fclib.php
+ |accessdate  = 2010-10-04
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20100527132750/http://www.sandia.gov/csit/research/visualization/fclib.php
+ |archivedate = 2010-05-27
+}}
+</ref> FCLib focuses on providing data structures that are "feature-aware" and support feature-based analysis.<ref name="fclib" /> It is written in C and developed under a "[[BSD licenses|BSD]]-like" license.<ref name="ASCe">
+{{cite web
+| title = Award Winning Data Analysis Toolkit Released
+| work = ASCe News Quarterly Newsletter
+| date = January 2007
+| publisher = Sandia National Laboratories
+| url = http://www.sandia.gov/NNSA/ASC/enews/0107/0107eNewsPrintable.pdf
+| accessdate = 2010-10-04
+}}
+</ref>
+* [[LAMMPS]] (Large-scale Atomic/Molecular Massively Parallel Simulator) is a molecular dynamics library that can be used to model parallel atomic/subatomic processes at large scale.<ref name="LAMMPS">
+{{cite web
+| title = LAMMPS Molecular Dynamics Simulator
+| publisher = Sandia National Laboratories
+| url = http://lammps.sandia.gov/
+| accessdate = 2010-10-03
+}}
+</ref> It is produced under the [[GNU General Public License]] (GPL) and distributed on the Sandia National Laboratories website as well as [[SourceForge]].<ref name="LAMMPS" />
+* LibVMI is a library for simplifying the reading and writing of memory in running virtual machines, a technique known as virtual machine introspection.<ref name="LibVMI">
+{{cite web
+ |title       = The LibVMI Project
+ |publisher   = Sandia National Laboratories
+ |url         = http://vmitools.sandia.gov/
+ |accessdate  = 2011-11-18
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20120304225647/http://vmitools.sandia.gov/
+ |archivedate = 2012-03-04
+}}
+</ref> It is licensed under the [[GNU Lesser General Public License]].<ref name="LibVMI" />
+* MapReduce-MPI Library is an implementation of [[MapReduce]] for distributed-memory parallel machines, utilizing the [[Message Passing Interface]] (MPI) for communication. It is developed under a modified [[BSD licenses|Berkeley Software Distribution license]].<ref>
+{{cite web
+| title = MapReduce-MPI Library
+| publisher = Sandia National Laboratories
+| url = http://www.sandia.gov/~sjplimp/mapreduce.html
+| accessdate = 2010-10-03
+}}
+</ref>
+* MultiThreaded Graph Library (MTGL) is a collection of graph-based algorithms designed to take advantage of parallel, shared-memory architectures such as the Cray XMT, Symmetric Multiprocessor (SMP) machines, and multi-core workstations.<ref name="MTGL">
+{{cite web
+| title = MTGL
+| publisher = Sandia National Laboratories
+| url = https://software.sandia.gov/trac/mtgl
+| accessdate = 2010-10-04
+}}
+</ref><ref name="Berry">
+{{cite book
+| last = Berry
+| first = Jonathan W.
+|author2=Bruce Hendrickson |author3=Simon Kahan |author4=Petr Konecny
+ | title = Software and Algorithms for Graph Queries on Multithreaded Architectures
+| journal =Parallel and Distributed Processing Symposium, 2007.
+| pages = 1–14
+| date = March 2007
+| doi = 10.1109/IPDPS.2007.370685
+| accessdate =
+| isbn = 978-1-4244-0909-9
+| citeseerx = 10.1.1.421.7457
+}}
+</ref> It is developed under a BSD License.<ref name="MTGL" />
+* [[ParaView]] is a cross-platform application for performing data analysis and visualization.<ref name="Paraview">
+{{cite web
+| title = ParaView&nbsp;— Open Source Scientific Visualization
+| publisher = Kitware
+| url = http://www.paraview.org/
+| accessdate = 2010-10-03
+}}
+</ref> It is a collaborative effort, developed by Sandia National Laboratories, Los Alamos National Laboratories, and the [[United States Army Research Laboratory]], and funded by the [[Advanced Simulation and Computing Program]].<ref name="Paraview" /> It is developed under a BSD license.<ref name="Paraview" />
+* [[Pyomo]] is a python-based optimization [[Algebraic modeling language|Mathematical Programming Language]] which supports most commercial and open-source solver engines.
+* Soccoro, a collaborative effort with [[Wake Forest University|Wake Forest]] and [[Vanderbilt University|Vanderbilt]] Universities, is [[object-oriented]] software for performing electronic-structure calculations based on density-functional theory.<ref name="Soccoro">
+{{cite web
+| title = Sandia National Laboratories:Soccoro
+| publisher = Sandia National Laboratories
+| url = http://dft.sandia.gov/socorro/mainpage.html
+| accessdate = 2010-10-03
+}}
+</ref> It utilizes libraries such as MPI, [[BLAS]], and [[LAPACK]] and is developed under the GNU General Public License.<ref name="Soccoro" />
+* Titan Informatics Toolkit is a collection of cross-platform libraries for ingesting, analyzing, and displaying scientific and informatics data.<ref name="Titan">
+{{cite web
+ |title       = Titan Toolkit
+ |publisher   = Sandia National Laboratories
+ |url         = http://titan.sandia.gov/
+ |accessdate  = 2010-10-03
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20101216061255/http://titan.sandia.gov/
+ |archivedate = 2010-12-16
+}}
+</ref><ref name="Infovis">
+{{cite web
+ |title       = Main Page&nbsp;— InfovisWiki
+ |publisher   = [[Kitware|Kitware, Inc.]]
+ |url         = http://www.kitware.com/InfovisWiki/index.php/Main_Page
+ |accessdate  = 2010-10-03
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20100918104659/http://www.kitware.com/InfovisWiki/index.php/Main_Page
+ |archivedate = 2010-09-18
+}}
+</ref> It is a collaborative effort with [[Kitware|Kitware, Inc.]], and uses various open-source components such as the [[Boost C++ Libraries|Boost Graph Library]].<ref name="Titan" /> It is developed under a [[New BSD License#3-clause|New BSD license]].<ref name="Titan" />
+* [[Trilinos]] is an object-oriented library for building scalable scientific and engineering applications, with a focus on linear algebra techniques.<ref name="Trilinos">
+{{cite web
+| title = The Trilinos Project
+| publisher = Sandia National Laboratories
+| url = http://trilinos.org/
+| accessdate = 2017-01-04
+}}
+</ref> Most Trilinos packages are licensed under a [[Modified BSD License]].<ref name="Trilinos" />
+* Xyce is an open source, [[SPICE]]-compatible, high-performance analog circuit simulator, capable of solving extremely large circuit problems.<ref>{{cite web|url=https://xyce.sandia.gov/|title=Sandia National Laboratories: Xyce Parallel Electronic Simulator (Xyce)|publisher=}}</ref>
+
+In addition, Sandia National Laboratories collaborates with Kitware, Inc. in developing the [[VTK|Visualization Toolkit]] (VTK), a cross-platform graphics and visualization software suite.<ref name="VTK">
+{{cite web
+| title = VTK&nbsp;— The Visualization Toolkit
+| publisher = [[Kitware|Kitware, Inc.]]
+| url = http://vtk.org/
+| accessdate = 2010-10-03
+}}
+</ref> This collaboration has focused on enhancing the information visualization capabilities of VTK and has in turn fed back into other projects such as ParaView and Titan.<ref name="Paraview" /><ref name="Titan" /><ref name="VTK" />
+
+== Self-guided bullet ==
+On January 30, 2012, Sandia announced that it successfully test-fired a self-guided [[Dart (missile)|dart]] that can hit targets at {{convert|2000|m|yd|0|abbr=on}}. The dart is {{convert|4|in|mm|abbr=on}} long, has its center of gravity at the nose, and is made to be fired from a small-caliber [[smoothbore]] gun. It is kept straight in flight by four [[electromagnetism|electromagnetically]] actuated fins encased in a plastic puller [[Sabot (firearms)|sabot]] that fall off when the dart leaves the bore. The dart cannot be fired from conventional [[rifling|rifled]] barrels because the gyroscopic stability provided by rifling grooves for regular bullets would prevent the self-guided bullet from reliably turning towards a target when in flight, so fins are responsible for stabilizing rather than spinning. A [[laser]] designator marks a target, which is tracked by the dart's optical sensor and 8-bit [[CPU]]. The guided projectile is kept cheap because it does not need an [[inertial measurement unit]], since its small size allows it to make the fast corrections necessary without the aid of an IMU. The natural body frequency of the bullet is about 30 [[hertz]], so corrections can be made 30 times per second in flight. Muzzle velocity with commercial gunpowder is {{convert|2400|ft/s|m/s|abbr=on}} (Mach 2.1), but military customized gunpowder can increase its speed and range. Computer modeling shows that a standard bullet would miss a target at {{convert|1000|m|yd|0|abbr=on}} by {{convert|9.8|yd|m|0|abbr=on}}, while an equivalent guided bullet would hit within {{convert|8|in|cm|abbr=on}}. Accuracy increases as distances get longer, since the bullet's motions settle more the longer it is in flight.<ref>[http://www.guns.com/2012/02/02/laser-guided-bullets-sub-moa-at-over-a-mile/ Laser-Guided Bullets: Sub-MOA at Over a Mile] - Guns.com, 2 February 2012</ref><ref>[http://www.thefirearmblog.com/blog/2012/01/31/the-first-self-guided-bullet/ The First Self Guided Bullet] - Thefirearmblog.com, 31 January 2012</ref><ref>[http://www.gizmag.com/sandia-self-guided-bullet/21286/ Self-guided bullet could hit laser-marked targets from a mile away] - Gizmag.com, 31 January 2012</ref>
+
+== See also ==
+* [[Titan Rain]]
+* [[National Renewable Energy Laboratory]]
+* [[Test Readiness Program]]
+* [[Jess programming language]]
+* [[VxInsight]]
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+{{Div col start|colwidth=30em}}
+* [https://web.archive.org/web/20071021201217/http://computerworld.com/action/article.do?command=viewArticleBasic&taxonomyId=17&articleId=9016884&intsrc=hm_topic ''Computerworld'' article "Reverse Hacker Case Gets Costlier for Sandia Labs"]
+* [http://www.mercurynews.com/news/ci_6280088?nclick_check=1 ''San Jose Mercury News'' article "Ill Lab Workers Fight For Federal Compensation"]
+* [https://www.wired.com/entertainment/music/news/2007/05/ff_linkinpark?currentPage=all ''Wired Magazine'' article "Linkin Park's Mysterious Cyberstalker"]
+* [http://www.slate.com/id/2169088/nav/fix/ ''Slate'' article "Stalking Linkin Park"]
+* [https://web.archive.org/web/20070807160953/http://www.fedsmith.com/articles/articles.showarticle.db.php?intArticleID=1295 ''FedSmith.com'' article "Linkin Park, Nuclear Research and Obsession"]
+* [http://www.santafenewmexican.com/news/59339.html# ''The Santa Fe New Mexican'' article "Judge Upholds $4.3 Million Jury Award to Fired Sandia Lab Analyst"]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}
+* [http://www.time.com/time/nation/article/0,8599,1589735,00.html ''TIME'' article "A Security Analyst Wins Big in Court"]
+* [http://www.freenewmexican.com/news/56982.html ''The Santa Fe New Mexican'' article "Jury Awards Fired Sandia Analyst $4.3 Million"]
+* [https://web.archive.org/web/20070928004328/http://www.hpcwire.com/hpc-bin/artread.pl?direction=Current&articlenumber=16490 ''HPCwire'' article "Sandia May Unwittingly Have Sold Supercomputer to China"]
+* [http://www.fcw.com/article97746-02-26-07-Print ''Federal Computer Weekly'' article "Intercepts: Chinese Checkers"]
+* [https://fas.org/sgp/crs/nuke/RL30143.pdf#search=%22sandia%20chinese%20computer%20china%22 ''Congressional Research Service'' report "China: Suspected Acquisition of U.S. Nuclear Weapon Secrets"]
+* [https://web.archive.org/web/20080227100728/http://www.cmc.sandia.gov/isn/mar03isn.pdf ''Sandia National Laboratory Cooperative Monitoring Center'' article "Engagement with China"]
+* [https://archive.today/20130130062601/http://www.newsmax.com/archives/articles/2003/8/3/163541.shtml ''NewsMax.com'' article "Yet Another Lab Scandal"]
+* [http://news.bbc.co.uk/2/hi/americas/3018728.stm ''BBC News'' "Security Overhaul at US Nuclear Labs"]
+* [https://web.archive.org/web/20060607065653/http://www.foxnews.com/story/0,2933,90239,00.html ''Fox News'' "Iowa Republican Demands Tighter Nuclear Lab Security"]
+* [https://web.archive.org/web/20070310230233/http://pub10.bravenet.com/news/846727896/23174/1 ''UPI'' article "Workers Get Bonus After Being Disciplined"]
+* [https://web.archive.org/web/20060316083859/http://www.industryweek.com/ReadArticle.aspx?ArticleID=190&SectionID=38 ''IndustryWeek'' article "3D Silicon Photonic Lattice"]
+* [http://www.freenewmexican.com/news/33305.html October 6, 2005 ''The Sante Fe New Mexican'' article "Sandia Security Managers Recorded Workers' Calls"]
+* [http://www.bizjournals.com/albuquerque/stories/2002/05/20/story3.html May 17, 2002 ''New Mexico Business Weekly'' article "Sandia National Laboratories Says it's Worthless"]
+{{Div col end}}
+
+== External links ==
+{{Commons category|Sandia National Laboratories}}
+* {{official website|http://www.sandia.gov}}
+* [https://web.archive.org/web/20041108135635/http://www.er.doe.gov/production/er-07/page2a9.html DOE Laboratory Fact Sheet]
+
+{{Coord|35.050657|-106.543136|region:US_type:landmark|display=title}}
+{{U.S. National Labs}}
+{{Honeywell}}
+{{Lockheed Martin}}
+{{Livermore, California}}
+
+{{Authority control}}
+
+[[Category:Sandia National Laboratories| ]]
+[[Category:Economy of Albuquerque, New Mexico]]
+[[Category:Nuclear weapons infrastructure of the United States]]
+[[Category:United States Department of Energy national laboratories]]
+[[Category:Laboratories in the United States]]
+[[Category:Supercomputer sites]]
+[[Category:Weapons manufacturing companies]]
+[[Category:Honeywell]]
+[[Category:Lockheed Martin]]
+[[Category:Livermore, California]]
+[[Category:Military research of the United States]]
+[[Category:1949 establishments in New Mexico]]

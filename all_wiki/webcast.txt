@@ -1,0 +1,68 @@
+{{short description|Internet media presentation via streaming media technology}}
+[[File:Sample Webcast Screenshot.png|right|350px|thumb|A webcast playing in an embedded media player]]
+
+A '''webcast''' is a media presentation distributed over the Internet using [[streaming media]] technology to distribute a single content source to many simultaneous listeners/viewers. A webcast may either be distributed live or on demand. Essentially, webcasting is "[[broadcasting]]" over the Internet.
+
+The largest "webcasters" include existing radio and TV stations, who "[[simulcast]]" their output through online TV or online radio streaming, as well as a multitude of Internet only "stations". Webcasting usually consists of providing non-interactive linear streams or events. Rights and licensing bodies offer specific "webcasting licenses" to those wishing to carry out Internet broadcasting using copyrighted material.
+
+==Overview==
+Webcasting is used extensively in the commercial sector for investor relations [[presentation]]s (such as annual general meetings), in [[e-learning]] (to transmit [[seminar]]s), and for related communications activities. However, webcasting does not bear much, if any, relationship to [[web conferencing]], which is designed for many-to-many interaction.<ref>{{cite web|url=http://web.inxpo.com/casting-calls/bid/112104/Webcasting-101-Planning-and-Executing-High-Quality-Webcasts|title=Webcasting 101: Planning and Executing High Quality Webcasts|last=Shiao|first=Dennis|date=26 December 2012|publisher=INXPO|accessdate=15 May 2013}}</ref>
+
+The ability to webcast using cheap/accessible technology has allowed [[independent media]] to flourish.  There are many notable independent shows that [[Broadcasting|broadcast]] regularly online. Often produced by average citizens in their homes they cover many interests and topics. Webcasts relating to computers, [[technology]], and news are particularly popular and many new shows are added regularly.
+
+Webcasting differs from [[podcast]]ing in that webcasting refers to live streaming while podcasting simply refers to media files placed on the Internet.<ref>{{cite web|url=http://www.webmarketcentral.com/webcast_podcast_overview.htm|title=Overview of Webcasting and Podcasting|publisher=WebMarketCentral|accessdate=15 May 2013}}</ref>
+
+==History==
+The earliest graphically-oriented web broadcasts were not streaming video, but were in fact still frames which were photographed with a web camera every few minutes while they were being broadcast live over the Internet. One of the earliest instances of sequential live image broadcasting was in 1991 when a camera was set up next to the Trojan Room in the computer laboratory of the [[University of Cambridge]]. It provided a live picture every few minutes of the office coffee pot to all desktop computers on that office's network.<ref>{{cite web | url=http://www.cl.cam.ac.uk/coffee/qsf/coffee.html | title=The Trojan Room Coffee Pot|author=Quentin Stafford- Fraser|accessdate=3 October 2017}}</ref> A couple of years later its broadcasts went to the Internet, became known as the [[Trojan Room coffee pot|Trojan Room Coffee Pot webcam]], and gained international notoriety as a feature of the fledgling [[World Wide Web]].<ref>{{cite web | url=https://gizmodo.com/5993583/the-worlds-first-webcam-was-created-to-check-a-coffee-pot-remotely | title=The World's First Webcam Was Created to Check a Coffee Pot |author=Jamie Condliffe | accessdate=2 February 2018 }}</ref>
+
+Later in 1996 an American college student and [[conceptual art]]ist, [[Jenny Ringley]], set up a web camera similar to the Trojan Room Coffee Pot's [[webcam]] in her dorm room.<ref name="disobey">{{cite web |title=Forgotten Web Celebrities: Jennicam.org's Jennifer Ringley |url=http://www.disobey.com/ghostsites/2004_05_19_archive.html |accessdate=March 27, 2014 |date=May 19, 2004 |first=Steve |last=Baldwin |publisher=Disobey.com: Content for the discontented (blog)}}</ref> That webcam photographed her every few minutes while it broadcast those images live over the Internet upon a site called ''JenniCam''. Ringley wanted to portray all aspects of her lifestyle and the camera captured her doing almost everything&nbsp;– brushing her teeth, doing her laundry, and even having sex with her boyfriend.<ref name=Bartlett>{{cite book|first=Jamie|last=Bartlett|chapter=Chapter 6: Lights, Web-camera, Action|pages=166–192|title=The Dark Net: Inside the Digital Underworld|url=https://books.google.com/books?id=mTlUBAAAQBAJ|location=London|publisher=Melville House|year=2014|isbn=9780434023172}}</ref><ref name=Senft1>{{cite book|first=Theresa |last=Senft| chapter=Chapter 1 - Keeping it Real on the Web: Authenticity, Celebrity, Branding | pages=15–17 |title=Camgirls: Celebrity & Community in the Age of Social Networks |location= New York | publisher=  Peter Lang Publishing|year=2008|isbn=978-0-8204-5694-2}}</ref> Her website generated millions of hits upon the Internet, became a pay site in 1998, and spawned hundreds of female imitators who would then use streaming video to create a new billion dollar industry called ''camming'', and brand themselves as [[webcam model|camgirls]] or [[webcam model]]s.<ref name=Richtel>{{cite news|last1=Richtel|first1=Matt|title=Intimacy on the Web, With a Crowd|url=https://www.nytimes.com/2013/09/22/technology/intimacy-on-the-web-with-a-crowd.html|accessdate=16 January 2018|work=New York Times|date=21 September 2013}}</ref>
+
+One of the earliest webcast equivalent of an online [[concert]] and one of the earliest examples of webcasting itself was by [[Apple Computer]]'s Webcasting Group in partnership with the entrepreneurs [[Michael Dorf (entrepreneur)|Michael Dorf]] and [[Andrew Rasiej]]. Together with [[David B. Pakman]] from [[Apple Inc.|Apple]], they launched the Macintosh New York Music Festival from July 17–22, 1995. This event audio webcast concerts from more than 15 clubs in New York City. Apple later webcast a concert by [[Metallica]] on June 10, 1996 live from Slim's in San Francisco.<ref>{{cite news|title=Heavy Metal Metallica Plans to Rock Cyberspace: Apple Computer to 'Webcast' band's concert |date=May 30, 1996| location=San Francisco, CA, USA |newspaper= SFGate |url = http://articles.sfgate.com/1996-05-30/business/17775287_1_xing-technology-technology-startups-fastest-growing-technology}}</ref>
+
+In 1995, Benford E. Standley produced one of the first audio/video webcasts in history.<ref>{{cite web |url=http://www.digitalmediafestival.com/Benford_E_Standley.htm |title=Benford "Buffalo" Earl Sandley |publisher=Digital Media Festival |access-date=February 19, 2014 }}</ref>
+
+On October 31, 1996, UK rock band Caduseus broadcast their one-hour concert from 11{{nbsp}}pm to 12{{nbsp}}midnight (UT) at Celtica in Machynlleth, Wales, UK&nbsp;– the first live streamed audio and simultaneous live streamed video multicast&nbsp;– around the globe to more than twenty direct "mirrors" in more than twenty countries.<ref>{{cite news |url=http://downloads.bbc.co.uk/wales/archive/bbc-mid-wales-mystory-caduseus-1996-internet-broadcast.pdf |date=November 24, 2005 |title=Internet Innovators |publisher=BBC |access-date=December 8, 2016 }}</ref><ref>{{cite web |url=https://www.youtube.com/watch?v=EIBggEZqSW0 |title=
+CADUSEUS – BBC news feature |website=YouTube |access-date=December 8, 2016 |date=January 12, 2010 }}</ref>
+
+In September 1997, Nebraska Public Television started webcasting Big Red Wrap Up from Lincoln, Nebraska which combined highlights from every Cornhusker football game, coverage of the coaches' weekly press conferences, analysis with Nebraska sportswriters, appearances by special guests and questions and answers with viewers.<ref>{{cite news |url=http://scarlet.unl.edu/scarlet/v7n25/v7n25nibs.html |title=Big Red Wrap-Up Now on World Wide Web |newspaper=Scarlet |publisher=University of Nebraska-Lincoln |date=September 26, 1997 |access-date=December 8, 2016 }}</ref>
+
+On August 13, 1998, it is generally believed the first webcast wedding took place, between Alan K'necht and Carrie Silverman in [[Toronto]] [[Canada]].<ref>{{cite news |title=Year in reviews August |date= December 25, 1998 | location=Montreal, CA|newspaper= The Montreal Mirror | url = http://www.montrealmirror.com/ARCHIVES/1998/122498/august.html}}</ref><ref>{{cite news|title=Various TV News Clips |date=August 13, 1998|work=Online|location=Toronto, CA | publisher=Various | url = http://video.google.com/videoplay?docid=2359180177110889920}}</ref>
+
+On October 22, 1998, the first Billy Graham Crusade was broadcast live to a worldwide audience from the [[Raymond James Stadium]] in Tampa Florida courtesy of Dale Ficken and the WebcastCenter in Pennsylvania. The live signal was broadcast via satellite to PA, then encoded and streamed via the BGEA website.<ref>{{cite web|url=http://www.billygraham.org/assets/media/pdfs/development/annualreports/BGEA1998AnnualReport.pdf|title=Occupying Till He Returns|last=Graham|first=Billy|publisher=BillyGraham.org|access-date=May 15, 2013}}</ref>
+
+The first teleconferenced/webcast wedding to date is believed to have occurred on December 31, 1998. Dale Ficken and Lorrie Scarangella wed on this date as they stood in a church in Pennsylvania, and were married by Jerry Falwell while he sat in his office in [[Lynchburg, Virginia]].<ref>{{cite news|url=http://old.post-gazette.com/regionstate/19981231wed5.asp|title=Hollidaysburg couple plans to be virtually wed on the Web|last=Gibb|first=Tom|date=31 December 1998|newspaper=Post-Gazette|access-date=May 15, 2013}}</ref>
+
+Virtually all major broadcasters now have a webcast of their output, from the [[BBC]] to [[CNN]] to [[Al Jazeera]] to [[DWAO-TV|UNTV]] in television to Radio China,  Vatican Radio,<ref>{{citation | url = http://www.vaticanradio.org/ | title = Radio | publisher = Vatican}}.</ref> United Nations Radio and the [[World Service]] in radio.
+
+On November 4, 1994, Stef van der Ziel distributed the first live video images over the web from the Simplon venue in Groningen.<ref>{{cite web|title=First Webcast|publisher=Jet-Stream|date=November 4, 1994|url=http://www.jet-stream.com/blog/first-webcast/}}</ref> On November 7, 1994, [[WXYC]], the [[college radio]] station of the [[University of North Carolina at Chapel Hill]] became the first radio station in the world to broadcast its signal over the internet.<ref>{{cite news|title=Communications: Picture the scene|last=Grossman|first=Wendy|date=January 26, 1995|work=Online|location= Manchester, United Kingdom|publisher=The Guardian|pages=4}}</ref><ref>{{cite press release|title=WXYC announces the first 24-hour real-time world-wide Internet radio simulcast|publisher=WXYC 89.3 FM|date=November 7, 1994|url=http://www.wxyc.org/about/first/release.html|accessdate=April 5, 2008}}</ref>
+
+Translated versions including [[Subtitling]] are now possible using SMIL [[Synchronized Multimedia Integration Language]].
+
+==Wedcast==
+A webcast of a [[wedding]] may be called a '''wedcast''';<ref name=iht>{{cite news|title=Can't make the ceremony? Watch the wedcast|url=http://www.iht.com/articles/2007/10/23/business/webwed.php|publisher=[[The International Herald Tribune]] / [[The Boston Globe]]|first=Kimberly|last=Blanton|date=October 22, 2007}}</ref><ref name=time>{{cite magazine|title=Wedcasting|url=http://www.time.com/time/magazine/article/0,9171,1692037,00.html|magazine=[[Time Magazine|Time]]|first=Jeninne|last=Lee-St. John|date=December 6, 2007|url-status=dead|archive-url=https://web.archive.org/web/20071208204641/https://time.com/time/magazine/article/0,9171,1692037,00.html|archive-date=December 8, 2007}}</ref> it allows family and friends of the couple to watch the wedding in real time on the [[Internet]]. It is sometimes used for weddings in exotic locations, where it would be expensive or difficult for people to travel to see the wedding in person.<ref name=iht/>
+
+Webcasting a funeral is also a service provided by some funeral homes.<ref>{{cite news |url=https://www.nytimes.com/2011/01/25/fashion/25death.html |title=For Funerals Too Far, Mourners Gather on the Web |newspaper=The New York Times |date=January 24, 2011 |first=Laura M. |last=Holson |access-date=April 16, 2019 }}</ref> Although it has been around since at least 2005, cheaper broadband access, the financial strain of travel, and deployments to Iraq and Afghanistan have all led to increased use of the technology.<ref>{{cite journal|publisher=IEEE|journal=Spectrum|url=https://spectrum.ieee.org/at-work/innovation/funeral-webcasting-is-alive-and-well|title=Funeral webcasting is alive and well|date=September 30, 2009|first=Susan|last=Karlin|access-date=April 16, 2019}}.</ref>
+
+==See also==
+{{Portal|Internet}}
+{{Wiktionary}}
+* [[Internet radio]]
+* [[Live streaming]]
+* [[Media clip]]
+* [[Podcast]]
+* [[Streaming media]]
+* [[Synchronized Multimedia Integration Language]]
+* [[Video blog]]
+* [[Webisode]]
+* [[Webinar]]
+
+==References==
+{{reflist|30em}}
+
+{{Broadcasting}}
+
+[[Category:Internet television]]
+[[Category:Internet radio]]
+[[Category:Streaming]]
+[[Category:Broadcasting]]
+[[Category:Online services]]

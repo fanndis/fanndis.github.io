@@ -1,0 +1,442 @@
+{{short description|Municipality of the Philippines in the province of Oriental Mindoro}}
+{{Infobox settlement
+| name                   = {{PH wikidata|name}}
+| image_skyline          = 
+| image_caption          = 
+| image_seal             = Ph seal oriental mindoro gloria.png
+| seal_size              = 100x80px
+| image_map              = {{PH wikidata|image_map}}
+| map_caption            = {{PH wikidata|map_caption}}
+| image_map1             = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map            = Philippines
+| pushpin_label_position = left
+| pushpin_map_caption    = Location within the {{PH wikidata|country}}
+| coordinates            = {{PH wikidata|coordinates}}
+| settlement_type        = {{PH wikidata|settlement_type}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{flag|Philippines}}
+| subdivision_type1      = [[Regions of the Philippines|Region]]
+| subdivision_name1      = {{PH wikidata|region}}
+| subdivision_type2      = [[Provinces of the Philippines|Province]]
+| subdivision_name2      = {{PH wikidata|province}}
+| official_name          = {{PH wikidata|official_name}}
+| etymology              =  <!--origin of name-->
+| named_for              =  [[Gloria Macapagal Arroyo]]
+| native_name            =
+| other_name             =
+| nickname               = ''Agricultural Production and Eco-Tourism Center of Oriental Mindoro''
+| motto                  =
+| anthem                 =
+| subdivision_type3      = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3      = [[Legislative districts of Oriental Mindoro#2nd District|2nd District]]
+| established_title      = [[Date of establishment|Founded]]
+| established_date       = October 1, 1964
+| parts_type             = [[Barangay]]s
+| parts_style            = para
+| p1                     = 27 (see [[#Barangays|Barangays]])
+| leader_title           = {{PH wikidata|leader_title}} <!--mayor-->
+| leader_name            = German D. Rodegerio
+| leader_title1          = [[Vice Mayor]]
+| leader_name1           = Vic Ruskin M. Ong
+| leader_title2          = [[House of Representatives of the Philippines#Current composition|Congressman]]
+| leader_name2           = Alfonso V. Umali Jr.
+| leader_title3          = [[Councilor]]
+| leader_name3           = 
+| leader_title4          = [[Elections in the Philippines#Qualification|Electorate]] 
+| leader_name4           = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type        = {{PH wikidata|government_type}}
+| government_footnotes   = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m            = {{PH wikidata|elevation_m}}
+| elevation_max_m        =
+| elevation_min_m        =
+| elevation_max_rank     =
+| elevation_min_rank     =
+| elevation_footnotes    = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes= 
+| elevation_min_footnotes= 
+| area_footnotes         = {{PSGC detail|area}}
+| area_total_km2         = {{PH wikidata|area}}
+| population_footnotes   = {{PH census|current}}
+| population_total       = {{PH wikidata|population_total}}
+| population_as_of       = {{PH wikidata|population_as_of}}
+| population_density_km2 = auto
+| population_blank1_title= [[Household]]s
+| population_blank1      = {{PH wikidata|household}} 
+| population_blank2_title= 
+| population_blank2      = 
+| population_demonym     =
+| population_rank        =
+| population_note        =
+| timezone               = [[Philippine Standard Time|PST]]
+| utc_offset             = +8
+| postal_code_type       = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code            = {{PH wikidata|postal_code}}
+| postal2_code_type      = {{PSGCstyle}}
+| postal2_code           = {{PSGC detail}}
+| area_code_type         = {{areacodestyle}}
+| area_code              = {{PH wikidata|area_code}}
+| website                = {{PH wikidata|website}}
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = 16.92% (2015)<ref>{{cite web |url=https://psa.gov.ph/sites/default/files/City%20and%20Municipal-level%20Small%20Area%20Poverty%20Estimates_%202009%2C%202012%20and%202015_0.xlsx|title=PSA releases the 2015 Municipal and City Level Poverty Estimates|location=Quezon City, Philippines |accessdate=12 October 2019}}</ref>
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}} 
+| demographics1_title4   = Revenue Rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}} 
+| demographics1_title6   = Assets Rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Liabilities]]
+| demographics1_info7    = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}} 
+| demographics1_title8   = Liabilities Rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}} 
+| demographics1_title10  = Expenditure Rank
+| demographics1_info10   = 
+| demographics_type2     = 
+| demographics2_title1   = Electricity
+| demographics2_info1    =  
+| demographics2_title2   = Water
+| demographics2_info2    =  
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = [[Crime index]]
+| blank2_info_sec1       = 
+| blank3_name_sec1       = 
+| blank3_info_sec1       = 
+| blank4_name_sec1       = 
+| blank4_info_sec1       = 
+| blank5_name_sec1       = 
+| blank5_info_sec1       = 
+| blank6_name_sec1       = 
+| blank6_info_sec1       = 
+| blank7_name_sec1       = 
+| blank7_info_sec1       = 
+| blank1_name_sec2       = Major religions
+| blank1_info_sec2       = 
+| blank2_name_sec2       = Feast date
+| blank2_info_sec2       = 
+| blank3_name_sec2       = Catholic diocese
+| blank3_info_sec2       =
+| blank4_name_sec2       = Patron saint 
+| blank4_info_sec2       = 
+| blank5_name_sec2       = 
+| blank5_info_sec2       = 
+| blank6_name_sec2       = 
+| blank6_info_sec2       = 
+| blank7_name_sec2       = 
+| blank7_info_sec2       =
+| short_description      =
+| footnotes              =
+}}
+
+'''{{PH wikidata|name}}''', officially the '''{{PH wikidata|official_name}}''' ({{lang-tgl|Bayan ng {{PH wikidata|name}}}}),  is a {{PH wikidata|income_class_ordinal}} [[{{PH wikidata|settlement_text}} of the Philippines|{{PH wikidata|settlement_text}}]] in the [[Philippine Province|province]] of {{PH wikidata|province}}, {{PH wikidata|country}}. According to the {{PH wikidata|population_as_of}}, it has a population of {{PH wikidata|population_total}} people.{{PH census|current}}
+
+The town was previously a [[barangay]] called Maligaya, the largest barangay during the administration of [[President of the Philippines|President]] [[Diosdado Macapagal]]. Local politicians, led by former guerrilla chief Nicolas Jamilla, Sr., battled for the conversion of Maligaya into a new town. They renamed it after the ten-year-old daughter of the President, [[Gloria Macapagal Arroyo]], who later on herself became the fourteenth President in 2001. Jamilla became the first mayor of the town, which kept the old name "Maligaya" as the name of a barangay in the [[poblacion]].
+
+==Geography==
+
+Gloria is located {{convert|77|km}} from the provincial capital [[Calapan City, Oriental Mindoro|Calapan City]].
+
+It is one of the 7 towns comprising Oriental Mindoro's second district. On its north lies its mother town [[Pinamalayan, Oriental Mindoro|Pinamalayan]], on the west is the town of [[Sablayan, Occidental Mindoro|Sablayan]] in [[Occidental Mindoro]]. On the south is the town of [[Bansud, Oriental Mindoro|Bansud]], while on the east is the [[Tablas Strait]].
+
+===Climate===
+{{Weather box
+| location     = Gloria, Oriental Mindoro
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 26
+| Jan low C  = 22
+| Feb high C = 28
+| Feb low C  = 22
+| Mar high C = 29
+| Mar low C  = 22
+| Apr high C = 31
+| Apr low C  = 23
+| May high C = 31
+| May low C  = 25
+| Jun high C = 30
+| Jun low C  = 25
+| Jul high C = 29
+| Jul low C  = 25
+| Aug high C = 29
+| Aug low C  = 25
+| Sep high C = 29
+| Sep low C  = 25
+| Oct high C = 29
+| Oct low C  = 24
+| Nov high C = 28
+| Nov low C  = 23
+| Dec high C = 27
+| Dec low C  = 23
+| Jan precipitation mm = 115
+| Feb precipitation mm = 66
+| Mar precipitation mm = 55
+| Apr precipitation mm = 39
+| May precipitation mm = 164
+| Jun precipitation mm = 282
+| Jul precipitation mm = 326
+| Aug precipitation mm = 317
+| Sep precipitation mm = 318
+| Oct precipitation mm = 192
+| Nov precipitation mm = 119
+| Dec precipitation mm = 173
+| Jan rain days        = 13.6
+| Feb rain days        = 9.4
+| Mar rain days        = 10.4
+| Apr rain days        = 10.5
+| May rain days        = 21.1
+| Jun rain days        = 26.0
+| Jul rain days        = 29.0
+| Aug rain days        = 27.6
+| Sep rain days        = 27.5
+| Oct rain days        = 23.1
+| Nov rain days        = 16.7
+| Dec rain days        = 16.1
+| source 1 = Meteoblue <ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/gloria_philippines_1712813
+| title =  Gloria: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| accessdate = 27 April 2020 }}</ref>
+| date = 27 April 2020  
+}}
+
+===Barangays===
+Gloria is divided into 27 barangays: nine (9) barangays are situated along the national highway - Bulaklakan, Maligaya, Kawit, Narra, Balete, Lucio Laurel, G. Antonino, Santa Maria and Banus; six (6) are coastal barangays - Tambong, San Antonio, Santa Theresa, Guimbonan, Maragooc and Agsalin; and twelve (12) interior barangays on the west side - Agos, A. Bonifacio, Alma Villa, Mirayan, Buong Lupa, Malamig, Malubay, M. Adriatico, Papandungin, Malayong, Banutan and Manguyang.<ref>{{cite web |title=Brief Introduction about the Municipality of Gloria |url=http://gloria.gov.ph/index.php?option=com_content&view=article&id=95&Itemid=117 |publisher=Municipality of Gloria |accessdate=30 October 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20121111231205/http://gloria.gov.ph/index.php?option=com_content&view=article&id=95&Itemid=117 |archivedate=11 November 2012 }}</ref>
+
+{| class="wikitable sortable" style="text-align: center;"
+|-
+! Barangay
+! Population (2016)
+|-
+|align="center"| Agsalin 
+| 678
+|-
+|align="center"| Agos 
+| 1,036
+|-
+|align="center"| Alma Villa
+| 1,411
+|-
+|align="center"| Andres Bonifacio
+| 1,320
+|-
+|align="center"| Balete
+| 2,864
+|-
+|align="center"| Banus
+| 2,298
+|-
+|align="center"| Banutan
+| 906
+|-
+|align="center"| Buong Lupa
+| 969
+|-
+|align="center"| Bulaklakan
+| 1,126
+|-
+|align="center"| Gaudencio Antonino (Tinalunan)
+| 1,651
+|-
+|align="center"| Guimbonan
+| 1,104
+|-
+|align="center"| Kawit
+| 2,022
+|-
+|align="center"| Lucio Laurel (Calamundingan) 
+| 2,649
+|-
+|align="center"| Macario Adriatico (Tubag) 
+| 1,139
+|-
+|align="center"| Malamig
+| 2,929
+|-
+|align="center"| Malayong
+| 1,228
+|-
+|align="center"| Maligaya (Poblacion)
+| 3,246
+|-
+|align="center"| Malubay
+| 1,319
+|-
+|align="center"| Manguyang
+| 1,633
+|-
+|align="center"| Maragooc
+| 1,258
+|-
+|align="center"| Mirayan
+| 938
+|-
+|align="center"| Narra (Malusak)
+| 2,169
+|-
+|align="center"| Papandungin
+| 1,110
+|-
+|align="center"| San Antonio (Dalagan)
+| 1,330
+|-
+|align="center"| Santa Maria (Bulbugan)
+| 2,034
+|-
+|align="center"| Santa Theresa (Langgang)
+| 1,523
+|-
+|align="center"| Tambong
+| 3,183
+|-
+! Total
+! 45,073
+|}
+
+==History==
+Gloria was once part of the municipality of [[Pinamalayan, Oriental Mindoro|Pinamalayan]]. In 1915, migrant families from [[Marinduque]] settled in Barrio Tambong, and in 1930, when a national road was built through Pinamalayan, they moved west and occupied the area along this road. Tambong was later divided into two barrios: the first retained the original name, while the second was called Maligaya (meaning "happy"), alluding to the settlers' happiness at the bountiful yield of their agricultural crops.<ref name=history>{{cite web |title=History and Roll of Honors |url=http://gloria.gov.ph/index.php?option=com_content&view=article&id=97&Itemid=119 |work=Profile :: About the Municipality |publisher=Municipality of Gloria |accessdate=30 October 2012 |date=30 September 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20121111231215/http://gloria.gov.ph/index.php?option=com_content&view=article&id=97&Itemid=119 |archivedate=11 November 2012 }}</ref>
+
+The residents of 25 barrios (Maligaya, Kawit, Malusak, Balite, Dalagan, Tinalunan, Calamundingan, Bulbogan, Langang, Banus, Agus, Batingan, Papandungin, Malamig, Tubag, Malayong, Malubay, Mirayan, Guimbonan, Agsalin, Manguyang, Banutan, Boong-Lupa, Tambong and Maragooc) grouped together and petitioned for the separation of their barrios from the municipality of Pinamalayan. The petition was granted on October 1, 1964, through Executive Order No. 117 issued by President [[Diosdado Macapagal]]. Executive Order No. 140, issued on February 25, 1965, by the same President, defined and fixed the boundaries of Gloria as a new municipality. On December 24, 1965, however, the Supreme Court nullified its status as a municipality. Gloria was finally recognized as a distinct municipality on June 9, 1966, when Housebill No. 6107, sponsored by Congressman Luciano Joson, was enacted into law. (It later became known as RA 4651.)<ref name=history/>
+
+The new municipality was named Gloria, primarily as a token of gratitude to President Macapagal, whose daughter is named Gloria, and secondarily from the word "glory", celebrating the settlers' "glorious" life in Barrio Maligaya.
+
+Barrio Maligaya later became the poblacion and the official seat of the municipal government. Nicolas M. Jamilla Sr. was appointed first Mayor of Gloria by President Diosdado Macapagal, serving from 1964 to 1967. He then ran in the local election of 1967 and won. The first session of the Municipal Council was held in the residence of Mr. Albino Janda. The town's official functions were held in this house from February 1964 to November 1965; then in the residences of Genaro Olavidez from March to June 1965 and Arsenio Arriola from July 1965 to 1973.<ref name=history/>
+
+The name of the following barangays were changed: Bulbugan to Santa Maria; Dalagan to San Antonio; Malusak to Narra; Batingan to A. Bonifacio; Tubag to Macario Adriatico; Tinalunan to Gaudencio Antonino; Langang to Santa Theresa and Calamundingan to Lucio Laurel. The new barangays of Bulaklakan and Alma Villa were created later. In 1968, Gloria Realty Development Corporation donated two hectares to the municipality, and this became the site of the Municipal Building in 1972. Under the leadership of Mayor Jamilla, the municipality later bought a ten-hectare lot, which became the site of the Municipal Cemetery, Sports Center, Agricultural Center and Breeding Station, and the Medicare Hospital.<ref name=history/>
+
+==Demographics==
+{{Philippine Census
+| cols = 2
+| align= none
+| title= Population census of {{PH wikidata|name}}
+| 1903 = 
+| 1918 = 
+| 1939 = 
+| 1948 = 
+| 1960 = 
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 =
+| 2025 =
+| 2030 =
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}} 
+}}
+
+==Local government==
+Current Municipal Officials:
+
+{| class="wikitable sortable" style="text-align: center;"
+! Officials
+! Political Party
+|-
+|align="center"| Rodegerio, Bitoy
+(Mayor) 
+| LP
+|-
+|align="center"| Solas, Ramon
+(Vice Mayor) 
+| LP
+|-
+!Councilors
+!Political Party
+|-
+|align="center"| Bawasanta, Crispin
+| UNA
+|-
+|align="center"| Jamilla, Nick Orlando 
+| LP
+|-
+|align="center"| Paz, Norma
+| UNA
+|-
+|align="center"| Alvarez, Rambo
+| NPC
+|-
+|align="center"| Fabon, Jun
+| NPC
+|-
+|align="center"| Sadiwa, Romeo
+| LP
+|}
+
+===List of former mayors===
+* Nicolas M. Jamilla, Sr. (1964–1986; 1988–1995)+
+* Amando Medrano (1986–1987)+
+* Felix V. Jarabe (1987)+
+* Alonzo San Agustin (1987–1988)+
+* Jimmy S. de Castro (1995–2001)
+* Romeo D. Alvarez (2001–2010)
+* Loreto S. Pérez (2
+
+==Events==
+* February 14–15: Town Fiesta in honor fn the Sacred Heart of Jesus
+* September 29 to October 1: Kawayanan Festival
+* October 1: Foundation Day
+
+==Education==
+===Tertiary===
+*Erhard Science and Technological Institute
+*Gloria Institute of Science and Technology
+
+===Secondary===
+*President Diosdado Macapagal Memorial National High School (formerly known as Malamig National High School Extension)
+*Malamig National High School
+*Manuel Adriano Memorial National High School
+*Bulbugan National High School
+*Sacred Heart Academy
+*Oriental Mindoro Institute
+*CLJC Center for Excellence and Development Academy
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.philatlas.com/luzon/mimaropa/oriental-mindoro/gloria.html Gloria Profile at PhilAtlas.com]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[https://web.archive.org/web/20081120024509/http://www.census.gov.ph/data/census2007/index.html Philippine Census Information]
+*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=7&frmIdProvince=41&frmIdLgu=871 Local Governance Performance Management System]
+* {{official website|http://gloria.gov.ph/}}
+
+{{Geographic location
+|Centre    = Gloria
+|North     = [[Pinamalayan, Oriental Mindoro|Pinamalayan]]
+|East      = ''[[Sibuyan Sea]]'' / [[Concepcion, Romblon]]
+|South     = [[Bansud, Oriental Mindoro|Bansud]]
+|West      = [[Sablayan, Occidental Mindoro]]
+}}
+{{Oriental Mindoro}}
+{{Authority control}}
+
+[[Category:Municipalities of Oriental Mindoro]]

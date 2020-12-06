@@ -1,0 +1,355 @@
+{{Redirect|Soft money}}
+{{Short description|Contributions to American election campaign funds}}{{Use American English|date=January 2019}}
+
+{{Use mdy dates|date=January 2019}}
+'''Campaign finance in the United States''' is the financing of [[Elections in the United States|electoral campaigns]] at the [[Federal government of the United States|federal]], [[State government|state]], and [[Local government in the United States|local levels]]. At the federal level, campaign finance law is enacted by Congress and enforced by the [[Federal Election Commission]] (FEC), an [[Independent agencies of the United States government|independent federal agency]]. Although most campaign spending is privately financed (largely through donors that work in subsidized industries),<ref>https://drive.google.com/open?id=1K1KY40X1kkILTiBXpi11qDYGMlbVLqrM {{full citation needed|date=June 2020}}</ref> [[Political action committee|public financing]] is available for qualifying candidates for President of the United States during both the [[primary election|primaries]] and the general election. Eligibility requirements must be fulfilled to qualify for a government subsidy, and those that do accept government funding are usually subject to spending limits on money.
+
+Races for non-federal offices are governed by state and local law. Over half the states allow some level of corporate and union contributions. {{asof|2010}}, some states have limits on contributions from individuals that are lower than the national limits, while four states (Missouri, Oregon, Utah and Virginia) have no limits at all.<ref>{{cite web|url=http://www.ncsl.org/default.aspx?tabid=16594|title=Contribution Limits: An Overview|author=National Conference of State Legislatures|date=2010-01-20|access-date=2010-07-24|author-link=National Conference of State Legislatures}}</ref> This article deals primarily with campaigns for federal office.
+
+==Campaign finance number==
+In 2008, candidates for office, [[Political parties in the United States|political parties]], and independent groups spent a total of $5.3 billion on federal elections.<ref>{{cite web|url=http://www.opensecrets.org/bigpicture/index.php|work = OpenSecrets.org|title=The Money Behind the Elections |archive-url = https://web.archive.org/web/20160307122029/http://www.opensecrets.org/bigpicture/index.php|archive-date = 7 March 2016}}</ref> The amount spent on the presidential race alone was $2.4 billion,<ref>{{cite web |url=http://www.politico.com/news/stories/1108/15283.html|title=2008 campaign costliest in U.S. history|work=[[Politico]]|access-date=13 January 2016 |first = Jeanne|last = Cummings|date = 5 November 2008}}</ref> and over $1 billion of that was spent by the campaigns of the two major candidates: [[Barack Obama]] spent $730 million in his election campaign, and [[John McCain]] spent $333 million.<ref>{{cite web |url=http://www.opensecrets.org/pres08/index.php|title=Banking on Becoming President - OpenSecrets|access-date=13 January 2016}}</ref> The total amount spent by Obama and McCain was a record at the time.<ref>{{cite book|last=Dziedzic|first=Nancy|title=Election Spending |year= 2012|publisher=Greenhaven Press|location=Detroit|isbn= 978-0-7377-5434-6 |url=https://archive.org/details/electionspending0000dzie |url-access=registration}}</ref>
+
+In the 2010 midterm election cycle, candidates for office, political parties, and independent groups spent a total of $3.6 billion on federal elections. The average winner of a seat in the House of Representatives spent $1.4 million on their campaign. The average winner of a Senate seat spent  $9.8 million.<ref>{{cite web|url=https://www.opensecrets.org/overview/election-trends.php?cycle=2010 |title= Election Trends|access-date=26 June 2020|work = OpenSecrets.org}}</ref>
+
+The money for campaigns for federal office comes from four broad categories of sources: (1) small individual contributors (individuals who contribute $200 or less), (2) large individual contributors (individuals who contribute more than $200), (3) political action committees, and (4) self-financing (the candidate's own money). In the 2010 Congressional races, the sources of campaign contributions broke down as follows:<ref>{{cite web|url=http://www.opensecrets.org/bigpicture/wherefrom.php?cycle=2010#|title=Where the Money Came From|access-date=13 January 2016}}</ref> c/o 2k18
+
+{| class="wikitable"
+|-
+! !! Small Individual <br />Contributors !! Large Individual <br />Contributors !! Political Action <br />Committees !! Self-Financing !! Other
+|-
+! House Democrats
+| 9% || 47% || 38% || 3% || 3%
+|-
+! House Republicans
+| 14% || 48% || 24% || 12% || 3%
+|-
+! Senate Democrats
+| 11% || 54% || 15% || 12% || 8%
+|-
+! Senate Republicans
+| 18% || 42% || 12% || 20% || 8%
+|}
+
+{{Image frame |align=center |width=390 |content=
+{{ Graph:Chart
+| type = stackedrect
+| height = 250
+| width = 150
+| legend = 
+| yAxisTitle = Funding (Hundred million dollars)
+| y1 = 5.63756928, 3.33127164 
+| y2 = 2.31118680,  0.75269043
+| colors = green, orange
+| y1Title = Candidate Committee funding
+| y2Title = Outside funding
+| units suffix = $
+| x = Hillary Clinton, Donald Trump 
+| xAxisAngle = -40
+}}
+| caption = Presidential election campaign funding per candidate for the 2016 presidential election main party candidates.<!-- ignored other candidates because without using a logarithmic scale other candidates are negligible --><ref>{{Cite web|url=https://www.opensecrets.org/pres16|title=2016 Presidential Race|last1=NW|first1=The Center for Responsive Politics 1300 L. St|last2=Washington|first2=Suite 200|website=OpenSecrets|language=en|access-date=2019-03-29|last3=fax857-7809|first3=DC 20005 telelphone857-0044}}</ref>
+}}
+
+==Sources of campaign funding==
+
+===Federal contribution limits===
+
+Federal law does not allow corporations and labor unions to donate money directly to candidates ("[[Campaign finance in the United States#Hard and soft money|hard money]]") or national party committees. It also limits how much money (a) individuals and (b) organizations involved in political action may contribute to political campaigns, political parties, and other FEC-regulated organizations.<ref>{{cite web|url=https://www.npr.org/templates/story/story.php?storyId=121293380|title=A Century Of U.S. Campaign Finance Law|date=21 January 2010|work=NPR.org|access-date=13 January 2016}}</ref>
+
+{| class="wikitable"
+|-
+! rowspan="2" style="text-align: center;vertical-align: middle;" | DONORS !! colspan="5" style="text-align: center; vertical-align: middle;" | RECIPIENTS
+|-
+! style="text-align: center; vertical-align: middle;" | Candidate Committee !! style="text-align: center; vertical-align: middle;" | PAC{{r|group=Note|ref2}}<br />(SSF and Nonconnected) !! style="text-align: center; vertical-align: middle;" | State/District/Local Party Committee !!  style="text-align: center; vertical-align: middle;" | National Party Committee !! style="text-align: center; vertical-align: middle;" | Additional National Party Committee Accounts{{r|group=Note|ref3}}
+|-
+! Individual
+| style="text-align: center; vertical-align: middle;" | $2,800{{r|group=Note|ref1}}<br />per election || style="text-align: center; vertical-align: middle;" | $5,000<br />per year || style="text-align: center; vertical-align: middle;" | $10,000<br />per year<br />(combined) || style="text-align: center; vertical-align: middle;" | $35,500{{r|group=Note|ref1}}<br />per year || style="text-align: center; vertical-align: middle;" | $106,500{{r|group=Note|ref1}}<br />per account, per year
+|-
+! Candidate Committee
+| style="text-align: center; vertical-align: middle;" | $2,000<br />per election || style="text-align: center; vertical-align: middle;" | $5,000<br />per year || colspan="2" style="text-align: center; vertical-align: middle;" | Unlimited Transfers ||
+|-
+! [[Political action committee|PAC]] - Multicandidate
+| style="text-align: center; vertical-align: middle;" | $5,000<br />per election || style="text-align: center; vertical-align: middle;"| $5,000<br />per year || style="text-align: center; vertical-align: middle;" | $5,000<br />per year (combined) || style="text-align: center; vertical-align: middle;" | $15,000<br />per year || style="text-align: center; vertical-align: middle;" | $45,000<br />per account, per year
+|-
+! [[Political action committee|PAC]] - Nonmulticandidate
+| style="text-align: center; vertical-align: middle;" | $2,800{{r|group=Note|ref1}}<br />per election || style="text-align: center; vertical-align: middle;" | $5,000<br />per year || style="text-align: center; vertical-align: middle;" | $10,000<br />per year<br />(combined) || style="text-align: center; vertical-align: middle;" | $35,500{{r|group=Note|ref1}}<br />per year || style="text-align: center; vertical-align: middle;" | $106,500{{r|group=Note|ref1}}<br />per account, per year
+|-
+! State, District & Local Party Committee
+| style="text-align: center; vertical-align: middle;" | $5,000<br />per election || style="text-align: center; vertical-align: middle;" | $5,000<br />per year || colspan="2" rowspan="2" style="text-align: center; vertical-align: middle;" | Unlimited Transfers ||
+|-
+! National Party Committee
+| style="text-align: center; vertical-align: middle;" | $5,000<br />per election{{r|group=Note|ref4}} || style="text-align: center; vertical-align: middle;" | $5,000<br />per year || 
+|}
+
+'''Table footnotes'''
+{{Reflist|group=Note|refs=
+<ref name=ref1>Indexed for inflation in odd-numbered years.</ref>
+<ref name=ref2>"[[Political action committee|PAC]]" here refers to a committee that makes contributions to other federal political committees. Independent-expenditure-only political committees (sometimes called "[[Political action committee#Super PACs|Super PACs]]") may accept unlimited contributions, including from corporations and labor organizations.</ref>
+<ref name=ref3>The limits in this column apply to a national party committee's accounts for: (i) the presidential nominating convention; (ii) election recounts and contests and other legal proceedings; and (iii) national party headquarters buildings.  A party's national committee, Senate campaign committee and House campaign committee are each considered separate national party committees with separate limits. Only a national party committee, not the parties' national congressional campaign committees, may have an account for the presidential nominating convention.</ref>
+<ref name=ref4>Additionally, a national party committee and its Senatorial campaign committee may contribute up to $46,800 combined per campaign to each Senate candidate.</ref>
+}}
+<ref>Table taken from the [http://www.fec.gov/pages/brochures/fecfeca.shtml#Contribution_Limits FEC website] on 14 January 2016.</ref>
+
+===Bundling===
+One consequence of the limitation upon personal contributions from any one individual is that campaigns seek out "bundlers"—people who can gather contributions from many individuals in an organization or community and present the sum to the campaign.  Campaigns often recognize these bundlers with honorary titles and, in some cases, exclusive events featuring the candidate.
+
+Although bundling existed in various forms since the enactment of the FECA, bundling became organized in a more structured way in the 2000s, spearheaded by the "[[Bush Pioneer]]s" for [[George W. Bush]]'s [[George W. Bush presidential campaign, 2000|2000]] and [[George W. Bush presidential campaign, 2004|2004 presidential campaigns]]. During the [[2008 United States presidential election|2008 campaign]] the six leading primary candidates (three Democratic, three Republican) listed a total of nearly two thousand bundlers.<ref name="nyt083107b">{{cite news
+|title=Use of Bundlers Raises New Risks for Campaigns
+|work=The New York Times
+|author=David D. Kirkpatrick
+|date=2007-08-31
+|author-link=David D. Kirkpatrick
+}}
+</ref>
+
+===Advocacy groups/interest groups===
+{{main|Lobbying in the United States}}
+
+Lobbyists often assist congressional campaign finance by arranging fundraisers, assembling PACs, and seeking donations from other clients. Many lobbyists become campaign treasurers and fundraisers for congresspersons.<ref>Robert G. Kaiser; Alice Crites (research contributor) (2007). "How lobbying became Washington's biggest business – Big money creates a new capital city. As lobbying booms, Washington and politics are transformed.". Citizen K Street [[The Washington Post]]. Retrieved 2012-01-13.</ref><ref>William Kerr, William Lincoln, Prachi Mishra (22 November 2011). "[https://www.nber.org/papers/w17577.pdf The dynamics of firm lobbying]". [[Vox (website)|VOX]]. Retrieved 2012-01-13.</ref><ref>Woodstock Theological Center (2002). "The Ethics of Lobbying: Organized Interests, Political Power, and the Common Good". Georgetown University Press. {{ISBN|0-87840-905-X}}. "(see page 1 of "The Ethics of Lobbying" chapter)"</ref>
+
+=== "Hard" and "soft" money ===
+Contributions made directly to a specific candidate are called ''hard money'' and those made to parties and committees are called ''soft money''. Soft money constitutes an alternative form of financing campaigns that emerged in the last years. It "derives from a major loophole in federal campaign financing and spending law that exempts from regulation those contributions made for party building in general rather than for specific candidates".<ref name=":0">{{Cite book|title=Political sociology : oppression, resistance, and the state|last=Deric.|first=Shannon|date=2011-01-01|publisher=Pine Forge Press|isbn=9781412980401|oclc=746832550}}</ref> There are no limits on soft money and some examples are donations for stickers, posters, and television and radio spots supporting a particular party platform or idea but not a concrete candidate.<ref name=":0" /> More specifically, soft money contributions may be spent on registering and mobilizing voters, just not on expressed advocacy for a particular candidate. The key factor is whether an ad uses words like or similar to “vote for” or not. Most of such donations received by state party committees are then sent to the national party headquarters to spend as they please, including on political campaigns by candidates. Critics call this a legalized form of political "[[money laundering]]."<ref name="politico.com">Politico, 4 Aug, 2017, [https://www.politico.com/magazine/story/2017/08/04/soft-money-is-backand-both-parties-are-cashing-in-215456 "Soft Money Is Back — And Both Parties Are Cashing In: Critics Deride The Practice as 'Legalized Money Laundering"]</ref>
+
+Another form of soft money is political spending by [[independent expenditure|"independent expenditure committees"]], commonly known as "Super PACs," which are allowed to raise and spend unlimited amounts of money to advocate for or against any candidate(s) or issues, as long as there is no coordination, consultation or request by any campaign or candidate.<ref name="politico.com"/> Such donations in presidential elections amount to hundreds of millions of dollars.<ref>Bloomberg, 9 Dec. 2016, [https://www.bloomberg.com/politics/graphics/2016-presidential-campaign-fundraising/ "Tracking the 2016 Presidential Money Race"]</ref> There are three main legal categories of independent groups; independent expenditure committees, 527 organizations, and 501(c) organizations. These groups are more active in American politics than ever before, as in 2016, more than $2.3 billion was raised between the Democratic and Republican National Committees. <ref name="Political Parties: Overview".> [http://www.opensecrets.org/parties/index.php Políticas Parties: Overview. Opensecrets.org]</ref>  For the amounts of soft money contributed in recent years and the legislation that enabled this, see the section on the [[Campaign finance in the United States#Bipartisan Campaign Reform Act (2002)|Bipartisan Campaign Reform Act]].
+
+==Spending by outside organizations/independent expenditures==
+Organizations other than individual candidates and their campaigns also contribute to election spending. Campaign expenditures made by groups not associated with, and independent of, a candidate's campaign are known as "independent expenditures". In addition to donating money to political campaigns (according to the limits described above), these organizations can spend money directly to influence elections.
+
+===Political action committees===
+{{main|Political action committee}}
+Federal law allows for multiple types of political action committees (PACs).
+* '''Connected PACs''': The [[Federal Election Campaign Act]] prohibits [[corporation]]s and [[Labor unions in the United States|labor unions]] from making direct contributions or expenditures in connection with federal elections. These organizations may, however, sponsor a "separate segregated fund" (SSF),<ref name="fec.gov">{{cite web|url=http://www.fec.gov/pages/brochures/ssfvnonconnected.shtml|title=SSFs and Nonconnected PACs|access-date=13 January 2016}}</ref> known as a "connected PAC". These PACs may receive and raise money only from a "restricted class", generally consisting of managers and shareholders in the case of a corporation and members in the case of a union or other interest group. In exchange, the sponsor of the PAC may absorb all the administrative costs of operating the PAC and soliciting contributions. As of January 2009, there were 1,598 registered corporate PACs, 272 related to labor unions and 995 to trade organizations.<ref name=FEC>{{cite web|url=http://www.fec.gov/press/press2009/20090309PACcount.shtml|title=20090309PACcount|access-date=13 January 2016|url-status=dead|archive-url=https://web.archive.org/web/20160303221753/http://www.fec.gov/press/press2009/20090309PACcount.shtml|archive-date=3 March 2016}}</ref>
+* '''Nonconnected PACs''': A nonconnected PAC is financially independent, meaning that it must pay for its own administrative expenses using the contributions it raises. Although an organization may financially support a nonconnected PAC, these expenditures are considered contributions to the PAC and are subject to the dollar limits and other requirements of the Act.
+* '''Leadership PACs''': Elected officials and political parties cannot give more than the federal limit directly to candidates. However, they can set up a leadership PAC that makes [[independent expenditure]]s. Provided the expenditure is not coordinated with the other candidate, this type of spending is not limited.<ref>Kurtzleben, Danielle (September 27, 2010). [http://politics.usnews.com/news/articles/2010/09/27/demints-pac-spends-15-million-in-independent-expenditures.html "DeMint's PAC Spends $1.5 Million in Independent Expenditures"]. ''[[U.S. News and World Report]]''.</ref> Under the FEC rules, leadership PACs are non-connected PACs, and can accept donations from individuals and other PACs. Since current officeholders have an easier time attracting contributions, leadership PACs are a way dominant parties can capture seats from other parties. A leadership PAC sponsored by an elected official cannot use funds to support that official's own campaign.  However, it may fund travel, administrative expenses, consultants, polling, and other non-campaign expenses.<ref>{{Cite web 
+Money that has been funneled into PACS has been on the rise. Congressional PACS went from raising 131 million dollars in 1978 to 466 million dollars in 2018 (Sides et al 2018). Even though people think that the majority of spending during a political campaign comes from PACS the data shows otherwise. In the 2016 election cycle individual donations to candidates made up 52 percent of funds raised by House candidates compared to the 32 percent that PACS raised (Side et al 2018). This goes directly against the media narrative that PACS hold the power when it comes to election cycle spending.  
+ |last1         = Stern
+ |first1        = Marcus
+ |last2        = LaFleur
+ |first2       = Jennifer
+ |title        = Leadership PACs: Let the Good Times Roll
+ |publisher    = [[ProPublica]]
+ |date         = September 26, 2009
+ |url          = https://www.propublica.org/feature/leadership-pacs-let-the-good-times-roll-925
+ |access-date   = December 10, 2009
+ |archive-url  = https://web.archive.org/web/20091220011916/http://www.propublica.org/feature/leadership-pacs-let-the-good-times-roll-925
+ |archive-date = 2009-12-20
+ |url-status     = dead
+}}</ref><ref>[http://www.fec.gov/data/Leadership.do?format=html "Leadership PACs and Sponsors"] {{webarchive|url=https://web.archive.org/web/20120310000223/http://www.fec.gov/data/Leadership.do?format=html |date=2012-03-10 }}. [[Federal Election Commission]].</ref><ref>[https://web.archive.org/web/20110708200810/http://corporate.cqrollcall.com/wmspage.cfm?parm1=233 "Congress 101: Political Action Committees"]. ''[[Congressional Quarterly]]''.</ref> In the 2018 election cycle, leadership PACs donated more than $67 million to federal candidates.<ref>[http://www.opensecrets.org/pacs/industry.php?txt=Q03&cycle=2018 "Leadership PACs"]. [[Center for Responsive Politics]].</ref>
+* '''"Super PACs"''': The 2010 election marked the rise of a new political committee, dubbed the "super PAC". They are officially known as "[[Independent expenditure|independent-expenditure]] only committees", because they may not make contributions to candidate campaigns or parties, but rather must do any political spending independently of the campaigns. Unlike other PACs, there is no legal limit to the funds they can raise from individuals, corporations, unions and other groups, provided they are operated correctly.<ref>{{cite web |url=http://www.opensecrets.org/outsidespending/index.php |title=Outside Spending (2010) |publisher=[[Center for Responsive Politics]]}}</ref> As of August 23, 2012, 797 super PACS had raised upwards of $349 million, with 60% of that money coming from just 100 donors, according to the Center for Responsive Politics.<ref>[https://www.theatlantic.com/magazine/archive/2012/10/the/309086/ "The New Price of American Politics" by James Bennet] ''The Atlantic'' October 2012</ref> Super PACs were made possible by two judicial decisions.  First, in January 2010 the [[U.S. Supreme Court]] held in ''[[Citizens United v. Federal Election Commission]]'' that government may not prohibit unions and corporations from making independent expenditure for political purposes. Two months later, in ''Speechnow.org v. FEC'', the Federal [[Court of Appeals for the D.C. Circuit]] held that contributions to groups that only make independent expenditures could not be limited in the size and source of contributions to the group.<ref>{{cite news |author-link=Nancy Cordes |last=Cordes |first=Nancy  |url=http://www.cbsnews.com/stories/2011/06/30/eveningnews/main20075941.shtml |title=Colbert gets a Super PAC; So what are they? |publisher=[[CBS News]] |date=June 30, 2011 |access-date=2011-08-11}}</ref> Independent expenditures continue to grow with $17 million spent in 2002 on congressional elections, $52 million in 2006, and $290 million in 2010. In 10 states independent spending amounted to 19% of the total amount of money contributed to candidates between 2005 and 2010. In three of those states independent spending was greater than 25% of the contributions given to candidates.<ref>Briffault, Richard. "Updating Disclosure for the New Era of Independent Spending". ''Journal of Law & Politics'' Vol. 27.4 (2012):  683–719.  OmniFile Full Text Select (H.W. Wilson). Web. 12 October 2012.</ref>
+
+===501(c) organizations===
+{{main|501(c) organization}}
+
+501(c)(4)  "social welfare", 501(c)(5) "labor unions", 501(c)(6) "chambers of commerce" unlike 501(c)(3) charitable organizations can participate in political campaigns and elections, as long as the organization's "primary purpose" is issue advocacy and not political advocacy and are not required to disclose their donors publicly.[31]. This aspect of the law has led to extensive use of 501(c)(4) organizations in raising and donating money for political activity.[32] The NAACP, Planned Parenthood, Sierra Club, and National Rifle Association are well known examples of organizations that operate 501(c)(4) social welfare organizations that engage in political advocacy.
+
+===527 organizations===
+{{main|527 organization}}
+
+A '''527 organization''' or '''527 group''' is a type of American [[tax-exempt organization]] named after "Section 527" of the U.S. [[Internal Revenue Code]]. Technically, almost all political committees, including state, local, and federal candidate committees, traditional [[political action committees]], "[[Super PACs]]", and political parties are "527s." However, in common practice the term is usually applied only to such organizations that are not regulated under state or federal campaign finance laws because they do not [[Issue advocacy ads|"expressly advocate"]] for the election or defeat of a candidate or party. When operated within the law, there are no upper limits on contributions to 527s and no restrictions on who may contribute. There are no spending limits imposed on these organizations. However, they must register with the IRS, publicly disclose their donors and file periodic reports of contributions and expenditures.<ref>The Center for Public Integrity, 527 Frequently Asked Questions http://projects.publicintegrity.org/527/default.aspx?act=faq#5 {{Webarchive|url=https://web.archive.org/web/20110411020942/http://projects.publicintegrity.org/527/default.aspx?act=faq#5 |date=April 11, 2011 }}</ref>
+
+===Political parties===
+Political party committees may contribute funds directly to candidates, subject to the contribution limits listed above. National and state party committees may make additional "coordinated expenditures," subject to limits, to help their nominees in general elections.  National party committees may also make unlimited "independent expenditures" to support or oppose federal candidates. However, since 2002, national parties have been prohibited from accepting any funds outside the limits established for elections in the FECA.
+
+==Disclosure rules==
+Current campaign finance law at the federal level requires candidate committees, party committees, and PACs to file periodic reports disclosing the money they raise and spend. Federal candidate committees must identify, for example, all PACs and party committees that give them contributions, and they must provide the names, occupations, employers and addresses of all individuals who give them more than $200 in an election cycle. Additionally, they must disclose expenditures to any individual or vendor.<ref>{{cite web|url=http://www.fec.gov/pages/brochures/fecfeca.shtml#Disclosure |title=The FEC and the Federal Campaign Finance Law: Disclosure |publisher=Federal Election Commission}}</ref> The Federal Election Commission maintains this database and publishes the information about campaigns and donors on its website. (Similar reporting requirements exist in many states for state and local candidates and for PACs and party committees.)
+
+Various organizations, including the Center for Responsive Politics, aggregate data on political contributions to provide insight into the influence of various groups. In August 2014, a new smartphone app called "Buypartisan" was released to allow consumers to scan the barcodes of items in grocery stores and see where that corporation and its leaders directed their political contributions.<ref>{{cite web|last1=Itkowitz|first1=Colby|title=Is your grocery bill supporting your political opponents? Now you can avoid it.|url=https://www.washingtonpost.com/blogs/in-the-loop/wp/2014/08/12/is-your-grocery-bill-supporting-your-political-opponents-heres-how-to-avoid-it/?tid=hpModule_ba0d4c2a-86a2-11e2-9d71-f0feafdd1394|website=www.washingtonpost.com|publisher=The Washington Post|access-date=12 August 2014}}</ref>
+
+==="Dark money" exception===
+A major loophole to disclosure requirements is "[[dark money]]," money donated by trade association groups and not-for-profit corporations, which are allowed to raise unlimited amounts from corporations and individuals, and to spend unlimited amounts any way they wish. Such spending is called dark money because the identity of the donors, the identity of the campaigns, candidates or other entities receiving the money, and the amounts raised and spent, are exempt from disclosure requirements. The amount of dark money raised and spent has been increasing very rapidly each election cycle in recent years in both state and federal elections, to the point that it now amounts to hundreds of millions of dollars in U.S. presidential elections.<ref>Brennan Center for Justice, New York University Law School, 26 Jun. 2016, [https://www.brennancenter.org/our-work/research-reports/secret-spending-states "Secret Spending in the States"]</ref><ref name=CRP-PN>{{cite web |year=2015 |title=Political Nonprofits |url=https://www.opensecrets.org/outsidespending/nonprof_summ.php |website=opensecrets.org |publisher=Center for Responsive Politics |access-date=March 10, 2015}}</ref><ref name="Maguire">Robert Maguire, [https://www.opensecrets.org/news/2014/04/how-2014-is-shaping-up-to-be-the-darkest-money-election-to-date/ How 2014 Is Shaping Up to be the Darkest Money Election to Date], Center for Responsive Politics (April 30, 2014).</ref>
+
+==Attempts to regulate campaign finance ==
+
+===Early attempts at regulating money in campaigns ===
+{{main|Campaign finance reform in the United States#History}}
+
+=== Tillman Act of 1907 ===
+Named for its sponsor, [[South Carolina]] Senator [[Ben Tillman]], the [[Tillman Act of 1907]] prohibited corporations and nationally chartered (interstate) banks from making direct financial contributions to federal candidates. However, weak enforcement mechanisms made the Act ineffective. Disclosure requirements and spending limits for [[United States House of Representatives|House]] and [[United States Senate|Senate]] candidates followed in 1910 and 1911. General contribution limits were enacted in the [[Federal Corrupt Practices Act]] (1925). An amendment to the [[Hatch Act of 1939]] set an annual ceiling of $3 million for political parties' campaign expenditures and $5,000 for individual campaign contributions. The [[Smith-Connally Act]] (1943) and [[Taft-Hartley Act]] (1947) extended the corporate ban to [[Trade union|labor unions]].
+
+===Federal Election Campaign Act (1971)===
+{{main|Federal Election Campaign Act}}
+
+In 1971, Congress passed the Federal Election Campaign Act (FECA), instituting various campaign finance disclosure requirements for federal candidates (those running for the [[United States House of Representatives|House]], the [[United States Senate|Senate]], the President and the [[United States Vice President|Vice President]]), [[political parties]], and [[political action committees]]. In 1974, Congress passed amendments to the FECA establishing a comprehensive system of regulation and enforcement, including public financing of presidential campaigns and the creation of a central enforcement agency, the [[Federal Election Commission]]. The new regulations included limits on campaign finance, including caps on (1) individual contributions to candidates, (2) contributions to candidates by "political committees" (commonly known as Political Action Committees, or PACs), (3) total campaign expenditures, and (4) independent expenditures by individuals and groups "relative to a clearly identified candidate."
+
+=== ''Buckley v. Valeo (1976)'' ===
+The [[constitutionality]] of the FECA was challenged in the [[Supreme Court of the United States|U.S. Supreme Court]] case ''[[Buckley v. Valeo]]'' (1976). In ''Buckley'', the Court upheld the Act's limits on individual contributions, as well as the disclosure and reporting provisions and the public financing scheme. The Court held that limitations on donations to candidates were constitutional because of the [[compelling state interest]] in preventing corruption or the appearance of corruption. However, the Court also held that caps on the amount campaigns could spend and caps on independent expenditures were an unconstitutional abridgment of [[free speech]] under the [[First Amendment to the United States Constitution|First Amendment]].  In addition, ''Buckley'' also held that the disclosure and reporting requirements of FECA could only apply to expenditures authorized or requested by a candidate or expenditures for communications that "expressly advocate the election or defeat of a clearly identified candidate."
+
+====[[Eight Magic Words|Eight magic words]]====
+It also showed the limited reach of campaign finance laws to candidate and party committees, and other committees with a major purpose of electing candidates, or to speech that "expressly advocated" election or defeat of candidates. In footnote 52 of that opinion, the Court listed eight words or phrases as illustrative of speech that qualified as "express advocacy". The definition of express advocacy is what created dark money groups.
+
+===Bipartisan Campaign Reform Act (2002)===
+{{main|Bipartisan Campaign Reform Act}}
+
+Under [[Federal Election Campaign Act|FECA]], corporations, unions, and individuals could contribute unlimited "nonfederal money"—also known as "[[Campaign finance in the United States#Hard and soft money|soft money]]"—to political parties for activities intended to influence state or local elections. In a series of advisory opinions between 1977 and 1995, the FEC ruled that political parties could fund "mixed-purpose" activities—including get-out-the-vote drives and generic party advertising—in part with soft money, and that parties could also use soft money to defray the costs of "legislative advocacy media advertisements," even if the ads mentioned the name of a federal candidate, so long as they did not expressly advocate the candidate's election or defeat.<ref>McConnell v. Federal Election Comm'n, 540 U.S. 93, 123–24 & n.7 (2003)</ref> Furthermore, in 1996, the Supreme Court decided ''Colorado Republican Federal Campaign Committee v. FEC'', in which the Court ruled that Congress could not restrict the total amount of "independent expenditures" made by a political party without coordination with a candidate, invalidating a FECA provision that restricted how much a political party could spend in connection with a particular candidate.<ref>{{cite web|url=https://www.oyez.org/cases/1990-1999/1995/1995_95_489|title=Colorado Republican Federal Campaign Committee v. Federal Election Commission |work=Oyez |publisher=[[Chicago-Kent College of Law|IIT Chicago-Kent College of Law]] |access-date=13 January 2016}}</ref> As a result of these rulings, soft money effectively enabled parties and candidates to circumvent FECA's limitations on federal election [[campaign contributions]].<ref>McConnell, 540 U.S. at 126.</ref>
+
+'''Soft money raised from 1993 to 2002'''
+{| class="wikitable sortable"
+|-
+! Party!!1993–1994!!1995–1996!!1997–1998!!1999–2000!!2001–2002
+|-
+|[[Democratic Party (United States)|Democratic Party]]||45.6 million||122.3 million||92.8 million||243 million||199.6 million
+|-
+|[[Republican Party (United States)|Republican Party]]||59.5 million||141.2 million||131.6 million||244.4 million||221.7 million
+|-
+|Total contributions||105.1 million||263.5 million||224.4 million||487.4 million||421.3 million<ref name="soft money table">{{cite book|last=Bardes|first=Steffen W. Schmidt, Mack C. Shelley, Barbara A.|title=American government & politics today|year=2009|publisher=Wadsworth Cengage Learning|location=Boston, MA|isbn=978-0-495-56871-1|pages=360|edition=2009–2010 ed., alternate|url=https://books.google.com/books?id=9Vc--1wiOUMC}}</ref>
+|-
+|}
+
+In 2002, Congress further attempted to reform federal campaign financing with the [[Bipartisan Campaign Reform Act]]. The BCRA, sometimes called the "McCain-Feingold" Act, amended the FECA in several respects. First, it prohibited [[political party committee|national political party committees]] from soliciting or spending any soft money and prohibited state and local party committees from using soft money for activities that affect federal elections. Second, it prohibited the use of corporate and union treasury funds to pay for "electioneering communications"—broadcast or cable advertisements clearly identifying a federal candidate—within 30 days of a primary or 60 days of a general election. The law also included a [[I approve this message|"stand by your ad" provision]] requiring candidates to appear in campaign advertisements and claim responsibility for the ad (most commonly with a phrase similar to "I'm John Smith and I approve this message.")
+
+This law was also challenged in the Supreme Court, but its core provisions were upheld by the Supreme Court in ''[[McConnell v. Federal Election Commission]]''. However, in ''McConnell'', the Court also interpreted the "electioneering communications" provisions of BCRA to exempt "nonprofit corporations that [1] were formed for the sole purpose of promoting political ideas, [2] did not engage in business activities, and [3] did not accept contributions from for-profit corporations or labor unions." Thus, non-business, non-profit political organizations could run electioneering advertisements provided that they did not accept corporate or union donations.
+
+Furthermore, the BCRA did not regulate "[[527 organization]]s" (named for the section of the tax code under which they operate). These nonprofit organizations are not regulated by the FEC, provided that they do not coordinate with candidates or expressly advocate for the election or defeat of a specific candidate. After the passage of the BCRA, many of the soft money-funded activities previously undertaken by political parties were taken over by various 527 groups, which funded many issue ads in the [[2004 United States presidential election|2004 presidential election]]. The heavy spending of key 527 groups to attack presidential candidates brought complaints to the Federal Elections Commission of illegal coordination between the groups and rival political campaigns. (In 2006 and 2007 the FEC fined a number of organizations, including [[MoveOn.org]] and [[Swift Boat Veterans for Truth]], for violations arising from the [[527 organization#2004 election controversy|2004 campaign]]. The FEC's rationale was that these groups had specifically advocated the election or defeat of candidates, thus making them subject to federal regulation and its limits on contributions to the organizations.)
+
+===FEC v. Wisconsin Right to Life (2007)===
+{{Main|FEC v. Wisconsin Right to Life}}
+
+The reach of the "electioneering communications" provisions of the BCRA was also limited in the 2007 Supreme Court ruling ''Federal Election Commission v. Wisconsin Right to Life, Inc.'' In ''Wisconsin Right to Life'', the Supreme Court stated that the restrictions on "electioneering communications" applied only to advertisements that "can only reasonably be viewed as advocating or opposing a candidate." Thus, if there was any reasonable way to view an advertisement as an "issue ad," it would be exempt from the BCRA's restrictions.
+
+===''Citizens United v. FEC (2010)'' and ''SpeechNOW.org v. FEC (2010)'' ===
+Campaign finance law in the United States changed drastically in the wake of two 2010 judicial opinions: the Supreme Court's decision in ''[[Citizens United v. FEC]]'' and the D.C. Circuit Court of Appeals decision in ''SpeechNow.org v. FEC''.<ref>Court of Appeals, District of Columbia Circuit, 2010, "[http://www.fec.gov/law/litigation/speechnow_ac_opinion.pdf FEC.GOV]", last accessed Apr. 10, 2012.</ref>  According to a 2011 [[Congressional Research Service]] report, these two decisions constitute "the most fundamental changes to campaign finance law in decades." <ref>{{cite web|url = http://journalistsresource.org/studies/government/politics/campaign-finance-policy-recent-developments/ |title = State of Campaign Finance Policy: Recent Developments and Issues for Congress |publisher = Journalist's Resource.org |date = 2011-10-03 }}</ref>
+
+''Citizens United'' struck down, on free speech grounds, the limits on the ability of organizations that accepted corporate or union money from running electioneering communications. The Court reasoned that the restrictions permitted by ''Buckley'' were justified based on avoiding corruption or the appearance of corruption, and that this rationale did not apply to [[corporate donations]] to independent organizations. ''Citizens United'' overruled the 1990 case ''[[Austin v. Michigan Chamber of Commerce]]'', in which the Supreme Court upheld the Michigan Campaign Finance Act, which prohibited corporations from using treasury money to support or oppose candidates in elections.
+
+Two months later, a unanimous nine-judge panel of the U.S. Court of Appeals for the D.C. Circuit decided ''SpeechNow'', which relied on ''Citizens United'' to hold that Congress could not limit donations to organizations that only made independent expenditures, that is, expenditures that were "uncoordinated" with a candidate's campaign. These decisions led to the rise of "independent-expenditure only" PACs, commonly known as "Super PACs." Super PACs, under ''Citizens United'' and ''SpeechNow'', can raise unlimited funds from individual and corporate donors and use those funds for electioneering advertisements, provided that the Super PAC does not coordinate with a candidate.
+
+===''McCutcheon v. Federal Election Commission (2014)''===
+On February 19, 2013, the Supreme Court announced it would hear ''[[McCutcheon v. Federal Election Commission]]'', a case challenging the limit on how much individuals can donate directly to political parties and federal candidates.<ref>{{cite news|first= Fredreka |last= Schouten |title=Supreme Court to hear case on campaign donation limits |date=2013-02-19 |url=https://www.usatoday.com/story/news/politics/2013/02/19/supreme-court-contribution-limits/1922883/?csp=breakingnews|newspaper=USA Today|access-date=2013-02-19}}</ref> On April 2, 2014, the Court announced its opinion and maintained aggregate limits on campaign contributions were unconstitutional under the First Amendment.<ref>https://www.supremecourt.gov/opinions/13pdf/12-536_e1pf.pdf</ref>
+
+==Public financing of campaigns==
+{{See also|Campaign finance reform in the United States#Current proposals for reform}}
+
+===Public financing of presidential campaigns===
+At the federal level, public funding is limited to subsidies for presidential campaigns. This includes (1) a "matching" program for the first $250 of each individual contribution during the primary campaign and (2) funding the major party nominees' general election campaigns.<ref name="ReferenceA">{{cite web|url=http://www.fec.gov/ans/answers_public_funding.shtml|title=Quick Answers: Public Funding|access-date=13 January 2016}}</ref> Through the 2012 campaign, public funding was also available to finance the major parties' national nominating conventions.
+
+To receive subsidies in the primary, candidates must qualify by privately raising $5000 each in at least 20 states. During the primaries, in exchange for agreeing to limit their spending according to a statutory formula, eligible candidates receive matching payments for the first $250 of each individual contribution (up to half of the spending limit). However, candidates who decline matching funds are free to spend as much money as they can raise privately.
+
+From the inception of this program in 1976 through 1992, almost all candidates who could qualify accepted matching funds in the primary. In 1996 Republican [[Steve Forbes]] opted out of the program. In 2000, Forbes and [[George W. Bush]] opted out. In 2004 Bush and Democrats [[John Kerry]] and [[Howard Dean]] chose not to take matching funds in the primary.<ref>{{cite web |title=FEC Approves Matching Funds for 2004 Presidential Candidates |url=https://www.fec.gov/updates/fec-approves-matching-funds-for-2004-presidential-candidates-7/ |website=FEC.gov |publisher=[[Federal Election Commission]] |access-date=2019-12-01 |date=2004-05-14}}</ref> In 2008, Democrats [[Hillary Clinton]] and [[Barack Obama]], and Republicans [[John McCain]], [[Rudy Giuliani]], [[Mitt Romney]] and [[Ron Paul]] decided not to take primary matching funds. Republican [[Tom Tancredo]]<ref>[http://www.fec.gov/press/press2007/20070910tancredoa.shtml FEC.gov] {{webarchive|url=https://web.archive.org/web/20080916131859/http://fec.gov/press/press2007/20070910tancredoa.shtml |date=2008-09-16 }}, Tancredo certification.</ref> and Democrats [[Chris Dodd]],<ref>[http://www.fec.gov/press/press2007/20071126dodd.shtml FEC.gov] {{webarchive|url=https://web.archive.org/web/20080916131353/http://fec.gov/press/press2007/20071126dodd.shtml |date=2008-09-16 }}, dodd eligible.</ref> [[Joe Biden]]<ref>{{cite web |url=http://www.fec.gov/press/press2007/20071204biden.shtml |title=Biden cert |publisher=Fec.gov |access-date=2011-02-01 |url-status=dead |archive-url=https://web.archive.org/web/20080916132650/http://fec.gov/press/press2007/20071204biden.shtml |archive-date=2008-09-16 }}</ref> and [[John Edwards]] elected to take public financing.
+
+Since the 2012 primary campaign, few candidates have chosen to accept matching funds. In 2012, only [[Buddy Roemer]] (who ran unsuccessfully for the [[Americans Elect]] and [[Reform Party of the United States of America|Reform Party]] nominations), [[Gary Johnson]] (the eventual [[Libertarian Party (United States)|Libertarian]] nominee), and [[Jill Stein]] (the eventual [[Green Party of the United States|Green Party]] nominee) received matching funds in the primaries.<ref name="allpublicfunds">{{cite web |title=Public funds received by candidates 1976-present |url=https://transition.fec.gov/press/bkgnd/AllPublicFunds.xls |website=FEC.gov |publisher=[[Federal Election Commission]] |access-date=2019-12-01 |format=XLS}}</ref> (Primary season matching funds are not limited to major party candidates.) In 2016, only [[Martin O'Malley]] (Democrat) and Jill Stein (Green) received matching funds in the primaries.<ref name="allpublicfunds"/> For the 2020 campaign, only [[Steve Bullock (American politician)|Steve Bullock]] (Democrat) has announced plans to apply for matching funds so far.<ref>{{cite web |last1=Greenwood |first1=Max |title=Bullock to seek public financing for 2020 bid |url=https://thehill.com/homenews/campaign/463622-report-bullock-expected-to-seek-public-financing-for-2020-bid |website=[[The Hill (newspaper)|The Hill]] |access-date=2019-12-01 |date=2019-09-30}}</ref>
+
+In addition to primary matching funds, the public funding program also assists with funding the major party (and eligible minor party) nominees' general election campaigns. The grants for the major parties' general election nominees are adjusted each Presidential election year to account for increases in the cost of living. In 2012, the parties' general election nominees were eligible to receive $91.2 million in public funds, although neither the Democratic or Republican campaigns chose to accept those funds. If general election candidates accept public funds, they agree not to raise or spend private funds or to spend more than $50,000 of their personal resources. Hence, general election candidates who have the ability to raise more than the amount of public funds offered may decline the offer of public funds in favor of privately raising and spending a larger sum of money.<ref>{{cite web |last1=Watson |first1=Libby |title=Why did only 1 presidential candidate take public financing? |url=https://sunlightfoundation.com/2016/01/27/why-did-only-1-presidential-candidate-take-public-financing/ |website=[[Sunlight Foundation]] |access-date=2019-12-01 |date=2016-01-27}}</ref>
+
+No major party nominee turned down government funds for the general election from 1976, when the program was launched, until [[Barack Obama]] did so in 2008.<ref>{{cite web|url=http://blogs.abcnews.com/politicalpunch/2008/06/obama-to-break.html |title=Obama to Break Promise, Opt Out of Public Financing for General Election |publisher=Blogs.abcnews.com |date=2008-06-19 |access-date=2011-02-01}}</ref> Obama again declined government funds for the 2012 campaign, as did Republican nominee [[Mitt Romney]], setting up the first election since the program's launch in which neither major party nominee accepted federal funding.<ref>{{cite news|last=Salant|first=Jonathan D.|title=Romney Shunning Federal Funds in Post-Watergate Election|url=https://www.bloomberg.com/news/2012-04-26/romney-shunning-federal-funds-in-post-watergate-election.html|publisher=Bloomberg|access-date=26 April 2012|date=2012-04-27}}</ref> Nor did either Donald Trump or Hillary Clinton accept federal funding for the 2016 general election.<ref name="gimein">{{cite web |last1=Gimein |first1=Mark |title=Sorry America, Trump and Clinton Don't Want Your $96 Million |url=http://money.com/money/4366483/presidential-checkoff-obsolete/ |website=[[Money (magazine)|Money]] |access-date=2019-12-01 |date=2016-06-14}}</ref>
+
+Public funding was formerly available to finance the major parties' (and eligible minor parties') [[United States presidential nominating convention|presidential nominating conventions]]. In 2012, each major party was entitled to $18.2 million in public funds for their conventions. However, the provisions for public funding of nominating conventions were eliminated in 2014.<ref>{{cite web |title=Convention funding eliminated |url=https://www.fec.gov/updates/convention-funding-eliminated/ |website=FEC.gov |access-date=2019-12-01 |date=2014-04-04}}</ref>
+
+Eligibility of minor parties for public funds is based on showing in the previous election, with 5% of the popular vote needed to qualify. The only party other than the Republicans and Democrats to receive government funding in a general election was the Reform Party, which qualified for public funding in 1996 and 2000 on the basis of Ross Perot's strong showing in the 1992 and 1996 elections. In addition, [[John B. Anderson]]'s 1980 campaign received payments of public funds after the election because he had attained more than 5% of the popular vote.<ref>{{cite web |author1=Federal Election Commission |title=Annual Report 1980 |url=https://www.fec.gov/resources/about-fec/reports/ar80.pdf |website=FEC.gov |access-date=2019-12-01 |page=17 |date=1981|author1-link=Federal Election Commission }}</ref>
+
+The presidential public financing system is funded by a [[Presidential election campaign fund checkoff|$3 tax check-off]] on individual tax returns (the check off does not increase the filer's taxes, but merely directs $3 of the government's general fund to the presidential fund).  The number of taxpayers who use the check off has fallen steadily since the early 1980s, until by 2006 fewer than 8 percent of taxpayers were directing money to the fund, leaving the fund chronically short of cash.<ref>{{cite web|url=https://www.usatoday.com/news/washington/2007-04-17-preztax_N.htm?csp=34)|title=Taxpayers elect not to pay for campaigns - USATODAY.com|access-date=13 January 2016}}</ref> However, the fact that fewer candidates have chosen to apply for public funding has alleviated the fund's former monetary shortages.<ref name="gimein"/>
+
+===Public financing at the state and local level===
+A small number of states and cities have started to use broader programs for public financing of campaigns. One method, which its supporters call [[Clean Elections|Clean Money, Clean Elections]], gives each candidate who chooses to participate a fixed amount of money. To qualify for this subsidy, the candidates must collect a specified number of signatures and small (usually $5) contributions. The candidates are not allowed to accept outside donations or to use their own personal money if they receive this public funding. Candidates who choose to raise money privately rather than accept the government subsidy are subject to significant administrative burdens and legal restrictions, with the result that most candidates accept the subsidy. This procedure has been in place in races for all statewide and legislative offices in [[Arizona]] and [[Maine]] since 2000, where a majority of officials were elected without spending any private contributions on their campaigns. [[Connecticut]] passed a Clean Elections law in 2005, along with the cities of [[Portland, Oregon]] and [[Albuquerque, New Mexico]].
+
+A 2003 study by GAO found, "It is too soon to determine the extent to which the goals of Maine's and Arizona's public financing programs are being met."<ref>{{cite web|url=http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=gao&docid=f:d03453.pdf |title=GAO-03-543 Campaign Finance Reform: Early Experiences of Two States That Offer Full Public Funding for Political Candidates |access-date=2011-02-01}}</ref>{{update inline|date=June 2018}}
+
+The "Clean Elections" movement had several defeats in the 2000s and 2010s. [[California Proposition 89 (2006)|Proposition 89]], a [[California ballot proposition]] in November 2006, sponsored by the California Nurses Union, that would have provided for public financing of political campaigns and strict contribution limits on corporations, was defeated. In 2008, the non-partisan California Fair Elections Act passed the legislature and Governor Schwarzenegger signed it, but the law did not take effect unless approved by voters in a referendum in 2010. In June 2010, voters soundly rejected the measure, 57% to 43%.<ref>{{cite web|url=http://ballotpedia.org/wiki/index.php/California_Proposition_15,_Public_Funding_of_Some_Elections_(June_2010)|title=California Proposition 15, Public Funding of Some Elections (June 2010)|access-date=13 January 2016}}</ref> A proposal to implement Clean Elections in Alaska was voted down by a two-to-one margin in 2008,<ref>[http://www.adn.com/election/story/506632.html Anchorage Daily News] {{webarchive|url=https://web.archive.org/web/20090102221321/http://www.adn.com/election/story/506632.html |date=2009-01-02 }}</ref> and a pilot program in New Jersey was terminated in 2008 amid concern about its constitutionality and that the law was ineffective in accomplishing its goals. In 2010, Portland voters used a referendum to repeal the clean elections law, originally enacted by the city council.<ref>{{cite web|url=http://lwvpdx.org/issues-and-advocacy/campaign-finance-reform |title=Campaign Finance Reform |access-date=2013-03-21 |url-status=dead |archive-url=https://web.archive.org/web/20130514125415/http://lwvpdx.org/issues-and-advocacy/campaign-finance-reform |archive-date=2013-05-14 }}</ref> In 2006, in ''[[Randall v. Sorrell]]'', the Supreme Court held that large parts of Vermont's Clean Elections law were unconstitutional. In 2008, the Supreme Court's decision in ''[[Davis v. Federal Election Commission]]'' suggested that a key part of most Clean Election laws—a provision granting extra money (or "rescue funds") to participating candidates who are being outspent by non-participating candidates—is unconstitutional. In 2011, in ''Arizona Free Enterprise Club's Freedom Club PAC v. Bennett'', the Supreme Court struck down the matching funds provision of Arizona's law on First Amendment grounds.<ref>https://www.supremecourt.gov/opinions/10pdf/10-238.pdf</ref>
+
+Massachusetts has had a hybrid public funding system for statewide offices since 1978.  Taxpayers are allowed to contribute $1 to the statewide election fund by checking a box on their annual income taxes.  Candidates who agree to spending limits are eligible for money from this fund.  Non-participating candidates are required to estimate spending, and this will raise the limit for participating opponents if higher than the agreed-to limit.<ref>[http://www.wbur.org/news/2018/06/09/public-financing-mass-governor State Funding Program Unlikely To Make Dent In Governor's Race]</ref>
+
+[[Seattle]] voters approved the [[Democracy voucher]] program in 2015, which gives city residents four $25 vouchers to donate to participating candidates.<ref name="st">{{cite news|url=http://www.seattletimes.com/seattle-news/politics/democracy-vouchers/|title='Democracy vouchers' win in Seattle; first in country|last1=Young|first1=Bob|date=November 3, 2015|work=[[Seattle Times]]|access-date=December 10, 2016}}</ref>
+
+== Impact of finance on the results ==
+
+A 2016 experimental study in the ''[[American Journal of Political Science]]'' found that politicians made themselves more available for meetings with individuals when they believed that the individuals had donated to their campaign.<ref>{{Cite journal|last1=Kalla|first1=Joshua L.|last2=Broockman|first2=David E.|date=2016-07-01|title=Campaign Contributions Facilitate Access to Congressional Officials: A Randomized Field Experiment|journal=American Journal of Political Science|language=en|volume=60|issue=3|pages=545–558|doi=10.1111/ajps.12180|issn=1540-5907|url=https://escholarship.org/uc/item/8wm3k5g4}}</ref> A 2011 study found that "even after controlling for past contracts and other factors, companies that contributed more money to federal candidates subsequently received more contracts."<ref>{{Cite journal|last=Witko|first=C.|date=2011-10-01|title=Campaign Contributions, Access, and Government Contracting|url=https://academic.oup.com/jpart/article-abstract/21/4/761/955742/Campaign-Contributions-Access-and-Government|journal=Journal of Public Administration Research and Theory|language=en|volume=21|issue=4|pages=761–778|doi=10.1093/jopart/mur005|issn=1053-1858}}</ref> A 2016 study in the ''Journal of Politics'' found that industries overseen by committees decreased their contributions to congresspeople who recently departed from the committees and that they immediately increase their contributions to new members of the committees, which is "evidence that corporations and business PACs use donations to acquire immediate access and favor—suggesting they at least anticipate that the donations will influence policy."<ref>{{Cite journal|last1=Powell|first1=Eleanor Neff|last2=Grimmer|first2=Justin|date=2016-08-03|title=Money in Exile: Campaign Contributions and Committee Access|journal=The Journal of Politics|volume=78|issue=4|pages=974–988|doi=10.1086/686615|s2cid=156903560|issn=0022-3816}}</ref> Research by University of Chicago political scientist Anthony Fowler and Northwestern University political scientists Haritz Garro and Jörg L. Spenkuch found no evidence that corporations that donated to a candidate received any monetary benefits from the candidate winning election.<ref>{{Cite web|url=http://www.kellogg.northwestern.edu/faculty/spenkuch/research/qpq.pdf|title=Quid Pro Quo? Corporate Returns to Campaign Contributions}}</ref>
+
+==Donor characteristics==
+The donations of fewer than 400 super wealthy families comprise nearly half of all publicly disclosed presidential campaign financing, according to a New York Times analysis of FEC and [[Internal Revenue Service]] (IRS) filings in Summer 2015 of the 2016 presidential campaign cycle. These donors exploit the SuperPAC loophole, which bypasses the traditional donation maximum for an individual in any year. On the Republican side, just around 130 exceedingly rich families accounted for more than half of the publicly disclosed presidential candidate campaign financing. For several major Republican presidential candidates, a handful of donors and their businesses accounted for most of the donations to the candidate.<ref>New York Times, Aug 1, 2015 [https://www.nytimes.com/2015/08/02/us/small-pool-of-rich-donors-dominates-election-giving.html?referringSource=articleShare "Small Pool of Rich Donors Dominates Election Giving"] </ref>
+
+A 2017 study found that "only a small portion of Americans make campaign donations" and that both Democratic and Republican donors "are more ideologically extreme than other partisans, including primary voters. With respect to why individuals contribute, we show that donors appear responsive to their perception of the stakes in the election."<ref>{{Cite journal|last1=Hill|first1=Seth J.|last2=Huber|first2=Gregory A.|date=2017-03-01|title=Representativeness and Motivations of the Contemporary Donorate: Results from Merged Survey and Administrative Records|journal=Political Behavior|language=en|volume=39|issue=1|pages=3–29|doi=10.1007/s11109-016-9343-y|s2cid=85465395|issn=0190-9320|url=https://escholarship.org/content/qt76p440v3/qt76p440v3.pdf?t=op2two}}</ref>
+
+Another 2017 study found that relatively unpopular industries provide larger contributions to candidates. The authors of the study argue that this is because candidates lose voter support when they are associated with unpopular industries and that the industries therefore provide larger contributions to compensate for this loss of support.<ref>{{Cite journal|last1=Bassetti|first1=Thomas|last2=Pavesi|first2=Filippo|title=Electoral Contributions and the Cost of Unpopularity|journal=Economic Inquiry|volume=55|issue=4|language=en|pages=1771–1791|doi=10.1111/ecin.12461|issn=1465-7295|year=2017|url=https://www.research.unipd.it/bitstream/11577/3235824/1/ECIN_12461_Rev2_EV.pdf|hdl=11577/3235824|s2cid=157239329}}</ref>
+
+==Sources of data==
+{| class="wikitable"
+|+ Type of data
+|-
+! level !! campaign finance !! lobbying !! voting
+|-
+| Federal || [[Center for Responsive Politics]] ||
+[[Center for Responsive Politics]]; [[MapLight]]
+| [[MapLight]]
+|-
+|State ||
+The [[National Institute on Money in State Politics|National Institute on Money in State Politics (followthemoney.org)]] maintains a publicly accessible database for campaign finance information for state-level races in all 50 states dating back to 1989.<ref>{{cite web
+|url= http://www.followthemoney.org/
+|title= National Institute on Money in State Politics
+|author=<!--DASHBot-->
+|publisher= National Institute on Money in State Politics
+|access-date=10 December 2012}}</ref>
+
+[[MapLight]] has state-level data for [[Wisconsin]] and [[California]].
+
+In Pennsylvania the  [[Pennsylvania Department of State|Department of State]] maintains a database searchable by the public.<ref>{{cite web
+|url= http://www.dos.state.pa.us/portal/server.pt/community/campaign_finance/12731
+|title= Campaign Finance Information
+|author=<!--DASHBot-->
+|publisher= Pennsylvania Department of State
+|access-date=10 December 2012}}</ref>
+In California the  [[Secretary of State of California|Secretary of State]] maintains public databases on campaign finance and lobbying activities.<ref>{{cite web
+|url= http://cal-access.ss.ca.gov/
+|title= Welcome to Cal-Access
+|author=<!--DASHBot-->
+|publisher= California Department of State
+|access-date=December 10, 2012}}</ref>
+|
+| [[MapLight]] for [[Wisconsin]] and [[California]]
+|-
+|Local || [[MapLight]] for a few locations.
+| ||
+|}
+
+Many localities have their own reporting requirements that are not listed here.
+
+==See also==
+* ''[[Buckley v. Valeo]]''
+* [[Campaign finance]]
+* [[Campaign finance reform in the United States]]
+* [[DISCLOSE Act]]
+* [[Eight Magic Words]]
+* ''[[FEC v. Wisconsin Right to Life]]''
+* [[Money trail]]
+* [[Political action committee]]
+* [[Political corruption in the United States]]
+* [[Political finance]]
+* [[Testing the waters]]
+
+== Notes ==
+{{Reflist}}
+
+== Further reading == 
+*{{cite book | title = Campaigns and Elections Rules, Reality, Strategy, Choice | author1= Sides, John| author2 = Shaw, Daron| author3= Grossman, Matt | author4 = Lipsitz, Keena | publisher = W.W Norton and Company}}
+* {{cite web |title=Bipartisan Campaign Reform Act |publisher=The Campaign Finance Institute |url=http://www.cfinst.org/eguide/shays.html |access-date=August 3, 2005 |archive-url = https://web.archive.org/web/20050317200121/http://www.cfinst.org/eguide/shays.html <!--DASHBot--> |archive-date = March 17, 2005}}
+* {{cite book |author1=Gill, David  |author2=Lipsmeyer, Christine |ssrn=1422616 |title=Soft Money and Hard Choices: Why Political Parties Might Legislate Against Soft Money Donations|publisher=Public Choice|year=2005}}
+* {{cite book |author=Green, Mark |title=Selling Out, How Big Corporate Money Buys Elections, Rams Through Legislation, and Betrays Our Democracy |publisher=Regan Books (Harper Collins) |year=2002 |isbn=978-0-06-052392-3|url=https://archive.org/details/sellingouthowbig00gree |url-access=registration }}
+* {{Cite book |last= Post |first= Robert C. |author-link= Robert Post (law professor) |year= 2014 |title= Citizens Divided: Campaign Finance Reform and the Constitution |location= Cambridge, Massachusetts |publisher= [[Belknap Press]] |isbn= 978-0-674-72900-1 |url= https://books.google.com/books?id=5nWWAwAAQBAJ }}
+* {{cite book |author=Samples, John |title=The Fallacy of Campaign Finance Reform |publisher=University of Chicago Press |year=2006 |isbn= 978-0-226-73450-7}}
+* {{cite book |author=Smith, Bradley |title=Unfree Speech: The Folly of Campaign Finance Reform |publisher=Princeton University Press |year=2001 |isbn=978-0-691-11369-2|url=https://books.google.com/books?id=1q1ImAEACAAJ }}
+* {{cite book |author=Smith, Rodney |title=Money, Power & Election: How Campaign Finance Reform Subverts American Democracy |publisher=Louisiana State University Press |year=2006 |isbn=978-0-8071-3128-2 |url=https://archive.org/details/moneypowerelecti0000smit |url-access=registration }}
+* Torres-Spelliscy, Ciara (ed.), [https://ssrn.com/abstract=1729827 Writing Reform: A Guide to Drafting State & Local Campaign Finance Laws] (2010 Revised Edition).
+
+==External links== 
+
+* [http://www.fec.gov Federal Election Commission]
+* [http://www.followthemoney.org/ National Institute on Money in State Politics]
+* [http://www.opensecrets.org/ OpenSecrets.org]
+* [https://web.archive.org/web/20190113135108/https://www.redbluetracker.com/ RedBlue Tracker]
+* [http://www.PoliticalMoneyLine.com/ CQ PoliticalMoneyLine]
+* [http://www.campaignlegalcenter.org/ Campaign Legal Center]
+* [http://www.cfinst.org/ Campaign Finance Institute]
+* [https://web.archive.org/web/20041128090353/http://www.publicampaign.org/ Public Campaign]
+* [http://www.commoncause.org/ Common Cause]
+* [http://www.citizen.org/ Public Citizen]
+* [http://moneyedpoliticians.wordpress.com/ Moneyed Politicians]
+* [http://www.campaignfreedom.org Center for Competitive Politics]
+* [http://www.democracynow.org/2010/10/7/campaign_cash_the_independent_fundraising_gold Campaign Cash Since Citizens United Ruling]—video report by ''[[Democracy Now!]]''
+* [http://www.factcheck.org/cashattack/ Cash Attack 2010] at ''[[FactCheck.org]]''
+* {{Cite episode |title=Take the Money and Run for Office |url=http://www.thisamericanlife.org/radio-archives/episode/461/take-the-money-and-run-for-office |series=This American Life |series-link=This American Life |network=[[Public Radio International]] |airdate=30 March 2012 |number=461}} An in-depth look at American campaign finance from the viewpoints of both politicians and lobbyists.
+* https://web.archive.org/web/20141103201657/http://www.idea.int/political-finance/country.cfm?id=231
+* [http://www.retroreport.org/video/the-cost-of-campaigns/ The Cost of Campaigns] by [[Retro Report]] looks at how campaign finance reform and how it has come full circle since the Watergate campaign finance scandals.
+* [http://www.movetoamend.org Move to Amend]
+
+{{Lobbying in the United States}}
+
+[[Category:Campaign finance in the United States| ]]
+[[Category:Lobbying in the United States]]
+[[Category:Political funding]]

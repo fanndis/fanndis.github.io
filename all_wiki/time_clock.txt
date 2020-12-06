@@ -1,0 +1,95 @@
+[[Image:clocking device.jpg|right|thumb|Electronic time clock]]
+A '''time clock''', sometimes known as a '''clock card machine''' or '''punch clock''' or '''time recorder''', is a device that records start and end times for [[hourly worker|hourly]] employees (or those on [[flexi-time]]) at a place of business.
+
+In mechanical time clocks, this was accomplished by inserting a heavy paper [[Card stock|card]], called a time card, into a slot on the time clock.  When the time card hit a contact at the rear of the slot, the machine would print day and time information (a [[timestamp]]) on the card. One or more time cards could serve as a [[timesheet]] or provide the data to fill one. This allowed a [[timekeeper]] to have an official record of the hours an employee worked to calculate the pay owed an employee.
+
+The terms '''Bundy clock''', '''bundy clock''', or just '''bundy'''<ref name="bundy_dictionary.com">''Bundy.'' (n.d.). ''Collins English Dictionary'' – Complete & Unabridged 10th Edition. Retrieved April 10, 2014, from Dictionary.com website: http://dictionary.reference.com/browse/bundy <!-- Citation as supplied at "Cite This Source" http://dictionary.reference.com/cite.html?qh=BUNDY&ia=ced --></ref> have been used in [[Australian English]] for time clocks. The term comes from [[#History|brothers Willard and Harlow Bundy]].
+
+==History==
+
+=== Origins ===
+[[Image:Time clock at wookey hole cave museum.JPG|thumb|right|Early time clock, made by National Time Recorder Co. Ltd. of Blackfriars, London at [[Wookey Hole Caves]] museum]] 
+[[File:Bundy Clock, Birmingham City Transport.jpg|thumb|upright|left|80px|Bundy clock]]
+An early and influential time clock, sometimes described as the first, was invented on November 20, 1888, by Willard Le Grand Bundy,<ref>[http://bundymuseum.org/site3/about/the-history/willard-bundy-bio/ Willard Legrand Bundy Biography]</ref> a jeweler in [[Auburn, New York]]. His patent of 1890<ref name="USpatent452894">{{US Patent|452894}}</ref> speaks of mechanical time recorders for workers in terms that suggest that earlier recorders already existed, but Bundy's had various improvements; for example, each worker had his own [[key (lock)|key]]. A year later his brother, Harlow Bundy, organized the [[Bundy Manufacturing Company]],<ref>[http://www-03.ibm.com/ibm/history/exhibits/vintage/vintage_4506VV2006.html IBM Archives: Bundy Manufacturing Co.]</ref><ref>[http://bundymuseum.org/site3/about/ Bundy Museum of History & Art]</ref> and began mass-producing time clocks.
+
+In 1900, the time recording business of Bundy Manufacturing, along with two other time equipment businesses, was consolidated into the [[International Time Recording Company]] (ITR).<ref>Engelbourg (1954) p.33</ref><ref>Belden, Martin; Belden, Marva (1961). The Life of Thomas J. Watson, Little, Brown; p. 92</ref><ref>[http://www-03.ibm.com/ibm/history/exhibits/logo/logo_2.html IBM Archives: International Time Recording]</ref><ref>[http://www-03.ibm.com/ibm/history/exhibits/logo/logo_920901.html IBM Archives: ITR time recorder]</ref>
+
+In 1911, ITR, Bundy Mfg., and two other companies were [[Consolidation (business)|amalgamated]] (via stock acquisition), forming a fifth company, [[Computing-Tabulating-Recording Company]] (CTR), which would later change its name to [[IBM]].<ref name="USInvestor1911">{{cite book |last1= Bennett|first1= Frank P. |author2=Company   |title= United States Investor |volume= 22, Part 2 |date= June 17, 1911  |page=1298 (26) | url=https://books.google.com/books?id=BQkhAQAAMAAJ&q=hollerith+intitle%3Ainvestor&pg=RA4-PA26  }}</ref>
+
+The Bundy clock (see image left) was used by [[Birmingham City Transport]] to ensure that bus drivers did not depart from outlying termini before the due time; now preserved at [[Walsall Arboretum]].
+
+In 1909, [[Halbert Powers Gillette|Halbert P. Gillette]] explained about the state of the art around time clocks in those days:
+[[Image:IBM time clock.jpg|thumb|right|upright|IBM time clock]]
+
+{{quote|''Time clocks.''{{emdash}}Such an appliance which may not, in general, be used in the field, but which is of immense value in the office and particularly in a shop, is the time clock. Various forms of time clocks are in common use, two types of which are illustrated. [The first] is a time card recorder, which is a clock so made that it will automatically stamp on a card inserted in a slot in the clock by the workman the time of his arrival and of his departure. The cards are made to hold a record covering the pay period and need no attention from a timekeeper or clerk until the termination of this period. The record of the men's time can then be compiled very readily by one who need not be a skilled mathematician or time clerk.
+
+The time clock system has been developed very highly in shops for keeping track of time used in completing any job by workmen, but as this in a way is not in the realm of field cost keeping, it will not be entered into here.
+
+Another form of time clock [...] has the numbers of the employees fixed on the outer edge of a disk or ring and a record is made by the employee who shifts a revolving arm and punches his number upon entering the office and leaving. The working up of employees' time then becomes simply a matter of computation from printed figures. These two types are made by the International Time Recording Co. of New York.<ref>[[Gillette, Halbert Powers]], and Richard T. Dana. ''[https://archive.org/stream/costkeepingmanag00gilluoft#page/n5/mode/2up Construction Cost Keeping and Management].'' Gillette Publishing Company, 1909, p. 110-112.</ref>
+}}
+
+An example of this other form of time clock, made by [[IBM]], is pictured. The face shows employee numbers which would be dialed up by employees entering and leaving the factory. The day and time of entry and exit was punched onto cards inside the box.<ref>{{cite thesis |type= Ph.D. |last= Engelbourg |first= Saul
+|title= International Business Machines: A Business History 
+|publisher= Columbia University |year= 1954 |pages= 385}}  Reprinted by Arno Press, 1976, ''from the best available copy''.  Some text is illegible.</ref>
+
+=== Mid 20th century ===
+In 1958, IBM's Time Equipment Division was sold to the [[Simplex Time Recorder Company]].  However, in the United Kingdom ITR (a subsidiary of IBM United Kingdom Ltd.) was the subject of a [[management buy-out]] in 1963 and reverted to International Time Recorders. In 1982, International Time Recorders was acquired by Blick Industries of Swindon, England, who were themselves later absorbed by Stanley Security Systems.
+
+The first punched-card system to be linked to a [[Z80]] microprocessor was developed by [[Kronos Incorporated]] in the late 1970s and introduced as a product in 1979.<ref>[http://www.kronos.com/about/history.aspx/ Kronos History]</ref>
+
+=== Late 20th century ===
+In the late 20th century, time clocks started to move away from the mechanical machines to computer-based, electronic [[time and attendance]] systems. The employee registers with the system by swiping a [[magnetic stripe card]], scanning a [[barcode]], bringing an [[RFID]] (radio-frequency identification) tag close to a reader, entering a number or using a biometric reader. These systems are much more advanced than the mechanical time clock: various reports can be generated, including on compliance with the [[European Working Time Directive]], and a [[Bradford factor]] report. Employees can also use the system to request holidays, enter absence requests and view their worked hours. User interfaces can be personalized and offer robust self-service capabilities.
+
+Electronic time clock machines are manufactured in many designs by companies in China and sold under various brand names in places around the world, with accompanying software to extract the data from a single time clock machine, or several machines, and process the data into reports. In most cases local suppliers offer technical support and in some cases installation services.
+
+More recently, time clocks have started to adopt technology commonly seen in phones and tablets – called 'Smartclocks'. The "state of the art" smartclocks come with multi-touch screens, full color displays, real time monitoring for problems, wireless networking and over the air updates. Some of the smartclocks use front-facing cameras to capture employee clock-ins to deter "buddy clocking" or "buddy punching", whereby one employee fraudulently records the time of another. This problem usually requires expensive [[biometric device#Workplace|biometric devices]]. With the increasing popularity of cloud-based software, some of the newer time clocks are built to work seamlessly with the cloud.<ref>[http://tabtimes.com/news/ittech-solutions/2011/11/18/android-tablet-gives-old-punch-card-time-clock-facelift David Needle, TabTimes, Android tablet gives old punch card time clock facelift]</ref>
+
+==Types==
+
+=== Basic time clock ===
+A basic time clock will just stamp the date and time on a time card, similar to a parking validation machine. These will usually be activated by a button that a worker must press to stamp their card, or stamp upon full insertion. Some machines use [[Punch card|punch hole card]]s instead of stamping, which can facilitate automated processing on machinery not capable of [[optical character recognition]].
+
+There are also variations based on manufacture and machine used, and whether the user wants to record weekly or monthly recordings. The time cards usually have the workdays, "time in", and "time out" areas marked on them so that employees can "punch in" or "punch out" in the correct place.  The employee may be responsible for lining up the correct area of the card to be punched or stamped.  Some time clocks feature a bell or signal relay to alert employees as to a certain time or break.{{citation needed|date=March 2014}}
+
+Fraudulent operation of time clocks can include overstamping, where one time is stamped over another, and buddy-punching, where one employee records time for another. In extreme cases, employees can use buddy-punching to skip entire days of work or accumulate additional overtime.
+
+=== Self-calculating machines ===
+[[Image:Magnetstempelkarte (kontaktlos).JPG|right|thumbnail|120px|Contactless magnetic time clock card]]
+Self-calculating machines are similar to basic time clocks. Nevertheless, at the end of each period the total time recorded is added up allowing for quicker processing by [[human resources]] or [[payroll]]. These machines sometimes have other functions such as automatic stamping, dual-colour printing, and automated column shift.{{citation needed|date=March 2014}}
+
+[[Time tracking software|Software based time and attendance systems]] are similar to paper-based systems, but they rely on computers and check-in terminals. They are backed up with software that can be integrated with the human resources department and in some cases payroll software. These types of systems are becoming more popular but due to high initial costs they are usually only adopted by large business of over 30 employees. Despite this they can save a business a lot of money every year by cutting down errors and reducing administration time.<ref>{{Cite web|url=https://www.accelo.com/assets/Uploads/WhitePaperTimeIsMoney.pdf|title=Time Is Money|date=July 2014|website=https://www.accelo.com/assets/Uploads/WhitePaperTimeIsMoney.pdf}}</ref> {{citation needed|date=March 2014}}
+
+=== Mobile time tracking ===
+With the mass market proliferation of mobile devices (smart phones, handheld devices), new types of self-calculating time tracking systems have been invented which allow a mobile workforce – such as painting companies or construction companies - to track employees 'on' and 'off' hours. This is generally accomplished through either a mobile application, or an IVR based phone call in system. Using a mobile device allows enterprises to better validate that their employees or suppliers are physically 'clocking in' at a specific location using the GPS functionality of a mobile phone for extra validation.
+
+==Biometrics==
+Biometric time clocks are a feature of more advanced [[time and attendance]] systems. Rather than using a key, code or chip to identify the user, they rely on a unique attribute of the user, such as a hand print, finger print, finger vein, palm vein, facial recognition, iris or retina. The user will have their attribute scanned into the system. Biometric readers are often used in conjunction with an access control system, granting the user access to a building, and at the same time clocking them in recording the time and date. These systems also attempt to cut down on fraud such as "buddy clocking." When combined with an access control system they can help prevent other types of fraud such as 'ghost employees', where additional identities are added to payroll but don't exist.
+
+==See also==
+* [[Time and attendance]]
+* [[Timekeeper]]
+* [[Timesheet]]
+* [[Game clock]]
+* [[Stopwatch]]
+* [[Workforce management]]
+{{Portal|Organized labour
+}}
+
+== References ==
+{{Reflist|2}}
+
+==External links==
+{{commons}}
+*[http://www-03.ibm.com/ibm/history/exhibits/cc/cc_room.html IBM Time Clocks] (PDF files)
+*[http://americanhistory.si.edu/collections/object.cfm?key=35&objkey=156 National Museum of American History: International Dial Time Recorder Clock]
+*[http://www.timerecorder.de/ www.timerecorder.de/]  (mostly in German, but partly translated into English) is one of the most comprehensive online documentations of the history of time recorders and time clocks
+*[http://www.bundymuseum.org Harlow Bundy's home in Binghamton, it was restored and now houses a museum dedicated to the Bundys.]
+*https://www.huntonprivacyblog.com/2017/06/01/washington-becomes-third-state-enact-biometric-privacy-law/
+*https://codes.findlaw.com/tx/business-and-commerce-code/bus-com-sect-503-001.html
+
+{{Authority control}}
+
+{{DEFAULTSORT:Time Clock}}
+[[Category:Products introduced in 1888]]
+[[Category:Clocks]]
+[[Category:Working time]]

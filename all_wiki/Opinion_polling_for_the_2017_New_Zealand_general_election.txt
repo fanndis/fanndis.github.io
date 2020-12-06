@@ -1,0 +1,1426 @@
+{{Use New Zealand English|date=June 2013}}
+{{Use dmy dates|date=April 2017}}
+
+Various organisations commissioned opinion polls for the [[2017 New Zealand general election]] during the term of the [[51st New Zealand Parliament]] (2014–2017). [[Roy Morgan Research]] polled monthly, with [[MediaWorks New Zealand]] (''3 News''/''[[Newshub]]'' Reid Research) and [[Television New Zealand]] (''[[One News (New Zealand)|One News]]'' [[Colmar Brunton]]) polling less frequently. The last ''[[The New Zealand Herald]]'' (Herald Digipoll) was in December 2015, and [[Fairfax Media]] (Fairfax Media [[Ipsos]]) discontinued their poll after the [[2014 New Zealand general election|2014 election]]. The sample size, margin of error and confidence interval of each poll varied by organisation and date, but were typically 800–1000 participants with a [[margin of error]] of just over 3%.
+
+The previous Parliament was elected on Saturday 20 September 2014. The 2017 general election was held on Saturday 23 September 2017.<ref>
+{{cite news
+|last1= Wong|first1= Simon
+|title= Prime Minister sets 2017 election date
+|url= http://www.newshub.co.nz/home/politics/2017/02/prime-minister-sets-2017-election-date.html
+|accessdate= 1 February 2017
+|agency= Newshub|date= 1 February 2017
+}}
+</ref>
+
+==Party vote and key events==
+Refusals are generally excluded from the party vote percentages, while question wording and the treatment of "don't know" responses and those not intending to vote may vary between survey organisations.
+
+===Graphical summary===
+The first graph below shows trend lines averaged across all polls for parties that received 5.0% or more of the party vote at the 2014 election. The second graph shows parties that received between 1.0% and 4.9% of the party vote or won an electorate seat at the 2014 election.
+
+[[File:NZ opinion polls 2014-2017-majorparties.png|thumb|left|800px|Summary of poll results given below from the election result 20 September 2014. For simplicity, only political parties that received 5.0% or more of the party vote at the 2014 election are shown. Lines give the mean estimated by a [[Local regression|LOESS smoother]] (smoothing set to span = 0.35), with shaded grey areas showing the corresponding 95% confidence interval for the estimate. Figures to the right show the estimate from the smoothing line at the date of the most recent poll, with 95% confidence interval. ]]
+
+[[File:NZ opinion polls 2014-2017-minorparties.png|thumb|left|800px|Summary poll results for political parties that received between 1.0% and 4.9% of the party vote or won an electorate seat at the 2014 election. Lines give the mean estimated by a [[Local regression|LOESS smoother]] (smoothing set to span = 0.35), with shaded grey areas showing the corresponding 95% confidence interval for the estimate. Figures to the right show the estimate from the smoothing line at the date of the most recent poll, with 95% confidence interval. ]]
+{{clear}}
+
+===Individual polls===
+{| class="sortable" cellpadding="5" cellspacing="1" "toccolours" style="text-align:center; margin-right:0.5em; margin-top:0.4em; font-size:90%; border:1px solid darkgray;"
+|- style="height:40px"
+! style="background:#ddd;width:180px;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="background:#ddd;width:270px;" | Poll
+<!-- the order is National - Labour - Green - NZF - Māori - ACT - United Future - Conservative - Mana - TOP -->
+! style="background-color:#B0CEFF;width:40px" | [[New Zealand National Party|NAT]]
+! style="background-color:#FFB6B6;width:40px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#90EE90;width:40px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#D3D3D3;width:40px" | [[New Zealand First|NZF]]
+! style="background-color:#D4958F;width:40px" | [[Māori Party|MRI]]
+! style="background-color:#FAFA73;width:40px" | [[ACT New Zealand|ACT]]
+! style="background-color:#E395EC;width:40px" | [[United Future|UNF]]
+! style="background-color:#91D3FF;width:40px" | [[Conservative Party of New Zealand|CON]]
+! style="background-color:#F3828A;width:40px" | [[Mana Movement|MNA]]
+! style="background-color:#9299F5;width:40px" | [[The Opportunities Party|TOP]]
+|- style="background:#ccc;"
+! colspan=12 |
+|- style="background:#ddd;"
+| data-sort-value="2014-09-20" | 20 Sep 2014
+| '''[[2014 New Zealand general election|2014 election result]]'''<ref name="2014result">{{cite web |url= http://www.electionresults.govt.nz/electionresults_2014/partystatus.html |title= Official Count Results – Overall Status |publisher=[[Electoral Commission (New Zealand)|Electoral Commission]] |location=Wellington |date= 10 October 2014 |accessdate= 29 November 2014}}</ref>
+|style="background-color:#B0CEFF;" |'''47.04''' || 25.13 || 10.70 || 8.66 || 1.32 || 0.69 || 0.22 || 3.97 || 1.42<ref group="nb" name="mana">For the [[Internet Party and Mana Movement|Internet MANA]] party vote alliance.</ref> || {{small|N/A}}
+|-
+| data-sort-value="2014-10-12" | 29 Sep – 12 Oct 2014
+| [[Roy Morgan Research]]<ref name="RMR-16Oct2014">{{cite web |url= http://www.roymorgan.com/findings/5868-roy-morgan-new-zealand-voting-intention-october-16-2014-201410160358 |title= National fail to get post-election bounce but leaderless Labour Party crash to lowest ever support |publisher= Roy Morgan Research |date= 16 October 2014 |accessdate= 29 November 2014}}</ref>
+|style="background-color:#B0CEFF;" |'''43.5''' || 22.5 || 17.5 || 7 || 2 || 0.5 || 0.5 || 5 || 1 || {{small|N/A}}
+|-
+| data-sort-value="2014-11-09" | 27 Oct – 9 Nov 2014
+| Roy Morgan Research<ref name="RMR-14Nov2014">{{cite web |url= http://www.roymorgan.com/findings/5929-roy-morgan-new-zealand-voting-intention-november-9-2014-201411140037 |title= National enjoy delayed honeymoon with big lead over leaderless Labour before new leader is selected next week |publisher= Roy Morgan Research |date= 14 November 2014 |accessdate= 29 November 2014}}</ref>
+|style="background-color:#B0CEFF;" |'''49.5''' || 24 || 14.5 || 6.5 || 1 || 0.5 || 0 || 2 || 0.5 || {{small|N/A}}
+|-
+| data-sort-value="2014-12-07" | 24 Nov – 7 Dec 2014
+| Roy Morgan Research<ref name="RMR-12Dec2014">{{cite web |url= http://www.roymorgan.com/findings/5978-roy-morgan-new-zealand-poll-december-7-2014-201412120452 |title= National lead is down after Andrew Little claims the Labour Leadership with a landslide of Union support over Cabinet’s preferred option Grant Robertson  |publisher= Roy Morgan Research |date= 12 December 2014 |accessdate= 26 December 2014}}</ref>
+|style="background-color:#B0CEFF;" |'''46''' || 27 || 12 || 7 || 2 || 1.5 || 0 || 2.5 || 1 || {{small|N/A}}
+|-
+| 8–21 Dec 2014
+| Herald–DigiPoll<ref name="HD-26Dec2014">{{cite web |first= Audrey |last= Young  |date= 26 December 2014 |url= http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11379112 |title= National, Labour both on the rise |publisher= The New Zealand Herald |accessdate= 2 February 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''50.4''' || 28.9 || 9.5 || 5.6 || 1.5 || 0.4 || 0 || 2.9 || 0.2 || {{small|N/A}} <!-- United Future is either 0.0/0.1, as it was stated as having less than Internet-Mana, hence rounded to zero -->
+|-
+| data-sort-value="2015-01-18" | 5–18 Jan 2015
+| Roy Morgan Research<ref name="RMR-23Jan2015">{{cite web |url= http://www.roymorgan.com/findings/6028-roy-morgan-new-zealand-voting-intention-january-2015-201501230555 |title= National surges in 2015 – Biggest lead since September 2014 NZ Election |publisher= Roy Morgan Research |date= 23 January 2015 |accessdate= 23 January 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''52''' || 26 || 11 || 6 || 1.5 || 1 || 0 || 2 || 0 || {{small|N/A}}
+|-
+| data-sort-value="2015-01-28" | 20–28 Jan 2015
+| [[3 News]]–Reid Research<ref name="3NRR-1Feb2015">{{cite web |first= Patrick |last= Gower |authorlink= Patrick Gower |date= 1 February 2015 |url= http://www.3news.co.nz/nznews/little-rivals-clark-in-favourable-poll-results-2015020116 |title= Little rivals Clark in favourable poll results |publisher= 3 News |accessdate= 1 February 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''49.8''' || 29.1 || 9.3 || 6.9 || 1.3 || 0.4 || 0 || 2.7 || 0.6 || {{small|N/A}}
+|-
+| data-sort-value="2015-02-15" | 2–15 Feb 2015
+| Roy Morgan Research<ref name="RMR-20Feb2015">{{cite web |url= http://www.roymorgan.com/findings/6078-roy-morgan-new-zealand-february-voting-intention-201502200720 |title= National support slips but Labour still well behind as New Zealand co-host the 2015 Cricket World Cup |publisher= Roy Morgan Research |date= 20 February 2015 |accessdate= 20 February 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''49''' || 30 || 12 || 6 || 1 || 0 || 0 || 1.5 || 0 || {{small|N/A}}
+|-
+| data-sort-value="2015-02-18" | 14–18 Feb 2015
+| [[One News (New Zealand)|One News]]–[[Colmar Brunton]]<ref name="ONCB-22Feb2015">{{citation|url=http://colmarbrunton.co.nz/images/150302_ONE_News_Colmar_Brunton_Poll_report_14-18_Feb_2015.pdf|title=ONE News Colmar Brunton Poll 14–18 February 2015|archive-url=https://web.archive.org/web/20160401062736/http://colmarbrunton.co.nz/images/150302_ONE_News_Colmar_Brunton_Poll_report_14-18_Feb_2015.pdf|publisher=Colmar Brunton|date=22 February 2015|archive-date=1 April 2016|access-date=11 September 2017}}</ref>
+|style="background-color:#B0CEFF;" |'''49''' || 31 || 10 || 6 || 1.5 || 0.3 || 0 || 1.4 || 0.4 || {{small|N/A}}
+|-
+| data-sort-value="2015-03-15" | 2–15 Mar 2015
+| Roy Morgan Research<ref name="RMR-20Mar2015">{{cite web |url= http://www.roymorgan.com/findings/6128-roy-morgan-new-zealand-voting-intention-march-2015-201503200448 |title= National support slips but would win a close election as New Zealand get set to host Cricket World Cup Quarter-Final |publisher= Roy Morgan Research |date= 20 March 2015 |accessdate= 20 March 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''46.5''' || 31 || 11 || 6 || 2 || 1 || – || 1.5 || – || {{small|N/A}}
+|- style="background:#e4e4e4;"
+| data-sort-value="2015-03-28" | 28 Mar 2015
+| colspan="11" | The [[2015 Northland by-election|Northland by-election]] is won by [[New Zealand First]] leader [[Winston Peters]].
+|-
+| data-sort-value="2015-04-05" | 11–15 Apr 2015
+| data-sort-value="2015-04-21" | One News–Colmar Brunton<ref name="ONCB-19Apr2015">{{cite news |url= http://www.colmarbrunton.co.nz/images/150419_2_ONE_News_Colmar_Brunton_Poll_report_11-15_April_2015.pdf|title= Current ONE News Colmar Brunton Poll |publisher= Colmar Brunton |date= 19 April 2015 |accessdate= 21 Apr 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''49''' || 31 || 9 || 7 || 0.8 || 0.5 || – || 1.5 || 1.1 || {{small|N/A}}
+|-
+| data-sort-value="2015-04-19" | 6–19 Apr 2015
+| Roy Morgan Research<ref name="RMR-23Apr2015">{{cite web |url= http://www.roymorgan.com/findings/6187-roy-morgan-new-zealand-voting-intention-april-2015-201504230106 |title= National retains strong support despite NZ First victory at the Northland by-election |publisher= Roy Morgan Research |date= 23 April 2015 |accessdate= 23 April 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''45.5''' || 27.5 || 13.5 || 8 || 1.5 || 1 || – || 1 || – || {{small|N/A}}
+|-
+| data-sort-value="2015-04-26" | 17–26 Apr 2015
+| Herald-DigiPoll<ref name="HD-29Apr2015">{{cite web |first= Audrey |last= Young  |date= 29 April 2014 |url= http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11440058 |title= Ponytail-gate fails to shake Prime Minister's ratings |publisher= The New Zealand Herald |accessdate= 29 April 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''51''' || 28.7 || 10.8 || 6.1 || 0.8 || 0.8 || – || 1.1 || – || {{small|N/A}}
+|-
+| data-sort-value="2015-05-17" | 4–17 May 2015
+| Roy Morgan Research<ref name="RMR-25May2015">{{cite web |url= http://www.roymorgan.com/findings/6248-roy-morgan-new-zealand-voting-intention-may-2015-201505250727 |title= Positive news in lead up to New Zealand Budget helps National Government support jump to 54% – highest since October 2011 Share |publisher= Roy Morgan Research |date= 25 May 2015 |accessdate= 25 May 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''54''' || 25.5 || 10.5 || 6 || 1 || 1 || 0 || 1 || – || {{small|N/A}}
+|- style="background:#e4e4e4;"
+| data-sort-value="2015-05-21" | 21 May 2015
+| colspan="11" | The [[2015 New Zealand budget|2015 Budget]] is delivered.
+|-
+| data-sort-value="2015-05-27" | 23–27 May 2015
+| One News–Colmar Brunton<ref name="ONCB-01Jun2015">{{cite news |url= http://www.colmarbrunton.co.nz/images/150531_2_ONE_News_Colmar_Brunton_Poll_report_23-27_May_2015_prelim.pdf|title= Current ONE News Colmar Brunton Poll |publisher= Colmar Brunton |date= 31 May 2015 |accessdate= 1 June 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''48''' || 31 || 10 || 7 || 1.4 || 0.1 || – || 2.3|| – || {{small|N/A}}
+|-
+| data-sort-value="2015-05-27" | 21–27 May 2015
+| 3 News–Reid Research<ref name="3NRR-2Jun2015">{{cite web |first= Patrick |last= Gower |authorlink= Patrick Gower |date= 2 June 2015 |url= http://www.3news.co.nz/nznews/john-keys-popularity-drops-in-latest-poll-2015060218#axzz3brg4lwEb |title= John Key's popularity drops in latest poll |publisher= 3 News |accessdate= 2 June 2015}}</ref><ref name="reidresearchwebsite">{{cite web|url=http://www.reidresearch.co.nz/TV3+POLL+RESULTS.html |title=TV3 Poll Results |website=Reidresearch.co.nz |accessdate=26 February 2017}}</ref>
+|style="background-color:#B0CEFF;" |'''46.4''' || 30.4 || 11.1 || 8.1 || 1.1 || 0.5 || – || 1.9 || 0.1 || {{small|N/A}}
+|- style="background:#e4e4e4;"
+| data-sort-value="2015-05-30" | 30 May 2015
+| colspan="11" | [[James Shaw (New Zealand politician)|James Shaw]] replaces [[Russel Norman]] as the [[Green Party of Aotearoa New Zealand|Green Party]] co-leader.<ref>{{cite web|title=James Shaw named Greens new co-leader|url= http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11457327|accessdate=30 May 2015|website=nzherald.co.nz|date=30 May 2015}}</ref>
+|-
+| 8–21 Jun 2015
+| Roy Morgan Research<ref name="RMR-24Jun2015">{{cite web |url= http://www.roymorgan.com/findings/6300-roy-morgan-new-zealand-voting-intention-june-2015-201506240227 |title= National Government support down to 49.5% as New Zealand growth slows to 0.2% in March Quarter – slowest in two years |publisher= Roy Morgan Research |date= 24 June 2015 |accessdate= 24 June 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''49.5''' || 26 || 13 || 6.5 || 1 || 1 || – || 1 || – || {{small|N/A}}
+|- style="background:#e4e4e4;"
+| data-sort-value="2015-06-27" | 22–27 Jun 2015
+| colspan="11" | [[Conservative Party of New Zealand|The Conservative Party]] disintegrates as leader [[Colin Craig]] and all board members resign. Acting leadership of the party is left unclear.<ref name="NZ Herald 22 June 2015">{{cite news|url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11469194|title=Calls for Colin Craig's party membership to be cancelled|date=22 June 2015|work=[[The New Zealand Herald]]|last1=Davison|first1=Isaac|accessdate=22 June 2015}}</ref>
+|-
+| data-sort-value="2015-07-12" | 29 Jun – 12 Jul 2015
+| Roy Morgan Research<ref name="RMR-17Jul2015">{{cite web |url= http://www.roymorgan.com/findings/6349-roy-morgan-new-zealand-voting-intention-july-2015-201507170250 |title= Support for Labour/Greens coalition overtakes National for first time since New Zealand Election |publisher= Roy Morgan Research |date= 17 July 2015 |accessdate= 17 July 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''43''' || 32 || 13 || 7 || 1.5 || 0.5 || – || 1.5 || – || {{small|N/A}}
+|-
+| data-sort-value="2015-07-05" | 11–15 Jul 2015
+| One News–Colmar Brunton<ref name="ONCB-19Jul2015">{{cite news |url= http://www.colmarbrunton.co.nz/index.php/polls-and-surveys/political-polls/one-news-colmar-brunton-poll |title= Current ONE News Colmar Brunton Poll |publisher= Colmar Brunton |date= 19 July 2015 |accessdate= 19 July 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''47''' || 32 || 13 || 7 || 0.4 || 0.4 || – || – || 0.5 || {{small|N/A}}
+|-
+| data-sort-value="2015-07-22" | 15–22 Jul 2015
+| 3 News–Reid Research<ref name="3NRR-26Jul2015">{{cite web |first= Patrick |last= Gower |authorlink= Patrick Gower |date= 26 July 2015 |url= http://www.3news.co.nz/nznews/poll-61pct-want-to-ban-foreign-buyers-2015072617#axzz3gqh0yHS9 |title= Poll: 61pct want to ban foreign buyers |publisher= 3 News |accessdate= 26 July 2015}}</ref><ref name="reidresearchwebsite"/>
+|style="background-color:#B0CEFF;" |'''47''' || 31.1 || 11.4 || 8.4 || 0.5 || 0.5 || 0.1 || 0.7 || 0.2 || {{small|N/A}}
+|-
+| data-sort-value="2015-08-16" |3–16 Aug 2015
+| Roy Morgan Research<ref name="RMR-16Aug2015">{{cite web |url= http://www.roymorgan.com/findings/6406-roy-morgan-new-zealand-voting-intention-august-2015-201508200049 |title= National support jumps ahead of a potential Labour/Greens alliance |publisher= Roy Morgan Research |date= 20 August 2015 |accessdate= 20 August 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''50.5''' || 27 || 11 || 8 || 1.5 || 0.5 || – || – || 0.5 || {{small|N/A}}
+|-
+| data-sort-value="2015-08-24" |14–24 Aug 2015
+| Herald-DigiPoll<ref name="HD-26Aug2015">{{cite web |first= Audrey |last= Young  |date= 26 August 2015 |url= http://www.nzherald.co.nz/politics/news/article.cfm?c_id=280&objectid=11502827 |title= Labour's support recovers to 30s |publisher= The New Zealand Herald |accessdate= 26 August 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''50.8''' || 31 || 9.2 || 6.9 || 1 || 0.2 || – || 0.6 || 0.2 || {{small|N/A}}
+|-
+| data-sort-value="2015-09-02" | 29 Aug – 2 Sep 2015
+| One News–Colmar Brunton<ref name="ONCB-11Sep2015">{{cite news |url= http://www.colmarbrunton.co.nz/images/150907_1_ONE_News_Colmar_Brunton_Poll_report_29_Aug-2_Sep_2015.pdf |title= Current ONE News Colmar Brunton Poll |publisher= Colmar Brunton |date= 6 September 2015 |accessdate= 11 September 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''47''' || 32 || 12 || 7 || 1.2 || 0.1 || – || 0.1|| 0.2 || {{small|N/A}}
+|-
+| data-sort-value="2015-09-13" | 31 Aug – 13 Sep 2015
+| Roy Morgan Research<ref name="RMR-18Sep2015">{{cite web |url= http://www.roymorgan.com/findings/6456-roy-morgan-new-zealand-voting-intention-september-2015-2015091807219 |title= Potential Labour/Greens alliance support jumps ahead of National as RBNZ cuts interest rates to boost flagging NZ economy |publisher= Roy Morgan Research |date= 13 September 2015 |accessdate= 18 September 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''44.5''' || 31 || 15 || 5.5 || 1.5 || 0.5 || 0.5 || 1 || 0.5 || {{small|N/A}}
+|-
+| data-sort-value="2016-09-16" | 8–16 Sep 2015
+| 3 News–Reid Research<ref name="3NRR-21Sep2015">{{cite web |first= Patrick |last= Gower |authorlink= Patrick Gower |date= 26 July 2015 |url= http://www.3news.co.nz/nznews/political-poll-support-low-for-flag-change-2015092016#axzz3mJPcupOV |title= Political poll: Support low for flag change |publisher= 3 News |accessdate= 21 September 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''47.3''' || 33 || 10 || 7.9 || 0.5 || 0.6 || – || 0.5 || – || {{small|N/A}}
+|-
+| data-sort-value="2015-10-11" | 31 Sep – 11 Oct 2015
+| Roy Morgan Research<ref name="RMR-15Oct2015">{{cite web |url=http://www.roymorgan.com/findings/6506-roy-morgan-new-zealand-voting-intention-october-2015-201510150600 |title=National support jumps in October with signing of Trans-Pacific Partnership (TPP) and leads potential Labour/Greens alliance |publisher=Roy Morgan Research |accessdate= 15 October 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''50''' || 29 || 11.5 || 6.5 || 0.5 || 0.5 || – || 0.5 || 0.5 || {{small|N/A}}
+|-
+| data-sort-value="2015-12-04" | 10–14 Oct 2015
+| One News–Colmar Brunton<ref name="ONCB-20Oct2015">{{cite news |url= http://www.colmarbrunton.co.nz/images/151018_ONE_News_Colmar_Brunton_Poll_report_10-14_Oct_2015_prelim.pdf |title= Current ONE News Colmar Brunton Poll |publisher= Colmar Brunton |date= 18 October 2015 |accessdate= 20 October 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''47''' || 31 || 12 || 9 || 0.8 || 0.2 || – || 0.4|| – || {{small|N/A}}
+|-
+| data-sort-value="2015-11-08" | 26 Oct – 8 Nov 2015
+| Roy Morgan Research<ref name="RMR-13Nov2015">{{cite web |url=http://www.roymorgan.com/findings/6557-roy-morgan-new-zealand-voting-intention-november-2015-201511130233 |title=NZ voting intention virtually unchanged in November before controversy this week after PM John Key accuses Opposition Leader Andrew Little of backing rapists |publisher=Roy Morgan Research |accessdate= 13 November 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''49''' || 29.5 || 12 || 6 || 2 || 0.5 || – || 0.5 || 0.5 || {{small|N/A}}
+|-
+| data-sort-value="2015-11-17" | 9–17 Nov 2015
+| 3 News–Reid Research<ref name="3NRR-24Nov2015">{{cite web |first= Patrick |last= Gower |authorlink= Patrick Gower |date= 22 November 2015 |url= http://www.3news.co.nz/nznews/national-still-ahead-in-polls-despite-rapist-remarks-2015112217#axzz3sM83EsVZ |title= National still ahead in polls despite 'rapist' remarks |publisher= 3 News |accessdate= 24 November 2015}}</ref><ref name="reidresearchwebsite"/>
+|style="background-color:#B0CEFF;" |'''46.7''' || 32.3 || 10.2 || 7.5 || 1.3 || 0.8 || – || 0.7 || 0.2 || {{small|N/A}}
+|-
+| data-sort-value="2015-12-06" | 23 Nov – 6 Dec 2015
+| Roy Morgan Research<ref name="RMR-06Dec2015">{{cite web |url=http://www.roymorgan.com/findings/6599-roy-morgan-new-zealand-voting-intention-december-2015-201512092333 |title=National set for Merry Christmas as Key Government retains strong lead over Labour/Greens opposition |publisher=Roy Morgan Research |accessdate= 25 December 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''49''' || 28.5 || 13 || 6 || 1.5 || 0.5 || 0.5 || 0.5 || – || {{small|N/A}}
+|-
+| 4–14 Dec 2015
+| Herald-DigiPoll<ref name="Herald-15Dec2015">{{cite web |first= Audrey |last= Young  |date= 15 December 2015 |url= http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11561025 |title= National steady at year-end |publisher= NZ Herald |accessdate= 16 December 2015}}</ref>
+|style="background-color:#B0CEFF;" |'''51.3''' || 31.1 || 8.2 || 5.7 || 2.1 || 0.8 || 0.3 || – || – || {{small|N/A}}
+|-
+| data-sort-value="2016-01-17" | 4–17 Jan 2016
+| Roy Morgan Research<ref name="RMR17Jan2016">{{cite web |url=http://www.roymorgan.com/findings/6639-roy-morgan-new-zealand-voting-intention-january-2016-201601220219 |title=National lead down slightly over Labour/Greens opposition in New Year. TPP signing ceremony set for Auckland in two weeks a coup for PM John Key. |publisher=Roy Morgan Research |accessdate= 22 January 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''47''' || 27.5 || 14 || 6.5 || 3 || 0.5 || – || 1 || – || {{small|N/A}}
+|- style="background:#e4e4e4;"
+| data-sort-value="2016-02-04" | 4 Feb 2016
+| colspan="11" | The [[Trans-Pacific Partnership]] agreement is signed by the New Zealand government and 12 other partner countries.
+|-
+| data-sort-value="2016-02-14" | 1–14 Feb 2016
+| Roy Morgan Research<ref name="RMR19Feb2016">{{cite web |url=http://www.roymorgan.com/findings/6678-roy-morgan-new-zealand-voting-intention-february-2016-201602190455 |title=National builds winning lead over Labour/Greens opposition in New Zealand following TPP signing ceremony in Auckland early in February |publisher=Roy Morgan Research |accessdate= 22 February 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''48''' || 27 || 14.5 || 6 || 1 || 0.5 || – || 1 || 0.5 || {{small|N/A}}
+|-
+| data-sort-value="2016-02-07" | 13–17 Feb 2016
+| One News–Colmar Brunton<ref name="ONCB-21Feb2015">{{cite news |url= http://www.colmarbrunton.co.nz/images/160222_ONE_News_Colmar_Brunton_Poll_report_13-17_Feb_2016.pdf |title= Current ONE News Colmar Brunton Poll |publisher= Colmar Brunton |date= 21 February 2016 |accessdate= 23 February 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''47''' || 32 || 8 || 10 || 1.1 || 0.3 || – || 0.6|| 0.3 || {{small|N/A}}
+|-
+| data-sort-value="2016-03-13" | 29 Feb – 13 Mar 2016
+| Roy Morgan Research<ref name="RMR18Mar2016">{{cite web |url=http://www.roymorgan.com/findings/6715-roy-morgan-new-zealand-voting-intention-march-2016-201603180507 |title=National lead cut to smallest since September as NZ First vote surges to 9% as Winston Peters takes strong stand on New Zealand Flag Referendum |publisher=Roy Morgan Research |accessdate= 18 March 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''46''' || 28 || 14 || 9 || 1 || 1 || – || 0.5 || 0.5 || {{small|N/A}}
+|-
+| data-sort-value="2016-04-06" | 2–6 Apr 2016
+| One News–Colmar Brunton<ref name="ONCB-10Apr2016">{{cite news |url= http://colmarbrunton.co.nz/wp-content/uploads/160410-ONE-News-Colmar-Brunton-Poll-report-2-6-Apr-2016-prelim.pdf |title= Current ONE News Colmar Brunton Poll |publisher= Colmar Brunton |date= 10 April 2016 |accessdate= 10 April 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''50''' || 28 || 10 || 9 || 1.1 || 0.7 || – || 0.3 || – || {{small|N/A}}
+|-
+| data-sort-value="2016-04-17" | 4–17 Apr 2016
+| Roy Morgan Research<ref name="RMR17Apr2016">{{cite web |url=http://www.roymorgan.com/findings/6772-roy-morgan-new-zealand-voting-intention-april-2016-201604260544 |title=National vote lowest since 2014 Election as NZ First vote surges to 20 year high of 12.5% |publisher=Roy Morgan Research |accessdate= 26 April 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''42.5''' || 26 || 14.5 || 12.5 || 1.5 || 1.5 || – || 1 || – || {{small|N/A}}
+|-
+| data-sort-value="2016-05-15" | 2–15 May 2016
+| Roy Morgan Research<ref name="RMR15May2016">{{cite web |url=http://www.roymorgan.com/findings/6816-roy-morgan-new-zealand-voting-intention-may-2016-201605230014 |title=National and Labour vote up in May but NZ First still holds the balance of power position despite vote falling |publisher=Roy Morgan Research |accessdate= 23 May 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''45.5''' || 29.5 || 12 || 9.5 || 1 || 1 || 0 || 0.5 || – || {{small|N/A}}
+|-
+| data-sort-value="2016-05-22" | 12–22 May 2016
+| Newshub Reid Research<ref name="NRR-24May2016">{{cite web |first= Patrick |last= Gower |authorlink= Patrick Gower |date= 24 May 2016 |url= http://www.newshub.co.nz/politics/newshub-poll-keys-popularity-plummets-to-lowest-level-2016052414#axzz49XtSVKcW |title= Newshub poll: Key's popularity plummets to lowest level|publisher= Newshub |accessdate= 24 May 2016}}</ref><ref name="reidresearchwebsite"/>
+|style="background-color:#B0CEFF;" |'''47''' || 31.3 || 11.1 || 7.8 || 1 || 0.4 || – || 0.6 || 0.1 || {{small|N/A}}
+|- style="background:#e4e4e4;"
+| data-sort-value="2016-05-31" | 26 May 2016
+| colspan="11" | The [[2016 New Zealand budget|2016 Budget]] is delivered.
+|-
+| data-sort-value="2016-05-31" | 31 May 2016
+| colspan="11" | The [[New Zealand Labour Party|Labour]] and [[Green Party of Aotearoa New Zealand|Green]] parties undertake a [[memorandum of understanding]].<ref>{{cite news|last1=Davison|first1=Isaac|title=Labour, Greens to work together to stop National at next election|url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11648166|accessdate=31 May 2016|work=[[The New Zealand Herald]]|date=31 May 2016}}</ref>
+|- 
+| data-sort-value="2016-06-02" | 28 May – 2 Jun 2016
+| One News–Colmar Brunton<ref name="ONCB-7Jun2016">{{cite news |url= http://colmarbrunton.co.nz/wp-content/uploads/160607-ONE-News-Colmar-Brunton-Poll-report-28-May-2-June-2016-prelim.pdf |title= Current ONE News Colmar Brunton Poll |publisher= Colmar Brunton |date= 7 June 2016 |accessdate= 7 June 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''48''' || 29 || 12 || 9 || 0.7 || 0.3 || – || 0.7 || 0.1 || {{small|N/A}}
+|-
+| 12 Jun 2016
+| Roy Morgan Research<ref name="RMR20Jun2016">{{cite web |url=http://www.roymorgan.com/findings/6851-roy-morgan-new-zealand-voting-intention-june-2016-201606201622 |title=National and Labour down in June but New Zealand First still holds the balance of power if Election was held now |publisher=Roy Morgan Research |accessdate= 20 June 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''43.5''' || 28 || 14.5 || 9 || 2 || 0.5 || – || 1 || 1 || {{small|N/A}}
+|-
+| 17 Jul 2016
+| Roy Morgan Research<ref name="RMR21Jul2016">{{cite web |url=http://www.roymorgan.com/findings/6902-roy-morgan-new-zealand-voting-intention-july-2016-201607211639 |title=National extends lead over Labour to highest in over a year as Government unveils $1 billion housing infrastructure fund |publisher=Roy Morgan Research |accessdate= 22 July 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''53''' || 25.5 || 11.5 || 7 || 0.5 || 1 || – || 0.5 || 0.5 || {{small|N/A}}
+|-
+| data-sort-value="2016-08-03" | 22 Jul – 3 Aug 2016
+| Newshub Reid Research<ref name="NRR-8Aug2016">{{cite web |first= Patrick |last= Gower |authorlink= Patrick Gower |date= 8 August 2016 |url= http://www.newshub.co.nz/politics/poll-john-key-could-lose-grip-on-power-2016080815#axzz4GlDcur1X |title= Poll: John Key could lose grip on power |publisher= Newshub |accessdate= 8 August 2016}}</ref><ref name="reidresearchwebsite"/>
+|style="background-color:#B0CEFF;" |'''45.1''' || 32.7 || 11.5 || 8.1 || 1.3 || 0.2 || 0.1 || 0.5 || 0.4 || {{small|N/A}}
+|-
+| data-sort-value="2016-08-21" |8–21 Aug 2016
+| Roy Morgan Research<ref name="RMR21Aug2016">{{cite web |url=http://www.roymorgan.com/findings/6946-roy-morgan-new-zealand-voting-intention-august-2016-201608291538 |title=National support down but still has election winning lead after boost from $1 billion housing infrastructure fund announcement wears off |accessdate= 8 September 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''46''' || 25.5 || 14.5 || 9.5 || 1.5 || 1 || – || 1 || 0.5 || {{small|N/A}}
+|-
+| 3–7 Sep 2016
+| One News–Colmar Brunton<ref name="ONCB-7Sept2016">{{cite web |url=http://colmarbrunton.co.nz/wp-content/uploads/Poll-infographic-with-econ-outlook-910x1024.png |title= Poll-infographic-with-econ-outlook |publisher=Colmar Brunton |date= 13 September 2016 |accessdate= 13 September 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''48''' || 26 || 13 || 11 || 2 || – || – || 0.3 || – || {{small|N/A}}
+|-
+| 5–18 Sep 2016
+| Roy Morgan Research<ref name="RMR27Sep2016">{{cite web |url=http://www.roymorgan.com/findings/6971-roy-morgan-new-zealand-voting-intention-september-2016-201609271642 |title=National Party support is at lowest level since before election; now behind potential Labour/ Greens Alliance |accessdate= 27 September 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''41.5''' || 33.5 || 12 || 8.5 || 2 || 1 || – || 0.5 || – || {{small|N/A}}
+|-
+| 10–23 Oct 2016
+| Roy Morgan Research<ref name="RMR23Oct2016">{{cite web |url=http://www.roymorgan.com/findings/7039-roy-morgan-new-zealand-voting-intention-october-2016-201611041621 |title=National Party support up in October; now well ahead of potential Labour/ Greens alliance after successful overseas trips for PM Key |accessdate= 4 November 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''48''' || 26.5 || 11.5 || 10 || 1.5 || 0.5 || – || – || – || {{small|N/A}}
+|- style="background:#e4e4e4;"
+| data-sort-value="2016-11-14" | 14 Nov 2016
+| colspan="11" | [[2016 Kaikoura earthquake|A 7.8 magnitude earthquake]] hits the coastal town of [[Kaikoura]].
+|-  style="background:#e4e4e4;"
+| data-sort-value="2016-11" | Nov 2016
+| colspan="11" | [[The Opportunities Party]] is inaugurated by [[Gareth Morgan (economist)|Gareth Morgan]].
+|-
+| 12–23 Nov 2016
+| One News–Colmar Brunton<ref name="ONCB-27Nov2016">{{cite web |url=http://www.colmarbrunton.co.nz/wp-content/uploads/2016/11/Preliminary_ONE-News-Colmar-Brunton-Poll-report-Nov-12-13-21-23.pdf |title=Poll-infographic-with-econ-outlook |publisher=Colmar Brunton |date=27 November 2016 |accessdate=28 November 2016 |archive-url=https://web.archive.org/web/20190214165526/http://www.colmarbrunton.co.nz/wp-content/uploads/2016/11/Preliminary_ONE-News-Colmar-Brunton-Poll-report-Nov-12-13-21-23.pdf |archive-date=14 February 2019 |url-status=dead }}</ref>
+|style="background-color:#B0CEFF;" |'''50''' || 28 || 11 || 10 || 1 || – || – || 0.2 || – || –
+|-
+| data-sort-value="2016-11-20" | 24 Oct – 20 Nov 2016
+| Roy Morgan Research<ref name="RMR20Nov2016">{{cite web |url=http://www.roymorgan.com/findings/7061-roy-morgan-new-zealand-voting-intention-november-2016-201611301845 |title=National Party support up again in November as Roy Morgan Government Confidence surges despite series of earthquakes |accessdate= 30 November 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''49.5''' || 23.0 || 14.5 || 8.0 || 1.5 || 1.0 || 0.5 || 0.5 || 0.0 || –
+|- style="background:#e4e4e4;"
+| data-sort-value="2016-12-03" | 3 Dec 2016
+| colspan="11" | [[New Zealand Labour Party|Labour's]] [[Michael Wood (New Zealand politician)|Michael Wood]] wins the [[2016 Mount Roskill by-election|Mount Roskill by-election]].
+|- style="background:#e4e4e4;"
+| data-sort-value="2016-12-05" | 5 Dec 2016
+| colspan="11" | [[John Key]] announces that he will resign as [[Prime Minister of New Zealand]], effective 12 December.
+|-
+| data-sort-value="2016-12-11" | 28 Nov – 11 Dec 2016
+| Roy Morgan Research<ref name="RMR21Dec2016">{{cite web |url=http://www.roymorgan.com/findings/7107-roy-morgan-new-zealand-voting-intention-december-2016-201612211126 |title=National Party support down in December as PM Key resigns and Labour score easy by-election victory in Mt. Roskill |accessdate= 21 December 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''45.0''' || 28.5 || 14.5 || 7.5 || 1.0 || 0.5 || 0.5 || 0.5 || 0.5 || –
+|- style="background:#e4e4e4;"
+| data-sort-value="2016-12-12" | 12 Dec 2016
+| colspan="11" | [[Bill English]] replaces [[John Key]] as Prime Minister of New Zealand and Leader of the National Party.<br>[[Paula Bennett]] becomes both Deputy Prime Minister and Deputy Leader.
+|-
+| data-sort-value="2017-01-16" | 3–16 Jan 2017
+| Roy Morgan Research<ref name="RMR22Jan2017">{{cite web |url=http://www.roymorgan.com/findings/7127-roy-morgan-new-zealand-voting-intention-january-2017-201701201143 |title=National Party support up slightly in January as new Prime Minister Bill English returns from ‘introductory tour’ to Europe |accessdate= 22 January 2017}}</ref>
+|style="background-color:#B0CEFF;" |'''46.0''' || 27.0 || 12.5 || 9.0 || 2.0 || 0.5 || 0.5 || 0.5 || 0.0 || –
+|- style="background:#e4e4e4;"
+| data-sort-value="2017-02-01" | 1 Feb 2017
+| colspan="11" | Prime Minister [[Bill English]] announces that the election will take place on 23 September 2017.
+|-
+| data-sort-value="2017-02-12" |30 Jan – 12 Feb 2017
+| Roy Morgan Research<ref>{{cite web |url=http://www.roymorgan.com/findings/7149-roy-morgan-new-zealand-voting-intention-february-2017-201702271519 |title=National Party support up slightly in February as new PM Bill English welcomes visit of Australian PM Malcolm Turnbull}}</ref>
+|style="background-color:#B0CEFF;" |'''48.0''' || 26.0 || 13.0 || 8.0 || 2.0 || 1.0 || 0.0 || 0.0 || 0.0 || –
+|-
+| data-sort-value="2017-02-15" | 11–15 Feb 2017
+| One News–Colmar Brunton<ref name="ONCB-19Feb2017">{{cite web |url=https://www.tvnz.co.nz/one-news/new-zealand/1-news-poll-labour-and-greens-close-gap-national-following-john-keys-departure |title= 1 NEWS poll: Labour and Greens close gap on National following John Key's departure |publisher=One News |date= 19 February 2017 |accessdate= 19 February 2017}}</ref>
+|style="background-color:#B0CEFF;" |'''46''' || 30 || 11 || 11 || 0.7 || 0.8 || 0.3<ref name="colmarbrunton1">{{cite web|url=http://www.colmarbrunton.co.nz/wp-content/uploads/2017/03/ONE-News-Colmar-Brunton-Poll-report-11-15-Feb.pdf |format=PDF |title=ONE News Colmar Brunton Poll : 11–15 February 2017 |website=Colmarbrunton.co.nz |accessdate=23 March 2017}}</ref> || 0.2 || 0.8 ||0.0<ref name="colmarbrunton1"/>
+|- style="background:#e4e4e4;"
+| data-sort-value="2017-02-25" | 25 Feb 2017
+| colspan="11" | Labour's [[Jacinda Ardern]] wins the [[2017 Mount Albert by-election|Mount Albert by-election]].
+|- style="background:#e4e4e4;"
+| data-sort-value="2017-03-01" | 1 Mar 2017
+| colspan="11" | [[Annette King]] steps down as Labour Party Deputy Leader and announces her retirement from Parliament, effective September. [[Mount Albert (New Zealand electorate)|Mount Albert]] MP [[Jacinda Ardern]] is nominated as her successor and is confirmed six days later with the unanimous support of Labour's caucus.
+|- style="background:#e4e4e4;"
+| data-sort-value="2017-03-06" | 6 Mar 2017
+| colspan="11" | [[The Opportunities Party]] is registered by the Electoral Commission.<ref>{{cite web|title=Registration of The Opportunities Party (TOP)|url=http://www.elections.org.nz/news-media/registration-opportunities-party-top|publisher=Electoral Commission (New Zealand)|accessdate=9 September 2017|archive-url=https://web.archive.org/web/20180831174801/https://www.elections.org.nz/news-media/registration-opportunities-party-top|archive-date=31 August 2018|url-status=dead}}</ref>
+|-
+| data-sort-value="2017-03-12" |27 Feb – 12 Mar 2017
+| Roy Morgan Research<ref>{{cite web|url=http://www.roymorgan.com/findings/7189-roy-morgan-new-zealand-voting-intention-march-2017-201703201044 |title=National Party well down in March as Prime Minister Bill English talks of lifting retirement age to 67 – lowest party vote since September 2016 |website=Roymorgan.com |accessdate=22 March 2017}}e</ref>
+|style="background-color:#B0CEFF;" |'''43.5''' || 29.5 || 14.5 || 7.5 || 2.0 || 0.5 || 0.5 || 0.5 || 0.5 || –
+|-
+| data-sort-value="2017-03-19" | 10–19 Mar 2017
+| Newshub Reid Research<ref name="NRR-March2017">{{cite web|last=Gower |first=Patrick |authorlink= Patrick Gower |url=http://www.newshub.co.nz/home/politics/2017/03/newshub-poll-jacinda-ardern-preferred-as-pm-over-andrew-little.html |title=poll: Jacinda Ardern preferred as PM over Andrew Little |website=Newshub.co.nz |date=21 March 2017 |accessdate=23 March 2017}}</ref><ref name="Newshub-Reid-Reseach-Poll-Data-Bank">{{cite web | url=http://www.newshub.co.nz/home/politics/2017/07/new-zealand-election-2017-newshub-reid-research-poll-data-bank.html| title=New Zealand election 2017: Newshub-Reid Research poll data bank|website=Newshub.co.nz |accessdate=27 August 2017}}</ref>
+|style="background-color:#B0CEFF;" |'''47.1''' || 30.8 || 11.2 || 7.6 || 0.7 || 0.4 || 0.4 || 0.4 || 0.0 || 0.8
+|-
+| data-sort-value="2017-03-22" | 18–22 Mar 2017
+| One News–Colmar Brunton<ref>{{cite web |url=https://www.tvnz.co.nz/one-news/new-zealand/maori-party-surges-into-potential-kingmaker-position-in-latest-poll-v1|title=Maori Party surges into potential Kingmaker position in latest poll |website=TVNZ |access-date=16 April 2017}}</ref><ref name="ONCB-26Mar2017">{{cite web|url=http://www.colmarbrunton.co.nz/wp-content/uploads/2017/04/For_website_ONE-News-Colmar-Brunton-Poll-report-18-22-March.pdf |format=PDF |title=ONE News Colmar Brunton Poll : 18–22 March 2017 |website=Colmarbrunton.co.nz |accessdate=28 April 2017}}</ref>
+|style="background-color:#B0CEFF;" |'''46''' || 30 || 11 || 8 || 4 || 0.4 || – || 0.3 || 0.2 || 0.4
+|-
+| data-sort-value="2017-04-16" | 3–16 Apr 2017
+| Roy Morgan Research<ref>{{cite web |url=http://www.roymorgan.com/findings/7219-roy-morgan-new-zealand-voting-intention-april-2017-201704271533|title=New Zealand First in the box seat to decide next NZ Government as National Party neck-and-neck with Labour/ Greens |website=Roymorgan.com |access-date=29 April 2017}}</ref>
+|style="background-color:#B0CEFF;" |'''43.0''' || 29.5 || 13.0 || 10.5 || 1.0 || 1.5 || 0.0 || 0.5 || 0.0 || –
+|-
+| data-sort-value="2017-05-14" | 1–14 May 2017
+| Roy Morgan Research<ref>{{cite web |url=http://www.roymorgan.com/findings/7239-roy-morgan-new-zealand-voting-intention-may-2017-201705261624|title= National Party remains ‘dead-locked’ with Labour/Greens alliance in May pre-Budget |publisher= Roy Morgan Research |date= 26 May 2017 |accessdate=27 May 2017}}</ref>
+|style="background-color:#B0CEFF;" |'''43.0''' || 28.5 || 14.0 || 10.0 || 1.5 || 0.5 || 0.0 || 0.0 || 0.5 || –
+|- style="background:#e4e4e4;"
+| data-sort-value="2017-05-25" | 25 May 2017
+| colspan="11" | The [[2017 New Zealand budget|2017 budget]] is delivered.
+|-
+| data-sort-value="2017-05-24" | 19–24 May 2017
+| Listener: Bauer Media Insights<ref name="LBMI-8Jun2017">{{cite web|url=http://www.noted.co.nz/currently/politics/new-zealand-election-2017-undercurrents-of-change-in-new-poll/|title=New Zealand Election 2017: Undercurrents of change in new poll|date=8 June 2017|accessdate=9 September 2017|website=noted.co.nz}}</ref>
+| style="background-color:#B0CEFF;" | '''43.75''' || 23.75 || 16.25 || 10.00 || 1.25 || 1.25 || 0.00 || 1.25 || – || 2.50 <!-- don't know/not sure stats are removed -->
+|-
+| data-sort-value="2017-05-31" | 21–31 May 2017
+| One News–Colmar Brunton<ref name="ONCB-May2017">{{cite web |url=https://www.tvnz.co.nz/one-news/new-zealand/national-hits-six-month-high-in-latest-poll-labour-fails-make-gains-green-party-slips|title=National hits six-month high in latest poll as Labour fails to make gains, Green Party slips| website=TVNZ |accessdate=7 June 2017}}</ref><ref>{{cite web|url=http://www.colmarbrunton.co.nz/wp-content/uploads/2017/06/Prelim_ONE-News-Colmar-Brunton-Poll-report-27-31-May.pdf |format=pDF |title=ONE News Colmar Brunton Poll |date=27 May 2017 |website=Colmarbrunton.co.nz |accessdate=2017-07-11}}</ref>
+|style="background-color:#B0CEFF;" |'''49''' || 30 || 9 || 9 ||0.6 ||0.5 || – || 0.1 || – || 1.4
+|-
+| data-sort-value="2017-06-11" | 29 May – 11 Jun 2017
+| Roy Morgan Research<ref>{{cite web |url=http://www.roymorgan.com/findings/7259-roy-morgan-new-zealand-voting-intention-june-2017-201706230945|title=National Party consolidates lead after NZ Budget projects years of surpluses |publisher= Roy Morgan Research |date= 23 June 2017}}</ref>
+|style="background-color:#B0CEFF;" |'''46.5''' || 25.5 || 14.0 || 9.0 || 1.5 || 1.0 || 0.0 || 0.0 || 0.5 || –
+|-
+| 12 Jun 2017
+| Newshub Reid Research<ref name="NRR-June2017">{{cite web |last=Gower |first=Patrick |authorlink= Patrick Gower |url=http://www.newshub.co.nz/home/politics/2017/06/poll-labour-crumbles-falling-towards-defeat.html |title=Poll: Labour crumbles, falling towards defeat |website=Newshub.co.nz |date=15 June 2017 |accessdate=16 June 2017}}</ref><ref name="Newshub-Reid-Reseach-Poll-Data-Bank">{{cite web | url=http://www.newshub.co.nz/home/politics/2017/07/new-zealand-election-2017-newshub-reid-research-poll-data-bank.html| title=New Zealand election 2017: Newshub-Reid Research poll data bank|website=Newshub.co.nz |accessdate=27 August 2017}}</ref>
+|style="background-color:#B0CEFF;" |'''47.4''' || 26.4 || 12.5 || 9.4 || 0.7 || 0.9 || 0.3 || 0.8 || 0.3 || 0.8
+|- style="background:#e4e4e4;"
+| data-sort-value="2017-06-21" | 21 Jun 2017
+| colspan="11" | National MP [[Todd Barclay]] announces he will not seek re-election after it was revealed that he secretly recorded a staff member's conversations without her consent.<ref>{{cite news |url=https://www.newsroom.co.nz/2017/06/19/34825/the-politician-the-police-the-payout |title=Politicians, police, and the payout |publisher=Newsroom |date=19 June 2017 |accessdate=4 July 2017}}</ref> Police re-open their investigation five days later, after Bill English stated that Barclay had admitted to him that he made the recording.<ref>{{cite news |url=https://www.stuff.co.nz/national/politics/94125100/police-reopen-investigation-into-todd-barclay |title=Police reopen investigation into Todd Barclay |publisher= Stuff |date=26 June 2017 |accessdate=4 July 2017}}</ref>
+|-
+| 1–5 Jul 2017
+| One News–Colmar Brunton<ref name="ONCB-5July2017">{{cite web |url=http://www.colmarbrunton.co.nz/wp-content/uploads/2017/07/Prelim_ONE-News-Colmar-Brunton-Poll-report-1-5-Jul.pdf| title=ONE News Colmar Brunton Poll 1–5 July 2017}}</ref>
+|style="background-color:#B0CEFF;" |'''47'''|| 27 || 11 || 11 || 1.8 || 0.3 || 0.2 || 0.1 || 0.3 || 1.1
+|-
+| data-sort-value="2017-07-09" | 26 Jun – 9 Jul 2017
+| Roy Morgan Research<ref name="RoyMorgan_9Jul2017">{{cite web|url=https://www.roymorgan.com/findings/7289-roy-morgan-new-zealand-voting-intention-july-2017-201707141612|title=In July Labour/Greens now just ahead of National but New Zealand First again in the ‘box seat’|publisher=Roy Morgan Research|date=9 July 2017|accessdate=31 August 2017}}</ref>
+|style="background-color:#B0CEFF;" |'''43''' || 30.5 || 13.5 || 8.0 || 1.5 || 1.0 || 0.0 || 0.0 || 0.0 ||  –
+|- style="background:#e4e4e4;"
+| data-sort-value="2017-07-16" | 16 Jul 2017
+| colspan="11" | Green Party co-leader [[Metiria Turei]] admits to not disclosing to [[Ministry of Social Development (New Zealand)|Work and Income New Zealand]] that she was accepting rent from flatmates while on the Domestic Purposes Benefit in the early 1990s.<ref>{{cite news |url=https://www.stuff.co.nz/national/politics/94777073/benefit-raise-tax-cuts-for-poorest-and-hikes-for-wealthy-in-news-greens-policy |title=Benefit raise, tax cuts for poorest and hikes for wealthy in new Greens policy |publisher= Stuff |date=16 June 2017 |accessdate=30 July 2017}}</ref>
+|-
+| 22–27 Jul 2017
+| One News–Colmar Brunton<ref name="ONCB-27July2017">{{cite web |url=https://www.tvnz.co.nz/one-news/new-zealand/labour-slumps-its-lowest-level-in-more-than-20-years-latest-1-news-colmar-brunton-poll| title=ONE News Colmar Brunton Poll 22–27 July 2017}}</ref><ref name="ONCB-report-22-27Aug2017">{{cite web |url=http://www.colmarbrunton.co.nz/wp-content/uploads/2017/08/Prelim_ONE-News-Colmar-Brunton-Poll-report-22-27-Jul.pdf|title=ONE News Colmar Brunton Poll 22–27 Aug 2017|publisher=Colmar Brunton|accessdate= 4 Sep 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''47''' || 24 || 15 || 11 || 0.6 || 0.3 || 0.1 || – ||  – || 1.5
+|-
+| 20–28 Jul 2017
+| Newshub Reid Research<ref name="NRR-July2017">{{cite web |last=Gower |first=Patrick |authorlink= Patrick Gower |url=http://www.newshub.co.nz/home/election/2017/07/newshub-poll-winston-peters-cements-position-as-kingmaker.html |title=Poll: Newshub poll: Winston Peters cements position as kingmaker |website=Newshub.co.nz |date=20–28 July 2017 |accessdate=31 July 2017}}</ref>
+|style="background-color:#B0CEFF;" |'''45.2''' || 24.1 || 13 || 13 || 1.2 || 0.5 || 0.2 || 0.2 || 0.2<ref name="NRRdatabank">http://www.newshub.co.nz/home/politics/2017/07/new-zealand-election-2017-newshub-reid-research-poll-data-bank.html</ref> || 2
+|- style="background:#e4e4e4;"
+| data-sort-value="2017-08-01" | 1 Aug 2017
+| colspan="11" | Labour Party leader [[Andrew Little (New Zealand politician)|Andrew Little]] resigns as Leader of the Labour Party following consecutive poll results that show Labour with low support. [[Jacinda Ardern]] is confirmed as Leader shortly after while [[Kelvin Davis (politician)|Kelvin Davis]] assumes the role of Deputy Leader.
+|-
+| data-sort-value="2017-08-02" |1–2 Aug 2017 
+| Listener: Bauer Media Insights<ref name="LBMI-4Aug2017">{{cite web|url=http://www.noted.co.nz/currently/politics/why-labour-s-last-minute-leadership-change-may-be-its-salvation/|title=Why Labour’s last-minute leadership change may be its salvation|date=4 August 2017|accessdate=9 September 2017|website=noted.co.nz}}</ref>
+| style="background-color:#B0CEFF;" | '''45.42''' || 26.79 || 13.98 || 9.32 || 0.00 || 1.17 || 0.00 || 0.00 || 0.00 || 2.33 <!-- don't know/not sure stats are removed -->
+|- style="background:#e4e4e4;"
+| data-sort-value="2017-08-03" | 3 Aug 2017
+| colspan="11" | Green Party co-leader Metiria Turei admits to registering a false residential address to vote for a friend who was running in the Mount Albert electorate in 1993.<ref name="Stuff-04Aug2017">{{cite web |last=Kirk |first=Stacey |authorlink= Stacey Kirk |url=https://www.stuff.co.nz/national/politics/95393791/metiria-turei-faces-investigators-looking-into-her-admission-of-historical-benefit-fraud |title=Metiria Turei admits she registered a false address to vote |website=stuff.co.nz |date=4 Aug 2017 |accessdate=8 August 2017}}</ref> The controversy leads Green Party MPs [[David Clendon]] and [[Kennedy Graham]] to withdraw from the party list four days later.<ref name="Stuff-07Aug2017">{{cite web |url=https://www.stuff.co.nz/national/politics/95542553/two-green-mps-threaten-to-quit-over-metiria-turei |title=Two Green MPs quit over Metiria Turei admissions |website=stuff.co.nz |date=7 Aug 2017 |accessdate=8 August 2017}}</ref>
+|-
+| data-sort-value="2017-08-08" |2–8 Aug 2017
+| Newshub Reid Research<ref name="NRR-Aug2017">{{cite news|last=Gower|first=Patrick|authorlink=Patrick Gower|url=http://www.newshub.co.nz/home/election/2017/08/newshub-reid-research-poll-jacinda-ardern-brings-labour-back.html|title=Newshub poll: Jacinda Ardern Brings Labour Back|website=Newshub.co.nz|date=9 August 2017|accessdate=9 August 2017}}</ref>
+|style="background-color:#B0CEFF;" | '''44.4''' || 33.1 || 8.3 || 9.2 || 1.5 || 0.6 || 0.1 || 0.3 || 0.3 || 2
+|- style="background:#e4e4e4;"
+| data-sort-value="2017-09-09" | 9 Aug 2017
+| colspan="11" | Green Party co-leader Metiria Turei resigns as co-leader and from the party list following her admission of benefit fraud.<ref>{{Cite news|url=http://www.newshub.co.nz/home/election/2017/08/livestream-metiria-turei-resigns-as-green-party-co-leader.html|title=Livestream: Metiria Turei resigns as Green Party co-leader|work=Newshub|access-date=2017-08-09}}</ref>
+|-
+| data-sort-value="2017-08-13" | 31 Jul – 13 Aug 2017
+| Roy Morgan Research<ref name="RMR-13Aug2017">{{cite web |url=https://www.roymorgan.com/findings/7309-roy-morgan-new-zealand-voting-intention-august-2017-201708181513| title=Jacinda Ardern’s ascension to leadership revitalises Labour, up 2% to 32.5%; Turei scandal costs Greens support, down 4.5% to 9%}}</ref>
+|style="background-color:#B0CEFF;" |'''42.5''' || 32.5 || 9.0 || 11.5 || 1.5 || 0.5 || 0.0 || 0.0 || 0.0 || 2.0
+|-
+| data-sort-value="2017-08-16" |12–16 Aug 2017
+| One News–Colmar Brunton<ref name="ONCB-12Aug2017">{{cite web |url=https://www.tvnz.co.nz/one-news/new-zealand/1-news-colmar-brunton-poll-greens-plummet-below-five-per-cent-jacinda-effect-keeps-labour-climbing| title=1 NEWS Colmar Brunton poll: Greens plummet below five per cent, 'Jacinda effect' keeps Labour climbing}}</ref><ref name="ONCB-report-12-16Aug2017">{{cite web |url=http://www.colmarbrunton.co.nz/wp-content/uploads/2017/08/Website_1-News-Colmar-Brunton-Poll-report-12-16-Aug.pdf|title=1 News Colmar Brunton Poll 12–16 Aug 2017|publisher=Colmar Brunton|accessdate= 4 Sep 2016}}</ref>
+|style="background-color:#B0CEFF;" |'''44''' || 37 || 4.3 || 10 || 1.7 || 0.4 || 0.0 || – || – || 2.1
+|- style="background:#e4e4e4;"
+| data-sort-value="2017-08-21" | 21 Aug 2017
+| colspan="11" | [[United Future]] leader and [[Minister of Internal Affairs (New Zealand)|Minister of Internal Affairs]] [[Peter Dunne]] announces his retirement from politics.<ref name="Stuff-21Aug2017">{{cite web|url=https://www.stuff.co.nz/national/politics/95988656/peter-dunne-resigns-from-politics-only-weeks-out-from-the-election|title=Peter Dunne resigns from politics only weeks out from the election|website=stuff.co.nz|date=21 August 2017|accessdate=21 August 2017}}</ref> [[Damian Light]] (candidate for [[Botany (New Zealand electorate)|Botany]]) is appointed leader 2 days later.<ref name="UF-23Aug2017">{{cite web|url=http://unitedfuture.org.nz/unitedfuture-appoints-damian-light-as-new-leader/|title=UnitedFuture appoints Damian Light as new leader|website=unitedfuture.org.nz|date=23 Aug 2017|accessdate=2 September 2017|archive-url=https://web.archive.org/web/20171021034200/http://unitedfuture.org.nz/unitedfuture-appoints-damian-light-as-new-leader/|archive-date=21 October 2017|url-status=dead}}</ref>
+|- style="background:#e4e4e4;"
+| data-sort-value="2017-08-27" | 27 Aug 2017
+| colspan="11" | Controversy arises after a leak reveals that NZ First leader Winston Peters was overpaid in his superannuation payments for years.<ref name="WinstonSuperSaga1">{{cite web|url=http://www.newshub.co.nz/home/election/2017/08/winston-peters-shifting-story-over-pension-overpayment.html|title=Winston Peters' shifting story over pension overpayment|website=newshub.co.nz|date=27 August 2017|accessdate=31 August 2017}}</ref><ref name="WinstonSuperSaga2">{{cite web|url=http://www.radionz.co.nz/news/election-2017/338250/timeline-winston-peters-superannuation-overpayments-saga|title=Timeline: Winston Peters' superannuation overpayments saga|website=radionz.co.nz|date=29 August 2017|accessdate=31 August 2017}}</ref>
+|-
+| data-sort-value="2017-08-30" |22–30 Aug 2017
+| Newshub Reid Research<ref name="NRR-3Sep2017">{{cite web|last=Gower|first=Patrick|authorlink=Patrick Gower|url=http://www.newshub.co.nz/home/election/2017/09/newshub-poll-national-and-labour-in-one-on-one-fight-for-power.html |title=Newshub poll: National and Labour in one-on-one fight for power|website=Newshub.co.nz|date=3 September 2017|accessdate=3 September 2017}}</ref><ref name="NRRdatabank"/>
+|style="background-color:#B0CEFF;" | '''43.3''' || 39.4 || 6.1 || 6.6 || 1.0 || 0.6 || 0.1 || 0.3 || 0.0 || 1.9
+|-
+| data-sort-value="2017-08-30" |26–30 Aug 2017
+| One News–Colmar Brunton<ref name="ONCB-31Aug2017">{{cite web |url=https://www.tvnz.co.nz/one-news/new-zealand/watch-labour-rockets-ahead-national-in-stunning-colmar-brunton-poll-result| title=ONE News Colmar Brunton Poll 26–30 August 2017}}</ref><ref name="ONCB-report-26-30Aug2017">{{cite web |url=http://www.colmarbrunton.co.nz/wp-content/uploads/2017/09/Prelim_1-News-Colmar-Brunton-Poll-report-26-30-Aug.pdf|title=1 News Colmar Brunton Poll 26–30 Aug 2017|publisher=Colmar Brunton|accessdate= 4 Sep 2016}}</ref>
+| 41 || style="background:#F8C1BE" | '''43''' || 5 || 8 || 0.5 || 0.3 || – || – || – || 0.9
+|-
+| 1–5 Sep 2017
+| Listener: Bauer Media Insights<ref name="BMI-1Sep2017">{{cite web|url=http://www.noted.co.nz/currently/politics/poll-labour-national-and-the-crucial-8/|title=Poll: Labour, National and the crucial 8%|website=noted.co.nz|date=8 September 2017|accessdate=8 September 2017}}</ref>
+|| 38.9 || style="background:#F8C1BE" | '''41.1''' || 6.7 || 8.9 || 1.1 || 1.1 || – || – || – || 2.2 <!-- don't know/not sure stats are removed -->
+|-
+| 2–6 Sep 2017
+| One News–Colmar Brunton<ref name="ONCB-7Sep2017">{{cite news|url=https://www.tvnz.co.nz/one-news/new-zealand/new-poll-labour-widens-lead-over-national-4-points-in-latest-1-news-colmar-brunton|title=ONE News Colmar Brunton Poll 2–6 September 2017|publisher=Colmar Brunton|date=7 September 2017|accessdate=7 September 2017}}</ref><ref name="ONCB-report-2-6Sep2017">{{cite web |url=http://www.colmarbrunton.co.nz/wp-content/uploads/2017/09/Prelim_1-News-Colmar-Brunton-Poll-report-2-6-Sep.pdf|title=1 News Colmar Brunton Poll 2–6 September 2017|publisher=Colmar Brunton|accessdate= 9 Sep 2016}}</ref>
+| 39 || style="background:#F8C1BE" | '''43''' || 5 || 9 || 2.0 || 0.1 || – || – || – || 1.9
+|-
+|4–6 Sep 2017
+| Newsroom-SSI<ref name="newsroom.co.nz">https://www.newsroom.co.nz/2017/09/08/46799/labour-gap-women</ref>
+| 30 || style="background:#F8C1BE" | '''45''' || 6 || 11 || 2 || 1 || – || – || – || 2
+|-
+| data-sort-value="2017-09-10" |28 Aug – 10 Sep 2017
+| Roy Morgan Research<ref name="RMR-15Sep2017">{{cite web |url=http://www.roymorgan.com/findings/7339-roy-morgan-new-zealand-voting-intention-september-10-2017-201709151750| title=New Zealand Election on a knife edge but Labour favoured with the support of the Greens & Maori Party as 'Jacindamania' pulls support from National & New Zealand First}}</ref>
+|style="background-color:#B0CEFF;" |'''40''' || 39.5 || 9 || 6 || 2 || 0.5 || 0 || 0.5 || – || 2
+|-
+| 6–11 Sep 2017
+| Newshub Reid Research<ref name="NRR-12Sep2017">{{cite web|url=http://www.newshub.co.nz/home/election/2017/09/greens-out-of-parliament-on-latest-newshub-s-poll.html|title=Greens out of Parliament on latest Newshub's poll|website=Newshub.co.nz|date=12 September 2017}}</ref><ref name="NRRdatabank"/>
+|style="background-color:#B0CEFF;" | '''47.3''' || 37.8 || 4.9 || 6.0 || 1.1 || 0.6 || 0.1 || 0.3 || 0.1 || 1.6
+|- style="background:#e4e4e4;"
+| data-sort-value="2017-09-11" | 11 Sep 2017
+| colspan="11" | Advance voting for the election begins. The Electoral Commission predicts up to 50% of voters will cast their vote before election day (up from 30% in 2014).<ref>{{cite news |url= http://www.radionz.co.nz/news/political/339144/advance-voting-starts-today |title= Advance voting starts today |publisher= Radio New Zealand |date= 11 September 2017}}</ref>
+|-
+| 9–13 Sep 2017
+| One News–Colmar Brunton<ref name="ONCB-14Sep2017">{{cite news|url=https://www.tvnz.co.nz/one-news/new-zealand/new-1-news-colmar-brunton-poll-labour-maintains-four-point-lead-over-national-could-govern-greens|title=New 1 NEWS Colmar Brunton poll: Labour maintains four point lead over National, could govern with Greens|date=14 September 2017}}</ref><ref name="ONCB-report-9-13Sep2017">{{cite web |url=http://www.colmarbrunton.co.nz/wp-content/uploads/2017/09/Prelim_1-News-Colmar-Brunton-Poll-report-9-13-Sep.pdf|title=1 News Colmar Brunton Poll 9–13 September 2017|publisher=Colmar Brunton|accessdate= 16 Sep 2016}}</ref>
+| 40 || style="background:#F8C1BE" | '''44''' || 7 || 6 || 0.9 || 0.6 || – || – || – || 1.6
+|-
+| 13–20 Sep 2017
+| Newshub Reid Research<ref name="NRR-21Sep2017">{{cite web|url=http://www.newshub.co.nz/home/election/2017/09/newshub-election-poll-either-national-labour-could-take-power.html|title=Newshub election poll: Either National, Labour could take power|website=Newshub.co.nz|date=21 September 2017}}</ref><ref name="reidresearchwebsite"/><ref>http://www.newshub.co.nz/home/politics/2017/07/new-zealand-election-2017-newshub-reid-research-poll-data-bank.html</ref>
+| style="background-color:#B0CEFF;" | '''45.8''' || 37.3 || 7.1 || 7.1 || 0.4 || 0.6 || – || 0.6 || 0.1 || 0.9
+|-
+| 15–19 Sep 2017
+| One News–Colmar Brunton<ref name="ONCB-20Sep2017">{{cite news|url=https://www.tvnz.co.nz/one-news/new-zealand/new-poll-national-takes-huge-lead-in-bombshell-1-news-colmar-brunton|title=New poll: National takes huge lead in bombshell 1 NEWS Colmar Brunton poll|date=20 September 2017}}</ref><ref name="ONCB-report-16-19Sep2017">{{cite web |url=http://www.colmarbrunton.co.nz/wp-content/uploads/2017/09/Prelim_1-News-Colmar-Brunton-Poll-report-16-19-Sep.pdf|title=1 News Colmar Brunton Poll 16–19 September 2017|publisher=Colmar Brunton|accessdate= 25 Sep 2016}}</ref>
+| style="background-color:#B0CEFF;" | '''46''' || 37 || 8 || 4.9 || 0.5 || 0.3 || – || – || – || 2.3
+|- style="background:#e4e4e4;"
+| data-sort-value="2017-09-23" | 23 Sep 2017
+| colspan="11" | '''Election day'''
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2017-09-23" | 23 Sep 2017
+| '''[[2017 New Zealand general election|2017 election result]]'''<ref name="2017result">{{cite web |url= http://www.electionresults.govt.nz/electionresults_2017/|title= 2017 General Election – Official Result |publisher=[[Electoral Commission (New Zealand)|Electoral Commission]] |location=Wellington |date= 7 October 2017 |accessdate= 7 October 2017}}</ref>
+|style="background-color:#B0CEFF;" |'''44.4''' || 36.9 || 6.3 || 7.2 || 1.2 || 0.5 || 0.1 || 0.2 || 0.1 || 2.4
+|- style="background:#ccc;"
+! colspan=12 |
+|- style="height:40px"
+! style="background:#ddd;width:180px;" | Date<ref group="nb" name="dates"/>
+! style="background:#ddd;width:270px;" | Poll
+<!-- the order is National - Labour - Green - NZF - Māori - ACT - United Future - Conservative - Mana - TOP -->
+! style="background-color:#B0CEFF;width:40px" | [[New Zealand National Party|NAT]]
+! style="background-color:#FFB6B6;width:40px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#90EE90;width:40px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#D3D3D3;width:40px" | [[New Zealand First|NZF]]
+! style="background-color:#D4958F;width:40px" | [[Māori Party|MRI]]
+! style="background-color:#FAFA73;width:40px" | [[ACT New Zealand|ACT]]
+! style="background-color:#E395EC;width:40px" | [[United Future|UNF]]
+! style="background-color:#91D3FF;width:40px" | [[Conservative Party of New Zealand|CON]]
+! style="background-color:#F3828A;width:40px" | [[Mana Movement|MNA]]
+! style="background-color:#9299F5;width:40px" | [[The Opportunities Party|TOP]]
+|}
+
+===Internal polls===
+These polls are typically unpublished and are used internally for Labour (UMR) and National (Curia). Although these polls are sometimes leaked or partially leaked, their details are not publicly available for viewing and scrutinising. Because not all of their polls are made public, it is likely that those which are released are cherry-picked and therefore may not truly indicate ongoing trends.
+{| class="sortable" cellpadding="5" cellspacing="1" "toccolours" style="text-align:center; margin-right:0.5em; margin-top:0.4em; font-size:90%; border:1px solid darkgray;"
+|- style="height:40px"
+! style="background:#ddd;width:180px;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="background:#ddd;width:270px;" | Poll
+<!-- the order is National - Labour - Green - NZF - Māori - ACT - Conservative - Mana - TOP -->
+! style="background-color:#B0CEFF;width:40px" | [[New Zealand National Party|NAT]]
+! style="background-color:#FFB6B6;width:40px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#90EE90;width:40px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#D3D3D3;width:40px" | [[New Zealand First|NZF]]
+! style="background-color:#D4958F;width:40px" | [[Māori Party|MRI]]
+! style="background-color:#FAFA73;width:40px" | [[ACT New Zealand|ACT]]
+! style="background-color:#91D3FF;width:40px" | [[Conservative Party of New Zealand|CON]]
+! style="background-color:#F3828A;width:40px" | [[Mana Movement|MNA]]
+! style="background-color:#9299F5;width:40px" | [[The Opportunities Party|TOP]]
+|-
+| data-sort-value="2014-09-20" | 20 Sep 2014
+| '''[[2014 New Zealand general election|2014 election result]]'''<ref name="2014result"/>
+| style="background-color:#B0CEFF;" | '''47.04''' || 25.13 || 10.70 || 8.66 || 1.32 || 0.69  || 3.97 || 1.40<ref group="nb" name="mana"/> ||  {{small|N/A}}
+|-
+| data-sort-value="2014-10" | Oct 2014
+| UMR Research<ref name="UMR-2014">{{cite web|url=http://umr.co.nz/sites/umr/files/mood_of_the_nation_2014_released_2015_final.pdf|title=Annual Review: Mood of the Nation 2014|publisher=UMR Research|date=February 2015|accessdate=30 August 2017}}</ref>
+| style="background-color:#B0CEFF;" | '''50''' || 24 || 13 || 7.8 || 1.5 || 0.6 || 3.0 || 0.8 ||  {{small|N/A}}
+|-
+| data-sort-value="2014-11" | Nov 2014
+| UMR Research<ref name="UMR-2014"/>
+| style="background-color:#B0CEFF;" | '''47''' || 25 || 13 || 7.6 || 2.7 || 0.4 || 3.0 || 0.8 ||  {{small|N/A}}
+|-
+| data-sort-value="2014-12" | Dec 2014
+| UMR Research<ref name="UMR-2014"/>
+| style="background-color:#B0CEFF;" | '''45''' || 30 || 14 || 6.1 || 0.6 || 0.2 || 3.3 || 0.5 ||  {{small|N/A}}
+|-
+| data-sort-value="2015-01" | Jan 2015
+| UMR Research<ref name="UMR-2015">{{cite web|url=http://umr.co.nz/sites/umr/files/final_mood_of_the_nation_2015_released_2016_1.pdf|title=Annual Review: Mood of the Nation 2015|publisher=UMR Research|date=February 2016|accessdate=30 August 2017}}</ref>
+| style="background-color:#B0CEFF;" | '''48''' || 31 || 12 || 5.8 || 1.0 || 0.0 || 1.6 || 0.0 ||  {{small|N/A}}
+|-
+| data-sort-value="2015-02" | Feb 2015
+| UMR Research<ref name="UMR-2015"/>
+| style="background-color:#B0CEFF;" | '''46''' || 32 || 12 || 5.0 || 1.5 || 0.7 || 2.7 || 0.3 ||  {{small|N/A}}
+|-
+| data-sort-value="2015-03" | Mar 2015
+| UMR Research<ref name="UMR-2015"/>
+| style="background-color:#B0CEFF;" | '''46''' || 31 || 11 || 6.9 || 1.6 || 0.4 || 3.1 || 0.4 ||  {{small|N/A}}
+|-
+| data-sort-value="2015-04" | Apr 2015
+| UMR Research<ref name="UMR-2015"/>
+| style="background-color:#B0CEFF;" | '''43''' || 32 || 13 || 7.6 || 1.8 || 1.1 || 1.2 || 0.3 ||  {{small|N/A}}
+|-
+| data-sort-value="2015-05" | May 2015
+| UMR Research<ref name="UMR-2015"/>
+| style="background-color:#B0CEFF;" | '''46''' || 31 || 10 || 6.8 || 1.3 || 1.1 || 3.0 || 0.4 ||  {{small|N/A}}
+|-
+| data-sort-value="2015-06" | Jun 2015
+| UMR Research<ref name="UMR-2015"/>
+| style="background-color:#B0CEFF;" | '''45''' || 32 || 13 || 7.5 || 1.2 || 0.5 || 0.9 || 0.2 ||  {{small|N/A}}
+|-
+| data-sort-value="2015-07" | Jul 2015
+| UMR Research<ref name="UMR-2015"/>
+| style="background-color:#B0CEFF;" | '''41''' || 35 || 14 || 6.7 || 1.2 || 0.3 || 3.0 || 0.5 ||  {{small|N/A}}
+|-
+| data-sort-value="2015-08" | Aug 2015
+| UMR Research<ref name="UMR-2015"/>
+| style="background-color:#B0CEFF;" | '''42''' || 31 || 14 || 8.5 || 1.5 || 0.5 || 0.4 || 0.4 ||  {{small|N/A}}
+|-
+| data-sort-value="2015-09" | Sep 2015
+| UMR Research<ref name="UMR-2015"/>
+| style="background-color:#B0CEFF;" | '''45''' || 31 || 13 || 8.7 || 0.1 || 0.8 || 1.0 || 0.4 ||  {{small|N/A}}
+|-
+| data-sort-value="2015-10" | Oct 2015
+| UMR Research<ref name="UMR-2015"/>
+| style="background-color:#B0CEFF;" | '''48''' || 31 || 10 || 7.9 || 1.1 || 1.0 || 0.5 || 0.2 ||  {{small|N/A}}
+|-
+| data-sort-value="2015-11" | Nov 2015
+| UMR Research<ref name="UMR-2015"/>
+| style="background-color:#B0CEFF;" | '''44''' || 31 || 13 || 8.0 || 1.5 || 0.5 || 1.2 || 0.1||  {{small|N/A}}
+|-
+| data-sort-value="2015-12" | Dec 2015
+| UMR Research<ref name="UMR-2015"/>
+| style="background-color:#B0CEFF;" | '''45''' || 35 || 10 || 8.3 || 1.0 || 1.0 || 0.2 || 0.2  ||  {{small|N/A}}
+|-
+| data-sort-value="2016-09-05" | 31 Aug – 5 Sep 2016
+| UMR Research<ref name="UMR-5Sept2016">{{cite web|url=http://www.stuff.co.nz/national/politics/84200572/Labour-and-the-Greens-ahead-based-on-the-Oppositions-own-polling|title=Labour and the Greens ahead based on the Opposition's own polling|publisher=UMR Research|date=5 September 2016|accessdate=30 August 2017}}</ref>
+| style="background-color:#B0CEFF;" | '''40''' || 31 || 14 || 11 || – || – || – || – ||  {{small|N/A}}
+|-
+| data-sort-value="2017-01" | Early Jan 2017
+| UMR Research<ref name="UMR-10July2017">{{cite web|url=http://www.newshub.co.nz/home/politics/2017/07/labour-s-confidential-polling-leaked.html|title=Labour's confidential polling leaked|publisher=UMR Research|date=14 July 2017|accessdate=29 August 2017}}</ref>
+| style="background-color:#B0CEFF;" | '''46''' || 30 || 11 || 9 || – || – || – || – || –
+|-
+| data-sort-value="2017-02 A" | Early Feb 2017
+| UMR Research<ref name="UMR-10July2017"/>
+| style="background-color:#B0CEFF;" | '''44''' || 30 || 12 || 11|| – || – || – || – || –
+|-
+| data-sort-value="2017-02 B" | Late Feb 2017
+| UMR Research<ref name="UMR-10July2017"/>
+| style="background-color:#B0CEFF;" | '''48''' || 28 || 12 || 8 || – || – || – || – || –
+|-
+| data-sort-value="2017-03 A" | Early Mar 2017
+| UMR Research<ref name="UMR-10July2017"/>
+| style="background-color:#B0CEFF;" | '''42''' || 30 || 14 || 10|| – || – || – || – || –
+|-
+| data-sort-value="2017-03 B" | Late Mar 2017
+| UMR Research<ref name="UMR-10July2017"/>
+| style="background-color:#B0CEFF;" | '''44''' || 30 || 12 || 10|| – || – || – || – || –
+|-
+| data-sort-value="2017-04 A" | Early Apr 2017
+| UMR Research<ref name="UMR-10July2017"/>
+| style="background-color:#B0CEFF;" | '''43''' || 28 || 13 || 12|| – || – || – || – || –
+|-
+| data-sort-value="2017-04 B" | Late Apr 2017
+| UMR Research<ref name="UMR-10July2017"/>
+| style="background-color:#B0CEFF;" | '''43''' || 28 || 12 || 12|| – || – || – || – || –
+|-
+| data-sort-value="2017-05 A" | Early May 2017
+| UMR Research<ref name="UMR-10July2017"/>
+| style="background-color:#B0CEFF;" | '''42''' || 34 || 13 || 9 || – || – || – || – || –
+|-
+| data-sort-value="2017-05 B" | Late May 2017
+| UMR Research<ref name="UMR-10July2017"/>
+| style="background-color:#B0CEFF;" | '''44''' || 30 || 13 || 9 || – || – || – || – || –
+|-
+| data-sort-value="2017-06 A" | Early Jun 2017
+| UMR Research<ref name="UMR-10July2017"/>
+| style="background-color:#B0CEFF;" | '''42''' || 32 || 13 || 9 || – || – || – || – || –
+|-
+| data-sort-value="2017-06 B" | Late Jun 2017
+| UMR Research<ref name="UMR-10July2017"/>
+| style="background-color:#B0CEFF;" | '''43''' || 29 || 12 || 11|| – || – || – || – || –
+|-
+| data-sort-value="2017-07-10" | 5–10 Jul 2017
+| UMR Research<ref name="UMR-10July2017"/>
+| style="background-color:#B0CEFF;" | '''42''' || 26 || 13 || 14|| – || – || – || – || –
+|-
+| data-sort-value="2017-07 B" | Late Jul 2017
+| UMR Research<ref name="UMR-LateJuly2017_NZHerald">{{cite web|url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11897254|title=Leaked poll puts Labour at just 23 percent|publisher=UMR Research|date=July 2017|accessdate=29 August 2017}}</ref><ref name="UMR-LateJuly2017_RadioNZ">{{cite web|url=http://www.radionz.co.nz/national/programmes/checkpoint/audio/201853035/polling-sees-nz-first-soar-to-16-percent|title=NZ First up to 16% in election poll|publisher=UMR Research|date=July 2017|accessdate=29 August 2017}}</ref>
+| style="background-color:#B0CEFF;" | '''42''' || 23 || 15 || 16|| – || – || – || – || –
+|-
+| data-sort-value="2017-08-08" | 1–8 Aug 2017
+| UMR Research<ref name="UMR-08August2017">{{cite web|url=http://www.nbr.co.nz/article/labour-rebounds-greens-and-nz-first-suffer-new-poll-ck-206291|title=Labour surges, Greens and NZ First suffer in new polls|publisher=UMR Research|date=8 August 2017|accessdate=29 August 2017}}</ref><ref name="UMR-08August2017_RNZ">{{cite web|url=http://www.radionz.co.nz/news/on-the-inside/336933/by-the-numbers-winston-in-the-driver-s-seat|title=By the numbers: Winston in the driver's seat|publisher=UMR Research|date=10 August 2017|accessdate=30 August 2017}}</ref>
+| style="background-color:#B0CEFF;" | '''43''' || 36 || 8 || 8 || – || – || – || – || 3
+|-
+| data-sort-value="2017-08-16" | 11–16 Aug 2017
+| UMR Research<ref name="UMR-16August2017">{{cite web|url=https://www.stuff.co.nz/national/politics/95951483/more-good-news-for-labour-as-jacinda-ardern-prepares-for-campaign-launch|title=More good news for Labour as Jacinda Ardern prepares for campaign launch|publisher=UMR Research|date=20 August 2017|accessdate=30 August 2017}}</ref><ref>{{Cite web|url=https://stuff.liveblog.pro/stuff/blogs/599b2fc406c6fe73fb33f4c1/index.html?liveblog._id=urn:newsml:localhost:2017-08-22T02:57:14.951362:36866bfc-feef-430a-9a41-a36dc55b2abd-%3Enewest_first|title=Live: On the campaign trail|website=Stuff|access-date=2017-08-30}}</ref>
+| style="background-color:#B0CEFF;" | '''40''' || 37 || 8 || 9 || – || – || – || – ||3.5
+|-
+| data-sort-value="2017-09-20" | 20 Sep 2017
+| Curia<ref name="Curia-20Sep2017">{{cite web|url=https://www.newsroom.co.nz/2017/09/20/48879/election-2017-live-an-awkward-jet-fuel-crisis|title=Election 2017 Live: National surges into big poll lead|last1=Hickey|first1=Bernard|last2=Murphy|first2=Tim|last3=Jennings|first3=Mark|date=20 September 2017|accessdate=25 September 2017}}</ref>
+| style="background-color:#B0CEFF;" | '''43''' || 39 || 6 || 6 || – || – || – || – || –
+|}
+
+==Preferred Prime Minister==
+===Graphical summary===
+[[Image:NZ opinion polls 2015-2017 -PPM.png|thumb|left|650px|Summary of Preferred Prime Minister Polls from 2015 to September 2017. Lines show the mean, as estimated by a [[Local regression|Loess smoother]]. Figures to the right show the estimate from the smoothing line at the date of the most recent poll, with 95% confidence interval.]]
+{{clear}}
+
+===Individual polls===
+{| class=wikitable style="font-size:90%;line-height:14px;text-align:center;"
+! style="width:260px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date<ref group="nb" name="dates"/>
+<!-- the order is English - Ardern - Peters - Shaw - Little - Key -->
+! [[Bill English]]
+! [[Jacinda Ardern]]
+! [[Winston Peters]]
+! [[James Shaw (New Zealand politician)|James Shaw]]
+! [[Hone Harawira]]
+! [[Gareth Morgan (economist)|Gareth Morgan]]
+! [[Peter Dunne]]
+! [[Metiria Turei]]
+! [[Andrew Little (New Zealand politician)|Andrew Little]]
+! [[John Key]]
+|-
+! class="unsortable" style="background:{{New Zealand National Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand First/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Mana Movement/meta/color}}; width:60px;|
+! class="unsortable" style="background:{{The Opportunities Party/meta/color}}; width:60px;|
+! class="unsortable" style="background:{{United Future/meta/color}}; width:60px;|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand National Party/meta/color}}; width:60px;"|
+|-
+| Herald-DigiPoll<ref name="HD-26Dec2014" /> 
+| 8–21 Dec 2014
+| – || 1.7 || – || – || – || – || – || – || 13.6 || {{party shading/Democratic}} |'''65'''
+|-
+| 3 News-Reid Research<ref name="3NRR-1Feb2015" /><ref name="3NRR-PollsterSite">{{cite web|url=http://www.reidresearch.co.nz/TV3+POLL+RESULTS.html|title=TV3 Poll Results|accessdate=11 September 2017|website=www.reidresearch.co.nz}}</ref>
+| 20–28 Jan 2015
+| 0.3 || – || 7.6 || – || – || – || – || – || 9.8 || {{party shading/Democratic}} |'''44.0'''
+|-
+| [[One News (New Zealand)|One News]]-[[Colmar Brunton]]<ref name="ONCB-22Feb2015" />
+| 14–18 Feb 2015
+| 0.6 || 0.7 || 7.0 || – || 0.4 || – || – || 1.1 || 12.0 || {{party shading/Democratic}} |'''41.0'''
+|-
+| Herald-DigiPoll<ref name="HD-29Apr2015"/>
+| 17–26 Apr 2015
+| – || – || 12 || – || – || – || – || – || 13.9 || {{party shading/Democratic}} |'''64.6'''
+|-
+| 3 News Reid Research<ref name="3NRR-2Jun2015"/><ref name="3NRR-PollsterSite"/>
+| 21–27 May 2015
+| 0.6 || – || 11.2 || – || – || – || – || – || 11.6 || {{party shading/Democratic}} |'''39.4'''
+|-
+| 3 News Reid Research<ref name="3NRR-26Jul2015"/><ref name="3NRR-PollsterSite"/>
+| 15–22 Jul 2015
+| 0.2 || – || 11.3 || 0.2 || – || – || – || – || 10.2 || {{party shading/Democratic}} |'''38.3'''
+|-
+| Herald-DigiPoll<ref name="HD-26Aug2015"/>
+| 14–24 Aug 2015
+| – || 3.9 || 11.6 || 0.6 || – || – || – || 0.9 || 13.3 || {{party shading/Democratic}} |'''63.7'''
+|-
+| 3 News Reid Research<ref name="3NRR-21Sep2015"/><ref name="3NRR-PollsterSite"/>
+| 8–16 Sep 2015
+| 0.3 || 3.5 || 8.6 || 0.2 || – || – || 0.1 || – || 10.8 || {{party shading/Democratic}} |'''39.5'''
+|-
+| 3 News Reid Research<ref name="3NRR-24Nov2015"/><ref name="3NRR-PollsterSite"/>
+| 9–17 Nov 2015
+| 0.7 || 4.2 || 9.3 || – || – || – || 0.1 || – || 10.4 || {{party shading/Democratic}} |'''38.3'''
+|-
+| Herald-DigiPoll<ref name="Herald-15Dec2015"/>
+| 4–14 Dec 2015
+| – || 2.8 || 7.9 || – || – || – || – || – || 16.2 || {{party shading/Democratic}} |'''65.2'''
+|-
+|One News Colmar Brunton<ref name="ONCB-27Nov2016"/>
+| 2–6 Apr 2016
+| 0.9 || 2 || 10 || 0.4 || – || – || – || – || 7 ||  {{party shading/Democratic}} |'''39'''
+|-
+|Newshub Reid Research<ref name="NRR-24May2016"/><ref name="reidresearchwebsite"/><ref name="NRRdatabank"/>
+| 12–22 May 2016
+| 0.2 || 2.6 || 12.1 || 0.5 || – || – || – || – || 8.9 ||  {{party shading/Democratic}} |'''36.7'''
+|-
+|One News Colmar Brunton<ref name="ONCB-27Nov2016"/>
+| 28 May – 2 Jun 2016
+| 0.4 || 1 || 12 || 0.4 || – || – || – || – || 7 ||  {{party shading/Democratic}} |'''39'''
+|-
+|Newshub Reid Research<ref name="NRR-8Aug2016"/><ref name="reidresearchwebsite"/><ref name="NRRdatabank"/>
+| 22 Jul – 3 Aug 2016
+| 0.3 || 2.9 || 10.9 || 0.9 || – || 0.3 || – || 1 || 10.5 ||  {{party shading/Democratic}} |'''36.7'''
+|-
+|One News Colmar Brunton<ref name="ONCB-27Nov2016"/>
+| 3–7 Sep 2016
+|– || 1 || 11 || 0.1 || – || – || – || – || 10 ||  {{party shading/Democratic}} |'''38'''
+|-
+|One News Colmar Brunton<ref name="ONCB-27Nov2016"/><ref name="Colreport270717">[http://www.colmarbrunton.co.nz/wp-content/uploads/2017/08/ONE-News-Colmar-Brunton-Poll-report-22-27-Jul.pdf ONE News Colmar Brunton Poll report 22-27 July 2017]</ref>
+| 12–23 Nov 2016
+| – || 1 || 8 || 0.3 || – || 0.1 || 0.3 || 1 || 8 || {{party shading/Democratic}} |'''36'''
+|-
+| style="background:#fc9;text-align:left;" colspan="14"| 12 Dec 2016 – [[Bill English]] replaces [[John Key]] as Prime Minister of New Zealand and Leader of the National Party.
+|-
+|One News Colmar Brunton<ref name="ONCB-19Feb2017"/><ref name="Colreport270717"/>
+| 11–15 Feb 2017
+|  {{party shading/Democratic}} |'''31''' || 4 || 8 || 0.3 || – || 0.1 || – || 2 || 7 || 2
+|-
+|Newshub Reid Research<ref name="NRR-March2017"/><ref name="NRRdatabank"/>
+| 10–19 Mar 2017
+|  {{party shading/Democratic}} |'''25''' || 10.5 || 8.9 || – || – || 0.1 || – || 1 || 8.3 || 5.9
+|-
+|One News Colmar Brunton<ref name="ONCB-26Mar2017"/><ref name="Colreport270717"/>
+| 18–22 Mar 2017
+|  {{party shading/Democratic}} |'''26''' || 9 || 9 || 0.5 || 0.3 || – || 0.2 || 0.4 || 7 ||2
+|-
+| Listener: Bauer Media Insights<ref name="LBMI-8Jun2017" />
+| 19–24 May 2017
+| {{party shading/Democratic}} | '''39''' || 16 || 9 || 2 || – || 2 || – || 3 || 13 || – 
+|-
+|One News Colmar Brunton<ref name="ONCB-May2017"/><ref name="Colreport270717"/>
+| 21–31 May 2017
+| {{party shading/Democratic}} |'''29''' || 6 || 7 || 0.4 || – || 0.2 || 0.1 || 0.7 || 8 || 2
+|-
+|Newshub Reid Research<ref name="NRR-June2017"/><ref name="NRRdatabank"/><ref name="3NRR-PollsterSite"/>
+| 2–12 Jun 2017
+| {{party shading/Democratic}} |'''26.2''' || 6.6 || 9.7 || 0.7 || 0.3 || 0.5 || 0.3 || 1.4 || 7 || 5.9
+|-
+|One News Colmar Brunton<ref name="ONCB-5July2017"/><ref name="Colreport270717"/>
+| 1–5 Jul 2017
+| {{party shading/Democratic}} |'''26''' || 6 || 11 || 0.5 || 0.5 || 0.7 || – || 0.2 || 5 || 1
+|-
+|One News Colmar Brunton<ref name="ONCB-27July2017"/><ref name="Colreport270717"/>
+| 22–27 Jul 2017
+| {{party shading/Democratic}} |'''28''' || 6 || 10 || 0.2 || – || 0.3 || 0.2 || 1 || 6 || 1
+|-
+|Newshub Reid Research<ref name="NRR-July2017"/><ref name="NRRdatabank"/>
+| 20–28 Jul 2017
+| {{party shading/Democratic}} |'''25.8''' || 8.7 || 11.9 || 0.7 || 0.2 || 0.8 || 0.4 || 1.6 || 7.1 || 6
+|-
+| style="background:#fc9;text-align:left;" colspan="14"| 1 Aug 2017 – [[Jacinda Ardern]] replaces [[Andrew Little (New Zealand politician)|Andrew Little]] as Leader of the Opposition and Leader of the Labour Party.
+|-
+|Newshub Reid Research<ref name="NRR-Aug2017"/><ref name="NRRdatabank"/>
+| 2–8 Aug 2017
+| {{party shading/Democratic}} |'''27.7''' || 26.3 || 10 || 0.2 || 0.5 || 0.6 || – || 0.8 || 0.9 || 4.9
+|-
+| style="background:#fc9;text-align:left;" colspan="14"| 9 Aug 2017 – [[Metiria Turei]] resigns as co-leader of the [[Green Party of Aotearoa New Zealand|Green Party]].
+|-
+| One News Colmar Brunton<ref name="ONCB-12Aug2017"/><ref name="colreport170816">[http://www.colmarbrunton.co.nz/wp-content/uploads/2017/08/Prelim_1-News-Colmar-Brunton-Poll-report-12-16-Aug.pdf]</ref> || 12–16 Aug 2017
+| {{party shading/Democratic}} |'''30''' || style="background:#F8C1BE" | '''30''' || 7 || 0.3 || 0.4 || 0.7 || – || – || – || 0.5
+|-
+| colspan="14" style="background:#fc9;text-align:left;" | 21–23 Aug 2017 – [[Peter Dunne]] retires as leader of [[United Future]] and is replaced by [[Damian Light]].<ref name="UnitedFuture">{{cite web|url=http://unitedfuture.org.nz/unitedfuture-appoints-damian-light-as-new-leader/|title=UnitedFuture appoints Damian Light as new leader|date=23 August 2017|accessdate=9 September 2017|archive-url=https://web.archive.org/web/20171021034200/http://unitedfuture.org.nz/unitedfuture-appoints-damian-light-as-new-leader/|archive-date=21 October 2017|url-status=dead}}</ref><ref name="Stuff-21Aug2017" /> 
+|-
+|Newshub Reid Research<ref name="NRR-3Sep2017"/><ref name="NRRdatabank"/> || 22–30 Aug 2017
+| {{party shading/Democratic}} |'''30.1''' ||  29.9 || 6.9 || 0.5 || 0.1 || 0.6 || 0 || 0.8 || 0.3 || 4.6
+|-
+| One News Colmar Brunton<ref name="ONCB-31Aug2017"/><ref name="ONCB-report-26-30Aug2017"/> || 26–30 Aug 2017
+| 33 || style="background:#F8C1BE" | '''34''' || 4 || 0.4 || – || 0.4 || – || 0.8 || – || –
+|-
+| Listener: Bauer Media Insights<ref name="BMI-1Sep2017" />
+|1–5 Sep 2017
+| 36 || style="background:#F8C1BE" | '''46''' || 6 || 1 || – || 1 || – || – || – || – 
+|-
+| One News Colmar Brunton<ref name="ONCB-7Sep2017"/><ref name="ONCB-report-2-6Sep2017"/> || 2–6 Sep 2017
+| 31 || style="background:#F8C1BE" | '''35''' || 5 || 1 || 0.1 || 0.5 || – || – || 0.1 || 0.7
+|-
+| Newsroom: [[Survey Sampling International|SSI]]<ref name="newsroom.co.nz"/> || 4–6 Sep 2017
+| 31 || style="background:#F8C1BE" | '''45''' || 11 || – || – || – || – || – || – || –
+|-
+|Newshub Reid Research<ref>{{cite news |url=http://www.newshub.co.nz/home/election/2017/09/bill-english-nz-s-preferred-pm-on-latest-newshub-poll.html |title=Bill English NZ's preferred PM on latest Newshub poll |date=12 September 2017}}</ref><ref name="NRRdatabank"/> || 6–11 Sep 2017
+| {{party shading/Democratic}} |'''33.1''' ||  31.7 || 6.9 || 0.6 || 0.3 || 0.8 || 0.2 || 0.8 || 0.1 || 4.1
+|-
+| One News Colmar Brunton<ref name="ONCB-14Sep2017"/><ref name="ONCB-report-9-13Sep2017"/> || 9–13 Sep 2017
+| 32 || style="background:#F8C1BE" | '''34''' || 5 || 0.3 || – || 0.3 || – || 0.2 || – || 0.6
+|-
+|Newshub Reid Research<ref name="NRR-21Sep2017"/><ref name="3NRR-PollsterSite"/> || 13–20 Sep 2017
+| {{party shading/Democratic}} |'''34.7''' || 29.6 || 7.1 || 0.6 || – || 0.5 || 0.1 || 0.5 || 0.4 || 3.6
+|-
+| One News Colmar Brunton<ref name="ONCB-20Sep2017"/><ref name="ONCB-report-16-19Sep2017"/>|| 15–19 Sep 2017
+| {{party shading/Democratic}} | '''37''' || 31 || 6 || 0.3 || 0.3 || 0.2 || – || 0.1 || – || 0.7
+|-
+! rowspan="2"|Poll
+! rowspan="2"|Date<ref group="nb" name="dates"/>
+<!-- the order is English - Ardern - Peters - Shaw - Little - Key -->
+! [[Bill English]]
+! [[Jacinda Ardern]]
+! [[Winston Peters]]
+! [[James Shaw (New Zealand politician)|James Shaw]]
+! [[Hone Harawira]]
+! [[Gareth Morgan (economist)|Gareth Morgan]]
+! [[Peter Dunne]]
+! [[Metiria Turei]]
+! [[Andrew Little (New Zealand politician)|Andrew Little]]
+! [[John Key]]
+|-
+! class="unsortable" style="background:{{New Zealand National Party/meta/color}};"|
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}};"|
+! class="unsortable" style="background:{{New Zealand First/meta/color}};"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}};"|
+! class="unsortable" style="background:{{Mana Movement/meta/color}};"|
+! class="unsortable" style="background:{{The Opportunities Party/meta/color}};"|
+! class="unsortable" style="background:{{United Future/meta/color}};"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}};"|
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}};"|
+! class="unsortable" style="background:{{New Zealand National Party/meta/color}};"|
+|}
+
+==Electorate polling==
+<!-- 27/08: For readability I think it's most appropriate the order of electorate polls are based on their most recent result, this is because they are low frequency so little change is required to keep the order up-to-date-->
+
+===[[Ōhāriu (New Zealand electorate)|Ōhāriu]]===
+====Party vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:70px;" r bgcolor={{New Zealand National Party/meta/color}}|[[New Zealand National Party|National]]
+! style="width:70px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+! style="width:70px;" r bgcolor={{New Zealand First/meta/color}}|[[New Zealand First|NZ First]]
+! style="width:70px;" r bgcolor={{The Opportunities Party/meta/color}}|[[The Opportunities Party|TOP]]
+! style="width:75px;" r bgcolor={{United Future/meta/color}}|[[United Future]]
+! style="width:70px;" r bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+! style="width:70px;" r bgcolor={{ACT New Zealand/meta/color}}|[[ACT New Zealand|ACT]]
+|-
+! class="unsortable" style="background:{{New Zealand National Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand First/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{The Opportunities Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{United Future New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{ACT New Zealand/meta/color}}; width:60px;"|
+|-
+|-style="background:#EFEFEF; font-weight:italic;"
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+| {{party shading/Democratic}}  | '''50.23''' || 23.42 || 15.01 || 4.76 ||  {{n/a}}* || 0.73 || 0.57 || 0.67
+|-
+| Q+A Colmar Brunton<ref name="CB_9Aug2017_Ohariu">{{cite web |url=http://www.colmarbrunton.co.nz/wp-content/uploads/2017/08/QA-Colmar-Brunton-Ohariu-Electorate-Poll-5-9-Aug-2017.pdf |title=Q+A Colmar Brunton Ōhāriu poll}}</ref>
+| 5 – 9 Aug 2017
+| {{party shading/Democratic}} | '''46''' || 35 || 12 || 4 || 1.8 || 0.5 || 0.4 || 0.3
+|}
+<small>* The Opportunities Party did not exist until 2016.</small>
+
+====Candidate vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:75px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+<small>''[[Greg O'Connor (politician)|Greg O'Connor]]''</small>
+! style="width:75px;" r bgcolor={{United Future/meta/color}}|[[United Future]]
+<small>''[[Peter Dunne]]''</small>
+! style="width:70px;" r bgcolor={{New Zealand National Party/meta/color}}|[[New Zealand National Party|National]]
+<small>''[[Brett Hudson (politician)|Brett Hudson]]''</small>
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+<small>''Tane Woodley''</small>
+! style="width:100px;" r bgcolor={{The Opportunities Party/meta/color}}|[[The Opportunities Party|TOP]]
+<small>''Jessica Hammond Doube''</small>
+! style="width:70px;" r bgcolor={{ACT New Zealand/meta/color}}|[[ACT New Zealand|ACT]]
+<small>''Andie Moore''</small>
+! style="width:75px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+<small>''[[Ginny Andersen]]''</small>
+! style="width:70px;" r bgcolor={{ACT New Zealand/meta/color}}|[[ACT New Zealand|ACT]]
+<small>''Sean Fitzpatrick''</small>
+|-
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{United Future New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand National Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{The Opportunities Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{ACT New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{ACT New Zealand/meta/color}}; width:60px;"|
+|- style="background:#EFEFEF; font-weight:italic;"
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+| {{n/a}} || style="background:#DD99DD" | '''36.23''' || 16.34 || 7.38 || {{n/a}}* || {{n/a}} || 34.34 || 0.55
+|-
+| colspan="12" style="background:#fc9;text-align:left;" | 14 Feb 2017 – [[Green Party of Aotearoa New Zealand|Green Party]] choose not to stand a candidate to help [[New Zealand Labour Party|Labour]] candidate [[Greg O'Connor (politician)|Greg O'Connor]] defeat [[Peter Dunne]].<ref name="Stuff-14Feb2017">{{cite web |url=http://www.stuff.co.nz/national/politics/89355662/greens-step-aside-in-ohariu-to-help-labours-oconnor--despite-misgivings |title=Greens step aside in Ōhāriu to help Labour's O'Connor. |website=stuff.co.nz |date=14 February 2017 |accessdate=23 August 2017}}</ref>
+|-
+| Q+A Colmar Brunton<ref name="CB_9Aug2017_Ohariu"/>
+| 5 – 9 August 2017
+| style="background:#F8C1BE" | '''48''' || 34 || 14 || — || 2 || 1 || {{n/a}} || {{n/a}}
+|-
+| colspan="12" style="background:#fc9;text-align:left;" | 21 Aug 2017 – Ōhāriu Incumbent [[Peter Dunne]] (leader of [[United Future]]) announces that he will now be retiring from politics.<ref name="Stuff-21Aug2017"/><br />23 Aug 2017 – United Future stand Bale Nadakuitavuki as a candidate<ref>{{cite web |url=http://unitedfuture.org.nz/unitedfuture-announces-bale-nadakuitavuki-as-candidate-for-ohariu/ |title=UnitedFuture announces Bale Nadakuitavuki as candidate for Ohariu}}</ref> and Green Party reinstate Tane Woodley as a candidate.<ref name="Stuff-23Aug2017">{{cite web |url=https://www.stuff.co.nz/national/politics/96080647/All-bets-off-in-Ohariu-as-Green-Party-stand-11th-hour-candidate-in-political-hotseat |title=Tane Woodley reintroduced as Green Party candidate for Ōhāriu. |website=stuff.co.nz |date=23 August 2017 |accessdate=23 August 2017}}</ref>
+|}
+<small>* The Opportunities Party did not exist until 2016.</small>
+
+===[[Waiariki (New Zealand electorate)|Waiariki]]===
+====Party vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:70px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+! style="width:70px;" r bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+! style="width:70px;" r bgcolor={{New Zealand First/meta/color}}|[[New Zealand First|NZ First]]
+! style="width:70px;" r bgcolor={{New Zealand National Party/meta/color}}|[[New Zealand National Party|National]]
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+|-
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand First/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand National Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+|-
+|-style="background:#EFEFEF; font-weight:italic;"
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+| style="background:#F8C1BE" | '''38.37''' || 21.79 || 12.54 || 5.00 || 7.98
+|-
+| Community Engagement Ltd<ref name="CEL_Waiariki30Jul2017">{{cite web|url=http://www.newshub.co.nz/home/shows/2017/07/labour-poll-suggests-it-s-game-on-in-waiariki.html|title=Labour poll suggests it's game-on in Waiariki|date=30 July 2017|accessdate=5 September 2017}}</ref>
+| 19 – 22 July 2017
+| 19.4 || 18.9 || style="background:#C0C0C0" | '''25.7''' || 13.4 || 12.1
+|-
+| Maori TV-Reid Research<ref name="Newshub-10Sep2017-Maori">{{cite news|url=http://www.maoritelevision.com/news/regional/flavell-runs-polls|title=Flavell runs the polls|website=maoritelevision.com|date=10 September 2017|accessdate=10 September 2017}}</ref>
+| July – 3 September 2017
+| style="background:#F8C1BE" | '''49.6''' || 26.5 || 10.2 || 5.6 || 4.8
+|}
+
+====Candidate vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:75px;"  bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+<small>''[[Te Ururoa Flavell]]''</small>
+! style="width:75px;"  bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+<small>''[[Tamati Coffey]]''</small>
+! style="width:75px;"  bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+<small>''[[Rawiri Waititi]]''</small>
+! style="width:75px;" r bgcolor={{Mana Party (New Zealand)/meta/color}}|[[Mana Movement|Mana]]
+<small>''[[Annette Sykes]]''</small>
+<tr>
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Mana Party (New Zealand)/meta/color}}; width:60px;"|
+</tr>
+|- style="background:#EFEFEF; font-weight:italic;"
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+| style="background:#FFCC80" | '''43.42''' || {{N/A}} ||| 26.06 || 24.48
+|-
+| colspan="12" style="background:#fc9;text-align:left;" | 26 Aug 2016 – [[Rawiri Waititi]] cuts allegiances with Labour after being inspired by the [[Māori King Movement|Māori King]] to encourage [[Mana Movement|Mana]] and [[Māori Party|Māori]] parties to win all [[Māori electorates]] by working together.<ref name="OpotikiNews-30-Aug-2016">{{cite web |url=https://www.opotikinews.co.nz/blog/694002 |title=Waititi inspired by Maori King to ditch Labour |website=opotikinews.co.nz |date=30 August 2016|accessdate=26 August 2017}}</ref>
+07 Oct 2016 – [[Tamati Coffey]] is announced as Labour candidate for [[Waiariki (New Zealand electorate)|Waiariki electorate]]. Coffey ran for [[Rotorua (New Zealand electorate)|Rotorua electorate]] in 2014 gaining 33.18% of the vote against [[Todd McClay]] who won with 54.97% of the vote.<ref name="Stuff-07-Oct-2016">{{cite web |url=http://www.stuff.co.nz/national/politics/85021744/Tamati-Coffey-to-take-on-Flavell-for-Waiariki-seat |title=Tamati Coffey to take on Flavell for Waiariki seat |website=stuff.co.nz |date=7 October 2016|accessdate=26 August 2017}}</ref>
+
+20 Feb 2017 – [[Mana Movement|Mana]] begin a [[memorandum of understanding]] with the [[Māori Party]] to not contest in any electorates where Māori Party have candidates, in an attempt to win back the [[Māori electorates]] from [[New Zealand Labour Party|Labour]].<ref>{{cite web |url=http://www.stuff.co.nz/national/politics/89581527/hone-harawira-gets-clear-te-tai-tokerau-run-for-mana-not-running-against-maori-party-in-other-seats| title=Hone Harawira gets clear Te Tai Tokerau run for Mana not running against Maori Party in other seats}}</ref>
+|-
+| Community Engagement Ltd<ref name="CEL_Waiariki30Jul2017"/>
+| 19 – 22 July 2017
+| style="background:#FFCC80" | '''31.6''' || 30.1 || {{N/A}} ||  {{N/A}}
+|-
+| Maori TV-Reid Research<ref name="Newshub-10Sep2017-Maori" />
+| July – 3 September 2017
+| style="background:#FFCC80" | '''60.1''' || 39.9 || {{N/A}} ||  {{N/A}}
+|}
+
+===[[Māori electorates|The Māori roll (all 7 electorates)]]===
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:70px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+! style="width:70px;" r bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+! style="width:70px;" r bgcolor={{New Zealand First/meta/color}}|[[New Zealand First|NZ First]]
+! style="width:70px;" r bgcolor={{New Zealand National Party/meta/color}}|[[New Zealand National Party|National]]
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+! style="width:70px;" r bgcolor={{Mana Party (New Zealand)/meta/color}}|[[Mana Movement|Mana]]
+! style="width:70px;" r bgcolor={{The Opportunities Party/meta/color}}|[[The Opportunities Party|TOP]]
+|-
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand First/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand National Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Mana Party (New Zealand)/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{The Opportunities Party/meta/color}}; width:60px;"|
+|- style="background:#EFEFEF; font-weight:italic;"
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+| style="background:#F8C1BE" | '''41.22''' || 14.05 || 12.98 || 7.93 || 11.17 || 10.22<ref group="nb" name="mana"/> || N/A*
+|-
+| Māori TV, Reid Research Poll<ref>{{cite web |url=https://www.maoritelevision.com/news/politics/first-maori-election-poll-reveals-red-wash| title=Māori TV, Reid Research Poll, 17 Aug 2017}}</ref>
+| 11 Jul – 17 Aug 2017
+| style="background:#F8C1BE" | '''46.5''' || 17.5 || 13.8 || 9.5 || 9.0 || 1.8 || 1.5
+|}
+<small>* The Opportunities Party did not exist until 2016.</small>
+
+===[[Whangarei (New Zealand electorate)|Whangarei]]===
+
+====Party vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:70px;" r bgcolor={{New Zealand National Party/meta/color}}|[[New Zealand National Party|National]]
+! style="width:70px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+! style="width:70px;" r bgcolor={{New Zealand First/meta/color}}|[[New Zealand First|NZ First]]
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+! style="width:70px;" r bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+! style="width:70px;" r bgcolor={{ACT New Zealand/meta/color}}|[[ACT New Zealand|ACT]]
+! style="width:70px;" r bgcolor={{The Opportunities Party/meta/color}}|[[The Opportunities Party|TOP]]
+|-
+! class="unsortable" style="background:{{New Zealand National Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand First/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{ACT New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{The Opportunities Party/meta/color}}; width:60px;"|
+|-
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+| {{party shading/Democratic}}  | '''50.08''' || 17.80 || 13.36 || 9.77 || 0.53 || 0.55 || N/A*
+|-
+| colspan="12" style="background:#fc9;text-align:left;" | 30 Jun 2017 – [[Shane Jones]] is confirmed as the [[New Zealand First]] candidate in [[Whangarei (New Zealand electorate)|Whangarei]] ([[New Zealand National Party|National]] have held the Whangarei seat since 1975).<ref name="Stuff-30Jun2017">{{cite web|url=http://www.stuff.co.nz/national/politics/94261885/shane-jones-confirmed-as-nz-first-candidate-for-whangarei|title=Shane Jones confirmed as NZ First candidate for Whangarei|website=stuff.co.nz|date=30 June 2017|accessdate=27 August 2017}}</ref>
+|-
+| Q+A Colmar Brunton<ref name="ColmarBrunton-22Aug2017">{{cite web|url=http://img.scoop.co.nz/media/pdfs/1708/QA_Colmar_Brunton_Whangarei_Snap_Poll_1922_Aug_2017.pdf|title=Q+A Colmar Brunton, Whangarei poll, 19 – 22 Aug 2017|date=22 August 2017|accessdate=1 September 2017}}</ref>
+| 19 – 22 Aug 2017
+| {{party shading/Democratic}} | '''41''' || 37 || 16 || 3.6 || 1.3 || 1.0 || 0.4 
+|}
+<small>* The Opportunities Party did not exist until 2016.</small>
+
+====Candidate vote====
+<!-- Though normally an obscure political party, Leave the Democrats of Social Credit in here because it shows the irrelevancy of the ACT party in this electorate and it was actually polled alongside ACT party-->
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:70px;" r bgcolor={{New Zealand National Party/meta/color}}|[[New Zealand National Party|National]]
+<small>''[[Shane Reti]]''</small>
+! style="width:70px;" r bgcolor={{New Zealand First/meta/color}}|[[New Zealand First|NZ First]]
+<small>''[[Shane Jones]]''</small>
+! style="width:70px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+<small>''Tony Savage''</small>
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+<small>''Ash Holwell''</small>
+! style="width:70px;" r bgcolor={{New Zealand Democratic Party for Social Credit/meta/color}} |[[New Zealand Democratic Party for Social Credit|DFSC]]
+<small>''Chris Leitch''</small>
+! style="width:70px;" r bgcolor={{ACT New Zealand/meta/color}}|[[ACT New Zealand|ACT]]
+<small>''Robin Grieve''</small>
+! style="width:70px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+<small>''Kelly Ellis''</small>
+! style="width:70px;" r bgcolor={{New Zealand First/meta/color}}|[[New Zealand First|NZ First]]
+<small>''[[Pita Paraone]]''</small>
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+<small>''Paul Doherty''</small>
+|-
+! class="unsortable" style="background:{{New Zealand National Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand First/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand Democratic Party for Social Credit/meta/color}}; width:60px;"| 
+! class="unsortable" style="background:{{ACT New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand First/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+|-
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+| {{party shading/Democratic}}  | '''55.07''' || N/A || N/A || N/A || 2.68 || 0.78 || 19.01 || 8.06 || 8.66
+|-
+| colspan="12" style="background:#fc9;text-align:left;" | 30 Jun 2017 – [[Shane Jones]] is confirmed as the [[New Zealand First]] candidate in [[Whangarei (New Zealand electorate)|Whangarei]] ([[New Zealand National Party|National]] have held the Whangarei seat since 1975).<ref name="Stuff-30Jun2017"/>
+|-
+| Q+A Colmar Brunton<ref name="ColmarBrunton-22Aug2017"/>
+| 19 – 22 Aug 2017
+| {{party shading/Democratic}} | '''42''' || 24 || 22 || 10 || 1.7 || 0.1 || N/A || N/A || N/A 
+|}
+
+===[[Ikaroa-Rāwhiti]]===
+
+====Party vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:70px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+! style="width:70px;" r bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+! style="width:70px;" r bgcolor={{Mana Movement/meta/color}}|[[Mana Movement|Mana]]
+! style="width:70px;" r bgcolor={{New Zealand National Party/meta/color}}|[[New Zealand National Party|National]]
+! style="width:70px;" r bgcolor={{New Zealand First/meta/color}}|[[New Zealand First|NZ First]]
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+! style="width:70px;" r bgcolor={{ACT New Zealand/meta/color}}|[[ACT New Zealand|ACT]]
+! style="width:70px;" r bgcolor={{The Opportunities Party/meta/color}}|[[The Opportunities Party|TOP]]
+|-
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Mana Movement/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand National Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand First/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{ACT New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{The Opportunities Party/meta/color}}; width:60px;"|
+|- style="background:#EFEFEF; font-weight:italic;"
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+|style="background:#F8C1BE" |'''47.38''' || 12.19 || {{n/a}} || 5.37 || 11.25 || 10.28 || 0.11 ||{{n/a}}
+|-
+| Māori TV Reid Research<ref name="Newshub 11Jul-17Aug">{{cite web |url=http://www.newshub.co.nz/home/election/2017/08/it-s-all-on-polling-for-three-maori-electorates-released.html| title=It's all on – polling for three Māori electorates released}}</ref>
+| 11 Jul – 17 Aug 2017
+|style="background:#F8C1BE" |'''50.4''' || 21.1 || 1.3 || 5.9 || 12 || 7.5 || 0.3 || 1.6 
+|}
+
+====Candidate vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:70px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+<small>''[[Meka Whaitiri]]''</small>
+! style="width:75px;"  bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+<small>''[[Marama Fox]]''</small>
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+<small>''[[Elizabeth Kerekere]]''</small>
+|-
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+|-
+| Māori TV Reid Research<ref name="Newshub 11Jul-17Aug"/>
+| 11 Jul – 17 Aug 2017
+| style="background:#F8C1BE" | '''55''' || 39 || 6 
+|}
+
+===[[Te Tai Hauāuru]]===
+
+====Party vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:70px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+! style="width:70px;" r bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+! style="width:70px;" r bgcolor={{New Zealand National Party/meta/color}}|[[New Zealand National Party|National]]
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+! style="width:70px;" r bgcolor={{New Zealand First/meta/color}}|[[New Zealand First|NZ First]]
+! style="width:70px;" r bgcolor={{Mana Movement/meta/color}}|[[Mana Movement|Mana]]
+! style="width:70px;" r bgcolor={{The Opportunities Party/meta/color}}|[[The Opportunities Party|TOP]]
+|-
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand National Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand First/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Mana Movement/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{The Opportunities Party/meta/color}}; width:60px;"|
+|-
+|- style="background:#EFEFEF; font-weight:italic;"
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+|style="background:#F8C1BE" |'''42.23''' || 17.64 || 7.11 || 11.93 || 11.79 || 6.82 || {{n/a}} 
+|-
+| Māori TV Reid Research<ref name="Newshub 11Jul-17Aug"/>
+| 11 Jul – 17 Aug 2017
+|style="background:#F8C1BE" | '''41.8''' || 24 || 11.2 || 9.1 || 11 || 1.3 || 1.3 
+|}
+
+====Candidate vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:70px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+<small>''[[Adrian Rurawhe]]''</small>
+! style="width:75px;"  bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+<small>''[[Howie Tamati]]''</small>
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+<small>''Jack McDonald''</small>
+|-
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+|-
+| Māori TV Reid Research<ref name="Newshub 11Jul-17Aug"/>
+| 11 Jul – 17 Aug 2017
+| 39 ||bgcolor=#FFCC80| '''52''' || 9.1 
+|}
+
+===[[Te Tai Tonga]]===
+
+====Party vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:70px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+! style="width:70px;" r bgcolor={{New Zealand National Party/meta/color}}|[[New Zealand National Party|National]]
+! style="width:70px;" r bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+! style="width:70px;" r bgcolor={{New Zealand First/meta/color}}|[[New Zealand First|NZ First]]
+! style="width:70px;" r bgcolor={{ACT New Zealand/meta/color}}|[[ACT New Zealand|ACT]]
+! style="width:70px;" r bgcolor={{The Opportunities Party/meta/color}}|[[The Opportunities Party|TOP]]
+|-
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand National Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand First/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{ACT New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{The Opportunities Party/meta/color}}; width:60px;"|
+|-
+|- style="background:#EFEFEF; font-weight:italic;"
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+|style="background:#F8C1BE" |'''36.7''' || 14.92 || 11.19 || 16.41 || 12.82 || 0.17 || {{n/a}} 
+|-
+| Māori TV Reid Research<ref name="Newshub 11Jul-17Aug"/>
+| 11 Jul – 17 Aug 2017
+| style="background:#F8C1BE" | '''47.6''' || 14.1 || 11.7 || 9.3 || 14.4 || 0.3 || 2.4 
+|}
+
+====Candidate vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:70px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+<small>''[[Rino Tirikatene]]''</small>
+! style="width:75px;"  bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+<small>''Mei Reedy-Taare''</small>
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+<small>''[[Metiria Turei]]''</small>
+|-
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+|-
+| Māori TV Reid Research<ref name="Newshub 11Jul-17Aug"/>
+| 11 Jul – 17 Aug 2017
+| style="background:#F8C1BE" | '''57.1''' || 22.1 || 20.7
+|}
+
+===[[Hauraki-Waikato]]===
+====Party vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:70px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+! style="width:70px;" r bgcolor={{New Zealand First/meta/color}}|[[New Zealand First|NZ First]]
+! style="width:70px;" r bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+|-
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand First/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+|-
+|-style="background:#EFEFEF; font-weight:italic;"
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+| style="background:#F8C1BE" | '''46.50''' || 13.37 || 11.97
+|-
+| Māori TV-Reid Research<ref name="MaoriTV_10Sep2017_Hauraki">{{cite news|url=http://www.maoritelevision.com/news/regional/house-mahuta-rules-polls|title=House of Mahuta rules in polls|website=maoritelevision.com|date=10 September 2017|accessdate=10 September 2017}}</ref>
+| 11 Jul – 3 Sept 2017
+| style="background:#F8C1BE" | '''52.6''' || 15.1 || 14.5
+|}
+
+====Candidate vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:75px;"  bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+<small>''[[Nanaia Mahuta]]''</small>
+! style="width:75px;"  bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+<small>''Rahui Papa''</small>
+! style="width:75px;" r bgcolor={{Mana Party (New Zealand)/meta/color}}|[[Mana Movement|Mana]]
+<small>''Susan Cullen''</small>
+|-
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Mana Party (New Zealand)/meta/color}}; width:60px;"|
+|-
+|-style="background:#EFEFEF; font-weight:italic;"
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+| style="background:#F8C1BE" | '''59.54''' || 21.96 || 15.22
+|-
+| Māori TV-Reid Research<ref name="MaoriTV_10Sep2017_Hauraki" />
+| 11 Jul – 3 Sept 2017
+| style="background:#F8C1BE" | '''78''' || 22 || {{n/a}}
+|}
+
+===[[Tāmaki Makaurau]]===
+====Party vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:70px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+! style="width:70px;" r bgcolor={{New Zealand First/meta/color}}|[[New Zealand First|NZ First]]
+! style="width:70px;" r bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+! style="width:70px;" r bgcolor={{New Zealand National Party/meta/color}}|[[New Zealand National Party|National]]
+|-
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand First/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand National Party/meta/color}}; width:60px;"|
+|-
+|-style="background:#EFEFEF; font-weight:italic;"
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+| style="background:#F8C1BE" | '''40.45''' || 13.98 || 12.72 || 11.69 || 7.55
+|-
+| Māori TV-Reid Research<ref name="MaoriTV_18Sep2017">{{cite news|url=http://www.maoritelevision.com/news/regional/undecided-could-decide-auckland-maori-seat|title=Undecided could decide Auckland Māori seat|date=18 September 2017}}</ref>
+| 12 Jul – 5 Sept 2017
+| style="background:#F8C1BE" | '''47.0''' || 12.6 || 14.5 || 11.3 || 12.6
+|}
+
+====Candidate vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:75px;"  bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+<small>''[[Peeni Henare]]''</small>
+! style="width:75px;"  bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+<small>''Shane Taurima''</small>
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+<small>''[[Marama Davidson]]''</small>
+! style="width:75px;"  bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+<small>''Rangi McLean''</small>
+|-
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+|-
+|-style="background:#EFEFEF; font-weight:italic;"
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+| style="background:#F8C1BE" | '''37.48''' || {{n/a}} || 15.60 || 30.21
+|-
+| Māori TV-Reid Research<ref name="MaoriTV_18Sep2017" />
+| 12 Jul – 5 Sept 2017
+| style="background:#F8C1BE" | '''46.0''' || 32.6 || 21.4 || {{n/a}}
+|}
+
+===[[Te Tai Tokerau]]===
+====Party vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:70px;" r bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+! style="width:70px;" r bgcolor={{New Zealand First/meta/color}}|[[New Zealand First|NZ First]]
+! style="width:70px;" r bgcolor={{Māori Party/meta/color}}|[[Māori Party|Māori]]
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+! style="width:70px;" r bgcolor={{New Zealand National Party/meta/color}}|[[New Zealand National Party|National]]
+! style="width:70px;" r bgcolor={{Mana Party/meta/color}}|[[Mana Maori Movement|Mana]]
+|-
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand First/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Māori Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{New Zealand National Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Mana Party/meta/color}}; width:60px;"|
+|-
+|-style="background:#EFEFEF; font-weight:italic;"
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+| style="background:#F8C1BE" | '''38.8''' || 8.1 || 9.1 || 8.7 || 10.2 || 16.3
+|-
+| Māori TV-Reid Research<ref name="MaoriTV_20Sep2017">{{cite news|url=http://www.newshub.co.nz/home/election/2017/09/poll-clear-majority-for-kelvin-davis-in-te-tai-tokerau.html|title=Poll: Clear majority for Kelvin Davis in Te Tai Tokerau|date=20 September 2017}}</ref>
+| 12 Jul – 5 Sept 2017
+| style="background:#F8C1BE" | '''49.7''' || 14.7 || 9.7 || 10.3 || 7.9 || 6.1
+|}
+
+====Candidate vote====
+{| class="wikitable" style="font-size:90%;line-height:14px;text-align:center;"
+|-
+! style="width:240px;" rowspan="2"|Poll
+! style="width:160px;" rowspan="2"|Date <ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:75px;"  bgcolor={{New Zealand Labour Party/meta/color}}|[[New Zealand Labour Party|Labour]]
+<small>''[[Kelvin Davis (politician)|Kelvin Davis]]''</small>
+! style="width:75px;"  bgcolor={{Mana Party/meta/color}}|[[Mana Party|Mana]]
+<small>''Hone Harawira''</small>
+! style="width:70px;" r bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|[[Green Party of Aotearoa New Zealand|Green]]
+<small>''Godfrey Rudoplh''</small>
+|-
+! class="unsortable" style="background:{{New Zealand Labour Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Mana Party/meta/color}}; width:60px;"|
+! class="unsortable" style="background:{{Green Party of Aotearoa New Zealand/meta/color}}; width:60px;"|
+|-
+|-style="background:#EFEFEF; font-weight:italic;"
+| '''[[2014 New Zealand general election|2014 election result]]'''
+| 20 September 2014
+| style="background:#F8C1BE" | '''43.90''' || 40.53 || {{n/a}}
+|-
+| Māori TV-Reid Research<ref name="MaoriTV_20Sep2017" />
+| 12 Jul – 5 Sept 2017
+| style="background:#F8C1BE" | '''67.4''' || 30.3 || 2.3
+|}
+
+==Forecasts==
+{{2017 NZ election forecasts}}
+New Zealand does not have a strong tradition of third-party forecast models. Some private individuals have created their own projection models.<ref>[https://ellisp.github.io/elections/elections.html Peter's Stats Stuff]</ref><ref>[https://sites.google.com/site/nzelectionprediction/home NZ Election Prediction]</ref>
+
+==See also==
+* [[Opinion polling for the 2020 New Zealand general election]]
+* [[Opinion polling for the 2014 New Zealand general election]]
+* [[Politics of New Zealand]]
+
+==Notes==
+{{Reflist|group=nb}}
+
+==References==
+{{Reflist}}
+
+{{NZ general polling}}
+
+[[Category:Opinion polling in New Zealand| ]]
+[[Category:2017 New Zealand general election]]

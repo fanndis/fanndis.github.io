@@ -1,0 +1,107 @@
+{{Infobox SCOTUS case
+  |Litigants=Ledbetter v. Goodyear Tire & Rubber Co
+  |ArgueDate=November 27
+  |ArgueYear=2006
+  |DecideDate=May 29
+  |DecideYear=2007
+  |FullName=Ledbetter v. Goodyear Tire & Rubber Co., Inc.
+  |USVol=550
+  |USPage=618
+  |ParallelCitations=127 S. Ct. 2162; 167 [[L. Ed. 2d]] 982; 2007 [[U.S. LEXIS]] 6295; 75 U.S.L.W. 4359
+  |Docket=05-1074
+  |Prior= Judgment for Plaintiff, ([[United States District Court for the Northern District of Alabama|N.D. Ala.]]); rev'd, 421 [[Federal Reporter|F.3d]] [https://law.justia.com/cases/federal/appellate-courts/F3/421/1169/609066/ 1169] ([[United States Court of Appeals for the Eleventh Circuit|11th Cir. 2005]]), ''[[certiorari|cert]]'' granted, {{ussc|548|903|2006|el=no}}.
+  |Subsequent=
+  |Holding=The [[equal pay for equal work]] discrimination charging period is triggered when a discrete unlawful practice takes place. A new violation does not occur, and a new charging period does not commence, upon the occurrence of subsequent non-discriminatory acts that entail adverse effects resulting from the past discrimination.  Eleventh Circuit affirmed.
+  |Majority=Alito
+  |JoinMajority=Roberts, Scalia, Kennedy, Thomas
+  |Dissent=Ginsburg
+  |JoinDissent=Stevens, Souter, Breyer
+  |LawsApplied=[[Title VII of the Civil Rights Act of 1964]]<br />[[Equal Pay Act of 1963]]
+  |Superseded=[[Lilly Ledbetter Fair Pay Act]] of 2009
+}}
+
+'''''Ledbetter v. Goodyear Tire & Rubber Co.''''', 550 U.S. 618 (2007), is an [[employment discrimination]] decision of the [[Supreme Court of the United States]].<ref>{{ussc|name=Ledbetter v. Goodyear Tire & Rubber Co.|550|618|2007}}. {{usgovpd}}</ref>  Employers cannot be sued under [[Title VII of the Civil Rights Act of 1964]] over race or gender pay discrimination if the claims are based on decisions made by the employer 180 days ago or more. [[Samuel Alito|Justice Alito]] held for the five-justice majority that each paycheck received did not constitute a discrete discriminatory act, even if was affected by a prior decision outside the time limit. Ledbetter's claim of the “paycheck accrual rule” was rejected.<ref>{{Bluebook journal | first=Jeremy A. | last=Weinberg | title=Blameless Ignorance? The Ledbetter Act and Limitation Periods for Title VII Pay Discrimination Claims | volume=84 | journal=[[New York University Law Review|N.Y.U. L. Rev.]] | page=1756 | pin=| url=http://www.nyulawreview.org/issues/volume-84-number-6/blameless-ignorance-ledbetter-act-and-limitation-periods-title-vii-pay | year=2009}}</ref> The decision did not prevent plaintiffs from suing under other laws, like the Equal Pay Act, which has a three-year deadline for most sex discrimination claims,<ref>{{Bluebook website|first=Ted |last=Frank |title=The Ledbetter Case and the Lilly Ledbetter Fair Pay Act |publisher=[[American Enterprise Institute]] |url=https://web.archive.org/web/20080501134932/http://communities.justicetalking.org/blogs/day04/archive/2008/02/04/the-ledbetter-case.aspx |date=February 4, 2008}} The Supreme Court's Ledbetter ruling specifically noted that the plaintiff could have sued instead under the Equal Pay Act, observing that plaintiff "having abandoned her claim under the Equal Pay Act, asks us to deviate from our prior decisions in order to permit her to assert her claim under Title VII." ''Ledbetter'', 550 U.S. at 621.</ref> or 42 U.S.C. 1981, which has a four-year deadline for suing over race discrimination.<ref>See {{ussc|name=Jones v. R.R. Donnelley & Sons|link=|volume=541|page=369|pin=|year=2004}}.</ref>
+
+This was a case of statutory rather than constitutional interpretation, explaining the meaning of a law, not its constitutionality. The plaintiff in this case, [[Lilly Ledbetter]], characterized her situation as one where "disparate pay is received during the statutory limitations period, but is the result of intentionally discriminatory pay decisions that occurred outside the limitations period."  In rejecting Ledbetter's appeal, the Supreme Court said that "she could have, and should have, sued" when the pay decisions were made, instead of waiting beyond the 180-day statutory charging period.  The Court did leave open the possibility that a plaintiff could sue beyond the 180-day period if she did not, and could not, have discovered the discrimination earlier.<ref>See ''Ledbetter'', 550 U.S. at 642 n.10 (“we have previously declined to address whether Title VII suits are amenable to a discovery rule. . . .Because Ledbetter does not argue that such a rule would change the outcome in her case, we have no occasion to address this issue.”)</ref>  The effect of the Court's holding was reversed by the passage of the [[Lilly Ledbetter Fair Pay Act]] in 2009.
+
+==Background of the case==
+In 1979 Lilly Ledbetter, the plaintiff, began work at the [[Goodyear Tire and Rubber Company]] in its [[Gadsden, Alabama]] location, a union plant. She started with the same pay as male employees, but by retirement, she was earning $3,727 per month compared to 15 men who earned from $4,286 per month (lowest paid man) to $5,236 per month (highest paid man).<ref>{{Bluebook website|first=Kristin D. |last=Sostowski |title=U.S. Supreme Court Rules in Ledbetter v. Goodyear Tire & Rubber Co. That Title VII Pay Discrimination Claims Must Be Filed Within EEOC Statute of Limitations |publisher=[[Gibbons P.C.]] |url=https://www.gibbonslaw.com/us-supreme-court-rules-in-ledbetter-v-goodyear-tire--rubber-co-that-title-vii-pay-discrimination-claims-must-be-filed-within-eeoc-statute-of-limitations-07-06-2007/ |date=July 6, 2007}}</ref> During her years at the factory as a salaried worker, raises were given and denied based partly on evaluations and recommendations regarding worker performance. From 1979-1981 Ledbetter received a series of negative evaluations, which she later claimed were discriminatory. Although her subsequent evaluations were good, in part as a result of those early negative evaluations, her pay never reached the level of similar male employees. All merit increases had to be substantiated by a formal evaluation.  In March 1998, Ledbetter inquired into the possible sexual discrimination of the [[Goodyear Tire Company]].  In July she filed formal charges with the [[Equal Employment Opportunity Commission]].  In November 1998, after early retirement, Ledbetter sued claiming pay discrimination under [[Title VII of the Civil Rights Act of 1964]] and the [[Equal Pay Act of 1963]]. The Supreme Court did not rule on whether this was discrimination, just the statute of limitations to sue.
+
+===Statutory provisions at issue===
+
+*"It shall be an unlawful employment practice for an employer… --to discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual’s race, color, religion, sex, or national origin...."<ref>{{USCSub|42|2000e-2|a|1}}.</ref>
+*"A charge under this section shall be filed within one hundred and eighty days after the alleged unlawful employment practice occurred."<ref>{{USCSub|42|2000e-5|e|1}}.</ref>
+*"it shall not be an unlawful employment practice for an employer to apply different standards of compensation...provided that such differences are not the result of an intention to discriminate because of race, color, religion, sex, or national origin."<ref>{{USCSub|42|2000e-2|h}}.</ref>
+
+===Lower court proceedings===
+The District Court found in favor of Goodyear on the Equal Pay Act claim, because that Act allows pay differences that are based on merit. The court allowed the Title VII and other claims to proceed to trial.  Ledbetter claimed that she had been evaluated unfairly because of her sex and therefore had been paid significantly less than her male colleagues.  Goodyear claimed that their evaluations were non-discriminatory and focused only on worker competence. The jury found for Ledbetter and awarded back pay and damages. Goodyear appealed, arguing that all claims to damages before September 26, 1997 were void due to the [[statute of limitations]] placed on discrimination claims.
+
+The [[United States Court of Appeals for the Eleventh Circuit]] reversed the lower court's decision stating that Ledbetter could sue only for allegations regarding pay decisions that occurred less than 180 days before her beginning the EEOC process in March 1998.<ref>{{cite court |litigants=Ledbetter v. Goodyear Tire & Rubber Co. |vol=421 |reporter=F.3d |opinion=1169 |pinpoint= |court=[[11th Cir.]] |date=2005 |url=https://law.justia.com/cases/federal/appellate-courts/F3/421/1169/609066/ |accessdate=2018-07-09 |quote=}}</ref> Ledbetter, as the court ruled, could not sue on decisions that merely affected pay in the 180 day period.  Furthermore, all decisions made concerning pay in the 180 day period could not be unequivocally linked to her gender.  Ledbetter sought a writ of [[certiorari]], but did not contest the sufficiency of the evidence concerning decisions in the 180 day period.  The Supreme Court granted the writ and heard the appeal.
+
+===Supreme Court precedent===
+In ''United Airlines v. Evans'', Justice Stevens wrote as follows for the Court: "A discriminatory act which is not made the basis for a timely charge...is merely an unfortunate event in history which has no present legal consequences."<ref>{{ussc|name=United Airlines v. Evans|431|553|1977}}.</ref> The Court in ''Ledbetter'' said that "it would be difficult to speak to the point more directly."
+
+==The Supreme Court's decision==
+{{Listen
+| filename     = Ledbetter v. Goodyear Tire & Rubber Co. oral arguments.ogg
+| title        = Oral arguments
+| description  = Recording of oral arguments before the Supreme Court
+| filename2    = Ledbetter v. Goodyear Tire & Rubber Co. opinion announcement.ogg
+| title2       = Opinion announcement
+| description2 = Justice Alito reads the opinion of the court.
+}}
+Justice Alito delivered the opinion of the court.  The Court held that according to Title VII, discriminatory intent must occur during the 180-day charging period.  Ledbetter did not claim that Goodyear acted with discriminatory intent in the charging period by issuing the checks, nor by denying her a raise in 1998.  She argued that the discriminatory behavior occurred long before but still affected her during the 180-day charging period.  [[Stare decisis|Prior caselaw]], the Court held, established that the actual intentional discrimination must occur within the charging period.  The Court also stated that according to those prior cases, Ledbetter’s claim that each check is an act of discrimination is inconsistent with the statute, because there was no evidence of discriminatory intent in the issuing of the checks. Alito was joined in his opinion by Justices Antonin Scalia, Anthony M. Kennedy and Clarence Thomas and Chief Justice John G. Roberts Jr.
+
+===Ginsburg's dissent===
+{{Listen
+| filename     = Ledbetter v. Goodyear Tire & Rubber Co. opinion announcement.ogg
+| title        = Dissent
+| description  = Justice Ginsburg reads her dissent from the bench
+| start = 3:48
+}}
+Justice Ginsburg wrote the dissent and read it from the bench, a rare practice.<ref>{{Bluebook website|first=Linda |last=Greenhouse |title=Justices Limit Discrimination Suits Over Pay |publisher=[[New York Times]] |url=https://nyti.ms/2pY9iRA |pin= |date=May 29, 2007 |access-date=July 9, 2018 }}</ref><ref>{{Bluebook website|first=Robert |last=Barnes |title=Over Ginsburg's Dissent, Court Limits Bias Suits |publisher=[[The Washington Post]] |url=https://www.washingtonpost.com/wp-dyn/content/article/2007/05/29/AR2007052900740.html |pin= |date=May 30, 2007 |access-date=July 9, 2018 }}</ref>  Joined by Justices Stevens, Souter, and Breyer, she argued against applying the 180-day limit to pay discrimination, because discrimination often occurs in small increments over large periods of time.<ref name=Ginsburg>''Ledbetter'', 550 U.S. at 645 (Ginsburg, J., dissenting).</ref> Furthermore, the pay information of fellow workers is typically confidential and unavailable for comparison.  Ginsburg argued that pay discrimination is inherently different from adverse actions, such as termination.<ref name=Ginsburg/>  Adverse actions are obvious, but small pay discrepancy is often difficult to recognize until more than 180 days of the pay change.  Ginsburg argued that the broad remedial purpose of the statute was incompatible with the Court's "cramped" interpretation.<ref>''Ledbetter'', 550 U.S. at 661.</ref>  Her dissent asserted that the employer had been, "Knowingly carrying past pay discrimination forward" during the 180-day charging period, and therefore could be held liable.<ref>''Ledbetter'', 550 U.S. at 660.</ref>
+
+==Reaction and subsequent legislation==
+{{main|Lilly Ledbetter Fair Pay Act}}
+[[File:Barack Obama signs Lilly Ledbetter Fair Pay Act of 2009 1-29-09.jpg|thumb|President Obama signs the [[Lilly Ledbetter Fair Pay Act]] into law on January 29, 2009; to his right is the new law’s namesake, [[Lilly Ledbetter]].]]
+[[Image:Lilly Ledbetter DNC 2008.jpg|thumb|right|Ledbetter speaks during the second day of the [[2008 Democratic National Convention]] in [[Denver, Colorado|Denver]], [[Colorado]].]]
+In 2007, several [[Democratic Party (United States)|Democratic]] members of Congress introduced the [[Lilly Ledbetter Fair Pay Act]], which revised the law to state that if a present act of discrimination pertains, prior acts outside of the 180-day statute of limitations for pay discrimination can be incorporated into the claim.
+
+The bill was an issue in the [[2008 United States presidential election|2008 Presidential election campaign]], with [[Barack Obama]] supporting the bill,<ref>{{Bluebook website|first=Stephanie |last=Mencimer |title=Lilly Ledbetter: Obama’s Newest Ad Star |publisher=[[Mother Jones (magazine)|Mother Jones]] |url=https://www.motherjones.com/politics/2008/09/lilly-ledbetter-obamas-newest-ad-star/ |pin= |date=September 23, 2008 |access-date=July 9, 2018 }}</ref> and [[John McCain]] opposed to it.<ref>{{Bluebook website|first=Gail |last=Collins |title=McCain's Compassion Tour |publisher=[[The New York Times]] |url=https://nyti.ms/2L4HQJR |date=April 26, 2008 |access-date=July 9, 2018 }}</ref>  The plaintiff in the case, Lilly Ledbetter, appeared in campaign ads for the Obama campaign and had a speaking role at the [[Democratic National Convention]].
+
+In January 2009, Congress passed and President Obama signed the [[Lilly Ledbetter Fair Pay Act]] into law.<ref>{{Bluebook journal | first=Debbi | last=Wilgoren | first2=Amy  | last2=Goldstein | title=Obama Signs First Piece of Legislation Into Law | volume= | journal=[[The Washington Post]] | page= | url=https://www.washingtonpost.com/wp-dyn/content/article/2009/01/29/AR2009012901887.html | year=January 29, 2009}}.</ref>
+
+==See also==
+*[[List of United States Supreme Court cases, volume 550]]
+*[[List of United States Supreme Court cases]]
+
+== Notes and references ==
+{{BBstyle}}
+{{reflist}}
+
+==External links==
+* {{wikisource-inline}}
+* {{caselaw source
+ | case=''Ledbetter v. Goodyear Tire & Rubber Co.'', {{Ussc|550|618|2007|el=no}}
+ | cornell =https://www.law.cornell.edu/supct/html/05-1074.ZS.html
+ | courtlistener =https://www.courtlistener.com/opinion/145727/ledbetter-v-goodyear-tire-rubber-co-inc/
+ | findlaw=http://laws.findlaw.com/us/000/05-1074.html
+ | justia=http://supreme.justia.com/us/550/05-1074/index.html
+ | googlescholar = https://scholar.google.com/scholar_case?case=16533088912171823433
+ | oyez =https://www.oyez.org/cases/2006/05-1074
+ | other_source1=United States Supreme Court (slip opinion)
+ | other_url1=https://www.supremecourt.gov/opinions/06pdf/05-1074.pdf
+}}
+*[https://web.archive.org/web/20120216071239/http://wikileaks.org/leak/crs/RS22686.pdf CRS Report]: Pay Discrimination Claims Under Title VII of the Civil Rights Act: A Legal Analysis of the Supreme Court’s Decision in ''Ledbetter v. Goodyear Tire & Rubber Co., Inc.''
+*[http://www.annenbergclassroom.org/showpage.aspx?pageid=18 A documentary on ''Ledbetter v. Goodyear Tire & Rubber Co.'']{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{Goodyear Company}}
+
+{{DEFAULTSORT:Ledbetter v. Goodyear Tire and Rubber Co.}}
+[[Category:United States Supreme Court cases]]
+[[Category:United States employment discrimination case law]]
+[[Category:2007 in United States case law]]
+[[Category:Gender discrimination lawsuits]]
+[[Category:Goodyear Tire and Rubber Company]]
+[[Category:Abrogated United States Supreme Court decisions]]
+[[Category:United States Supreme Court cases of the Roberts Court]]

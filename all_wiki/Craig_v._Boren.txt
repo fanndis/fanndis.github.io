@@ -1,0 +1,91 @@
+{{Infobox SCOTUS case
+  |Litigants=Craig v. Boren
+  |ArgueDate=October 5
+  |ArgueYear=1976
+  |DecideDate=December 20
+  |DecideYear=1976
+  |FullName=Craig et al. v. Boren, Governor of Oklahoma, et al.
+  |USVol=429
+  |USPage=190
+  |ParallelCitations=97 S. Ct. 451; 50 [[L. Ed. 2d]] 397; 1976 [[U.S. LEXIS]] 183
+  |Prior=Dismissed, ''Walker v. Hall'', 399 [[F. Supp.]] [https://law.justia.com/cases/federal/district-courts/FSupp/399/1304/1489061/ 1304] ([[W.D. Okla.]] 1975), probable jurisdiction noted ''sub. nom.'', {{ussc|name=Craig v. Boren|volume=423|page=1047|year=1976|el=no}}.
+  |Subsequent=Rehearing denied, {{ussc|429|1124|1977|el=no}}.
+  |Holding=To regulate in a sex-discriminatory fashion, the government must demonstrate that its use of sex-based criteria is substantially related to the achievement of important governmental objectives.
+  |Majority=Brennan
+  |JoinMajority=White, Marshall, Powell, Stevens
+  |Concurrence=Blackmun
+  |Concurrence2=Stewart
+  |Concurrence3=Stevens
+  |Concurrence4=Powell
+  |Dissent=Burger
+  |Dissent2=Rehnquist
+  |LawsApplied=[[Fourteenth Amendment to the United States Constitution|U.S. Const. amend. XIV]]
+  |Overturned previous case = ''[[Goesaert v. Cleary]]'' (1948)
+}}
+'''''Craig v. Boren''''', 429 U.S. 190 (1976), was a [[List of landmark court decisions in the United States|landmark decision]] of the [[US Supreme Court]] ruling that statutory or administrative sex classifications were subject to [[intermediate scrutiny]] under the [[Fourteenth Amendment of the United States Constitution|Fourteenth Amendment]]'s [[Equal Protection Clause]].<ref name=opinion>{{ussc|name=Craig v. Boren|volume=429|page=190|pin=|year=1976}}.</ref>
+
+== Background ==
+[[Oklahoma]] passed a [[statute]] prohibiting the sale of "[[Low-alcohol beer|nonintoxicating]]" 3.2% [[beer]] to males under the age of 21 but allowed females over the age of 18 to purchase it. The statute was challenged as [[Fourteenth Amendment to the U.S. Constitution|Fourteenth Amendment]]'s [[Equal Protection Clause]] violation by Curtis Craig, a male who was over 18 but under 21, and Carolyn Whitener, an Oklahoma vendor of [[alcohol (drug)|alcohol]].<ref>{{Cite web|url=http://supremecourthistory.org/lc_justice_for_beer_drinkers.html|title=The Supreme Court Historical Society - Learning Center - Women's Rights|website=supremecourthistory.org|access-date=December 2, 2017}}</ref>  The nominal defendant was [[David Boren]], who was sued ''[[ex officio]]'' by virtue of his serving as [[Governor of Oklahoma]] at the time of the lawsuit. [[Ruth Bader Ginsburg]], working as an attorney for the [[American Civil Liberties Union]], advised the plaintiff's attorney, submitted an [[amicus brief]], and was present at counsel table during oral argument before the Supreme Court.<ref>{{Cite web|url=http://scholarship.law.georgetown.edu/cgi/viewcontent.cgi?article=2253&context=facpub|title=Ruth Bader Ginsburg's Equal Protection Clause: 1970-80|last=Williams|first=Wendy Webster|date=2013|website=scholarship.law.georgetown.edu|access-date=December 2, 2017}}</ref>
+
+The Supreme Court was called upon to determine whether a statute that denied the sale of beer to individuals of the same age based on their gender violated the Equal Protection Clause. Also, the Supreme Court examined for ''jus tertii'' (third-party rights), in this case the vendor of the 3.2% beer.
+
+== Decision ==
+[[Associate Justice of the Supreme Court of the United States|Justice]] [[William J. Brennan]] delivered the opinion of the Court in which he was joined by justices [[Byron White|White]], [[Thurgood Marshall|Marshall]], [[Lewis Franklin Powell Jr.|Powell]] and [[John Paul Stevens|Stevens]] ([[Justice Blackmun]] joined all but one part of the opinion, and Blackmun, Powell, Stevens, and Stewart wrote concurrences).<ref name=opinion/>
+
+===Majority opinion===
+The Court held that the gender classifications made by the Oklahoma statute were unconstitutional because the statistics relied on by the state were insufficient to show a substantial relationship between the statute and the benefits intended to stem from it.
+
+The Court instituted a standard, dubbed "[[intermediate scrutiny]]," under which the state must prove the existence of specific important governmental objectives, and the law must be substantially related to the achievement of those objectives.
+
+As to third-party rights, the court, expanding on the doctrine of standing, held that the vendors of 3.2% beer would be economically affected by the restrictive nature of the sales to males between 18 and 20. To have standing, one must show a "nexus" of the injury to oneself and the constitutional violation of the statute. In this case, the statute directly affected Whitener only economically, but the Supreme Court explained that Whitener and other vendors have standing to assert concomitant rights of other parties, such as Craig.
+
+The Court acknowledged that parties economically affected by regulations may challenge them "by acting as advocates of the rights of third parties who seek access to their market or function."
+
+===Concurring opinion===
+Justice [[Harry A. Blackmun|Blackmun]] wrote a concurring opinion, agreeing that a higher standard of scrutiny was appropriate.
+
+=== Dissenting opinions ===
+[[Chief Justice of the United States|Chief Justice]] [[Warren E. Burger|Burger]] and [[William Rehnquist|Justice Rehnquist]] dissented.
+
+Rehnquist dissented because he felt that the law needed to pass only "[[rational basis]]," as previous cases in the area, such as ''[[Stanton v. Stanton]]'', had used only the "rational basis" test.
+
+Burger was "in general agreement with Mr. Justice Rehnquist's dissent" but penned a separate dissent to emphasize that "a litigant may only assert his own constitutional rights or immunities." He felt that the indirect economic injury to Whitener and other vendors introduced "a new concept of constitutional standing to which I cannot subscribe."
+
+== See also ==
+*''[[Frontiero v. Richardson]]''
+*[[Gender equality]]
+*[[List of gender equality lawsuits]]
+*[[List of United States Supreme Court cases, volume 429]]
+
+== Sources ==
+*{{cite journal |last=Gryski |first=Gerard S. |author2=Main, Eleanor C. |year=1986 |title=Social Backgrounds as Predictors of Votes on State Courts of Last Resort: The Case of Sex Discrimination |journal=Western Political Quarterly |volume=39 |issue=3 |pages=528–537 |doi=10.2307/448346|publisher=University of Utah |jstor=448346 }}
+*{{cite journal |last=Segal |first=Jeffrey A. |author2=Reedy, Cheryl D. |year=1988 |title=The Supreme Court and Sex Discrimination: The Role of the Solicitor General |journal=Western Political Quarterly |volume=41 |issue=3 |pages=553–568 |doi=10.2307/448602|publisher=University of Utah |jstor=4486020}}
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+*{{caselaw source
+ | case=''Craig v. Boren'', {{ussc|429|190|1976|el=no}}
+ | cornell =https://www.law.cornell.edu/supremecourt/text/429/190
+ | courtlistener =https://www.courtlistener.com/opinion/109570/craig-v-boren/
+ | findlaw = https://caselaw.findlaw.com/us-supreme-court/429/190.html
+ | googlescholar = https://scholar.google.com/scholar_case?case=2528522570594071994
+ | justia =https://supreme.justia.com/cases/federal/us/429/190/
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep429/usrep429190/usrep429190.pdf
+ | oyez =https://www.oyez.org/cases/1976/75-628
+ }}
+
+{{US14thAmendment}}
+
+[[Category:United States Supreme Court decisions that overrule a prior Supreme Court decision]]
+[[Category:United States equal protection case law]]
+[[Category:History of civil rights in the United States]]
+[[Category:United States Twenty-first Amendment case law]]
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Burger Court]]
+[[Category:1976 in United States case law]]
+[[Category:Legal history of Oklahoma]]
+[[Category:Alcohol law in the United States]]
+[[Category:Gender discrimination lawsuits]]
+[[Category:Ruth Bader Ginsburg]]

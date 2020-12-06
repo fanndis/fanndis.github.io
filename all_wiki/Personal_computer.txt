@@ -1,0 +1,386 @@
+{{about|the general concept of a personal computer ("PC")|the specific architecture often meant by "PC" in industry jargon|IBM PC compatible}}
+{{short description|Computer intended for use by an individual person}}
+
+{{Unreliable sources|date=September 2020}}
+
+[[File:US Navy 050210-N-2802K-001 Chief Aviation Warfare Systems Operator Richard McCurdy demonstrates how to create a PowerPoint presentation to Shirley Lanham Elementary School fourth-graders.jpg|thumb|upright=1.2|Children being taught how to use a [[Laptop|notebook]] (portable laptop) personal computer in 2005; an older (1990s-era) [[desktop computer|desktop personal computer's]] [[Cathode-ray tube|CRT]] [[computer monitor|monitor]], [[Computer keyboard|keyboard]], and [[computer mouse|mouse]] are visible in the background|alt=]]
+ 
+[[File:Crystal Project computer.png|thumb|right|upright=0.9|An artist's depiction of a 2000s-era desktop-style personal computer, which includes a metal case with the computing components, a display monitor and a keyboard (mouse not shown).]]
+ 
+A '''personal computer''' ('''PC''') is a multi-purpose [[computer]] whose size, capabilities, and price make it feasible for individual use.<ref>{{Cite Dictionary.com|personal computer|access-date=2018-06-11}}</ref> Personal computers are intended to be operated directly by an [[end user]], rather than by a computer expert or [[technician]]. Unlike large, costly [[minicomputer]]s and [[mainframe computer|mainframe]]s, [[time-sharing]] by many people at the same time is not used with personal computers.
+
+Institutional or corporate computer owners in the 1960s had to write their own programs to do any useful work with the machines. While personal computer users may develop their own applications, usually these systems run [[commercial software]], free-of-charge software ("[[freeware]]"), which is most often proprietary, or [[free and open-source software]], which is provided in "ready-to-run", or [[Binary code|binary]], form. Software for personal computers is typically developed and distributed independently from the hardware or [[operating system]] manufacturers.<ref>{{citation |author=Conlon, Tom |url=http://www.popsci.com/gadgets/article/2010-01/ipad%E2%80%99s-closed-system-sometimes-i-hate-being-right |title=The iPad's Closed System: Sometimes I Hate Being Right |publisher=Popular Science |date=January 29, 2010 |quote=The iPad is not a personal computer in the sense that we currently understand. |accessdate=2010-10-14}}</ref> Many personal computer users no longer need to write their own programs to make any use of a personal computer, although end-user programming is still feasible. This contrasts with mobile systems, where software is often only available through a manufacturer-supported channel,<ref>{{Cite web|url=https://docs.microsoft.com/en-us/deployoffice/overview-of-update-channels-for-office-365-proplus|title=Overview of update channels for Office 365 ProPlus|date=2018|website=Microsoft}}</ref> and end-user program development may be discouraged by lack of support by the manufacturer.<ref>{{Cite book|url=https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/end-user-development|title=The Encyclopedia of Human-Computer Interaction, 2nd Ed. End-User Development|date=2017|website=Interaction Design Foundation}}</ref>
+ 
+Since the early 1990s, [[Microsoft]] operating systems and [[Intel]] hardware [[Wintel|dominated much of the personal computer market]], first with [[MS-DOS]] and then with [[Microsoft Windows]]. Alternatives to Microsoft's Windows operating systems occupy a minority share of the industry. These include [[Apple Inc.|Apple]]'s [[macOS]] and [[Free and open-source software|free and open-source]] [[Unix-like]] operating systems, such as [[Linux]].
+
+The advent of personal computers and the concurrent [[Digital Revolution]] have significantly affected the lives of people in all countries.
+
+== {{Anchor|Case of PC}}Terminology ==
+"PC" is an [[initialism]] for "personal computer". The [[IBM Personal Computer]] incorporated the designation in its model name, but the term evolved to refer to computers of any brand. In some contexts, "PC" is used to contrast with "Mac", an [[Macintosh|Apple Macintosh]] computer.<ref>{{cite web|title=Mac* vs. PC Debate|url=http://www.intel.com/content/www/us/en/tech-tips-and-tricks/pc-vs-mac-the-big-debate.html|website=intel.com|publisher=[[Intel]]|accessdate=5 October 2014}}</ref><ref>{{cite web|last1=Finnie|first1=Scot|title=Mac vs. PC cost analysis: How does it all add up?|url=http://www.computerworld.com/article/2541666/computer-hardware/mac-vs--pc-cost-analysis--how-does-it-all-add-up-.html|website=[[Computerworld]]|publisher=Computerworld, Inc|accessdate=5 October 2014|date=8 June 2007}}</ref><ref>{{cite web|last1=Ackerman|first1=Dan|title=Don't buy a new PC or Mac before you read this|url=http://www.cnet.com/news/dont-buy-a-new-pc-or-mac-before-you-read-this/|website=[[CNET]]|publisher=[[CBS Interactive]]|accessdate=5 October 2014|date=22 August 2013}}</ref><ref>{{cite web|last1=Haslam|first1=Karen|title=Mac or PC? Ten reasons why Macs are better than PCs|url=http://www.macworld.co.uk/feature/mac/mac-or-pc-ten-reasons-why-macs-are-better-pcs-3493363/|website=[[Macworld]]|publisher=[[International Data Group|IDG]]|accessdate=5 October 2014|date=11 December 2013}}</ref> Since none of these Apple products were mainframes or time-sharing systems, they were all "personal computers" and not "PC" (brand) computers.
+
+== History ==
+{{Main|History of personal computers}}
+[[File:Commodore PET Exhibit at American Museum of Science and Energy Oak Ridge Tennessee.jpg|thumb|upright=0.95|[[Commodore PET]] in 1983 (at the [[American Museum of Science and Energy]]), an early example of a personal computer]]
+
+<div class=floatright>
+<timeline>
+ImageSize=width:375 height:350
+PlotArea=left:60 bottom:51 top:10 right:16
+AlignBars=justify
+Period=from:0 till:400
+TimeAxis=orientation:horizontal
+
+Colors=
+ id:gray value:gray(0.5)
+ id:line1 value:gray(0.9)
+ id:line2 value:gray(0.7)
+
+ScaleMajor=unit:year increment:50 start:0 gridcolor:line2
+ScaleMinor=unit:year increment:50 start:0 gridcolor:line1
+
+BarData=
+ bar:1996 text:1996
+ bar:1997 text:1997
+ bar:1998 text:1998
+ bar:1999 text:1999
+ bar:2000 text:2000
+ bar:2001 text:2001
+ bar:2002 text:2002
+ bar:2003 text:2003
+ bar:2004 text:2004
+ bar:2005 text:2005 
+ bar:2006 text:2006
+ bar:2007 text:2007
+ bar:2008 text:2008
+ bar:2009 text:2009
+ bar:2010 text:2010
+ bar:2011 text:2011
+ bar:2012 text:2012
+ bar:2013 text:2013
+ bar:2014 text:2014
+ bar:2015 text:2015
+ bar:2016 text:2016
+ bar:2017 text:2017
+
+PlotData=
+ color:tan1 width:10
+
+ 
+ 
+ bar:1996 from:start till:70.90000 text:70.9 million
+ bar:1997 from:start till:80.60000 text:80.6 million
+ bar:1998 from:start till:92.90000 text:92.9 million
+ bar:1999 from:start till:113.500000 text:113.5 million
+ bar:2000 from:start till:134.700000 text:134.7 million
+ bar:2001 from:start till:128.10000 text:128.1 million
+ bar:2002 from:start till:132.40000 text:132.4 million
+ bar:2003 from:start till:168.90000 text:168.9 million
+ bar:2004 from:start till:189.0000 text:189 million
+ bar:2005 from:start till:218.50000 text:218.5 million
+ bar:2006 from:start till:239.4 text:239.4 million
+ bar:2007 from:start till:271.20000 text:271.2 million
+ bar:2008 from:start till:290.80000 text:290.8 million
+ bar:2009 from:start till:308.30000 text:308.3 million
+ bar:2010 from:start till:350.90000 text:350.9 million
+ bar:2011 from:start till:365.400000 text:365.4 million
+ bar:2012 from:start till:351.100000 text:351.1 million
+ bar:2013 from:start till:316.50000 text:316.5 million
+ bar:2014 from:start till:313.70000 text:313.7 million
+ bar:2015 from:start till:287.70000 text:287.7 million
+ bar:2016 from:start till:269.70000 text:269.7 million
+ bar:2017 from:start till:259.40000 text:259.4 million
+
+TextData=
+ pos:(70,20) textcolor:gray fontsize:S text:Worldwide PC sales 
+TextData=
+ pos:(70,5) textcolor:gray fontsize:S text:(1996–2017)
+</timeline></div>
+
+{{quote|The "brain" [computer] may one day come down to our level [of the common people] and help with our income-tax and book-keeping calculations. But this is speculation and there is no sign of it so far.|British newspaper ''The Star'' in a June 1949 news article about the [[EDSAC]] computer, long before the era of the personal computers.<ref>{{cite web |url=https://www.dcs.warwick.ac.uk/~edsac/Software/EdsacTG.pdf |title=Tutorial Guide to the EDSAC Simulator |work=The EDSAC Replica Project }}</ref>}}
+
+In the [[history of computing]], early experimental machines could be operated by a single attendant. For example, [[ENIAC]] which became operational in 1946 could be run by a single, albeit highly trained, person.<ref>Gene Carter, Wow! What a Ride!: A Quick Trip Through Early Semiconductor and Personal Computer Development, Lulu Press – 2016, chapter 8</ref> This mode pre-dated the batch programming, or time-sharing modes with multiple users connected through [[computer terminal|terminals]] to mainframe computers. Computers intended for laboratory, instrumentation, or engineering purposes were built, and could be operated by one person in an interactive fashion. Examples include such systems as the [[Bendix G15]] and [[LGP-30]] of 1956, and the Soviet [[MIR (computer)|MIR]] series of computers developed from 1965 to 1969.{{fact|date=February 2020}}  By the early 1970s, people in academic or research institutions had the opportunity for single-person use of a [[LINC|computer system]] in interactive mode for extended durations, although these systems would still have been too expensive to be owned by a single person. 
+
+The personal computer was made possible by major advances in [[semiconductor]] technology. In 1959, the [[silicon]] [[integrated circuit]] (IC) chip was developed by [[Robert Noyce]] at [[Fairchild Semiconductor]],<ref>{{Cite web|url=https://www.computerhistory.org/siliconengine/practical-monolithic-integrated-circuit-concept-patented/|title=1959: Practical Monolithic Integrated Circuit Concept Patented &#124; The Silicon Engine &#124; Computer History Museum|website=www.computerhistory.org}}</ref> and the [[metal-oxide-semiconductor]] (MOS) transistor was developed by [[Mohamed Atalla]] and [[Dawon Kahng]] at [[Bell Labs]].<ref>{{Cite web|url=https://www.computerhistory.org/siliconengine/metal-oxide-semiconductor-mos-transistor-demonstrated/|title=1960: Metal Oxide Semiconductor (MOS) Transistor Demonstrated &#124; The Silicon Engine &#124; Computer History Museum|website=www.computerhistory.org}}</ref> The MOS integrated circuit was commercialized by [[RCA]] in 1964,<ref>{{Cite web|url=https://www.computerhistory.org/siliconengine/first-commercial-mos-ic-introduced/|title=1964: First Commercial MOS IC Introduced &#124; The Silicon Engine &#124; Computer History Museum|website=www.computerhistory.org}}</ref> and then the [[silicon-gate]] MOS integrated circuit was developed by [[Federico Faggin]] at Fairchild in 1968.<ref>{{Cite web|url=https://www.computerhistory.org/siliconengine/silicon-gate-technology-developed-for-ics/|title=1968: Silicon Gate Technology Developed for ICs &#124; The Silicon Engine &#124; Computer History Museum|website=www.computerhistory.org}}</ref> Faggin later used silicon-gate MOS technology to develop the first single-chip [[microprocessor]], the [[Intel 4004]], in 1971.<ref>{{Cite web|url=https://www.computerhistory.org/siliconengine/microprocessor-integrates-cpu-function-onto-a-single-chip/|title=1971: Microprocessor Integrates CPU Function onto a Single Chip &#124; The Silicon Engine &#124; Computer History Museum|website=www.computerhistory.org}}</ref> The first [[microcomputer]]s, based on microprocessors, were developed during the early 1970s. Widespread commercial availability of microprocessors, from the mid-1970s onwards, made computers cheap enough for small businesses and individuals to own.
+
+In what was later to be called [[the Mother of All Demos]], [[SRI International|SRI]] researcher [[Douglas Engelbart]] in 1968 gave a preview of features that would later become staples of personal computers: [[e-mail]], [[hypertext]], [[word processing]], [[video conferencing]], and the [[computer mouse|mouse]]. The demonstration required technical support staff and a mainframe time-sharing computer that were far too costly for individual business use at the time.
+
+Early personal computers{{mdashb}}generally called microcomputers{{mdashb}}were often sold in a [[Electronic kit|kit]] form and in limited volumes, and were of interest mostly to hobbyists and technicians. Minimal programming was done with toggle switches to enter instructions, and output was provided by [[front panel]] lamps. Practical use required adding peripherals such as keyboards, [[computer display]]s, [[disk drive]]s, and [[printer (computing)|printer]]s.
+
+[[Micral|Micral N]] was the earliest commercial, non-kit microcomputer based on a microprocessor, the [[Intel 8008]]. It was built starting in 1972, and a few hundred units were sold. This had been preceded by the [[Datapoint 2200]] in 1970, for which the Intel 8008 had been commissioned, though not accepted for use. The CPU design implemented in the Datapoint 2200 became the basis for [[x86]] [[instruction set architecture|architecture]]<ref name="Weidendorfer 2011">{{Cite book|title=Encyclopedia of Parallel Computing, Intel Core Microarchitecture, x86 Processor Family| last=Weidendorfer|first=Josef|publisher=Springer|year=2011| isbn=978-0-387-09765-7|location=Boston, MA}}</ref> used in the original [[IBM PC]] and its descendants.<ref>{{cite web|url=http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9111341|title=Forgotten PC history: The true origins of the personal computer|date=22 August 2008|accessdate=9 January 2017|url-status=dead|archive-url=https://web.archive.org/web/20080822130226/http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9111341|archive-date=22 August 2008}}</ref>
+
+In 1973, the [[IBM]] Los Gatos Scientific Center developed a [[portable computer]] prototype called SCAMP (Special Computer APL Machine Portable) based on the [[IBM PALM processor|IBM PALM]] processor with a [[Philips]] compact cassette drive, small [[Cathode ray tube|CRT]], and full function keyboard. SCAMP emulated an [[IBM 1130]] minicomputer in order to run APL/1130.<ref name="www03.ibm.com">{{cite web|url=http://www03.ibm.com/ibm/history/exhibits/pc/pc_1.html|title=IBM Archives|accessdate=9 January 2017|url-status=dead|archive-url=https://archive.is/20030210111221/http://www03.ibm.com/ibm/history/exhibits/pc/pc_1.html|archive-date=10 February 2003}}</ref> In 1973, [[APL (programming language)|APL]] was generally available only on mainframe computers, and most desktop sized microcomputers such as the [[Wang 2200]] or [[HP 9800 series|HP 9800]] offered only [[BASIC]]. Because SCAMP was the first to emulate APL/1130 performance on a portable, single user computer, ''[[PC Magazine]]'' in 1983 designated SCAMP a "revolutionary concept" and "the world's first personal computer".<ref name="www03.ibm.com" /><ref>''PC Magazine'', Vol. 2, No. 6, November 1983, ‘'SCAMP: The Missing Link in the PC's Past?‘’</ref> This seminal, single user [[portable computer]] now resides in the [[Smithsonian Institution]], Washington, D.C.. Successful demonstrations of the 1973 SCAMP prototype led to the [[IBM 5100]] portable microcomputer launched in 1975 with the ability to be programmed in both APL and BASIC for engineers, analysts, statisticians, and other business problem-solvers. In the late 1960s such a machine would have been nearly as large as two desks and would have weighed about half a ton.<ref name="www03.ibm.com" />
+
+Another desktop portable APL machine, the [[MCM/70]], was demonstrated in 1973 and shipped in 1974.  It used the [[Intel 8008]] processor.
+
+A seminal step in personal computing was the 1973 [[Xerox Alto]], developed at [[Xerox]]'s [[PARC (company)|Palo Alto Research Center (PARC)]]. It had a graphical user interface ([[GUI]]) which later served as inspiration for Apple's [[Macintosh]], and Microsoft's [[Windows]] operating system. The Alto was a demonstration project, not commercialized, as the parts were too expensive to be affordable.<ref name="auto">Roy A. Allan, A Bibliography of the Personal Computer [electronic resource]: the Books and Periodical Articles, Allan Publishing – 2006, p.&nbsp;73<!--https://www.alibris.com/A-Bibliography-of-the-Personal-Computer-The-Books-and-Periodical-Articles-Roy-A-Allan/book/8851711--></ref>
+
+Also in 1973 [[HP 9800 series|Hewlett Packard]] introduced fully [[BASIC]] programmable microcomputers that fit entirely on top of a desk, including a keyboard, a small one-line display, and printer. The [[Wang 2200]] microcomputer of 1973 had a full-size [[cathode ray tube]] (CRT) and cassette tape storage.<ref>{{cite web|title=The Wang 2200|url=http://www.wang2200.org/#2200|work=Wang2200.org|publisher=Jim Battle|accessdate=November 13, 2013|author=Jim Battle|date=August 9, 2008}}</ref> These were generally expensive specialized computers sold for business or scientific uses.
+
+[[File:Altair 8800 Computer.jpg|thumb|left|Altair 8800 computer]]
+
+1974 saw the introduction of what is considered by many to be the first true "personal computer", the [[Altair 8800]] created by [[Micro Instrumentation and Telemetry Systems|Micro Instrumentation and Telemetry Systems (MITS)]].<ref>Roy A. Allan, A Bibliography of the Personal Computer [electronic resource] : the Books and Periodical Articles, Allan Publishing – 2006, p. 80</ref><ref>''The New York Times Guide to Essential Knowledge, Second Edition: A Desk Reference for the Curious Mind'' (2007). Macmillan, p. 448.</ref> Based on the 8-bit [[Intel 8080]] Microprocessor,<ref name = "73 Magazine">{{cite magazine | last = Green | first = Wayne | title = Believe Me – I'm No Expert! |magazine=73 Magazine | issue = 184 | page =89 | publisher = 73, Inc | location = Peterborough, NH | date = February 1976}} Wayne Green visited MITS in August 1975 and interviewed Ed Roberts. Article has several paragraphs on the design of the Altair 8800.</ref> the Altair is widely recognized as the spark that ignited the [[microcomputer revolution]]<ref>{{cite journal|last=Garland|first=Harry|title=Design Innovations in Personal Computers|journal=Computer|quote=There is little question that the current enthusiasm in personal computing was catalyzed by the introduction of the MITS Altair computer kit in January 1975.|date=March 1977|volume=10|issue=3|page=24 |url=http://www.computer.org/csdl/mags/co/1977/03/01646402-abs.html|doi=10.1109/c-m.1977.217669|s2cid=32243439}}</ref> as the first commercially successful personal computer.<ref>Dorf, Richard C., ed. ''The engineering handbook''. CRC Press, 2004.</ref> The [[computer bus]] designed for the Altair was to become a [[de facto standard|''de facto'' standard]] in the form of the [[S-100 bus]], and the first programming language for the machine was Microsoft's founding product, [[Altair BASIC]].<ref name="Altair announcement">{{cite book | last = Ceruzzi | first = Paul E. | title = A History of Modern Computing | publisher = MIT Press | year = 2003 | location = Cambridge, MA | page = [https://archive.org/details/historyofmodernc00ceru_0/page/226 226] | isbn = 978-0-262-53203-7 | url = https://archive.org/details/historyofmodernc00ceru_0/page/226 }} "This announcement [Altair 8800] ranks with IBM's announcement of the System/360 a decade earlier as one of the most significant in the history of computing."</ref><ref name="Altair Impact">{{cite book | last1 = Freiberger | first1 = Paul | author-link1 = Paul Freiberger | first2 = Michael | last2 = Swaine | author-link2 = Michael Swaine (technical author) | title = Fire in the Valley: The Making of the Personal Computer | publisher = McGraw-Hill | year = 2000 | location = New York | isbn = 978-0-07-135892-7 | url = https://archive.org/details/fireinvalleymaki00frei_0 }}</ref>
+
+In 1976, [[Steve Jobs]] and [[Steve Wozniak]] sold the [[Apple I]] computer circuit board, which was fully prepared and contained about 30 chips. The Apple I computer differed from the other kit-style hobby computers of era. At the request of [[Paul Terrell]], owner of the [[Byte Shop]], Jobs and Wozniak were given their first purchase order, for 50 Apple I computers, only if the computers were assembled and tested and not a kit computer. Terrell wanted to have computers to sell to a wide range of users, not just experienced electronics hobbyists who had the soldering skills to assemble a computer kit. The [[Apple I]] as delivered was still technically a kit computer, as it did not have a power supply, case, or keyboard when it was delivered to the Byte Shop.
+[[File:Trinity77.jpg|thumb|412x412px|The three personal computers referred to by Byte Magazine as the "1977 Trinity" of home computing: The Commodore PET, the Apple II, and the TRS-80 Model I.]]
+The first successfully mass marketed personal computer to be announced was the [[Commodore PET]] after being revealed in January 1977. However, it was back-ordered and not available until later that year.<ref name="Byte Feb 1978">{{Citation | author = What's New |date=February 1978 | title = Commodore Ships First PET Computers | journal = BYTE | volume = 3 | issue = 2 | page = 190 }} Commodore press release. "The PET computer made its debut recently as the first 100 units were shipped to waiting customers in mid-October 1977."</ref> Three months later (April), the [[Apple II series|Apple II]] (usually referred to as the "Apple") was announced with the first units being shipped 10 June 1977,<ref name="Apple II History">{{cite web|title=Apple II History|url=http://apple2history.org/history/ah02/#03|publisher=Apple II History|accessdate=May 8, 2014|date=2008-11-04}}</ref> and the [[TRS-80]] from [[Tandy Corporation]] / [[Tandy Radio Shack]] following in August 1977, which sold over 100,000 units during its lifetime. Together, these 3 machines were referred to as the "1977 trinity". Mass-market, ready-assembled computers had arrived, and allowed a wider range of people to use computers, focusing more on software applications and less on development of the processor hardware.
+
+In 1977 the Heath company introduced personal computer kits known as [[Heathkit]]s, starting with the [[Heathkit H8]], followed by the Heathkit H89 in late 1979. With the purchase of the Heathkit H8 you would obtain the chassis and CPU card to assemble yourself, additional hardware such as the H8-1 memory board that contained 4k of RAM could also be purchased in order to run software. The Heathkit H11 model was released in 1978 and was one of the first 16-bit personal computers, however due to its high retail cost of $1,295 was discontinued in 1982.<ref>{{Cite web|url=http://www.classiccmp.org/hp/hk/heathkit.htm|title=Joe's Heathkit Computer Catalog Page|website=www.classiccmp.org|access-date=2019-03-07}}</ref><ref>{{Cite web|url=https://vintagecomputer.com/heathkit-h8.html|title=Heathkit H8|website=vintagecomputer.com|access-date=2019-03-04}}</ref><ref>{{Cite web|url=http://oldcomputers.net/heathkit-h89.html|title=Heathkit H89 computer|website=oldcomputers.net|access-date=2019-03-04}}</ref>
+
+[[File:IBM PC 5150.jpg|thumb|[[IBM 5150]], released in 1981]]
+[[File:PMD 85-1.jpg|thumb|The 8-bit [[PMD 85]] personal computer produced in 1985–1990 by the [[Tesla (Czechoslovak company)|Tesla]] company in the former socialist [[Czechoslovakia]]]]
+
+During the early 1980s, [[home computer]]s were further developed for household use, with software for personal productivity, programming and games. They typically could be used with a television already in the home as the computer display, with low-detail blocky graphics and a limited color range, and text about 40 characters wide by 25 characters tall. [[Sinclair Research]],<ref name="Sinclair Research">{{cite web |url=http://www.sinclairzx.com/about-us.html |title=Sinclair Research website |accessdate=2014-08-06 |url-status=dead |archive-url=https://web.archive.org/web/20141214131822/http://www.sinclairzx.com/about-us.html |archive-date=2014-12-14 }}</ref> a UK company, produced the ZX Series{{mdashb}}the [[ZX80]] (1980), [[ZX81]] (1981), and the [[ZX Spectrum]]; the latter was introduced in 1982, and totaled 8 million unit sold. Following came the [[Commodore 64]], totaled 17 million units sold <ref name="Reimer1">{{cite web |url=http://www.jeremyreimer.com/total_share.html |title=Personal Computer Market Share: 1975–2004 |date=November 2, 2009 |last=Reimer |first=Jeremy |accessdate=2009-07-17 |url-status=dead |archive-url=https://web.archive.org/web/20120606003537/http://www.jeremyreimer.com/total_share.html |archive-date=June 6, 2012 }}</ref><ref name="Reimer2">{{cite web |url=http://jeremyreimer.com/monarch/m-item?i=137 |title=Personal Computer Market Share: 1975–2004 |date=December 2, 2012 |last=Reimer |first=Jeremy |accessdate=2013-02-09}}</ref> and the [[Amstrad CPC]] series (464–6128).
+
+In the same year, the [[NEC PC-9801|NEC PC-98]] was introduced, which was a very popular personal computer that sold in more than 18 million units.<ref>{{cite journal|title=Computing Japan|journal=Computing Japan|year=1999|volume=54–59 |url=https://books.google.com/books?id=oP61AAAAIAAJ|accessdate=February 6, 2012|page=18|quote=...its venerable PC 9800 series, which has sold more than 18 million units over the years, and is the reason why NEC has been the number one PC vendor in Japan for as long as anyone can remember.}}</ref> Another famous personal computer, the revolutionary [[Amiga 1000]], was unveiled by [[Commodore International|Commodore]] on July 23, 1985. The Amiga 1000 featured a multitasking, windowing operating system, color graphics with a 4096-color palette, stereo sound, Motorola 68000 CPU, 256&nbsp;KB RAM, and 880&nbsp;KB 3.5-inch disk drive, for US$1,295.<ref>{{cite web|last=Polsson|first=Ken|title=Chronology of Amiga Computers|url=http://pctimeline.info/amiga/|accessdate=May 9, 2014|archive-url=https://web.archive.org/web/20140402200515/http://pctimeline.info/amiga/|archive-date=April 2, 2014|url-status=dead}}</ref>
+
+Somewhat larger and more expensive systems were aimed at office and small business use. These often featured 80-column text displays but might not have had graphics or sound capabilities. These microprocessor based systems were still less costly than time-shared mainframes or minicomputers.
+
+[[Workstation]]s were characterized by high-performance processors and graphics displays, with large-capacity local disk storage, networking capability, and running under a [[Computer multitasking|multitasking operating system]]. Eventually, due to the [[influence of the IBM PC on the personal computer market]], personal computers and home computers lost any technical distinction. Business computers acquired color graphics capability and sound, and home computers and game systems users used the same processors and operating systems as office workers. Mass-market computers had graphics capabilities and memory comparable to dedicated workstations of a few years before. Even local area networking, originally a way to allow business computers to share expensive mass storage and peripherals, became a standard feature of personal computers used at home.
+
+IBM's first PC was introduced Aug. 12, 1981.<ref>{{cite newspaper  
+   |newspaper=[[Information Week]] |date=August 5, 1991
+   |title=A Decade of Personal Computing
+   |page=24}}</ref>
+
+In 1982 "The Computer" was named [[Time Person of the Year|Machine of the Year]] by ''[[Time (magazine)|Time]]'' magazine. In the 2010s, several companies such as Hewlett-Packard and Sony sold off their PC and laptop divisions. As a result, the personal computer was declared dead several times during this period.<ref>{{cite web|last=Angler|first=Martin|title=Obituary: The PC is Dead|url=http://jackedin.martinangler.com/2014/02/obituary-personal-computer/|publisher=JACKED IN|accessdate=February 12, 2014|archive-url=https://web.archive.org/web/20140223112327/http://jackedin.martinangler.com/2014/02/obituary-personal-computer/|archive-date=February 23, 2014|url-status=dead|df=mdy-all}}</ref>
+
+An increasingly important set of uses for personal computers relied on the ability of the computer to communicate with other computer systems, allowing interchange of information. Experimental public access to a shared mainframe computer system was demonstrated as early as 1973 in the [[Community Memory]] project, but [[bulletin board system]]s and [[online service provider]]s became more commonly available after 1978. Commercial [[Internet]] service providers emerged in the last 1980's, giving public access to the rapidly growing network.
+
+In 1991, the [[World Wide Web]] was made available for public use. The combination of powerful personal computers with high resolution graphics and sound, with the infrastructure provided by the Internet, and the standardization of access methods of the [[Web browser]]s, established the foundation for a significant fraction of modern life, from bus time tables through unlimited distribution of free [[pornography]] through to online user-edited encyclopedias.
+
+== Types ==
+
+=== Stationary ===
+
+==== Workstation ====
+[[File:SPARCstation 1.jpg|right|thumb|Sun [[SPARCstation]]&nbsp;1+ from the early 1990s, with a 25&nbsp;MHz [[RISC]] processor]] {{Main|Workstation}}
+
+A workstation is a high-end personal computer designed for technical, mathematical, or scientific applications. Intended primarily to be used by one person at a time, they are commonly connected to a [[local area network]] and run multi-user [[operating system]]s. Workstations are used for tasks such as [[computer-aided design]], drafting and modeling, computation-intensive scientific and engineering calculations, image processing, [[architecture|architectural]] modeling, and [[computer graphics]] for animation and motion picture visual effects.<ref>{{cite encyclopedia |last=Ralston | first=Anthony |author2=Reilly, Edwin | encyclopedia=Encyclopedia of Computer Science | title=Workstation | edition=Third | year=1993 | publisher=Van Nostrand Reinhold | location=New York | isbn=978-0-442-27679-9}}</ref>
+
+==== Desktop computer ====
+{{Main|Desktop computer}}
+[[File:Desktop personal computer.jpg|thumb|right|A [[Dell OptiPlex]] desktop computer]]
+
+Before the widespread use of PCs, a computer that could fit on a [[desk]] was remarkably small, leading to the "desktop" nomenclature. More recently, the phrase usually indicates a particular style of [[computer case]]. Desktop computers come in a variety of styles ranging from large vertical [[tower case]]s to small models which can be tucked behind or rest directly beneath (and support) [[LCD monitor]]s.
+
+While the term "desktop" often refers to a computer with a vertically aligned computer [[tower case]], these varieties usually rest on the ground or underneath desks. Despite this seeming contradiction, the term "desktop" does typically refer to these vertical tower cases as well as the horizontally aligned models which are designed to literally rest on top of desks and are therefore more appropriate to the "desktop" term, although both types qualify for this "desktop" label in most practical situations aside from certain physical arrangement differences. Both styles of these computer cases hold the systems hardware components such as the motherboard, processor chip, other internal operating parts. Desktop computers have an external monitor with a display screen and an external keyboard, which are plugged into [[HDMI]] and USB ports on the back of the computer case. Desktop computers are popular for home and business computing applications as they leave space on the desk for [[Multi-monitor|multiple monitors]].
+
+A [[gaming computer]] is a desktop computer that generally comprises a high-performance [[video card]], processor and memory, to improve the speed and responsiveness of demanding [[PC game|video games]].<ref>{{cite web |last1=Houghton |first1=Andy |title=Evolution of Custom Gaming PCs: What Really Made the Difference |url=http://www.digitalstorm.com/unlocked/evolution-of-custom-gaming-pcs-what-really-made-the-difference-idnum20/ |website=digitalstorm.com |accessdate=28 September 2015}}</ref>
+
+An [[all-in-one computer]] (also known as single-unit PCs) is a desktop computer that combines the monitor and processor within a single unit. A separate keyboard and mouse are standard input devices, with some monitors including [[touchscreen]] capability. The processor and other working components are typically reduced in size relative to standard desktops, located behind the monitor, and configured similarly to laptops.
+
+A [[Nettop (computer)|nettops]] computer was introduced by [[Intel]] in February 2008, characterized by low cost and lean functionality. These were intended to be used with an Internet connection to run [[World Wide Web|Web]] browsers and Internet applications.
+
+[[File:Home theater PC front with keyboard.jpg|right|thumb|An [[Antec]] Fusion V2 [[home theater PC]], with a keyboard placed on top of it]]
+
+A [[Home theater PC]] (HTPC) combines the functions of a personal computer and a [[digital video recorder]]. It is connected to a [[TV set]] or an appropriately sized [[computer display]], and is often used as a digital photo viewer, music and video player, TV receiver, and digital video recorder. HTPCs are also referred to as media center systems or [[media server]]s. The goal is to combine many or all components of a [[home cinema|home theater]] setup into one box.  HTPCs can also connect to services providing on-demand movies and TV shows. HTPCs can be purchased pre-configured with the required hardware and software needed to add television programming to the PC, or can be assembled from components.
+
+[[Keyboard computer]]s are computers inside of keyboards. Examples include the [[Commodore 64]], [[MSX]], [[Amstrad CPC]], [[Atari ST]] and the [[ZX spectrum]].
+
+=== Portable ===
+The potential utility of portable computers was apparent early on.  [[Alan Kay]] described the [[Dynabook]] in 1972, but no hardware was developed.  The [[Xerox NoteTaker]] was produced in a very small experimental batch around 1978. In 1975, the [[IBM 5100]] could be fit into a transport case, making it a portable computer, but it weighed about 50 pounds.
+
+Before the introduction of the IBM PC, portable computers consisting of a processor, display, disk drives and keyboard, in a suit-case style portable housing, allowed users to bring a computer home from the office or to take notes at a classroom. Examples include the [[Osborne 1]] and [[Kaypro]]; and the [[Commodore SX-64]].  These machines were AC powered and included a small CRT display screen. The form factor was intended to allow these systems to be taken on board an airplane as carry-on baggage, though their high power demand meant that they could not be used in flight. The integrated CRT display made for a relatively heavy package, but these machines were more portable than their contemporary desktop equals. Some models had standard or optional connections to drive an external video monitor, allowing a larger screen or use with video projectors.
+
+IBM PC-compatible suitcase format computers became available soon after the introduction of the PC, with the [[Compaq Portable]] being a leading example of the type. Later models included a [[hard drive]] to give roughly equivalent performance to contemporary desk top computers.
+
+The development of thin plasma display and LCD screens permitted a somewhat smaller form factor, called the "lunchbox" computer. The screen formed one side of the enclosure, with a detachable keyboard and one or two half-height floppy disk drives, mounted facing the ends of the computer.  Some variations included a battery, allowing operation away from AC outlets.<ref name="SM04">Scott Mueller, ''Upgrading and Repairing Laptops'', Que Publishing, 2004, {{ISBN|0789728001}}, pp. 18–21</ref>
+
+Notebook computers such as the [[TRS-80 Model 100]] and [[Epson HX-20]] had roughly the plan dimensions of a sheet of typing paper ([[Paper size|ANSI A or ISO A4]]). These machines had a keyboard with slightly reduced dimensions compared to a desktop system, and a fixed LCD display screen coplanar with the keyboard.  These displays were usually small, with 8 to 16 lines of text, sometimes only 40 columns line length.  However, these machines could operate for extended times on disposable or rechargeable batteries. Although they did not usually include internal disk drives, this form factor often included a [[modem]] for telephone communication and often had provisions for external cassette or disk storage. Later, clam-shell format laptop computers with similar small plan dimensions were also called "notebooks".
+
+==== Laptop ====
+{{Main|Laptop}}
+[[File:MSI laptop with English Wikipedia screenshot 20100614.jpg|thumb|A laptop computer]]
+
+A [[laptop]] computer is designed for portability with "[[Flip (form)|clamshell]]" design, where the keyboard and computer components are on one panel, with a hinged second panel containing a flat display screen. Closing the laptop protects the screen and keyboard during transportation.  Laptops generally have a rechargeable [[battery (electricity)|battery]], enhancing their portability.  To save power, weight and space, laptop graphics cards are in many cases integrated into the CPU or chipset and use system RAM, resulting in reduced graphics performance when compared to a desktop machine. For this reason, desktop computers are usually preferred over laptops for [[Video game|gaming]] purposes.
+ 
+Unlike desktop computers, only minor internal upgrades (such as memory and hard disk drive) are feasible owing to the limited space and power available. Laptops have the same input and output ports as desktops, for connecting to external displays, mice, cameras, storage devices and keyboards. Laptops are also a little more expensive compared to desktops, as the miniaturized components for laptops themselves are expensive.
+
+[[File:Acer aspire 4930G.jpg|thumb|An Acer Aspire desktop replacement laptop]]
+
+A [[desktop replacement computer]] is a portable computer that provides the full capabilities of a [[desktop computer]]. Such computers are currently large laptops. This class of computers usually includes more powerful components and a larger display than generally found in smaller portable computers, and may have limited battery capacity or no battery.<ref>[http://www.news.com/2100-1040-979763.html Desktop notebooks stake their claim], accessed October 19, 2007</ref>
+
+[[File:HP 2133 Mini-Note PC (front view compare with pencil).jpg|thumb|An [[Hewlett-Packard|HP]] [[netbook]] ]]
+
+[[Netbook]]s, also called mini notebooks or [[subnotebook]]s, were a subgroup of laptops<ref>{{Cite web|url=https://www.zdnet.com/article/the-pc-was-supposed-to-die-a-decade-ago-instead-this-happened/|title=The PC was supposed to die a decade ago. Instead, this happened|first=Ed|last=Bott|website=ZDNet}}</ref><ref name="cnnogg">{{cite news
+  | title = Time to drop the Netbook label
+  | publisher = CNN
+  | author = Erica Ogg
+  | url = http://www.cnn.com/2009/TECH/ptech/08/20/cnet.drop.netbook.label/index.html
+  | date = August 20, 2009}}</ref> suited for general computing tasks and accessing [[web application|web-based applications]].   Initially, the primary defining characteristic of netbooks was the lack of an [[optical disc]] drive,  smaller size, and lower performance than full-size laptops. By mid-2009 netbooks had been offered to users "free of charge", with an extended service contract purchase of a cellular data plan.<ref>{{citation |url=https://www.nytimes.com/2009/04/02/technology/02netbooks.html |title=Light and Cheap, Netbooks Are Poised to Reshape PC Industry |work=The New York Times |date=April 1, 2009 |quote=AT&T announced on Tuesday that customers in Atlanta could get a type of compact PC called a netbook for just 50 US$ if they signed up for an Internet service plan... 'The era of a perfect Internet computer for 99 US$ is coming this year,' said Jen-Hsun Huang, the chief executive of Nvidia, a maker of PC graphics chips that is trying to adapt to the new technological order. |accessdate=2010-10-14}}</ref> [[Ultrabook]]s and [[Chromebook]]s have since filled the gap left by Netbooks. Unlike the generic Netbook name, Ultrabook and Chromebook are technically both specifications by Intel and Google respectively.
+
+==== Tablet ====
+{{Main|Tablet computer}}
+[[File:HP Tablet PC running Windows XP (Tablet PC edition) (2006).jpg|right|upright=0.7|thumb|[[Hewlett-Packard|HP]] Compaq tablet PC with rotating/removable keyboard]]
+
+A [[Tablet computer|tablet]] uses a [[touchscreen]] display, which can be controlled using either a [[stylus]] pen or finger. Some tablets may use a "hybrid" or "convertible" design, offering a keyboard that can either be removed as an attachment, or a screen that can be rotated and folded directly over top the keyboard. Some tablets may use desktop-PC operating system such as Windows or Linux, or may run an operating system designed primarily for tablets.  Many tablet computers have USB ports, to which a keyboard or mouse can be connected.
+
+==== Smartphone ====
+{{Main|Smartphone}}
+[[File:LG G4-2.jpg|thumb|The [[LG G4]], a typical smartphone]]
+[[Smartphone]]s are often similar to [[tablet computer]]s, the difference being that smartphones always have [[cellular frequencies|cellular]] integration. They are generally smaller than tablets, and may not have a slate form factor.
+
+==== Ultra-mobile PC ====
+{{Main|Ultra-mobile PC}}
+[[File:Samsung Q1U UMPC Samsung Q1 Ultra Tablet.jpg|thumb|300px|A [[Samsung Q1]] Ultra UMPC]]
+
+The ultra-mobile PC (UMP) is a small [[tablet computer]].  It was developed by [[Microsoft]], [[Intel]] and [[Samsung Electronics|Samsung]], among others. Current UMPCs typically feature the Windows XP, Windows Vista, Windows&nbsp;7, or Linux [[operating system]], and low-voltage [[Intel Atom]] or [[VIA C7-M]] processors.
+
+==== Pocket PC ====
+{{Main|Pocket PC}}
+[[File:O2xda2i.jpg|thumb|right|upright=0.5|An O<sub>2</sub> pocket PC]]
+
+A pocket PC is a hardware specification for a handheld-sized computer ([[personal digital assistant]], PDA) that runs the [[Microsoft]] [[Windows Mobile]] [[operating system]]. It may have the capability to run an alternative [[operating system]] like [[NetBSD]] or [[Linux]]. Pocket PCs have many of the capabilities of desktop [[IBM PC compatible|PCs]]. Numerous [[software|applications]] are available for handhelds adhering to the Microsoft Pocket PC specification, many of which are [[freeware]]. Microsoft-compliant Pocket PCs can also be used with many other add-ons like [[Global Positioning System|GPS receivers]], [[barcode]] readers, [[RFID]] readers and cameras. In 2007, with the release of Windows Mobile 6, Microsoft dropped the name Pocket PC in favor of a new naming scheme: devices without an integrated phone are called Windows Mobile Classic instead of Pocket PC, while devices with an integrated phone and a touch screen are called Windows Mobile Professional.<ref>[http://www.pocketpcmag.com/_archives/jun07/newwmdev.aspx New Windows Mobile 6 Devices :: Jun/Jul 2007] {{webarchive|url=https://web.archive.org/web/20080304084831/http://www.pocketpcmag.com/_archives/jun07/newwmdev.aspx|date=March 4, 2008}}</ref>
+
+====Palmtop and handheld computers====
+[[Palmtop PC]]s were miniature pocket-sized computers running [[DOS]] that first came about in the late 1980s, typically in a clamshell form factor with a keyboard. Non-x86 based devices were often called palmtop computers, examples being [[Psion Series 3]]. In later years a hardware specification called [[Handheld PC]] was later released by Microsoft that run the [[Windows CE]] operating system.
+
+== Hardware ==
+[[File:Personal computer, exploded 6.svg|thumb|upright=1.35|An [[exploded view]] of a personal computer and peripherals (some of which are optional):
+{{Ordered list
+|[[Image scanner|Scanner]]
+|[[Central processing unit|CPU]] ([[microprocessor]])
+|[[Computer memory|Memory]] ([[Random access memory|RAM]])|[[Expansion card]]s ([[graphics card]]s, etc.)
+
+|[[Power supply unit (computer)|Power supply]]
+|[[Optical disc]] drive
+|[[Storage (memory)|Storage]] ([[hard disk]] or [[SSD]])
+|[[Motherboard]]
+|[[Loudspeaker|Speakers]]
+|[[Computer display|Monitor]]
+|[[System software]]
+|[[Application software]]
+|[[Computer keyboard|Keyboard]]
+|[[Computer mouse|Mouse]]
+|[[External hard disk drive|External hard disk]]
+|[[Computer printer|Printer]]
+}}]]
+{{Main|Personal computer hardware}}
+
+[[Computer hardware]] is a comprehensive term for all physical and tangible parts of a computer, as distinguished from the data it contains or operates on, and the software that provides instructions for the hardware to accomplish tasks. Some sub-systems of a personal computer may contain processors that run a fixed program, or [[firmware]], such as a keyboard controller. Firmware usually is not changed by the end user of the personal computer.
+
+Most 2010s-era computers only require users to plug in the power supply, monitor, and other cables. A typical [[desktop computer]] consists of a [[computer case]] (or "tower"), a metal chassis that holds the [[Computer power supply|power supply]], [[motherboard]], [[hard disk drive]], and often an [[optical disc drive]]. Most towers have empty space where users can add additional components. External devices such as a [[computer monitor]] or [[visual display unit]], [[computer keyboard|keyboard]], and a [[pointing device]] ([[Computer mouse|mouse]]) are usually found in a personal computer.
+
+The [[motherboard]] connects all processor, memory and peripheral devices together. The [[RAM]], graphics card and processor are in most cases mounted directly onto the motherboard. The [[central processing unit]] (microprocessor chip) plugs into a [[CPU socket]], while the memory modules plug into corresponding memory sockets. Some motherboards have the video display adapter, sound and other peripherals integrated onto the motherboard, while others use [[expansion slot]]s for graphics cards, network cards, or other [[Input/output|I/O]] devices.  The graphics card or sound card may employ a [[break out box]] to keep the analog parts away from the [[electromagnetic radiation]] inside the computer case. Disk drives, which provide mass storage, are connected to the motherboard with one cable, and to the power supply through another cable. Usually, disk drives are mounted in the same case as the motherboard; expansion chassis are also made for additional disk storage.
+
+For large amounts of data, a [[tape drive]] can be used or extra hard disks can be put together in an external case. The keyboard and the mouse are external devices plugged into the computer through connectors on an I/O panel on the back of the computer case. The monitor is also connected to the input/output (I/O) panel, either through an onboard port on the motherboard, or a port on the graphics card. Capabilities of the personal computers hardware can sometimes be extended by the addition of [[expansion card]]s connected via an expansion [[computer bus|bus]]. Standard peripheral buses often used for adding expansion cards in personal computers include [[Peripheral Component Interconnect|PCI]], [[PCI Express]] (PCIe), and [[Accelerated Graphics Port|AGP]] (a high-speed PCI bus dedicated to graphics adapters, found in older computers). Most modern personal computers have multiple physical PCI Express expansion slots, with some having PCI slots as well.
+
+A [[peripheral]] is "a device connected to a computer to provide communication (such as input and output) or auxiliary functions (such as additional storage)".<ref>{{Cite web|url=https://www.merriam-webster.com/dictionary/peripheral|title=Definition of PERIPHERAL|website=www.merriam-webster.com|language=en|access-date=2019-03-05}}</ref> Peripherals generally connect to the computer through the use of USB ports or inputs located on the I/O panel. USB [[USB flash drive|Flash Drives]] provide portable storage using flash memory which allows users to access the files stored on the drive on any computer. [[Memory card]]s also provide portable storage for users, commonly used on other electronics such as mobile phones and digital cameras, the information stored on these cards can be accessed using a memory card reader to transfer data between devices. Webcams, which are either built into computer hardware or connected via USB are video cameras that records video in real time to either be saved to the computer or streamed somewhere else over the internet. [[Game controller]]s can be plugged in via USB and can be used as an input device for video games as an alternative to using keyboard and mouse. [[Headphones]] and speakers can be connected via USB or through an auxiliary port (found on I/O panel)  and allow users to listen to audio accessed on their computer, however speakers may also require an additional power source to operate. [[Microphone]]s can be connected through an audio input port on the I/O panel and allow the computer to convert sound into an electrical signal to be used or transmitted by the computer.
+
+== Software ==
+{{Main|Computer software}}
+[[File:LibreOffice 6.0.6.2 Writer.png|alt=|thumb|A screenshot of the [[LibreOffice Writer]] software]]
+Computer software is any kind of [[computer program]], [[Algorithm|procedure]], or documentation that performs some task on a computer system.<ref>{{cite web
+| title = Wordreference.com: WordNet 2.0
+| publisher = Princeton University, Princeton, NJ
+| url = http://www.wordreference.com/definition/software
+| accessdate = 2007-08-19 }}</ref> The term includes [[application software]] such as [[word processor]]s that perform productive tasks for users, [[system software]] such as [[operating system]]s that interface with [[computer hardware]] to provide the necessary services for application software, and [[middleware]] that controls and co-ordinates [[Distributed computing|distributed systems]].
+[[File:GIMP 2.10.jpg|alt=|thumb|A screenshot of [[GIMP]], which is a [[raster graphics editor]].]]
+Software applications are common for [[word processing]], [[Internet]] browsing, [[Internet fax]]ing, [[e-mail]] and other digital messaging, [[multimedia]] playback, playing of [[computer game]], and [[computer programming]]. The user may have significant knowledge of the operating environment and application programs, but is not necessarily interested in programming nor even able to write programs for the computer. Therefore, most [[software]] written primarily for personal computers tends to be designed with simplicity of use, or "[[usability|user-friendliness]]" in mind. However, the [[software industry]] continuously provide a wide range of new products for use in personal computers, targeted at both the expert and the non-expert user.
+
+=== Operating system ===
+{{Main|Operating system}}{{See also|Usage share of operating systems}}
+
+An operating system (OS) manages computer resources and provides programmers with an [[User interface|interface]] used to access those resources. An operating system processes system data and user input, and responds by allocating and managing tasks and internal system resources as a service to users and programs of the system. An operating system performs basic tasks such as controlling and allocating [[Computer data storage|memory]], prioritizing system requests, controlling [[input/output|input and output]] devices, facilitating [[computer networking]], and managing files.
+
+Common contemporary desktop operating systems are [[Microsoft Windows]], [[macOS]], [[Linux]], [[Solaris (operating system)|Solaris]] and [[FreeBSD]]. Windows, macOS, and Linux all have server and personal variants. With the exception of Microsoft Windows, the designs of each of them were inspired by or directly inherited from the [[Unix]] operating system.
+
+Early personal computers used operating systems that supported [[command line]] interaction, using an alphanumeric display and keyboard. The user had to remember a large range of commands to, for example, open a file for editing or to move text from one place to another. Starting in the early 1960s, the advantages of a [[graphical user interface]] began to be explored, but widespread adoption required lower cost graphical display equipment. By 1984, mass-market computer systems using graphical user interfaces were available; by the turn of the 21st century, text-mode operating systems were no longer a significant fraction of the personal computer market.<ref>{{Cite web|url=http://www.linfo.org/gui.html|title=GUI Definition|website=www.linfo.org|access-date=2019-02-22}}</ref>
+
+=== Applications ===
+{{Main|Application software}}
+Generally, a computer user uses application software to carry out a specific task.<ref name="Weik 2000">{{Cite book|title=Computer Science and Communications Dictionary|last=Weik|first=Martin|publisher=Springer|year=2000|isbn=978-0-7923-8425-0|location=Boston, MA}}</ref> [[System software]] supports applications<ref name="Weik 2000"/> and provides common services such as memory management, network connectivity and device drivers, all of which may be used by applications but are not directly of interest to the end user. A simplified [[analogy]] in the world of hardware would be the relationship of an electric light bulb (an application) to an electric power generation plant (a system):<ref>{{Cite web|url=https://www.sciencedaily.com/terms/application_software.htm|title=Application software|website=ScienceDaily|archive-url=https://web.archive.org/web/20150430094836/http://www.sciencedaily.com/terms/application_software.htm|archive-date=2015-04-30|url-status=dead}}</ref> the power plant merely generates electricity, not itself of any real use until harnessed to an application like the electric light that performs a service that benefits the user.
+
+Typical examples of software applications are [[word processor]]s, [[spreadsheet]]s, and [[media player (application software)|media players]]. Multiple applications bundled together as a package are sometimes referred to as an ''application suite''. [[Microsoft Office]] and [[LibreOffice]],<ref>{{Cite book|journal=Kinematic Labs with Mobile Devices|last=Kinser|first=Jason|title=Kinematic Labs with Mobile Devices|publisher=Morgan and Claypool|year=2015|isbn=978-1-6270-5627-4|bibcode=2015klmd.book.....K|doi=10.1088/978-1-6270-5628-1}}</ref> which bundle together a word processor, a spreadsheet, and several other discrete applications, are typical examples.<ref>{{Cite journal|last=Garrison|first=Bruce|date=1999|title=Microsoft Office 2000 software suite|url=http://eds.a.ebscohost.com/eds/pdfviewer/pdfviewer?vid=7&sid=1cabdc8f-1ea0-48a7-879e-072fb3ccd840%40sessionmgr4010|journal=World Communication|pages=105|via=Ebscohost}}</ref> The separate applications in a suite usually have a [[user interface]] that has some commonality making it easier for the user to learn and use each application. Often, they may have some capability to interact with each other in ways beneficial to the user; for example, a spreadsheet might be able to be embedded in a word processor document even though it had been created in the separate spreadsheet application.
+
+[[End-user development]] tailors systems to meet the user's specific needs. User-written software include spreadsheet templates, word processor macros, scientific simulations, graphics and animation scripts; even email filters are a kind of user software. Users create this software themselves and often overlook how important it is.
+
+=== Gaming ===
+[[PC gaming]] is popular among the high-end PC market. According to an April 2018 market analysis done by ''Newzoo'', PC gaming has fallen behind both console and mobile gaming in terms of market share sitting at a 24% share of the entire market. The market for PC gaming still continues to grow and is expected to generate $32.3 billion in revenue in the year 2021.<ref>{{Cite web|url=https://newzoo.com/insights/articles/global-games-market-reaches-137-9-billion-in-2018-mobile-games-take-half/|title=Global Games Market Revenues 2018 {{!}} Per Region & Segment|website=Newzoo|access-date=2019-04-25}}</ref> PC gaming is at the forefront of competitive gaming, known as [[esports]], with games such as ''[[Roblox]]'' and ''[[Minecraft]]'' leading the industry that is suspected to surpass a trillion dollars in revenue in 2019.<ref>{{Cite web|url=https://www.gamesindustry.biz/articles/2019-02-12-newzoo-global-esports-market-will-exceed-USD1-billion-in-2019|title=Newzoo: Global esports market will exceed $1 billion in 2019|website=GamesIndustry.biz|language=en|access-date=2019-04-25}}</ref>
+
+==Sales==
+===Market share===
+{{See also|Market share of personal computer vendors}}
+[[File:Personal computers (million) ITU.png|thumb|Personal computers worldwide in million distinguished by developed and developing world]]
+
+In 2001, 125 million personal computers were shipped in comparison to 48,000 in 1977.<ref>{{cite web|last=Kanellos|first=Michael|title=PCs: More than 1 billion served|url=http://news.cnet.com/2100-1040-940713.html|publisher=CNET News|accessdate=August 9, 2001}}</ref> More than 500 million personal computers were in use in 2002 and one [[1,000,000,000 (number)|billion]] personal computers had been sold worldwide from the mid-1970s up to this time. Of the latter figure, 75% were professional or work related, while the rest were sold for personal or home use. About 81.5% of personal computers shipped had been [[desktop computer]]s, 16.4% [[laptop]]s and 2.1% [[Server (computing)|servers]]. The United States had received 38.8% (394&nbsp;million) of the computers shipped, Europe 25% and 11.7% had gone to the Asia-Pacific region, the fastest-growing market as of 2002. The second billion was expected to be sold by 2008.<ref name="cnet">{{cite news|last=Kanellos |first=Michael |url=http://news.cnet.com/2100-1040-940713.html |title=personal computers: More than 1 billion served |publisher=[[CNET News]] |date=June 30, 2002 |accessdate=2010-10-14}}</ref> Almost half of all households in [[Western Europe]] had a personal computer and a computer could be found in 40% of homes in United Kingdom, compared with only 13% in 1985.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/sci/tech/2077986.stm |title=Computers reach one billion mark |publisher=BBC News |date=July 1, 2002 |accessdate=2010-10-14}}</ref>
+
+The global personal computer shipments were 350.9&nbsp;million units in 2010,<ref name="cp2011-09-12">[http://www.gmanews.tv/story/210464/global-pc-shipments-grew-138-percent-in-2010-gartner-study Global PC shipments grew 13.8 percent in 2010 – Gartner study], Jan 13, 2011, retrieved at September 12, 2011</ref>
+308.3&nbsp;million units in 2009<ref name="sn2011-09-12">[http://itmanagement.earthweb.com/mowi/article.php/3884641/Laptop-Sales-Soaring-Amid-Wider-PC-Growth-Gartner.htm Laptop Sales Soaring Amid Wider PC Growth: Gartner], May 27, 2010, Andy Patrizio, earthweb.com, retrieved at September 12, 2011</ref>
+and 302.2&nbsp;million units in 2008.<ref name="seo2011-09-12">[http://www.zdnet.com/blog/itfacts/worldwide-pc-shipments-in-2008/15672 Worldwide PC Shipments in 2008], March 16, 2009, ZDNet, retrieved at September 12, 2011</ref><ref name="set2011-09-12">[http://www.internetnews.com/hardware/article.php/3796381/PC+Sales+Up+for+2008+but+Barely.htm PC Sales Up for 2008, but Barely], January 14, 2009, Andy Patrizio, internetnews.com, retrieved at September 12, 2011</ref>
+The shipments were 264 million units in the year 2007, according to [[iSuppli]],<ref name="cw2009-01-13">{{citation |url=http://www.pcworld.com/article/133102/isuppli_raises_2007_computer_sales_forecast.html |title=ISuppli Raises 2007 Computer Sales Forecast |publisher=pcworld.com |accessdate=January 13, 2009|date=2007-06-19 }}</ref> up 11.2% from 239 million in 2006.<ref name="mw2009-01-13">{{citation |url=http://www.macworld.co.uk/business/news/index.cfm?newsid=18326 |title=iSuppli raises 2007 computer sales forecast |publisher=[[Macworld UK]] |accessdate=January 13, 2009}}</ref> In 2004, the global shipments were 183 million units, an 11.6% increase over 2003.<ref name="nf2009-01-13">{{citation |url=http://www.newsfactor.com/story.xhtml?story_id=30526&full_skip=1 |title=Global PC Sales Leveling Off |publisher=newsfactor.com |accessdate=January 13, 2009 |archive-url=https://web.archive.org/web/20110614173506/http://www.newsfactor.com/story.xhtml?story_id=30526&full_skip=1 |archive-date=June 14, 2011 |url-status=dead |df=mdy-all }}</ref> In 2003, 152.6&nbsp;million computers were shipped, at an estimated value of $175&nbsp;billion.<ref name="cnet2009-01-13">{{citation |url=http://news.cnet.com/HP-back-on-top-of-PC-market/2100-1003_3-5141213.html |title=HP back on top of PC market |accessdate=January 13, 2009}}</ref> In 2002, 136.7&nbsp;million PCs were shipped, at an estimated value of $175&nbsp;billion.<ref name="cnet2009-01-13" /> In 2000, 140.2&nbsp;million personal computers were shipped, at an estimated value of $226&nbsp;billion.<ref name="cnet2009-01-13" /> Worldwide shipments of personal computers surpassed the 100-million mark in 1999, growing to 113.5&nbsp;million units from 93.3&nbsp;million units in 1998.<ref name="lat2009-01-13">{{cite news |url=http://articles.latimes.com/2000/jan/24/business/fi-57038 |title=Dell Passes Compaq as Top PC Seller in U.S |work=[[Los Angeles Times]] |accessdate=January 13, 2009 |first=Nona |last=Yates |date=January 24, 2000}}</ref> In 1999, Asia had 14.1&nbsp;million units shipped.<ref name="za2009-01-13">{{citation |url=http://www.zdnetasia.com/news/hardware/0,39042972,13025480,00.htm |title=Economic recovery bumps AP 1999 PC shipments to record high |publisher=zdnetasia.com |accessdate=January 13, 2009 |archive-url=https://web.archive.org/web/20200407200249/https://www.zdnet.com/news/hardware/0,39042972,13025480,00.htm |archive-date=April 7, 2020 |url-status=dead }}</ref>
+
+As of June 2008, the number of personal computers in use worldwide hit one billion,<ref>{{cite web|title=Worldwide PC use to reach 1&nbsp;billion by 2008: report|url=http://www.cbc.ca/news/technology/worldwide-pc-use-to-reach-1-billion-by-2008-report-1.666962|publisher=CBC News|accessdate=June 12, 2007}}</ref> while another billion is expected to be reached by 2014. Mature markets like the United States, [[Western Europe]] and Japan accounted for 58% of the worldwide installed PCs. The [[emerging market]]s were expected to double their installed PCs by 2012 and to take 70% of the second billion PCs. About 180 million computers (16% of the existing installed base) were expected to be replaced and 35&nbsp;million to be dumped into landfill in 2008. The whole installed base grew 12% annually.<ref>{{cite press release|url=http://www.gartner.com/it/page.jsp?id=703807 |title=Gartner Says More than 1 Billion PCs in Use Worldwide and Headed to 2 Billion Units by 2014 |publisher=[[Gartner]] |date=June 23, 2008 |accessdate=2010-10-14}}</ref><ref>{{cite news|url=https://www.reuters.com/article/technologyNews/idUSL2324525420080623 |title=Computers in use pass 1&nbsp;billion mark: Gartner |publisher=Reuters |author=Tarmo Virki |date=June 23, 2008 |accessdate=2010-10-14}}</ref>
+
+Based on [[International Data Corporation]] (IDC) data for Q2 2011, for the first time China surpassed US in PC shipments by 18.5&nbsp;million and 17.7&nbsp;million respectively. This trend reflects the rising of emerging markets as well as the relative stagnation of mature regions.
+
+In the [[developed world]], there has been a vendor tradition to keep adding functions to maintain high prices of personal computers. However, since the introduction of the [[One Laptop per Child]] foundation and its low-cost [[OLPC XO-1|XO-1]] laptop, the computing industry started to pursue the price too. Although introduced only one year earlier, there were 14 million [[netbook]]s sold in 2008.<ref>{{cite web |url=http://www.olpcnews.com/use_cases/technology/4p_computing_olpc_impact.html |title=4P Computing – Negroponte's 14 Million Laptop Impact |publisher=OLPC News |date=December 11, 2008 |accessdate=2010-10-14}}</ref> Besides the regular computer manufacturers, companies making especially rugged versions of computers have sprung up, offering alternatives for people operating their machines in extreme weather or environments.<ref>{{cite web |url=http://www.ruggedpcreview.com/2_leaders.html |title=Rugged PC leaders |author=Conrad H. Blickenstorfer |publisher=Ruggedpcreview.com |accessdate=2010-10-14}}</ref>
+
+In 2011, [[Deloitte]] consulting firm predicted that, [[smartphone]]s and [[tablet computer]]s as computing devices would surpass the PCs sales<ref>Tablets, smartphones to outsell PCs https://news.yahoo.com/s/afp/20110210/tc_afp/itinternettelecomequipmentmobileconsumerproduct</ref> (as has happened since 2012). As of 2013, worldwide sales of PCs had begun to fall as many consumers moved to tablets and smartphones. Sales of 90.3 million units in the 4th quarter of 2012 represented a 4.9% decline from sales in the 4th quarter of 2011.<ref name="Gartner011813">{{cite news|title=Gartner Says Declining Worldwide PC Shipments in Fourth Quarter of 2012 Signal Structural Shift of PC Market|url=http://www.gartner.com/it/page.jsp?id=2301715|accessdate=January 18, 2013|newspaper=Gartner.Com|date=January 14, 2013|type=Press release}}</ref> Global PC sales fell sharply in the first quarter of 2013, according to IDC data. The 14% year-over-year decline was the largest on record since the firm began tracking in 1994, and double what analysts had been expecting.<ref name="feeble">{{cite news|title=Feeble PC industry stumbles to steep sales drop during 1st quarter as Windows makeover flops |agency=Associated Press |work=[[Washington Times]] |date=April 10, 2013 |url=https://articles.washingtonpost.com/2013-04-10/business/38436022_1_pc-sales-pc-market-traditional-pc |accessdate=April 11, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130419022401/http://articles.washingtonpost.com/2013-04-10/business/38436022_1_pc-sales-pc-market-traditional-pc |archive-date=April 19, 2013}}</ref><ref name=slump /> The decline of Q2 2013 PC shipments marked the fifth straight quarter of falling sales.<ref>{{cite web |url=http://www.post-gazette.com/stories/business/news/steve-ballmers-retirement-leaves-microsoft-in-a-replacement-crisis-700543/ |title=Steve Ballmer's retirement leaves Microsoft in a replacement crisis |date=August 24, 2013}}</ref> "This is horrific news for PCs," remarked an analyst. "It's all about mobile computing now. We have definitely reached the tipping point."<ref name=feeble /> Data from [[Gartner]] showed a similar decline for the same time period.<ref name=feeble /> China's [[Lenovo Group]] bucked the general trend as strong sales to first time buyers in the developing world allowed the company's sales to stay flat overall.<ref name=feeble /> [[Windows 8]], which was designed to look similar to tablet/smartphone software, was cited as a contributing factor in the decline of new PC sales. "Unfortunately, it seems clear that the Windows 8 launch not only didn't provide a positive boost to the PC market, but appears to have slowed the market," said IDC Vice President Bob O’Donnell.<ref name="slump">{{cite news|title=PC Sales Still in a Slump, Despite New Offerings|author=Nick Wingfield|date=April 10, 2013|work=New York Times|url=https://www.nytimes.com/2013/04/11/technology/data-show-steep-decline-in-pc-shipments.html|accessdate=April 11, 2013}}</ref>
+
+In August 2013, Credit Suisse published research findings that attributed around 75% of the operating profit share of the PC industry to Microsoft (operating system) and Intel (semiconductors).<ref>{{cite web|title=The Apple Vs. Samsung Title Fight for Mobile Supremacy|url=http://www.thefinancialist.com/the-apple-vs-samsung-title-fight-for-mobile-supremacy/|work=The Financialist|publisher=Credit Suisse|accessdate=August 13, 2013|date=August 8, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130814130300/http://www.thefinancialist.com/the-apple-vs-samsung-title-fight-for-mobile-supremacy/|archive-date=August 14, 2013}}</ref> According to IDC, in 2013 PC shipments dropped by 9.8% as the greatest drop-ever in line with consumers trends to use mobile devices.<ref>{{cite web |url=https://www.engadget.com/2014/03/04/idc-pc-shipments-2013/ |title=PC shipments faced their steepest-ever drop in 2013 |author=John Fingas |date=March 4, 2014}}</ref>
+
+In the second quarter of 2018, PC sales grew for the first time since the first quarter of 2012. According to research firm Gartner, the growth mainly came from the business market while the consumer market experienced decline.<ref>{{cite news|last=Warren|first=Tom|date=13 July 2018|title=PC sales are growing for the first time in six years|url=https://www.theverge.com/2018/7/13/17567760/pc-sales-growth-idc-gartner-july-2018|work=[[The Verge]]|access-date=14 July 2018}}</ref>
+
+===Average selling price===
+Selling prices of personal computers steadily declined due to lower costs of production and manufacture, while the capabilities of computers increased. In 1975, an Altair kit sold for only around US$400, but required customers to solder components into circuit boards; peripherals required to interact with the system in alphanumeric form instead of blinking lights would add another $2,000, and the resultant system was only of use to hobbyists.<ref name="Sussman85">Marvin B. Sussman ''Personal Computers and the Family'' [[Routledge]], 1985 {{ISBN|0-86656-361-X}}, p. 90.</ref>
+
+At their introduction in 1981, the US$1,795 price of the [[Osborne 1]] and its competitor [[Kaypro]] was considered an attractive price point; these systems had text-only displays and only floppy disks for storage. By 1982, [[Michael Dell]] observed that a personal computer system selling at retail for about $3,000 US was made of components that cost the dealer about $600; typical gross margin on a computer unit was around $1,000.<ref>Kateri M. Drexler ''Icons of business: an encyclopedia of mavericks, movers, and shakers, Volume 1'', [[Greenwood Publishing Group]], 2007, {{ISBN|0-313-33863-9}}, p. 102</ref> The total value of personal computer purchases in the US in 1983 was about $4&nbsp;billion, comparable to total sales of [[pet food]]. By late 1998, the average selling price of personal computer systems in the United States had dropped below $1,000.<ref>[http://www.pcworld.com/article/9150/average_pc_price_drops_below_1000.html Nancy Weil, ''Average PC Price drops below $1000''], ''[[PC World]]'' December 1998. Retrieved November 17, 2010. {{webarchive|url=https://web.archive.org/web/20111011152403/http://www.pcworld.com/article/9150/average_pc_price_drops_below_1000.html |date=October 11, 2011 }}</ref>
+
+For [[Microsoft Windows]] systems, the [[average selling price]] (ASP) showed a decline in 2008/2009, possibly due to low-cost [[netbook]]s, drawing $569 for [[desktop computer]]s and $689 for [[laptop]]s at U.S. retail in August 2008. In 2009, ASP had further fallen to $533 for desktops and to $602 for notebooks by January and to $540 and $560 in February.<ref>{{cite web|url=http://www.eweek.com/c/a/Windows/Netbooks-Are-Destroying-the-Laptop-Market-and-Microsoft-Needs-to-Act-Now-863307/ |title=Netbooks Are Destroying the Laptop Market and Microsoft Needs to Act Now |publisher=[[eWeek]] |author=Joe Wilcox |date=April 16, 2009 |accessdate=2010-10-14}}</ref> According to research firm [[NPD Group|NPD]], the average selling price of all Windows portable PCs has fallen from $659 in October 2008 to $519 in October 2009.<ref>{{cite web |url=http://www.cio.com/article/509556/Falling_PC_Prices_Pit_Microsoft_Against_PC_Makers |title=Falling PC Prices Pit Microsoft Against PC Makers |author=Shane O'Neill |date=December 2, 2009 |accessdate=2010-10-14}}</ref>
+
+==Environmental impact==
+
+{{Main|Computer recycling}}
+External costs of environmental impact are not fully included in the selling price of personal computers.<ref>{{cite web|last1=Mattison|first1=Richard|title=The true cost of personal computers|url=https://www.greenbiz.com/blog/2012/10/03/true-cost-personal-computers|website=GreenBiz|publisher=GreenBiz Group Inc.|accessdate=28 September 2016|date=2012-10-03}}</ref>
+
+Personal computers have become a large contributor to the 50 million tons of discarded electronic waste generated annually, according to the [[United Nations Environment Programme]]. To address the [[electronic waste]] issue affecting developing countries and the environment, [[Extended producer responsibility|extended producer responsibility (EPR)]] acts have been implemented in various countries and states.<ref>{{cite journal|last1=Nash|first1=Jennifer|last2=Bosso|first2=Christopher|title=Extended Producer Responsibility in the United States: Full Speed Ahead?|journal=Journal of Industrial Ecology|date=2013|volume=17 | issue = 2 – RPP–2013–04|pages=175–185|url=http://www.hks.harvard.edu/var/ezp_site/storage/fckeditor/file/pdfs/centers-programs/centers/mrcbg/publications/awp/Nash_Bosso_2013-10.pdf|accessdate=August 23, 2014|doi=10.1111/j.1530-9290.2012.00572.x|s2cid=154297251}}</ref> In the absence of comprehensive national legislation or regulation on the export and import of electronic waste, the [[Silicon Valley Toxics Coalition]] and BAN (Basel Action Network) teamed up with  electronic recyclers in the US and Canada to create an e-steward program for the orderly disposal of electronic waste. Some organizations oppose EPR regulation, and claim that manufacturers naturally move toward reduced material and energy use.
+
+== See also ==
+{{Portal|Electronics|Technology}}
+
+{{Div col|colwidth=20em}}
+* [[Public computer]]
+* [[Portable computer]]
+* [[Desktop replacement computer]]
+* [[Quiet PC]]
+* [[Pocket Computer|Pocket PC]]
+* [[List of home computers]]
+* [[List of computer system manufacturers]]
+* [[Market share of personal computer vendors]]
+* [[Electronic waste|e-waste]]
+* [[Personal Computer Museum]]
+* [[Computer virus]]
+
+{{div col end}}
+
+
+
+== References ==
+{{Reflist|30em}}
+
+== Further reading ==
+* ''Accidental Empires: How the boys of [[Silicon Valley]] make their millions, battle foreign competition, and still can't get a date'', Robert X. Cringely, Addison-Wesley Publishing, (1992), {{ISBN|0-201-57032-7}}
+* ''PC Magazine'', Vol. 2, No. 6, November 1983, ‘'SCAMP: The Missing Link in the PC's Past?‘’
+
+== External links ==
+{{Commons}}
+{{Wikiversity|Introduction to Computers/Personal}}
+{{Wiktionary}}
+{{Wikiquote}}
+* [[How Stuff Works]] pages:
+** [https://web.archive.org/web/20081225064841/http://videos.howstuffworks.com/harvard-extension-schools-computer-science-e-1-understand/1290-dissecting-a-pc-video.htm Dissecting a PC]
+** [http://computer.howstuffworks.com/pc.htm How PCs Work]
+** [http://videos.howstuffworks.com/labratstv/3548-how-to-upgrade-your-computer-video.htm How to Upgrade Your Computer]
+** [[wikihow:Build-a-Computer|How to Build a Computer]]
+** [https://icecat.com/search/pcsworkstations Global archive with product data-sheets of PCs and Workstations]
+{{Word processors}}
+{{Computer sizes}}
+
+{{Authority control}}
+
+[[Category:American inventions]]
+[[Category:Classes of computers]]
+[[Category:Home appliances]]
+[[Category:Office equipment]]
+[[Category:Personal computers| ]]

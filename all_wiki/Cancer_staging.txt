@@ -1,0 +1,113 @@
+{{short description|Process of determining the extent to which a cancer has developed by spreading}}
+{{More medical citations needed|date=June 2015}}
+{{Infobox diagnostic
+| name            = Cancer staging
+| image           = 
+| alt             = 
+| caption         = 
+| pronounce       =  
+| purpose         = determining the extent to which a cancer has developed
+| test of         =
+| based on        =
+| synonyms        = 
+| reference_range =
+| calculator      = 
+| DiseasesDB      = <!--{{DiseasesDB2|numeric_id}}-->
+| ICD10           = <!--{{ICD10|Group|Major|minor|LinkGroup|LinkMajor}} or {{ICD10PCS|code|char1/char2/char3/char4}}-->
+| ICD9            = 
+| ICDO            =
+| MedlinePlus     = <!--article_number-->
+| eMedicine       = <!--article_number-->
+| MeshID          = 
+| OPS301          = <!--{{OPS301|code}}-->
+| LOINC           = <!--{{LOINC|code}}-->
+}}
+'''Cancer staging''' is the process of determining the extent to which a [[cancer]] has developed by growing and spreading. Contemporary practice is to assign a number from I to IV to a cancer, with I being an isolated cancer and IV being a cancer that has spread to the limit of what the assessment measures. The stage generally takes into account the size of a [[tumor]], whether it has invaded adjacent [[organ (anatomy)|organs]], how many regional (nearby) [[lymph nodes]] it has spread to (if any), and whether it has appeared in more distant locations ([[Metastasis|metastasized]]).
+
+The staging system is not applicable to [[astrocytoma]], which is instead expressed as "grade I-IV".  Grade IV astrocytoma, more commonly referred to as [[glioblastoma multiforme]], is a universally fatal primary brain cancer most commonly seen in the 7th decade of life.
+
+==TNM staging system==
+{{main|TNM staging system}}
+[[File:3D medical animation TNM Staging System.jpg|alt=3D Medical Illustration depicting the TNM Stages in breast cancer|thumb|332x332px|3D Medical Illustration depicting the TNM Stages in breast cancer]]
+Cancer staging can be divided into a clinical stage and a pathologic stage. In the [[TNM staging system|TNM]] (Tumor, Node, Metastasis) system, clinical stage and pathologic stage are denoted by a small "c" or "p" before the stage (e.g., cT3N1M0 or pT2N0). This staging system is used for most forms of cancer, except [[brain tumor]]s and [[hematological malignancies]].
+
+* Clinical stage is based on all of the available information obtained before a [[surgery]] to remove the tumor. This stage may include information about the tumor obtained by [[physical examination]], [[blood test]]s, [[Radiology|radiologic]] examination, [[biopsy]], and [[endoscopy]].
+* Pathologic stage adds additional information gained by examination of the tumor [[microscopically]] by a [[pathologist]] after it has been surgically removed.
+
+Because they use different criteria, clinical stage and pathologic stage often differ. Pathologic staging is usually considered to be more accurate because it allows direct examination of the tumor in its entirety, contrasted with clinical staging which is limited by the fact that the information is obtained by making indirect observations of a tumor which is still in the body. However, clinical staging and pathologic staging often complement each other. Not every tumor is treated surgically, so pathologic staging is not always available. Also, sometimes surgery is preceded by other treatments such as [[chemotherapy]] and [[radiation therapy]] which shrink the tumor, so the pathologic stage may underestimate the true stage.
+
+==Considerations==
+Correct staging is critical because treatment (particularly the need for pre-operative therapy and/or for adjuvant treatment, the extent of surgery) is generally based on this parameter. Thus, incorrect staging would lead to improper treatment.
+
+For some common cancers the staging process is well-defined. For example, in the cases of breast cancer and prostate cancer, doctors routinely can identify that the cancer is early and that it has low risk of metastasis.<ref name="ASCOfive">{{Citation
+ |author1=American Society of Clinical Oncology 
+ |author1-link=American Society of Clinical Oncology 
+ |title=Five Things Physicians and Patients Should Question 
+ |publisher=[[American Society of Clinical Oncology]] 
+ |work=Choosing Wisely: an initiative of the [[ABIM Foundation]] 
+ |url=http://choosingwisely.org/wp-content/uploads/2012/04/5things_12_factsheet_Amer_Soc_Clin_Onc.pdf 
+ |accessdate=August 14, 2012 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20120731073425/http://choosingwisely.org/wp-content/uploads/2012/04/5things_12_factsheet_Amer_Soc_Clin_Onc.pdf 
+ |archive-date=July 31, 2012 
+}}, citing 
+*{{Cite journal | last1 = Carlson | first1 = R. W. | last2 = Allred | first2 = D. C. | last3 = Anderson | first3 = B. O. | last4 = Burstein | first4 = H. J. | last5 = Carter | first5 = W. B. | last6 = Edge | first6 = S. B. | last7 = Erban | first7 = J. K. | last8 = Farrar | first8 = W. B. | last9 = Goldstein | first9 = L. J. | last10 = Gradishar | first10 = W. J. | last11 = Hayes | first11 = D. F. | last12 = Hudis | first12 = C. A. | last13 = Jahanzeb | first13 = M. | last14 = Kiel | first14 = K. | last15 = Ljung | first15 = B. M. | last16 = Marcom | first16 = P. K. | last17 = Mayer | first17 = I. A. | last18 = McCormick | first18 = B. | last19 = Nabell | first19 = L. M. | last20 = Pierce | first20 = L. J. | last21 = Reed | first21 = E. C. | last22 = Smith | first22 = M. L. | last23 = Somlo | first23 = G. | last24 = Theriault | first24 = R. L. | last25 = Topham | first25 = N. S. | last26 = Ward | first26 = J. H. | last27 = Winer | first27 = E. P. | last28 = Wolff | first28 = A. C. | author29 = NCCN Breast Cancer Clinical Practice Guidelines Panel | title = Breast cancer. Clinical practice guidelines in oncology | journal = Journal of the National Comprehensive Cancer Network | volume = 7 | issue = 2 | pages = 122–192 | year = 2009 | pmid = 19200416| doi = 10.6004/jnccn.2009.0012 | doi-access = free }}
+*{{Cite journal | last1 = Thompson | first1 = I. | last2 = Thrasher | first2 = J. B. | last3 = Aus | first3 = G. | last4 = Burnett | first4 = A. L. | last5 = Canby-Hagino | first5 = E. D. | last6 = Cookson | first6 = M. S. | last7 = d'Amico | first7 = A. V. | last8 = Dmochowski | first8 = R. R. | last9 = Eton | first9 = D. T. | last10 = Forman | doi = 10.1016/j.juro.2007.03.003 | first10 = J. D. | last11 = Goldenberg | first11 = S. L. | last12 = Hernandez | first12 = J. | last13 = Higano | first13 = C. S. | last14 = Kraus | first14 = S. R. | last15 = Moul | first15 = J. W. | last16 = Tangen | first16 = C. M. | author17 = AUA Prostate Cancer Clinical Guideline Update Panel | title = Guideline for the Management of Clinically Localized Prostate Cancer: 2007 Update | journal = The Journal of Urology | volume = 177 | issue = 6 | pages = 2106–2131 | year = 2007 | pmid = 17509297 }}</ref> In such cases, [[Specialty (medicine)|medical specialty]] [[professional organizations]] recommend against the use of [[Positron emission tomography|PET scans]], [[X-ray computed tomography|CT scans]], or [[Bone scintigraphy|bone scans]] because research shows that the risk of getting such procedures outweighs the possible benefits.<ref name="ASCOfive"/> Some of the problems associated with overtesting include patients receiving invasive procedures, [[overutilization|overutilizing]] medical services, getting unnecessary radiation exposure, and experiencing misdiagnosis.<ref name="ASCOfive"/>
+
+===Pathologic===
+Pathologic staging, where a pathologist examines sections of [[Tissue (biology)|tissue]], can be particularly problematic for two specific reasons: visual discretion and random sampling of tissue. "Visual discretion" means being able to identify single cancerous cells intermixed with healthy cells on a slide.  Oversight of one [[Cell (biology)|cell]] can mean mistaging and lead to serious, unexpected spread of cancer. "Random sampling" refers to the fact that lymph nodes are cherry-picked from patients and random samples are examined. If cancerous cells present in the [[lymph node]] happen not to be present in the slices of tissue viewed, incorrect staging and improper treatment can result.
+Emotional neglect is linked to advanced cancer stages.<ref>{{cite web |title=Early trauma may be risk factor for anxiety and depression in adults with head/neck cancer |url=https://eurekalert.org/pub_releases/2018-08/w-etm080218.php |website=Eureka Alert |publisher=Eureka Alert |accessdate=6 August 2018}}</ref>
+
+===Current research===
+New, highly sensitive methods of staging are in development. For example, the [[mRNA]] for GCC ([[guanylyl cyclase c]]), present only in the luminal aspect of [[intestinal epithelium]], can be identified using molecular screening ([[RT-PCR]]) with a high degree of sensitivity and exactitude. Presence of GCC in any other tissue of the body represents [[colorectal metaplasia]]. Because of its high sensitivity, RT-PCR screening for GCC greatly reduces underestimation of disease stage. Researchers hope that staging with this level of precision will lead to more appropriate treatment and better [[prognosis]]. Furthermore, researchers hope that this same technique can be applied to other tissue-specific [[proteins]].
+
+==Systems==
+Staging systems are specific for each type of cancer (e.g., [[breast cancer]] and [[lung cancer]]), but some cancers do not have a staging system. Although competing staging systems still exist for some types of cancer, the universally-accepted staging system is that of the [[International Union Against Cancer|UICC]], which has the same definitions of individual categories as the [[American Joint Committee on Cancer|AJCC]].
+
+Systems of staging may differ between diseases or specific manifestations of a disease. <!--this is a given (In cases where the main Wikipedia article has a specific section on staging, that section has been linked below.)-->
+
+===Blood===
+* [[Lymphoma]]: most use [[Ann Arbor staging]]
+* [[Hodgkin Lymphoma#Staging|Hodgkin Lymphoma]]: follows a scale from I to IV and can be indicated further by an A or B, depending on whether a patient is non-symptomatic or has symptoms such as fevers. It is known as the "Cotswold System" or "Modified Ann Arbor Staging System".<ref>{{cite web |url=http://www.oncologychannel.com/hodgkins/staging.shtml |title=Hodgkin's Disease - Staging |publisher=oncologychannel |accessdate=2010-10-14 |archive-url=https://web.archive.org/web/20081025025605/http://www.oncologychannel.com/hodgkins/staging.shtml |archive-date=2008-10-25 |url-status=dead }}</ref>
+
+===Solid===
+For solid tumors, TNM is by far the most commonly used system, but it has been adapted for some conditions.
+
+* [[Breast cancer]]: In [[breast cancer classification]], staging is usually based on [[TNM staging system|TNM]],<ref>{{cite web|url=http://www.cancer.gov/cancertopics/pdq/treatment/breast/HealthProfessional/page3 |title=Breast Cancer Treatment - National Cancer Institute |publisher=Cancer.gov |date=2010-08-13 |accessdate=2010-10-14}}</ref> but staging in I–IV may be used as well.
+* [[cervical cancer#Staging|Cervical and ovarian cancers]]: the "[[International Federation of Gynecology and Obstetrics|FIGO]]" system has been adopted into the TNM system. For premalignant dysplastic changes, the CIN ([[cervical intraepithelial neoplasia]]) grading system is used.<ref>{{cite web |author=Eric Lucas |url=http://screening.iarc.fr/viaviliappendix1.php |title=FIGO staging of cervical carcinomas |publisher=Screening.iarc.fr |date=2006-01-31 |accessdate=2010-10-14 |archive-url=https://web.archive.org/web/20081024211827/http://screening.iarc.fr/viaviliappendix1.php |archive-date=2008-10-24 |url-status=dead }}</ref>
+* [[colon cancer#Staging|Colon cancer]]: originally consisted of four stages: A, B, C, and D (the [[Dukes classification|Dukes staging system]]). More recently, colon cancer staging is indicated either by the original A-D stages or by TNM.<ref>{{cite web |url=http://www.oncologychannel.com/coloncancer/staging.shtml |title=Colon Cancer - Staging |publisher=oncologychannel |accessdate=2010-10-14 |archive-url=https://web.archive.org/web/20081024053423/http://www.oncologychannel.com/coloncancer/staging.shtml |archive-date=2008-10-24 |url-status=dead }}</ref>
+* [[Kidney cancer]]: uses TNM.<ref>{{cite web |url=http://www.cancerhelp.org.uk/help/default.asp?page=4040 |title=Stages of kidney cancer |publisher=Cancerhelp.org.uk |date=2010-06-30 |accessdate=2010-10-14 |url-status=dead |archive-url=https://web.archive.org/web/20090122085652/http://www.cancerhelp.org.uk/help/default.asp?page=4040 |archive-date=2009-01-22 }}</ref>
+* [[Cancer of the larynx]]: Uses TNM.<ref>{{cite web |url=http://www.cancerhelp.org.uk/help/default.asp?page=5606 |title=The stages of cancer of the larynx |publisher=Cancerhelp.org.uk |date=2010-07-28 |accessdate=2010-10-14 |url-status=dead |archive-url=https://web.archive.org/web/20081216142730/http://www.cancerhelp.org.uk/help/default.asp?page=5606 |archive-date=2008-12-16 }}</ref>
+* [[liver cancer#Staging and prognosis|Liver cancer]]: Uses TNM.<ref>{{cite web |url=http://www.cancer.org/cancer/livercancer/detailedguide/liver-cancer-staging |title=How is liver cancer staged? |accessdate=2013-06-02}}</ref>
+* [[Lung cancer]]: uses TNM.<ref>{{EMedicine|article|362919|Imaging in Lung Cancer Staging}}</ref>
+* [[Melanoma#Staging|Melanoma]]: TNM used.  Also of importance are the "Clark level" and "Breslow depth" which refer to the microscopic depth of tumor invasion ("Microstaging").<ref>{{cite web|url=http://chorus.rad.mcw.edu/doc/00955.html |title=malignant melanoma: staging |publisher=Chorus.rad.mcw.edu |accessdate=2010-10-14 |url-status=dead |archive-url=https://web.archive.org/web/20100718150647/http://chorus.rad.mcw.edu/doc/00955.html |archive-date=2010-07-18 }}</ref>
+* [[prostate cancer staging|Prostate cancer]]: TNM almost universally used.<ref>{{cite web|url=http://www.nccn.org/patients/guidelines/prostate/#18|title= NCCN Guidelines for Patients|publisher=National Comprehensive Cancer Network |accessdate=2015-11-01}}</ref>
+* [[Testicular cancer]]: uses TNM along with a measure of [[blood serum]] markers (TNMS).
+* [[Skin cancer|Non-melanoma skin cancer]]: uses TNM.
+* [[Bladder cancer]]: uses TNM.<ref name="BladderStages">{{cite web|title=Bladder Cancer Stages|url=https://www.cancer.org/cancer/bladder-cancer/detection-diagnosis-staging/staging.html|website=Cancer.org|publisher=[[American Cancer Society]]|accessdate=29 December 2017}}</ref>
+
+==Overall stage grouping==
+[[File:Cancer stages.png|right|500px|alt=Cancer Stages]]
+Overall Stage Grouping is also referred to as [[Roman numerals|Roman Numeral]] Staging. This system uses numerals I, II, III, and IV (plus the 0) to describe the progression of cancer.
+* '''Stage 0''': [[carcinoma in situ|carcinoma ''in situ'']], abnormal cells growing in their normal place ("in situ" from Latin for "in its place").
+* '''Stage I''': cancers are localized to one part of the body. Stage I cancer can be surgically removed if small enough.
+* '''Stage II''': cancers are locally advanced. Stage II cancer can be treated by chemotherapy, radiation, or surgery. 
+*'''Stage III''': cancers are also locally advanced. Whether a cancer is designated as Stage II or Stage III can depend on the specific type of cancer; for example, in [[Hodgkin's Disease]], Stage II indicates affected lymph nodes on only one side of the diaphragm, whereas Stage III indicates affected lymph nodes above and below the diaphragm. The specific criteria for Stages II and III therefore differ according to diagnosis. Stage III can be treated by chemotherapy, radiation, or surgery.
+* '''Stage IV''': cancers have often metastasized, or spread to other organs or throughout the body. Stage IV cancer can be treated by chemotherapy, radiation, or surgery. Despite treatment, a patient's mortality rate can be significantly higher with Stage IV cancer, e.g., the cancer can progress to become [[terminal illness|terminal]].
+
+Within the TNM system, a cancer may also be designated as recurrent, meaning that it has appeared again after being in remission or after all visible tumor has been eliminated. Recurrence can either be local, meaning that it appears in the same location as the original, or distant, meaning that it appears in a different part of the body.
+
+==Stage migration==
+Stage migration is a change in the distribution of stages in a particular cancer population, induced by either a change in the staging system itself or else a change in technology which allows more sensitive detection of tumor spread and therefore more sensitivity in detecting spread of disease (e.g., the use of [[MRI]] scans).  Stage migration can lead to curious statistical phenomena (for example, the [[Will Rogers phenomenon]]). Urinary cancer is the fourth most common type of cancer in which staging systems are vital in this area{{Clarify|reason= what does this have to do with stage migration.  Note: the cited article does not contain the term "migration"|date=February 2019}}.<ref>{{cite web |title=Does the Gross Prosector Impact pT3 Subclassification or Lymph Node Counts in Bladder Cancer? – Beyond the Abstract |url=https://www.urotoday.com/recent-abstracts/urologic-oncology/bladder-cancer/106183-does-the-gross-prosector-impact-pt3-subclassification-or-lymph-node-counts-in-bladder-cancer-beyond-the-abstract.html |website=Uro Today |publisher=Uro today |accessdate=6 August 2018}}</ref>
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://www.cancer.gov/cancertopics/factsheet/Detection/staging "Staging: Questions and Answers" at the National Cancer Institute]
+* [https://www.cancerhorizons.com/cancer-types/stage-4-cancer/ Stage 4 Cancer]
+
+{{Tumors}}
+
+[[Category:Cancer staging| ]]
+[[Category:Anatomical pathology]]

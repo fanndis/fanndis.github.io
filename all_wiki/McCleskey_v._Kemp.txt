@@ -1,0 +1,102 @@
+{{Infobox SCOTUS case
+  |Litigants=McCleskey v. Kemp
+  |ArgueDate=October 15
+  |ArgueYear=1986
+  |DecideDate=April 22
+  |DecideYear=1987
+  |FullName=Warren McCleskey v. Kemp, Superintendent, Georgia Diagnostic and Classification Center
+  |USVol=481
+  |USPage=279
+  |ParallelCitations=107 S. Ct. 1756; 95 [[L. Ed. 2d]] 262; 1987 [[U.S. LEXIS]] 1817; 55 U.S.L.W. 4537
+  |Prior=''McCleskey v. Zant'', 580 [[F. Supp.]] [https://law.justia.com/cases/federal/district-courts/FSupp/580/338/1449761/ 338] ([[N.D. Ga.]] 1984); affirmed in part, reversed in part ''sub. nom.'', ''McCleskey v. Kemp'', 753 [[F.2d]] [https://law.justia.com/cases/federal/appellate-courts/F2/753/877/265552/ 877] ([[United States Court of Appeals for the Eleventh Circuit|11th Cir.]] 1985); [[Certiorari|cert]]. granted, {{ussc|478|1019|1986|el=no}}.
+  |Subsequent=
+  |Holding=Despite the presentation of [[empirical evidence]] that asserted racial disparity in application of the death penalty, aggregate evidence is insufficient to invalidate an individual defendant's death sentence.
+  |Majority=Powell
+  |JoinMajority=Rehnquist, White, O'Connor, Scalia
+  |Dissent=Brennan
+  |JoinDissent=Marshall; Blackmun, Stevens (in part)
+  |Dissent2=Blackmun
+  |JoinDissent2=Marshall, Stevens; Brennan (in part)
+  |Dissent3=Stevens
+  |JoinDissent3=Blackmun
+  |LawsApplied=[[Fourteenth Amendment to the United States Constitution|U.S. Const. amend. XIV]]
+}}
+'''''McCleskey v. Kemp''''', 481 U.S. 279 (1987), is a [[United States]] Supreme Court case, in which the death penalty sentencing of Warren McCleskey for armed robbery and murder was upheld. The Court said the "racially disproportionate impact" in the Georgia death penalty indicated by a comprehensive scientific study was not enough to mitigate a death penalty determination without showing a "racially discriminatory purpose."<ref name=McCleskey>{{ussc|name=McCleskey v. Kemp|volume=481|page=279|pin=298|year=1987}}.</ref> ''McCleskey'' has been described as the “most far-reaching post-''[[Gregg v. Georgia|Gregg]]'' challenge to [[capital punishment|capital sentencing]].”<ref>{{cite encyclopedia|encyclopedia=New Georgia Encyclopedia|edition=on-line|year=2004|article= McCleskey v. Kemp (1987)}}</ref>
+
+''McCleskey'' was named one of the worst Supreme Court decisions since [[World War II]] by a ''[[Los Angeles Times]]'' survey among legal scholars.<ref>{{cite news |first=David G. |last=Savage |title=Roe vs. Wade? Bush vs. Gore? What are the worst Supreme Court decisions? |url=http://www.latimes.com/news/nationworld/nation/la-na-scotus23-2008oct23,0,1693757.story |archive-url=https://archive.today/20081023193212/http://www.latimes.com/news/nationworld/nation/la-na-scotus23-2008oct23,0,1693757.story |url-status=dead |archive-date=2008-10-23 |work=Los Angeles Times |date=2008-10-22 }}</ref> In a ''[[New York Times]]'' comment eight days after the decision, [[Anthony Lewis]] charged that the Supreme Court had "effectively condoned the expression of racism in a profound aspect of our law."<ref name="Lewis1987">{{cite news |first=Anthony |last=Lewis |title=Bowing To Racism |url=https://www.nytimes.com/1987/04/28/opinion/abroad-at-home-bowing-to-racism.html |publisher=[[The New York Times]] |date=1987-04-28 }}</ref> [[Anthony G. Amsterdam]] called it “the ''[[Dred Scott v. Sanford|Dred Scott]]'' decision of our time.”<ref name="Liptak2008">{{cite news |first=Adam |last=Liptak |title=New Look at Death Sentences and Race |url=https://www.nytimes.com/2008/04/29/us/29bar.html |publisher=[[The New York Times]] |date=2008-04-29 }}</ref>
+
+Justice [[Lewis Franklin Powell, Jr.|Lewis Powell]], when asked by his biographer if he wanted to change his vote in any case, replied, "Yes, ''McCleskey v. Kemp''."<ref name="Liptak2008"/><ref name="liptak">{{cite web |title=A Vast Racial Gap in Death Penalty Cases, New Study Finds |url=https://www.nytimes.com/2020/08/03/us/racial-gap-death-penalty.html |first=Adam |last=Liptak |publisher=[[The New York Times]] |date=August 3, 2020 |access-date=August 31, 2020}}</ref>
+
+==Background==
+Warren McCleskey was convicted of two counts of armed robbery and one count of murder in the Superior Court of Fulton County, Georgia. McCleskey was [[African American]]; his victim was white Atlanta Police Officer Frank Schlatt. At the sentencing hearing, the jury found two aggravating circumstances existed beyond a reasonable doubt: the murder was committed during the course of an armed robbery, and the murder was committed upon a police officer engaged in the performance of his duties. A finding of either aggravating circumstance was sufficient to impose the death penalty. Petitioner did not provide any mitigating circumstances, and the jury recommended the death penalty. The court followed the jury's recommendation and sentenced petitioner to death.
+
+On appeal to the federal courts via a habeas petition, petitioner alleged the state's capital sentencing process was administered in a racially discriminatory manner in violation of the [[Fourteenth Amendment to the Constitution of the United States|Fourteenth Amendment]]. Petitioner based his claims on a study, conducted by jurists [[David C. Baldus]], [[Charles Pulaski]], and statistician [[George Woodworth]] (the “Baldus study”), that indicated a risk that racial consideration entered into capital sentencing determinations.<ref name="Baldus1983">{{cite journal |last=Baldus |first=David C. |author2=Pulaski, Charles |author3=Woodworth, George  |year=1983 |title=Comparative Review of Death Sentences: An Empirical Study of the Georgia Experience |journal=Journal of Criminal Law and Criminology |volume=74 |issue=3 |pages=661–753 |doi=10.2307/1143133 |jstor=1143133 |url=https://scholarlycommons.law.northwestern.edu/jclc/vol74/iss3/2 |type=Submitted manuscript }}</ref> 
+
+Baldus, a law professor at the [[University of Iowa College of Law]], studied 2500 murder cases in Georgia. Baldus' study concluded that all individuals convicted of murdering whites were far more likely to receive the death penalty, thus establishing that the application of the death penalty in Georgia was linked with the race of the victim. One of his models concluded that even after taking account of 39 nonracial variables, defendants charged with killing white victims were 4.3 times as likely to receive a death sentence than defendants charged with killing blacks.<ref name="Baldus1983" />
+
+==Opinion of the Court==
+The Court, in an opinion by Justice [[Lewis Franklin Powell, Jr.|Lewis Powell]], held that the statistical study did not present substantial evidence that would require a reversal of petitioner's conviction.<ref>{{cite news |url=https://fivethirtyeight.com/features/the-supreme-court-is-allergic-to-math/?ex_cid=538fb |title=The Supreme Court Is Allergic To Math |work=[[FiveThirtyEight]] |date=October 17, 2017 |archive-url=https://web.archive.org/web/20171018073546/https://fivethirtyeight.com/features/the-supreme-court-is-allergic-to-math/?ex_cid=538fb |archive-date=October 18, 2017 |first=Oliver |last=Roeder}}</ref> The Court concluded that the lower court had properly applied Georgia law.
+
+The decision said that even if Baldus' statistical data were accepted at face value, the defense failed to show evidence of conscious, deliberate bias by law officials associated with the case, and it dismissed evidence of general disparities in sentencing, such as the Baldus study, as "an inevitable part of our criminal justice system."<ref name=McCleskey/>  A major point in dispute in reaching the majority's decision was the proposition that the 2,500 cases studied, like other cases in general, did not share common personnel or officials but each case involved a different set of jurors, frequently different judges, and different prosecutors.  Thus no common mechanism was either identified or likely to explain a racially disparate impact.  Without a plausible basis for inferring that a racially disparate effect was circumstantial evidence of a racially biased cause (even if a hidden cause), the Supreme Court majority did not find racial bias or discrimination.  The majority sought to distinguish between a disparate effect as evidence of a discriminatory system from a disparate effect without a discriminatory cause.  Thus, the Supreme Court left open the possibility that if a racially biased influence were identified the result might be different.  Without more, the majority viewed each of the 2,500 cases in the study as a separate event without any discernible linkage between them.
+
+==Dissenting opinions==
+Three dissenting opinions were filed by Justices [[William J. Brennan, Jr.|Brennan]], [[Harry Blackmun|Blackmun]], and [[John Paul Stevens|Stevens]]. The dissenters largely agreed with and crossjoined one another's dissents, and Justice [[Thurgood Marshall|Marshall]] joined two of the dissents.
+
+Brennan's lengthy dissent noted at the outset the belief he shared with Justice Marshall that "the death penalty is in all circumstances cruel and unusual punishment forbidden by the [[Eighth Amendment to the United States Constitution|Eighth]] and [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]]s." Brennan further contended that even if capital punishment were constitutional, it could hardly be so where it was demonstrably biased against members of a particular race.
+
+Blackmun's dissent largely echoed Brennan's concerns regarding the evidence of [[Race and capital punishment in the United States|racial bias in capital cases]].
+
+Stevens did not go so far as to suggest that the death penalty was inherently inappropriate under these circumstances but stated that the case should have been remanded to the Court of Appeals for a determination of the validity of the Baldus study.
+
+==Impact==
+''McCleskey v. Kemp'' has bearing on claims broader than those involving the death penalty.  ''McCleskey'' has been used to illustrate that claims based on government denial of "equal protection of the laws" to racial minorities may fail unless something more than discriminatory ''effect'' can be shown. The Supreme Court generally requires, in addition to discriminatory effect, for a discriminatory purpose to be shown as the government's motivation for creating the law in the first place (See: ''[[Washington v. Davis]]''<ref>{{ussc|name=Washington v. Davis|link=|volume=426|page=229|pin=|year=1976}}.</ref>, and ''[[Personnel Administrator of Massachusetts v. Feeney]]'',<ref>{{ussc|name=Personnel Administrator of Massachusetts v. Feeney|link=|volume=442|page=256|pin=|year=1979}}.</ref> for further clarification of this concept). Thus, although a discriminatory effect may be an ''ingredient'' of a successful Equal Protection claim, it is probably insufficient on its own (see ''[[Palmer v. Thomas]]'').<ref>{{ussc|name=Palmer v. Thomas|link=|volume=403|page=217|pin=|year=1971}}</ref> Overall, ''McCleskey'' may be seen to clarify the Supreme Court's desire to punish discriminatory ''acts'' by government rather than merely discriminatory effects. At the same time federal and state governments choosing to use executions continue to carry out their deadly work with full and undeniable knowledge that the practice is tainted by racial bias, similar the pre-''Furman'' practices made unconstitutional in 1972.<ref>see Keys and Maratea (2016).</ref>
+
+[[Michelle Alexander]], author of ''[[The New Jim Crow]]'', has criticized the decision:
+
+<blockquote>McClesky versus Kemp has immunized the criminal justice system from judicial scrutiny for racial bias. It has made it virtually impossible to challenge any aspect, criminal justice process, for racial bias in the absence of proof of intentional discrimination, conscious, deliberate bias ... Evidence of conscious intentional bias is almost impossible to come by in the absence of some kind of admission. But the U.S. Supreme Court has said that the courthouse doors are closed to claims of racial bias in the absence of that kind of evidence, which has really immunized the entire criminal justice system from judicial and to a large extent public scrutiny of the severe racial disparities and forms of racial discrimination that go on every day unchecked by our courts and our legal process.<ref name=alexander-2010>{{cite news|url=https://www.pbs.org/moyers/journal/04022010/watch.html|accessdate=15 July 2013|newspaper=Bill Moyers Journal|date=2 April 2010|author=Michelle Alexander, appearing with Bryan Stevenson and Bill Moyers}}</ref></blockquote>
+
+Warren McCleskey (March 17, 1945 - September 25, 1991) was [[Execution by electrocution|executed by electrocution]] in September 1991.<ref>{{cite news |url=https://www.nytimes.com/1991/09/29/opinion/warren-mccleskey-is-dead.html |newspaper=[[The New York Times]] |title=Warren McCleskey Is Dead |date=September 29, 1991 |quote=Warren McCleskey, who died in Georgia's electric chair last week, was no saint or hero. |access-date=October 19, 2017}}</ref>
+
+==See also==
+* [[List of United States Supreme Court cases, volume 481]]
+* [[List of United States Supreme Court cases]]
+* [[Lists of United States Supreme Court cases by volume]]
+* [[List of United States Supreme Court cases by the Rehnquist Court]]
+* [[Live from Death Row]]
+* ''[[Furman v. Georgia]]''
+'''General:'''
+* [[Capital punishment in Georgia (U.S. state)]]
+* [[Capital punishment in the United States]]
+* [[List of people executed in Georgia (U.S. state)]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite journal |last=Amsterdam |first=Anthony G. |year=2007 |title=Race and the Death Penalty Before and After ''McCleskey'' |journal=Columbia Human Rights Law Review |volume=39 |pages=34 |issn=0090-7944 }}
+*{{cite book |title=Equal Justice and the Death Penalty: A Legal and Empirical Analysis |last=Baldus |first=David C. |author2=Pulaski, Charles A. |author3=Woodworth, George  |year=1990 |publisher=Northeastern University Press |location=Boston |isbn=978-1-55553-056-3 }}
+*{{cite book |chapter=Law and Statistics in Conflict: Reflections on ''McCleskey v. Kemp'' |title=Handbook of Psychology and Law |last=Baldus |first=David C. |author2=Pulaski, Charles A. |author3=Woodworth, George  |editor=Kagehiro, Dorothy K. |editor2=Laufer, William S. |year=1992 |publisher=Springer-Verlag |location=New York |isbn=978-0-387-97568-9 |pages=271–291 }}
+*{{cite journal |last=Graines |first=Steven |author2=Wyatt, Justin |year=2000 |title=The Rehnquist Court, Legal Process Theory, and ''McCleskey v. Kemp'' |journal=American Journal of Criminal Law |volume=28 |pages=1 |issn=0092-2315 }}
+*{{cite journal |last=Kennedy |first=Randall L. |year=1988 |title=''McCleskey v. Kemp'': Race, Capital Punishment, and the Supreme Court |journal=[[Harvard Law Review]] |volume=101 |issue=7 |pages=1388–1443 |doi=10.2307/1341399 |jstor=1341399 }}
+*Keys, David P. and Maratea, R. J. eds. (2016). ''Race and the Death Penalty: The Legacy of McCleskey v. Kemp'.'. Lynne Rienner: Boulder, CO {{ISBN|978-1626373563}}.
+*Maratea, R. J. (2019). ''Killing with Prejudice: Institutionalized Racism in American Capital Punishment'.'. NYU Press: New York, NY {{ISBN|978-1479888603}}.
+*{{cite journal |last=Patterson |first=Chaka M. |year=1995 |title=Race and the Death Penalty: the Tension Between Individualized Justice And Racially Neutral Standards |journal=Texas Wesleyan Law Review |volume=2 |pages=80–95 |issn=1081-5449 |url=http://academic.udayton.edu/race/03justice/death02.htm }}
+
+==External links==
+* {{caselaw source
+ | case = ''McCleskey v. Kemp'', {{ussc|481|279|1987|el=no}}
+ | justia =https://supreme.justia.com/cases/federal/us/481/279/
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep481/usrep481279/usrep481279.pdf
+ | oyez =https://www.oyez.org/cases/1986/84-6811
+ }}
+*[http://academic.udayton.edu/race/03justice/death02.htm Appeal transcript]
+*[https://web.archive.org/web/20000418203050/http://www.law.umkc.edu/faculty/projects/FTrials/conlaw/deathpenalty.htm Discussion of the death penalty]
+*[http://www.mccleskeyvkemp.com McCleskey v. Kemp 25th Anniversary]
+
+{{Equal protection and criminal procedure|selective|state=expanded}}
+
+[[Category:Cruel and Unusual Punishment Clause and death penalty case law]]
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Rehnquist Court]]
+[[Category:Capital punishment in Georgia (U.S. state)]]
+[[Category:1987 in United States case law]]

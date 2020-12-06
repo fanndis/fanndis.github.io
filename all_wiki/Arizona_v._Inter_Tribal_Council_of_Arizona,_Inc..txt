@@ -1,0 +1,58 @@
+{{Infobox SCOTUS case
+  |Litigants=Arizona v. Inter Tribal Council of Arizona, Inc.
+  |ArgueDate=March 18
+  |ArgueYear=2013
+  |DecideDate=June 17
+  |DecideYear=2013
+  |FullName=Arizona, et al., Petitioners v. The Inter Tribal Council of Arizona, Inc., et al.
+  |USVol=570
+  |USPage=___
+  |ParallelCitations=133 S. Ct. 2247; 186 [[L. Ed. 2d]] 239
+  |Docket=12-71
+  |Prior=''Gonzalez v. Arizona'', 624 [[F.3d]] [https://www.leagle.com/decision/infco20101026229 1162] ([[9th Cir.]] 2010); on rehearing ''[[en banc]]'', 677 [[F.3d]] [https://www.leagle.com/decision/infco20120417227 383] (9th Cir. 2012); [[Certiorari|cert]]. granted, {{ussc|568|962|2012|el=no}}.
+  |Subsequent=
+  |Holding=Arizona's evidence-of-citizenship requirement, as applied to Federal Form applicants, is [[federal preemption|pre-empted]] by the [[National Voter Registration Act]]'s mandate for states "accept and use" the Federal Form.
+  |Majority=Scalia
+  |JoinMajority=Roberts, Ginsburg, Breyer, Sotomayor, Kagan; Kennedy (in part)
+  |Concurrence=Kennedy (in part and in judgement)
+  |Dissent=Thomas
+  |Dissent2=Alito
+  |LawsApplied=[[National Voter Registration Act]] & [[Article One of the United States Constitution#Clause 1: Time, place, and manner of holding|Elections Clause]]
+}}
+
+'''''Arizona v. Inter Tribal Council of Arizona, Inc.''''', 570 U.S. 1 (2013), is a 2012-term [[Supreme Court of the United States|United States Supreme Court]] case revolving around [[Arizona]]'s unique voter registration requirements, including the necessity of providing documentary [[Citizenship in the United States|proof of citizenship]]. In a 7-2 decision, the Supreme Court held that Arizona's registration requirements were unlawful because they were preempted by federal voting laws.<ref name="supremecourt">{{ussc|name=Arizona v. Inter Tribal Council of Arizona, Inc.|volume=570|page=1|year=2013}}.</ref>
+
+==Background==
+The Arizona voter registration requirements arose from a 2004 Arizona proposition, [[Arizona Proposition 200 (2004)]], which was a ballot initiative designed in part "to combat voter fraud by requiring voters to present proof of citizenship when they register to vote and to present identification when they vote on election day."<ref>{{ussc|name=Purcell v. Gonzalez|volume=549|page=1|pin=2|year=2006}} (per curiam).</ref> The state law requires, besides other things, persons to provide proof of citizenship to register to vote, and requires voter-registration officials to "reject" any application for registration, including a Federal Form under the [[National Voter Registration Act of 1993]], that is not accompanied by documentary evidence of citizenship.
+
+A group of Arizona residents and a group of nonprofit organizations challenged the Arizona law in court. The [[United States District Court for the District of Arizona|District Court of Arizona]] granted Arizona summary judgment on the respondents' claim that the federal Act [[Federal preemption|preempts]] Arizona's requirement. In October 2010, the [[Ninth Circuit Court]] reversed, holding that the state's requirement of documentary proof of citizenship is invalid as being preempted by the registration provision in the federal NVRA, at least when an applicant uses the National Mail Voter Registration Form (the "Federal Form") to register to vote in federal elections, and that the requirement to provide voter identification at the polling place is valid.<ref>{{cite court |litigants=Gonzales v. Arizona |vol=624 |reporter=F.3d |opinion=1162 |pinpoint= |court=[[9th Cir.]] |date=2010 |url=https://www.leagle.com/decision/infco20101026229 |accessdate=2019-01-07 |quote=}}</ref><ref name="supremecourt"/>
+
+However, in April 2011, the court granted Arizona's petition for ''[[en banc]]'' review of this ruling, and it heard oral arguments on June 21, 2011.<ref name="en banc review">[http://www.azag.gov/press_releases/june/2011/citizenship%20to%20vote%206-21-11.html Arizona Attorney General Press Release: "Horne Argues in Favor of Arizona's Law Requiring Proof of Citizenship to Vote"] {{webarchive |url=https://web.archive.org/web/20110930142035/http://www.azag.gov/press_releases/june/2011/citizenship%20to%20vote%206-21-11.html |date=September 30, 2011 }}</ref> In April 2012, the ''en banc'' court also held that the requirement to provide proof of citizenship to register to vote is invalid as preempted by the NVRA and that the requirement to provide voter identification at the polling place is valid.<ref>{{cite court |litigants=Gonzalez v. Arizona |vol=677 |reporter=F.3d |opinion=383 |pinpoint= |court=9th Cir. |date=2012 |url=https://www.leagle.com/decision/infco20120417227 |accessdate=2019-01-07 |quote=}}</ref>  The [[Supreme Court of the United States]] declined to stay the ruling on June 28, 2012.<ref>[https://www.supremecourt.gov/orders/courtorders/062812zr.pdf ''Arizona, et al. v. Abeytia, et al.''], No. 11-A-1189 (order), (U.S. Supreme Court, June 28, 2012)</ref> In July 2012, Arizona petitioned the Supreme Court for a [[writ of certiorari]] to review the Ninth Circuit's ruling.<ref>[http://sblog.s3.amazonaws.com/wp-content/uploads/2012/08/12-71-Gonzalez-S-Ct-Pet-for-Cert-2012.pdf Arizona v. Inter Tribal Council of Arizona, et. al, Petition for Writ of Certiorari] (U.S. Supreme Court, July 16, 2012)</ref> The Supreme Court granted the petition in October 2012,<ref>[https://www.supremecourt.gov/qp/12-00071qp.pdf Arizona v. Inter Tribal Council, Grant of Petition for Writ of Certiorari] (U.S. Supreme Court, October 15, 2012)</ref> and it heard oral arguments on March 18, 2013.<ref>[https://www.supremecourt.gov/oral_arguments/argument_transcripts/12-71.pdf Arizona, et. al., Petitioners, v. The Inter Tribal Council of Arizona, Inc., Transcript of Oral Argument] {{Webarchive|url=https://web.archive.org/web/20170211155018/https://www.supremecourt.gov/oral_arguments/argument_transcripts/12-71.pdf |date=2017-02-11 }} (U.S. Supreme Court, March 18, 2013)</ref>
+
+==Opinion of the Court==
+On June 17, 2013, the Supreme Court ruled against Arizona in a 7-2 decision, which struck down the state law. [[Antonin Scalia|Justice Scalia]] wrote the majority opinion, confirming the Ninth Circuit's rulings and holding that the state requirements relating to voter registrations were pre-empted by the federal NVRA law,<ref name="supremecourt"/> which mandates states to "accept and use" the Federal Form. Justices Clarence Thomas and Samuel Alito dissented. However, the Court also suggested ways for Arizona to overcome the hurdle.<ref>{{cite web |url=http://www.scotusblog.com/?p=165173 |title=Pyrrhic victory for federal government in Arizona voter registration case? |author=Marty Lederman |date= June 17, 2013|work=SCOTUSBlog |accessdate=July 6, 2013}}</ref> The 7-2 Decision stated “Arizona is correct that the Elections Clause empowers Congress to regulate how federal elections are held, but not who may vote in them. The latter is the province of the states.”  However, because Attorney General [[Tom Horne]]’s predecessor as Attorney General had not appealed an adverse decision by the commission, the case was sent back for a new petition to the commission to be appealed.  It was consolidated with a 10th circuit case, which ruled adversely, and the Supreme Court chose not to review a second time. The Court also held that Arizona may petition to have more requirements added to the federal standard.<ref name="supremecourt"/>
+
+== See also ==
+*[[List of United States Supreme Court cases, volume 570]]
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{caselaw source
+ | case = ''Arizona v. Inter Tribal Council of Arizona, Inc.'', {{ussc|570|1|2013|el=no}}
+ | justia =https://supreme.justia.com/cases/federal/us/570/12-71/
+ | oyez =https://www.oyez.org/cases/2012/12-71
+ | other_source1 = Supreme Court (slip opinion)
+ | other_url1 =https://www.supremecourt.gov/opinions/12pdf/12-71_7l48.pdf
+ }}
+* [http://itcaonline.com/ Inter Tribal Council of Arizona official web site]
+
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Roberts Court]]
+[[Category:2012 in United States case law]]
+[[Category:History of voting rights in the United States]]
+[[Category:Native American history of Arizona]]
+[[Category:Arizona elections]]
+[[Category:United States elections case law]]
+[[Category:Legal history of Arizona]]

@@ -1,0 +1,76 @@
+{{short description|American technology company}}
+{{undisclosed paid|date=May 2019}}
+{{Infobox website
+| name             = SVMK Inc.
+| company_type     = [[Public company]]
+| traded_as        = {{NASDAQ|SVMK}}<br>[[Russell 2000 Index]] component
+| foundation       = {{Start date and age|1999}}<ref name=USAToday2012Scott>{{cite news|last=Scott|first=Martin|title=Customer research easier in digital era|url=http://usatoday30.usatoday.com/MONEY/usaedition/2012-08-28-Efficient-Small-Business-Ecommerce_CV_U.htm|accessdate=20 February 2013|newspaper=USA Today|date=27 August 2012}}</ref>
+| location         =   One Curiosity Way,<br />[[San Mateo, California|San Mateo]], [[California|CA]] 94403<br />[[United States]]{{citation needed|date=April 2020}}
+| locations        = [[San Mateo, California|San Mateo]], [[Portland, Oregon|Portland]], [[Seattle]], [[Dublin]], [[Ottawa]], [[London]], [[Sydney]]<ref>{{cite web|url=https://www.surveymonkey.com/mp/aboutus/office-locations/|title=SurveyMonkey Office Locations|accessdate=24 July 2016}}</ref>
+| area_served      = Worldwide
+| founder          = [[Ryan Finley (businessman)|Ryan Finley]] <br> Chris Finley
+| CEO              = [[Zander Lurie]], CEO<ref name=SurveyMonkeyCEO>{{cite web|url=http://recode.net/2016/01/13/lurie-departs-gopro-to-take-ceo-job-at-surveymonkey/ |title=Lurie Departs GoPro to Take CEO Job at SurveyMonkey |publisher=Recode |accessdate=2016-01-13}}</ref>
+| industry         = SAAS / Online survey services
+| products         = Cloud-based survey software
+| revenue          = {{Increase}}$233.5mm (LTM 6/30/18)
+| key_people       = [[Serena Williams]]<ref>{{cite web|url=http://fortune.com/2019/03/08/serena-williams-international-womens-day/|title=Serena Williams on International Women's Day: 'We Must Band Together to Fight for What's Fair' |publisher=Fortune |accessdate=29 March 2019}}</ref>{{small|board of directors}}<br>[[David Ebersman]]{{small|board of directors}}<br>[[Sheryl Sandberg]]{{small|board of directors}}<br>[[Susan Decker]]{{small|board of directors}}<br>[[Brad D. Smith]]{{small|board of directors}}
+| url              = {{url|https://www.surveymonkey.com}}
+| programming_language= .NET, Python
+| registration     = Required for creating a survey
+| num_users        = 25,000,000
+| language         = Dansk, Deutsch, English, Español, Français, 한국어, Italiano, Nederlands, 日本語, Norsk, Português, Русский, Suomi, Svenska, 中文(繁體), Türkçe
+|language_footnote= <ref>{{cite web|url=https://www.surveymonkey.com/|title=SurveyMonkey: Free online survey software & questionnaire tool|accessdate=24 July 2016}}</ref>
+}}
+
+'''SVMK Inc.,''' doing business as '''SurveyMonkey,''' is an [[Survey data collection#Online surveys|online survey]]<ref>{{cite news|title=How to Use Online Tools for Customer Surveys|url=http://www.inc.com/guides/2010/07/how-to-use-online-tools-for-customer-surveys.html|accessdate=20 February 2013|newspaper=Inc.|date=30 July 2010}}</ref> development [[Cloud computing|cloud-based]] [[software as a service]] company. It was founded in 1999 by [[Ryan Finley (businessman)|Ryan Finley]] and Chris Finley. The company provides  surveys, and a suite of paid back-end programs.{{citation needed|date=April 2020}}
+
+The company went public in September 2018.<ref>{{Cite web|url=https://www.ft.com/content/05c52a50-c123-11e8-95b1-d36dfef1b89a|title=SurveyMonkey shares jump by 60% after Wall Street IPO|last=Waters|first=Richard|date=26 September 2018|access-date=28 September 2018}}</ref>
+
+==History==
+===Founding===
+The company was owned by Ryan and Chris Finley until [[Spectrum Equity]] and [[Bain Capital]] acquired a majority interest in the company in 2009.<ref>{{cite web|title=SurveyMonkey Receives Investment From Spectrum Equity |url=https://www.spectrumequity.com/news/surveymonkey-receives-investment-from-spectrum-equity|publisher=Spectrum Equity|accessdate=January 15, 2019}}</ref>
+
+[[Dave Goldberg]] joined SurveyMonkey in 2009.<ref name=GoldbergDeathCNNMoney>{{cite web | url=https://money.cnn.com/2015/05/02/technology/dave-goldberg-sheryl-sandberg-husband/ | title=Dave Goldberg, husband of Facebook exec Sheryl Sandberg, dies suddenly | publisher=CNN Money | date=May 2, 2015 | accessdate=May 2, 2015 | author=King, Hope}}</ref>
+
+[[File:SurveyMonkeyNewHQ.jpg|thumb|SurveyMonkey Headquarters in San Mateo, CA]]
+
+===Expansion===
+In 2010, the company received [[United States dollar|US]]$100 million in debt financing from [[Bank of America Merrill Lynch]] and [[SunTrust Robinson Humphrey]].<ref>{{cite web|first=Matthew |last=Lynley |publisher=Venturebeat.com|url=https://venturebeat.com/2010/11/03/surveymonkey-debt-financing/ |title=SurveyMonkey bucks the trend, picks up $100M in debt financing |date= November 3, 2010 }}</ref>
+
+In 2013, the company raised $800 million in debt and equity valuing the company at $1.35 billion.<ref>{{cite news|last=Lashinsky |first=Adam |url=http://tech.fortune.cnn.com/2013/01/17/surveymonkey-ipo/ |title=Why SurveyMonkey is holding off on an IPO - Fortune Tech |publisher=Tech.fortune.cnn.com |date=2013-01-17 |accessdate=2014-03-03}}</ref> In September 2013, the company announced [[HIPAA]]-compliant features for premium subscription holders.<ref>{{cite web|url=http://www.marketwatch.com/story/surveymonkey-protects-patient-privacy-with-new-hipaa-features-2013-09-10 |title=SurveyMonkey Protects Patient Privacy with new HIPAA Features |publisher=MarketWatch |accessdate=2014-03-03}}</ref> In November 2013, the company announced a new enterprise product with additional management capabilities.<ref>{{cite news|url=https://www.forbes.com/sites/alexkonrad/2013/11/18/surveymonkey-launches-enterprise-product/ |title=SurveyMonkey Jumps Into Enterprise Market With New Product For Businesses |work=Forbes |date=2013-11-18 |accessdate=2014-03-03 |first=Alex |last=Konrad}}</ref>
+
+In 2014, the company raised $250 million in equity financing from [[Google Capital]] (now CapitalG), Tiger Global Management, Baillie Gifford, T. Rowe Price and Morgan Stanley.<ref>{{cite web|url=http://fortune.com/2014/12/15/surveymonkey-is-worth-2-billion-after-latest-fundraising-round/|title=SurveyMonkey is worth $2 billion after new $250 million fundraising round|date=15 December 2014|accessdate=24 July 2016}}</ref>
+
+Dave Goldberg died in May 2015.<ref name=GoldbergDeathCNNMoney />
+
+[[Zander Lurie]] was named chairman of the board in July 2015.<ref>{{cite news |title= Sheryl Sandberg Joins SurveyMonkey's Board |author=Quentin Hardy |url=http://bits.blogs.nytimes.com/2015/07/06/sheryl-sandberg-joins-surveymonkeys-board/?_r=0 |newspaper=NY Times |date=July 6, 2015}}</ref>
+
+Starting August 3, 2015, Bill Veghte replaced Goldberg as SurveyMonkey CEO. Veghte held top posts at HP and Microsoft.<ref name=VeghteForbes>{{cite web | url=https://www.forbes.com/sites/mzhang/2015/07/07/hps-bill-veghte-joins-survey-monkey-as-new-ceo/#cb8221b5ef87 | title=HP's Bill Veghte Joins SurveyMonkey As New CEO | publisher=Forbes Tech | date=July 7, 2015 | accessdate=October 7, 2017 | author=Zhang, Maggie}}</ref> Veghte left the role after fewer than 6 months due to strategic differences with investors.<ref name=VeghteExit>{{cite web | url=https://www.research-live.com/article/news/veghte-out-and-lurie-in-as-surveymonkey-ceo-/id/5001462 | title=Veghte out and Lurie in as SurveyMonkey CEO  | publisher=ResearchLive | date=15 January 2016 | accessdate=October 7, 2017 }}</ref> Veghte was replaced by Zander Lurie in January 2016.
+
+In 2017, the company rolled out "SurveyMonkey Genius" which estimates survey performance and makes actionable suggestions to increase survey effectiveness.<ref>{{cite web|url=https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=119389|title=SurveyMonkey Announces People Powered Data Platform|date=17 July 2017|publisher=DestinationCRM |accessdate=5 February 2019}}</ref> In August 2017, the company launched "SurveyMonkey CX" which assists organizations in managing their customer experience programs.<ref>{{cite web|url=http://customerthink.com/can-surveymonkey-and-zoho-disrupt-enterprise-software/|title=Can SurveyMonkey and Zoho Disrupt Enterprise Software?|date=10 August 2017|publisher=CustomerThink |accessdate=5 February 2019}}</ref>
+
+On September 26, 2018, SurveyMonkey (SVMK) made its debut on the [[NASDAQ]] Exchange. <reF>{{cite web|url=https://www.cnbc.com/2018/09/26/surveymonkey-svmk-ipo-stock-starts-trading-on-the-nasdaq.html|title=SurveyMonkey surges 42% in market debut, ends trading at $17 a share |publisher=CNBC |accessdate=December 21, 2018}}</ref> The stock launched at $12 per share and rose 43% on the first day of trading.<ref>{{cite web|url=https://www.thestreet.com/markets/ipos/survey-monkey-ipo-14724704|title=Survey Monkey Pops 43% on IPO |publisher=The Street |accessdate=December 21, 2018}}</ref>
+
+Emory University Goizueta Business School dean Erika James joined the SurveyMonkey board of directors in 2018, creating Gender Parity on the company's board.<ref>{{cite web|url=https://www.fastcompany.com/90218542/surveymonkeys-board-is-now-50-women|title=SurveyMonkey's board is now 50% women |publisher=Fast Company |accessdate=29 March 2019}}</ref><ref>{{Cite web|url=https://www.bizjournals.com/atlanta/news/2018/08/14/surveymonkey-adds-emory-dean-to-board-of-directors.html|title=SurveyMonkey adds Emory dean to board of directors, balancing its gender representation|last=Mandel|first=Eric|date=14 August 2018|website=www.bizjournals.com|access-date=2019-11-07}}</ref>
+
+===Acquisitions===
+The company has acquired three other survey tools, Precision Polling, Wufoo, and Zoomerang, as well as a 49.9 percent stake in the UK-based Clicktools.<ref>{{cite web |url=https://techcrunch.com/2011/01/11/surveymonkey-clicktools/ |title=SurveyMonkey Acquires A 49.9 Percent Stake In Clicktools |date=January 11, 2011 |website=TechCrunch |publisher=TechCrunch |access-date=April 21, 2020}}</ref> In August 2014, SurveyMonkey acquired Canadian company Fluidware, the creator of FluidSurveys.com and FluidReview.com.<ref>{{Cite news | last1=MacMillan | first1=Douglas | url=https://blogs.wsj.com/digits/2014/08/05/surveymonkey-acquires-smaller-canadian-rival/ | title=SurveyMonkey Acquires Smaller Canadian Rival | date=2014-08-05 | accessdate=2014-09-17}}</ref> In August, 2015, SurveyMonkey acquired TechValidate,<ref>[https://www.techvalidate.com TechValidate]</ref> a marketing content automation company.<ref>{{Cite news | last1=King | first1=Rachel | url=https://www.zdnet.com/article/surveymonkey-bulking-up-b2b-platform-with-techvalidate-acquisition/ | title=SurveyMonkey bulking up B2B platform with TechValidate acquisition | date=2015-08-04 | accessdate=2019-01-27}}</ref> In March 2019, SurveyMonkey acquired Usabilla, an Amsterdam-based website and app survey company, for $80 million in cash and stock.<ref>{{Cite web|url=http://social.techcrunch.com/2019/03/05/surveymonkey-acquires-web-survey-company-usabilla-for-80m/|title=SurveyMonkey acquires web survey company Usabilla for $80M|website=TechCrunch|language=en-US|access-date=2019-05-13}}</ref> In August 2019, SurveyMonkey acquired GetFeedback, a San Francisco-based customer experience management company.<ref>{{cite web |url=https://www.bizjournals.com/sanfrancisco/news/2019/08/05/surveymonkey-just-acquiredthis-salesforce-ventures.html |title=SurveyMonkey is acquiring this Salesforce Ventures' portfolio company for $68M |last=Kawamoto |first=Dawn |date=August 5, 2019 |website=Biz Journals |publisher=Biz Journals |access-date=April 21, 2020}}</ref>
+
+==See also==
+* [[Comparison of survey software]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|https://www.surveymonkey.com}}
+
+{{Survey data collection}}
+
+[[Category:Companies based in San Mateo, California]]
+[[Category:Polling companies]]
+[[Category:Internet properties established in 1999]]
+[[Category:American companies established in 1999]]
+[[Category:1999 establishments in Oregon]]
+[[Category:Companies listed on NASDAQ]]
+[[Category:2018 initial public offerings]]

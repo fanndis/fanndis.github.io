@@ -1,0 +1,326 @@
+{{short description|Open source blockchain computing platform}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox distributed computing project
+| name                   = Ethereum
+| logo                   = File:Ethereum-icon-purple.svg
+| logo_caption           = Ethereum Logo
+| author                 = [[Vitalik Buterin]], [[Gavin Wood]]
+| developer              = Ethereum Foundation
+| released               = {{Start date and age|2015|07|30|df=yes}}
+| discontinued           = <!-- Set to yes if software is discontinued, otherwise omit. -->
+| latest release version = Muir Glacier
+| latest release date    = {{Start date and age|df=yes|2020|01|01}}
+| frequently updated     = Yes
+| latest preview version =
+| latest preview date    =
+| status                 = Active
+| goal                   =
+| software               = EVM 1 [[Bytecode]]
+| funding                =
+| programming language   = [[Go (programming language)|Go]], [[Rust (programming language)|Rust]], [[C Sharp (programming language)|C#]], [[C++]], [[Java (programming language)|Java]], [[Python (programming language)|Python]]
+| operating system       = [[Cross-platform software|Cross-platform]]
+| platform               = x86-64, ARM
+| size                   = 300 GB (2020-03)
+| language               =
+| genre                  = Distributed Computing
+| license                = [[open-source license|Open-Source Licenses]]
+| website                = {{URL|ethereum.org}}
+| standard               =
+| as of                  =
+| performance            =
+| active users           =
+| total users            = 
+| active hosts           = 7,546 (2020-03)
+| total hosts            =
+}}
+'''Ethereum''' is a decentralized [[open-source software|open source]] [[blockchain (database)|blockchain]] featuring [[smart contract]] functionality. '''Ether (ETH)''' is the native [[cryptocurrency]] token of the Ethereum platform. It is the second-largest cryptocurrency by [[market capitalization]], behind [[Bitcoin]].<ref>{{Cite web |last=Michaels |first=Dave |date=1 May 2018 |title=World's Second Most Valuable Cryptocurrency Under Regulatory Scrutiny |url=https://www.wsj.com/articles/worlds-second-most-valuable-cryptocurrency-under-regulatory-scrutiny-1525167000 |website=Wall Street Journal}}</ref> Ethereum is the most actively used blockchain in the world.<ref>{{Cite web |date=23 November 2020 |title=Ethereum Races Clock to Collect Enough Coins for Big Upgrade |url=https://www.bloomberg.com/news/articles/2020-11-23/ethereum-races-clock-to-collect-enough-coins-for-huge-upgrade |website=Bloomberg.com |language=en}}</ref>
+
+Ethereum was proposed in late 2013 by [[Vitalik Buterin]], a cryptocurrency researcher and programmer. Development was funded by a [[Crowdfunding|crowdsale]] that took place between July and August 2014 and the system went live on 30 July 2015, with 72 million coins premined.<ref name=tapscott2016/><ref>{{Cite web |last=Foundation |first=Ethereum |date=30 July 2015 |title=Ethereum Launches |url=https://blog.ethereum.org/2015/07/30/ethereum-launches/ |access-date=9 January 2020 |website=blog.ethereum.org |language=en}}</ref> Ethereum has a decentralized replicated [[virtual machine]], called the Ethereum Virtual Machine (EVM), which can execute [[Turing completeness|Turing-complete]] scripts and run decentralized applications.<ref>{{Cite web |last=Popper |first=Nathaniel |date=19 June 2017 |title=Move Over, Bitcoin. Ether Is the Digital Currency of the Moment. (Published 2017) |url=https://www.nytimes.com/2017/06/19/business/dealbook/ethereum-bitcoin-digital-currency.html |website=The New York Times}}</ref> Ethereum has been utilized for many [[initial coin offering]]s and is also used in [[decentralized finance]].
+
+In 2016, as a result of an exploitation of a flaw in [[The DAO (organization)|The DAO]] project's [[smart contract]] software, and subsequent theft of $50 million worth of Ether,<ref>{{Cite web |last=Waters |first=Richard |date=18 June 2016 |title='Ether' brought to earth by theft of $50m in cryptocurrency |url=https://www.ft.com/content/591518a0-34df-11e6-ad39-3fee5ffe5b5b |access-date=19 October 2018 |website=Financial Times}}</ref> Ethereum was split into two separate blockchains, Ethereum (ETH) with the theft reversed,<ref>{{Cite web |last=Leising |first=Matthew |date=13 June 2017 |title=Ether thief remains mystery year after $55 million heist |url=https://www.bloomberg.com/features/2017-the-ether-thief/ |website=www.bloomberg.com |publisher=[[Bloomberg News]]}}</ref> and the original chain continued as [[Ethereum Classic|Ethereum Classic (ETC)]].<ref name="FTCBV">{{Cite web |last=De Jesus |first=Cecille |date=19 July 2016 |title=The DAO Heist Undone: 97% of ETH Holders Vote for the Hard Fork |url=https://futurism.com/the-dao-heist-undone-97-of-eth-holders-vote-for-the-hard-fork/ |url-status=live |archive-url=https://web.archive.org/web/20170807073011/https://futurism.com/the-dao-heist-undone-97-of-eth-holders-vote-for-the-hard-fork/ |archive-date=7 August 2017 |access-date=16 May 2017 |publisher=Futurism, LLC.}}</ref>
+
+Ethereum is currently developing and planning to implement a series of upgrades called Ethereum 2.0 with specifications including a proposed transition to [[proof of stake]] and an increase in transaction throughput using [[Shard (database architecture)|sharding]] technology.<ref>{{Cite web |title=Ethereum 2.0 Specifications |url=https://github.com/ethereum/eth2.0-specs |access-date=1 June 2020 |website=Github}}</ref><ref>{{Cite web |last=del Castillo |first=Michael |title=Ethereum Cofounder Joe Lubin Talks Trump, Blockchain's 'Frankenstein' And Willingness To Work With China |url=https://www.forbes.com/sites/michaeldelcastillo/2019/11/09/joe-lubin-talks-trump-blockchains-frankenstein-and-willingness-to-work-with-china/#41012c8778bc |access-date=1 June 2020 |website=Forbes |publisher=Forbes}}</ref>
+
+==History==
+[[File:Vitalik Buterin TechCrunch London 2015.jpg|thumb|left|275px|Ethereum founder [[Vitalik Buterin]] in 2015]]
+
+Ethereum was initially described in a white paper by [[Vitalik Buterin]],<ref>{{Cite web |title=White Paper· ethereum/wiki Wiki · GitHub |url=https://github.com/ethereum/wiki/wiki/White-Paper |url-status=live |archive-url=https://web.archive.org/web/20140111180823/http://ethereum.org/ethereum.html |archive-date=11 January 2014}}</ref> a programmer and co-founder of [[Bitcoin Magazine]], in late 2013 with a goal of building decentralized applications.<ref name="Finley-27-Jan-2014">{{Cite web |last=Finley |first=Klint |date=27 January 2014 |title=Out in the Open: Teenage Hacker Transforms Web into One Giant Bitcoin Network |url=https://www.wired.com/2014/01/ethereum/ |url-status=live |archive-url=https://web.archive.org/web/20160318170702/http://www.wired.com/2014/01/ethereum/ |archive-date=18 March 2016 |access-date=21 March 2016 |website=Wired}}</ref><ref name="Schneider-2014-04-07">{{Cite web |last=Schneider |first=Nathan |date=7 April 2014 |title=Code your own utopia: Meet Ethereum, bitcoin's most ambitious successor |url=http://america.aljazeera.com/articles/2014/4/7/code-your-own-utopiameetethereumbitcoinasmostambitioussuccessor.html |url-status=live |archive-url=https://web.archive.org/web/20160223191510/http://america.aljazeera.com/articles/2014/4/7/code-your-own-utopiameetethereumbitcoinasmostambitioussuccessor.html |archive-date=23 February 2016 |access-date=21 February 2016 |publisher=Al Jazeera}}</ref> Buterin had argued that Bitcoin needed a [[scripting language]] for application development. After failing to gain agreement, he proposed the development of a new platform with a more general scripting language.<ref name="tapscott2016">{{Cite book |last=Tapscott |first=Don |title=The Blockchain Revolution: How the Technology Behind Bitcoin is Changing Money, Business, and the World |last2=Tapscott |first2=Alex |publisher=Portfolio |year=2016 |isbn=978-0670069972}}</ref>
+
+Ethereum was announced at the North American Bitcoin Conference in [[Miami]], in January 2014.<ref name="Paumgarten" /> During the same time as the conference, a group of people rented a house in Miami: [[Gavin Wood]], [[Charles Hoskinson]], and Anthony Di Iorio, from [[Toronto]], who financed the project.<ref name="Paumgarten" /> Di Iorio invited friend [[Joseph Lubin (entrepreneur)|Joseph Lubin]], who invited reporter Morgen Peck, to bear witness.<ref name="Paumgarten" /> Six months later the founders met again in a house in [[Zug]], [[Switzerland]], where Buterin told the founders that the project would proceed as a non-profit. Hoskinson left the project at that time.<ref name="Paumgarten" />
+
+Ethereum has an unusually long list of founders. Anthony Di Iorio wrote "Ethereum was founded by Vitalik Buterin, Myself, Charles Hoskinson, Mihai Alisie, & Amir Chetrit (the initial 5) in December 2013. Joseph Lubin, Gavin Wood, & Jeffrey Wilke were added in early 2014 as founders." Formal development of the Ethereum software project began in early 2014 through a [[Switzerland|Swiss]] company, [[Ethereum (company)|Ethereum Switzerland GmbH]] (''EthSuisse'').<ref name="bloomberg20160820">{{Cite web |date=20 August 2016 |title=Company Overview of Ethereum Switzerland GmbH |url=https://www.bloomberg.com/Research/stocks/private/snapshot.asp?privcapId=309484729 |url-status=live |archive-url=https://web.archive.org/web/20160820112644/http://www.bloomberg.com/Research/stocks/private/snapshot.asp?privcapId=309484729 |archive-date=20 August 2016 |access-date=20 August 2016 |publisher=Bloomberg |quote=The company was founded in 2014 and is based in Baar, Switzerland.}}</ref>
+The basic idea of putting executable smart contracts in the blockchain needed to be specified before the software could be implemented. This work was done by Gavin Wood, then the [[chief technology officer]], in the ''Ethereum Yellow Paper'' that specified the Ethereum Virtual Machine.<ref name="Dannen">{{Cite book |last=Dannen |first=Chris |url=https://books.google.com/books?id=roVkDgAAQBAJ&pg=PA30 |title=Introducing Ethereum and Solidity: Foundations of Cryptocurrency and Blockchain Programming for Beginners |publisher=Apress |isbn=978-1484225356 |page=30 |access-date=12 November 2018}}</ref>
+Subsequently, a Swiss non-profit foundation, the '''Ethereum Foundation''' (''Stiftung Ethereum''), was created as well. Development was funded by an online public [[crowdfunding|crowdsale]] from July to August 2014, with the participants buying the Ethereum value token (ether) with another digital currency, [[Bitcoin]]. While there was early praise for the technical innovations of Ethereum, questions were also raised about its security and scalability.<ref name="Finley-27-Jan-2014" />
+
+In 2019, an Ethereum foundation employee named [[Virgil Griffith]] was arrested by the US government for presenting at a blockchain conference in North Korea.<ref>https://www.nytimes.com/2019/12/02/nyregion/north-korea-virgil-griffin-cyptocurrency-arrest.html</ref>
+
+=== Launch and Milestones ===
+{| class="infobox" style="text-align:left; margin-left:1em; margin-right:0"
+|-
+! Code name
+! Release date
+! Release block
+|-
+| Frontier
+| 2015-07-30
+| 0
+|-
+| Ice Age
+| 2015-09-08
+| 200,000
+|-
+| Homestead
+| 2016-03-15
+| 1,150,000
+|-
+| DAO Fork (unplanned)
+| 2016-07-20
+| 1,920,000
+|-
+| Tangerine Whistle (unplanned)
+| 2016-10-18
+| 2,463,000
+|-
+| Spurious Dragon
+| 2016-11-23
+| 2,675,000
+|-
+| Byzantium
+| 2017-10-16
+| 4,370,000
+|-
+| Constantinople
+| 2019-02-28
+| 7,280,000
+|-
+| Petersburg (unplanned)
+| 2019-02-28
+| 7,280,000
+|-
+| Istanbul
+| 2019-12-08
+| 9,069,000
+|-
+|Muir Glacier
+|2020-01-01
+|9,200,000
+|-
+|Berlin (planned)
+|TBD
+|TBD
+|-
+|}
+Several codenamed prototypes of the Ethereum platform were developed by the Ethereum Foundation as part of their Proof-of-Concept series. "Olympic" was the last prototype and public beta pre-release. The Olympic network provided users with a [[bug bounty program|bug bounty]] of 25,000 Ether for stress testing the limits of the Ethereum blockchain. In July 2015, "Frontier" marked the tentative experimental release of the Ethereum platform.<ref name="WSJFRONTIER">{{Cite web |last=Vigna |first=Paul |date=31 July 2015 |title=BitBeat: Ethereum Opens Its 'Frontier' for Business |url=https://blogs.wsj.com/moneybeat/2015/07/31/bitbeat-ethereum-opens-its-frontier-for-business/ |url-status=live |archive-url=https://web.archive.org/web/20170906093642/https://blogs.wsj.com/moneybeat/2015/07/31/bitbeat-ethereum-opens-its-frontier-for-business/ |archive-date=6 September 2017 |access-date=5 June 2017 |publisher=The Wall Street Journal}}</ref>
+
+Since the initial launch, Ethereum has undergone several planned protocol upgrades, which are important changes affecting the underlying functionality and/or [[incentive compatibility|incentive structures]] of the platform.<ref name="EFPROCESS">{{Cite web |last=Gupta |first=Vinay |date=3 March 2015 |title=The Ethereum Launch Process |url=https://blog.ethereum.org/2015/03/03/ethereum-launch-process/ |url-status=live |archive-url=https://web.archive.org/web/20170606200002/https://blog.ethereum.org/2015/03/03/ethereum-launch-process/ |archive-date=6 June 2017 |access-date=5 June 2017 |publisher=Ethereum Foundation}}</ref><ref>{{Cite book |last=Bashir |first=Imran |title=Mastering Blockchain – Third Edition : a deep dive into distributed ledgers, consensus protocols,... smart contracts, dapps, cryptocurrencies, ethereum |date=2020 |publisher=Packt Publishing Limited |isbn=978-1839213199 |location=[S.l.] |pages=312}}</ref> Protocol upgrades are accomplished by means of a [[hard fork]]. The latest upgrade to Ethereum was "Muir Glacier", implemented on January 01, 2020.
+
+===The DAO event===
+{{Main|The DAO (organization)}}
+In 2016 a [[decentralized autonomous organization]] called [[The DAO (organization)|The DAO]], a set of [[smart contract]]s developed on the platform, raised a record {{US$|150 million}} in a [[Token sale|crowdsale]] to fund the project.<ref name="WSJDAOCC">{{Cite news |last=Vigna |first=Paul |date=16 May 2016 |title=Chiefless Company Rakes in More than $100 Million |work=[[The Wall Street Journal]] |url=https://www.wsj.com/articles/chiefless-company-rakes-in-more-than-100-million-1463399393 |url-status=live |access-date=14 May 2017 |archive-url=https://web.archive.org/web/20170625083255/https://www.wsj.com/articles/chiefless-company-rakes-in-more-than-100-million-1463399393 |archive-date=25 June 2017}}</ref> The DAO was exploited in June when {{US$|50 million}} value of DAO tokens were taken by an unknown hacker.<ref name="NYTDAOHACK">{{Cite news |last=Popper |first=Nathaniel |date=18 June 2016 |title=Hacker May Have Taken $50 Million From Cybercurrency Project |work=The New York Times |url=https://www.nytimes.com/2016/06/18/business/dealbook/hacker-may-have-removed-more-than-50-million-from-experimental-cybercurrency-project.html |url-status=live |access-date=14 May 2017 |archive-url=https://web.archive.org/web/20170620012726/https://www.nytimes.com/2016/06/18/business/dealbook/hacker-may-have-removed-more-than-50-million-from-experimental-cybercurrency-project.html |archive-date=20 June 2017}}</ref><ref name="BIDAOHACK">{{Cite web |last=Price |first=Rob |date=17 June 2016 |title=Digital Currency Ethereum is Cratering Amid Claims of a $50 Million Hack |url=http://uk.businessinsider.com/dao-hacked-ethereum-crashing-in-value-tens-of-millions-allegedly-stolen-2016-6 |url-status=live |archive-url=https://web.archive.org/web/20170611195628/http://uk.businessinsider.com/dao-hacked-ethereum-crashing-in-value-tens-of-millions-allegedly-stolen-2016-6 |archive-date=11 June 2017 |access-date=14 May 2017 |website=Business Insider |publisher=Business Insider}}</ref> The event sparked a debate in the crypto-community about whether Ethereum should perform a contentious "hard fork" to reappropriate the affected funds.<ref name="IEEEDAOHK">{{Cite web |last=Peck |first=Morgan |date=19 July 2016 |title="Hard Fork" Coming to Restore Ethereum Funds to Investors of Hacked DAO |url=https://spectrum.ieee.org/tech-talk/computing/networks/hacked-blockchain-fund-the-dao-chooses-a-hard-fork-to-redistribute-funds |url-status=live |archive-url=https://web.archive.org/web/20170303002838/https://spectrum.ieee.org/tech-talk/computing/networks/hacked-blockchain-fund-the-dao-chooses-a-hard-fork-to-redistribute-funds |archive-date=3 March 2017 |access-date=14 May 2017 |website=IEEE Spectrum: Technology, Engineering, and Science News |publisher=IEEE}}</ref> As a result of the dispute, the network split in two. Ethereum continued on the forked blockchain, while [[Ethereum Classic]] continued on the original blockchain.<ref>{{Cite web |last=Leising |first=Matthew |date=13 June 2017 |title=The Ether Thief |url=https://www.bloomberg.com/features/2017-the-ether-thief/ |access-date=21 December 2018 |website=www.bloomberg.com}}</ref> The hard fork created a rivalry between the two networks. After the hard fork related to The DAO, Ethereum subsequently forked twice in the fourth quarter of 2016 to deal with other attacks.
+
+=== Enterprise Ethereum Alliance (EEA) ===
+
+In March 2017, various blockchain start-ups, research groups, and Fortune 500 companies announced the creation of the Enterprise Ethereum Alliance (EEA) with 30 founding members.<ref name="NYTEEA">{{Cite news |last=Popper |first=Nathaniel |date=27 February 2017 |title=Business Giants to Announce Creation of a Computing System Based on Ethereum |work=The New York Times |url=https://www.nytimes.com/2017/02/27/business/dealbook/ethereum-alliance-business-banking-security.html |url-status=live |access-date=5 June 2017 |archive-url=https://web.archive.org/web/20170620134100/https://www.nytimes.com/2017/02/27/business/dealbook/ethereum-alliance-business-banking-security.html |archive-date=20 June 2017}}</ref> By May, the nonprofit organization had 116 enterprise members&nbsp;– including [[ConsenSys]], [[CME Group]], [[Cornell University#Research|Cornell University's research group]], [[Toyota Group|Toyota Research Institute]], [[Samsung SDS]], [[Microsoft]], [[Intel]], [[J. P. Morgan]], [[Cooley LLP]], [[Merck KGaA]], [[Depository Trust & Clearing Corporation|DTCC]], [[Deloitte]], [[Accenture]], [[Banco Santander]], [[BNY Mellon]], [[ING Group|ING]], and [[National Bank of Canada]].<ref name="IEEEEEA">{{Cite web |last=Peck |first=Morgan |date=2 March 2017 |title=Corporate Titans Unite to Build an Enterprise Version of the Ethereum Blockchain |url=https://spectrum.ieee.org/tech-talk/computing/networks/enterprise-ethereum-alliance-launches |url-status=live |archive-url=https://web.archive.org/web/20170617073826/https://spectrum.ieee.org/tech-talk/computing/networks/enterprise-ethereum-alliance-launches |archive-date=17 June 2017 |access-date=5 June 2017 |publisher=Institute of Electrical and Electronics Engineers (IEEE)}}</ref><ref name="EEA022217">{{Cite press release |title=Enterprise Ethereum Alliance expands dramatically announcing 86 new members |date=19 May 2017 |publisher=Enterprise Ethereum Alliance (EEA) |url=https://entethalliance.org/enterprise-ethereum-alliance-release-05-19-2017.pdf |access-date=5 June 2017 |archive-url=https://web.archive.org/web/20170607000537/https://entethalliance.org/enterprise-ethereum-alliance-release-05-19-2017.pdf |archive-date=7 June 2017 |url-status=live}}</ref> By July 2017, there were over 150 members in the alliance, including [[MasterCard]], [[Cisco Systems]], [[Sberbank]] and [[Scotiabank]].<ref>{{Cite web |title=The Enterprise Ethereum Alliance Just Got A Whole Lot Stronger |url=https://www.inc.com/brian-d-evans/the-enterprise-ethereum-alliance-just-got-a-whole-.html}}</ref><ref>[https://www.bankingtech.com/2017/10/sberbank-joins-enterprise-ethereum-alliance-to-broaden-cooperation/ "Sberbank joins Enterprise Ethereum Alliance to broaden cooperation"](19 October 2017). ''Fintech Futures News''. Retrieved 6 June 2018.</ref>
+
+===Ethereum 2.0===
+{| class="infobox" style="text-align:left; margin-left:1em; margin-right:0"
+|-
+! Code name
+! Release date
+! Release block
+|-
+|ETH 2.0 Phase 0
+|2020-12-01
+|0
+|-
+|ETH 2.0 Phase 1 (planned)
+|TBD
+|TBD
+|-
+|ETH 2.0 Phase 2 (planned)
+|TBD
+|TBD
+|}
+[[Open-source]] development is currently underway for a major upgrade to the Ethereum platform, known as Ethereum 2.0, or Eth2.<ref>{{Cite web |last=Dillet |first=Romain |title=Justin Drake from the Ethereum Foundation is coming to Disrupt Berlin |url=https://techcrunch.com/2019/10/22/justin-drake-from-the-ethereum-foundation-is-coming-to-disrupt-berlin/ |access-date=18 August 2020 |website=TechCrunch}}</ref> The main purpose of the upgrade is to increase transaction throughput for the network, from the current of about 15 transactions per second to up to tens of thousands of transactions per second.<ref>{{Cite web |last=Roberts |first=Jeff |title=Ethereum, Bitcoin's closest rival, faces its moment of truth |url=https://fortune.com/2020/02/19/ethereum-bitcoin-closest-rival-cryptocurrency/ |access-date=12 October 2020 |website=Fortune |publisher=Fortune Media IP Limited}}</ref>
+
+The increase in throughput is achieved by splitting up the work load into many blockchains running in parallel and then having them all share a common consensus, so that to maliciously tamper with one chain would require that one tamper with the common consensus, which would cost the attacker far more money than they could ever gain from the attack.
+
+The Ethereum 2.0 upgrade (also known as Serenity) is designed to be launched in three phases:
+
+# "Phase 0" will create the Beacon Chain, a [[proof-of-stake]] blockchain that will act as the central coordination and consensus hub of Eth2.
+# "Phase 1" will create [[Shard (database architecture)|shard]] chains and connect them to the Beacon Chain.
+# "Phase 2" will implement state execution in the shard chains.<ref>{{Cite web |last=del Castillo |first=Michael |title=Ethereum Cofounder Joe Lubin Talks Trump, Blockchain's 'Frankenstein' And Willingness To Work With China |url=https://www.forbes.com/sites/michaeldelcastillo/2019/11/09/joe-lubin-talks-trump-blockchains-frankenstein-and-willingness-to-work-with-china/#41012c8778bc |access-date=1 June 2020 |website=Forbes |publisher=Forbes}}</ref> The current Ethereum 1.0 chain is expected to become one of the shards of Ethereum 2.0.
+
+==Characteristics==
+{{Infobox cryptocurrency
+| currency_name = Ether (ETH)
+| image_1 =
+| image_2 =
+| image_background_1 =
+| image_background_2 =
+| image_width_1 = 120
+| alt1 =
+| image_width_2 =
+| alt2 =
+| image_title_1 = ETH Logo
+| image_title_2 =
+| superunit_name_1 =
+| subunit_name_1 =
+| superunit_ratio_1 =
+| subunit_ratio_3 = 10<sup>−9</sup>
+| subunit_name_3 = Gwei
+| subunit_ratio_5 = 10<sup>−18</sup>
+| subunit_name_5 = Wei
+| plural = Ether
+| symbol = Ξ
+| alt_symbol_title_1 =
+| alt_symbol_1 =
+| ticker_symbol = ETH
+| previous_names =
+| nickname = Ether, Eth
+| precision = 18
+| white_paper = [https://github.com/ethereum/wiki/wiki/White-Paper ethereum whitepaper]
+| implementations = EVM 1
+| initial_release_version = Frontier
+| initial_release_date = {{Start date and age|df=yes|2015|07|30}}
+| code_repository = {{URL|github.com/ethereum}}
+| status = Active
+| latest_release_version = Muir Glacier
+| latest_release_date = {{Start date and age|2020|01|01|df=yes}}
+| project_fork_of =
+| programming_languages = [[C++]], [[Go (programming language)|Go]], [[Python (programming language)|Python]], [[Rust (programming language)|Rust]], [[Scala (programming language)|Scala]]
+| operating_system = [[Cross-platform software|Cross-platform]]
+| author = [[Vitalik Buterin]], [[Gavin Wood]]
+| developer = Ethereum Foundation
+| source_model = [[Open-source model|Open-Source Model]]
+| license = [[open-source license|Open-Source Licenses]]
+| website = {{URL|ethereum.org}}
+| block_explorer = {{URL|etherchain.org}}, {{URL|etherscan.io}}, {{URL|ethplorer.io}}
+| ledger_start = {{Start date and age|2015|07|30|df=yes}}
+| split_height = 1,920,000
+| split_date = {{Start date and age|2016|07|20|df=yes}}
+| split_from =
+| split_ratio = 1:1
+| hash_function = [[SHA3|Keccak]]
+| issuance_schedule = Block and Uncle/Ommer reward.
+| timestamping = [[Proof-of-work system|Proof-of-Work]] – [[Ethash]]
+| merged_mining_parent =
+| block_time = 13 secs
+| block_reward = 2 ETH
+| circulating_supply = 111,144,324
+| supply_limit =
+| exchange_rate = $388 (12 Oct. 2020)
+| market_cap = $43.9 billion (12 Oct. 2020)
+| footnotes = {{notelist|group=infobox}}
+}}
+{{See|Cryptocurrency}}
+As with other cryptocurrencies, the validity of each Ether is provided by a [[blockchain]], which is a continuously growing list of [[Record (computer science)|records]], called ''blocks'', which are linked and secured using [[cryptography|cryptographic]] [[hash function]]s.<ref name="te20151031">{{Cite journal |date=31 October 2015 |title=Blockchains: The great chain of being sure about things |url=https://www.economist.com/news/briefing/21677228-technology-behind-bitcoin-lets-people-who-do-not-know-or-trust-each-other-build-dependable |journal=[[The Economist]] |access-date=18 June 2016 |quote=The technology behind bitcoin lets people who do not know or trust each other build a dependable ledger. This has implications far beyond the crypto currency.}}</ref><ref name="cryptocurrencytech">{{Cite book |last=Narayanan |first=Arvind |title=Bitcoin and Cryptocurrency Technologies: a Comprehensive Introduction |last2=Bonneau |first2=Joseph |last3=Felten |first3=Edward |last4=Miller |first4=Andrew |last5=Goldfeder |first5=Steven |date=2016 |publisher=Princeton University Press |isbn=978-0-691-17169-2 |location=Princeton}}</ref> By design, the blockchain is inherently resistant to modification of the data. It is an open, [[distributed ledger]] that records transactions between two parties efficiently and in a verifiable and permanent way.<ref name="hbr201701">{{Cite news |last=Iansiti |first=Marco |last2=Lakhani |first2=Karim R. |date=January 2017 |title=The Truth About Blockchain |work=[[Harvard Business Review]] |publisher=[[Harvard University]] |url=https://hbr.org/2017/01/the-truth-about-blockchain |access-date=17 January 2017 |quote=The technology at the heart of bitcoin and other virtual currencies, blockchain is an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way.}}</ref> Unlike Bitcoin, Ethereum operates using accounts and balances in a manner called state transitions. This does not rely upon [[unspent transaction outputs]] (UTXOs). The state denotes the current balances of all accounts and extra data. The state is not stored on the blockchain, it is stored in a separate [[Merkle tree|Merkle]] Patricia tree. A [[cryptocurrency wallet]] stores the [[Public-key cryptography|public and private "keys"]] or "addresses" which can be used to receive or spend ether. These can be generated through BIP 39 style mnemonics for a BIP 32 "HD Wallet". In Ethereum, this is unnecessary as it does not operate in a UTXO scheme. With the private key, it is possible to write in the blockchain, effectively making an Ether transaction.
+
+To send the Ethereum value token Ether to an account, you need the [[SHA-3|Keccak-256]] hash of the public key of that account. Ethereum accounts are pseudonymous in that they are not linked to individual persons, but rather to one or more specific addresses.
+
+===Ether===
+''Ether'' is a fundamental token for operation of Ethereum, which thereby provides a public [[distributed ledger]] for transactions. It is used to pay for gas, a unit of network resource used in transactions and other state transitions. Mistakenly, this currency is also referred to as ''Ethereum''.
+
+It is listed under the [[ticker symbol]] ETH and traded on [[cryptocurrency]] exchanges, and the [[Greek alphabet|Greek]] [[Xi (letter)|uppercase Xi]] character (Ξ) is generally used for its [[currency symbol]]. It is also used to pay for transaction fees and computational services on the Ethereum network.<ref name="NYTEVCRB">{{Cite news |last=Popper |first=Nathaniel |date=27 March 2016 |title=Ethereum, a Virtual Currency, Enables Transactions That Rival Bitcoin's |work=[[The New York Times]] |url=https://www.nytimes.com/2016/03/28/business/dealbook/ethereum-a-virtual-currency-enables-transactions-that-rival-bitcoins.html |url-status=live |access-date=2 September 2016 |archive-url=https://web.archive.org/web/20160724214904/http://www.nytimes.com/2016/03/28/business/dealbook/ethereum-a-virtual-currency-enables-transactions-that-rival-bitcoins.html |archive-date=24 July 2016}}</ref>
+
+===Addresses===
+Ethereum addresses are composed of the prefix "0x", a common identifier for [[hexadecimal]], concatenated with the rightmost 20 bytes of the [[SHA-3|Keccak-256]] hash ([[Endianness|big endian]]) of the [[Elliptic Curve Digital Signature Algorithm|ECDSA]] [[Public-key cryptography|public key]] (the curve used is the so-called ''secp256k1'', the same as [[Bitcoin]]). In hexadecimal, 2 digits represent a byte, meaning addresses contain 40 hexadecimal digits. An example of an Ethereum address is 0xb794f5ea0ba39494ce839613fffba74279579268. Contract addresses are in the same format, however, they are determined by sender and creation transaction nonce.<ref name=":0">{{Cite web |last=Wood |first=Gavin |author-link=Gavin Wood |date=3 February 2018 |title=Ethereum: A Secure Decentralized Generalised Transaction Ledger (EIP-150) |url=http://yellowpaper.io |archive-url=https://web.archive.org/web/20180203110042/http://yellowpaper.io/ |archive-date=3 February 2018 |access-date=3 February 2018 |website=yellowpaper.io}}</ref> User accounts are indistinguishable from contract accounts given only an address for each and no blockchain data. Any valid Keccak-256 hash put into the described format is valid, even if it does not correspond to an account with a private key or a contract. This is unlike Bitcoin, which uses [[Base58Check|base58check]] to ensure that addresses are properly typed.{{clarify|what does this mean? why does it matter to Ethereum? source?|date=November 2020}}
+
+===Gas===
+Gas is a [[unit of account]] within the EVM used in the calculation of a transaction fee, which is the amount of ETH a transaction's sender must pay to the miner who includes the transaction in the blockchain.
+
+Each type of operation which may be performed by the EVM is [[hardcoded]] with a certain gas cost, which is intended to be roughly proportional to the amount of resources ([[computation]] and [[Computer_data_storage|storage]]) a node must expend to perform that operation. When creating a transaction, the sender must specify a ''gas limit'' and ''gas price''. The ''gas limit'' is the maximum amount of gas the sender is willing to use in the transaction, and the ''gas price'' is the amount of ETH the sender wishes to pay per unit of gas used. The higher the ''gas price'', the more incentive a miner has to include the transaction in their block, and thus the quicker the transaction will be included in the blockchain. If a transaction reaches its ''gas limit'' before it finishes executing, the transaction is reverted but the sender still pays for the gas used. Gas prices are typically denominated in Gwei, a subunit of ETH equal to 10<sup>-9</sup> ETH.<ref>{{Cite journal |last=de Azevedo Sousa |first=José Eduardo |date=2020 |title=An analysis of the fees and pending time correlation in Ethereum |url=http://dl.ifip.org/db/conf/lanoms/lanoms2019/196411_1.pdf |journal=International Journal of Network Management |issue=e2113 |access-date=14 October 2020}}</ref>
+
+This fee mechanism is designed to mitigate transaction [[Spamming|spam]], prevent [[infinite loops]] during contract execution, and provide for a [[Market_(economics)|market]]-based allocation of network resources.
+
+===Comparison to bitcoin===
+Ethereum is different from [[Bitcoin]] (the [[cryptocurrency]] with the largest [[market capitalization]] as of October 2020) in several aspects:<ref>{{Cite web |last=Popper |first=Nathaniel |date=1 October 2017 |title=Understanding Ethereum, Bitcoin's Virtual Cousin (Published 2017) |url=https://www.nytimes.com/2017/10/01/technology/what-is-ethereum.html |website=The New York Times}}</ref><ref>{{Cite web |last=Johnson |first=Steven |date=16 January 2018 |title=Beyond the Bitcoin Bubble (Published 2018) |url=https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html |website=The New York Times}}</ref>
+* Bitcoin is a singular form of digital money where users can send, receive and hold only bitcoins. Ethereum is a smart contract platform which allows entities to leverage blockchain technology to create numerous different digital ledgers and can be used to create additional cryptocurrencies that run on top of its blockchain. For example, Ethereum can be used to create tokens that are pegged 1:1 with the value of the [[United States dollar]] (called a [[Stablecoin]]) if a user wanted to transfer or hold the value of dollars on the blockchain. Ether itself can also be sent, received and held as digital money.
+* Bitcoin is aimed to only be money, compared with Ethereum where a goal is to also run applications (like the [[Google Play]] or [[App Store (iOS/iPadOS)|Apple App store]]).
+* Its [[Blockchain#Block time|block time]] is 13 seconds, compared with 10 minutes for bitcoin.
+* [[Mining (cryptocurrency)|Mining]] of Ether generates new coins at a usually consistent rate, occasionally changing during hard forks, while for bitcoin the rate halves every 4 years.
+* For proof-of-work, it uses the [[Ethash]] algorithm which reduces the advantage of specialized [[ASIC]]s in mining.
+* Transaction fees differ by computational complexity, bandwidth use and storage needs (in a system known as gas), while bitcoin transactions compete by means of transaction size, in bytes.
+* Ethereum uses an accounting system where values in Wei (the smallest denomination of 1 Ether, 1 ETH = 10<sup>18</sup> Wei) are debited from accounts and credited to another, as opposed to Bitcoin's UTXO system, which is more analogous to spending cash and receiving change in return.
+
+===Supply===
+The total supply of Ether was around Ξ110.5 million as of 16 April 2020. In 2017, mining generated 9.2 million new ether, corresponding to a 10% increase in its total supply. The shift to Ethereum 2.0 may curb the total supply of Ether.<ref>{{Cite web |date=25 November 2020 |title=Ethereum Upgrade Adds to Crypto Mania Sparked by Bitcoin’s Surge |url=https://www.bloomberg.com/news/articles/2020-11-25/ethereum-upgrade-adds-to-crypto-mania-sparked-by-bitcoin-s-surge |website=Bloomberg.com |language=en}}</ref> There is no currently implemented hard cap on the total supply of ETH.<ref>{{Cite web |last=Varshney |first=Neer |date=11 June 2018 |title=Ethereum's supply has crossed 100M, here's what that means |url=https://thenextweb.com/hardfork/2018/06/11/ethereums-total-supply/ |access-date=25 May 2019 |website=Hard Fork {{!}} The Next Web |language=en-us}}</ref>
+
+=== Difficulty Bomb and The Ice Age ===
+
+The Ethereum Difficulty Bomb refers to a mechanism where the difficulty of blockchain mining began increasing in November 2016, from block 200,000. The onset of the Difficulty Bomb is referred to as Ethereum's Ice Age. The Ice Age was implemented in order to serve as an incentive for the Ethereum network to transition to the Proof of Stake (PoS) blockchain once ready from the Proof of Work (PoW) blockchain. A difficulty bomb was scheduled in February 2019 but was pushed back by developers.<ref name="Olga2019Bomb">{{Cite news |last=Kharif |first=Olga |date=18 January 2019 |title=Ethereum's Split Pushed Back Until After Valentine's Day |publisher=Bloomberg |url=https://www.bloomberg.com/news/articles/2019-01-18/cryptocurrency-ethereum-s-network-update-pushed-back-to-february |access-date=16 February 2020}}</ref>
+
+===Markets and stores===
+Ether can be purchased and sold through regular currency [[brokers]], [[cryptocurrency exchanges]], [[PayPal]]<ref>{{Cite web |last=Irrera |first=Anna |title=PayPal to allow cryptocurrency buying, selling and shopping on its network |url=https://www.reuters.com/article/paypal-cryptocurrency/paypal-to-allow-cryptocurrency-buying-selling-and-shopping-on-its-network-idUSL1N2HB14U |access-date=22 October 2020 |website=Reuters}}</ref> and many online [[cryptocurrency wallet]]s.<ref>{{Cite web |last=Olga Kharif |date=11 October 2017 |title=Fans of Digital Currency Ether Can Now Buy ETNs&nbsp;In Sweden |url=https://www.bloomberg.com/news/articles/2017-10-11/fans-of-digital-currency-ether-can-now-buy-etns-in-sweden |website=[[Bloomberg L.P.|Bloomberg]]}}</ref>
+
+== Platform ==
+
+=== Virtual Machine ===
+The Ethereum Virtual Machine (EVM) is the runtime environment for smart contracts in Ethereum. It is a 256-bit register stack, designed to run the same code exactly as intended. It is the fundamental consensus mechanism for Ethereum. The formal definition of the EVM is specified in the Ethereum Yellow Paper.<ref name=":0" /><ref name="DEBA20">{{Cite report |title=Developing an Ethereum Blockchain Application |last=Triantafyllidis |first=Nikolaos Petros |date=19 February 2016 |publisher=University of Amsterdam |page=20 |chapter=The Ethereum Project: Ethereum History}}</ref> Ethereum Virtual Machines have been implemented in [[C++]], [[C Sharp (programming language)|C#]], [[Go (programming language)|Go]], [[Haskell (programming language)|Haskell]], [[Java (programming language)|Java]], [[JavaScript]], [[Python (programming language)|Python]], [[Ruby (programming language)|Ruby]], [[Rust (programming language)|Rust]], [[Elixir (programming language)|Elixir]], [[Erlang (programming language)|Erlang]], and soon, [[WebAssembly]] (currently under development).
+
+===Smart contracts===
+Ethereum's [[smart contract]]s are based on different computer languages, which developers use to program their own functionalities. Smart contracts are [[High-level programming language|high-level]] programming [[Abstraction (software engineering)|abstractions]] that are compiled down to EVM [[bytecode]] and deployed to the Ethereum blockchain for execution. They can be written in [[Solidity]] (a language library with similarities to [[C (programming language)|C]] and [[JavaScript]]), Serpent (similar to [[Python (programming language)|Python]], but deprecated), Yul (an intermediate language that can compile to various different backends&nbsp;– EVM 1.0, EVM 1.5 and eWASM are planned), LLL (a [[Low-level programming language|low-level]] [[Lisp (programming language)|Lisp]]-like language), and Mutan ([[Go (programming language)|Go]]-based, but deprecated). There is also a research-oriented language under development called Vyper (a [[Strong and weak typing|strongly-typed]] [[Python (programming language)|Python]]-derived [[Recursive language|decidable language]]).
+
+Smart contracts can be public, which opens up the possibility to prove functionality, e.g. self-contained [[provably fair]] casinos.<ref>{{Cite journal |last=Piasecki |first=Piotr J. |year=2016 |title=Gaming Self-Contained Provably Fair Smart Contract Casinos |url=http://www.ledgerjournal.org/ojs/index.php/ledger/article/view/29 |url-status=live |journal=[[Ledger (journal)|Ledger]] |volume=1 |pages=99–110 |doi=10.5195/ledger.2016.29 |archive-url=https://web.archive.org/web/20161224031048/http://www.ledgerjournal.org/ojs/index.php/ledger/article/view/29 |archive-date=24 December 2016 |doi-access=free}}</ref>
+
+One issue related to using smart contracts on a public blockchain is that bugs, including security holes, are visible to all but cannot be fixed quickly.<ref name="Peck20160528">{{Cite web |last=Peck |first=M. |date=28 May 2016 |title=Ethereum's $150-Million Blockchain-Powered Fund Opens Just as Researchers Call For a Halt |url=https://spectrum.ieee.org/tech-talk/computing/networks/ethereums-150-million-dollar-dao-opens-for-business-just-as-researchers-call-for-a-moratorium |url-status=live |archive-url=https://web.archive.org/web/20160530202345/https://spectrum.ieee.org/tech-talk/computing/networks/ethereums-150-million-dollar-dao-opens-for-business-just-as-researchers-call-for-a-moratorium |archive-date=30 May 2016 |website=[[IEEE Spectrum]] |publisher=[[Institute of Electrical and Electronics Engineers]]}}</ref> One example of this is the 17 June 2016 attack on The DAO, which could not be quickly stopped or reversed.<ref name="NYTDAOHACK" />
+
+There is ongoing research on how to use formal verification to express and prove non-trivial properties. A [[Microsoft Research]] report noted that writing solid smart contracts can be extremely difficult in practice, using The DAO hack to illustrate this problem. The report discussed tools that Microsoft had developed for verifying contracts, and noted that a large-scale analysis of published contracts is likely to uncover widespread vulnerabilities. The report also stated that it is possible to verify the equivalence of a Solidity program and the EVM code.<ref>{{Cite web |title=Short Paper: Formal Verification of Smart Contracts |url=http://research.microsoft.com/en-us/um/people/nswamy/papers/solidether.pdf |url-status=dead |archive-url=https://web.archive.org/web/20160827092146/http://research.microsoft.com/en-us/um/people/nswamy/papers/solidether.pdf |archive-date=27 August 2016 |access-date=25 August 2016 |website=microsoft.com/ |publisher=Microsoft}}</ref>
+
+=== Applications ===
+<!--
+IMPORTANT, PLEASE READ BEFORE ADDING AN ENTRY:
+This is not a marketplace, or advertisement page, or app store featured list. Only add applications and ventures that have been the subject to independent, third-party coverage.
+If it has its own Wikipedia page, it's good here too. Otherwise, REMEMBER TO ADD LINKS TO SOURCES. Your fine additions are likely to be removed otherwise.
+Do NOT add direct external links into wikitext, use<ref>.
+-->
+
+Ethereum apps are written in one of seven different [[Turing completeness|Turing-complete languages]].<ref>{{Cite journal |last=Ellul |first=J. |last2=Pace |first2=G. J. |date=September 2018 |title=Runtime Verification of Ethereum Smart Contracts |url=https://ieeexplore.ieee.org/document/8530777 |journal=2018 14th European Dependable Computing Conference (EDCC) |page=158-163 |doi=10.1109/EDCC.2018.00036 |isbn=978-1-5386-8060-5 |s2cid=53285575}}</ref> Developers use the language to create and publish applications which they know will run inside Ethereum. The [[stablecoin]]s [[Tether (cryptocurrency)|Tether]] and DAI,<ref>Berentsen, A., & Schar, F. (2019). Stablecoins: The quest for a low-volatility cryptocurrency. ''Fatas A.(a cura di), Economics of Fintech and Digital Currencies'', 65-71.</ref> and the [[prediction market]] [[Augur (software)|Augur]] are examples of applications that run on Ethereum.<ref>{{Cite web |title=Cryptocurrency in Focus: Augur Bets on Politics |url=https://www.thestreet.com/investing/cryptocurrency/cryptocurrency-in-focus-augur-bets-on-politics-15154296 |access-date=23 January 2020 |website=TheStreet.com}}</ref><ref name="FortuneTether2019">{{Cite news |last=KHARIF |first=OLGA |date=27 August 2019 |title=CryptoKitties Ran Wild on Ethereum First. Now Tether Is Clogging the Digital Ledger |publisher=Fortune |url=https://fortune.com/2019/08/26/ethereum-tether/ |access-date=23 January 2020}}</ref>
+
+Use case proposals have included finance, the [[Internet of Things|internet-of-things]], [[farm-to-table]] produce, [[Smart grid|electricity sourcing and pricing]], and [[sports betting]].<ref>{{Cite web |last=Popper |first=Nathaniel |date=27 March 2016 |title=Ethereum, a Virtual Currency, Enables Transactions That Rival Bitcoin's (Published 2016) |url=https://www.nytimes.com/2016/03/28/business/dealbook/ethereum-a-virtual-currency-enables-transactions-that-rival-bitcoins.html |website=The New York Times}}</ref> For example, [[Breitling SA|Breitling]] issues digital certificates of authenticity to owners of its watches on Ethereum which can be transferred to new owners and help prove authenticity.<ref>{{Cite web |last=Dillet |first=Romain |title=Luxury watch maker Breitling issues digital certificates on the Ethereum blockchain |url=https://techcrunch.com/2020/10/15/luxury-watch-maker-breitling-issues-digital-certificates-on-the-ethereum-blockchain/ |access-date=18 October 2020 |website=TechCrunch}}</ref> Ethereum is (as of 2020) the leading [[blockchain]] platform for [[initial coin offering]] projects, with over 50% market share.<ref>{{Cite news |title=CryptoKitties Ran Wild on Ethereum First. Now Tether Is Clogging the Digital Ledger |language=en |work=Fortune |url=https://fortune.com/2019/08/26/ethereum-tether/ |access-date=23 January 2020}}</ref>
+
+==== Enterprise software ====
+Ethereum-based software and networks, independent from the public Ethereum chain, are being tested by [[enterprise software]] companies.<ref>{{Cite news |title=Big Business Giants From Microsoft to J.P. Morgan Are Getting Behind Ethereum |language=en |work=Fortune |url=http://fortune.com/2017/02/28/ethereum-jpmorgan-microsoft-alliance/ |url-status=live |access-date=8 November 2017 |archive-url=https://web.archive.org/web/20170929173431/http://fortune.com/2017/02/28/ethereum-jpmorgan-microsoft-alliance/ |archive-date=29 September 2017}}</ref> Interested parties include [[Microsoft]], [[IBM]], [[JPMorgan Chase]],<ref name="NYTEVCRB" /> [[Deloitte]], R3, [[Innovate UK]] (cross-border payments prototype).<ref>{{Cite web |title=Settlement using blockchain to Automate Foreign Exchange in a Regulated environment (SAFER) |url=http://gtr.rcuk.ac.uk/projects?ref=720735 |url-status=live |archive-url=https://web.archive.org/web/20160504022052/http://gtr.rcuk.ac.uk/projects?ref=720735 |archive-date=4 May 2016 |website=[[Innovate UK]]}}</ref> [[Barclays]], [[UBS]], [[Credit Suisse]], [[Amazon_(company)|Amazon]] and other companies are also experimenting with Ethereum.<ref>{{Cite web |last=Castillo |first=Michael del |title=Blockchain 50 |url=https://www.forbes.com/sites/michaeldelcastillo/2020/02/19/blockchain-50/?sh=219e535d7553 |website=Forbes |language=en}}</ref><ref>{{Cite web |date=3 December 2020 |title=Beyond Bitcoin: These Cryptocurrencies Are Doing Even Better |url=https://www.bloomberg.com/news/articles/2020-12-03/ethereum-xet-xrp-litecoin-xlc-cryptocurrency-alternative-to-bitcoin-btc |website=Bloomberg.com |language=en}}</ref>
+
+==== Permissioned ledgers ====
+Ethereum-based [[Blockchain (database)#Openness|permissioned blockchain]] variants are used and being investigated for various projects.
+* In 2017 [[JPMorgan Chase|J. P. Morgan Chase]] proposed developing [[JPM Coin]] on a permissioned-variant of Ethereum blockchain dubbed "Quorum".<ref>{{Cite web |title=JP Morgan's Quorum blockchain powers new correspondent banking network " Banking Technology |url=http://www.bankingtech.com/1037032/jp-morgans-quorum-blockchain-powers-new-correspondent-banking-network/ |url-status=live |archive-url=https://web.archive.org/web/20171109080854/http://www.bankingtech.com/1037032/jp-morgans-quorum-blockchain-powers-new-correspondent-banking-network/ |archive-date=9 November 2017 |access-date=8 November 2017 |website=www.bankingtech.com}}</ref> It is "designed to toe the line between private and public in the realm of shuffling derivatives and payments. The idea is to satisfy regulators who need seamless access to financial goings-on, while protecting the privacy of parties that don't wish to reveal their identities nor the details of their transactions to the general public."<ref>{{Cite web |last=Hacket |first=Robert |title=Why J.P. Morgan Chase Is Building a Blockchain on Ethereum |url=http://fortune.com/2016/10/04/jp-morgan-chase-blockchain-ethereum-quorum/ |url-status=live |archive-url=https://web.archive.org/web/20170202033844/http://fortune.com/2016/10/04/jp-morgan-chase-blockchain-ethereum-quorum/ |archive-date=2 February 2017 |website=Fortune}}</ref>
+* [[Royal Bank of Scotland]] has announced that it has built a Clearing and Settlement Mechanism (CSM) based on the Ethereum distributed ledger and smart contract platform.
+
+=== Performance ===
+In Ethereum all smart contracts are stored publicly on every node of the blockchain, which has costs. Being a [[blockchain]] means it is&nbsp;[[secure by design]]{{clarify|date=February 2020}}&nbsp;and is an example of a distributed computing system with high&nbsp;[[Byzantine fault tolerance]]. The downside is that performance issues arise in that every node is calculating all the smart contracts in real time, resulting in lower speeds. As of January 2016, the Ethereum protocol could process about 25 transactions per second. In comparison, the [[Visa Inc.|Visa]] payment platform processes 45,000 payments per second leading some to question the scalability of Ethereum.<ref>{{Cite news |last=Murphy |first=Hannah |date=19 October 2018 |title=The rise and fall of Ethereum |language=en |work=Financial Times |publisher=The Financial Times Ltd |location=London |url=https://www.ft.com/content/a8d2c280-d2b6-11e8-a9f2-7574db66bcd5 |access-date=19 October 2018}}</ref> On 19 December 2016, Ethereum exceeded one million transactions in a single day for the first time.<ref>{{Cite web |last=Filiba |first=Jack |title=Ethereum Breaks One Million Transactions in a Single Day |url=https://discover.coinsquare.io/tech/ethereum-one-million-transaction-day/ |url-status=live |archive-url=https://web.archive.org/web/20171222052607/https://discover.coinsquare.io/tech/ethereum-one-million-transaction-day/ |archive-date=22 December 2017}}</ref>
+
+Ethereum engineers have been working on [[Shard (database architecture)|sharding]] the calculations, and the next step (called Ethereum 2) was presented at Ethereum's Devcon 3 in November 2017.<ref>{{Cite web |last=Galeon |first=Dom |title=Ethereum's Co-Founder Just Unveiled His Plan for the Future of Cryptocurrency |url=https://futurism.com/ethereums-co-founder-just-unveiled-his-plan-for-the-future-of-cryptocurrency/ |url-status=live |archive-url=https://web.archive.org/web/20171109090333/https://futurism.com/ethereums-co-founder-just-unveiled-his-plan-for-the-future-of-cryptocurrency/ |archive-date=9 November 2017}}</ref>
+
+Ethereum's blockchain uses [[Merkle tree]]s, for security reasons, to improve scalability, and to optimize transaction hashing.<ref>{{Cite web |last=Vitalik Buterin |title=Merkling in Ethereum |url=https://blog.ethereum.org/2015/11/15/merkling-in-ethereum |website=Ethereum.org}}</ref> As with any Merkle tree implementation, it allows for storage savings, set membership proofs (called "Merkle proofs"), and light client synchronization. The Ethereum network has at times faced congestion problems, for example, congestion occurred during late 2017 in relation to [[Cryptokitties]].<ref>{{Cite web |last=Joon Ian Wong |title=The ethereum network is getting jammed up because people are rushing to buy cartoon cats on its blockchain |url=https://qz.com/1145833/cryptokitties-is-causing-ethereum-network-congestion/ |website=QZ.com}}</ref>
+
+== Decentralized finance (DeFi) ==
+{{main|Decentralized finance}}
+[[Decentralized finance]] is a use case of Ethereum.<ref>{{Cite web |last=Schroeder |first=Stan |title=DeFi could become the next big thing in finance |url=https://mashable.com/article/defi-growing-fast/ |access-date=2020-07-25 |website=Mashable |language=en}}</ref> It offers [[Financial instrument|traditional financial instruments]] in a decentralized architecture, outside of companies' and governments' control, such as money market funds which let users earn interest.<ref>{{Cite web |last=Kauflin |first=Jeff |title=Why Everyone in Crypto Is Talking About DeFi |url=https://www.forbes.com/sites/jeffkauflin/2019/04/26/why-everyone-in-crypto-is-talking-about-defi/ |access-date=2020-07-25 |website=Forbes |language=en}}</ref> This economic model is based on supply and demand DeFi assets such as DAI, Compound, WBTC and others. [[Uniswap]], a decentralized exchange for tokens on Ethereum has grown from $20 million in liquidity in May 2020 to $2.9 billion as of October 2020.<ref>{{Cite web |last=Konrad |first=Alex |title=These Young Investors Are Still Betting Big On Crypto – And Are Taking Harvard And Stanford Along For The Ride |url=https://www.forbes.com/sites/alexkonrad/2020/10/18/these-young-investors-betting-big-on-crypto-are-taking-harvard-and-stanford-along-for-the-ride/#5642b5e04212 |access-date=21 October 2020 |website=Forbes |publisher=Forbes}}</ref> As of October 2020, over $11 billion was invested in various decentralized finance protocols.<ref name="Zcash">{{Cite web |last=Ehrlich |first=Steven |title=Leading 'Privacy Coin' Zcash Poised For Growth Following Placement On Ethereum |url=https://www.forbes.com/sites/stevenehrlich/2020/10/29/leading-privacy-coin-zcash-poised-for-growth-following-placement-on-ethereum |website=Forbes |language=en}}</ref> Additionally, through a process called "wrapping", certain DeFi protocols allowed synthetic versions of various coins (such as Bitcoin) to become available on Ethereum which allow it to become compatible with all of Ethereum's major wallets and applications.<ref name=Zcash />
+
+==Development governance and EIP==
+{{Quote box |width=30em |title=On social governance |quote=Our governance is inherently social, people who are more connected in the community have more power, a kind of soft power. |author=Vlad Zamfir, Ethereum core developer |source=''The New Yorker''<ref name="Paumgarten">{{Cite news |last=Paumgarten |first=Nick |date=22 October 2018 |title=The Prophets of Cryptocurrency Survey the Boom and Bust |work=[[The New Yorker]] |url=https://www.newyorker.com/magazine/2018/10/22/the-prophets-of-cryptocurrency-survey-the-boom-and-bust |access-date=4 February 2019}}</ref>}}
+
+In October 2015,<ref name="github.com">{{Cite web |title=Update status EIP-1 according to own specification · ethereum/EIPs@db14da1 |url=https://github.com/ethereum/EIPs/commit/db14da1956b857680477c48a85a3d566f69aa2e4#diff-2f1874f8ac5135980a12a961cfafc079 |access-date=2 July 2018 |website=GitHub |language=en}}</ref> a development governance was proposed as [[Ethereum Improvement Proposal]], aka EIP, standardized on EIP-1.<ref>{{Cite web |last=Becze |first=Martin |last2=Jameson |first2=Hudson |title=Ethereum EIP-1 on Github |url=https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1.md |access-date=2 July 2018 |website=GitHub |language=en}}</ref> The core development group and community were to gain consensus by a process regulated EIP.<ref>{{Cite book |last=Antonopoulos |first=Andreas M. |title=Mastering Ethereum : building smart contracts and DApps |last2=Wood |first2=Gavin |publisher=O'Reilly Media, Inc. |year=2018 |isbn=978-1491971949 |edition=First |location=Sebastopol, CA |page=xxvii}}</ref><ref>{{Cite journal |last=Benahmed |first=Daho |date=August 2020 |title=Crypto-Spatial AN Open Standards Smart Contracts Library for Building Geospatially Enabled Decentralized Applications on the Ethereum Blockchain |url=https://ui.adsabs.harvard.edu/abs/2020ISPAr43B4..421B/abstract |journal=ISPRS-International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences |volume=XLIII-B4-2020 |pages=421–426 |bibcode=2020ISPAr43B4..421B |doi=10.5194/isprs-archives-XLIII-B4-2020-421-2020 |access-date=14 October 2020}}</ref>
+
+==Etymology==
+Vitalik Buterin picked the name Ethereum after browsing [[Wikipedia]] articles about elements and science fiction, when he found the name, noting, "I immediately realized that I liked it better than all of the other alternatives that I had seen; I suppose it was the fact that [it] sounded nice and it had the word '[[Luminiferous aether|ether]]', referring to the hypothetical invisible medium that permeates the universe and allows light to travel."<ref name="Paumgarten" />
+
+==Criticisms==
+Izabella Kaminska, the editor of [[FT Alphaville]], pointed out in 2017 that criminals were using Ethereum to run [[Ponzi scheme]]s and other forms of investment fraud.<ref>{{Cite news |last=Kaminska |first=Izabella |date=1 June 2017 |title=It's not a ponzi, it's a smart ponzi |publisher=[[FT Alphaville]] |url=https://ftalphaville.ft.com/2017/06/01/2189634/its-not-just-a-ponzi-its-a-smart-ponzi/ |url-status=live |url-access=registration |archive-url=https://web.archive.org/web/20170723014343/https://ftalphaville.ft.com/2017/06/01/2189634/its-not-just-a-ponzi-its-a-smart-ponzi/ |archive-date=23 July 2017}}</ref> The article was based on a paper from the [[University of Cagliari]], which placed the number of Ethereum smart contracts which facilitate Ponzi schemes at nearly 10% of 1384 smart contracts examined. However, it also estimated that only 0.05% of the transactions on the network were related to such contracts.<ref>{{Cite journal |last=Bartoletti |first=Massimo |last2=Carta |first2=Salvatore |last3=Cimoli |first3=Tiziana |last4=Saia |first4=Roberto |date=January 2020 |title=Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact |journal=Future Generation Computer Systems |volume=102 |pages=259–277 |arxiv=1703.03779 |bibcode=2017arXiv170303779B |doi=10.1016/j.future.2019.08.014 |s2cid=8749672}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category}}
+* {{Official website}}
+
+{{Cryptocurrencies|state=expanded}}
+
+[[Category:Ethereum| ]]
+[[Category:2015 software]]
+[[Category:Blockchains]]
+[[Category:Cross-platform software]]
+[[Category:Cryptocurrencies]]
+[[Category:Directed acyclic graphs]]

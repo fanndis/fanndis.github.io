@@ -1,0 +1,120 @@
+{{Infobox SCOTUS CJcourt| court_name = Rehnquist Court| previous = [[Burger Court]]| next = [[Roberts Court]]| image = William Rehnquist.jpg| image_upright = .75| alt = | caption = [[Chief Justice of the United States|Chief Justice]] [[William Rehnquist]]| start = September 26, 1986| end = September 3, 2005| duration = ({{age in years and days|1986|09|26|2005|09|03}})| location = [[United States Supreme Court Building|Supreme Court Building]]<br/>[[Washington, D.C.]]| positions = [[Judiciary Act of 1869|9]]| decisions = [[List of United States Supreme Court cases by the Rehnquist Court|Rehnquist Court decisions]]}}
+
+The '''Rehnquist Court''' refers to the [[Supreme Court of the United States]] from 1986 to 2005, when [[William Rehnquist]] served as [[Chief Justice of the United States]]. Rehnquist succeeded [[Warren Burger]] as Chief Justice after the latter's retirement, and Rehnquist served as Chief Justice until his death in 2005, at which point [[John Roberts]] was nominated and confirmed as Rehnquist's replacement. The Rehnquist Court is generally considered to be more conservative than the preceding [[Burger Court]], but not as conservative as the succeeding [[Roberts Court]]. According to [[Jeffrey Rosen (legal academic)|Jeffrey Rosen]], Rehnquist combined an amiable nature with great organizational skill, and he "led a Court that put the brakes on some of the excesses of the [[Earl Warren]] era while keeping pace with the sentiments of a majority of the country."<ref name="jrosen1">{{cite news|last1=Rosen|first1=Jeffrey|title=Rehnquist the Great?|url=https://www.theatlantic.com/magazine/archive/2005/04/rehnquist-the-great/303820/|accessdate=27 February 2016|publisher=The Atlantic|date=April 2005}}</ref> 
+
+Biographer John Jenkins argued that Rehnquist politicized the Supreme Court and moved the court and the country to the right.<ref name="bmears1">{{cite news|last1=Mears|first1=Bill|title=New biography details Rehnquist's complex legacy|url=http://www.cnn.com/2012/10/28/justice/rehnquist-legacy/|accessdate=27 February 2016|publisher=CNN|date=28 October 2012}}</ref> Through its rulings, the Rehnquist Court often promoted a policy of [[New Federalism]] in which more power was given to the [[U.S. state|states]] at the expense of the federal government.<ref name="lgreenhouse1">{{cite news|last1=Greenhouse|first1=Linda|title=William H. Rehnquist, Chief Justice of Supreme Court, Is Dead at 80|url=https://www.nytimes.com/2005/09/04/politics/william-h-rehnquist-chief-justice-of-supreme-court-is-dead-at-80.html|accessdate=27 February 2016|work=New York Times|date=4 September 2005}}</ref> The Rehnquist Court was also notable for its stability, as the same nine justices served together from 1994 to 2005, the longest such stretch in Supreme Court history.<ref>{{cite book |title= A Court Divided: The Rehnquist Court and the Future of Constitutional Law |last= Tushnet |first= Mark V. |authorlink=  |year= 2005 |publisher= [[W. W. Norton & Company]] |location=  |isbn= 0-393-05868-9 |url= https://archive.org/details/courtdividedrehn00tush/page/67 |page= [https://archive.org/details/courtdividedrehn00tush/page/67 67] }}</ref>
+
+==Membership==
+Rehnquist joined the Court in 1972 after [[Richard Nixon]] appointed him as an Associate Justice, and Rehnquist remained in that position until [[Ronald Reagan]] elevated him to the position of Chief Justice in 1986, when Warren Burger retired. Rehnquist's vacant Associate Justice seat was filled by [[Antonin Scalia]]. The Rehnquist Court thus began with Scalia and eight members of the [[Burger Court]]: Rehnquist, [[William J. Brennan, Jr.|William Brennan]], [[Byron White]], [[Thurgood Marshall]], [[Harry Blackmun]], [[Lewis F. Powell, Jr.|Lewis Powell]], [[John Paul Stevens]], and [[Sandra Day O'Connor]]. Powell retired in 1987; President Reagan's nomination of [[Robert Bork]] was defeated by the Senate, and his second nominee, [[Douglas Ginsburg]], withdrew before a vote. Reagan's third nominee, [[Anthony Kennedy]], was confirmed by the Senate. Brennan retired in 1990 and Marshall in 1991, giving President [[George H.W. Bush]] the opportunity to appoint Justices [[David Souter]] and [[Clarence Thomas]]. White retired in 1993 and Blackmun retired in 1994, and President [[Bill Clinton]] appointed Justices [[Ruth Bader Ginsburg]] and [[Stephen Breyer]] to replace them.
+
+The composition of the Supreme Court remained unchanged for the balance of the Rehnquist era, which ended when Rehnquist died in September 2005. He was succeeded by the current Chief Justice, [[John Roberts]], who was appointed to the position by [[George W. Bush]].
+
+===Timeline===
+
+{{blockindent|
+{{#tag:timeline| 
+ImageSize = width:775 height:auto barincrement:35
+PlotArea  = top:15 bottom:30 right:30 left:7
+AlignBars = late
+DateFormat = x.y
+Period     = from:1986.74 till:2005.67
+TimeAxis   = orientation:horizontal
+ScaleMajor  = gridcolor:black unit:year increment:1 start:1987
+
+Colors =
+  id:blackline value:rgb(0.212,0.192,0.173)
+  id:blank     value:rgb(1,1,1)
+  id:DE        value:rgb(0,0.749,1)
+  id:JK        value:rgb(0.788,0.627,0.863)
+  id:LJ        value:rgb(0.945,0.612,0.733)
+  id:RN        value:rgb(0.188,0.835,0.784)
+  id:GF        value:rgb(0.757,0.604,0.420)
+  id:RR        value:rgb(1,0.871,0.678)
+  id:GHWB      value:rgb(0.878,1,1)
+  id:BC        value:rgb(0.890,0.976,0.533)
+
+PlotData=
+   width:22 textcolor:black shift:(5,-5) anchor:from fontsize:m)
+   bar:1 color:RR from:1986.74 till:2005.67 text:William Rehnquist (1972&ndash;2005)
+   bar:2 color:DE from:1986.74 till:1990.55 text:William J. Brennan (1956&ndash;1990)
+         color:blank from:1990.55 till:1991.50
+   bar:3 color:GHWB from:1990.77 till:2005.67 text:David Souter (1990&ndash;2009)
+   bar:4 color:JK from:1986.74 till:1993.49 text:Byron White (1962&ndash;1993)
+   bar:5 color:BC from:1993.61 till:2005.67 text:Ruth Bader Ginsburg (1993&ndash;2020)
+   bar:6 color:LJ from:1986.74 till:1991.75 text:Thurgood Marshall (1967&ndash;1991)
+   bar:7 color:GHWB from:1991.81 till:2005.67 text:Clarence Thomas (1991&ndash;present)
+   bar:8 color:RN from:1986.74 till:1994.58 text:Harry Blackmun (1970&ndash;1994)
+   bar:9 color:BC from:1994.59 till:2005.67 text:Stephen Breyer (1994&ndash;present)
+   bar:10 color:RN from:1986.74 till:1987.48 text:Lewis F. Powell (1972&ndash;1987)
+          color:blank from:1987.48 till:1990.90
+   bar:11 color:RR from:1988.13 till:2005.67 text:Anthony Kennedy (1988&ndash;2018)
+   bar:12 color:GF from:1986.74 till:2005.67 text:John Paul Stevens (1975&ndash;2010)
+   bar:13 color:RR from:1986.74 till:2005.67 text:Sandra Day O'Connor (1981&ndash;2006)
+   bar:14 color:RR from:1986.74 till:2005.67 text:Antonin Scalia (1986&ndash;2016)
+
+Linedata=
+ at:2005.67 width:0.5 color:blackline
+}}
+
+'''Bar key''': {{smaller|{{color box|#00bfff|{{ns|4}}}}&nbsp;Eisenhower&nbsp;appointee{{•}} {{color box|#c9a0dc|{{ns|4}}}}&nbsp;Kennedy&nbsp;appointee{{•}} {{color box|#f19cbb|{{ns|4}}}}&nbsp;L.&nbsp;Johnson&nbsp;appointee{{•}} {{color box|#30d5c8|{{ns|4}}}}&nbsp;Nixon&nbsp;appointee{{•}} {{color box|#c19a6b|{{ns|4}}}}&nbsp;Ford&nbsp;appointee{{•}} {{color box|#ffdead|{{ns|4}}}}&nbsp;Reagan&nbsp;appointee{{•}} {{color box|#e0ffff|{{ns|4}}}}&nbsp;G.&nbsp;H.&nbsp;W.&nbsp;Bush&nbsp;appointee{{•}} {{color box|#e3f988|{{ns|4}}}}&nbsp;Clinton&nbsp;appointee}}}}
+
+==Other branches==
+Presidents during this court included [[Ronald Reagan]], [[George H. W. Bush]], [[Bill Clinton]], and [[George W. Bush]]. Congresses during this court included the [[99th United States Congress|99th]] through the [[109th United States Congress|109th]] United States Congresses.
+
+==Rulings of the Court==
+{{see also|List of United States Supreme Court cases by the Rehnquist Court}}
+[[File:USSC justice group photo-2005 current.jpg|thumb|300px|upright=2|The Rehnquist Court in 1998]]
+The Rehnquist Court issued several notable rulings touching on many aspects of American life. Landmark cases of the Rehnquist Court include:<ref name="lgreenhouse1"/><ref name="tcurry1">{{cite news|last1=Curry|first1=Tom|title=Chief justice shaped high court conservatism|url=http://www.nbcnews.com/id/5304454/ns/us_news-the_changing_court/t/chief-justice-shaped-high-court-conservatism/|accessdate=27 February 2016|publisher=NBC|date=4 September 2005}}</ref><ref name="bisk">{{cite news|last1=Biskupic|first1=Joan|title=Rehnquist left Supreme Court with conservative legacy|url=http://usatoday30.usatoday.com/news/washington/judicial/supremecourtjustices/2005-09-04-rehnquist-legacy_x.htm|accessdate=27 February 2016|publisher=USA Today|date=4 September 2005}}</ref>
+* ''[[Texas v. Johnson]]'' (1989): In a 5–4 decision written by Justice Brennan, the Court struck down a state law that prevented the burning of the [[flag of the United States|American flag]]. The court held that the act of burning the flag is protected speech under the [[First Amendment to the United States Constitution|First Amendment]]. In a subsequent case, ''[[United States v. Eichman]]'' (1990), the court struck down a similar federal statute.
+* ''[[Planned Parenthood v. Casey]]'' (1992): In a [[plurality opinion]] jointly written by Justices O'Connor, Kennedy, and Souter, the court upheld the constitutional right to have an [[abortion]] established in ''[[Roe v. Wade]]'' (1973). However, ''Casey'' replaced the [[strict scrutiny]] standard of [[judicial review]] set out in ''Roe'' with the less stringent [[undue burden standard]], giving states more leeway in placing restrictions on abortion (e.g. states can require a 24-hour waiting period).
+* ''[[United States v. Lopez]]'' (1995): In a 5–4 decision written by Justice Rehnquist, the court struck down the [[Gun-Free School Zones Act of 1990]] as an unconstitutional extension of Congressional power. Notably, this case marked the first time since the advent of the [[New Deal]] that the court struck down a law based on the [[Commerce Clause]].<ref name="lgreenhouse1"/> The law in question made it a federal crime to have a handgun near or in a school, and the Court held that possession of a handgun is not an economic activity and does not have a substantial effect on [[interstate commerce]].
+* ''[[United States v. Morrison]]'' (2000): In a 5–4 decision written by Justice Rehnquist, the court struck down portions of the [[Violence Against Women Act of 1994]] as an unconstitutional extension of Congressional power. As in ''Lopez'', the court ruled that Congress had attempted to stretch the [[Commerce Clause]] beyond its constitutional meaning, and it struck down the federal provision that allowed victims of gender-motivated violence to sue their attackers in federal court.
+* ''[[Bush v. Gore]]'' (2000): In a controversial [[per curiam decision]] in which four justices dissented, the Supreme Court overruled the [[Florida Supreme Court]] and halted a manual [[recount]] of the [[2000 United States presidential election|2000 presidential election]] ballots cast in Florida. The court ruled that the recount violated the [[Equal Protection Clause]] as Florida lacked a statewide standard for recounting votes, and also ruled that no recount could possibly take place before the statutory "safe harbor" deadline. Without a recount, Republican [[George W. Bush]] won Florida's electoral votes and the presidency.
+* ''[[Grutter v. Bollinger]]'' (2003): In a 5–4 decision written by Justice O'Connor, the court upheld the [[Affirmative action in the United States|affirmative action]] [[College admissions in the United States#Race and ethnicity|admissions policy]] of the [[University of Michigan Law School]] on the grounds that the law school had a compelling interest in promoting class diversity. The court held that schools could use race as a factor in admissions, so long as the school did not use a quota system, which had been held to be unconstitutional in ''[[Regents of the University of California v. Bakke]]'' (1978).
+* ''[[Lawrence v. Texas]]'' (2003): In a 6–3 decision in which Justice Kennedy wrote the majority opinion, the court invalidated several state [[sodomy law]]s. ''Lawrence'' overturned ''[[Bowers v. Hardwick]]'', a 1986 case in which the court had held that state laws criminalizing gay sexual acts were constitutional. In overturning ''Bowers'', the court ruled that intimate consensual sexual conduct was protected by [[substantive due process]] under the [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]].
+* ''[[McConnell v. FEC]]'' (2003): In a 5–4 decision written by Justices Stevens and O'Connor, the court upheld several provisions of the [[Bipartisan Campaign Reform Act of 2002]], including its restrictions on "[[soft money]]." The court held that not all political speech is protected by the First Amendment, and that the government has a legitimate interest in preventing corruption and the appearance of corruption. The case was partially overturned by ''[[Citizens United v. FEC]]'' (2010).
+
+==Judicial philosophy==
+Rehnquist had often been a lone conservative dissenter during the [[Burger Court]], but the appointments of O'Connor, Scalia, Kennedy, and, perhaps most importantly, Thomas, moved the court to the right.<ref name="jrosen1"/><ref name="bisk2">{{cite news|last1=Biskupic|first1=Joan|title=Justice Stevens' memoir: Modest tone but pointed critiques|url=http://usatoday30.usatoday.com/news/washington/judicial/story/2011-11-02/john-paul-stevens-memoir/51043844/1|accessdate=27 February 2016|publisher=USA Today|date=2 November 2011}}</ref> Rehnquist favored returning power to the states at the expense of the federal government, and he was joined by Justices O'Connor, Scalia, Kennedy, and Thomas in striking down federal laws,<ref name="lgreenhouse1"/> which the Rehnquist Court did more often than any previous court.<ref name="rbl"/><ref name="ringhand">{{cite journal|last1=Ringhand|first1=Lori|title=THE REHNQUIST COURT: A "BY THE NUMBERS" RETROSPECTIVE|journal=Journal of Constitutional Law|date=April 2007|volume=9|issue=4|url=https://www.law.upenn.edu/journals/conlaw/articles/volume9/issue4/Ringhand9U.Pa.J.Const.L.1033(2007).pdf|accessdate=27 February 2016}}</ref> These five justices formed a dominant conservative bloc, though Rehnquist was less committed to ideological purity than Scalia or Thomas,<ref name="jrosen1"/> and Justices Kennedy and O'Connor often served as swing votes who would side with the more liberal justices.<ref name="bisk"/><ref name="clane1">{{cite news|last1=Lane|first1=Charles|title=The Rehnquist Legacy: 33 Years Turning Back the Court|url=https://www.washingtonpost.com/wp-dyn/content/article/2005/09/04/AR2005090401251.html|accessdate=27 February 2016|work=Washington Post|date=5 September 2005}}</ref> O'Connor's prominence as a swing vote led some to call it the "O'Connor Court," and she wrote several important opinions.<ref name="rbl">{{cite journal|last1=Berger Levinson|first1=Rosalie|title=Will the New Federalism Be the Legacy of the Rehnquist Court?|journal=Valparaiso University Law Review|date=Summer 2006|volume=40|issue=3|pages=589–598|url=http://scholar.valpo.edu/cgi/viewcontent.cgi?article=1221&context=vulr|accessdate=27 February 2016}}</ref> Justice Stevens, the most senior associate justice during much of the Rehnquist Court, led the liberal bloc, which also included Justices Souter, Ginsburg, and Breyer.<ref name="dsavage">{{cite news|last1=Savage|first1=David|title=Court's Liberal Bloc Stands Firm|url=http://articles.latimes.com/2005/jul/03/nation/na-legal3|accessdate=27 February 2016|work=LA Times|date=3 July 2005}}</ref> Stevens was often successful in winning over either or both of O'Connor and Kennedy in order to stymie the agenda of the court's conservative bloc.<ref name="msherman">{{cite news|last1=Sherman|first1=Mark|title=Stevens carved liberal legacy on high court|url=http://www.boston.com/news/nation/washington/articles/2010/04/09/stevens_carved_liberal_legacy_on_high_court/|accessdate=27 February 2016|publisher=Boston.com|date=9 April 2010}}</ref> Of the nine justices who served from 1994-2005, seven had been appointed by Republican presidents, and the relative liberalism of some of those justices (particularly Stevens and Souter) frustrated many in the [[Republican Party (United States)|Republican Party]].<ref name="dsavage2">{{cite news|last1=Savage|first1=David|title=Stevens, Souter: Supremely Vexing to GOP|url=http://articles.latimes.com/2001/jun/10/news/mn-8826|accessdate=27 February 2016|work=LA Times|date=10 June 2001}}</ref>
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{refbegin|2}}
+
+===Works centering on the Rehnquist Court===
+* {{cite book |last1=Banks |first1=Christopher P. |last2=Blakeman |first2=John C. |title=The U.S. Supreme Court and New Federalism: From the Rehnquist to the Roberts Court |date=2012 |publisher=Rowman & Littlefield |isbn=9780742535046}}
+* {{cite book |last1=Belsky |first1=Martin H. |title=The Rehnquist Court: A Retrospective |date=2002 |publisher=Oxford University Press |isbn=9780195348934}}
+* {{cite book |last1=Hensley |first1=Thomas R. |last2=Hale |first2=Kathleen |last3=Snook |first3=Carl |title=The Rehnquist Court: Justices, Rulings, and Legacy |date=2006 |publisher=ABC-CLIO |isbn=9781576072004}}
+* {{cite book |last1=Schwarz |first1=Herman |title=The Rehnquist Court: Judicial Activism on the Right |date=2002 |publisher=Hill and Wang |isbn=9780809080731}}
+* {{cite book |last1=Simon |first1=James F. |title=The Center Holds: The Power Struggle Inside the Rehnquist Court |date=2012 |publisher=Simon and Schuster |isbn=9781439143254}}
+* {{cite book |last1=Yarbrough |first1=Tinsley E. |title=The Rehnquist Court and the Constitution |url=https://archive.org/details/rehnquistcourtt00yarb |url-access=registration |date=2000 |publisher=Oxford University Press |isbn=9780195356021}}
+
+===Works centering on Rehnquist Court justices===
+
+* {{citation |last1=Barnhart|first1=Bill |last2=Schlickman |first2=Gene |title=John Paul Stevens: An Independent Life |publisher=Northern Illinois University Press |year=2010 |isbn=978-0-87580-419-4 }}
+* {{cite book |last1=Biskupic |first1=Joan |title=American Original: The Life and Constitution of Supreme Court Justice Antonin Scalia |url=https://archive.org/details/americanoriginal00bisk |url-access=registration |date=2009 |publisher=Farrar, Straus and Giroux |isbn=9781429990011}}
+* {{cite book |last1=Colucci |first1=Frank J. |title=Justice Kennedy's Jurisprudence: The Full and Necessary Meaning of Liberty |date=2009 |publisher=University Press of Kansas |isbn=9780700616626}}
+* {{cite book |last1=Hirshman |first1=Linda |title=Sisters in Law: How Sandra Day O'Connor and Ruth Bader Ginsburg Went to the Supreme Court and Changed the World |date=2015 |publisher=HarperCollins |isbn=9780062238481}}
+* {{cite book |last1=Jenkins |first1=John A. |title=The Partisan: The Life of William Rehnquist |date=2012 |publisher=PublicAffairs |isbn=9781586488871}}
+* {{cite book |last1=Rossum |first1=Ralph A. |title=Understanding Clarence Thomas: The Jurisprudence of Constitutional Restoration |date=2014 |publisher=University Press of Kansas |isbn=9780700619481}}
+* {{cite book |last1=Yarbrough |first1=Tinsley E. |title=David Hackett Souter: Traditional Republican on the Rehnquist Court |date=2005 |publisher=Oxford University Press |isbn=9780195347906}}
+
+===Other relevant works===
+
+* {{cite book|last1=Abraham|first1=Henry Julian|title=Justices, Presidents, and Senators: A History of the U.S. Supreme Court Appointments from Washington to Bush II|date=2008|publisher=Rowman & Littlefield|isbn=9780742558953}}
+* {{cite book |editor1-last=Hall |editor1-first=Kermit L. |editor2-last=Ely, Jr. |editor2-first=James W. |editor3-last=Grossman |editor3-first=Joel B. |title=The Oxford Companion to the Supreme Court of the United States |date=2005 |publisher=Oxford University Press |edition=2nd |isbn=9780195176612}}
+* {{cite book |editor1-last=Hall |editor1-first=Kermit L. |editor2-last=Ely, Jr. |editor2-first=James W. |title=The Oxford Guide to United States Supreme Court Decisions |date=2009 |publisher=Oxford University Press |edition=2nd |isbn=978-0195379396}}
+* {{cite book |last1=Hall |first1=Timothy L. |title=Supreme Court Justices: A Biographical Dictionary |date=2001 |publisher=Infobase Publishing |isbn=9781438108179}}
+* {{cite book |last1=Hoffer |first1=Peter Charles |last2=Hoffer |first2=WilliamJames Hull |last3=Hull |first3=N. E. H. |title=The Supreme Court: An Essential History |date=2018 |publisher=University Press of Kansas |edition=2nd |isbn=978-0-7006-2681-6}}
+* {{cite book |last1=Irons |first1=Peter |title=A People's History of the Supreme Court: The Men and Women Whose Cases and Decisions Have Shaped Our Constitution |url=https://archive.org/details/peopleshistoryof00iron_0 |url-access=registration |date=2006 |publisher=Penguin |isbn=9781101503133 |edition=Revised}}
+* {{cite book |editor1-last=Tomlins |editor1-first=Christopher |title=The United States Supreme Court: The Pursuit of Justice |publisher=Houghton Mifflin Harcourt |date=2005 |isbn=978-0618329694 |url=https://archive.org/details/unitedstatessupr00toml }}
+{{refend}}
+
+{{SCOTUS Justices|chiefjustices}}
+{{SCOTUS horizontal}}
+
+[[Category:1990s in the United States]]
+[[Category:2000s in the United States]]
+[[Category:United States Supreme Court history by court]]

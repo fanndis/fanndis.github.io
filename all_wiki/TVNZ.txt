@@ -1,0 +1,333 @@
+{{short description|A state-owned television network that is broadcast throughout New Zealand}}
+{{Redirect|Television New Zealand|New Zealand television in general|Television in New Zealand}}
+{{EngvarB|date=November 2015}}
+{{Use dmy dates|date=November 2015}}
+{{Infobox company
+| name        = Television New Zealand, Limited
+| logo        = Television New Zealand logo 2016.svg
+| logo_size           = 150px
+| logo_caption        = ''Our Nation, Our Voice''
+| type                = [[Crown entity]] (state-owned)
+| industry            = [[Terrestrial television|Broadcast]] television
+| num_locations       = [[New Zealand]]
+| location            = [[Auckland|Auckland, New Zealand]]
+| area_served         = Nationally (New Zealand) and some [[Pacific Island]] nations such as the [[Cook Islands]], [[Fiji]], and the [[Solomon Islands]]
+| founded             = {{Start date and age|1980|2}}
+| owner               = [[Minister of Finance (New Zealand)|Minister of Finance]] (50%)<br />[[Minister of Broadcasting (New Zealand)|Minister of Broadcasting]] (50%)<ref>{{cite web|url=https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/408578/shareholdings|title=Television New Zealand Limited Shareholdings|website=companies.govt.nz|url-status=live|access-date=2019-11-06}}</ref>
+| key_people          = Kevin Kenrick (CEO)
+| homepage            = {{URL|http://www.tvnz.co.nz}}
+| divisions           = {{unbulleted list|[[TVNZ 1]]|[[TVNZ 2]]|[[TVNZ Duke]]}}
+| products            = [[Television]]
+| subsid              = Former TV stations{{unbulleted list|[[TVNZ Sport Extra]] (2009)|[[TVNZ 6]] (2011)|[[TVNZ 7]] (2012)|[[U (TV channel)|U]] (2013)|[[TVNZ Heartland]] (2015)|[[TVNZ Kidzone]] (2016)}}
+| revenue             = {{decrease|-2.5%}}{{currency|310.673 million|NZD}} (2019)<ref name=tvnzreport2019>{{Cite web|url=https://images.tvnz.co.nz/tvnz_images/TVNZAnnualReport2019_digital.pdf|title=TVNZ Annual Report 2019|format=PDF|website=tvnz.co.nz|url-status=live|publication-date=2019-08-29|access-date=2019-11-06}}</ref>
+| net_income          = {{decrease|-43.5%}}{{currency|2.872 million|NZD}} (2019)<ref name=tvnzreport2019 />
+| assets              = 43.2% (2019)<ref name=tvnzreport2019 />
+| predecessor         = {{ubl|[[TVNZ 1|Television One]]|[[South Pacific Television]]}}
+}}
+'''Television New Zealand''' ({{lang-mi|Te Reo Tātaki o Aotearoa}}), more commonly referred to as '''TVNZ''', is a [[Crown entity|state-owned]] [[television network]] that is broadcast throughout New Zealand and parts of the Pacific region. Although the network identifies as a national, [[Public broadcasting in New Zealand|part-public broadcaster]], it is commercially funded.
+
+TVNZ was established in February 1980 following the merger of the two governement-owned television networks, Television One (now [[TVNZ 1]]) and [[South Pacific Television]] (now [[TVNZ 2]]), under a single administration. It was the sole television broadcaster in New Zealand until November 1989 when private channel TV3 (now [[Three (TV channel)|Three]]) was launched.
+
+TVNZ operates [[playout]] services from its [[Auckland]] studio via Kordia's fibre and microwave network for [[TVNZ 1]], [[TVNZ 2]] and [[TVNZ Duke]], with [[new media]] video services via the American-owned [[Brightcove]] which is streamed on the [[Akamai Technologies|Akamai]] [[Real Time Messaging Protocol|RTMP]]/[[HTTP Live Streaming|HLS]] DNS based caching network. Its former channels include [[TVNZ Kidzone]] (closed 30 April 2016), [[TVNZ Heartland]] (closed 31 May 2015), [[TVNZ U]] (closed August 2013), [[TVNZ 7]] (closed June 2012), [[TVNZ 6]] (closed 2011), and [[TVNZ Sport Extra]] (closed 2009).
+
+Approximately 90% of TVNZ's revenue is from commercial activity (such as advertising and merchandising).<ref>[http://www.iab.org.nz/directory/item/tvnz], IAB New Zealand website</ref> The remainder of its funding comes from government funding agencies.
+
+==History==
+<!--The years in this table refer to year of inception, not year of closure. Hence the final year channels appear in may actually be the penultimate year they were on the air-->
+{| class="wikitable" style="text-align:center;"
+! Ownership
+! {{diagonal split header|Year|&nbsp;Channel<br/>&nbsp;}} <!-- a small hack here for aesthetics -->
+!1
+!2
+!6
+!7
+!13
+!14
+!20
+!Sky 17
+!Sky 46
+|-
+!rowspan=3|''Separate''
+!1960
+|NZBC TV
+|{{NA}}
+| rowspan="6" {{NA}}
+| rowspan="7" {{NA}}
+| rowspan="13" {{NA}}
+| rowspan="16" {{NA}}
+| rowspan="6" {{NA}}
+| rowspan="8" {{NA}}
+| rowspan="9" {{NA}}
+|-
+!1975
+| rowspan="14" |TV One
+|TV2
+|-
+!1976
+|[[South Pacific Television]]
+|-
+!rowspan=50|TVNZ
+!1980
+|TV2
+|-
+!1989
+|Channel 2
+|-
+!1995
+| rowspan="10" |TV2
+|-
+!2007
+| rowspan="3" |[[TVNZ 6]]
+| rowspan="2" |[[TVNZ Sport Extra]]
+|-
+!2008
+| rowspan="3" |[[TVNZ 7]]
+|-
+!2010
+| rowspan="50" {{NA}}
+| rowspan="5" |[[TVNZ Heartland]]
+|-
+!2011
+| rowspan="2" |[[U (TV channel)|U]]
+| rowspan="5" |[[TVNZ Kidzone24]]
+|-
+!2012
+|TV One Plus 1
+|-
+!2013
+| rowspan="4" |TV One Plus 1
+| rowspan="4" |TV2+1
+|-
+!2014
+|-
+!2015
+|TVNZ Pop-up
+| rowspan="50" {{NA}}
+|-
+! rowspan="2" |2016
+| Duke
+| rowspan="50" {{NA}}
+|- <!-- still 2016; there's no <th> in this row, so force row height with a styled <p> tag -->
+| rowspan=3 | <p style="margin:2em 0;">[[TVNZ 1]]</p>
+|rowspan="3" |[[TVNZ 2]]
+|rowspan="3" |[[TVNZ 1+1]]
+|rowspan="3" |[[TVNZ 2+1]]
+|rowspan="3" |[[TVNZ Duke]]
+|-
+! rowspan=2 |2018
+|TVNZ Games Extra
+|-
+| {{NA}}
+|}
+
+===Formation===
+TVNZ was created in February 1980, through the [[merger]] of [[TVNZ 1|Television One]] and [[South Pacific Television]] (which was renamed TV2). Until January 1989, it was paired with [[Radio New Zealand]] as the Broadcasting Corporation of New Zealand (BCNZ).
+
+The broadcaster was initially based in Television One's former headquarters at the [[Avalon Studios|Avalon television centre]] in [[Lower Hutt]], however over the course of the 1980s, operations were gradually moved to Auckland. In 1989, TVNZ moved to a new television centre in central Auckland.
+
+Broadcasting in New Zealand was [[Deregulation|deregulated]] in 1989.
+
+===Role as public broadcaster===
+The Labour-led government under [[Helen Clark]] from 1999 to 2008 pursued a programme of public broadcasting reforms. New Zealand's wide-ranging adoption of [[neoliberal]] policies in the mid-1980s and 1990s had large sections of the [[State sector organisations in New Zealand|state sector]] [[privatisation|privatised]]. As a state owned enterprise, TVNZ enjoyed enormous commercial success (sustaining two-thirds of the overall audience share) and paid the Crown substantial dividends (over $250&nbsp;million between 1989 and 1999). However, the commercial success had been achieved through an unabashed pursuit of ratings through populist and [[Tabloid (newspaper format)|tabloid]] content, and prior to the 1999 election the National-led government was evidently positioning TVNZ for commercialisation Labour-led administrations since 1999 explicitly recognised the market failures of a wholly commercial broadcasting sector (e.g. saturation-level advertising, low levels of local content, heavy reliance on cheap imports and a disregard for quality genres and in-depth news and current affairs) and re-emphasised television's cultural and democratic functions in their policy thinking.
+
+The Clark government's highest profile broadcasting reform to date was the restructuring of TVNZ as a [[Crown entity]] in 2003. This introduced a dual remit whereby the broadcaster had to maintain its commercial performance (continuing dividend payments to the Crown) while simultaneously implementing a new public service Charter.
+
+The TVNZ Charter would require the negotiation and reconciliation of potentially contradictory commercial and public service imperatives. The final version of the TVNZ Charter included a range of public service objectives and expectations.
+
+However, this dual remit precluded any transformation of TVNZ into fully-fledged public service broadcaster, and TVNZ's efforts to balance its pursuit of commercial performance and Charter objectives were soon being criticised. Despite some investment in local content, including new documentaries and discussion programmes, the content on TV One and TV2 remained similar to the pre-charter schedules, with a continuing high proportion of light entertainment and [[reality-TV]] shows.
+
+TVNZ continues to pay dividends to the Crown. However, from 2006 until 2009 TVNZ received $15.11&nbsp;million each year from Government to assist it with fulfilling Charter obligations. There was much debate about the initial secrecy surrounding funding allocations and the programmes supported. The allocation of $5&nbsp;million toward coverage of the 2008 Olympics, the rights for which are secured by a competitive tender between broadcasters, was possibly the most controversial. In 2009 the Government gave control of that funding to funding agency [[NZ On Air]]. NZ On Air announced the creation of the contestable "Platinum Fund" in April 2009, setting aside the $15.11&nbsp;million for high quality drama, documentary and other programme types. Following the election of a National Party-led government under [[John Key]] in 2008, the Charter was abolished in favour of a return to the 1990s model of a full commercial broadcaster.<ref>{{cite news |url=http://www.3news.co.nz/TVNZ-Charter-abolished/tabid/419/articleID/218595/Default.aspx |title=TVNZ Charter abolished |publisher=Newshub |date=13 July 2011 |accessdate=23 November 2016}}</ref>
+
+There is much debate on the future of TVNZ, which focuses on the nature of public service broadcasting and its commercial role. An example was in a memo called ''A More Public Broadcaster'' written by outgoing Chief Executive [[Ian Fraser (broadcaster)|Ian Fraser]] to the board of TVNZ in October 2005, was obtained and released by Green MP [[Sue Kedgley]]. The memo outlined three (four) options.
+
+These were:
+* TV One as a fully non-commercial network, like [[Australian Broadcasting Corporation|ABC]] in Australia, charged with delivering Charter values, and possibly merging with [[Radio New Zealand]] and [[Māori Television]]
+* TV One a semi-commercial broadcaster with no more than six minutes of advertisements an hour like [[Special Broadcasting Service|SBS]] in Australia
+* TV One and TV2 remaining unchanged, but two new public service channels being broadcast via digital television.<ref>{{cite news |url=http://www.nzherald.co.nz/section/story.cfm?c_id=1&ObjectID=10359765 |title=Chief outlines 'major problem' at TVNZ |publisher=NZHerald |date=13 December 2005 |accessdate=23 November 2016}}</ref>
+* TV One and TV2 are now fully commercial with 15 – 20 minutes of ads per hour, plus ads overplayed over programs.
+
+On 15 February 2006, a group of 31 prominent New Zealanders signed an open letter, published as a full-page newspaper advertisement, calling for better quality programmes and less advertising on TVNZ. These included mountaineer [[Edmund Hillary|Sir Edmund Hillary]], and former [[Governor-General of New Zealand|governors-general]] [[Michael Hardie Boys|Sir Michael Hardie Boys]] and [[Catherine Tizard|Dame Catherine Tizard]]. However, they were accused of being out of touch and nostalgic for local programmes from the 1970s and 1980s, when New Zealand had only one or two TV channels.
+
+While the Broadcasting Minister, [[Steve Maharey]] ruled out turning TVNZ into an entirely non-commercial broadcaster, on 25 February, he stated that the Labour Government was "pretty much settled" on the introduction of two new free-to-air, non-commercial channels available via digital television. One channel could show high-end international documentaries, re-runs of ''One News'' and minority programmes with a high local content, and another, primarily for children, screening serious drama and arts at night. These channels would eventually become known as TVNZ 7 and TVNZ 6 respectively.{{citation needed|date=November 2016}}
+
+===Digital era===
+In early 2006, TVNZ purchased Harmonic branded [[H.262]] encoding equipment for the upcoming Freeview DTH service, which is an Electra 1000 on-the-fly video re-encoder.<ref name="harmonicinc.com">{{cite web|url=http://www.harmonicinc.com/news/television-new-zealand-launches-new-freeview-hd-and-sd-digital-terrestrial-service-harmonics|title=Television New Zealand Launches New Freeview HD and SD Digital Terrestrial Service with Harmonic's Video Solutions|work=Harmonic Inc|accessdate=2 May 2015}}</ref>
+
+On 14 November 2006, TVNZ announced plans to launch two commercial-free digital channels. The first, with the working title [[TVNZ News 24]], would feature news, sport and special interest content, and be launched in late 2007. This would be followed by a channel featuring children's, families', arts and documentary programming, with the working title of TVNZ Home, in early 2008.<ref>{{cite web|url=http://www.scoop.co.nz/stories/BU0611/S00272.htm|title=A Momentous Day for TVNZ - Scoop News|publisher=}}</ref> While 80 per cent of the programming would be local content, 70 per cent of this would consist of repeats from TVNZ's existing channels or its archive.
+
+In April 2008, TVNZ made another purchase of more [[H.264]] encoding equipment for the upcoming Freeview HD DTT service, which are the Electra 7000 for HD and Electra 5400 for SD on-the-fly video re-encoders.<ref name="harmonicinc.com"/>
+
+The proposal was criticised by [[TV3 (New Zealand)|TV3]], which accused the Government of "bailing out" TVNZ and argued that the money would be better spent on new programming<ref>http://www.newswire.co.nz/main/viewstory.aspx?storyid=346453&catid=17</ref> Although [[Sue Kedgely]] welcomed the decision to make the channels (including children's programming) commercial-free, she accused the Government of tight-fistedness.<ref>{{cite web|url=http://www.scoop.co.nz/stories/PA0611/S00253.htm|title=Digital television funding falls short of vision - Scoop News|publisher=}}</ref>
+
+In late 2011, TVNZ and its pay-TV rival [[Sky Network Television]] announced the joint venture ''[[Igloo (TV)|Igloo]]'', which is to provide a low-cost pay-TV service for households not currently covered by Freeview or Sky.
+
+In mid 2013, TVNZ changed its on-screen branding to a more flat, modern look.<ref name=logos>{{cite web|title=Logos|url=http://tvnz.co.nz/planit-toolbox/tvnz-logos-3083642|website=TVNZ Planit Toolbox|publisher=TVNZ|accessdate=1 January 2015|ref=logos}}</ref>
+
+TVNZ went fully digital in December 2013, with the accompanying shutdown of the analogue transmitters to free up spectrum for telecommunications use.<ref>{{cite web|url=http://goingdigital.co.nz/|title=Going Digital – Home|publisher=|accessdate=2 May 2015}}</ref>
+
+In January 2017 TVNZ launched their 'New Blood Web Series Competition' supported by NZ On Air. The competition is calling for aspiring content creators to submit a web series pilot episode. The winner will receive $100,000 to make a complete web series, which will launch through TVNZ's online channels.<ref>{{cite web|url=http://www.scoop.co.nz/stories/BU1701/S00162/tvnz-new-blood-web-series-opens.htm|title=TVNZ New Blood Web Series Opens - Scoop News|publisher=}}</ref>
+
+===Conflicts===
+In addition to debates over whether TVNZ should be a public broadcaster or a commercial one, there have been other controversies.
+
+For 3 weeks in January–February 1999, [[John Hawkesby]] became a weekday newsreader for One News, replacing [[Richard Long (broadcaster)|Richard Long]] (who moved to presenting weekend bulletins alongside Liz Gunn). The change was short-lived, and Hawkesby received a $5.2m payout.
+
+In 2000, the Broadcasting Standards Authority ruled against TVNZ over inaccuracies in a news story about the drug Lyprinol, which was erroneously touted as a cure for cancer.<ref>{{cite web|title=Ministry of Health and Television New Zealand Ltd – 2000-030, 2000–031|url=http://bsa.govt.nz/decisions/show/4027|website=Broadcasting Standards Authority|accessdate=22 October 2015}}</ref>
+
+In 2004 current affairs veteran of 15 years [[Paul Holmes (broadcaster)|Paul Holmes]] sparked a public outcry after he referred to United Nations Secretary-General [[Kofi Annan]] as a "cheeky darkie" on his radio show on Newstalk ZB and subsequently chose not to renew his contract at TVNZ.
+
+Also in 2004 there was the public outcry over newsreader [[Judy Bailey]]'s $800,000 salary package, negotiated with head of news and current affairs at TVNZ [[Bill Ralston]], she finished her final 12-month contract the following year after 34 years working at the broadcaster.
+
+In late 2010, TVNZ garnered criticism over various comments made by ''Breakfast'' host [[Paul Henry (broadcaster)|Paul Henry]]. Henry had referred to Delhi Commonwealth Games organiser [[Sheila Dikshit]] as "the dip shit woman" and "Dick Shit", going on to state that "it's so appropriate, because she's Indian, so she'd be dick-in-shit wouldn't she, do you know what I mean? Walking along the street... she's just so funny, isn't she?"<ref name="indiacomment">{{cite news |url=http://www.stuff.co.nz/entertainment/tv/4203109/Dikshit-giggles-New-Henry-drama |title=Dikshit giggles: New Henry drama |publisher=Stuff |date=6 October 2010 |accessdate=6 October 2010}}</ref> Henry also questioned whether the [[Governor-General of New Zealand]] [[Anand Satyanand]] was "even a New Zealander", going on to ask, "Are you going to choose a New Zealander who looks and sounds like a New Zealander this time ... are we going to go for someone who is more like a New Zealander this time?"<ref name="newzealandertsr">{{cite news |url=http://www.mediaspy.org/report/2010/10/04/tvnzs-paul-henry-slammed-over-governor-general-remarks/ |title=TVNZ's Paul Henry slammed over Governor-General remarks |publisher=Media Spy |work=The Spy Report |date=4 October 2010 |accessdate=4 October 2010}}</ref><ref name="newzealanderstuff">{{cite news |url=http://www.stuff.co.nz/entertainment/tv/4194441/Henry-causes-a-stir-again |title=Henry causes a stir – again  |publisher=Stuff |date=4 October 2010 |accessdate=4 October 2010}}</ref> Following widespread public complaints and official criticism, Henry was suspended from TVNZ for 2 weeks without pay, eventually resigning from the broadcaster. Henry's resignation polarised the New Zealand public, with supporters claiming he was a victim of [[political correctness]], and critics accusing him of pandering to the [[Sensationalism|lowest common denominator]].<ref name="NZ_Herald_10699764">{{cite news |url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10699764 |title=Henry foes, fans evenly split |author=Vass, Beck |date=15 January 2011 |work=[[The New Zealand Herald]] |accessdate=19 November 2011}}</ref>
+
+==Governance==
+[[File:TV New Zealand Building.jpg|thumb|right|TVNZ headquarters in Auckland.]]
+
+===Board of directors===
+The TVNZ Board is the governing board of Television New Zealand. It is appointed by the [[Minister of Broadcasting, Communications and Digital Media]], who is {{As of|December 2017|alt=currently}} [[Clare Curran]].<ref>{{cite web |title=Hon Clare Curran |url=https://www.beehive.govt.nz/minister/hon-clare-curran |website=Beehive.govt.nz |accessdate=29 June 2018 |language=en}}</ref> {{As of|August 2017}}, the directors are: the chairperson [[Therese Walsh|Dame Therese Walsh]] (Wellington), deputy chairperson [[Andy Coupe]] (Hamilton), [[Abby Foote]] (Christchurch), [[Cameron Harland]] (Lower Hutt), [[Toko Kapea]] (Wellington), [[Kevin Malloy]] (Auckland), [[Julia Raue]] (Auckland) and [[Susan Turner]] (Auckland).<ref>{{cite news|title=TVNZ board appointments|url=https://www.beehive.govt.nz/release/tvnz-board-appointments|accessdate=26 August 2017|website=beehive.govt.nz|publisher=New Zealand Government|date=28 April 2017|language=en-nz}}
+
+</ref><ref>{{cite web|title=Our Board|url=http://tvnz.co.nz/tvnz-corporate-comms/our-board-4902648|publisher=TVNZ|accessdate=26 August 2017}}</ref>
+
+===Charter===
+
+The [[Fifth Labour Government of New Zealand|Labour Government]] introduced a "TVNZ Charter" in 2002.<ref>{{cite web|title=TVNZ Draft Charter|url=http://www.executive.govt.nz/minister/hobbs/tvnz/|publisher=TVNZ|accessdate=28 April 2017|date=3 June 2001|url-status=bot: unknown|archiveurl=https://web.archive.org/web/20010603185010/http://www.executive.govt.nz/minister/hobbs/tvnz/|archivedate=3 June 2001|df=dmy-all}}</ref> This was a list of objectives for TVNZ which specified it must broadcast a wide variety of New Zealand-made content; the broadcaster was given public responsibility to provide news, drama, documentaries and "promote understanding of the diversity of cultures".<ref name="Charter">{{cite web|last1=Burr|first1=Lloyd|title=TVNZ Charter abolished|url=http://www.newshub.co.nz/general/tvnz-charter-abolished-2011071310|website=Newshub|accessdate=28 April 2017|date=7 December 2011}}</ref> In 2008 the Government announced that the broadcaster was to become "more public-service" like. TVNZ responded by launching two commercial free channels; [[TVNZ 6]] and [[TVNZ 7]]. By 2011 Prime Minister [[John Key]] announced the closure of these channels. 6 in 2011, and 7 in mid-2012, with much of their content put into [[TVNZ Heartland]] and [[TVNZ Kidzone24]] which are only available behind a Sky TV paywall.<ref>{{cite web|url=http://www.scoop.co.nz/stories/HL1206/S00194/public-disservice-broadcasting-the-shameful-demise-of-tvnz7.htm|title=Public Disservice Broadcasting: The shameful demise of TVNZ7|publisher=|accessdate=2 May 2015}}</ref> The [[fifth National Government of New Zealand|National Government]] abolished the Charter in 2011.<ref name="Charter" /> Political opponents accused the Government of reducing TVNZ's commitments as a public broadcaster.<ref name="Charter" />
+
+== Channels ==
+[[File:TVNZ Building.jpg|thumb|Satellite dish on roof of TVNZ Building, Hobson Street, [[Auckland CBD]]]]
+
+=== TVNZ 1 ===
+{{Main|TVNZ 1}} 
+TVNZ 1 is TVNZ's flagship channel. Launched on 1 June 1960, it has a broad range of programming, including news, sport, food, drama, and comedy. Its news service is ''[[1 News]]'' and its sports division is ''[[1 Sport]]''
+
+The channel, once the traditional home of television sport, has since lost the rights to most of the world's main sporting events, including the Olympics, and [[All Blacks]] test matches to pay television competitor [[Sky Network Television|Sky]]. TVNZ 1 also broadcasts rural focused programmes such as ''Country Calendar'' and ''Rural Delivery'', Māori community presentations such as ''Waka Huia'', ''[[Marae (TV series)|Marae Investigates]]'' and ''[[Te Karere]]'', a daily [[Māori language|Te Reo]] news bulletin, and shows for minorities, such as ''Attitude'', ''Neighbourhood'', ''A Taste of Home'' and ''Tagata Pasifika''. Elsewhere TVNZ 1 specialises in food shows, including the locally produced ''Masterchef'', and international shows, mostly from the [[BBC]] and [[Network Ten]] Australia.
+
+=== TVNZ 2 ===
+{{Main|TVNZ 2}}
+TVNZ 2 targets a younger audience than TVNZ 1. Launched on 30 June 1975, its line up consists of dramas, sitcoms, comedies, children's programming, and reality shows, most of which are produced in New Zealand or imported from the United States.
+
+Locally produced content includes ''[[Shortland Street]]'', ''[[Motorway Patrol]]'' and ''[[What Now]]'', and international shows (which are predominantly American) include ''[[The Big Bang Theory]]'', ''[[The Simpsons]]'' and ''[[The Walking Dead (TV series)|The Walking Dead]]''. TVNZ 2 is sold by TVNZ as the "home of entertainment".
+
+===TVNZ Duke===
+{{Main|TVNZ Duke}} 
+TVNZ Duke was launched on 20 March 2016. It broadcasts between the hours of 6pm and midnight, although it occasionally screens live sport events outside of these hours. It screens programming targeted at a male audience with comedy and drama series such as ''[[Two and a Half Men]]'', ''[[Family Guy]]'', ''[[Mythbusters]]'', ''[[The Late Late Show with James Corden]]''. It also screens a number of sporting events such as the [[Men's FIH Pro League|Men's]] and [[Women's FIH Pro League|Women's]] Hockey Pro Leagues and the [[Super Smash (cricket)|Dream11 Super Smash]] domestic cricket tournament.
+
+===Timeshift channels===
+TVNZ broadcasts [[timeshift channel]]s of its three television channels. These broadcast the Auckland feed, delayed by one hour. [[TVNZ 1#TVNZ 1+1|TVNZ 1+1]] was launched on 1 July 2012, replacing [[TVNZ 7]]. [[TVNZ 2#TVNZ 2+1|TVNZ 2+1]] was launched on 1 September 2013, replacing [[TVNZ U]]. [[TVNZ Duke#TVNZ Duke+1|TVNZ Duke+1]] was launched on 17 November 2020.{{cn|date=November 2020}}
+
+==Other services==
+Internationally, TVNZ has helped provide television services in [[Pacific Islands|Pacific Island]] nations such as the [[Cook Islands]], [[Fiji]], and the [[Solomon Islands]]. While TVNZ provides much of the programming, scheduling and [[continuity (broadcasting)|continuity]] are done locally.
+
+Because of its history TVNZ has inherited and developed its own services in the production and broadcasting services area. These include The New Zealand Television Archive, production facilities, television school.
+
+===TVNZ Archive===
+{{Main|Television New Zealand Archive}}
+The TVNZ Archive collection contains over 600,000 hours of television spanning almost 55 years of New Zealand's public television history.<ref name="craig-foss-transfer-speech">{{cite speech|title=Draft speech|first=Craig|last=Foss|event=Function to mark the transfer of responsibility for the TVNZ Archives to the New Zealand Film Archive|location=Wellington, New Zealand|date=July 31, 2014|url=https://fyi.org.nz/request/6578/response/22258/attach/4/Joss%20J%20OIA%20documents%20for%20release.pdf|access-date=2017-12-16}}</ref> It includes iconic New Zealand content such as documentaries, dramas, sports programmes<ref name="mch-briefing-2014-36">{{cite report|author=Ministry for Culture and Heritage|date=February 14, 2013|title=TVNZ Archive - Update on IP issues (briefing 2014/36)|url=https://fyi.org.nz/request/6578/response/22258/attach/4/Joss%20J%20OIA%20documents%20for%20release.pdf|page=11|access-date=2017-12-16}}</ref> and every TVNZ news broadcast from December 1986 to 2014.<ref name="ntsv-tvnz-collection-video">{{cite web|title=Video: Preserving the TVNZ Collection|url=https://ngataonga.org.nz/preservation/our-preservation-work/video-preserving-the-tvnz-collection|access-date=2017-12-28}}</ref><ref name="oia-5402-fyi-release">{{cite web|title=Official Information Act request (5402)|url=https://fyi.org.nz/request/5402-avalon-archive-facility-follow-up-information-requested|access-date=2018-04-20}}</ref> In a 2014 briefing to Minister Craig Foss, the [[Ministry for Culture and Heritage]] noted that the long-term preservation of the TVNZ Archive collection did not align with broadcaster's business needs and that transferring the collection to the Crown would allow for the proper preservation of the collection.<ref name="mch-briefing-2014-017">{{cite report|author=Ministry for Culture and Heritage|date=March 21, 2014|title=TVNZ Archive transfer - update (briefing 2014/107)|url=https://fyi.org.nz/request/6578/response/22258/attach/4/Joss%20J%20OIA%20documents%20for%20release.pdf|page=16|access-date=2017-12-16}}</ref> Both the Ministry and TVNZ explicitly wanted to ensure the archive was preserved and that it was made increasingly available for re-use through online streaming and other means.<ref name="mou-access-to-tvnz-archive-collection">{{cite web|url=https://fyi.org.nz/request/4927/response/17172/attach/4/MOU%20Access%20to%20TVNZ%20Archive%20Collection%20new%20scan.pdf|title=Memorandum of Understanding - Access to TVNZ Archive Collection, between the Ministry for Culture and Heritage and the Department of Internal Affairs|access-date=2017-12-16}}</ref> On 1 August 2014 guardianship of the archive collection was transferred to the Crown.<ref name="government-press-release-2014-08-02">{{cite press release |author=<!--Staff writer(s); no by-line.--> |title=Crown new guardians of TVNZ Archives|url=https://www.beehive.govt.nz/release/crown-new-guardians-tvnz-archives|publisher=New Zealand Government|date=August 2, 2014|access-date=2017-12-16}}</ref> Budget 2014 included $24.4 million to facilitate the transfer and ongoing management of the archive.  Of that, $11.32 million was for the purchase of the TVNZ Archive facility at Avalon – including land, building, fixtures, fittings and plant. $5.066 million was for the depreciation and capital charge of the facility, and $8 million (spread over four years) was for the ongoing management of the archive.<ref name="oia-6578-letter">{{cite web|url=https://fyi.org.nz/request/6578/response/22258/attach/3/Signed%20response%20to%20Joss%20J..pdf|title=Ministry for Culture and Heritage response to Official Information Act request 6578|access-date=2017-12-16}}</ref> The building and land were transferred to the [[Department of Internal Affairs]] and the Ministry for Culture and Heritage took over guardianship of the collection.<ref name="govt-press-release-budget-2014">{{cite press release |author=<!--Staff writer(s); no by-line.--> |title=Budget 2014: Better access to NZ’s TV heritage|url=https://www.beehive.govt.nz/release/budget-2014-better-access-nz’s-tv-heritage|publisher=New Zealand Government|date=May 21, 2014|access-date=2017-12-16}}</ref> The Ministry appointed [[Ngā Taonga Sound & Vision]] as the initial archive manager.
+
+===TVNZ OnDemand===
+{{Main|TVNZ OnDemand}}
+TVNZ OnDemand is Television New Zealand's on-demand streaming platform, TVNZ OnDemand was launched March 20, 2007, and is available on [[PlayStation 3]] and [[PlayStation 4]] via the TVNZ app on [[PlayStation Network]] for New Zealanders. It is also available on FreeviewPlus, iOS, Android, Xbox One and Windows 10. The content uses [[geotargeting]] for New Zealand only connections via a US-based [[Brightcove]] media company using the [[Akamai Technologies|Akamai]] [[Real Time Messaging Protocol|RTMP]] network, with some local content being made available to an international audience via their YouTube channel. At the end of 2012, the contract with [[Brightcove]] was expanded to include streaming to iOS devices via the [[Akamai Technologies|Akamai]] [[HTTP Live Streaming|HLS]] network.<ref>{{cite web|url=http://www.brightcove.com/en/company/press/tvnz-partners-brightcove-new-ondemand-catch-tv-app|title=TVNZ Partners with Brightcove for New onDemand Catch-up TV App  – Brightcove|publisher=|accessdate=2 May 2015}}</ref> From 2012{{citation needed|date=November 2014}}, TVNZ OnDemand began uploading episodes of select shows prior to their airing on TVNZ channels and usually within a day of their original overseas airings (although sometimes this was weeks or months after their international airing). In September 2014, it was announced that episodes of seventeen shows would be uploaded within a day of their airings in the US, coinciding with the 2014-2015 season.<ref>http://tvnz.co.nz/od-firsts/first-index-group-6077131</ref> One of the shows, ''[[Manhattan Love Story]]'' was cancelled by the US network ABC, but episodes continued to be uploaded to TVNZ OnDemand in line with their intended US airings, making TVNZ the de facto original broadcaster of the series. On May 1, 2016 (01.06 am), when TVNZ Kidzone (channel version) closed it is now on TVNZ OnDemand with lot of the shows to watch (it is still use the former channel programs).
+
+=== Teletext ===
+{{main|TVNZ Teletext}}
+TVNZ began a [[teletext]] service in 1984 originally with the intention to help New Zealand's deaf community get improved access to news and information. A captioning service was available for certain television shows and could be accessed by browsing to page 801. The TVNZ Teletext service could be received on all TVNZ channels and the TVNZ service could be received on [[TV3 (New Zealand)|TV3]] including captioning of some TV3 shows. [[Trackside (New Zealand)|Trackside]] also operated a Teletext service called TAB Text which only displayed the racing pages of Teletext.
+
+A Teletext capable television was usually required to receive Teletext. With the arrival of digital television services such as Freeview, Teletext could be received through a Freeview decoder. In this case captions were normally accessed by subtitle button on a Freeview remote.
+
+In December 2012 TVNZ announced the closure of their Teletext service from 3 April 2013. The captioning service will however continue to be available. TVNZ cited the reasons for the closure due to a decline in use particularly since most services are now available from the TVNZ website or other websites.
+<ref>{{cite web|url=http://tvnz.co.nz/national-news/teletext-service-end-next-year-5291541|title=Teletext service to end next year|date=13 December 2012|accessdate=10 March 2013}}</ref>
+
+=== TiVo ===
+On 26 March 2009 TVNZ announced that it had acquired a 33% stake in [[Hybrid Television Services]] (67% owned by Australia's Seven Media Group).  Hybrid TV is the exclusive licensee of [[TiVo]] products in Australia and New Zealand.  On the same day it was announced that TiVo would be arriving in New Zealand by Christmas 2009 (Hybrid launched it in Australia in July 2008).<ref name="TVNZ_2590386">{{cite news |url=http://tvnz.co.nz/technology-news/tvnz-brings-tivo-nation-2590386 |title=TVNZ brings TiVo to the nation |date=26 March 2009 |work=[[One News (New Zealand)|One News]] |accessdate=19 November 2011}}</ref> The TiVo service will be discontinued on 31 October 2017.<ref>{{Cite news |url=http://www.newshub.co.nz/home/money/2017/03/digital-recording-service-tivo-shut-down.html |title=Digital recording service TiVo shut down |last=Satherley |first=Dan |date=2 March 2017 |work=[[Newshub]] |access-date=3 April 2017}}</ref>
+
+=== Discontinued services ===
+Between 1995 and 1997, TVNZ operated a network of regional TV stations under the '[[Horizon Pacific]]' name and through a subsidiary called Horizon Pacific Television. Its broadcast content included [[BBC World]] and NZ documentary programming. The network consisted of newly formed stations ATV in [[Auckland]], Coast to Coast in [[Hamilton, New Zealand|Hamilton]], Capital Television in [[Wellington]] and Southern Television in [[Dunedin]]. TVNZ subsequently also purchased [[Canterbury Television|CTV]], based in Christchurch. CTV continues to broadcast, but is no longer owned by TVNZ.
+[[File:Horizon Pacific Television Logos NZ.jpg|framed|right|Horizon Pacific Television logos for ATV, Coast to Coast, Capital and Southern TV]]
+
+Horizon Pacific was replaced by a local 'free to air' version of the music video channel [[MTV]], based on MTV's UK service and local programming, although the channel was dropped in 1998. Prior to MTV's demise, TVNZ had bought the channel's competitor, ''[[Max TV (New Zealand)|Max TV]]''.<ref>Cardno, James. [http://www.listener.co.nz/uncategorized/history-never-repeats/ "History never repeats"] ''[[New Zealand Listener]]''. 27 September – 3 October 2003 Vol 190 No 3307</ref>
+
+TVNZ also operated a satellite services division organising and downlink facilities and across the globe, but this service was wound down in 2005.
+
+TVNZ operated [[TVNZ 6]] from 2007 to 2011. TVNZ 6 was a digital-only, commercial-free television channel. It was available in 60.3% of New Zealand homes on the Freeview and Sky Television Digital platforms. TVNZ 6 was on air daily from 6&nbsp;am to midnight.
+
+[[TVNZ 7]] was launched in March 2008 and was a commercial-free news and information channel. It was available via the Freeview and SKY platforms. The New Zealand Government, under Prime Minister [[John Key]] and Broadcasting Minister [[Jonathan Coleman (politician)|Jonathan Coleman]] decided to discontinue funding for TVNZ 7. The final broadcast ended at midnight on 31 June 2012. TVNZ 7 was replaced with time shift channel TV One Plus 1 (now TVNZ 1 +1).
+
+TVNZ launched [[U (TV channel)|U]] on 13 March 2011. U was a 24-hour youth orientated channel available via both Freeview and Sky. TVNZ U was launched to fill the gap when TVNZ 6 closed in 2011. TVNZ U specialised in musical tastes, reality, gaming, fashion and informative youth orientated documentaries.
+
+On 29 July 2013, TVNZ announced that the channel would be closed on 31 August 2013 and be replaced by a time shift channel, TV2+1 (now TVNZ 2 +1).
+
+TVNZ Heartland was a pay-TV channel that launched on the Sky Television platform on 1 June 2010. It was TVNZ's first channel available exclusively on a pay-TV platform and featured 100% New Zealand made programming, mostly sourced from the TVNZ archives. The channel closed in May 2015.
+
+TVNZ ceased delivering its Pacific Service in October 2015. The service was taken over by Pacific Cooperation Broadcasting Limited, who expanded the service in February 2016 as Pasifika TV.  The service became a collaboration of all major New Zealand broadcasters, as opposed to just TVNZ.  The transition of the service meant that it was now funded by Ministry of Foreign Affairs and Trade, and the objectives were broadened beyond supplying content, to focus on strengthening partnerships in the Pacific by building capacity and capabilities amongst the respective Pacific free to air broadcasters.
+
+== Transmission network ==
+
+=== High Definition ===
+TVNZ has offered HD broadcasts since July/August 2008, when the [[2008 Summer Olympics]] were broadcast in High Definition. The service is offered on the Freeview|HD platform, using DVB-T transmission. Only TV One and TV2 are offered in HD, and the majority of programming is still up-converted from Standard Definition. From 1 July 2009 the HD versions of TV One and TV2 became available to Sky TV subscribers who have the MySky HDi decoders. Content on the HD versions of TV One and 2 are the same as the Standard Definition versions however when watching certain shows that broadcast in High Definition the HD logo is displayed next to the channel logo, this logo is not seen when watching the same show on the Standard Definition versions of TV1 and 2.
+
+TVNZ has adopted [[1080i]] as their HD broadcast format.
+
+=== Kordia, formerly BCL, TVNZ's transmission partner ===
+TVNZ's transmission network is operated by [[Kordia]], formerly a subsidiary of TVNZ known as ''Broadcast Communications Limited'' until 2006. The company owns and operates the terrestrial transmission network used for broadcast of all major terrestrial television networks in New Zealand, including [[Discovery, Inc.|Discovery New Zealand]]. and [[Prime Television New Zealand|Prime Television]] – TVNZ's major competitors, along with other voice and data telecommunications services.
+
+=== Geographic history ===
+TVNZ's primary television channel TV One is provided as four distinct terrestrial feeds, localising to viewers within and around the Auckland, Waikato, Wellington and Christchurch regions.  Localised satellite feeds were made available in 2010 to channel-locked SD receivers. Localised content currently only consists of targeted regional advertising spots toward the end of a commercial break.  Localised regional news programming was discontinued in the late 1980s and all localised versions for TV2 were discontinued in the early 2000s in favour of only national advertising. TVNZ's predecessor, [[NZBC]] started as distinct stations in Auckland, Wellington, Christchurch and Dunedin. Nationwide networked services were first introduced in July 1969 to broadcast the [[Apollo 11]] landing footage, flown in specially from Australia, from Wellington simultaneously across all stations. However, the network was still incomplete, and in some places, outside broadcast vans were strategically placed to temporarily complete missing links. The network was fully completed in November that year.  TVNZ also used to run [[telethon]]s up until 1990 at locations around the country, viewers would be shown full coverage of the Telethon nearest their location. Originally when TVNZ began broadcasting TV One and TV2 on Sky Digital at the end of 2001 viewers would see only nationwide or Auckland advertisements when watching these channels through the Sky Digital service. In 2004 this was expanded to show one of three feeds for regional advertising spots targeting Auckland, Wellington or Christchurch with viewers outside of these regions seeing advertisements from the closest region. This was again dropped in March 2007 with a return to only nationwide advertising on TVNZ channels on Sky Digital before being reintroduced through the Freeview SD service. Regional advertising spots are only shown on TV One on both Digital and Analogue platforms however those that receive the HD version of TV One through their HD receiver will only see Auckland advertisements. Standard DVB satellite receivers will scan in all versions to be selected by the viewer.
+
+Wellington-based [[Avalon, New Zealand|Avalon Studios]], long a nucleus of TV production in New Zealand, was finally put up for sale by TVNZ in 2011, with most of its remaining shows relocating to Auckland, completing a trend of northward drift by the broadcaster.<ref name="Stuff.co.nz_4849787">{{cite web |url=http://www.stuff.co.nz/dominion-post/news/4849787/TVNZ-moving-Good-Morning-selling-Avalon-studio |title=TVNZ moving Good Morning, selling Avalon studio |date=5 April 2011 |work=[[The Dominion Post (Wellington)|The Dominion Post]] |accessdate=17 September 2011}}</ref><ref name="Stuff.co.nz_4868116">{{cite news |url=http://www.stuff.co.nz/dominion-post/arts-life/4868116/The-rise-and-fall-of-Avalon |title=The rise and fall of Avalon |date=11 April 2011 |author=Tom Hunt and Paul Easton |newspaper=[[The Dominion Post (Wellington)|The Dominion Post]] |accessdate=17 September 2011}}</ref> TV production was spread evenly around the country in the 1970s, but according to Wellington-based TV personalities, the drift to Auckland began in 1980 with the formation of TVNZ, and the subsequent relocation of the TV One newsroom and headquarters to Auckland under then Prime Minister [[Rob Muldoon]].<ref name="NZ_Herald_10694810">{{cite web |url=http://www.nzherald.co.nz/television/news/article.cfm?c_id=339&objectid=10694810 |title=Mallard sees red over Avalon Studios |author=Drinnan, John |date=17 December 2010 |work=[[The New Zealand Herald]] |accessdate=17 September 2011}}</ref>
+
+In Christchurch the original TVNZ studios were located at Gloucester Street in the NZBC owned building used to broadcast [[Radio New Zealand National|3YA]] and [[3ZB]]. A 14-storey building was also built on Worcester Street as studios for various TVNZ shows, notable shows to be filmed here included ''[[What Now]]'', and ''[[The Son of a Gunn Show]]''. In 1998 TVNZ closed their Christchurch studios. What Now was moved north for a few years however moved back to Christchurch to be filmed at the privately owned Whitebait studios. Prior to the [[2011 Christchurch earthquake]] on 22 February the Worcester Street building continued to house Christchurch radio stations previously owned by [[Radio New Zealand]] and now owned by [[The Radio Network]], stations included Newstalk ZB, Classic Hits 97.7 and 91ZM. The Gloucester Street building remained as Christchurch based newsroom for TVNZ until the building was badly damaged in the quake, and has since been demolished. The Worcester Street building was [[Implosion of Radio Network House|demolished on 5 August 2012 by implosion]].<ref>{{cite web|url=http://www.stuff.co.nz/national/7288325/Christchurch-building-to-be-imploded|title=Christchurch building to be imploded|work=Stuff|accessdate=2 May 2015}}</ref>
+
+The Dunedin studios were used to film many iconic shows, such as ''[[Play School (New Zealand TV series)|Play School]]'', [[University Challenge (New Zealand)|''University Challenge'']], [[Beauty and the Beast (talk show)|''Beauty and the Beast'']], and [[Spot On (New Zealand)|''Spot On'']]. When TVNZ scaled back its Dunedin studios in 1989, they were purchased by [[Ian Taylor (New Zealand businessman)|Ian Taylor]], the founder of [[Animation Research]] and [[Taylormade Media]].<ref>{{cite web|url=http://www.odt.co.nz/news/dunedin/192826/taylor-credits-staff-partners-wife-success|title=Taylor credits staff, partners, wife for success|publisher=|accessdate=2 May 2015}}</ref>
+
+=== DVB-S availability ===
+TV One, TV2 and the hour delayed versions are available "in the clear" over [[DVB-S]] on [[Optus fleet of satellites#Optus D1|Optus D1]] as standard definition only. A Sky set-top box is not required, any satellite set-top box or tuner will work. However the high definition versions on DVB-S2 are scrambled and require a Sky Television H.264 set-top box such as MySky, which costs the price of a basic subscription plus addition MySky rental fee.
+
+=== Civil Defence ===
+TVNZ's functions are subject to ''[[lifeline utility]] requirements'' under NZ [[civil defence]] legislation.<ref name=memo>{{cite web|title=Memorandum of Understanding – Ministry of Civil Defence & Emergency Management and Television New Zealand Limited and Canwest TVWorks Limited|url=http://www.civildefence.govt.nz/assets/Uploads/publications/TV-MoU-Dec06.pdf|website=Ministry of Civil Defence & Emergency Management|publisher=Ministry of Civil Defence & Emergency Management|accessdate=1 January 2015|ref=memo}}</ref> In practice, this status as a lifeline utility requires TVNZ to be able to function at least to a reduced level after an emergency, and to provide advice to civil defence authorities when requested.
+
+=== Details prior to December 2013 digital switchover ===
+
+==== Technical notes ====
+New Zealand uses [[PAL]] B (7&nbsp;MHz channel spacing) on [[VHF]], and [[PAL]] G (8&nbsp;MHz channel spacing) on [[UHF]].
+* While Australia also uses PAL B on VHF, the frequency allocations of NZ differ somewhat from Australia.
+* Australia uses PAL B (7&nbsp;MHz channel spacing) for UHF, so most UHF channels are on different frequencies.
+* For stereo sound New Zealand uses [[NICAM]] on a non-standard offset from the monaural FM audio signal, while Australia uses the standard European offset for [[A2 Stereo]].  With NICAM being a digital signal, it has a higher chance of drop out over distance and from interference than A2 Stereo.
+* Because of these differences, some Australian TV sets (when taken to NZ) are only capable of mono sound reproduction, and many VHF channels may not be received (properly) or come in at all.
+* TVNZ (for historical and technical reasons) uses the greatest number of [[VHF]] frequencies in New Zealand.
+
+==== NICAM stereo ====
+New Zealand has a near nationwide implementation of [[NICAM]] stereo sound for TV One and TV2. 
+NICAM stereo was first made available on TV2 in the [[Auckland]] region in 1989, also during the early 1990s [[Simulated Stereo]] was available in [[Wellington]] on TV2. NICAM stereo was not rolled out to the rest of the country or onto TV One until 1996 and for some regions (such as Southland) NICAM was not available until 2001. Rival network Three has offered NICAM stereo in all available regions since its launch in 1989; this is also the case with Prime TV. Stereo sound is available on all TVNZ channels if accessed through Sky Digital or Freeview.
+
+== Competitors ==
+TVNZ's major competitors in the television market are
+* [[Discovery, Inc.]]'s [[Three (TV channel)|Three]] and [[Bravo (New Zealand)|Bravo]]
+* [[SKY Network Television|Sky]]'s [[Prime (New Zealand)|Prime Television]]
+* [[Māori Television]]
+
+== New Zealand shows ==
+{{Main|List of programmes broadcast by TVNZ}}
+
+==References==
+{{reflist|30em}}
+
+{{refbegin}}
+* [http://www.nzherald.co.nz/section/story.cfm?c_id=1&ObjectID=10359765 Chief outlines 'major problem at TVNZ] The New Zealand Herald, 13 December 2005, retrieved 3 January 2006.
+* [http://images.tvnz.co.nz/tvnz/pdf/tvnz_annual_report_2005.pdf TVNZ Annual Report for 2005] Retrieved 3 January 2006
+* [http://corporate.tvnz.co.nz/tvnz_detail/0,2406,111535-244-257,00.html TVNZ Charter 2003] Retrieved 4 January 2006
+* [http://images.tvnz.co.nz/tvnz/pdf/tvnz_corp_brochure.pdf TVNZ Corporate Brochure 2005] Retrieved 3 January 2006
+{{refend}}
+
+==External links==
+* {{official|http://www.tvnz.co.nz/ }}
+{{TVNZ}}
+{{NZ crown entities/crown entity companies}}
+
+{{Authority control}}
+
+[[Category:TVNZ| ]]
+[[Category:Television networks in New Zealand]]
+[[Category:Television channels and stations established in 1980]]
+[[Category:New Zealand crown entity companies]]
+[[Category:New Zealand news websites]]
+[[Category:Companies based in Auckland]]
+[[Category:State media]]

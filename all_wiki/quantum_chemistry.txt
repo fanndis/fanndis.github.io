@@ -1,0 +1,94 @@
+{{Short description|Chemistry based on quantum physics of atoms, molecules, solids, nuclei, and particles}}{{multiple issues|
+{{Cleanup|reason=weak and misleading information content|date=January 2011}}
+{{No footnotes|date=December 2012}}
+}}
+'''Quantum chemistry''', also called '''molecular quantum mechanics''', is a branch of [[chemistry]] focused on the application of [[quantum mechanics]] in [[physical model]]s and experiments of chemical systems.<ref>{{cite web |title=Quantum chemistry - Latest research and news {{!}} Nature |url=https://www.nature.com/subjects/quantum-chemistry |website=www.nature.com |access-date=26 November 2020}}</ref> Understanding [[electronic structure]] and [[molecular dynamics]] using the [[Schrödinger equation]]s are central topics in quantum chemistry.
+
+Chemists rely heavily on [[spectroscopy]] through which information regarding the [[Quantization (physics)|quantization]] of energy on a molecular scale can be obtained.  Common methods are [[infra-red (IR) spectroscopy]], [[nuclear magnetic resonance (NMR) spectroscopy]], and [[scanning probe microscopy]].Quantum chemistry studies the [[ground state]] of individual atoms and molecules, and the [[excited state]]s, and [[transition state]]s that occur during [[chemical reaction]]s.
+
+On the calculations, quantum chemical studies use also [[Semi-empirical quantum chemistry method|semi-empirical]] and other methods based on quantum mechanical principles, and deal with time dependent problems. Many quantum chemical studies assume the nuclei are at rest ([[Born–Oppenheimer approximation]]). Many calculations involve iterative methods that include self-consistent field methods. Major goals of quantum chemistry include increasing the accuracy of the results for small molecular systems, and increasing the size of large molecules that can be processed, which is limited by scaling considerations—the computation time increases as a power of the number of atoms.
+
+==History==
+Some view the birth of quantum chemistry as starting with the discovery of the [[Schrödinger equation]] and its application to the hydrogen atom in 1926.{{citation needed|date=November 2017}} However, the 1927 article of [[Walter Heitler]] (1904–1981) and [[Fritz London]], is often recognized as the first milestone in the history of quantum chemistry. This is the first application of quantum mechanics to the diatomic hydrogen molecule, and thus to the phenomenon of the chemical bond. In the following years much progress was accomplished by [[Robert S. Mulliken]], [[Max Born]], [[J. Robert Oppenheimer]], [[Linus Pauling]], [[Erich Hückel]], [[Douglas Hartree]], [[Vladimir Fock]], to cite a few. The history of quantum chemistry also goes through the 1838 discovery of [[cathode rays]] by [[Michael Faraday]], the 1859 statement of the [[black-body radiation]] problem by [[Gustav Kirchhoff]], the 1877 suggestion by [[Ludwig Boltzmann]] that the energy states of a physical system could be discrete, and the 1900 quantum hypothesis by [[Max Planck]] that any energy radiating atomic system can theoretically be divided into a number of discrete energy elements ''ε'' such that each of these energy elements is proportional to the [[frequency]] ''ν'' with which they each individually radiate [[energy]] and a numerical value called [[Planck's constant]]. Then, in 1905, to explain the [[photoelectric effect]] (1839), i.e., that shining light on certain materials can function to eject electrons from the material, [[Albert Einstein]] postulated, based on Planck's quantum hypothesis, that light itself consists of individual quantum particles, which later came to be called [[photon]]s (1926).  In the years to follow, this theoretical basis slowly began to be applied to chemical structure, reactivity, and bonding. Probably the greatest contribution to the field was made by [[Linus Pauling]].{{citation needed|date=August 2019}}
+
+== Electronic structure ==
+{{main|Electronic structure}}
+
+The first step in solving a quantum chemical problem is usually solving the [[Schrödinger equation]] (or [[Dirac equation]] in [[relativistic quantum chemistry]]) with the [[electronic molecular Hamiltonian]]. This is called determining the electronic structure of the molecule. It can be said that the electronic structure of a molecule or crystal implies essentially its chemical properties. An exact solution for the Schrödinger equation can only be obtained for the hydrogen atom (though exact solutions for the bound state energies of the [[Dihydrogen cation|hydrogen molecular ion]] have been identified in terms of the [[Lambert W function#Generalizations|generalized Lambert W function]]).  Since all other atomic, or molecular systems, involve the motions of three or more "particles", their Schrödinger equations cannot be solved exactly and so approximate solutions must be sought.
+
+=== Valence bond ===
+{{main|Valence bond theory}}
+
+Although the mathematical basis of quantum chemistry had been laid by [[Erwin Schrödinger|Schrödinger]] in 1926, it is generally accepted that the first true calculation in quantum chemistry was that of the German physicists [[Walter Heitler]] and [[Fritz London]] on the hydrogen (H<sub>2</sub>) molecule in 1927.{{citation needed|date=November 2017}} Heitler and London's method was extended by the American theoretical physicist [[John C. Slater]] and the American theoretical chemist [[Linus Pauling]] to become the valence-bond (VB) [or Heitler–London–Slater–Pauling (HLSP)] method. In this method, attention is primarily devoted to the pairwise interactions between atoms, and this method therefore correlates closely with classical chemists' drawings of [[chemical bond|bonds]]. It focuses on how the atomic orbitals of an atom combine to give individual chemical bonds when a molecule is formed, incorporating the two key concepts of [[orbital hybridization]] and [[resonance (chemistry)|resonance]].
+
+=== Molecular orbital ===
+{{main|Molecular orbital theory}}
+
+An alternative approach was developed in 1929 by [[Friedrich Hund]] and [[Robert S. Mulliken]], in which [[electron]]s are described by mathematical functions delocalized over an entire [[molecule]]. The Hund–Mulliken approach or molecular orbital (MO) method is less intuitive to chemists, but has turned out capable of predicting [[spectroscopy|spectroscopic properties]] better than the VB method. This approach is the conceptional basis of the [[Hartree–Fock]] method and further [[post Hartree–Fock]] methods.
+
+=== Density functional theory ===
+{{main|Density functional theory}}
+
+The [[Gas in a box|Thomas–Fermi model]] was developed independently by [[L. H. Thomas|Thomas]] and [[Enrico Fermi|Fermi]] in 1927. This was the first attempt to describe many-electron systems on the basis of [[electronic density]] instead of [[wave function]]s, although it was not very successful in the treatment of entire molecules. The method did provide the basis for what is now known as density functional theory (DFT). Modern day DFT uses the [[Kohn–Sham equations|Kohn–Sham method]], where the density functional is split into four terms; the Kohn–Sham kinetic energy, an external potential, exchange and correlation energies. A large part of the focus on developing DFT is on improving the exchange and correlation terms. Though this method is less developed than post Hartree–Fock methods, its significantly lower computational requirements (scaling typically no worse than ''n''<sup>3</sup> with respect to ''n'' basis functions, for the pure functionals) allow it to tackle larger [[polyatomic molecule]]s and even [[macromolecule]]s. This computational affordability and often comparable accuracy to [[Møller–Plesset perturbation theory|MP2]] and [[Coupled cluster|CCSD(T)]] (post-Hartree–Fock methods) has made it one of the most popular methods in [[computational chemistry]].
+
+== Chemical dynamics ==
+A further step can consist of solving the [[Schrödinger equation]] with the total [[molecular Hamiltonian]] in order to study the motion of molecules. Direct solution of the Schrödinger equation is called ''quantum molecular dynamics'', within the semiclassical approximation ''semiclassical molecular dynamics'', and within the [[classical mechanics]] framework ''[[molecular dynamics]] (MD)''. Statistical approaches, using for example [[Monte Carlo method]]s, and [[mixed quantum-classical dynamics]] are also possible.
+
+=== Adiabatic chemical dynamics ===
+{{main|Molecular_Hamiltonian#Adiabatic_formalism_or_Born–Oppenheimer_approximation|l1=Adiabatic formalism or Born–Oppenheimer approximation}}
+In adiabatic dynamics, interatomic interactions are represented by single [[Scalar (physics)|scalar]] [[potential]]s called [[potential energy surface]]s. This is the [[Born–Oppenheimer approximation]] introduced by [[Max Born|Born]] and [[Robert Oppenheimer|Oppenheimer]] in 1927. Pioneering applications of this in chemistry were performed by Rice and Ramsperger in 1927 and Kassel in 1928, and generalized into the [[RRKM]] theory in 1952 by [[Rudolph A. Marcus|Marcus]] who took the [[transition state]] theory developed by [[Henry Eyring (chemist)|Eyring]] in 1935 into account. These methods enable simple estimates of unimolecular [[reaction rates]] from a few characteristics of the potential surface.
+
+=== Non-adiabatic chemical dynamics ===
+{{main|Vibronic coupling}}
+
+Non-adiabatic dynamics consists of taking the interaction between several coupled potential energy surface (corresponding to different electronic [[quantum state]]s of the molecule). The coupling terms are called vibronic couplings. The pioneering work in this field was done by [[Ernst Stueckelberg|Stueckelberg]], [[Lev Davidovich Landau|Landau]], and [[Clarence Zener|Zener]] in the 1930s, in their work on what is now known as the [[Landau–Zener transition]]. Their formula allows the transition probability between two [[diabatic]] potential curves in the neighborhood of an [[avoided crossing]] to be calculated. [[Spin forbidden reactions|Spin-forbidden reactions]] are one type of non-adiabatic reactions where at least one change in [[Spin states (d electrons)|spin state]] occurs when progressing from [[Reagent|reactant]] to [[Product (chemistry)|product]].
+
+== See also ==
+{{Portal|Chemistry|Physics}}
+{{colbegin}}
+* [[Atomic physics]]
+* [[Computational chemistry]]
+* [[Condensed matter physics]]
+* [[Car–Parrinello molecular dynamics]]
+* [[Electron localization function]]
+* [[International Academy of Quantum Molecular Science]]
+* [[Molecular modelling]]
+* [[Physical chemistry]]
+* [[List of quantum chemistry and solid-state physics software]]
+* [[QMC@Home]]
+* ''[[Quantum Aspects of Life]]''
+* [[Quantum electrochemistry]]
+* [[Relativistic quantum chemistry]]
+* [[Theoretical physics]]
+*[[Spin forbidden reactions]]{{colend}}
+
+==References==
+{{reflist}}
+*{{cite book| last1=Atkins|first1= P.W.|last2= Friedman|first2= R. |year=2005| title=Molecular Quantum Mechanics|publisher=Oxford University Press|edition= 4th |isbn= 978-0-19-927498-7}}
+*{{cite book|last1=Atkins|first1= P.W.|publisher=Oxford University Press|isbn= 0-19-879285-9| title=Physical Chemistry|year= 2002}}
+*{{cite book|last1=Atkins|first1= P.W.| last2= Friedman|first2= R. |year=2008|title=Quanta, Matter and Change: A Molecular Approach to Physical Change| isbn= 978-0-7167-6117-4}}
+* {{cite book| first1=Bernard |last1=Pullman |first2= Alberte |last2=Pullman|year=1963|title=Quantum Biochemistry|location=New York and London| publisher=Academic Press| isbn=90-277-1830-X}}
+* {{cite book|first= Eric R.|last= Scerri|title= The Periodic Table: Its Story and Its Significance|publisher= Oxford University Press|year= 2006|isbn= 0-19-530573-6|url-access= registration|url= https://archive.org/details/periodictableits0000scer}}  Considers the extent to which chemistry and especially the periodic system has been reduced to quantum mechanics.
+* Kostas Gavroglu, Ana Simões: ''NEITHER PHYSICS NOR CHEMISTRY.A History of Quantum Chemistry'', MIT Press, 2011, {{ISBN|0-262-01618-4}}
+* {{cite book| last=McWeeny| first= R. |title=Coulson's Valence| year= 1979 |publisher=Oxford Science Publications|isbn= 0-19-855144-4}}
+*Karplus M., Porter R.N. (1971). ''Atoms and Molecules. An introduction for students of physical chemistry'', Benjamin–Cummings Publishing Company, {{ISBN|978-0-8053-5218-4}}
+* {{cite book| first1=Attila |last1=Szabo|first2=Neil S.|last2= Ostlund|year=1996|title=Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory|publisher= Dover| isbn= 0-486-69186-1}}
+*{{cite book| last1=Landau| first1= L.D. |last2= Lifshitz|first2=E.M. |title=Quantum Mechanics:Non-relativistic Theory| series=Course of Theoretical Physic|volume= 3  |publisher=Pergamon Press| isbn=0-08-019012-X}}
+*{{cite book | last=Levine|first= I. |year=2008|title=Physical Chemistry|publisher=McGraw–Hill Science|edition= 6th| isbn =978-0-07-253862-5}}
+*{{cite book|author=Pauling, L.|title=General Chemistry|publisher=Dover Publications|year=1954|isbn=0-486-65622-5|url-access=registration|url=https://archive.org/details/generalchemistry00paul_0}}
+*{{cite book| last1=Pauling|first1= L.| last2=Wilson|first2= E. B. |origyear=1935|year=1963|title=Introduction to Quantum Mechanics with Applications to Chemistry| publisher=Dover Publications| isbn =0-486-64871-0}}
+*{{cite book| last= Simon |first=Z. | year=1976| title=Quantum Biochemistry and Specific Interactions| publisher=Taylor & Francis| isbn =978-0-85626-087-2 }}
+
+== External links ==
+* [http://vergil.chemistry.gatech.edu/notes/index.html The Sherrill Group – Notes]
+* [http://www.shodor.org/chemviz/ ChemViz Curriculum Support Resources]
+* [http://www.quantum-chemistry-history.com/ Early ideas in the history of quantum chemistry]
+* [https://web.archive.org/web/20190719141632/http://particleadventure.org/ The Particle Adventure]
+
+{{BranchesofChemistry|state=expanded}}
+{{Quantum mechanics topics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Quantum Chemistry}}
+[[Category:Quantum chemistry| ]]
+[[Category:Theoretical chemistry]]

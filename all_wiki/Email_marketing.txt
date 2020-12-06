@@ -1,0 +1,90 @@
+{{pp-semi|small=yes}}
+{{Multiple issues|
+{{refimprove|date=September 2014}}
+{{original research|date=January 2015}}
+}}
+{{Internet Marketing}}
+'''Email marketing''' is the act of sending a [[commercial message]], typically to a group of people, using [[email]]. In its broadest sense, every email sent to a potential or current [[customer]] could be considered email [[marketing]]. It involves using email to send [[advertisement]]s, request business, or solicit sales or donations. Email marketing strategies commonly seek to achieve one or more of three primary objectives, to build [[customer loyalty|loyalty]], trust, or [[brand awareness]]. The term usually refers to sending email messages with the purpose of enhancing a merchant's relationship with current or previous customers, encouraging customer loyalty and repeat business, acquiring new customers or convincing current customers to purchase something immediately, and sharing third-party ads.
+
+== History ==
+Email marketing has evolved rapidly alongside the technological growth of the 21st century. Prior to this growth, when emails were novelties to the majority of customers, email marketing was not as effective. In 1978, Gary Thuerk of [[Digital Equipment Corporation]] (DEC) sent out the first [[mass email]]<ref>{{Cite web|url=https://www.britannica.com/topic/spam#ref1072166|title=spam {{!}} unsolicited e-mail|access-date=September 19, 2016}}</ref> to approximately 400 potential clients via the [[Advanced Research Projects Agency Network]] (ARPANET). He claims that this resulted in $13 million worth of sales in DEC products,<ref>{{cite news |last1=Smith |first1=Gina |title=Unsung innovators: Gary Thuerk, the father of spam |url=https://www.computerworld.com/article/2539767/cybercrime-hacking/unsung-innovators--gary-thuerk--the-father-of-spam.html |accessdate=30 October 2018 |work=Computerworld |date=3 December 2007}}</ref> and highlighted the potential of marketing through mass emails. 
+
+However, as email marketing developed as an effective means of direct communication, in the 1990s, users increasingly began referring to it as "[[email spam|spam]]", and began blocking out content from emails with filters and blocking programs. In order to effectively communicate a message through email, marketers had to develop a way of pushing content through to the end user, without being cut out by automatic filters and spam removing software.
+
+Historically, it has been difficult to measure the effectiveness of marketing campaigns because [[target market]]s cannot be adequately defined. Email marketing carries the benefit of allowing marketers to identify returns on investment and measure and improve efficiency.{{cn|date=August 2017}} Email marketing allows marketers to see feedback from users in real time, and to monitor how effective their campaign is in achieving market penetration, revealing a communication channel's scope. At the same time, however, it also means that the more personal nature of certain advertising methods, such as television advertisements, cannot be captured.
+
+==Types==
+Email marketing can be carried out through different types of emails:
+
+=== Transactional emails ===
+Transactional emails are usually triggered based on a customer's action with a company. To be qualified as transactional or relationship messages, these communications' primary purpose must be "to facilitate, complete, or confirm a commercial transaction that the recipient has previously agreed to enter into with the sender" along with a few other narrow definitions of transactional messaging.<ref>{{cite web|title=PUBLIC LAW 108–187—DEC. 16, 2003 117 STAT. 2699|url=http://www.gpo.gov/fdsys/pkg/PLAW-108publ187/pdf/PLAW-108publ187.pdf|publisher=U.S Government GPO}}</ref> Triggered transactional messages include dropped basket messages, password reset emails, purchase or order confirmation emails, order status emails, reorder emails, and email receipts.
+
+The primary purpose of a transactional email is to convey information regarding the action that triggered it. But, due to their high open rates (51.3% compared to 36.6% for email newsletters), transactional emails are an opportunity to introduce or extend the email relationship with customers or subscribers; to anticipate and answer questions; or to cross-sell or up-sell products or services.<ref>{{cite book|last1=ADIKESAVAN|first1=T.|title=MANAGEMENT INFORMATION SYSTEMS BEST PRACTICES AND APPLICATIONS IN BUSINESS|date=21 August 2014|isbn=978-8120348967|url=https://books.google.com/books?id=E7B2BAAAQBAJ&q=The+primary+purpose+of+a+transactional+email+is+to+convey+information+regarding+the+action+that+triggered+it.&pg=PA135|access-date=July 10, 2015}}</ref>
+
+Many email newsletter software vendors offer transactional email support, which gives companies the ability to include promotional messages within the body of transactional emails. There are also software vendors that offer specialized transactional email marketing services, which include providing targeted and personalized transactional email messages and running specific marketing campaigns (such as [[Referral marketing|customer referral programs]]). {{Citation needed|date=July 2015}}
+
+=== Direct emails ===
+Direct email involves sending an email solely to communicate a promotional message (for example, a special offer or a product catalog). Companies usually collect a list of customer or prospect email addresses to send direct promotional messages to, or they rent a list of email addresses from service companies. {{citation needed|date=July 2015}}
+
+==Comparison to traditional mail==
+There are both advantages and disadvantages to using email marketing in comparison to traditional [[advertising mail]].
+
+===Advantages===
+Email marketing is popular with companies for several reasons:
+* Email marketing is significantly cheaper and faster than traditional mail, mainly because with email, most of the cost falls on the recipient{{cn|date=August 2018}}. 
+* Businesses and organizations who send a high volume of emails can use an ESP (email service provider) to gather information about the behavior of the recipients. The insights provided by consumer response to email marketing help businesses and organizations understand and make use of [[consumer behavior]]{{cn|date=August 2018}}.
+* Almost half of American [[Internet]] users check or send email on a typical day,<ref>Pew Internet & American Life Project, [http://www.pewinternet.org/trends.asp "Tracking surveys"] {{Webarchive|url=https://web.archive.org/web/20090312084710/http://www.pewinternet.org/trends.asp |date=2009-03-12 }}, March 2000 – March 2009</ref> with emails delivered between 1 am and 5 am local time outperforming those sent at other times in open and click rates.<ref>[http://www.mailermailer.com/resources/metrics/2012/how-scheduling-affects-rates.rwp How Scheduling Affects Rates] {{Webarchive|url=https://web.archive.org/web/20130518103657/http://www.mailermailer.com/resources/metrics/2012/how-scheduling-affects-rates.rwp |date=2013-05-18 }}. Mailermailer.com (July 2012). Retrieved on July 28, 2013.</ref><ref>''BtoB Magazine'', [http://www.btobonline.com/article/20110901/EMAIL13/309019997/early-morning-email-blasts-pay-off-with-strong-opens-clicks "Early Email Blasts Results in Higher Click & Open Rates"] {{webarchive|url=https://web.archive.org/web/20111122001746/http://www.btobonline.com/article/20110901/EMAIL13/309019997/early-morning-email-blasts-pay-off-with-strong-opens-clicks |date=2011-11-22 }}, September 2011</ref>
+
+===Disadvantages===
+* As of mid-2016 email deliverability is still an issue for legitimate marketers. According to the report, legitimate email servers averaged a delivery rate of 73% in the U.S.; six percent were filtered as spam, and 22% were missing. This lags behind other countries: Australia delivers at 90%, Canada at 89%, Britain at 88%, France at 84%, Germany at 80% and Brazil at 79%.<ref>[https://www.clickz.com/email-deliverability-is-on-the-decline-report/104466/ Roberts, A. "Email deliverability is on the decline: report", ''ClickZ'']</ref>
+
+* Additionally, consumers receive on average about 90 emails per day.<ref>{{Cite web|url=http://www.radicati.com/wp/wp-content/uploads/2014/01/Email-Statistics-Report-2014-2018-Executive-Summary.pdf|title=Email Statistics Report, 2014-2018|last=Radicati|first= Sara|date=|website=The Radicati Group, Inc|access-date=}}</ref>{{Better source|reason=proprietary and confidential research methodology; researcher has a product to sell|date=August 2018}}
+
+* Companies considering the use of an email marketing program must make sure that their program does not violate spam laws such as the United States' Controlling the Assault of Non-Solicited Pornography and Marketing Act ([[CAN-SPAM]]),<ref name=canspam>{{cite web|url=http://www.ftc.gov/bcp/conline/pubs/buspubs/canspam.htm|title=Consumer Information|website=Consumer Information|access-date=August 12, 2017|archive-url=https://web.archive.org/web/20070116161537/http://www.ftc.gov/bcp/conline/pubs/buspubs/canspam.htm|archive-date=January 16, 2007|url-status=dead}}</ref> the European Privacy and Electronic Communications Regulations 2003, or their [[Internet service provider]]'s [[acceptable use policy]].
+
+==Opt-in email advertising==
+[[Opt-in email]] advertising, or [[permission marketing]], is advertising via email whereby the recipient of the advertisement has consented to receive it. <ref name="fairhead">Fairhead, N. (2003) "All hail the brave new world of permission marketing via email" (''Media'' 16, August 2003)</ref>
+
+A common example of permission marketing is a newsletter sent to an advertising firm's customers. Such newsletters inform customers of upcoming events or promotions, or new products.<ref>{{Cite web | last=Dilworth | first=Dianna | date=2007 | url=http://www.dmnews.com/Ruths-Chris-Steak-House-sends-sizzling-e-mails-for-special-occasions/article/94733/ | title=Ruth's Chris Steak House sends sizzling e-mails for special occasions | work=DMNews | access-date=February 19, 2008}}</ref> In this type of advertising, a company that wants to send a newsletter to their customers may ask them at the point of purchase if they would like to receive the newsletter.
+
+With a foundation of opted-in contact information stored in their [[database]], marketers can send out promotional materials automatically using [[autoresponder]]s—known as [[drip marketing]]. They can also segment their promotions to specific [[market segmentation|market segments]].<ref>O'Brian J. & Montazemia, A. (2004) ''Management Information Systems'' (Canada: McGraw-Hill Ryerson Ltd.)</ref>
+
+==Legal requirements==
+
+===Australia===
+The Australian Spam Act 2003 is enforced by the [[Australian Communications and Media Authority]], widely known as "ACMA". The act defines the term ''unsolicited electronic messages'', states how unsubscribe functions must work for commercial messages, and gives other key information. Fines range with three fines of AU$110,000 being issued to [[Virgin Australia|Virgin Blue Airlines]] (2011), [[Tigerair Australia|Tiger Airways Holdings Limited]] (2012) and Cellar master Wines Pty Limited (2013).<ref>{{cite web|title=Spam: enforcement actions|url=http://www.acma.gov.au/Citizen/Take-action/Complaints/Spam-complaints/spam-enforcement-actions|archive-url=https://web.archive.org/web/20160229024935/http://acma.gov.au/Citizen/Take-action/Complaints/Spam-complaints/spam-enforcement-actions|url-status=dead|archive-date=February 29, 2016|website=Australian Communications and Media Authority|publisher=Australian Communications and Media Authority|access-date=August 15, 2015}}</ref>
+
+===Canada===
+The "Canada Anti-Spam Law" (CASL) went into effect on July 1, 2014.<ref>{{cite web|url=http://www.insurancebusinessmag.com/ca/news/breaking-news/law-could-force-idle-brokers-back-to-dark-ages-72906.aspx|title=Law could force idle brokers back to dark ages|first=Bethan|last=Moorcraft|date=|website=Insurance Business|access-date=August 12, 2017}}</ref> CASL requires an explicit or implicit opt-in from users, and the maximum fines for noncompliance are [[Canadian dollar|CA$]]1 million for individuals and $10 million for businesses.<ref>{{cite web|url=http://fightspam.gc.ca/eic/site/030.nsf/eng/home |title=Canada's law on spam|publisher=Government of Canada|access-date=July 19, 2014}}.</ref>
+
+===European Union ===
+In 2002 the [[European Union]] (EU) introduced the [[Directive on Privacy and Electronic Communications]]. Article 13 of the Directive prohibits the use of personal email addresses for marketing purposes. The Directive establishes the opt-in regime, where unsolicited emails may be sent only with prior agreement of the recipient; this does not apply to business email addresses.
+
+The directive has since been incorporated into the laws of member states. In the UK it is covered under the [[Privacy and Electronic Communications (EC Directive) Regulations 2003]]<ref>[http://www.opsi.gov.uk/si/si2003/20032426.htm The Privacy and Electronic Communications (EC Directive) Regulations 2003] {{webarchive |url=https://web.archive.org/web/20061114055417/http://www.opsi.gov.uk/si/si2003/20032426.htm |date=November 14, 2006 }}. Opsi.gov.uk. Retrieved on July 28, 2013.</ref> and applies to all organizations that send out marketing by some form of electronic communication.
+
+The [[GDPR]] in 2018 imposed ''"a number of new requirements on companies that collect, store and process personal data from EU users, which impacts email marketers"''<ref name=forbes>{{cite news |last1=Wozniak |first1=Tom |title=What GDPR Means For Email Marketing To EU Customers |url=https://www.forbes.com/sites/forbescommunicationscouncil/2018/06/27/what-gdpr-means-for-email-marketing-to-eu-customers/#49f93ba4374a |accessdate=16 January 2019 |work=Forbes |date=27 June 2018}}</ref> - in particular, users' right to access information held about them; and the right to have all such information deleted at their request.<ref name=forbes/>
+
+===United States ===
+The [[CAN-SPAM Act of 2003]] was passed by Congress as a direct response to the growing number of complaints over spam emails.{{Citation needed|date=August 2017}} Congress determined that the US government was showing an increased interest in the regulation of commercial electronic mail nationally, that those who send commercial emails should not mislead recipients over the source or content of them, and that all recipients of such emails have a right to decline them. The act authorizes a US$16,000 penalty per violation for spamming each individual recipient.<ref>{{cite web|title=CAN-SPAM Act: A Compliance Guide for Business|url=http://www.business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business|website=FTC.gov|publisher=BCP Business Center|access-date=August 10, 2017}}</ref> However, it does not ban spam emailing outright, but imposes laws on using deceptive marketing methods through headings which are "materially false or misleading". In addition there are conditions which email marketers must meet in terms of their format, their content and labeling. As a result, many commercial email marketers within the United States utilize a service or special software to ensure compliance with the act. A variety of older systems exist that do not ensure compliance with the act. To comply with the act's regulation of commercial email, services also typically require users to authenticate their return address and include a valid physical address, provide a one-click unsubscribe feature, and prohibit importing lists of purchased addresses that may not have given valid permission.{{Citation needed|date=August 2017}}
+
+In addition to satisfying legal requirements, email service providers (ESPs) began to help customers establish and manage their own email marketing campaigns. The service providers supply email templates and general best practices, as well as methods for handling subscriptions and cancellations automatically. Some ESPs will provide insight and assistance with deliverability issues for major email providers. They also provide statistics pertaining to the number of messages received and opened, and whether the recipients clicked on any [[Hyperlink|links]] within the messages.
+
+The CAN-SPAM Act was updated with some new regulations including a no-fee provision for opting out, further definition of "sender", post office or private mail boxes count as a "valid physical postal address" and definition of "person". These new provisions went into effect on July 7, 2008.<ref>{{cite web|url=http://www.ftc.gov/opa/2008/05/canspam.shtm|title= FTC Approves New Rule Provision Under The CAN-SPAM Act|publisher= FTC.gov|date=June 24, 2011}}</ref> <ref>{{cite web|url=https://www.ftc.gov/sites/default/files/documents/federal_register_notices/definitions-and-implementation-under-can-spam-act-16-cfr-part-316/080521canspamact.pdf|title= 16 CFR Part 316 Definitions and Implementation Under the CAN–SPAM Act; Final Rule|publisher= FTC.gov|date=May 21, 2008}}</ref>
+
+==See also==
+* [[CAUCE]] – Coalition Against Unsolicited Commercial Email
+* [[Customer engagement]]
+* [[Suppression list]]
+* [[Email spam]] - Unsolicited email marketing
+
+==References==
+{{reflist|35em}}
+
+{{DEFAULTSORT:Email Marketing}}
+[[Category:Advertising by medium]]
+[[Category:Email]]
+[[Category:Digital marketing]]
+[[Category:Market research]]
+[[Category:Marketing techniques]]
+[[Category:Online advertising]]
+[[Category:Spamming]]

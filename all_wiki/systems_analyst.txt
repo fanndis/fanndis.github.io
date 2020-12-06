@@ -1,0 +1,67 @@
+A '''systems analyst''', also known as business technology analyst, is an [[information technology]] (IT) professional who specializes in analyzing, designing and implementing [[information system]]s. Systems analysts assess the suitability of information systems in terms of their intended outcomes and liaise with end users, software vendors and programmers in order to achieve these outcomes.<ref name="Shelly et al.">Shelly, Gary B., Cashman, Thomas J., & Vermaat, Misty E. ''Discovering Computers 2008, Complete.'' Boston: Thomson Course Technology.  ISBN 1 -4239-1205-5</ref> A systems analyst is a person who uses analysis and design techniques to solve business problems using information technology. Systems analysts may serve as change agents who identify the organizational improvements needed, design systems to implement those changes, and train and motivate others to use the systems.<ref name="15-1121 Computer Systems Analysts">{{cite web|title=Occupational Employment and Wages, May 2015|url=http://www.bls.gov/oes/current/oes151121.htm|website=bls.gov|publisher=Bureau of Labor Statistics|accessdate=15 April 2016}}</ref>
+
+Although they may be familiar with a variety of programming languages, operating systems, and [[computer hardware]] platforms, they do not normally involve themselves in the actual hardware or software development. They may be responsible for developing cost analysis, design considerations, staff impact amelioration, and implementation timelines.
+
+A systems analyst is typically confined to an assigned or given system and will often work in conjunction with a [[business analyst]]. These roles, although having some overlap, are not the same. A business analyst will evaluate the business need and identify the appropriate solution and, to some degree, design a solution without diving too deep into its technical components, relying instead on a systems analyst to do so. A systems analyst will often evaluate and modify code as well as review scripting.
+
+Some dedicated professionals possess practical knowledge in both areas (business and systems analysis) and manage to successfully combine both of these occupations, effectively blurring the line between business analyst and systems analyst.
+
+== Activities ==
+A systems analyst may:
+* Identify, understand and plan for organizational and human impacts of planned systems, and ensure that new technical requirements are properly integrated with existing processes and skill sets.
+* Plan a system flow from the ground up.
+* Interact with internal users and customers to learn and document requirements that are then used to produce business required documents.
+* Write technical requirements from a critical phase.
+* Interact with software architect to understand software limitations.
+* Help programmers during system development, e.g. provide [[use cases]], [[flowcharts]], [[Unified Modeling Language|UML]] and [[BPMN]] diagrams.
+* Document requirements or contribute to user manuals.
+* Whenever a development process is conducted, the system analyst is responsible for designing components and providing that information to the developer.
+
+== Systems development life cycle ==
+
+The [[systems development life cycle]] (SDLC) is the traditional system development method that organizations use for large-scale IT Projects. The SDLC is a structured framework that consists of sequential processes by which an information system is developed.
+
+# System Investigation
+# System Analysis
+# System Design
+# Programming 
+# Testing
+# Implementation
+# Operation and Maintenance
+
+Once a development project has the necessary approvals from all participants, the systems analysis stage begins. System analysis is the examination of the business problem that organizations plan to solve with an information system.
+The main purpose of the systems analysis stage is to gather information about the existing system in order to determine the requirements for an enhanced system or a new system. The end product of this stage, known as the deliverable, is a set of system requirements.
+
+Perhaps the most difficult task in system analysis is identifying the specific requirements that the system must satisfy. These requirements often are called user requirements because users provide them. When the system developers have accumulated the user requirements for the new system, they proceed to the system design stage.
+
+A computer systems analyst is an occupation in the field of [[information technology]]. A computer systems analyst works to solve problems related to [[computer technology]]. Many analysts set up new computer systems, both the [[computer hardware|hardware]] and [[software]], add new software applications to increase computer productivity. Others act as system developers or system architects, but most analysts specialize in a specific type of system such as [[business systems]], [[accounting systems]], [[financial system]]s, or scientific systems.
+
+== Industry ==
+
+As of 2015, the sectors employing the greatest numbers of computer systems analysts were state government, insurance, computer system design, professional and commercial equipment, and company and enterprise management. The number of jobs in this field is projected to grow from 487,000 as of 2009 to 650,000 by 2016.
+
+This job ranked third best in a 2010 survey,<ref>{{cite web 
+| url          = https://online.wsj.com/public/resources/documents/st_BESTJOBS2010_20100105.html 
+| title        = ''Best and Worst Jobs 2010''
+| archive-url  = https://web.archive.org/web/20110103034921/https://online.wsj.com/public/resources/documents/st_BESTJOBS2010_20100105.html 
+| archive-date = January 3, 2011 
+| access-date  = <!-- for the * * * archive-url * * * [field value]; ... NOT for the "original" URL ... which is still shown as the value of the [plain] "url" field --> July 1, 2020 
+}}</ref> fifth best in the 2011 survey, 9th best in the 2012 survey and the 10th best in the 2013 survey.<ref>[https://www.wsj.com/articles/SB10001424127887324874204578439154095008558 ''Best and Worst Jobs of 2013'']</ref>
+
+==See also==
+*[[Change management analyst]]
+*[[Business analyst]]
+*[[Software analyst]]
+*[[Business analysis]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.bls.gov/ooh/Computer-and-Information-Technology/Computer-systems-analysts.htm Computer Systems Analysts] in the ''[[Occupational Outlook Handbook]]'' from the  [[Bureau of Labor Statistics]], a unit of the [[United States Department of Labor]]
+
+[[Category:Systems analysis]]
+[[Category:Business occupations]]
+[[Category:Computer occupations]]
+
+[[de:Systemanalyse#Informatik]]

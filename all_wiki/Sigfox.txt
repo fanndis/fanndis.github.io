@@ -1,0 +1,283 @@
+{{Infobox company
+| name = Sigfox S.A.
+| logo = Sigfox logo.svg
+| logo_size = 
+| logo_alt = 
+| logo_caption = 
+| logo_padding = 
+| image = 
+| image_size = 
+| image_alt = 
+| image_caption = 
+| native_name = SIGFOX
+| native_name_lang = <!-- Use ISO 639-1 code, e.g. "fr" for French. For multiple names in different languages, use {{lang|[code]|[name]}}. -->
+| former_name = 
+| type = [[S.A. (corporation)|Société Anonyme]]
+| industry = Wireless services
+| founded = 2010 <!-- if known: {{start date|YYYY|MM|DD}} in [[city]], [[country]] -->
+| founders = Ludovic Le Moan and Christophe Fourtet
+| hq_location = [[Labège]]
+| hq_location_city = near [[Toulouse]]
+| hq_location_country = [[France]]
+| area_served = Global        <!-- or: | areas_served = -->
+| key_people = Ludovic le Moan, [[CEO]]; [[Anne Lauvergeon]], Chairman; Christophe Fourtet, Scientific Director
+| products = 
+| brands = 
+| num_employees = 375 (04/2017)
+| services = IoT
+| revenue = €50 million<ref name=IT>{{cite web|title=Sigfox presents 2017 results and 2018 roadmap|url=https://www.sigfox.com/en/news/sigfox-presents-2017-results-and-2018-roadmap|website=Sigfox|publisher=Sigfox|accessdate=1 August 2018}}</ref> <small>(2017)</small>
+| owner = <!-- or: | owners = -->
+| website = {{URL|http://www.sigfox.com/}}            <!-- or: | homepage = --><!-- {{URL|example.com}} -->
+}}
+
+'''Sigfox''' is a [[France|French]] global network operator founded in 2010<ref>{{Cite web|url=https://www.sigfox.com/en/sigfox-story|title=Our Story {{!}} Sigfox|last=|first=|date=2020|website=Sigfox|url-status=live|archive-url=|archive-date=|access-date=}}</ref> that builds [[wireless network]]s to connect low-power objects such as [[electricity meter]]s and [[smartwatch]]es, which need to be continuously on and emitting small amounts of data.
+
+Sigfox is based in [[Labège]] near [[Toulouse]], France, and has over 375 employees. The firm also has offices in [[Madrid]], [[San Francisco]], [[Sydney]] and [[Paris]].<ref name="Partech Shaker">{{cite web|title=Residents|url=http://partechshaker.com/sigfox-paris-shaker/|website=Partech Shaker|publisher=Partech Shaker|accessdate=13 May 2015}}</ref><ref name="Le Figaro">{{cite web|last1=Renault|first1=Enguérand|title=Le Shaker, une fabrique à start-up, s'installe au cœur de Paris|url=http://www.lefigaro.fr/secteur/high-tech/2014/07/09/01007-20140709ARTFIG00240-le-shaker-une-fabrique-a-start-up-s-installe-au-coeur-de-paris.php|website=Le Figaro|publisher=Le Figaro|accessdate=13 May 2015|date=2014-07-09}}</ref>
+
+==Technology==
+Sigfox employs the differential binary [[phase-shift keying]] (DBPSK) and the [[Frequency-shift keying#Gaussian frequency-shift keying|Gaussian frequency shift keying]] (GFSK) that enables communication using the Industrial, Scientific and Medical [[ISM band|ISM radio band]] which uses 868MHz in Europe and 902MHz in the US. It utilizes a wide-reaching signal that passes freely through solid objects, called "[[Ultra Narrowband]]" and requires little energy, being termed a "[[LPWAN|low-power wide-area network]]" ([[LPWAN]]). The network is based on one-hop [[Network_topology#Star|star topology]] and requires a mobile operator to carry the generated traffic.<ref name="DregvaiteDamasevicius2016">{{cite book|author1=Giedre Dregvaite|author2=Robertas Damasevicius|title=Information and Software Technologies: 22nd International Conference, ICIST 2016, Druskininkai, Lithuania, October 13-15, 2016, Proceedings|url=https://books.google.com/books?id=ApcoDQAAQBAJ&pg=PA665|date=30 October 2016|publisher=Springer|isbn=978-3-319-46254-7|pages=665–}}</ref> The signal can also be used to easily cover large areas and to reach underground objects.<ref name="AghaPujolle2016">{{cite book|author1=Khaldoun Al Agha|author2=Guy Pujolle|author3=Tara Ali Yahiya|title=Mobile and Wireless Networks|url=https://books.google.com/books?id=_BzfDAAAQBAJ&pg=PA241|date=17 August 2016|publisher=Wiley|isbn=978-1-119-00755-5|pages=241–}}</ref> As of November 2020, the Sigfox IoT network has covered a total of 5.8 million square kilometers in a total of 72 countries with 1.3 billion of the world population reached.<ref>{{Cite web|url=https://www.sigfox.com/en/sigfox-story|title=Our Story {{!}} Sigfox|last=|first=|date=2020|website=Sigfox|url-status=live|archive-url=|archive-date=|access-date=2020-11-26}}</ref>
+
+Sigfox has partnered with a number of firms in the LPWAN industry such as [[Texas Instruments]], [[Silicon Labs]] and [[ON Semiconductor]]. The ISM radio bands support limited bidirectional communication. The existing standard for Sigfox communications supports up to 140 uplink messages a day, each of which can carry a payload of 12 [[Octet (computing)|octets]] at a data rate of up to 100 bits per second.<ref>{{Cite journal|last=Augustin|first=Aloÿs|last2=Yi|first2=Jiazi|last3=Clausen|first3=Thomas|last4=Townsley|first4=William Mark|date=2016-09-09|editor-last=Kim|editor-first=Dongkyun|title=A Study of LoRa: Long Range & Low Power Networks for the Internet of Things|journal=Sensors|volume=16|issue=9|pages=2–3|doi=10.3390/s16091466|pmid=27618064|pmc=5038744}}</ref>
+
+<br />
+
+== Coverage ==
+{| class="wikitable"
+|+Global coverage of Sigfox network
+!Continent
+!Country
+!Provider
+|-
+|Africa
+|Kenya
+|[[Liquid Telecom Group|Liquid Telecom]]
+|-
+|Africa
+|Mauritius
+|io connect
+|-
+|Africa
+|Mayotte
+|io connect
+|-
+|Africa
+|Réunion
+|io connect
+|-
+|Africa
+|South Africa
+|[[Sqwidnet]]
+|-
+|Africa
+|Tunisia
+|IoT Tunisia
+|-
+|Asia
+|Hong Kong
+|[[Rakon|Thinxtra]]
+|-
+|Asia
+|Iran
+|[[Parsnet]]
+|-
+|Asia
+|Japan
+|[[Kyocera]]
+|-
+|Asia
+|Malaysia
+|Xperanti
+|-
+|Asia
+|Oman
+|[[Momkin]]
+|-
+|Asia
+|Singapore
+|[[UnaBiz]]
+|-
+|Asia
+|South Korea
+|[[Amotech]]
+|-
+|Asia
+|Taiwan
+|UnaBiz
+|-
+|Asia
+|United Arab Emirates
+|iWire
+|-
+|Europe
+|Austria
+|Heliot IoT
+|-
+|Europe
+|Belgium
+|[[Engie|Engie M2M]]
+|-
+|Europe
+|Croatia
+|IoT Net
+|-
+|Europe
+|Czech Republic
+|[[SimpleCell Networks]]
+|-
+|Europe
+|Denmark
+|IoT Denmark A/S
+|-
+|Europe
+|Estonia
+|[[Connected Baltics]]
+|-
+|Europe
+|Finland
+|Connected Finland
+|-
+|Europe
+|France
+|Sigfox
+|-
+|Europe
+|Germany
+|Sigfox
+|-
+|Europe
+|Hungary
+|[[Omnicell|Omnicell IoTnet]]
+|-
+|Europe
+|Ireland
+|VT
+|-
+|Europe
+|Italy
+|NetTrotter
+|-
+|Europe
+|Liechtenstein
+|Heliot IoT
+|-
+|Europe
+|Luxembourg
+|RMS
+|-
+|Europe
+|Malta
+|IoT Malta
+|-
+|Europe
+|Netherlands
+|AEREA
+|-
+|Europe
+|Norway
+|IoT Norway
+|-
+|Europe
+|Portugal
+|Narrownet
+|-
+|Europe
+|Romania
+|Simple IoT
+|-
+|Europe
+|Slovakia
+|SimpleCell Networks
+|-
+|Europe
+|Spain
+|Sigfox
+|-
+|Europe
+|Sweden
+|IoT Sweden
+|-
+|Europe
+|Switzerland
+|Heliot IoT
+|-
+|Europe
+|United Kingdom
+|[[WND Group]]
+|-
+|North America
+|Costa Rica
+|WND Group
+|-
+|North America
+|El Salvador
+|WND Group
+|-
+|North America
+|Guadeloupe
+|[[IDEO Caraïbes]]
+|-
+|North America
+|Martinique
+|IDEO Caraïbes
+|-
+|North America
+|Mexico
+|WND Group
+|-
+|North America
+|Panama
+|WND Group
+|-
+|North America
+|United States
+|Sigfox
+|-
+|Oceania
+|Australia
+|Thinxtra
+|-
+|Oceania
+|French Polynesia
+|VITI
+|-
+|Oceania
+|New Caledonia
+|iSMAC-NC
+|-
+|Oceania
+|New Zealand
+|Thinxtra
+|-
+|South America
+|Argentina
+|WND Group
+|-
+|South America
+|Brazil
+|WND Group
+|-
+|South America
+|Chile
+|WND Group
+|-
+|South America
+|Colombia
+|WND Group
+|-
+|South America
+|Ecuador
+|WND Group
+|-
+|South America
+|French Guiana
+|IDEO Caraïbes
+|-}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Sigfox}}
+[[Category:Internet technology companies of France]]
+[[Category:Internet of things companies]]
+[[Category:Wireless networking]]
+[[Category:French companies established in 2009]]

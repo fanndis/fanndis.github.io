@@ -1,0 +1,89 @@
+{{Infobox SCOTUS case
+  |Litigants=Sessions v. Dimaya
+  |ArgueDate=January 17 
+  |ArgueYear=2017
+  |ReargueDate=October 2
+  |ReargueYear=2017
+  |DecideDate=April 17
+  |DecideYear=2018
+  |FullName=Jefferson B. Sessions, III, Attorney General, Petitioner v. James Garcia Dimaya
+  |USVol=584
+  |USPage=___
+  |ParallelCitations=138 S. Ct. 1204; 200 [[L. Ed. 2d]] 549; 2018 [[U.S. LEXIS]] 2497
+  |Docket=15-1498
+  |Prior=Board of Immigration Appeals reversed ''sub nom.'', ''Dimaya v. Lynch'', 803 [[F.3d]] [https://www.leagle.com/decision/infco20151019139 1110] ([[9th Cir.]] 2015); ''cert. granted sub. nom., Lynch v. Dimaya'', 137 S. Ct. 31 (2016).
+  |Subsequent=
+  |Holding={{uscsub|18|16|b}}, a statute defining certain "aggravated felonies", is [[Vagueness doctrine#Unconstitutional vagueness|unconstitutionally vague]]. [[United States Court of Appeals for the Ninth Circuit|Ninth Circuit]] affirmed.
+  |Plurality=Kagan
+  |JoinPlurality=Ginsburg, Breyer, Sotomayor, Gorsuch (as to Parts I, III, IV-B, and V)
+  |Concurrence=Gorsuch (in part and in the judgment)
+  |JoinConcurrence=
+  |Concurrence2=
+  |JoinConcurrence2=
+  |Concurrence/Dissent=
+  |JoinConcurrence/Dissent=
+  |Dissent=Roberts
+  |JoinDissent=Kennedy, Thomas, Alito
+  |Dissent2=Thomas
+  |JoinDissent2=Kennedy and Alito (as to Parts I–C–2, II–A–1, and II–B).
+  |LawsApplied=[[Fifth Amendment to the United States Constitution|U.S. Const. amend. V]]<br />{{uscsub|18|16|b}}
+}}
+
+'''''Sessions v. Dimaya''''', 584 U.S. ___ (2018), was a [[Supreme Court of the United States|United States Supreme Court]] case in which the Court held that 18 U.S.C. § 16(b),<ref>{{uscsub|18|16|b}}.</ref> a statute defining certain "[[aggravated felony|aggravated felonies]]" for immigration purposes, is [[Vagueness doctrine|unconstitutionally vague]]. The [[Immigration and Nationality Act]] (INA) classifies some categories of crimes as "aggravated felonies", and immigrants convicted of those crimes, including those legally present in the United States, are almost certain to be [[deported]]. Those categories include "crimes of violence", which are defined by the "elements clause" and the "residual clause". The Court struck down the "residual clause", which classified every felony that, "by its nature, involves a substantial risk" of "physical force against the person or property" as an aggravated felony.<ref>{{cite news|first1=Mark Joseph|last1=Stern|accessdate=2018-04-17|title=Why Neil Gorsuch Sided With the Liberal Justices to Protect Immigrants From Deportation|url=https://slate.com/news-and-politics/2018/04/why-neil-gorsuch-sided-with-the-liberal-justices-in-sessions-v-dimaya.html|newspaper=Slate Magazine}}</ref><ref>{{cite news|accessdate=2018-04-17|title=Opinion analysis: Crime-based removal provision is unconstitutionally vague - SCOTUSblog|url=http://www.scotusblog.com/2018/04/opinion-analysis-crime-based-removal-provision-is-unconstitutionally-vague/|newspaper=SCOTUSblog|date=17 April 2018}}</ref><ref name="nytimes decision">{{cite news|first1=Adam|last1=Liptak|accessdate=2018-04-17|title=Justice Gorsuch Joins Supreme Court’s Liberals to Strike Down Deportation Law|url=https://www.nytimes.com/2018/04/17/us/politics/supreme-court-deportations-trump.html|newspaper=The New York Times|date=17 April 2018|issn=0362-4331|via=NYTimes.com}}</ref><ref>{{cite web|first1=Jennifer|last1=Rubin|accessdate=2018-04-17|title=Opinion {{!}} The Trump administration loses an immigration case — with Gorsuch as the deciding vote|work= The Washington Post|url=https://www.washingtonpost.com/blogs/right-turn/wp/2018/04/17/the-trump-administration-loses-an-immigration-case-with-gorsuch-as-the-deciding-vote/|date=17 April 2018}}</ref>
+
+==Background==
+James Dimaya was a native of the Philippines who legally immigrated to the United States in 1992. He was convicted on two separate counts of residential burglary in 2007 and 2009. Due to these convictions, the United States government sought to deport Dimaya in 2010, asserting that these convictions were "aggravated felonies" under the [[Immigration and Nationality Act]] to support his deportation.<ref name="nytimes oral">{{cite web | url = https://www.nytimes.com/2017/01/17/us/politics/supreme-court-immigrants-deportation-crimes.html | title = When Can Immigrants Be Deported for Crimes? Justices Hear Sides | first=  Adam | last= Liptak | date = January 17, 2017 | accessdate = April 18, 2018 | work = [[The New York Times]] }}</ref> Specifically, the government argued that Dimaya's convictions fell within the "residual clause" of the definition of a violent crime, which included "any other offense that is a felony and that, by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense."<ref>{{ussc|name=Sessions v. Dimaya|volume=584|year=2018|docket=15-1498}}, 2018 U.S. LEXIS 2497 at *11 (quoting {{usc|18|16}}).</ref><ref name=harv/> A federal [[immigration judge]] ordered Dimaya deported, agreeing that the convictions constituted violent aggravated felonies. The [[Board of Immigration Appeals]] upheld the immigration judge's ruling on appeal.<ref name="de Vogue 2018">{{cite web | url = https://www.cnn.com/2018/04/17/politics/supreme-court-federal-law-deportation-immigrants/index.html | title = SCOTUS nixes part of law requiring deportation of immigrants convicted of some crimes | first1 = Ariane | last1= de Vogue |first2= Tal | last2= Kopan | date = April 17, 2018 | accessdate = April 18, 2018 | work = [[CNN]] }}</ref>
+[[File:11-71307 James Dimaya v. Loretta E. Lynch.webm|left|thumb|Oral arguments in the Ninth Circuit Court of Appeals.]]
+Dimaya's lawyers appealed the Board's decision to the [[United States Court of Appeals for the Ninth Circuit]]. While the Ninth Circuit was hearing this case, the [[Supreme Court of the United States]] ruled in ''[[Johnson v. United States (2015)|Johnson v. United States]]'' (2015) that a residual clause in the definition of a violent crime in the [[Armed Career Criminal Act]], which stated "otherwise involves conduct that presents a serious potential risk of physical injury to another", was [[vagueness doctrine|unconstitutionally vague]] and violated [[due process]]. The Ninth Circuit considered the Supreme Court's rationale in ''Johnson'', and subsequently found that the residual clause in the Immigration and Nationality Act was also unconstitutionally vague, overturning the Board of Immigration Appeals's decision.<ref name="nytimes oral"/> The October 2015 decision by Circuit Judge [[Stephen Reinhardt]] was joined by Judge [[Kim McLane  Wardlaw]], over the dissent of Judge [[Consuelo Callahan]].<ref name=harv/><ref>{{cite court |litigants=Dimaya v. Lynch,|vol=803 |reporter=F.3d |opinion=1110 |court=9th Cir.|date=2015|url=https://scholar.google.com/scholar_case?case=10554344685284968126|accessdate=}}</ref>
+
+==Supreme Court==
+{{Listen
+| filename     = Lynch v. Dimaya oral arguments.mp3
+| title        = Initial oral arguments
+| description  = In the initial oral arguments, the case was heard as ''Lynch v. Dimaya''. 
+| filename2    = Sessions v. Dimaya oral arguments.mp3
+| title2       = Rehearing of oral arguments
+| description2 = Oral arguments were re-heard following the appointment of Justice Gorsuch, to break the deadlock.
+}}
+The United States Government filed a petition for a writ of [[certiorari]] to the Supreme Court in June 2016, on the question presented: "Whether 18 U.S.C. 16(b), as incorporated into the Immigration and Nationality Act's provisions governing an alien's removal from the United States, is unconstitutionally vague."<ref>[http://www.scotusblog.com/wp-content/uploads/2016/06/15-1498-Dimaya-Pet.pdf Petition for Writ of Certiorari], ''Sessions v. Dimaya'', 15-1498 (U.S. June 10, 2016).</ref> In September, the Court granted certiorari, agreeing to hear the case.<ref>''Dimaya v. Lynch'', 803 [[F.3d]] [https://www.leagle.com/decision/infco20151019139 1110] (9th Cir. 2015); ''cert. granted sub nom. Lynch v. Dimaya'', 137 S. Ct. 31 (2016).</ref>
+
+The case was first heard on January 17, 2017; the Court at that time only had eight members following the death of Justice [[Antonin Scalia]] and prior to confirmation of Justice [[Neil Gorsuch]]. The Justices were deadlocked 4 to 4 in their decision, and a new oral hearing was held on October 2, 2017, before the full nine-member court.<ref name="nytimes oral"/>
+
+===Opinion of the Court===
+The Court announced judgment in favor of the alien on April 17, 2018, affirming the Ninth Circuit by a vote of 5-4. The Court held that the residual clause in the Immigration and Nationality Act was unconstitutionally vague. Justice [[Elena Kagan]] wrote the majority decision and was joined by Justices [[Ruth Bader Ginsburg]], [[Stephen G. Breyer]] and [[Sonia Sotomayor]], and in part by [[Neil Gorsuch]].<ref name=harv>{{Bluebook journal |first=|last=Note| title=The Supreme Court, 2017 Term — Leading Cases | volume=132 | journal=[[Harvard Law Review|Harv. L. Rev.]] | page=367 | url=https://harvardlawreview.org/wp-content/uploads/2018/11/367-376_Online.pdf| year=2018}}</ref> Kagan referred to Scalia's majority opinion from ''Johnson'' to justify that the language of the residual clause was sufficiently vague.<ref name="nytimes decision"/> Justice Gorsuch wrote an additional concurring opinion, reiterating the importance of the vagueness doctrine within Scalia's opinion from ''Johnson''.<ref name="nytimes decision"/>
+
+Commentators widely discussed Justice Gorsuch's decisive vote joining the four liberal justices on the Supreme Court. Gorsuch, who was appointed by President Trump and began serving in April 2017, broke a 4–4 tie in favor of the liberal justices on the Supreme Court, ruling against the Trump administration's position in upholding the existing law.<ref>{{Cite news|url=https://www.politico.com/story/2018/04/17/immigration-ruling-gorsuch-528749|title=Gorsuch swings against Trump in deportation case|work=POLITICO|access-date=2018-04-23}}</ref><ref>{{Cite news|url=https://www.usatoday.com/story/news/politics/2018/04/17/supreme-court-immigration-law-threatening-deportattosses-out-immigration-law-leading-deportatio/840229001/|title=Neil Gorsuch sides with liberals to tip decision to immigrant in Supreme Court deportation case|work=USA TODAY|access-date=2018-04-23|language=en}}</ref> Several news organizations noted that Gorsuch's vote mirrored Scalia's displeasure with vague laws or excessive government power.<ref>{{Cite news|url=https://newrepublic.com/article/148030/gorsuch-scalia-proud-if-not-trump|title=Gorsuch Did Scalia Proud (If Not Trump)|work=The New Republic|access-date=2018-04-23|language=en-US}}</ref><ref name="de Vogue 2018" />
+
+This was the first time that Ginsburg was able to assign the majority opinion in her tenure on the Court, since she was the most senior justice voting in the majority.<ref>{{Cite web|url=https://slate.com/news-and-politics/2018/04/ruth-bader-ginsburg-just-assigned-a-majority-opinion-for-the-first-time-ever.html|title=Ruth Bader Ginsburg Just Assigned a Majority Opinion for the First Time Ever|last=Stern|first=Mark Joseph|date=2018-04-18|website=Slate Magazine|language=en|access-date=2018-12-18}}</ref>
+
+===Dissents===
+Chief Justice [[John Roberts]] wrote a dissenting opinion, joined by Justices [[Anthony Kennedy]], [[Clarence Thomas]], and [[Samuel Alito]]. Roberts argued that the language in the residual clauses of the Immigration and Nationality Act and the Armed Career Criminal Act was significantly different and that the vagueness doctrine did not apply to the Immigration and Nationality Act. Thomas also wrote an additional dissenting opinion, joined in part by Kennedy and Alito.<ref name="nytimes decision"/>
+
+==Subsequent developments==
+The question of the vagueness of "crime of violence" arose again in the 2019 case ''Davis v. United States''. In this case, two men were arrested and convicted of several charges under the [[Hobbs Act]], which had similar language that required longer mandatory minimum sentences for "crimes of violence", with a similar residual clause to define this. In this case, the residual clauses were triggered by the men brandishing but not using or firing shotguns during the crime. Both challenged this longer sentence. Their case at the Fifth Circuit ruled against their claims that the "crimes of violence" residual clause was vague and thus unconstitutional, but this was prior to the ''Sessions'' ruling. On review following the Supreme Court's decision in ''Sessions'', the Fifth Circuit agreed with the claim that the residual clause was vague and unconstitutional, a decision upheld when the case was brought to the Supreme Court.<ref>{{cite web | url = https://thehill.com/regulation/court-battles/449998-gorsuch-sides-with-liberal-justices-in-finding-gun-law-to-be-vague  |title = Gorsuch sides with liberal justices in finding gun law to be 'vague'  |first =  Jacquiline | last = Thomsen | date = June 24, 2019 | accessdate = June 24, 2019 | work = [[The Hill (newspaper)|The Hill]] }}</ref>
+
+==See also==
+* [[Johnson v. United States (2015)|''Johnson v. United States'' (2015)]]
+* [[Vagueness doctrine]]
+* [[List of United States Supreme Court cases, volume 584]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite journal |last=Nix |first=Dan |title=''Sessions v. Dimaya'': An Unsurprising Majority Reaffirms the Vagueness Doctrine Casenotes |journal=Mercer Law Review |volume=70 |year=2019 |issue=2 |pages=565–582 |doi= |url=https://heinonline.org/HOL/P?h=hein.journals/mercer70&i=585 }}
+
+==External links==
+* {{caselaw source
+ | case = ''Sessions v. Dimaya'', {{ussc|584||2018|el=no}}
+ | justia =https://supreme.justia.com/cases/federal/us/584/15-1498/
+ | oyez =https://www.oyez.org/cases/2017/15-1498
+ | other_source1 = Supreme Court (slip opinion)
+ | other_url1 =https://www.supremecourt.gov/opinions/17pdf/15-1498_1b8e.pdf
+ }}
+* [https://www.scotusblog.com/case-files/cases/lynch-v-dimaya/ Case page] at [[SCOTUSblog]]
+
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Roberts Court]]
+[[Category:United States immigration and naturalization case law]]
+[[Category:2018 in United States case law]]

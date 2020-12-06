@@ -1,0 +1,972 @@
+{{Distinguish|text=[[Sibu]], a city in Malaysia}}
+{{Redirect|Santísimo Nombre de Jesús||Holy Name of Jesus}}
+{{Use Philippine English|date=July 2020}}
+{{Use mdy dates|date=February 2020}}
+{{Infobox settlement
+| name                            = {{PH wikidata|name}}
+| native_name                     = {{small|''Dakbayan sa Sugbo''}}
+| image_skyline                   = CebuMontage.jpg
+| image_caption                   = 
+| image_flag                      = {{PH wikidata|image_flag}}
+| image_seal                      = Ph seal cebucity.png
+| seal_size                       = 100x80px
+| image_map                       = {{PH wikidata|image_map}}
+| map_caption                     = {{PH wikidata|map_caption}}
+| image_map1                      = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map                     = Philippines
+| pushpin_label_position          = left
+| pushpin_map_caption             = Location within the {{PH wikidata|country}}
+| coordinates                     = {{PH wikidata|coordinates}}
+| settlement_type                 = {{PH wikidata|settlement_type}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Philippines}}
+| subdivision_type1               = [[Regions of the Philippines|Region]]
+| subdivision_name1               = {{PH wikidata|region}}
+| subdivision_type2               = [[Provinces of the Philippines|Province]]
+| subdivision_name2               = [[Cebu]] {{small|(geographically only)}}
+| official_name                   = {{PH wikidata|official_name}}
+| etymology                       = <!--origin of name-->
+| named_for                       = <!--named after (if person or place)-->
+| nicknames                       = {{PH wikidata|nickname1}}
+| motto                           = {{PH wikidata|motto}}
+| anthem                          = 
+| subdivision_type3               = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3               = [[Legislative districts of Cebu City|1st (North) and 2nd (South) districts of Cebu City]]
+| established_title               = [[Date of establishment|Founded]]<br /><small>{{nowrap|(as Spanish colony)}}</small><br />Reincorporated <small> {{nowrap|(as city)}}</small>
+| established_date                = {{PH wikidata|founded|lflf=2}}
+| parts_type                      = [[Barangay]]s
+| parts_style                     = para
+| p1                              = 80 (see [[#Barangays|Barangays]])
+| leader_title                    = [[Mayor of Cebu City|Mayor]] <!--mayor-->
+| leader_name                     = [[Edgardo Labella|Edgardo Colina Labella]] 
+| leader_title1                   = [[Vice Mayor]]
+| leader_name1                    = [[Mike Rama|Michael Lopez Rama]] 
+| leader_title2                   = [[Cebu City Council|City Council]]
+| leader_name2                    = {{PH Town Council
+ | title = [[Councilor]]s
+ | frame_style = border:none; padding: 0;
+ | list_style = text-align:left;display:none;white-space: nowrap; overflow: hidden; text-overflow: ellipsis;max-width:100%;font-size:95%;
+ | 10 = <div style="border-style:solid none;border-width:thin;border-color:black Gainsboro;background-color:#e6e6e6;text-align:center;font-variant:small-caps;">1st District (North)</div> 
+ | 2= Nestor Dioson Archival
+ | 3= Prisca Niña Ompoc Mabatid
+ | 4= [[Joy Augustus Young|Joy Augustus Go Young]]
+ | 5= Lea Ouano Japson
+ | 6= Alvin Mañoza Dizon
+ | 7= Raymond Alvin Neri Garcia
+ | 8= Jerry Luga Guardo
+ | 9= Joel Capili Garganera
+ | 20 = <div style="border-style:solid none;border-width:thin;border-color:black Gainsboro;background-color:#e6e6e6;text-align:center;font-variant:small-caps;">2nd District (South)</div>
+ | 11= {{nowrap|[[Dondon Hontiveros|Donaldo Cabanes Hontiveros]]}}
+ | 12= David Flores Tumulak
+ | 13= Eduardo Roa Rama
+ | 14= Eugenio Flordelis Gabuya
+ | 15= Renato Zayco Osmeña
+ | 16= Raul Demerry Alcoseba
+ | 17= Phillip Savior Zafra
+ | 18= James Anthony Roa Cuenco
+ |991= 2019
+ }}
+| leader_title3                   = [[House of Representatives of the Philippines|Congress]]
+| leader_name3                    = {{PH Town Council
+ | title = Representatives
+ | frame_style = border:none; padding: 0;
+ | list_style = text-align:left;display:none;white-space: nowrap; overflow: hidden; text-overflow: ellipsis;font-size:95%;
+ | 10 = <div style="border-style:solid none;border-width:thin;border-color:black Gainsboro;background-color:#e6e6e6;text-align:center;font-variant:small-caps;">1st LegDist (North)</div>
+ | 11 = [[Raul del Mar|Raul Veloso del Mar]]
+ | 20 = <div style="border-style:solid none;border-width:thin;border-color:black Gainsboro;background-color:#e6e6e6;text-align:center;font-variant:small-caps;">2nd LegDist (South)</div>
+ | 21 = [[Rodrigo Abellanosa|Rodrigo Abellana Abellanosa]]
+ |990 = <div style="border-style:solid none;border-width:thin;border-color:black Gainsboro;background-color:#e6e6e6;text-align:center;font-variant:small-caps;">[https://www.comelec.gov.ph/php-tpls-attachments/2019NLE/ElectionResults/2019NLE_LIst_of_Elected_House_of_Rep_Candidates.pdf Commission on Elections]</div>
+}}
+| leader_title4                   = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4                    = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type                 = {{PH wikidata|government_type}}
+| government_footnotes            = {{refn|{{DILG detail}}}}
+| elevation_m                     = {{PH wikidata|elevation_m}}
+| elevation_max_m                 =
+| elevation_min_m                 =
+| elevation_max_rank              =
+| elevation_min_rank              =
+| elevation_footnotes             = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes         = 
+| elevation_min_footnotes         = 
+| area_rank                       = 34th out of 145
+| total_type                      = City
+| area_footnotes                  = {{PSGC detail|area}}
+| area_urban_footnotes            = <ref name="db-worldua">{{ cite web |title=Demographia World Urban Areas (16th Annual Edition, 2020.06) |url=http://www.demographia.com/db-worldua.pdf |website=www.demographia.com |access-date=September 23, 2020 }}</ref>
+| area_rural_footnotes            = <ref name="db-worldua" />
+| area_total_km2                  = {{PH wikidata|area}}
+| area_land_km2                   = 
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_urban_km2                  = 205
+| area_metro_km2                  = 1062.88
+| population_footnotes            = {{PH census|current}}
+| population_total                = {{PH wikidata|population_total}}
+| population_as_of                = {{PH wikidata|population_as_of}}
+| population_density_km2          = auto
+| population_urban                = 2,275,000
+| population_density_urban_km2    = auto
+| population_metro                = 2849213
+| population_density_metro_km2    = auto
+| population_rural                = 
+| population_density_rural_km2    = auto
+| population_rank                 = 5th
+| population_note                 = 
+| population_demonym              = {{PH wikidata|demonym}}
+| population_blank1_title         = [[Household]]s
+| population_blank1               = {{PH wikidata|household}} 
+| population_blank2_title         = 
+| population_blank2               = 
+| timezone                        = [[Philippine Standard Time|PST]]
+| utc_offset                      = +8
+| postal_code_type                = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code                     = {{PH wikidata|postal_code}}
+| postal2_code_type               = {{PSGCstyle}}
+| postal2_code                    = {{PSGC detail}}
+| area_code_type                  = {{areacodestyle}}
+| area_code                       = {{PH wikidata|area_code}}
+| website                         = {{PH wikidata|website}}
+| demographics_type1              = Economy
+| demographics1_title1            = {{PH wikidata|income_class_title}}
+| demographics1_info1             = {{PH wikidata|income_class}}
+| demographics1_title2            = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2             = 12.61% (2015)<ref>{{cite web |url=https://psa.gov.ph/sites/default/files/City%20and%20Municipal-level%20Small%20Area%20Poverty%20Estimates_%202009%2C%202012%20and%202015_0.xlsx|title=PSA releases the 2015 Municipal and City Level Poverty Estimates|location=Quezon City, Philippines |access-date=12 October 2019}}</ref>
+| demographics1_title3            = [[Revenue]]
+| demographics1_info3             = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}} 
+| demographics1_title4            = Revenue Rank
+| demographics1_info4             = 
+| demographics1_title5            = [[Asset]]s
+| demographics1_info5             = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}} 
+| demographics1_title6            = Assets Rank
+| demographics1_info6             = 
+| demographics1_title7            = [[Liabilities]]
+| demographics1_info7             = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}} 
+| demographics1_title8            = Liabilities Rank
+| demographics1_info8             = 
+| demographics1_title9            = [[Expenditure]]
+| demographics1_info9             = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}} 
+| demographics1_title10           = Expenditure Rank
+| demographics1_info10            = 
+| demographics_type2              = 
+| demographics2_title1            = Electricity
+| demographics2_info1             =  
+| demographics2_title2            = Water
+| demographics2_info2             =  
+| demographics2_title3            = Telecommunications
+| demographics2_info3             = 
+| demographics2_title4            = Cable TV
+| demographics2_info4             =
+| demographics2_title5            = 
+| demographics2_info5             =
+| demographics2_title6            = 
+| demographics2_info6             =
+| demographics2_title7            = 
+| demographics2_info7             =
+| demographics2_title8            = 
+| demographics2_info8             =
+| demographics2_title9            = 
+| demographics2_info9             =
+| demographics2_title10           = 
+| demographics2_info10            =
+| blank_name_sec1                 = {{PH wikidata|climate_title}}
+| blank_info_sec1                 = {{PH wikidata|climate_type}}
+| blank1_name_sec1                = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1                = {{PH wikidata|language}}
+| blank2_name_sec1                = [[Sister cities]]
+| blank2_info_sec1                = {{Collapsible list
+ | title = Sister Cities<br>of Cebu City
+ | frame_style = border:none; padding: 0;
+ | list_style = text-align:left;display:none;
+ | 1 = '''International'''
+ | 2 = [[Busan]], South Korea
+ | 3 = [[Guadalajara]], Mexico
+ | 4 = [[Haarlemmermeer]], Netherlands
+ | 5 = [[Kaohsiung]], Taiwan
+ | 6 = [[Kortrijk]], Belgium
+ | 7 = [[Sabrosa]], Portugal
+ | 8 = [[Seattle]], U.S
+ | 9 = [[St Petersburg]], Russia
+ | 10 = [[Vladivostok]], Russia
+ | 11 = [[Xiamen]], China
+ | 12 = [[Yokohama]], Japan
+ | 13 = [[Yeosu]], South Korea
+ | 14 = '''Local'''
+ | 15 = [[Butuan]]
+ | 16 = [[Davao City]]
+ | 17 = [[General Santos]]
+ | 18 = [[Manila]]
+ | 19 = [[Ozamiz]]
+ }}
+| blank3_name_sec1                = 
+| blank3_info_sec1                = 
+| blank4_name_sec1                = 
+| blank4_info_sec1                = 
+| blank5_name_sec1                = 
+| blank5_info_sec1                = 
+| blank6_name_sec1                = 
+| blank6_info_sec1                = 
+| blank7_name_sec1                = 
+| blank7_info_sec1                = 
+| blank1_name_sec2                = Dominant religion
+| blank1_info_sec2                = Roman Catholicism - 80 %
+| blank2_name_sec2                = Notable festival
+| blank2_info_sec2                = [[Sinulog Festival]] - Third Sunday of January
+| blank3_name_sec2                = Catholic diocese
+| blank3_info_sec2                = [[Roman Catholic Archdiocese of Cebu|Archdiocese of Cebu]]
+| blank4_name_sec2                = Patron saint 
+| blank4_info_sec2                = {{Collapsible list
+ | title = Patron Saints<br>of Cebu City
+ | frame_style = border:none; padding: 0;
+ | list_style = text-align:left;display:none;
+ | 1 = • [[Our Lady of Guadalupe]]
+ | 2 = • Saint [[Vitalis of Milan]]
+ | 3 = • Saint [[Pedro Calungsod]]
+ }}
+| blank5_name_sec2                = 
+| blank5_info_sec2                = 
+| blank6_name_sec2                = 
+| blank6_info_sec2                = 
+| blank7_name_sec2                = 
+| blank7_info_sec2                =
+| short_description               =
+| footnotes                       =
+}}
+
+'''Cebu City''', officially the '''City of Cebu''' ({{lang-ceb|Dakbayan sa Sugbo}}; {{lang-tgl|Lungsod ng Cebu}}; {{lang-es|Ciudad de Cebu}}), is a [[Cities of the Philippines#Income classification|1st class]] [[Cities of the Philippines#Legal classification|highly urbanized city]] of the island of [[Cebu Island|Cebu]] in the [[Central Visayas]] Region, [[Philippines]]. 
+According to the {{PH wikidata|population_as_of}}, it has a population of {{PH wikidata|population_total}} people,{{PH census|current}} making it the fifth-most populated city in the nation and the most populous in [[Visayas]].
+
+It is the regional center of [[Central Visayas]] and is the seat of government for the province of [[Cebu]], but is governed separately from it. The city is a significant center of commerce, trade and education in [[Visayas]]. It is the Philippines' main domestic shipping port and is home to about 80% of the country's domestic shipping companies.
+
+Located in the middle of the eastern side of [[Cebu Island]], it is the center of [[Metro Cebu]], the second largest [[metropolitan area]] in the Philippines by population, economy and land area, which includes the cities of [[Carcar]], [[Danao, Cebu|Danao]], [[Lapu-Lapu, Philippines|Lapu-Lapu]], [[Mandaue]], [[Naga, Cebu|Naga]] and [[Talisay, Cebu|Talisay]] and the municipalities (towns) of [[Compostela, Cebu|Compostela]], [[Consolacion, Cebu|Consolacion]], [[Cordova, Cebu|Cordova]], [[Liloan, Cebu|Liloan]], [[Minglanilla, Cebu|Minglanilla]] and [[San Fernando, Cebu|San Fernando]]. Metro Cebu had a total population of 2,849,213 as of 2015, making it the second-most populous metropolitan area of the nation, after [[Metro Manila]] in [[Luzon]].<ref>{{Cite web |url=http://psa.gov.ph/content/highlights-philippine-population-2015-census-population |title=Highlights of the Philippine Population 2015 Census of Population |date=May 19, 2016 |website=Philippine Statistics Authority |access-date=2016-10-31}}</ref>
+
+Cebu is the country's oldest city; it was the first [[Spanish Empire|Spanish]] settlement<ref>{{cite web |url=http://www.cebucitytour.com/about-cebu/history/ |title=History of Cebu |publisher=Cebu City Tour |access-date=February 22, 2013}}</ref> and the first [[capital of the Philippines]]. It is the "[[List of second cities|Second City]]" of the Philippines. The city is considered the birthplace of Christianity in the Far East.<ref>{{Cite web |url=http://iec2016.ph/about-us/cebu-philippines/ |title=Cebu & Philippines |website=International Eucharistic Congress 2016 |access-date=24 June 2016}}</ref><ref name="Cebu">{{Citation |title=Cebu—Cradle of the Philippine Church and Seat of Far-East Christianity |date=December 4, 2014 |url=http://iec2016.ph/wp-content/uploads/2014/12/Cebu%E2%80%94Cradle-of-the-Philippine-Church-and-Seat-of-Far-East-Christianity.pdf |publisher=International Eucharistic Congress 2016 |access-date=December 4, 2014}}</ref><ref>{{Cite web |url=http://directory.ucanews.com/dioceses/philippines-cebu/425 |title=Cebu Archdiocese Philippines - Archdiocese of Cebu Philippines |website=Ucanews |access-date=24 June 2016 |archive-url=https://web.archive.org/web/20160303210209/http://directory.ucanews.com/dioceses/philippines-cebu/425 |archive-date=March 3, 2016 |url-status=dead }}</ref><ref>{{cite web |url=https://philippinechurchhistory.wordpress.com/2014/12/29/cradle-of-christianity-or-seat-of-christianity-in-the-far-east/ |title='Cradle of Christianity' or 'Seat of Christianity' in the Far East? |last=Aeon |date=29 December 2014 |access-date=24 June 2016}}</ref>
+
+Cebu is bounded on the north by the town of [[Balamban, Cebu|Balamban]] and the city of Danao, on the west by the city of [[Toledo City, Cebu|Toledo]], on the east by the cities of Lapu-Lapu and Mandaue and the towns of Liloan, Consolacion and Compostela and on the south by the city of Talisay.
+
+It has entered the list of [[Condé Nast Traveler]] thrice: Last 2016, 2017 and 2019. In all years, [[Boracay]] led the list. The entire [[Visayas]] also ranked second with it on 2019, even the leading Boracay is [[Western Visayas|also part of it]].
+
+==Etymology==
+The name "Cebu" came from the old [[Cebuano language|Cebuano]] word ''sibu'' or ''sibo'' ("trade"), a shortened form of ''sinibuayng hingpit'' ("the place for trading"). It was originally applied to the harbors of the town of Sugbu, the ancient name for Cebu City. Sugbu or Sugbo, in turn, was derived from the Old Cebuano term for "[[scorched earth]]" or "great fire".<ref name="macachor">{{Cite journal |last=Macachor |first=Celestino C. |year=2011 |title=Searching for Kali in the Indigenous Chronicles of Jovito Abellana |url=http://cebueskrima.s5.com/custom3.html |url-status=dead |journal=Rapid Journal |volume=10 |issue=2 |archive-url=https://web.archive.org/web/20120703210211/http://cebueskrima.s5.com/custom3.html |archive-date=2012-07-03}}</ref><ref name="marivir">{{Cite book |title=Retracing Our Roots – A Journey into Cebu's Pre-Colonial Past |last=Montebon |first=Marivir |page=15}}</ref>
+
+==History==
+{{more citations needed|section|date=April 2019}}
+{{See also|Lapu-Lapu|Rajahnate of Cebu}}
+
+===Founding===
+{{Main|Singhapala}}
+Before the [[History of the Philippines (1521–1898)|arrival of the Spaniards]], Cebu city was part of the island-[[rajahnate]] and trade center of Pulua Kang Dayang or Kangdaya (literally "[the islands] which belong to Daya"), now better known as the [[Rajahnate of Cebu]]. It was founded by a prince of the Hindu [[Chola dynasty]] of [[Sumatra]], the half-Malay and half-Tamil, Sri Lumay. The name Sugbo (shortened form of ''Kang Sri Lumaying Sugbo'', literally "that of Sri Lumay's great fire") refers to Sri Lumay's [[scorched earth tactics]] against Muslim Pirates or [[Moro Pirates|Moro raiders]] (''Magalos'').<ref name="macachor" /><ref name="marivir" />
+
+===Spanish period===
+[[File:Magellans Cross Inside.jpg|thumb|left|[[Magellan's Cross]]]]
+[[File:Cebu escondrillas.jpg|thumb|left|A 19th-century map of Cebu City]]
+On April 7, 1521, [[Portuguese discoveries|Portuguese explorer]] [[Ferdinand Magellan]] landed in Cebu. He was welcomed by [[Rajah Humabon]] (also known as Sri Humabon or Rajah Humabara), the grandson of Sri Lumay, together with his wife and about 700 native islanders. Magellan, however, was killed in the [[Battle of Mactan]], and the remaining members of his expedition left Cebu soon after several of them were poisoned by Humabon, who was fearful of foreign occupation. The last ruler of Sugbo, prior to Spanish colonization, was Rajah Humabon's nephew, [[Rajah Tupas]] (d. 1565).<ref name="macachor" /><ref name="marivir" />
+
+On February 13, 1565, Spanish conquistadors led by [[Miguel López de Legazpi]] together with Augustinian friars whose prior was [[Andrés de Urdaneta]], arrived in Samar, taking possession of the island thereafter. They Christianized some natives and Spanish remnants in Cebu. Afterwards, the expedition visited [[Leyte]], [[San Juan, Southern Leyte|Cabalian]], Mazaua, [[Camiguin]] and [[Bohol]] where the famous ''[[Sandugo]]'' or blood compact was performed between López de Legazpi and [[Datu Sikatuna]], the chieftain of Bohol on March 16, 1565. The Spanish arrived in Cebu on April 15, 1565. They then attempted to parley with the local ruler, Rajah Tupas, but found that he and the local population had abandoned the town. Rajah Tupas presented himself at their camp on 8 May, feast of the [[Michael (archangel)|Apparition of Saint Michael the Archangel]], when the island was taken possession of on behalf of the Spanish King. The [[Treaty of Cebu (1565)|Treaty of Cebu]] was formalized on July 3, 1565. López de Legazpi's party named the new city "Villa de San Miguel de Cebú" (later renamed "Ciudad del Santísimo Nombre de Jesús)." In 1567 the Cebu garrison was reinforced with the arrival of 2,100 soldiers from [[Viceroyalty of New Spain|New Spain]] (Mexico).{{efn|1=On orders of the King Philip II, 2,100 men arrived from Mexico.<ref>{{Cite web |url=http://www.philippine-history.org/spanish-expeditions.htm |title=Spanish Expeditions to the Philippines |date=2005 |website=philippine-history.org}}</ref>}} The growing colony was then fortified by [[Fort San Pedro]].
+
+By 1569, the Spanish settlement in Cebu had become important as a safe port for ships from [[Mexico]] and as a jumping-off point for further exploration of the archipelago. Small expeditions led by [[Juan de Salcedo]] went to [[Mindoro]] and [[Luzon]], where he and [[Martín de Goiti]] played a leading role in the subjugation of the Kingdoms of [[Kingdom of Tondo|Tundun]] and [[Seludong]] in 1570. One year later, López de Legazpi departed Cebu to discuss a peace pact with the defeated Rajahs. An agreement between the conquistadors and the Rajahs to form a city council paved the way for the establishment of a new settlement and the construction of the Christian walled city of [[Intramuros]] on the razed remains of Islamic Manila, then a vassal-state of the [[Sultanate of Brunei]].
+
+In 1571, the Spanish carried over infantry from Mexico, to raise an army of Christian Visayan warriors from [[Cebu]] and [[Iloilo]] as well as mercenaries from the Tagalog region, and assaulted the Sultanate of Brunei in what is known as the [[Castilian War]]. The war also started the [[Spanish–Moro Wars]] waged between the Christian Visayans and Muslim Mindanao, wherein Moros burned towns and conducted slave raids in the Visayas islands and selling the slaves to the Sultanates of the [[Malay Archipelago]] and the Visayans fought back by establishing Christian fort-cities in Mindanao, cities such as [[Zamboanga City]].
+
+On August 14, 1595, [[Pope Clement VIII]] created the diocese of Cebu as a suffragan to the [[Archdiocese of Manila]].
+
+On April 3, 1898, local revolutionaries led by the [[Negrense]] [[Leon Kilat]] rose up against the Spanish colonial authorities and took control of the urban center after three days of fighting. The uprising was only ended by the treacherous murder of Leon Kilat and the arrival of soldiers from Iloilo.<ref>{{Cite web |url=http://www.cebu.gov.ph/?getid=2&getsubid=5&infolinkids=6&GetBodyName=History&rightpdisable=0 |title=Cebu Provincial Government |website=The Official Portal of the Province of Cebu |access-date=24 June 2016}}</ref> On December 26, 1898, the Spanish Governor, General Montero, evacuated his troops to Zamboanga, turning over government property to Pablo Mejia.{{sfn|Foreman|1906|p=522}} The next day, a provincial government was formed under Luis Flores as president, General Juan Climaco as military chief of staff, and [[Julio A. Llorente|Julio Llorente]] as mayor.
+
+===American occupation and World War II===
+[[File:Cebu Malacanan.JPG|thumb|left|[[Malacañang sa Sugbo]], the [[President of the Philippines|presidential]] residence in the [[Visayas]]]]
+The signing of the [[Treaty of Paris (1898)|Treaty of Paris]] at the end of the [[Spanish–American War]] provided for the cession of Cebu along with the rest of the Philippine islands to the United States until the formation of the [[Commonwealth of the Philippines|Commonwealth Era (1935–46)]]. On February 21, 1899, the [[USS Petrel (PG-2)]] deployed a landing party of 40 marines on the shores of Cebu.{{sfn|Foreman|1906|p=523}} Cebu's transfer to the American government was signed by Luis Flores although others, most notably General [[Arcadio Maxilom]] and Juan Climaco, offered resistance until 1901.{{sfn|Foreman|1906|p=524}} Governor [[W. H. Taft]] visited Cebu on April 17, 1901, and appointed Julio Llorento as the first provincial governor.{{sfn|Foreman|1906|p=526}} Juan Climaco was elected to that office in January 1904.{{sfn|Foreman|1906|p=526}}
+
+In 1934, the municipalities of Pardo, Mabolo, Talamban, Banilad, and San Nicolas were dissolved to be merged to the municipality of Cebu and become one of its barangays.<ref>{{cite news |last1=Letigio |first1=Delta Dyrecka |title=The crowning of Cebu City, the Queen City of the South |url=https://cebudailynews.inquirer.net/289880/the-crowning-of-cebu-city-the-queen-city-of-the-south |access-date=August 17, 2020 |work=CDN Digital |date=February 24, 2020}}</ref> After having remained a town since its original founding in 1565, Cebu became a chartered city on February 24, 1937. Many other Philippine cities such as Dansalan (now [[Marawi]]), [[Iloilo City]], and [[Bacolod]] were also incorporated at that time (see [[Cities of the Philippines]]).
+
+Along with the rest of the country, Cebu came under Japanese occupation during [[World War II]]. The Japanese encountered some opposition there from guerrillas and irregular forces led by [[James M. Cushing|Col. James Cushing]] and the Cebu Area Command. It was finally liberated with the [[Battle for Cebu City]] in March and April 1945. The military general headquarters of the Philippine Commonwealth Army and 8th Constabulary Regiment of the Philippine Constabulary, active from January 3, 1942 to June 30, 1946, was stationed in Cebu City during World War <span style="font-family:serif;">II</span>.
+
+===Present day===
+[[Colon Street]], the oldest national road in the Philippines, is the center of a dense and compact area in [[downtown]] Cebu City that was once the heart of Cebu City's shopping and business activity, with fashionable shops, restaurants and movie houses. In the early 1990s, much of this activity shifted to the more modern and more diverse business districts located in almost all of the urban areas of the city, including in what was considered residential and leisure neighborhoods. Colon also serves as a transit point for public utility [[jeepney]]s (PUJ) covering arterial routes within the city.
+
+==Geography==
+Cebu City has a land area of {{convert|315|km2}}. To the northeast of the city is [[Mandaue City]] and the town of [[Consolacion, Cebu|Consolacion]]; to the west is [[Toledo City, Cebu|Toledo City]] and the towns of [[Balamban, Cebu|Balamban]] and [[Asturias, Cebu|Asturias]]; to the south is [[Talisay City, Cebu|Talisay City]] and the town of [[Minglanilla, Cebu|Minglanilla]].
+
+Across Mactan Strait to the east is Mactan island where Lapu-Lapu is located. Further east across the [[Cebu Strait]] is the [[Bohol (island)|island of Bohol]].
+
+<gallery mode="packed" heights="120">
+Cebu City viewpoint i.jpg|Skyline of central Cebu City at night
+Cebu.jpg|Aerial view of Cebu City North district
+Panorama-Cebu-City.jpg|Panorama of Cebu City South district
+Port of Cebu.jpg|Harbor of Cebu City Pier 
+</gallery>
+
+=== Barangays ===
+{{See also|Barangays of Cebu City}}
+The city comprises 80 barangays. These are grouped into two [[Legislative districts of Cebu City|congressional districts]], with 46 barangays in the northern district and 34 in the southern district.<ref>{{cite web |url=http://www.cebucity.gov.ph/barangays--brgy-officials/north-district |title=CEBU CITY NORTH DISTRICT URBAN BARANGAYS |publisher=Cebu City Official Website |access-date=21 August 2016 |archive-url=https://web.archive.org/web/20160825224902/http://www.cebucity.gov.ph/barangays--brgy-officials/north-district |archive-date=25 August 2016 |url-status=dead |df=dmy-all}}</ref><ref>{{cite web |url=http://www.cebucity.gov.ph/barangays--brgy-officials/north-district?start=1 |title=CEBU CITY NORTH DISTRICT RURAL BARANGAYS |publisher=Cebu City Official Website|access-date=21 August 2016 |archive-url=https://web.archive.org/web/20160825193459/http://www.cebucity.gov.ph/barangays--brgy-officials/north-district?start=1 |archive-date=25 August 2016 |url-status=dead |df=dmy-all}}</ref><ref>{{cite web |url=http://www.cebucity.gov.ph/barangays--brgy-officials/south-district |title=CEBU CITY SOUTH DISTRICT URBAN BARANGAYS |publisher=Cebu City Official Website |access-date=21 August 2016 |archive-url=https://web.archive.org/web/20160825225439/http://www.cebucity.gov.ph/barangays--brgy-officials/south-district |archive-date=25 August 2016 |url-status=dead |df=dmy-all}}</ref><ref>{{cite web |url=http://www.cebucity.gov.ph/barangays--brgy-officials/south-district?start=1 |title=CEBU CITY SOUTH DISTRICT RURAL BARANGAYS |publisher=Cebu City Official Website |access-date=21 August 2016 |archive-url=https://web.archive.org/web/20160825225748/http://www.cebucity.gov.ph/barangays--brgy-officials/south-district?start=1 |archive-date=25 August 2016 |url-status=dead |df=dmy-all}}</ref> The three most populous are Guadalupe (> 61,000), Lahug (> 38,000), and Tisa (> 37,000).
+
+[[File:Ph fil cebu city.png|thumb|upright=1.2|{{center|'''Political map of Cebu City'''}}]]
+
+{| style="font-size:93%;background-color:white;border:0;margin:0 auto;"
+|- style="background-color:#f8f8f8;"
+! style="border:black thin solid;" | North !! style="border:black thin solid;" | South
+|-
+| {{PH brgy table lite|top}}
+{{PH brgy table lite|072217001| Adlaon                               | 4028| 3647}}
+{{PH brgy table lite|072217002| Agsungot                             | 2290| 1981}}
+{{PH brgy table lite|072217003| Apas                                 |24591|22566}}
+{{PH brgy table lite|072217006| Bacayan                              |15919|14021}}
+{{PH brgy table lite|072217007| Banilad                              | 7890| 9903}}
+{{PH brgy table lite|072217010| Binaliw                              | 3417| 2722}}
+{{PH brgy table lite|072217013| Budlaan                              | 5316| 5100}}
+{{PH brgy table lite|072217017| Busay                                |13048|11335}}
+{{PH brgy table lite|072217019| Cambinocot                           | 3099| 2658}}
+{{PH brgy table lite|072217020| Capitol Site                         |11307|15308}}
+{{PH brgy table lite|072217021| Carreta                              |12557|11211}}
+{{PH brgy table lite|072217023| Cogon{{nbhyph}}Ramos                 | 3339| 3337}}
+{{PH brgy table lite|072217025| Day{{nbhyph}}as                      | 4817| 4851}}
+{{PH brgy table lite|072217028| Ermita                               | 8451| 8291}}
+{{PH brgy table lite|072217030| Guba                                 | 4976| 4771}}
+{{PH brgy table lite|072217031| Hipodromo                            | 9684| 9673}}
+{{PH brgy table lite|072217033| Kalubihan                            |  866|  563}}
+{{PH brgy table lite|072217035| Kamagayan                            | 2170| 2061}}
+{{PH brgy table lite|072217036| Kamputhaw {{small|(''Camputhaw'')}}  |20030|21765}}
+{{PH brgy table lite|072217037| Kasambagan                           | 8428| 8389}}
+{{PH brgy table lite|072217041| Lahug                                |38584|35157}}
+{{PH brgy table lite|072217042| Lorega{{nbhyph}}San Miguel           |11873|11178}}
+{{PH brgy table lite|072217043| Lusaran                              | 2931| 2530}}
+{{PH brgy table lite|072217044| Luz                                  |18313|16923}}
+{{PH brgy table lite|072217045| Mabini                               | 1909| 1649}}
+{{PH brgy table lite|072217046| Mabolo                               |22008|21842}}
+{{PH brgy table lite|072217048| Malubog                              | 2568| 2441}}
+{{PH brgy table lite|072217050| Pahina Central                       | 5258| 5227}}
+{{PH brgy table lite|072217054| Parian                               | 1574| 1503}}
+{{PH brgy table lite|072217055| Paril                                | 1479| 1412}}
+{{PH brgy table lite|072217057| Pit{{nbhyph}}os                      | 6244| 5185}}
+{{PH brgy table lite|072217059| Pulangbato                           | 5988| 5539}}
+{{PH brgy table lite|072217064| Sambag I                             |13434|11865}}
+{{PH brgy table lite|072217065| Sambag II                            |11223|13526}}
+{{PH brgy table lite|072217066| San Antonio                          | 1928| 2010}}
+{{PH brgy table lite|072217067| San Jose                             | 6870| 5704}}
+{{PH brgy table lite|072217069| San Roque                            | 4444| 4870}}
+{{PH brgy table lite|072217070| Santa Cruz                           | 2316| 2522}}
+{{PH brgy table lite|072217022| Santo Niño                           | 1213| 1568}}
+{{PH brgy table lite|072217074| Sirao                                | 3456| 3871}}
+{{PH brgy table lite|072217078| T. Padilla                           | 7646| 8113}}
+{{PH brgy table lite|072217081| Talamban                             |32139|28278}}
+{{PH brgy table lite|072217082| Taptap                               | 2093| 1741}}
+{{PH brgy table lite|072217083| Tejero {{small|(''Villa Gonzalo'')}} |14496|15204}}
+{{PH brgy table lite|072217084| Tinago                               | 6743| 6554}}
+{{PH brgy table lite|072217087| Zapatera                             | 3146| 3317}}
+|-class=sortbottom style="border-top:solid thin black;border-bottom:double medium black;background-color:#f8f8f8;"
+| style="border-right-style:none;"              |
+| style="text-align:left;font-variant:small-caps;font-weight:bold;letter-spacing:0.2em;border-left-style:none;" | TOTAL – North
+| style="text-align:right;padding-right:0.5em;" | {{rnd|39609900/922611|1}}%
+| style="text-align:right;padding-right:0.5em;" | 396,099
+| style="text-align:right;padding-right:0.5em;" | 383,882
+| style="text-align:center;padding-left:0.3em;border-right:hidden;font-size:167%;line-height:0.9;color:#00b300;" | {{utrif}}
+| style="text-align:right;padding-right:0.5em;" | {{PAGR|{{PH brgy table lite/date|2010}}|383882|{{PH brgy table lite/date|2015}}|396099}}
+|}
+|{{PH brgy table lite|top}}
+{{PH brgy table lite|072217004| Babag                                                           | 4452| 4451}}
+{{PH brgy table lite|072217005| Basak Pardo                                                     |19415|17756}}
+{{PH brgy table lite|072217008| Basak San Nicolas                                               |35422|34313}}
+{{PH brgy table lite|072217011| Bonbon                                                          | 5632| 5014}}
+{{PH brgy table lite|072217014| Buhisan                                                         |14977|13032}}
+{{PH brgy table lite|072217015| Bulacao {{small|(''Bulacao Pardo'')}}                           |30450|26820}}
+{{PH brgy table lite|072217016| Buot-Taop {{small|(''Buot{{nbhyph}}Taup Pardo'')}}              | 2475| 2203}}
+{{PH brgy table lite|072217018| Calamba                                                         |11177|12417}}
+{{PH brgy table lite|072217024| Cogon Pardo                                                     |21276| 7805}}
+{{PH brgy table lite|072217027| Duljo Fatima                                                    |17664|16387}}
+{{PH brgy table lite|072217029| Guadalupe                                                       |61238|60400}}
+{{PH brgy table lite|072217032| Inayawan {{small|(''Inayawan Pardo'')}}                         |30707|28329}}
+{{PH brgy table lite|072217034| Kalunasan                                                       |26756|22737}}
+{{PH brgy table lite|072217038| Kinasang{{nbhyph}}an {{small|(''Kinasang{{nbhyph}}an Pardo'')}} |15185|14382}}
+{{PH brgy table lite|072217040| Labangon                                                        |33477|31643}}
+{{PH brgy table lite|072217049| Mambaling                                                       |32564|32162}}
+{{PH brgy table lite|072217051| Pahina San Nicolas                                              | 3196| 1409}}
+{{PH brgy table lite|072217052| Pamutan                                                         | 1862| 1807}}
+{{PH brgy table lite|072217056| Pasil                                                           | 8593| 8591}}
+{{PH brgy table lite|072217053| Poblacion Pardo                                                 |12596|12103}}
+{{PH brgy table lite|072217060| Pung{{nbhyph}}ol Sibugay                                        | 2556| 2357}}
+{{PH brgy table lite|072217062| Punta Princesa                                                  |22369|22270}}
+{{PH brgy table lite|072217063| Quiot {{small|(''Quiot Pardo'')}}                               |24200|21659}}
+{{PH brgy table lite|072217068| San Nicolas Proper                                              | 6694| 6240}}
+{{PH brgy table lite|072217077| Sapangdaku                                                      | 7594| 6904}}
+{{PH brgy table lite|072217071| Sawang Calero                                                   | 8259| 7831}}
+{{PH brgy table lite|072217073| Sinsin                                                          | 2161| 2111}}
+{{PH brgy table lite|072217075| Suba {{small|(''Suba San Nicolas'')}}                           |11026| 9628}}
+{{PH brgy table lite|072217076| Sudlon I                                                        | 2777| 2461}}
+{{PH brgy table lite|072217088| Sudlon II                                                       | 3913| 3579}}
+{{PH brgy table lite|072217079| Tabunan                                                         | 2138| 1951}}
+{{PH brgy table lite|072217080| Tag{{nbhyph}}bao                                                | 1767| 1951}}
+{{PH brgy table lite|072217085| Tisa                                                            |37766|35600}}
+{{PH brgy table lite|072217086| Toong {{small|(''To{{nbhyph}}ong Pardo'')}}                     | 4178| 3986}}
+|-
+| colspan=7 style="border:hidden;border-top:solid thin black;color:white;font-size:125%;" | M
+|-
+| colspan=7 style="border:hidden;color:white;" | M
+|-
+| colspan=7 style="border:hidden;color:white;" | M
+|-
+| colspan=7 style="border:hidden;color:white;" | M
+|-
+| colspan=7 style="border:hidden;color:white;" | M
+|-
+| colspan=7 style="border:hidden;color:white;" | M
+|-
+| colspan=7 style="border:hidden;color:white;" | M
+|-
+| colspan=7 style="border:hidden;color:white;" | M
+|-
+| colspan=7 style="border:hidden;color:white;" | M
+|-
+| colspan=7 style="border:hidden;color:white;" | M
+|-
+| colspan=7 style="border:hidden;color:white;" | M
+|-
+| colspan=7 style="border:hidden;color:white;" | M
+|-
+| colspan=7 style="border:hidden;color:white;" | M
+|-
+| colspan=7 style="border:hidden;border-bottom:solid thin black;color:white;" | M
+|-class=sortbottom style="border-top:solid thin black;border-bottom:double medium black;background-color:#f8f8f8;"
+| style="border-right-style:none;"              |
+| style="text-align:left;font-variant:small-caps;font-weight:bold;letter-spacing:0.2em;border-left-style:none;" | TOTAL – South
+| style="text-align:right;padding-right:0.5em;" | {{rnd|52651200/922611|1}}%
+| style="text-align:right;padding-right:0.5em;" | 526,512
+| style="text-align:right;padding-right:0.5em;" | 482,289
+| style="text-align:center;padding-left:0.3em;border-right:hidden;font-size:167%;line-height:0.9;color:#00b300;" | {{utrif}}
+| style="text-align:right;padding-right:0.5em;" | {{PAGR|{{PH brgy table lite/date|2010}}|482289|{{PH brgy table lite/date|2015}}|526512}}
+|}
+|-
+| colspan=2 style="text-align:left;padding-left:0.5em;" | '''NB''' As per ''REPUBLIC ACT NO. 9905'', Banawa-Englis was supposed to be the 81st barangay in the city after being carved out from barangays Guadalupe and Labangon, however the law lapsed after the needed plebiscite didn't pass.<ref>{{cite web|website=The LawPhil Project|url=http://www.lawphil.net/statutes/repacts/ra2010/ra_9905_2010.html|title=Republic Act No. 9905|access-date=24 June 2016}}</ref>{{sfn|Cebu Daily News|2012}}<ref>{{Cite news |work=Philippine Daily Inquirer|url=http://newsinfo.inquirer.net/238601/guadalupe-votes-to-keep-barangay-intact |title=Guadalupe votes to keep barangay intact |last=Malinao |first=Tweeny M. |date=July 29, 2012}}</ref>{{sfn|Sun Star|2012}}
+|}
+
+===Climate===
+Cebu City has a [[tropical monsoon climate]] under the [[Köppen climate classification]]. The city has a lengthy [[wet season]] and a short [[dry season]], with only the months of March and April falling into the latter season. Average temperatures show little variance during the year with average daily temps ranging from {{convert|27|C}} to {{convert|29|C}}. The city on averages experiences roughly {{convert|1700|mm}} of precipitation annually.
+
+{{Weather box
+|location = Cebu City ([[Mactan International Airport]]) 1981–2010, extremes 1972–2012
+|metric first = Yes
+|single line = Yes
+| Jan record high C = 33.5
+| Feb record high C = 34.8
+| Mar record high C = 33.9
+| Apr record high C = 35.6
+| May record high C = 37.0
+| Jun record high C = 37.6
+| Jul record high C = 35.3
+| Aug record high C = 35.6
+| Sep record high C = 35.2
+| Oct record high C = 34.4
+| Nov record high C = 33.8
+| Dec record high C = 34.0
+|year record high C = 37.6
+|Jan high C = 29.8
+|Feb high C = 30.2
+|Mar high C = 31.1
+|Apr high C = 32.3
+|May high C = 32.8
+|Jun high C = 32.1
+|Jul high C = 31.5
+|Aug high C = 31.7
+|Sep high C = 31.8
+|Oct high C = 31.4
+|Nov high C = 31.0
+|Dec high C = 30.2
+|year high C = 31.3
+|Jan mean C = 26.8
+|Feb mean C = 27.1
+|Mar mean C = 27.8
+|Apr mean C = 28.8
+|May mean C = 29.3
+|Jun mean C = 28.8
+|Jul mean C = 28.2
+|Aug mean C = 28.4
+|Sep mean C = 28.3
+|Oct mean C = 28.1
+|Nov mean C = 27.8
+|Dec mean C = 27.3
+|year mean C = 28.1
+|Jan low C = 23.9
+|Feb low C = 24.0
+|Mar low C = 24.5
+|Apr low C = 25.4
+|May low C = 25.8
+|Jun low C = 25.4
+|Jul low C = 24.9
+|Aug low C = 25.0
+|Sep low C = 24.9
+|Oct low C = 24.8
+|Nov low C = 24.7
+|Dec low C = 24.3
+|year low C = 24.8
+| Jan record low C = 19.8
+| Feb record low C = 20.0
+| Mar record low C = 19.4
+| Apr record low C = 22.1
+| May record low C = 22.0
+| Jun record low C = 22.5
+| Jul record low C = 20.8
+| Aug record low C = 20.8
+| Sep record low C = 21.5
+| Oct record low C = 21.6
+| Nov record low C = 20.4
+| Dec record low C = 20.0
+|year record low C = 19.4
+| rain colour = green
+| Jan rain mm = 105.2
+| Feb rain mm = 69.6
+| Mar rain mm = 58.6
+| Apr rain mm = 48.1
+| May rain mm = 95.0
+| Jun rain mm = 175.6
+| Jul rain mm = 192.9
+| Aug rain mm = 143.5
+| Sep rain mm = 179.6
+| Oct rain mm = 194.8
+| Nov rain mm = 161.9
+| Dec rain mm = 139.7
+|year rain mm = 1564.5
+|unit rain days = 0.1 mm
+|Jan rain days = 12
+|Feb rain days = 9
+|Mar rain days = 8
+|Apr rain days = 6
+|May rain days = 8
+|Jun rain days = 14
+|Jul rain days = 16
+|Aug rain days = 14
+|Sep rain days = 15
+|Oct rain days = 16
+|Nov rain days = 14
+|Dec rain days = 14
+|year rain days = 146
+|Jan humidity = 83
+|Feb humidity = 81
+|Mar humidity = 79
+|Apr humidity = 77
+|May humidity = 78
+|Jun humidity = 81
+|Jul humidity = 82
+|Aug humidity = 81
+|Sep humidity = 82
+|Oct humidity = 83
+|Nov humidity = 83
+|Dec humidity = 84
+|year humidity = 81
+|source = [[Philippine Atmospheric, Geophysical and Astronomical Services Administration|PAGASA]]<ref name=PAGASAnormals>
+{{cite web
+| archive-url = https://web.archive.org/web/20180919042924/https://data.gov.ph/sites/default/files/pagasanormvalmacintairportcebu1981-2010.csv
+| archive-date = 19 September 2018
+| url = https://data.gov.ph/?q=dataset/climatological-normal-values/resource/e1fda842-1ce5-462c-b1cd-3b02d17917a5
+| title = Mactan International Airport, Cebu City Climatological Normal Values
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = 19 September 2018}}</ref><ref name=PAGASAextremes>
+{{cite web
+| archive-url = https://web.archive.org/web/20180919042814/https://data.gov.ph/sites/default/files/pagasaclimextrmacintlaircebu.csv
+| archive-date = 19 September 2018
+| url = https://data.gov.ph/?q=dataset/climatological-extremes/resource/389566ec-fe40-45f9-be47-25e9fea1719b
+| title = Mactan International Airport, Cebu City Climatological Extremes
+| publisher = Philippine Atmospheric, Geophysical and Astronomical Services Administration
+| access-date = 19 September 2018}}</ref>
+}}
+
+==Demographics==
+{{See also|List of people from Cebu}}
+
+{{Philippine Census 
+| align= left
+| cols = 2
+| width = 12em
+| title= Population census of {{PH wikidata|name}}
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 =
+| 2025 =
+| 2030 =
+| footnote = {{font|size=110%|text=Source: Philippine Statistics Authority}}{{font|size=118%|text={{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{sfn|Gonzales|2004}}}}
+}}
+{{bar box
+| width = 24em
+||title = Language Generally Spoken at Home (2010)
+|titlebar=#f99
+|left1=Language
+|right1=Inhabitants
+|float=left
+|bars=
+{{bar pixel|[[Cebuano language|Cebuano]]|Gold|99.24||913,324}}
+{{bar pixel|[[Tagalog language|Tagalog]]|Orange|0.25||2,298}}
+{{bar pixel|[[English language|English]]|Indigo|0.15||1,356}}
+{{bar pixel|[[Hiligaynon language|Hiligaynon]]|Green|0.08||724}}
+{{bar pixel|Others|Brown|0.29||2,646}}
+}}
+
+The population reached 799,762 people in 2007, and at the 2010 census, the city's population had grown to 866,171 in over 161,151 households.{{PH census|current}}
+
+The most recent census data on ethnicity (based on the 2010 census) shows that the vast majority of the city's population speaks [[Cebuano language|Cebuano]].<ref>{{Cite web|url=https://psa.gov.ph/content/statistical-tables-sample-variables-results-2010-census-population-and-housing-%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%A2%E2%82%AC%C5%93-cebu|title=Statistical Tables on Sample Variables from the results of 2010 Census of Population and Housing - Cebu|website=Philippine Statistics Authority}}</ref>
+
+===Religion===
+
+Christianity in the form of Roman Catholicism is the predominant religion in Cebu for about 80% of the population. The remainders are divided with various Protestant faiths (Baptist, Methodists and Presbyterian), Non-denominational, Iglesia Ni Cristo, The Church of Jesus Christ of Latter Day Saints (Mormon), Jehovah's Witnesses, Seventh-day Adventist and other Christian groups. Other religions include Islam, Hinduism and Buddhism.
+
+Within the city is the [[Cebu Taoist Temple]], a Taoist temple located in Beverly Hills.
+{{clear}}
+
+==Economy==
+
+{{wide image|Cebu_City_Skyline.jpeg|850px|align-cap=center|Panoramic view of the [[Cebu Business Park]]}}
+[[Ceboom]], a portmanteau of Cebu and Boom, has been used to refer to the rapid economic development of both Cebu City and Cebu Province in the early 1990s.<ref>{{cite news
+| url         = http://newsinfo.inquirer.net/338753/has-ceboom-returned
+| title       = Has 'Ceboom' returned?
+| first1      = Fernando Fajardo
+| last1       = Cebu Daily News
+| date        = {{date|11 jan 2013}}
+| archive-url  = https://web.archive.org/web/20130113042653/http://newsinfo.inquirer.net/338753/has-ceboom-returned
+| archive-date = {{date|13 jan 2013}}
+| url-status     = live
+}}</ref>
+
+With Cebu city's proximity to many islands, beaches, hotel and resorts, diving locations and heritage sites, high domestic and foreign tourist arrivals have fueled the city's tourism industry. Due to its geographic location, accessibility by air, land and sea transportation, Cebu City has become the tourist gateway to Central and Southern Philippines. Its port, [[Port of Cebu]], is the country's second largest seaport.<ref name="casestudy">{{cite journal |author1=Victorina Zosa |title=Philippine – Japan Economic Linkages: A Case Study of Cebu |url=http://dirp3.pids.gov.ph/ris/dps/pidsdps0433.pdf |journal=Discussion Paper Series No. 2004-33 |publisher=Philippine Institute for Development Studies |access-date=16 March 2017 |date=August 2004}}</ref>
+
+{{multiple image
+| align     = right
+| direction = vertical
+| image1    = Cebuitparknew.jpg
+| caption1  = Entrance to [[Cebu IT Park]]
+| image2    = Southroadp.jpg
+| caption2  = Cebu [[South Road Properties]]
+| image3    = 
+| caption3  = "The Terraces" at [[Ayala Center Cebu]]
+}}
+
+The city is a major hub for the [[business process outsourcing]] industry of the Philippines. In 2013, Cebu ranked 8th worldwide in the "Top 100 BPO Destinations Report" by global advisory firm, Tholons.<ref>{{cite news |url=http://www.sunstar.com.ph/cebu/local-news/2013/02/12/cebu-rises-8th-best-site-bpos-267725 |title=Cebu rises to 8th best site for BPOs  |work=Sun Star Cebu |access-date=March 18, 2013}}</ref><ref>{{cite web |url=http://ph.news.yahoo.com/metro-manila--cebu-among-top-global-bpo-destinations-094957693.html |title=Metro Manila, Cebu among top global BPO destinations |publisher=Yahoo! Philippines |access-date=March 18, 2013}}</ref> In 2012, the growth in IT-BPO revenues in Cebu grew 26.9 percent at $484 million, while nationally, the industry grew 18.2 percent at $13 billion.<ref>{{cite news |url=http://www.sunstar.com.ph/cebu/business/2013/05/16/non-voice-overtakes-voice-operation-cebu-282691 |title=Non-voice overtakes voice operation in Cebu  |work=Sun Star Cebu |access-date=June 25, 2013}}</ref>
+
+[[Aboitiz Equity Ventures]], formerly known as Cebu Pan Asian Holdings, is the first holding company from Cebu City publicly listed in the [[Philippine Stock Exchange]]. [[Ayala Corporation]], through its subsidiary Cebu Holdings, Inc. and Cebu Property, both publicly in the PSE Index, developed the Cebu Park District where the mixed-used development zones of the [[Cebu Business Park]] and [[Cebu IT Park]] are located. Both master planned areas are host to regional headquarters for various companies in the banking, finance, IT and tourism sectors among others.
+
+Shipbuilding companies in Cebu have manufactured bulk carriers of up to 70,000 metric tons deadweight (DWT) and double-hulled fast craft as well. This industry made the Philippines the 4th largest shipbuilding country in the world.<ref>{{cite web
+| url         = http://ph.news.yahoo.com/philippines-now-fourth-largest-shipbuilding-country-world-091605468.html
+| title         = Philippines Now the Fourth Largest Shipbuilding Country in the World
+| publisher         = Manila Bulletin
+| date         = {{date| 7 feb 2013}}
+| archive-url         = https://web.archive.org/web/20130428114600/http://ph.news.yahoo.com/philippines-now-fourth-largest-shipbuilding-country-world-091605468.html
+| archive-date         = 2013-04-28
+| url-status         = dead
+}}</ref>
+
+With a revenue growth rate of 18.8 percent in 2012, the real estate industry is the fastest growing sector in Cebu. With the strong economic indicators and high investors' confidence level, more condominium projects and hypermarkets are being developed in the locality.<ref>{{cite news |url=http://newsinfo.inquirer.net/334233/real-estate-sector-fastest-growing-industry-in-cebu |title=Real estate sector fastest growing industry in Cebu |work=Philippine Daily Inquirer |access-date=June 25, 2013}}</ref>
+
+The [[South Road Properties]] (SRP) is a {{convert|300|ha|abbr=out|adj=on}} prime property development project on a reclaimed land located a few metres off the coast of Cebu's central business district. It is a mixed-use development that will feature entertainment, leisure, residential and business-processing industries.<ref name="About South Road Properties">{{cite web | url= http://www.cebucity.gov.ph/deptsoffices/frontline/srp | title= About South Road Properties | publisher= City Government of Cebu | access-date= February 20, 2013 | archive-url= https://web.archive.org/web/20130301114258/http://www.cebucity.gov.ph/deptsoffices/frontline/srp | archive-date= March 1, 2013 | url-status= dead | df= mdy-all }}</ref> It is registered with the Philippine Economic Zone Authority (PEZA) and is funded by the Japan Bank for International Cooperation(JBIC).<ref>{{cite web|url=http://www.cebucity.gov.ph/srp/srp.htm |title=The Official Cebu City Government Forum |publisher=Republic of the Philippines: Cebu City Government |access-date=12 January 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100109001546/http://www.cebucity.gov.ph/srp/srp.htm |archive-date=January 9, 2010 }}</ref> Traversing the property is a {{convert|12|km|adj=on}}, four-lane highway known as the Cebu Coastal Road that provides the motorists with a good view of Cebu's south coast and the nearby island of Bohol.
+
+[[Ayala Center Cebu]] is a shopping mall at the [[Cebu Business Park]]. More than 85,000 people visit this mall every day, with the figure increasing to 135,000 daily on weekends.<ref>{{Cite web|url=http://www.cebuholdings.com/ViewNewsItem.do?newsID=32|archive-url=https://web.archive.org/web/20090226231824/http://www.cebuholdings.com/ViewNewsItem.do?newsID=32|url-status=dead|title=Philippine Daily Inquirer - Cebuanos develop shopping, leisure habits|archive-date=February 26, 2009}}</ref> A second mall located in IT Park was opened last December 6, 2019, dubbed as [[Ayala Malls Central Bloc]].
+
+== Local government ==
+{{See also|Cebu City Hall|Cebu City Council}}
+[[File:City Hall of Cebu.JPG|upright|thumb|right|Cebu City Hall]]
+Being a highly urbanized city, Cebu City (along with neighboring [[Mandaue]] and [[Lapu-Lapu, Philippines|Lapu-Lapu]]) is independent from Cebu province. Its electorate do not vote for provincial officials. There were proposals during the time of Governor [[Emilio Mario Osmeña]] to establish an "administrative district" that would be independent from Cebu City. This would mean carving out Cebu City's Capitol Site barangay, where the provincial capitol and other provincial offices are located. The plan, however, did not go through and was even followed by other proposals like the transfer of the capital to Balamban.
+
+Cebu City is governed by a mayor, vice mayor and [[Cebu City Council|sixteen councilors]] (eight representing the north and eight representing the south districts). Each official is popularly elected to serve for a three-year term. The chief of the [[Association of Barangay Captains]] and the president of the [[Sangguniang Kabataan]] Federation also serve in the city council. The day-to-day administration of the city is handled by a city administrator.<ref>{{Cite news |url=http://globalnation.inquirer.net/cebudailynews/news/view/20081010-165704/Davide-is-acting-Cebu-City-mayor |title=Davide is acting Cebu City mayor Osmeña in US, Rama off to Korea |date=10 October 2008 |work=Cebu Daily News (Inquirer.net) |access-date=10 October 2008 |url-status=dead |archive-url=https://web.archive.org/web/20081011011530/http://globalnation.inquirer.net/cebudailynews/news/view/20081010-165704/Davide-is-acting-Cebu-City-mayor |archive-date=11 October 2008 |df=mdy-all}}</ref><ref>{{cite news | url=http://globalnation.inquirer.net/cebudailynews/news/view/20081008-165293/Osmenas-leave-for-US-amid-prayers | title=Osmeñas leave for US amid prayer |work=Philippine Daily Inquirer| access-date=8 October 2008 | archive-url=https://web.archive.org/web/20081011080249/http://globalnation.inquirer.net/cebudailynews/news/view/20081008-165293/Osmenas-leave-for-US-amid-prayers | archive-date=11 October 2008 | url-status=dead | df=dmy-all }}</ref>
+
+; Current city officials (2019-2022)
+* Mayor: [[Edgardo Labella|Edgardo C. Labella]] ([[PDP–Laban]])<ref name="cebudailynews.inquirer.net">{{Cite news|url=https://cebudailynews.inquirer.net/242153/labella-rama-take-oath-as-cebu-citys-new-top-execs|title=Labella, Rama take oath as Cebu City's new top execs|work=Philippine Daily Inquirer|language=en|access-date=2019-07-03}}</ref>
+* Vice Mayor: [[Mike Rama|Michael L. Rama]] ([[United Nationalist Alliance|UNA]])<ref name="cebudailynews.inquirer.net"/>
+
+; [[18th Congress of the Philippines|18th Congress]]
+* [[House of Representatives of the Philippines|House of Representatives]]
+** 1st District (North): [[Raul del Mar]] ([[Liberal Party (Philippines)|LP]])
+** 2nd District (South): [[Rodrigo Abellanosa]] ([[Laban ng Demokratikong Pilipino|LDP]])
+
+==Culture==
+[[File:Cebu-Sinulog.JPG|thumb|left|Procession during the Feast Day of the Santo Niño.]]
+[[File:Interior of the Basilica del Santo Niño.jpg|thumb|Devotees inside the [[Basilica del Santo Niño]].]]
+Cebu City is a significant cultural center in the Philippines. The imprint of Spanish and Roman Catholic culture is evident. The city's most famous landmark is [[Magellan's Cross]]. This cross, now housed in a chapel, is reputed to have been erected by [[Ferdinand Magellan]] (Fernão Magalhães) when he arrived in the Philippines in 1521.<ref>{{cite EB1911|wstitle=Cebú|volume=5|pages=592-593|noicon=yes}}</ref> It was encased in hollow [[Afzelia rhomboidea|tindalo wood]] in 1835 upon the order of the Augustinian Bishop Santos Gómez Marañon to prevent devotees from taking it home chip by chip. The same bishop restored the present template or kiosk, located at Magallanes Street between the City Hall and Colegio del Santo Niño. Revered by Filipinos, the Magellan's Cross is a symbol of Christianity in the Philippines.
+
+A few steps away from Magellan's Cross is the [[Basilica Minore del Santo Niño]] (Church of the Holy Child). This is an Augustinian church elevated to the rank of basilica in 1965 during the 400th anniversary celebrations of Christianity in the Philippines, held in Cebu. The church, which was the first to be established in the islands, is built of hewn stone and features the country's oldest relic, the figure of the [[Santo Niño de Cebú]] (Holy Child of Cebu), who is [[Jesus Christ]] as a [[Child Jesus|Child]].
+
+This religious and cultural event is celebrated during the island's cultural festivities known as the [[Sinulog festival]]. Held every third Sunday of January, it celebrates the festival of the [[Santo Niño de Cebú|Santo Niño]], who was formerly considered to be the patron saint of Cebu. (This patronage was later changed to that of Our Lady of Guadalupe after it was realised that the Santo Niño could not be a patron saint because he was an image of Christ and not a saint.) The Sinulog is a dance prayer ritual of pre-Hispanic indigenous origin. The dancer moves two steps forward and one step backward to the rhythmic sound of drums. This movement resembles somewhat the current (sulog) of the river. Thus, the Cebuanos called it Sinulog.
+
+When the Spaniards arrived in Cebu, the Italian chronicler [[Antonio Pigafetta]], sailing under convoy with the Magellan expedition, offered a baptismal gift to Hara Amihan, wife of Rajah Humabon. She was later named Juana, the figure of the Santo Niño. The natives also honored the Santo Niño de Cebú in their indigenous sinulog ritual.{{citation needed|date=June 2011}} This ritual was preserved but limited to honoring the Santo Niño. Once the Santo Niño church was built in the 16th century, the Christianized-[[Malay race|Austronesian natives]] started performing the sinulog ritual in front of the church, the devotees offering candles and indigenous dancers shouting "Viva Pit Señor!"{{citation needed|date=June 2011}}
+
+In the 1980s and 2000s, the city authorities of Cebu added the religious feast of Santo Niño de Cebú during the Sinulog Festival to its cultural event.
+
+The city joined [[UNESCO]]'s [[Creative Cities Network|Network of Creative Cities]] as a Design City on October 31, 2019 on the occasion of World Cities’ Day.<ref>{{Cite web|url=https://en.unesco.org/news/unesco-celebrates-world-cities-day-designating-66-new-creative-cities|title=UNESCO celebrates World Cities Day designating 66 new Creative Cities|date=2019-10-30|website=UNESCO|language=en|access-date=2019-11-05}}</ref>
+{{clear left}}
+
+===Music===
+Cebu City is regarded as the birthplace of [[BisRock]], a term coined by Cebuano writer Januar E. Yap in 2002.<ref>{{ cite news |title=BISROCK: Where it all began |url=http://www.philstar.com/cebu-entertainment/377832/bisrock-where-it-all-began?nomobile=1 |work=The Philippine Star|date=August 31, 2006 |access-date=August 1, 2017 }}</ref> Notable BisRock bands include [[Missing Filemon]], [[Junior Kilat]], Phylum, and Scrambled Eggs, among others. Popular Filipino bands [[Urbandub]] and [[Cueshé]] also hail from Cebu, but mostly sing their songs in English, and in the latter's case, also in [[Tagalog language|Tagalog]].
+
+The [[Cebu Reggae Festival]] is a popular [[Filipino Reggae]] and Roots [[music festival]], it now has become one of the Philippines' largest annual Reggae Festivals.
+
+Lifedance and Sinulog Invasion are rave music festivals held in the city in the days before the [[Sinulog]] Festival. These music festivals are regarded as among the biggest music festivals in the country.<ref>{{Cite web|url=http://www.everythingcebu.com/attractions/festivals/top-sinulog-parties/|title=Top Sinulog Parties! – Everything Cebu|first=Pearl|last=Cabiluna|website=www.everythingcebu.com}}</ref>
+
+The Cebu Pop Music Festival is an annual music festival, founded in 1980,<ref>{{ cite news |last=Costanilla |first=Sam |title=Costanilla: Cebu Pop Music Festival names top 12 songs |url=http://www.sunstar.com.ph/cebu/entertainment/2016/09/11/costanilla-cebu-pop-music-festival-names-top-12-songs-497036 |work=SunStar|date=September 11, 2016 |access-date=August 1, 2017 }}</ref> showcasing [[Cebuano language]] pop songs. Like Lifedance and Sinulog Invasion, the music festival is also held in the days before the [[Sinulog]] Festival.
+
+On Cebuano musical heritage, the [[Jose R. Gullas Halad Museum]] in V. Gullas St. (former Manalili) corner D. Jakosalem St. in Cebu City, holds musical memorabilia of Cebuano composers in the early 20th century, the likes of Ben Zubiri (composer of Matud Nila), Inting Rubi (Kasadya Ning Taknaa) and Minggoy Lopez (Rosas Pandan).
+
+Since 2013, Cebu has hosted the [[Visayan Pop Songwriting Campaign]], an annual songwriting competition that aimed to showcase songs written in the Cebuano language. Founded by multi-awarded artist [[Jude Gitamondoc]], Ian Zafra, Cattski Espina, and [[Missing Filemon|Missing Filemon's]] front-man Lorenzo Niñal through the Artists and Musicians Marketing Cooperative (ArtistKo) with the support of the Filipino Society of Composers, Authors and Publishers. Vispop, or sometimes Visayan pop, later on evolved from being associated with the music festival to a genre of the new wave of Visayan pop songs that gained nationwide popularity, even those songs that were not exclusively produced for or presented in the contest.
+
+===Sports===
+[[File:Cebu Sports Complex 2009.jpg|thumb|The [[Cebu City Sports Complex]]]]
+The [[Cebu Schools Athletic Foundation, Inc.]] is based in the city. Its member schools are located within the [[Metro Cebu]] area. It is often considered as one of the Philippines' strongest college sports league.
+
+The city has an active boxing scene. ALA Gym, one of the most famous boxing gyms in the Philippines, is based in the city, at the Banilad district. In addition, ALA Gym's promotion arm, the ALA Promotions, organizes the [[Pinoy Pride]] boxing series.
+
+The [[Aboitiz Football Cup]] is the longest-running [[association football]] competition in Cebu. The cup has been considered to be one of the most prestigious association football tournaments in Cebu. The tournament is organized and supported by the [[Aboitiz Equity Ventures|Aboitiz family]], one of the Philippines' richest families, and owners of one of the Philippines' largest conglomerates, the [[Aboitiz Equity Ventures]].
+
+The [[Cebu City Sharks]] is currently the only professional sports team that is playing in the city. The team plays in the South Division of the [[Maharlika Pilipinas Basketball League]] (MPBL). The team plays its home games at the [[Hoops Dome]] in nearby [[Lapu-Lapu City]] and at the [[University of San Jose–Recoletos|USJ-R Coliseum]], located in Barangay Basak Pardo.
+
+Former professional sports teams include the following:
+* [[Global Cebu F.C.]], which played in the now-defunct [[Philippines Football League]] (PFL). They played their home games at the [[Cebu City Sports Complex]]. They have since moved to [[Makati]], changing their name correspondingly into [[Global Makati F.C.]].
+* [[Cebu City Chiefs]], a [[rugby league]] team that participated in the [[Philippines National Rugby League]]
+* Cebu Dragons, a [[rugby union]] team in the [[Philippine Rugby Football Union]]
+* [[Cebu Gems]], a basketball team that played in the now-defunct [[Metropolitan Basketball Association]] (MBA). The Gems played their home games at the [[Cebu Coliseum]].
+
+==Tourism==
+
+Tourism is a thriving industry in Cebu. It hosted the 1998 ASEAN Tourism Forum. The city also hosted the East Asian Tourism Forum in August 2002, in which the province of Cebu is a member and signatory.
+
+Views of Cebu City and its skyline can be seen from villages and numerous gated communities located on its mountainsides.
+
+There is a significant number of Filipino-Spanish heritage buildings in Cebu City such as [[Fort San Pedro]], [[Basilica del Santo Niño]], [[Magellan's Cross]], and the [[Cebu Metropolitan Cathedral]].<ref name="tourism">[http://www.lakbay.net/dot/cebu.html Department of Tourism Philippines official website page on Cebu].  Accessed 28 September 2009.</ref> The city hosts the [[Museo Sugbo]] and Casa Gorordo Museum. The [[Cebu Taoist Temple]] is also situated within the city.
+
+<gallery mode="packed" heights="130">
+Fort San Pedro, Cebu, Philippines.jpg|[[Fort San Pedro]]
+The Magsaysay Monument in Plaza Independencia.jpg|Plaza Independencia de Cebu
+Buddhist Temple (11051465863).jpg|[[Cebu Taoist Temple]]
+Cebu Metropolitan Cathedral front view Cebu City.JPG|[[Cebu Metropolitan Cathedral]]
+WaterfrontCebuCity.JPG|Waterfront Cebu City Hotel
+</gallery>
+
+==Infrastructure==
+
+===Transportation===
+{{multiple image
+<!-- Essential parameters -->
+| align     = right
+| direction = vertical
+| image2 = Mactan Cebu International Airport.jpg
+| caption2 = [[Mactan-Cebu International Airport]]
+| image3 = Osmena Blvd Artists Impression.jpg
+| caption3 = Artist impression of Osmeña Boulevard upon construction of a proposed [[bus rapid transit]] in Cebu City
+}}
+
+[[Mactan–Cebu International Airport]], located in Lapu-Lapu City, is the country's second-busiest airport and serves direct international flights to [[Hong Kong]], [[Malaysia]], [[Singapore]], [[Japan]], [[China]], [[Taiwan]], [[Dubai]] and [[South Korea]], with charter flights to [[Russia]] and domestic destinations.<ref>{{cite web|url=http://cebupacificaircorporate.com/pages/news.aspx?id=810|title=Cebu Pacific adds flights to Cagayan de Oro, Tacloban and Tagbilaran to meet demand|last1=Cebu Pacific Air|date={{date|18 jul 2006}}}}</ref><ref>{{cite news|work=Philippine Daily Inquirer|url=http://globalnation.inquirer.net/cebudailynews/enterprise/view/20080820-155792/Mactan-Cebu-airport-to-set-aside-P300-M-for-expansion|title=Mactan Cebu airport to set aside P300M for expansion|access-date=2008-08-21|archive-url=https://web.archive.org/web/20080916223549/http://globalnation.inquirer.net/cebudailynews/enterprise/view/20080820-155792/Mactan-Cebu-airport-to-set-aside-P300-M-for-expansion|archive-date=2008-09-16|url-status=dead}}</ref> Many international and cargo airlines fly to Cebu. There are also direct transfer flights via the capital's [[Ninoy Aquino International Airport]] that readily connect the city to other destinations in the world.
+
+The city is served by a [[Port of Cebu|domestic and international port]] which are handled by the Cebu Port Authority. Much of the city's waterfront is actually occupied by the port with around {{convert|3.5|km}} of berthing space. The city is home to more than 80% of the country's island vessels traveling on domestic routes mostly in the Visayas and Mindanao.<ref name="casestudy"/>
+
+Transportation throughout the city and the metropolitan itself is provided by [[jeepney]]s, buses and taxis. The Cebu City Government conducted a 2012 feasibility study on implementing bus rapid transit (BRT) system that will ease the transportation of the residents in the city and throughout the entire [[Metro Cebu]] area.<ref>{{cite news|url=http://www.mb.com.ph/neda-okays-bus-rapid-transit-system-for-cebu/|title=NEDA okays bus rapid transit system for Cebu|author=Mosqueda, M. W.|date=30 May 2014|access-date=23 September 2015|work=Manila Bulletin}}</ref><ref>{{cite news|url=http://www.rappler.com/business/industries/208-infrastructure/67415-cebu-brt-project-funding|title=Funding for Cebu Bus Rapid Transit system approved|work=Rappler|date=27 August 2014|access-date=23 September 2015}}</ref> Aimed to serve an estimated 330,000 passengers per day, the project would have a capacity of 176 buses running through 33 stations along Bulacao until Talamban with a link to South Road Properties.<ref>{{cite news|url=http://www.philstar.com/business/2015/06/08/1463306/dotc-eyes-consultant-p10.6-b-bus-rapid-transit-system-cebu|title=DOTC eyes consultant for P10.6-B bus rapid transit system in Cebu|author=Agcaoili, L.|date=8 June 2015|access-date=23 September 2015|work=The Philippine Star}}</ref><ref>{{cite news|url=http://www.rappler.com/business/industries/208-infrastructure/73674-govt-loan-cebu-bus-rapid-transit-project|title=Gov't signs WB loan for Cebu bus rapid transit project|work=Rappler|date=31 October 2014|access-date=23 September 2015}}</ref> The project is currently branded as TransCebu and is expected to be fully operational by 2017.<ref>{{cite web|url=http://www.up.edu.ph/the-dignity-of-travel-the-cebu-brt-project/|title=The dignity of travel: The Cebu BRT project|author=Montalbo, C. M.|date=10 April 2015|access-date=23 September 2014|archive-url=https://web.archive.org/web/20150424054520/http://www.up.edu.ph/the-dignity-of-travel-the-cebu-brt-project/|archive-date=2015-04-24|url-status=dead}}</ref> {{As of|March 2017}} it is already two years late, and the price has rocketed to ₱9.04&nbsp;billion (US$180&nbsp;million).{{sfn|Cebu Daily News|2017}}
+
+In March 2019, the [[Land Transportation Franchising and Regulatory Board]] announced the opening of a new [[Premium Point-to-Point Bus Service]] in Cebu City with three express bus routes to [[Lapu-Lapu, Philippines|Lapu-Lapu]], [[Danao, Cebu|Danao]] and [[Sibonga]].<ref>{{cite news|url=https://news.mb.com.ph/2019/03/18/ltfrb-opens-28-p2p-routes-for-franchise/ |title=LTFRB opens 28 P2P routes for franchise |work=Manila Bulletin|author=San Juan, Alexandria Dennise |date=19 March 2019 |access-date=23 March 2019}}</ref>
+
+A new [[Cebu Light Rail Transit System|light railway]] is expecting to open in 2022.
+
+===Utilities===
+
+The city mostly gets its power from an interconnection grid with the Leyte Geothermal Power Plant, which also powers the majority of the [[Visayas]].<ref>{{cite news|url=http://www.gmanetwork.com/news/story/336015/money/economy/yolanda-hit-leyte-geothermal-plant-key-to-restoring-power-in-visayas|title=Yolanda-hit Leyte geothermal plant key to restoring power in Visayas|author=Rivera, D. O|date=18 November 2013|access-date=23 September 2015|work=GMA News}}</ref><ref>{{cite web|url=http://archive.sunstar.com.ph/cebu/local-news/2014/02/06/cebu-still-has-ample-supply-326911|title=Cebu still has ample supply|author=Felicitas, P. D. H.|date=6 February 2014|access-date=23 September 2015|newspaper=Sun.Star|archive-url=https://web.archive.org/web/20151117022510/http://archive.sunstar.com.ph/cebu/local-news/2014/02/06/cebu-still-has-ample-supply-326911|archive-date=17 November 2015|url-status=dead}}</ref> Cebu is also powered by a coal-fired thermal plant with two units each generating 52.5-MW and 56.8-MW,<ref>{{cite web|url=http://www.businessmirror.com.ph/spc-is-new-owner-and-operator-of-naga-power-plant-in-cebu/|title=SPC is new owner and operator of Naga power plant in Cebu|author=Lectura, L.|date=1 October 2014|access-date=23 September 2015|newspaper=Business Mirror}}</ref> a 43.8-MW diesel power plant and 55-MW land-based gas turbine plants located at the [[Naga, Cebu|Naga]] power complex which is planned to be rehabilitated and replaced with 150-MW coal units by 2016 and to be completed by 2019.<ref>{{cite news|url=http://cebudailynews.inquirer.net/58212/new-p25-b-power-plant-to-rise-in-naga-in-2019|title=New P25-B power plant to rise in Naga in 2019|author=Garcia-Yap, A.|date=30 May 2015|access-date=23 September 2015|work=Philippine Daily Inquirer}}</ref>
+
+Telecommunication facilities, broadband and wireless internet connections are available and are provided by some of the country's largest telecommunication companies.
+
+In 1998, the {{convert|15|ha|adj=on}} Inayawan Sanitary Landfill was constructed to ease garbage disposal within the city. After 15 years, the landfill reached its lifespan and the [[Talisay, Cebu|Talisay]] city government recently allowed Cebu to temporarily dump its garbage in its own {{convert|2|ha|adj=on}} landfill.<ref>{{cite news|url=http://www.philstar.com/cebu-news/2015/01/23/1415865/talisay-allows-cebu-city-use-its-sanitary-landfill|title=Talisay allows Cebu City to use its sanitary landfill|author=Quintas, K. B.|date=23 January 2015|access-date=23 September 2015|work=The Philippine Star}}</ref><ref>{{cite web|url=http://metrocebu.com.ph/2015/01/talisay-oks-cebu-city-to-use-sanitary-landfill|title=Talisay OKs Cebu City to Use Sanitary Landfill|date=23 January 2015|publisher=MetroCebu News|access-date=23 September 2015}}</ref> In 2015, Cebu appropriated a total of ₱2.5 million to close and rehabilitate the landfill at Inayawan.<ref>{{cite news|url=http://www.philstar.com/cebu-news/2015/06/06/1462763/city-allocates-p2.5m-landfill-closure-rehab|title=City allocates P2.5M for landfill closure, rehab|author=Quintas, K. M.|date=6 June 2015|access-date=23 September 2015|work=The Philippine Star}}</ref>
+
+==Education==
+{{See also|List of colleges and universities in Metro Cebu}}
+{{multiple image
+| align     = right
+| direction = vertical
+| image1    = Downtowncampus1.jpg
+| width1    = 200
+| caption1  = [[University of San Carlos]]
+| image2    = Cnu new02.jpg
+| width2    = 200
+| caption2  = [[Cebu Normal University]] in Osmeña Boulevard
+| image3    = Usjr.jpg
+| width3    = 200
+| caption3  = [[University of San Jose–Recoletos]]
+}}
+Cebu City currently has ten large universities each with a number of college branches throughout the city and more than a dozen other schools specialising in various courses. Among these schools is the [[University of San Carlos]]. It has five campuses around the metropolitan area. It is currently headed by the [[Society of the Divine Word]].
+
+The [[University of the Philippines Cebu]], located at Barangay Camputhaw in the district near Lahug currently has eight courses and has plans of expansion and development. The U.P. Board of Regents elevated the status of U.P. Cebu as a constituent university of the University of the Philippines System on October 27, 2016.<ref>{{Cite web|url=http://www.up.edu.ph/up-cebu-is-now-ups-8th-constituent-university/|title=UP Cebu is now UP's 8th Constituent University|access-date=2017-03-19|archive-url=https://web.archive.org/web/20161128134535/http://www.up.edu.ph/up-cebu-is-now-ups-8th-constituent-university/|archive-date=2016-11-28|url-status=dead}}</ref>
+
+Another Catholic university in Cebu City is the [[University of San Jose–Recoletos]] which was established in 1947.<ref>{{cite web |url=http://www.usjredu.blogspot.com/p/history.html|title=History |access-date={{date|27 apr 2013}} |publisher=University of San Jose-Recoletos}}</ref> It is currently headed by the [[Augustinian Recollects]] and has two different campuses within the city, excluding a new campus outside the city located in the municipality of [[Balamban]].
+
+[[Cebu Normal University]] (CNU) was established in 1902 as a provincial normal school, a branch of the Philippine Normal School. It became an independent institution in 1924, a chartered college in 1976, and a university in 1998. CNU offers academic programs at the nursery, kindergarten, elementary, junior high, undergraduate, and graduate levels. CNU is designated by the Commission on Higher Education (CHED) as Center of Excellence (COE) in both Nursing Education and Teacher Education.<ref>https://ched.gov.ph/wp-content/uploads/2017/09/List-of-COE-COD-as-of-May-2016.pdf</ref>
+
+The [[Cebu Doctors' University]] (formerly Cebu Doctors' College) was granted university status in November 2004. It is the only private school in the Philippines designated a university without having a basic education (pre-school&nbsp;– high school) curriculum; it caters mainly to courses related to the health services field. It was relocated to a nine-story main building in 2007 at the Cebu Boardwalk (now Dr. P.V. Larrazabal Jr. Avenue) in neighboring city of [[Mandaue]], thus closing its old campus near the then Cebu Doctors' Hospital (now [[Cebu Doctors' University Hospital]]). {{As of| 2016}}, the university now offers senior high school (grades 11 and 12)
+
+The [[University of Cebu]] has three campuses located within the city: Its main campus, located in Sanciangko Street, offers degree programs such as a Bachelor of Science in Information Technology (BSIT), HRM, Computer Engineering, BSED and others. The Maritime Education & Training Center (METC), located in Barangay Mambaling, which hosts the university's maritime programs, was opened in 1991. Its third campus, in Barangay Banilad, was opened in June 2002.
+
+Also located within in the city is the [[University of the Visayas]], established in 1919, and is considered to be the first educational institution in Cebu which was granted with a university status. It was granted an autonomous status by the Commission on Higher Education (CHED) in 2010 and currently offers basic education and a number of courses in the tertiary level including medical courses (Medicine, Nursing, Dentistry, Pharmacy, Midwifery, and Health Care Services) which are housed in its campus in Banilad area. Aside from its campuses within Cebu City, it also has numerous campuses located around the [[Cebu|province of Cebu]].
+
+Other noteworthy institutions in the city include the [[Cebu Institute of Technology – University]] (formerly Cebu Institute of Technology), the main campus of [[Cebu Technological University (CTU)|Cebu Technological University]] (formerly the Cebu State College of Science and Technology), [[Southwestern University (Philippines)|Southwestern University]], [[University of Southern Philippines Foundation]] in Lahug and Mabini, [[Asian College of Technology]] (formerly Asian Computer Institute), [[Benedicto College]], [[Cebu Eastern College]], [[Cebu International School]], [[Colegio de la Inmaculada Concepcion]], [[College of Technological Sciences - Cebu]], [[Don Bosco Technical College–Cebu]] (DBTC), [[Saint Theresa's College of Cebu]], [[Sacred Heart School - Ateneo de Cebu]], [[Salazar Colleges of Science and Institute of Technology]], and [[Velez College]] (together with its independently administered medical school arm [[Cebu Institute of Medicine]]), among others.
+
+Cebu City has 68 public elementary schools, 23 national high schools and 28 night high schools. These night high schools are operated by the city government.
+
+The [[Cebu City Public Library|Cebu City Public Library and Information Center]] is the only public library in Cebu.
+
+==Sister cities==
+;International (in alphabetical order of the names of the cities)
+{{div col|colwidth=20em}}
+{{ubl
+|{{flagicon|China}} [[Chengdu]], China<ref name="Cebu, Chengdu sign sister-city pact">{{cite news|title=Cebu, Chengdu sign sister-city pact|url=https://www.sunstar.com.ph/article/149098|work=SunStar|access-date={{date|29 jul 2019}}}}</ref>
+|{{flagicon|United States}} [[Chula Vista, California|Chula Vista]] CA, United States<ref>{{cite web|url = https://www.chulavistaca.gov/departments/city-clerk/boards-commissions/boards-commissions-list/international-friendship-commission | title=International Friendship Commission| publisher = City of Chula Vista| access-date = {{date| 29 jul 2019}}}}</ref>
+|{{flagicon|Mexico}} [[Guadalajara]], Mexico<ref>{{cite web|url = http://www.guadalajara.gob.mx/dependencias/relacionespublicas/versioningles/sistercities.html| archive-url = https://web.archive.org/web/20120302011742/http://www.guadalajara.gob.mx/dependencias/relacionespublicas/versioningles/sistercities.html| archive-date = {{date| 2 mar 2012}}| title = Sister Cities, Public Relations| publisher = Guadalajara municipal government| access-date = {{date|12 mar 2013}}}}</ref>
+|{{flagicon|United States}} [[Honolulu|Honolulu City]] HI, United States<ref>{{cite web|url = https://www.honolulu.gov/cms-oed-menu/site-oed-sitearticles/28246-city-of-cebu.html | title =International Relations and Sister-City Program: Cebu, Philippines| publisher = City of Honolulu| access-date = {{date| 29 jul 2019}}}}</ref>
+|{{flagicon|Netherlands}} [[Haarlemmermeer]], Netherlands<ref name="Haarlemmermeer Officials sojourn here">{{cite web|url=http://cebucity.gov.ph/index.php/40-news/3374-haarlemmermeer-officials-sojourn-here|title=Haarlemmermeer Officials sojourn here|publisher=City of Cebu| access-date={{date| 9 dec 2016}}}}</ref>
+|{{flagicon|Taiwan}} [[Kaohsiung]], Taiwan<ref name="Sister & Friendly Cities of Kaohsiung">{{cite web|url=https://secret.kcg.gov.tw/masterpage-sistercityen|title=Sister & Friendly Cities|publisher=Kaohsiung City Government|access-date={{date| 6 Jul 2018}}|archive-url=https://web.archive.org/web/20180706104447/https://secret.kcg.gov.tw/masterpage-sistercityen|archive-date=July 6, 2018|url-status=dead}}</ref>
+|{{flagicon|Belgium}} [[Kortrijk]], Belgium<ref name="Cebu City renews sister city ties with Belgium’s Kortrijk">{{cite news|url=https://cebudailynews.inquirer.net/52050/cebu-city-renews-sister-city-ties-with-belgiums-kortrijk|title=Cebu City renews sister city ties with Belgium's Kortrijk|publisher=Cebu Daily News| access-date={{date| 29 jul 2019}}}}</ref>
+|{{flagicon|Australia}} [[City of Parramatta|Parramatta City]], Australia<ref>{{cite news|url = http://www.philstar.com/cebu-news/2015/06/24/1469415/cebu-city-renews-sister-ties-after-18-years | archive-url = https://web.archive.org/web/20151122221725/http://www.philstar.com/cebu-news/2015/06/24/1469415/cebu-city-renews-sister-ties-after-18-years | url-status = dead | archive-date = 2015-11-22 | title=Cebu City renews sister ties after 18 years|work=The Philippine Star| access-date = {{date| 29 jul 2019}}}}</ref>
+|{{flagicon|Portugal}} [[Sabrosa, Portugal|Sabrosa]], Portugal<ref>{{cite web|title=Cebu City, Sabrosa formalizes sister-city agreement in Ferdinand Magellan's birthplace |url=http://philembassy-lisbon.com/embassy-news23.aspx |access-date={{date|29 jul 2019}}| publisher=Embassy of the Philippines in Portugal| date={{date|2 oct 2014}}}}</ref>
+|{{flagicon|United States}} [[Salinas, California|Salinas]] CA, United States<ref>{{cite web|url = https://www.cityofsalinas.org/visitors/sister-cities | title=Sister Cities| publisher = City of Salinas| access-date = {{date| 29 jul 2019}}}}</ref>
+|{{flagicon|United States}} [[Seattle]] WA, United States<ref>{{cite web|url = http://www.seattle.gov/oir/sistercities/cebu.htm | archive-url = https://web.archive.org/web/20140322181940/http://www9.seattle.gov/oir/sistercities/cebu.htm| archive-date = {{date|22 mar 2014}}| title = Seattle International Sister City: Cebu, Philippines| publisher = City of Seattle| access-date = {{date| 7 jun 2014}}}}</ref>
+|{{flagicon|Russia}} [[St Petersburg]], Russia<ref>{{cite news|title=Let's not reject old allies|url=http://www.sunstar.com.ph/cebu/local-news/2016/10/24/lets-not-reject-old-allies-505021|work=SunStar Cebu|access-date={{date|10 dec 2016}}}}</ref>
+|{{flagicon|Russia}} [[Vladimir, Russia|Vladimir]], Russia<ref>{{cite web|title=Russian-Philippines Relations|url=http://www.philippines.mid.ru/relations.html|archive-url=https://web.archive.org/web/20130915044442/http://www.philippines.mid.ru/relations.html|url-status=dead|archive-date=2013-09-15|publisher=Embassy of the Russian Federation in the Philippines|access-date={{date|29 jul 2019}}}}</ref>
+|{{flagicon|China}} [[Xiamen]], China<ref name="Rama renews ties with Xiamen City">{{cite news|title=Rama renews ties with Xiamen City|url=http://www.philstar.com/cebu-news/2014/03/29/1306438/rama-renews-ties-xiamen-city|work=The Philippine Star|access-date={{date|12 July 2014}}}}</ref>
+|{{flagicon|Japan}} [[Yokohama]], Japan<ref name="Cebu Yokohama Cities joint survey mission">{{cite web|url=http://cebucity.gov.ph/index.php/home-new/news-announcements/chactivities/1652-cebu-yukuhama-cities-joint-survey-mission|title=Cebu Yokohama Cities joint survey mission |publisher=City of Cebu |access-date={{date| 9 dec 2016}}}}</ref>
+|{{flagicon|South Korea}} [[Yeosu]], South Korea<ref name="Sokor execs in Cebu City to strengthen partnership">{{cite news|url=https://www.philstar.com/the-freeman/cebu-news/2018/05/28/1819269/sokor-execs-cebu-city-strengthen-partnership|title=Sokor execs in Cebu City to strengthen partnership |work=The Philippine Star|access-date={{date| 29 jul 2019}}}}</ref>}}
+{{div col end}}
+;National
+{{div col|colwidth=20em}}
+{{ubl
+|[[Butuan]], Agusan del Norte
+|[[Davao City]], Davao del Sur
+|[[General Santos]], South Cotabato
+|[[Manila]], Metro Manila
+|[[Ozamiz]], Misamis Occidental
+|[[Cabanatuan]], Nueva Ecija
+{{div col end}}}}
+
+==See also==
+
+{{Portal|Philippines}}
+*[[List of parishes in Cebu]]
+*[[List of people from Cebu]]
+*[[Roman Catholic Archdiocese of Cebu]]
+*[[Metro Cebu]]
+
+==Notes==
+{{notelist}}
+
+==References==
+
+{{Reflist|30em}}
+
+==Sources==
+
+{{refbegin|30em}}
+
+*  {{cite web
+| url         = https://cebudailynews.wordpress.com/2012/06/22/guadalupe-plebiscite-scheduled-on-july-28/
+| title       = Guadalupe plebiscite scheduled on July 28
+| date        = June 22, 2012
+| last1       = Cebu Daily News
+| first1      = Doris C. Bongcac & Tweeny M. Malinao
+}}
+* {{cite news
+| title       = Road right-of-way costs up for BRT
+| last1       = Philippine Daily Inquirer
+| first1      = Jose Santino S. Bunachita
+| date        =  January 3, 2017
+| url         = http://cebudailynews.inquirer.net/117860/road-right-way-costs-brt
+| archive-url  = https://web.archive.org/web/20170227013141/http://cebudailynews.inquirer.net/117860/road-right-way-costs-brt
+| archive-date = February 27, 2017
+| url-status     = live
+}}
+* {{cite book
+| last        = Foreman
+| first       = John
+| title       = The Philippine Islands. A political, geographical, ethnographical, social and commercial history of the Philippine Archipelago and its political dependencies, embracing the whole period of Spanish rule <!--| url         = http://name.umdl.umich.edu/afj2133.0001.001
+-->| year        = 1906
+| edition     = 3rd
+| publisher   = [[Charles Scribner's Sons]]
+| location    = New York
+| url         = http://www.gutenberg.org/files/22815/22815-h/22815-h.htm
+}}
+* {{cite journal
+| last1       = Gonzales
+| first1      = Glenda R.
+| title       = Metro Cebu: A Metropolitan Area in Need of Coordinative Body
+| journal     = Discussion Paper
+| series      = 2004-49
+| date        = December 2004
+| url         = http://dirp4.pids.gov.ph/ris/dps/pidsdps0449.pdf
+| access-date  = February 16, 2016
+| publisher   = [[Philippine Institute for Development Studies|PIDS]]
+| archive-url  = https://web.archive.org/web/20160310103202/http://dirp4.pids.gov.ph/ris/dps/pidsdps0449.pdf
+| archive-date = March 10, 2016
+| url-status     = live
+}}
+* {{cite news
+ |title        = A 'megadome' for Cebu City: Councilor Jack
+ |work         = SunStar
+ |date         = May 16, 2007
+ |url          = http://www.sunstar.com.ph/static/ceb/2007/05/16/sports/a.megadome.for.cebu.city.councilor.jack.html
+ |access-date   = June 11, 2009
+ |archive-url  = https://web.archive.org/web/20100116011353/http://www.sunstar.com.ph/static/ceb/2007/05/16/sports/a.megadome.for.cebu.city.councilor.jack.html
+ |archive-date = January 16, 2010
+ |url-status   = dead
+ |df           = dmy-all
+}}
+* {{cite news
+| work        = SunStar
+| url         = http://www.sunstar.com.ph/cebu/opinion/2012/07/29/wenceslao-banawa-englis-dream-shot-down-234689
+| archive-url  = https://web.archive.org/web/20120801004117/http://www.sunstar.com.ph/cebu/opinion/2012/07/29/wenceslao-banawa-englis-dream-shot-down-234689
+| archive-date =  August 1, 2012
+| url-status  = live
+| title       = Wenceslao: Banawa-Englis dream shot down
+| date        =  August 1, 2012
+}}
+
+{{refend}}
+
+==External links==
+{{Commons category||Cebu City}}
+{{Wikivoyage|Cebu (city)|Cebu City}}
+* {{official website|http://cebucity.gov.ph/}}
+* [https://www.philatlas.com/visayas/r07/cebu-city.html Cebu City Profile at PhilAtlas.com]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+* [https://cebucity.sharephilippines.com Cebu City on SharePhilippines.com]
+
+{{Cebu City}}
+{{Geographic location  <!-- This geo box is for DIRECTLY ADJACENT municipalities as standardized for all other municipalities -->
+ | Centre    = Cebu City
+ | North     = [[Compostela, Cebu|Compostela]]
+ | Northeast = [[Liloan, Cebu|Liloan]]
+ | East      = [[Consolacion, Cebu|Consolacion]]<br>[[Mandaue]]<br>''[[Mactan Channel]]''&nbsp;{{pipe}}&nbsp;[[Lapu-Lapu, Philippines|Lapu-Lapu]]
+ | Southeast = ''[[Cebu Strait]]''
+ | South     = [[Talisay, Cebu|Talisay]]
+ | Southwest = [[Minglanilla, Cebu|Minglanilla]]
+ | West      = [[Toledo, Cebu|Toledo]]
+ | Northwest = [[Balamban, Cebu|Balamban]]
+}}
+
+{{Navboxes
+|title = Articles Related to Cebu City
+|list  =
+
+{{Metro Cebu}}
+{{Cebu}}
+{{Central Visayas}}
+{{Philippine cities}}
+{{Philippine Provincial Capitals}}
+{{Largest cities of the Philippines}}
+{{Spanish Colonial architecture}}
+{{Most populous cities in Philippines}}
+{{Largest cities and municipalities in Visayas}}
+}}
+{{Authority control}}
+
+[[Category:Cebu City| ]]
+[[Category:1565 establishments in the Philippines]]
+[[Category:Cities in Cebu]]
+[[Category:Former national capitals]]
+[[Category:Independent cities in the Philippines]]
+[[Category:Populated coastal places in the Philippines]]
+[[Category:Populated places established in 1565]]
+[[Category:Port cities and towns in the Philippines]]
+[[Category:Provincial capitals of the Philippines]]

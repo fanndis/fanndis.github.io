@@ -1,0 +1,116 @@
+{{More citations needed|date=March 2012}}
+'''SBInet,''' the Secure Border Initiative Network, was a program initiated in 2006 for a new integrated system of personnel, infrastructure, technology, and rapid response to secure the northern and southern land borders of the United States.  It was a part of [[Secure Border Initiative]] (SBI), an overarching program of the [[United States Department of Homeland Security]] (DHS) to organize the four operating components of border security: [[U.S. Customs and Border Protection]] (CBP), [[U.S. Immigration and Customs Enforcement]], [[United States Citizenship and Immigration Services]], and the [[United States Coast Guard]]. DHS announced the program's cancellation on Jan. 14, 2011.<ref name="DHS cancels SBinet">David Perera, [http://www.fiercegovernmentit.com/story/dhs-cancels-sbinet/2011-01-14 "DHS cancels SBinet"], ''FierceGovernmentIT'', Jan. 14, 2011</ref>
+
+In August 2008, DHS ordered Boeing to stop SBI work along the border between Arizona and Mexico because CBP had not received the necessary permissions from the [[U.S. Department of the Interior|Department of the Interior]].<ref>Alice Lipowicz, [http://www.fcw.com/online/news/153549-1.html "DHS orders work to stop on SBInet"], ''Federal Computer Weekly'', August 19, 2008</ref> Boeing told a subcontractor that the suspension of work could last until January 1, 2009.<ref>[http://www.eastvalleytribune.com/story/123885 "Work halts on border 'virtual fences'"], ''Arizona Daily Star'', August 23, 2008</ref>  On March 16, 2010, Homeland Security Secretary Janet Napolitano announced the DHS was diverting $50 million for the project into other efforts and that all work beyond the current pilot projects have been frozen.<ref>[https://www.washingtonpost.com/wp-dyn/content/article/2010/03/16/AR2010031603573.html "Work to cease on 'virtual fence' along U.S.-Mexico border"], ''Washington Post'', March 16, 2010</ref>
+
+== Background ==
+
+SBInet (a component of SBI) was a program created under U.S. Customs and Border Protection to design a new integrated system of personnel, infrastructure, technology, and rapid response to secure the northern and southern land borders of the U.S.  SBInet replaced two former programs, [[America's Shield Initiative]] and the [[Integrated Surveillance Intelligence System]]. Both of these programs had similar goals, but were scrapped due to mismanagement and failure of equipment. To avoid such problems, DHS decided to have development of SBInet managed by a single private contractor. [[Boeing]], holding the primary contract, subcontracting many portions of the design, development, implementation, and maintenance of the program, with Boeing handling the majority of the management aspects.
+
+Subcontractors included:<ref>[http://www.boeing.com/defense-space/sbinet/ Boeing: Integrated Defense Systems - Secure Border Initiative (SBI) and SBInet<!-- Bot generated title -->]</ref>
+*Centech Group
+*DRS Technologies
+*Kollsman (a division of [[Elbit Systems]])
+*L-3 Communications Government Services Inc.
+*L-3 Communication Systems - West
+*LGS
+*Perot Systems
+*Unisys Global Public Sector
+*USIS
+*EOD Technology Inc. (Security Personnel)
+
+== History of the program==
+On September 21, 2006 DHS announced the award of the SBInet contract to Boeing.<ref>[https://www.dhs.gov/xnews/releases/pr_1158876536376.shtm DHS: DHS Announces SBInet Contract Award to Boeing<!-- Bot generated title -->]</ref>
+
+DHS deputy director of homeland security [[Michael P. Jackson|Michael Jackson]] played a large role in the initiation of SBInet, while Greggory L. Giddens served as executive director of the SBI Program Management Office at CBP. Kirk Evans was the first SBInet program manager; on April 11, 2008, he resigned to accept another position within DHS.<ref>[http://www.fcw.com/online/news/152314-1.html SBInet program manager steps down<!-- Bot generated title -->]</ref>
+
+Five companies competed for the SBInet contract: [[Boeing]], [[Ericsson]], [[Lockheed Martin]], [[Northrop Grumman]], and [[Raytheon]].  On September 21, 2006, following an intensive and detailed source selection process, DHS announced that it had chosen to award the contract to Boeing.
+
+Boeing named Jerry McElwee as SBInet's executive program manager, Tony Swansson as the deputy program manager, and Ilia Rosenberg as the director of technology assessment. In August 2007, McElwee was replaced by a new program manager, Daniel Korte.<ref>Alice Lipowicz, [http://www.washingtontechnology.com/online/1_1/31297-1.html "Boeing names Korte SBInet program manager"], ''Washington Technology'', August 23, 2007</ref>
+
+Boeing planned to have [[Project 28]], the first phase of SBInet, operational in June 2007, but ran into software and other technology problems.  In early September 2007, with the Project 28 implementation delayed until at least October, Homeland Security Secretary [[Michael Chertoff]] said at a Congressional hearing, "I am not going to buy something with U.S. government money unless I'm satisfied it works in the real world." He added, "And if it can't be made to work, I'm prepared to go and find something that will be made to work, although I'll obviously be disappointed."<ref>Chris Strohm, [http://www.govexec.com/dailyfed/0907/090707cdpm1.htm "Contractor problems hold up border fence project"], ''Government Executive'' magazine, September 7, 2007</ref>
+
+Border patrol agents began using the system in December 2007, and the system was officially accepted by DHS in February 2008.{{Citation needed|date=May 2008}}  Boeing was awarded further contracts to upgrade software and hardware, which it expected to have done by the end of 2008.<ref>[http://www.azstarnet.com/sn/border/234033.php Boeing to replace 9 towers at border | www.azstarnet.com <!-- Bot generated title -->]</ref>
+
+In February 2008, a [[Government Accountability Office]] report detailed problems with the then-deployed technologies.  The system was designed to detect a "target" with radar, and then use video cameras to determine whether the radar return came from a person or vehicle, or from some benign source (such as an animal).  The GAO reported that radar information was too slow to appear on screens, and was being inappropriately triggered by rain and other weather phenomena.  Camera resolution was insufficient for targets beyond 3.1 miles, and the stylus-controlled laptops mounted on moving vehicles were not rugged enough and were difficult to use.  These findings were against the prototype system known as "Project 28".  They were all addressed before the final production system was ready in 2010.
+
+== The contract ==
+SBInet was controlled by an [[IDIQ|indefinite delivery/indefinite quantity]] contract extending through September 30, 2009, with three one-year option periods. The only commitment that DHS was to pay [[Project 28]], a 28-mile pilot section of SBInet in the Tucson sector of the Arizona-Mexico border.  The cost of this pilot section was estimated at $67 million.  The value of Boeing's three-year contract to build SBInet across both the northern and southern borders was estimated by various sources at various times to be between $2 billion and $8 billion.
+
+The contract included what DHS called "off-ramps" &ndash; milestones where DHS could discontinue the project if it found Boeing's work unacceptable.  The contract allowed DHS to acquire certain solutions from a vendor besides Boeing.<ref name=GE15Aug07>Robert Brodsky, Zack Phillips and Katherine McIntire Peters, [http://www.govexec.com/features/0807-15/0807-15s1.htm "Big Contracts, Big Problems"], ''Government Executive'' magazine, August 15, 2007</ref>
+
+The U.S. Army was to conduct an independent assessment of SBInet's interim operating capabilities at the end of the project's first initiative.<ref name=GE15Aug07/>
+
+== Objectives ==
+
+The goal of SBInet was to secure the border by fulfilling these main objectives:
+
+# deter potential illegal border crossers from making the attempt
+# predict illegal border activities before they occur
+# detect entries when they occur
+# identify what the entry is
+# classify the threat level of the entry before interdiction
+# track the movements of illegal entrants
+# provide a means to effectively and efficiently respond to entries
+# bring interdictions to an appropriate resolution (e.g., identity checks, judicial and administrative actions, deportations, and so forth)
+
+In addition, SBInet sought to provide a "common operating picture" of the border environment that could be shared with DHS components and federal, state, and local partners to provide comprehensive situational awareness, improving interoperability.  The SBInet contract gave Boeing full responsibility for developing, deploying, and maintaining a system that was able to accomplish these goals.
+
+== Requirements ==
+
+Boeing was required to design, develop, test, integrate, deploy, document and maintain the optimum mix of personnel, technology, infrastructure, and response capability to defend 6,000 miles of border.  Boeing was required to manage every aspect of the implementation of SBInet; its job even included less intuitive tasks, such as recommending new paradigms for the way Border Patrol Agents operated, training maintenance personnel to repair their products, and guiding construction of facilities to house additional CBP offices required for SBInet.  Additionally, Boeing was required to integrate the program into previously existing infrastructure and equipment systems wherever possible.  The pilot section of SBInet was required to be completed and fully operational eight months from the contract signing.  {{As of|2007|06}}, Boeing had missed its June 13 deadline for delivery of the pilot section.
+
+== Oversight ==
+The SBInet Program Management Office (PMO), led by the SBInet Program Manager, was responsible for conducting oversight activities such as testing the system's performance in improving the security of the border, examining Boeing's designs to predict and prevent deficiencies, and monitoring the financial efficiency of the project.  The PMO included more than two hundred subject matter experts in engineering, program management, budget control, Border Patrol operations, port of entry operations, environmental management, logistics, risk management, and more.  Additionally, the PMO engaged the U.S. Army's test and evaluation experts to provide independent evaluation services, to include operational assessments and large-scale operational testing.  The PMO was criticized for inadequate staffing, which impeded its effectiveness in the early months of the program.  As a result, the PMO rapidly expanded the size and quality of its staff, enabling it to intensify oversight operations.
+
+== Technology ==
+
+===Tower system===
+Towers were meant to be set up along the border, with varying surveillance and communications equipment depending on the climate, terrain, population density, and other factors.  Towers were slated to include radar, long-range cameras, broadband wireless access points, thermal imaging capabilities, and motion detectors.  SBInet was meant to also include some ground sensors for seismic detection as well.
+
+===Command centers===
+All of the information received by sensors were meant to go to command centers, where a "common operating picture" would have been compiled by CBP and shared with other agencies.  The common operating picture would have appeared on computer screens as a geospatial map, where border entries are tracked in real time.  Command center personnel were supposed to be able to click on a given entry, view the entry, and assess the threat using the long-range cameras on the towers.  They will then dispatch Border Patrol agents accordingly.
+
+===Border Patrol response===
+Border Patrol agents were meant to carry [[Personal digital assistant|PDAs]] with [[Global Positioning System|GPS]] capabilities, to allow the command center to track the location of agents interdicting illegal entries and watch the encounter in real time on the common operating picture.  Additionally, the PDAs were supposed to have advanced fingerprint identification technology, to allow Border Patrol agents to identify an individual at the interdiction site immediately and the ability to view and control tower cameras from the PDA.  In addition, Border Patrol agents were to be given laptops in the patrol car to provide the information necessary to effectively and safely approach a given threat.
+
+===Airborne sensors===
+Airborne sensors on [[unmanned aerial vehicle]]s (UAVs) were meant to fill in gaps in the "virtual fence" in remote areas where building and maintaining towers was impractical.  A small UAV called the Skylark operated by a single individual, was considered. The Skylark was made by [[Elbit Systems]].
+
+===Construction strategy===
+The towers that were initially to be placed in the pilot section were intended to be mobile, so that they could be moved around to discover optimal placement.  Once the optimal placement was determined, they would be replaced with permanent towers, and the mobile towers were to be reused to begin construction on the next section of SBInet in a similar manner.  At completion, Boeing estimated that it would use approximately 1,800 towers to create its "virtual fence" along the borders. In addition to towers and technology systems, SBInet would include the construction of fences, vehicle barriers and border roads.
+
+==Criticism==
+The SBInet program was criticized by media and political sources. Senate Committee on Homeland Security and Governmental Affairs Chairman Joe Lieberman (I-Conn.), Ranking Member Susan Collins (R-Me.), Senator Daniel Akaka (D-HI.), and Senator George Voinovich (R-Oh.), expressed concern that the program faced significant management challenges that could undermine its effectiveness. 
+In anticipation of the department's final approval of Project 28 and the planned investment of at least $64 million for the next phase of SBInet's development, the senators sent a letter to DHS secretary Michael Chertoff, questioning CBP's failure to establish firm operational requirements before initiating Project 28, and asking whether such requirements would be addressed in the next phase. The senators also cited an over-reliance on contractors as one of their chief concerns, raising issues about whether DHS could properly oversee the project.
+Jerry McElwee, a Boeing vice president, said that the June 2007 version of Project 28 was "a demonstration of our approach and a test bed for incorporating improvements" to SBInet.
+Under heavy scrutiny for costs and effectiveness, Boeing reiterated that P28 was a test program.{{Citation needed|date=May 2008}}
+
+In June, 2010 a General Accounting Office report summarized severe criticism of the project stated at a congressional committee hearing.<ref>[http://www.gao.gov/new.items/d10840t.pdf "SECURE BORDER INITIATIVE - DHS Needs to Follow Through on Plans to Reassess and Better Manage Key Technology Program"], Statement of Randolph C. Hite, Director Information Technology Architecture and System Issues, released June 17, 2010</ref>
+
+Janice Kephart of the [[Center for Immigration Studies]] defended SBINet, writing, "SBInet is still operational where it was deployed, despite the widespread notion that the light switch was turned off on both the Tucson and Ajo sectors due to cancellation. The reason SBInet is still operating is because it works."<ref>[http://cis.org/kephart/SBInet-proves-itself-again Secure Border Initiative Proves Itself Again]</ref>
+
+== Cancellation ==
+Once DHS Secretary [[Janet Napolitano]] ordered an assessment of the project in January 2010, the future of the project was uncertain and in March 2010 DHS froze additional funding for anything beyond already begun initial deployments. On Jan. 14, 2011, DHS said it would redirect funding originally intended for SBInet—including fiscal 2011 SBInet funds—to a new border security technology effort.<ref name="DHS cancels SBinet"/> "SBInet cannot meet its original objective of providing a single, integrated border security technology solution," Napolitano said in a prepared statement. “DHS briefed Congress today on my decision to end SBInet as originally conceived and on a new path forward for security technology along the Southwest border.
+
+“The new border security technology plan will utilize existing, proven technology tailored to the distinct terrain and population density of each border region, including commercially available mobile surveillance systems, unmanned aircraft systems, thermal imaging devices, and tower-based remote video surveillance systems. Where appropriate, this plan will also incorporate already existing elements of the former SBInet program that have proven successful, such as stationary radar and infrared and optical sensor towers,” the statement said.
+
+The cancellation was welcomed by some members of Congress.
+
+Rep. Bennie Thompson (D-Miss.), the ranking member of the House Oversight and Government Reform Committee, also issued a statement describing SBInet as a “grave and expensive disappointment” that cost taxpayers nearly $1 billion for only 53 miles of coverage. 
+
+“I am glad that DHS and Customs and Border Protection are finally listening to what we have been saying for years – that the sheer size and variations of our borders show us a one-stop solution has never been best,” Thompson wrote. “I applaud them for taking this critical step toward using a more tailored technologically based approach to securing our nation’s borders.” 
+
+Sen. Joseph Lieberman (I-Conn.) who chaired the Senate Homeland Security and Governmental Affairs Committee, also supported Napolitano’s decision. 
+
+“The Secretary’s decision to terminate SBInet ends a long-troubled program that spent far too much of the taxpayers’ money for the results it delivered,” Lieberman said. “The department’s decision to use technology based on the particular security needs of each segment of the border is a far wiser approach, and I hope it will be more cost effective.” <ref>[https://washingtontechnology.com/articles/2011/01/14/dhs-cancels-rest-of-sbinet-and-plans-mix-of-new-technologies-at-border.aspx Boeing's SBInet contract gets the axe]"</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Official website|http://www.cbp.gov/xp/cgov/border_security/sbi/|SBI official website}}, U.S. Customs and Border Protection
+*[http://www.gao.gov/new.items/d07309.pdf "SBInet Expenditure Plan Needs to Better Support Oversight and Accountability" (pdf)], U.S. [[Government Accountability Office]], February 2007
+*http://hsgac.senate.gov/public/index.cfm?FuseAction=PressReleases.Detail&Affiliation=C&PressRelease_id=e3910540-0678-4f9d-9143-86513c10ff5c&Month=1&Year=2008
+
+[[Category:United States Department of Homeland Security]]

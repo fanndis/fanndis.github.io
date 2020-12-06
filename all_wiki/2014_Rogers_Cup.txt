@@ -1,0 +1,597 @@
+{{Infobox tennis event|2014|Rogers Cup|
+| date = August 2 – 10
+| edition = 125th (men) / 113th (women)
+| main_name = Canadian Open (tennis){{!}} Canadian Open
+| surface  = [[Tennis court#Hard courts|Hard]] / outdoor
+| location = [[Toronto|Toronto, Ontario]], Canada (men)<br>[[Montreal|Montreal, Quebec]], Canada (women)
+| category = {{nowrap|[[ATP World Tour Masters 1000]] (men)}}<br>[[WTA Premier tournaments|WTA Premier 5]] (women)
+| champms = {{flagicon|FRA}} [[Jo-Wilfried Tsonga]] <ref name="ms">{{cite web|title=2014 Toronto – Men's Singles draw|url=https://www.atptour.com/en/scores/archive/toronto/421/2014/draws?matchtype=singles|publisher=Association of Tennis Professionals (ATP)}}</ref>
+| champws = {{flagicon|POL}} [[Agnieszka Radwańska]]
+| champmd = {{flagicon|AUT}} [[Alexander Peya]] / {{flagicon|BRA}} [[Bruno Soares]] <ref name="md">{{cite web|title=2014 Toronto – Men's Doubles draw|url=https://www.atptour.com/en/scores/archive/toronto/421/2014/draws?matchtype=doubles|publisher=Association of Tennis Professionals (ATP)}}</ref>
+| champwd = {{flagicon|ITA}} [[Sara Errani]] / {{flagicon|ITA}} [[Roberta Vinci]]
+}}
+
+The '''2014 Rogers Cup presented by National Bank''' was a [[tennis]] tournament played on [[Tennis court#Hard courts|outdoor hard courts]]. It was the 125th edition (for the men) and the 113th (for the women) of the [[Canadian Open (tennis)|Canadian Open]], and was part of the [[ATP World Tour Masters 1000]] of the [[2014 ATP World Tour]], and of the [[WTA Premier tournaments|WTA Premier 5 tournaments]] of the [[2014 WTA Tour]]. The men's event was held at the [[Rexall Centre]] in [[Toronto]], from August 2 to August 10 and the women's event at the [[Uniprix Stadium]] in [[Montreal]], from August 2 to August 10, 2014
+
+==Points and prize money==
+
+===Point distribution===
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+|style="width:130px; background:#dfe2e9;"|'''Event'''
+|style="width:80px; background:lime;"|{{Tooltip|'''W'''|Win}} 
+|style="width:85px; background:thistle;"|{{Tooltip| F | Final}} 
+|style="width:85px; background:#ff0;"|{{Tooltip| SF | Semifinal}} 
+|style="width:85px; background:#ffebcd;"|{{Tooltip| QF | Quarterfinal}} 
+|style="width:85px; background:#afeeee;"|Round of 16
+|style="width:85px; background:#afeeee;"|Round of 32
+|style="width:85px; background:#afeeee;"|Round of 64
+|width=85|{{Tooltip| Q | Qualifier}} 
+|width=85|{{Tooltip| Q2 | Qualifying round 2}}
+|width=85|{{Tooltip| Q1 | Qualifying round 1}}
+|-
+!style="background:#ededed;"|Men's Singles<ref name="ATP points">{{cite web|url=http://www.atpworldtour.com/Rankings/Rankings-FAQ.aspx|accessdate=25 February 2013|title=Rankings explained|publisher=atpworldtour.com}}</ref>
+|rowspan=2|1000
+|rowspan=2|600
+|rowspan=2|360
+|rowspan=2|180
+|rowspan=2|90
+|45
+|10
+|25
+|16
+|0
+|-
+!style="background:#ededed;"|Men's Doubles<ref name="ATP points"/>
+|0
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|-
+!style="background:#ededed;"|Women's Singles<ref name="WTA points">{{cite web|url=http://www.wtatennis.com/all-about-rankings |accessdate=25 February 2012 |title=Rankings explained |publisher=WTA |url-status=dead |archiveurl=https://web.archive.org/web/20121214232116/http://www.wtatennis.com/all-about-rankings |archivedate=14 December 2012 }}</ref>
+|rowspan=2|900
+|rowspan=2|585
+|rowspan=2|350
+|rowspan=2|190
+|rowspan=2|105
+|60
+|1
+|30
+|20
+|1
+|-
+!style="background:#ededed;"|Women's Doubles<ref name="WTA points"/>
+|5
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|}
+
+===Prize Money===
+
+{|class=wikitable style=font-size:90%;text-align:center
+|width=130 bgcolor=dfe2e9|'''Event'''
+|width=80 bgcolor=lime|'''W'''
+|width=85 bgcolor=thistle|F
+|width=85 bgcolor=ffff00|SF
+|width=85 bgcolor=ffebcd|QF
+|width=85 bgcolor=afeeee|Round of 16
+|width=85 bgcolor=afeeee|Round of 32
+|width=85 bgcolor=afeeee|Round of 64
+|width=85|Q2
+|width=85|Q1
+|-
+!style=background:#ededed|Men's Singles
+|$598,900
+|$293,650
+|$147,800
+|$75,155
+|$39,025
+|$20,575
+|$11,110
+|$2,560
+|$1,305
+|-
+!style=background:#ededed|Women's Singles
+|$441,000
+|$220,000
+|$110,100
+|$50,700
+|$25,135
+|$12,900
+|$6,630
+|$3,700
+|$1,900
+|-
+!style=background:#ededed|Men's Doubles
+|$185,470
+|$90,800
+|$45,550
+|$23,380
+|$12,080
+|$6,370
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|-
+!style=background:#ededed|Women's Doubles
+|$122,000
+|$61,600
+|$30,490
+|$15,340
+|$7,780
+|$3,840
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|}
+
+==ATP singles main draw entrants==
+
+===Seeds===
+{|class="sortable wikitable"
+|-
+! width="70"| Country
+! width="175"| Player
+! Rank<sup>1</sup> 
+! Seed
+|-
+|{{flag|SRB}}
+|[[Novak Djokovic]]
+|1
+|1
+|-
+|{{flag|SUI}}
+|[[Roger Federer]]
+|3
+|2
+|-
+|{{flag|SUI}}
+|[[Stan Wawrinka]]
+|4
+|3
+|-
+|{{flag|CZE}}
+|[[Tomáš Berdych]]
+|5
+|4
+|-
+|{{flag|ESP}}
+|[[David Ferrer]]
+|6
+|5
+|-
+|{{flag|CAN}}
+|[[Milos Raonic]]
+|7
+|6
+|-
+|{{flag|BUL}}
+|[[Grigor Dimitrov]]
+|9
+|7
+|-
+|{{flag|GBR}}
+|[[Andy Murray]]
+|10
+|8
+|-
+|<s>{{flag|JPN}}</s>
+|<s>[[Kei Nishikori]]</s>
+|<s>11</s>
+|<s>9</s>
+|-
+|{{flag|USA}}
+|[[John Isner]]
+|12
+|10
+|-
+|{{flag|LAT}}
+|[[Ernests Gulbis]]
+|13
+|11
+|-
+|{{flag|FRA}}
+|[[Richard Gasquet]]
+|14
+|12
+|-
+|{{flag|FRA}}
+|[[Jo-Wilfried Tsonga]]
+|15
+|13
+|-
+|{{flag|ESP}}
+|[[Roberto Bautista Agut]]
+|16
+|14
+|-
+|{{flag|CRO}}
+|[[Marin Čilić]]
+|18
+|15
+|-
+|{{flag|ITA}}
+|[[Fabio Fognini]]
+|19
+|16
+|-
+|{{flag|ESP}}
+|[[Tommy Robredo]]
+|20
+|17
+|}
+* <sup>1</sup>Rankings are as of July 28, 2014
+
+===Other entrants===
+The following players received [[Glossary of tennis terms#W|wild card]]s into the main singles draw:
+* {{flagicon|CAN}} [[Frank Dancevic]]
+* {{flagicon|AUS}} [[Nick Kyrgios]]
+* {{flagicon|CAN}} [[Peter Polansky]]
+* {{flagicon|USA}} [[Jack Sock]]
+
+The following player received entry as a [[Glossary of tennis terms#S|special exempt]]:
+* {{flagicon|USA}} [[Donald Young (tennis)|Donald Young]]
+
+The following players received entry from the singles [[Glossary of tennis terms#Q|qualifying]] draw:
+* {{flagicon|GER}} [[Tobias Kamke]]
+* {{flagicon|AUS}} [[Thanasi Kokkinakis]]
+* {{flagicon|FRA}} [[Benoît Paire]]
+* {{flagicon|USA}} [[Michael Russell (tennis)|Michael Russell]]
+* {{flagicon|CAN}} [[Brayden Schnur]]
+* {{flagicon|USA}} [[Tim Smyczek]]
+* {{flagicon|AUS}} [[Bernard Tomic]]
+
+The following player received entry as a [[Glossary of tennis terms#L|lucky loser]]:
+* {{flagicon|TUN}} [[Malek Jaziri]]
+* <s>{{flagicon|AUS}} [[Marinko Matosevic]]</s>
+
+===Withdrawals===
+;Before the tournament
+* {{flagicon|ESP}} [[Nicolás Almagro]] (foot injury) → replaced by {{flagicon|FRA}} [[Édouard Roger-Vasselin]]
+* {{flagicon|ARG}} [[Carlos Berlocq]] → replaced by {{flagicon|COL}} [[Alejandro Falla]]
+* {{flagicon|ARG}} [[Juan Martín del Potro]] (wrist injury) → replaced by {{flagicon|UZB}} [[Denis Istomin]]
+* {{flagicon|UKR}} [[Alexandr Dolgopolov]] (knee injury) → replaced by {{flagicon|FRA}} [[Julien Benneteau]]
+* {{flagicon|GER}} [[Tommy Haas]] (shoulder injury) → replaced by {{flagicon|AUS}} [[Lleyton Hewitt]]
+* {{flagicon|GER}} [[Florian Mayer]] (groin injury) → replaced by {{flagicon|TPE}} [[Lu Yen-hsun]]
+* {{flagicon|ESP}} [[Rafael Nadal]] (wrist injury) → replaced by {{flagicon|AUT}} [[Jürgen Melzer]]
+* {{flagicon|JPN}} [[Kei Nishikori]] (right foot injury) → replaced by {{flagicon|TUN}} [[Malek Jaziri]]
+* {{flagicon|RUS}} [[Dmitry Tursunov]] → replaced by {{flagicon|FRA}} [[Nicolas Mahut]]
+* {{flagicon|ESP}} [[Fernando Verdasco]] → replaced by {{flagicon|AUT}} [[Dominic Thiem]]
+
+;During the tournament
+* {{flagicon|FRA}} [[Richard Gasquet]]
+
+==ATP doubles main draw entrants==
+
+===Seeds===
+{|class="sortable wikitable"
+|-
+! width="70"| Country
+! width="175"| Player
+! width="70"| Country
+! width="175"| Player
+! Rank<sup>1</sup> 
+! Seed
+|-
+|{{flag|USA}}
+|[[Bob Bryan]]
+|{{flag|USA}}
+|[[Mike Bryan]]
+|2
+|1
+|-
+|{{flag|AUT}}
+|[[Alexander Peya]]
+|{{flag|BRA}}
+|[[Bruno Soares]]
+|6
+|2
+|-
+|{{flag|CAN}}
+|[[Daniel Nestor]]
+|{{flag|SRB}}
+|[[Nenad Zimonjić]]
+|11
+|3
+|-
+|{{flag|CRO}}
+|[[Ivan Dodig]]
+|{{flag|BRA}}
+|[[Marcelo Melo]]
+|17
+|4
+|-
+|{{flag|FRA}}
+|[[Julien Benneteau]]
+|{{flag|FRA}}
+|[[Édouard Roger-Vasselin]]
+|19
+|5
+|-
+|{{flag|IND}}
+|[[Leander Paes]]
+|{{flag|CZE}}
+|[[Radek Štepánek]]
+|21
+|6
+|-
+|{{flag|ESP}}
+|[[Marcel Granollers]]
+|{{flag|ESP}}
+|[[Marc López]]
+|30
+|7
+|-
+|{{flag|FRA}}
+|[[Michaël Llodra]]
+|{{flag|FRA}}
+|[[Nicolas Mahut]]
+|37
+|8
+|}
+* Rankings are as of July 28, 2014
+
+===Other entrants===
+The following pairs received wildcards into the doubles main draw:
+* {{flagicon|CAN}} [[Frank Dancevic]] / {{flagicon|CAN}} [[Adil Shamasdin]]
+* {{flagicon|CAN}} [[Vasek Pospisil]] / {{flagicon|USA}} [[Jack Sock]]
+
+===Withdrawals===
+;Before the tournament
+* {{flagicon|CAN}} [[Vasek Pospisil]] (right leg injury)
+
+;During the tournament
+* {{flagicon|FRA}} [[Richard Gasquet]]
+
+==WTA singles main draw entrants==
+
+===Seeds===
+{|class="sortable wikitable"
+|-
+! width="70"| Country
+! width="175"| Player
+! Rank<sup>1</sup> 
+! Seed
+|-
+|{{flag|USA}}
+|[[Serena Williams]]
+|1
+|1
+|-
+|{{flag|CZE}}
+|[[Petra Kvitová]]
+|4
+|2
+|-
+|{{flag|POL}}
+|[[Agnieszka Radwańska]]
+|5
+|3
+|-
+|{{flag|RUS}}
+|[[Maria Sharapova]]
+|6
+|4
+|-
+|{{flag|CAN}}
+|[[Eugenie Bouchard]]
+|7
+|5
+|-
+|{{flag|GER}}
+|[[Angelique Kerber]]
+|8
+|6
+|-
+|{{flag|SRB}}
+|[[Jelena Janković]]
+|9
+|7
+|-
+|{{flag|BLR}}
+|[[Victoria Azarenka]]
+|10
+|8
+|-
+|{{flag|SRB}}
+|[[Ana Ivanovic]]
+|11
+|9
+|-
+|{{flag|SVK}}
+|[[Dominika Cibulková]]
+|12
+|10
+|-
+|{{flag|DEN}}
+|[[Caroline Wozniacki]]
+|13
+|11
+|-
+|{{flag|ITA}}
+|[[Flavia Pennetta]]
+|14
+|12
+|-
+|{{flag|ITA}}
+|[[Sara Errani]]
+|15
+|13
+|-
+|{{flag|ESP}}
+|[[Carla Suárez Navarro]]
+|16
+|14
+|-
+|{{flag|CZE}}
+|[[Lucie Šafářová]]
+|17
+|15
+|-
+|<s>{{flag|GER}}</s>
+|<s>[[Andrea Petkovic]]</s>
+|<s>18</s>
+|<s>16</s>
+|}
+* <sup>1</sup> Rankings are as of July 28, 2014
+
+===Other entrants===
+The following players received [[Glossary of tennis terms#W|wild card]]s into the main singles draw:
+* {{flagicon|CAN}} [[Françoise Abanda]]
+* {{flagicon|CRO}} [[Ajla Tomljanović]]
+* {{flagicon|CAN}} [[Aleksandra Wozniak]]
+
+The following player used [[Glossary of tennis terms#P|protected ranking]] to gain entry into the singles main draw:
+* {{flagicon|SUI}} [[Romina Oprandi]]
+
+The following players received entry from the singles [[Glossary of tennis terms#Q|qualifying]] draw:
+* {{flagicon|SUI}} [[Timea Bacsinszky]]
+* {{flagicon|NED}} [[Kiki Bertens]]
+* {{flagicon|USA}} [[Lauren Davis]]
+* {{flagicon|CAN}} [[Stéphanie Dubois]]
+* {{flagicon|ITA}} [[Karin Knapp]]
+* {{flagicon|PUR}} [[Monica Puig]]
+* {{flagicon|KAZ}} [[Yulia Putintseva]]
+* {{flagicon|USA}} [[Shelby Rogers]]
+* {{flagicon|CZE}} [[Tereza Smitková]]
+* {{flagicon|USA}} [[Coco Vandeweghe]]
+* {{flagicon|GBR}} [[Heather Watson]]
+* {{flagicon|BEL}} [[Yanina Wickmayer]]
+
+The following players received entry as [[Glossary of tennis terms#L|lucky loser]]s:
+* {{flagicon|CZE}} [[Karolína Plíšková]]
+* {{flagicon|RUS}} [[Elena Vesnina]]
+
+===Withdrawals===
+;Before the tournament
+* {{flagicon|CHN}} [[Li Na]] (knee injury) → replaced by {{flagicon|USA}} [[Alison Riske]]
+* {{flagicon|AUT}} [[Yvonne Meusburger]] → replaced by {{flagicon|CZE}} [[Barbora Záhlavová-Strýcová]]
+* {{flagicon|GER}} [[Andrea Petkovic]] (viral illness) → replaced by {{flagicon|RUS}} [[Elena Vesnina]]
+* {{flagicon|RUS}} [[Vera Zvonareva]] → replaced by {{flagicon|CZE}} [[Karolína Plíšková]]
+
+===Retirements===
+* {{flagicon|RUS}} [[Svetlana Kuznetsova]] (personal reasons)
+
+==WTA doubles main draw entrants==
+
+===Seeds===
+{|class="sortable wikitable"
+|-
+! width="70"| Country
+! width="175"| Player
+! width="70"| Country
+! width="175"| Player
+! Rank<sup>1</sup> 
+! Seed
+|-
+|{{flag|ITA}}
+|[[Sara Errani]]
+|{{flag|ITA}}
+|[[Roberta Vinci]]
+|2
+|1
+|-
+|{{flag|TPE}}
+|[[Hsieh Su-wei]]
+|{{flag|CHN}}
+|[[Peng Shuai]]
+|7
+|2
+|-
+|{{flag|CZE}}
+|[[Květa Peschke]]
+|{{flag|SLO}}
+|[[Katarina Srebotnik]]
+|13
+|3
+|-
+|{{flag|ZIM}}
+|[[Cara Black]]
+|{{flag|IND}}
+|[[Sania Mirza]]
+|15
+|4
+|-
+|{{flag|RUS}}
+|[[Ekaterina Makarova]]
+|{{flag|RUS}}
+|[[Elena Vesnina]]
+|17
+|5
+|-
+|{{flag|USA}}
+|[[Raquel Kops-Jones]]
+|{{flag|USA}}
+|[[Abigail Spears]]
+|26
+|6
+|-
+|{{flag|HUN}}
+|[[Tímea Babos]]
+|{{flag|FRA}}
+|[[Kristina Mladenovic]]
+|31
+|7
+|-
+|{{flag|RUS}}
+|[[Alla Kudryavtseva]]
+|{{flag|AUS}}
+|[[Anastasia Rodionova]]
+|40
+|8
+|}
+* Rankings are as of July 28, 2014
+
+===Other entrants===
+The following pairs received wildcards into the doubles main draw:
+* {{flagicon|CAN}} [[Françoise Abanda]] / {{flagicon|CAN}} [[Stéphanie Dubois]]
+* {{flagicon|CAN}} [[Gabriela Dabrowski]] / {{flagicon|ISR}} [[Shahar Pe'er]]
+* {{flagicon|BEL}} [[Kirsten Flipkens]] / {{flagicon|CZE}} [[Petra Kvitová]]
+The following pair received entry as alternates:
+* {{flagicon|CRO}} [[Darija Jurak]] / {{flagicon|USA}} [[Megan Moulton-Levy]]
+
+===Withdrawals===
+;Before the tournament
+* {{flagicon|GER}} [[Andrea Petkovic]] (viral illness)
+
+==Finals==
+
+===Men's singles===
+{{main|2014 Rogers Cup – Men's Singles}}
+* {{flagicon|FRA}} [[Jo-Wilfried Tsonga]] defeated {{flagicon|SUI}} [[Roger Federer]], 7–5, 7–6<sup>(7–3)</sup>
+
+===Women's singles===
+{{main|2014 Rogers Cup – Women's Singles}}
+* {{flagicon|POL}} [[Agnieszka Radwańska]] defeated {{flagicon|USA}} [[Venus Williams]], 6–4, 6–2
+
+===Men's doubles===
+{{main|2014 Rogers Cup – Men's Doubles}}
+* {{flagicon|AUT}} [[Alexander Peya]] / {{flagicon|BRA}} [[Bruno Soares]] defeated {{flagicon|CRO}} [[Ivan Dodig]] / {{flagicon|BRA}} [[Marcelo Melo]], 6–4, 6–3
+
+===Women's doubles===
+{{main|2014 Rogers Cup – Women's Doubles}}
+* {{flagicon|ITA}} [[Sara Errani]] / {{flagicon|ITA}} [[Roberta Vinci]] defeated {{flagicon|ZIM}} [[Cara Black]] / {{flagicon|IND}} [[Sania Mirza]], 7–6<sup>(7–4)</sup>, 6–3
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.rogerscup.com/ Official website]
+
+{{Canada Masters tournaments}}
+
+{{2014 ATP World Tour}}
+{{2014 WTA Tour}}
+{{2014 US Open Series}}
+
+{{DEFAULTSORT:Rogers Cup}}
+[[Category:2014 Rogers Cup| ]]
+[[Category:2014 ATP World Tour]]
+[[Category:2014 WTA Tour]]
+[[Category:2014 in Canadian sports]]
+[[Category:Hard court tennis tournaments]]
+[[Category:Canadian Open (tennis)]]
+[[Category:August 2014 sports events in Canada]]

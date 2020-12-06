@@ -1,0 +1,81 @@
+{{Confuse|Google Photos}}
+{{Infobox website
+| name             = Google Images
+| logo             = Google Images 2015 logo.svg
+| caption          = Google Images screenshot
+| url              = [https://images.google.com/ images.google.com]
+| commercial       = Yes
+| type             = [[Search engine]]
+| language         = Multilingual (~100)
+| registration     = Optional
+| owner            = [[Google|Google LLC]] (a subsidiary of [[Alphabet Inc.]])
+| launch_date      = {{start date and age|2001|7|12}}
+| current_status   = Active
+| revenue          = 
+| alexa            = 
+}}
+'''Google Images''' (previously '''Google Image Search''') is a search service owned by [[Google]] that allows users to search the [[World Wide Web]] for [[image]] content.<ref>Zipern, Andrew. "[https://www.nytimes.com/2001/07/12/technology/news-watch-a-quick-way-to-search-for-images-on-the-web.html A Quick Way to Search For Images on the Web]." ''New York Times.'' 12 July 2001. Retrieved 17 July 2020.</ref> It was introduced on July 12, 2001 due to a demand for pictures of [[Jennifer Lopez]]'s [[Green Versace dress of Jennifer Lopez|green Versace dress]] that the regular Google search could not handle.<ref>{{Cite web|url=https://www.vogue.com/article/jennifer-lopez-versace-finale-grammys-dress|title=Google It! Jennifer Lopez Wears That Grammys Dress—The One That Broke the Internet—20 Years Later at Versace|website=Vogue|language=en|access-date=2019-09-21}}</ref><ref>{{Cite web|url=https://time.com/5682782/jennifer-lopez-green-versace-dress/|title=J. Lo Shuts the Versace Runway Down in the Iconic Green Dress That Inspired Google Images|website=Time|language=en|access-date=2019-09-21}}</ref> In 2011, [[reverse image search]] functionality was added.
+
+When searching for an image, a [[thumbnail]] of each matching image is displayed. When the user clicks on a thumbnail, the image is displayed in a larger size, and users may visit the page on which the image is used.
+
+==History==
+
+===Beginnings and expansion (2001–2011)===
+In 2000, [[Google Search]] results had been limited to simple pages of text with links. Google's developers worked on developing this further, and they realized that an image search tool was required to answer "the most popular search query" they had seen to date: [[Jennifer Lopez]] in her exotic [[Green Versace dress of Jennifer Lopez|green Versace dress]]. As a result of this, Google Image Search was launched.<ref name=eric>{{cite web|url=http://www.project-syndicate.org/commentary/google-european-commission-and-disruptive-technological-change-by-eric-schmidt-2015-01#yMSC5IlY7sHATDCO.99|title=The Tinkerer’s Apprentice|publisher=ETC|date=23 January 2015|last=Schmidt|first=Eric|access-date=24 February 2015}}</ref>
+By 2001, 250 million images were indexed in Image Search. This number would eventually grow to 1 billion images by 2005 and 10 billion by 2010.<ref>{{cite web|url=http://googleblog.blogspot.com/2010/07/ooh-ahh-google-images-presents-nicer.html |title=Official Google Blog: Ooh! Ahh! Google Images presents a nicer way to surf the visual web |publisher=Googleblog.blogspot.com |access-date=2013-01-24}}</ref>
+
+In early 2007, Google implemented an updated interface for the image search, where information about an image, such as resolution and [[Uniform Resource Locator|URL]], was hidden until the user moved the mouse over its thumbnail.<ref>[http://donutey.com/googleimage.php Updated Google Images UI] {{webarchive|url=https://web.archive.org/web/20070709113747/http://donutey.com/googleimage.php |date=2007-07-09 }}</ref> This was discontinued after a few weeks.
+
+On October 27, 2009, Google Images added a feature to its image search that can be used to find similar images.<ref>[http://googleblog.blogspot.com/2009/10/similar-images-graduates-from-google.html Similar Images graduates from Google Labs]</ref>
+
+On July 20, 2010, Google made another update to the interface of Google Images, which reimplemented the hiding of image details until mouse over.<ref>{{cite web|last1=Parr|first1=Ben|title=Google Image Search Gets an Overhaul|url=http://mashable.com/2010/07/20/google-images|website=[[Mashable]]|date=20 July 2010}}</ref>
+
+In May 2011, Google introduced a sort by subject feature for a visual category scheme overview of a search query.<ref name="sort by subject">{{cite web|title=Google Wins the War Against Bing Images|url=http://www.pcworld.com/article/227563/google_wins_the_war_against_bing_images.html|publisher=PCWorld Communications, Inc.|access-date=27 May 2011|author=Eric Mack|date=10 May 2011}}</ref>
+
+A month later, in June 2011, Google Images added a Search by Image feature which allowed for [[reverse image search]]es directly in the image search-bar without third-party add-ons. This feature allows users to search for an image by dragging and dropping one onto the search bar, uploading one, or copy-pasting a URL that points to an image into the search bar.<ref name="tc">{{cite web|last1=Kincaid|first1=Jason|title=Google Search By Image: Use A Snapshot As Your Search Query|url=https://techcrunch.com/2011/06/14/google-search-by-image-use-a-snapshot-as-your-search-query/|website=[[TechCrunch]]|access-date=28 January 2018|date=14 June 2011}}</ref>
+
+===New algorithm and accusations of censorship (2012–present)===
+On December 11, 2012, Google Images' search engine algorithm was changed once again, in the hopes of preventing [[Pornography|pornographic]] images from appearing when non-pornographic search terms were used.<ref>{{cite web|last=Knight |first=Shawn |url=http://www.techspot.com/news/51088-google-updates-image-search-algorithm-makes-it-harder-to-find-porn.html |title=Google updates image search algorithm, makes it harder to find porn |publisher=TechSpot |access-date=2013-01-24}}</ref><ref>{{cite web|last=Weber |first=Harrison |url=https://thenextweb.com/google/2012/12/12/google-changes-search-image-safesearch-explicit/ |title=Google Tweaks Explicit Search Algorithm |publisher=Thenextweb.com |date=2012-12-12 |access-date=2013-01-24}}</ref><ref name="pamil-visions1"/> According to Google, pornographic images would still appear as long as the term searched for was specifically pornographic; otherwise, they would not appear. While Google stated explicitly that they were "not censoring any adult content", it was immediately noted that even when entering terms such as "[[Fellatio|blow job]]", or "[[Breast|boob]]," no explicit results were shown.<ref name="pamil-visions1">{{cite web |url=http://www.ewriting.pamil-visions.com/2012/12/13/google-image-search-algorithm-change/ |title=Google Image Search Algorithm Change: Porn Is Harder to Find |publisher=Ewriting.pamil-visions.com |date=2012-12-13 |access-date=2013-01-24 |archive-url=https://web.archive.org/web/20121222183234/http://www.ewriting.pamil-visions.com/2012/12/13/google-image-search-algorithm-change/ |archive-date=2012-12-22 |url-status=dead }}</ref><ref name="sej">{{cite news|url=http://www.searchenginejournal.com/google-censors-porn/56376/ |title=Google "Censors" Porn in Image Search |publisher=Search Engine Journal |access-date=2013-01-24}}</ref> The only alternative option was to turn on an even stricter filter which would refuse to search for the aforementioned terms whatsoever.<ref name="sej" /> It was also noted that users could no longer exclude keywords from their search as before.<ref>{{cite web|author=01/18/2013 10:00 am |url=http://www.seroundtable.com/google-image-search-keyword-exclusion-16140.html |title=Google Image Search Negative Keyword Feature Not Working |publisher=Seroundtable.com |date=2013-01-18 |access-date=2013-01-24}}</ref>
+
+On February 15, 2018, Google Images' interface was modified in order to meet the terms of a settlement and licensing partnership with [[Getty Images]]. The "View image" button (a [[deep link]] to the image itself on its source server) was removed from image thumbnails. This change is intended to discourage users from directly viewing the full-sized image (although doing so using a browser's context menu on the embedded thumbnail is not frustrated), and encourage them to view the image in its appropriate context (which may also include attribution and copyright information) on its respective web page. The "Search by image" button has also been downplayed, as reverse image search can be used to find higher-resolution copies of copyrighted images. Google also agreed to make the copyright disclaimer within the interface more prominent.<ref>{{Cite news|url=https://www.theverge.com/2018/2/15/17017864/google-removes-view-image-button-from-search-results|title=Google removes ‘view image’ button from search results to make pics harder to steal|work=The Verge|access-date=2018-02-16}}</ref>
+
+==Search by Image feature==
+[[File:GoogleImageSearch.png|thumb|The Search by Image feature in use]]
+
+Google Images has a Search by Image feature for performing [[reverse image search]]es. Unlike traditional [[image retrieval]], this feature removes the need to type in keywords and terms into the Google search box. Instead, users search by submitting an image as their query.<ref name="tc" /> Results may include similar images, web results, pages with the image, and different resolutions of the image.
+
+The precision of Search by Image's results is higher if the search image is more popular.<ref>[https://support.google.com/websearch/answer/1325808?p=searchbyimagepage&hl=en Reverse Image Search]</ref> Additionally, Google Search by Image will offer a "best guess for this image" based on the descriptive [[metadata]] of the results.
+
+===Algorithm===
+The general steps that Search by Image takes to get from a submitted image to returned search results are as follows:<ref>[https://www.youtube.com/watch?v=keTZaJg0784|How Search by Image works]</ref>
+
+# '''Analyze image''': The submitted image is analyzed to find identifiers such as colors, points, lines, and textures.
+# '''Generate query''': These distinct features of the image are used to generate a search query.
+# '''Match image''': The query is matched against the images in Google's [[Front and back ends|back end]].
+# '''Return results''': Google's search and match algorithms return matching and visually similar images as results to the user.
+
+==See also==<!-- Please respect alphabetical order -->
+*[[Bing Images]]
+*[[Image search]]
+*[[Picsearch]]
+*[[TinEye]]
+*[[Yahoo#Image search|Yahoo Image Search]]
+*[[Google Website Optimizer]]
+*[[Google PageSpeed Tools]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{commonscatinline}}
+*{{official|https://images.google.com/ }}
+*[https://images.google.com/imagelabeler/ Google Image Labeler Beta]
+*[http://googleblog.blogspot.com/ The Official Google Blog]
+*[https://www.randombyte.com/advanced-google-images-search-tips-and-tricks/ Advanced Google Images Search Tips and Tricks]
+
+{{Google Inc.}}
+
+[[Category:Google Search|Images]]
+[[Category:Image search]]
+[[Category:2001 software]]
+[[Category:2001 establishments in the United States]]

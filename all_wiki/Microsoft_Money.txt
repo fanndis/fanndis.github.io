@@ -1,0 +1,189 @@
+{{Use mdy dates|date=April 2012}}
+{{Infobox software
+| logo = 
+| screenshot = [[File:Microsoftmoney10.jpeg|175px|Boxshot]]
+| caption = Microsoft Money For Windows 8
+| name = Microsoft Money
+| developer = [[Microsoft]]
+| operating_system = [[Microsoft Windows]]
+| genre = [[Personal finance]]
+| license = [[Proprietary software|Proprietary]] [[commercial software]]
+}}
+'''Microsoft Money''' is a personal finance management software program by [[Microsoft]]. It has capabilities for viewing bank account balances, creating budgets, and tracking expenses, among other features.<ref>{{cite web|title=Introduction|url=https://www.microsoft.com/money/support/manual/MoneyPlus/3sku_ch01_p001.htm|work=Microsoft Money Plus User Guide|publisher=Microsoft Corporation|accessdate=January 17, 2012|archiveurl=https://web.archive.org/web/20090926205801/http://www.microsoft.com/money/support/manual/MoneyPlus/3sku_ch01_p001.htm|archivedate=September 26, 2009}}</ref>  It was designed for computers using the [[Microsoft Windows]] [[operating system]], and versions for [[Windows Mobile]] were also available (available for Money 2000-2006 on select versions of Windows Mobile, up to, but not including, Windows Mobile 5.0).
+
+Money is no longer being actively developed as a retail program. From its inception in 1991 until its discontinuation in 2009, Microsoft Money was [[commercial software]]. Microsoft discontinued sales of the software on June 30, 2009 and removed access to online services for existing Money installations in January 2011.<ref name="MsftToKillMoneyJune30">{{cite web|url=http://moneymvps.org/faq/article/632.aspx |title=Statement from Microsoft on the discontinuation of Microsoft Money |publisher=Moneymvps.org |date= |accessdate=April 3, 2012}}</ref> In 2010, Microsoft released a replacement version, called Microsoft Money Plus Sunset, which allows users to open and edit Money data files, but lacks any online features or support.<ref name="What Is Microsoft Money Plus Sunset?">{{cite web|url=https://www.microsoft.com/money/sunset.mspx |title=Microsoft Money Plus Homepage |publisher=Microsoft.com |date=August 5, 2010 |accessdate=April 3, 2012}}</ref> It was available in two editions: Deluxe, and Home & Business.
+
+In 2012, Money returned as a [[Windows Store]] app, however this version of Money was designed as a news aggregator for personal finance, investing, and real estate. Other features include stock tracking across the world markets, a mortgage calculator, and a currency converter. It does not have any of the personal accounting and bookkeeping/money management features of the legacy desktop program.
+
+Microsoft 365 Family and Personal subscribers in the US have access to a premium Money in Excel template from Microsoft.
+
+== Localization ==
+
+There were localized editions of Microsoft Money for the United Kingdom, France, Japan, Canada and an International English edition for other English speaking countries. However, Microsoft had not updated the U.K., French and international editions since Money 2005. The last Canadian edition was Money 2006.
+
+There were also localized editions for other countries, such as Russia, Brazil, Germany and Italy. However, these editions were discontinued due to what was believed to be an insufficient user-base to justify the expense of [[Software localization|localization]] for more recent editions or the expense to integrate support for the national online-banking standard like [[HBCI]] in Germany.
+
+Microsoft offered a free downloadable time-limited trial version of Microsoft Money Plus.<ref>{{cite web|last=Simpson|first=Glyn|title=Microsoft Money Trial Versions|url=http://moneymvps.org/downloads/trials.asp|work=Microsoft (MS) Money FAQ, Help and Information|accessdate=January 17, 2012}}</ref> This trial version can import data files from the Canadian edition of Money,<ref>{{cite web|last=Simpson|first=Glyn|title=Money Plus for Canada|url=http://moneymvps.org/faq/article/517.aspx|work=Microsoft (MS) Money FAQ, Help and Information|accessdate=January 17, 2012|quote=I have had many reports that conversion of a Canadian file with Money Plus (US) works}}</ref> but not from other non-US editions.<ref>{{cite web|last=Simpson|first=Glyn|title=Purchasing Money Plus outside of the US or Japan|url=http://moneymvps.org/faq/article/535.aspx|work=Microsoft (MS) Money FAQ, Help and Information|accessdate=January 17, 2012}}</ref><ref>{{cite web|title=You receive 'Money cannot open this file because it was created by an incompatible version' when you try to open Microsoft Money|url=http://support.microsoft.com/kb/304254|work=Microsoft Support website|accessdate=January 17, 2012|date=February 11, 2011|id=Article ID 2118008}}</ref> Users upgrading from other non-US editions must manually export and reimport their accounts, and may have to re-enter certain information by hand.<ref>{{cite web|last=Simpson|first=Glyn|title=How to export/import accounts (using QIF)|url=http://moneymvps.org/faq/article/28.aspx|work=Microsoft (MS) Money FAQ, Help and Information|accessdate=January 17, 2012}}</ref>
+
+== History ==
+
+The first version of Microsoft Money dates back to 1991 and was originally part of the [[Microsoft Home]] series.<ref>{{cite web |url=http://www.islandnet.com/~kpolsson/compsoft/soft1991.htm |title=Chronology of Personal Computer Software |publisher=Islandnet.com |accessdate=April 3, 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20120211132458/http://www.islandnet.com/~kpolsson/compsoft/soft1991.htm |archivedate=February 11, 2012 |df=mdy-all }}</ref>
+
+Due to Microsoft's propensity to market product versions using the year number rather than the actual version number, the version number reported in the About dialogue box may not actually reflect that of the packaging of the distribution media.
+
+Note that a [[Triskaidekaphobia|version 13.x]] was never created.
+
+=== Release history ===
+
+{| class="wikitable"
+|-
+!Marketed version
+!Release Date
+!Actual version
+!Notes
+|-
+|Microsoft Money
+|October 2, 1991
+|1.0
+|Initial release for [[Windows 3.0]].
+|-
+|Microsoft Money 2.0
+|September 9, 1992
+|2.0
+|
+|-
+|Microsoft Money 3.0
+|January 6, 1994
+|3.0
+|Final [[Win16]] version.
+|-
+|Microsoft Money 95
+|August 24, 1995
+|4.0, 4.0a
+|First Win32 version.
+
+To celebrate [[Windows 95]]'s release and to promote the advantages of a native Windows 95 application, Money 95 was available as a free web download from Microsoft's web site between August 24, 1995 and October 31, 1995. Users also had the option of paying $9.95 [[USD]] plus tax (for US residents) or $14.95 [[Canadian dollar|CAD]] plus tax (for Canadian residents) for CD-ROM or 3.5" floppy disk media along with a hard copy user's manual during that promotional period. This was requested either through a promotional mail-in card (was distributed in stores) or calling Microsoft directly. The freely downloaded (moneyweb.exe) version was the same as the paid 3.5" floppy disk version but no user's manual was available. The CD-ROM version included Multimedia Catalog (an electronic catalog of Microsoft products available at that time) and an online user's manual. Users who took advantage of this (media cost + freight cost) only version did not receive the retail box, but the contents were the same as the ones sold in stores. Windows NT 3.51 was also supported.<ref>{{cite web|url=https://www.nytimes.com/1995/08/31/business/microsoft-s-money-gets-early-responses.html |title=Microsoft's Money Gets Early Responses |publisher=Nytimes.com |date=August 31, 1995 |accessdate=April 3, 2012}}</ref>
+
+Version 4.0a corrected file import bugs.<ref>{{cite web|url=http://www.smartcomputing.com/editorial/article.asp?article=articles/archive/r0504/27r04/27r04.asp&guid= |title=Microsoft Money |publisher=Smart Computing Article |date=January 5, 2007 |accessdate=April 3, 2012}}</ref><ref>{{cite web|url=http://support.microsoft.com/kb/141930 |title=Err Msg: Msworks Caused an Exception 10H in Module Msworks.exe |publisher=Support.microsoft.com |date=January 19, 2007 |accessdate=April 3, 2012}}</ref>
+|-
+|Microsoft Money 97
+|November 19, 1996
+|5.0
+|Added ability to close accounts, provided online banking capabilities including online stock quotes (supported until February, 2004), and contained minor UI improvements. Last version to support Windows NT 3.51.
+|-
+|Microsoft Money 98
+|October 30, 1997
+|6.0
+|First version to require Internet Explorer as part of the interface.
+|-
+|Microsoft Money 99
+|August 14, 1998
+|7.0
+|Last localized release for Germany and Brazil.
+|-
+|Microsoft Money 2000
+|July 30, 1999
+|8.0
+|First edition for Windows Mobile platforms. Last localized release for Italy and in German Language für Switzerland and Austria.<ref>http://money.gvogt.de/index.php?node=33</ref>
+|-
+|Microsoft Money 2001
+|September 7, 2000
+|9.0
+|-
+|Microsoft Money 2002
+|August 16, 2001
+|10.0
+|Last version to support Windows 95 and Windows NT 4.0 SP5.
+|-
+|Microsoft Money 2003
+|October 24, 2002
+|11.0
+|
+|-
+|Microsoft Money 2004
+|August 29, 2003
+|12.0
+|Last version to support original version of Windows 98 ("First Edition").
+|-
+|Microsoft Money 2005
+|October 21, 2004
+|14.0
+|Last localized release for the U.K., French, and the International edition.
+|-
+|Microsoft Money 2006
+|September 27, 2005
+|15.0
+|Last localized release for Canada. Last version for Windows 98 SE/ME, and Windows 2000 SP3.<ref>{{cite web|url=https://www.microsoft.com/money/sysReq2006.mspx |title=System Requirements for Microsoft Money 2006 |publisher=Microsoft.com |date=August 5, 2010 |accessdate=April 3, 2012}}</ref> Also the last version for Windows Mobile platforms.
+|-
+|Microsoft Money 2007
+|August 19, 2006
+|16.0
+|First version to require product activation for copies installed from downloaded installation files.
+|-
+|Microsoft Money Plus
+|December 6, 2007
+|17.0.150.1415 (Home & Business)
+17.0.120.1415 (Deluxe)
+
+17.0.80.1415 (Essentials)
+|Final retail release. First and only version to require [[product activation]] on those copies installed from CD. Microsoft subsequently released '''Money Plus Sunset''' (see the following row), an edition of Money Plus that does not require activation.
+|-
+|Microsoft Money Plus Sunset
+|March 18, 2010
+|17.0.150.3817 (Home & Business)
+17.0.120.3817 (Deluxe)
+|See [[Microsoft Money#Money Plus Sunset|Money Plus Sunset]] below.
+|-
+|[[Windows 8]] edition
+|August 1, 2012
+|18.0 (Launched with [[Windows 8]])
+|Microsoft has since created a portal entry in MSN, called Money
+|}
+
+=== Discontinuation of Money ===
+
+In August 2008, Microsoft announced that it would stop releasing a new version of Money each year and had no version planned for 2009. The company also announced that it would no longer ship boxed versions of Microsoft Money to retail stores and would instead sell the product only as online downloads.<ref>{{cite web|url=http://moneymvps.org/faq/article/562.aspx |title=Full Money 2009 Announcement |publisher=Moneymvps.org |date= |accessdate=April 3, 2012}}</ref>
+
+On June 10, 2009, Microsoft announced that it would stop developing Money, would stop selling it by March 18 by next year, and would continue supporting it until January 31, 2011.<ref name="MsftToKillMoneyJune30" /> The company cited the changing needs of the marketplace as the reason for Money's demise, stating that "demand for a comprehensive personal finance toolset has declined."<ref name="FAQ">{{cite web|url=https://www.microsoft.com/money/faq.mspx |title=Money FAQ |publisher=Microsoft.com |date=August 5, 2010 |accessdate=April 3, 2012}}</ref> Product-activation servers used for Money 2007 and beyond were also to be deactivated after January 31, 2011, preventing these versions from being reinstalled after that date.
+
+=== Money Plus Sunset ===
+
+On June 17, 2010, Microsoft announced the release of Money Plus Sunset,<ref name="MoneyPlusPage">{{cite web| url=https://www.microsoft.com/money/default.mspx |title=Money Plus Product Page | publisher=Microsoft.com |date=August 5, 2010 |accessdate=April 3, 2012}}</ref><ref>{{cite web| website=Microsoft| title=Money Plus Sunset | url=https://www.microsoft.com/money/sunset.mspx }}</ref> a downloadable version of Money Plus Deluxe and Money Plus Home & Business. Money Plus Sunset does not require [[Product activation|online activation]] or the installation of any previous version of Money on the user's computer, and it should not be installed over the original 2008 version, if online services are still required.<ref name="FAQ"/>
+
+Money Plus Sunset comes with most of the functionality that was available in the retail versions of Money Plus. The features missing are:<ref>{{cite web|title=What Is Microsoft Money Plus Sunset?|url=http://support.microsoft.com/kb/2118008| work=Microsoft Support website| accessdate=January 17, 2012|date=August 5, 2010|id=Article ID 2118008}}</ref>
+* Money Plus Sunset cannot import data files from non-US editions of Money
+* Money Plus Sunset is missing all the online services features from earlier versions of Money, e.g.:
+** automatic statement downloads initiated by Money (though users may import downloadable OFX and QIF statements from one's financial institution into the user's Money file)
+** online bill payments
+** online investment quotes (though one can "go to the Portfolio Manager and Update Prices – Update Prices Manually")
+
+A few third party add-ons have been made to overcome the online limitations of the sunset edition:
+* MSMoneyQuotes<ref>{{cite web| website=GaierSoftware.com| title=Restore Microsoft Money Online Quotes with MSMoneyQuotes | url=http://gaiersoftware.com/money/ | accessdate=May 28, 2016 }}</ref> is a for-pay tool to update quotes.  The add-on was written by an ex-Microsoft employee who coded the Portfolio Manager in Money.
+* PocketSense<ref>{{cite web | website=PocketSense | title=Reconnecting Microsoft Money Online Downloads | url=https://sites.google.com/site/pocketsense/ | accessdate=May 28, 2016 }}</ref> is a free tool to download bank account statements (via [[Open Financial Exchange|OFX]]) and quotes.
+
+=== Money in Excel ===
+
+Money in Excel is a Microsoft premium template for Excel available for Microsoft 365 Family and Personal subscribers in the US only.<ref>{{cite web |url=https://templates.office.com/en-us/money-in-excel-tm77948210 |title=Money in Excel |author=<!--Not stated--> |website=Microsoft Office |access-date=August 14, 2020 |archive-url=https://web.archive.org/web/20200814135608/https://templates.office.com/en-us/money-in-excel-tm77948210 |archive-date=August 14, 2020 |url-status=live }}</ref><ref>{{cite web |url=https://support.microsoft.com/en-us/office/what-is-money-in-excel-0fb4710d-169e-45a7-ad60-ca98103d4e6a |title=What is Money in Excel? |author=<!--Not stated--> |website=Microsoft Support |access-date=August 14, 2020 |archive-url=https://web.archive.org/web/20200814135833/https://support.microsoft.com/en-us/office/what-is-money-in-excel-0fb4710d-169e-45a7-ad60-ca98103d4e6a |archive-date=August 14, 2020 |url-status=live }}</ref>
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+* [https://www.microsoft.com/en-ca/download/details.aspx?id=20738 Microsoft - Download Money Plus Sunset Deluxe]
+* [https://web.archive.org/web/20110711181335/http://www.microsoft.com/money/sunset.mspx Money Plus Sunset Page] (Internet Archive)
+* [https://web.archive.org/web/20120115044808/http://support.microsoft.com/kb/2118008 What Is Microsoft Money Plus Sunset?] (Internet Archive)
+
+* [https://templates.office.com/en-us/money-in-excel-tm77948210 Microsoft Office Templates - Money in Excel]
+
+* [https://web.archive.org/web/20110720071422/http://www.microsoft.com/money/default.mspx Microsoft Money Home Page] (Internet Archive)
+* [http://moneymvps.org/downloads/marketing/money1_screenshots.aspx Microsoft Money 1.0 Screenshots]
+
+
+{{Microsoft products}}
+{{Accounting software}}
+
+[[Category:Accounting software]]
+[[Category:Microsoft software|Money]]
+[[Category:Pocket PC software]]
+[[Category:Discontinued Microsoft software|Money]]

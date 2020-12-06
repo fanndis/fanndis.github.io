@@ -1,0 +1,223 @@
+{{other uses}}
+{{redirect|Cousins}}
+{{Redirect|First cousin once removed|the documentary film|First Cousin Once Removed}}
+{{short description|Descendant of an ancestor's sibling}}
+{{Close relationships|types}}
+Commonly "'''cousin'''" refers to a "'''first cousin'''", a [[Kinship|relative]] whose [[most recent common ancestor]] with the subject is a grandparent.<ref>{{cite encyclopedia |title =Cousin |encyclopedia =Brewer's Dictionary of Phrase & Fable |year =2013 |publisher =Chambers Harrap Publishers |id =19 }}</ref> More generally, in the [[lineal kinship]] system used in the English-speaking world, a ''cousin'' is a type of [[Kinship|familial]] relationship in which two relatives are two or more [[familial generation]]s away from their most recent common ancestor.
+
+"'''Degrees'''" and "'''removals'''" are used to more precisely describe the relationship between cousins. ''Degree'' measures the separation, in generations, from the most recent common ancestor to one of the cousins (whichever is closest), while ''removal'' measures the difference in generations between the cousins themselves. To illustrate usage, a "second cousin" is a cousin with a ''degree'' of two. When the degree is not specified first cousin is assumed. A cousin that is "once removed" is a cousin with one ''removal''. When the removal is not specified no removal is assumed.<ref name=DictGen>{{cite encyclopedia |encyclopedia =A Dictionary of Genetics |year =2013 |publisher =Oxford University Press |id =8 |last1=King |first1=Robert C. |last2=Stansfield |first2=William D.}}</ref><ref name=DictWebster>{{cite web |url=https://www.merriam-webster.com/dictionary/cousin |title=Definition of Cousin by Merriam-Webster |website=merriam-webster.com |publisher=Merriam-Webster}}</ref>
+
+Various governmental entities have established systems for legal use that can precisely specify kinship with common ancestors any number of generations in the past; for example, in medicine and law, a first cousin is a type of [[third-degree relative]].{{Citation needed|date=November 2017}}
+
+==Basic definitions==
+
+{| class="wikitable floatright" style="font-size: 94%;"
+! {{visible anchor|Basic family tree}}
+|-
+|style="border: none;" |
+{{chart/start|style=border: 1px solid #c8ccd1; background-color: #fff; padding: 5px;}}
+{{chart | | | | |PM   |y|PF   | | | | | |Lbl  |PM=Adam |PF=Agatha |Lbl=Order |boxstyle_Lbl=border-bottom: none;}}
+{{chart | | | | | |,|-|^|-|.| | | | | | |Lbl  |Lbl=1st |boxstyle_Lbl=border-bottom: none; background: #ddd;}}
+{{chart |S1M  |y|D1F  | |D2M  |y|S2F  | |Lbl  |D1F=Betty |S1M=Ben |D2M=Charles |S2F=Corinda |Lbl=2nd |boxstyle_S1M=border-style: dashed; |boxstyle_S2F=border-style: dashed; |boxstyle_Lbl=border-bottom: none; background: #bbb;}}
+{{chart | | | |`|-|.| | | |,|-|'| | | | |Lbl  |Lbl=3rd |boxstyle_Lbl=background: #999;}}
+{{chart |S1   |y|D1   | |D2   |y|S2   | |D1=David |S1=Dawn |D2=Emma |S2=Edward
+ |boxstyle_S1=border-style: dashed; background: #ddd; |boxstyle=background: #ddd; |boxstyle_S2=background: #ddd; border-style: dashed;}}
+{{chart | | | |`|-|.| | | |,|-|'| | | | }}
+{{chart |S1   |y|D1   | |D2   |y|S2   | |D1=Frank |S1=Felicity |D2=George |S2=Gwen 
+ |boxstyle_S1=border-style: dashed; background: #bbb; |boxstyle=background: #bbb; |boxstyle_S2=background: #bbb; border-style: dashed;}}
+{{chart | | | |`|-|.| | | |,|-|'| | | | }}
+{{chart | | | | |D1   | |D2   | | | | | |D1=Harry |D2=Imogen <!-- Invisible boxes "Blk" are added to stop the y connector only column from collapsing in mobile mode. -->
+ |boxstyle=background: #999; |boxstyle_Blk=visibility:hidden;}}
+{{chart/end}}
+|-
+|style="font-size:94%; border: none; line-height: 1.4em; max-width: 100px;" |The relationship between every solid shaded box and a similar one on the other branch of the tree is that of a cousin. The removal is the number of rows the relatives are separated by. The degree of the relationship is that of the relative with the lowest order. The rules are the same for cousin-in-laws, except they exist between shaded solid lines and shaded dotted lines.
+|}
+People are related with a type of cousin relationship if they share a common ancestor, and are separated from their most recent common ancestor by two or more generations. This means neither person is an [[Lineal descendant|ancestor]] of the other, they do not share a parent (are not [[sibling]]s), and neither is a sibling of the other's parent (are not the other's [[aunt]]/[[uncle]] nor [[Nephew and niece|niece/nephew]]).<ref name="DictWebster" /> In the English system the cousin relationship is further detailed by the concepts of ''degree'' and ''removal''.
+
+The ''degree'' is the number of generations subsequent to the common ancestor before a parent of one of the cousins is found. This means the degree is the separation of the cousin from the common ancestor less one. Also, if the cousins are not separated from the common ancestor by the same number of generations, the cousin with the smallest separation is used to determine the degree.<ref name=DictGen /> The ''removal'' is the difference between the number of generations from each cousin to the common ancestor.<ref name=DictGen /> Two people can be removed but be around the same age due to differences in birth dates of parents, children, and other relevant ancestors.<ref name=DictGen /><ref>{{Cite web|title=What is a First Cousin, Twice Removed?|url=http://www.genealogy.com/articles/research/16_cousn.html|publisher=Genealogy.com|accessdate=Sep 26, 2015}}</ref><ref name=GG>{{cite web|url=http://www.genetic-genealogy.co.uk/Toc115570138.html#Single_Cousins|title=Genetic And Quantitative Aspects Of Genealogy – Types Of Collateral Relationships|publisher=Genetic-genealogy.co.uk|accessdate=28 October 2014}}</ref>
+
+To illustrate these concepts the following table is provided. This table identifies the degree and removal of cousin relationship between two people using their most recent common ancestor as the reference point and demonstrates it in the example family tree.
+
+{| class="wikitable" style="border: none; background: none; font-size: 94%;"
+|+ Relationship between subject and relative given the relationship to their most resent common ancestor
+(Names are from example [[#Basic family tree|Basic family tree]])
+| style="border: none;" colspan="3" | 
+! colspan="3" | Relative
+|-
+| style="border: none;" rowspan="2" | 
+! colspan="2" style="border-bottom: none; font-weight: normal;" | Separation in generations to ancestor '''R→'''
+! 2
+! 3
+! 4
+|-
+! style="border-top: none;" | S↓
+! style="font-weight: normal;"| Relationship to ancestor
+! style="font-weight: normal;"| [[Grandparent]]
+! style="font-weight: normal;"| Great-grandparent
+! style="font-weight: normal;"| Great-great-grandparent
+|-
+! rowspan="6" {{vert header|va=middle|Subject}}
+! rowspan="2" | 2
+! rowspan="2" style="font-weight: normal;" | [[Grandparent]]
+| style="border-bottom:none;"|'''1st cousin'''
+| style="border-bottom:none;"| '''1st cousin once removed'''
+| style="border-bottom:none;"| '''1st cousin twice removed'''
+|-
+| style="border-top:none;"| David & Emma
+| style="border-top:none;"| David & George
+| style="border-top:none;"| David & Imogen
+|-
+! rowspan="2" |3
+! rowspan="2" style="font-weight: normal;" | Great-grandparent
+| style="border-bottom:none;"| '''1st cousin once removed'''
+| style="border-bottom:none;"| '''2nd cousin'''
+| style="border-bottom:none;"| '''2nd cousin once removed'''
+|-
+| style="border-top:none;"| Frank & Emma
+| style="border-top:none;"| Frank & George
+| style="border-top:none;"| Frank & Imogen
+|-
+! rowspan="2" | 4
+! rowspan="2" style="font-weight: normal;" | Great-great-grandparent
+| style="border-bottom:none;"| '''1st cousin twice removed'''
+| style="border-bottom:none;"| '''2nd cousin once removed'''
+| style="border-bottom:none;"| '''3rd cousin'''
+|-
+| style="border-top:none;"| Harry & Emma
+| style="border-top:none;"| Harry & George
+| style="border-top:none;"| Harry & Imogen
+|-
+|+ align="bottom" style="caption-side: bottom" | For cousins ({{math|R & S ≥ 2}}): Degree, Removal = {{math|(''min''(R, S) − 1)}}, {{mabs|R − S}} where R and S is the separation
+|}
+
+==Additional terms==
+
+* The terms full cousin<ref>{{Cite web|url=https://www.collinsdictionary.com/dictionary/english/full-cousin|title=Full cousin definition and meaning {{!}} Collins English Dictionary|website=collinsdictionary.com|language=en|access-date=2018-02-26}}</ref> and [[wikt:cousin-german|''cousin-german'']] are used to specify a first cousin with no removals.<ref>{{Cite web|url=https://www.collinsdictionary.com/dictionary/english/cousin-german|title=Cousin-german definition and meaning {{!}} Collins English Dictionary|website=collinsdictionary.com|language=en|access-date=2018-02-26}}</ref>
+* The terms cousin-uncle/aunt and cousin-niece/nephew are sometimes used to describe the direction of the removal of the relationship,<ref>{{cite book |last=Vilas |first=Charles Harrison |date=1875 |title=Genealogy of the Descendants of Peter Vilas |url=https://books.google.com/books?id=wBFaAAAAMAAJ&q=cousin-&pg=PA17|location=Madison, Wis |publisher=The editor |page=17}}</ref> especially in Mennonite,<ref name=Mennonite /> Indian, and Pakistani {{citation needed|date=July 2020}} families. These terms relate to a first cousin once removed, uncle/aunt referring to an older generation and niece/nephew for younger ones. For additional removals grand/great are applied to these relationships.<ref name=Mennonite>{{cite book |year=1988 |author=Harry Loewen |title=Why I am a Mennonite: Essays on Mennonite identity |isbn=083613463X |page=286 |publisher=Herald Press |quote=They seemed to treasure genetic relations in a way I had not encountered before, using such relational designations as "'''cousin-uncle'''." They spoke of Mennonite names, Mennonite food, Low German, Russian immigration.}}</ref> For example, a second granduncle is a male first cousin twice removed that comes from an older generation, and a cousin-grandniece is a female first cousin twice removed who comes from a younger generation. 
+* The term [[wikt:grandcousin|grandcousin]] is sometimes used for the grandchild of a first cousin, or the first cousin of a grandparent: a first cousin twice removed.
+
+===Gender-based distinctions===
+
+{{Main|Parallel and cross cousins}}
+
+A maternal cousin is a cousin that is related to the mother's side of the family, while a paternal cousin is a cousin that is related to the father's side of the family. This relationship is not necessarily reciprocal, as the maternal cousin of one person could be the paternal cousin of the other. In the example [[#Basic family tree|Basic family tree]] Emma is David's maternal cousin and David is Emma's paternal cousin.
+
+[[Parallel and cross cousins]] on the other hand are reciprocal relationships. Parallel cousins are descended from same-sex siblings. Cousins that are related to same-sex siblings of their most recent common ancestor are parallel cousins.<ref>{{cite web |title=Overview cross-cousin |url=https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095649876 |website=Oxford reference |accessdate=5 March 2020}}</ref> A parallel first cousin relationship exists when both the subject and relative are maternal cousins, or both are paternal cousins.
+
+Cross cousins are descendants from opposite-sex siblings. A cross first cousin relationship exists when the subject and the relative are maternal cousin and paternal cousin to each other. In the example [[#Basic family tree|Basic family tree]] David and Emma are cross cousins.
+
+===Multiplicities===
+
+{| class="wikitable floatright" style="font-size: 94%;"
+|style="border: none;" |{{chart/start|style=border: 1px solid #c8ccd1; background-color: #fff; padding: 5px;}}
+{{chart |P1M  |y|P1F  | |P2M  |y|P2F  |P1M=Adam |P1F=Agatha |P2M=Brian|P2F=Beatrix}}
+{{chart | |,|-|^|-|-|-|-|-|.| |!| | | }}
+{{chart | |!| | | |,|-|-|-|t|-|^|-|.| }}
+{{chart |D1S1 |y|S1D1 | |D2S2 |y|S2D2 |D1S1=Claude |S1D1=Colleen |D2S2=Darrell |S2D2=Dorothea}}
+{{chart | | | |!| | | | | | | |!| | | }}
+{{chart | | |D1   | | | | | |D2   | | |D1=Ewan |D2=Fannie
+ |boxstyle=background: #ddd;}}
+{{chart/end}}
+|-
+|style="font-size: 94%; border: none; line-height: 1.4em; max-width: 100px;" |Ewan and Fannie are double first cousins because they share both sets of grandparents as they are cousins through both parents. They are cousins through the siblings Claude and Darrell as well as the siblings Colleen and Dorothea.
+|}
+
+Double cousins are relatives that are cousins from two different branches of the family tree. This occurs when [[sibling]]s, respectively, reproduce with different siblings from another family.<ref>{{cite web |url=https://genetics.thetech.org/ask-a-geneticist/double-cousins-share-one-quarter-their-dna |author=Dr. Barry Starr |title=Relatedness |website=Stanford at The Tech: Understanding Genetics |date=2015-01-13}}</ref> This may also be referred to as "cousins on both sides". The resulting children are related to each other through both their [[parent]]s and are thus doubly related. Double first cousins share both sets of [[grandparent]]s.
+{| class="wikitable floatleft" style="font-size: 94%;"
+|style="border: none;" |{{chart/start|style=border: 1px solid #c8ccd1; background-color: #fff; padding: 5px;}}
+{{chart | | |S1   |y|P1   |y|S2   | | |P1=Agatha |S1=Adam |S2=Anthony |boxstyle_S1=border-style: dashed; |boxstyle_S2=border-style: dashed;}}
+{{chart | | | | | |!| | | |!| | | | | }}
+{{chart |S1   |y|D1   | |D2   |y|S2   |D1=Betty |S1=Ben |D2=Cyrus |S2=Corina |boxstyle_S1=border-style: dashed; |boxstyle_S2=border-style: dashed;}}
+{{chart | | | |!| | | | | | | |!| | | }}
+{{chart | | |D1   | | | | | |D2   | | |D1=David |D2=Esme
+ |boxstyle=background: #ddd;}}
+{{chart/end}}
+|-
+|style="font-size: 94%; border: none; line-height: 1.4em; max-width: 100px;" |David and Esme are half cousins as they share only one grandparent (Agatha) because they are related through half-siblings (Betty and Cyrus).
+|}
+Half cousins are descended from half siblings and would share one grandparent.<ref>{{cite web |url=https://genetics.thetech.org/ask-a-geneticist/half-cousin-relatedness |title=Relatedness |date=2014-01-09 |author=Jillynne Quinn |website=Stanford at The Tech: Understanding Genetics }}</ref> The children of two half siblings are first half cousins. If half siblings have children with another pair of half siblings, the resulting children would be double half first cousins.
+
+While there is no agreed upon term, it is possible for cousins to share three grandparents if a pair of half siblings had children with a pair of full siblings.<ref>{{Cite web|url=http://www.genetic-genealogy.co.uk/Toc115570136.html|title=Genetic And Quantitative Aspects Of Genealogy - Classification Of Relationships|website=www.genetic-genealogy.co.uk}}</ref><ref>{{Cite web|url=https://deepfriedhoodsiecups.wordpress.com/2011/02/20/2202011-g4bb-world-of-tinker-toys/|title=part 7 G4BB: World of Tinker-Toys|date=February 20, 2011}}</ref>
+
+===Non-blood relations===
+
+{| class="wikitable floatright" style="font-size: 94%;"
+|style="border: none;" |{{chart/start|style=border: 1px solid #c8ccd1; background-color: #fff; padding: 5px;}}
+{{chart | | | | |PM   |y|PF   | | | | | | | | |PM=Adam |PF=Agatha}}
+{{chart | | | | | |,|-|^|-|.| | | | | | | | | }}
+{{chart |S1   |y|D1   | |D2   |~|S2   |y|SS2  |D1=Betty |S1=Ben |D2=Charles |S2=Corinda |SS2=Colin
+ |boxstyle_S1=border-style: dashed; |boxstyle_S2=border-style: dashed; |boxstyle_SS2=border-style: dashed;}}
+{{chart | | | |!| | | | | | | | | | | |!| | | }}
+{{chart | | |D1   | |Blk  | |Blk  | |D2   | | |D1=David |D2=Evangeline<!-- Invisible boxes "Blk" are added to stop the y and ~ connector only columns from collapsing in mobile mode. -->
+ |boxstyle=background: #ddd; |boxstyle_D2=background: #ddd; border-style: dashed;|boxstyle_Blk=visibility:hidden;}}
+{{chart/end}}
+|-
+|style="font-size: 94%; border: none; line-height: 1.4em; max-width: 100px;" |David and Evangeline are step-cousins because David's uncle (Charles) is now Evangeline's stepfather, Evangeline's mother (Corinda) having married Charles.
+|}
+Step-cousins are either stepchildren of an individual's aunt or uncle, nieces and nephews of one's step-parent, or the children of one's parent's step-sibling.<ref>{{cite web |url=https://www.reference.com/world-view/step-cousin-f79762f39431ac31 |title=What Is a Step Cousin? |website=www.reference.com}}</ref> A cousin-in-law is the cousin of a person's spouse or the spouse of a person's cousin.<ref>{{cite web |url=https://www.merriam-webster.com/dictionary/cousin-in-law |title=cousin-in-law |website=Webster's Dictionary}}</ref> In the [[#Basic family tree|Basic family tree]] example David and Edward are cousins-in-law. None of these relationships have consanguinity.
+
+==Consanguinity==
+
+{{Main|Consanguinity}}
+
+Consanguinity is a measure of how closely individuals are related to each other. It is measured by the [[coefficient of relationship]]. Below, when discussing the coefficient of relationship, we assume the subject and the relative are related only through the kinship term. A coefficient of one represents the relationship you have with yourself. Consanguinity decreases by half for every generation of separation from the [[most recent common ancestor]], as there are two parents for each child. When there is more than one common ancestor the consanguinity between each ancestor is added together to get the final result.<ref name="GQAG_COR">{{cite web|url=http://www.genetic-genealogy.co.uk/Toc115570135.html#Single_Cousins|title=Genetic And Quantitative Aspects Of Genealogy – CALCULATION OF THE COEFFICIENT OF RELATIONSHIP|publisher=Genetic-genealogy.co.uk|accessdate=28 October 2014}}</ref>
+
+Between first cousins there are two shared ancestors each with four generations of separation, up and down the family tree: (<math>\left ( \tfrac{1}{2} \right )^4 + \left ( \tfrac{1}{2} \right )^4</math>), their consanguinity is one-eighth. For each additional removal of the cousin relationship, consanguinity is reduced by half, as the generations of separation increase by one. For each additional degree of the cousin relationship, consanguinity is reduced by a quarter as the generations of separation increase by one on both sides.<ref name="GQAG_COR" />
+
+Half cousins have half the [[consanguinity]] of ordinary cousins as they have half the common ancestors (i.e. one vs two). Double cousins have twice the [[consanguinity]] of ordinary cousins as they have twice the number of common ancestors (i.e. four vs two). Double first cousins share the same consanguinity as half-siblings. Likewise double half cousins share the same consanguinity as cousins as they both have two common ancestors. If there are half siblings on one side and full siblings on the other they would have three-halves the consanguinity of ordinary first cousins.<ref name="GQAG_COR" />
+
+In a scenario where two monozygotic (identical) twins mate with another pair of monozygotic twins, the resulting double cousins would test as genetically similar as siblings.
+
+===Reproduction===
+
+Offspring of first cousin couples and of second cousin couples die younger and reproduce less.<ref>[https://www.nature.com/news/2008/080207/full/news.2008.562.html Nature: When kissing cousins are good for kids - A little inbreeding might boost fertility.] By Heidi Ledford. Date: Published online 7 February 2008.</ref> Couples that are closely related have an increased chance of sharing genes, including mutations that occurred in their family tree. If the mutation is a [[recessive trait]] it will not reveal itself unless both father and mother share it.<ref>[http://theconversation.com/whats-the-genetic-disease-risk-for-children-of-related-couples-7599 The Conversation: What’s the genetic disease risk for children of related couples?] Date: September 27, 2012. Source: Tiong Tan, Clinical Geneticist at Victorian Clinical Genetics Services and Researcher in Craniofacial Research, Murdoch Children's Research Institute.</ref> Due to the risk that the trait is harmful, children of high consanguinity parents have an increased risk of [[Genetic_disorder#Autosomal_recessive|recessive genetic disorder]]s. See [[inbreeding]] for more information.
+
+Closely related couples have more children. Couples related with consanguinity equivalent to that of third cousins have the greatest [[fertility|reproductive success]].<ref>{{cite journal| pmid=18258915 | doi=10.1126/science.1150232 | volume=319 | title=An association between the kinship and fertility of human couples | year=2008 | journal=Science | pages=813–6 | last1 = Helgason | first1 = A | last2 = Pálsson | first2 = S | last3 = Gudbjartsson | first3 = DF | last4 = Kristjánsson | first4 = T | last5 = Stefánsson | first5 = K| issue=5864 | s2cid=17831162 }}</ref> This seems counter-intuitive as closely related parents have a higher probability of having offspring that are [[Fitness (biology)|unfit]], yet closer kinship can also decrease the likelihood of immunological incompatibility during pregnancy.<ref>[http://www.sciencedaily.com/releases/2008/02/080207140855.htm Science Daily: Third Cousins Have Greatest Number Of Offspring, Data From Iceland Shows.] Date: February 8, 2008; Source: deCODE genetics.</ref>
+
+===Cousin marriage===
+
+{{Main|Cousin marriage}}
+
+Cousin marriage is important in several anthropological theories, which often differentiate between matriarchal and patriarchal parallel and cross cousins.
+
+Currently about 10% and historically as high as 80% of all marriages are between first or second cousins.<ref name="kershaw">{{cite news |first = Sarah |last = Kershaw |url = https://www.nytimes.com/2009/11/26/garden/26cousins.html?pagewanted=1&_r=1 |title = Shaking Off the Shame |date = 26 November 2009 | work=The New York Times}}</ref><ref name="kissyourcousin"/> Cousin marriages are often [[arranged marriage|arranged]].<ref name="kershaw" /><ref name="kissyourcousin">{{cite web|url=http://discovermagazine.com/2003/aug/featkiss|title=Go Ahead, Kiss Your Cousin - DiscoverMagazine.com}}</ref><ref name=bittles1>{{cite techreport
+| first=Alan H.
+| last=Bittles
+| title=A Background Summary of Consanguineous Marriage
+| institution=Edith Cowan University
+| date=May 2001
+| url=http://www.consang.net/images/d/dd/01AHBWeb3.pdf
+}}</ref><ref name="Bittles 1994, p. 567">{{cite journal | doi= 10.2307/2137601 | last1= Bittles | first1= Alan H. | date=  September 1994 | title= The Role and Significance of Consanguinity as a Demographic Variable | journal     = [[Population and Development Review]] | volume      = 20 | issue= 3 | pages= 567 | jstor = 2137601}}</ref><ref>{{Cite journal |title = Consanguinity, human evolution, and complex diseases |first1 = Alan |last1 = Bittles |first2 = Michael |last2 = Black |journal = [[Proceedings of the National Academy of Sciences]] |volume = 107 |issue = suppl 1 |pages = 1779–86 |doi = 10.1073/pnas.0906079106 |date=Sep 2009 |pmid=19805052 |pmc=2868287}}</ref> Anthropologists believe it is used as a tool to strengthen the family, conserve its wealth, protect its cultural heritage, and retain the power structure of the family and its place in the community. Some groups encourage cousin marriage while others attach a strong [[social stigma]] to it. In some regions in the [[Middle East]] more than half of all marriages are between first or second cousins (some of the countries in this region this may exceed 70%).<ref name=map>{{cite web |url=http://www.consang.net/index.php/Global_prevalence |title =Global prevalence |author = Dr. Alan Bittles |author2=Dr. Michael Black |publisher = consang.net }}</ref> Just outside this region it is often legal but infrequent. Many cultures have encouraged specifically cross-cousin marriages.<ref>{{cite book |last1=Moore |first1=Alexander |title=Cultural Anthropology: The Field Study of Human Beings |publisher=Rowman & Littlefield |page=216 |url=https://books.google.com/books?id=b5_aClwL9_sC|isbn=9780939693481 |year=1998 }}</ref> In other places it is [[Prohibited degree of kinship|legally prohibited]] and culturally equivalent to [[incest]].<ref name="truth">{{cite web|url=http://www.todayifoundout.com/index.php/2014/02/people-stop-thinking-appropriate-cousins-marry/|title=The Surprising Truth About Cousins and Marriage|date=14 February 2014}}</ref><ref name=plos>{{cite journal|title="It's Ok, We're Not Cousins by Blood": The Cousin Marriage Controversy in Historical Perspective|first1=Diane B.|last1=Paul|first2=Hamish G.|last2=Spencer|date=23 December 2008|journal=PLOS Biology|volume=6|issue=12|pages=2627–30|doi=10.1371/journal.pbio.0060320|pmid = 19108607|pmc=2605922}}</ref> Supporters of cousin marriage often view the prohibition as [[discrimination]],<ref name=finalthoughts>{{cite web|title=Final Thoughts|url=https://www.cousincouples.com/?page=final|website=Cousin Couples|accessdate=4 June 2016}}</ref><ref name=okbyscience>{{cite journal
+| url = https://www.wired.com/wiredscience/2008/12/cousinmarriage/
+| title = Cousin Marriage OK by Science
+| journal = Wired
+| author = Brandon Keim
+|date=23 December 2008
+}}</ref> while opponents cite the potential [[immorality]]<ref name="slate">{{cite web|url=http://www.slate.com/id/2064227/|title=The Love That Dare Not Speak Its Surname|first=William|last=Saletan|date=10 April 2002|via=Slate}}</ref> and the increased rate of [[birth defect|birth defects]] in children of cousin marriages.
+
+==See also==
+
+* [[Collateral descendant]]
+* [[Consanguinity]]
+* [[Cousin marriage]]
+* [[Family]]
+* [[Sibling]]
+* [[Second-degree relative]]
+
+==References==
+{{Reflist}}
+
+==External links==
+
+{{Wiktionary|cousin}}
+* [[:File:European kinship system en.svg|European kinship system]]
+* [http://www.genealogy.com/16_cousn.html Genealogy.com definition of various cousins]
+* [http://www.genealogy.com/rhonda102501.html Genealogy.com: What makes a cousin?]
+* [http://www.genetic-genealogy.co.uk/index.html Genetic Genealogy]
+
+{{Family}}
+
+[[Category:Kinship and descent]]
+[[Category:Cousins| ]]
+
+[[de:Verwandtschaftsbeziehung#Cousin und Cousine]]

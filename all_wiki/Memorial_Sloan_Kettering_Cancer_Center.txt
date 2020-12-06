@@ -1,0 +1,191 @@
+{{Short description|Hospital in New York City, US}}
+{{Use American English|date = September 2019}}
+{{Use mdy dates|date=December 2017}}
+{{Infobox hospital
+<!-- All parameters and comments should be left intact for future editors -->
+<!-- All parameters are optional, but please copy the entire template -->
+<!-- Full documentation: http://en.wikipedia.org/wiki/Template:Infobox_hospital -->
+| name           = Memorial Sloan Kettering Cancer Center
+| org/group      = <!-- org or group that owns/manages the hospital -->
+| logo           = MSKCC-Website-Logo.png<!-- please conform to copyright -->
+| logo_size      = <!-- logo size or width in pixels -->
+| image          = <!-- preferably photo of the main building or entrance -->
+| image_size     = <!-- 220 is the default image size or width in pixels (225 matches default map_size). Leave blank per [[MOS:ACCESSIBILITY]] unless special size is needed. -->
+| alt            = <!-- alternative text for image, see [[WP:ALT]] -->
+| caption        = <!-- text displayed below image -->
+| map_type       = <!-- uses the [[Template:Location map]] format; defines value for {{{1}}} parameter; must have latitude and longitude if using this -->
+| relief         = <!-- any non-blank value (yes, 1, etc.) will cause the template to display a relief map image, where available -->
+| map_size       = <!-- map size or width in pixels (do not include "px"); default is 225 -->
+| map_alt        = <!-- alternative text for map image, see WP:ALT for details -->
+| map_caption    = <!-- a small caption under the map such as "Shown in region, country" -->
+| location       = 1275 York Avenue<!-- optional – displayed before region, state, country -->
+| region         = <br/>[[Manhattan]]<!-- e.g. City or County -->
+| state          = New York<!-- optional – UK: England, Wales, Scotland, Northern Ireland; US: the US state name; CA: province name -->
+| country        = US<!-- country name or two-letter code – use UK for United Kingdom or US for United States -->
+| coordinates    = {{coord|40.764096|-73.956842|region:US-NY_type:landmark_scale:2000_source:Wikimapia|display=it}}
+| healthcare     = <!-- UK: NHS; AU/CA: Medicare; ELSE free-form text, e.g. Private -->
+| funding        = Non-profit<!-- use: Non-profit, For-profit, Government, Public – will generate links -->
+| type           = Specialist<!-- use: Community, District, General, District general, Teaching, Specialist -->
+| religious_affiliation = <!-- religion the hospital is associated with -->
+| affiliation    = [[Cornell University]], [[Weill Cornell Graduate School of Medical Sciences]]<!-- medical school / university affiliations (medical or paramedical) -->
+| patron         = <!-- the individual who acts as the hospital patron -->
+| network        = <!-- hospital network, non-owner -->
+| standards      = <!-- optional if no national standards -->
+| emergency      = [[Urgent care center]]<!-- UK/IR/HK/SG: Yes/No, in CA/IL/US: I/II/III/IV/V for Trauma certification level -->
+| beds           = 498 (as of 2018)<!-- cite in article as well -->
+| speciality     = [[Oncology]]<!-- if devoted to a speciality (i.e. not a broad spectrum); ONLY displayed if type=Specialist or type=Teaching -->
+| helipad        = <!-- [[Template:Airport codes]] with p=n; leave blank if unknown or not verifiable -->
+| h1-number      = <!-- The designation of the helipad (up to h12) -->
+| h1-length-f    = <!-- Helipad length in feet -->
+| h1-length-m    = <!-- Helipad length in metres -->
+| h1-surface     = <!-- Helipad surface type, such as: Concrete, Asphalt, etc -->
+| publictransit  = <!-- Public transit agency and route with nearby stops -->
+| former-names   = New York Cancer Hospital<!-- Former name(s) of used by the hospital if different from its current name -->
+| constructed    = <!-- date construction started; cite in article as well -->
+| opened         = {{Start date and age|1884}}<ref>{{Cite web |url=https://www.forbes.com/companies/memorial-sloan-kettering-cancer-center/ |title=Memorial Sloan Kettering Cancer Center |work=Forbes }}</ref> (as New York Cancer Hospital)<!-- cite in article as well -->
+| closed         = <!-- if defunct, please also add to Category:Defunct hospitals -->
+| demolished     = <!-- if demolished at a different time from closure -->
+| website        = {{URL|www.mskcc.org}}<!-- use {{URL|www.example.com}} -->
+| other_links    = [[List of hospitals in Manhattan|Hospitals in Manhattan]]<!-- link(s) to related articles -->
+| module         = <!-- or 'embedded' or 'nrhp' -->
+}}
+{{multiple image
+ | align = right
+ | direction = vertical
+ | width = 200
+ | header = 
+ | image1 = Radium_laboratory_workshop,_c1918.jpg
+ | alt1 = 
+ | caption1 = A radium laboratory at Memorial Hospital, 1918
+ | image2 = Memorial_Hospital_(formerly_New_York_Cancer_Hospital),_c1930.jpg
+ | alt2 = 
+ | caption2 = Memorial Hospital, 1930
+ | image3 = MH-land_donation,_c_1937.jpg
+ | alt3 = 
+ | caption3 = Rockefeller's [[York Avenue]] land donation, 1937
+ | image4 = Memorial sloan-kettering cancer center.jpg
+ | alt4 = 
+ | caption4 = The relocated Memorial Hospital building, built between 1936 and 1939, standing on its present location on [[York Avenue]]
+ | image5 = Groundbreaking-SKI,_June_23,_1946.jpg
+ | alt5 = 
+ | caption5 = Groundbreaking at the Sloan Kettering Institute, 1946
+ | image6 = New York Cancer Hospital Panoramic.JPG
+ | alt6 = 
+ | caption6 =The original [[New York Cancer Hospital]]<ref name=Barbanel>Barbanel, Josh. [https://www.nytimes.com/2006/09/17/realestate/17deal1.html "Would an Aardvark Live Here?"] ''[[The New York Times]]'', September 17, 2006. Retrieved December 31, 2009.</ref> built between 1884 and 1886, now housing, at 455 [[Eighth Avenue (Manhattan)|Central Park West]] and 106th Street in Manhattan.
+}}
+
+'''Memorial Sloan Kettering Cancer Center''' ('''MSK''' or '''MSKCC''') is a [[oncology|cancer treatment]] and research institution in [[New York City]], founded in 1884 as the '''New York Cancer Hospital'''. MSKCC is the largest and oldest private cancer center in the world, and is one of 51 [[National Cancer Institute]]–designated Comprehensive Cancer Centers.<ref>{{cite news|url=https://www.nytimes.com/1884/05/18/archives/the-newyork-cancer-hospital-laying-the-cornerstone-of-a-muchneeded.html|title=The New York Cancer Hospital: laying the corner-stone of a much-needed institution|date=May 18, 1884|work=[[N. Y. Times|The New York Times]]|url-access=subscription |accessdate=February 4, 2016}}</ref><ref>{{cite web |title=NCI-Designated Cancer Centers |url=https://www.cancer.gov/research/nci-role/cancer-centers |website=National Cancer Institute |accessdate=11 June 2019 |language=en |date=5 April 2012}}</ref> Its main campus is located at 1275 [[York Avenue / Sutton Place|York Avenue]], between [[67th Street (Manhattan)|67th]] and [[68th Street (Manhattan)|68th]] streets, in [[Manhattan]].
+
+According to U.S. News & World Report 2020 Best Hospitals, Memorial Sloan Kettering Cancer Center (MSK) has been ranked as the number two hospital for cancer care in the nation.<ref>{{cite web |title=Memorial Sloan Kettering Cancer Center - Cancer |url=https://health.usnews.com/best-hospitals/area/ny/memorial-sloan-kettering-cancer-center-6213060/cancer |website=US News and World Report |publisher=US News and World Report |accessdate=16 November 2020}}</ref>
+
+==History==
+===New York Cancer Hospital (1884–1934)===
+Memorial Hospital was founded on the Upper West Side of Manhattan<ref name=Barbanel/> in 1884 as the [[New York Cancer Hospital]] by a group that included [[John Jacob Astor III]] and his wife Charlotte.<ref name="Abel">{{cite book|title=The inevitable hour: a history of caring for dying patients in America|last=Abel|first=Emily K.|publisher=Johns Hopkins University Press|year=2013|isbn=978-1421409191|location=Baltimore, Md.|pages=66&ndash;67|oclc=808769549}}</ref> The hospital appointed as an attending surgeon William B. Coley, who pioneered an early form of immunotherapy to eradicate tumors.<ref>{{cite book|title=Coley to Cure:The Story of the Cancer Research Institute|date=2014|publisher=Cancer Research Institute|pages=12–13|url=https://cloud.3dissue.com/75528/75875/90117/ColeytoCure/index.html|accessdate=February 4, 2016}}</ref> [[Mother Mary Alphonsa|Rose Hawthorne]], daughter of author [[Nathaniel Hawthorne]], trained there in the summer of 1896 before founding her own order, [[Dominican Sisters of Hawthorne]].<ref>{{cite book|title=Changing the Way We Die: Compassionate End of Life Care and The Hospice Movement|last1=Smith|first1=Fran|last2=Himmel|first2=Shiela|publisher=Cleis Press|year=2013|isbn=9781936740604|location=Berkeley, California|pages=23|oclc=839388370}}</ref> In 1899, the hospital was renamed General Memorial Hospital for the Treatment of Cancer and Allied Diseases.<ref>{{cite news|url=https://www.nytimes.com/1899/02/16/archives/session-of-the-senate-bills-passed-and-introduced-and-routine.html|title=SESSION OF THE SENATE.; Bills Passed and Introduced and Routine Business Transacted.|date=February 16, 1899|work=[[The New York Times]]|url-access=subscription |accessdate=February 27, 2016}}</ref> In 1902, [[Arabella Huntington]] made a $100,000 (approximately $3 million in 2018) bequest in memory of her late husband [[Collis Potter Huntington]] to establish the first cancer research fund in the country, the Huntington Fund for Cancer Research.<ref name="Abel"/>
+
+Around 1910 [[James Ewing (pathologist)|James Ewing]], a professor at [[Cornell University]]'s medical college,  established a collaboration with Memorial Hospital with the help and funding of industrialist and philanthropist [[James Douglas (businessman)|James Douglas]], who gave $100,000 to endow twenty beds for clinical research, equipment for working with [[radium]], and a clinical laboratory for that purpose.<ref name=NASbio/>  Douglas' enthusiasm and funding for development of [[radiation therapy]] for cancer inspired Ewing to become one of the pioneers in developing this treatment.<ref name=NASbio/>  Ewing soon took over effective leadership of clinical and laboratory research at Memorial.<ref name=NASbio/>  In 1916 the hospital was renamed again, dropping "General" to become known simply as Memorial Hospital.<ref>{{cite report|title=Memorial Hospital for the Treatment of Cancer and Allied Diseases Thirty First Annual Report for the Year 1915|page=19}}</ref> The first fellowship training program in the US was created at Memorial in 1927, funded by the Rockefellers.<ref name=EwingLecture>{{cite journal|last1=Wilkins|first1=Sam A. Jr.|title=James Ewing Society, 1940-1969: Presidential Address|journal=Cancer|volume=25|issue=2 |url=http://onlinelibrary.wiley.com/store/10.1002/1097-0142(197002)25:2%3C321::AID-CNCR2820250207%3E3.0.CO;2-R/asset/2820250207_ftp.pdf?v=1&t=imbfy6ah&s=eba11907ae69c486cdb6c017017da73258a6291e |pages=321–323|date=February 25, 1970 |pmid=4905156 |doi=10.1002/1097-0142(197002)25:2<321::AID-CNCR2820250207>3.0.CO;2-R}}</ref> In 1931 the then-most-powerful 900k-volt [[X-ray tube]] was put into use in [[radiation therapy|radiation-based cancer treatment]] at Memorial; the tube had been built by [[General Electric]] over several years.<ref>{{cite news|title=900,000-VOLT TUBE TO COMBAT CANCER: Largest X-Ray Device of Kind Being Built by General Electric for Hospital Here |url=https://www.nytimes.com/1931/03/01/archives/900000volt-tube-to-combat-cancer-largest-xray-device-of-kind-being.html |access-date=February 4, 2016|work=The New York Times|date=March 1, 1931}}</ref>  In 1931 Ewing was formally appointed president of the hospital, a role he had effectively played until then,<ref name=NASbio/> and was featured on the cover of [[Time (magazine)|''Time'' magazine]] as "Cancer Man Ewing";<ref>Time Magazine [http://www.time.com/time/covers/0,16641,1101310112,00.html Cover], January 12, 1931</ref> the accompanying article described his role as one of the most important cancer doctors of his era.<ref>"Cancer Crusade". January 12, 1931. [[Time (magazine)|''Time'']] 17(2):26</ref>  He worked at the Memorial until his retirement, in 1939.<ref name=BrandBio>{{cite journal | last1 = Brand | first1 = RA | date = Mar 2012 | title = Biographical sketch: James Stephen Ewing, MD (1844-1943) | journal = Clin Orthop Relat Res | volume = 470 | issue = 3| pages = 639–41 | doi = 10.1007/s11999-011-2234-y | pmid = 22207564 | pmc=3270161}}</ref> Under his leadership, Memorial became a model for other cancer centers in the United States, combining patient care with clinical and laboratory research,<ref name=EwingLecture/> and it was said of him that "the relationship of Ewing to the Memorial Hospital can best be expressed in the words of Emerson, 'Every institution is but the lengthening shadow of some man.' Dr. Ewing is the Memorial Hospital".<ref name="NASbio">{{Cite web |url=http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/ewing-james.pdf |title=James Ewing—1866&ndash;1943 |last=Murphy |first=James B. |year=1951 |website=Biographical Memoirs |publisher=National Academy of Sciences |location=Washington, D.C.}}</ref>
+
+===Memorial Hospital and the Sloan Kettering Institute (1934–1980)===
+In 1934, [[John D. Rockefeller Jr.]] donated land on [[York Avenue and Sutton Place|York Avenue]] for a new location.<ref>{{cite news|title=Rockefeller Gives Block to Institute|url=https://www.nytimes.com/1934/12/28/archives/rockefeller-gives-block-to-institute-use-to-which-york-av-land-will.html|accessdate=February 4, 2016|work=The New York Times|date=December 28, 1934}}</ref> Two years later, he granted Memorial Hospital $3,000,000 and the hospital began their move across town.<ref>{{cite news|title=Rockefeller Provides $3,000,000 to Build Cancer Hospital Here|url=https://www.nytimes.com/1936/04/28/archives/rockefeller-provides-3000000-to-build-cancer-hospital-here-gift-of.html|accessdate=February 4, 2016|work=The New York Times|date=April 28, 1936}}</ref> Memorial Hospital officially reopened at the new location in 1939.<ref>{{cite news|title=THE MEMORIAL HOSPITAL|url=https://www.nytimes.com/1939/06/16/archives/the-memorial-hospital.html|accessdate=February 27, 2016|work=The New York Times|date=June 16, 1939}}</ref><ref name="MSKCC.org_history_page">{{Citation |author=Memorial Sloan Kettering Cancer Center |title=History & Milestones. Memorial Sloan Kettering Cancer Center website. |url=https://www.mskcc.org/history-milestones |postscript=.}}</ref>  In 1945, the chairman of [[General Motors]], [[Alfred P. Sloan]], donated $4,000,000 to create the Sloan-Kettering Institute for Cancer Research through his Sloan Foundation, and [[Charles F. Kettering]], GM's vice president and director of research, personally agreed to oversee the organization of a cancer research program based on industrial techniques.<ref name="NYT 1945">{{cite news  | title = Sloan, Kettering to Combat Cancer; Studying Sketch of Proposed Cancer Research Institute | url=https://www.nytimes.com/1945/08/08/archives/sloan-kettering-to-combat-cancer-studying-sketch-of-proposed-cancer.html  | work = [[The New York Times]] | page = 1 (cont'd p. 40) | date=  August 8, 1945 }}</ref> The originally independent research institute was built adjacent to Memorial Hospital.<ref name="NYT 1945"/>
+
+In 1948 [[Cornelius P. Rhoads]] became the director of Memorial. Rhoads had run [[chemical weapons]] programs for the US army in World War II, and had been involved in the work that led to the discovery that [[nitrogen mustard]]s could potentially be used as cancer drugs.<ref name=Emp/>{{rp|91–92}}  He fostered a collaboration between [[Joseph H. Burchenal]], a clinician at Memorial and [[Gertrude B. Elion]] and [[George H. Hitchings]] at Burroughs Wellcome, who had discovered [[mercaptopurine|6 MP]]; the collaboration led to the development and eventual wide use of this cancer drug.<ref name=Emp>{{cite book|last1=Mukherjee|first1=Siddhartha|title=The Emperor of All Maladies: A Biography of Cancer|isbn=978-1439170915|date=2010|location=New York}}</ref>{{rp|91–92}}<ref>{{cite web |first=Katherine |last=Bouton |work=The New York Times |date=January 29, 1989 |url=https://www.nytimes.com/1989/01/29/magazine/the-nobel-pair.html?pagewanted=all |title=The Nobel Pair}}</ref>
+
+From the mid-1950s to the mid-1960s [[Chester M. Southam]] conducted pioneering [[clinical research]] on [[virotherapy]] and cancer immunotherapy at MSK; however he conducted his research on people without their [[informed consent]]. He did this to patients under his care or others' care, and to prisoners.<ref name=Skloot>{{cite book|last1=Skloot|first1=Rebecca|title=The Immortal Life of Henrietta Lacks|date=2010|publisher=Crown/Archetype|location=New York|isbn=9780307589385|pages=127–135}}</ref><ref name=Mulford>{{cite journal|last1=Mulford|first1=R.D.|title=Experimentation on Human Beings.|journal=Stanford Law Review|year=1967|volume=20|issue=1|pages=99–117|doi=10.2307/1227417|jstor=1227417}}</ref>  In 1963 some doctors objected to the lack of consent in his experiments and reported him to the Regents of the [[University of the State of New York]] which found him guilty of fraud, deceit, and unprofessional conduct, and in the end he was placed on probation for a year.<ref name=Skloot/><ref name=Mulford/> Southam's research experiments and the case at the Regents were followed in ''[[The New York Times]]''.<ref>{{cite news|title=14 Convicts Injected With Live Cancer Cells|url=https://www.nytimes.com/1956/06/15/archives/14-convicts-injected-with-live-cancer-cells.html|work=The New York Times|date=June 15, 1956}}</ref><ref>{{cite news|last1=Johnston|first1=Richard J.H.|title=Cancer Defenses Found to Differ; Tests Indicate Victims Lack Some Mechanisms That Well Human Being Has Cancer Recurred Deficiency Is Noted Warning by Southam|url=https://www.nytimes.com/1957/04/15/archives/cancer-defenses-found-to-differ-tests-indicate-victims-lack-some.html|work=The New York Times|date=April 15, 1957}}</ref><ref>{{cite news|last1=Osmundsen|first1=John A.|title=Many Scientific Experts Condemn Ethics of Cancer Injection|url=https://www.nytimes.com/1964/01/26/many-scientific-experts-condemn-ethics-of-cancer-injection.html|work=The New York Times|date=January 26, 1964}}</ref><ref>{{cite news|last1=Plumb|first1=Robert K.|title=Scientists Split on Cancer Tests|url=https://www.nytimes.com/1964/03/22/scientists-split-on-cancer-tests.html|work=The New York Times|date=March 22, 1964}}</ref><ref>{{cite news|title=Ruling is Upset on Cancer Test|url=https://www.nytimes.com/1964/07/08/ruling-is-upset-on-cancer-test.html|work=The New York Times|date=July 8, 1964}}</ref>
+
+In 1960, Memorial Sloan Kettering Cancer Center was formed as a new corporation to coordinate the two institutions; [[John R. Heller Jr.|John Heller]], the former director of the National Cancer Institute was named its president.<ref>{{cite news|title=U.S. Aide to Head Cancer Center: Dr. John R. Heller, Cured of Disease, to Assume New Sloan-Kettering Post|url=https://www.nytimes.com/1960/04/19/archives/us-aide-to-head-cancer-center-dr-john-r-heller-cured-of-disease-to.html|accessdate=February 4, 2016|work=The New York Times|date=April 19, 1960}}</ref> At the end of the 1960s, as the field of [[pediatric oncology]] began seeing success in treating children with cancer, Memorial opened an [[outpatient]] pediatric [[day hospital]], partly to deal with the growing number of cancer survivors.<ref>{{cite news|last1=Johnson|first1=Rudy|title=Parents Are on Team at Memorial's Day Hospital for Children With Cancer|url=https://query.nytimes.com/gst/abstract.html?res=9B05EEDE143DE53ABC4B53DFB4678389669EDE|work=The New York Times|date=December 3, 1972}}</ref>  In the early 1970s, Burchenal and [[Benno C. Schmidt, Sr.|Benno Schmidt]], a professional investor and trustee of MSK, were appointed to the presidential panel that initiated the U.S. federal government's [[War on Cancer]] in the early 1970s.<ref name=Emp/>{{rp|184}}  When Congress passed the National Cancer Act of 1971 as part of that effort, Memorial Sloan Kettering was designated as one of only three [[NCI-designated Cancer Center|Comprehensive Cancer Centers]] nationwide.<ref>{{cite book|last1=Marks|first1=Paul|last2=Sterngold|first2=James|title=On the Cancer Frontier: One Man, One Disease, and a Medical Revolution|date=2014|publisher=PublicAffairs|page=[https://archive.org/details/oncancerfrontier0000mark/page/91 91]|isbn=978-1610392525|url-access=registration|url=https://archive.org/details/oncancerfrontier0000mark/page/91}}</ref>  In 1977, [[Jimmie C. Holland]] established a full-time psychiatric service at MSK dedicated to helping people with cancer cope with their disease and its treatment; it was one of the first such programs and was part of the creation of the field of [[psycho-oncology]].<ref>{{cite report|title=Memorial Sloan-Kettering Cancer Center Annual Report, 1977|page=22}}</ref><ref name="Rosenthal">{{cite news|last1=Rosenthal|first1=Elizabeth|title=Scientist at Work: Jimmie Holland; Listening to the Emotional Needs of Cancer Patients|url=https://www.nytimes.com/1993/07/20/science/scientist-work-jimmie-holland-listening-emotional-needs-cancer-patients.html?pagewanted=all|accessdate=March 22, 2016|work=The New York Times|date=July 20, 1997}}</ref>
+
+===Memorial Sloan Kettering Cancer Center (1980–present)===
+In 1980 Memorial Hospital and the Sloan-Kettering Institute formally merged into a singular entity under the Memorial Sloan Kettering Cancer Center name.<ref name="MSKCC.org_history_page"/>
+
+In 2000, former [[NIH]] director [[Harold Varmus]] became the director of MSK.<ref name="Varmus Papers">{{cite web|title=The Harold Varmus Papers: Memorial Sloan Kettering Cancer Center, 2000-2010, and National Cancer Institute, 2010-2015|url=https://profiles.nlm.nih.gov/ps/retrieve/Narrative/MV/p-nid/369|website=profiles.nlm.nih.gov|accessdate=April 22, 2016}}</ref> During his tenure, he helped build new facilities, strengthened the bond between MSK's clinical and research arms, and fostered collaborations with other institutions, including Weill-Cornell Medical College and Rockefeller University.<ref name="Varmus Papers"/>
+
+In 2006, MSK opened the [[Mortimer Zuckerman|Mortimer B. Zuckerman]] Research Center, a 23-story building which houses more than 100 laboratories.<ref name="mskcc.org">{{cite web|url=https://www.mskcc.org/research-areas/programs-centers/ski/about|title=Sloan Kettering Institute: About SKI|publisher=Memorial Sloan Kettering Cancer Center|accessdate=December 4, 2017}}</ref>
+
+[[Craig B. Thompson]], oncologist and researcher, was appointed MSK's president and CEO in 2010.<ref>{{cite web|url=http://www.mskcc.org/mskcc/html/99913.cfm |title=Craig Thompson Named President of Memorial Sloan-Kettering Cancer Center|publisher=Memorial Sloan Kettering Cancer Center |date=August 10, 2010 |accessdate=January 10, 2013}}</ref> The following year, MSK was rated the third most successful nonprofit in terms of FDA-approved drugs and vaccines, behind the National Institutes of Health and the University of California system.<ref>{{cite journal|last1=Stevens|first1=AJ|last2=Jensen|first2=JJ|last3=Wyller|first3=K|last4=Kilgore|first4=PC|last5=Chatterjee|first5=S|last6=Rohrbaugh|first6=ML|title=The role of public-sector research in the discovery of drugs and vaccines.|journal=The New England Journal of Medicine|date=February 10, 2011|volume=364|issue=6|pages=535–41|pmid=21306239|doi=10.1056/NEJMsa1008268|doi-access=free}}</ref> In 2012, Thompson appointed [[Jose Baselga|José Baselga]] as physician-in-chief, who directed the clinical side of MSK.<ref>{{cite news|title=Center names physician-in-chief|publisher=HemOnc Today|url=http://www.healio.com/hematology-oncology/practice-management/news/print/hemonc-today/%7B20593db8-bd40-4c49-970a-9fe52a576835%7D/center-names-physician-in-chief|date=November 10, 2012}}</ref> That same year, a collaboration with [[IBM]]'s [[Watson (computer)|Watson]] was announced with the goal of developing new tools and resources to better tailor diagnostic and treatment recommendations for patients.<ref>{{cite book|title=Memorial Sloan-Kettering Cancer Center Annual Report, 2013|page=5}}</ref> The director of SKI, the research arm of MSK, [[Joan Massagué]] was appointed in 2013.<ref>{{cite news|last1=Barajas|first1=Carlos|title=El español Joan Massagué, al frente del Sloan-Kettering de Nueva York|work=El Mundo|date=November 26, 2013|url=http://www.elmundo.es/salud/2013/11/26/52949c7761fd3d453b8b459e.html}}</ref> Baselga resigned in September 2018 after information came out regarding millions of dollars he received from pharmaceutical companies without disclosing a financial conflict of interest.<ref>{{cite news |title=Why do medical journals keep taking authors at their word? - STAT |url=https://www.statnews.com/2018/09/14/jose-baselga-doctors-industry-conflict/ |accessdate=14 September 2018 |work=STAT |date=14 September 2018}}</ref><ref>{{cite news |title=MSK Cancer Center Orders Staff to 'Do a Better Job' of Disclosing Industry Ties |url=https://www.nytimes.com/2018/09/09/health/cancer-memorial-sloan-kettering-disclosure.html? |accessdate=14 September 2018 |language=en}}</ref>
+
+In 2017, the [[Food and Drug Administration]] approved an MSK-developed immunotherapy, CAR-T, for certain applications in [[leukemia]]<ref>{{Cite web|url=https://www.fda.gov/news-events/press-announcements/fda-approves-car-t-cell-therapy-treat-adults-certain-types-large-b-cell-lymphoma|title=FDA approves CAR-T cell therapy to treat adults with certain types of large B-cell lymphoma|last=Commissioner|first=Office of the|date=2019-09-10|website=FDA|language=en|access-date=2019-10-15}}</ref><ref>{{Cite web|url=https://www.mskcc.org/blog/model-ts-fda-approves-first-car-t-cells-cancer|title=FDA Approves First CAR T Cell Therapy for Leukemia|last1=Wednesday|first1=Matthew Tontonoz|last2=August 30|website=Memorial Sloan Kettering Cancer Center|language=en|access-date=2019-10-15|last3=2017}}</ref><ref>{{Cite news|url=https://www.wired.com/story/how-scientists-built-living-drug-to-beat-cancer/|title=How Scientists Built a 'Living Drug' to Beat Cancer|work=Wired|access-date=2019-10-29|language=en|issn=1059-1028}}</ref> and [[lymphoma]].<ref>{{Cite web|url=https://www.genengnews.com/insights/cell-therapy-manufacturing-tries-building-the-plane-while-flying-it/|title=Cell Therapy Manufacturing Tries "Building the Plane While Flying It"|date=2019-10-01|website=GEN - Genetic Engineering and Biotechnology News|language=en-US|access-date=2019-10-29}}</ref><ref>{{Cite web|url=https://www.mskcc.org/blog/fda-approves-car-cell-therapy-non-hodgkin-lymphoma|title=FDA Approves CAR T Cell Therapy for Non-Hodgkin Lymphoma|last1=Thursday|first1=Matthew Tontonoz|last2=October 19|website=Memorial Sloan Kettering Cancer Center|language=en|access-date=2019-10-15|last3=2017}}</ref> The FDA approved the first academic or commercial tumor identification test MSK-IMPACT in November 2018.<ref>{{Cite web|url=https://www.mskcc.org/msk-impact|title=MSK-IMPACT: A Targeted Test for Mutations in Both Rare and Common Cancers|website=Memorial Sloan Kettering Cancer Center|language=en|access-date=2019-10-15}}</ref><ref>{{Cite web|url=https://www.cancer.gov/news-events/cancer-currents-blog/2018/tisagenlecleucel-fda-lymphoma|title=Tisagenlecleucel (Kymriah) Approved to Treat Some Lymphomas|date=2018-05-22|website=National Cancer Institute|language=en|access-date=2019-10-15}}</ref>
+
+MSK has expanded into regional sites including Westchester (NY), Commack (Long Island), Hauppauge (Long Island), Rockville Centre (Long Island), Nassau (Long Island), Bergen (NJ), Monmouth (NJ), and Basking Ridge (NJ).<ref>{{cite web|url=https://www.mskcc.org/locations|title=Memorial Sloan Kettering Cancer Center Regional Sites|accessdate=October 27, 2019}}</ref>
+
+MSK currently employs over 1,200 physicians and treats patients with approximately 400 types of cancer annually.<ref name="mskcc.org1">{{cite web|url=https://www.mskcc.org/history-milestones|title=History & Milestones|publisher=Memorial Sloan Kettering Cancer Center|accessdate=November 14, 2019}}</ref>
+
+==Associated facilities and programs==
+[[File:Bendheim Sloan-Kettering 1 Av 74 St jeh.jpg|thumb|Bendheim Integrative Medicine Center]]
+The Memorial Sloan Kettering Bendheim Integrative Medicine Center occupies 1429 [[First Avenue (Manhattan)|First Avenue]] on the corner of [[74th Street (Manhattan)|East 74th Street]] in Manhattan. The former bank was built in the 1930s by [[Perkins Eastman|Perkins and Will]] as architects. It was remodeled for use by Memorial Sloan Kettering in 1997.<ref>{{cite book|url=https://books.google.com/books?id=MTJlkowOwA4C&q=memoria+sloan-kettering+international+center&pg=PT3563 |title=AIA Guide to New York City |author1=Norval White |author2=Elliot Willensky |author3=Fran Leadon |date= 2010-06-14|accessdate=January 10, 2013|isbn=9780199758647 }}</ref>
+
+The Center for Image-Guided Intervention was opened in June 2010 in the Memorial Hospital building to oversee image guiding activities across MSK. In October 2012, the Sillerman Center for Rehabilitation was opened, moving rehabilitation out of Memorial Hospital and closer to the Rockefeller Outpatient Pavilion.<ref>{{Cite web|url=https://www.mskcc.org/blog/new-facility-eases-patient-experience-and-promotes-collaborative-treatment-and-research|title=New Facility Eases Patient Experience and Promotes Collaborative Treatment and Research|last1=Thursday|last2=July 1|website=Memorial Sloan Kettering Cancer Center|language=en|access-date=2019-10-15|last3=2010}}</ref><ref>{{Cite web|url=https://www.mskcc.org/blog/msk-opens-outpatient-rehabilitation|title=Memorial Sloan Kettering Opens Outpatient Rehabilitation Center|last1=Friday|last2=October 1|website=Memorial Sloan Kettering Cancer Center|language=en|access-date=2019-10-15|last3=2010}}</ref>
+
+The New York Proton Center opened in 2019 as a partnership between Memorial Sloan Kettering, Montefiore Health, and Mount Sinai Health. The center was the first Proton therapy center to open in New York State.<ref>{{Cite web|date=2019-11-20|title=Trio Of Medical Networks Join Forces To Fight Cancer With New Proton Center In Harlem|url=https://newyork.cbslocal.com/2019/11/20/trio-of-medical-networks-join-forces-to-fight-cancer-with-new-proton-center-in-harlem/|access-date=2020-10-26|language=en-US}}</ref><ref>{{Cite web|title=New York Proton Center {{!}} Memorial Sloan Kettering Cancer Center|url=https://www.mskcc.org/about/innovative-collaborations/new-york-proton-center|access-date=2020-10-26|website=www.mskcc.org|language=en}}</ref> The David H. Koch Center for Cancer Care at Memorial Sloan Kettering Cancer Center opened at 524 East 74th Street between York Avenue and the FDR Drive January 2020. Perkins Eastman designed 750,000sq ft facility in collaboration with Ennead Architects, and ICRAVE.<ref>{{Cite web|title=New York City's largest freestanding cancer center opens|url=https://www.bdcnetwork.com/new-york-city%E2%80%99s-largest-freestanding-cancer-center-opens|access-date=2020-10-26|website=Building Design + Construction|language=en}}</ref><ref>{{Cite web|date=2019-12-10|title=MSK to open $1.5B Koch Center for Cancer Care|url=https://www.crainsnewyork.com/health-pulse/msk-open-15b-koch-center-cancer-care|access-date=2020-10-26|website=Crain's New York Business|language=en}}</ref><ref>{{Cite web|last=Herman|first=Gabe|title=New cancer center opens next month on Upper East Side|url=https://www.amny.com/health/new-cancer-center-opens-next-month-on-upper-east-side/|access-date=2020-10-26|website=amNewYork|language=en-US}}</ref>
+
+== Training ==
+Approximately 1,700 medical residents and Fellows are in training at MSK. There are 575 postdoctoral researchers training at MSK labs and a combined 288 PhD and MD-PhD candidates.<ref name="mskcc.org1"/>
+
+In 2004, the [[Louis V. Gerstner, Jr.]] Graduate School of Biomedical Sciences was opened at Memorial Sloan Kettering Cancer Center.<ref>{{cite book|title=Memorial Sloan-Kettering Cancer Center Annual Report, 2005|page=3}}</ref> The first students graduated in 2012.<ref>{{cite web|url=https://www.mskcc.org/blog/first-four-students-receive-doctoral-degrees-gerstner-graduate-school-biomedical-sciences|title=First Four Students Receive Doctoral Degrees from Louis V. Gerstner, Jr. Graduate School of Biomedical Sciences|publisher=Memorial Sloan Kettering Cancer Center|accessdate=December 4, 2017}}</ref> As of January 2019, the dean of the graduate school is cell biologist Michael Overholtzer. The founding dean, serving for over a decade, was molecular biologist Ken Marians.<ref>{{cite web|url=https://www.mskcc.org/blog/msk-graduate-school-welcomes-new-dean-bids-farewell-first?_subsite=research-ski |title=MSK's Graduate School Welcomes New Dean, Bids Farewell to Its First |publisher=Memorial Sloan Kettering Cancer Center|accessdate=February 6, 2019}}</ref>
+
+The [[Tri-Institutional MD–PhD Program]] is a partnership of MSKCC, [[Weill Cornell Medicine]], and [[The Rockefeller University]]. The dual degree program takes advantage of the close proximity of these three institutions for collaboration on biomedical research and medical training. MSKCC also has an academic partnership with Weill Cornell Medicine known as the [[Weill Cornell Graduate School of Medical Sciences]].<ref>{{cite web |title=Graduate School of Medical Sciences {{!}} Weill Cornell Medicine |url=https://gradschool.weill.cornell.edu/ |website=gradschool.weill.cornell.edu |accessdate=12 July 2019}}</ref>
+
+== Notable faculty ==
+===Presidents===
+* [[Craig B. Thompson]], 2010–
+* [[Harold Varmus]], 2000–2010
+* [[Paul Marks (scientist)|Paul A. Marks]], 1980–1999
+* [[Lewis Thomas]], 1973–1980
+* [[David Walsh (scientist)|David Walsh]], 1971–1973
+* [[Richard D. Vanderwarker]], 1962–1971
+* [[John R. Heller]], 1960–1961
+===Others===
+{{div col|colwidth=22em}}
+* [[James P. Allison]]
+* [[Murray Brennan]]
+* [[Samuel Danishefsky]] 
+* [[Nori Dattatreyudu]]
+* [[Jeffrey Drebin]]
+* [[Roger Granet]]
+* [[Jimmie C. Holland]]
+* [[David Kissane]]
+* [[Iris Long]]
+* [[Scott W. Lowe]]
+* [[Joan Massagué]]
+* [[Kenneth Offit]]
+* [[Nikola P. Pavletich]]
+* [[Mark S. Ptashne]]
+* [[James Rothman]]
+* [[Alexander Rudensky]]
+* [[Charles Sawyers]]
+* [[Lorenz Studer]]
+{{div col end}}
+
+==Reputation==
+In 2015 [[American Institute of Philanthropy|Charity Watch]] rated Memorial Sloan Kettering Cancer Center an "A".<ref name="Charity Watch">{{cite web|title=Charity Ratings|url=https://www.charitywatch.org/ratings-and-metrics/memorial-sloan-kettering-cancer-center/137|website=charitywatch.org|accessdate=April 5, 2016}}</ref> Heads of the charity received $2,107,939 to $2,639,669 salary/compensation from the charity. CEO Craig B. Thompson received $2,554,085 salary/compensation from the charity.<ref name="Charity Watch"/>
+
+==See also==
+*[[Weill Cornell Graduate School of Medical Sciences]]
+*[[Tri-Institutional MD–PhD Program]]
+*[[National Comprehensive Cancer Network]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{cite web|url=https://www.sloankettering.edu|title=Gerstner Sloan–Kettering Graduate School of Biomedical Sciences|website=Sloan Kettering}}
+*{{cite web|url=http://weill.cornell.edu/gradschool|title=Weill Cornell Graduate School of Medical Sciences|website=Cornell}}
+*{{cite web|url=https://www.mskcc.org/research/ski|title=Sloan Kettering Institute|website=MSKCC}}
+*{{cite web|url=https://library.mskcc.org/|title=Memorial Sloan Kettering Cancer Center Library|website=MSKCC}}
+
+{{Hospitals in New York City}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Memorial Sloan Kettering Cancer Center}}
+[[Category:Memorial Sloan Kettering Cancer Center| ]]
+[[Category:Hospitals established in 1884]]
+[[Category:Buildings and structures completed in 1973]]
+[[Category:Cancer hospitals]]
+[[Category:Hospitals in Manhattan]]
+[[Category:Institutions founded by the Rockefeller family]]
+[[Category:Universities and colleges in Manhattan]]
+[[Category:Charles F. Kettering]]
+[[Category:Upper East Side]]
+[[Category:Medical research institutes in the United States]]
+[[Category:NCI-designated cancer centers]]
+[[Category:1884 establishments in New York (state)]]
+[[Category:Children's Oncology Group members]]

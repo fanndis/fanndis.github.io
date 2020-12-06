@@ -1,0 +1,238 @@
+{{short description|Compact composite lens}}
+{{Use dmy dates|date=March 2020}}
+[[File:Fresnel Lens at Point Arena Lighthouse Museum.jpg|thumb|upright|First-order lighthouse Fresnel lens, on display at the Point Arena Lighthouse Museum, [[Point Arena Lighthouse]], [[Mendocino County, California]] ]]
+
+A '''Fresnel lens''' ({{IPAc-en|'|f|r|ei|n|-|,_|'|f|r|E|n|.|E|l|,_|-|@l}} {{respell|FRAYN|-,_|FREN|el|,_-|əl}}, {{IPAc-en|f|r|eɪ|ˈ|n|ɛ|l}} {{respell|fray|NEL}} or {{IPAc-en|'|f|r|ɛ|z|n|əl}} {{respell|FREZ|nəl}}) is a type of composite compact [[lens (optics)|lens]] originally developed by French physicist [[Augustin-Jean Fresnel]] (1788–1827) for [[lighthouse]]s.<ref>{{cite dictionary |url=http://www.merriam-webster.com/dictionary/fresnel%20lens |title=Fresnel lens |dictionary=[[Merriam-Webster]] |accessdate=19 March 2013 |url-status=live |archiveurl=https://web.archive.org/web/20131217120005/http://www.merriam-webster.com/dictionary/fresnel%20lens |archivedate=17 December 2013}}</ref><ref>{{cite book|last=Wells|first=John|authorlink=John C. Wells|title=Longman Pronunciation Dictionary|publisher=Pearson Longman|edition=3rd|date=3 April 2008|isbn=978-1-4058-8118-0}}</ref> It has been called "the invention that saved a million ships."<ref>{{Cite news|url=http://www.bbc.com/travel/story/20190620-the-invention-that-saved-a-million-ships |title=The invention that saved a million ships |last=Bernhard |first=Adrienne |publisher=BBC |date=21 June 2019 |access-date=2019-08-04}}</ref>
+
+The design allows the construction of lenses of large [[aperture]] and short [[focal length]] without the mass and volume of material that would be required by a lens of conventional design.  A Fresnel lens can be made much thinner than a comparable conventional lens, in some cases taking the form of a flat sheet. A Fresnel lens can capture more oblique light from a light source, thus allowing the light from a lighthouse equipped with one to be visible over greater distances.
+
+==History==
+{{further|Augustin-Jean Fresnel#Lighthouses and the Fresnel lens}}
+The idea of creating a thinner, lighter lens in the form of a series of annular steps is often attributed to [[Georges-Louis Leclerc, Comte de Buffon]].<ref>{{cite journal |url=http://search.eb.com/eb/article-9035385 |title=Fresnel lens |work=[[Encyclopædia Britannica]] |date=2012 |publisher=Encyclopædia Britannica Online. Encyclopædia Britannica Inc |accessdate=5 July 2012}}</ref> Whereas Buffon proposed grinding such a lens from a single piece of glass, the [[Marquis de Condorcet]] (1743–1794) proposed making it with separate sections mounted in a frame.<ref name=appleton>{{cite journal| title =Fresnel lens |journal=Appleton's Dictionary of Machines, Mechanics, Engine-work, and Engineering|volume=2  |location=New York |date=1874|page=609 |url =https://books.google.com/books?id=ti9VAAAAMAAJ&pg=PA609 |publisher=D. Appleton and Co}}</ref> French physicist and engineer [[Augustin-Jean Fresnel]] is most often given credit for the development of the multi-part lens for use in lighthouses.  According to ''[[Smithsonian (magazine)|Smithsonian]]'' magazine, the first Fresnel lens was used in 1823 in the [[Cordouan lighthouse]] at the mouth of the [[Gironde estuary]]; its light could be seen from more than {{convert|20|mi|km}} out.<ref>Watson, Bruce. "Science Makes a Better Lighthouse Lens." ''Smithsonian''. August 1999 v30 i5 p30. produced in ''Biography Resource Center''. Farmington Hills, Mich.: Thomson Gale. 2005.</ref> Scottish physicist Sir [[David Brewster]] is credited with convincing the United Kingdom to adopt these lenses in their lighthouses.<ref>[http://search.eb.com/eb/article-9016395 "Brewster, Sir David."] ''Encyclopædia Britannica''. 2005. Encyclopædia Britannica Online.  11 November 2005.</ref><ref>"David Brewster." ''World of Invention'', 2nd ed. Gale Group, 1999.</ref>
+
+== Description ==
+{{multiple image
+   | width     =
+   | footer    =
+   | image1    = Fresnel lighthouse lens diagram.png
+   | width1  = {{#expr: (240 * 492 / 578) round 0}}
+   | alt1      = How a spherical Fresnel lens collimates light
+   | caption1  = How a spherical Fresnel lens [[Collimated light|collimates light]]
+   | image2    = Fresnel lens.svg
+   | width2   = {{#expr: (240 * 535 / 800) round 0}}
+   | alt2      = 1 Cross section of a spherical Fresnel len, 2 Cross section of a conventional spherical lens
+   | caption2  = 1: Cross section of a spherical Fresnel lens<br>2: Cross section of a conventional spherical [[Lens (optics)#Types of simple lenses|plano-convex lens]] of equivalent power
+  }}
+[[File:Flat flexible plastic sheet lens.JPG|thumb|Close-up view of a flat Fresnel lens shows concentric circles on the surface]]
+
+The Fresnel lens reduces the amount of material required compared to a conventional lens by dividing the lens into a set of concentric annular sections. An ideal Fresnel lens would have an infinite number of sections. In each section, the overall thickness is decreased compared to an equivalent simple lens. This effectively divides the continuous surface of a standard lens into a set of surfaces of the same curvature, with stepwise discontinuities between them.
+
+In some lenses, the curved surfaces are replaced with flat surfaces, with a different angle in each section. Such a lens can be regarded as an array of prisms arranged in a circular fashion, with steeper prisms on the edges, and a flat or slightly convex center. In the first (and largest) Fresnel lenses, each section was actually a separate prism.  'Single-piece' Fresnel lenses were later produced, being used for automobile headlamps, brake, parking, and turn signal lenses, and so on.  In modern times, [[CNC|computer-controlled milling equipment (CNC)]] might be used to manufacture more complex lenses.
+
+Fresnel lens design allows a substantial reduction in thickness (and thus mass and volume of material), at the expense of reducing the imaging quality of the lens, which is why precise imaging applications such as photography usually still use larger conventional lenses.
+
+Fresnel lenses are usually made of glass or plastic; their size varies from large (old historical lighthouses, meter size) to medium (book-reading aids, OHP viewgraph projectors) to small ([[Twin-lens reflex camera|TLR]]/[[Single-lens reflex camera|SLR]] camera screens, micro-optics). In many cases they are very thin and flat, almost flexible, with thicknesses in the {{convert|1|to|5|mm|in|abbr=on|sigfig=1}} range.
+
+Modern Fresnel lenses usually consist of all refractive elements.  However many of the lighthouses have both refracting and reflecting elements, as shown in the photographs and diagram.  That is, the outer elements are sections of reflectors while the inner elements are sections of refractive lenses. [[Total internal reflection]] was often used to avoid the light loss in reflection from a silvered mirror.
+
+{{anchor|Sizes of lighthouse lenses}}<!-- This is linked to by several redirects [[First order Fresnel lens]], [[Second order Fresnel lens]], [[Third order Fresnel lens]], [[Fourth order Fresnel lens]], [[Fifth order Fresnel lens]], [[Sixth order Fresnel lens]], [[Seventh order Fresnel lens]], [[Eighth order Fresnel lens]]
+-->
+
+=== Lighthouse lens sizes ===
+[[File:Makapuu point light.JPG|thumb|upright|Makapuu Point Light]]
+[[File:Cape Meares Lighthouse lens - Oregon.jpg|thumb|upright|[[Cape Meares Lighthouse]]; first-order Fresnel lens]]
+
+Fresnel produced six sizes of lighthouse lenses, divided into four ''orders'' based on their size and focal length.<ref name="Baiges">{{cite web
+ |url         = http://memory.loc.gov/cgi-bin/displayPhoto.pl?path=/pnp/habshaer/ri/ri0300/ri0392/sheet&topImages=00008a.gif&topLinks=00008r.tif,00008a.tif
+ |title       = Fresnel Orders
+ |accessdate  = 9 September 2012
+ |first       = Mabel A. | last = Baiges
+ |date        = 1988
+ |format      = TIFF
+ |url-status  = live
+ |archiveurl  = https://web.archive.org/web/20150921173248/http://memory.loc.gov/cgi-bin/displayPhoto.pl?path=%2Fpnp%2Fhabshaer%2Fri%2Fri0300%2Fri0392%2Fsheet&topImages=00008a.gif&topLinks=00008r.tif%2C00008a.tif
+ |archivedate = 21 September 2015}}</ref> In modern use, these are classified as first through sixth order. An intermediate size between third and fourth order was added later, as well as sizes above first order and below sixth.
+
+A first-order lens has a focal length of 920&nbsp;mm (36&nbsp;in) and a maximum diameter 2590&nbsp;mm (8.5&nbsp;ft) high.  The complete assembly is about 3.7&nbsp;m (12&nbsp;ft) tall and 1.8&nbsp;m (6&nbsp;ft) wide.  The smallest (sixth-order) has a focal length of 150&nbsp;mm (5.9&nbsp;in) and an optical diameter 433&nbsp;mm (17&nbsp;in) high.<ref name="Baiges" /><ref>{{cite web|url=http://www.marinecitymich.org/Blank%20Page.htm |title=Fresnel lenses |accessdate=1 June 2007 |url-status=dead |archiveurl=https://web.archive.org/web/20070927021951/http://www.marinecitymich.org/Blank%20Page.htm |archivedate=27 September 2007 }}</ref><ref>{{cite web |url=http://www.michiganlights.com/fresnel.htm |title=Fresnel lenses |date=31 January 2008 |publisher=Michigan Lighthouse Conservancy |accessdate=9 September 2012 |url-status=live |archiveurl=https://web.archive.org/web/20120921153832/http://www.michiganlights.com/fresnel.htm |archivedate=21 September 2012}}</ref>
+
+The largest Fresnel lenses are called [[hyperradiant Fresnel lens]]es. One such lens was on hand when it was decided to build and outfit the [[Makapuu Point Light]] in Hawaii.  Rather than order a new lens, the huge optic construction, {{convert|12|ft|m|order=flip}} tall and with over a thousand prisms, was used there.<ref name="LHF">{{cite web|url=http://www.lighthousefriends.com/light.asp?ID=141|title=Makapu'u, HI|publisher=Anderson, Kraig. Lighthouse Friends|accessdate=26 February 2009|url-status=live|archiveurl=https://web.archive.org/web/20081005185157/http://www.lighthousefriends.com/light.asp?ID=141|archivedate=5 October 2008}}</ref>
+
+{|class="wikitable sortable collapsible" cellpadding=4
+|+Lighthouse lens orders <ref>[https://uslhs.org/fresnel-lens-orders-sizes-weights-quantities-and-costs United States Lighthouse Society 'Fresnel Lens Orders, Sizes, Weights, Quantities and Costs']</ref>
+! Order
+! Focal length&nbsp;<br>(mm)
+! Height<br>(m)
+! First installed
+|-
+| Eighth
+| 
+|
+|
+|-
+| Seventh
+|
+|
+|
+|-
+| Sixth
+| 150
+| 0.433
+|
+|-
+| Fifth
+| 187.5
+| 0.541
+|
+|-
+| Fourth
+| 250
+| 0.722
+|
+|-
+| {{frac|3|1|2}}
+| 375
+| 
+|
+|-
+| Third
+| 500
+| 1.576
+|
+|-
+| Second
+| 700
+| 2.069
+|
+|-
+| First
+| 920
+| 2.59
+|
+|-
+| Mesoradial
+| 1125
+|
+|
+|-
+| Hyperradial
+| 1330
+|
+| 1879
+|}
+<gallery>
+Image:1st order Fresnel lighthouse lens.jpg|First-order lens
+File:Ponce Inlet Lighthouse lenses tall pano01.jpg|First-order lens on the left
+File:Fresnel Lens - Martha's Vineyard Museum - July 2019.jpg|First-order lens ([[Martha's Vineyard Museum]])
+Image:Lighthouse Lens.jpg|Close-up of a second-order lens
+File:St. Simons Lighthouse, close-up of top, Georgia, USA.JPG|Third-order lens ([[St. Simons Island Light]])
+
+File:Fresnel Lens front view.jpg|Third and 1⁄2-order lens ([[Marblehead Light (Ohio)|Marblehead Light]])
+
+Image:Oita_sekizaki_lighthouse_old_lense.jpg|Fourth-order lens (Sekizaki Lighthouse, [[Ōita, Ōita|Oita]], Japan)
+Image:Fourth Order Fresnel Lens, Nobska.jpg|Fourth-order lens ([[Nobska Light]])
+File:EspichelVideo1.webm|Fourth-order lens ([[Cape Espichel Lighthouse]], Portugal)
+File:Fresnel lens, 5th order, used in Jones Point lighthouse, 1800s - The Lyceum - Alexandria, Virginia - DSC03500.JPG|Fifth-order lens ([[Jones Point Light]])
+File:Ponce de Leon Inlet Lighthouse Lens Museum - Replica 6th Order Lens - March 2016 (25919436890).jpg|Sixth-order lens ([[Ponce de Leon Inlet Light]])
+</gallery>
+
+==Types==
+There are two main types of Fresnel lens: ''imaging'' and ''non-imaging''. Imaging Fresnel lenses use segments with curved cross-sections and produce sharp images, while non-imaging lenses have segments with flat cross-sections, and do not produce sharp images.<ref>''Nonimaging Optics'' by R. Winston, J. C. Miñano, and P. G. Benítez, (Academic, 2005).</ref> As the number of segments increases, the two types of lens become more similar to each other. In the abstract case of an infinite number of segments, the difference between curved and flat segments disappears.
+
+===Imaging===
+;Spherical: A spherical Fresnel lens is equivalent to a [[simple lens|simple]] [[spherical lens]], using ring-shaped segments that are each a portion of a sphere, that all focus light on a single point. This type of lens produces a sharp image, although not quite as clear as the equivalent simple spherical lens due to diffraction at the edges of the ridges.
+
+;Cylindrical: A cylindrical Fresnel lens is equivalent to a simple [[cylindrical lens]], using straight segments with circular cross-section, focusing light on a single line.  This type produces a sharp image, although not quite as clear as the equivalent simple cylindrical lens due to diffraction at the edges of the ridges.
+
+===Non-imaging===
+;Spot: A non-imaging spot Fresnel lens uses ring-shaped segments with cross sections that are straight lines rather than circular arcs. Such a lens can focus light on a small spot, but does not produce a sharp image. These lenses have application in solar power, such as focusing sunlight on a solar panel. Fresnel lenses may be used as components of [[Köhler illumination]] optics resulting in very effective [[nonimaging optics]] Fresnel-Köhler (FK) solar concentrators.<ref name="IntroNio2e">{{cite book | first = Julio | last = Chaves | title = Introduction to Nonimaging Optics, Second Edition | url = https://books.google.com/books?id=e11ECgAAQBAJ | publisher = [[CRC Press]] | year = 2015 | isbn = 978-1482206739}}</ref>
+
+;Linear: A non-imaging linear Fresnel lens uses straight segments whose cross sections are straight lines rather than arcs. These lenses focus light into a narrow band.  They do not produce a sharp image, but can be used in solar power, such as for focusing sunlight on a pipe, to heat the water within: [http://www.bhlens.com/image/linearfresnel.gif].
+
+==Uses==
+
+===Imaging===
+[[File:Magnifying-fresnel-lens.jpg|thumb|right|A plastic Fresnel lens sold as a TV-screen enlarging device]]
+[[File:SinclairFTV1fresnellens1.JPG|thumb|The Fresnel lens used in the [[TV80|Sinclair FTV1]] portable CRT TV, which enlarges the vertical aspect of the display only]]
+Fresnel lenses are used as simple hand-held [[Magnifying glass|magnifiers]]. They are also used to correct several visual disorders, including ocular-motility disorders such as [[strabismus]].<ref>{{cite document |last1=Shishavanf |first1=Amir Asgharzadeh |last2=Nordin |first2=Leland |last3=Tjossem |first3=Paul |last4=Abramoff |first4=Michael D. |last5=Toor |first5=Fatima |editor3-first=Nikolay I |editor3-last=Zheludev |editor2-first=Mikhail A |editor2-last=Noginov |editor1-first=Nader |editor1-last=Engheta |title=PMMA-based ophthalmic contact lens for vision correction of strabismus |series=Metamaterials, Metadevices, and Metasystems 2016 |year=2016 |volume=9918 |pages=99180C |url=https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9918/1/PMMA-based-ophthalmic-contact-lens-for-vision-correction-of-strabismus/10.1117/12.2237994.short?SSO=1 |publisher=Society of Photo-Optical Instrumentation Engineers |doi=10.1117/12.2237994 |s2cid=125689110 |accessdate=21 June 2020}}</ref> Fresnel lenses have been used to increase the visual size of [[cathode ray tube|CRT]] displays in pocket [[television]]s, notably the [[Sinclair Research Ltd.|Sinclair]] [[TV80]]. They are also used in [[traffic light]]s.
+
+Fresnel lenses are used in left-hand-drive European [[Lorry|lorries]] entering the UK and Republic of Ireland (and vice versa, right-hand-drive Irish and British trucks entering mainland Europe) to overcome the blind spots caused by the driver operating the lorry while sitting on the wrong side of the cab relative to the side of the road the car is on. They attach to the passenger-side window.<ref>{{Cite book|url=https://books.google.com/books?id=XG4du9fwEUYC&q=vosa%20fresnel%20lenses&pg=PA321|title=Lowe's Transport Manager's and Operator's Handbook 2012|last=Lowe|first=David|date=2011-12-03|publisher=[[Kogan Page Publishers]]|isbn=9780749464103}}</ref>
+
+Another automobile application of a Fresnel lens is a rear view enhancer, as the [[Wide-angle lens|wide view angle]] of a lens attached to the rear window permits examining the scene behind a vehicle, particularly a tall or bluff-tailed one, more effectively than a [[rear-view mirror]] alone.
+
+Multi-focal Fresnel lenses are also used as a part of [[retinal scan|retina identification]] cameras, where they provide multiple in- and out-of-focus images of a fixation target inside the camera. For virtually all users, at least one of the images will be in focus, thus allowing correct eye alignment.
+
+Fresnel lenses have also been used in the field of popular entertainment. The British rock artist [[Peter Gabriel]] made use of them in his early solo live performances to magnify the size of his head, in contrast to the rest of his body, for dramatic and comic effect. In the [[Terry Gilliam]] film ''[[Brazil (1985 film)|Brazil]]'', plastic Fresnel screens appear ostensibly as magnifiers for the small CRT monitors used throughout the offices of the Ministry of Information. However, they occasionally appear between the actors and the camera, distorting the scale and composition of the scene to humorous effect. The [[Pixar]] movie [[Wall-E]] features a Fresnel lens in the scenes where the protagonist watches the musical [[Hello, Dolly! (film)|Hello, Dolly!]] magnified on an [[iPod]].
+
+====Photography====
+
+[[Canon Inc.|Canon]] and [[Nikon]] have used Fresnel lenses to reduce the size of telephoto lenses. Photographic lenses that include Fresnel elements can be much shorter than corresponding conventional lens design. Nikon calls their technology ''Phase Fresnel''.<ref>[http://www.nikon.com/news/2015/0106_lens_02.htm Nikon] {{webarchive|url=https://web.archive.org/web/20150215091950/http://www.nikon.com/news/2015/0106_lens_02.htm |date=15 February 2015 }}</ref><ref>[http://www.the-digital-picture.com/News/News-Post.aspx?News=14218 The Digital Picture] {{webarchive|url=https://web.archive.org/web/20150114054256/http://www.the-digital-picture.com/News/News-Post.aspx?News=14218 |date=14 January 2015 }}</ref>
+
+The [[Polaroid SX-70]] camera used a Fresnel reflector as part of its viewing system.
+
+[[View camera|View]] and [[large format]] cameras can utilize a Fresnel lens in conjunction with the [[ground glass]], to increase the perceived brightness of the image projected by a lens onto the ground glass, thus aiding in adjusting focus and composition.
+
+===Illumination===
+[[File:Inchkeith lighthouse Fresnel lens.JPG|thumb|upright=0.3|Inchkeith lighthouse lens and drive mechanism]]
+
+High-quality glass Fresnel lenses were used in lighthouses, where they were considered state of the art in the late 19th and through the middle of the 20th centuries; most lighthouses have now retired them from service.{{citation needed|date=September 2020}} Lighthouse Fresnel lens systems typically include extra annular [[Prism (optics)|prismatic]] elements, arrayed in faceted domes above and below the central planar Fresnel, in order to catch all light emitted from the light source.  The light path through these elements can include an [[internal reflection]], rather than the simple [[refraction]] in the planar Fresnel element.  These lenses conferred many practical benefits upon the designers, builders, and users of lighthouses and their illumination.  Among other things, smaller lenses could fit into more compact spaces.  Greater light transmission over longer distances, and varied patterns, made it possible to triangulate a position.{{citation needed|date=September 2020}}
+
+Perhaps the most widespread use of Fresnel lenses, for a time, occurred in [[automobile]] [[headlamp]]s, where they can shape the roughly parallel beam from the parabolic reflector to meet requirements for dipped and main-beam patterns, often both in the same headlamp unit (such as the European [[H4 lamp|H4]] design). For reasons of economy, weight, and impact resistance, newer cars have dispensed with glass Fresnel lenses, using [[multifaceted reflector]]s with plain [[polycarbonate]] lenses.  However, Fresnel lenses continue in wide use in automobile tail, marker, and reversing lights.
+
+Glass Fresnel lenses also are used in lighting instruments for [[theatre]] and [[motion pictures]] (see [[Fresnel lantern]]); such instruments are often called simply ''Fresnels''. The entire instrument consists of a metal housing, a reflector, a lamp assembly, and a Fresnel lens. Many Fresnel instruments allow the lamp to be moved relative to the lens' [[Focus (optics)|focal point]], to increase or decrease the size of the light beam. As a result, they are very flexible, and can often produce a beam as narrow as 7° or as wide as 70°.<ref>Mum, Robert C., ''Photometrics Handbook''. Broadway Press. 2nd Edition. Page 36.</ref> The Fresnel lens produces a very soft-edged beam, so is often used as a wash light. A holder in front of the lens can hold a colored plastic film (''gel'') to tint the light or wire screens or frosted plastic to diffuse it. The Fresnel lens is useful in the making of motion pictures not only because of its ability to focus the beam brighter than a typical lens, but also because the light is a relatively consistent intensity across the entire width of the beam of light.
+
+[[File:Optical Landing System, night, aboard USS Dwight D. Eisenhower (CVN-69).jpg|thumb|[[Optical landing system]] on US Navy aircraft carrier [[USS Dwight D. Eisenhower|USS ''Dwight D. Eisenhower'']]]]
+
+[[Aircraft carrier]]s and naval air stations typically use Fresnel lenses in their [[optical landing system]]s.  The "meatball" light aids the pilot in maintaining proper glide slope for the landing. In the center are amber and red lights composed of Fresnel lenses. Although the lights are always on, the angle of the lens from the pilot's point of view determines the color and position of the visible light. If the lights appear above the green horizontal bar, the pilot is too high. If it is below, the pilot is too low, and if the lights are red, the pilot is very low.{{citation needed|date=September 2020}}
+
+===Projection===
+The use of Fresnel lenses for image projection reduces image quality, so they tend to occur only where quality is not critical or where the bulk of a solid lens would be prohibitive. Cheap Fresnel lenses can be stamped or molded of transparent plastic and are used in [[overhead projector]]s and [[projection television]]s.
+
+Fresnel lenses of different focal lengths (one [[collimator]], and one collector) are used in commercial and [[DIY]] projection. The collimator lens has the lower focal length and is placed closer to the light source, and the collector lens, which focuses the light into the triplet lens, is placed after the projection image (an [[active matrix LCD]] panel in [[LCD projector]]s). Fresnel lenses are also used as collimators in [[overhead projector]]s.
+
+===Solar power===
+Since plastic Fresnel lenses can be made larger than glass lenses, as well as being much cheaper and lighter, they are used to concentrate sunlight for heating in [[solar cooker]]s, in solar forges, and in [[Solar thermal collector|solar collectors]] used to heat water for domestic use. They can also be used to generate steam or to power a [[Stirling engine]].
+
+Fresnel lenses can concentrate sunlight onto [[solar cell]]s with a ratio of almost 500:1.<ref>{{cite web |url=http://www.soitec.com/en/technologies/concentrix/ |title=Soitec's Concentrix technology |accessdate=3 September 2013 |url-status=dead |archiveurl=https://web.archive.org/web/20110417051836/http://www.soitec.com/en/technologies/concentrix/ |archivedate=17 April 2011}}</ref> This allows the active solar-cell surface to be reduced, lowering cost and allowing the use of more efficient cells that would otherwise be too expensive.<ref>{{cite web
+ |title       = Soitec's high-performance Concentrix technology
+ |url         = http://www.soitec.com/en/technologies/concentrix/components/
+ |accessdate  = 3 September 2013
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20130923032544/http://www.soitec.com/en/technologies/concentrix/components/
+ |archivedate = 23 September 2013}}
+</ref> In the early 21st century, Fresnel reflectors began to be used in [[concentrating solar power]] (CSP) plants to concentrate solar energy. One application was to preheat water at the coal-fired [[Liddell Power Station]], in Hunter Valley Australia.
+
+Fresnel lenses can be used to sinter sand, allowing [[3D printing]] in glass.<ref>{{cite web |url=https://motherboard.vice.com/en_us/article/this-3d-printer-runs-on-sand-and-sun |title=this 3d printer runs on sand and sun |accessdate=2017-05-18 |url-status=live |archiveurl=https://web.archive.org/web/20171201182205/https://motherboard.vice.com/en_us/article/wnxpe9/this-3d-printer-runs-on-sand-and-sun|archivedate=1 December 2017}}</ref>
+
+==See also==
+* [[Fresnel imager]]
+* [[Fresnel zone plate]]
+* [[Lenticular lens]]
+* [[Linear Fresnel reflector]]
+* [[Prism lighting]] − Fresnel anidolic optics
+
+== References ==
+{{Reflist|33em}}
+
+==Further reading==
+*"The Fresnel Lens." The Keeper's Log (Winter 1985), pp.&nbsp;12–14.
+*[http://www.uscg.mil/History/weblighthouses/aton_lighthousebib2007.pdf Lighthouses, Lenses, Illuminants, Engineering & Augustin Fresnel: A Historical Bibliography on Works Published Through 2007], United States Coast Guard.
+* [[United States Coast Guard]], ''Aids to Navigation'', (Washington, DC: [[U.S. Government Printing Office]], 1945).
+* {{cite uscgnavbib}}
+* [http://www.uscg.mil/history/weblighthouses/docs/CG_Classical_Lens_in_Operation.pdf United States Coast Guard, Fresnel Lenses Still in Operation.]
+
+==External links==
+{{Commons category|Fresnel lenses}}
+*[http://lighthousegetaway.com/lights/fresnel.html Lighthouse Getaway: Fresnel lens] (contains photographs.)
+*{{cite web|url=http://www.terrypepper.com/lights/index.htm |author=Pepper, Terry |title=''Seeing the Light: Lighthouses on the western Great Lakes'' |url-status=dead |archiveurl=https://web.archive.org/web/20080130074143/http://www.terrypepper.com/lights/index.htm |archivedate=30 January 2008  }}
+*[http://vega.org.uk/video/programme/226 How the Fresnel lens works.]
+*[https://web.archive.org/web/20090520054046/http://www.digitalartform.com/archives/2009/04/fresnel_lens_-.html A computer analysis of the Fresnel lens cross section depicted in the 'graphic examples' section of this very Wikipedia article.]
+* A [https://web.archive.org/web/20131101200701/http://www.cleanenergycouncil.org.au/technologies/solarthermal.html Compact Linear Fresnel Reflector] (CLFR) was in use at Lidell Power Station Hunter Valley Australia. (This page was archived November 2013, so this may or may not still be true) Another article dated 2008 discussing this project is [https://web.archive.org/web/20151016110029/http://ecogeneration.com.au/news/liddell_thermal_power_station_-_greening_coal-fired_power/002076/ here.]
+* Fresnel article on lighthouse lenses, 1822, online and analyzed on ''[https://www.bibnum.education.fr/physique/optique/memoire-sur-un-nouveau-systeme-d-eclairage-des-phares BibNum]'' <small>[click 'à télécharger' for English analysis]</small>
+
+{{Lighthouses}}
+
+{{DEFAULTSORT:Fresnel Lens}}
+[[Category:Lenses]]
+[[Category:Lighthouse fixtures]]
+[[Category:Solar thermal energy]]
+[[Category:French inventions]]

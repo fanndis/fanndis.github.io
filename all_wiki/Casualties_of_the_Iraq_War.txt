@@ -1,0 +1,1868 @@
+{{See also|Casualties of the Iraqi insurgency (2011–present)}}
+{{short description|Iraq war casualties}}
+{{Use mdy dates|date=August 2018}}
+{{Campaignbox Iraq War}}
+[[File:Iraq Body Count project flags.png|thumb|right|White and red flags, representing [[Iraqi people|Iraqi]] and American deaths, respectively, sit in the grass [[Quadrangle (architecture)|quadrangle]] of [[The Valley Library]] on the [[Corvallis, Oregon]], campus of [[Oregon State University]]. As part of the traveling Iraq Body Count exhibit from 2008 to 2009 (not related to [[Iraq Body Count project]]), the flags aim to "raise awareness of the human cost of the [[Iraq War]]." (May 2008)]]
+Estimates of the '''casualties from the conflict in Iraq''' (beginning with the [[2003 invasion of Iraq]], and the ensuing [[Iraqi insurgency (2003–11)|occupation and insurgency]]) have come in several forms, and those estimates of different types of [[Iraq War]] casualties vary greatly.
+
+Estimating war-related deaths poses many challenges.<ref name="Wang_et_al_2016">{{cite journal|last1=Wang|first1=Haidong|display-authors=etal|date=8-14 October 2014|title=Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980–2015: a systematic analysis for the Global Burden of Disease Study 2015|journal=The Lancet|volume=388|issue=10053|pages=1459–1544|doi=10.1016/S0140-6736(16)31012-1|pmid=27733281|pmc=5388903|quote=Indeed, it has been challenging to accurately document the number of casualties from wars and deaths resulting from malnutrition, infections, or disruption in health services during wars.}}</ref><ref name="Adhikari_et_al_2010">{{cite journal|last1=Adhikari|first1=Neill KJ|display-authors=etal|date=16-22 October 2010|title=Critical care and the global burden of critical illness in adults|journal=The Lancet|volume=376|issue=9749|pages=1339–1346|doi=10.1016/S0140-6736(10)60446-1|pmid=20934212|quote=However, during times of war, we should remember that evidence from systematic household cluster sampling suggests that most excess deaths, and, by extension, most demands for intensive care, do not arise from violence but from medical disorders resulting from the breakdown of public health infrastructure (eg, cholera), or from the discontinuation of treatment of chronic diseases caused by interruption of pharmaceutical supplies.|pmc=7136988}}</ref> Experts distinguish between population-based studies, which extrapolate from random samples of the population, and body counts, which tally reported deaths and likely significantly underestimate casualties.<ref name="Tapp_et_al_2008">{{cite journal|last1=Tapp|first1=Christine|display-authors=etal|date=7 March 2008|title=Iraq War mortality estimates: A systematic review|journal=Conflict and Health|volume=2|issue=1|pages=1|doi=10.1186/1752-1505-2-1|pmid=18328100|pmc=2322964|quote=Of the population-based studies, the Roberts and Burnham studies provided the most rigorous methodology as their primary outcome was mortality. Their methodology is similar to the consensus methods of the SMART initiative, a series of methodological recommendations for conducting research in humanitarian emergencies. [...] However, not surprisingly their studies have been roundly criticized given the political consequences of their findings and the inherent security and political problems of conducting this type of research. Some of these criticisms refer to the type of sampling, duration of interviews, the potential for reporting bias, the reliability of its pre-war estimates, and a lack of reproducibility. The study authors have acknowledged their study limitations and responded to these criticisms in detail elsewhere. They now also provide their data for reanalysis to qualified groups for further review, if requested. [...] The IBC was largely established as an activist response to US refusals to conduct mortality counts. This account, however, is problematic as it relies solely on news reports that would likely considerably underestimate the total mortality.}}</ref> Population-based studies produce estimates of the number of Iraq War casualties ranging from 151,000 violent deaths as of June 2006 (per the [[Iraq Family Health Survey]]) to 1,033,000 (per the [[ORB survey of Iraq War casualties|2007 Opinion Research Business (ORB) survey]]). Other survey-based studies covering different time-spans find 461,000 total deaths (over 60% of them violent) as of June 2011 (per ''[[PLOS Medicine]]'' 2013), and 655,000 total deaths (over 90% of them violent) as of June 2006 (per the [[Lancet surveys of Iraq War casualties|2006 Lancet study]]). Body counts counted at least 110,600 violent deaths as of April 2009 ([[Associated Press]]). The [[Iraq Body Count project]] documents 185,000 - 208,000 violent civilian deaths through Feb 2020 in their table. All estimates of Iraq War casualties are disputed.<ref name="Hagopian" /><ref name="Levy_Sidel_2016">{{cite journal|last1=Levy|first1=Barry S.|last2=Sidel|first2=Victor W.|date=March 2016|title=Documenting the Effects of Armed Conflict on Population Health|journal=Annual Review of Public Health|volume=37|pages=205–218|doi=10.1146/annurev-publhealth-032315-021913|pmid=26989827|quote=Although the Roberts and Burnham studies faced some criticism in the news media and elsewhere, part of which may have been politically motivated, these studies have been widely viewed among peers as the most rigorous investigations of Iraq War–related mortality among Iraqi civilians; we agree with this assessment and believe that the Hagopian study is also scientifically rigorous. Although the methodology and results in the four studies cited here have varied somewhat, it is clear that the Iraq War caused, directly and indirectly, a very large number of deaths among Iraqi civilians—which, in fact, may have been underestimated by these scientifically conservative studies. A paper by Tapp and colleagues and a recent report by three country affiliates of the International Physicians for the Prevention of Nuclear War have extensively reviewed these four epidemiological studies as well as other studies that attempted to assess the impact of the Iraq War on morbidity and mortality.|doi-access=free}}</ref>
+
+== Tables ==
+
+The tables below summarize reports on Iraqi casualty figures.
+
+'''Scientific surveys:'''
+{| class="wikitable sortable"
+|-
+! class="unsortable" | Source
+! data-sort-type="number" | Estimated violent deaths
+! class="unsortable" | Time period
+|- valign=top
+| '''[[Iraq Family Health Survey]]'''
+| '''151,000''' violent deaths
+| March 2003 to June 2006
+|- valign=top
+| '''[[Lancet surveys of Iraq War casualties|''Lancet'' survey]]'''
+| '''601,027''' violent deaths out of '''654,965''' excess deaths
+| March 2003 to June 2006
+|- valign=top
+| '''[[PLOS Medicine]] Survey'''<ref name="Hagopian">{{cite journal
+| last1       = Hagopian
+| first1      = Amy
+| last2      = Flaxman
+| first2     = Abraham D.
+| last3      = Takaro
+| first3     = Tim K.
+| last4      = Esa Al Shatari
+| first4     = Sahar A.
+| last5      = Rajaratnam
+| first5     = Julie
+| last6      = Becker
+| first6     = Stan
+| last7      = Levin-Rector
+| first7     = Alison
+| last8      = Galway
+| first8     = Lindsay
+| last9      = Hadi Al-Yasseri
+| first9     = Berq J. | last10 = Weiss | first10 = William M.
+| last11     = Murray
+| first11    = Christopher J.
+| last12     = Burnham
+| first12    = Gilbert
+| last13     = Mills
+| first13    = Edward J.
+| title      = Mortality in Iraq Associated with the 2003–2011 War and Occupation: Findings from a National Cluster Sample Survey by the University Collaborative Iraq Mortality Study
+| journal    = PLOS Medicine
+| date       = October 15, 2013
+| volume     = 10
+| issue      = 10
+| doi        = 10.1371/journal.pmed.1001533
+| pages      = e1001533
+| pmid       = 24143140
+| pmc        = 3797136
+}}</ref>
+| '''460,000''' deaths in Iraq as direct or indirect result of the war including more than ''' 60%''' of deaths directly attributable to violence.
+| March 2003 to June 2011
+|}
+'''Body counts:'''
+{| class="wikitable sortable"
+|-
+! class="unsortable" | Source
+! data-sort-type="number" | Documented deaths from violence
+! class="unsortable" | Time period
+|- valign=top
+| '''[[Associated Press]]'''
+| '''110,600''' violent deaths.<ref name=ap2009apr24nbc/><ref name=ap2009apr24/>
+| March 2003 to April 2009
+|- valign=top
+| '''[[Iraq Body Count project]]'''
+| '''183,535 – 206,107''' civilian deaths from violence.<ref name=ibcdatabase>[https://www.iraqbodycount.org/database Iraq Body Count database] {{Webarchive|url=https://web.archive.org/web/20170726090114/https://www.iraqbodycount.org/database/ |date=July 26, 2017 }}. From the [[Iraq Body Count project]]. The database page says: "Gaps in recording and reporting suggest that even our highest totals to date may be missing many civilian deaths from violence."</ref>
+| March 2003 to April 2019
+|- valign=top
+| '''Classified [[Iraq War Logs]]'''<ref name=iraqbodycountlogs>[[Staff writer]] (October 23, 2010). [http://www.iraqbodycount.org/analysis/numbers/warlogs "Iraq War Logs: What the Numbers Reveal"] {{Webarchive|url=https://web.archive.org/web/20160105024759/https://www.iraqbodycount.org/analysis/numbers/warlogs/ |date=January 5, 2016 }}. [[Iraq Body Count]].</ref><ref name=guardianlogs3>Rogers, Simon (October 23, 2010). [https://www.theguardian.com/news/datablog/2010/oct/23/wikileaks-iraq-data-journalism "Wikileaks Iraq: Data Journalism Maps Every Death – Data Journalism Allows Us To Really Interrogate the Wikileaks Iraq War Logs Release. Here Is the Statistical Breakdown – and Data for You To Download"] {{Webarchive|url=https://web.archive.org/web/20110107113804/http://www.guardian.co.uk/news/datablog/2010/oct/23/wikileaks-iraq-data-journalism |date=January 7, 2011 }}. ''Data Blog – Facts Are Sacred'' (blog on ''[[The Guardian]]''). Retrieved November 20, 2010.</ref><ref name=guardianlogs>[https://www.theguardian.com/world/iraq-war-logs "Iraq: The War Logs"] {{Webarchive|url=https://web.archive.org/web/20161208063443/https://www.theguardian.com/world/iraq-war-logs |date=December 8, 2016 }}. ''[[The Guardian]]''.</ref><ref name=aljazeeralogs2>Carlstrom, Gregg (October 22, 2010; last modified October 24, 2010 (at November 21, 2010)). [http://english.aljazeera.net/secretiraqfiles/2010/10/2010102217631317837.html "WikiLeaks Releases Secret Iraq File – Al Jazeera Accesses 400,000 Secret US Military Documents, Which Reveal the Inside Story of the Iraq War"] {{Webarchive|url=https://web.archive.org/web/20101023051201/http://english.aljazeera.net/secretiraqfiles/2010/10/2010102217631317837.html |date=October 23, 2010 }}. [[Al Jazeera]]. Retrieved November 21, 2010.</ref>
+| '''109,032''' deaths including 66,081 civilian deaths.<ref name=spiegel>
+{{cite news
+ |title        = The WikiLeaks Iraq War Logs: Greatest Data Leak in US Military History
+ |newspaper    = [[Der Spiegel]]
+ |date         = October 22, 2010
+ |url          = http://www.spiegel.de/international/world/0,1518,724845,00.html
+ |accessdate   = October 23, 2010
+ |archive-url  = https://web.archive.org/web/20101023194129/http://www.spiegel.de/international/world/0,1518,724845,00.html
+ |archive-date = October 23, 2010
+ |url-status     = live
+ |df           = mdy-all
+}}
+</ref><ref name=guardianlogs2>Leigh, David (October 22, 2010). [https://www.theguardian.com/world/2010/oct/22/true-civilian-body-count-iraq "Iraq War Logs Reveal 15,000 Previously Unlisted Civilian Deaths – Leaked Pentagon Files Contain Records of More than 100,000 Fatalities Including 66,000 Civilians"] {{Webarchive|url=https://web.archive.org/web/20130730184028/http://www.theguardian.com/world/2010/oct/22/true-civilian-body-count-iraq |date=July 30, 2013 }}. ''[[The Guardian]]''. Retrieved November 20, 2010.</ref>
+| January 2004 to December 2009
+|}
+
+Overview: Iraqi death estimates by source
+'''Summary of casualties of the [[Iraq War]].'''
+Possible estimates on the number of people killed in the invasion and occupation of Iraq vary widely,<ref name=nprchart>Editors – Katz, Jeffrey; Doug Roberts, Doug; Sutherland, J.J. (undated). [https://www.npr.org/news/specials/tollofwar/tollofwarmain.html "The Toll of War – U.S. Troop Fatalities in Iraq since March 2003 – A Month-by-Month Count of U.S. Troops Killed in the Conflict"] {{Webarchive|url=https://web.archive.org/web/20180511124329/https://www.npr.org/news/specials/tollofwar/tollofwarmain.html |date=May 11, 2018 }} (bar chart of various death toll estimates). [[NPR]]. Retrieved November 21, 2010.</ref> and are highly disputed. Estimates of casualties below include both the [[2003 invasion of Iraq]] and the following [[Post-invasion Iraq, 2003–present]].
+
+{| class="wikitable"
+|- valign=top
+|
+Iraq war logs
+|
+'''[[Iraq War documents leak|Classified US military documents released by WikiLeaks]]''' in October 2010, record Iraqi and Coalition military deaths between '''January 2004 and December 2009.'''<ref name=iraqbodycountlogs /><ref name=guardianlogs3 /><ref name=guardianlogs /><ref name=aljazeeralogs2 /><ref name=aljazeeralogs>[[Staff writer]] (October 24, 2010). [http://english.aljazeera.net/secretiraqfiles "Secret Iraq Files – US Turned Blind Eye To Torture"] {{webarchive |url=https://web.archive.org/web/20111109141122/http://english.aljazeera.net/secretiraqfiles |date=November 9, 2011 }}. [[Al Jazeera]]. Retrieved November 21, 2010.</ref><ref name=derspiegellogs>[[Staff writer]] (undated). [http://www.spiegel.de/international/topic/iraq_war_logs/ "Iraq War Logs – Related Articles, Background Features and Opinions about this Topic"] {{Webarchive|url=https://web.archive.org/web/20160201012343/http://www.spiegel.de/international/topic/iraq_war_logs/ |date=February 1, 2016 }} (gateway/portal page of site). ''[[Der Spiegel]]''. Retrieved November 21, 2010.</ref> The documents record '''109,032''' deaths broken down into "Civilian" (66,081 deaths), "Host Nation" (15,196 deaths),"Enemy" (23,984 deaths), and "Friendly" (3,771 deaths).<ref name=guardianlogs2 /><ref name=derspiegellogs2>[[Staff writer]] (October 22, 2010). [http://www.spiegel.de/international/world/0,1518,722990,00.html "WikiLeaks Iraq FAQs – What the Logs Really Say"] {{Webarchive|url=https://web.archive.org/web/20101026013346/http://www.spiegel.de/international/world/0,1518,722990,00.html |date=October 26, 2010 }}. ''[[Der Spiegel]]''. Retrieved November 21, 2010.</ref>
+|- valign=top
+|
+Iraqi Health Ministry
+|
+The '''[[Politics of Iraq|Health Ministry of the Iraqi government]]''' recorded '''87,215''' Iraqi violent deaths '''between January 1, 2005, and February 28, 2009'''. The data was in the form of a list of yearly totals for death certificates issued for violent deaths by hospitals and morgues. The official who provided the data told the Associated Press said the ministry does not have figures for the first two years of the war, and estimated the actual number of deaths at 10 to 20 percent higher because of thousands who are still missing and civilians who were buried in the chaos of war without official records.<ref name=ap2009apr24nbc>[[Associated Press]] via [[NBC News]]. April 24, 2009. [https://www.nbcnews.com/id/30383144/ns/world_news-mideast_n_africa/t/report-iraqis-killed-invasion Report: 110,600 Iraqis killed since invasion] {{Webarchive|url=https://web.archive.org/web/20180930203740/http://www.nbcnews.com/id/30383144/ns/world_news-mideast_n_africa/t/report-iraqis-killed-invasion |date=September 30, 2018 }}. Full AP article.</ref><ref name=ap2009apr24>[[Associated Press]] via ''[[Boston Herald]]''. April 23, 2009. [http://www.bostonherald.com/news/international/middle_east/view/2009_04_23_AP_Exclusive:_Secret_tally_has_87_215_Iraqis_dead/ "AP Impact: Secret Tally Has 87,215 Iraqis Dead"] {{Webarchive|url=https://web.archive.org/web/20111018113101/http://www.bostonherald.com/news/international/middle_east/view/2009_04_23_AP_Exclusive:_Secret_tally_has_87_215_Iraqis_dead|date=October 18, 2011}}.</ref>
+|- valign=top
+|
+The Associated Press
+|
+'''''Associated Press''''' stated that '''more than 110,600''' Iraqis had been killed since the start of the war '''to April 2009'''. This number is per the Health Ministry tally of 87,215 covering '''January 1, 2005, to February 28, 2009''' combined with counts of casualties for 2003–2004, and after February 29, 2009, from hospital sources and media reports.<ref name=ap2009apr24nbc/><ref name=ap2009apr24/> For more info see farther down at ''[[#The Associated Press and Health Ministry (2009)|The Associated Press and Health Ministry (2009)]].''
+|- valign=top
+|
+Iraq Body Count
+|
+The '''[[Iraq Body Count project]]''' (IBC) figure of documented civilian deaths from violence is 183,535 – 206,107 through April 2019.  This includes reported civilian deaths due to Coalition and insurgent military action, sectarian violence and increased criminal violence.<ref name=ibcdatabase/> The IBC site states: "many deaths will probably go unreported or unrecorded by officials and media."<ref name="IBC">[http://www.iraqbodycount.org/ Iraq Body Count project] {{Webarchive|url=https://www.webcitation.org/5lAQuuCz8?url=http://www.iraqbodycount.org/ |date=November 9, 2009 }}. Source of IBC quote on undercounting by media is [http://www.iraqbodycount.org/analysis/numbers/year-four/ here] {{Webarchive|url=https://www.webcitation.org/5lAQuuCz8?url=http://www.iraqbodycount.org/ |date=November 9, 2009 }} .</ref>
+|- valign=top
+|
+Iraq Family Health Survey
+|
+'''[[Iraq Family Health Survey]]''' for the '''[[World Health Organization]]'''.<ref name=WHOifhs>{{dead link|date=September 2010}}[http://www.emro.who.int/iraq/ifhs.htm "WHO Country Office in Iraq. Iraq Family Health Survey"] {{webarchive|url=https://web.archive.org/web/20080611004207/http://www.emro.who.int/iraq/ifhs.htm |date=June 11, 2008 }}. [[World Health Organization]] (WHO).</ref><ref name=WHOifhs2>[[Press release]] (January 9, 2008). [https://www.who.int/mediacentre/news/releases/2008/pr02/en/index.html "New Study Estimates 151,000 Violent Iraqi Deaths Since 2003 Invasion"] {{Webarchive|url=https://web.archive.org/web/20131213075846/http://www.who.int/mediacentre/news/releases/2008/pr02/en/index.html |date=December 13, 2013 }}.[[World Health Organization]] (WHO). Retrieved September 2, 2010.</ref> On January 9, 2008, the World Health Organization reported the results of the "Iraq Family Health Survey" published in ''[[The New England Journal of Medicine]]''.<ref name=nejm358>{{Cite journal
+| vauthors        = Alkhuzai AH, Ahmad IJ, Hweel MJ, Ismail TW
+| title           = Violence-Related Mortality in Iraq from 2002 to 2006
+| journal         = [[The New England Journal of Medicine]]
+| volume          = 358
+| issue           = 2
+| pages           = 484–93
+| year            = 2008
+| pmid            = 18184950
+| doi             = 10.1056/NEJMsa0707782
+| display-authors = etal
+| url             = http://apo.org.au/node/1645
+| access-date     = April 20, 2018
+| archive-url     = https://web.archive.org/web/20180421031004/http://apo.org.au/node/1645
+| archive-date    = April 21, 2018
+| url-status        = live
+}}</ref> The study surveyed 9,345 households across Iraq and estimated '''151,000''' deaths due to violence (95% uncertainty range, 104,000 to 223,000) from March 2003 through June 2006. Employees of the Iraqi Health Ministry carried out the survey.<ref name=bbcNewStudy>{{Cite news
+| author       = Staff writer
+| title        = New Study Says 151,000 Iraqi Dead – One of the Biggest Surveys So Far of Iraqis Who Have Died Violently Since the US-Led Invasion of 2003 Has Put the Figure at About 151,000
+| url          = http://news.bbc.co.uk/2/hi/middle_east/7180055.stm
+| work         = BBC News
+| date         = January 10, 2008
+| accessdate   = September 2, 2010
+| archive-url  = https://web.archive.org/web/20100208175107/http://news.bbc.co.uk/2/hi/middle_east/7180055.stm
+| archive-date = February 8, 2010
+| url-status     = live
+| author-link = Staff writer
+}}</ref><ref name=guardianNewStudy>Boseley, Sarah (January 10, 2008). [https://www.theguardian.com/Iraq/Story/0,,2238250,00.html "151,000 Civilians Killed Since Iraq Invasion – Figures Up to June 2006 from Household Survey – Government Accepts New estimate on Death Toll]. ''[[The Guardian]]''. Retrieved September 2, 2010.</ref><ref name=NewEstimate>Brown, Davia; Partlow, Joshua (January 10, 2008).[https://www.washingtonpost.com/wp-dyn/content/article/2008/01/09/AR2008010902793.html "New Estimate of Violent Deaths Among Iraqis Is Lower"] {{Webarchive|url=https://web.archive.org/web/20161110073902/http://www.washingtonpost.com/wp-dyn/content/article/2008/01/09/AR2008010902793.html |date=November 10, 2016 }}. ''[[The Washington Post]]''. Retrieved September 2, 2010.</ref> See also farther down: [[#Iraq Family Health Survey (IFHS, 2008)|Iraq Family Health Survey (IFHS, 2008)]].
+|- valign=top
+|
+Opinion Research Business
+|
+'''[[ORB survey of Iraq War casualties|Opinion Research Business (ORB) poll]]''' conducted '''August 12–19, 2007''', estimated '''1,033,000''' violent deaths due to the Iraq War. The range given was 946,000 to 1,120,000 deaths. A nationally representative sample of approximately 2,000 Iraqi adults answered whether any members of their household (living under their roof) were killed due to the Iraq War. 22% of the respondents had lost one or more household members. ORB reported that "48% died from a gunshot wound, 20% from the impact of a car bomb, 9% from aerial bombardment, 6% as a result of an accident and 6% from another blast/ordnance."<ref name=update /><ref name=ORB>[http://www.opinion.co.uk/Newsroom_details.aspx?NewsId=78 "More than 1,000,000 Iraqis Murdered"] {{webarchive|url=https://web.archive.org/web/20071002205022/http://www.opinion.co.uk/Newsroom_details.aspx?NewsId=78 |date=October 2, 2007 }}. September 2007. Opinion Research Business. PDF report: {{cite web
+| url         = http://www.opinion.co.uk/Documents/TABLES.pdf
+| title       = Archived copy
+| accessdate  = September 19, 2007
+| url-status     = dead
+| archiveurl  = https://web.archive.org/web/20070925235801/http://www.opinion.co.uk/Documents/TABLES.pdf
+| archivedate = September 25, 2007
+}}</ref><ref name="LAtimes2007sept14">Susman, Tina (September 14, 2007). [http://www.commondreams.org/archive/2007/09/14/3839/ "Poll: Civilian Death Toll in Iraq May Top 1 Million"] {{Webarchive|url=https://web.archive.org/web/20140531082118/http://www.commondreams.org/archive/2007/09/14/3839 |date=May 31, 2014 }}. ''[[Los Angeles Times]]'' (''via'' [[commondreams.org]]). Retrieved September 2, 2010.</ref><ref name=ORB3>Beaumont, Peter; Walters, Joanna (September 16, 2007). [http://www.commondreams.org/archive/2007/09/16/3879/ "Greenspan Admits Iraq Was About Oil, As Deaths Put at 1.2 Million"] {{Webarchive|url=https://web.archive.org/web/20131213082025/https://www.commondreams.org/archive/2007/09/16/3879 |date=December 13, 2013 }}. ''[[The Observer]]'' (''via'' [[commondreams.org]]). Retrieved September 2, 2010.</ref><ref name="medialens">Staff writer (September 18, 2007). [http://www.medialens.org/alerts/07/070918_the_media_ignore.php "The Media Ignore Credible Poll Revealing 1.2 Million Violent Deaths in Iraq"] {{webarchive |url=https://web.archive.org/web/20121130212139/http://www.medialens.org/alerts/07/070918_the_media_ignore.php |date=November 30, 2012 }}. ''[[Media Lens]]''. Retrieved September 2, 2010.</ref>
+|- valign=top
+|
+United Nations
+|
+The '''United Nations''' reported that '''34,452''' violent deaths occurred '''in 2006''', based on data from morgues, hospitals, and municipal authorities across Iraq.<ref name=nytimes>{{Registration required|date=September 2010}} Tavernise, Sabrina (January 17, 2007). [https://www.nytimes.com/2007/01/17/world/middleeast/17iraq.html "Iraqi Death Toll Exceeded 34,000 in '06, U.N. Says"] {{Webarchive|url=https://web.archive.org/web/20161107171521/http://www.nytimes.com/2007/01/17/world/middleeast/17iraq.html |date=November 7, 2016 }}. ''[[The New York Times]]''.</ref>
+|- valign=top
+|
+Lancet studies
+|
+The '''[[Lancet surveys of Iraq War casualties|Lancet study's]]''' figure of '''654,965''' excess deaths through the end of '''June 2006''' is based on household survey data. The estimate is for all excess violent and nonviolent deaths. That also includes those due to increased lawlessness, degraded infrastructure, poorer healthcare, etc. 601,027 deaths (range of 426,369 to 793,663 using a 95% [[confidence interval]]) were estimated to be due to violence. 31% of those were attributed to the Coalition, 24% to others, 46% unknown. The causes of violent deaths were [[gunshot]] (56%), [[car bomb]] (13%), other [[explosion]]/[[Artillery|ordnance]] (14%), [[airstrike]] (13%), [[accident]] (2%), unknown (2%). A copy of a [[death certificate]] was available for a high proportion of the reported deaths (92% of those households asked to produce one).<ref name=lancet2006>[[Lancet surveys of Iraq War casualties|2006 Lancet study]]. {{cite web
+| url         = http://brusselstribunal.org/pdf/lancet111006.pdf
+| title       = Mortality after the 2003 invasion of Iraq: a cross-sectional cluster sample survey
+| url-status     = dead
+| archiveurl  = https://web.archive.org/web/20150907130701/http://brusselstribunal.org/pdf/lancet111006.pdf
+| archivedate = September 7, 2015
+| df          = mdy-all
+}} &nbsp;{{small|(242&nbsp;KB)}}. By Gilbert Burnham, Riyadh Lafta, Shannon Doocy, and [[Les Roberts (epidemiologist)|Les Roberts]]. ''[[The Lancet]],'' October 11, 2006</ref><ref name=supplement>
+Supplement to 2006 Lancet study: {{cite web
+| url   = http://web.mit.edu/CIS/pdf/Human_Cost_of_War.pdf
+| title   = The Human Cost of the War in Iraq: A Mortality Study, 2002–2006
+| access-date   = January 4, 2007
+| archive-url   = https://web.archive.org/web/20070117105315/http://web.mit.edu/CIS/pdf/Human_Cost_of_War.pdf
+| archive-date   = January 17, 2007
+| url-status   = live
+| df   = mdy-all
+}}&nbsp;{{small|(603&nbsp;KB)}}. By Gilbert Burnham, Shannon Doosy, Elizabeth Dzeng, Riyadh Lafta, and Les Roberts.
+</ref><ref>Opinion essay (numerous signatories) (October 21, 2006). [http://www.theage.com.au/news/opinion/the-iraq-deaths-study-was-valid-and-correct/2006/10/20/1160851135985.html "The Iraq Deaths Study Was Valid and Correct"] {{Webarchive|url=https://web.archive.org/web/20160124085422/http://www.theage.com.au/news/opinion/the-iraq-deaths-study-was-valid-and-correct/2006/10/20/1160851135985.html |date=January 24, 2016 }}. ''[[The Age]]''. Retrieved September 2, 2010</ref>
+|- valign=top
+|
+PLOS Medicine Study
+|
+The '''[[PLOS Medicine]]''' study's figure of approximately '''460,000''' excess deaths through the end of '''June 2011''' is based on household survey data including more than '''60%''' of deaths directly attributable to violence. The estimate is for all excess violent and nonviolent deaths. That also includes those due to increased lawlessness, degraded infrastructure, poorer healthcare, etc. 405,000 deaths (range of 48,000 to 751,000 using a 95% [[confidence interval]]) were estimated as excess deaths attributable to the conflict. They estimated at least 55,000 additional deaths occurred that the survey missed, as the families had migrated out of Iraq. The survey found that more than 60% of excess deaths were caused by violence, with the rest caused indirectly by the war, through degradation of infrastructure and similar causes. The survey notes that although car bombs received more significant press internationally, gunshot wounds were responsible for the majority (63%) of violent deaths. The study also estimated that 35% of violent deaths were attributed to the Coalition, and 32% to militias. Cardiovascular conditions accounted for about half (47%) of nonviolent deaths, chronic illnesses 11%, infant or childhood deaths other than injuries 12.4%, non-war injuries 11%, and cancer 8%.<ref name="Hagopian" />
+|- valign=top
+|
+Ali al-Shemari (previous Iraqi Health Minister)
+|
+Concerning war-related deaths (civilian and non-civilian), and deaths from criminal gangs, '''[[Council of Ministers of Iraq|Iraq's Health Minister]] [[Ali al-Shemari]]''' said that since the March 2003 invasion between '''100,000 and 150,000''' Iraqis had been killed.<ref name=tribune>{{dead link|date=September 2010}}[http://www.iht.com/articles/ap/2006/11/09/europe/EU_GEN_Austria_Iraqis_Killed.php "Iraqi Health Minister Estimates as Many as 150,000 Iraqis Killed by Insurgents"] {{Webarchive|url=https://web.archive.org/web/20080918000905/http://www.iht.com/articles/ap/2006/11/09/europe/EU_GEN_Austria_Iraqis_Killed.php |date=September 18, 2008 }}. ''[[International Herald Tribune]]''. November 9, 2006.</ref> "Al-Shemari said on Thursday ''[November 9, 2006]'' that he based his figure on an estimate of 100 bodies per day brought to morgues and hospitals – though such a calculation would come out closer to 130,000 in total."<ref name=taipei>[[Staff writer]] (November 11, 2006). [http://www.taipeitimes.com/News/front/archives/2006/11/11/2003335773 "Iraqi Death Toll Estimates Go as High as 150,000"] {{Webarchive|url=https://web.archive.org/web/20160303202837/http://www.taipeitimes.com/News/front/archives/2006/11/11/2003335773 |date=March 3, 2016 }}. [[Agence France-Presse]]/[[Associated Press]] (''via'' ''[[Taipei Times]]''). Retrieved September 6, 2010.</ref> For more info see farther down at [[#Iraq Health Minister estimate in November 2006|Iraq Health Minister estimate in November 2006]].
+|- valign=top
+|
+Costs of War Project
+|
+'''268,000 - 295,000''' people were killed in violence in the Iraq war from March 2003 - Oct. 2018, including '''182,272 - 204,575''' civilians (using [[Iraq Body Count]]'s figures), according to the findings of the Costs of War Project, a team of 35 scholars, legal experts, human rights practitioners, and physicians, assembled by [[Brown University]] and the [[Watson Institute for International and Public Affairs]], "about the costs of the post-9/11 wars in Iraq and Afghanistan, and the related violence in Pakistan and Syria." The civilian violent death numbers are "surely an underestimate."<ref name=costsofwar.org>[https://watson.brown.edu/costsofwar Costs of War] {{Webarchive|url=https://web.archive.org/web/20190220002822/https://watson.brown.edu/costsofwar/ |date=February 20, 2019 }}. (costsofwar.org). [[Watson Institute for International and Public Affairs]] at [[Brown University]]. See [https://watson.brown.edu/costsofwar/about "About" page] {{Webarchive|url=https://web.archive.org/web/20190219130211/https://watson.brown.edu/costsofwar/about |date=February 19, 2019 }}.</ref><ref name=crawford2018nov>[https://watson.brown.edu/costsofwar/files/cow/imce/papers/2018/Human%20Costs%2C%20Nov%208%202018%20CoW.pdf Human Cost of the Post-9/11 Wars: Lethality and the Need for Transparency] {{Webarchive|url=https://web.archive.org/web/20190221123944/https://watson.brown.edu/costsofwar/files/cow/imce/papers/2018/Human%20Costs%2C%20Nov%208%202018%20CoW.pdf |date=February 21, 2019 }}. November 2018. By Neta C. Crawford, [https://watson.brown.edu/costsofwar/people/directors a project director at Costs of War Project] {{Webarchive|url=https://web.archive.org/web/20190219130229/https://watson.brown.edu/costsofwar/people/directors |date=February 19, 2019 }}. [[Watson Institute for International and Public Affairs]] at [[Brown University]].</ref><ref name=commondreams2018nov9>[https://www.commondreams.org/news/2018/11/09/half-million-killed-americas-global-war-terror-just-scratches-surface-human Half Million Killed by America's Global War on Terror 'Just Scratches the Surface' of Human Destruction] {{Webarchive|url=https://web.archive.org/web/20190219130129/https://www.commondreams.org/news/2018/11/09/half-million-killed-americas-global-war-terror-just-scratches-surface-human |date=February 19, 2019 }}. Nov 9, 2018. By Jessica Corbett, staff writer, [[Common Dreams]].</ref><ref name=businessinsider2018nov9>[https://www.businessinsider.com/how-many-people-have-been-killed-in-iraq-and-afghanistan The wars in Iraq and Afghanistan have killed at least 500,000 people, according to a new report that breaks down the toll] {{Webarchive|url=https://web.archive.org/web/20190219130100/https://www.businessinsider.com/how-many-people-have-been-killed-in-iraq-and-afghanistan |date=February 19, 2019 }}. Nov 9, 2018. By Daniel Brown, ''[[Business Insider]].''</ref>
+|}
+
+Overview: Death estimates by group
+{| class="wikitable"
+|- valign=top
+|
+Iraqi Security Forces (aligned with Coalition)
+||
+From June 2003, through December 31, 2010, there have been 16,623 Iraqi military and police killed based on several estimates.<ref>260 killed in 2003,[http://www.abc.net.au/news/stories/2003/12/19/1013869.htm] {{Webarchive|url=https://web.archive.org/web/20110628233817/http://www.abc.net.au/news/stories/2003/12/19/1013869.htm |date=June 28, 2011 }} 15,196 killed from 2004 through 2009 (with the exceptions of May 2004 and March 2009),[https://www.theguardian.com/world/2010/oct/22/true-civilian-body-count-iraq] {{Webarchive|url=https://web.archive.org/web/20130730184028/http://www.theguardian.com/world/2010/oct/22/true-civilian-body-count-iraq |date=July 30, 2013 }} 67 killed in March 2009,[http://hello.news352.lu/edito-4036-march-violence-claims-252-iraqi-lives.html] {{Webarchive|url=https://web.archive.org/web/20120226181744/http://hello.news352.lu/edito-4036-march-violence-claims-252-iraqi-lives.html |date=February 26, 2012 }} and 1,100 killed in 2010,{{cite web
+| url         = http://articles.cnn.com/2011-01-02/world/iraq.casualty.figures_1_iraqi-police-mosul-police-iraqi-troops?_s%3DPM%3AWORLD
+| title       = Archived copy
+| archiveurl  = https://web.archive.org/web/20130116094430/http://articles.cnn.com/2011-01-02/world/iraq.casualty.figures_1_iraqi-police-mosul-police-iraqi-troops?_s=PM%3AWORLD
+| archivedate = January 16, 2013
+| url-status     = dead
+| accessdate  = December 20, 2014
+}} thus giving a total of 16,623 dead</ref> The ''[[Iraq Index]]'' of the [[Brookings Institution]] keeps a running total of ISF casualties.<ref name=Brookings>[[Database]] (undated; updated "every two weeks").  [http://www.brookings.edu/saban/iraq-index.aspx "Iraq Index – Tracking Reconstruction and Security in Post-Saddam Iraq"] {{webarchive |url=https://web.archive.org/web/20120501092317/http://www.brookings.edu/saban/iraq-index.aspx |date=May 1, 2012 }}. [[Brookings Institution]]. Retrieved September 3, 2010. (For the latest total of Iraqi police and military killed download the PDF file of the most recent Iraq Index, and look in the table of contents.)</ref> There is also a breakdown of ISF casualties at the [[iCasualties.org]] website.<ref name=icasualtiesISF>[[Database]] (undated).  [http://icasualties.org/Iraq/index.aspx "Operation Iraqi Freedom" "Iraqi Deaths"] {{webarchive |url=https://web.archive.org/web/20110321080348/http://icasualties.org/Iraq/index.aspx |date=March 21, 2011 }}.  ''[[iCasualties.org]]''. Retrieved September 3, 2010. (An iCasualties.org breakdown of deaths in Iraq. See the ISF (Iraqi Security Forces) column.)</ref>
+|- valign=top
+|
+Iraqi insurgents
+||
+From June 2003, through September 30, 2011, there have been 26,320-27,000+ Iraqi insurgents killed based on several estimates.<ref>
+597 killed in 2003,[https://www.usatoday.com/news/world/iraq/2007-09-26-insurgents_N.htm] {{Webarchive|url=https://web.archive.org/web/20110428200503/http://www.usatoday.com/news/world/iraq/2007-09-26-insurgents_N.htm |date=April 28, 2011 }}, 23,984 killed from 2004 through 2009 (with the exceptions of May 2004 and March 2009),[https://www.theguardian.com/world/2010/oct/22/true-civilian-body-count-iraq] {{Webarchive|url=https://web.archive.org/web/20130730184028/http://www.theguardian.com/world/2010/oct/22/true-civilian-body-count-iraq |date=July 30, 2013 }} 652 killed in May 2004,[http://www.iraqbodycount.org/analysis/numbers/warlogs/] {{Webarchive|url=https://web.archive.org/web/20101202190922/http://www.iraqbodycount.org/analysis/numbers/warlogs/ |date=December 2, 2010 }} 45 killed in March 2009,[http://www.reliefweb.int/rw/rwb.nsf/db900sid/CJAL-7QPQB7?OpenDocument] {{Webarchive|url=https://web.archive.org/web/20090903190008/http://www.reliefweb.int/rw/rwb.nsf/db900sid/CJAL-7QPQB7?OpenDocument |date=September 3, 2009 }} 676 killed in 2010,[https://www.bloomberg.com/news/2010-12-30/iraq-civilian-deaths-drop-for-third-year-as-toll-eases-after-u-s-drawdown.html] {{Webarchive|url=https://web.archive.org/web/20140804181246/http://www.bloomberg.com/news/2010-12-30/iraq-civilian-deaths-drop-for-third-year-as-toll-eases-after-u-s-drawdown.html |date=August 4, 2014 }} 366 killed in 2011 (with the exception of February),[http://news.theage.com.au/breaking-news-world/jan-iraq-death-toll-highest-in-four-months-20110201-1ac9m.html] {{Webarchive|url=https://web.archive.org/web/20140714071733/http://news.theage.com.au/breaking-news-world/jan-iraq-death-toll-highest-in-four-months-20110201-1ac9m.html |date=July 14, 2014 }}[http://www.upi.com/Top_News/World-News/2011/04/03/Two-US-troops-killed-in-Iraq/UPI-84151301845983/] {{Webarchive|url=https://web.archive.org/web/20150209184621/http://www.upi.com/Top_News/World-News/2011/04/03/Two-US-troops-killed-in-Iraq/UPI-84151301845983/ |date=February 9, 2015 }}[http://www.spacewar.com/reports/Iraq_monthly_death_toll_falls_in_April_999.html] {{Webarchive|url=https://web.archive.org/web/20140812043950/http://www.spacewar.com/reports/Iraq_monthly_death_toll_falls_in_April_999.html |date=August 12, 2014 }}[http://www.middle-east-online.com/english/?id=46442] {{Webarchive|url=https://web.archive.org/web/20150209184820/http://www.middle-east-online.com/english/?id=46442 |date=February 9, 2015 }}{{cite web
+ |url         = http://www.thedailynewsegypt.com/death-toll-spikes-for-iraqis-us-troops.html
+ |title       = Archived copy
+ |archiveurl  = https://web.archive.org/web/20120111145441/http://www.thedailynewsegypt.com/death-toll-spikes-for-iraqis-us-troops.html
+ |archivedate = January 11, 2012
+ |url-status     = dead
+ |accessdate  = July 3, 2011
+}}[http://web.archive.bibalex.org/web/20111208174352/http://arabia.msn.com/news/middleeast/afp/2011/august/7991554.aspx]{{cite web
+ |url         = http://www.nenosplace.com/showthread.php?45792-239-people-killed-in-Iraq-in-August-and-killed-by-the-U.S.-military
+ |title       = Archived copy
+ |archiveurl  = https://web.archive.org/web/20120112042255/http://www.nenosplace.com/showthread.php?45792-239-people-killed-in-Iraq-in-August-and-killed-by-the-U.S.-military
+ |archivedate = January 12, 2012
+ |url-status     = dead
+ |accessdate  = October 22, 2011
+}}{{cite web
+ |url         = http://gulf-times.com/site/topics/article.asp?cu_no%3D2%26item_no%3D461485%26version%3D1%26template_id%3D37%26parent_id%3D17
+ |title       = Archived copy
+ |archiveurl  = https://web.archive.org/web/20111002182259/http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=461485&version=1&template_id=37&parent_id=17
+ |archivedate = October 2, 2011
+ |url-status     = dead
+ |accessdate  = October 15, 2011
+}} thus giving a total of 26,320 dead
+</ref>
+|- valign=top
+|
+Media and aid workers
+||
+136 journalists and 51 media support workers were killed on duty according to the numbers listed on source pages on February 24, 2009.<ref name=icasualties33>[http://icasualties.org/Iraq/Journalist.aspx iCasualties: Iraq Coalition Casualty Count – Journalists Killed] {{Webarchive|url=https://web.archive.org/web/20090811033308/http://icasualties.org/Iraq/Journalist.aspx |date=August 11, 2009 }}.</ref><ref name=journalists>[[Committee to Protect Journalists]] (CPJ). [http://www.cpj.org/Briefings/Iraq/Iraq_danger.html IRAQ: Journalists in Danger] {{Webarchive|url=https://web.archive.org/web/20120717205508/https://www.cpj.org/Briefings/Iraq/Iraq_danger.html |date=July 17, 2012 }}.</ref><ref name=mediasupport>[[Committee to Protect Journalists]] (CPJ). [http://www.cpj.org/Briefings/Iraq/iraq_media_killed.html Media Workers Killed in Iraq Since March 2003] {{Webarchive|url=https://web.archive.org/web/20120903105542/https://cpj.org/Briefings/Iraq/iraq_media_killed.html |date=September 3, 2012 }}.</ref> (See [[:Category:Journalists killed while covering the Iraq War]].) 94 aid workers have been killed according to a November 21, 2007, [[Reuters]] article.<ref name=reuters2007nov21>{{dead link|date=September 2010|reason=only headline appears on linked URL}} Ryan, Missy (November 21, 2007). [https://www.reuters.com/article/middleeastCrisis/idUSRYA739414 "War-Weary Aid Groups Weigh Risk, Need in Iraq"] {{Webarchive|url=https://web.archive.org/web/20080331161218/http://www.reuters.com/article/middleeastCrisis/idUSRYA739414 |date=March 31, 2008 }}. [[Reuters]].</ref><ref name=aidworkers>[http://www.ncciraq.org/ NGOs Coordination Committee in Iraq] {{Webarchive|url=https://web.archive.org/web/20150409223658/http://www.ncciraq.org/ |date=April 9, 2015 }}.</ref>
+|- valign=top
+|
+U.S. armed forces
+||
+[[File:Iraq war casualties - 6-24-08.jpg|thumb|right|
+Graph of monthly deaths of U.S. military personnel in Iraq from beginning of war to June 24, 2008.<ref>
+{{cite web
+| url        = http://www.globalsecurity.org/military/ops/iraq_casualties.htm
+| title        = globalsecurity.org
+| author        = John Pike
+| accessdate        = October 27, 2014
+| archive-url        = https://web.archive.org/web/20110428043422/http://www.globalsecurity.org/military/ops/iraq_casualties.htm
+| archive-date        = April 28, 2011
+| url-status        = live
+| df        = mdy-all
+}}
+</ref>]]
+
+As of June 29, 2016, according to the U.S. Department of Defense casualty website, there were 4,424 total deaths (including both [[killed in action]] and non-hostile) and 31,952 [[wounded in action]] (WIA) as a result of the Iraq War. As a part of [[Iraq War#2010: U.S. drawdown and Operation New Dawn|Operation New Dawn]], which was initiated on September 1, 2010, there were 73 total deaths (including KIA and non-hostile) and 295 WIA.<ref name=defenselink>{{Cite web |url=http://www.defense.gov/casualty.pdf |title=OPERATION IRAQI FREEDOM (OIF) U.S. CASUALTY STATUS * FATALITIES AS OF: June 29, 2016, 10 a.m. EDT |access-date=June 30, 2016 |archive-url=https://web.archive.org/web/20160621194454/http://www.defense.gov/casualty.pdf |archive-date=June 21, 2016 |url-status=live |df=mdy-all }}</ref> See the references for a breakdown of the wounded, injured, ill, those returned to duty (RTD), those requiring medical air transport, non-hostile-related medical air transports, non-hostile injuries, diseases, or other medical reasons.<ref name=defenselink /><ref name=icasualties>iCasualties.org (was lunaville.org). Benicia, California. Patricia Kneisler, ''et al''.., [http://icasualties.org/iraq "Iraq Coalition Casualty Count"] {{Webarchive|url=https://web.archive.org/web/20160206183635/http://icasualties.org/Iraq/ |date=February 6, 2016 }}.</ref><ref name=cnnSPECIALS2003>[http://www.cnn.com/SPECIALS/2003/iraq/forces/casualties/ "Forces: U.S. & Coalition Casualties"] {{webarchive |url=https://web.archive.org/web/20090610004040/http://www.cnn.com/SPECIALS/2003/iraq/forces/casualties// |date=June 10, 2009 }}. [[CNN]], From March 2003 onwards.</ref><ref name=mil>Many official U.S. tables at [http://siadapp.dmdc.osd.mil/personnel/CASUALTY/castop.htm "Military Casualty Information"] {{webarchive|url=https://web.archive.org/web/20110303054755/http://siadapp.dmdc.osd.mil/personnel/CASUALTY/castop.htm |date=March 3, 2011 }}</ref><ref>{{cite web
+| url         = http://siadapp.dmdc.osd.mil/personnel/CASUALTY/OIF-Total.pdf
+| title       = latest injury, disease, and other-medical totals
+| url-status     = dead
+| archiveurl  = https://web.archive.org/web/20110602035127/http://siadapp.dmdc.osd.mil/personnel/CASUALTY/oif-total.pdf
+| archivedate = June 2, 2011
+}}</ref><ref>
+{{cite web
+| url   = http://www.defenselink.mil/news/casualty.pdf
+| title   = United States Department of Defense
+| access-date   = September 29, 2007
+| archive-url   = https://web.archive.org/web/20090706234900/http://www.defenselink.mil/news/casualty.pdf
+| archive-date   = July 6, 2009
+| url-status   = live
+| df   = mdy-all
+}}
+</ref><ref name=DODbyMonth>[http://siadapp.dmdc.osd.mil/personnel/CASUALTY/OIF-Total-by-month.pdf "Global War on Terrorism – Operation Iraqi Freedom, By Month"] {{webarchive|url=https://web.archive.org/web/20110602035133/http://siadapp.dmdc.osd.mil/personnel/CASUALTY/oif-total-by-month.pdf |date=June 2, 2011 }}. [[United States Department of Defense]]. "Prepared by: [[Defense Manpower Data Center]]. Statistical Information Analysis Division."</ref>
+<!-- WHEN EDITING THIS SECTION, PLEASE NOTE:
+     See http://icasualties.org/Iraq
+     for total deaths. Include the ones not yet confirmed by DOD.
+     See http://icasualties.org/Iraq
+     for totals for wounded, injuries, diseases, and medical air transports.
+     See the middle of the page.
+     Sometimes they do not add the rows or columns correctly.
+     It may be necessary to go to their sources:
+     http://www.defenselink.mil/news/casualty.pdf
+* {{cite web
+| url          = http://siadapp.dmdc.osd.mil/personnel/CASUALTY/castop.htm
+| archive-url  = https://web.archive.org/web/20070517180602/http://siadapp.dmdc.osd.mil:80/personnel/CASUALTY/castop.htm
+| archive-date = May 17, 2007
+| url-status     = dead
+| title        = Military Casualty Information
+| accessdate   = August 7, 2014
+}}
+     http://siadapp.dmdc.osd.mil/personnel/CASUALTY/OIF-Total.pdf
+     Please don't forget to update the date.
+     Also, please update the coalition and hostile fire deaths in the next section below.
+     The figures at www.icasualties.org/iraq
+     are updated more often than those on other web sites
+     that track casualties, and unlike many other sites,
+     their figures are backed up by a complete listing of
+     names, dates, and places of death. Often, news
+     stories quote slightly smaller figures reported by
+     the Pentagon, but these are typically a few days out
+     of date and incomplete for countries other than the U.S.
+-->
+|- valign=top
+|
+Coalition deaths by hostile fire
+|| {{As of|2011|10|23}}, hostile-fire deaths accounted for 3,777 of the 4,799 total coalition military deaths.<ref name=icasualties5>[http://icasualties.org/Iraq/Fatalities.aspx Iraq Coalition Casualties: Military Fatalities] {{webarchive |url=https://web.archive.org/web/20100326034327/http://icasualties.org/Iraq/Fatalities.aspx |date=March 26, 2010 }}.</ref>
+<!-- See http://icasualties.org/Iraq/HostileNonHostile.aspx for hostile-fire numbers.
+     Apply the U.S. filter from the drop-down menu to see U.S. hostile-fire numbers.
+     Sometimes the filter does not work. Leave the U.S. numbers out in that case.
+-->
+|- valign=top
+|
+Armed forces of other coalition countries
+|| See [[Multinational force in Iraq]].<br />
+{{As of|2009|02|24}}, there were 318 deaths from the armed forces of other Coalition nations. 179 UK deaths and 139 deaths from other nations. Breakdown:<ref name=icasualties /><ref name=cnnSPECIALS2003 /><ref name=icasualties2>[http://icasualties.org/Iraq/DeathsByCountry.aspx iCasualties OIF: Fatalities By Country] {{webarchive |url=https://web.archive.org/web/20090418134050/http://icasualties.org/Iraq/DeathsByCountry.aspx |date=April 18, 2009 }}.</ref>
+<!-- See http://icasualties.org/Iraq
+     The chart at the top has totals for UK and other nations. Add those 2 numbers
+     to get the overall total number for the armed forces of other coalition countries.
+     For the breakdown by nation see
+     http://icasualties.org/Iraq/DeathsByCountry.aspx
+     Use the chart there to update the number of deaths from each nation.
+-->
+{{div col|colwidth=15em}}
+* Australia – 2
+* Azerbaijan – 1
+* Bulgaria – 13
+* Czech Republic – 1
+* Denmark – 7
+* El Salvador – 5
+* Estonia – 2
+* Fiji – 1
+* Georgia – 5
+* Hungary – 1
+* Italy – 33
+* Kazakhstan – 1
+* Latvia – 3
+* Netherlands – 2
+* Poland – 30
+* Portugal – 1
+* Romania – 4
+* Slovakia – 4
+* South Korea – 1
+* Spain – 11
+* Thailand – 2
+* Ukraine – 18
+* United Kingdom – 179
+{{colend}}
+|- valign=top
+|
+Contractors
+|| [[Private military company|Contractors]]. At least 1,487 deaths between March 2003 and June 2011 according to the [[list of private contractor deaths in Iraq]]. 245 of those are from the U.S.<ref name=contractors7>Debusmann, Bernd (July 3, 2007). [https://www.reuters.com/article/politicsNews/idUSN0318650320070703?sp=true "In Outsourced U.S. Wars, Contractor Deaths Top 1,000"] {{Webarchive|url=https://web.archive.org/web/20090220223405/http://www.reuters.com/article/politicsNews/idUSN0318650320070703?sp=true |date=February 20, 2009 }}. [[Reuters]]. Retrieved September 2, 2010. 10,569 wounded and 933 deaths in Iraq. 224 are U.S. citizens.</ref><ref name=icasualties4>[http://icasualties.org/Iraq/Contractors.aspx iCasualties OIF: Contractor Deaths] {{webarchive |url=https://web.archive.org/web/20140320113321/http://icasualties.org/Iraq/Contractors.aspx |date=March 20, 2014 }}. Incomplete list.</ref><ref name=usatoday916>[https://archive.today/20070625054541/http://blogs.usatoday.com/ondeadline/2007/04/reconstruction_.html "Reconstruction Report: 916 Death Claims for Civilian Contractors in Iraq"]. ''[[USA Today]]''. April 30, 2007.</ref><ref name=inspector>[http://www.sigir.mil/reports/quarterlyreports/Apr07/Default.aspx "Special Inspector General for Iraq Reconstruction: April 2007 Report"] {{webarchive |url=https://web.archive.org/web/20100224022127/http://www.sigir.mil/reports/quarterlyreports/Apr07/Default.aspx |date=February 24, 2010 }}.</ref><ref name=inspectorpdf>[[Special Inspector General for Iraq Reconstruction]]. {{cite web
+| url         = http://www.sigir.mil/reports/quarterlyreports/Apr07/pdf/Report_-_April_2007_Complete.pdf
+| title       = April 30, 2007 Quarterly Report to Congress (Highlights, All Sections and Appendices)
+| url-status     = dead
+| archiveurl  = https://web.archive.org/web/20100205152407/http://www.sigir.mil/reports/quarterlyreports/Apr07/pdf/Report_-_April_2007_Complete.pdf
+| archivedate = February 5, 2010
+| df          = mdy-all
+}} &nbsp;{{small|(10.8&nbsp;MB)}}</ref> Contractors are "Americans, Iraqis and workers from more than three dozen other countries."<ref name=contractors5>Broder, John M.; Risen, James (May 19, 2007). [https://www.nytimes.com/2007/05/19/world/middleeast/19contractors.html?pagewanted=all "Death Toll for Contractors Reaches New High in Iraq"] {{Webarchive|url=https://web.archive.org/web/20161107171451/http://www.nytimes.com/2007/05/19/world/middleeast/19contractors.html?pagewanted=all |date=November 7, 2016 }}. ''[[The New York Times]]''. Retrieved September 2, 2010. "workers from more than three dozen other countries".</ref> 10,569 wounded or injured.<ref name=contractors7 /> Contractors "cook meals, do laundry, repair infrastructure, translate documents, analyze intelligence, guard prisoners, protect military convoys, deliver water in the heavily fortified Green Zone and stand sentry at buildings – often highly dangerous duties almost identical to those performed by many U.S. troops."<ref name=contractors3>Roberts, Michelle (February 24, 2007). [http://www.deseretnews.com/dn/view/0,1249,660198347,00.html "Contractor Deaths Add Up in Iraq"] {{Webarchive|url=https://web.archive.org/web/20080613214957/http://www.deseretnews.com/dn/view/0%2C1249%2C660198347%2C00.html |date=June 13, 2008 }}. [[Associated Press]] (''via'' the ''[[Deseret Morning News]]''). Retrieved September 2, 2010. "...{{nbsp}}often highly dangerous duties almost identical to those performed by many U.S. troops."</ref> A July 4, 2007, ''[[Los Angeles Times]]'' article reported 182,000 employees of U.S.-government-funded contractors and subcontractors (118,000 Iraqi, 43,000 other, 21,000 U.S.).<ref name=icasualties4 /><ref name=contractors6>Miller, T. Christian (July 4, 2007). [https://articles.latimes.com/2007/jul/04/nation/na-private4 "Private Contractors Outnumber U.S. Troops in Iraq"] {{Webarchive|url=https://web.archive.org/web/20130707155831/http://articles.latimes.com/2007/jul/04/nation/na-private4 |date=July 7, 2013 }}. ''[[Los Angeles Times]]''. Retrieved September 2, 2010. 182,000 contractors: "21,000 Americans, 43,000 foreign contractors and about 118,000 Iraqis".</ref>
+|}
+
+Overview: Iraqi injury estimates by source
+
+{| class="wikitable"
+|- valign=top
+|
+Iraqi Human Rights Ministry
+|
+The '''[[Politics of Iraq|Human Rights Ministry of the Iraqi government]]''' recorded '''250,000''' Iraqi injuries '''between 2003 and 2012'''.<ref>[http://aknews.com/en/aknews/3/306941 "70,000 people killed in Iraq since 2003, says Human Rights Ministry"] {{webarchive |url=https://web.archive.org/web/20130117144619/http://aknews.com/en/aknews/3/306941 |date=January 17, 2013 }}. ''[[AKnews]]'' March 14, 2012</ref> The ministry had earlier reported that '''147,195''' injuries were recorded for the period '''2004–2008'''.<ref>[http://dinarrvnews.net/breakdown-iraqis-killed-war-2004-2008/ "Breakdown of Iraqis killed in war from 2004 to 2008"] {{Webarchive|url=https://web.archive.org/web/20180331000414/http://dinarrvnews.net/breakdown-iraqis-killed-war-2004-2008/ |date=March 31, 2018 }}. '''Associated Press''' October 14, 2009</ref>
+|- valign=top
+|
+Iraqi Government
+|
+'''[[Politics of Iraq|Iraqi Government]]''' spokesman [[Ali al-Dabbagh]] reported that '''239,133''' Iraqi injuries were recorded by the government '''between 2004 and 2011'''.<ref>[http://en.aswataliraq.info/(S(jjv00p2ndle0vg45z2y1qf45))/Default1.aspx?page=article_page&id=147178 "More than 69,000 Iraqis killed between "2004–2011" – al-Dabbagh"] {{Webarchive|url=https://web.archive.org/web/20161229053812/http://en.aswataliraq.info/(S(jjv00p2ndle0vg45z2y1qf45))/Default1.aspx?page=article_page&id=147178 |date=December 29, 2016 }}. ''[[Aswat al-Iraq]]'' February 29, 2012</ref>
+|- valign=top
+|
+Iraq war logs
+|
+'''[[Iraq War documents leak|Classified US military documents released by WikiLeaks]]''' in October 2010, recorded '''176,382''' injuries, including '''99,163''' civilian injuries between '''January 2004 and December 2009.'''<ref>[https://web.archive.org/web/20101026024537/http://www.iraqwarlogs.com/2010/10/22/the-war-in-numbers/ "The War in Numbers" by James Ball], October 22, 2010</ref>
+|- valign=top
+|
+Iraq Body Count
+|
+The '''[[Iraq Body Count]]''' project reported that there were '''at least 20,000 civilian injuries''' in the earliest months of the war '''between March and July 2003'''.<ref>[http://www.iraqbodycount.org/analysis/beyond/indifference-to-injury/ "Adding Indifference to Injury"] {{Webarchive|url=https://web.archive.org/web/20130106154629/http://www.iraqbodycount.org/analysis/beyond/indifference-to-injury/ |date=January 6, 2013 }}. ''Iraq Body Count'' August 7, 2003</ref> A follow up report noted that '''at least 42,500''' civilians were reported wounded in the first two years of the war '''between March 2003 and March 2005'''.<ref>[http://www.iraqbodycount.org/analysis/reference/press-releases/12/ "A Dossier of Civilian Casualties in Iraq 2003–2005"] {{Webarchive|url=https://web.archive.org/web/20120806134414/http://www.iraqbodycount.org/analysis/reference/press-releases/12/ |date=August 6, 2012 }}. ''Iraq Body Count'' July 19, 2005</ref>
+|- valign=top
+|
+UN Assistance Mission for Iraq
+|
+The '''[[United Nations Assistance Mission for Iraq]] (UNAMI)''' reported that there were '''36,685''' Iraqi injuries during the year '''2006'''.<ref>[http://www2.ohchr.org/SPdocs/Countries/bimonthly_16012007.doc "Human Rights Report 1 November – 31 December 2006"] {{Webarchive|url=https://web.archive.org/web/20120911133232/http://www2.ohchr.org/SPdocs/Countries/bimonthly_16012007.doc |date=September 11, 2012 }}. ''[[UN Assistance Mission for Iraq]]''</ref>
+|- valign=top
+|
+Iraqi Health Ministry
+|
+The '''[[Politics of Iraq|Health Ministry of the Iraqi government]]''' reported that '''38,609''' Iraqi injuries had occurred during the year '''2007''', based on statistics derived from official Iraqi health departments' records. Baghdad had the highest number of injuries (18,335), followed by Nineveh (6,217), Basra (1,387) and Kirkuk (655).<ref>[http://www.ninanews.com/English/News_Details.asp?ar95_VQ=EDGKJM "MoH reveals figures of 2007 violence victims"] {{webarchive|url=https://web.archive.org/web/20130517125248/http://www.ninanews.com/English/News_Details.asp?ar95_VQ=EDGKJM |date=May 17, 2013 }}. ''[[National Iraqi News Agency]]'' June 21, 2008</ref>
+|}
+
+== Additional statistics for the Iraq War ==
+<div style="margin: em; padding: 1em; border: 1px solid #8888aa; ">
+
+<center>'''Overview of casualties by type'''</center>
+<center>(see the rest of the article below for more info)</center>
+
+<div style="margin: 1em; padding: 1em; border: 1px solid #8888aa; ">
+
+<center>'''Dead'''</center>
+
+* Iraqis:
+* Deadliest single insurgent bombings:<ref>[[Staff writer]] (January 17, 2007). [http://www.alertnet.org/thenews/newsdesk/L17910497.htm "Chronology – The Deadliest Bomb Attacks in Iraq"] {{Webarchive|url=https://web.archive.org/web/20090321141558/http://www.alertnet.org/thenews/newsdesk/L17910497.htm |date=March 21, 2009 }}. [[Reuters]] (''via'' [[AlertNet]]). Retrieved September 2, 2010.</ref>
+** August 14, 2007. Truck bombs – [[2007 Yazidi communities bombings]] (in northwestern Iraq):
+*** 796 killed.
+* Other deadly days:
+** November 23, 2006, (281 killed) and April 18, 2007, (233 killed):
+*** "4 bombings in Baghdad kill at least 183. ... Nationwide, the number of people killed or found dead on Wednesday ''[, April 18, 2007, ]'' was 233, which was the second deadliest day in Iraq since Associated Press began keeping records in May 2005. Five [[car bombings]], [[Mortar (weapon)|mortar]] rounds and other attacks killed 281 people across Iraq on November 23, 2006, according to the AP count."<ref>{{dead link|date=September 2010}} Hurst, Steven R.; Frayer, Lauren. [https://news.yahoo.com/s/ap/20070418/ap_on_re_mi_ea/iraq "4 Bombings in Baghdad Kill at Least 183"] {{webarchive |url=https://web.archive.org/web/20070420132310/http://news.yahoo.com/s/ap/20070418/ap_on_re_mi_ea/iraq |date=April 20, 2007 }}. [[Associated Press]] (''via'' '[[Yahoo! News]]).</ref>
+</div>
+
+<div style="margin: 1em; padding: 1em; border: 1px solid #8888aa; ">
+
+[[File:Troop wounding and deaths during the Iraq war by month during 19-03-2003 to 1-09-2007.jpg|thumb|right|Graph of monthly wounded in action of U.S. military personnel in Iraq.<ref name=DODbyMonth />]]
+
+<center>'''Wounded in action'''</center>
+
+* As of January 12, 2007, 500 U.S. troops have undergone amputations due to the Iraq War. Toes and fingers are not counted.<ref name=iraqamputees />
+* As of September 30, 2006, 725 American troops have had limbs amputated from wounds received in Iraq and Afghanistan.<ref>Zimmerman, Eilene (November 8, 2006). [http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/11/08/MNG45M7CHT1.DTL&type=health "Getting Amputees Back on Their Feet – Navy's One-Stop, State-of-the-Art Rehabilitation Center in California Helps War Injured Realize Goals"] {{Webarchive|url=https://web.archive.org/web/20071115003952/http://www.sfgate.com/cgi-bin/article.cgi?f=%2Fc%2Fa%2F2006%2F11%2F08%2FMNG45M7CHT1.DTL&type=health |date=November 15, 2007 }}. ''[[San Francisco Chronicle]]''. Retrieved September 2, 2010.</ref>
+* A 2006 study by the [[Walter Reed Army Medical Center|Walter Reed Medical Center]], which serves more critically injured soldiers than most VA hospitals, concluded that 62 percent of patients there had suffered a brain injury.<ref>[http://www.alaskabraininjury.org/library/Returning%20Troops/Articles/Head%20injuries%20of%20war/Brain%20trauma%20a%20%27silent%20epidemic%27%20among%20Iraq%20veterans.doc Brain trauma a 'silent epidemic' among Iraq veterans] {{webarchive |url=https://web.archive.org/web/20130117110702/http://www.alaskabraininjury.org/library/Returning%20Troops/Articles/Head%20injuries%20of%20war/Brain%20trauma%20a%20%27silent%20epidemic%27%20among%20Iraq%20veterans.doc |date=January 17, 2013 }}. By Moni Basu. November 19, 2006. ''[[The Atlanta Journal-Constitution]].''</ref>
+* In March 2003, U.S. military personnel were [[wounded in action]] at a rate averaging about 350 per month. As of September 2007, this rate has increased to about 675 per month.<ref name=DODbyMonth />
+
+</div>
+
+<div style="margin: 1em; padding: 1em; border: 1px solid #8888aa; ">
+
+<center>'''Injured/fallen ill'''</center>
+
+* U.S. military: number unknown.
+** An October 18, 2005, ''[[USA Today]]'' article reports:
+*** "More than one in four U.S. troops have come home from the Iraq war with health problems that require medical or mental health treatment, according to [[The Pentagon]]'s first detailed screening of service members leaving a war zone."<ref>Zoroya, Gregg (October 18, 2005). [https://www.usatoday.com/news/world/iraq/2005-10-18-troops-side_x.htm?POE=NEWISVA "1 in 4 Iraq Vets Ailing on Return"] {{Webarchive|url=https://web.archive.org/web/20120921150955/http://www.usatoday.com/news/world/iraq/2005-10-18-troops-side_x.htm?POE=NEWISVA |date=September 21, 2012 }}. ''[[USA Today]]''. Retrieved September 2, 2010.</ref>
+* Iraqi combatants: number unknown
+</div>
+
+<div style="margin: 1em; padding: 1em; border: 1px solid #8888aa; ">
+
+<center>'''Refugees'''</center>
+
+* As of November 4, 2006, the [[United Nations High Commissioner for Refugees]] estimated that 1.8&nbsp;million Iraqis had been displaced to neighboring countries, and 1.6&nbsp;million were displaced internally, with nearly 100,000 Iraqis fleeing to Syria and Jordan each month.<ref name="boston.com-number">{{dead link|date=September 2010}} Higgins, Alexander G. (November 3, 2006). [https://www.boston.com/news/world/middleeast/articles/2006/11/03/un_nearly_100000_flee_iraq_monthly/ "U.N.: 100,000 Iraq Refugees Flee Monthly"] {{Webarchive|url=https://web.archive.org/web/20070904002020/http://www.boston.com/news/world/middleeast/articles/2006/11/03/un_nearly_100000_flee_iraq_monthly/ |date=September 4, 2007 }}. ''[[The Boston Globe]]''.</ref>
+</div>
+</div>
+
+== Iraqi invasion casualties ==
+Franks reportedly estimated soon after the invasion that there had been 30,000 Iraqi casualties as of April 9, 2003.<ref>{{dead link|date=September 2010}}[http://www.defenselink.mil/transcripts/2004/tr20040419-secdef1362.html "Secretary of Defense Interview with Bob Woodward – 23 Oct, 2003"] {{Webarchive|url=https://web.archive.org/web/20060730192251/http://www.defenselink.mil/transcripts/2004/tr20040419-secdef1362.html |date=July 30, 2006 }}. United States Department of Defense: News Transcript. April 19, 2004.</ref> That number comes from the transcript of an October 2003 interview of U.S. Defense Secretary [[Donald Rumsfeld]] with journalist [[Bob Woodward]]. They were discussing a number reported by ''[[The Washington Post]]''.{{When|date=September 2010}} But neither could remember the number clearly, nor whether it was just for deaths, or both deaths and wounded.
+
+A May 28, 2003, ''[[The Guardian|Guardian]]'' article reported at the Close the Iraq War of 5 Years, One Million Killed in Sectarian Strife "Extrapolating from the death-rates of between 3% and 10% found in the units around Baghdad, one reaches a toll of between 13,500 and 45,000 dead among troops and paramilitaries.<ref>Steele, Jonathan (May 28, 2003). [https://www.theguardian.com/usa/story/0,12271,965235,00.html "Body Counts – The Western Media Focused on the Number of Civilians Killed in Afghan War, But the Country's Ill-Prepared Armed Forces Suffered Far Greater Losses"]. ''[[The Guardian]]''. Retrieved September 2, 2010.</ref>
+
+An October 20, 2003, study by the [[Project on Defense Alternatives]] at [[Commonwealth Institute (Cambridge, Massachusetts)|Commonwealth Institute]] in [[Cambridge, Massachusetts]], estimated that for March 19, 2003, to April 30, 2003, the "probable death of approximately 11,000 to 15,000 Iraqis, including approximately 3,200 to 4,300 civilian noncombatants."<ref>[[Press release]] (October 28, 2003). [http://www.commondreams.org/news2003/1028-01.htm "New Study Finds: 11,000 to 15,000 Killed in Iraq War; 30 Percent are Non-Combatants; Death Toll Hurts Postwar Stability Efforts, Damages US Image Abroad"] {{webarchive|url=https://web.archive.org/web/20061017165045/http://www.commondreams.org/news2003/1028-01.htm|date=October 17, 2006}}. ''[[Project on Defense Alternatives]]'' (''via'' [[Common Dreams NewsCenter]]). Retrieved September 2, 2010.</ref><ref>Conetta, Carl (October 23, 2003). [http://www.comw.org/pda/0310rm8.html "The Wages of War: Iraqi Combatant and Noncombatant Fatalities in the 2003 Conflict – Project on Defense Alternative Research Monograph #8"] {{Webarchive|url=https://web.archive.org/web/20090831030201/http://www.comw.org/pda/0310rm8.html |date=August 31, 2009 }}. ''[[Project on Defense Alternatives]]'' (''via'' ''[[Commonwealth Institute (Cambridge, Massachusetts)|Commonwealth Institute]]''). Retrieved September 2, 2010.</ref>
+
+The [[Iraq Body Count project]] (IBC) documented a higher number of civilian deaths up to the end of the major combat phase (May 1, 2003). In a 2005 report,<ref name="Dossier">{{cite web|url=http://reports.iraqbodycount.org/a_dossier_of_civilian_casualties_2003-2005.pdf|title=A Dossier of Civilian Casualties 2003–2005|access-date=November 24, 2006|archive-url=https://web.archive.org/web/20061124082624/http://reports.iraqbodycount.org/a_dossier_of_civilian_casualties_2003-2005.pdf|archive-date=November 24, 2006|url-status=live|df=mdy-all}}&nbsp;{{small|(650&nbsp;KB)}}. [[Iraq Body Count project]]. Report covers from March 20, 2003, to March 19, 2005, based on data available by June 14, 2005.</ref> using updated information, the IBC reported that 7,299 civilians are documented to have been killed, primarily by U.S. air and ground forces. There were 17,338 civilian injuries inflicted up to May 1, 2003. The IBC says its figures are probably underestimates because: "many deaths will probably go unreported or unrecorded by officials and media."<ref name=IBC />
+
+== Iraqi civilian casualties ==
+[[File:Army.mil-2007-03-27-114351.jpg|thumb|A soldier carries a wounded Iraqi child into the Charlie Medical Centre at Camp Ramadi, Iraq (March 20, 2007).]]
+[[File:USMC-00772.jpg|thumb|A disabled 28-year-old Iraqi woman lost both of her legs during combat operations (May 7, 2006)]]
+
+=== Iraq Body Count project (IBC) ===
+An independent British-American group, the IBC project compiles reported Iraqi civilian deaths resulting from the invasion and occupation, including those caused directly by coalition military action, the [[Iraqi insurgency (Iraq War)|Iraqi insurgency]], and those resulting from excess crime. The IBC maintains that the occupying authority has a responsibility to prevent these deaths under [[international law]].
+
+Iraq Body Count project data shows that the type of attack that resulted in the most civilian deaths was execution after abduction or capture. These accounted for 33% of civilian deaths and were overwhelmingly carried out by unknown actors including insurgents, sectarian militias and criminals.<ref>{{cite journal |last1=Hicks |first1=Madelyn Hsiao-Rei |last2=Dardagan |first2=Hamit |last3=Serdán |first3=Gabriela Guerrero |last4=Bagnall |first4=Peter M. |last5=Sloboda |first5=John A. |last6=Spagat |first6=Michael |s2cid=37206162 |title=The Weapons That Kill Civilians — Deaths of Children and Noncombatants in Iraq, 2003–2008 |journal=New England Journal of Medicine |date=16 April 2009 |volume=360 |issue=16 |pages=1585–1588 |doi=10.1056/NEJMp0807240 |pmid=19369663 }}</ref>
+
+The [[Iraq Body Count project]] (IBC project), incorporating subsequent reports, has reported that by the end of the major combat phase up to April 30, 2003, 7,419 civilians had been killed, primarily by U.S. air-and-ground forces.<ref name=ibcdatabase/><ref name = Dossier />
+
+It shows a range of at least 185,194 – 208,167 total violent civilian deaths through June 2020 in their table.<ref name=ibcdatabase/> The continually updated IBC database page those numbers come from says: "Gaps in recording and reporting suggest that even our highest totals to date may be missing many civilian deaths from violence."
+
+This total represents civilian deaths due to war-related violence that have been reported by media organizations, [[non-governmental organization|non-governmental-organization]]-based reports, and official records.<ref name=IBC /> The IBC project has been criticized by some who believe it counts only a small percentage of the number of actual deaths because of its reliance on media sources.<ref name=medialens /><ref name=medialens2>[[Staff writer]] (April 28, 2006). [http://news.bbc.co.uk/2/hi/programmes/newsnight/4951508.stm "Iraq Body Count – Media Lens Responds"] {{Webarchive|url=https://web.archive.org/web/20160305151554/http://news.bbc.co.uk/2/hi/programmes/newsnight/4951508.stm |date=March 5, 2016 }}. ''[[Newsnight]]''. Retrieved September 3, 2010.</ref> The IBC project's director, [[John Sloboda]], has stated, "We've always said our work is an undercount, you can't possibly expect that a media-based analysis will get all the deaths."<ref>Fuller, David. (April 28, 2006) [http://news.bbc.co.uk/2/hi/programmes/newsnight/4951320.stm "Virtual War Follows Iraq Conflict"] {{Webarchive|url=https://web.archive.org/web/20160305071747/http://news.bbc.co.uk/2/hi/programmes/newsnight/4951320.stm |date=March 5, 2016 }}. [[BBC News]] (''via'' ''[[Newsnight]]''). Retrieved September 2, 2010.</ref> However, the IBC project rejects many of these criticisms as exaggerated or misinformed.<ref>{{Cite web |url=http://www.iraqbodycount.org/analysis/reference/pdf/a_defence_of_ibc.pdf |title=Speculation is no substitute: a defence of Iraq Body Count |access-date=March 11, 2009 |archive-url=https://web.archive.org/web/20160307072814/https://www.iraqbodycount.org/analysis/reference/pdf/a_defence_of_ibc.pdf |archive-date=March 7, 2016 |url-status=live |df=mdy-all }}</ref>
+
+Concerning the yearly totals, IBC project states: "All figures are taken from the "maximum" confirmed deaths in the IBC database. However, IBC's rates and counts will rise over the coming months, as data is still being added to the IBC database for 2006 and other periods covered here."<ref name="IBC2">[http://www.iraqbodycount.org/analysis/numbers/year-four "Year Four: Simply the Worst"] {{Webarchive|url=https://web.archive.org/web/20160105024759/https://www.iraqbodycount.org/analysis/numbers/year-four/|date=January 5, 2016}}. Press Release 15, Iraq Body Count.</ref>
+
+The IBC project released a report detailing the deaths it recorded between March 2003 and March 2005<ref name="Dossier" /> in which it recorded 24,865 civilian deaths. The report says the U.S. and its allies were responsible for the largest share (37%) of the 24,865 deaths. The remaining deaths were attributed to anti-occupations forces (9%), crime (36%) and unknown agents (11%). It also lists the primary sources used by the media – mortuaries, medics, Iraqi officials, eyewitnesses, police, relatives, U.S.-coalition, journalists, non-governmental organizations (NGOs), friends/associates and other.
+
+The Iraq Body Count (IBC) project has recorded the numbers of civilians killed in violence since the 2003 invasion of Iraq based on a "comprehensive survey of commercial media and NGO-based reports, along with official records that have been released into the public sphere. Reports range from specific, incident based accounts to figures from hospitals, morgues, and other documentary data-gathering agencies." The IBC was also given access to the [[WikiLeaks]] disclosures of the [[Iraq War Logs]].<ref name=iraqbodycountlogs/><ref>
+{{cite web
+| url        = http://www.iraqbodycount.org/about/methods/1
+| title        = Methods
+| publisher        = Iraq Body Count
+| accessdate        = October 22, 2011
+| archive-url        = https://web.archive.org/web/20110928163320/http://www.iraqbodycount.org/about/methods/1
+| archive-date        = September 28, 2011
+| url-status        = live
+| df        = mdy-all
+}}
+</ref>
+
+The Iraq Body count has been criticized by a number of scholars and studies for underestimating the death toll.<ref name="Hagopian 2018 205316801775390">{{Cite journal
+| last    = Hagopian
+| first   = Amy
+| year    = 2018
+| title   = How to estimate (and not to estimate) war deaths: A reply to van Weezel and Spagat
+| journal = Research & Politics
+| volume   = 5
+| pages   = 205316801775390
+| doi     = 10.1177/2053168017753901
+| doi-access= free
+}}</ref><ref>{{Cite journal
+| last1    = Siegler
+| first1   = Anne
+| last2   = Roberts
+| first2  = Leslie
+| last3   = Balch
+| first3  = Erin
+| last4   = Bargues
+| first4  = Emmanuel
+| last5   = Bhalla
+| first5  = Asheesh
+| last6   = Bills
+| first6  = Corey
+| last7   = Dzeng
+| first7  = Elizabeth
+| last8   = Epelboym
+| first8  = Yan
+| last9   = Foster
+| first9  = Tory
+| s2cid = 45808392
+| date    = July 2008
+| title   = Media coverage of violent deaths in iraQ: an opportunistic capture-recapture assessment
+| journal = Prehospital and Disaster Medicine
+| volume  = 23
+| issue   = 4
+| pages   = 369–371
+| issn    = 1049-023X
+| pmid    = 18935953
+| doi     = 10.1017/s1049023x00006026
+}}</ref><ref>{{Cite journal
+| last1    = Carpenter
+| first1   = Dustin
+| last2   = Fuller
+| first2  = Tova
+| last3   = Roberts
+| first3  = Les
+| date    = June 2013
+| title   = WikiLeaks and Iraq Body Count: the sum of parts may not add up to the whole-a comparison of two tallies of Iraqi civilian deaths
+| journal = Prehospital and Disaster Medicine
+| volume  = 28
+| issue   = 3
+| pages   = 223–229
+| doi     = 10.1017/S1049023X13000113
+| issn    = 1049-023X
+| pmid    = 23388622
+}}</ref> According to a 2013 Lancet article, the Iraq Body Count is "a non-peer-reviewed but innovative online and media-centred approach that passively counted non-combatant civilian deaths as they were recorded in the media and available morgue reports. In passive surveillance no special effort is made to find those deaths that go unreported. The volunteer staff collecting data for the IBC have risked criticism that their data are inherently biased because of scarcity or absence of independent verification, variation in original sources of information, and underestimation of mortality from violence... In research circles, random cross-sectional cluster sampling survey methods are deemed to be a more rigorous epidemiological method in conflict settings."<ref name="lancet2013"/>
+
+=== IBC table of violent civilian deaths ===
+
+Following are the yearly IBC Project violent civilian death totals, broken down by month from the beginning of 2003. The top of the IBC database page with the table says 185,194 – 208,167 "Documented civilian deaths from violence". That page also says: "Gaps in recording and reporting suggest that even our highest totals to date may be missing many civilian deaths from violence."<ref name=ibcdatabase/>
+
+{| class="wikitable mw-datatable sortable" border=1 style=text-align:right;
+|+ Monthly civilian deaths from violence, 2003 onwards<ref name=ibcdatabase/>
+|-
+!
+!Jan
+!Feb
+!Mar
+!Apr
+!May
+!Jun
+!Jul
+!Aug
+!Sep
+!Oct
+!Nov
+!Dec
+!Yearly<br>totals
+|-
+! <br>!! !! !! !! !! !! !! !! !! !! !! !! !!
+|-
+!2003
+|3
+|2
+|3977
+|3438
+|545
+|597
+|646
+|833
+|566
+|515
+|487
+|524
+|12,133
+|-
+!2004
+|610
+|663
+|1004
+|1303
+|655
+|910
+|834
+|878
+|1042
+|1033
+|1676
+|1129
+|11,737
+|-
+!2005
+|1222
+|1297
+|905
+|1145
+|1396
+|1347
+|1536
+|2352
+|1444
+|1311
+|1487
+|1141
+|16,583
+|-
+!2006
+|1546
+|1579
+|1957
+|1805
+|2279
+|2594
+|3298
+|2865
+|2567
+|3041
+|3095
+|2900
+|29,526
+|-
+!2007
+|3035
+|2680
+|2728
+|2573
+|2854
+|2219
+|2702
+|2483
+|1391
+|1326
+|1124
+|997
+|26,112
+|-
+!2008
+|861
+|1093
+|1669
+|1317
+|915
+|755
+|640
+|704
+|612
+|594
+|540
+|586
+|10,286
+|-
+!2009
+|372
+|409
+|438
+|590
+|428
+|564
+|431
+|653
+|352
+|441
+|226
+|478
+|5,382
+|-
+!2010
+|267
+|305
+|336
+|385
+|387
+|385
+|488
+|520
+|254
+|315
+|307
+|218
+|4,167
+|-
+!2011
+|389
+|254
+|311
+|289
+|381
+|386
+|308
+|401
+|397
+|366
+|288
+|392
+|4,162
+|-
+!2012
+|531
+|356
+|377
+|392
+|304
+|529
+|469
+|422
+|400
+|290
+|253
+|299
+|4,622
+|-
+!2013
+|357
+|360
+|403
+|545
+|888
+|659
+|1145
+|1013
+|1306
+|1180
+|870
+|1126
+|9,852
+|-
+!2014
+|1097
+|972
+|1029
+|1037
+|1100
+|4088
+|1580
+|3340
+|1474
+|1738
+|1436
+|1327
+|20,218
+|-
+!2015
+|1490
+|1625
+|1105
+|2013
+|1295
+|1355
+|1845
+|1991
+|1445
+|1297
+|1021
+|1096
+|17,578
+|-
+!2016
+|1374
+|1258
+|1459
+|1192
+|1276
+|1405
+|1280
+|1375
+|935
+|1970
+|1738
+|1131
+|16,393
+|-
+!2017
+|1119
+|982
+|1918
+|1816
+|1871
+|1858
+|1498
+|597
+|490
+|397
+|346
+|291
+|13,183
+|-
+!2018
+|474
+|410
+|402
+|303
+|229
+|209
+|230
+|201
+|241
+|305
+|160
+|155
+|3,319
+|-
+!2019
+|323
+|271
+|123
+|140
+|166
+|130
+|145
+|93
+|151
+|361
+|274
+|215
+|2,392
+|-
+!2020
+|114
+|147
+|73
+|50
+|74
+|64
+|47
+|81
+|54
+|70
+|
+|
+|774
+|}
+
+=== People's Kifah ===
+
+The Iraqi political party [[People's Kifah, or Struggle Against Hegemony]] (PK) said that its survey conducted between March and June 2003 throughout the non-Kurdish areas of Iraq tallied 36,533 civilians killed in those areas by June 2003. While detailed town-by-town totals were given by the PK spokesperson, details of methodology are very thin and raw data is not in the public domain. A still-less-detailed report on this study appeared some months later on [[Al Jazeera]]'s website, and covered casualties up to October 2003.<ref>{{dead link|date=September 2010}} {{Cite news
+| title       = Iraqi Group: Civilian Toll over 37,000
+| url         = http://english.aljazeera.net/NR/exeres/66E32EAF-0E4E-4765-9339-594C323A777F.htm
+| first       = Ahmed
+| last        = Janabi
+| date        = July 31, 2004
+| publisher   = [[Al Jazeera]]
+| url-status     = dead
+| archiveurl  = https://web.archive.org/web/20050911040355/http://english.aljazeera.net/NR/exeres/66E32EAF-0E4E-4765-9339-594C323A777F.htm
+| archivedate = September 11, 2005
+}}</ref>
+
+== Iraqi refugees crisis ==
+{{Main|Refugees of Iraq}}
+
+Roughly 40 percent of Iraq's middle class is believed to have fled, the U.N. said. Most are fleeing systematic persecution and have no desire to return. All kinds of people, from university professors to bakers, have been targeted by [[militias]], [[Iraqi insurgency (Iraq War)|Iraqi insurgents]] and criminals. An estimated 331 school teachers were slain in the first four months of 2006, according to [[Human Rights Watch]], and at least 2,000 Iraqi doctors have been killed and 250 kidnapped since the 2003 U.S. invasion.<ref>Lochhead, Carolyn (January 16, 2007). [http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/01/16/MNG2MNJBIS1.DTL "Conflict in Iraq – Iraq Refugee Crisis Exploding – 40% of Middle Class Believed To Have Fled Crumbling Nation"] {{Webarchive|url=https://web.archive.org/web/20120514154640/http://www.sfgate.com/cgi-bin/article.cgi?file=%2Fc%2Fa%2F2007%2F01%2F16%2FMNG2MNJBIS1.DTL |date=May 14, 2012 }}. ''[[San Francisco Chronicle]]''. Retrieved September 3, 2010.</ref>
+
+== Coalition military casualties ==
+{{Coalition casualties in Iraq}}
+[[File:USCasualtiesC130DoverAFB.jpg|thumb|left|Most U.S. casualties, like these in a [[Boeing C-17 Globemaster III|C-17]] [[military transport aircraft]], return to [[Dover Air Force Base]] in [[Dover, Delaware]]. (unknown date)]]
+
+For the latest casualty numbers see the overview chart at the top of the page. 
+
+Since the official handover of power to the [[Iraqi Interim Government]] on June 28, 2004, coalition soldiers have continued to come under attack in towns across Iraq.
+
+[[National Public Radio]], [[iCasualties.org]], and GlobalSecurity.org have month-by-month charts of American troop deaths in the Iraq War.<ref name=nprchart /><ref>[http://icasualties.org/oif/US_chart.aspx iCasualties: OIF US Fatalities by month] {{Webarchive|url=https://web.archive.org/web/20080828022718/http://www.icasualties.org/oif/US_chart.aspx |date=August 28, 2008 }}. At [[iCasualties.org]]</ref><ref>[http://www.globalsecurity.org/military/ops/iraq_casualties.htm U.S. Casualties in Iraq] {{Webarchive|url=https://web.archive.org/web/20110428043422/http://www.globalsecurity.org/military/ops/iraq_casualties.htm |date=April 28, 2011 }}. At GlobalSecurity.org</ref>[[File:USMarineKIAAprl2003.jpg|thumb|left|A [[United States Marine Corps|U.S. Marine]] killed in April 2003 is carried away after receiving his [[Last Rites]].]]
+The combined total of coalition and contractor casualties in the conflict is now over ten times that of the 1990–1991 [[Gulf War]]. In the Gulf War, coalition forces suffered around 378 deaths, and among the Iraqi military, tens of thousands were killed, along with thousands of civilians.
+
+=== Troops fallen ill, injured, or wounded ===
+See the overview chart at the top of the page for recent numbers.
+
+On August 29, 2006, ''[[The Christian Science Monitor]]'' reported:<ref>Knickerbocker, Brad (August 29, 2006). [http://www.csmonitor.com/2006/0829/p03s02-usmi.html "In Iraq, Fewer Killed, More Are Wounded – New Data Show Better Technology and Tactics Are Keeping Fatalities Down, But Injuries Remain High"] {{Webarchive|url=https://web.archive.org/web/20070309130700/http://www.csmonitor.com/2006/0829/p03s02-usmi.html |date=March 9, 2007 }}. ''[[The Christian Science Monitor]]''. Retrieved September 3, 2010.</ref> "Because of new body armor and advances in military medicine, for example, the ratio of combat-zone deaths to those wounded has dropped from 24 percent in Vietnam to 13 percent in Iraq and Afghanistan. In other words, the numbers of those killed as a percentage of overall casualties is lower."
+
+[[File:C-17 Medevac mission, Balad AB, Iraq.jpg|thumb|left|Wounded U.S. personnel flown from Iraq to [[Ramstein Air Base]], Germany, for medical treatment. (February 2007)]]
+Many U.S. veterans of the Iraq War have reported a range of serious health issues, including [[tumor]]s, daily blood in urine and stool, [[sexual dysfunction]], [[migraine]]s, frequent muscle [[spasm]]s, and other symptoms similar to the debilitating symptoms of "[[Gulf War syndrome]]" reported by many veterans of the 1991 Gulf War, which some believe is related to the U.S.'s use of [[Radioactive decay|radioactive]] [[depleted uranium]].<ref>{{Cite news
+| author      = Hastings, Deborah
+| url         = http://www.commondreams.org/headlines06/0812-06.htm
+| title       = Is An Armament Sickening U.S. Soldiers?
+| agency      = [[Associated Press]] (''via'' ''[[Common Dreams NewsCenter]]''
+| date        = August 12, 2006
+| accessdate  = September 3, 2010
+| url-status     = dead
+| archiveurl  = https://web.archive.org/web/20140703032800/http://www.commondreams.org/headlines06/0812-06.htm
+| archivedate = July 3, 2014
+}}</ref>
+
+A study of U.S. veterans published in July 2004 in ''[[The New England Journal of Medicine]]'' on [[posttraumatic stress disorder]] (PTSD) and other mental disorders in Iraq and Afghanistan veterans found that 5 percent to 9.4 percent (depending on the strictness of the PTSD definition used) suffered from PTSD before deployment. After deployment, 6.2 percent to 19.9 percent suffered from PTSD. For the broad definition of PTSD that represents an increase of 10.5 percent (19.9 percent – 9.4 percent = 10.5 percent). That is 10,500 additional cases of PTSD for every 100,000 U.S. troops after they have served in Iraq. [[ePluribus Media]], an independent citizen journalism collective, is tracking and cataloging press-reported possible, probable, or confirmed incidents of post-deployment or combat-zone cases in its PTSD Timeline.<ref>{{Registration required|date=September 2010}} Hoge, M.D., Charles W.; Castro, PhD, Carl A.; Messer, PhD, Stephen C.; McGurk, PhD, Dennis; Cotting, PhD, Dave I.; and Koffman, M.D., M.P.H., Robert L. (July 1, 2004). [http://content.nejm.org/cgi/content/full/351/1/13/T3 "Combat Duty in Iraq and Afghanistan, Mental Health Problems, and Barriers to Care"] {{Webarchive|url=https://web.archive.org/web/20050121215631/http://content.nejm.org/cgi/content/full/351/1/13/T3 |date=January 21, 2005 }}. ''[[The New England Journal of Medicine]]''.</ref>
+
+Information on injuries suffered by troops of other coalition countries is less readily available, but a statement in [[Hansard]] indicated that 2,703 U.K. soldiers had been medically evacuated from Iraq for wounds or injuries as of October 4, 2004, and that 155 U.K. troops were wounded in combat in the initial invasion.<ref>{{cite web
+| url        = http://www.parliament.the-stationery-office.co.uk/pa/cm200304/cmhansrd/cm041004/text/41004w30.htm#41004w30.html_wqn2
+| archive-date = September 18, 2012
+| archive-url = https://archive.today/20120918155649/http://www.parliament.the-stationery-office.co.uk/pa/cm200304/cmhansrd/cm041004/text/41004w30.htm%2341004w30.html_wqn2
+| url-status   = dead
+| title      = House of Commons Hansard Written Answers for 4 October 2004
+| publisher  = [[Parliament of the United Kingdom|The United Kingdom Parliament]]
+| accessdate = September 3, 2010
+}}</ref>
+
+[[Leishmaniasis]] has been reported by U.S. troops stationed in Iraq, including [[visceral leishmaniasis]].<ref>{{cite journal
+| pmid    = 15881551
+| volume  = 55
+| issue  = 1–4
+| title   = Leishmaniasis among soldiers of stabilization forces in Iraq. Review article
+| journal = Int Marit Health
+| pages   = 155–63
+| last1   = Korzeniewski
+| first1  = K
+| last2   = Olszański
+| first2  = R
+| year    = 2004
+}}</ref> Leishmaniasis, spread by biting [[Phlebotominae|sand fleas]], was diagnosed in hundreds of U.S. troops compared to just 32 during the [[Persian Gulf War|first Gulf War]].<ref>A REGION INFLAMED: MEDICINE; Hundreds of U.S. Troops Infected by Parasite Borne by Sand Flies, Army Says
+By DONALD G. MCNEIL JR.December 6, 2003 https://www.nytimes.com/2003/12/06/world/region-inflamed-medicine-hundreds-us-troops-infected-parasite-borne-sand-flies.html {{Webarchive|url=https://web.archive.org/web/20180110174528/http://www.nytimes.com/2003/12/06/world/region-inflamed-medicine-hundreds-us-troops-infected-parasite-borne-sand-flies.html |date=January 10, 2018 }}</ref>
+
+=== Accidents and negligence ===
+As of August 2008, sixteen American troops have died from accidental electrocutions in Iraq according to the Defense Department.<ref>{{Cite news
+| author       = Staff writer
+| url          = https://www.usatoday.com/news/world/iraq/2008-07-25-iraq-contractors_N.htm
+| agency       = [[Associated Press]] (''via'' ''[[USA Today]]''
+| title        = Pentagon: 16 Soldiers Died from Electric Shock
+| date         = July 25, 2008
+| accessdate   = September 3, 2010
+| archive-url  = https://web.archive.org/web/20090530030024/http://www.usatoday.com/news/world/iraq/2008-07-25-iraq-contractors_N.htm
+| archive-date = May 30, 2009
+| url-status     = live
+| df           = mdy-all
+| author-link = Staff writer
+}}</ref> One soldier had been electrocuted in a shower, while another had been electrocuted in a swimming pool. [[KBR (company)|KBR]], the contractor responsible, had been warned by employees of unsafe practices, and was criticised following the revelations.<ref>{{Registration required|date=September 2010}} {{Cite news
+| url          = https://www.nytimes.com/2008/05/04/world/middleeast/04electrocute.html?partner=rssuserland&emc=rss&pagewanted=all
+| work         = [[The New York Times]]
+| title        = Despite Alert, Flawed Wiring Still Kills G.I.'s
+| first        = James
+| last         = Risen
+| date         = May 4, 2008
+| accessdate   = April 1, 2010
+| archive-url  = https://web.archive.org/web/20140811024434/http://www.nytimes.com/2008/05/04/world/middleeast/04electrocute.html?partner=rssuserland&emc=rss&pagewanted=all
+| archive-date = August 11, 2014
+| url-status     = live
+| df           = mdy-all
+}}</ref>
+
+=== ''Nightline'' controversy ===
+[[Ted Koppel]], host of [[American Broadcasting Company|ABC]]'s ''[[Nightline]]'', devoted his entire show on April 30, 2004, to reading the names of 721 of the 737 U.S. troops who had died thus far in Iraq. (The show had not been able to confirm the remaining sixteen names.) Claiming that the broadcast was “motivated by a political agenda designed to undermine the efforts of the United States in Iraq", the [[Sinclair Broadcast Group]] took the action of barring the seven ABC [[Network affiliate|network-affiliated stations]] it controls from airing the show. The decision to censor the broadcast drew criticism from both sides, including members of the armed forces, opponents of the war, [[MoveOn.org]], and most notably [[Republican Party (United States)|Republican]] [[United States Senate|U.S. Senator]] [[John McCain]], who denounced the move as "unpatriotic" and "a gross disservice to the public".<ref>{{Cite news
+| url          = https://www.cbsnews.com/news/nightline-sparks-controversy/
+| title        = 'Nightline' Sparks Controversy
+| access-date  = May 13, 2018
+| archive-url  = https://web.archive.org/web/20180513225652/https://www.cbsnews.com/news/nightline-sparks-controversy/
+| archive-date = May 13, 2018
+| url-status     = live
+}}</ref><ref>{{Cite web
+| url          = http://www.abc.net.au/pm/content/2004/s1099041.htm
+| title        = PM – Controversy over reportage of dead US soldiers
+| publisher    = Australian Broadcasting Corporation
+| access-date  = May 13, 2018
+| archive-url  = https://web.archive.org/web/20170512142049/http://www.abc.net.au/pm/content/2004/s1099041.htm
+| archive-date = May 12, 2017
+| url-status     = live
+}}</ref><ref>{{Cite web
+| url          = https://www.pbs.org/newshour/nation/media-jan-june05-koppel_03-31
+| title        = Nightline Anchor Ted Koppel to Leave Abc News in December
+| website      = PBS NewsHour
+| access-date  = May 13, 2018
+| archive-url  = https://web.archive.org/web/20180513224054/https://www.pbs.org/newshour/nation/media-jan-june05-koppel_03-31
+| archive-date = May 13, 2018
+| url-status     = live
+| date        = 2005-03-31
+}}</ref>
+
+=== Amputees ===
+[[File:RPG wounded Iraq veteran exercising Army-dot-mil-2007-02-07-103140.jpg|thumb|Amputee U.S. soldier (February 2007)]]
+As of January 18, 2007, there were at least 500 American amputees due to the Iraq War. In 2016, the number was estimated to be 1,650 U.S. troops.<ref>{{cite web|url=https://www.stripes.com/2016-marks-first-year-without-combat-amputation-since-afghan-iraq-wars-began-1.459288|author= NANCY MONTGOMERY|date=March 18, 2017|publisher=Stars and Stripes}}</ref> The 2007 estimate suggests amputees represent 2.2% of the 22,700 U.S. troops wounded in action (5% for soldiers whose wounds prevented them returning to duty).<ref name="iraqamputees">[[Michael Weisskopf|Weisskopf, Michael]] (January 18, 2007). [http://www.time.com/time/nation/article/0,8599,1580531,00.html "A Grim Milestone: 500 Amputees"] {{Webarchive|url=https://web.archive.org/web/20070121114206/http://www.time.com/time/nation/article/0,8599,1580531,00.html |date=January 21, 2007 }}. ''[[Time (magazine)|Time]]''. Retrieved September 2, 2010.</ref>
+
+=== Traumatic brain injuries ===
+By March 2009, the Pentagon estimated as many as 360,000 U.S. veterans of the Iraq and Afghanistan conflicts may have suffered [[traumatic brain injury|traumatic brain injuries]] (TBI), including 45,000 to 90,000 veterans with persistent symptoms requiring specialized care.<ref>Zoroya, Gregg (March 4, 2009). [https://www.usatoday.com/news/military/2009-03-04-braininjuries_N.htm "360,000 Veterans May Have Brain Injuries"] {{Webarchive|url=https://web.archive.org/web/20120911020255/http://www.usatoday.com/news/military/2009-03-04-braininjuries_N.htm |date=September 11, 2012 }}. ''[[USA Today]]''. Retrieved September 3, 2010.</ref>
+
+In February 2007, one expert from the [[United States Department of Veterans Affairs|VA]] estimated that the number of undiagnosed TBIs were higher than 7,500.<ref>Mason, Michael (February 23, 2007). [http://discovermagazine.com/2007/mar/dead-men-walking "Dead Men Walking – What Sort of Future Do Brain-Injured Iraq Veterans Face?"] {{Webarchive|url=https://web.archive.org/web/20101214204127/http://discovermagazine.com/2007/mar/dead-men-walking |date=December 14, 2010 }}. ''[[Discover (magazine)|Discover]]''. Retrieved November 21, 2010.</ref>
+
+According to ''[[USA Today]]'', by November 2007 there were more than an estimated 20,000 US troops who had signs of brain injuries without being classified as wounded during combat in Iraq and Afghanistan.<ref name="braininjuries">Zoroya, Gregg (November 22, 2007). [https://www.usatoday.com/news/military/2007-11-22-braininjuries_N.htm "20,000 Vets' Brain Injuries Not Listed in Pentagon Tally"] {{Webarchive|url=https://web.archive.org/web/20120107023534/http://www.usatoday.com/news/military/2007-11-22-braininjuries_N.htm |date=January 7, 2012 }}. ''[[USA Today]]''. Retrieved September 3, 2010.</ref>
+
+=== Mental illness and suicide ===
+A top [[United States Army|U.S. Army]] [[psychiatrist]], Colonel Charles Hoge, said in March 2008 that nearly 30% of troops on their third deployment suffered from serious [[mental health|mental-health]] problems, and that one year was not enough time between combat tours.<ref name=time2008june />
+
+A March 12, 2007, [[Time (magazine)|''Time'']] article<ref>Wallis, Claudia (March 12, 2007). [http://www.time.com/time/nation/article/0,8599,1598474,00.html "Casualty of War: Mental Health"] {{Webarchive|url=https://web.archive.org/web/20070315073938/http://www.time.com/time/nation/article/0,8599,1598474,00.html |date=March 15, 2007 }}. ''[[Time (magazine)|Time]]''. Retrieved September 3, 2010.</ref> reported on a study published in the ''[[Archives of Internal Medicine]]''. About one third of the 103,788 veterans returning from the Iraq and Afghanistan wars seen at [[United States Department of Veterans Affairs|U.S. Department of Veterans Affairs]] facilities between September 30, 2001, and September 30, 2005, were diagnosed with mental illness or a psycho-social disorder, such as [[homelessness]] and marital problems, including [[domestic violence]]. More than half of those diagnosed, 56 percent, were suffering from more than one disorder. The most common combination was [[post-traumatic stress disorder]] and depression.
+
+In January 2008, the U.S. Army reported that the rate of suicide among soldiers in 2007 was the highest since the Army started counting in 1980. There were 121 suicides in 2007, a 20-percent jump over the prior year. Also, there were around 2100 attempted suicides and self-injuries in 2007.<ref>[[Staff writer]] (January 31, 2008). [http://www.foxnews.com/story/0,2933,327048,00.html "Army Report Reveals 121 Suspected Suicides Among Soldiers in 2007, 20 Percent Increase Over 2006"] {{Webarchive|url=https://web.archive.org/web/20080203162520/http://www.foxnews.com/story/0,2933,327048,00.html |date=February 3, 2008 }}. [[Associated Press]] (''via'' ''[[Fox News]]''). Retrieved September 3, 2010.</ref> Other sources reveal higher estimates.<ref>[http://www.armytimes.com/prime/2010/04/military_veterans_suicide_042210w/ 18 veterans commit suicide each day]. April 26, 2010. [[Army Times]].</ref>
+
+''Time'' magazine reported on June 5, 2008:
+
+<blockquote>Data contained in the Army's fifth Mental Health Advisory Team report indicate that, according to an anonymous survey of U.S. troops taken last fall, about 12% of combat troops in Iraq and 17% of those in Afghanistan are taking [[prescription drug|prescription]] [[antidepressants]] or [[Hypnotic|sleeping pills]] to help them cope. ... About a third of soldiers in Afghanistan and Iraq say they can't see a mental-health professional when they need to. When the number of troops in Iraq surged by 30,000 last year, the number of Army mental-health workers remained the same – about 200 – making counseling and care even tougher to get.<ref name=time2008june>[[Mark Thompson (reporter)|Thompson, Mark]] (June 5, 2008). [http://www.time.com/time/nation/article/0,8599,1811858,00.html?xid=rss-nation "America's Medicated Army"] {{Webarchive|url=https://web.archive.org/web/20090114104846/http://www.time.com/time/nation/article/0,8599,1811858,00.html?xid=rss-nation |date=January 14, 2009 }}. ''[[Time (magazine)|Time]]''. Retrieved September 3, 2010.</ref></blockquote>
+
+In the same article ''Time'' also reported on some of the reasons for the prescription drug use:
+
+<blockquote>That imbalance between seeing the price of war up close and yet not feeling able to do much about it, the survey suggests, contributes to feelings of "intense fear, helplessness or horror" that plant the seeds of mental distress. "A friend was liquefied in the driver's position on a tank, and I saw everything", was a typical comment. Another: "A huge f______ bomb blew my friend's head off like 50 meters from me." Such indelible scenes – and wondering when and where the next one will happen – are driving thousands of soldiers to take antidepressants, military psychiatrists say. It's not hard to imagine why.<ref name=time2008june /></blockquote>
+
+Concern has been expressed by mental health professionals about the effects on the emotional health and development of returning veterans' infants and children, due to the increased rates of interpersonal violence, posttraumatic stress, depression, and substance abuse that have been reported among these veterans.<ref name="auto">{{cite journal
+| last1      = Schechter
+| first1     = D.S.
+| authorlink = Daniel Schechter
+| last2      = Davis
+| first2     = B.E.
+| year       = 2007
+| title      = Parenting in Times of Crisis
+| journal    = [[Pediatric Annals]]
+| volume     = 36
+| issue      = 4
+| pages      = 216–222
+| doi        = 10.3928/0090-4481-20070401-11
+| pmid = 17469302
+}}</ref><ref name="psychiatricannalsonline1">{{Cite web |url=http://www.psychiatricannalsonline.com/view.asp?rid=22205 |title=''Psychiatric Annals'' |access-date=January 17, 2010 |archive-url=https://web.archive.org/web/20110715130715/http://www.psychiatricannalsonline.com/view.asp?rid=22205 |archive-date=July 15, 2011 |url-status=live |df=mdy-all }}</ref><ref>{{cite journal
+| last1   = Sayers
+| first1  = S.L.
+| last2   = Farrow
+| first2  = V.A.
+| last3   = Ross
+| first3  = J.
+| last4   = Oslin
+| first4  = D.W.
+| s2cid = 23797701
+| year    = 2009
+| title   = Family Problems Among Recently Returned Military Veterans Referred for a Mental Health Evaluation
+| journal = [[Journal of Clinical Psychiatry]]
+| volume  = 70
+| issue   = 2
+| pages   = 163–170
+| doi     = 10.4088/jcp.07m03863
+| pmid = 19210950
+}}</ref> Moreover, the stressful effects of physical casualties and loss pose enormous stress for the primary caregiver that can adversely affect her or his parenting, as well as the couple's children directly.<ref>{{cite journal
+| last1   = McFarlane
+| first1  = A.C.
+| s2cid = 33825488
+| year    = 2009
+| title   = Military Deployment: The Impact on Children and Family Adjustment and the Need for Care
+| journal = [[Current Opinion in Psychiatry]]
+| volume  = 22
+| issue   = 4
+| pages   = 369–373
+| doi     = 10.1097/yco.0b013e32832c9064
+| pmid  = 19424067
+}}</ref> The mental health needs of military families in the aftermath of combat exposure and other war-related trauma have been thought likely to be inadequately addressed by the military health system that separates mental health care of the returning soldier from his or her family's care, the latter of whom is generally covered under a contracted, civilian managed-care system.<ref name="psychiatricannalsonline1" /><ref name="auto" />
+
+== Iraqi insurgent casualties ==
+In 2003, 597 insurgents were killed, according to the U.S. military.<ref name="usatoday1">{{Cite news
+| url          = https://www.usatoday.com/news/world/iraq/2007-09-26-insurgents_N.htm
+| work         =[[USA Today]]
+| title        = 19,000 Insurgents Killed in Iraq Since '03
+| first        = Jim
+| last         = Michaels
+| date         = September 27, 2007
+| accessdate   = September 3, 2010
+| archive-url  = https://web.archive.org/web/20110428200503/http://www.usatoday.com/news/world/iraq/2007-09-26-insurgents_N.htm
+| archive-date = April 28, 2011
+| url-status     = live
+| df           = mdy-all
+}}</ref> From January 2004 through December 2009 (not including May 2004 and March 2009), 23,984 insurgents were estimated to have been killed based on reports from Coalition soldiers on the frontlines.<ref>
+{{cite news
+| url     = https://www.theguardian.com/world/2010/oct/22/true-civilian-body-count-iraq
+| location     = London
+| work     = The Guardian
+| first     = David
+| last     = Leigh
+| title     = Iraq war logs reveal 15,000 previously unlisted civilian deaths
+| date     = October 22, 2010
+| access-date     = December 11, 2016
+| archive-url     = https://web.archive.org/web/20130730184028/http://www.theguardian.com/world/2010/oct/22/true-civilian-body-count-iraq
+| archive-date     = July 30, 2013
+| url-status     = live
+| df     = mdy-all
+}}
+</ref> In the two missing months from the estimate, 652 were killed in May 2004,<ref name=iraqbodycountlogs/> and 45 were killed in March 2009.<ref>
+{{cite web
+ |url          = http://www.reliefweb.int/rw/rwb.nsf/db900sid/CJAL-7QPQB7?OpenDocument
+ |title        = March violence claims 252 Iraqi lives &#124; ReliefWeb
+ |publisher    = Reliefweb.int
+ |date         = April 1, 2009
+ |accessdate   = October 22, 2011
+ |archive-url  = https://web.archive.org/web/20090903190008/http://www.reliefweb.int/rw/rwb.nsf/db900sid/CJAL-7QPQB7?OpenDocument
+ |archive-date = September 3, 2009
+ |url-status     = live
+ |df           = mdy-all
+}}
+</ref> In 2010, another 676 insurgents were killed.<ref>
+{{cite web
+ |url          = https://www.bloomberg.com/news/2010-12-30/iraq-civilian-deaths-drop-for-third-year-as-toll-eases-after-u-s-drawdown.html
+ |title        = Iraq Civilian Deaths Drop for Third Year as Toll Eases After U.S. Drawdown
+ |author       = Viola Gienger
+ |date         = December 30, 2010
+ |work         = Bloomberg
+ |accessdate   = October 27, 2014
+ |archive-url  = https://web.archive.org/web/20140804181246/http://www.bloomberg.com/news/2010-12-30/iraq-civilian-deaths-drop-for-third-year-as-toll-eases-after-u-s-drawdown.html
+ |archive-date = August 4, 2014
+ |url-status     = live
+ |df           = mdy-all
+}}
+</ref> In January and March through October 2011, 451 insurgents were killed.<ref>
+{{cite web
+| url      = http://news.theage.com.au/breaking-news-world/jan-iraq-death-toll-highest-in-four-months-20110201-1ac9m.html
+| title      = Jan Iraq death toll highest in four months
+| work      = The Age
+| accessdate      = October 27, 2014
+| date      = February 2011
+| archive-url      = https://web.archive.org/web/20140714071733/http://news.theage.com.au/breaking-news-world/jan-iraq-death-toll-highest-in-four-months-20110201-1ac9m.html
+| archive-date      = July 14, 2014
+| url-status      = live
+| df      = mdy-all
+}}
+</ref><ref>
+{{cite web
+| url        = http://www.upi.com/Top_News/World-News/2011/04/03/Two-US-troops-killed-in-Iraq/UPI-84151301845983/
+| title        = Two U.S. troops killed in Iraq
+| agency        = United Press International
+| accessdate        = October 27, 2014
+| archive-url        = https://web.archive.org/web/20150209184621/http://www.upi.com/Top_News/World-News/2011/04/03/Two-US-troops-killed-in-Iraq/UPI-84151301845983/
+| archive-date        = February 9, 2015
+| url-status        = live
+| df        = mdy-all
+}}
+</ref><ref>
+{{cite web
+| url        = http://www.spacewar.com/reports/Iraq_monthly_death_toll_falls_in_April_999.html
+| title        = Iraq monthly death toll falls in April
+| accessdate        = October 27, 2014
+| archive-url        = https://web.archive.org/web/20140812043950/http://www.spacewar.com/reports/Iraq_monthly_death_toll_falls_in_April_999.html
+| archive-date        = August 12, 2014
+| url-status        = live
+| df        = mdy-all
+}}
+</ref><ref>
+{{cite web
+| url      = http://www.middle-east-online.com/english/?id=46442
+| title      = Iraq death toll in May lowest in 2011
+| accessdate      = October 27, 2014
+| date      = 22 March 2018
+| archive-url      = https://web.archive.org/web/20150209184820/http://www.middle-east-online.com/english/?id=46442
+| archive-date      = February 9, 2015
+| url-status      = live
+| df      = mdy-all
+}}
+</ref><ref>{{cite web
+| url         = http://www.thedailynewsegypt.com/death-toll-spikes-for-iraqis-us-troops.html
+| title       = Homepage – Daily News Egypt
+| url-status     = dead
+| archiveurl  = https://web.archive.org/web/20120111145441/http://www.thedailynewsegypt.com/death-toll-spikes-for-iraqis-us-troops.html
+| archivedate = January 11, 2012
+}}</ref><ref>{{cite web
+| url          = http://www.arabia.msn.com/News/MiddleEast/AFP/2011/August/7991554.aspx
+| archive-url  = http://web.archive.bibalex.org/web/20111208174352/http://arabia.msn.com/news/middleeast/afp/2011/august/7991554.aspx
+| url-status     = dead
+| archive-date = December 8, 2011
+| title        = Iraq death toll for July second highest in 2011
+| publisher    = MSN
+| accessdate   = October 27, 2014
+}}</ref><ref>[http://www.nenosplace.com/showthread.php?45792-239-people-killed-in-Iraq-in-August-and-killed-by-the-U.S.-military 239 people killed in Iraq in August and killed by the U.S. military] {{webarchive |url=https://web.archive.org/web/20120112042255/http://www.nenosplace.com/showthread.php?45792-239-people-killed-in-Iraq-in-August-and-killed-by-the-U.S.-military |date=January 12, 2012 }}</ref><ref>[http://gulf-times.com/site/topics/article.asp?cu_no=2&item_no=461485&version=1&template_id=37&parent_id=17 Death toll in Iraq falls in September] {{webarchive |url=https://web.archive.org/web/20111002182259/http://gulf-times.com/site/topics/article.asp?cu_no=2&item_no=461485&version=1&template_id=37&parent_id=17 |date=October 2, 2011 }}</ref><ref>[https://montrealgazette.com/news/Iraq+death+toll+sharply+October/5638077/story.html Iraq death toll up sharply in October] {{webarchive|url=https://web.archive.org/web/20111111064434/http://www.montrealgazette.com/news/Iraq+death+toll+sharply+October/5638077/story.html |date=November 11, 2011 }}</ref> Based on all of these estimates some 26,405 insurgents/militia were killed from 2003, up until late 2011.
+
+However, this number could be  Low compared to reality; insurgents clashed between each others and those killed by illness are not counted. There have been contradictions between the figures released by the U.S. military and those released by the Iraqi government. For example, the U.S. military's number of insurgents killed in 2005, is 3,247, which is in contrast to the Iraqi government's figure of 1,734, however, fear of civilians fatalities, numbers were lowered.<ref>[[Staff writer]] (January 4, 2006). [http://english.people.com.cn/200601/04/eng20060104_232729.html "Nearly 6,000 Killed in Iraq Violence in 2005"] {{Webarchive|url=https://web.archive.org/web/20121018013740/http://english.people.com.cn/200601/04/eng20060104_232729.html |date=October 18, 2012 }}. ''[[People's Daily]]''. Retrieved September 3, 2010.</ref> In 2007, 4,544 militants were killed according to the Iraqi ministries,<ref>
+{{Cite newspaper
+| url      = https://www.reuters.com/article/2007/12/31/us-iraq-idUSCOL16978920071231
+| title      = Civilian casualties drop dramatically in Iraq
+| journal      = Reuters
+| agency      = Reuters
+| accessdate      = October 27, 2014
+| date      = 2007-12-31
+| archive-url      = https://web.archive.org/web/20141111225002/http://www.reuters.com/article/2007/12/31/us-iraq-idUSCOL16978920071231
+| archive-date      = November 11, 2014
+| url-status      = live
+| df      = mdy-all
+}}
+</ref> while the U.S. military claimed 6,747 died. Also, in 2008, 2,028 insurgents were reported killed<ref>[[Staff writer]] (January 1, 2009). [http://www.middle-east-online.com/english/?id=29497 "Iraq Hails Lowest Monthly Death Toll in Nearly Three Years – Government Figures Reveal 6,226 Iraqis Killed in Iraq in 2008, Down from 6,772 in 2007"] {{Webarchive|url=https://web.archive.org/web/20110612172531/http://www.middle-east-online.com/english/?id=29497 |date=June 12, 2011 }}. ''[[Middle East Online]]''. Retrieved September 3, 2010.</ref> and in 2009, with the exception of the month of June, 488 were killed according to the [[Ministry of Defence (Iraq)|Iraqi Defence Ministry]].<ref>
+{{cite web
+| url        = http://www.rantburg.com/index.php?HC=6&D=2009-02-06&SO=Iraq
+| title        = Rantburg article
+| accessdate        = October 27, 2014
+| archive-url        = https://web.archive.org/web/20141111221208/http://www.rantburg.com/index.php?HC=6&D=2009-02-06&SO=Iraq
+| archive-date        = November 11, 2014
+| url-status        = live
+| df        = mdy-all
+}}
+</ref> These numbers are also not in line with the U.S. military estimate of some 3,984 killed in 2008 and 2009.<ref>25,287 killed from 2003 through 2009, of which 19,429 were killed up to September 22, 2007, [https://www.usatoday.com/news/world/iraq/2007-09-26-insurgents_N.htm] {{Webarchive|url=https://web.archive.org/web/20110428200503/http://www.usatoday.com/news/world/iraq/2007-09-26-insurgents_N.htm |date=April 28, 2011 }} with and additional 1,865 killed until the end of 2007, leaving 3,984 to have died in 2008 and 2009</ref>
+
+'''U.S. military- and Iraqi Defence Ministry-provided numbers, including suicide bombers'''
+* 2011 – 451 (not including February & August)
+* 2010 – 676
+* 2009 – 488 (not including June)
+* 2008 – 2,028
+* 2007 – 6,747 (U.S. military), 4,544 (Iraqi Defence Ministry)
+* 2006 – 3,902
+* 2005 – 3,247 (U.S. military), 1,734 (Iraqi Defence Ministry)
+* 2004 – 6,801
+* 2003 – 603
+
+In addition as of August 22, 2009, approximately 1,719 [[Suicide attack|suicide-bombers]] had also been reported killed.
+{{Main|List of terrorist incidents in Iraq since 2003}}
+* 2009–73
+* 2008 – 257
+* 2007 – 442<ref name="suicide_bombing_study">{{Cite news
+| author       = Calderwood, James
+| url          = http://www.foxnews.com/printer_friendly_wires/2007Apr02/0,4675,SuicideBombingStudy,00.html
+| title        = Suicide Bombings in Iraq on the Rise
+| agency       = Associated Press (''via'' ''[[Fox News]]'')
+| date         = April 2, 2007
+| accessdate   = September 3, 2010
+| archive-url  = https://web.archive.org/web/20121026013255/http://www.foxnews.com/printer_friendly_wires/2007Apr02/0,4675,SuicideBombingStudy,00.html
+| archive-date = October 26, 2012
+| url-status     = live
+}}</ref>
+* 2006 – 297<ref name="suicide_bombing_study" /><ref>{{Cite news
+| url          = https://www.usatoday.com/news/world/iraq/2006-05-08-car-bombs_x.htm
+| work         =[[USA Today]]
+| title        = Car Bombings Down in Iraq, Military Says
+| first        = Rick
+| last         = Jervis
+| date         = May 9, 2006
+| accessdate   = September 3, 2010
+| archive-url  = https://web.archive.org/web/20070812134705/http://www.usatoday.com/news/world/iraq/2006-05-08-car-bombs_x.htm
+| archive-date = August 12, 2007
+| url-status     = live
+| df           = mdy-all
+}}</ref>
+* 2005 – 478<ref name="usatoday.com">{{Cite news
+| url          = https://www.usatoday.com/news/world/iraq/2006-01-22-iraq-statistics_x.htm
+| work         =[[USA Today]]
+| title        = Attacks in Iraq Jumped in 2005
+| first1       = Rick
+| last1        = Jervis
+| date         = January 22, 2006
+| accessdate   = September 3, 2010
+| archive-url  = https://web.archive.org/web/20110515030321/http://www.usatoday.com/news/world/iraq/2006-01-22-iraq-statistics_x.htm
+| archive-date = May 15, 2011
+| url-status     = live
+| df           = mdy-all
+}}</ref>
+* 2004 – 140<ref name="usatoday.com" />
+* 2003 (from August to December) – 32<ref name="D9982NH22">http://www.e-prism.org/images/memo78.pdf {{Webarchive|url=https://web.archive.org/web/20100218051115/http://www.e-prism.org/images/memo78.pdf |date=February 18, 2010 }} page 80, Figure 5</ref>
+
+'''Grand total – 21,221–26,405 insurgents dead'''
+
+On September 28, 2006, an Al Qaeda leader claimed that 4,000 foreign insurgents had been killed in the war.<ref>{{dead link|date=September 2010}} [http://www.wcbs880.com/pages/93769.php?contentType=4&contentId=213959 "Al Qaeda Leader: Over 4,000 Foreign Insurgents Killed in Iraq"] {{webarchive |url=https://web.archive.org/web/20061111185133/http://www.wcbs880.com/pages/93769.php?contentType=4&contentId=213959 |date=November 11, 2006 }}. Associated Press (''via'' ''[[WFAN]]''). September 28, 2006.</ref>
+
+On June 6, 2008, an Iraqi Army official revealed that about 6,000 Al Qaeda fighters were among the insurgents killed since the start of the war up until April 2008.<ref>{{Subscription required|date=September 2010}} [[Staff writer]] (June 6, 2008). [http://www.iraqupdates.com/p_articles.php/article/32101 "Six Thousand Al Qaida Fighters Killed in Iraq Says Top Official"] {{Webarchive|url=https://web.archive.org/web/20080607132536/http://www.iraqupdates.com/p_articles.php/article/32101 |date=June 7, 2008 }}. [[iraqupdates.com]]. Retrieved September 3, 2010.</ref>
+
+Insurgent deaths are hard to estimate.<ref name=washtimes8711r>[[Staff writer]] (July 26, 2005). [http://www.washtimes.com/world/20050726-121818-8711r.htm "50,000 Iraqi Insurgents Dead, Caught"] {{Webarchive|url=https://web.archive.org/web/20061201115039/http://www.washtimes.com/world/20050726-121818-8711r.htm |date=December 1, 2006 }}. ''[[The Washington Times]]''. Retrieved September 3, 2010.</ref><ref name=civilians08>[[Staff writer]] (September 8, 2004). [http://www.seattlepi.com/national/189877_civilians08.html "Civilian, Insurgent Deaths Hard To Tally – Neither U.S. Nor Iraq Regime Keeps Count"] {{Webarchive|url=https://web.archive.org/web/20100816171605/http://www.seattlepi.com/national/189877_civilians08.html |date=August 16, 2010 }}. ''[[Scripps Howard News Service]]'' (''via'' ''[[Seattle Post-Intelligencer]]''). Retrieved September 3, 2010.</ref>
+
+The US military also reported on the number of suspected insurgents who were detained, arrested, or captured. From June 2003 through August 2007 the US military reported that 119,752 were detained, compared to 18,832 that had been killed.<ref>[https://www.stripes.com/news/insurgent-body-count-records-released-1.69423 "Insurgent ‘body count’ records released."] ''[[Stars and Stripes (newspaper)|Stars and Stripes]].'' October 1, 2007.</ref>
+
+== Contractor casualties ==
+By July 2007, the Department of Labor recorded 933 deaths of contractors in Iraq.<ref>{{Cite news
+| url          = https://www.reuters.com/article/us-usa-iraq-contractors/in-outsourced-u-s-wars-contractor-deaths-top-1000-idUSN0318650320070703
+| title        = In outsourced U.S. wars, contractor deaths top 1,000
+| year         = 2007
+| work       = Reuters
+| access-date  = February 9, 2018
+| archive-url  = https://web.archive.org/web/20180210002625/https://www.reuters.com/article/us-usa-iraq-contractors/in-outsourced-u-s-wars-contractor-deaths-top-1000-idUSN0318650320070703
+| archive-date = February 10, 2018
+| url-status     = live
+}}</ref> By April 2007, the [[Special Inspector General for Iraq Reconstruction]] stated that the number of civilian contractor deaths on US-funded projects in Iraq was 916.<ref name="usatoday916" /> In January 2007, the ''[[Houston Chronicle]]'' reported that the Pentagon did not track contractor deaths in Iraq.<ref name="contractors2">Ivanovich, David; Clanton, Brett (January 28, 2007). [https://www.chron.com/disp/story.mpl/nation/4505235.html "Contractor Deaths in Iraq Nearing 800 – Toll Has Surged in Past Months, But Civilians Still Line Up for the Jobs"] {{Webarchive|url=https://web.archive.org/web/20100215001554/http://www.chron.com/disp/story.mpl/nation/4505235.html |date=February 15, 2010 }}. ''[[Houston Chronicle]]''. Retrieved September 2, 2010.</ref> In January 2017, an estimated 7,761 contractors had been injured in Iraq, but their nationality was not known.<ref name="contractors2" /> By the end 2006, civilian contractors suffered "3,367 injuries serious enough to require four or more days off the job."<ref>{{dead link|date=September 2010}} Roberts, Michelle (February 23, 2007). [https://www.theguardian.com/worldlatest/story/0,,-6436232,00.html "Iraq Contractor Deaths Go Little Noticed"]. ''[[The Guardian]]''.</ref> The Labor Department had these numbers because it tracked workers' compensation claims by injured workers or families of slain contractors under the federal Defense Base Act.<ref name="contractors2" />
+
+== Health outcomes ==
+By November 2006, there were reports of a significant deterioration of the Iraq health care system as a result of the war.<ref>Roug, Louise (November 11, 2006). [https://articles.latimes.com/2006/nov/11/world/fg-health11 "Decrepit Healthcare Adds to Toll in Iraq"] {{Webarchive|url=https://web.archive.org/web/20121104042302/http://articles.latimes.com/2006/nov/11/world/fg-health11 |date=November 4, 2012 }}. ''[[Los Angeles Times]]''.</ref><ref name="tribune" />
+
+In 2007, an [[Iraqi Society of Psychiatrists]] and [[World Health Organization|WHO]] study found that 70% of 10,000 primary school students in the [[Sha'ab, Baghdad|Sha'ab]] section of north Baghdad are suffering from trauma-related symptoms.<ref>Palmer, James (March 19, 2007). [http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/03/19/MNG06ONMIB1.DTL&hw=mental+health+civilians&sn=001&sc=1000 "Protestors Plead for Peace – Civilian Toll: Iraqis Exhibit More Mental Health Problems"] {{Webarchive|url=https://web.archive.org/web/20071115004003/http://www.sfgate.com/cgi-bin/article.cgi?f=%2Fc%2Fa%2F2007%2F03%2F19%2FMNG06ONMIB1.DTL&hw=mental+health+civilians&sn=001&sc=1000 |date=November 15, 2007 }}. ''[[San Francisco Chronicle]]''. Retrieved September 2, 2010.</ref>
+
+Subsequent articles in [[The Lancet]] and [[Al Jazeera]] have suggested that the number of cases of birth defects, [[cancer]], [[miscarriages]], illnesses and [[premature births]] may have increased dramatically after the [[Invasion of Kuwait|first]] and [[Operation Enduring Freedom|second Iraq wars]], due to the presences of depleted uranium and chemicals introduced during American attacks, especially around [[Fallujah]], [[Basra]] and Southern Iraq.<ref name="lancet2013">{{cite journal |last1=Burkle |first1=Frederick |last2=Garfield |first2=Richard |title=Civilian mortality after the 2003 invasion of Iraq |journal=The Lancet |date=16 March 2013 |volume=381 |issue=9870 |pages=877–879 |doi=10.1016/S0140-6736(12)62196-5 |pmid=23499026 |s2cid=20887504 }}</ref><ref name="jaz1">{{cite news |last1=Jamail |first1=Dahr |title=Iraq's wars, a legacy of cancer |url=https://www.aljazeera.com/indepth/features/2013/03/2013315171951838638.html |accessdate=29 November 2018 |publisher=Al Jazeera |date=16 March 2013 |archive-url=https://web.archive.org/web/20181129142049/https://www.aljazeera.com/indepth/features/2013/03/2013315171951838638.html |archive-date=November 29, 2018 |url-status=live |df=mdy-all }}</ref>
+
+== Total Iraqi casualties ==
+Estimates of the total number of Iraqi war-related deaths are highly disputed. According to [[Keith Krause]] of the [[Graduate Institute of International and Development Studies|Graduate Institute of International and Development Studies, Geneva, Switzerland]], "the consensus seems to be that around 150,000 people died violently as a result of the fighting between 2003 and 2006."<ref>{{Cite journal|last=Krause|first=Keith|date=2017-04-01|title=Bodies count: the politics and practices of war and violent death data|journal=Human Remains and Violence: An Interdisciplinary Journal|language=en|volume=3|issue=1|pages=90–115|doi=10.7227/HRV.3.1.7|issn=2054-2240|df=mdy-all|doi-access=free}}</ref>
+
+=== Various estimates ===
+In December 2005 President Bush said there were 30,000 Iraqi dead. White House spokesman [[Scott McClellan]] later said it was "not an official government estimate", and was based on media reports.<ref>[[George W. Bush]], [https://georgewbush-whitehouse.archives.gov/news/releases/2005/12/20051212-4.html "President Discusses War on Terror and Upcoming Iraqi Elections"] {{Webarchive|url=https://web.archive.org/web/20170919114013/https://georgewbush-whitehouse.archives.gov/news/releases/2005/12/20051212-4.html |date=September 19, 2017 }}. White House transcript. December 12, 2005. Says 30,000 Iraqi dead.</ref><ref>[[Staff writer]] (December 12, 2005). [http://www.cnn.com/2005/POLITICS/12/12/bush.iraq/index.html  "Bush: Iraqi Democracy Making Progress – President Compares Iraq's Struggle to America's Founding"] {{Webarchive|url=https://web.archive.org/web/20071201110432/http://www.cnn.com/2005/POLITICS/12/12/bush.iraq/index.html |date=December 1, 2007 }}. [[CNN]]. Retrieved September 3, 2010. "I would say 30,000, more or less, have died as a result of the initial incursion and the ongoing violence against Iraqis", Bush said. [[CNN]] writes: "White House spokesman [[Scott McClellan]] later said Bush was basing his statement on media reports, 'not an official government estimate.'"</ref>
+
+The United Nations reported that 34,452 violent civilian deaths occurred in 2006, based on data from morgues, hospitals, and municipal authorities across Iraq.<ref name=nytimes />
+
+For 2006, a January 2, 2007, Associated Press article reports: "The tabulation by the Iraqi ministries of Health, Defence and Interior, showed that 14,298 civilians, 1,348 police and 627 soldiers had been killed in the violence that raged across the country last year. ''The Associated Press'' figure, gleaned from daily news reports from Baghdad, arrived at a total of 13,738 deaths."<ref>[[Staff writer]] (January 3, 2007). [http://www.indianexpress.com/story/19960.html "Bruised and Battered: Iraqi Toll Crosses 16000 in ’06"] {{webarchive|url=https://web.archive.org/web/20070104031423/http://www.indianexpress.com/story/19960.html |date=January 4, 2007 }}. [[Associated Press]] (''via'' ''[[The Indian Express]]''). Retrieved September 3, 2010.</ref> ''[[The Australian]]'' reports in a January 2, 2007, article: "A figure of 3700 civilian deaths in October '[2006]', the latest tally given by the UN based on data from the Health Ministry and the Baghdad morgue, was branded exaggerated by the Iraqi Government."<ref name=australian>{{dead link|date=September 2010}} Macdonald, Alastair (January 2, 2007). [http://www.theaustralian.news.com.au/story/0,20867,21001252-23109,00.html "Iraq Civilian Deaths Hit New Record"] {{Webarchive|url=https://web.archive.org/web/20071115013117/http://www.theaustralian.news.com.au/story/0,20867,21001252-23109,00.html |date=November 15, 2007 }}. ''[[The Australian]]''.</ref> Iraqi government estimates include "people killed in bombings and shootings but not deaths classed as 'criminal'." Also, they "include no deaths among the many civilians wounded in attacks who may die later from wounds. Nor do they include many people kidnapped whose fate remains unknown."<ref name=australian />
+
+A June 25, 2006, ''[[Los Angeles Times]]'' article, "War's Iraqi Death Toll Tops 50,000",<ref name=LAtimes2006june25>Roug, Louise; Smith, Doug (June 25, 2006). [http://www.commondreams.org/headlines06/0625-03.htm "War's Iraqi Death Toll Tops 50,000 – Higher Than the U.S. Estimate But Thought To Be Undercounted, the Tally Is Equivalent to 570,000 Americans Killed in Three Years"] {{webarchive |url=https://web.archive.org/web/20100317214447/http://www.commondreams.org/headlines06/0625-03.htm |date=March 17, 2010 }}. ''[[Los Angeles Times]]'' (''via'' ''[[Common Dreams NewsCenter]]''). Retrieved September 3, 2010.</ref> reported that their estimate of violent deaths consisted "mostly of civilians" but probably also included security forces and insurgents. It added that, "Many more Iraqis are believed to have been killed but not counted because of serious lapses in recording deaths in the chaotic first year after the invasion, when there was no functioning Iraqi government, and continued spotty reporting nationwide since." Here is how the ''Times'' got its number: "The Baghdad morgue received 30,204 bodies from 2003 through mid-2006, while the Health Ministry said it had documented 18,933 deaths from 'military clashes' and 'terrorist attacks' from April 5, 2004, to June 1, 2006. Together, the toll reaches 49,137. However, samples obtained from local health departments in other provinces show an undercount that brings the total well beyond 50,000. The figure also does not include deaths outside Baghdad in the first year of the invasion."
+
+=== Iraq Living Conditions Survey (2004) ===
+A study commissioned by the [[United Nations Development Programme]] (UNDP), called the Iraq Living Conditions Survey (ILCS), sampled almost 22,000 households across all Iraqi provinces. It estimated 24,000 war-related violent deaths by May 2004 (with a 95 percent confidence interval from 18,000 to 29,000). This study did not attempt to measure what portion of its estimate was made up of civilians or combatants. It would include Iraqi military killed during the invasion, as well as "insurgents" or other fighters thereafter.<ref>{{cite web
+| url         = http://www.iq.undp.org/ILCS/overview.htm
+| title       = Iraq Living Conditions Survey 2004
+| work        = [[United Nations Development Programme]]
+| url-status     = dead
+| archiveurl  = https://web.archive.org/web/20060529152450/http://www.iq.undp.org/ILCS/overview.htm
+| archivedate = May 29, 2006
+}}</ref> This study has been criticized for various reasons. For more info see the section in [[Lancet surveys of Iraq War casualties]] that compares the Lancet and UNDP ILCS studies.
+
+=== ''Lancet'' (2004) ===
+{{Main|Lancet surveys of Iraq War casualties}}
+The [[Lancet surveys of Iraq War casualties|October 2004 ''Lancet'' study]]<ref name=lancet2004>{{cite journal
+| last1     = Roberts
+| first1    = Les
+| last2     = Lafta
+| first2    = Riyadh
+| last3     = Garfield
+| first3    = Richard
+| last4     = Khudhairi
+| first4    = Jamal
+| last5     = Burnham
+| first5    = Gilbert
+| date      = October 29, 2004
+| title     = Mortality after the 2003 invasion of Iraq: a cross-sectional cluster sample survey
+| citeseerx = 10.1.1.88.4036
+| journal   = [[The Lancet]]
+| doi       = 10.1016/s0140-6736(06)69491-9
+| pmid      = 17055943
+| volume    = 368
+| issue    = 9545
+| pages     = 1421–8
+| s2cid = 23673934
+}}</ref> done by public health experts from [[Johns Hopkins University]] and published on October 29, 2004, in ''[[The Lancet]]'' medical journal, estimated that 100,000 "excess" Iraqi deaths from all causes had occurred since the U.S. invasion began. The study did not attempt to measure how many of these were civilian, but the study's authors have said they believe that the "vast majority" were non-combatants, based on 7% of the casualties being women and 46% being children under the age of 15 (including Falluja data). To arrive at these excess death figures, a survey was taken from 988 Iraqi households in 33 clusters throughout Iraq, in which the residents were asked how many people lived there and how many births and deaths there had been since the war began. They then compared the death rate with the average from the 15 months before the war. Iraqis were found to be 1.5 times more likely to die from all causes after the invasion (rising from 0.5% to 0.79% per year) than in the 15 months preceding the war, producing an estimate of 98,000 excess deaths. This figure excluded data from one cluster in [[Falluja]], which was deemed too much of an outlier for inclusion in the national estimate. If it included data from Falluja, which showed a higher rate of violent deaths than the other 32 clusters combined, the increased death rate would be raised from 1.5 to 2.5-fold, violent deaths would be 58 times more likely with most of them due to air-strikes by coalition forces, and an additional 200,000 fatalities would be estimated.<ref>{{Cite news
+| title       = Study Puts Iraqi Toll at 100,000
+| url         = http://www.cnn.com/2004/WORLD/meast/10/29/iraq.deaths
+| date        = October 29, 2004
+| publisher   = CNN
+| archiveurl  = https://web.archive.org/web/20060615104406/http://www.cnn.com/2004/WORLD/meast/10/29/iraq.deaths
+| archivedate = June 15, 2006
+}}</ref>
+
+=== Iraqiyun estimate (2005) ===
+The Iraqi non-governmental organisation, Iraqiyun, estimated 128,000 deaths from the invasion until July 2005.<ref name=lancet2006 /> A July 2005 [[United Press International]] (UPI) article said the number came from the chairman of the Iraqiyun humanitarian organization in Baghdad, Dr. Hatim al-'Alwani. He said 55 percent of those killed were women, and children aged 12 and under. The UPI article reported: "Iraqiyun obtained data from relatives and families of the deceased, as well as from Iraqi hospitals in all the country's provinces. The 128,000 figure only includes those whose relatives have been informed of their deaths and does not include those were abducted, assassinated or simply disappeared."<ref name=iraqiyun2005>[http://www.informationclearinghouse.info/article9460.htm Iraqi civilian casualties] {{Webarchive|url=https://web.archive.org/web/20111103180556/http://www.informationclearinghouse.info/article9460.htm |date=November 3, 2011 }}. [[United Press International]]. July 12, 2005. Archived here {{cite web
+| url         = http://iraqmortality.org/iraqi-civilian-casualties
+| title       = Archived copy
+| accessdate  = December 18, 2010
+| url-status     = dead
+| archiveurl  = https://web.archive.org/web/20080821111353/http://iraqmortality.org/iraqi-civilian-casualties
+| archivedate = August 21, 2008
+}} too.</ref> A 2010 book by Nicolas Davies reported the Iraqiyun estimate, and that Iraqiyun was affiliated with the political party of Interim President [[Ghazi Mashal Ajil al-Yawer|Ghazi Al-Yawer]]. Davies wrote: "The report specified that it included only confirmed deaths reported to relatives, omitting significant numbers of people who had simply disappeared without trace amid the violence and chaos."<ref name=daviesbook>''Blood on Our Hands: The American Invasion and Destruction of Iraq''. Book by Nicolas J.S. Davies. Published June 2010. {{ISBN|1-934840-98-X}}, {{ISBN|978-1-934840-98-6}}. Iraqiyun info is from [https://www.amazon.com/reader/193484098X?_encoding=UTF8&query=Iraqiyun#reader_193484098X page 139].</ref><ref name="davies2010oct24">[http://warisacrime.org/content/unreported-iraqi-war-deaths-revealed-wikileaks-are-only-tip-iceberg "Unreported Iraqi war deaths revealed by Wikileaks are only the tip of an iceberg."] {{webarchive|url=https://web.archive.org/web/20101228010555/http://warisacrime.org/content/unreported-iraqi-war-deaths-revealed-wikileaks-are-only-tip-iceberg |date=December 28, 2010 }} By Nicolas Davies. October 24, 2010. Article is here [http://www.consortiumnews.com/2010/102510a.html] {{Webarchive|url=https://web.archive.org/web/20101214000612/http://consortiumnews.com/2010/102510a.html |date=December 14, 2010 }}, too.</ref>
+
+=== ''Lancet'' (2006) ===
+{{Main|Lancet surveys of Iraq War casualties}}
+The [[Lancet surveys of Iraq War casualties|October 2006 Lancet study]] by Gilbert Burnham (of Johns Hopkins University) and co-authors<ref name=lancet2006 /><ref name=supplement /> estimated total excess deaths (civilian and non-civilian) related to the war of 654,965 excess deaths up to July 2006. The 2006 study was based on surveys conducted between May 20 and July 10, 2006. More households were surveyed than during the 2004 study, allowing for a 95% [[confidence interval]] of 392,979 to 942,636 excess Iraqi deaths. Those estimates were far higher than other available tallies at the time.<ref name=":13">{{Cite journal|last=Kahl|first=Colin H.|date=2007|title=In the Crossfire or the Crosshairs? Norms, Civilian Casualties, and U.S. Conduct in Iraq|journal=International Security|language=en|volume=32|issue=1|pages=7–46|doi=10.1162/isec.2007.32.1.7|s2cid=57570400|issn=0162-2889}}</ref>
+
+The Burnham et al. study has been described as the most controversial study in survey research on armed conflict,<ref name=":7">Kristine Eck, "Survey Research in Conflict and Post-conflict Societies" in ''[https://books.google.com/books?id=rxsRitH Understanding Peace Research: Methods and Challenges]'' (eds. Kristine Hoglund &  Magnus Oberg), Routledge: 2011, p. 171.</ref> and its findings have been widely disputed in the academic literature.<ref name=":8">{{Cite book
+| title        = Violence, Statistics, and the Politics of Accounting for the Dead
+| last         = Montclos
+| first        = Marc-Antoine Pérouse de
+| date         = 2016
+| publisher    = Springer, Cham
+| isbn         = 978-3-319-12035-5
+| series       = Demographic Transformation and Socio-Economic Development
+| pages        = 47–69
+| language     = en
+| doi          = 10.1007/978-3-319-12036-2_3
+|chapter = Numbers Count: Dead Bodies, Statistics, and the Politics of Armed Conflicts}}</ref><ref>{{Cite journal
+| last1    = Axinn
+| first1   = William G.
+| last2   = Ghimire
+| first2  = Dirgha
+| last3   = Williams
+| first3  = Nathalie E.
+| year    = 2012
+| title   = Collecting Survey Data during Armed Conflict
+| journal = Journal of Official Statistics
+| volume  = 28
+| issue   = 2
+| pages   = 153–171
+| issn    = 0282-423X
+| pmc     = 3571111
+| pmid    = 23420645
+}}</ref><ref name=":9">{{Cite journal
+| last1    = Spagat
+| first1   = Michael
+| last2   = Mack
+| first2  = Andrew
+| last3   = Cooper
+| first3  = Tara
+| last4   = Kreutz
+| first4  = Joakim
+| year    = 2009
+| title   = Estimating War Deaths: An Arena of Contestation
+| journal = The Journal of Conflict Resolution
+| volume  = 53
+| issue   = 6
+| pages   = 934–950
+| doi     = 10.1177/0022002709346253
+| jstor   = 20684623
+| citeseerx   = 10.1.1.511.6965
+| s2cid = 154416100
+}}</ref><ref>{{Cite journal|last1=Jewell|first1=Nicholas P.|last2=Spagat|first2=Michael|last3=Jewell|first3=Britta L.|date=2018|title=Accounting for Civilian Casualties: From the Past to the Future|journal=Social Science History|language=en|volume=42|issue=3|pages=379–410|doi=10.1017/ssh.2018.9|issn=0145-5532|quote=the Iraq mortality survey of Burnham et al. (2006) was highly controversial and had major weaknesses (Spagat 2010), some of which led to an official censure by a professional association of survey researchers.|doi-access=free}}</ref><ref>{{Cite journal|last1=Axinn|first1=William G.|last2=Ghimire|first2=Dirgha|last3=Williams|first3=Nathalie E.|date=2012|title=Collecting Survey Data during Armed Conflict|journal=Journal of Official Statistics|volume=28|issue=2|pages=153–171|issn=0282-423X|pmc=3571111|pmid=23420645|quote=the methods they used to obtain their unusually high estimate were subsequently widely criticized}}</ref><ref name=":14">{{Cite book|chapter-url=https://rowman.com/ISBN/9781442242241/What-Do-We-Know-about-Civil-Wars|title=What Do We Know About Civil War?|last=|first=|publisher=Rowman & Littlefield|year=2016|isbn=|location=|pages=|chapter=Introduction - Patterns of Armed Conflict Since 1945}}</ref><ref name=":15">{{Cite book|url=https://global.oup.com/academic/product/counting-civilian-casualties-9780199977307?cc=is&lang=en&|title=Counting Civilian Casualties: An Introduction to Recording and Estimating Nonmilitary Deaths in Conflict|date=2013-07-11|publisher=Oxford University Press|isbn=9780199977307|editor-last=Seybolt|editor-first=Taylor B.|series=Studies in Strategic Peacebuilding|location=Oxford, New York|quote=In letters to the editor of The Lancet, and subsequent commentaries and peer-reviewed articles, scientists, statisticians, public health advocates, and medical researchers voiced concern about a range of technical and ethical issues, from the methods for choosing the households to be surveyed to the prac- tices used by interviewers to gather information from individuals. There were also con- cerns about the pre-war mortality rates chosen to compare with the post-invasion rates, as well as a host of other issues.|editor-last2=Aronson|editor-first2=Jay D.|editor-last3=Fischhoff|editor-first3=Baruch|access-date=October 5, 2018|archive-url=https://web.archive.org/web/20190324075429/https://global.oup.com/academic/product/counting-civilian-casualties-9780199977307?cc=is&lang=en&|archive-date=March 24, 2019|url-status=live|df=mdy-all}}</ref><ref>{{Cite web|url=https://www.prio.org/Publications/Publication/?x=7207|title=Armed Conflict Deaths Disaggregated by Gender|last=(PRIO)|first=Peace Pesearch Institute Oslo|language=en|access-date=2018-07-14|archive-url=https://web.archive.org/web/20180714192940/https://www.prio.org/Publications/Publication/?x=7207|archive-date=July 14, 2018|url-status=live|df=mdy-all}}</ref> Shortly after publication, the study's estimate and methodology came under criticism from a number of sources, including the United States government, academics, and the Iraq Body Count.<ref name="Washingtonpost-ellen">Knickmeyer, Ellen (October 19, 2006). [https://www.washingtonpost.com/wp-dyn/content/article/2006/10/19/AR2006101900295.html "One-Day Toll in Iraq Combat Is Highest for U.S. in Months – At Least 12 Killed in Fresh Attacks on Iraqi Police Facilities"] {{Webarchive|url=https://web.archive.org/web/20170519225135/http://www.washingtonpost.com/wp-dyn/content/article/2006/10/19/AR2006101900295.html |date=May 19, 2017 }}. ''[[The Washington Post]]''. Retrieved September 3, 2010.</ref> At the time, other experts, praised the methodology of the study.<ref name="MNGUTLNP6C1">Badkhen, Anna (October 12, 2006). [http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2006/10/12/MNGUTLNP6C1.DTL "Critics Say 600,000 Iraqi Dead Doesn't Tally – But Pollsters Defend Methods Used in Johns Hopkins Study"] {{Webarchive|url=https://web.archive.org/web/20070310203553/http://www.sfgate.com/cgi-bin/article.cgi?file=%2Fc%2Fa%2F2006%2F10%2F12%2FMNGUTLNP6C1.DTL |date=March 10, 2007 }}. ''[[San Francisco Chronicle]]''. Retrieved September 3, 2010.</ref><ref>[[Owen Bennett-Jones|Bennett-Jones, Owen]] (March 26, 2007). [http://news.bbc.co.uk/2/hi/uk_news/politics/6495753.stm "Iraqi Deaths Survey 'Was Robust'"] {{Webarchive|url=https://web.archive.org/web/20070330121204/http://news.bbc.co.uk/2/hi/uk_news/politics/6495753.stm |date=March 30, 2007 }}. ''[[BBC World Service]]'' (''via'' [[BBC News]]'). Retrieved September 3, 2010.</ref><ref>{{Cite web |url=https://www.rand.org/content/dam/rand/pubs/monographs/2008/RAND_MG740.pdf |title=Hall, Katharine (2008). "An Argument for Documenting Casualties; Violence against Iraqi Civilians 2006". The RAND Corporation. Retrieved December 5, 2017 |access-date=December 5, 2017 |archive-url=https://web.archive.org/web/20160927055830/https://www.rand.org/content/dam/rand/pubs/monographs/2008/RAND_MG740.pdf |archive-date=September 27, 2016 |url-status=live |df=mdy-all }}</ref> [[John Tirman]], who commissioned and directed the funding for the study defended the study.<ref name=AlterNet2008jan21>[http://www.alternet.org/story/74263/ "Right-Wingers Can't Cover Up Iraq's Death Toll Catastrophe"] {{Webarchive|url=https://web.archive.org/web/20120309153715/http://www.alternet.org/story/74263/ |date=March 9, 2012 }}. By John Tirman. January 21, 2008. ''[[AlterNet]].''</ref><ref>
+{{Cite journal
+ |author       = PR Watch / By Diane Farsetta
+ |url          = http://www.alternet.org/story/77992/how_many_iraqis_have_really_died
+ |title        = How Many Iraqis Have Really Died?
+ |journal      = AlterNet
+ |date         = March 1, 2008
+ |accessdate   = October 10, 2012
+ |archive-url  = https://web.archive.org/web/20121025054333/http://www.alternet.org/story/77992/how_many_iraqis_have_really_died
+ |archive-date = October 25, 2012
+ |url-status     = live
+ |df           = mdy-all
+}}
+</ref><ref>{{Cite journal
+ |author       = AlterNet / By John Tirman
+ |url          = http://www.alternet.org/story/151703/1_million_dead_in_iraq_6_reasons_the_media_hide_the_true_human_toll_of_war_--_and_why_we_let_them
+ |title        = 1 Million Dead in Iraq? 6 Reasons the Media Hide the True Human Toll of War – And Why We Let Them
+ |journal      = AlterNet
+ |date         = July 19, 2011
+ |accessdate   = October 10, 2012
+ |archive-url  = https://web.archive.org/web/20120311092226/http://www.alternet.org/story/151703/1_million_dead_in_iraq_6_reasons_the_media_hide_the_true_human_toll_of_war_--_and_why_we_let_them/
+ |archive-date = March 11, 2012
+ |url-status     = dead
+ |df           = mdy-all
+}}</ref><ref>
+{{cite web
+| url        = http://mit.edu/humancostiraq/
+| title        = The Human Cost of the War in Iraq
+| publisher        = Mit.edu
+| accessdate        = October 10, 2012
+| archive-url        = https://web.archive.org/web/20121028085026/http://mit.edu/humancostiraq/
+| archive-date        = October 28, 2012
+| url-status        = live
+| df        = mdy-all
+}}
+</ref><ref>
+{{cite web
+| url      = http://www.huffingtonpost.com/john-tirman/iraq-war_b_1273055.html
+| title      = John Tirman: Was There a War in Iraq?
+| work      = HuffPost
+| accessdate      = October 10, 2012
+| date      = 2012-02-13
+| archive-url      = https://web.archive.org/web/20120312181740/http://www.huffingtonpost.com/john-tirman/iraq-war_b_1273055.html
+| archive-date      = March 12, 2012
+| url-status      = live
+| df      = mdy-all
+}}
+</ref> A 2008 systematic review of casualty estimates in the Iraq War in the journal ''Conflict and Health'' concluded that the highest quality studies have used "population-based methods" that have "yielded the highest estimates.<ref name="tapp">{{cite journal|last1=Tapp|first1=Christine|last2=Burkle|first2=Frederich|last3=Wilson|first3=Kumanan|last4=Takaro|first4=Tim|last5=Guyatt|first5=Gordon|last6=Amad|first6=Hani|last7=Mills|first7=Edward|date=2008|title=Iraq War mortality estimates: a systematic review|journal=Conflict and Health|volume=2|issue=1|doi=10.1186/1752-1505-2-1|pmid=18328100|doi-access=free}}</ref> A 2016 study described the ''Lancet'' study as seen "widely viewed among peers as the most rigorous investigations of Iraq War–related mortality among Iraqi civilians," and argued that part of the criticism "may have been politically motivated."<ref name="levysidel2016">{{cite journal|last1=Levy|first1=Barry|last2=Sidel|first2=Victor|date=2016|title=Documenting the effects of armed conflict on population health|journal=Annual Review of Public Health|volume=37|pages=205–218|doi=10.1146/annurev-publhealth-032315-021913|pmid=26989827|doi-access=free}}</ref>
+
+A number of peer-reviewed studies criticized the Lancet study on the basis of its methodology and exaggerated casualty numbers.<ref name=":10" /><ref name=":11" /><ref>{{Cite journal
+| last         = Daponte
+| first        = Beth Osborne
+| s2cid = 42173386
+| year         = 2007
+| title        = Wartime estimates of Iraqi civilian casualties
+| journal      = International Review of the Red Cross
+| volume       = 89
+| issue        = 868
+| pages        = 943–957
+| doi          = 10.1017/S1816383108000167
+| issn         = 1607-5889
+}}</ref><ref>{{Cite web
+| url   = https://www.warc.com/content/article/jmrs/retrospective_twostage_cluster_sampling_for_mortality_in_iraq/87847
+| title = Retrospective two-stage cluster sampling for mortality in Iraq {{! }} WARC|website=www.warc.com|access-date=February 9, 2018|archive-url=https://web.archive.org/web/20180210002130/https://www.warc.com/content/article/jmrs/retrospective_twostage_cluster_sampling_for_mortality_in_iraq/87847|archive-date=February 10, 2018|url-status=live}}</ref><ref>{{Cite journal
+| last1    = Rosenblum
+| first1   = Michael A
+| last2   = van der Laan
+| first2  = Mark J.
+| date    = January 7, 2009
+| title   = Confidence Intervals for the Population Mean Tailored to Small Sample Sizes, with Applications to Survey Sampling
+| journal = The International Journal of Biostatistics
+| volume  = 5
+| issue   = 1
+| pages   = Article 4
+| doi     = 10.2202/1557-4679.1118
+| issn    = 1557-4679
+| pmc     = 2827893
+| pmid    = 20231867
+}}</ref><ref>{{Cite journal
+| last    = Marker
+| first   = David A.
+| year    = 2008
+| title   = Review: Methodological Review of "Mortality after the 2003 Invasion of Iraq: A Cross-Sectional Cluster Sample Survey"
+| journal = The Public Opinion Quarterly
+| volume  = 72
+| issue   = 2
+| pages   = 345–363
+| doi     = 10.1093/poq/nfn009
+| jstor   = 25167629
+}}</ref><ref name=":1" /><ref name=":2" /><ref name=":12" /><ref name=":9" /><ref name=":6" /><ref name=":16">{{cite journal |last1=Roberts |first1=Adam |s2cid=153458692 |title=Lives and Statistics: Are 90% of War Victims Civilians? |journal=Survival |date=2 June 2010 |volume=52 |issue=3 |pages=115–136 |doi=10.1080/00396338.2010.494880 }}</ref><ref name=":17">{{cite book |doi=10.1093/acprof:oso/9780199977307.003.0003 |first1=Jay D. |last1=Aronson |chapter=The Politics of Civilian Casualty Counts |editor1-first=Taylor B. |editor1-last=Seybolt |editor2-first=Jay D. |editor2-last=Aronson |editor3-first=Baruch |editor3-last=Fischhoff |year=2013 |title=Counting Civilian Casualties: An Introduction to Recording and Estimating Nonmilitary Deaths in Conflict |pages=29–49 |isbn=978-0-19-997730-7 }}</ref> The authors of the Lancet study were also accused of ethical breaches in terms of how the survey was conducted and in how the authors responded to requests for data and information.<ref name=":1" /><ref name=":2" /><ref name=":8" /><ref name=":6" /> In 2009, the lead author of the Lancet study was censured by American Association for Public Opinion Research (AAPOR) for refusing to provide "several basic facts about" the study.<ref>{{Cite web
+| url          = https://www.aapor.org/Communications/Press-Releases/AAPOR-Finds-Gilbert-Burnham-in-Violation-of-Ethics.aspx
+| title        = AAPOR Finds Gilbert Burnham in Violation of Ethics Code
+| archive-url  = https://web.archive.org/web/20180209182429/https://www.aapor.org/Communications/Press-Releases/AAPOR-Finds-Gilbert-Burnham-in-Violation-of-Ethics.aspx
+| archive-date = February 9, 2018
+| url-status     = live
+}}</ref> AAPOR had over a 12-year period only formally censured two other individuals.<ref name=":6" /><ref name=":8" /> In 2012, Michael Spagat noted that six peer-reviewed studies had identified shortcomings in the Lancet study, and that the Lancet authors had yet to make a substantive response to the critiques.<ref name=":6" /> According to Spagat, there is "ample reason" to discard Lancet study estimate.<ref name=":6" /> Columbia University statistician [[Andrew Gelman]] said in 2014 that "serious flaws have been demonstrated" in the Lancet study,<ref>{{Cite web
+| url          = http://andrewgelman.com/2014/01/29/questioning-lancet-plos-surveys-iraqi-deaths-interview-univ-london-professor-michael-spagat/
+| title        = Questioning The Lancet, PLOS, And Other Surveys On Iraqi Deaths, An Interview With Univ. of London Professor Michael Spagat
+| last         = Gelman
+| first        = Andrew
+| year         = 2014
+| archive-url  = https://web.archive.org/web/20180210002319/http://andrewgelman.com/2014/01/29/questioning-lancet-plos-surveys-iraqi-deaths-interview-univ-london-professor-michael-spagat/
+| archive-date = February 10, 2018
+| url-status     = live
+}}</ref> and in 2015 that his impression was that the Lancet study "had pretty much been discredited".<ref>{{Cite news
+| url          = https://www.washingtonpost.com/news/monkey-cage/wp/2015/04/27/controversial-2006-estimate-of-iraq-deaths-remains-controversial/
+| title        = Controversial 2006 estimate of Iraq deaths remains controversial
+| last         = Gelman
+| first        = Andrew
+| date         = April 27, 2015
+| work         = The Washington Post
+| access-date  = February 9, 2018
+| issn         = 0190-8286
+| archive-url  = https://web.archive.org/web/20180210002308/https://www.washingtonpost.com/news/monkey-cage/wp/2015/04/27/controversial-2006-estimate-of-iraq-deaths-remains-controversial/
+| archive-date = February 10, 2018
+| url-status     = live
+}}</ref> Joshua Goldstein, professor emeritus of International Relations at American University, wrote that critics of the study "have argued convincingly that the sample method was biased."<ref>{{Cite web|url=http://www.winningthewaronwar.com/|title=Winning the War on War|last=Goldstein|first=Joshua|date=2011|website=www.winningthewaronwar.com|publisher=Dutton/Plume (Penguin)|language=en-US|access-date=2018-07-14|archive-url=https://web.archive.org/web/20180906125738/http://www.winningthewaronwar.com/|archive-date=September 6, 2018|url-status=live|df=mdy-all}}</ref> According to University of Delaware sociologist [[Joel Best]] in his book ''Stat-Spotting: A Field Guide to Identifying Dubious Data'', "it seems likely that [the Lancet estimate] was too large".<ref>{{Cite book
+| title     = Stat-Spotting: A Field Guide to Identifying Dubious Data
+| last      = Best
+| first     = Joel
+| date      = 2013
+| publisher = University of California Press
+| isbn      = 978-0-520-27998-8
+| edition   = 1
+}}{{page needed|date=December 2018}}</ref> Conflict scholars [[Nils Petter Gleditsch]], Erik Melander and [[Henrik Urdal]] said there were "major biases" in the study, leading to oversampling of households affected by violence.<ref name=":14" />
+
+A 2008 study in the ''[[Journal of Peace Research]]'' found that the 2006 Lancet study may have considerably overestimated Iraq War casualties, that the study made "unusual" methodological choices, and called on the 2006 ''Lancet'' study authors to make all of their data available.<ref name=":10">{{Cite journal
+| last1    = Johnson
+| first1   = Neil F.
+| last2   = Spagat
+| first2  = Michael
+| last3   = Gourley
+| first3  = Sean
+| last4   = Onnela
+| first4  = Jukka-Pekka
+| last5   = Reinert
+| first5  = Gesine
+| date    = September 1, 2008
+| title   = Bias in Epidemiological Studies of Conflict Mortality
+| journal = Journal of Peace Research
+| volume  = 45
+| issue   = 5
+| pages   = 653–663
+| doi     = 10.1177/0022343308094325
+| issn    = 0022-3433
+| doi-access= free
+}}</ref> The 2008 study was awarded "Article of the Year – 2008" by the ''Journal of Peace Research'', with the jury of Lars-Erik Cederman (ETH Zürich), Jon Hovi (University of Oslo) and Sara McLaughlin Mitchell (University of Iowa) writing that the "authors show convincingly that previous studies which are based on a cross-street cluster-sampling algorithm (CSSA) have significantly overestimated the number of casualties in Iraq."<ref name=":11">{{Cite web
+| url          = https://www.prio.org/JPR/ArticleOfTheYear/?x=7
+| title        = Article of the Year – 2008 – Journal of Peace Research – PRIO
+| last         = (PRIO)
+| first        = Peace Pesearch Institute Oslo
+| website      = prio.org
+| access-date  = October 18, 2017
+| archive-url  = https://web.archive.org/web/20171019004800/https://www.prio.org/JPR/ArticleOfTheYear/?x=7
+| archive-date = October 19, 2017
+| url-status     = live
+}}</ref> American University political scientist Thomas Zeitzoff said the ''Journal of Peace Research'' study showed the Lancet study to be "wildly inaccurate" due to its reliance on information from biased samples.<ref>{{Cite news|url=https://politicalviolenceataglance.org/2016/05/26/why-the-method-matters/|title=Why the Method Matters|last=Zeitzoff|first=Thomas|date=2016-05-26|work=Political Violence at a Glance|access-date=2018-07-14|language=en-US|archive-url=https://web.archive.org/web/20180826170640/https://politicalviolenceataglance.org/2016/05/26/why-the-method-matters/|archive-date=August 26, 2018|url-status=live|df=mdy-all}}</ref>
+
+Michael Spagat criticized the 2006 Lancet study in a 2010 article for the journal ''Defence and Peace Economics''. Spagat wrote that he found "some evidence relating to data fabrication and falsification" and "this evidence suggests that this survey cannot be considered a reliable or valid contribution towards knowledge about the extent of mortality in Iraq since 2003".<ref name=":1">{{Cite journal
+| last    = Spagat
+| first   = Michael
+| s2cid = 59093432
+| date    = February 1, 2010
+| title   = Ethical and Data‐Integrity Problems in the Second Lancet Survey of Mortality in Iraq
+| journal = Defence and Peace Economics
+| volume  = 21
+| issue   = 1
+| pages   = 1–41
+| doi     = 10.1080/10242690802496898
+| issn    = 1024-2694
+}}</ref> Spagat also chided the Lancet study for "ethical violations to the survey's respondents including endangerment, privacy breaches and violations in obtaining informed consent".<ref name=":1" /> In a letter to the journal ''[[Science (journal)|Science]]'', Spagat said that the Lancet study had failed replication in a study by the WHO (the Iraq Family Health Survey).<ref name=":2">{{Cite journal
+| last         = Spagat
+| first        = Michael
+| date         = May 1, 2009
+| title        = Iraq Study Failed Replication Test
+| journal      = Science
+| volume       = 324
+| issue        = 5927
+| pages        = 590
+| doi          = 10.1126/science.324_590a
+| issn         = 0036-8075
+| pmid         = 19407183
+}}</ref> Spagat noted that the lead author of the 2006 study had been censured by the American Association for Public Opinion Research for "repeatedly refusing to disclose the corresponding information for his survey".<ref name=":2" />
+
+The Iraq Family Health Survey published by WHO researchers in ''[[The New England Journal of Medicine]]'' found that the 2006 ''Lancet'' study results "considerably overestimated the number of violent deaths" and that the results are highly improbable.<ref name=":12">{{Cite journal
+| author  = Iraq Family Health Survey Study Group
+| s2cid = 3186924
+| date    = January 31, 2008
+| title   = Violence-Related Mortality in Iraq from 2002 to 2006
+| journal = New England Journal of Medicine
+| volume  = 358
+| issue   = 5
+| pages   = 484–493
+| doi     = 10.1056/NEJMsa0707782
+| issn    = 0028-4793
+| pmid    = 18184950
+}}</ref> In comparing the two studies, peace researcher Kristine Eck of [[Uppsala University]] notes that the IFHS study which covered the same period as the Lancet survey "was based on a much larger sample (9,345 households compared to Burnham et al's 1,849) in far more clusters (1,086 clusters compared to Burnham et al's 47)."<ref name=":7" /> In comparing the two studies, Joachim Kreutz of Stockholm University and Nicholas Marsh of [[Peace Research Institute Oslo|PRIO]] said the IFHS study produced "a more reliable estimate."<ref>{{Cite web|url=https://www.routledge.com/Small-Arms-Crime-and-Conflict-Global-Governance-and-the-Threat-of-Armed/Greene-Marsh/p/book/9780415567008|title=Small Arms, Crime and Conflict: Global Governance and the Threat of Armed Violence|date=2012|website=Routledge.com|pages=59–60|language=en|access-date=2018-07-14|archive-url=https://web.archive.org/web/20180714164642/https://www.routledge.com/Small-Arms-Crime-and-Conflict-Global-Governance-and-the-Threat-of-Armed/Greene-Marsh/p/book/9780415567008|archive-date=July 14, 2018|url-status=live|df=mdy-all}}</ref> Oxford University political scientist [[Adam Roberts (scholar)|Adam Roberts]] wrote that the IFHS study was "more rigorous."<ref name=":16" />
+
+Burnham, Edward J. Mills, and Frederick M. Burkle noted that the IFHS's data indicated that Iraqi mortality increased by a factor of 1.9 following the invasion, compared to the factor of 2.4 found by Burnham et al., which translates to some 433,000 excess Iraqi deaths (violent and non-violent). Timothy R. Gulden considered it implausible that fewer than one-third of these excess deaths would have been violent in nature. Francisco J. Luquero and Rebecca F. Grais argued that the IFHS's lengthy survey and use of IBC data as a proxy for particularly dangerous areas likely resulted in an underestimate of violent mortality, while Gulden hypothesized that respondents may have been reluctant to report violent deaths to researchers working with the Iraqi government.<ref name="Correspondence">{{cite journal
+| title   = Correspondence: Violence-Related Mortality in Iraq, 2002–2006
+| journal = [[The New England Journal of Medicine]]
+| volume  = 359
+| issue   = 4
+|pages = 431–434| date    = July 24, 2008
+| doi     = 10.1056/NEJMc080419
+| pmid = 18650523
+| last1 = Burnham
+| first1 = G. M
+}}</ref> In a similar vein, Tirman observed that the Iraqi Health Ministry was affiliated with Shi'ite sectarians at the time, remarking that there was evidence that many violent deaths may have been recategorized as "non-violent" to avoid government retribution: "For example, the number of deaths by auto accidents rose by four times the pre-invasion rate; had this single figure been included in the violent deaths category, the overall estimate would have risen to 196,000."<ref>{{cite book
+| authorlink = John Tirman
+| last       = Tirman
+| first      = John
+| title      = The Deaths of Others: The Fate of Civilians in America's Wars
+| publisher  = [[Oxford University Press]]
+| year       = 2011
+| isbn       = 978-0-19-983149-4
+| pages         = 327–329
+}}</ref> Gulden even commented that "the IFHS results are easily in line with the finding of more than 600,000 violent deaths in the study by Burnham et al." However, the authors of the IFHS rejected such claims: "Because the level of underreporting is almost certainly higher for deaths in earlier time periods, we did not attempt to estimate excess deaths. The excess deaths reported by Burnham et al. included only 8.2% of deaths from nonviolent causes, so inclusion of these deaths will not increase the agreement between the estimates from the IFHS and Burnham et al."<ref name="Correspondence" />
+
+A graph in the ''Lancet'' article purportedly demonstrating that its conclusions are in line with violence trends measured by the IBC and Defense Department used cherry-picked data and had two Y-axes;<ref>{{cite journal |last1=Dougherty |first1=Josh |title=Mortality in Iraq |journal=The Lancet |date=January 2007 |volume=369 |issue=9556 |pages=102–103 |doi=10.1016/S0140-6736(07)60062-2 |pmid=17223464 |s2cid=46202829 }}</ref><ref>{{cite journal |last1=Guha-Sapir |first1=Debarati |last2=Degomme |first2=Olivier |last3=Pedersen |first3=Jon |title=Mortality in Iraq |journal=The Lancet |date=January 2007 |volume=369 |issue=9556 |pages=102; author reply 103–4 |doi=10.1016/S0140-6736(07)60061-0 |pmid=17223465 |s2cid=31275972 }}</ref> the authors conceded that the graph was flawed, but the ''Lancet'' never retracted it.<ref>{{cite web|url=https://theconversation.com/fudged-statistics-on-the-iraq-war-death-toll-are-still-circulating-today-93975|title=Fudged statistics on the Iraq War death toll are still circulating today|last=Spagat|first=Michael|date=2018-04-13|work=[[The Conversation (website)|The Conversation]]|accessdate=2019-02-09|archive-url=https://web.archive.org/web/20190209180733/https://theconversation.com/fudged-statistics-on-the-iraq-war-death-toll-are-still-circulating-today-93975|archive-date=February 9, 2019|url-status=live|df=mdy-all}}</ref><ref>{{cite journal |last1=Burnham |first1=Gilbert |last2=Lafta |first2=Riyadh |last3=Doocy |first3=Shannon |last4=Roberts |first4=Les |title=Mortality in Iraq – Authors' reply |journal=The Lancet |date=January 2007 |volume=369 |issue=9556 |pages=103–104 |doi=10.1016/S0140-6736(07)60063-4 |s2cid=54236383 }}</ref>
+
+=== Iraq Health Minister estimate (2006) ===
+In early November 2006 [[Council of Ministers of Iraq|Iraq's Health Minister]] [[Ali al-Shemari]] said that he estimated between 100,000 and 150,000 people had been killed since the March 2003 U.S.-led invasion.<ref name=tribune /><ref name=taipei /><ref>Todd, Robb S. (November 9, 2006).  [https://www.cbsnews.com/stories/2006/11/09/iraq/main2165206.shtml "Official: 150,000 Iraqis Killed Since 2003 – Iraqi Health Minister Says Three Injured for Every Person Killed Since U.S.-Led Invasion"] {{Webarchive|url=https://web.archive.org/web/20071018132409/http://www.cbsnews.com/stories/2006/11/09/iraq/main2165206.shtml |date=October 18, 2007 }}. [[CBS News]]. Retrieved September 3, 2010.</ref><ref name=hurst /> The ''[[Taipei Times]]'' reported on his methodology: "Al-Shemari said on Thursday ''[, November 9, 2006,]'' that he based his figure on an estimate of 100 bodies per day brought to morgues and hospitals – though such a calculation would come out closer to 130,000 in total."<ref name=taipei /> ''[[The Washington Post]]'' reported: "As al-Shemari issued the startling new estimate, the head of the Baghdad central morgue said Thursday he was receiving as many as 60 violent death victims each day at his facility alone. Dr. Abdul-Razzaq al-Obaidi said those deaths did not include victims of violence whose bodies were taken to the city's many hospital morgues or those who were removed from attack scenes by relatives and quickly buried according to Muslim custom."<ref name=hurst>Hurst, Steven R. (November 10, 2006).  [https://www.washingtonpost.com/wp-dyn/content/article/2006/11/10/AR2006111000164.html "Iraqi Official: 150,000 Civilians Dead"] {{Webarchive|url=https://web.archive.org/web/20170126015425/http://www.washingtonpost.com/wp-dyn/content/article/2006/11/10/AR2006111000164.html |date=January 26, 2017 }}. Associated Press (''via'' ''[[The Washington Post]]''). Retrieved September 3, 2010.</ref>
+
+From a November 9, 2006, ''[[International Herald Tribune]]'' article:<ref name=tribune />
+
+<blockquote>Each day we lost 100 persons, that means per month 3,000, per year it's 36,000, plus or minus 10 percent", al-Shemari said. "So by three years, 120,000, half-year 20,000, that means 140,000, plus or minus 10 percent", he said, explaining how he came to the figures. "This includes all Iraqis killed – police, ordinary people, children", he said, adding that people who were kidnapped and later found dead were also included in his estimate. He said the figures were compiled by counting bodies brought to "forensic institutes" or hospitals.</blockquote>
+
+From a November 11, 2006, ''[[Taipei Times]]'' article:<ref name=taipei />
+
+<blockquote>An official with the ministry also confirmed the figure yesterday ''[November 10, 2006]'', but later said that the estimated deaths ranged between 100,000 and 150,000. "The minister was misquoted. He said between 100,000–150,000 people were killed in three-and-a-half years", the official said.</blockquote>
+
+=== D3 Systems poll (2007) ===
+From February 25 to March 5, 2007, D3 Systems [http://www.d3systems.com] conducted a poll for the [[BBC]], [[ABC News]], [[ARD (broadcaster)|ARD]] and ''[[USA Today]]''.<ref>[[Staff writer]] (March 19, 2007). [http://news.bbc.co.uk/2/hi/middle_east/6451841.stm "Iraq Poll 2007: In Graphics"] {{Webarchive|url=https://web.archive.org/web/20070320214013/http://news.bbc.co.uk/2/hi/middle_east/6451841.stm |date=March 20, 2007 }}. [[BBC News]]. Retrieved September 3, 2010.</ref><ref name=abcnews2007march19>Langer, Gary (March 19, 2007). [https://abcnews.go.com/US/story?id=2954716&page=1 "Voices From Iraq 2007: Ebbing Hope in a Landscape of Loss – National Survey of Iraq"] {{Webarchive|url=https://web.archive.org/web/20071002090030/http://abcnews.go.com/US/story?id=2954716&page=1 |date=October 2, 2007 }}. [[ABC News]]. Retrieved September 3, 2010.</ref><ref>[https://abcnews.go.com/PollingUnit/PollVault2007 "The Polling Unit: Archives 2007"] {{Webarchive|url=https://web.archive.org/web/20090505052911/http://abcnews.go.com/PollingUnit/PollVault2007/ |date=May 5, 2009 }}. [[ABC News]]. See links in March 2007 section titled "March 2007 National Survey of Iraq".</ref><ref name=ABCpdf>[https://www.abcnews.go.com/images/US/1033aIraqpoll.pdf ABC News/USA Today/BBC/ARD Poll] {{Webarchive|url=https://web.archive.org/web/20080704164409/http://abcnews.go.com/images/US/1033aIraqpoll.pdf |date=July 4, 2008 }}. March 19, 2007. Detailed results with tables, charts, and graphs.</ref><ref>[http://news.bbc.co.uk/1/shared/bsp/hi/pdfs/19_03_07_iraqpollnew.pdf "Iraq Poll 2007"] {{Webarchive|url=https://web.archive.org/web/20070411073133/http://news.bbc.co.uk/1/shared/bsp/hi/pdfs/19_03_07_iraqpollnew.pdf |date=April 11, 2007 }}. D3 Systems poll (February 25 to March 5, 2007) for [[BBC]], [[ABC News]], [[ARD (broadcaster)|ARD]] and ''[[USA Today]]''.</ref><ref name=usatoday2007march19>[[Susan Page|Page, Susan]] (March 19, 2007). [https://www.usatoday.com/news/world/iraq/2007-03-19-iraq-poll-day2_N.htm "Democracy's Support Sinks"] {{Webarchive|url=https://web.archive.org/web/20100805030938/http://www.usatoday.com/news/world/iraq/2007-03-19-iraq-poll-day2_N.htm |date=August 5, 2010 }}. ''[[USA Today]]''. Retrieved September 3, 2010. [https://www.usatoday.com/news/graphics/iraqpoll_pdf/iraq_poll.pdf PDF report] {{Webarchive|url=https://web.archive.org/web/20100805031008/http://www.usatoday.com/news/graphics/iraqpoll_pdf/iraq_poll.pdf |date=August 5, 2010 }}.</ref>
+
+[[ABC News]] reported: "One in six says someone in their own household has been harmed. ... 53 percent of Iraqis say a close friend or immediate family member has been hurt in the current violence. That ranges from three in 10 in the Kurdish provinces to, in Baghdad, nearly eight in 10."<ref name=abcnews2007march19 />
+
+The methodology was described thus: "This poll... was conducted February 25 – March 5, 2007, through in-person interviews with a random national sample of 2,212 Iraqi adults, including oversamples in [[Al Anbar Governorate|Anbar]] province, [[Basra]] city, [[Kirkuk]] and the [[Sadr City]] section of Baghdad. The results have a 2.5-point error margin."<ref name=abcnews2007march19 /><ref name=ABCpdf /><ref>[[Staff writer]] (March 19, 2007). [https://abcnews.go.com/US/story?id=2954886 "Iraq Poll: Note on Methodology – National Survey of Iraq"] {{Webarchive|url=https://web.archive.org/web/20091029013713/http://abcnews.go.com/US/story?id=2954886 |date=October 29, 2009 }}. March 19, 2007. ABC News. Retrieved September 3, 2010.</ref>
+
+There was a field staff of 150 Iraqis in all. That included 103 interviewers, interviewing selected respondents at 458 locales across the country.<ref name=ABCpdf /> "This poll asked about nine kinds of violence (car bombs, snipers or crossfire, kidnappings, fighting among opposing groups or abuse of civilians by various armed forces)."<ref name=ABCpdf />
+
+Question 35 asked: "Have you or an immediate family member – by which I mean someone living in this household – been physically harmed by the violence that is occurring in the country at this time?" Here are the results<ref name="ABCpdf" /> in percentages:
+
+{| class="wikitable"
+|-
+! Groups
+! Yes
+! No
+! No opinion
+|-
+| All
+| 17
+| 83
+| 0
+|-
+| Sunni
+| 21
+| 79
+| 0
+|-
+| Shiite
+| 17
+| 83
+| 0
+|-
+| Kurdish
+| 7
+| 93
+| 0
+|}
+
+17% of respondents reported that at least one member of the household had been "physically harmed by the violence that is occurring in the country at this time." The survey did not ask whether multiple household members had been harmed.
+
+=== Opinion Research Business (ORB) survey (2007, 2008) ===
+A September 14, 2007, [[ORB survey of Iraq War casualties|estimate by Opinion Research Business]] (ORB), an independent British polling agency, suggested that the total Iraqi violent death toll due to the Iraq War since the U.S.-led invasion was in excess of 1.2&nbsp;million (1,220,580). These results were based on a survey of 1,499 adults in Iraq from August 12–19, 2007.<ref name=ORB /><ref name="LAtimes2007sept14" /> ORB published an update in January 2008 based on additional work carried out in rural areas of Iraq. Some 600 additional interviews were undertaken and as a result of this the death estimate was revised to 1,033,000 with a given range of 946,000 to 1,120,000.<ref name="update">[http://www.opinion.co.uk/Newsroom_details.aspx?NewsId=88 "Update on Iraqi Casualty Data"] {{webarchive|url=https://web.archive.org/web/20080201144355/http://www.opinion.co.uk/Newsroom_details.aspx?NewsId=88 |date=February 1, 2008 }} by [[Opinion Research Business]]. January 2008.</ref><ref name="orb2008jan28">[http://www.opinion.co.uk/Documents/Revised%20Casulaty%20Data%20-%20Press%20release.doc "Revised Casualty Analysis. New Analysis 'Confirms' 1 Million+ Iraq Casualties"] {{webarchive|url=https://web.archive.org/web/20090219212651/http://www.opinion.co.uk/Documents/Revised%20Casulaty%20Data%20-%20Press%20release.doc |date=February 19, 2009 }}. January 28, 2008. [[Opinion Research Business]]. [https://www.microsoft.com/downloads/details.aspx?FamilyID=3657ce88-7cfa-457a-9aec-f4f827f20cac Word Viewer for.doc files].</ref>
+
+Participants of the ORB survey were asked the following question: "How many members of your household, if any, have died as a result of the conflict in Iraq since 2003 (ie as a result of violence rather than a natural death such as old age)? Please note that I mean those who were actually living under your roof."
+
+This ORB estimate has been strongly criticised as exaggerated and ill-founded in [[peer reviewed]] literature.<ref>[http://w4.ub.uni-konstanz.de/srm/article/viewArticle/2373 "Conflict Deaths in Iraq: A Methodological Critique of the ORB Survey Estimate"] {{webarchive |url=https://web.archive.org/web/20110719105821/http://w4.ub.uni-konstanz.de/srm/article/viewArticle/2373 |date=July 19, 2011 }} By Michael Spagat and Josh Dougherty</ref><ref name=":6">{{Cite document
+| title        = Estimating the Human Costs of War: The Sample Survey Approach
+| last         = Spagat
+| first        = Michael
+| s2cid = 12494743
+| date         = April 20, 2012
+| language     = en
+| doi          = 10.1093/oxfordhb/9780195392777.013.0014
+}}</ref> According to Carnegie Mellon University historian Jay D. Aronson, "Because this was a number that few people could take seriously (given the incredible magnitude of violence that would have had to take place daily for such a number to be even remotely possible), the ORB study has largely been ignored."<ref name=":17" />
+
+=== Iraq Family Health Survey (IFHS, 2008) ===
+The [[Iraq Family Health Survey]] published in 2008 in ''[[The New England Journal of Medicine]]'' surveyed 9,345 households across Iraq and was carried out in 2006 and 2007. It estimated 151,000 deaths due to violence (95% uncertainty range, 104,000 to 223,000) from March 2003 through June 2006.<ref name=":12" />
+
+The study was done by the "Iraq Family Health Survey Study Group", a collaborative effort of six organizations: the Federal Ministry of Health, [[Baghdad]]; Kurdistan Ministry of Planning, [[Erbil]]; Kurdistan Ministry of Health, Erbil; Central Organization for Statistics and Information Technology, Baghdad; World Health Organization Iraq office, [[Amman]], Jordan; World Health Organization, [[Geneva]].<ref name=":12" />
+
+=== The Associated Press and Health Ministry (2009) ===
+In April 2009, the Associated Press reported that Iraq Health Ministry had recorded (via death certificates issued by hospitals and morgues) a total of 87,215 violent deaths of Iraqi citizens between January 1, 2005, and February 28, 2009. The number excludes thousands of missing persons and civilians whose deaths were unrecorded; the government official who provided the data told the AP that if included, the number of dead for that period would be 10 to 20 percent higher.<ref name=ap2009apr24nbc/><ref name=ap2009apr24/>
+
+The Associated Press used the Health Ministry tally and other data (including counts of casualties for 2003–2004, and after March 1, 2009, from hospital sources and media reports, in major part the Iraq Body Count) to estimate that more than 110,600 Iraqis were killed from the start of the war to April 2009. Experts interviewed by the AP found this estimate to be credible and an "important baseline" although necessarily an estimate because of unrecorded deaths, especially in inaccessible areas. While mass graves discovered over time shed more light on deaths in the Iraq War, the AP noted that "how many remain will never be known."<ref name=ap2009apr24nbc/><ref name=ap2009apr24/>
+
+=== ''PLOS Medicine'' (2013) ===
+A 2013 study by Hagopian et al. in ''[[PLOS Medicine]]'' estimated that 461,000 Iraqis died as a result of the Iraq War.<ref name="Hagopian" /> The study used a similar methodology as the 2006 Lancet study and had the lead author of the 2006 study as one of the 12 authors.<ref name=":3">{{Cite news
+| url          = https://psmag.com/news/better-stab-estimating-many-died-iraq-war-68419
+| title        = A Better Stab at Estimating How Many Died in the Iraq War
+| work         = Pacific Standard
+| access-date  = October 18, 2017
+| archive-url  = https://web.archive.org/web/20171019003844/https://psmag.com/news/better-stab-estimating-many-died-iraq-war-68419
+| archive-date = October 19, 2017
+| url-status     = live
+}}</ref> According to one of the authors, Amy Hagopian, half of the casualties not resulting from violence were due to inadequate treatment of cardiovascular disease.<ref name=":4">{{Cite news
+| url          = http://america.aljazeera.com/articles/2013/10/15/iraq-war-civiliandeathtoll500knewstudyestimates.html
+| title        = Iraq war claimed half a million lives, study finds
+| access-date  = October 18, 2017
+| archive-url  = https://web.archive.org/web/20171019210653/http://america.aljazeera.com/articles/2013/10/15/iraq-war-civiliandeathtoll500knewstudyestimates.html
+| archive-date = October 19, 2017
+| url-status     = live
+}}</ref> Upon the study's publication, Michael Spagat, a critic of the 2006 Lancet study, said that the 2013 study seemed "to fix most of the methodological flaws of the 2006 paper".<ref name=":3" /> Spagat however noted that he found the large confidence interval of the 2013 study disconcerting.<ref name=":3" /> Other critics of the 2006 Lancet study mirrored Spagat's views, noting that the 2013 study was an improvement but that the large confidence interval was concerning.<ref name=":4" />
+
+A 2017 study by Spagat and Van Weezel replicated the 2013 study by Hagopian et al. and found that the 500,000 casualty estimate by Hagopian et al. was not supported by data.<ref name=":0">{{Cite journal
+| last1    = Spagat
+| first1   = Michael
+| last2   = van Weezel
+| first2  = Stijn
+| date    = October 1, 2017
+| title   = Half a million excess deaths in the Iraq war: Terms and conditions may apply
+| journal = Research & Politics
+| volume  = 4
+| issue   = 4
+| pages   = 2053168017732642
+| doi     = 10.1177/2053168017732642
+| issn    = 2053-1680
+| doi-access= free
+}}</ref> Spagat and Van Weezel said that Hagopian et al. made many methodological errors.<ref name=":0" /> Hagopian et al. defended their original study, arguing that Van Weezel and Spagat misunderstood their method.<ref name="Hagopian 2018 205316801775390"/> Van Weezel and Spagat answered, saying that the response by Hagopian et al. "avoids the central points, addresses only secondary issues and makes ad hominem attacks."<ref>{{Cite journal
+| last    = Spagat
+| first   = Michael
+| year    = 2018
+| title   = Terms and conditions still apply: A rejoinder to Hagopian et al
+| journal = Research & Politics
+| volume   = 5
+| pages   = 205316801875785
+| doi     = 10.1177/2053168018757858
+| doi-access= free
+}}</ref>
+
+== Undercounting ==
+Some studies estimating the casualties due to the war in Iraq say there are various reasons why the estimates and counts may be low.
+
+Morgue workers have alleged that official numbers underestimate the death toll.<ref>{{Cite news
+| url          = https://www.npr.org/templates/story/story.php?storyId=100145401
+| title        = Though Numbers Unclear, Iraqi Deaths Touch Many
+| publisher    = NPR
+| access-date  = February 9, 2018
+| archive-url  = https://web.archive.org/web/20180210062058/https://www.npr.org/templates/story/story.php?storyId=100145401
+| archive-date = February 10, 2018
+| url-status     = live
+}}</ref> The bodies of some casualties do not end up in morgue and thus may go unrecorded.<ref name="5,500 Iraqis">Cooney, Daniel (May 23, 2004). [http://www.unitedjerusalem.org/index2.asp?id=443126&Date=5/24/2004 "5,500 Iraqis Killed, Morgue Records Show"] {{webarchive|url=https://web.archive.org/web/20110716233611/http://www.unitedjerusalem.org/index2.asp?id=443126&Date=5%2F24%2F2004 |date=July 16, 2011 }}. Associated Press (''via'' [[The United Jerusalem Foundation]]). Retrieved September 3, 2010. (Article is here [http://www.chinadaily.com.cn/english/doc/2004-05/24/content_333168.htm] {{Webarchive|url=https://web.archive.org/web/20090527030952/http://www.chinadaily.com.cn/english/doc/2004-05/24/content_333168.htm |date=May 27, 2009 }} also (''via'' the ''[[China Daily]]''). Retrieved September 3, 2010.)</ref> In 2006, ''The Washington Post'' reported: "Police and hospitals often give widely conflicting figures of those killed in major bombings. In addition, death figures are reported through multiple channels by government agencies that function with varying efficiency."<ref name="hurst" />
+
+A January 31, 2008 Perspective in the ''[[New England Journal of Medicine]]'' contains the following discussion of undercounting Iraqi civilian casualties in household surveys:
+
+{{quote|... sometimes it was problematic or too dangerous to enter a cluster of households, which might well result in an undercount; data from the Iraq Body Count on the distribution of deaths among provinces were used to calculate estimates in these instances. If the clustering of violent deaths wasn't accurately captured, that could also increase uncertainty. The sampling frame was based on a 2004 count, but the population has been changing rapidly and dramatically because of sectarian violence, the flight of refugees, and overall population migration. Another source of bias in household surveys is underreporting due to the dissolution of some households after a death, so that no one remains to tell the former inhabitants' story.<ref>{{cite journal |last1=Brownstein |first1=Catherine A. |last2=Brownstein |first2=John S. |title=Estimating Excess Mortality in Post-Invasion Iraq |journal=New England Journal of Medicine |date=31 January 2008 |volume=358 |issue=5 |pages=445–447 |doi=10.1056/NEJMp0709003 |pmid=18184951 }}</ref>}}
+
+''[[The Washington Post]]'' noted in 2008 that
+
+<blockquote>research has shown that household surveys typically miss 30 to 50 percent of deaths. One reason is that some families that have suffered violent deaths leave the survey area. ... Some people are kidnapped and disappear, and others turn up months or years later in mass graves. Some are buried or otherwise disposed of without being recorded. In particularly violent areas, local governments have effectively ceased to function, and there are ineffective channels for collecting and passing information between hospitals, morgues and the central government.<ref name=NewEstimate /></blockquote>
+
+The [[Lancet surveys of Iraq War casualties|October 2006 ''Lancet'' study]]<ref name=lancet2006 /><ref name=supplement /> states:
+
+<blockquote>Aside from [[Bosnia]], we can find no conflict situation where passive surveillance [used by the IBC] recorded more than 20% of the deaths measured by population-based methods [used in the ''Lancet'' studies]. In several outbreaks, disease and death recorded by facility-based methods underestimated events by a factor of ten or more when compared with population-based estimates. Between 1960 and 1990, newspaper accounts of political deaths in Guatemala correctly reported over 50% of deaths in years of low violence but less than 5% in years of highest violence.<ref name=lancet2006 /></blockquote>
+
+The report describes no other specific examples except for this study of Guatemala.
+
+[[Juan Cole]] wrote in October 2006 that even though heavy fighting could be observed, none of the Iraqi casualties in the skirmishes were reported on, which suggests undercounting.<ref name="juancole2006oct11">[[Juan Cole|Cole, Juan]] (October 11, 2006). [http://www.juancole.com/2006/10/655000-dead-in-iraq-since-bush.html "655,000 Dead in Iraq since Bush Invasion"] {{Webarchive|url=https://web.archive.org/web/20160206180507/http://www.juancole.com/2006/10/655000-dead-in-iraq-since-bush.html |date=February 6, 2016 }}. ''Informed Comment'' (blog at juancole.com). Retrieved September 3, 2010.</ref>
+
+A July 28, 2004, [[opinion piece]] by [[Robert Fisk]] published by ''[[The Independent]]'' reports that "some families bury their dead without notifying the authorities."<ref>[[Robert Fisk|Fisk, Robert]] (July 28, 2004). [https://archive.today/20120715104218/http://news.independent.co.uk/world/fisk/article49263.ece "Baghdad Is a City That Reeks with the Stench of the Dead"] ([[opinion piece]]). ''[[The Independent]]''. Retrieved September 3, 2010.</ref>
+
+[[Stephen Soldz]], who runs the website [http://psychoanalystsopposewar.org/ORR.htm "Iraq Occupation and Resistance Report"], wrote in a February 5, 2006, article:<ref name=soldz>[[Stephen Soldz|Soldz, Stephen]] (February 5, 2006). [http://www.zmag.org/content/showarticle.cfm?ItemID=9660 "When Promoting Truth Obscures the Truth: More on Iraqi Body Count and Iraqi Deaths"] {{webarchive|url=http://webarchive.loc.gov/all/20060504092259/http://www.zmag.org/content/showarticle.cfm?ItemID=9660 |date=May 4, 2006 }}. ''[[ZNet]]''. Retrieved September 3, 2010.</ref>
+
+<blockquote>Of course, in conditions of active rebellion, the safer areas accessible to Western reporters are likely to be those under US/Coalition control, where deaths are, in turn, likely to be due to insurgent attacks. Areas of insurgent control, which are likely to be subject to US and Iraqi government attack, for example most of [[Al Anbar Governorate|Anbar]] province, are simply off-limits to these reporters. Thus, the realities of reporting imply that reporters will be witness to a larger fraction of deaths due to insurgents and a lesser proportion of deaths due to US and Iraqi government forces.</blockquote>
+
+An October 19, 2006, ''[[The Washington Post]]'' article<ref name="Washingtonpost-ellen" /> reports:
+
+<blockquote>The deaths reported by officials and published in the news media represent only a fraction of the thousands of mutilated bodies winding up in Baghdad's overcrowded morgue each month. ... Bodies are increasingly being dumped in and around Baghdad in fields staked out by individual [[Shiite]] militias and [[Sunni]] insurgent groups. Iraqi security forces often refuse to go to the dumping grounds, leaving the precise number of bodies in those sites unknown. Civilian deaths, unlike those of American troops, often go unrecorded.</blockquote>
+
+''[[The Australian]]'' reported in January 2007 that Iraqi government casualty estimates do not count deaths classed as 'criminal', deaths of civilians who get wounded and die later from the wounds, or kidnap victims who have not been found.<ref name=australian />
+
+The [[Iraq Body Count project]] (IBC) stated in November 2004 that "we have always been quite explicit that our own total is certain to be an underestimate of the true position, because of gaps in reporting or recording".<ref>[[Press release]] (November 7, 2004). [http://www.iraqbodycount.org/analysis/beyond/lancet100000/ "IBC Response to the ''Lancet'' Study Estimating '100,000' Iraqi Deaths"] {{Webarchive|url=https://web.archive.org/web/20071005070914/http://www.iraqbodycount.org/analysis/beyond/lancet100000/ |date=October 5, 2007 }}. [[Iraq Body Count project]]. Retrieved September 3, 2010.</ref>
+
+=== Systematic underreporting by U.S. ===
+An April 2005 article by ''[[The Independent]]''<ref>Buncombe, Andrew (April 20, 2005). [http://www.commondreams.org/headlines05/0420-07.htm "Aid Worker Uncovered America's Secret Tally of Iraqi Civilian Deaths"] {{webarchive |url=https://web.archive.org/web/20070101201208/http://www.commondreams.org/headlines05/0420-07.htm |date=January 1, 2007 }}. ''[[The Independent]]'' (''via''  ''[[Common Dreams NewsCenter]]''). Retrieved September 3, 2010.</ref> reports:
+
+<blockquote>A week before she was killed by a suicide bomber, humanitarian worker [[Marla Ruzicka]] forced military commanders to admit they did keep records of Iraqi civilians killed by US forces. ... in an essay Ms Ruzicka wrote a week before her death on Saturday and published yesterday, the 28-year-old revealed that a Brigadier General told her it was "standard operating procedure" for US troops to file a report when they shoot a non-combatant. She obtained figures for the number of civilians killed in Baghdad between February 28 and April 5 [2005], and discovered that 29 had been killed in firefights involving US forces and insurgents. This was four times the number of Iraqi police killed.</blockquote>
+
+The December 2006 report of the [[Iraq Study Group]] (ISG) found that the United States has filtered out reports of violence in order to disguise its perceived policy failings in Iraq.<ref name=mcclatchy>Landay, Jonathan S. (December 7, 2006). [http://www.commondreams.org/headlines06/1207-05.htm "Study Says Violence in Iraq Has Been Underreported"] {{webarchive |url=https://web.archive.org/web/20061210001128/http://www.commondreams.org/headlines06/1207-05.htm |date=December 10, 2006 }}. ''[[The McClatchy Company|McClatchy Newspapers]]'' (''via'' ''[[Common Dreams NewsCenter]]''). Retrieved September 3, 2010.</ref> A December 7, 2006, [[The McClatchy Company|McClatchy Newspapers]] article<ref name=mcclatchy /> reports that the ISG found that U.S. officials reported 93 attacks or significant acts of violence on one day in July 2006, yet "a careful review of the reports for that single day brought to light more than 1,100 acts of violence." The article further reports:
+
+<blockquote>The finding confirmed a September 8 McClatchy Newspapers report that U.S. officials excluded scores of people killed in car bombings and mortar attacks from tabulations measuring the results of a drive to reduce violence in Baghdad. By excluding that data, U.S. officials were able to boast that deaths from sectarian violence in the Iraqi capital had declined by more than 52 percent between July and August, McClatchy newspapers reported.</blockquote>
+
+From the ISG report itself:
+
+<blockquote>A murder of an Iraqi is not necessarily counted as an attack. If we cannot determine the source of a sectarian attack, that assault does not make it into the database. A roadside bomb or a rocket or mortar attack that doesn't hurt U.S. personnel doesn't count.<ref name=mcclatchy /></blockquote>
+
+=== Casualties caused by criminal and political violence ===
+[[File:Army.mil-2007-04-23-104120.jpg|thumb|U.S. Army medics lift a wounded Iraqi police officer into an ambulance (March 2007)]]
+In May 2004, Associated Press completed a survey<ref name="5,500 Iraqis" /> of the morgues in [[Baghdad]] and surrounding provinces. The survey tallied violent deaths from May 1, 2003, when President [[George W. Bush|Bush]] declared an end to major combat operations, through April 30, 2004.
+
+From the AP article:
+
+<blockquote>In Baghdad, a city of about 5.6&nbsp;million, 4,279 people were recorded killed in the 12 months through April 30, [2004], according to figures provided by Kais Hassan, director of statistics at Baghdad's [[Medicolegal Institute]], which administers the city's morgues. "Before the war, there was a strong government, strong security. There were a lot of police on the streets and there were no illegal weapons", he said during an AP reporter's visit to the morgue. "Now there are few controls. There is crime, revenge killings, so much violence." The figure does not include most people killed in big terrorist bombings, Hassan said. The cause of death in such cases is obvious so bodies are usually not taken to the morgue, but given directly to victims' families. Also, the bodies of killed fighters from groups like the al-Mahdi Army are rarely taken to morgues.</blockquote>
+
+Accidental trauma deaths from car accidents, falls, etc. are not included in the numbers. The article reports that the numbers translate to 76 killings per 100,000 people in Baghdad, compared to 39 in [[Bogotá]], Colombia, 7.5 in [[New York City]], and 2.4 in neighboring Jordan. The article states that there were 3.0 killings per 100,000 people in Baghdad in 2002 (the year before the war). Morgues surveyed in other parts of Iraq also reported large increases in the number of homicides. [[Karbala]], south of Baghdad, increased from an average of one homicide per month in 2002 to an average of 55 per month in the year following the invasion; in [[Tikrit]], north of Baghdad, where there were no homicides in 2002, the rate had grown to an average of 17 per month; in the northern province of [[Kirkuk]], the rate had increased from 3 per month in 2002 to 34 per month in the survey period.<ref name="5,500 Iraqis" />
+
+== See also ==
+{{Portal|Iraq|War}}
+{{colbegin}}
+* [[Aviation accidents and incidents in Iraq War]]
+* [[Campaign for Innocent Victims in Conflict]]
+* [[International Criminal Court and the 2003 invasion of Iraq]]
+* [[Iraq Body Count project]]
+* [[Iraqi Health Ministry casualty survey]]
+* [[Lancet surveys of Iraq War casualties]]
+* [[ORB survey of Iraq War casualties]]
+* [[Post-traumatic stress disorder]]
+* [[Suicide bombings in Iraq since 2003]]
+* [[Violence against academics in post-invasion Iraq]]
+* [[United States casualties of war]]
+* [[Civilian casualty ratio]]
+* [[Casualty recording]]{{colend}}{{clear right}}
+
+== References ==
+{{Reflist|30em}}
+
+== External links and references ==
+{{external links|date=August 2013}}
+(Additional links not found in the two reference sections higher up.)
+
+;U.S. military casualties only
+* [http://projects.washingtonpost.com/fallen/ "Faces of the Fallen"], ''[[The Washington Post]]'' database of all U.S. service-member casualties from Operation Iraqi Freedom (OIF) and [[Operation Enduring Freedom]] (OEF)
+* [https://www.nytimes.com/2005/10/26/national/IRAQDEATHS_GRAPHIC.html "A Look at Those Who Died in Iraq"], ''[[The New York Times]]'' interactive
+* [https://web.archive.org/web/20110303054755/http://siadapp.dmdc.osd.mil/personnel/CASUALTY/castop.htm U.S. Military Casualties], [[United States Department of Defense]]
+* [https://web.archive.org/web/20040927003251/http://www.ac.wwu.edu/~stephan/USfatalities.html "U.S. Military Deaths in Bush's Iraq Quagmire"], chart
+* [http://www.globalsecurity.org/military/ops/iraq_casualties.htm U.S. Casualties in Iraq], globalsecurity.org
+* [https://web.archive.org/web/20070630163009/http://www.thememoryhole.org/war/wounded/index2.htm U.S. Military Personnel Wounded in Iraq & Afghanistan: A Running Log].
+* [http://www.usnewslink.com/uscasualties.htm "U.S. Casualties of War as Announced by the Department of Defense 2003–2007"]. A list of U.S. military casualties by date order beginning 2003 and updated daily.
+* [http://www.americanwidowproject.org/index.php?link=8 American Widow Project – Resources].
+* [https://web.archive.org/web/20110727195304/http://www.docsonline.tv/Archives/description.php?doc=14 "Purple hearts"] – documentary interviews U.S. military casualties. In English with very short section in Dutch that is missing English subtitles.
+* [https://nymag.com/print/?/news/features/71277/index5.html The Prozac, Paxil, Zoloft, Wellbutrin, Celexa, Effexor, Valium, Klonopin, Ativan, Restoril, Xanax, Adderall, Ritalin, Haldol, Risperdal, Seroquel, Ambien, Lunesta, Elavil, Trazodone War]. February 6, 2011. By Jennifer Senior. [[New York (magazine)|''New York'']] magazine.
+
+;Coalition (including U.S. and contractors) casualties only
+* [http://edition.cnn.com/SPECIALS/2003/iraq/forces/casualties/index.html CNN list of U.S. & Coalition Casualties in Iraq since 2003]
+* [https://web.archive.org/web/20080516052114/http://www.epluribusmedia.org/features/2007/20070727_USAID_does_not_know.html USAID: We don't know how many contractors we have working for us in Iraq]. "ePluribus Media has repeatedly filed FOIA requests on a range of topics related to contractors in Iraq."
+
+;Iraqi casualties only
+* Les Roberts [https://web.archive.org/web/20070927015234/http://www.lshtm.ac.uk/events/apr2005/ seminar] at the [[London School of Hygiene & Tropical Medicine]], on April 13, 2005; uploaded in https://www.youtube.com/watch?v=o5vD_Ub2K_c on October 25, 2006.
+* Conetta, Carl (February 18, 2004). [http://www.comw.org/pda/0402rm9.html "Disappearing the Dead: Iraq, Afghanistan, and the Idea of a "New Warfare"] [http://www.comw.org/pda/ Project on Defense Alternatives].
+* Schwartz, Michael (July 6, 2007). [https://web.archive.org/web/20090519014634/http://www.alternet.org/waroniraq/56124/ "War on Iraq: Is the United States Killing 10,000 Iraqis Every Month? Or Is It More?"]. ''[[AlterNet]]''.
+* [https://web.archive.org/web/20070808101642/http://www.jhsph.edu/PublicHealthNews/Press_Releases/PR_2004/Burnham_Iraq.html "Iraqi Civilian Deaths Increase Dramatically After Invasion"]. [[Johns Hopkins School of Public Health]]. October 28, 2004.
+* Korb, Lawrence J.; Biddle, Stephen (September 25, 2007). [https://web.archive.org/web/20080320073010/http://www.cfr.org/publication/14296/ "Violence by the Numbers in Iraq: Sound Data or Shaky Statistics?"]. [[Council on Foreign Relations]].
+* [https://web.archive.org/web/20100613141928/http://www1.cedat.be/Documents/Working_Papers/CREDWPIraqMortalityJune2007.pdf Estimating Mortality in Civil Conflicts: Lessons from Iraq.] A June 2007 working paper by the [[Centre for Research on the Epidemiology of Disasters]]
+
+;Casualty photos
+* Kamiya, Gary (August 23, 2005). [https://web.archive.org/web/20071017035153/http://dir.salon.com/story/news/feature/2005/08/23/iraq_gallery/index.html "Iraq: The Unseen War"]. ''[[Salon.com]]''. [https://web.archive.org/web/20071022023104/http://dir.salon.com/story/news/feature/2005/08/23/iraq_gallery/index1.html The photos].
+* [https://www.nytimes.com/packages/khtml/2007/05/22/world/20070523_SEARCH_FEATURE.html "The Reach of War. A Deadly Search for Missing Soldiers"]. Slideshow narrated by the photographer Michael Kamber. May 23, 2007. ''[[The New York Times]]''. Article: [https://www.nytimes.com/2007/05/23/world/middleeast/23search.html?_r=1&oref=slogin "As Comrades Search, Fatal Bomb Wreaks Havoc"]. By Damien Cave.
+* [http://www.spiegel.de/fotostrecke/fotostrecke-58847.html Photo Gallery: Death and Destruction in Baghdad on Nov. 23, 2006]. ''[[Der Spiegel]].''
+
+;General and miscellaneous
+* [http://www.afsc.org/iraq/ "Wage Peace Movie"], 2-minute web movie about casualties in Iraq from the [[American Friends Service Committee]]
+* [http://www.afsc.org/eyes/ "Eyes Wide Open"], a traveling exhibition on the human cost of war
+* [http://www.cpj.org/Briefings/Iraq/Iraq_danger.html "Iraq: Journalists in Danger – A statistical profile of journalists killed on duty since March 2003 in Iraq"], [[Committee to Protect Journalists]]
+* [http://www.casi.org.uk/info/undocs/war021210scanned.pdf "Likely Humanitarian Scenarios"], UN internal memo predicting 100,000 direct and 400,000 indirect casualties as a result of the invasion, December 10, 2002
+* [http://www.iraqimemorial.org/ "iraqimemorial.org"], online database and traveling exhibition of proposals and projects to memorialize the civilian casualties in Iraq
+
+{{Iraq War}}
+
+[[Category:Iraq War]]
+[[Category:Iraq War casualties| ]]
+[[Category:George W. Bush administration controversies]]

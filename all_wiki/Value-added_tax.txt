@@ -1,0 +1,1460 @@
+{{short description|Form of consumption tax}}
+{{redirect|VAT|the UK tax|Value-added tax (United Kingdom)|other uses|Vat (disambiguation)}}
+{{Use dmy dates|date=January 2018}}
+[[File:Countries with VAT.svg|260px|thumb|Map of countries and territories by their VAT status {{legend|#0000f6|No VAT}} {{legend|#f08481|VAT}}]]
+{{Taxation}}
+A '''value-added tax''' ('''VAT'''), known in some countries as a '''goods and services tax''' ('''GST'''), is a type of [[tax]] that is assessed incrementally. It is levied on the price of a product or service at each stage of production, distribution, or sale to the end consumer. If the ultimate consumer is a business that collects and pays to the government VAT on its products or services, it can reclaim the tax paid. It is similar to, and is often compared with, a [[sales tax]].
+
+VAT essentially compensates for the shared service and infrastructure provided in a certain locality by a state and funded by its taxpayers that were used in the provision of that product or service.{{citation needed|date=November 2020}} Not all localities require VAT to be charged, and exports are often exempt. VAT is usually implemented as a destination-based tax, where the tax rate is based on the location of the consumer and applied to the sales price. The terms VAT, GST, and the more general [[consumption tax]] are sometimes used interchangeably. VAT raises about a fifth of total tax revenues both worldwide and among the members of the [[Organisation for Economic Co-operation and Development]] (OECD).<ref name="OECD 2018 VAT trends">{{cite book|title=Consumption Tax Trends 2018: VAT/GST and excise rates, trends and policy issues|publisher=Secretary-General of the OECD|isbn=978-92-64-22394-3|url=http://www.keepeek.com/Digital-Asset-Management/oecd/taxation/consumption-tax-trends-2014_ctt-2014-en#.V-bNg61v9GY#page1|accessdate=24 September 2016|doi=10.1787/ctt-2018-en|series=Consumption Tax Trends|year=2018}}</ref>{{Rp|14}} As of 2018, 166 of the [[Member states of the United Nations|193 countries]] with full UN membership employ a VAT, including all OECD members except the United States,<ref name="OECD 2018 VAT trends"/>{{Rp|14}} where many states use a sales tax system instead.
+
+There are two main methods of calculating VAT: the credit-invoice or invoice-based method, and the subtraction or accounts-based method. Using the credit-invoice method, sales transactions are taxed, with the customer informed of the VAT on the transaction, and businesses may receive a credit for VAT paid on input materials and services. The credit-invoice method is the most widely employed method, used by all national VATs except for Japan. Using the subtraction method, at the end of a reporting period, a business calculates the value of all taxable sales then subtracts the sum of all taxable purchases and the VAT rate is applied to the difference. The subtraction method VAT is currently only used by Japan, although subtraction method VATs, often using the name "flat tax," have been part of many recent tax reform proposals by US politicians.<ref name="CRS 2008"/><ref name="Cruz Flat Tax"/><ref name="USCC VAT white paper"/> With both methods, there are exceptions in the calculation method for certain goods and transactions, created for either pragmatic collection reasons or to counter tax fraud and evasion.
+
+==History==
+Germany and France were the first countries to implement VAT, doing so in the form of a general consumption tax during World War I.<ref name=":0">{{Cite journal|last=Helgason|first=Agnar Freyr|title=Unleashing the 'money machine': the domestic political foundations of VAT adoption|journal=Socio-Economic Review|volume=15|issue=4|pages=797–813|doi=10.1093/ser/mwx004|year=2017}}</ref> The modern variation of VAT was first implemented by France in 1954 in Ivory Coast (Côte d'Ivoire) colony. Recognizing the experiment as successful, the French introduced it in 1958.<ref name=":0" /> [[Maurice Lauré]], Joint Director of the France Tax Authority, the Direction Générale des Impôts implemented the VAT on 10 April 1954, although German industrialist [[Wilhelm von Siemens]] proposed the concept in 1918. Initially directed at large businesses, it was extended over time to include all business sectors. In France it is the most important source of state finance, accounting for nearly 50% of state revenues.<ref>{{cite web |url= http://www.performance-publique.gouv.fr/le-budget-et-les-comptes-de-letat/approfondir/les-recettes/les-recettes-fiscales.html |quote= la TVA représente 125,4&nbsp;milliards d’euros, soit 49,7 % des recettes fiscales nettes de l’État. |date= 30 October 2009 |title= Les recettes fiscales |publisher= [[Minister of the Economy, Industry and Employment (France)]] |language= french |work= Le budget et les comptes de l’État}}</ref>
+
+A 2017 study found that the adoption of VAT is strongly linked to countries with [[Corporatism|corporatist institutions]].<ref name=":0" />
+
+==Overview==
+[[File:Btw.png|thumb|right|A Belgian VAT receipt]]
+
+The amount of VAT is decided by the state as a percentage of the price of the goods or services provided. As its name suggests, value-added tax is designed to tax only the value added by a business on top of the services and goods it can purchase from the market.
+
+To understand what this means, consider a production process (e.g., take-away coffee starting from coffee beans) where products get successively more valuable at each stage of the process. Each VAT-registered company in the chain will charge VAT as a percentage of the selling price, and will reclaim the VAT paid to purchase relevant products and services; the effect is that net VAT is paid on the value added. When an end-consumer makes a purchase subject to VAT—which is not in this case refundable—they are paying VAT for the entire production process (e.g., the purchase of the coffee beans, their transportation, processing, cultivation, etc.), since VAT is always included in the prices.
+
+The VAT collected by the state from each company is the difference between the VAT on sales and the VAT on purchase of goods and services upon which the product depends, i.e., the net value added by the company.
+
+==Implementation==
+{{See also|Comparison of cash method and accrual method of accounting}}
+The standard way to implement a value-added tax involves assuming a business owes some fraction on the price of the product minus all taxes previously paid on the good.
+
+By the '''method of  collection''', VAT can be ''accounts-based'' or ''invoice-based''.<ref>{{cite book |url=https://books.google.com/?id=qnI5E3m09d0C&pg=PA49 |title=The Modern VAT |publisher=[[International Monetary Fund]] |date=5 November 2001 |accessdate=30 April 2012 |last1=Bodin |first1=Jean-Paul |first2=Liam P. |last2=Ebril |first3=Michael |last3=Keen |first4=Victoria P. |last4=Summers |isbn=9781589060265}}</ref> Under the ''invoice method'' of collection, each seller charges VAT rate on his output and passes the buyer a special invoice that indicates the amount of tax charged. Buyers who are subject to VAT on their own sales (output tax) consider the tax on the purchase invoices as input tax and can deduct the sum from their own VAT liability. The difference between output tax and input tax is paid to the government (or a refund is claimed, in the case of negative liability). Under the ''accounts based method'', no such specific invoices are used. Instead, the tax is calculated on the value added, measured as a difference between revenues and allowable purchases. Most countries today use the invoice method, the only exception being Japan, which uses the accounts method.
+
+By the '''timing of collection''',<ref>[http://office.microsoft.com/en-us/products/HA101646121033.aspx Understanding cash and accrual basis accounting – Products – Office.com]. Office.microsoft.com. Retrieved 14 June 2013.</ref> VAT (as well as accounting in general) can be either ''accrual'' or ''cash based''. ''Cash basis'' accounting is a very simple form of accounting. When a payment is received for the sale of goods or services, a deposit is made, and the revenue is recorded as of the date of the receipt of funds—no matter when the sale had been made. Cheques are written when funds are available to pay bills, and the expense is recorded as of the cheque date—regardless of when the expense had been incurred. The primary focus is on the amount of cash in the bank, and the secondary focus is on making sure all bills are paid. Little effort is made to match revenues to the time period in which they are earned, or to match expenses to the time period in which they are incurred. ''Accrual basis accounting'' matches revenues to the time period in which they are earned and matches expenses to the time period in which they are incurred. While it is more complex than cash basis accounting, it provides much more information about your business. The accrual basis allows you to track receivables (amounts due from customers on credit sales) and payables (amounts due to vendors on credit purchases). The accrual basis allows you to match revenues to the expenses incurred in earning them, giving you more meaningful financial reports.
+
+==Incentives==
+The main reason that VAT has been successfully adopted in 116 countries as of 2020<ref name="United States Council for International Business">{{cite web |url=https://www.uscib.org/value-added-tax-rates-vat-by-country/ |title=Value Added Tax rates by country |archivedate=2020-11-12 |accessdate=2020-11-13 }}</ref> is because it provides an incentive for businesses to both register and keep invoices, and it does this in the form of zero rated goods and VAT exemption on goods not resold.<ref>{{cite conference |last=Minh Le |first=Tuan |title=Value Added Taxation: Mechanism, Design, and Policy Issues |url=https://www.semanticscholar.org/paper/Value-Added-Taxation-%3A-Mechanism-%2C-Design-%2C-and-Le/82999e12b5369c6239bed2b0421896ee33221690 |conference=World Bank |publisher=World Bank |date=May 1, 2003 |quote=the mechanism provides strong incentives for firms to keep invoices }}</ref> A business essentially through registration, is waived VAT on goods purchased for its own use.
+
+==Registration==
+In general, countries that have a VAT system require most businesses to be registered for VAT purposes. VAT-registered businesses can be natural persons or legal entities, but countries may have different thresholds or regulations specifying at which turnover levels registration becomes compulsory. VAT-registered businesses are required to add VAT on goods and services that they supply to others (with some exceptions, which vary by country) and account for the VAT to the taxing authority, after deducting the VAT that they paid on the goods and services they acquired from other VAT-registered businesses.
+
+==Comparison with income tax==
+Like an income tax, VAT is based on the increase in value of a product or service at each stage of production or distribution. However, there are some important differences:<ref>{{cite web | url=https://itep.org/wp-content/uploads/pb5vat.pdf | title = Value Added Taxes: An Option for States?}}</ref>
+
+* A VAT is usually collected by the end retailer. Therefore, even though VAT is actually incurred by all stages of production and distribution, it is frequently compared to a sales tax.
+* A VAT is usually a flat tax.
+* For VAT purposes, an importer is assumed to have contributed 100% of the value of a product imported from outside of the VAT zone. The importer incurs VAT on the entire value of the product, and this cannot be refunded, even if the foreign manufacturer paid other forms of income tax. This is in contrast to the US income tax system, which allows businesses to expense costs paid to foreign manufacturers. For this reason, VAT is often considered by US manufacturers to be a trade barrier, as further discussed below.
+
+==Comparison with sales tax==
+{{More citations needed section|date=January 2019}}
+
+Value-added tax avoids the cascade effect of sales tax by taxing only the value added at each stage of production. For this reason, throughout the world, VAT has been gaining favor over traditional sales taxes. In principle, VAT applies to all provisions of goods and services. VAT is assessed and collected on the value of goods or services that have been provided every time there is a transaction (sale/purchase). The seller charges VAT to the buyer, and the seller pays this VAT to the government. If, however, the purchasers are not the end users, but the goods or services purchased are costs to their business, the tax they have paid for such purchases can be deducted from the tax they charge to their customers. The government receives only the difference; in other words, it is paid tax on the [[gross margin]] of each transaction, by each participant in the sales chain.<ref>{{cite web |last1=Kagan |first1=Julia |title=Sales Tax |url=https://www.investopedia.com/terms/s/salestax.asp |website=Investopedia |accessdate=17 January 2019 |date=3 May 2018}}</ref>
+
+A sales tax incentivizes [[vertical integration]] and therefore discourages [[Division of labour|specialization]] and trade due to the fact that it taxes the full value of the product at each stage of production, instead of only the value that has been added to the product.
+
+In many developing countries such as India, sales tax/VAT are key revenue sources as high unemployment and low [[per capita income]] render other income sources inadequate. However, there is strong opposition to this by many sub-national governments as it leads to an overall reduction in the revenue they collect as well as of some autonomy.
+
+In theory, sales tax is normally charged on end users (consumers). The VAT mechanism means that the end-user tax is the same as it would be with a sales tax. The main disadvantage of VAT is the extra accounting required by those in the middle of the supply chain; this is balanced by the simplicity of not requiring a set of rules to determine who is and is not considered an end user. When the VAT system has few, if any, exemptions such as with GST in New Zealand, payment of VAT is even simpler.
+
+A general economic idea is that if sales taxes are high enough, people start engaging in widespread tax evading activity (like buying over the Internet, pretending to be a business, buying at wholesale, buying products through an employer etc.). On the other hand, total VAT rates can rise above 10% without widespread evasion because of the novel collection mechanism. However, because of its particular mechanism of collection, VAT becomes quite easily the target of specific frauds like [[carousel fraud]], which can be very expensive in terms of loss of tax incomes for states.<ref>{{cite web |last1=Kagan |first1=Julia |title=Value-Added Tax - VAT |url=https://www.investopedia.com/terms/v/valueaddedtax.asp |website=Investopedia |accessdate=17 January 2019 |date=11 December 2018}}</ref>
+
+==Examples==
+Consider the manufacture and sale of any item, which in this case is a [[widget (economics)|widget]]. In what follows, the term "gross margin" is used rather than "profit". Profit is the remainder of what is left after paying other costs, such as rent and personnel costs.
+
+===Without any tax===
+[[File:VAT1b2.png|right|Without any tax]]
+* A widget manufacturer, for example, spends  $1.00 on [[raw material]]s and uses them to make a widget.
+* The widget is sold wholesale to a widget retailer for $1.20, leaving a gross margin of $0.20.
+* The widget retailer then sells the widget to a widget consumer for $1.50, leaving a gross margin of $0.30.
+
+===With a sales tax===
+With a 10% sales tax:
+[[File:VAT2b22.png|right|With a 10% sales tax]]
+* The manufacturer spends $1.00 for the raw materials, certifying it is not a final consumer.
+* The manufacturer charges the retailer $1.20, checking that the retailer is not a consumer, leaving the same gross margin of $0.20.
+* The retailer charges the consumer ($1.50 x 1.10) = $1.65 and pays the government $0.15, leaving the gross margin of $0.30.
+
+So the consumer has paid 10% ($0.15) extra, compared to the no taxation scheme, and the government has collected this amount in taxation. The retailers have not paid any tax directly (it is the consumer who has paid the tax), but the retailer has to do the paperwork in order to correctly pass on to the government the sales tax it has collected. Suppliers and manufacturers have the administrative burden of supplying correct state exemption certifications, and checking that their customers (retailers) are not consumers.  The retailer must verify and maintain these exemption certificate.   In addition, the retailer must keep track of what is taxable and what is not along with the various tax rates in each of the cities, counties and states for the 35,000 plus various taxing jurisdictions.
+
+A large exception to this state of affairs is online sales. Typically if the online retail firm has no [[State income tax#Nexus|nexus]] (also known as substantial physical presence) in the state where the merchandise will be delivered, no obligation is imposed upon the retailer to collect sales taxes from "out-of-state" purchasers. Generally, state law requires that the purchaser report such purchases to the state taxing authority and pay the [[use tax]], which compensates for the sales tax that is not paid by the retailer.
+
+===With a value-added tax===
+With a '''10% VAT''':
+[[File:VAT3b22.png|right|With a 10% VAT]]
+* The manufacturer spends ($1 x 1.10) = '''$1.10''' for the raw materials, and the seller of the raw materials pays the government $0.10.
+* The manufacturer charges the retailer ($1.20 x 1.10) = '''$1.32''' and pays the government ($0.12 ''minus'' $0.10) = '''$0.02''', leaving the same gross margin of ($1.32 – $1.10 – $0.02) = '''$0.20'''.
+* The retailer charges the consumer ($1.50 x 1.10) = '''$1.65''' and pays the government ($0.15 ''minus'' $0.12) = '''$0.03''', leaving the same gross margin of ($1.65 – $1.32 – $0.03) = '''$0.30'''.
+* The manufacturer and retailer realize less gross margin from a percentage perspective. If the cost of raw material production were shown, this would also be true of the raw material supplier's gross margin on a percentage basis.
+* Note that the taxes paid by both the manufacturer and the retailer to the government are 10% of the ''values added'' by their respective business practices (e.g. the ''value added'' by the manufacturer is $1.20 minus $1.00, thus the tax payable by the manufacturer is ($1.20 – $1.00) × 10% = $0.02).
+
+In the VAT example above, the consumer has paid, and the government received, the same dollar amount as with a sales tax. At each stage of the production, the seller collects a tax on behalf of the government and the buyer pays for the tax by paying a higher price. The buyer can then be reimbursed for paying the tax, but only by successfully selling the value-added product to the buyer or consumer in the next stage. In the previously shown examples, if the retailer fails to sell some of its inventory, then it suffers a greater financial loss in the VAT scheme in comparison to the sales tax regulatory system by having paid a higher price on the product it wants to sell. Each business is responsible for handling the necessary paperwork in order to pass on to the government the VAT it collected on its gross margin. The businesses are freed from any obligation to request certifications from purchasers who are not end users, and of providing such certifications to their suppliers, but they incur increased accounting costs for collecting the tax, which are not reimbursed by the taxing authority.  For example, wholesale companies now have to hire staff and accountants to handle the VAT paperwork, which would not be required if they were collecting sales tax instead.
+
+===Limitations to the examples===
+In the above examples, we assumed that the same number of widgets were made and sold both before and after the introduction of the tax. This is not true in real life.
+
+The [[supply and demand]] [[economic model]] suggests that any tax raises the cost of transaction for ''someone'', whether it is the seller or purchaser. In raising the cost, either the [[demand curve]] shifts rightward, or the [[supply curve]] shifts upward. The two are functionally equivalent. Consequently, the quantity of a good purchased decreases, and/or the price for which it is sold increases.
+
+This shift in supply and demand is not incorporated into the above example, for simplicity and because these effects are different for every type of good. The above example assumes the tax is ''non-distortionary''.
+
+===Limitations of VAT===
+[[File:TaxWithTax.svg|right|thumb|A supply-demand analysis of a taxed market]]
+A VAT, like most taxes, distorts what would have happened without it. Because the price for ''someone'' rises, the quantity of goods traded decreases. Correspondingly, some people are ''worse'' off by ''more'' than the government is made ''better'' off by tax income. That is, more is lost due to supply and demand shifts than is gained in tax. This is known as a [[deadweight loss]]. If the income lost by the economy is greater than the government's income, the tax is inefficient. VAT and a non-VAT have the same implications on the microeconomic model.
+
+The entire amount of the government's income (the tax revenue) may not be a deadweight drag, if the tax revenue is used for productive spending or has positive externalities{{snd}}in other words, governments may do more than simply ''consume'' the tax income.  While distortions occur, consumption taxes like VAT are often considered superior because they distort incentives to invest, save and work ''less'' than most other types of taxation{{snd}}in other words, a VAT discourages consumption rather than production.
+
+In the diagram on the right:
+* Deadweight loss: the area of the triangle formed by the tax income box, the original supply curve, and the demand curve
+* Governments tax income: the grey rectangle that says "tax revenue"
+* Total [[consumer surplus]] after the shift: the green area
+* Total [[producer surplus]] after the shift: the yellow area
+
+==Imports and exports==
+Being a consumption tax, VAT is usually used as a replacement for sales tax. Ultimately, it taxes the same people and businesses the same amounts of money, despite its internal mechanism being different. There is a significant difference between VAT and [[sales tax]] for goods that are imported and exported:
+
+# VAT is charged for a commodity that is exported while sales tax is not.
+# Sales tax is paid for the full price of the imported commodity, while VAT is expected to be charged only for value added to this commodity by the importer and the reseller.
+
+This means that, without special measures, goods will be taxed twice if they are exported from one country that does have VAT to another country that has sales tax instead. Conversely, goods that are imported from a VAT-free country into another country with VAT will result in no sales tax and only a fraction of the usual VAT. There are also significant differences in taxation for goods that are being imported / exported between countries with different systems or rates of VAT. Sales tax does not have those problems{{snd}}it is charged in the same way for both imported and domestic goods, and it is never charged twice.
+
+To fix this problem, nearly all countries that use VAT use special rules for imported and exported goods:
+
+# All imported goods are charged VAT for their full price when they are sold for the first time.
+# All exported goods are exempted from any VAT payments.
+
+For these reasons VAT on imports and VAT rebates on exports form a common practice approved by the [[World Trade Organization]] (WTO).{{Citation needed|date=October 2018}}
+
+===Example===
+→ In Germany a product is sold to a German reseller for $2500+VAT ($3000). The German reseller will claim the VAT back from the state (the refund time change in base of local laws and states) and will then charge the VAT to the customer.
+
+→ In the USA a product is sold to another US reseller for $2500 (without the sales tax) with a certificate of exemption. The US reseller will charge the sales tax to the customer.
+
+Note: The VAT system adopted in Europe affects company cashflow due to compliance costs<ref name="PWC">{{cite web | url=https://www.pwc.com/gx/en/tax/pdf/impact-of-vat.pdf | title=The impact of VAT compliance on business | publisher=PriceWaterhouseCoopers | date =September 2010}}</ref> and fraud risk for governments due to overclaimed taxes.{{citation needed|date=October 2019}}
+
+It's different for B2B sales between countries, where will be applied the reverse charge (no VAT charged) or sales tax exemption, in case of B2C sales the seller should pay the VAT or sales tax to the consumer state (creating a controversial situation by asking to a foreign company to pay taxes of their taxable residents/citizens without jurisdiction on seller).
+
+==Around the world==
+===Australia===
+{{Main|Goods and services tax (Australia)}}
+The goods and services tax (GST) is a value-added tax introduced in Australia in 2000, which is collected by the [[Australian Tax Office]]. The revenue is then redistributed to the states and territories via the Commonwealth Grants Commission process. In essence, this is Australia's program of [[Equalization payments|horizontal fiscal equalisation]]. Whilst the rate is currently set at 10%, there are many domestically consumed items that are effectively zero-rated (GST-free) such as fresh food, education, and health services, certain medical products, as well as exemptions for Government charges and fees that are themselves in the nature of taxes.
+
+===Bangladesh===
+
+Value Added Tax (VAT) in Bangladesh was introduced in 1991, replacing sales tax and most excise duties. The Value Added Tax Act, 1991 was enacted that year and VAT started its passage from 10 July 1991. In Bangladesh, 10 July is observed as National VAT Day. Within the passage of 25 years, VAT has become the largest source of Government Revenue. About 56% of total tax revenue is VAT revenue in Bangladesh. Standard VAT rate is 15%. Export is zero rated. Besides these rates there are several reduced rates, locally called Truncated Rates, for service sectors ranging from 1.5% to 10%. To increase the productivity of VAT, the Government enacted the Value Added Tax and Supplementary Duty Act of 2012. This law was initially scheduled to operate online with an automated administration from 1 July 2017, however this pilot project was extended for another two years.<ref>{{Cite web|url=https://www.newagebd.net/article/21547/nbr-seeks-extension-of-time-cost-for-vat-online-project|title=NBR seeks extension of time, cost for VAT online project|website=New Age &#124; The Most Popular Outspoken English Daily in Bangladesh}}</ref>
+
+The [[National Board of Revenue]] (NBR) of the Ministry of Finance of the Government of Bangladesh is the apex organization administering the Value Added Tax. Relevant rules and acts include: Value Added Tax Act, 1991;<ref>http://nbr.gov.bd/uploads/acts/5.pdf</ref><ref>http://nbr.gov.bd/uploads/rules/6.pdf</ref><ref>http://nbr.gov.bd/uploads/rules/8.pdf</ref><ref>http://nbr.gov.bd/uploads/rules/13.pdf</ref> Value Added Tax and Supplementary Duty Act, 2012;<ref>http://nbr.gov.bd/uploads/acts/6.pdf</ref> Development Surcharge and Levy (Imposition and Collection) Act, 2015;<ref>http://nbr.gov.bd/uploads/acts/26.pdf</ref> and Value Added Tax and Supplementary Duty Rules, 2016.<ref>http://nbr.gov.bd/uploads/rules/VATR2016.pdf</ref> Anyone who is selling a product and collects VAT from buyers becomes a VAT Trustee if they: register their business and collect a Business Identification Number (BIN) from the NBR; submit VAT returns on time; offer VAT receipts to consumers; store all cash-memos; and use the VAT rebate system responsibly. Anyone who works in the VAT or Customs department in the NBR and deals with VAT trustees is a VAT Mentor.
+
+===Canada===
+{{Main|Goods and services tax (Canada)|Harmonized sales tax}}
+Goods and Services Tax (GST) is a value-added tax introduced by the Federal Government in 1991 at a rate of 7%, later reduced to the current rate of 5%. A [[Harmonized Sales Tax]] (HST) that combines the GST and provincial sales tax together, is collected in New Brunswick (15%), Newfoundland (15%), Nova Scotia (15%), Ontario (13%) and Prince Edward Island (15%), while British Columbia had a 12% HST from 2010 until 2013. Quebec has a de facto 14.975% HST: its provincial sales tax follows the same rules as the GST, and both are collected together by Revenu Québec. Advertised and posted prices generally exclude taxes, which are calculated at time of payment; common exceptions are motor fuels, the posted prices for which include sales and [[excise]] taxes, and items in vending machines as well as alcohol in monopoly stores. Basic groceries, prescription drugs, inward/outbound transportation and medical devices are exempt.
+
+===China===
+VAT was implemented in China in 1984 and is administered by the State Administration of Taxation. In 2007, the revenue from VAT was 15.47 billion yuan ($2.2 billion) which made up 33.9 percent of China's total tax revenue for the year. {{Dubious|China's VAT revenue|date=December 2018}} The standard rate of VAT in China is 13%. There is a reduced rate of 9% that applies to products such as books and types of oils, and 6% for services except for PPE lease.<ref>[http://www.bjreview.com.cn/business/txt/2009-08/03/content_210354.htm China's VAT System – Beijing Review]. Bjreview.com.cn (3 August 2009). Retrieved 14 June 2013.</ref>
+
+===European Union===
+{{Main|European Union value added tax}}
+
+The [[European Union value added tax]] (EU VAT) covers consumption of goods and services and is mandatory for [[Member state of the European Union|member states of the European Union]]. The EU VAT's key issue asks where the supply and consumption occurs thereby determining which member state will collect the VAT and which VAT rate will be charged.
+
+Each member state's national VAT legislation must comply with the provisions of EU VAT law,<ref>Directive 2006/112/EC</ref> which requires a minimum standard rate of 15% and one or two reduced rates not to be below 5%. Some EU members have a 0% VAT rate on certain supplies; these states would have agreed this as part of their EU Accession Treaty (for example, newspapers and certain magazines in Belgium). Certain goods and services must be exempt from VAT (for example, postal services, medical care, lending, insurance, betting), and certain other goods and services to be exempt from VAT but subject to the ability of an EU member state to opt to charge VAT on those supplies (such as land and certain financial services). The highest rate currently in operation in the EU is 27% (Hungary), though member states are free to set higher rates. There is, in fact, only one EU country (Denmark) that does not have a reduced rate of VAT.<ref>http://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/how_vat_works/rates/vat_rates_en.pdf</ref>
+
+There are some areas of member states (both overseas and on the European continent) which are outside the EU VAT area, and some non-EU states that are inside the EU VAT area.  External areas may have no VAT or may have a rate lower than 15%.  Goods and services supplied from external areas to internal areas are considered imported.  (See {{section link|EU VAT area|EU VAT area}} for a full listing.)
+
+VAT that is charged by a business and paid by its customers is known as "output VAT" (that is, VAT on its output supplies). VAT that is paid by a business to other businesses on the supplies that it receives is known as "input VAT" (that is, VAT on its input supplies). A business is generally able to recover input VAT to the extent that the input VAT is attributable to (that is, used to make) its taxable outputs. Input VAT is recovered by setting it against the output VAT for which the business is required to account to the government, or, if there is an excess, by claiming a repayment from the government. Private people are generally allowed to buy goods in any member country and bring it home and pay only the VAT to the seller.  Input VAT that is attributable to VAT-exempt supplies{{example needed|date=May 2018}} is not recoverable, although a business can increase its prices so the customer effectively bears the cost of the "sticking" VAT (the effective rate will be lower than the headline rate and depend on the balance between previously taxed input and labour at the exempt stage).
+
+===Gulf Cooperation Council===
+{{Main|Gulf Cooperation Council}}
+
+Increased growth and pressure on the GCC's governments to provide infrastructure to support growing urban centers, the Member States of the Gulf Co-operation Council (GCC), which together make up the Gulf Co-operation Council (GCC), have felt the need to introduce a tax system in the region.
+
+In particular, the [[United Arab Emirates]] (UAE)  on 1 January 2018 implemented VAT.  For companies whose annual revenues exceed $102,000 (Dhs 375,000), registration is mandatory. Oman's Minister of Financial Affairs indicated that GCC countries have agreed the introductory rate of VAT is 5%.<ref>{{cite journal|author=Thacker, Sunil |ssrn=1435988 |title=Taxation in the Gulf: Introduction of a Value Added Tax|journal=Michigan State Journal of International Law|volume= 17|issue= 3|page= 721|year= 2008–2009}}</ref><ref>{{cite web|url=http://gulfnews.com/business/economy/uae-outlines-vat-threshold-for-firms-in-phase-1-1.1847025|title=UAE outlines VAT threshold for firms in Phase 1|first=Sarah|last=Diaa|date=15 June 2016}}</ref><ref>{{cite web|url=https://ncalc.ru/en/news/uae-to-implement-vat-on-1-january-2018.pdf|title=UAE to implement VAT on 1 January 2018|last=PricewaterhouseCoopers}}</ref><ref>cite web|url=http://vatboxuae.com</ref>
+The Kingdom of Saudi Arabia VAT system was implemented on 1 January 2018 at 5% rate. However, on 11 May 2020 the Kingdom of Saudi Arabia announced to increase the VAT from 5% to 15% as of 1 July 2020, due to the effects of the Corona pandemic and the decline in oil prices.<ref>https://www.bbc.com/news/business-52612785</ref>
+
+===India===
+{{Further|Value added taxation in India}}
+VAT was introduced into the Indian taxation system from 1 April 2005. Of the then 28 Indian states, eight did not introduce VAT at first instance. There is uniform VAT rate of 5% and 14.5% all over India. The government of Tamil Nadu introduced an act by the name Tamil Nadu Value Added Tax Act 2006 which came into effect from 1 January 2007. It was also known as the TN-VAT. Under the [[BJP]] government, a new [[Goods and Services Tax (India)|national Goods and Services Tax]] was introduced under the [[One Hundred and First Amendment of the Constitution of India]].
+
+===Indonesia===
+{{Further|Taxation in Indonesia}}
+Value Added Tax (VAT) was introduced into the Indonesian taxation system from 1 April 1985. General VAT rate is ten percent. Using indirect subtraction method with invoice to calculate value added tax payable. VAT was Collected by the Directorate General of Taxation, Ministry of Finance. Some goods and services are exempt from VAT like basic commodities vital to the general public, medical or health services, religion services, educational services and Services provided by the government in respect of carrying out general governmental administration.
+
+===Japan===
+{{Further|Taxation in Japan}}
+{{Nihongo|Consumption tax|消費税|shōhizei}} in Japan is 8%, which consists of a national tax rate of 6.3% and a local tax of 1.7%.<ref>{{cite web |last1=Japan National Tax Agency |title=Information about consumption tax |url=https://www.nta.go.jp/english/taxes/consumption_tax/01.htm |publisher=Government of Japan |accessdate=1 July 2019}}</ref><ref>{{cite web |last1=Japan External Trade Organization |title=Overview of consumption tax |url=https://www.jetro.go.jp/en/invest/setting_up/section3/page6.html |publisher=Government of Japan |accessdate=1 July 2019}}</ref> It is usually (but not always) included in posted prices. From 1 October 2019, the tax rate is proposed to increase to 10% for most goods, while groceries and other basic necessities will remain at 8%.<ref>{{cite news |last1=Kyodo (Staff Report) |title=Abe says he's going ahead with Japan's consumption tax hike in October 2019 |url=https://www.japantimes.co.jp/news/2018/10/15/business/economy-business/abe-says-hes-going-ahead-japans-consumption-tax-hike-october-2019/#.XRmTO49rzIU |newspaper=Japan Times |accessdate=1 July 2019 |date=15 October 2018}}</ref>
+
+===Malaysia===
+{{Main|Goods and Services Tax (Malaysia)}}
+The goods and services tax (GST) is a value-added tax introduced in Malaysia in 2015, which is collected by the Royal Malaysian Customs Department. The standard rate is currently set at 6%. Many domestically consumed items such as fresh foods, water, electricity and land public transportation are zero-rated, while some supplies such as education and health services are GST exempted. After being revised by the newly elected government after the General Election 14, GST will be removed across Malaysia from 1 June 2018 onwards.
+
+As of 8 August 2018, the goods and services tax (GST) has been abolished and replaced by sales and services tax (SST) under the new government which promised to do so in their manifesto.<ref>{{Cite news
+  | url         = https://www.thestar.com.my/news/nation/2018/08/08/service-tax-bill-2018-passed-by-dewan-rakyat/
+  | title       = Service Tax Bill 2018 passed by Dewan Rakyat
+  | access-date = 8 August 2018
+  | language    = en
+  | url-status     = dead
+  | archive-url  =https://web.archive.org/web/20180808114428/https://www.thestar.com.my/news/nation/2018/08/08/service-tax-bill-2018-passed-by-dewan-rakyat/
+  | archive-date = 8 August 2018
+  | df          = mdy-all
+}}</ref><ref>{{Cite news
+  | url         = https://www.thestar.com.my/news/nation/2018/08/08/pakatan-keeps-its-word-bill-to-repeal-gst-passed/
+  | title       = Pakatan keeps its word, bill to repeal GST passed
+  | access-date = 8 August 2018
+  | language    = en
+  | url-status     = dead
+  | archiveurl  =https://web.archive.org/web/20180808150903/https://www.thestar.com.my/news/nation/2018/08/08/pakatan-keeps-its-word-bill-to-repeal-gst-passed/
+  | archive-date = 8 August 2018
+  | df          = mdy-all
+}}</ref> The new SST or SST 2.0, is on track to be rolled out on 1 September 2018. Finance Minister [[Lim Guan Eng]] said that failure to do so would result in an operating deficit of RM4 billion (approximately 969 million in USD) for the Malaysian government.<ref>{{Cite news|url=http://www.freemalaysiatoday.com/category/nation/2018/08/30/guan-eng-operating-deficit-if-sst-not-imposed-on-sept-1/|title=Guan Eng: Operating deficit if SST not imposed on Sept 1|date=30 August 2018|work=Free Malaysia Today|access-date=30 August 2018|language=en-US}}</ref> Under the new tax system, selected items will be subjected to a 5% or 10% tax while services will be subjected to a 6% tax.
+
+===Mexico===
+Value-added tax ({{lang-es|link=no|Impuesto al Valor Agregado}}, IVA) is a tax applied in Mexico and other countries of Latin America. In Chile, it is also called ''Impuesto al Valor Agregado'' and, in Peru, it is called ''Impuesto General a las Ventas'' or ''IGV''.
+
+Prior to the IVA, a sales tax ({{lang-es|link=no|impuesto a las ventas}}) had been applied in Mexico. In September 1966, the first attempt to apply the IVA took place when revenue experts declared that the IVA should be a modern equivalent of the sales tax as it occurred in France. At the convention of the Inter-American Center of Revenue Administrators in April and May 1967, the Mexican representation declared that the application of a value-added tax would not be possible in Mexico at the time. In November 1967, other experts declared that although this is one of the most equitable indirect taxes, its application in Mexico could not take place.
+
+In response to these statements, direct sampling of members in the private sector took place as well as field trips to European countries where this tax was applied or soon to be applied. In 1969, the first attempt to substitute the mercantile-revenue tax for the value-added tax took place. On 29 December 1978 the Federal government published the official application of the tax beginning on 1 January 1980 in the [[Diario Oficial de la Federación|Official Journal of the Federation]].
+
+As of 2010, the general VAT rate was 16%. This rate was applied all over Mexico except for bordering regions (i.e. the United States border, or Belize and Guatemala), where the rate was 11%. The main exemptions are for books, food, and medicines on a 0% basis. Also some services are exempt like a doctor's medical attention.  In 2014 Mexico Tax Reforms eliminated the favorable tax rate for border regions and increased the VAT to 16% across the country.
+
+===Nepal===
+{{Further|Value added tax (Nepal)}}
+VAT was implemented in 1998 and is the major source of government revenue. It is administered by Inland Revenue Department of Nepal. Nepal has been levying two rates of VAT: Normal 13% and zero rate. In addition, some goods and services are exempt from VAT.
+
+===New Zealand===
+{{Main|Goods and Services Tax (New Zealand)}}
+The goods and services tax (GST) is a value-added tax that was introduced in New Zealand in 1986, currently levied at 15%. It is notable for exempting few items from the tax. From July 1989 to September 2010, GST was levied at 12.5%, and prior to that at 10%.
+
+===The Nordic countries===
+MOMS ({{lang-da|merværdiafgift}}, formerly ''meromsætningsafgift''), {{lang-no|merverdiavgift}} ([[bokmål]]) or ''meirverdiavgift'' ([[nynorsk]]) (abbreviated ''MVA''), {{lang-sv|Mervärdes- och OMSättningsskatt}} (until the early 1970s labeled as OMS ''OMSättningsskatt'' only), {{lang-is|virðisaukaskattur}} (abbreviated ''VSK''), {{lang-fo|meirvirðisgjald}} (abbreviated ''MVG'') or Finnish: ''arvonlisävero'' (abbreviated ''ALV'') are the Nordic terms for [[Value Added Tax|VAT]]. Like other countries' sales and VAT, it is an [[indirect tax]].
+
+{| class="toccolours" border="1" cellpadding="4" cellspacing="0" style="float:right; border-collapse:collapse; margin:1px;"
+|- style="text-align: Center;"
+|Year
+|'''Tax level (Denmark)'''
+|Name
+|-
+| 1962||9%||OMS
+|-
+| 1967||10%||MOMS
+|-
+| 1968||12.5658
+|
+|-
+| 1970||15%||MOMS
+|-
+| 1977||18%||MOMS
+|-
+| 1978||20.25%||MOMS
+|-
+| 1980||22%||MOMS
+|-
+| 1992||25%||MOMS
+
+|}
+In Denmark, VAT is generally applied at one rate, and with few exceptions is not split into two or more rates as in other countries (e.g. Germany), where reduced rates apply to essential goods such as foodstuffs.  The current standard rate of VAT in Denmark is 25%.  That makes Denmark one of the countries with the highest value-added tax, alongside Norway, Sweden and Croatia.  A number of services have reduced VAT, for instance public transportation of private persons, health care services, publishing newspapers, rent of premises (the lessor can, though, voluntarily register as VAT payer, except for residential premises), and travel agency operations.
+
+In Finland, the standard rate of VAT is 24% as of 1 January 2013 (raised from previous 23%), along with all other VAT rates, excluding the zero rate.<ref>{{cite news |last=Vuoristo |first=Pekka |date=26 August 2009 |title=Hallitus sopuun ruan veroalesta |url=http://www.hs.fi/politiikka/artikkeli/Hallitus+sopuun+ruuan+veroalesta+-+makeisvero+palautetaan+k%C3%A4ytt%C3%B6%C3%B6n/1135248823600 |work=[[Helsingin Sanomat]] |archive-url=https://web.archive.org/web/20090828013337/http://www.hs.fi/politiikka/artikkeli/Hallitus+sopuun+ruuan+veroalesta+-+makeisvero+palautetaan+k%C3%A4ytt%C3%B6%C3%B6n/1135248823600 |archive-date=28 August 2009 |access-date=26 August 2009}}</ref> In addition, two reduced rates are in use: 14% (up from previous 13% starting 1 January 2013), which is applied on food and animal feed, and 10%, (increased from 9% 1 January 2013) which is applied on passenger transportation services, cinema performances, physical exercise services, books, pharmaceuticals, entrance fees to commercial cultural and entertainment events and facilities. Supplies of some goods and services are exempt under the conditions defined in the Finnish VAT Act: hospital and medical care; social welfare services; educational, financial and insurance services; lotteries and money games; transactions concerning bank notes and coins used as legal tender; real property including building land; certain transactions carried out by blind persons and interpretation services for deaf persons. The seller of these tax-exempt services or goods is not subject to VAT and does not pay tax on sales. Such sellers therefore may not deduct VAT included in the purchase prices of his inputs. [[Åland]], an autonomous area, is considered to be outside the EU VAT area, even if its VAT rate is the same as for Finland. Goods brought from Åland to Finland or other EU countries is considered to be export/import. This enables tax free sales onboard passenger ships.
+
+In Iceland, VAT is split into two levels: 24% for most goods and services but 11% for certain goods and services. The 11% level is applied for hotel and guesthouse stays, [[licence fee]]s for radio stations (namely [[RÚV]]), newspapers and magazines, books; hot water, electricity and oil for heating houses, food for human consumption (but not alcoholic beverages), access to [[toll road]]s and music.<ref>{{cite web| url = http://eng.fjarmalaraduneyti.is/media/log-reglur/The_Value_Added_Tax_Act_with_subsequent_amendments.pdf| title = The Value Added Tax Act with subsequent amendments| work = Ministry of Finance and Economic Affairs| date = 9 October 2014| ref =}}</ref>
+
+In Norway, VAT is split into three levels: 25% general rate, 15% on foodstuffs and 12% on the supply of passenger transport services and the procurement of such services, on the letting of hotel rooms and holiday homes, and on transport services regarding the ferrying of vehicles as part of the domestic road network. The same rate applies to cinema tickets and to the television licence.<ref>{{cite web| url = http://www.statsbudsjett.no/Statsbudsjettet-2011/English/?pid=48921#hopp| title = Main features of the Government's tax programme for 2011| work = Ministry of Finance| date = 5 October 2010| ref =}}</ref> Financial services, health services, social services and educational services are all outside the scope of the VAT Act.<ref>{{cite web| url = http://www.lovdata.no/all/hl-20090619-058.html#map015| title = Merverdiavgiftsloven §§ 6–21 to 6–33| language = Norwegian| accessdate  = 28 November 2010| publisher = www.lovdata.no}}</ref> Newspapers, books and periodicals are zero-rated.<ref>{{cite web| url = http://www.lovdata.no/all/hl-20090619-058.html#map012| title = Merverdiavgiftsloven §§ 6-1 to 6–20| language = Norwegian| accessdate = 28 November 2010| publisher = www.lovdata.no}}</ref> [[Svalbard]] has no VAT because of a clause in the [[Svalbard Treaty]].
+
+In Sweden, VAT is split into three levels: 25% for most goods and services, 12% for foods including restaurants bills and hotel stays and 6% for printed matter, cultural services, and transport of private persons. Some services are not taxable for example education of children and adults if public utility, and health and dental care, but education is taxable at 25% in case of courses for adults at a private school. Dance events (for the guests) have 25%, concerts and stage shows have 6%, and some types of cultural events have 0%.
+
+MOMS replaced OMS (Danish "''omsætningsafgift''", Swedish "''omsättningsskatt''") in 1967, which was a tax applied exclusively for retailers.
+
+===Philippines===
+The current VAT rate in the Philippines stands at 12%.  Like in most other countries, the amount of taxes is included in the final sales price.
+
+Senior citizens are however exempted from paying VAT for most goods and some services that are for their personal consumption.  They will need to show a government-issued ID card that establishes their age at the till to avail of the exemption.
+
+=== Russia ===
+{{Further|Taxation in Russia}}
+According to the Russian Tax code the value-added-tax is levied at the rate of 20% for all goods with several exemptions for several types of products and services (like medicare etc.). 
+Taxpayers of value added tax are recognized:
+Organizations (industrial and financial, state and municipal enterprises, institutions, business partnerships, insurance companies and banks), enterprises with foreign investments, individual entrepreneurs, 
+international associations and foreign legal entities that carry out entrepreneurial activities in the territory of the Russian Federation, non-commercial organizations in the event of their commercial activities, persons recognized as taxpayers of value added tax in connection with the movement of goods across the customs border of the Customs Union.
+<ref>{{Cite web|url=http://taxsummaries.pwc.com/ID/Russian-Federation-Corporate-Other-taxes|title=Russian Federation - Other taxes impacting corporate entities, Value-added tax (VAT)|last=|first=|date=|website=|access-date=}}</ref><ref>{{Cite web|url=https://rg.ru/2007/03/12/nalog-kodeks2.html|title=Налоговый кодекс Российской Федерации. Часть вторая от 5 августа 2000 г. N 117-ФЗ|last=|first=|date=|website=Российская Газета|trans-title=Russian Federation Tax Code, Part 2 August 5, 2000 N 117 Federal Law|access-date=|quote=3. Налогообложение производится по налоговой ставке 18 процентов в случаях, не указанных в пунктах 1, 2 и 4 настоящей статьи.}}</ref><ref>{{Cite book|url=https://www.nalog.ru/html/sites/www.eng.nalog.ru/Tax%20Code%20Part%20Two.pdf|title=TAX CODE OF THE RUSSIAN FEDERATION PART II, Article 164 Tax Rates|last=|first=|publisher=Russian Ministry of Finance|year=|isbn=|location=|pages=41}}</ref>
+
+===South Africa===
+Value-added tax (VAT) in South Africa was set at a rate of 14% and remained unchanged since 1993. Finance Minister Malusi Gigaba announced on 21 February 2018 that the VAT rate will be increased by one percentage point to 15%. Some basic food stuffs, as well as paraffin, will remain zero rated. The new rate is to be effective from 1 April 2018.<ref>{{cite web| url = https://www.fin24.com/Budget/full-speech-gigabas-budgetspeech2018-20180221| title = Budget Speech 2018| language = English| accessdate = 21 February 2018| publisher = Fin24}}</ref>
+
+===Switzerland and Liechtenstein===
+:''Further information: {{section link|Taxation in Switzerland|Value added tax}}''
+
+Switzerland has a [[customs union]] with [[Liechtenstein]] that also includes the German exclave of [[Büsingen am Hochrhein]] and (''de facto'') the Italian exclave of [[Campione d'Italia]]. The Switzerland–Liechtenstein VAT area has a general rate of 7.7% and a reduced rate of 2.5%. A special rate of 3.7% is in use in the hotel industry.<ref>{{Cite web|url=https://www.avalara.com/vatlive/en/vat-news/liechtenstein-cuts-vat-to-7-7-2018.html|title=Liechtenstein cuts VAT to 7.7% 2018 - Avalara|website=www.avalara.com}}</ref>
+
+===Trinidad and Tobago===
+Value-added tax (VAT) in T&T is currently 12.5% as of 1 February 2016. Before that date VAT used to be at 15%.
+
+=== Ukraine ===
+In [[Ukraine]], the revenue to state budget from VAT is the most significant. By Ukraine tax code, there are 3 VAT rates in Ukraine:<ref>{{Cite web|url=http://en.clc.co.ua/registration-of-a-limited-liability-company-llc/|title=Company formation in Ukraine|last=Thor|first=Anatoliy|date=|website=|access-date=}}</ref> 20% (general tax rate; applied to most goods and services), 7% (special tax rate; applied mostly to medicines and medical products import and trade operations) and 0% (special tax rate; applied mostly to export of goods and services, international transport of passengers, baggage and cargo).
+
+===United Kingdom===
+{{Further|Value-added tax in the United Kingdom}}
+The default VAT rate is the standard rate, 20% since 4 January 2011. Some goods and services are subject to VAT at a reduced rate of 5% or 0%. Others are exempt from VAT or outside the system altogether.
+
+===United States===
+{{Further|Sales taxes in the United States}}
+In the United States, currently, there is no federal value-added tax (VAT) on goods or services. Instead, a sales and use tax [[Sales taxes in the United States|is used in most US states]]. VATs have been the subject of much scholarship in the US and are one of the most contentious tax policy topics.<ref>{{cite court |litigants=Trinova Corp. v. Michigan Dept. of Treasury |vol=498 |reporter=U.S. |opinion=358 |pinpoint=362 |court=[[United States Supreme Court]] |date=1991 |url=https://scholar.google.com/scholar_case?case=2384909052279682312&q=credit+%22use+tax%22+VAT&hl=en&as_sdt=40006 |quote=Although in Europe and Latin America VAT's are common,...in the United States they are much studied but little used.}}</ref><ref>{{cite news|last1=Gulino|first1=Denny|title=Puerto Rico May Finally Get Attention of Republican Lawmakers|url=https://mninews.marketnews.com/content/puerto-rico-may-finally-get-attention-republican-lawmakers|accessdate=9 February 2016|publisher=MNI|date=18 September 2015|quote=The concept of a value added tax in any form as part of the U.S. tax regime has consistently raised the hackles of Republican policy makers and even some Democrats because of fears it could add to the tax burden rather than just redistribute it to consumption from earnings.  For decades one of the most hotly debated tax policy topics, a VAT imposes a sales tax at every stage where value is added.}}</ref>
+
+In 2015, [[Puerto Rico]] passed legislation to replace its 6% sales and use tax with a 10.5% VAT beginning 1 April 2016, although the 1% municipal sales and use tax will remain and, notably, materials imported for manufacturing will be exempted.<ref>{{cite web|title=Puerto Rico adopts VAT system and broadens sales and use tax|url=https://www.pwc.com/us/en/state-local-tax/newsletters/salt-insights/assets/pwc-puerto-rico-adopts-vat-tax-system-broadens-sales-use-tax.pdf|publisher=PricewaterhouseCooper|accessdate=9 February 2016|date=26 June 2015}}</ref><ref name="Forbes: PR first US VAT"/> In doing so, Puerto Rico will become the first US jurisdiction to adopt a value-added tax.<ref name="Forbes: PR first US VAT">{{cite news|last1=Harpaz|first1=Joe|title=Puerto Rico Brings First-Ever Value-Added Tax To The U.S.|url=https://www.forbes.com/sites/joeharpaz/2015/09/17/puerto-rico-brings-first-ever-value-added-tax-to-the-u-s/#1586ac30201d|accessdate=9 February 2016|work=Forbes|date=17 September 2015}}</ref><ref name="BBNA: PR first US VAT">{{cite news|title=Examining Puerto Rico Tax Regime Changes: Addition of Value Added Tax and Amendments to Sales and Use, Income Taxes|url=http://www.bna.com/examining-puerto-rico-n57982066022/|accessdate=9 February 2016|work=Bloomberg BNA|date=11 January 2016|quote=Puerto Rico's adoption of a VAT represents a major shift in tax policy and renders the Commonwealth as the first U.S. jurisdiction to adopt this tax regime.}}</ref> However, two states have previously enacted a form of VAT as a form of business tax in lieu of a business income tax, rather than a replacement for a sales and use tax.
+
+The state of [[Michigan]] used a form of VAT known as the "Single Business Tax" (SBT) as its form of general business taxation. It is the only state in the United States to have used a VAT. When it was adopted in 1975, it replaced seven business taxes, including a [[corporate income tax]]. On 9 August 2006, the Michigan Legislature approved voter-initiated legislation to repeal the Single Business Tax, which was replaced by the Michigan Business Tax on 1 January 2008.<ref>[http://www.crcmich.org/TaxOutline/TaxOutline.pdf Outline of the Michigan Tax System], Citizens Research Council of Michigan, ''January 2011'' {{webarchive |url=https://web.archive.org/web/20141205140805/http://www.crcmich.org/TaxOutline/TaxOutline.pdf |date=5 December 2014 }}</ref>
+
+The state of Hawaii has a 4% [[Gross receipts tax|General Excise Tax]] (GET) that is charged on the gross income of any business entity generating income within the State of Hawaii. The State allows businesses to optionally pass on their tax burden by charging their customers a quasi sales tax rate of 4.166%.<ref>Lingle, Linda and Kawafuchi, Kurt (June 2002). [http://hawaii.gov/tax/brochures/ge_bro.pdf An introduction to the general excise tax]. State of Hawaii, Department of taxation</ref>  The total tax burden on each item sold is more than the 4.166% charged at the register since GET was charged earlier up the sales chain (such as manufacturers and wholesalers), making the GET less transparent than a retail sales tax.{{citation needed|date=February 2016}}
+
+====Discussions about a national US VAT====
+{{expand section|date=February 2016}}
+Soon after President [[Richard Nixon]] took office in 1969, it was widely reported that his administration was considering a federal VAT with the revenue to be shared with state and local governments to reduce their reliance on property taxes and to fund education spending.{{citation needed|date=February 2016}} Former 2020 Democratic presidential candidate [[Andrew Yang]] advocated for a national VAT in order to pay for [[Basic income|universal basic income]]. A national subtraction-method VAT, often referred to as a "flat tax", has been part of proposals by many politicians as a replacement of the corporate income tax.<ref name="CRS 2008">{{cite report |first=James M. |last=Bickley |date=3 January 2008 |title=Value-Added Tax: A New U.S. Revenue Source? |url=https://www.fas.org/sgp/crs/misc/RL33619.pdf |publisher=[[Congressional Research Service]] |pages=1, 3 |docket=RL33619 |access-date=24 September 2016 |url-status=live |archiveurl=https://web.archive.org/web/20160628205051/http://www.fas.org/sgp/crs/misc/RL33619.pdf |archivedate=28 June 2016 |format=PDF}}</ref><ref name="Cruz Flat Tax">{{cite web|last1=Cole|first1=Alan|title=Ted Cruz's "Business Flat Tax:" A Primer|url=http://taxfoundation.org/blog/ted-cruz-s-business-flat-tax-primer|website=Tax Policy Blog|publisher=Tax Foundation|accessdate=24 September 2016|date=29 October 2015}}</ref><ref name="USCC VAT white paper">{{cite report |first=Philip |last=Beram |title=An Introduction to the Value Added Tax (VAT)|url=https://www.uschamber.com/sites/default/files/legacy/issues/econtax/files/vat_paper_4_25_2010.pdf |publisher=[[United States Chamber of Commerce]] |access-date=24 September 2016 |url-status=live |archiveurl=https://web.archive.org/web/20160924201658/https://www.uschamber.com/sites/default/files/legacy/issues/econtax/files/vat_paper_4_25_2010.pdf |archivedate=24 September 2016 |format=PDF}}</ref>
+
+A [[border-adjustment tax (United States)|border-adjustment tax]] (BAT) was proposed by the [[Republican Party (United States)|Republican Party]] in their 2016 policy paper "''A Better Way — Our Vision for a Confident America''",<ref name="Forbes_BAT_2017_Ellis">{{citation |url=https://www.forbes.com/sites/ryanellis/2017/01/05/tax-reform-border-adjustability-and-territoriality/#1c5a048973d1 |title=Tax Reform, Border Adjustability, and Territoriality: When tax and fiscal policy meets political reality |work=Forbes|author=Ryan Ellis|date=5 January 2017 |access-date=18 February 2017}}</ref> which promoted a move to a "[[destination-based cash flow tax]]"<ref name="GOP_BluePrintBetterWay_2016">{{cite web | url=https://abetterway.speaker.gov/_assets/pdf/ABetterWay-Tax-PolicyPaper.pdf |title=A Better Way— Our Vision for a Confident America |publisher=[[Republican Party (United States)|Republican Party]] |date=24 June 2016 |access-date=17 January 2017}}</ref>{{rp|27}}<ref name="Brookings_2017_guide">{{Cite news|url=https://www.brookings.edu/opinions/a-quick-guide-to-the-border-adjustments-tax/|title=A quick guide to the 'border adjustments' tax |date=7 February 2017 |author=William G. Gale|publisher=[[Brookings Institution]]|access-date=17 February 2017|language=en-US}}</ref> (DBCFT), in part to compensate for the U.S. lacking a VAT. As of March 2017 the [[Trump Administration]] was considering including the BAT as part of its tax reform proposal.
+
+===Vietnam===
+Value-added tax (VAT) in Vietnam is a broadly based consumption tax assessed on the value added to goods and services arising through the process of production, circulation, and consumption. It's an indirect tax in Vietnam on domestic consumption applied nationwide rather than at different levels such as state, provincial or local taxes. It is a multi-stage tax which is collected at every stage of the production and distribution chain and passed on to the final customer. It is applicable to the majority of goods and services bought and sold for use in the country. Goods that are sold for export and services that are sold to customers abroad are normally not subject to VAT.{{citation needed|date=June 2014}}
+
+All organizations and individuals producing and trading VAT taxable goods and services in Vietnam have to pay VAT, regardless of whether they have Vietnam-based resident establishments or not.
+
+Vietnam has three VAT rates: 0 percent, 5 percent and 10 percent. 10 percent is the standard rate applied to most goods and services unless otherwise stipulated.
+
+A variety of goods and service transactions may qualify for VAT exemption.{{citation needed|date=June 2014}}
+
+==Tax rates==
+[[File:Vatratee.png|thumb|Standard VAT or sales tax rate]]
+[[File:GDP per capita PPP vs VAT 2016.svg|thumb|left|[[Public finance|General government]] revenue, in % of [[GDP]], from VAT. For this data, the [[variance]] of GDP per capita with purchasing power parity (PPP) is explained in 3 % by tax revenue.]]
+{{See also|List of countries by tax rates}}
+{{clear}}
+
+===European Union countries===
+{|class="wikitable sortable"
+|-
+! Country
+! Standard rate (current)
+! Reduced rate (current)
+! class="unsortable" |Abbreviation
+! class="unsortable" | Local name
+|-
+| {{Flagu|Austria}}
+| {{nts|20}}%<ref name="VATlive">{{cite web|title=2014 EU VAT rates|url=http://www.vatlive.com/vat-rates/european-vat-rates/eu-vat-rates/|publisher=VAT Live|accessdate=13 November 2010}}</ref>
+| {{nts|10}}% for rental for the purpose of habitation, food, garbage collection, most transportation, etc.
+13% for plants, live animals and animal food, art, wine (if bought directly from the winemaker), etc.<ref>{{Cite web|url=https://www.bmf.gv.at/steuern/selbststaendige-unternehmer/umsatzsteuer/Steuerreformgesetz_2015-2016.html|title=BMF - Umsatzsteuer Info zum Steuerreformgesetz 2015/2016|website=www.bmf.gv.at|access-date=25 November 2016}}</ref>
+| MwSt./USt.
+| Mehrwertsteuer/Umsatzsteuer
+|-
+| {{Flagu|Belgium}}
+| {{nts|21}}%<ref name="2016 AGN VAT Brochure - European Comparison">{{cite web|title=2016 AGN VAT Brochure - European Comparison |url=http://agn.org/iagn/AGN_Shared_Content/Publications/EU/2016VAT.pdf |accessdate=13 October 2016}}</ref>
+| {{nts|12}}% or 6% (for food or live necessary consumables) or 0% in some cases
+| BTW <br /> TVA <br /> MWSt
+| Belasting over de toegevoegde waarde <br /> Taxe sur la Valeur Ajoutée <br /> Mehrwertsteuer
+|-
+| {{Flagu|Bulgaria}}
+| {{nts|20}}%<ref name="VATlive" />
+| {{nts|9}}% (hotels) or 0%
+| ДДС
+| Данък добавена стойност
+|-
+| {{Flagu|Croatia}}
+| {{nts|25}}%<ref name="VATlive" />
+| {{nts|13}}% (since 1 January 2014) or 5% (since 1 January 2013)
+| PDV
+| Porez na dodanu vrijednost
+|-
+| {{Flagu|Cyprus}}
+| {{nts|19}}%<ref name="AGN International agn.org">{{cite web|title=2016 AGN VAT Brochure - European Comparison|url=http://agn.org/iagn/AGN_Shared_Content/Publications/EU/2016VAT.pdf |accessdate=13 October 2016}}</ref><ref name="Cyprus VAT">{{cite web|title=2020 Cyprus VAT information|url=https://www.pconstantinou.com/taxation/value-added-tax-vat/ |accessdate=12 May 2020}}</ref>
+| {{nts|5}}% (8% for taxi and bus transportation)
+| ΦΠΑ
+| Φόρος Προστιθέμενης Αξίας
+|-
+| {{Flagu|Czech Republic}}
+| {{nts|21}}%<ref name="VATlive" /><ref>[http://praguemonitor.com/2012/12/27/companies-welcome-vat-resolved Companies welcome VAT resolved]. Prague Monitor (27 December 2012). Retrieved 14 June 2013.</ref>
+| {{nts|15}}% (food, public transport) or {{nts|10}}% (medicines, pharmaceuticals, books and baby foodstuffs)
+| DPH
+| Daň z přidané hodnoty
+|-
+| {{Flagu|Denmark}}
+| {{nts|25}}%<ref name="VATlive" /><ref>[http://www.skat.dk/getFile.aspx?ID=4262&newwindow=true Tax in Denmark: An introduction – for new citizens]. SKAT.dk (November 2005)</ref>
+| 0%
+| moms
+| Meromsætningsafgift
+|-
+| {{Flagu|Estonia}}
+| {{nts|20}}% if >€21.99<ref name="VATlive" />
+| {{nts|9}}%
+| km
+| käibemaks
+|-
+| {{Flagu|Finland}}
+| {{nts|24}}%<ref name="VATlive" />
+| {{nts|14}}% (foodstuffs, restaurants) or 10% (medicines, cultural services and events, passenger transport, hotels, books and magazines)
+| ALV<br />Moms
+| Arvonlisävero (Finnish)<br />Mervärdesskatt (Swedish)
+|-
+| {{Flagu|France}}
+| {{nts|20}}%<ref name="VATlive" />
+| {{nts|10}}% or 5.5% or 2.1%
+| TVA
+| taxe sur la valeur ajoutée
+|-
+| {{Flagu|Germany}}
+| {{nts|19}}% (temporarily 16%.<ref name=Germany_temp>1 July to 31 December 2020 due to Covid-19</ref> [[Heligoland]] 0%)<ref name="VATlive" /><ref>https://www.deutschepost.de/en/m/aenderungen-mwst.html</ref>
+| {{nts|7}}% (temporarily 5%)<ref name=Germany_temp/> for foodstuffs (except luxury-), books, flowers etc., 0% for postage stamps. (Heligoland always 0%)
+| MwSt./USt.
+| Mehrwertsteuer/Umsatzsteuer
+|-
+| {{Flagu|Greece}}
+| {{nts|24}}%<ref name="VATlive" /><ref>[http://www.madata.gr/epikairotita/economy/67474.html Οι νέοι συντελεστές ΦΠΑ από 1 Ιουλίου]. Madata.GR (9 October 2008). Retrieved 14 June 2013.</ref><br />(16% on Aegean islands)
+| {{nts|13}}% (6.5% for hotels, books and pharmaceutical products)<br />(8% and 4% on Aegean islands)
+| ΦΠΑ
+| Φόρος Προστιθέμενης Αξίας
+|-
+| {{Flagu|Hungary}}
+| {{nts|27}}%<ref>[http://index.hu/gazdasag/magyar/2011/09/16/1_5_szazalekos_novekedest_var_a_kormany/ Index – Gazdaság – Uniós csúcsra emeljük az áfát]. Index.hu (16 September 2011). Retrieved 14 June 2013.</ref>
+| {{nts|18}}% (milk and dairy products, cereal products, hotels, tickets to outdoor music events) or 5% (pharmaceutical products, medical equipment, books and periodicals, some meat products, district heating, heating based on renewable sources, live music performance under certain circumstances) or 0% (postal services, medical services, mother's milk, etc.)<ref>[http://nav.gov.hu/data/cms354698/Tajekoztato___Afa_kulcsok_es_adomentes_tevekenysegek_2015._januar_1_jetol.pdf Áfa kulcsok és a tevékenység közérdekű vagy egyéb sajátos jellegére tekintettel adómentes tevékenységek köre 2015. január 1-jétől] (PDF; in Hungarian)</ref>
+| áfa
+| általános forgalmi adó
+|-
+| {{Flagu|Ireland}}
+| {{nts|21}}% (until 28 February 2021, then {{nts|23}}%)<ref name="VATlive" /><ref>[http://www.revenue.ie/en/tax/vat/rates/current-historic-rates-vat.html VAT Rates]. Revenue.ie. Retrieved 14 June 2013.</ref>
+| {{nts|13.5}}% or 9.0% or 4.8% or 0%
+| CBL<br />VAT
+| Cáin Bhreisluacha (Irish)<br />Value Added Tax (English)
+|-
+| {{Flagu|Italy}}
+| {{nts|22}}%<ref name="VATlive" /> ([[Livigno]] 0%)<ref name="VATlive" />
+| {{nts|10}}% (hotels, bars, restaurants and other tourism products, certain foodstuffs, plant protection products and special works of building restoration, home-use utilities: electricity, gas used for cooking and water) or 4% (e.g. grocery staples, daily or periodical press and books, works for the elimination of architectural barriers, some kinds of seeds, fertilizers)
+| IVA
+| Imposta sul Valore Aggiunto
+|-
+| {{Flagu|Latvia}}
+| {{nts|21}}%<ref name="VATlive" />
+| {{nts|12}}% or 0%
+| PVN
+| Pievienotās vērtības nodoklis
+|-
+| {{Flagu|Lithuania}}
+| {{nts|21}}%<ref name="VATlive" />
+| {{nts|9}}% or 5%
+| PVM
+| Pridėtinės vertės mokestis
+|-
+| {{Flagu|Luxembourg}}
+| {{nts|17}}%<ref name="aed.public.lu">http://www.aed.public.lu/tva/loi/Loi-TVA-2015.pdf</ref>
+| {{nts|14}}% on certain wines, 8% on public utilities, or 3% on books and press, food (including restaurant meals), children's clothing, hotel stays, and public transit<ref name="aed.public.lu"/>
+| TVA
+| Taxe sur la Valeur Ajoutée
+|-
+| {{Flagu|Malta}}
+| {{nts|18}}%<ref name="VATlive" />
+| {{nts|7}}% or 5% or 0%
+| VAT
+| Taxxa tal-Valur Miżjud
+|-
+| {{Flagu|Netherlands}}
+| {{nts|21}}%<ref name="VATlive" />
+| {{nts|9}}% for special categories of products and services like food, medicine and art.
+0% for products and services that are already taxed in other countries or systems, for excise goods, and for fish.
+| BTW
+| Belasting over de toegevoegde waarde/Omzetbelasting
+|-
+| {{Flagu|Poland}}
+| {{nts|23}}%<ref name="AGN International agn.org"/><ref>[https://web.archive.org/web/20110207185015/http://wyborcza.biz/biznes/1,100969,8815208,Prezydent_podpisal_ustawe_okolobudzetowa___VAT_wzrosnie.html Prezydent podpisał ustawę okołobudżetową – VAT wzrośnie do 23 proc]. Wyborcza.biz (14 December 2010). Retrieved 14 June 2013.</ref>
+| {{nts|8}}% or 5% or 0%
+| PTU/VAT
+| Podatek od towarów i usług
+|-
+| {{Flagu|Portugal}}
+| {{nts|23}}%<ref>[http://economia.publico.pt/Noticia/taxas-de-portagens-aumentam-22-por-cento-em-2011_1473144 Taxas de portagens aumentam 2,2 por cento em 2011 – PÚBLICO]. Economia.publico.pt (31 December 2010). Retrieved 14 June 2013.</ref><br />22% in [[Madeira]] and 18% in [[Azores]] <small>(Minimum 70% of mainland rate)</small><ref name="Madeira - VAT rate hike">{{cite web|url=http://www.tmf-vat.com/tmf-in-the-media/madeira-vat-rate-hike.html |title=Madeira – VAT rate hike |publisher=Tmf-vat.com |date=1 April 2012 |accessdate=30 April 2012}}</ref>
+| {{nts|13}}% or 6%<br />12% or 5% in Madeira and 9% or 4% in Azores (Minimum 70% of mainland rate)<ref name="Madeira - VAT rate hike" /><small>
+| IVA
+| Imposto sobre o Valor Acrescentado
+|-
+| {{Flagu|Romania}}
+| {{nts|19}}%<ref>{{cite news|last=Andra|first=Timu|title=Romania Passes Scaled-Down Tax Cuts After Warnings Over Budget|url=https://www.bloomberg.com/news/articles/2015-09-03/romania-passes-scaled-down-tax-cuts-after-warnings-over-budget|accessdate=4 January 2016|newspaper=Bloomberg|date=3 September 2015}}</ref>
+| {{nts|9}}% (food and non-alcoholic drinks) or 5% (buyers of new homes under special conditions)
+| TVA
+| Taxa pe valoarea adăugată
+|-
+| {{Flagu|Slovakia}}
+| {{nts|20}}%<ref name="VATlive" />
+| {{nts|10}}%
+| DPH
+| Daň z pridanej hodnoty
+|-
+| {{Flagu|Slovenia}}
+| {{nts|22}}%<ref>{{cite web|url=http://www.uradni-list.si/1/objava.jsp?urlid=201354&stevilka=2056|title=Pravilnik o spremembah in dopolnitvah Pravilnika o izvajanju Zakona o davku na dodano vrednost|date=24 June 2013|publisher=Ministry of Finance|accessdate=1 July 2013}}</ref>
+| {{nts|9.5}}%
+| DDV
+| Davek na dodano vrednost
+|-
+| {{Flagu|Spain}}
+| {{nts|21}}%<ref name="VATlive" /></small><br />7% in [[Canary Islands]] <small>(not part of [[European Union VAT area|EU VAT area]])</small>
+| {{nts|10}}% <small>(10% from 1 September 2012<ref name="ESP_sep_2012">{{cite web|url=http://www.vatlive.com/european-news/spain-raises-vat-from-18-to-21-1-september-2012/|title=Spain raises VAT from 18% to 21% 1 September 2012|date=13 July 2012|publisher=VAT Live|accessdate=8 August 2012}}</ref>)</small> or 4%<ref name="VATlive" /><ref>{{Cite web|url=http://www.londonstockexchange.com/exchange/prices-and-news/news/market-news/market-news-detail.html?announcementId=10010395|archive-url=https://www.webarchive.org.uk/wayback/archive/20091018004853/http://www.londonstockexchange.com/exchange/prices-and-news/news/market-news/market-news-detail.html?announcementId=10010395|url-status=dead|archive-date=2009-10-18|title=Dr. Freda Lewis-Hall Joins Pfizer As Chief Medical Officer - London Stock Exchange|website=www.webarchive.org.uk}}</ref><br />3% or 0% in Canary Islands
+| IVA<br />IGIC
+| Impuesto sobre el Valor Añadido<br />Impuesto General Indirecto Canario
+|-
+| {{Flagu|Sweden}}
+| {{nts|25}}%<ref name="VATlive" />
+| {{nts|12}}% (e.g. food, hotels and restaurants), 6% (e.g. books, passenger transport, cultural events and activities), 0% (e.g. insurance, financial services, health care, dental care, prescription drugs, immovable property)<ref>{{cite web|url=http://www.vatlive.com/country-guides/sweden/swedish-vat-compliance-and-rates/ |title=Swedish VAT compliance and rates |publisher=VAT Live |date= |access-date=25 January 2014}}</ref><ref>{{cite web|url=http://www.skatteverket.se/foretagorganisationer/moms/vadarmoms.4.18e1b10334ebe8bc80005374.html |title=Momsen - hur fungerar den? &#124; Skatteverket |publisher=Skatteverket.se |date=1 January 2014 |access-date=25 January 2014}}</ref>
+| MOMS
+| Mervärdes- och OMSättningsskatt
+|}
+
+===Non-European Union countries===
+{| class="wikitable sortable"
+|-
+! Country
+! Standard rate (current)
+! Reduced rate (current)
+! class="unsortable" | Local name
+|-
+| {{Flagu|Albania}}<ref>{{cite web | url= http://taxsummaries.pwc.com/ID/Albania-Corporate-Other-taxes | title= Albania - Other taxes impacting corporate entities | date = 6 September 2019 | publisher = PwC | accessdate = 16 December 2019 | url-status = live | archive-url = https://web.archive.org/web/20191216140026/http://taxsummaries.pwc.com/ID/Albania-Corporate-Other-taxes | archive-date = 16 December 2019}}</ref>
+| 20%
+| 6% (accommodation services) or 0% (postal, medical, dental and welfare services)
+| TVSH = ''Tatimi mbi Vlerën e Shtuar''
+|-
+| {{flagu|Algeria}}
+| 19%
+|
+|
+|-
+| {{Flagu|Andorra}}<ref>{{cite news | url = http://www.lavanguardia.es/economia/noticias/20100704/53958607595/andorra-crea-un-iva-con-un-tipo-general-del-45-y-uno-reducido-del-1.html | title = Andorra crea un IVA con un tipo general del 4,5% y uno reducido del 1% | newspaper = [[La Vanguardia]] | date = 4 July 2010 | accessdate = 13 October 2010}}</ref>
+| 4.5%
+| 1%
+| IGI = ''Impost General Indirecte''
+|-
+| {{Flagu|Antigua and Barbuda}}
+| 15%
+|
+|
+|-
+| {{Flagu|Argentina}}
+| 21%
+| 10.5% or 0%
+| IVA = ''Impuesto al Valor Agregado''
+|-
+| {{Flagu|Armenia}}
+| 20%
+| 0%
+| ''AAH = Avelacvats Arzheqi Hark''<br /> ԱԱՀ = Ավելացված արժեքի հարկ
+|-
+| {{Flagu|Australia}}
+| 10%
+| {{nts|0}}% fresh food, medical services, medicines and medical devices, education services, childcare, water and sewerage, government taxes & permits and many government charges, precious metals, second-hand goods and many other types of goods. Rebates for exported goods and GST taxed business inputs are also available
+| GST = ''[[Goods and Services Tax (Australia)|Goods and Services Tax]]''
+|-
+|{{Flagu|Azerbaijan}}
+| 18%
+| 10.5% or 0%
+| ƏDV = ''Əlavə dəyər vergisi''
+|-
+| {{Flagu|Bahamas}}<ref>{{cite news | url = https://www.bahamas.gov.bs/wps/portal/public/!ut/p/b1/vZfZjptKEIafJQ8wcTdb40t2MNBgNgM3yCxjFoM3bAxPHyYnkTI5Z8bnIjEtkBB_6-_6qqqBRbwIF3G3vVW7bV8duu3-7T5mkjUP1q6xJDlW0iXAAWRwjMKRUEOzIJoFJFBMjqNYU6EBAzTfNjgbqYRFge_zP3oM6cVmEarRxIsHbZAkJ7n7V9uLi41bg6qKGVMmTEFG9prfHBstF6kkiC0zwa15Ojpelt-rrXXi8-m6hxnMRtfiGsPduy0dJw3VqaokeBkPkzZlDcdOmo2sErp9GoTgVkbZiM0N39OejMbTCzsKvQt1VtyG1zy2ut0EQTnC7XA1ymzPeQWdJzsRKiuK-xEz-ODgHsb8ObNZ8BnzGek_8z8R_K-cfSSwyEfzV4u4StuvQ9Z-BV8hCREkIKIQQkuahsyc0vhTAjrxQPAWwXfBZ4g_XeRbDI8oRrMA_bIGLwBAg4BzXLgGLIYLbxECKnHr8ahNzeTUaA1wjW3TW2nzGkYseh729xhjC_bSjoBioOEzBy6iY5i1OV6wZ-eB4_OcgOqSKX43tAhvORsKkNF9GriA-tuGCm2xM2Xk2RxNAMWCzzYkn4pUsS3w1yN8VzTU-s_n8F2vsUsG0oilliwDKIpFi6COqERgtUE23cQ9RqrV1gWSIyl03NBvD6Eb9xp326sv_dlPiZdDRVkiSMhreq5rI12eD92O482BRoC8LRs87LTr9LpzTd0vOd2v1_p45rSwdLuuIodGZ_l0KrxDUq-GDDgxDsvNqSfEzrynLXwpYoWQ2rvbHPYbF2z6tj0Vu5uWoKsXeEvlHBi0BMwqinrr5gWiLLVUE-ZOg6k4GUY2STsJheOR7OhuKJovC6we2p_IP2zkf1cxGO54Pl1xtYK1fzdF28eeBN-QY6m3wNkf3CkwPb83e6nUzVz9gVzsOEIfHxjq4NmGxLMN6WcboicbCtSzDZ9dpQL5ZEP3z7fF-60PESyLKEASDM1SLLMIjGx3Fw_cTpRE58TWaximxMoqq9NJj3xBjCpMFxE9vYygMG7BK1Ydfn1Ow3xFdN1KEsJS3XF0rG0O2iZYZpS1lWgnDNaZvR91uald60a9btVleuh6eKkjr7hHL6YyKbbQINBQXx4B-a-inrDoD9iH-tu-b3qhMwMZL70wA6ExmHzCRCvNrHOMxYyYLz_fBW3VrN0HhgTzbEP6yYYaeLbhs5Fqfx7puy4CzJw1lqIISCCWZSh6_oLwGSRe5r8v-xLsy9uRzO4b_SIJUaMcckkNcVU57H7FYCu8CSk3mH07GvktovYb486BtW8ytHkmzuVV4OT2dcnzjqdosiIf4y6QeJHVdTays7IiOCMXpz69wJCfNLmBhRwW52l7uW7VuChe48pAIuP0S2UIQtTwmpeEWXXqmNXmFI6atu7S3SEp2koeozovZdgB4laiwY5JzoLsSV7G144XF8fWv-m6btAryVGn8JdRKLf298HCX8bwDRzn5t8!/dl4/d5/L2dJQSEvUUt3QS80SmtFL1o2X1FCMFFTTDkzQThFS0UwQTA3TEE2R0EzMTQw/ | title = The Government of The Bahamas - VAT Bahamas | newspaper = VAT Bahamas | date = 5 June 2015 | accessdate = 5 June 2015}}</ref><ref>{{Cite web|title = Bahamas Planning to Introduce 7.5 Percent Value Added Tax in 2015|url = http://caribjournal.com/2014/05/30/bahamas-planning-to-introduce-7-5-percent-value-added-tax-in-2015/|website = Caribbean Journal|accessdate = 27 December 2015}}</ref>
+| 7.5%
+| 7.5% or 0% (including but not limited to exports of goods or services, services to a foreign going vessel providing international commercial services, consumable goods for commercially scheduled foreign going vessels/aircraft, copyright, etc.) 
+| VAT = Value Added Tax
+|-
+| {{Flagu|Bahrain}}
+| 5%
+| 0% (pharmacies and medical services, road transport, education service, Oil and gas derivatives, Vegetables and fruits, National exports)
+| (VAT) ضريبة القيمة المضافة
+|-
+| {{Flagu|Bangladesh}}
+| 15%
+| 4% for Supplier, 4.5% for ITES, 5% for electricity, 5.5% for construction firm, etc.
+| Musok = Mullo songzojon kor<br /> মূসক = "মূল্য সংযোজন কর"
+|-
+| {{Flagu|Barbados}}
+| 17.5%
+|
+| VAT = Value Added Tax
+|-
+| {{Flagu|Belarus}}
+| 20%
+| 10% or 0.5%
+| ПДВ = ''Падатак на дададзеную вартасьць''
+|-
+| {{Flagu|Belize}}
+| 12.5%
+|
+|
+|-
+| {{flagu|Benin}}
+| 18%
+|
+|
+|-
+| {{Flagu|Bolivia}}
+| 13%
+|
+| IVA = ''Impuesto al Valor Agregado''
+|-
+| {{Flagu|Bosnia and Herzegovina}}
+| 17%
+|
+| PDV = ''Porez na dodanu vrijednost''
+|-
+| {{flagu|Botswana}}
+| 12%
+|
+|
+|-
+| {{Flagu|Brazil}}
+| 20% (IPI) + 19% (ICMS) average + 3% (ISS) average
+| 0%
+| *IPI – 20% = ''Imposto sobre produtos industrializados (Tax over industrialized products) – Federal Tax''<br /> ICMS – 17 to 25% = ''Imposto sobre circulação e serviços (tax over commercialization and services) – State Tax''<br /> ISS – 2 to 5% = ''Imposto sobre serviço de qualquer natureza (tax over any service){{snd}}City tax''
+|-
+| {{flagu|Burkina Faso}}
+| 18%
+|
+|
+|-
+| {{flagu|Burundi}}
+| 18%
+|
+|
+|-
+| {{flagu|Cambodia}}
+| 10%
+|
+|
+|-
+| {{flagu|Cameroon}}
+| 19.25%
+|
+|
+|-
+| {{Flagu|Canada}}
+| 5% + 0–10% HST (GST + PVAT)
+| 5%/0%<ref group="lower-alpha" name="fn2">No real "reduced rate", but rebates generally available for new housing effectively reduce the tax to 4.5%.</ref>
+| GST = ''[[Goods and Services Tax (Canada)|Goods and Services Tax]]'', TPS = ''Taxe sur les produits et services''; HST<ref group="lower-alpha" name="fn1">HST is a combined federal/provincial VAT collected in some provinces. In the rest of Canada, the GST is a 5% federal VAT and if there is a ''Provincial Sales Tax'' (PST) it is a separate non-value-added tax.</ref> = ''Harmonized Sales Tax'', TVH = ''Taxe de vente harmonisée''
+|-
+| {{flagu|Cape Verde}}
+| 15%
+|
+|
+|-
+| {{flagu|Central African Republic}}
+| 19%
+|
+|
+|-
+| {{flagu|Chad}}
+| 18%
+|
+|
+|-
+| {{Flagu|Chile}}
+| 19%
+|
+| IVA = ''Impuesto al Valor Agregado''
+|-
+| {{Flagu|China}}<ref group="lower-alpha" name="fn3">These taxes do not apply in Hong Kong and [[Macau]], which are [[public finance|financially]] independent as [[Special Administrative Region of the People's Republic of China|special administrative regions]].</ref>
+| 13%
+| 9% for foods, printed matter, and households fuels; 6% for service; or 3% for non-value-added tax
+| 增值税 (zēng zhí shuì)
+|-
+| {{Flagu|Colombia}}
+| 19%
+|
+| IVA = ''Impuesto al Valor Agregado''
+|-
+| {{Flagu|Costa Rica}}
+| 13%
+|
+|
+|-
+| {{flagu|Democratic Republic of the Congo}}
+| 16%
+|
+|
+|-
+| {{Flagu|Dominica}}
+| 15%
+|
+|
+|-
+| {{Flagu|Dominican Republic}}
+| 18%
+| 12% or 0%
+| ITBIS = ''Impuesto sobre Transferencia de Bienes Industrializados y Servicios''
+|-
+| {{Flagu|Ecuador}}
+| 12%
+| 0%
+| IVA = ''Impuesto al Valor Agregado''
+|-
+| {{Flagu|Egypt}}
+| 14% (15% on Communication Services)
+|
+| ''VAT = Value Added Tax'' (الضريبة على القيمة المضافة)
+|-
+| {{Flagu|El Salvador}}
+| 13%
+|
+| IVA = ''Impuesto al Valor Agregado'' o "Impuesto a la Transferencia de Bienes Muebles y a la Prestación de Servicios"
+|-
+| {{flagu|Equatorial Guinea}}
+| 15%
+|
+|
+|-
+| {{Flagu|Ethiopia}}
+| 15%
+|
+| ''VAT = Value Added Tax''
+|-
+| {{Flagu|Faroe Islands}}
+| 25%
+|
+| MVG = ''Meirvirðisgjald''
+|-
+| {{Flagu|Fiji}}
+| 15%
+| 0%
+| VAT = ''Value Added Tax''
+|-
+| {{flagu|Gabon}}
+| 18%
+|
+|
+|-
+| {{Flagu|Gambia}}<ref>{{cite news | url = http://www.gra.gm/vat/ | title = Gambia Revenue Authority - VAT | newspaper = [[Gambia Revenue Authority]] | date = 19 December 2014 | accessdate = 6 June 2015}}</ref>
+| 15%
+|
+| VAT = Value Added Tax
+|-
+| {{Flagu|Georgia}}
+| 18%
+| 0%
+| DGhG = ''Damatebuli Ghirebulebis gadasakhadi'' დღგ = დამატებული ღირებულების გადასახადი
+|-
+| {{Flagu|Ghana}}
+| 15%
+|
+| VAT = Value Added Tax plus National Health Insurance Levy (NHIL; 2.5%)
+|-
+| {{Flagu|Grenada}}
+| 15%
+|
+|
+|-
+| {{Flagu|Guatemala}}
+| 12%
+|
+| IVA = ''Impuesto al Valor Agregado''
+|-
+| {{Flagu|Guinea}}
+| 18%
+|
+|
+|-
+| {{Flagu|Guinea-Bissau}}
+| 15%
+|
+|
+|-
+| {{Flagu|Guyana}}<ref>{{cite web|url=http://www.ramandmcrae.com/Investor_Info/Publications_investorInfo1.htm |title=Ram & McRae's Investors Information Package |publisher=Ramandmcrae.com |accessdate=30 April 2012}}</ref>
+| 16%
+| 0%
+| VAT = ''Value Added Tax''
+|-
+| {{Flagu|Haiti}}
+| 10%
+|
+|
+|-
+| {{Flagu|Honduras}}
+| 15% (4% additional on tourism tax)<ref>{{Cite web|url=https://www.ey.com/gl/en/services/tax/worldwide-vat--gst-and-sales-tax-guide---xmlqs?preview&XmlUrl=/ec1mages/taxguides/VAT-2019/VAT-HN.xml|title=2019 Worldwide VAT, GST and Sales Tax Guide Honduras|last=|first=|date=|website=|access-date=}}</ref>
+|
+|VAT = Impuesto Sobre Ventas
+|-
+| {{Flagu|Iceland}}
+| 24%
+| 11%<ref group="lower-alpha" name="fn4">The reduced rate was 14% until 1 March 2007, when it was lowered to 7%, and later changed to 11%. The reduced rate applies to heating costs, printed matter, restaurant bills, hotel stays, and most food.</ref>
+| [[wikt:VSK#Icelandic|VSK]], [[wikt:VASK#Icelandic|VASK]] = ''[[wikt:virðisaukaskattur#Icelandic|Virðisaukaskattur]]''
+|-
+| {{Flagu|India}}<ref group="lower-alpha" name="fn5">VAT is not implemented in 2 of India's 28 states.</ref>
+| 5.5%
+| 5.5%
+| VAT = ''Value Added Tax''
+|-
+| {{Flagu|Indonesia}}
+| 10%
+| 10%, 0% for primary groceries, medical services, financial services, education and also insurance
+| PPN = ''Pajak Pertambahan Nilai''
+|-
+| {{Flagu|Iran}}
+| 9%
+|
+| VAT = ''Value Added Tax'' (مالیات بر ارزش افزوده)
+|-
+| {{flagu|Isle of Man}}
+| 20%
+|
+|
+|-
+| {{Flagu|Israel}}{{refn|group=lower-alpha|name=fn6|Except Eilat, where VAT is not raised.<ref>[http://www.eccb06.org/new_pages/general_info/gen_info_fqs.html#taxRefund VAT in Eilat], ECCB</ref>}}
+| 17%<ref group="lower-alpha" name="fn7">The VAT in Israel is in a state of flux. It was reduced from 18% to 17% in March 2004, to 16.5% in September 2005, then to 15.5% in July 2006. It was then raised back to 16.5% in July 2009, and lowered to the rate of 16% in January 2010. It was then raised again to 17% on 1 September 2012, and once again on 2 June 2013, to 18%. It was reduced from 18% to 17% in October 2015.</ref> (0% in [[Eilat]])
+| 0% (fruits and vegetables, tourism services for foreign citizens, intellectual property, diamonds, flights and apartments renting)
+| Ma'am = ''מס ערך מוסף, מע"מ''
+|-
+| {{Flagu|Ivory Coast}}
+| 18%
+|
+|
+|-
+| {{Flagu|Jamaica}}
+| 12.5%
+|
+|
+|-
+| {{Flagu|Japan}}
+| 10%
+| 8% (groceries)
+| {{Nihongo||消費税|shōhizei}} ("consumption tax")
+|-
+| {{Flagu|Jersey}}<ref group="lower-alpha" name="fn8">The introduction of a goods and sales tax of 3% on 6 May 2008 was to replace revenue from Company Income Tax following a reduction in rates.</ref>
+| 5%
+| 0%
+| GST = ''Goods and Services Tax''
+|-
+| {{Flagu|Jordan}}
+| 16%
+|
+| GST = ''Goods and Sales Tax''
+|-
+| {{Flagu|Kazakhstan}}
+| 12%
+|
+| ҚCҚ = ''Қосылған құнға салынатын салық'' (Kazakh)<br />VAT = ''Value Added Tax''
+|-
+| {{Flagu|Kenya}}
+| 16%
+|
+|
+|-
+| {{flagu|Kyrgyzstan}}
+| 20%
+|
+|
+|-
+| {{flagu|Laos}}
+| 10%
+|
+|
+|-
+| {{Flagu|Lebanon}}
+| 11%
+|
+| TVA = ''Taxe sur la valeur ajoutée''
+|-
+| {{Flagu|Lesotho}}
+| 14%
+|
+|
+|-
+| {{Flagu|Liechtenstein}}<ref>{{cite web | url = http://www.liechtenstein.li/en/eliechtenstein_main_sites/portal_fuerstentum_liechtenstein/fl-wuf-wirtschaft_finanzen/fl-wuf-steuern/fl-wuf-steuern-mehrwertsteuer.htm | archive-url = https://web.archive.org/web/20050418081101/http://www.liechtenstein.li/en/eliechtenstein_main_sites/portal_fuerstentum_liechtenstein/fl-wuf-wirtschaft_finanzen/fl-wuf-steuern/fl-wuf-steuern-mehrwertsteuer.htm | archive-date = 18 April 2005 | title = Value added tax | work = Portal of the Principality of Liechtenstein | publisher = Government Spokesperson's Office | access-date=13 October 2010}}</ref>
+| 7.7%
+| 3.8% (lodging services) or 2.5%
+| MWST = ''Mehrwertsteuer''
+|-
+|{{Flagu|Madagascar}}
+| 20%
+|
+|
+|-
+|{{Flagu|Malawi}}
+| 16.5%
+|
+|
+|-
+|{{Flagu|Malaysia}}{{refn|group=lower-alpha|name=fn9|In the 2014 Budget, the government announced that GST would be introduced in April 2015. Piped water, power supply (the first 200 units per month for domestic consumers), transportation services, education, and health services are tax-exempt. However, many details have not yet been confirmed.<ref>{{Cite web|url=https://www.ibtimes.com/malaysia-budget-2014-6-new-tax-effective-april-2015-sugar-subsidy-abolished-1441950|title=Malaysia Budget 2014: 6% New Tax Effective April 2015, Sugar Subsidy Abolished|first=Sophie|last=Song|date=25 October 2013|website=International Business Times}}</ref>}}
+| 6%
+| 0% for fresh foods, education, healthcare, land public transportation and medicines
+| SST = ''[[Sales and Services Tax (Malaysia)|Sales and Services Tax]]<br /> CJP = Cukai Jualan dan Perkhidmatan''
+|-
+|{{Flagu|Maldives}}
+| 6%
+| 0%
+| GST = ''Goods and services tax'' (Government Tax)
+|-
+|{{Flagu|Mali}}
+| 18%
+|
+|
+|-
+|{{Flagu|Mauritania}}
+| 14%
+|
+|
+|-
+|{{Flagu|Mauritius}}
+| 15%
+|
+| VAT = ''Value Added Tax''
+|-
+|{{Flagu|Mexico}}
+| 16%
+| 0% on books, food and medicines.
+| IVA = ''Impuesto al Valor Agregado''
+|-
+|{{Flagu|Moldova}}
+| 20%
+| 8%, 5% or 0%
+|TVA = ''Taxa pe Valoarea Adăugată''
+|-
+|{{Flagu|Monaco}}<ref>{{cite web|url=http://www.globalpropertyguide.com/Europe/Monaco/Taxes-and-Costs |title=Monaco capital gains tax rates, and property income tax |publisher=Globalpropertyguide.com |accessdate=30 April 2012}}</ref>
+| 19.6%
+| 5.6%
+| TVA = ''Taxe sur la valeur ajoutée''
+|-
+|{{Flagu|Mongolia}}
+| 10%
+| 0%
+| VAT = ''Нэмэгдсэн өртгийн албан татвар''
+|-
+|{{Flagu|Montenegro}}
+| 21%
+|
+| PDV = ''Porez na dodatu vrijednost''
+|-
+|{{Flagu|Morocco}}
+| 20%
+|
+|''TVA = Taxe sur Valeur Ajoutée'' (الضريبة على القيمة المضافة)
+|-
+|{{Flagu|Mozambique}}
+| 17%
+|
+|
+|-
+|{{Flagu|Namibia}}
+| 15%
+| 0%
+| VAT = ''Value Added Tax''
+|-
+|{{Flagu|Nepal}}
+| 13%
+| 0%
+| VAT = ''Value Added Taxes''
+|-
+|{{Flagu|New Zealand}}
+| 15%
+| 0% (donated goods and services sold by non-profits, financial services, rental payments for residential properties, supply of fine metals, and penalty interest).<ref>{{cite web |title=Exempt supplies |url=http://www.ird.govt.nz/gst/additional-calcs/calc-spec-supplies/calc-exempt/calc-exempt.html |website=IRD |publisher=Government of New Zealand |accessdate=18 July 2018}}</ref>
+| GST = ''[[Goods and Services Tax (New Zealand)|Goods and Services Tax]]''
+|-
+|{{Flagu|Nicaragua}}
+| 15%
+|
+|
+|-
+|{{Flagu|Niger}}
+| 19%
+|
+|
+|-
+|{{Flagu|Nigeria}}
+| 7.5%
+|
+|
+|-
+|{{flagu|Niue}}
+| 5%
+|
+|
+|-
+| {{Flagu|North Macedonia}}
+| 18%
+| 5% or 0%
+| ДДВ = ''Данок на додадена вредност'', DDV = ''Danok na dodadena vrednost''
+|-
+| {{Flagu|Norway}}
+| 25%
+| 15% (food), 12% (public transport, hotel, cinema) and 0% for electric cars (until 2018)<ref>{{cite web|url=http://www.thegreencarwebsite.co.uk/blog/index.php/2012/06/28/norway-confirms-electric-car-incentives-until-2018/ |title=Norway confirms electric car incentives until 2018 |publisher=Thegreencarwebsite.co.uk |date= |accessdate=25 January 2014}}</ref>
+| MVA = ''Merverdiavgift'' (bokmål) or ''meirverdiavgift'' (nynorsk) (informally ''moms'')
+|-
+| {{Flagu|Pakistan}}
+| 17%
+| 1% or 0%
+| GST = ''General Sales Tax''
+|-
+| {{Flagu|Palestine}}
+| 16%
+|
+| VAT = ''Value Added Tax''
+|-
+| {{Flagu|Panama}}
+| 7%
+| 0%
+| ITBMS = ''Impuesto de Transferencia de Bienes Muebles y Servicios''
+|-
+| {{Flagu|Papua New Guinea}}
+| 10%
+|
+|
+|-
+| {{Flagu|Paraguay}}
+| 10%
+| 5%
+| IVA= ''Impuesto al Valor Agregado''
+|-
+| {{Flagu|Peru}}
+| 18%
+|
+| IGV – 16% = ''Impuesto General a la Ventas'' IPM – 2% ''Impuesto de Promocion Municipal''
+|-
+| {{Flagu|Philippines}}
+| 12%{{refn|group=lower-alpha|name=fn10|The [[President of the Philippines]] has the power to raise the tax to 12% after 1 January 2006. The tax was raised to 12% on 1 February.<ref>[http://www.bir.gov.ph/taxinfo/tax_vat.htm Bureau of Internal Revenue Website]. Bir.gov.ph. Retrieved 14 June 2013.</ref>}}
+| 6% on petroleum products, and electricity and water services <br> 0% for senior citizens (all who are aged 60 and above) on medicines, professional fees for physicians, medical and dental services, transportation fares, admission fees charged by theaters and amusement centers, and funeral and burial services after the death of the senior citizen
+| RVAT = ''Reformed Value Added Tax'', locally known as ''Karagdagang Buwis / Dungag nga Buhis''
+|-
+| {{Flagu|Republic of Congo}}
+| 16%
+|
+|
+|-
+| {{Flagu|Russia}}
+| 20%
+| 10% (Essential food, goods for children and medical products)<ref>{{Cite web|url=http://tass.com/economy/1038487|title=Value-added tax to rise from 18% to 20% in Russia|accessdate=13 January 2019}}</ref> or 0%
+| НДС = ''Налог на добавленную стоимость'', NDS = ''Nalog na dobavlennuyu stoimost’''
+|-
+| {{Flagu|Rwanda}}
+| 18%
+| 0%
+| VAT = ''Value Added Tax''
+|-
+| {{Flagu|Saint Kitts and Nevis}}
+| 17%
+|
+| VAT = ''Value Added Tax''
+|-
+| {{Flagu|Saint Vincent and the Grenadines}}
+| 15%
+|
+|
+|-
+| {{flagu|Samoa}}
+| 15%
+|
+|
+|-
+| {{Flagu|Saudi Arabia}}
+| 15%
+|
+| ضريبة القيمة المضافة
+|-
+| {{Flagu|Senegal}}
+| 18%
+|
+|
+|-
+| {{Flagu|Serbia}}
+| 20%<ref>[http://www.blic.rs/Vesti/Ekonomija/344524/Opsta-stopa-PDV-od-1-oktobra-bice-20-odsto Blic Online | Opšta stopa PDV od 1. oktobra biće 20 odsto]. Blic.rs. Retrieved 14 June 2013.</ref>
+| 10%<ref>{{Cite web|url=https://www.b92.net/biz/vesti/srbija.php?yyyy=2014&mm=01&dd=01&nav_id=795544|title=Od danas veća niža stopa PDV-a|website=B92.net}}</ref> or 0%
+| ПДВ = ''Порез на додату вредност'', PDV = ''Porez na dodatu vrednost''
+|-
+| {{Flagu|Seychelles}}
+| 15%
+|
+|
+|-
+| {{Flagu|Sierra Leone}}
+| 15%
+|
+|
+|-
+| {{Flagu|Singapore}}
+| 7%
+| Raised from 5% to 7% in 2007. To be raised from 7% to 9% in 2019.
+| GST = ''[[Goods and Services Tax (Singapore)|Goods and Services Tax]]''
+|-
+| {{Flagu|South Africa}}
+| 15%
+| 0% on basic foodstuffs such as bread, additionally on goods donated not for gain; goods or services used for educational purposes, such as school computers; membership contributions to an employee organization (such as labour union dues); and rent paid on a house by a renter to a landlord.<ref>{{Cite web|url=http://www.sars.gov.za/TaxTypes/VAT/Pages/default.aspx|title=Value-Added Tax|website=www.sars.gov.za|access-date=20 May 2016}}</ref>
+| VAT = ''Valued Added Tax''; BTW = ''Belasting op toegevoegde waarde''
+|-
+| {{Flagu|South Korea}}
+| 10%
+| 0% (Essential foodstuffs)
+| VAT = ''bugagachise'' ({{Korean|부가가치세 | 附加價値稅}})
+|-
+| {{Flagu|Sri Lanka}}
+| 12%
+| 0%
+| VAT = ''Valued Added Tax'' has been in effect in Sri Lanka since 2001. On the 2001 budget, the rates have been revised to 12% and 0% from the previous 20%, 12% and 0%
+|-
+| {{Flagu|Sudan}}
+| 17%
+|
+|
+|-
+| {{Flagu|Switzerland}}
+| 7.7%<ref name="CH.CH">{{Cite web|url=https://www.ch.ch/en/vat-rates-switzerland/|title=Value Added Tax in Switzerland - www.ch.ch|website=www.ch.ch}}</ref>
+| 3.7% (hotel sector) and 2.5% (essential foodstuff, books, newspapers, medical supplies)<ref name="CH.CH" />
+| MWST = ''Mehrwertsteuer'', TVA = ''Taxe sur la valeur ajoutée'', IVA = ''Imposta sul valore aggiunto'', TPV = ''Taglia sin la Plivalur''
+|-
+| {{Flagu|Taiwan}}
+| 5%
+|
+| 營業稅 (business tax) / 加值型營業稅 (value-added business tax)
+|-
+| {{Flagu|Tajikistan}}
+| 20%
+|
+|
+|-
+| {{Flagu|Tanzania}}
+| 18%
+|
+|
+|-
+| {{Flagu|Thailand}}
+| 10%
+| 7%
+| VAT = ''Value Added Tax'', ภาษีมูลค่าเพิ่ม
+|-
+| {{Flagu|Togo}}
+| 18%
+|
+|
+|-
+| {{flagu|Tonga}}
+| 15%
+|
+|
+|-
+| {{Flagu|Trinidad and Tobago}}
+| 12.5%
+| 0%
+|
+|-
+| {{Flagu|Tunisia}}
+| 18%
+|
+| TVA = ''Taxe sur la Valeur Ajoutée'' آداء على القيمة المضافة
+|-
+| {{Flagu|Turkey}}
+| 18%
+| 8% or 1%
+| KDV = ''Katma değer vergisi''
+|-
+| {{Flagu|Turkmenistan}}
+| 15%
+|
+|
+|-
+| {{Flagu|Uganda}}
+| 18%
+|
+|
+|-
+| {{Flagu|Ukraine}}
+| 20%
+| 7% or 0%
+| ПДВ = ''Податок на додану вартість'', PDV = ''Podatok na dodanu vartist’''.
+|-
+| {{Flagu|United Arab Emirates}}
+| 5%
+|
+| ضريبة القيمة المضافة
+|-
+| {{Flagu|United Kingdom}}
+| {{nts|20}}%<ref>{{cite web|url=https://www.bbc.co.uk/news/10373992|title=Budget: How the rise in VAT will work|date=23 June 2010|publisher=BBC|work=BBC News|accessdate=2 November 2010}}</ref><br />0% in [[Guernsey]] and [[Gibraltar]] <small>(not part of [[European Union VAT area|EU VAT area]])</small>
+| {{nts|5}}% residential energy/insulation/renovations, [[feminine hygiene]] products, [[child safety seat]]s and [[mobility aid]]s and 0% for life necessities{{snd}}basic food, water, [[prescription medication]]s, [[medical equipment]] and [[medical supply]], public transport, children's clothing, books and periodicals.  Also 0% for new building construction (but standard rate for building demolition, modifications, renovation etc.)<ref>{{Cite web|url=https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services|title=VAT rates on different goods and services - Detailed guidance - GOV.UK|website=www.gov.uk|access-date=4 August 2016}}</ref> 5% for [[hospitality]], [[Lodging|holiday accommodation]] and [[Tourism|attractions]] until 12 January 2021.<ref>{{Cite web|title=VAT: reduced rate for hospitality, holiday accommodation and attractions|url=https://www.gov.uk/guidance/vat-reduced-rate-for-hospitality-holiday-accommodation-and-attractions|access-date=2020-07-14|website=GOV.UK|language=en}}</ref>
+| VAT
+TAW = [[Value Added Tax (United Kingdom)|Value Added Tax]]
+Treth Ar Werth (Welsh)
+|-
+| {{Flagu|Uruguay}}
+| 22%
+| 18% or 0%
+| IVA = ''Impuesto al Valor Agregado''
+|-
+| {{Flagu|Uzbekistan}}
+| 20%
+|
+| QQS = Qoʻshilgan qiymat soligʻi
+|-
+| {{flagu|Vanuatu}}
+| 13%
+|
+|
+|-
+| {{Flagu|Vietnam}}
+| 10%
+| 5% or 0%
+| GTGT = ''Giá Trị Gia Tăng''
+|-
+| {{Flagu|Venezuela}}
+| 12%
+| 11%
+| IVA = ''Impuesto al Valor Agregado''
+|-
+| {{Flagu|Zambia}}
+| 16%
+|
+|
+|-
+| {{Flagu|Zimbabwe}}
+| 15%
+|
+|
+|}
+{{reflist|group=lower-alpha}}
+
+===VAT free countries and territories===
+As of March 2016, the countries and territories listed remained VAT free.{{citation needed|date=March 2016}}
+
+{|class="wikitable sortable"
+|-
+! Country<ref name="no vat">{{cite web|title=TAX RATES|url=http://www.taxrates.cc/index.html|publisher=taxrates web site|accessdate=3 November 2011}}</ref>
+! Notes
+|-
+| {{Flagu|Akrotiri and Dhekelia}}
+| [[British Overseas Territory]]
+|-
+| {{Flagu|Angola}}
+| VAT to be implemented in 2019
+|-
+| {{Flagu|Anguilla}}
+| British Overseas Territory
+|-
+| {{Flagu|Bermuda}}
+| British Overseas Territory
+|-
+| {{Flagu|Bhutan}}
+| {{N/A}}
+|-
+| {{Flagu|British Antarctic Territory}}
+| British Overseas Territory
+|-
+| {{Flagu|British Indian Ocean Territory}}
+| British Overseas Territory
+|-
+| {{Flagu|British Virgin Islands}}
+| British Overseas Territory
+|-
+| {{Flagu|Brunei}}
+| {{N/A}}
+|-
+| {{Flagu|Cayman Islands}}
+| British Overseas Territory
+|-
+| {{Flagu|Comoros}}
+| 10% VAT
+|-
+| {{Flagu|Cuba}}
+| {{N/A}}
+|-
+| {{Flagu|Djibouti}}
+| 10% VAT
+|-
+| {{Flagu|Eritrea}}
+| 5% VAT
+|-
+| {{Flagu|Falkland Islands}}
+| British Overseas Territory
+|-
+| {{Flagu|Gibraltar}}
+| British Overseas Territory
+|-
+| {{Flagu|Guernsey}}
+| [[British Crown Dependency]]
+|-
+| {{Flagu|Hong Kong}}
+| [[Special administrative region of China]]
+|-
+| {{Flagu|Iraq}}
+| {{N/A}}
+|-
+| {{Flagu|Kiribati}}
+| VAT
+|-
+| {{Flagu|Kosovo}}
+| VAT<ref>{{Cite web|url=https://www.rks-gov.net/EN/f134/finance-taxes-customs/taxes|title=Taxes - State Portal of the Republic of Kosovo|website=www.rks-gov.net}}</ref>
+|-
+| {{Flagu|Kuwait}}
+| | Gulf Co-operation Council (5% VAT planned 2021<ref>{{cite news|last1=|first1=|title=الكويت تؤجل تطبيق ضريبة القيمة المضافة|url=https://www.albayan.ae/economy/the-world-today/2018-05-15-1.3265713|work=|date=15 May 2018}}</ref>)
+|-
+| {{Flagu|Liberia}}
+| VAT<ref>{{Cite web|url=https://www.avalara.com/vatlive/en/vat-news/liberia-to-introduce-vat-2019.html|title=Liberia to introduce VAT 2019 - Avalara|website=www.avalara.com}}</ref>
+|-
+| {{Flagu|Libya}}
+| {{N/A}}
+|-
+| {{Flagu|Macau}}
+| Special administrative region of China
+|-
+| {{Flagu|Maldives}}
+| {{N/A}}
+|-
+| {{Flagu|Marshall Islands}}
+| {{N/A}}
+|-
+| {{Flagu|Micronesia}}
+| {{N/A}}
+|-
+| {{Flagu|Montserrat}}
+| British Overseas Territory
+|-
+| {{Flagu|Myanmar}}
+| {{N/A}}
+|-
+| {{Flagu|Nauru}}
+| {{N/A}}
+|-
+| {{Flagu|North Korea}}
+| {{N/A}}
+|-
+| {{Flagu|Oman}}
+| Gulf Co-operation Council (5% VAT planned 2019<ref>{{cite news|title=In blow to finances, Oman postpones VAT introduction: local media|url=https://www.reuters.com/article/us-oman-tax/in-blow-to-finances-oman-postpones-vat-introduction-local-media-idUSKBN1EK08J|access-date=1 January 2018|work=Reuters|date=26 December 2017}}</ref>)
+|-
+| {{Flagu|Palau}}
+| {{N/A}}
+|-
+| {{Flagu|Pitcairn Islands}}
+| British Overseas Territory
+|-
+| {{Flagu|Qatar}}
+| Gulf Co-operation Council / has a VAT now
+|-
+| {{Flagu|Saint Helena, Ascension and Tristan da Cunha}}
+| British Overseas Territory
+|-
+| {{Flagu|San Marino}}
+| {{N/A}}
+|-
+| {{Flagu|Sao Tome and Principe}}
+| {{N/A}}
+|-
+| {{Flagu|Solomon Islands}}
+| {{N/A}}
+|-
+| {{Flagu|Somalia}}
+| {{N/A}}
+|-
+| {{Flagu|South Georgia and the South Sandwich Islands}}
+| British Overseas Territory
+|-
+| {{Flagu|South Sudan}}
+| 18% VAT
+|-
+| {{Flagu|Suriname}}
+| VAT<ref>{{Cite web|url=https://www.loc.gov/law/foreign-news/article/suriname-vat-tax-to-be-initiated-in-2016/|title=Suriname: VAT Tax to Be Initiated in 2016 &#124; Global Legal Monitor|first=Wendy|last=Zeldin|date=14 November 2014|website=www.loc.gov}}</ref>
+|-
+| {{Flagu|Svalbard}}
+| {{N/A}}
+|-
+| {{Flagu|Swaziland}}
+| {{N/A}}
+|-
+| {{Flagu|Syria}}
+| Just recent tax of 14.85% (hotels) and 10% (restaurants)
+|-
+| {{Flagu|Timor Leste}}
+| {{N/A}}
+|-
+| {{Flagu|Turks and Caicos Islands}}
+| British Overseas Territory
+|-
+| {{Flagu|Tuvalu}}
+| {{N/A}}
+|-
+| {{Flagu|United States}}
+| [[Sales taxes in the United States|Sales taxes]] are collected by most states and some cities, counties, and Native American reservations. The federal government collects [[Excise tax in the United States|excise tax]] on some goods, but does not collect a nationwide sales tax.
+|-
+| {{Flagu|Vatican City}}
+| {{N/A}}
+|-
+| {{Flagu|Yemen}}
+| {{N/A}}
+|-
+|}
+
+==Criticisms==
+[[File:Campaña nomasiva.com 049.jpg|thumb|4 May 2010 "Campaña no más IVA" in Spain]]
+The "value-added tax" has been criticized as the burden of it falls on personal end-consumers of products. Some critics consider it to be a [[regressive tax]], meaning that the poor pay more, as a percentage of their income, than the rich.<ref name="auto">{{cite web |title=Options for Reducing the Deficit: 2019 to 2028 |url=https://www.cbo.gov/budget-options/2018/54820 |publisher=Congressional Budget Office |access-date=1 March 2020 |date=13 December 2018}}</ref> Defenders argue that relating taxation levels to income is an arbitrary standard, and that the value-added tax is in fact a [[proportional tax]] in that people with higher income pay more in that they consume more. The effective regressiveness of a VAT system can also be affected when different classes of goods are taxed at different rates.<ref name="auto"/> Some countries implementing a VAT have reduced income tax on lower income-earners as well as instituted direct transfer payments to lower-income groups, resulting in lowering tax burdens on the poor.<ref>Chia-Tern Huey Min (October 2004) [https://web.archive.org/web/20071129192831/http://adb.org/Documents/Events/2004/Fourteenth-Tax-Conference/text-chia.pdf GST in Singapore: Policy Rationale, Implementation Strategy & Technical Design], Singapore Ministry of Finance.</ref>
+
+Revenues from a value-added tax are frequently lower than expected because they are difficult and costly to administer and collect.{{Citation needed|date=November 2017}} In many countries, however, where collection of personal income taxes and corporate profit taxes has been historically weak, VAT collection has been more successful than other types of taxes. VAT has become more important in many jurisdictions as tariff levels have fallen worldwide due to trade liberalization, as VAT has essentially replaced lost tariff revenues. Whether the costs and distortions of value-added taxes are lower than the economic inefficiencies and enforcement issues (e.g. smuggling) from high import tariffs is debated, but theory suggests value-added taxes are far more efficient.{{citation needed|date=September 2017}}
+
+Certain industries (small-scale services, for example) tend to have more VAT [[Tax avoidance|avoidance]], particularly where cash transactions predominate, and VAT may be criticized for encouraging this.{{Citation needed|date=November 2017}} From the perspective of government, however, VAT may be preferable because it captures at least some of the value added. For example, a building contractor may offer to provide services ''for cash'' (i.e. without a receipt, and without VAT) to a homeowner, who usually cannot claim input VAT back. The homeowner will thus bear lower costs and the building contractor may be able to avoid other taxes (profit or payroll taxes).{{citation needed|date=May 2018}}
+
+Another avenue of criticism of implementing a VAT is that the increased tax passed to the consumer will increase the ultimate price paid by the consumer.  However, a study in Canada reveals that in fact when replacing a traditional sales tax with a VAT consumer prices including taxes actually fell, by –0.3%±0.49%.<ref>{{cite journal|author1=Smart, Michael  |author2=Bird, Richard M.  |name-list-style=amp |title=The Economic Incidence of Replacing a Retail Sales Tax with a Value-Added Tax: Evidence from Canadian Experience |url=http://homes.chass.utoronto.ca/~msmart/wp/BirdSmartMar3.pdf|journal= Canadian Public Policy |volume=35|issue= 1 |year= 2009|pages= 85–97 |doi=10.1353/cpp.0.0007}}</ref>
+
+===Fraud risk of criticism===
+VAT overclaim is a risk for the state due to [[Missing trader fraud|carousel fraud]].
+
+===Cashflow impacts===
+Multiple VAT charges over the supply chain give rise to cashflow problems due to refund delays from the tax administration.<ref name="PWC"/>
+
+===Compliance===
+In many European jurisdictions the customer, seller and also the marketplace (as EU Directive) are responsible for the VAT number verification of the parties involved inside the transactions.
+In case of failure: 
+→ the B2B national customer should pay back the VAT refund
+→ in case of seller should pay a penalty and pay the VAT to the correct tax authority and request a refund to the wrong one and identify the correct rate for every EU state (OSS VAT from 2021)
+→ the marketplace is liable for every seller on the platform for unpaid VAT and must pay it to every EU state from 2021 <ref>{{Cite web|url=https://ec.europa.eu/taxation_customs/business/vat/modernising-vat-cross-border-ecommerce_en|title=Modernising VAT for cross-border e-commerce|date=13 September 2016|website=Taxation and Customs Union - European Commission}}</ref>
+
+===Trade criticism===
+[[File:Counties_with_VAT_tax.jpeg|upright=1.8|thumb|right|National VAT act as a tariff on imports and their exports are exempt from VAT ([[Zero-rated supply|zero-rated]]).<ref name="economyincrisis.org">http://economyincrisis.org/content/now-is-the-time-to-reform-the-income-tax-with-a-vat</ref>]]
+
+Because exports are generally [[Zero-rated supply|zero-rated]] (and VAT refunded or offset against other taxes), this is often where VAT fraud occurs. In Europe, the main source of problems is called [[carousel fraud]]. {{Citation needed|date=December 2007}}
+
+This kind of fraud originated in the 1970s in the [[Benelux]] countries. Today, VAT fraud is a major problem in the UK.<ref>O'Grady, Sean (26 July 2007) "[https://web.archive.org/web/20081224045212/http://www.independent.co.uk/news/business/news/carousel-fraud-has-cost-uk-up-to-16316bn-458771.html Carousel fraud 'has cost UK up to £16bn']", ''The Independent''.</ref> There are also similar fraud possibilities inside a country. To avoid this, in some countries like Sweden, the major owner of a limited company is personally responsible for taxes.<ref name="economyincrisis.org"/>
+
+Under a sales tax system, only businesses selling to the end-user are required to collect tax and bear the accounting cost of collecting the tax. Under VAT, manufacturers and wholesale companies also incur accounting expenses to handle the additional paperwork required for collecting VAT, increasing overhead costs and prices.{{citation needed|date=May 2018}}
+
+Many politicians and economists in the United States consider value-added taxation on US goods and VAT rebates for goods from other countries to be unfair practice. For example, the [[American Manufacturing Trade Action Coalition]] claims that any rebates or special taxes on imported goods should not be allowed by the rules of the World Trade Organisation. AMTAC claims that so-called "border tax disadvantage" is the greatest contributing factor to the $5.8 trillion US [[current account deficit]] for the decade of the 2000s, and estimated this disadvantage to US producers and service providers to be $518 billion in 2008 alone.{{citation needed|date=May 2018}} Some US politicians, such as congressman [[Bill Pascrell]], are advocating either changing WTO rules relating to VAT or rebating VAT charged on US exporters by passing the [[Border Tax Equity Act]].<ref>{{cite web | url=http://www.amtacdc.org/Pages/Policy-Issues.aspx#VAT |title=Border Adjusted Taxation / Value Added Tax (VAT) |publisher=Amtacdc.org |accessdate=30 April 2012}}</ref>  A business tax rebate for exports is also proposed in the 2016 [[Republican Party (United States)|GOP]] policy paper for tax reform.<ref name="Marc A. Thiessen">{{cite news| last=Thiessen |first=Marc A. | title=Yes, Trump can make Mexico pay for the border wall. Here's how. |url=https://www.washingtonpost.com/opinions/yes-trump-can-make-mexico-pay-for-the-border-wall-heres-how/2017/01/17/7edf7872-dcbf-11e6-ad42-f3375f271c9c_story.html  |accessdate=17 January 2017 |work=The Washington Post |date=17 January 2017}}</ref><ref name="GOP Tax Reform 2016">{{cite web | url=https://abetterway.speaker.gov/_assets/pdf/ABetterWay-Tax-PolicyPaper.pdf |title=A Better Way— Our Vision for a Confident America |publisher=[[Republican Party (United States)|Republican Party]] |date=24 June 2016 |accessdate=17 January 2017}}</ref>  The assertion that this "border adjustment" would be compatible with the rules of the WTO is controversial; it was alleged that the proposed tax would favour domestically produced goods as they would be taxed less than imports, to a degree varying across sectors. For example, the wage component of the cost of domestically produced goods would not be taxed.<ref>{{cite news|last1=Freund|first1=Caroline|authorlink1=Caroline Freund|title=Trump Is Right: 'Border Adjustment' Tax Is Complicated| url=https://www.bloomberg.com/view/articles/2017-01-18/trump-is-right-border-adjustment-tax-is-complicated|accessdate=19 January 2017|work=BloombergView|publisher=Bloomberg LP|date=18 January 2017}}</ref>
+
+==See also==
+* [[Excise]]
+* [[Flat tax]]
+* [[Gross receipts tax]]
+* [[Income tax]]
+* [[Indirect tax]]
+* [[Land value tax]]
+* [[Missing Trader Fraud]] (Carousel VAT Fraud)
+* [[Progressive tax]]
+* [[Single tax]]
+* [[Turnover tax]]
+* [[Value-added tax in the United Kingdom]]
+* [[X tax]]
+
+'''General:'''
+* [[Tax rates around the world|List of tax rates around the world]]
+
+== References ==
+=== Citations ===
+{{Reflist|30em}}
+
+{{More footnotes|date=April 2009}}
+
+=== Sources ===
+{{refbegin}}
+* {{cite web
+  | title = Lög nr. 50/1988 um virðisaukaskatt
+  | year = 1988
+  | url = http://www.rsk.is/skattalagasafn/virdisaukaskattur/log/log_0501988.htm
+  | accessdate = 5 September 2007 |archiveurl = https://web.archive.org/web/20071009093025/http://rsk.is/skattalagasafn/virdisaukaskattur/log/log_0501988.htm <!-- Bot retrieved archive --> |archivedate = 9 October 2007 |language = is }}
+* Ahmed, Ehtisham and Nicholas Stern. 1991. The Theory and Practice of Tax Reform in Developing Countries (Cambridge University Press).
+* Bird, Richard M. and P.-P. Gendron .1998. "Dual VATs and Cross-border Trade: Two Problems, One Solution?" International Tax and Public Finance, 5: 429–42.
+* Bird, Richard M. and P.-P. Gendron .2000. "CVAT, VIVAT and Dual VAT; Vertical ‘Sharing’ and Interstate Trade," International Tax and Public Finance, 7: 753–61.
+* Smart, M., & Bird, R. M. (2009). [http://homes.chass.utoronto.ca/~msmart/wp/impact-on-investment-ntj-rev1.pdf The impact on investment of replacing a retail sales tax with a value-added tax: Evidence from Canadian experience]. ''National Tax Journal'', 591-609.
+* Keen, Michael and S. Smith .2000. "Viva VIVAT!" International Tax and Public Finance, 7: 741–51.
+* Keen, Michael and S. Smith .1996. "The Future of Value-added Tax in the European Union," Economic Policy, 23: 375–411.
+* McLure, Charles E. (1993) "The Brazilian Tax Assignment Problem: Ends, Means, and Constraints," in A Reforma Fiscal no Brasil (São Paulo: Fundaçäo Instituto de Pesquisas Econômicas).
+* McLure, Charles E. 2000. "Implementing Subnational VATs on Internal Trade: The Compensating VAT (CVAT)," International Tax and Public Finance, 7: 723–40.
+* Muller, Nichole. 2007. Indisches Recht mit Schwerpunkt auf gewerblichem Rechtsschutz im Rahmen eines Projektgeschäfts in Indien, ''IBL Review'', VOL. 12, Institute of International Business and law, Germany. [https://web.archive.org/web/20071026170512/http://www.law-and-business.de/www_law-and-business_de/content/e153/e971/e972/datei973/N.Mller,IndischesRecht_IBLVol.12_ger.pdf Law-and-business.de]
+* Muller, Nichole. 2007. Indian law with emphasis on commercial legal insurance within the scope of a project business in India. ''IBL Review'', VOL. 12, Institute of International Business and law, Germany.
+* MOMS, Politikens Nudansk Leksikon 2002, {{ISBN|87-604-1578-9}}.
+* OECD. 2008. ''Consumption Tax Trends 2008: VAT/GST and Excise Rates, Trends and Administration Issues''. Paris: OECD.
+* Serra, J. and J. Afonso. 1999. "Fiscal Federalism Brazilian Style: Some Reflections," Paper presented to Forum of Federations, Mont Tremblant, Canada, October 1999.
+* Sharma, Chanchal Kumar 2005. Implementing VAT in India: Implications for Federal Polity. Indian Journal of Political Science, LXVI (4): 915–934. {{ISSN|0019-5510}} [https://ssrn.com/abstract=945952 SSRN.com]
+* Shome, Parthasarathi and [[Paul Bernd Spahn]] (1996) "Brazil: Fiscal Federalism and Value Added Tax Reform," Working Paper No. 11, National Institute of Public Finance and Policy, New Delhi
+* Silvani, Carlos and Paulo dos Santos (1996) "Administrative Aspects of Brazil's Consumption Tax Reform," International VAT Monitor, 7: 123–32.
+* Tait, Alan A. (1988) Value Added Tax: International Practice and Problems (Washington: International Monetary Fund).
+{{refend}}
+* Saudi Arabia Increases Value Added Tax (VAT) will be increase to 15% from 5% as of July 2020. [https://arabexpatriates.com/saudi-arabia-increases-vat-and-other-financial-measures/]
+
+==External links==
+{{wiktionary|value added tax}}
+{{Authority control}}
+
+{{DEFAULTSORT:Value Added Tax}}
+[[Category:Value added taxes| ]]
+[[Category:Tax terms]]

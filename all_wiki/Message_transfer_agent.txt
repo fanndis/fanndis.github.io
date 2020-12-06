@@ -1,0 +1,38 @@
+{{Use dmy dates|date=September 2013}}
+Within the Internet [[email]] system, a '''message transfer agent'''<ref>MTA=Message Transfer Agent (similar to X.400 name) is found, e.g., in RFC 1506, RFC 2476, RFC 3461, RFC 3464, RFC 3865, RFC 3888, RFC 6409, RFC 5598.</ref> or '''mail transfer agent'''<ref>MTA=Mail Transfer Agent (similar to Mail Transfer Protocol) is found, e.g., in RFC 2298, RFC 2305, RFC 3804, RFC 3798, RFC 4496, RFC 5442, RFC 5429.</ref> ('''MTA''') or '''mail relay''' is [[software]] that transfers [[electronic mail]] messages from one computer to another using [[Simple Mail Transfer Protocol|SMTP]].<ref>
+RFC 5598, ''Internet Mail Architecture'', D. Crocker (July 2009).
+</ref> The terms '''mail server''', '''mail exchanger''', and '''MX host'''  are also used in some contexts.
+
+Messages exchanged across networks are passed between mail servers, including any attached data files (such as images, multimedia or documents). These servers also often keep mailboxes for email. Access to this email by end users is typically either via webmail or an [[email client]]. 
+
+==Operation==
+A message transfer agent receives mail from either another MTA, a [[mail submission agent]] (MSA), or a [[mail user agent]] (MUA). The transmission details are specified by the [[Simple Mail Transfer Protocol]] (SMTP). When a recipient mailbox of a message is not hosted locally, the message is relayed, that is, forwarded to another MTA. Every time an MTA receives an email message, it adds a <tt>Received</tt> trace header field to the top of the header of the message,<ref>See [[Email#Message header]] for the format of an email message. Many MUAs allow users to see the raw ''message source'' directly, thereby allowing header inspection.</ref> thereby building a sequential record of MTAs handling the message. The process of choosing a target MTA for the next hop is also described in SMTP, but can usually be overridden by configuring the MTA software with specific routes.
+
+[[File:E-mail.svg]]
+
+An MTA works in the background, while the user usually interacts directly with a mail user agent. One may distinguish initial submission as first passing through an MSA—port 587 is used for communication between an MUA and an MSA, while port 25 is used for communication between MTAs, or from an MSA to an MTA;<ref>See table at [[Email client#Port numbers]]</ref> this distinction is first made in RFC 2476.
+
+For recipients hosted locally, the final delivery of email to a recipient mailbox is the task of a [[message delivery agent]] (MDA). For this purpose the MTA transfers the message to the message handling service component of the message delivery agent (MDA). Upon final delivery, the <tt>Return-Path</tt> field is added to the envelope to record the [[return path]].
+
+==Transfer versus access==
+A relay or filtering server will typically store email only briefly, but other systems keep full [[Email box|mailboxes]] for email - in which case they usually support some means for end users to access their email via a Mail User Agent (MUA), or [[email client]].
+
+Common protocols for this are:
+* [[Post Office Protocol]] (POP3)
+* [[Internet Message Access Protocol]] (IMAP)
+* Proprietary systems, such as Microsoft's [[MAPI]]
+
+Submission of new email from a mail client is via SMTP, typically on port 587 or 465, and is now generally restricted to servers the user has an account with-such as their [[ISP]]. This is for policy, not technical, reasons so that providers have some means of holding their users accountable for the generation of [[Spam (electronic)|spam]] and other forms of email abuse.<ref>{{cite web |author=Bill Cole |title=What are the IPs that sends mail for a domain? |url=http://www.ietf.org/mail-archive/web/asrg/current/msg15593.html |date=29 June 2009 |work=[[Anti-Spam Research Group|ASRG]] mailing list |accessdate=15 September 2009}}</ref>
+
+== See also ==
+*'''[[List of mail server software]]'''
+* [[Relay (disambiguation)]]
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Message Transfer Agent}}
+[[Category:Internet mail protocols]]
+[[Category:Email agents]]
+[[Category:Message transfer agents| ]]

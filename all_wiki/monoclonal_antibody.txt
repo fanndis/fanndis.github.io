@@ -1,0 +1,322 @@
+{{short description|Monospecific antibody that is made by identical immune cells that are all clones of a unique parent cell}}
+[[Image:Monoclonals.png|300px|thumb|right|A general representation of the method used to produce monoclonal antibodies.<ref>{{Cite web |url=https://home.ccr.cancer.gov/metabolism/hvgccr.htm|title=Cytochrome P450 Mediated Drug and Carcinogen Metabolism using Monoclonal Antibodies |website=home.ccr.cancer.gov |access-date=2018-04-02}}</ref><ref>{{cite journal | vauthors = Gelboin HV, Krausz KW, Gonzalez FJ, Yang TJ | title = Inhibitory monoclonal antibodies to human cytochrome P450 enzymes: a new avenue for drug discovery | journal = Trends in Pharmacological Sciences | volume = 20 | issue = 11 | pages = 432–8 | date = November 1999 | pmid = 10542439 | doi = 10.1016/S0165-6147(99)01382-6 | url = http://www.cell.com/trends/pharmacological-sciences/comments/S0165-6147(99)01382-6 }}</ref>]]
+
+A '''monoclonal antibody''' ('''mAb''' or '''moAb''') is an [[antibody]] made by [[cloning]] a unique [[white blood cell]].  All subsequent antibodies derived this way trace back to a unique parent cell. 
+
+[[Monoclonal]] antibodies can have [[monovalent antibody|monovalent]] affinity, binding only to the same [[epitope]] (the part of an [[antigen]] that is recognized by the antibody). In contrast, [[polyclonal antibodies]] bind to multiple epitopes and are usually made by several different antibody secreting [[plasma cell]] lineages. [[Bispecific monoclonal antibodies]] can also be engineered, by increasing the therapeutic targets of one single monoclonal antibody to two epitopes.
+
+It is possible to produce monoclonal antibodies that specifically bind to virtually any suitable substance; they can then serve to detect or purify it. This capability has become an important tool in [[biochemistry]], [[molecular biology]], and [[medicine]]. 
+{{toclimit|3}}
+
+== History ==
+The role monoclonal antibodies have come to assume was first postulated by early 20th century [[immunologist]] [[Paul Ehrlich]], who proposed the idea of a medical ''Zauberkugel'', a "[[Magic bullet (medicine)|magic bullet]]". This would be a compound that could be made to selectively target a disease-causing organism, which would allow a toxin for that organism to be delivered along with it. He and [[Élie Metchnikoff]] received the 1908 [[Nobel Prize for Physiology or Medicine]] for this work.
+
+In the 1970s, the B-cell cancer [[multiple myeloma]] was known. It was understood that these cancerous B-cells all produce a single type of antibody (a [[paraprotein]]). This was used to study the structure of antibodies, but it was not yet possible to produce identical antibodies specific to a given [[antigen]].<ref>{{cite journal | vauthors = Tansey EM, Catterall PP | title = Monoclonal antibodies: a witness seminar in contemporary medical history | journal = Medical History | volume = 38 | issue = 3 | pages = 322–7 | date = July 1994 | pmid = 7934322 | pmc = 1036884 | doi = 10.1017/s0025727300036632 }}</ref>{{rp|324}}
+
+Production of monoclonal antibodies involving human–mouse hybrid cells was first described by [[Jerrold Schwaber]] in 1973.<ref>{{cite journal | vauthors = Schwaber J, Cohen EP | title = Human x mouse somatic cell hybrid clone secreting immunoglobulins of both parental types | journal = Nature | volume = 244 | issue = 5416 | pages = 444–7 | date = August 1973 | pmid = 4200460 | doi = 10.1038/244444a0 | s2cid = 4171375 }}</ref>  This work remains widely cited among those using human-derived [[hybridomas]].<ref>{{cite journal | vauthors = Cambrosio A, Keating P | title = Between fact and technique: the beginnings of hybridoma technology | journal = Journal of the History of Biology | volume = 25 | issue = 2 | pages = 175–230 | year = 1992 | pmid = 11623041 | doi = 10.1007/BF00162840 | s2cid = 45615711 }}</ref>
+
+In 1975, [[Georges J. F. Köhler|Georges Köhler]] and [[César Milstein]] succeeded in making fusions of myeloma cell lines with [[B cells]] to create [[hybridomas]] that could produce antibodies, specific to known antigens and that were immortalized.<ref name="Marks">{{cite web |last1=Marks |first1=LV |title=The Story of César Milstein and Monoclonal Antibodies |url=https://www.whatisbiotechnology.org/index.php/exhibitions/milstein/monoclonals |website=WhatisBiotechnology.org |access-date=23 September 2020 }}</ref> They and [[Niels Kaj Jerne]] shared the [[Nobel Prize in Physiology or Medicine]] in 1984 for the discovery.<ref name=Marks/>
+
+In 1988, [[Greg Winter]] and his team pioneered the techniques to [[Humanized antibody|humanize]] monoclonal antibodies,<ref>{{cite journal | vauthors = Riechmann L, Clark M, Waldmann H, Winter G | title = Reshaping human antibodies for therapy | journal = Nature | volume = 332 | issue = 6162 | pages = 323–7 | date = March 1988 | pmid = 3127726 | doi = 10.1038/332323a0 | bibcode = 1988Natur.332..323R | s2cid = 4335569 }}</ref> eliminating the reactions that many monoclonal antibodies caused in some patients.
+
+In 2018, [[James P. Allison]] and [[Tasuku Honjo]] received the Nobel Prize in Physiology or Medicine for their discovery of cancer therapy by inhibition of negative immune regulation, using monoclonal antibodies that prevent inhibitory linkages.<ref>{{cite journal | vauthors = Altmann DM | title = A Nobel Prize-worthy pursuit: cancer immunology and harnessing immunity to tumour neoantigens | journal = Immunology | volume = 155 | issue = 3 | pages = 283–284 | date = November 2018 | pmid = 30320408 | pmc = 6187215 | doi = 10.1111/imm.13008 }}</ref>
+
+==Production==
+[[Image:monoclonal antibodies3.jpg|upright=0.9|thumb|right|Researchers looking at slides of cultures of cells that make monoclonal antibodies. These are grown in a lab and the researchers are analyzing the products to select the most promising of them.]]
+[[Image:monoclonal antibodies4.jpg|upright=0.9|thumb|right|Monoclonal antibodies can be grown in unlimited quantities in the bottles shown in this picture.]]
+[[Image:monoclonal antibodies1.jpg|upright=0.9|thumb|right|[[Technician]] hand-filling wells with a liquid for a research test. This test involves preparation of cultures in which hybrids are grown in large quantities to produce desired antibody. This is effected by fusing [[Multiple myeloma|myeloma]] cell and [[mus musculus|mouse]] [[lymphocyte]] to form a hybrid cell ([[hybridoma]]).]]
+[[Image:monoclonal antibodies2.jpg|upright=0.9|thumb|right|Lab technician bathing prepared slides in a solution. This technician prepares slides of monoclonal antibodies for researchers. The cells shown are labeling human [[breast cancer]].]]
+
+===Hybridoma development===
+{{further|Hybridoma technology}}
+
+Much of the work behind production of monoclonal antibodies is rooted in the production of hybridomas, which involves identifying antigen-specific plasma/plasmablast cells (ASPCs) that produce antibodies specific to an antigen of interest and [[Cell fusion|fusing]] these cells with [[Multiple myeloma|myeloma]] cells.<ref name="Marks"/> Rabbit B-cells can be used to form a [[Rabbit Hybridoma|rabbit hybridoma]]. [[Polyethylene glycol]] is used to fuse adjacent plasma membranes,<ref>Yang J1, Shen MH. Polyethylene glycol-mediated cell fusion. Methods Mol Biol. 2006; 325:59-66.</ref> but the success rate is low, so a selective medium in which only fused cells can grow is used. This is possible because myeloma cells have lost the ability to synthesize '''[[Hypoxanthine-guanine phosphoribosyltransferase|hypoxanthine-guanine-phosphoribosyl transferase]] (HGPRT)''', an enzyme necessary for the [[salvage pathway|salvage synthesis]] of nucleic acids. The absence of HGPRT is not a problem for these cells unless the [[de novo synthesis|de novo purine synthesis]] pathway is also disrupted. Exposing cells to [[aminopterin]] (a [[folic acid]] analogue, which inhibits [[dihydrofolate reductase]], DHFR), makes them unable to use the de novo pathway and become fully [[auxotrophic]] for [[nucleic acids]], thus requiring supplementation to survive.
+
+The selective culture medium is called [[HAT medium]] because it contains [[hypoxanthine]], aminopterin and [[thymidine]]. This medium is selective for fused ([[hybridoma]]) cells. Unfused myeloma cells cannot grow because they lack HGPRT and thus cannot replicate their DNA. Unfused spleen cells cannot grow indefinitely because of their limited life span. Only fused hybrid cells referred to as hybridomas, are able to grow indefinitely in the medium because the spleen cell partner supplies HGPRT and the myeloma partner has traits that make it immortal (similar to a cancer cell).
+
+This mixture of cells is then diluted and clones are grown from single parent cells on microtitre wells. The antibodies secreted by the different clones are then assayed for their ability to bind to the antigen (with a test such as [[ELISA]] or Antigen Microarray Assay) or immuno-[[dot blot]]. The most productive and stable clone is then selected for future use.
+
+The hybridomas can be grown indefinitely in a suitable cell culture medium. They can also be injected into mice (in the [[peritoneum|peritoneal cavity]], surrounding the gut). There, they produce tumors secreting an antibody-rich fluid called [[ascites]] fluid.
+
+The medium must be enriched during ''in vitro'' selection to further favour hybridoma growth. This can be achieved by the use of a layer of feeder fibrocyte cells or supplement medium such as briclone. Culture-media conditioned by macrophages can be used. Production in cell culture is usually preferred as the ascites technique is painful to the animal. Where alternate techniques exist, ascites is considered [[ethics|unethical]].<ref>National Research Council (US) Committee on Methods of Producing Monoclonal Antibodies. [https://www.ncbi.nlm.nih.gov/books/NBK100191/ Recommendation 1: Executive Summary]: Monoclonal Antibody Production.  Washington (DC): National Academies Press (US); 1999. {{ISBN|978-0-309-07511-4}}</ref>
+
+=== Novel mAb development technology ===
+Several monoclonal antibody technologies have been developed recently,<ref name="Ho_2018">{{cite journal | vauthors = Ho M | title = Inaugural Editorial: Searching for Magic Bullets | journal = Antibody Therapeutics | volume = 1 | issue = 1 | pages = 1–5 | date = June 2018 | pmid = 30101214 | pmc = 6086361 | doi = 10.1093/abt/tby001 }}</ref> such as [[phage display]],<ref name=":1">{{cite journal | vauthors = Ho M, Feng M, Fisher RJ, Rader C, Pastan I | title = A novel high-affinity human monoclonal antibody to mesothelin | journal = International Journal of Cancer | volume = 128 | issue = 9 | pages = 2020–30 | date = May 2011 | pmid = 20635390 | pmc = 2978266 | doi = 10.1002/ijc.25557 }}</ref> single B cell culture,<ref>{{cite journal | vauthors = Seeber S, Ros F, Thorey I, Tiefenthaler G, Kaluza K, Lifke V, Fischer JA, Klostermann S, Endl J, Kopetzki E, Pashine A, Siewe B, Kaluza B, Platzer J, Offner S | display-authors = 6 | title = A robust high throughput platform to generate functional recombinant monoclonal antibodies using rabbit B cells from peripheral blood | journal = PLOS ONE | volume = 9 | issue = 2 | pages = e86184 | year = 2014 | pmid = 24503933 | pmc = 3913575 | doi = 10.1371/journal.pone.0086184 | bibcode = 2014PLoSO...986184S }}</ref> single cell amplification from various B cell populations<ref>{{cite journal | vauthors = Wardemann H, Yurasov S, Schaefer A, Young JW, Meffre E, Nussenzweig MC | title = Predominant autoantibody production by early human B cell precursors | journal = Science | volume = 301 | issue = 5638 | pages = 1374–7 | date = September 2003 | pmid = 12920303 | doi = 10.1126/science.1086907 | bibcode = 2003Sci...301.1374W | s2cid = 43459065 }}</ref><ref>{{cite journal | vauthors = Koelsch K, Zheng NY, Zhang Q, Duty A, Helms C, Mathias MD, Jared M, Smith K, Capra JD, Wilson PC | display-authors = 6 | title = Mature B cells class switched to IgD are autoreactive in healthy individuals | journal = The Journal of Clinical Investigation | volume = 117 | issue = 6 | pages = 1558–65 | date = June 2007 | pmid = 17510706 | pmc = 1866247 | doi = 10.1172/JCI27628 }}</ref><ref>{{cite journal | vauthors = Smith K, Garman L, Wrammert J, Zheng NY, Capra JD, Ahmed R, Wilson PC | title = Rapid generation of fully human monoclonal antibodies specific to a vaccinating antigen | journal = Nature Protocols | volume = 4 | issue = 3 | pages = 372–84 | date = 2009-01-01 | pmid = 19247287 | pmc = 2750034 | doi = 10.1038/nprot.2009.3 }}</ref><ref>{{cite journal | vauthors = Duty JA, Szodoray P, Zheng NY, Koelsch KA, Zhang Q, Swiatkowski M, Mathias M, Garman L, Helms C, Nakken B, Smith K, Farris AD, Wilson PC | display-authors = 6 | title = Functional anergy in a subpopulation of naive B cells from healthy humans that express autoreactive immunoglobulin receptors | journal = The Journal of Experimental Medicine | volume = 206 | issue = 1 | pages = 139–51 | date = January 2009 | pmid = 19103878 | pmc = 2626668 | doi = 10.1084/jem.20080611 }}</ref><ref>{{cite journal | vauthors = Huang J, Doria-Rose NA, Longo NS, Laub L, Lin CL, Turk E, Kang BH, Migueles SA, Bailer RT, Mascola JR, Connors M | display-authors = 6 | title = Isolation of human monoclonal antibodies from peripheral blood B cells | journal = Nature Protocols | volume = 8 | issue = 10 | pages = 1907–15 | date = October 2013 | pmid = 24030440 | pmc = 4844175 | doi = 10.1038/nprot.2013.117 }}</ref> and single plasma cell interrogation technologies. Different from traditional hybridoma technology, the newer technologies use molecular biology techniques to amplify the heavy and light chains of the antibody genes by PCR and produce in either bacterial or mammalian systems with [[Recombinant DNA|recombinant]] technology. One of the advantages of the new technologies is applicable to multiple animals, such as rabbit, llama, chicken and other common experimental animals in the laboratory.
+
+===Purification===
+After obtaining either a media sample of cultured hybridomas or a sample of ascites fluid, the desired antibodies must be extracted. Cell culture sample contaminants consist primarily of media components such as growth factors, [[hormone]]s and [[transferrin]]s. In contrast, the ''in vivo'' sample is likely to have host antibodies, [[protease]]s, [[nuclease]]s, nucleic acids and [[virus]]es. In both cases, other secretions by the hybridomas such as [[cytokine]]s may be present. There may also be bacterial contamination and, as a result, [[Lipopolysaccharide|endotoxins]] that are secreted by the bacteria. Depending on the complexity of the media required in cell culture and thus the contaminants, one or the other method (''in vivo'' or ''in vitro'') may be preferable.
+
+The sample is first conditioned, or prepared for purification. Cells, cell debris, lipids, and clotted material are first removed, typically by centrifugation followed by [[filtration]] with a 0.45&nbsp;µm filter. These large particles can cause a phenomenon called [[membrane fouling]] in later purification steps. In addition, the concentration of product in the sample may not be sufficient, especially in cases where the desired antibody is produced by a low-secreting cell line. The sample is therefore concentrated by [[ultrafiltration]] or [[Dialysis (biochemistry)|dialysis]].
+
+Most of the charged impurities are usually [[anions]] such as nucleic acids and endotoxins. These can be separated by [[ion exchange chromatography]].<ref>{{cite journal | vauthors = Vlasak J, Ionescu R | title = Heterogeneity of monoclonal antibodies revealed by charge-sensitive methods | journal = Current Pharmaceutical Biotechnology | volume = 9 | issue = 6 | pages = 468–81 | date = December 2008 | pmid = 19075686 | doi = 10.2174/138920108786786402 }}</ref> Either [[Ion|cation]] exchange [[chromatography]] is used at a low enough [[pH]] that the desired antibody binds to the column while anions flow through, or [[anion exchange chromatography]] is used at a high enough pH that the desired antibody flows through the column while anions bind to it. Various proteins can also be separated along with the anions based on their [[isoelectric point]] (pI). In proteins, the isoelectric point (pI) is defined as the pH at which a protein has no net charge. When the pH > pI, a protein has a net negative charge, and when the pH < pI, a protein has a net positive charge. For example, [[albumin]] has a pI of 4.8, which is significantly lower than that of most monoclonal antibodies, which have a pI of 6.1. Thus, at a pH between 4.8 and 6.1, the average charge of albumin molecules is likely to be more negative, while mAbs molecules are positively charged and hence it is possible to separate them. Transferrin, on the other hand, has a pI of 5.9, so it cannot be easily separated by this method. A difference in pI of at least 1 is necessary for a good separation.
+
+Transferrin can instead be removed by [[size exclusion chromatography]]. This method is one of the more reliable chromatography techniques. Since we are dealing with proteins, properties such as charge and affinity are not consistent and vary with pH as molecules are protonated and deprotonated, while size stays relatively constant. Nonetheless, it has drawbacks such as low resolution, low capacity and low [[elution]] times.
+
+A much quicker, single-step method of separation is [[protein A/G]] [[affinity chromatography]]. The antibody selectively binds to protein A/G, so a high level of purity (generally >80%) is obtained. However, this method may be problematic for antibodies that are easily damaged, as harsh conditions are generally used. A low pH can break the bonds to remove the antibody from the column. In addition to possibly affecting the product, low pH can cause protein A/G itself to leak off the column and appear in the eluted sample. Gentle elution buffer systems that employ high salt concentrations are available to avoid exposing sensitive antibodies to low pH. Cost is also an important consideration with this method because immobilized protein A/G is a more expensive resin.
+
+To achieve maximum purity in a single step, affinity purification can be performed, using the antigen to provide specificity for the antibody. In this method, the antigen used to generate the antibody is covalently attached to an [[agarose]] support. If the antigen is a [[peptide]], it is commonly synthesized with a terminal [[cysteine]], which allows selective attachment to a carrier protein, such as [[keyhole limpet hemocyanin|KLH]] during development and to support purification. The antibody-containing medium is then incubated with the immobilized antigen, either in batch or as the antibody is passed through a column, where it selectively binds and can be retained while impurities are washed away. An elution with a low pH buffer or a more gentle, high salt elution buffer is then used to recover purified antibody from the support.
+
+===Antibody heterogeneity===
+Product heterogeneity is common in monoclonal antibodies and other recombinant biological products and is typically introduced either upstream during expression or downstream during manufacturing. {{citation needed|date=December 2014}}
+
+These variants are typically aggregates, [[deamidation]] products, [[glycosylation]] variants, oxidized amino acid side chains, as well as amino and carboxyl terminal amino acid additions.<ref>{{cite journal | vauthors = Beck A, Wurch T, Bailly C, Corvaia N | title = Strategies and challenges for the next generation of therapeutic antibodies | journal = Nature Reviews. Immunology | volume = 10 | issue = 5 | pages = 345–52 | date = May 2010 | pmid = 20414207 | doi = 10.1038/nri2747 | s2cid = 29689097 }}</ref> These seemingly minute structural changes can affect preclinical stability and process optimization as well as therapeutic product potency, [[bioavailability]] and [[immunogenicity]]. The generally accepted purification method of process streams for monoclonal antibodies includes capture of the product target with [[protein A]], elution, acidification to inactivate potential mammalian viruses, followed by [[ion chromatography]], first with [[Anion-exchange chromatography|anion beads]] and then with cation beads.{{citation needed|date=December 2014}}
+
+[[Displacement chromatography]] has been used to identify and characterize these often unseen variants in quantities that are suitable for subsequent preclinical evaluation regimens such as animal [[pharmacokinetic]] studies.<ref>{{cite journal | vauthors = Khawli LA, Goswami S, Hutchinson R, Kwong ZW, Yang J, Wang X, Yao Z, Sreedhara A, Cano T, Tesar D, Nijem I, Allison DE, Wong PY, Kao YH, Quan C, Joshi A, Harris RJ, Motchnik P | display-authors = 6 | title = Charge variants in IgG1: Isolation, characterization, in vitro binding properties and pharmacokinetics in rats | journal = mAbs | volume = 2 | issue = 6 | pages = 613–24 | year = 2010 | pmid = 20818176 | pmc = 3011216 | doi = 10.4161/mabs.2.6.13333 | url = http://www.landesbioscience.com/journals/mabs/abstract.php?id=13333 }}</ref><ref>{{cite journal | vauthors = Zhang T, Bourret J, Cano T | title = Isolation and characterization of therapeutic antibody charge variants using cation exchange displacement chromatography | journal = Journal of Chromatography A | volume = 1218 | issue = 31 | pages = 5079–86 | date = August 2011 | pmid = 21700290 | doi = 10.1016/j.chroma.2011.05.061 }}</ref> Knowledge gained during the preclinical development phase is critical for enhanced product quality understanding and provides a basis for risk management and increased regulatory flexibility. The recent Food and Drug Administration's [[Quality by Design]] initiative attempts to provide guidance on development and to facilitate design of products and processes that maximizes efficacy and safety profile while enhancing product manufacturability.<ref>{{cite journal | vauthors = Rathore AS, Winkle H | title = Quality by design for biopharmaceuticals | journal = Nature Biotechnology | volume = 27 | issue = 1 | pages = 26–34 | date = January 2009 | pmid = 19131992 | doi = 10.1038/nbt0109-26 | s2cid = 5523554 }}</ref>
+
+===Recombinant===
+The production of [[Recombinant DNA|recombinant]] monoclonal antibodies involves repertoire [[cloning]], [[CRISPR/Cas9-mediated genome editing|CRISPR/Cas9]], or [[phage display]]/[[yeast display]] technologies.<ref>{{cite journal | vauthors = van der Schoot JM, Fennemann FL, Valente M, Dolen Y, Hagemans IM, Becker AM, Le Gall CM, van Dalen D, Cevirgel A, van Bruggen JA, Engelfriet M, Caval T, Bentlage AE, Fransen MF, Nederend M, Leusen JH, Heck AJ, Vidarsson G, Figdor CG, Verdoes M, Scheeren FA | display-authors = 6 | title = Functional diversification of hybridoma-produced antibodies by CRISPR/HDR genomic engineering | journal = Science Advances | volume = 5 | issue = 8 | pages = eaaw1822 | date = August 2019 | pmid = 31489367 | pmc = 6713500 | doi = 10.1126/sciadv.aaw1822 }}</ref> Recombinant antibody engineering involves antibody production by the use of [[virus]]es or [[yeast]], rather than mice. These techniques rely on rapid cloning of immunoglobulin gene segments to create libraries of antibodies with slightly different [[amino acid]] sequences from which antibodies with desired specificities can be selected.<ref>{{cite journal | vauthors = Siegel DL | title = Recombinant monoclonal antibody technology | journal = Transfusion Clinique et Biologique | volume = 9 | issue = 1 | pages = 15–22 | date = January 2002 | pmid = 11889896 | doi = 10.1016/S1246-7820(01)00210-5 }}</ref> The phage antibody libraries are a variant of phage antigen libraries.<ref>{{cite web |title=Dr. George Pieczenik |date=17 September 2009 |work=LMB Alumni |publisher=MRC Laboratory of Molecular Biology (LMB) |url=http://www2.mrc-lmb.cam.ac.uk/component/content/article/40-archive/200-archive-service-alumni |access-date=17 November 2012 |archive-url=https://archive.today/20121223051501/http://www2.mrc-lmb.cam.ac.uk/component/content/article/40-archive/200-archive-service-alumni |archive-date=23 December 2012 |url-status=dead }}</ref> These techniques can be used to enhance the specificity with which antibodies recognize antigens, their stability in various environmental conditions, their therapeutic efficacy and their detectability in diagnostic applications.<ref>{{cite journal | vauthors = Schmitz U, Versmold A, Kaufmann P, Frank HG | title = Phage display: a molecular tool for the generation of antibodies--a review | journal = Placenta | volume = 21 Suppl A | issue = Suppl A | pages = S106-12 | year = 2000 | pmid = 10831134 | doi = 10.1053/plac.1999.0511 }}</ref> Fermentation chambers have been used for large scale antibody production.
+
+=== Chimeric antibodies ===
+{{Main|Chimeric antibodies}}
+
+While mouse and human antibodies are structurally similar the differences between them were sufficient to invoke an immune response when [[murine]] monoclonal antibodies were injected into humans, resulting in their rapid removal from the blood, as well as systemic inflammatory effects and the production of [[Human_anti-mouse_antibody|human anti-mouse antibodies]] (HAMA).
+
+Recombinant DNA has been explored since the late 1980s to increase residence times. In one approach, mouse DNA encoding the binding portion of a monoclonal antibody was merged with human antibody-producing DNA in living cells. The expression of this "[[Recombinant DNA|chimeric]]" or "humanised" DNA through [[cell culture]] yielded part-mouse, part-human antibodies.<ref name="Boulianne_1984">{{cite journal | vauthors = Boulianne GL, Hozumi N, Shulman MJ | title = Production of functional chimaeric mouse/human antibody | journal = Nature | volume = 312 | issue = 5995 | pages = 643–6 | date = 1984 | pmid = 6095115 | doi = 10.1038/312643a0 | s2cid = 4311503 }}</ref><ref>{{cite journal | vauthors = Chadd HE, Chamow SM | title = Therapeutic antibody expression technology | journal = Current Opinion in Biotechnology | volume = 12 | issue = 2 | pages = 188–94 | date = April 2001 | pmid = 11287236 | doi = 10.1016/S0958-1669(00)00198-1 }}</ref>
+
+=== Human antibodies ===
+[[File:Isolation of human monoclonal antibodies. .tif|thumb|Approaches have been developed to isolate human monoclonal antibodies<ref name="Ho_2018"/>]]
+
+Ever since the discovery that monoclonal antibodies could be generated, scientists have targeted the creation of ''fully'' human products to reduce the side effects of humanised or chimeric antibodies. Several successful approaches have been identified: [[Genetically modified mouse|transgenic mice]],<ref>{{cite journal | vauthors = Lonberg N, Huszar D | title = Human antibodies from transgenic mice | journal = International Reviews of Immunology | volume = 13 | issue = 1 | pages = 65–93 | year = 1995 | pmid = 7494109 | doi = 10.3109/08830189509061738 }}</ref> [[phage display]]<ref name=":1" /> and single B cell cloning:<ref name="Ho_2018" />
+
+As of November 2016, thirteen of the nineteen ''fully'' human monoclonal antibody therapeutics on the market were derived from transgenic mice technology.
+
+Adopting organizations who market transgenic technology include:
+*[[Medarex]] — which marketed the UltiMab platform. Medarex was acquired in July 2009 by [[Bristol Myers Squibb]]<ref>{{cite web|url=   https://www.bloomberg.com/apps/news?pid=newsarchive&sid=aZWoVAXYGSgA|title=  Bristol-Myers Buys Medarex Drugmaker for $2.4 Billion (Update3) }}</ref>
+*Abgenix — which marketed the Xenomouse technology. Abgenix was acquired in April 2006 by [[Amgen]].<ref>{{cite web|url=   http://wwwext.amgen.com/media/media_pr_detail.jsp?year=2006&releaseID=837754|title=  Amgen Completes Acquisition of Abgenix; Acquisition Provides Amgen with Full Ownership of Panitumumab and Eliminates a Denosumab Royalty}}</ref>
+*[[Regeneron Pharmaceuticals]] VelocImmune technology.<ref>{{cite web|url=http://www.regeneron.com/velocimmune.html |title=Archived copy |access-date=July 28, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090629204805/http://www.regeneron.com/velocimmune.html |archive-date=June 29, 2009 }}</ref>
+*Kymab - who market their Kymouse technology.<ref>{{cite web|url= http://www.kymab.com/kymouse_platform.php|title= Proprietary antibody platform|access-date= 2013-01-17|archive-url= https://web.archive.org/web/20130203024139/http://www.kymab.com/kymouse_platform.php|archive-date= 2013-02-03|url-status= dead}}</ref>  
+*Open Monoclonal Technology's OmniRat™ and OmniMouse™ platform.<ref>{{cite web|url= http://www.omtinc.net/p|title= Naturally optimized human antibodies}}</ref>
+*[https://trianni.com/ TRIANNI, Inc]. – who market their [[TRIANNI]] Mouse platform.<ref>{{cite web|url= http://www.trianni.com|title= Proprietary antibody platform}}</ref>
+*Ablexis, LLC - who market their AlivaMab Mouse platform.<ref>{{cite web|url= http://www.ablexis.com|title= Proprietary antibody platform}}</ref>
+
+[[Phage display]] can be used to express variable antibody domains on filamentous phage coat proteins ([[Phage major coat protein]]).<ref name="pmid2247164">{{cite journal | vauthors = McCafferty J, Griffiths AD, Winter G, Chiswell DJ | title = Phage antibodies: filamentous phage displaying antibody variable domains | journal = Nature | volume = 348 | issue = 6301 | pages = 552–4 | date = December 1990 | pmid = 2247164 | doi = 10.1038/348552a0 | bibcode = 1990Natur.348..552M | s2cid = 4258014 }}</ref><ref name = "Marks_1991">{{cite journal | vauthors = Marks JD, Hoogenboom HR, Bonnert TP, McCafferty J, Griffiths AD, Winter G | title = By-passing immunization. Human antibodies from V-gene libraries displayed on phage | journal = Journal of Molecular Biology | volume = 222 | issue = 3 | pages = 581–97 | date = December 1991 | pmid = 1748994 | doi = 10.1016/0022-2836(91)90498-U }}</ref><ref name = "Carmen_2002">{{cite journal | vauthors = Carmen S, Jermutus L | title = Concepts in antibody phage display | journal = Briefings in Functional Genomics & Proteomics | volume = 1 | issue = 2 | pages = 189–203 | date = July 2002 | pmid = 15239904 | doi = 10.1093/bfgp/1.2.189 | doi-access = free }}</ref> These phage display antibodies can be used for various research applications.<ref>{{cite book | vauthors = Osbourn JK | title = Antibody Phage Display | chapter = Proximity-guided (ProxiMol) antibody selection | series = Methods Mol. Biol. | volume = 178 | pages = 201–5 | year = 2002 | pmid = 11968489 | doi = 10.1385/1-59259-240-6:201 | isbn = 978-1-59259-240-1 }}</ref><ref>{{cite book| vauthors = Abeloff MD, Armitage JO, Niederhuber JE, Kastan MB, McKenna G |title=Abeloff's Clinical Oncology|edition=4th|year=2008|publisher=[[Elsevier]]|chapter=Therapeutic Antibodies and Immunologic Conjugates}}</ref> ProAb was announced in December 1997<ref>{{cite web|url= http://www.ukbusinesspark.co.uk/cay92125.htm|title= Cambridge Antibody Technology|url-status= dead|archive-url= https://web.archive.org/web/20110928045141/http://www.ukbusinesspark.co.uk/cay92125.htm|archive-date= 2011-09-28}}</ref> and involved high throughput screening of antibody libraries against diseased and non-diseased tissue, whilst Proximol used a free radical enzymatic reaction to label molecules in proximity to a given protein.<ref>{{cite journal | vauthors = Osbourn JK, Derbyshire EJ, Vaughan TJ, Field AW, Johnson KS | title = Pathfinder selection: in situ isolation of novel antibodies | journal = Immunotechnology | volume = 3 | issue = 4 | pages = 293–302 | date = January 1998 | pmid = 9530562 | doi = 10.1016/S1380-2933(97)10007-0 }}</ref><ref>{{cite web|url= http://www.chidb.com/newsarticles/issue3_1.ASP|title= The Current State of Proteomic Technology|access-date= 2009-07-28|archive-url= https://web.archive.org/web/20111008021447/http://www.chidb.com/newsarticles/issue3_1.ASP|archive-date= 2011-10-08|url-status= dead}}</ref>
+
+Monoclonal antibodies have been approved to treat [[cancer]], [[cardiovascular disease]], [[Inflammation#Inflammatory disorders|inflammatory diseases]], [[macular degeneration]], [[transplant rejection]], [[multiple sclerosis]] and [[infection|viral infection]].
+
+In August 2006, the [[Pharmaceutical Research and Manufacturers of America]] reported that U.S. companies had 160 different monoclonal antibodies in clinical trials or awaiting approval by the [[Food and Drug Administration]].<ref>''PhRMA Reports Identifies More than 400 Biotech Drugs in Development.'' Pharmaceutical Technology, August 24, 2006. Retrieved 2006-09-04.</ref>
+
+== Cost ==
+Monoclonal antibodies are more expensive to manufacture than small molecules due to the complex processes involved and the general size of the molecules, this is all in addition to the enormous research and development costs involved in bringing a new chemical entity to patients. They are priced to enable manufacturers to recoup the typically large investment costs, and where there are no price controls, such as the United States, prices can be higher if they provide great value.  Seven [[University of Pittsburgh]] researchers concluded, "The annual price of mAb therapies is about $100,000 higher in oncology and hematology than in other disease states," comparing them on a per patient basis, to those for cardiovascular or metabolic disorders, immunology, infectious diseases, allergy, and ophthalmology.<ref name="pmid29461857">{{cite journal | vauthors = Hernandez I, Bott SW, Patel AS, Wolf CG, Hospodar AR, Sampathkumar S, Shrank WH | title = Pricing of monoclonal antibody therapies: higher if used for cancer? | journal = The American Journal of Managed Care | volume = 24 | issue = 2 | pages = 109–112 | date = February 2018 | pmid = 29461857 }}</ref>
+
+== Applications ==
+
+===Diagnostic tests===
+
+Once monoclonal antibodies for a given substance have been produced, they can be used to detect the presence of this substance. Proteins can be detected using the [[Western blot]] and immuno [[dot blot]] tests. In [[immunohistochemistry]], monoclonal antibodies can be used to detect antigens in fixed tissue sections, and similarly, [[immunofluorescence]] can be used to detect a substance in either frozen tissue section or live cells.
+
+===Analytic and chemical uses===
+
+Antibodies can also be used to purify their target compounds from mixtures, using the method of [[immunoprecipitation]].
+
+===Therapeutic uses===
+{{Main|Monoclonal antibody therapy}}
+
+Therapeutic monoclonal antibodies act through multiple mechanisms, such as blocking of targeted molecule functions, inducing [[apoptosis]] in cells which express the target, or by modulating signalling pathways.<ref>{{cite journal | vauthors = Breedveld FC | title = Therapeutic monoclonal antibodies | journal = Lancet | volume = 355 | issue = 9205 | pages = 735–40 | date = February 2000 | pmid = 10703815 | doi = 10.1016/S0140-6736(00)01034-5 | s2cid = 43781004 | url = http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)01034-5/fulltext | author-link = Ferry Breedveld }}</ref><ref>{{cite journal|url=http://www.australianprescriber.com/magazine/29/5/130/3/#2|title=Monoclonal antibody therapy for non-malignant disease|year=2006|author=Australian Prescriber|journal=Australian Prescriber|volume=29|issue=5|pages=130–133|doi=10.18773/austprescr.2006.079|doi-access=free}}</ref>
+
+==== Cancer treatment ====
+One possible treatment for [[cancer]] involves monoclonal antibodies that bind only to cancer-cell-specific [[antigen]]s and induce an [[Cancer immunotherapy|immune response]] against the target cancer cell. Such mAbs can be modified for delivery of a [[toxin]], [[radionuclide|radioisotope]], [[cytokine]] or other active conjugate or to design [[bispecific antibody|bispecific antibodies]] that can bind with their [[Fragment antigen binding|Fab regions]] both to target antigen and to a conjugate or effector cell. Every intact antibody can bind to cell receptors or other proteins with its [[Fragment crystallizable region|Fc region]]. 
+[[Image:Monoclonal antibodies.svg|frame|'''Monoclonal antibodies for cancer.''' [[ADEPT (medicine)|ADEPT]], antibody directed enzyme prodrug therapy; [[Antibody-dependent cell-mediated cytotoxicity|ADCC]]: antibody dependent cell-mediated cytotoxicity; CDC: [[complement-dependent cytotoxicity]]; MAb: monoclonal antibody; scFv, single-chain Fv fragment.<ref>Modified from {{cite journal | vauthors = Carter P | title = Improving the efficacy of antibody-based cancer therapies | journal = Nature Reviews. Cancer | volume = 1 | issue = 2 | pages = 118–29 | date = November 2001 | pmid = 11905803 | doi = 10.1038/35101072 | s2cid = 10169378 }}</ref>]] MAbs approved by the FDA for cancer include:<ref>Takimoto CH, Calvo E. (January 01, 2005) [http://www.cancernetwork.com/articles/principles-oncologic-pharmacotherapy "Principles of Oncologic Pharmacotherapy"] in Pazdur R, Wagman LD, Camphausen KA, Hoskins WJ (Eds) [http://www.cancernetwork.com/cancer-management-11/ Cancer Management]</ref>
+{{div col|colwidth=30em}}
+* [[Alemtuzumab]]
+* [[Bevacizumab]]
+* [[Cetuximab]]
+* [[Gemtuzumab ozogamicin]]
+* [[Ipilimumab]]
+* [[Ofatumumab]]
+* [[Panitumumab]]
+* [[Pembrolizumab]]
+* [[Ranibizumab]]
+* [[Rituximab]]
+* [[Trastuzumab]]
+{{div col end}}
+
+====Autoimmune diseases====
+Monoclonal antibodies used for [[autoimmune disease]]s include [[infliximab]] and [[adalimumab]], which are effective in [[rheumatoid arthritis]], [[Crohn's disease]], [[ulcerative colitis]] and [[ankylosing spondylitis]] by their ability to bind to and inhibit [[TNF-α]].<ref name=Rang/> [[Basiliximab]] and [[daclizumab]] inhibit [[interleukin-2|IL-2]] on activated [[T cells]] and thereby help prevent acute [[organ rejection|rejection]] of kidney transplants.<ref name=Rang/> [[Omalizumab]] inhibits human [[immunoglobulin E]] (IgE) and is useful in treating moderate-to-severe allergic [[asthma]].
+
+====Examples of therapeutic monoclonal antibodies====
+{{Mainlist|List of monoclonal antibodies}}
+
+Monoclonal antibodies for research applications can be found directly from antibody suppliers, or through use of a specialist search engine like [[CiteAb]]. Below are examples of clinically important monoclonal antibodies.
+{| class="wikitable" 
+|-
+! Main category !! Type !! Application !! Mechanism/Target  !! Mode
+|-
+!rowspan=5| Anti-<br>inflammatory !! [[infliximab]]<ref name=Rang>{{cite book | vauthors = Rang HP |title=Pharmacology |publisher=Churchill Livingstone |location=Edinburgh |year=2003 |pages=241, for the examples infliximab, basiliximab, abciximab, daclizumab, palivusamab, gemtuzumab, alemtuzumab and rituximab, and mechanism and mode |isbn=978-0-443-07145-4 }}</ref>
+| 
+*[[rheumatoid arthritis]]
+*[[Crohn's disease]]
+*[[ulcerative colitis]]
+*[[ankylosing spondylitis]]
+|| inhibits [[TNF-α]] || chimeric
+|-
+! [[adalimumab]]
+|
+*[[rheumatoid arthritis]]
+*[[Crohn's disease]]
+*[[ulcerative colitis]]
+*[[ankylosing spondylitis]]
+|| inhibits [[TNF-α]] || human
+|-
+! [[basiliximab]]<ref name=Rang/>
+| 
+* acute [[organ rejection|rejection]] of kidney transplants
+|| inhibits [[interleukin-2|IL-2]] on activated [[T cells]] || chimeric
+|-
+! [[daclizumab]]<ref name=Rang/>
+| 
+* acute [[organ rejection|rejection]] of kidney transplants
+|| inhibits [[interleukin-2|IL-2]] on activated [[T cells]] || humanized 
+|-
+! [[omalizumab]]
+|
+*moderate-to-severe allergic [[asthma]]
+| inhibits human [[immunoglobulin E]] (IgE)
+| humanized
+|-
+! rowspan="7" | Anti-cancer
+! [[gemtuzumab]]<ref name="Rang" /> 
+|
+* relapsed [[acute myeloid leukemia]]
+|targets myeloid cell surface antigen [[CD33]] on [[leukemia]] cells
+|| humanized 
+|-
+![[alemtuzumab]]<ref name="Rang" />
+| 
+*[[B cell leukemia]]
+|| targets an antigen [[CD52]] on [[T lymphocytes|T-]] and [[B-lymphocytes]] || humanized 
+|-
+![[rituximab]]<ref name=Rang/>
+| 
+*[[non-Hodgkin's lymphoma]]
+*rheumatoid arthritis
+|| targets phosphoprotein [[CD20]] on [[B lymphocytes]] || chimeric 
+|-
+![[trastuzumab]]
+| 
+* breast cancer with [[HER2/neu]] overexpression
+|| targets the [[HER2/neu]] (erbB2) receptor || humanized 
+|-
+![[nimotuzumab]]
+|
+* approved in [[squamous cell carcinomas]], Glioma
+* clinical trials for other indications underway
+||[[Epidermal growth factor receptor|EGFR]] inhibitor  ||humanized
+|-
+![[cetuximab]]
+|
+* approved in [[squamous cell carcinomas]], [[colorectal carcinoma]]
+||[[Epidermal growth factor receptor|EGFR]] inhibitor  ||chimeric
+|-
+![[bevacizumab]] & [[ranibizumab]]
+| 
+*[[anti-angiogenesis|Anti-angiogenic]] cancer therapy
+|| inhibits [[Vascular endothelial growth factor|VEGF]] || humanized
+|-
+!rowspan=1| Anti-cancer and anti-viral !! [[bavituximab]]<ref name=Adis>Staff, Adis Insight. [http://adisinsight.springer.com/drugs/800022616 Bavituximab profile] Last updated Jan 27 2016</ref> 
+| 
+*cancer, [[hepatitis C]] infection
+|| [[immunotherapy]], targets [[phosphatidylserine]]<ref name=Adis/>
+|| chimeric
+|-
+
+!rowspan=3| Other !! [[palivizumab]]<ref name=Rang/>
+| 
+*[[respiratory syncytial virus|RSV]] infections in children
+|| inhibits an RSV fusion (F) protein || humanized 
+|-
+! [[abciximab]]<ref name=Rang/>
+| 
+* prevent [[coagulation]] in [[coronary angioplasty]]
+|| inhibits the receptor [[GpIIb/IIIa]] on [[platelets]] || chimeric
+|-
+|}
+
+== Side effects ==
+Several monoclonal antibodies, such as [[Bevacizumab]] and [[Cetuximab]], can cause different kinds of side effects.<ref>{{Cite web|url=https://www.cancer.org/treatment/treatments-and-side-effects/treatment-types/immunotherapy/monoclonal-antibodies.html|title=Monoclonal antibodies to treat cancer {{!}} American Cancer Society|website=www.cancer.org|access-date=2018-04-19}}</ref> These side effects can be categorized into common and serious side effects.<ref>{{Cite news|url=https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/monoclonal-antibody/art-20047808|title=Monoclonal antibody drugs for cancer: How they work|work=Mayo Clinic|access-date=2018-04-19}}</ref>
+
+Some common side effects include:
+
+{{div col|colwidth=30em}}
+* Dizziness
+* Headaches
+* Allergies 
+* [[Diarrhea]] 
+* Cough 
+* Fever
+* Itching 
+* Back pain
+* General weakness
+* Loss of appetite 
+* Insomnia 
+* Constipation<ref name=":0">{{Cite news|url=https://www.medicinenet.com/monoclonal_antibodies/article.htm#what_drugs_or_other_compounds_interact_with_monoclonal_antibodies?|title=Monoclonal Antibodies: List, Types, Side Effects & FDA Uses (Cancer)|work=MedicineNet|access-date=2018-04-19}}</ref>
+{{div col end}}
+
+Among the possible serious side effects are:
+
+{{div col|colwidth=30em}}
+* [[Anaphylaxis]]
+* Bleeding 
+* Arterial and venous blood clots 
+* [[Autoimmune thyroiditis]]
+* [[Hypothyroidism]]
+* Hepatitis 
+* Heart failure 
+* Cancer
+* [[Anemia]]
+* Decrease in white blood cells
+* [[Stomatitis]]
+* [[Enterocolitis]]
+* [[Gastrointestinal perforation]]
+* [[Mucositis]]<ref name=":0" />
+{{div col end}}
+
+== See also ==
+{{div col|colwidth=30em}}
+* [[Affimer]]
+* [[Antibody mimetic]]
+* [[Aptamer]]
+* [[Immunotoxin]]s, which sometimes use monoclonal antibodies as the targeting mechanism
+* [[List of monoclonal antibodies]]
+* [[Monoclonal antibody therapy]]
+* [[Nomenclature of monoclonal antibodies]]
+* [[Polyclonal antibodies]]
+* ''[[MAbs (journal)|Monoclonal Antibody Journal]]''
+{{div col end}}
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+*[https://www.nature.com/articles/d41586-019-02840-w 2019 Historical overview of monoclonal antibodies in the journal Nature]
+*[https://web.archive.org/web/20130112205725/http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/M/Monoclonals.html Monoclonal Antibodies], from John W. Kimball's online biology textbook
+
+== External links ==
+<!-- ATTENTION! Please do not add links without discussion and consensus on the talk page. Undiscussed links will be removed. -->
+* {{MeshName|Monoclonal+antibodies}}
+* [http://www.antibodypedia.com Antibodypedia], open-access virtual repository publishing data and commentary on any antibodies available to the scientific community.
+* [http://www.gelifesciences.com/handbooks Antibody Purification Handbook]
+
+{{Library resources box
+ |onlinebooks=no
+ |by=no
+ |lcheading=Monoclonal antibodies}}
+{{immune_system}}
+{{Navboxes
+|title = Monoclonal antibodies ('''"-mab"''')
+|list  = 
+{{Monoclonals for immune system}}
+{{Monoclonals for infectious disease and toxins}}
+{{Monoclonals for bone, musculoskeletal, circulatory, and neurologic systems}}
+{{Monoclonals for tumors}}
+}}
+{{Engineered antibodies}}
+{{portal bar | Medicine}}
+
+{{DEFAULTSORT:Monoclonal Antibodies}}
+[[Category:Monoclonal antibodies| ]]
+[[Category:Biotechnology]]
+[[Category:Cancer treatments]]
+[[Category:Immune system]]
+[[Category:Immunology]]
+[[Category:Reagents for biochemistry]]
+[[Category:Therapeutic antibodies| ]]

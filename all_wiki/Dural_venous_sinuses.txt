@@ -1,0 +1,77 @@
+{{short description|Venous channels in the dura mater}}
+{{Infobox vein
+| Name        = Dural venous sinuses
+| Latin       = Sinus durae matris
+| Image       = File:Sobo 1909 589.png
+| Caption     = Illustration of the dural venous sinuses
+| Image2      = Dural venous sinuses.png
+| Caption2    = Dural venous sinuses
+}}
+The '''dural venous sinuses''' (also called '''dural sinuses''', '''cerebral sinuses''', or '''cranial sinuses''') are [[vein|venous]] channels found between the [[Endosteum|endosteal]] and [[Meninges|meningeal]] layers of [[dura mater]] in the [[brain]].<ref>{{Cite book |last=Kiernan |first=John A. |url=http://www.lww.com/product/?0-7817-5154-3 |title=Barr's The Human Nervous System: An Anatomical Viewpoint |publisher=Lippincott Williams & Wilkins |year=2005 |isbn=0-7817-5154-3 |pages=428–230 |access-date=2006-01-27 |archive-url=https://web.archive.org/web/20110514004113/http://www.lww.com/product/?0-7817-5154-3 |archive-date=2011-05-14 |url-status=dead}}</ref><ref name="Gaillard">{{Cite web |url=https://radiopaedia.org/articles/dural-venous-sinuses?lang=gb |title=Dural venous sinuses {{!}} Radiology Reference Article {{!}} Radiopaedia.org |last=Gaillard |first=Frank |website=Radiopaedia}}</ref> They receive [[blood]] from the [[cerebral veins]], receive [[cerebrospinal fluid]] (CSF) from the [[subarachnoid space]] via [[arachnoid granulations]], and mainly empty into the [[internal jugular vein]].<ref name="Gaillard">{{Cite web |url=https://radiopaedia.org/articles/dural-venous-sinuses?lang=gb |title=Dural venous sinuses {{!}} Radiology Reference Article {{!}} Radiopaedia.org |last=Gaillard |first=Frank |website=Radiopaedia}}</ref>
+
+==Venous sinuses==
+{| class="wikitable"
+| '''Name''' || '''Drains to'''
+|-
+| colspan="2" |'''Anterior'''
+|-
+|[[Sphenoparietal sinuses]]
+|Cavernous sinuses
+|- 
+| [[Cavernous sinuses]] || Superior and inferior petrosal sinuses
+|- 
+| colspan="2" |'''Midline'''
+|-
+|[[Superior sagittal sinus]]
+|Typically becomes right transverse sinus or confluence of sinuses
+|-
+|[[Inferior sagittal sinus]]
+|Straight sinus
+|- 
+| [[Straight sinus]] || Typically becomes left transverse sinus or confluence of sinuses
+|- 
+| colspan="2" |'''Posterior'''
+|- 
+| [[Occipital sinus]] 
+|Confluence of Sinus
+|- 
+| [[Confluence of sinuses]] || Right and Left transverse sinuses
+|-
+| colspan="2" |'''Lateral'''
+|-
+|[[Superior petrosal sinus]]
+|Transverse sinuses
+|- 
+| [[Transverse sinuses]] || Sigmoid sinus
+|- 
+| [[Inferior petrosal sinus]] || Internal jugular vein
+|- 
+| [[Sigmoid sinuses]] || Internal jugular vein
+|}
+
+==Structure==
+The walls of the dural venous sinuses are composed of [[dura mater]] lined with [[endothelium]], a specialized layer of [[squamous cell|flattened cells]] found in [[blood vessel]]s. They differ from other blood vessels in that they lack a full set of vessel layers (e.g. [[tunica media]]) characteristic of [[artery|arteries]] and [[vein]]s. It also lacks valves (in veins; with exception of materno-fetal blood circulation i.e. placental artery and pulmonary arteries both of which carry deoxygenated blood).
+
+==Clinical relevance==
+The sinuses can be injured by trauma in which damage to the [[dura mater]], may result in [[thrombosis|blood clot]] formation (thrombosis) within the dural sinuses. Other common causes of [[dural sinus thrombosis]] include tracking of infection through the ophthalmic vein in orbital cellulitis. While rare, dural sinus thrombosis may lead to [[hemorrhage|hemorrhagic]] [[infarction]] or cerebral oedema with serious consequences including [[epilepsy]], neurological deficits, or death.<ref>{{Cite journal |last=de Bruijn SF |first=Stam J |year=1999 |title=Randomized, placebo-controlled trial of anticoagulant treatment with low-molecular-weight heparin for cerebral sinus thrombosis |journal=Stroke |volume=30 |issue=3 |pages=484–8 |doi=10.1161/01.str.30.3.484 |pmid=10066840 |doi-access=free}}</ref>
+
+==Additional images==
+<gallery>
+ File:Gray488_blue.gif|Dural veins
+ File:Gray568.png|Sagittal section of the skull, showing the sinuses of the dura.
+ File:Gray567.png|Dura mater and its processes exposed by removing part of the right half of the skull, and the brain.
+ File:Gray570.png|The sinuses at the base of the skull.
+</gallery>
+
+==References==
+<references/>
+
+==External links==
+{{Commons category}}
+* http://neuroangio.org/venous-brain-anatomy/venous-sinuses/
+* http://rad.usuhs.edu/medpix/parent.php3?mode=TFcase_thumbnails&pt_id=13693&quiz=no#top{{Dead link|date=December 2019 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{VeinsHeadNeck}}
+{{Authority control}}
+
+[[Category:Veins of the head and neck]]

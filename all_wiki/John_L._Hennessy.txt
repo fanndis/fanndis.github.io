@@ -1,0 +1,180 @@
+{{short description|American computer scientist}}
+{{Infobox officeholder
+| birth_name   = John Leroy Hennessy
+| image        = John_L_Hennessy.jpg
+| birth_date   = {{birth date and age|1952|9|22}}
+| birth_place  = [[Huntington, New York]], U.S.
+| residence    = 
+| citizenship  = [[United States|American]]
+| nationality  = 
+| title1       = President of [[Stanford University]]
+| order1       = 10th
+| term_start1  = 2000
+| term_end1    = 2016
+| predecessor1 = [[Gerhard Casper]]
+| successor1   = [[Marc Tessier-Lavigne]]
+| title2       = Provost of [[Stanford University]]
+| order2       = 11th
+| term_start2  = 1999
+| term_end2    = 2000
+| predecessor2 = [[Condoleezza Rice]]
+| successor2   = [[John Etchemendy]]
+| alma_mater   = [[Stony Brook University]] ([[Master of Science|MS]], [[Doctor of Philosophy|PhD]]) <br /> [[Villanova University]] ([[Bachelor of Science|BS]])
+| module       =
+  {{Infobox scientist
+  | embed=yes
+  |fields            = [[Computer architecture]]<ref name="quantitative"/>
+  |doctoral_advisor  = Richard Kieburtz
+  |academic_advisors = 
+  |doctoral_students = {{Plainlist|
+*[[Anant Agarwal]]<ref name=mathgene/>
+* [[Lawrence Paulson]]<ref name=mathgene>{{MathGenealogy|id= 40909}}</ref><ref name=paulson>{{cite thesis |degree=PhD |first=Lawrence Charles|last=Paulson  |title=A Compiler Generator for Semantic Grammars |publisher=Stanford University |date=1981 |authorlink=Lawrence Paulson|oclc=757240716|id={{ProQuest|303229537}}}}</ref>
+*[[Josep Torrellas]]<ref name=mathgene/>}}
+  | thesis_title     = A real-time language for small processors: design, definition and implementation
+  | thesis_year      = 1977
+  | thesis_url       = http://search.proquest.com/docview/302854127
+  |notable_students  = 
+  | website          = {{URL|http://www.stanford.edu/~hennessy}}
+  }}
+| known_for    =  [[reduced instruction set computer|RISC]], [[MIPS Technologies]], [[Qualcomm Atheros|Atheros]]
+| influences   = 
+| influenced   = 
+| awards       = [[Turing Award]] (2017)<br/>[[IEEE Medal of Honor]] {{small|(2012)}} <br> [[Computer History Museum]] Fellow {{small|(2007)}} <ref>{{cite web|url=http://www.computerhistory.org/fellowawards/hall/bios/John,Hennessy/|title=John Hennessy|work=computerhistory.org|url-status=dead|archiveurl=https://web.archive.org/web/20121003054212/http://www.computerhistory.org/fellowawards/hall/bios/John,Hennessy/|archivedate=2012-10-03}}</ref><br> [[National Academy of Engineering]] Member <br> [[National Academy of Sciences]] Member <br> [[American Academy of Arts and Sciences]] Fellow <br> [[ACM Fellow]] <br> [[IEEE]] Fellow <br>FREng
+| signature    = 
+}}
+
+'''John Leroy Hennessy''' (born September 22, 1952) is an American computer scientist, [[academician]], businessman, and Chair of [[Alphabet Inc.]]<ref>{{Cite news|url=https://www.cnbc.com/2018/02/01/john-hennessy-replacing-schmidt-as-alphabets-new-board-chairman.html|title=John Hennessy named as Alphabet's new board chairman|last=Haselton|first=Todd|date=2018-02-01|work=CNBC|access-date=2018-02-02}}</ref> Hennessy is one of the founders of [[MIPS Technologies|MIPS Computer Systems Inc.]] as well as [[Atheros]] and served as the tenth President of [[Stanford University]]. Hennessy announced that he would step down in the summer of 2016. He was succeeded as President by [[Marc Tessier-Lavigne]].<ref>{{cite web
+ | url = https://news.stanford.edu/2015/06/11/stanford-anouncement-061115/
+ | title = Stanford University President John L. Hennessy to step down in 2016
+ | publisher = Stanford News
+ | accessdate = 2016-05-16
+| date = 2015-06-11
+ }}</ref> [[Marc Andreessen]] called him "the godfather of [[Silicon Valley]]."<ref name="New Yorker: Get Rich U. (2012)"/>
+
+Along with [[David Patterson (computer scientist)|David Patterson]], Hennessy  won the 2017 [[Turing Award]] for their work in developing the [[reduced instruction set computer]] (RISC) architecture, which is now used in 99% of new computer chips.<ref name=nytimes>{{cite news|title=Computer Chip Visionaries Win Turing Award|url=https://www.nytimes.com/2018/03/21/technology/computer-chips-turing-award.html|work=[[The New York Times]]|date=2018-03-21}}</ref>
+
+==Early life==
+Hennessy was raised in [[Huntington, New York]], as one of six children.<ref name="New Yorker: Get Rich U. (2012)"/> His father was an aerospace engineer and his mother was a teacher before raising her children.<ref name="New Yorker: Get Rich U. (2012)"/>
+
+He earned his [[bachelor's degree]] in [[electrical engineering]] from [[Villanova University]], and his [[master's degree]] and [[Doctor of Philosophy|Ph.D.]] in [[computer science]] from [[Stony Brook University]].<ref name="Curriculum Vitae"/><ref name="thesis-hennessy-1977">{{cite thesis |url=https://search.proquest.com/docview/302854127/ |title=A real-time language for small processors: design, definition, and implementation. |date=1977 |publisher=[[State University of New York at Stony Brook]] |type=Ph.D. |last=Hennessy |first=John Leroy |via=[[ProQuest]] |url-access=subscription  |oclc=31799595}}</ref> He is married to his high school sweetheart, Andrea Berti.<ref name="New Yorker: Get Rich U. (2012)"/>
+
+==Career==
+
+Hennessy became a Stanford faculty member in 1977. In 1981, he began the [[Stanford MIPS|MIPS]] project to investigate [[RISC]] [[Central processing unit|processor]]s, and in 1984, he used his sabbatical year to found [[MIPS Computer Systems Inc.]] to commercialize the technology developed by his research. In 1987, he became the Willard and Inez Kerr Bell Endowed Professor of Electrical Engineering and Computer Science.<ref name="Curriculum Vitae"/>
+
+Hennessy served as director of Stanford's Computer System Laboratory (1989–93), a research center run by Stanford's Electrical Engineering and Computer Science departments. He was chair of the Department of Computer Science (1994–96) and Dean of the School of Engineering (1996–99).<ref name="Curriculum Vitae"/>
+
+In 1999, Stanford President [[Gerhard Casper]] appointed Hennessy to succeed [[Condoleezza Rice]] as [[Provost (education)|Provost]] of Stanford University. When Casper stepped down to focus on teaching in 2000, the Stanford Board of Trustees named Hennessy to succeed Casper as president. In 2008, Hennessy earned a salary of $1,091,589 ($702,771 base salary, $259,592 deferred benefits, $129,226 non-tax benefits), the 23rd highest among all American university presidents.<ref>{{cite news|url= http://www.thedailybeast.com/blogs-and-stories/2010-11-14/college-president-salaries-ranking-the-million-dollar-earners/|title=Million-Dollar College Presidents|publisher=[[The Daily Beast]]|date=November 14, 2010|accessdate=April 26, 2011}}</ref>
+
+Hennessy is a board member of [[Google]] (later [[Alphabet Inc.]]),<ref>{{cite news|url= http://investor.google.com/corporate/board-of-directors.html |title=Board of Directors|publisher=[[Google]] Investor Relations|date=<!-- NA -->|accessdate=June 14, 2012}}</ref> [[Cisco Systems]],<ref>{{cite web |url=http://investor.cisco.com/phoenix.zhtml?c=81192&p=irol-govboard |title=Governing Board |publisher=[[Cisco Systems]] |access-date=2006-10-25 |archive-url=https://web.archive.org/web/20071015195757/http://investor.cisco.com/phoenix.zhtml?c=81192&p=irol-govboard |archive-date=2007-10-15 |url-status=dead }}</ref> [[Atheros Communications]],<ref>{{cite web |url=http://investors.atheros.com/phoenix.zhtml?c=149102&p=irol-govboard |title=Governing Board |publisher=Atheros Communications |access-date=2007-02-20 |archive-url=https://web.archive.org/web/20061105172121/http://investors.atheros.com/phoenix.zhtml?c=149102&p=irol-govboard |archive-date=2006-11-05 |url-status=dead }}</ref> and the [[Gordon and Betty Moore Foundation]].<ref>{{cite web|url=https://www.moore.org/people-detail?personUrl=hennessy-phd |title=Board of Trustees |publisher=[[Gordon and Betty Moore Foundation]]}}</ref>
+
+On October 14, 2010, Hennessy was presented a [[khata]] by the [[14th Dalai Lama]] before the latter addressed [[Maples Pavilion]].<ref>{{cite news|url= http://news.stanford.edu/news/2010/october/videos/865.html/|title=President Hennessy salutes the Dalai Lama, and is honored in return|publisher=[[Stanford University]] Report|date=October 14, 2010
+|accessdate=April 26, 2011}}</ref>
+
+In December 2010, Hennessy coauthored an editorial with [[Harvard University]] President [[Drew Gilpin Faust]] urging the passage of the [[DREAM Act]];<ref>{{cite news|url=http://www.politico.com/news/stories/1210/46124.html|title=Deserving of the DREAM|publisher=[[Politico]]|date=December 8, 2010|accessdate=April 26, 2011}}</ref> the legislation did not pass the [[111th United States Congress]].
+
+In 2013, Hennessy became a judge for the inaugural [[Queen Elizabeth Prize for Engineering]]. He has remained on the judging panel for the subsequent awards in 2015 and 2017.
+
+In June 2015, Hennessy announced that he would step down as Stanford president in summer 2016.<ref>{{cite web|title=Stanford University President John L. Hennessy to step down in 2016|url=http://news.stanford.edu/news/2015/june/stanford-anouncement-061115.html|date=2015-06-11}}</ref>
+
+In 2016, Hennessy co-founded the [[Knight-Hennessy Scholars]] program; he serves as its inaugural director. The program has a $750 million endowment to fully fund graduate students at Stanford for up to three years.<ref>[https://knight-hennessy.stanford.edu/faq Frequently Asked Questions | Knight-Hennessy Scholars] {{Webarchive|url=https://web.archive.org/web/20160826175847/https://knight-hennessy.stanford.edu/faq |date=2016-08-26 }} Stanford, Retrieved 15 August 2016</ref><ref>{{cite web |last1=Amini |first1=Mariam |title=Alphabet's John Hennessy talks about helping international students with scholarships |url=https://www.cnbc.com/2018/03/03/alphabets-john-hennessy-talks-about-helping-international-students-with-scholarships.html |website=CNBC |accessdate=13 August 2018|date=2018-03-03 }}</ref> The inaugural class of 51 scholars from 21 countries arrived at Stanford in the fall of 2018.<ref>{{cite news |last1=Chang |first1=Annie |title=Inaugural Knight-Hennessy Scholars selected |url=https://www.stanforddaily.com/2018/02/15/inaugural-knight-hennessy-scholars-selected/ |publisher=The Stanford Daily |date=16 Feb 2018}}</ref>
+
+In February 2018, Hennessy was announced as the new  Chairman of [[Alphabet Inc.]], [[Google]]'s parent company.<ref>{{Cite news|url=http://fortune.com/2018/02/01/alphabet-google-john-hennessy/|title=Alphabet Names New Executive Chairman to Replace Eric Schmidt|work=Fortune|access-date=2018-02-02|language=en}}</ref>
+==Research==
+Hennessy has a history of strong interest and involvement in college-level computer education. He co-authored, with [[David A. Patterson (scientist)|David A. Patterson]], two well-known books on [[computer architecture]], ''Computer Organization and Design: the Hardware/Software Interface'' and ''Computer Architecture: A Quantitative Approach'',<ref name="quantitative">{{cite book |author1=Patterson, David |author2=Hennessy, John H. |author3=Arpaci-Dusseau, Andrea C. |title=Computer architecture: a quantitative approach |publisher=Morgan Kaufmann |location=San Diego |year=2007 |pages= |isbn=978-0-12-370490-0 |oclc= |doi= |accessdate=}}</ref> which introduced the [[DLX]] RISC architecture. They have been widely used as [[textbook]]s for graduate and undergraduate courses since 1990.{{citation needed|date=May 2008}}
+
+Hennessy also contributed to updating [[Donald Knuth]]'s [[MIX]] processor to the [[MMIX]]. Both are model computers used in Knuth's classic series, ''[[The Art of Computer Programming]]''. MMIX is Knuth's DLX equivalent.
+
+===Awards and honors===
+*{{Awards|award=[[Fellow]] of the [[Association for Computing Machinery]] (ACM)|year=1997|title=|role=|name=}}
+
+*{{Awards|award=[[Association for Computing Machinery]] [[SIGARCH]] [[ISCA Influential Paper Award]]|year=2004|title=1989 co-authored paper on high performing [[Cache (computing)|cache]] hierarchies|role=|name=<ref>{{cite journal|title=Characteristics of performance-optimal multi-level cache hierarchies|journal=ACM SIGARCH Computer Architecture News|volume=17|issue=3|pages=114–121|doi=10.1145/74926.74939|year=1989|last1=Przybylski|first1=S.|last2=Horowitz|first2=M.|last3=Hennessy|first3=J.}}</ref><ref>{{cite journal|title=The Stanford FLASH multiprocessor|journal=ACM SIGARCH Computer Architecture News|volume=22|issue=2|pages=302–313|doi=10.1145/192007.192056|year=1994|last1=Kuskin|first1=J.|last2=Horowitz|first2=M.|last3=Gupta|first3=A.|last4=Rosenblum|first4=M.|last5=Hennessy|first5=J.|last6=Ofelt|first6=D.|last7=Heinrich|first7=M.|last8=Heinlein|first8=J.|last9=Simoni|first9=R.|last10=Gharachorloo|first10=K.|last11=Chapin|first11=J.|last12=Nakahira|first12=D.|last13=Baxter|first13=J.|citeseerx=10.1.1.467.9672}}</ref>}}
+
+*{{Awards|award=Fellow of the [[Computer History Museum]]|year=2007|title="for fundamental contributions to engineering education, advances in computer architecture, and the integration of leading-edge research with education" |role= |name= <ref>{{cite web
+ |url         = http://www.computerhistory.org/fellowawards/hall/bios/John,Hennessy/
+ |title       = John Hennessy
+ |publisher   = Computer History Museum
+ |accessdate  = 2013-05-23
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20121003054212/http://www.computerhistory.org/fellowawards/hall/bios/John,Hennessy/
+ |archivedate = 2012-10-03
+}}</ref>}}
+
+*{{Awards|award=[[IEEE Medal of Honor]]|year=2012|title="for pioneering the RISC processor architecture and for leadership in computer engineering and higher education"|role=|name=<ref>{{cite web|title=Stanford President Hennessy wins IEEE's highest honor|url=http://news.stanford.edu/news/2011/december/hennessy-ieee-honor-120111.html|date=December 2011}}</ref> <ref>{{cite web|title=IEEE Medal of Honor Recipients |url=http://www.ieee.org/documents/moh_rl.pdf |url-status=dead |archiveurl=https://web.archive.org/web/20150422004457/http://www.ieee.org/documents/moh_rl.pdf |archivedate=2015-04-22 }}</ref>}}
+
+*{{Awards|award=Honorary Degree in Mathematics, [[University of Waterloo]] |year=2012 |title="for profound contributions to modern computer architecture and to post-secondary education"|role=|name=}}
+
+*{{Awards|award=International Fellow of the [[Royal Academy of Engineering]], UK|year=2017|title=|role=|name=<ref>{{Cite web | url=https://news.stanford.edu/2017/09/07/john-l-hennessy-elected-royal-academy-engineering/ | title=John L. Hennessy elected to Royal Academy of Engineering| date=2017-09-07}}</ref>}}
+
+*{{Awards|award=[[Turing Award|ACM A.M. Turing Award]]|year=2017|title="for pioneering a systematic, quantitative approach to the design and evaluation of computer architectures with enduring impact on the microprocessor industry"|role=|name=<ref name=turing>{{Cite web|url=https://www.acm.org/media-center/2018/march/turing-award-2017|title=John Hennessy and David Patterson will receive the 2017 ACM A.M. Turing Award|website=www.acm.org|language=en|access-date=2018-03-21}}</ref>}}
+
+===Selected publications===
+* Computer Architecture: A Quantitative Approach<ref name="quantitative"/>
+* {{cite book|last=Patterson |first=David A. |last2=Hennessy |first2=John L. |title=Computer Organization and Design: The Hardware/Software Interface |url=https://archive.org/details/computerorganiza00henn |url-access=registration |publisher=Morgan Kaufmann |isbn=978-0-12-370606-5 |date=1994}}
+* {{cite conference|last=Gharachorloo |first=Kourosh |author2=D. Lenoski |author3=J. Laudon |author4=P. Gibbons |author5=A. Gupta |author6=J. Hennessy  |title=Memory consistency and event ordering in scalable shared-memory multiprocessors |booktitle=Proceedings of the 17th annual international symposium on Computer Architecture |publisher=International Symposium on Computer Architecture |pages=15–26 |date=1990}}
+* {{cite conference|last=Lenoski |first=Daniel |author2=J. Laudon |author3=K. Gharachorloo |author4=A. Gupta |author5=J. Hennessy  |title=The directory-based cache coherence protocol for the DASH multiprocessor |booktitle=Proceedings of the 17th annual international symposium on Computer Architecture |publisher=International Symposium on Computer Architecture |pages=148–159 |date=1990}}
+
+== See also ==
+* [[List of International Fellows of the Royal Academy of Engineering]]
+
+==References==
+{{Reflist|2|refs=
+
+<ref name="Curriculum Vitae">{{cite news|url= http://www.stanford.edu/~hennessy/cv.html |title=Curriculum Vitae|publisher=Office of the President|date=<!-- NA -->|accessdate=April 26, 2011}}</ref>
+
+<ref name="New Yorker: Get Rich U. (2012)">{{cite web |url=http://www.newyorker.com/reporting/2012/04/30/120430fa_fact_auletta?currentPage=all |title=Get Rich U. |last1=Auletta |first1=Ken |date=April 30, 2012 |work=[[The New Yorker]] |accessdate=6 April 2013 |archiveurl=https://web.archive.org/web/20130325125948/http://www.newyorker.com/reporting/2012/04/30/120430fa_fact_auletta?currentPage=all |archivedate=25 March 2013 |url-status=live }}</ref>
+}}
+
+==External links==
+{{commons category}}
+* [https://web.archive.org/web/20040416051039/http://www.stanford.edu/dept/president/biography/ Official Biography from the Office of the President of Stanford University]
+* [https://web.archive.org/web/20070609213813/http://edcorner.stanford.edu/authorMaterialInfo.html?mid=922 The Secret of Silicon Valley], John Hennessy speaks at Stanford
+* [http://www.app2us.com/interviews/hennessy_stanford_president.htm Interview with John Hennessy]
+* [http://gamehacking.org/qna/37 Interview with John Hennessy, concerning the video game industry (audio and text) - 2009-06-22]
+* [http://www.oac.cdlib.org/findaid/ark:/13030/kt387033z0/ John L. Hennessey Papers]
+*[https://www.strategy-business.com/article/John-Hennessys-higher-learning?gko=1d2fd John Hennessy's higher learning], [[Strategy+Business|strategy+business i]]<nowiki/>nterview (2019)
+
+{{s-start}}
+{{s-aca}}
+{{succession box |
+ before= [[Condoleezza Rice]] |
+ title= [[List of Stanford University people#Provosts|Provost of Stanford University]] |
+ years= 1999–2000 |
+ after= [[John Etchemendy]]
+}}
+{{succession box |
+ before= [[Gerhard Casper]] |
+ title= [[List of Stanford University people#University presidents|President of Stanford University]] |
+ years= 2000–2016 |
+ after= [[Marc Tessier-Lavigne]]
+}}
+{{s-end}}
+{{Stanford presidents}}
+{{Stanford provosts}}
+{{IEEE Medal of Honor Laureates 2001–2025}}{{Turing Award laureates}}{{Authority control}}
+
+{{DEFAULTSORT:Hennessy, John L.}}
+[[Category:American computer scientists]]
+[[Category:Computer designers]]
+[[Category:1952 births]]
+[[Category:Living people]]
+[[Category:American corporate directors]]
+[[Category:Directors of Google]]
+[[Category:Fellows of the Association for Computing Machinery]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Presidents of Stanford University]]
+[[Category:Provosts of Stanford University]]
+[[Category:Seymour Cray Computer Engineering Award recipients]]
+[[Category:Stanford University School of Engineering faculty]]
+[[Category:Stanford University Department of Electrical Engineering faculty]]
+[[Category:Scientists from California]]
+[[Category:Villanova University alumni]]
+[[Category:Stony Brook University alumni]]
+[[Category:MIPS Technologies]]
+[[Category:20th-century American scientists]]
+[[Category:21st-century American scientists]]
+[[Category:Fellow Members of the IEEE]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Turing Award laureates]]
+[[Category:American university and college faculty deans]]

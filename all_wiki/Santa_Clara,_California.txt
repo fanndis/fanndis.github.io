@@ -1,0 +1,484 @@
+{{about|the U.S. city|the county in California|Santa Clara County, California|other uses|Santa Clara (disambiguation)}}
+{{Distinguish|Santa Clarita, California|3=|text=[[Santa Clarita, California]] in Los Angeles County}}
+{{Use mdy dates|date=September 2014}}
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+<!-- Basic info  ---------------->
+|name                     = Santa Clara, California
+|settlement_type          = [[City (California)|City]]
+|official_name            = City of Santa Clara
+<!-- Images and maps --—-->
+| image_skyline                   = {{Photomontage
+| photo1a                 = Santa Clara, CA USA - Santa Clara University, Mission Santa Clara de Asis - panoramio (2) (cropped).jpg
+| photo2a                 = USA-Santa Clara-Women's Club Adobe.jpg 
+| photo2b                 = USA-Santa Clara-Carmelite Convent-1 (cropped).jpg
+| photo3a                 = Santa Clara, CA USA - Santa Clara University, Mission Santa Clara de Asis - panoramio (20) (cropped).jpg
+| photo3b                 = Santa Clara, CA USA - panoramio (cropped).jpg
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 260
+| foot_montage            = Clockwise: [[Mission Santa Clara de Asís]]; the Carmelite Monastery; [[Clare of Assisi|Saint Claire]] Monument; [[Santa Clara University]]; Women's Club Adobe
+}}
+|image_flag               = Flag of Santa Clara, California.png
+|image_seal               = SantaClaraCitySeal.png
+|nickname                 = 
+|motto                    = 
+|image_map                = Santa_Clara_County_California_Incorporated_and_Unincorporated_areas_Santa_Clara_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Santa Clara County, California|Santa Clara County]] and the U.S. state of [[California]]
+| pushpin_map = California#USA
+| pushpin_map_caption = Location in the United States
+| pushpin_label = Santa Clara
+<!-- Location ------------->
+|coordinates              = {{coord|37|21|16|N|121|58|9|W|display=inline,title}}
+|subdivision_type         = Country
+|subdivision_name         = {{nowrap|{{US}}}}
+|subdivision_type1        = State
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{flagicon image|Flag of Santa Clara County, California.png}} [[Santa Clara County, California|Santa Clara]]
+<!-- History -------------->
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = July 5, 1852<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+ |df          = mdy-all
+}}</ref>
+|named_for                = [[Clare of Assisi|Saint Clare of Assisi]]
+<!-- Government ----------->
+|government_type          = [[Council–manager government|Council/Manager]]<ref>{{Cite web
+ | url = http://santaclaraca.gov/index.aspx?page=7
+ | title = Government
+ | publisher = City of Santa Clara
+ | access-date = April 20, 2015}}</ref>
+|leader_title             = [[City Council]]<ref name=cc>{{Cite web
+ | url = http://santaclaraca.gov/index.aspx?page=395
+ | title = Councilmembers
+ | publisher = City of Santa Clara
+ | access-date = January 23, 2015}}</ref>
+|leader_name              = [[Mayor]] Lisa Gillmor<br />Raj Chahal<br />Debi Davis<br />Karen Hardy<br />Teresa O'Neill<br />Kathy Watanabe
+|leader_title1            = [[City Manager]]
+|leader_name1             = Deanna Santana<ref>{{Cite web
+ | url = http://www.mercurynews.com/2017/08/23/internal-affairs-santa-clara-appoints-deanna-santana-as-new-city-manager/
+ | title = City Manager
+ | publisher = City of Santa Clara
+ | access-date = September 4, 2017| date = 2017-08-23
+ }}</ref>
+|leader_title2 = [[Clerk (municipal official)#California|City Clerk]]
+|leader_name2 = Rod Diridon, Jr.
+<!-- Area ----------------->
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 18.28
+| area_total_km2          = 47.34
+| area_land_sq_mi         = 18.28
+| area_land_km2           = 47.34
+| area_water_sq_mi        = 0.00
+| area_water_km2          = 0.00
+| area_water_percent      = 0
+|area_metro_sq_mi         = 
+|area_metro_km2           = <!-- Elevation ------------>
+|elevation_footnotes      = <ref>{{Cite GNIS|1654953|Santa Clara|accessdate=November 18, 2014}}</ref>
+|elevation_ft             = 72
+|elevation_m              = 22
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=https://www.census.gov/quickfacts/table/PST045215/0669084|title=Santa Clara (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 14, 2016}}</ref>
+|population_total         = 116468
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019"/>
+|population_est           = 130365
+|population_rank          = [[Santa Clara County, California|3rd]] in Santa Clara County<br />[[List of largest California cities by population|45th]] in California
+|population_density_sq_mi = 7132.74
+|population_metro         = 
+|population_density_metro_sq_mi = <!-- Time zones ----------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −7
+<!-- Codes ---------------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 95050, 95051, 95054
+|area_code_type           = [[North American Numbering Plan|Area codes]]
+|area_code                = [[Area codes 408 and 669|408/669]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = {{FIPS|06|69084}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1654953}}, {{GNIS 4|2411816}}
+|website                  = {{URL|SantaClaraCA.gov}}
+|population_density_km2 = 2753.93
+}}
+
+'''Santa Clara''' ({{IPAc-en|ˌ|s|æ|n|t|ə|ˈ|k|l|ær|ə}}) is a city in [[Santa Clara County, California]]. The city's population was 116,468 as of the [[2010 United States Census]], making it the [[List of cities and towns in the San Francisco Bay Area|ninth-most populous city in the San Francisco Bay Area]]. Located on the southern coast of [[San Francisco Bay]] immediately west of [[San Jose, California|San Jose]] and {{convert|45|mi}} southeast of [[San Francisco]], the city was founded in 1777 with the establishment of [[Mission Santa Clara de Asís]], the eighth of 21 [[Spanish missions in California|California missions]]. The city was later [[municipal corporation|incorporated]] in 1852. The mission, the city, and the county are all named for [[Clare of Assisi|Saint Clare of Assisi]].<ref>{{cite journal |last=Gannett |first=Henry |year=1902 |title=The Origin of Certain Place Names in the United States |publisher=U.S. Government Printing Office |url=https://archive.org/details/originofcertainp00gann |journal=Bulletin of the United States Geological Survey |issue=197 |page=[https://archive.org/details/originofcertainp00gann/page/231 231] |access-date=April 24, 2014}}</ref>
+
+Santa Clara is located in the center of [[Silicon Valley]] and is home to the headquarters of several high-tech companies such as [[Intel]]. It is also home to [[Santa Clara University]], the oldest institution of higher learning in the state of California, which was built around Mission Santa Clara de Asís.<ref>"[http://www.scu.edu/stclaregarden/ethno/stclare.cfm Santa Clara University Ethnobiographical Background]." [[Santa Clara University]]. Retrieved on March 13, 2010.</ref> [[Levi's Stadium]], the home of the [[National Football League]]'s [[San Francisco 49ers]], is located in the city. Santa Clara is bordered by [[San Jose, California|San Jose]] on all sides, except for [[Sunnyvale, California|Sunnyvale]] to the west, and [[Cupertino, California|Cupertino]] to the west.
+
+==History==
+[[File:Mission Santa Clara.jpg|thumb|left|[[Mission Santa Clara de Asís]]]]
+The first European to visit the valley was [[José Francisco Ortega]] in 1769. He found the area inhabited by Native Americans, whom the Spanish called the Costanos, "coast people", later known as the [[Ohlone]]. The Spanish began to colonize California with 21 [[California Missions|missions]] and the [[Mission Santa Clara de Asis]] was founded in 1777.
+
+[[File:PostcardSantaClaraCAMainStCirca1910.jpg|thumb|right|200px|upright|Santa Clara's Main Street, circa 1910]]
+In 1846, the American flag was raised over [[Monterey, California|Monterey]] and symbolized the transfer of the sovereignty of the [[California Republic]] over to the United States. In 1851, [[Santa Clara College]] was established on the grounds of the original Mission. In 1852, Santa Clara was [[municipal corporation|incorporated]] as a town; it became state-chartered by 1862.
+
+For the next century the economy centered on agriculture since orchards and vegetables were thriving in the fertile soil. By the beginning of the 20th century, the population had reached 5,000 and stayed about the same for many years.
+
+In 1905, the first public high-altitude flights by humans were made over Santa Clara in gliders designed by [[John J. Montgomery]]. The [[semiconductor industry]], which sprouted around 1960, changed the city and surrounding [[Valley of Heart's Delight]]; little of its agricultural past remains.
+
+Santa Clara's first medical hospital was built in 1963. This structure, on Kiely Boulevard, was replaced in 2007 with the new Kaiser Permanente medical center located on Lawrence Expressway at Homestead Road.
+
+Santa Clara was also home to a major mental health facility, [[Agnews State Hospital]]. According to the National Park Service, more than 100 persons were killed at this site in the 1906 earthquake. The site is the former home to [[Sun Microsystems]] and is listed in the [[National Register of Historic Places]].
+
+Downtown Santa Clara: the 1963 City Council voted to knock down the 8 block grid of downtown area next to Santa Clara University bordered by Lafayette, Benton, Monroe, and Homestead (previously named Liberty in 1963) to receive federal funding from Urban Renewal in USA. In 2018 there is a parking lot and Franklin Mall on Washington St (2 blocks) with the one state historical building is, Santa Clara Post Office, apartment building, county courthouse, and strip mall.<ref>''Santa Clara Journal'' micro film, Santa Clara, California Wednesday, January 2, 1963, First (Front) page, Article: Renewal Hits Homestretch, Vol 91 No. 9, Santa Clara City Public Library Archives in Santa Clara,CA</ref><ref>Santa Clara City Urban Renewal: Home Movie Clips 1963–1966 Source By by Warburton, Austen; Warburton, Margot: VHS: 1 Tape of 1 Call Number: Video 979.473 S23 Case, Rights: Copyrighted. Rights are owned by Santa Clara City Library</ref>
+
+==Geography==
+Santa Clara is drained by three seasonal creeks, all of which empty into the southern portion of [[San Francisco Bay]]; these creeks are [[San Tomas Aquino Creek]], [[Saratoga Creek]], and [[Calabazas Creek (Santa Clara County)|Calabazas Creek]].
+
+There are some significant biological resources within the city including [[Habitat (ecology)|habitat]] for the [[burrowing owl]], a [[species]] of special concern in California due to reduction in habitat from urban development during the latter 20th century.<ref>''Environmental Impact Report for the Esperanca property, Santa Clara, California'', Earth Metrics Inc., California State Clearinghouse (1990)</ref> This owl uses burrows created by [[ground squirrel]]s and prefers generally level grasslands and even disturbed areas.
+
+According to the [[United States Census Bureau]], the city covers an area of {{convert|18.4|sqmi|km2}}, all of it land.
+
+Despite being located only 45 miles from San Francisco, Santa Clara's climate is rather distinct—particularly during the summer, when it is generally warm and sunny, as opposed to the foggy and cool conditions one normally finds in San Francisco. The average daily temperatures in July range from {{convert|82|F}} to {{convert|53|F}}. Winters are mild, with the mean daily temperatures in January ranging from {{convert|58|F}} to {{convert|38|F}}. Most of the annual rainfall comes in the winter months; the summer months are generally rainless.
+
+{{Weather box |width=80%
+|location = Santa Clara, California ([[Santa Clara University]], 1893–1976)
+|single line = Y
+|Jan high F = 58
+|Feb high F = 62
+|Mar high F = 66
+|Apr high F = 70
+|May high F = 74
+|Jun high F = 79
+|Jul high F = 82
+|Aug high F = 82
+|Sep high F = 81
+|Oct high F = 76
+|Nov high F = 67
+|Dec high F = 59
+|year high F =
+|Jan low F = 38
+|Feb low F = 41
+|Mar low F = 42
+|Apr low F = 44
+|May low F = 47
+|Jun low F = 50
+|Jul low F = 53
+|Aug low F = 52
+|Sep low F = 51
+|Oct low F = 47
+|Nov low F = 42
+|Dec low F = 39
+|year low F =
+|Jan precipitation inch = 3.03
+|Feb precipitation inch = 2.56
+|Mar precipitation inch = 2.30
+|Apr precipitation inch = 1.03	
+|May precipitation inch = .40
+|Jun precipitation inch = .09
+|Jul precipitation inch = .01	
+|Aug precipitation inch = .04
+|Sep precipitation inch = .27
+|Oct precipitation inch = .63
+|Nov precipitation inch = 1.47
+|Dec precipitation inch = 2.66
+|Jan precipitation days = 10
+|Feb precipitation days = 9	
+|Mar precipitation days = 9
+|Apr precipitation days = 5
+|May precipitation days = 3
+|Jun precipitation days = 1
+|Jul precipitation days = 0
+|Aug precipitation days = 0
+|Sep precipitation days = 1
+|Oct precipitation days = 3
+|Nov precipitation days = 6
+|Dec precipitation days = 9
+|unit precipitation days = .01 in
+|source 1 = Western Regional Climate Center<ref>[http://www.wrcc.dri.edu/cgi-bin/cliMAIN.pl?ca7912 Santa Clara University, California – Climate Summary]. Wrcc.dri.edu. Retrieved on 2013-07-29.</ref>
+|date=May 2013}}
+
+==Demographics==
+{{US Census population
+|1880= 2416
+|1890= 2891
+|1900= 3650
+|1910= 4348
+|1920= 5220
+|1930= 6302
+|1940= 6650
+|1950= 11702
+|1960= 58880
+|1970= 86118
+|1980= 87700
+|1990= 93613
+|2000= 102361
+|2010= 116468
+|estyear=2019
+|estimate=130365
+|estref=<ref name="USCensusEst2019">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|title=Population and Housing Unit Estimates|access-date=May 21, 2020}}</ref>
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+===2010===
+[[File:Santa Clara California Dwellings.jpg|thumb|200px|A housing development]]
+
+The [[2010 United States Census]]<ref>{{cite web|url=http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0669084|archive-url=https://archive.today/20140715033038/http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0669084|url-status=dead|archive-date=July 15, 2014|title=2010 Census Interactive Population Search: CA – Santa Clara city|publisher=U.S. Census Bureau|access-date=July 12, 2014}}</ref> reported that Santa Clara had a population of 116,468. The population density was 6,327.3 people per square mile (2,443.0/km{{sup|2}}). The ethnic makeup of Santa Clara was 52,359 (45.0%) [[White (U.S. Census)|White]], 3,154 (2.7%) [[African American (U.S. Census)|African American]], 579 (0.5%) [[Native American (U.S. Census)|Native American]], 43,889 (37.7%) [[Asian (U.S. Census)|Asian]] (13.6% Indian, 6.9% Chinese, 6.2% Filipino, 3.9% Vietnamese, 3.0% Korean, 1.5% Japanese), 651 (0.6%) [[Pacific Islander (U.S. Census)|Pacific Islander]], 9,624 (8.3%) from [[Race (United States Census)|other races]], and 6,212 (5.3%) from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 22,589 persons (19.4%); 14.6% of Santa Clara's population was of Mexican ancestry.
+
+The Census reported that 113,272 people (97.3% of the population) lived in households, 2,860 (2.5%) lived in non-institutionalized group quarters, and 336 (0.3%) were institutionalized.
+
+There were 43,021 households, out of which 14,477 (33.7%) had children under the age of 18 living in them, 21,817 (50.7%) were [[marriage|opposite-sex married couples]] living together, 4,081 (9.5%) had a female householder with no husband present, 2,038 (4.7%) had a male householder with no wife present.  There were 2,146 (5.0%) [[POSSLQ|unmarried opposite-sex partnerships]], and 312 (0.7%) [[same-sex partnerships|same-sex married couples or partnerships]]. 10,906 households (25.4%) were made up of individuals, and 2,945 (6.8%) had someone living alone who was 65 years of age or older. The average household size was 2.63.  There were 27,936 [[family (U.S. Census)|families]] (64.9% of all households); the average family size was 3.18.
+
+The age distribution of the population was as follows: 24,774 people (21.3%) were under the age of 18, 12,511 people (10.7%) aged 18 to 24, 41,876 people (36.0%) aged 25 to 44, 25,628 people (22.0%) aged 45 to 64, and 11,679 people (10.0%) who were 65 years of age or older.  The median age was 34.1 years. For every 100 females, there were 102.0 males.  For every 100 females age 18 and over, there were 100.9 males.
+
+There were 45,147 housing units at an average density of 2,452.7 per square mile (947.0/km{{sup|2}}), of which 19,747 (45.9%) were owner-occupied, and 23,274 (54.1%) were occupied by renters. The homeowner vacancy rate was 1.3%; the rental vacancy rate was 4.6%.  53,694 people (46.1% of the population) lived in owner-occupied housing units and 59,578 people (51.2%) lived in rental housing units.
+{|
+|-
+|align="left" |
+{| class="wikitable sortable collapsible" style="margin-left:auto;margin-right:auto;text-align: right;font-size: 90%;"
+! Demographic profile<ref>{{cite web|url=http://www.bayareacensus.ca.gov/cities/SantaClara.htm|title=Demographic Profile Bay Area Census}}</ref>
+! 2010
+|-
+|align="left" | Total Population || 116,468 – 100.0%
+|-
+|align="left" | One Race || 110,256 – 94.7%
+|-
+|align="left" | Not Hispanic or Latino || 93,879 – 80.6%
+|-
+|align="left" | White alone || 42,026 – 36.1%
+|-
+|align="left" | Black or African American alone || 2,929 – 2.5%
+|-
+|align="left" | American Indian and Alaska Native alone || 240 – 0.2%
+|-
+|align="left" | Asian alone || 43,531 – 37.4%
+|-
+|align="left" | Native Hawaiian and Other Pacific Islander alone || 604 – 0.5%
+|-
+|align="left" | Some other race alone || 321 – 0.3%
+|-
+|align="left" | Two or more races alone || 4,228 – 3.6%
+|-
+|align="left" | Hispanic or Latino (of any race) || 22,589 – 19.4%
+|}
+|}
+
+===2000===
+
+As of the [[census]]<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref> of 2000, there were 102,361 people, 38,526 households, and 24,117 families residing in the city.  The [[population density]] was 2,149.1/km{{sup|2}} (5,566.2/mi<sup>2</sup>).  There were 39,630 housing units at an average density of 832.0/km{{sup|2}} (2,155.0/mi<sup>2</sup>). The ethnic makeup of the city was 55.59% [[White (U.S. Census)|White]], 2.29% [[African American (U.S. Census)|African American]], 0.53% [[Native American (U.S. Census)|Native American]], 29.27% [[Asian (U.S. Census)|Asian]], 0.43% [[Pacific Islander (U.S. Census)|Pacific Islander]], 6.94% from [[Race (U.S. Census)|other races]], and 4.95% from two or more races.  15.99% of the population were [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race.
+
+There were 38,526 households, out of which 27.4% had children under the age of 18 living with them, 48.4% were married couples living together, 9.5% had a female householder with no husband present, and 37.4% were non-families. 25.9% of all households were made up of individuals, and 6.8% had someone living alone who was 65 years of age or older.  The average household size was 2.58 and the average family size was 3.14.
+
+In the city, the age distribution of the population showed 19.9% under the age of 18, 11.3% from 18 to 24, 39.1% from 25 to 44, 19.1% from 45 to 64, and 10.6% who were 65 years of age or older.  The median age was 33 years. For every 100 females, there were 103.6 males.  For every 100 females age 18 and over, there were 102.9 males.
+
+According to a 2007 estimate, the median [[income]] for a household in the city was $75,687, and the median income for a family was $98,977.<ref>{{cite web|url=http://factfinder.census.gov/servlet/STTable?_bm=y&-context=st&-qr_name=ACS_2007_1YR_G00_S1901&-ds_name=ACS_2007_1YR_G00_&-CONTEXT=st&-tree_id=307&-redoLog=false&-_caller=geoselect&-geo_id=16000US0669084&-format=&-_lang=en|title=American FactFinder – Results|first=U.S. Census|last=Bureau|access-date=May 3, 2009|archive-url=https://archive.today/20200212055755/http://factfinder.census.gov/servlet/STTable?_bm=y&-context=st&-qr_name=ACS_2007_1YR_G00_S1901&-ds_name=ACS_2007_1YR_G00_&-CONTEXT=st&-tree_id=307&-redoLog=false&-_caller=geoselect&-geo_id=16000US0669084&-format=&-_lang=en|archive-date=February 12, 2020|url-status=dead}}</ref> Males had a median income of $58,641 versus $43,131 for females. The [[per capita income]] for the city was $31,755.  About 4.5% of families and 7.8% of the population were below the [[poverty line]], including 6.3% of those under age 18 and 8.2% of those age 65 or over.
+
+==Economy==
+[[File:New McAfee Headquarters.jpg|thumb|200px|[[McAfee]] headquarters]]
+Santa Clara owns and operates an electric utility called [[Silicon Valley Power]]. In 2005 Silicon Valley Power brought online the [[Donald Von Raesfeld Power Plant|Donald Von Raesfeld (DVR) Power Plant]]. The new [[combined cycle]] gas turbine plant produces 147 megawatts of electricity for the city and its residents.<ref>''Silicon Valley Power Dedicates Donald Von Raesfeld Power Plant on June 15, 2005'', City of Santa Clara news release (2005)</ref> As a result, the going rate for electricity in Santa Clara is considerably cheaper than that offered by Northern California's dominant utility, [[Pacific Gas and Electric Company|Pacific Gas and Electric]].
+
+[[Advanced Micro Devices]], [[Affymetrix]], [[Agilent Technologies]], [[Applied Materials]], [[Arista Networks]], [[Aruba Networks|Aruba]], [[Atheros]], [[Brillio]], [[Chegg]], [[Coherent, Inc.|Coherent]], [[Extreme Networks]], [[FileMaker Inc.|FileMaker]], [[Global Foundries]], [[Hortonworks]], [[Infoblox]], [[Intel]], [[Intevac]], [[Marvell Technology Group|Marvell]], [[McAfee]], [[Move (company)|Move inc]], [[National Semiconductor]], [[Nvidia]], [[OmniVision Technologies|OmniVision]], [[Ooyala]], [[Palo Alto Networks]], [[PMC-Sierra]], [[Rovi Corporation|Rovi]], [[ServiceNow]], [[Silicon Valley Bank]], [[Synaptics]], [[Trident Microsystems]] and [[Veritas Technologies]] are among the companies headquartered in Santa Clara.{{citation needed|date=July 2018}} [[Namco Bandai Games]]'s United States office is in Santa Clara.<ref>"[http://www.namcobandaigames.com/corporate Company Info]." ''[[Namco Bandai]]''. Retrieved on December 8, 2008.</ref>
+
+===Top employers===
+According to the City's 2019 Comprehensive Annual Financial Report,<ref>[https://www.santaclaraca.gov/home/showdocument?id=65838 City of Santa Clara CAFR 2019]</ref> the top employers in the city are:
+
+{| class="wikitable"
+|-
+! #
+! Employer
+! # of Employees
+|-
+| 1
+| [[Applied Materials]]
+|8,500
+|-
+|2
+|[[Intel]]
+|7,801
+|-
+|3
+|[[AMD]]
+|3,000
+|-
+|4
+|[[California's Great America]]
+|2,500
+|-
+|5
+| [[Avaya Inc.]]
+|2,000
+|-
+|6
+| [[Santa Clara University]]
+|2,000
+|-
+|7
+|[[City of Santa Clara]]
+|1,955
+|-
+|8
+|[[Kaiser Foundation Hospitals]]
+|1,459
+|-
+|9
+|[[Macy's]]
+|1,200
+|-
+|10
+|[[On Semiconductor]]
+|1,100
+|}
+
+==Government==
+[[File:Santa Clara city park with fountain.jpg|thumb|right|300px|Park near the library]]
+* [[Governor of California|California Governor]]
+::[[Gavin Newsom]] (D)
+
+* [[United States Senate|United States Senators]]
+::[[Kamala Harris]] (D)<ref name=GovTrack>{{Cite GovTrack|CA|17|accessdate=March 14, 2013}}</ref>
+::[[Dianne Feinstein]] (D)<ref name=GovTrack/>
+
+* [[United States House of Representatives|United States Representative]]
+::{{Representative|cacd|17|fmt=usleader}}<ref name=GovTrack/>
+
+* [[California State Senate|State Senator]]
+::{{Representative|casd|10|fmt=sleader}}<ref name=swd>{{Cite web
+ | url = http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | title = Statewide Database
+ | publisher = UC Regents
+ | access-date = November 30, 2014
+ | archive-url = https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | archive-date = February 1, 2015
+ | url-status = dead
+ }}</ref>
+
+* [[California State Assembly]] Representative 
+::{{Representative|caad|25|fmt=sleader}}<ref name=swd/>
+
+* Santa Clara County Board of Supervisors
+::[[Ken Yeager]] of District 4
+
+* City Manager
+::Deanna Santana
+
+* City Council<ref name=cc/>
+
+::Lisa Gillmor ([[mayor]])
+::Raj Chahal
+::Debi Davis
+::Karen Hardy
+::Patricia Mahan
+::Teresa O'Neill
+::Kathy Watanabe
+
+==Transportation==
+[[File:CalTrain Station Santa Clara California.jpg|thumb|200px|Santa Clara Caltrain station]]
+Santa Clara has two major train stations: the [[Santa Clara – Great America station]] and the [[Santa Clara station (California)|Santa Clara station]]. Both stations are served by [[Amtrak]]'s ''[[Capitol Corridor]]'' train and the [[Altamont Corridor Express]] (ACE); the latter is also served by [[Caltrain]]. There is also a [[Santa Clara Valley Transportation Authority light rail|light rail system]] operated by the [[Santa Clara Valley Transportation Authority]] (VTA), which also operates the city's buses.
+
+Santa Clara is located adjacent to [[Mineta San Jose International Airport]]. Some other nearby major airports include [[San Francisco International Airport]] and [[Oakland International Airport]].
+
+==Education==
+{{multiple image
+ | align = right
+ | direction = horizontal
+ | total_width=360
+ | image1 = Santa Clara Central Park Library.jpg
+ | alt1 = Central Park Library in Santa Clara
+ | caption1 = Exterior
+ | image2 = SantaClaraLibraryCropped.jpg
+ | alt2 = Interior view of the Santa Clara City Library
+ | caption2  = Interior view
+ | caption_align = center
+ | footer = [[Santa Clara City Library]]
+ | footer_align = center
+}}
+[[Santa Clara Unified School District]] is the public school district that serves Santa Clara and small portions of Sunnyvale and North San Jose.  The city is home to nineteen K–8, elementary, and high schools. Many of the schools are named for former farmers, ranchers, and other notable Santa Clara residents such as Bowers and Bracher elementary schools, Buchser Middle School, [[Wilcox High School]], and [[Santa Clara High School (Santa Clara, California)|Santa Clara High School]]. A small part of the city however is served by [[Cupertino High School]] and its feeder schools in the nearby town of its namesake.
+
+Private [[elementary school]]s and [[high school]]s in Santa Clara include:
+* Granada Islamic School ([[Islamic]] school, grades K-11)<ref>{{cite web |title=Granada Islamic |url=https://www.cde.ca.gov/SchoolDirectory/details?cdscode=43696747084692 |website=California School Directory |publisher=California Department of Education |access-date=July 24, 2018 |language=en}}</ref>
+* Live Oak Academy (grades K-12)<ref>{{cite web |title=Live Oak Academy |url=https://www.cde.ca.gov/SchoolDirectory/details?cdscode=43696746131932 |website=California School Directory |publisher=California Department of Education |access-date=July 24, 2018 |language=en}}</ref>
+* [[Saint Clare School]] ([[Catholic Church|Catholic]] school, grades K-8)<ref>{{cite web |title=St. Clare Elementary  |url=https://www.cde.ca.gov/SchoolDirectory/details?cdscode=43696746980429 |website=California School Directory |publisher=California Department of Education |access-date=July 24, 2018 |language=en}}</ref>
+* Saint Justin School (Catholic school, grades K-8)<ref>{{cite web |title=St. Justin |url=https://www.cde.ca.gov/SchoolDirectory/details?cdscode=43696746980494 |website=California School Directory |publisher=California Department of Education |access-date=July 24, 2018 |language=en}}</ref>
+* Saint Lawrence Elementary and Middle School (Catholic school, grades K-8)<ref>{{cite web |title=St. Lawrence Elementary and Middle School |url=https://www.cde.ca.gov/SchoolDirectory/details?cdscode=43696746980502 |website=California School Directory |publisher=California Department of Education |access-date=July 24, 2018 |language=en}}</ref> 
+* Santa Clara Christian School ([[Christianity|Christian]] school, grades K-8)<ref>{{cite web |title=Santa Clara Christian |url=https://www.cde.ca.gov/SchoolDirectory/details?cdscode=43696747089618 |website=California School Directory |publisher=California Department of Education |access-date=July 24, 2018 |language=en}}</ref>
+* Sierra Elementary and High School (grades K-8)<ref>{{cite web |title=Sierra Elementary and High |url=https://www.cde.ca.gov/SchoolDirectory/details?cdscode=43694196994172 |website=California School Directory |publisher=California Department of Education |access-date=July 24, 2018 |language=en}}</ref>
+* Stratford School (grades K-5)<ref>{{cite web |title=Stratford School |url=https://www.cde.ca.gov/SchoolDirectory/details?cdscode=43696746138861 |website=California School Directory |publisher=California Department of Education |access-date=July 24, 2018 |language=en}}</ref>
+
+Jesuit college [[Santa Clara University]], junior college [[Mission College (Santa Clara, California)|Mission College]], and [[Golden State Baptist College]] are among the city's higher education facilities.
+
+The city is also home to the [[Santa Clara City Library]].<ref>"[http://library.santaclaraca.gov/index.aspx?page=8 Library]." City of Santa Clara. Retrieved on December 7, 2009.</ref>
+
+==Sports==
+{{refimprove section|date=June 2016}}
+The [[Santa Clara Broncos]] are the [[NCAA Division I|Division I]] [[NCAA]] athletic programs of [[Santa Clara University]]. Santa Clara sponsors 19 different teams, most of which compete in the [[West Coast Conference]]. The red and white of the Santa Clara Broncos is featured on the flag of the city, as is the Mission which lies at the heart of the campus. Santa Clara has long benefited from support from the local community, and the Broncos have achieved a bevy of intercollegiate success, notably in Men's Basketball, Baseball, and both Men's and Women's soccer. Santa Clara's [[Leavey Center]], [[Buck Shaw Stadium]], and [[Stephen Schott Stadium]] are all noted as some of the finest facilities of their size on the West Coast.{{citation needed|date=June 2016}} Santa Clara University and its athletic programs play heavily into the culture and history of Santa Clara.
+
+Beginning in the [[2014 NFL season|2014 National Football League season]], the [[San Francisco 49ers]] play their home games at [[Levi's Stadium]], which opened on July 17, 2014. The stadium hosted [[WWE]]'s [[WrestleMania 31]] on March 29, 2015 and [[Super Bowl 50]] on February 7, 2016. The 49ers were founded by [[Tony Morabito]], a Santa Clara University alumnus who chose the red and white of his alma mater for the football team. As a result, the return of the 49ers to Santa Clara is something of a homecoming.
+
+The [[San Jose Earthquakes]] of [[Major League Soccer]] no longer play their home games at [[Buck Shaw Stadium]], located at [[Santa Clara University]]. At one point the entire team and management moved to Houston and formed the [[Houston Dynamo]]. Recently the Earthquakes have fielded a new team, with new management in the Silicon Valley. Both teams have been highly successful.
+
+The [[Santa Clara Swim Club|George F. Haines International Swim Center]] is home and host to numerous local, regional, and international [[competitive swimming]] matches as well as the [[Santa Clara Aquamaids]] [[synchronized swimming]] team.
+
+The [[Santa Clara Vanguard Drum and Bugle Corps|Santa Clara Vanguard]], a competitive marching music organization, has been headquartered in Santa Clara since its inception. The organization runs and operates a [[winter guard]], an [[indoor drumline|indoor percussion ensemble]], and two [[drum and bugle corps (modern)|drum and bugle corps]], all of which compete across the country every year. All four ensembles have been very successful competitively, especially the two drum corps, one of which has won 6 Open Class titles and the other 7 World Class titles. The latter is the only drum corps that has made finals every year since the beginning of [[Drum Corps International]].
+
+==Points of interest==
+Santa Clara is also home to [[California's Great America]], an amusement park currently operated by [[Cedar Fair Entertainment Company|Cedar Fair, L.P.]]. Nearby is the [[Santa Clara Convention Center]], one of Silicon Valley's largest event and meeting venues. Santa Clara also offers several museums such as the [[Intel Museum]], [[Triton Museum of Art]], and the Harris – Lass historical house. Near the above-mentioned Mission College is the [[Our Lady of Peace Shrine]] notable for its thirty-two-foot tall statue which is viewable from [[U.S. Route 101|Highway 101]] in a manner similar to the statue of [[Junípero Serra statue|Junípero Serra]] in [[Hillsborough, California]]. The [[Mission City Center for Performing Arts]] is the city's venue for theatrical productions and entertainment.
+
+The [[San Francisco 49ers]] [[National Football League|NFL]] football team has its headquarters and practice facilities in Santa Clara. On Wednesday, November 8, 2006, the 49ers announced their intention to [[San Francisco 49ers#Move out of San Francisco|move the team]] to Santa Clara in time for the fall 2014 season, after negotiations failed with the city of San Francisco to build a new stadium.<ref>{{cite news | url=https://www.sfgate.com/politics/article/Niners-to-leave-SF-move-to-Santa-Clara-2466950.php | title=Niners to leave SF, move to Santa Clara| website=sfgate.com| date=2006-11-09 |access-date=2020-01-29 |first1=John |last1=Cote |first2=Cecilia M. |last2=Vega |first3=Marisa |last3=Lagos}}</ref>
+
+===Levi's Stadium===
+[[File:Levi's Stadium interior 1.jpg|thumb|The inside of Levi's Stadium, home of the San Francisco 49ers.]]
+{{Main|Levi's Stadium}}
+In 2011, Santa Clara voters approved a plan to build a 68,500-seat stadium for the [[San Francisco 49ers]] of the [[National Football League]]. The groundbreaking for the stadium, located 45 miles southeast of San Francisco, occurred on April 19, 2012.<ref>[http://www.mercurynews.com/southbayfootball/ci_20438575/video-49ers-groundbreaking-ceremony-santa-clara-stadium Video: 49ers' groundbreaking ceremony for Santa Clara stadium – San Jose Mercury News]. Mercurynews.com. Retrieved on 2013-07-29.</ref> The stadium is located between the Great America park (to the south) and the Convention Center. The official ribbon cutting took place on Thursday, July 17, 2014. The first professional sporting event hosted at the stadium was a Major League Soccer (MLS) match between the San Jose Earthquakes and the [[Seattle Sounders FC|Seattle Sounders]] on August 2, 2014. The first professional football event hosted at the stadium was a pre-season game between the 49ers and the [[Denver Broncos]], played on August 17, 2014.
+
+The stadium hosted [[Super Bowl 50]] on February 7, 2016, between the Denver Broncos and the [[Carolina Panthers]] – the Broncos won the game 24–10.
+
+The stadium has also hosted the [[2017 Pac-12 Football Championship Game]] between [[USC Trojans football|USC]] and [[Stanford Cardinal football|Stanford]].
+
+==Sister cities==
+{{As of|May 2015|}}, Santa Clara has three [[sister cities]]:<ref>{{cite web|title=News : New Sister City|url=http://santaclaraca.gov/index.aspx?page=50&recordid=3122|publisher=City of Santa Clara|access-date=May 1, 2015}}</ref>
+* [[Coimbra]], [[Portugal]]
+* [[Izumo, Shimane]], [[Japan]]
+* [[Limerick]], [[Ireland]], since 2014
+
+==See also==
+{{Portal|San Francisco Bay Area}}
+* [[Agnew's Village, California]]
+* [[List of cities and towns in California]]
+* [[List of cities and towns in the San Francisco Bay Area]]
+* [[Santa Clara County, California]]
+* [[Santa Clara Unified School District]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category|Santa Clara, California}}
+{{Wikivoyage|Santa Clara (California)|Santa Clara, California}}
+* {{official website|http://www.santaclaraca.gov/}}
+* [http://www.santaclara.org Santa Clara Convention and Visitors Bureau website]
+* [http://www.santaclarachamber.org Santa Clara Chamber of Commerce website]
+
+{{-}}
+{{World Games Host Cities}}
+{{Silicon Valley}}
+{{San Jose and Silicon Valley attractions|nocat=1}}
+{{SF Bay Area}}
+{{Santa Clara County}}
+{{California}}
+{{California cities and mayors of 100,000 population}}
+
+{{authority control}}
+
+[[Category:Santa Clara, California| ]]
+[[Category:1852 establishments in California]]
+[[Category:Cities in Santa Clara County, California]]
+[[Category:Cities in the San Francisco Bay Area]]
+[[Category:Incorporated cities and towns in California]]
+[[Category:Populated places established in 1777]]
+[[Category:Spanish mission settlements in North America]]

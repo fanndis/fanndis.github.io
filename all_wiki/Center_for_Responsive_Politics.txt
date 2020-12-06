@@ -1,0 +1,80 @@
+{{Infobox organization
+| name                = Center for Responsive Politics
+| logo                = Center for Responsive Politics logo.svg
+| type                = Research
+| founded_date        = {{start date and age|1983}}<ref name=founding />
+| founders            = Former [[United States Senate|U.S. Sens.]] [[Frank Church]] and [[Hugh Scott]]
+| location            = [[Washington, D.C.]]
+| area_served         = [[United States]]
+| focus               = Money in politics
+| motto               = Money Talks. We Translate.
+| website             = {{URL|https://www.opensecrets.org/}}
+| status              = [[501(c)(3)]]<ref name= irseos>"[https://apps.irs.gov/app/eos/displayAll.do?dispatchMethod=displayAllInfo&Id=652600&ein=521275227&country=US&deductibility=all&dispatchMethod=searchAll&isDescending=false&city=&ein1=&postDateFrom=&exemptTypeCode=al&submitName=&sortColumn=orgName&totalResults=1&names=Center+for+Responsive+Politics&resultsPerPage=25&indexOfFirstRow=0&postDateTo=&state=All+States Center for Responsive Politics]". ''Tax Exempt Organization Search''. ''Internal Revenue Search''. Retrieved November 3, 2019.</ref>
+| tax_id              = 52-1275227<ref name= irseos/>
+| coordinates         = {{coord|38.9037|-77.0300|display=inline, title}}
+| purpose             = To produce and disseminate peerless data and analysis on money in politics to inform and engage Americans, champion transparency, and expose disproportionate or undue influence on public policy.<ref name= 990-2017>"[https://pdf.guidestar.org/PDF_Images/2017/521/275/2017-521275227-0feda460-9.pdf Form 990: Return of Organization Exempt from Income Tax]". ''Center for Responsive Politics''. [[Guidestar]]. December 31, 2017.</ref>
+| leader_name         = John Coyle<ref name= board>"[https://www.opensecrets.org/about/board.php OpenSecrets: Board of Directors]". ''Center for Responsive Politics''. Retrieved November 3, 2019.</ref>
+| leader_title        = [[Chairman|Chair]], [[Board of Directors]]
+| leader_name2        = [[Sheila Krumholz]]<ref name=open-secrets-staff/>
+| leader_title2       = [[Executive Director]]
+| employees           = 31<ref name= 990-2017/>
+| employees_year      = 2017
+| revenue             = $1,436,025<ref name= 990-2017/>
+| revenue_year        = 2017
+| expenses            = $2,032,042<ref name= 990-2017/>
+| expenses_year       = 2017
+| endowment           = $800,000 <sub>(2017)</sub><ref name= 990-2017/>
+}}
+
+The '''Center for Responsive Politics''' ('''CRP''') is a [[nonprofit organization|non-profit]], [[nonpartisan]] research group based in [[Washington, D.C.]], that tracks the effects of money and [[lobbying]] on elections and public policy.<ref name=political-junkie-handbook /> It maintains a public online database of its information.<ref name=open-secrets-about />
+
+Its website, '''OpenSecrets.org''', allows users to track federal [[campaign contributions]] and lobbying by lobbying firms, individual lobbyists, industry, "[[dark money]]", [[list of federal agencies in the United States|federal agencies]], and bills. Other resources include the personal financial disclosures of all members of the [[U.S. Congress]], the president, and top members of the administration. Users can also search by [[ZIP code]]s to learn how their neighbors are allocating their political contributions.<ref>"[https://www.opensecrets.org/states/ Get Local!]" Center for Responsive Politics. opensecrets.org. Retrieved 2017-07-01.</ref>
+
+==History==
+CRP was founded in 1983 by retired U.S. Senators [[Frank Church]] of [[Idaho]], of the [[Democratic Party (United States)|Democratic Party]], and [[Hugh Scott]] of [[Pennsylvania]], of the [[Republican Party (United States)|Republican Party]].<ref name=founding/> It was officially incorporated on February 1, 1984.<ref>[https://corponline.dcra.dc.gov/BizEntity.aspx/ViewEntityData?entityId=2785557 "Center for Responsive Politics]". ''Department of Consumer and Regulatory Affairs''. Government of the District of Columbia. Retrieved November 3, 2019.</ref> In the 1980s, Church and Scott launched a "money-in-politics" project, whose outcome consisted of large, printed books. Their first book, published in 1988, analyzed spending patterns in congressional elections from 1974 through 1986, including 1986 soft money contributions in five states. It was titled ''Spending in Congressional Elections: A Never-Ending Spiral.''<ref name=campaign-finance />
+
+==Activities==
+In 1996, CRP launched its online counterpart, OpenSecrets.org. The website is a clearinghouse for data and analysis regarding money in politics.<ref name=founding/>
+
+CRP hosts a [[Revolving door (politics)|Revolving Door]] database which documents the individuals who have passed between the public sector and [[Lobbying in the United States|K Street]].<ref name=the-bottom-line-or-public-health />
+
+In 2015, ''[[The News & Observer]]'' published an [[op-ed]] by Robert Maguire, the political nonprofits investigator at CRP, that was critical of Carolina Rising, a [[501(c)(4)]] social welfare organization (i.e. an organization considered by the [[IRS]] to operate exclusively for the promotion of [[social welfare]]) for spending $4.7 million in 2014 on political ads in support of [[Thom Tillis]], Senate candidate from [[North Carolina]].<ref name=news-observer />
+
+==Funding==
+Major donors to the Center for Responsive Politics include the [[Sunlight Foundation]], [[The Pew Charitable Trusts]], the [[Carnegie Corporation of New York]], [[Open Society Foundations]], the [[Joyce Foundation]], and the [[Ford Foundation]]. At the end of 2017, the organization reported $1.44 million in annual revenue and $2.92 million in net assets.<ref name=990-2017/>
+
+==Staff==
+[[Sheila Krumholz]] has been the CRP's executive director since December 2006, having served as the CRP's research director. She joined the organization in 1989.<ref name=open-secrets-staff />
+
+==References==
+{{Reflist | 30em | refs =
+
+<!-- WEBSITE REFERENCES -->
+
+<ref name=news-observer>{{cite web | last = Maguire | first = Robert | date = October 27, 2015 | title = Carolina Rising offers new low in campaign finance | url=https://www.newsobserver.com/opinion/op-ed/article41576454.html | website = [[The News & Observer]]}}</ref>
+
+<ref name=campaign-finance>{{cite web | title = Suggested Background Reading | url = http://www.campaignfinance.org/suggested.html | website = CampaignFinance.org | publisher = Campaign Finance Information Center}}</ref>
+
+<ref name=open-secrets-about>{{cite web | title = OpenSecrets: Mission | url=https://www.opensecrets.org/about/ | publisher = Center for Responsive Politics}}</ref>
+
+<ref name=open-secrets-staff>{{cite web | title=OpenSecrets: Our Team | url=https://www.opensecrets.org/about/staff.php | publisher = Center for Responsive Politics}}</ref>
+
+<!-- BOOK REFERENCES -->
+
+<ref name=founding>{{cite book | last = Harvey | first = Kerric | date = 2013 | title = Encyclopedia of Social Media and Politics | publisher = Sage Publications | page = 252 | isbn = 9781452290263}}</ref>
+
+<ref name=the-bottom-line-or-public-health>{{cite book | last = Wiist | first = William | title = The Bottom Line or Public Health: Tactics Corporations Use to Influence Health and Health Policy, and What We Can Do to Counter Them | date = 2010 | publisher = Oxford University Press | page = 149 | isbn = 9780199704927}}</ref>
+
+<ref name=political-junkie-handbook>{{cite book | last = Crane | first = Michael | date = 2004 | title = The Political Junkie Handbook: The Definitive Reference Book on Politics | publisher = SP Books | page = 547 | isbn = 9781561718917}}</ref>
+
+}}
+
+==External links==
+*{{official website|https://www.opensecrets.org/}}
+
+{{Authority control}}
+
+[[Category:Government watchdog groups in the United States]]
+[[Category:Lobbying in the United States]]
+[[Category:Non-profit organizations based in Washington, D.C.]]
+[[Category:Open government]]

@@ -1,0 +1,452 @@
+{{short description|Total domestic and foreign economic output claimed by residents of a country}}
+{{distinguish|Gross domestic product|Modified gross national income|GNI*}}
+[[File:World Bank&#039;s Income Groups, OWID.svg|thumb|upright=1.6|World Bank's income groups as of 2016.<ref>{{cite web |title=World Bank's Income Groups |url=https://ourworldindata.org/grapher/world-banks-income-groups |website=Our World in Data |accessdate=5 March 2020}}</ref>]]
+{{Economic sectors}}
+{{Grey market}}
+{{Economic systems sidebar}}
+
+The '''gross national income''' ('''GNI'''), previously known as '''gross national product''' ('''GNP'''), is the total domestic and foreign output claimed by residents of a country, consisting of gross domestic product ([[GDP]]), plus [[factor income]]s earned by foreign residents, minus income earned in the domestic economy by nonresidents (Todaro & Smith, 2011: 44).<ref>Todaro, M. P., & Smith, S. C. (2011). Economic Development 11. ''Addison-Wesley, Pearson, ISBN'', ''10'', 0-13.</ref> Comparing GNI to GDP shows the degree to which a nation's GDP represents domestic or international activity.  GNI has gradually replaced GNP in international statistics.<ref name=nominal>{{cite web|url=http://data.worldbank.org/indicator/NY.GNP.ATLS.CD|author=World Bank|title=GNI, Atlas method|website=data.worldbank.org|accessdate=2016-06-23|author-link=World Bank}}</ref><ref name=ppp>{{cite web|url=http://data.worldbank.org/indicator/NY.GNP.MKTP.PP.CD/countries|author=World Bank|title=GNI, PPP (international $)|website=data.worldbank.org|accessdate=2016-06-23|author-link=World Bank}}</ref> While being conceptually identical, it is calculated differently.<ref name="Eurostat">{{Cite journal|url=http://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Gross_national_income_%28GNI%29|title=Glossary:Gross national income (GNI) |journal=Eurostat Statistic Explained|publisher=[[Eurostat]]|accessdate=2016-06-23}}</ref> GNI is the basis of calculation of the largest part of contributions to the [[budget of the European Union#GNI-based own resources|budget of the European Union]].<ref>{{Cite journal|url=http://ec.europa.eu/eurostat/statistics-explained/index.php/Monitoring_GNI_for_own_resource_purposes|title=Monitoring GNI for own resource purposes|journal=Eurostat Statistic Explained|publisher=[[Eurostat]]|accessdate=2016-06-23}}</ref>  In February 2017, Ireland's GDP became so distorted from the [[base erosion and profit shifting]] ("BEPS") tax planning tools of U.S. multinationals, that the [[Central Bank of Ireland]] replaced Irish GDP with a new metric, Irish [[Modified gross national income|Modified GNI*]].  In 2017, Irish GDP was [[Modified gross national income#Irish GDP versus Modified GNI (2009-2017)|162% of Irish Modified GNI*]].<ref name="ber">{{cite web|url=https://www.socialeurope.eu/wp-content/uploads/2017/01/p_imk_wp_175_2017.pdf|title=CRISIS RECOVERY IN A COUNTRY WITH A HIGH PRESENCE OF FOREIGN-OWNED COMPANIES: The Case of Ireland|author=Heike Joebges|date=January 2017|publisher=IMK Macroeconomic Policy Institute, [[Hans-Böckler-Stiftung]]}}</ref>
+
+==Comparison of GNI and GDP==
+<math> \mathrm{GNI} = \mathrm{GDP} + \text{Money flowing from foreign countries} - \text{Money flowing to foreign countries}</math>
+
+{| class="wikitable sortable" style="text-align:right;"
+|+Comparison of GNI ([[Atlas method]]), GNI and GDP<br>2018 World Bank (millions of current US$)
+!rowspan="2" |No. !! rowspan="2" |Country !! colspan="2" |GNI ([[Atlas method]])<ref>{{cite web |title=GNI, Atlas method (current US$) |publisher=World Bank |url=https://data.worldbank.org/indicator/NY.GNP.ATLS.CD}}</ref> !!colspan="2"|GNI<ref>{{cite web |title=GNI (current US$) |publisher=World Bank |url=https://data.worldbank.org/indicator/NY.GNP.MKTP.CD}}</ref> !!rowspan="2"|GDP<ref>{{cite web |title=GDP (current US$) |publisher=World Bank |url=https://data.worldbank.org/indicator/NY.GDP.MKTP.CD}}</ref>
+|-
+! value (a)!! a - GDP !! value (b) !!  b - GDP
+|-
+|1 || style="text-align:left;" | {{flag|United States}} || 20,636,317 || -267,153 || 20,837,347 || 344,239 || 20,544,343
+|-
+|2 || style="text-align:left;" | {{flag|China}} || 13,181,372 || 175,082 || 13,556,853 || -44,951 || 13,608,151
+|-
+|3 || style="text-align:left;" | {{flag|Japan}} ||5,226,599|| -123,267 || 5,155,423 || 156,212 || 4,971,323
+|-
+|4 || style="text-align:left;" | {{flag|Germany}} || 3,905,321 || 146,841 || 4,058,030 || 58,783 || 3,947,620
+|-
+|5 || style="text-align:left;" | {{flag|United Kingdom}} || 2,777,405 || 130,590 || 2,816,805 || -60,242 || 2,855,296
+|-
+|6 || style="text-align:left;" | {{flag|France}} || 2,752,034 || 39,806 || 2,840,071 || 37,660 || 2,777,535
+|-
+|7 || style="text-align:left;" | {{flag|India}} || 2,727,893 || 124,576 || 2,691,040 || 39,230 || 2,718,732
+|-
+|8 || style="text-align:left;" | {{flag|Italy}} || 2,038,376 || -51,486 || 2,106,525 || -28,268 || 2,083,864
+|-
+|9 || style="text-align:left;" | {{flag|Brazil}} || 1,902,286 || 64,182 || 1,832,170 || 4,172 || 1,885,482
+|-
+|10 || style="text-align:left;" | {{flag|Canada}} || 1,665,565 || 54,417 || 1,694,054 || -21,265 || 1,713,341
+|}
+
+== GNI ([[Atlas method]]) nominal ==
+Nominal, Atlas method – millions of current [[US$]] (top 15)<ref name=nominal/>
+{| class="wikitable sortable"
+|-
+!Rank
+!colspan=2|2014
+!colspan=2|2013
+!colspan=2|2012
+!colspan=2|2011
+!colspan=2|2010
+!colspan=2|2009
+!colspan=2|2008
+!colspan=2|2007
+!colspan=2|2006
+|-
+!1
+|{{USA }}||style=text-align:right|{{formatnum:17611491}}
+|{{USA }}||style=text-align:right|{{formatnum:17001290}}
+|{{USA }}||style=text-align:right|{{formatnum:16501016}}
+|{{USA }}||style=text-align:right|{{formatnum:15727291}}
+|{{USA }}||style=text-align:right|{{formatnum:15143137}}
+|{{USA }}||style=text-align:right|{{formatnum:14740580}}
+|{{USA }}||style=text-align:right|{{formatnum:15002428}}
+|{{USA }}||style=text-align:right|{{formatnum:14651211}}
+|{{USA }}||style=text-align:right|{{formatnum:14345565}}
+|-
+!2
+|{{CHN }}||style=text-align:right|{{formatnum:10096966}}
+|{{CHN }}||style=text-align:right|{{formatnum:9110333}}
+|{{CHN }}||style=text-align:right|{{formatnum:7934721}}
+|{{CHN }}||style=text-align:right|{{formatnum:6726270}}
+|{{CHN }}||style=text-align:right|{{formatnum:5752320}}
+|{{CHN }}||style=text-align:right|{{formatnum:4856999}}
+|{{JPN }}||style=text-align:right|{{formatnum:4835553}}
+|{{JPN }}||style=text-align:right|{{formatnum:4812119}}
+|{{JPN }}||style=text-align:right|{{formatnum:4931413}}
+|-
+!3
+|{{JPN }}||style=text-align:right|{{formatnum:5339076}}
+|{{JPN }}||style=text-align:right|{{formatnum:5899905}}
+|{{JPN }}||style=text-align:right|{{formatnum:6101579}}
+|{{JPN }}||style=text-align:right|{{formatnum:5775633}}
+|{{JPN }}||style=text-align:right|{{formatnum:5376601}}
+|{{JPN }}||style=text-align:right|{{formatnum:4797984}}
+|{{CHN }}||style=text-align:right|{{formatnum:4070860}}
+|{{DEU }}||style=text-align:right|{{formatnum:3348291}}
+|{{DEU }}||style=text-align:right|{{formatnum:3160529}}
+|-
+!4
+|{{DEU }}||style=text-align:right|{{formatnum:3853623}}
+|{{DEU }}||style=text-align:right|{{formatnum:3809927}}
+|{{DEU }}||style=text-align:right|{{formatnum:3754154}}
+|{{DEU }}||style=text-align:right|{{formatnum:3801607}}
+|{{DEU }}||style=text-align:right|{{formatnum:3662524}}
+|{{DEU }}||style=text-align:right|{{formatnum:3588452}}
+|{{DEU }}||style=text-align:right|{{formatnum:3601765}}
+|{{CHN }}||style=text-align:right|{{formatnum:3283519}}
+|{{CHN }}||style=text-align:right|{{formatnum:2685206}}
+|-
+!5
+|{{FRA }}||style=text-align:right|{{formatnum:2844284}}
+|{{FRA }}||style=text-align:right|{{formatnum:2869883}}
+|{{FRA }}||style=text-align:right|{{formatnum:2824713}}
+|{{FRA }}||style=text-align:right|{{formatnum:2889304}}
+|{{FRA }}||style=text-align:right|{{formatnum:2847703}}
+|{{FRA }}||style=text-align:right|{{formatnum:2831553}}
+|{{GBR }}||style=text-align:right|{{formatnum:2904224}}
+|{{GBR }}||style=text-align:right|{{formatnum:2835805}}
+|{{GBR }}||style=text-align:right|{{formatnum:2645489}}
+|-
+!6
+|{{GBR }}||style=text-align:right|{{formatnum:2801499}}
+|{{GBR }}||style=text-align:right|{{formatnum:2695974}}
+|{{GBR }}||style=text-align:right|{{formatnum:2612525}}
+|{{GBR }}||style=text-align:right|{{formatnum:2542593}}
+|{{GBR }}||style=text-align:right|{{formatnum:2540957}}
+|{{GBR }}||style=text-align:right|{{formatnum:2666939}}
+|{{FRA }}||style=text-align:right|{{formatnum:2800864}}
+|{{FRA }}||style=text-align:right|{{formatnum:2576642}}
+|{{FRA }}||style=text-align:right|{{formatnum:2414820}}
+|-
+!7
+|{{BRA }}||style=text-align:right|{{formatnum:2429720}}
+|{{BRA }}||style=text-align:right|{{formatnum:2486874}}
+|{{BRA }}||style=text-align:right|{{formatnum:2432061}}
+|{{ITA }}||style=text-align:right|{{formatnum:2237958}}
+|{{ITA }}||style=text-align:right|{{formatnum:2234508}}
+|{{ITA }}||style=text-align:right|{{formatnum:2227358}}
+|{{ITA }}||style=text-align:right|{{formatnum:2222143}}
+|{{ITA }}||style=text-align:right|{{formatnum:2093640}}
+|{{ITA }}||style=text-align:right|{{formatnum:1989288}}
+|-
+!8
+|{{ITA }}||style=text-align:right|{{formatnum:2147247}}
+|{{ITA }}||style=text-align:right|{{formatnum:2130760}}
+|{{ITA }}||style=text-align:right|{{formatnum:2143583}}
+|{{BRA }}||style=text-align:right|{{formatnum:2207921}}
+|{{BRA }}||style=text-align:right|{{formatnum:1916260}}
+|{{BRA }}||style=text-align:right|{{formatnum:1572431}}
+|{{ESP }}||style=text-align:right|{{formatnum:1490975}}
+|{{CAN }}||style=text-align:right|{{formatnum:1356017}}
+|{{ESP }}||style=text-align:right|{{formatnum:1241641}}
+|-
+!9
+|{{IND }}||style=text-align:right|{{formatnum:2027964}}
+|{{RUS }}||style=text-align:right|{{formatnum:1981791}}
+|{{IND }}||style=text-align:right|{{formatnum:1892548}}
+|{{IND }}||style=text-align:right|{{formatnum:1755712}}
+|{{IND }}||style=text-align:right|{{formatnum:1555615}}
+|{{ESP }}||style=text-align:right|{{formatnum:1519339}}
+|{{CAN }}||style=text-align:right|{{formatnum:1484345}}
+|{{ESP }}||style=text-align:right|{{formatnum:1353031}}
+|{{CAN }}||style=text-align:right|{{formatnum:1224994}}
+|-
+!10
+|{{RUS }}||style=text-align:right|{{formatnum:1930634}}
+|{{IND }}||style=text-align:right|{{formatnum:1952847}}
+|{{RUS }}||style=text-align:right|{{formatnum:1823299}}
+|{{CAN }}||style=text-align:right|{{formatnum:1617083}}
+|{{CAN }}||style=text-align:right|{{formatnum:1511465}}
+|{{CAN }}||style=text-align:right|{{formatnum:1447937}}
+|{{BRA }}||style=text-align:right|{{formatnum:1427429}}
+|{{BRA }}||style=text-align:right|{{formatnum:1152772}}
+|{{KOR }}||style=text-align:right|{{formatnum:966585}}
+|-
+!11
+|{{CAN }}||style=text-align:right|{{formatnum:1785099}}
+|{{CAN }}||style=text-align:right|{{formatnum:1848274}}
+|{{CAN }}||style=text-align:right|{{formatnum:1773264}}
+|{{RUS }}||style=text-align:right|{{formatnum:1547010}}
+|{{ESP }}||style=text-align:right|{{formatnum:1496363}}
+|{{IND }}||style=text-align:right|{{formatnum:1392779}}
+|{{RUS }}||style=text-align:right|{{formatnum:1368593}}
+|{{IND }}||style=text-align:right|{{formatnum:1117463}}
+|{{IND }}||style=text-align:right|{{formatnum:941326}}
+|-
+!12
+|{{AUS }}||style=text-align:right|{{formatnum:1444201}}
+|{{AUS }}||style=text-align:right|{{formatnum:1514269}}
+|{{ESP }}||style=text-align:right|{{formatnum:1396221}}
+|{{ESP }}||style=text-align:right|{{formatnum:1455758}}
+|{{RUS }}||style=text-align:right|{{formatnum:1425123}}
+|{{RUS }}||style=text-align:right|{{formatnum:1318495}}
+|{{IND }}||style=text-align:right|{{formatnum:1229139}}
+|{{KOR }}||style=text-align:right|{{formatnum:1091726}}
+|{{MEX }}||style=text-align:right|{{formatnum:921879}}
+|-
+!13
+|{{ESP }}||style=text-align:right|{{formatnum:1366027}}
+|{{ESP }}||style=text-align:right|{{formatnum:1376929}}
+|{{AUS }}||style=text-align:right|{{formatnum:1359417}}
+|{{KOR }}||style=text-align:right|{{formatnum:1125787}}
+|{{KOR }}||style=text-align:right|{{formatnum:1053302}}
+|{{KOR }}||style=text-align:right|{{formatnum:1037381}}
+|{{KOR }}||style=text-align:right|{{formatnum:1118647}}
+|{{RUS }}||style=text-align:right|{{formatnum:1079991}}
+|{{BRA }}||style=text-align:right|{{formatnum:898063}}
+|-
+!14
+|{{KOR }}||style=text-align:right|{{formatnum:1365797}}
+|{{KOR }}||style=text-align:right|{{formatnum:1298958}}
+|{{KOR }}||style=text-align:right|{{formatnum:1232164}}
+|{{AUS }}||style=text-align:right|{{formatnum:1119902}}
+|{{MEX }}||style=text-align:right|{{formatnum:1026316}}
+|{{MEX }}||style=text-align:right|{{formatnum:988663}}
+|{{MEX }}||style=text-align:right|{{formatnum:1074555}}
+|{{MEX }}||style=text-align:right|{{formatnum:1000700}}
+|{{RUS }}||style=text-align:right|{{formatnum:830146}}
+|-
+!15
+|{{MEX }}||style=text-align:right|{{formatnum:1237533}}
+|{{MEX }}||style=text-align:right|{{formatnum:1202800}}
+|{{MEX }}||style=text-align:right|{{formatnum:1167292}}
+|{{MEX }}||style=text-align:right|{{formatnum:1068140}}
+|{{AUS }}||style=text-align:right|{{formatnum:1025186}}
+|{{AUS }}||style=text-align:right|{{formatnum:954754}}
+|{{AUS }}||style=text-align:right|{{formatnum:900062}}
+|{{NLD }}||style=text-align:right|{{formatnum:809106}}
+|{{NLD }}||style=text-align:right|{{formatnum:753205}}
+|}
+
+== GNI ([[Atlas method]]) PPP ==
+[[Purchasing power parity|PPP]] – millions of [[international dollar]]s (top 15)<ref name=ppp/>
+{| class="wikitable sortable"
+|-
+!Rank
+!colspan=2|2016
+!colspan=2|2014
+!colspan=2|2013
+!colspan=2|2012
+!colspan=2|2011
+!colspan=2|2010
+!colspan=2|2009
+!colspan=2|2008
+!colspan=2|2007
+!colspan=2|2006
+|-
+!1
+|{{CHN }}||style=text-align:right|{{formatnum:21366057}}
+|{{CHN }}||style=text-align:right|{{formatnum:17966893}}
+|{{USA }}||style=text-align:right|{{formatnum:17091162}}
+|{{USA }}||style=text-align:right|{{formatnum:16596084}}
+|{{USA }}||style=text-align:right|{{formatnum:15802898}}
+|{{USA }}||style=text-align:right|{{formatnum:15121133}}
+|{{USA }}||style=text-align:right|{{formatnum:14494460}}
+|{{USA }}||style=text-align:right|{{formatnum:14791194}}
+|{{USA }}||style=text-align:right|{{formatnum:14585723}}
+|{{USA }}||style=text-align:right|{{formatnum:14140770}}
+|-
+!2
+|{{USA }}||style=text-align:right|{{formatnum:18749688}}
+|{{USA }}||style=text-align:right|{{formatnum:17823200}}
+|{{CHN }}||style=text-align:right|{{formatnum:16418959}}
+|{{CHN }}||style=text-align:right|{{formatnum:15112256}}
+|{{CHN }}||style=text-align:right|{{formatnum:13680536}}
+|{{CHN }}||style=text-align:right|{{formatnum:12305378}}
+|{{CHN }}||style=text-align:right|{{formatnum:11017654}}
+|{{CHN }}||style=text-align:right|{{formatnum:10090052}}
+|{{CHN }}||style=text-align:right|{{formatnum:8991462}}
+|{{CHN }}||style=text-align:right|{{formatnum:7637790}}
+|-
+!3
+|{{IND }}||style=text-align:right|{{formatnum:8594226}}
+|{{IND }}||style=text-align:right|{{formatnum:7292778}}
+|{{IND }}||style=text-align:right|{{formatnum:6699996}}
+|{{IND }}||style=text-align:right|{{formatnum:6179567}}
+|{{IND }}||style=text-align:right|{{formatnum:5794517}}
+|{{IND }}||style=text-align:right|{{formatnum:5314158}}
+|{{IND }}||style=text-align:right|{{formatnum:4783856}}
+|{{JPN }}||style=text-align:right|{{formatnum:4433212}}
+|{{JPN }}||style=text-align:right|{{formatnum:4408333}}
+|{{JPN }}||style=text-align:right|{{formatnum:4180595}}
+|-
+!4
+|{{JPN }}||style=text-align:right|{{formatnum:5443842}}
+|{{JPN }}||style=text-align:right|{{formatnum:4846688}}
+|{{JPN }}||style=text-align:right|{{formatnum:4844841}}
+|{{JPN }}||style=text-align:right|{{formatnum:4700740}}
+|{{JPN }}||style=text-align:right|{{formatnum:4522723}}
+|{{JPN }}||style=text-align:right|{{formatnum:4437371}}
+|{{JPN }}||style=text-align:right|{{formatnum:4192471}}
+|{{IND }}||style=text-align:right|{{formatnum:4376743}}
+|{{IND }}||style=text-align:right|{{formatnum:4138987}}
+|{{IND }}||style=text-align:right|{{formatnum:3658435}}
+|-
+!5
+|{{DEU }}||style=text-align:right|{{formatnum:4394786}}
+|{{DEU }}||style=text-align:right|{{formatnum:4243163}}
+|{{DEU }}||style=text-align:right|{{formatnum:4097775}}
+|{{DEU }}||style=text-align:right|{{formatnum:3890009}}
+|{{DEU }}||style=text-align:right|{{formatnum:3634151}}
+|{{DEU }}||style=text-align:right|{{formatnum:3505460}}
+|{{DEU }}||style=text-align:right|{{formatnum:3407922}}
+|{{DEU }}||style=text-align:right|{{formatnum:3286644}}
+|{{DEU }}||style=text-align:right|{{formatnum:3170077}}
+|{{DEU }}||style=text-align:right|{{formatnum:3006891}}
+|-
+!6
+|{{BRA }}||style=text-align:right|{{formatnum:4175469}}
+|{{BRA }}||style=text-align:right|{{formatnum:3809390}}
+|{{BRA }}||style=text-align:right|{{formatnum:3651266}}
+|{{BRA }}||style=text-align:right|{{formatnum:3474015}}
+|{{BRA }}||style=text-align:right|{{formatnum:3293559}}
+|{{BRA }}||style=text-align:right|{{formatnum:3157522}}
+|{{BRA }}||style=text-align:right|{{formatnum:2953733}}
+|{{BRA }}||style=text-align:right|{{formatnum:2836486}}
+|{{BRA }}||style=text-align:right|{{formatnum:2724769}}
+|{{BRA }}||style=text-align:right|{{formatnum:2603694}}
+|-
+!7
+|{{RUS }}||style=text-align:right|{{formatnum:3305725}}
+|{{RUS }}||style=text-align:right|{{formatnum:3237388}}
+|{{RUS }}||style=text-align:right|{{formatnum:3108506}}
+|{{RUS }}||style=text-align:right|{{formatnum:3254184}}
+|{{RUS }}||style=text-align:right|{{formatnum:3124400}}
+|{{RUS }}||style=text-align:right|{{formatnum:2837672}}
+|{{RUS }}||style=text-align:right|{{formatnum:2678150}}
+|{{RUS }}||style=text-align:right|{{formatnum:2597648}}
+|{{GBR }}||style=text-align:right|{{formatnum:2325258}}
+|{{GBR }}||style=text-align:right|{{formatnum:2270766}}
+|-
+!8
+|{{IDN }}||style=text-align:right|{{formatnum:2929424}}
+|{{FRA }}||style=text-align:right|{{formatnum:2655517}}
+|{{FRA }}||style=text-align:right|{{formatnum:2625346}}
+|{{FRA }}||style=text-align:right|{{formatnum:2494655}}
+|{{FRA }}||style=text-align:right|{{formatnum:2495100}}
+|{{FRA }}||style=text-align:right|{{formatnum:2381563}}
+|{{FRA }}||style=text-align:right|{{formatnum:2291855}}
+|{{GBR }}||style=text-align:right|{{formatnum:2343012}}
+|{{FRA }}||style=text-align:right|{{formatnum:2288657}}
+|{{FRA }}||style=text-align:right|{{formatnum:2094160}}
+|-
+!9
+|{{FRA }}||style=text-align:right|{{formatnum:2835242}}
+|{{IDN }}||style=text-align:right|{{formatnum:2592315}}
+|{{GBR }}||style=text-align:right|{{formatnum:2483802}}
+|{{GBR }}||style=text-align:right|{{formatnum:2394758}}
+|{{GBR }}||style=text-align:right|{{formatnum:2343934}}
+|{{GBR }}||style=text-align:right|{{formatnum:2281280}}
+|{{GBR }}||style=text-align:right|{{formatnum:2272667}}
+|{{FRA }}||style=text-align:right|{{formatnum:2310555}}
+|{{FRA }}||style=text-align:right|{{formatnum:2224097}}
+|{{RUS }}||style=text-align:right|{{formatnum:2071669}}
+|-
+!10
+|{{GBR }}||style=text-align:right|{{formatnum:2763382}}
+|{{GBR }}||style=text-align:right|{{formatnum:2550078}}
+|{{IDN }}||style=text-align:right|{{formatnum:2436810}}
+|{{IDN }}||style=text-align:right|{{formatnum:2275802}}
+|{{ITA }}||style=text-align:right|{{formatnum:2124755}}
+|{{ITA }}||style=text-align:right|{{formatnum:2054019}}
+|{{ITA }}||style=text-align:right|{{formatnum:2016501}}
+|{{ITA }}||style=text-align:right|{{formatnum:2050607}}
+|{{ITA }}||style=text-align:right|{{formatnum:1971909}}
+|{{ITA }}||style=text-align:right|{{formatnum:1865144}}
+|-
+!11
+|{{ITA }}||style=text-align:right|{{formatnum:2316529}}
+|{{ITA }}||style=text-align:right|{{formatnum:2155153}}
+|{{ITA }}||style=text-align:right|{{formatnum:2148502}}
+|{{ITA }}||style=text-align:right|{{formatnum:2134839}}
+|{{IDN }}||style=text-align:right|{{formatnum:2106961}}
+|{{IDN }}||style=text-align:right|{{formatnum:1949021}}
+|{{IDN }}||style=text-align:right|{{formatnum:1798541}}
+|{{IDN }}||style=text-align:right|{{formatnum:1705066}}
+|{{IDN }}||style=text-align:right|{{formatnum:1568263}}
+|{{IDN }}||style=text-align:right|{{formatnum:1434248}}
+|-
+!12
+|{{MEX }}||style=text-align:right|{{formatnum:2262919}}
+|{{MEX }}||style=text-align:right|{{formatnum:2111206}}
+|{{MEX }}||style=text-align:right|{{formatnum:1939753}}
+|{{MEX }}||style=text-align:right|{{formatnum:1941682}}
+|{{MEX }}||style=text-align:right|{{formatnum:1859264}}
+|{{MEX }}||style=text-align:right|{{formatnum:1710132}}
+|{{MEX }}||style=text-align:right|{{formatnum:1597656}}
+|{{MEX }}||style=text-align:right|{{formatnum:1611372}}
+|{{MEX }}||style=text-align:right|{{formatnum:1516236}}
+|{{MEX }}||style=text-align:right|{{formatnum:1432295}}
+|-
+!13
+|{{TUR }}||style=text-align:right|{{formatnum:1907486}}
+|{{KOR }}||style=text-align:right|{{formatnum:1696955}}
+|{{KOR }}||style=text-align:right|{{formatnum:1652081}}
+|{{KOR }}||style=text-align:right|{{formatnum:1627812}}
+|{{KOR }}||style=text-align:right|{{formatnum:1568631}}
+|{{KOR }}||style=text-align:right|{{formatnum:1506812}}
+|{{ESP }}||style=text-align:right|{{formatnum:1492658}}
+|{{ESP }}||style=text-align:right|{{formatnum:1508412}}
+|{{ESP }}||style=text-align:right|{{formatnum:1447718}}
+|{{ESP }}||style=text-align:right|{{formatnum:1346277}}
+|-
+!14
+|{{KOR }}||style=text-align:right|{{formatnum:1833914}}
+|{{CAN }}||style=text-align:right|{{formatnum:1576495}}
+|{{SAU }}||style=text-align:right|{{formatnum:1549822}}
+|{{ESP }}||style=text-align:right|{{formatnum:1497167}}
+|{{ESP }}||style=text-align:right|{{formatnum:1494181}}
+|{{ESP }}||style=text-align:right|{{formatnum:1486687}}
+|{{KOR }}||style=text-align:right|{{formatnum:1393108}}
+|{{KOR }}||style=text-align:right|{{formatnum:1405612}}
+|{{KOR }}||style=text-align:right|{{formatnum:1350407}}
+|{{KOR }}||style=text-align:right|{{formatnum:1246382}}
+|-
+!15
+|{{SAU }}||style=text-align:right|{{formatnum:1799740}}
+|{{ESP }}||style=text-align:right|{{formatnum:1556600}}
+|{{CAN }}||style=text-align:right|{{formatnum:1535440}}
+|{{SAU }}||style=text-align:right|{{formatnum:1488100}}
+|{{CAN }}||style=text-align:right|{{formatnum:1401447}}
+|{{CAN }}||style=text-align:right|{{formatnum:1336646}}
+|{{CAN }}||style=text-align:right|{{formatnum:1279702}}
+|{{CAN }}||style=text-align:right|{{formatnum:1313134}}
+|{{CAN }}||style=text-align:right|{{formatnum:1271027}}
+|{{CAN }}||style=text-align:right|{{formatnum:1212200}}
+|}
+
+==Gross national product==
+
+'''Gross national product''' ('''GNP''') is the market value of all the goods and services produced in one year by labor and property supplied by the citizens of a country. Unlike [[gross domestic product]] (GDP), which defines production based on the geographical location of production, GNP indicates allocated production based on location of ownership. In fact it calculates income by the location of ownership and residence, and so its name is also the less ambiguous ''gross national income''.
+
+GNP is an economic statistic that is equal to GDP plus any income earned by residents from overseas investments minus income earned within the domestic economy by [[wikt:overseas|overseas]] residents.
+
+GNP does not distinguish between qualitative improvements in the state of the technical arts (e.g., increasing computer processing speeds), and quantitative increases in goods (e.g., number of computers produced), and considers both to be forms of "[[economic growth]]".<ref>Daly, Herman E. (1996), ''Beyond Growth''. Beacon Press</ref>
+
+When a country's capital or labour resources are employed outside its borders, or when a foreign firm is operating in its territory, GDP and GNP can produce different measures of total output. In 2009 for instance, the [[United States]] estimated its GDP at $14.119 [[Trillion (short scale)|trillion]], and its GNP at $14.265 trillion.<ref>{{cite web |url=http://www.federalreserve.gov/Releases/Z1/Current/annuals/a2005-2009.pdf |title=Flow of Funds Accounts of the United States |date=17 September 2010 |publisher=Board of Governors of the Federal Reserve System |page=9 |access-date=23 August 2018 |archive-url=https://web.archive.org/web/20101208005006/http://www.federalreserve.gov/releases/z1/Current/annuals/a2005-2009.pdf |archive-date=8 December 2010 |url-status=dead }}</ref>
+
+The term ''gross national income'' (GNI) has gradually replaced the ''Gross national product'' (GNP) in international statistics.<ref name=nominal/><ref name=ppp/> While being conceptually identical, the precise calculation method has evolved at the same time as the name change.<ref name="Eurostat"/>
+
+===Use of GNP===
+The [[United States]] used GNP as its primary measure of total economic activity until 1991, when it began to use GDP.<ref>{{cite web |url=https://www.bea.gov/glossary/glossary.cfm?key_word=GNP&letter=G#GNP |title=BEA: Glossary "G" |date=5 September 2007 |publisher=Bureau of Economic Analysis}}</ref> In making the switch, the [[Bureau of Economic Analysis]] (BEA) noted both that GDP provided an easier comparison of other measures of economic activity in the United States and that "virtually all other countries have already adopted GDP as their primary measure of production".<ref name=announcement>{{cite web |url=https://www.bea.gov/scb/pdf/NATIONAL/NIPA/1991/0891od.pdf |title=Gross Domestic Product as a Measure of U.S. Production |date=August 1991 }}</ref> Many economists have questioned how meaningful GNP or GDP is as a measure of a nation's economic well-being, as it does not count most [[unpaid work]] and counts much economic activity that is unproductive or actually destructive.<ref>{{Cite news|url=https://www.economist.com/blogs/feastandfamine/2013/04/social-progress|title=Beyond GDP|newspaper=The Economist|issn=0013-0613|access-date=2016-07-27}}</ref>
+
+===GNI vs GDP===
+While GDP&nbsp;measures the market value of all final goods and services produced in a given country, GNI measures income generated by the country's citizens, regardless of the geographic location of the income. In many states, those two figures are close, as the difference between income received by the country versus payments made to the rest of the world is not significant. According to the [[World Bank]], the GNI of the US in 2016 was 1.5% higher than GDP.<ref>{{cite web |url=https://data.worldbank.org/country/united-states |title=BEA: The World Bank - US figures |date= 2017 |publisher=the World Bank}}</ref>
+
+In developing countries, on the other hand, the difference might be significant due to a large amount of foreign aid and capital inflow. In 2016, the GNI <ref>{{cite web |url=https://www.macrotrends.net/countries/ARM/armenia/gnp-gross-national-product|title=BEA: Armenia GNP |date= 2019 |publisher=Macrotrends}}</ref> of [[Armenia]] was 4.45% higher than GDP.<ref>{{cite web |url=https://www.macrotrends.net/countries/ARM/armenia/gdp-gross-domestic-product|title=BEA: Armenia GDP |date= 2019 |publisher=Macrotrends}}</ref> Based on the [[OECD]] reports, in 2015 alone, Armenia has received a total of US$409 million development assistance. Over the past 25 years, [[USAID]] has provided more than one billion USD to improve the living of the people in Armenia. GNI equals GDP plus&nbsp;wages, salaries, and property income of the country's residents earned abroad that also constitutes the higher GNI figure. According to the [[UN]] report on migration from Armenia in 2015-17, every year around 15-20 thousand people leave Armenia permanently,<ref>{{cite web |url=https://www.un.am/en/news/561|title=BEA: Migration Rate and Associated Issues in Armenia in 2016-2017|date= 2017 |publisher=UN Armenia}}</ref> and roughly 47% of those are working migrants that leave the country to earn income and sustain the families left in Armenia. In 2016 Armenian residents received in a total of around $150 million remittances.<ref>{{cite web |url=https://www.cba.am/en/sitepages/statexternalsector.aspx|title=BEA: Inflow of Remittances by Balance of Payments|date= 2019 |publisher= Central Bank of Armenia}}</ref>
+
+== See also ==
+* [[Net national income]]
+* [[Measures of national income and output]]
+* [[Gross national income in the European Union]]
+* [[List of countries by GNI (nominal) per capita]]
+* [[National average salary]]
+* [[Gross domestic product]] (GDP)
+* [[Modified gross national income|Irish modified GNI (or GNI*)]]
+
+==References==
+{{Library resources box|by=no|onlinebooks=no|others=no|about=yes|label=Gross national income}}
+{{reflist}}
+{{GDP country lists}}
+
+[[Category:Gross domestic product]]

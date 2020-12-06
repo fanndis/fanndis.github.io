@@ -1,0 +1,234 @@
+<!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout, and guidelines. -->
+{|{{Infobox Aircraft Begin
+  |name = Gulfstream IV / G400 <br> C-20F/G/H/J <br>GIV-SP / G350 / G450
+  |image = File:Gulfstream_IV_RNLAF.jpg
+  |caption =A Gulfstream IV of the [[Royal Netherlands Air Force]]
+}}{{Infobox Aircraft Type
+  |type = [[Business jet]]
+  |manufacturer = [[Gulfstream Aerospace]]
+  |designer =
+  |first flight = September 19, 1985
+  |introduced =
+  |retired =
+  |status = Active service
+  |primary user = [[United States Air Force]]
+  |more users = [[United States Army]] <br /> [[United States Navy]] <br /> [[National Oceanic and Atmospheric Administration]]
+  |produced = 1985–2018
+  |number built =  900+ <ref name=161021PR/>
+  |unit cost = G350: US$34.9 million (2012)<ref>{{cite news |url= http://awin.aviationweek.com/portals/awin/pdfs/BCAOpPlanningGuide/2012_Production.pdf |title= Operations Planning Guide |work= Business & Commercial Aviation |date= 2012 |publisher= Aviation Week}}</ref><br />G450: US$41 million (2015)<ref>{{cite news |url= http://aviationweek.com/site-files/aviationweek.com/files/uploads/2015/05/Business%20Airplane%20Tables_May_2015_revised.pdf |title= Business Jets Specification and Performance Data |publisher= Aviation Week |work= Business & Commercial Aviation |date= May 2015}}</ref>
+  |developed from = [[Gulfstream III]]
+  |variants with their own articles =
+  |developed into = [[Gulfstream V]]
+}}
+|}
+
+The '''Gulfstream IV''' (or '''G-IV''' or '''GIV''') and derivatives are a family of [[twinjet]] aircraft, mainly for private or [[Business jet|business]] use. They were designed and built by [[Gulfstream Aerospace]], a [[General Dynamics]] company based in [[Savannah, Georgia]], [[United States]], from 1985 until 2018. Aircraft power is provided by two [[Rolls-Royce RB.183 Tay]] [[turbofans]].
+
+Upon delivery of the last G450, over 900 GIV/GIV-SP/G450 units had been produced. The last G450 was delivered on 19 January 2018 after 365 deliveries over 12 years, ending a 30-year production run, to be replaced by the [[Gulfstream G500|G500]].<ref name=161021PR>{{cite news |url= https://www.flightglobal.com/news/articles/gulfstream-launches-g500-global-demo-tour-445118/ |title= Gulfstream launches G500 global demo tour |date= 23 Jan 2018 |author= Kate Sarsfield |work= Flightglobal}}</ref>
+
+==Design and development==
+Gulfstream, in collaboration with [[Grumman]], began work on the Gulfstream IV in March 1983 as a re-engined, stretched fuselage derivative of the [[Gulfstream III]].  A decision to redesign the wing structure for weight reduction presented an opportunity for an aerodynamic redesign of the wing to reduce cruise drag and increase range. Wing contour modifications had to be restricted to the forward 65% of wing chord so that no redesign of the control surfaces would be necessary. Modification of the inboard wing would have entailed a redesign of the fuselage floor structure, consequently this region of the wing was not modified. Outboard wing modifications were aimed at reducing the peak subcritical pressure coefficient and moving it aft in an effort to reduce shock strength and increase shock sweep.<ref>Chandrasekharan, R.M., Murphy, W.R., Taverna, F.P. and Boppe, C.W., "Computational Aerodynamic of the Gulfstream IV Wing", AIAA paper 85-0427, presented at the AIAA 23rd Aerospace Sciences Meeting, Reno Nevada, January 1985.</ref> The Gulfstream IV wing has a weaker, more swept outboard shock resulting in a lower cruise drag. Other benefits arising from this design are a lower root bending moment due to the more inboard center of pressure, a lower stall speed due to washout and a larger fuel volume due to increased chord. These aerodynamic improvements result in an increase in range of over 300 nautical miles.<ref>Boppe, Charles W., "Computational Aerodynamic Design: X-29, the Gulfstream Series and a Tactical Fighter", SAE paper 851789, 1985 Wright Brothers Award Paper, presented at the Aerospace Technology Conference & Exposition, Long Beach California, October 1985.</ref>
+
+In addition to the wing redesign, the Gulfstream IV also became the first business jet to have an entire glass cockpit.<ref name=thomas>{{cite web |publisher= stratos jet charters|author= Joel Thomas |title= History of the Gulfstream Aerospace Corporation |url= https://www.stratosjets.com/history-of-gulfstream-aerospace-corporation/ |date= 19 May 2014}}</ref> The first GIV made its maiden flight on September 19, 1985.<ref name=Frawley_Civil_GIV/> The model received type certification from the FAA on April 22, 1987.<ref name= typeCert/> The G-IV entered into service with serial number 1000 in 1987 and was upgraded to the special purpose ''GIV-SP'' version at serial number 1214 in 1993.  It was later redesignated ''G400'' at serial number 1500.<ref name="flagship">{{cite news |url= http://aviationweek.com/awin/gulfstream-iv |title= Gulfstream IV
+|work= Business and Commercial Aviation |publisher= Aviation Week |date= January 2009}}</ref>
+
+[[File:Gulfstream G450 (5).JPG|thumb|The winglet of a G450]]
+[[File:GULFSTREAM G-IV photo D Ramey Logan.jpg|thumb|Gulfstream G-IV at [[John Wayne Airport]] 2013]]
+
+A shorter range variant was created based on the GIV and given the ''G300'' designation in 2002.<ref name=Frawley_Civil_GIV>Frawley, Gerald. "Gulfstream IV, G300 & G400". ''The International Directory of Civil Aircraft, 2003/2004''. Fishwick, Act: Aerospace Publications, 2003. {{ISBN|1-875671-58-7}}.</ref> The G400 has a large cabin, long range of 4,350 nautical miles (8,060&nbsp;km) and the same comfort and design that characterize the G series. Maximum cruise height and speed are 45,000&nbsp;ft and [[Mach number|Mach]] 0.77. Earlier models were fitted with Honeywell's SPZ 8000 Avionics package. The SPZ 8400 Avionics Package was an option, becoming standard on later models. Its second-hand price was below $15 million in 2009.<ref name="flagship"/>
+
+In 2001, Gulfstream began work on an improved version of the GIV-SP, originally designated ''GIV-X''.  It was later renamed ''G450''.  The G450 is lengthened 1&nbsp;ft (0.305 m) over the G400 and shares the forward fuselage and larger cockpit of the [[Gulfstream G550|G550]].  Production of the G450 began in October 2004, replacing the G400.  The G450 has better performance and comes with the PlaneView cockpit with four 14-inch (355&nbsp;mm) [[liquid crystal display]]s and a [[Head up display]] (HUD).  The shorter range G350 version of the G450 was developed and received certification in 2004.<ref>{{cite news |url= https://www.flightglobal.com/news/articles/flight-test-gulstream-g450-heir-apparent-190572/ |title= Flight test : Gulstream G450 - Heir apparent |publisher= Flight International |date= November 23, 2004}}</ref>
+
+By 2018, 1990 to 1992 GIVs were for sale at $1.6-4.4 million, 1992 to 1999 GIVSPs were listed for $1.25-5.2 million, 15-year-old G300s and G400s were available for $4.5-7 million and 2006 to 2016 G450s at $9.95-23.75 million.<ref name=AINdec2018>{{cite magazine |url= https://www.ainonline.com/sites/default/files/full-issues/ain_1218.pdf |title= For many models, market hitting the apex |magazine= Aviation International News |author= Mark Huber |date= December 2018 |pages= 20–21, 24}}</ref>
+
+==Operational history==
+
+The [[National Oceanic and Atmospheric Administration]] (NOAA) operates a GIV-SP (N49RF) modified to fly [[scientist]]s and crew members at 45,000 feet around [[tropical cyclone]]s. The aircraft was modified to drop instruments called "[[dropsonde]]s" to measure windspeed, [[barometric pressure]], [[humidity]], and temperature as they fall to the surface of the ocean. By sampling the cyclone with these dropsondes over a 4,000 mile track around the storm, the forecasters at NOAA's [[National Hurricane Center]] and [[Hurricane Research Division]] can better predict where the hurricane will be "steered" by the upper level winds. They also predict [[wind shear]] that will either increase or decrease a hurricane's strength. The GIV-SP is suited for this mission since it is fast, and can fly long distances with ample cabin space for the crew and instruments.<ref name="noaa_givsp">"[http://www.aoc.noaa.gov/aircraft_g4.htm Gulfstream IV-SP (G-IV)] {{Webarchive|url=https://web.archive.org/web/20070218124547/http://www.aoc.noaa.gov/aircraft_g4.htm |date=2007-02-18 }}." [[National Oceanic and Atmospheric Administration]] web site.</ref>  In 2009, the NOAA GIV-SP was further modified by the addition of a side-scanning Doppler radar to the rear fuselage. This radar is used for storm cloud profiling.<ref>[http://www.airliners.net/photo/NOAA/Gulfstream-Aerospace-G-IV/1566075/L Picture of the Gulfstream Aerospace G-IV Gulfstream IV-SP aircraft] Retrieved 1 November 2011.</ref>
+
+In June 1987 a Gulfstream IV set 22 world records in its class in flying west around the world in 45 hr 25 min.  The next year another GIV set 11 world records flying east around the world.<ref name=G-IV_airliners.net>[http://www.airliners.net/aircraft-data/stats.main?id=238 "Gulfstream Aerospace G-IV"]. airliners.net</ref>  In 1990, Gulfstream [[CEO]] [[Allen Paulson]] and a Gulfstream flight crew set 35 international records for around-the-world flight in a GIV.<ref>{{cite web|last1=Lacy|first1=Clay|title=Clay Lacy on Allen Paulson|url=https://www.claylacy.com/clay-lacy-allen-paulson|publisher=Clay Lacy|accessdate=19 August 2014}}</ref>
+
+==Variants==
+
+===C-20F/G/H/J military variants===
+The U.S. military variant of the IV, designated ''C-20F/G/H/J Gulfstream IV'' in [[United States Department of Defense|Department of Defense]] service.<ref name="DoD 4120L">[http://www.dtic.mil/whs/directives/corres/pdf/412015l.pdf  DoD 4120-15L, ''Model Designation of Military Aerospace Vehicles'']. US DoD, 12 May 2004.</ref>  The ''C-20F'' is a GIV model operated by the [[U.S. Army]] in a command/executive transport role.
+
+[[File:USMC C-20.jpg|thumb|U.S. Marine Corps VIP C-20G, also known as the "Grey Ghost"<ref>[http://www.pearlharborvisitorcenter.com/archives/The_Grey_Ghost.html The Grey Ghost] {{webarchive|url=https://web.archive.org/web/20110704105551/http://www.pearlharborvisitorcenter.com/archives/The_Grey_Ghost.html |date=2011-07-04 }} Hawaii Reporter: Dispatches from the War on Terrorism, September 24, 2004</ref>]]
+
+The ''C-20G'' aircraft<ref>[http://www.airliners.net/open.file/0606801/L/ Navy C-20G]</ref> may be configured for cargo operations, 26 passenger operations or combinations of the two. With passengers seats removed, it may be configured as three pallets with no passengers or two pallets and eight passengers or one pallet and fourteen passengers. With full seating, the aircraft is capable of accommodating up to twenty-six passengers and a crew of four. A hydraulically operated cargo door is installed on the starboard side of the aircraft, and a ball roller cargo floor is capable of accommodating [[palletized cargo]].  The C-20G is operated by Fleet Logistics Support Squadron Four Eight (VR-48) at [[Naval air station#United States Navy|Naval Air Facility]], [[Andrews Air Force Base]], Maryland and at VMR Detachment Kaneohe Bay, [[Marine Corps Air Station Kaneohe Bay]], [[Marine Corps Base Hawaii]].<ref>Wings of Gold, Vol. 36, No. 3, Fall 2011, Association of Naval Aviation, Alexandria, VA, pp.18-21</ref>
+
+The ''C-20H'' is a GIV-SP model operated by the [[U.S. Air Force]] in a command/executive transport role.  The ''C-20J'' is a GIV-SP model operated by the U.S. Army in a command/executive transport role.
+
+The [[United States Department of Defense]] C-20A/B/C/D/E aircraft are all [[Gulfstream III]] variants.
+
+===G350/G450===
+[[File:GULFSTREAM g450 photo D Ramey Logan.jpg|thumb|Gulfstream G450]]
+
+The '''G450''' is a designation for the model '''GIV-X''', approved by the FAA on August 12, 2004, as is the '''G350''', which has a reduced fuel capacity. Compared to the '''Gulfstream IV''', its fuselage is 12 inches longer and the main entry door relocated aft. The [[Rolls-Royce RB.183 Tay|Rolls-Royce Tay]] 611 engines are replaced by 611-8Cs with FADEC, redesigned thrust reversers, nacelles and pylons which increases range and payload, coupled with  aerodynamic improvements. Many [[Gulfstream V-SP]] improvements are used: the [[Honeywell]] advanced flight deck display suite, electrical power generation, cabin temperature control and pressurization, nose and nose landing gear. It also has an improved APU and flap/stab actuation system, redesigned main landing gear wheels and brakes, flight control system hard-over protection system.<ref name= typeCert>{{cite web |url= http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgMakeModel.nsf/0/2d504046f9657ec386257f610074fcfb/$FILE/A12EA_Rev46.pdf |title= Type Certificate date Sheet NO. A12EA, revision 46 |publisher= FAA |date= February 22, 2016}}</ref>
+
+By the end of the G450 production run, 365 aircraft were produced, with prices ranging from $15 million to $32 million.<ref>{{cite news |url= http://aviationweek.com/business-aviation/operational-look-gulfstreams-g450 |title= An Operational Look at: Gulfstream's G450 |date= November 24, 2014 |author= Fred George |work= Business & Commercial Aviation}}</ref>
+
+==Operators==
+
+===Civil operators===
+The aircraft is operated by private individuals, companies and executive charter operators, and in fractional ownership programs.
+
+===Government and military operators===
+
+{{Refimprove section|date=February 2010}}
+
+;{{BOT}}
+* The [[Botswana Air Force]] operates a single G-IV for [[Very Important Person|VIP]] transport.
+;{{BRU}}
+* The [[Sultan of Brunei]] operates a G-IV.<ref name="Professional Pilot Magazine">[http://jeteditor.com/tjsult.htm (Professional Pilot Magazine)]</ref>
+;{{CHI}}
+* The [[Chilean Air Force]] operates two G-IVs in a commander / executive transport role.
+* The [[Chilean Air Force]] operates two G-IV SP in a commander / executive transport role.
+;{{CIV}}
+* [[Air Force of Ivory Coast|Côte d'Ivoire Air Force]] as a VIP transport.
+;{{EGY}}
+* The [[Egyptian Air Force]] operates four G-IVs in a commander / executive transport role.
+;{{IND}}
+* The [[Indian Air Force]] in Reconnaissance Role.{{Citation needed|reason=error for Gulfstream III ?|date=August 2009}}<!-- NOTE: CAN SOMEONE DETERMINE IF THIS IS A GIII OR GIV? No one sadly knows about this, because the plane crashed in 2012.-->
+;{{JOR}}
+* [[Royal Jordanian Air Force]] operates 3 G-450 For VIP transport.
+;{{JPN}}
+[[File:JASDF U-4 04.jpg|thumb|[[Japan Air Self-Defense Force]] U-4]]
+* The [[Japan Air Self-Defense Force]] operates five G-IVs under the designation ''U-4'', modified to incorporate a large cargo door and can move palletized cargo and passenger mixes similar to the C-20G aircraft operated by the [[U.S. Navy]] and Marines.
+** [[Central Air Command Support Squadron (JASDF)|Central Air Command Support Squadron]]
+**  [[402nd Tactical Airlift Squadron (JASDF)|402nd Tactical Airlift Squadron]] (1997-)
+;{{MYS}}
+* The [[Sultan of Johor]] operates a G-IV.<ref name="Professional Pilot Magazine"/>
+;{{MEX}}
+* The [[Mexican Navy]] uses a G-450 for government / VIP transport.
+;{{NLD}}
+* The Royal Netherlands Air Force operates one G-IV SP in a commander / government transport role.
+;{{SAU}}
+* The Royal Saudi Air Force operates one G-IV in a commander / government transport role.  The military operates two G-IVs SP and two G450s in the med/vac transport role.{{Citation needed|date=September 2010}}  The Saudi Arabian Minister of Finance and Economy operates a G-IV (G300). [[Saudi Arabian Airlines]] operates 6 G-IVs for government use. [[Saudi Aramco]] - 3 G450 .
+;{{SWE}}
+* The [[Swedish Air Force]] operates four Gulfstream IVs, two are modified G-IV SPs in the [[SIGINT]] role and are designated ''S 102B Korpen'' (Raven).<ref>{{Cite web |url=http://www.spyflight.co.uk/IVsp.htm |title=S-102B Korpen |access-date=2007-10-26 |archive-url=https://web.archive.org/web/20090502104244/http://www.spyflight.co.uk/IVsp.htm |archive-date=2009-05-02 |url-status=dead }}</ref>  Two other aircraft, a G-IV designated ''TP 102A'', and a G-IV SP, designated ''TP 102C'', serve as transport for the [[Swedish Royal Family|Royal Family]] and the [[Prime Minister of Sweden|Prime Minister]].
+;{{TUR}}
+* The [[Turkish Air Force]] operates a G-IV SP in a commander / executive transport role.
+;{{PAK}}
+* The [[Pakistan Air Force]] operates four G-IV SPs in a commander / executive transport roles.
+;{{UAE}}
+* [[Falcon Aviation Services]] VIP transport.
+;{{USA}}
+* [[United States Air Force]] as C-20 series
+* [[United States Army]] as C-20 series
+* [[United States Navy]] as C-20 series
+* [[United States Marine Corps]] as C-20 series
+* [[NOAA Commissioned Officer Corps]] - operates a G-IV-SP in an atmospheric research and hurricane tracking role.
+;{{VEN}}
+* The [[Venezuelan Air Force]] operates a G-IV in a commander / executive transport role.
+
+=== Former military operators ===
+;{{IRL}}
+* The [[Irish Air Corps]] previously operated a G-IV as a government transport.<ref>[http://www.rte.ie/news/2015/0330/690897-government-jet-sold-to-us-company/ Government jet sold to US company]</ref>
+;{{UGA}}
+* The Government of [[Uganda]] purchased one G-IV SP in December 2000 at a cost of US$31.5 million for Presidential flights. It was replaced in February 2009 by a [[G550]].<ref>{{cite web
+ |last=The Editor
+ |url=http://www.observer.ug/component/content/article?id=2655:museveni-shs-88bn-jet-arrives
+ |title=Museveni's Shs88 Billion Jet Arrives
+ |accessdate=19 May 2015
+ |date=February 2009
+ |first=.
+ |newspaper=[[The Observer (Uganda)]]
+ |url-status=dead
+ |archiveurl=https://web.archive.org/web/20150618173711/http://www.observer.ug/component/content/article?id=2655%3Amuseveni-shs-88bn-jet-arrives
+ |archivedate=18 June 2015
+}}</ref>
+
+==Specifications==
+{| class="wikitable" border="1" style="text-align:center;"
+|-
+!
+! GIV<ref name=GIVspecs>{{cite web |url= http://www.airliners.net/aircraft-data/gulfstream-aerospace-g-iv-gulfstream-iv/238 |title= Gulfstream Aerospace G-IV Gulfstream IV |work= The International Directory of Civil Aircraft |author= Gerard Frawley |at= Technical Data & Specifications}}</ref>
+! GIV-SP<ref name=GIVspecs/>
+! G350<ref>{{cite web |url= http://www.foundersaviation.com/files/aircraft/GulfstreamG350/G350-SpecSheet.pdf |title= G350 Specifications |publisher= Gulfstream |date= 2010}}</ref>
+! G450<ref>{{cite web |url= http://www.gulfstream.com/images/uploads/brochures/aircraft/G450SpecSheet.pdf |title= G450 Specifications |publisher= Gulfstream |date= September 2015}}</ref>
+|-
+! Cockpit crew
+|colspan=4| Two
+|-
+! Seating capacity
+|colspan=2| 14-19
+|colspan=2| 19 maximum, 12-16 typical
+|-
+! Length
+|colspan=2| 88ft 4in / 26.92m
+|colspan=2| 89ft 4in / 27.23m
+|-
+! Wingspan
+|colspan=4| 77ft 10 / 23.72m
+|-
+! Wing area
+|colspan=4| 950.39sqft / 88.3m²
+|-
+! Overall height
+|colspan=2| 24ft 5in / 7.45m
+|colspan=2| 25ft 2in / 7.67m
+|-
+! [[Maximum take-off weight|MTOW]]
+| {{convert|73200|lb|kg|0|abbr=on}}
+| {{convert|74600|lb|kg|0|abbr=on}}
+| {{convert|70900|lb|kg|0|abbr=on}}
+| {{convert|74600|lb|kg|0|abbr=on}}
+|-
+! Empty weight
+|colspan=2| {{convert|35500|lb|kg|0|abbr=on}}
+| {{convert|42700|lb|kg|0|abbr=on}}
+| {{convert|43000|lb|kg|0|abbr=on}}
+|-
+! Cruising speed
+|colspan=4| {{convert|0.80|-|0.85|Mach|41000|knots km/h|0}}
+|-
+! Maximum speed
+|colspan=4| {{convert|0.88|Mach|41000|knots km/h|0}}
+|-
+! Range
+|colspan=2| {{convert|4220|nmi|km|0|abbr=on}}
+| {{convert|3800|nmi|km|0|abbr=on}}
+| {{convert|4350|nmi|km|0|abbr=on}}
+|-
+! Service ceiling
+|colspan=4| {{convert|45000|ft|m|0|abbr=on}}
+|-
+! Engines (×2)
+|colspan=2| [[Rolls-Royce Tay (turbofan)#Tay 611-8|Rolls-Royce Tay 611-8]]
+|colspan=2| [[Rolls-Royce Tay (turbofan)#Tay 611-8|Rolls-Royce Tay 611-8C]]
+|-
+! Thrust
+|colspan=4| 13,850lbf / 61.6kN
+|}
+
+==See also==
+{{aircontent
+|related=
+* [[Gulfstream III]]
+* [[Gulfstream V]]
+* [[Gulfstream G550|Gulfstream G500/G550]]
+|similar aircraft=
+|lists=
+* [[List of active United States military aircraft]]
+}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{Commons category}}
+* {{official website|http://www.gulfstream.com/aircraft/gulfstream-g450|Gulfstream G450}}
+* {{cite web |url= http://d16bsf97ryvc45.cloudfront.net/Media/2013/01/g400.pdf |title= Gulfstream IV SP Operator Survey |author=  Fred George |date=April 2000 |work= Business & Commercial Aviation |publisher= Aviation Week}}
+* {{cite news |url= http://awin.aviationweek.com/portals/awin/Interactives/BCA/G450_pilot-report/G450_pilot-report.html |work= Business & Commercial Aviation |date= December 2003 |title= Gulfstream's 450 Surprise |publisher= Aviation Week  |author=  Fred George}}
+
+{{Gulfstream}}
+{{US transport aircraft}}
+{{Swedish military aircraft designations}}
+
+{{DEFAULTSORT:Gulfstream Iv}}
+[[Category:Gulfstream aircraft]]
+[[Category:1980s United States business aircraft]]
+[[Category:Twinjets]]
+[[Category:T-tail aircraft]]
+[[Category:Aircraft first flown in 1985]]
+[[Category:Low-wing aircraft]]

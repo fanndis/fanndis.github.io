@@ -1,0 +1,812 @@
+{{short description|Finno-Ugric language mostly spoken in Finland}}
+{{Multiple issues|
+{{More citations needed|date=January 2013}}
+{{More footnotes|date=January 2013}}
+{{cleanup lang|date=June 2020}}
+}}
+{{Infobox language
+| name = Finnish
+| nativename = ''suomen kieli''
+| pronunciation = {{IPA-fi|ˈsuo̯mi|IPA|fi-suomi.ogg}}
+| ethnicity = [[Finns]]
+| states = [[Finland]], [[Sweden]], [[Norway]] (in small areas in [[Troms]] and [[Finnmark]]), [[Russia]]
+| region = 
+| speakers = {{sigfig|5.39|2}} million
+| date = 2009–2012
+| ref = e18
+| familycolor = Uralic
+| fam2 = [[Finnic languages|Finnic]]
+| fam3 = Northern Finnic 
+| script = [[Latin script|Latin]] ([[Finnish alphabet]])<br />[[Finnish Braille]]
+| sign = Signed Finnish
+| nation = '''{{FIN}}'''<br /><br />{{EU}}
+| minority = {{flag|Russia}} ({{flag|Karelia}})<ref>{{cite web|url=http://gov.karelia.ru/Legislation/lawbase.html?lid=1751 |script-title=ru:О государственной поддержке карельского, вепсского и финского языков в Республике Карелия |language=ru
+|publisher=Gov.karelia.ru 
+|accessdate=2011-12-06}}</ref><br>{{flag|Sweden}}<ref>Finnish is one of the [[official minority languages of Sweden]]</ref>
+<br>{{flag|Norway}} ([[Kven language]]) ([[Finnmark]])
+| agency = Language Planning Department of the [[Institute for the Languages of Finland]]
+| iso1 = fi
+| iso2 = fin
+| iso3 = fin
+| glotto = finn1318
+| glottorefname = Finnish
+| lingua = 41-AAA-a
+| map = Finnish language updated2.png
+| mapcaption = {{legend|#010080|Official language.}}
+{{legend|#008283|Spoken by a minority.}}
+| notice = IPA
+}}
+'''Finnish''' ([[endonym]]: '''''suomi''''' {{IPA-fi|ˈsuo̯mi||fi-suomi.ogg}} or '''{{lang|fi|suomen kieli}}''' {{IPA-fi|ˈsuo̯meŋ ˈkie̯li|}}) is a [[Uralic languages|Uralic language]] of the [[Finnic languages|Finnic branch]] spoken by the majority of the population in [[Finland]] and by [[Finns|ethnic Finns]] outside Finland. Finnish is one of the two [[official languages]] of Finland (the other being [[Swedish language|Swedish]]). In [[Sweden]], both Finnish and [[Meänkieli dialects|Meänkieli]] (which has significant [[mutual intelligibility]] with Finnish<ref>{{Cite journal|last=Öst|first=Heidi|date=2013|title=Recent Legal Developments in Sweden: What Effect for Finnish and Meänkieli Speakers?|journal=European Yearbook of Minority Issues Online|volume=10|issue=1|pages=563–582|doi=10.1163/22116117-01001026|issn=1570-7865}}</ref>) are official [[minority language]]s. The [[Kven language]], which like Meänkieli is mutually intelligible with Finnish, is spoken in Norway's [[Finnmark]] by a minority group of Finnish descent.
+
+Finnish is [[morphological typology|typologically]] [[Agglutination|agglutinative]]<ref>{{Cite book|author1=Haspelmath, Martin Dryer |author2= Matthew S Gil |author3=David Comrie |author4= Bernard Bickel |author5=Balthasar Nichols, Johanna|title=Fusion of selected inﬂectional formatives|date=2005|publisher=Oxford University Press|oclc=945596278}}</ref> and uses almost exclusively [[Suffix|suffixal affixation]]. [[Noun]]s, [[adjective]]s, [[pronoun]]s, [[Numeral (linguistics)|numeral]]s and [[verb]]s are [[inflection|inflected]] depending on their role in the [[Sentence (linguistics)|sentence]]. Sentences are normally formed with [[subject–verb–object]] word order, although the extensive use of inflection allows them to be ordered otherwise, and word order variations are often reserved for differences in [[information structure]].<ref>{{Cite book |author=Vilkuna, Maria |title=Free word order in Finnish : its syntax and discourse functions|date=1989|publisher=Suomalaisen kirjallisuuden seura|isbn=951-717-558-2|oclc=997419906}}</ref> The [[orthography]] is a [[Latin-script alphabet]] derived from the Swedish alphabet, and for the most part each [[grapheme]] corresponds to a single [[phoneme]] and vice versa. [[Vowel length]] and [[gemination|consonant length]] are distinguished, and there are a range of [[diphthongs]], although [[vowel harmony]] limits which diphthongs are possible.
+
+==Classification==
+Finnish is a member of the [[Finnic languages|Finnic]] group of the [[Uralic languages|Uralic]] family of languages. The Finnic group also includes [[Estonian language|Estonian]] and a few minority languages spoken around the [[Baltic Sea]] and in Russia's [[Republic of Karelia]].
+
+Finnish demonstrates an affiliation with other [[Uralic languages]] (such as [[Hungarian language|Hungarian]]) in several respects including:
+
+*Shared morphology:
+**case suffixes such as [[Genitive case|genitive]] ''-n'', [[Partitive case|partitive]] {{lang|fi|-(t)a}} / ''-(t)ä'' ( < [[Proto-Uralic]] *-ta, originally [[ablative case|ablative]]), [[Essive case|essive]] ''-na'' / ''-nä'' ( < *-na, originally [[locative case|locative]])
+**plural markers ''-t'' and ''-i-'' ( < Proto-Uralic *-t and *-j, respectively)
+**possessive suffixes such as 1st person singular ''-ni'' ( < Proto-Uralic *-n-mi), 2nd person singular ''-si'' ( < Proto-Uralic *-ti).
+**various derivational suffixes (e.g. [[causative]] ''-tta/-ttä'' < Proto-Uralic *-k-ta)
+*Shared basic vocabulary displaying regular sound correspondences with the other Uralic languages (e.g. ''kala'' "fish" ~ [[North Saami language|North Saami]] ''guolli'' ~ [[Hungarian language|Hungarian]] ''hal''; and ''kadota'' "disappear" ~ North Saami ''guođđit'' ~ Hungarian ''hagy'' 'leave (behind)'.
+
+Several theories exist as to the geographic origin of Finnish and the other Uralic languages. The most widely held view is that they originated as a [[Proto-Uralic language]] somewhere in the [[boreal forest]] belt around the [[Ural Mountains]] region and/or the bend of the middle [[Volga]]. The strong case for Proto-Uralic is supported by common vocabulary with regularities in sound correspondences, as well as by the fact that the Uralic languages have many similarities in structure and grammar.<ref>{{cite web|url=https://finland.fi/life-society/whos-afraid-of-finnish/|title=Who's afraid of Finnish?|date=28 April 2009|website=thisisFINLAND}}</ref>
+
+The [[Defense Language Institute]] in [[Monterey, California]], United States classifies Finnish as a level III language (of 4 levels) in terms of learning difficulty for native English speakers.<ref>{{cite web |url=http://www.dliflc.edu/archive/documents/all9_new.pdf |title=Defense Language Institute |accessdate=2011-12-06 |url-status=dead |archive-url=https://web.archive.org/web/20120319135036/http://www.dliflc.edu/archive/documents/all9_new.pdf |archive-date=March 19, 2012 }}</ref>
+
+==Geographic distribution==
+[[File:Finsktalande södra sverige.png|right|thumb|Areas in Southern Sweden with a Finnish-speaking population (2005)]]
+Finnish is spoken by about five million people, most of whom reside in Finland. There are also notable Finnish-speaking minorities in Sweden, Norway, Russia, Estonia, Brazil, Canada, and the United States. The majority of the population of Finland (90.37% {{As of|2010|lc=on}}<ref name="lang_stats">{{cite web|author=Statistics Finland|title=Tilastokeskus&nbsp;– Population|url=http://www.stat.fi/tup/suoluk/suoluk_vaesto_en.html|accessdate=2011-12-17|publisher=Stat.fi}}</ref>)  speak Finnish as their [[first language]]. The remainder speak [[Finland Swedish|Swedish]] (5.42%),<ref name="lang_stats" /> one of the [[Sami languages|Sámi]] languages (for example [[Northern Sami|Northern]], [[Inari Sami language|Inari]], or [[Skolt Sami language|Skolt]]), or another language as their first language. Finnish is spoken as a second language in Estonia by about 167,000 people.<ref>{{Cite web |url=http://pub.stat.ee/px-web.2001/I_Databas/Population_census/PHC2011/01Demographic_and_ethno_cultural_characteristics/04Ethnic_nationality_Languages_Dialects/04Ethnic_nationality_Languages_Dialects.asp |title=Ethnic nationality. Mother tongue and command of foreign languages. Dialects |website=pub.stat.ee |access-date=2018-03-07}}</ref> The varieties of Finnish found in Norway's [[Finnmark]] (namely [[Kven language|Kven]]) and in northern Sweden (namely [[Meänkieli]]) have the status of official minority languages, and thus can be considered distinct languages from Finnish. However, since all three are [[Mutual intelligibility|mutually intelligible]], one may alternatively view them as [[Dialect#Dialect or language|dialects of the same language]].
+
+==Official status==
+Today, Finnish is one of two [[official language]]s of Finland (the other being [[Finland Swedish|Swedish]]), and has been an official language of the [[European Union]] since 1995. However, the Finnish language did not have an official status in the country during the [[Finland under Swedish rule|period of Swedish rule]], which ended in 1809. After the establishment of [[Grand Duchy of Finland]], and against the backdrop of the [[Fennoman movement]], the language obtained its official status in the [[Diet of Finland|Finnish Diet]] of 1863.<ref>{{Cite book |last=Karlsson |first=Fred |title=Finnish |date=2017-09-13 |publisher=Routledge |isbn=978-1-315-74354-7 |location=Abingdon, Oxon; New York |series=Comprehensive grammars |doi=10.4324/9781315743547}}</ref>
+
+Finnish also enjoys the status of an official [[Minority languages in Sweden|minority language in Sweden]]. Under the [[Nordic Language Convention]], citizens of the [[Nordic countries]] speaking Finnish have the opportunity to use their native language when interacting with official bodies in other Nordic countries without being liable to any interpretation or translation costs.<ref>[http://www.norden.org/avtal/sprak/sk/sprak_sprak.asp?lang= Konvention mellan Sverige, Danmark, Finland, Island och Norge om nordiska medborgares rätt att använda sitt eget språk i annat nordiskt land] {{webarchive|url=https://web.archive.org/web/20070418154217/http://www.norden.org/avtal/sprak/sk/sprak_sprak.asp?lang= |date=2007-04-18 }}, ''Nordic Council website''. Retrieved on April 25, 2007.</ref><ref>[http://www.norden.org/webb/news/news.asp?id=6777&lang=6 20th anniversary of the Nordic Language Convention] {{Webarchive|url=https://web.archive.org/web/20070227013320/http://www.norden.org/webb/news/news.asp?id=6777&lang=6 |date=2007-02-27 }}, ''Nordic news'', February 22, 2007. Retrieved on April 25, 2007.</ref> However, concerns have been expressed about the future status of Finnish in Sweden, for example, where reports produced for the Swedish government during 2017 show that minority language policies are not being respected, particularly for the 7% of Finns settled in the country.<ref>{{cite web | url = https://www.theguardian.com/world/2018/mar/13/swedens-finns-fear-minority-language-rights-are-under-threat | title = Sweden's Finns fear minority language rights are under threat | publisher = The Guardian | accessdate = 2018-03-13}}</ref>
+
+==History==
+
+===Prehistory===
+The [[Uralic languages|Uralic family]] of languages, of which Finnish is a member, are hypothesized to derive from a single ancestor language termed [[Proto-Uralic]], spoken sometime between 8,000 and 2,000 BCE (estimates vary) in the vicinity of the Ural mountains.<ref>{{Cite journal |last=Bakro-Nagy |first=M. |date=July 2005 |title=The Uralic Language Family. Facts, Myths and Statistics |journal=Lingua |volume=115 |issue=7 |pages=1053–1062 |doi=10.1016/j.lingua.2004.01.008 |issn=0024-3841}}</ref> Over time, Proto-Uralic split into various [[daughter language]]s, which themselves continued to change and diverge, yielding yet more descendants. One of these descendants is the [[Linguistic reconstruction|reconstructed]]  [[Proto-Finnic]], from which the [[Finnic languages]] developed,<ref name=":1">{{Citation|last=Laakso|first=Johanna|title=The Finnic languages|date=2001|series=Studies in Language Companion Series|volume=54|pages=clxxix–ccxii|place=Amsterdam|publisher=John Benjamins Publishing Company|doi=10.1075/slcs.54.09laa|isbn=978-90-272-3057-7}}</ref> and which diverged from [[Proto-Samic]] (a reconstructed ancestor of the [[Sami languages|Sámi]] languages) around 1500–1000 BCE.<ref>{{cite book |title=Dangerous multilingualism: northern perspectives on order, purity and normality |date=2012 |publisher=Palgrave Macmillan |location=UK |isbn=978-0-230-32141-0 |page=26}}</ref> 
+
+Current models assume that three or more Proto-Finnic dialects evolved during the first millennium BCE.<ref>{{cite web|url=http://www.helsinki.fi/hum/sugl/proj/finnic.html|title=Omasta ja vieraasta rakentuminen|author= Laakso, Johanna|date=November 2000|quote=Recent research (Sammallahti 1977, Terho Itkonen 1983, Viitso 1985, 2000 etc., Koponen 1991, Salminen 1998 etc.) operates with three or more hypothetical Proto-Finnic proto-dialects and considers the evolution of present-day Finnic languages (partly) as a result of interference and amalgamation of (proto-)dialects.|accessdate=2007-09-22 |archive-url = https://web.archive.org/web/20070826141005/http://www.helsinki.fi/hum/sugl/proj/finnic.html <!-- Bot retrieved archive --> |archive-date = 2007-08-26}}</ref><ref>{{Citation|last=Laakso|first=Johanna|title=The Finnic languages|date=2001|series=Studies in Language Companion Series|volume=54|pages=clxxix–ccxii|place=Amsterdam|publisher=John Benjamins Publishing Company|doi=10.1075/slcs.54.09laa|isbn=978-90-272-3057-7}}</ref> These dialects were defined geographically, and were distinguished from one another along a north-south split as well as an east-west split. The northern dialects of Proto-Finnic, from which Finnish developed, lacked the mid vowel [<nowiki/>[[Close-mid back unrounded vowel|ɤ]]]. This vowel was found only in the southern dialects, which developed into Estonian, Livonian, and Votian. The northern variants used third person singular pronoun ''hän'' instead of southern ''tämä'' (Est. ''tema''). While the eastern dialects of Proto-Finnic (which developed in the modern-day eastern Finnish dialects, Veps, Karelian, and Ingrian) formed genitive plural nouns via plural stems (e.g., eastern Finnish ''kalojen'' < *'''''kaloi'''-ten''), the western dialects of Proto-Finnic (today's Estonian, Livonian and western Finnish varieties) used the non-plural stems (e.g., Est. ''kalade'' < *'''''kala'''-ten''). Another defining characteristic of the east-west split was the use of the [[Reflexive verb|reflexive]] suffix ''-(t)te'', used only in the eastern dialects.<ref name=":1" />
+
+=== Medieval period ===
+The [[Birch bark letter no. 292|birch bark letter 292]] from the early 13th century is the first known document in any [[Finnic languages|Finnic language]]. The first known written example of Finnish itself is found in a German travel journal dating back to c.1450: ''Mÿnna tachton gernast spuho sommen gelen Emÿna daÿda'' (Modern Finnish: "Minä tahdon kernaasti puhua suomen kielen, [mutta] en minä taida;" English: "I want to speak Finnish, [but] I am not able to").<ref>{{cite journal|last=Wulff|first=Christine|title=Zwei Finnische Sätze aus dem 15. Jahrhundert|journal=Ural-Altaische Jahrbücher NF Bd. 2|language=de|pages=90–98}}</ref> According to the travel journal, the words are those of a Finnish bishop whose name is unknown. The erroneous use of ''gelen'' (Modern Finnish ''kielen'') in the accusative case, rather than ''kieltä'' in the partitive, and the lack of the [[Conjunction (grammar)|conjunction]] ''mutta'' are typical of foreign speakers of Finnish even today.<ref>{{cite web|url=http://www.kotus.fi/files/1291/Kielen_aika.pdf|title=Kielen aika Valtionhallinnon 200-vuotisnäyttelystä Kotimaisten kielten tutkimuskeskuksessa|date=2 October 2009|website=Kotus.fi|accessdate=29 December 2017}}</ref> At the time, most priests in Finland were [[Swedish-speaking Finns|Swedish speaking]].<ref>{{cite web|url=http://svenskfinland.fi/historyfin.htm|title=Svenskfinland.fi|publisher=Svenskfinland.fi|archive-url=https://web.archive.org/web/20140202104119/http://svenskfinland.fi/historyfin.htm|archive-date=2014-02-02|url-status=dead|accessdate=2012-04-05}}</ref>
+
+During the Middle Ages, when [[Finland under Swedish rule|Finland was under Swedish rule]], Finnish was only [[spoken language|spoken]]. At the time, the language of [[Hanseatic League|international commerce]] was [[Middle Low German]], the language of administration [[Swedish language|Swedish]], and religious ceremonies were held in [[Latin]]. This meant that Finnish speakers could use their mother tongue only in everyday life. Finnish was considered inferior to Swedish, and Finnish speakers were second-class members of society because they could not use their language in any official situations. There were even efforts to reduce the use of Finnish through parish clerk schools, the use of Swedish in church, and by having Swedish-speaking servants and maids move to Finnish-speaking areas.<ref>{{Cite web|url=https://journal.fi/tt/article/view/57138/19187|title=Kansallinen identiteetti Ruotsissa ja Suomessa 1600–1700-luvuilla näkymä|website=journal.fi|language=fi-FI|access-date=2018-03-07}}</ref>
+
+===Writing system===
+[[File:Mikael Agricola by Albert Edelfelt.jpg|right|thumb|upright=0.9|[[Mikael Agricola]], a 19th-century drawing by [[Albert Edelfelt]]]]
+[[File:Lonnrot4.jpg|thumb|[[Elias Lönnrot]] as depicted in a 19th-century caricature&nbsp;– Lönnrot made several journeys to Karelia and Eastern Finland to collect folklore, from which he compiled the ''[[Kalevala]]'']]
+
+The first comprehensive writing system for Finnish was created by [[Mikael Agricola]], a Finnish bishop, in the 16th century. He based his writing system on the [[Finnish language#Western dialects|western dialects]]. Agricola's ultimate plan was to [[Bible translations|translate the Bible]],<ref>{{Cite web|last=Suomalaisen Kirjallisuuden Seura|title=Agricola, Mikael (1510 - 1557)|url=https://kansallisbiografia.fi/english/person/14}}</ref> but first he had to develop an [[orthography]] for the language, which he based on Swedish, German, and Latin. The Finnish [[standard language]] still relies on his innovations with regard to spelling, though Agricola used less systematic spelling than is used today.<ref name=":0">{{Citation|last=Nordlund|first=Taru|editor2-first=Anja|editor2-last=Voeste|editor1-first=Susan|editor1-last=Baddeley|title=Standardization of Finnish orthography: From reformists to national awakeners|date=2012-01-13|work=Orthographies in Early Modern Europe|place=Berlin, Boston|publisher=DE GRUYTER|doi=10.1515/9783110288179.351|isbn=978-3-11-028817-9|doi-access=free}}</ref>
+
+Though Agricola's intention was that each [[Finnish phonology|phoneme]] (and [[allophone]] under [[Finnish consonant gradation#Qualitative gradation|qualitative consonant gradation]]) should correspond to one letter, he failed to achieve this goal in various respects. For example, ''k'', ''c'', and ''q'' were all used for the phoneme /k/. Likewise, he alternated between ''dh'' and ''d'' to represent the allophonic [[voiced dental fricative]] {{IPA|[ð]}} (like ''th'' in English ''this''), between ''dh'' and ''z'' to represent the [[geminate]] [[voiceless dental fricative]] {{IPA|/θː/}} (like ''th'' in ''thin'', but longer in duration), and between ''gh'' and ''g'' to represent the allophonic [[voiced velar fricative]] {{IPA|[ɣ]}}. Agricola did not consistently represent [[vowel length]] in his orthography.<ref name=":0" />
+
+Others revised Agricola's work later, striving for a more systematic writing system. Along the way, Finnish lost several [[fricative consonant]]s in a process of [[sound change]]. The sounds {{IPA|[ð]}} and {{IPA|[θ(ː)]}} disappeared from the language, surviving only in a small rural region in Western Finland.<ref>{{cite web |url=http://www.kotus.fi/index.phtml?s=613 |title=Eurajoen murre |accessdate=2007-07-11 |author=Rekunen, Jorma |author2=Yli-Luukko, Eeva|author3=Jaakko Yli-Paavola |date=2007-03-19|work=Kauden murre (online publication: samples of Finnish dialects) |publisher=Kotus (The Research Institute for the Languages of Finland)|language=fi|quote="θ on sama äänne kuin th englannin sanassa thing. ð sama äänne kuin th englannin sanassa this.}}</ref> In the standard language, however, the effect of the lost sounds is thus:
+*{{IPA|[ð]}} became {{IPA|[d]}}. The sound {{IPA|[ð]}} was written ⟨d⟩ or ⟨dh⟩ by Agricola. This sound was lost from most varieties of Finnish, either losing all phonetic realization or being pronounced as [r], [ɾ], [l], or [h] instead (depending on dialect and the position in the word). However, Agricola's spelling ⟨d⟩ prevailed, and the pronunciation in Standard Finnish became [d] through [[spelling pronunciation]].<ref name=":0" />
+*{{IPA|[θː, θ]}} became {{IPA|[ts]}}. These interdental fricatives were written as ⟨tz⟩ (for both [[Finnish consonant gradation|grades]]: geminate and short) in some of the earliest written records. Though these developed into a variety of other sounds depending on dialect ([tː, t], [ht, h], [ht, t], [sː, s], [tː, tː], or [ht, ht]), the standard language has arrived at [[spelling pronunciation]] [ts] (which is treated as a [[consonant cluster]] and hence not subject to consonant gradation).
+*{{IPA|[ɣ]}} became {{IPA|[v]}} but only if the {{IPA|[ɣ]}} appeared originally between [[Vowel height|high]] [[Roundedness|round]] vowels [u] and [y], otherwise it was lost entirely (cf. ''suku'' 'kin, family' : ''suvun'' [genitive form] from earlier *suku : *suɣun, and ''kyky'' : ''kyvyn'' 'ability, skill' [nominative and genitive, respectively] from *kükü : *küɣün, contrasting with ''sika'' : ''sian'' 'pig, pork' [nominative and genitive] from *sika : *siɣan). (A similar process explains the /f/ pronunciation for some English words with "gh", such as "tough".)
+
+Modern Finnish punctuation, along with that of Swedish, uses the [[colon (punctuation)|colon]] (:) to separate the [[Stem (linguistics)|stem]] of a word and its grammatical ending in some cases, for example after [[acronym]]s, as in ''EU:ssa'' "in the EU". (This contrasts with some other alphabetic writing systems, which would use an apostrophe.) Since suffixes play a prominent role in the language, this use of the colon is quite common.
+
+===Modernization===
+In the 19th century [[Johan Vilhelm Snellman]] and others began to stress the need to improve the status of Finnish. Ever since the days of Mikael Agricola, written Finnish had been used almost exclusively in religious contexts, but now Snellman's [[Hegel]]ian [[Nationalism|nationalistic]] ideas of Finnish as a fully-fledged national language gained considerable support. Concerted efforts were made to improve the status of the language and to modernize it, and by the end of the century Finnish had become a language of administration, journalism, literature, and science in Finland, along with Swedish.
+
+In 1853 [[Daniel Europaeus]] published the first Swedish-Finnish dictionary,<ref>{{cite book|title=Spreading the Written Word: Mikael Agricola and the Birth of Literary Finnish|author=Kaisa Häkkinen|year=2019|publisher=BoD|isbn=9789522226747}}</ref> and between 1866 and 1880 [[Elias Lönnrot]] compiled the first Finnish-Swedish dictionary.<ref>{{cite web |url=http://www.kansallisbiografia.fi/english/?id=2836 |title=Lönnrot, Elias (1802–1884)  |last1= Majamaa |first1= Raija |date=2014 |website= The National Biography of Finland |accessdate=2016-05-01 }}</ref> In the same period, [[Antero Warelius]] conducted ethnographic research and, among other topics, he documented  the geographic distribution of the Finnish dialects.<ref>{{cite encyclopedia|url=http://runeberg.org/nfck/0349.html|title=Warelius, Anders|encyclopedia=[[Nordisk familjebok]]|year=1921|lang=sv}}</ref>
+
+The most important contributions to improving the status of Finnish were made by [[Elias Lönnrot]]. His impact on the development of modern vocabulary in Finnish was particularly significant. In addition to compiling the ''[[Kalevala]]'', he acted as an arbiter in disputes about the development of standard Finnish between the proponents of western and eastern dialects, ensuring that the western dialects preferred by Agricola retained their preeminent role, while many originally dialect words from Eastern Finland were introduced to the standard language, thus enriching it considerably.<ref>{{cite book|last= Kuusi |first=Matti |author2=Anttonen Pertti |title= Kalevala-lipas |publisher= SKS, [[Finnish Literature Society]] |year= 1985 |isbn= 951-717-380-6 }}</ref> The first novel written in Finnish (and by a Finnish speaker) was ''[[Seven Brothers]]'' (''Seitsemän veljestä''), published by [[Aleksis Kivi]] in 1870.
+
+===Future===
+The Finnish language has been changing in certain ways after [[World War II]], as observed in the spreading of certain dialectal features, for example the spread of the Western dialectal variant for the written cluster ''ts'' (''mettä'' : ''mettän''/''metän'' [forest : forest's] instead of ''metsä'' : ''metsän'') and the Eastern disappearance of ''d'' (''tiiän'' 'I know' instead of ''tiedän'') and the simultaneous preference to abandon the more visible dialectal features. Some scientists{{who|date=October 2018}} have also reported the [[Open vowel|low]] [[Front vowel|front]] vowel [<nowiki/>[[Near-open front unrounded vowel|æ]]] (orthographic ⟨ä⟩) moving toward [<nowiki/>[[Open back unrounded vowel|ɑ]]] (orthographic ⟨a⟩), theorising that the Finnish speakers would start to pronounce [ɑ] even more distantly from the changing [æ] in order to preserve the system of [[vowel harmony]].
+
+==Dialects==
+[[File:FinnishDialects.png|thumb|upright=1.47|left|Map of Finnish dialects]]
+
+The dialects of Finnish are divided into two distinct groups, Western and Eastern.<ref>{{cite web|url=http://www.internetix.ofw.fi/opinnot/opintojaksot/8kieletkirjallisuus/aidinkieli/murteet/|title= Suomen murteet|accessdate=2008-01-03 |archive-url = https://web.archive.org/web/20070927010503/http://www.internetix.ofw.fi/opinnot/opintojaksot/8kieletkirjallisuus/aidinkieli/murteet/ <!-- Bot retrieved archive --> |archive-date = 2007-09-27}}</ref> The dialects are almost entirely mutually intelligible and are distinguished from each other by only minor changes in vowels, diphthongs and rhythm. For the most part, the dialects operate on the same phonology, grammar and vocabulary. There are only marginal examples of sounds or grammatical constructions specific to some dialect and not found in standard Finnish. Two examples are the [[voiced dental fricative]] found in the [[Rauma dialect]], and the Eastern [[exessive case]].
+
+The classification of closely related dialects spoken outside Finland is a politically sensitive issue that has been controversial since Finland's independence in 1917. This concerns specifically the [[Karelian language]] in Russia and [[Meänkieli]] in Sweden, the speakers of which are often considered oppressed minorities. Karelian is different enough from standard Finnish to have its own orthography. Meänkieli is a northern dialect almost entirely intelligible to speakers of any other Finnish dialect, which achieved its status as an official minority language in Sweden for historical and political reasons, although Finnish is an official minority language in Sweden, too. In 1980, many texts, books and the [[Bible]] were translated into Meänkieli and it has been developing more into its own language.<ref>https://yle.fi/uutiset/3-8625252</ref>
+
+===Western dialects===
+[[File:Ei me mittä kaffelle men?.jpg|thumb|right|The [[Turku]] dialect is famous for its seemingly inverted questions. For example, "{{lang|fi|Ei me mittä kaffelle men?}}" looks like it means "So we don't go for coffees?" but actually means "Shall we go for coffees?"<ref>Ristkari, Maiju: ''Tavit Turun toreilla''. In ''Ankkojen Suomi'', [[Sanoma]] 2014, p. 36. {{ISBN|978-951-32-3847-6}}.</ref>]]
+The Southwestern dialects ({{lang|fi|lounaismurteet}}) are spoken in [[Southwest Finland]] and [[Satakunta (region)|Satakunta]]. Their typical feature is abbreviation of word-final vowels, and in many respects they resemble [[Estonian language|Estonian]]. The Tavastian dialects ({{lang|fi|hämäläismurteet}}) are spoken in [[Tavastia (historical province)|Tavastia]]. They are closest to the standard language, but feature some slight vowel changes, such as the opening of diphthong-final vowels ({{lang|fi|tie}} → {{lang|fi|tiä}}, {{lang|fi|miekka}} → {{lang|fi|miakka}}, {{lang|fi|kuolisi}} → {{lang|fi|kualis}}), the change of d to l (mostly obsolete) or trilled r (widespread, nowadays disappearance of d is popular) and the personal pronouns ({{lang|fi|me: meitin}} (we: our), {{lang|fi|te:teitin}} (you: your) and {{lang|fi|he: heitin}} (they: their)). The Southern Ostrobothnian dialects ({{lang|fi|eteläpohjalaiset murteet}}) are spoken in [[Southern Ostrobothnia]]. Their most notable feature is the pronunciation of "d" as a tapped or even fully trilled {{IPA|/r/}}. The Middle and North Ostrobothnia dialects ({{lang|fi|keski- ja pohjoispohjalaiset murteet}}) are spoken in [[Central Ostrobothnia|Central]] and [[Northern Ostrobothnia]]. The Far Northern dialects ({{lang|fi|peräpohjalaiset murteet}}) are spoken in [[Lapland, Finland|Lapland]]. The dialects spoken in the western parts of Lapland are recognizable by retention of old "h" sounds in positions where they have disappeared from other dialects.
+
+One of the Far Northern dialects or its own language, [[Meänkieli]], which is spoken on the Swedish side of the border, is taught in some Swedish schools as a distinct [[standard language|standardized language]]. The speakers of Meänkieli became politically separated from the other Finns when Finland was [[Finnish War|annexed]] to Russia in 1809. The categorization of Meänkieli as a separate language is controversial among some Finns, who see no linguistic criteria, only political reasons, for treating Meänkieli differently from other dialects of Finnish.<ref>{{cite book |title=Sveriges officiella minoritetsspråk: finska, meänkieli, samiska, romani, jiddisch och teckenspråk: en kort presentation |trans-title=The official minority languages of Sweden: Finnish, Meänkieli, Sámi, Romani, Yiddish, and sign language: a short presentation |language=sv |publisher=[[Svenska språknämnden]] |year=2003 |isbn=91-7297-611-X |url=https://www.diva-portal.org/smash/get/diva2:1110108/FULLTEXT01.pdf |accessdate=3 September 2019}}</ref>
+
+The [[Kven language]] is spoken in [[Finnmark]] and [[Troms]], in Norway. Its speakers are descendants of Finnish emigrants to the region in the 18th and 19th centuries. [[Kven language|Kven]] is an official minority language in Norway.
+
+===Eastern dialects===
+[[File:Savonlinna HyvveeVahvooMokkoo.JPG|thumb|A sign in Savonian dialect: "You don't get cognac here, but proper wheat made buns and good strong ''Juhla Mokka'' -brand coffee you will have. Welcome."]]
+{{Main|East Finnish}}
+The Eastern dialects consist of the widespread Savonian dialects ({{lang|fi|savolaismurteet}}) spoken in [[Savonia (historical province)|Savo]] and nearby areas, and the South-Eastern dialects now spoken only in Finnish [[South Karelia]]. The South-Eastern dialects ({{lang|fi|kaakkoismurteet}}) were previously also spoken on the [[Karelian Isthmus]] and in [[Ingria]]. The Karelian Isthmus was evacuated during [[World War II]] and refugees were resettled all over Finland. Most [[Ingrian Finns]] were [[Deportations of the Ingrian Finns|deported]] to various interior areas of the Soviet Union.
+
+[[Palatalization (phonetics)|Palatalization]], a common feature of Uralic languages, had been lost in the Finnic branch, but it has been reacquired by most of these languages, including Eastern Finnish, but not Western Finnish. In Finnish orthography, this is denoted with a "j", e.g. {{lang|fi|vesj}} {{IPA|[vesʲ]}} "water", cf. standard {{lang|fi|vesi}} {{IPA|[vesi]}}.
+
+The language spoken in those parts of Karelia that have not historically been under Swedish or Finnish rule is usually called the [[Karelian language]], and it is considered to be more distant from standard Finnish than the Eastern dialects. Whether this language of [[Russian Karelia]] is a dialect of Finnish or a separate language is a matter of interpretation. However, the term "Karelian dialects" is often used colloquially for the Finnish South-Eastern dialects.
+
+===Dialect chart of Finnish===
+{{div col |colwidth=25em}}
+* '''Western dialects'''
+**Southern-Western dialects
+***Proper Southern-Western dialects
+**** Northern dialect group
+**** Southern dialect group
+***Southern-Western middle dialects
+****Pori region dialects
+****Ala-Satakunta dialects
+****dialects of Turku highlands
+****Somero region dialects
+****Western Uusimaa dialects
+**Tavastian dialects
+***Ylä-Satakunta dialects
+***Heart Tavastian dialects
+***Southern Tavastian dialects
+***Southern-Eastern Tavastian dialects
+****Hollola dialect group
+****Porvoo dialect group
+****Iitti dialect group
+**Southern Botnian dialects
+**Middle and Northern Botnian dialects
+***Middle Botnian dialects
+***Northern Botnian dialects
+**[[Peräpohjola dialects]]
+***Tornio dialects (''"[[Meänkieli]]"'' in Sweden)
+***Kemi dialects
+***Kemijärvi dialects
+***Jällivaara dialects (''"Meänkieli"'' in Sweden)
+***Ruija dialects (''"[[Kven language]]"'' in Northern Norway)
+*'''Eastern dialects'''
+**[[Savonian dialects]]
+***Northern Savonian dialects
+***Southern Savonian dialects
+***Middle dialects of Savonlinna region
+***Eastern Savonian dialects or the dialects of North Karelia
+***Kainuu dialects
+***Central Finland dialects
+***Päijänne Tavastia dialects
+***Keuruu-Evijärvi dialects
+***Savonian dialects of Värmland (Sweden)
+**Southern-Eastern dialects
+***Proper Southern-Eastern dialects
+***Middle dialects of Lemi region
+***Dialects of Ingria (in Russia)<ref>[http://www.internetix.ofw.fi/opinnot/opintojaksot/8kieletkirjallisuus/aidinkieli/murteet/] {{webarchive|url=https://web.archive.org/web/20051230210427/http://www.internetix.ofw.fi/opinnot/opintojaksot/8kieletkirjallisuus/aidinkieli/murteet/|date=December 30, 2005}}</ref>
+{{div col end}}
+
+==Linguistic registers==
+{{More citations needed|date=October 2009}}
+There are two main [[Register (sociolinguistics)|registers]] of Finnish used throughout the country. One is the "standard language" (''yleiskieli''), and the other is the "spoken language" (''puhekieli''). The standard language is used in formal situations like political speeches and newscasts. Its written form, the "book language" (''kirjakieli''), is used in nearly all written texts, not always excluding even the dialogue of common people in popular prose.<ref>{{Cite web|title=Yleiskieli|url=http://www.kielitoimistonohjepankki.fi/haku/yleiskieli/ohje/568|website=Kotimaisten kielten keskus}}</ref> The spoken language, on the other hand, is the main variety of Finnish used in popular TV and radio shows and at workplaces, and may be preferred to a dialect in personal communication.
+
+===Standardization===
+Standard Finnish is prescribed by the Language Office of the [[Research Institute for the Languages of Finland]] and is the language used in official communication. [[Nykysuomen sanakirja|The Dictionary of Contemporary Finnish]] (''Nykysuomen sanakirja'' 1951–61), with 201,000 entries, was a [[prescriptive]] dictionary that defined official language. An additional volume for words of foreign origin (''Nykysuomen sivistyssanakirja'', 30,000 entries) was published in 1991. An updated dictionary, [[The New Dictionary of Modern Finnish]] (''Kielitoimiston sanakirja'') was published in an electronic form in 2004 and in print in 2006. A [[descriptive]] grammar (''[[Iso suomen kielioppi]]'',<ref>Hakulinen, Auli et al. (2004): Iso suomen kielioppi. SKS:n toimituksia 950. Helsinki: Suomalaisen Kirjallisuuden Seura. {{ISBN|951-746-557-2}}. 1,600 pages</ref> 1,600 pages) was published in 2004. There is also an etymological dictionary, ''Suomen sanojen alkuperä'', published in 1992–2000, and a handbook of contemporary language (''Nykysuomen käsikirja''), and a periodic publication, ''Kielikello''. Standard Finnish is used in official texts and is the form of language taught in schools. Its spoken form is used in political speech, newscasts, in courts, and in other formal situations. Nearly all publishing and printed works are in standard Finnish.
+
+===Colloquial Finnish===
+{{main|Colloquial Finnish}}
+The colloquial language has mostly developed naturally from earlier forms of Finnish, and spread from the main cultural and political centres. The standard language, however, has always been a consciously constructed medium for literature. It preserves grammatical patterns that have mostly vanished from the colloquial varieties and, as its main application is writing, it features complex syntactic patterns that are not easy to handle when used in speech. The colloquial language develops significantly faster, and the grammatical and phonological changes also include the most common pronouns and suffixes, which amount to frequent but modest differences. Some sound changes have been left out of the formal language. For example, irregular verbs have developed in the spoken language as a result of the [[elision]] of [[Sonorant|sonorants]] in some verbs of the [[Finnish verb conjugation#Type III verbs|Type III]] class (with subsequent vowel [[Assimilation (phonology)|assimilation]]), but only when the second syllable of the word is short. The end result is that some forms in the spoken language are shortened, e.g. ''tule-n'' → ''tuu-n'' ("I come"), while others remain identical to the standard language ''hän tulee'' 'he comes', never *''hän tuu''). However, the longer forms such as ''tule'' can be used in spoken language in other forms as well.
+
+The literary language certainly still exerts a considerable influence upon the spoken word, because illiteracy is nonexistent and many Finns are avid readers. In fact, it is still not entirely uncommon to meet people who "talk book-ish" (''puhuvat kirjakieltä''); it may have connotations of pedantry, exaggeration, moderation, weaseling or sarcasm (somewhat like heavy use of Latinate words in English: compare the difference between saying "There's no children I'll leave it to" and "There are no children to whom I shall leave it"). More common is the intrusion of typically literary constructions into a colloquial discourse, as a kind of quote from written Finnish. It is quite common to hear book-like and polished speech on radio or TV, and the constant exposure to such language tends to lead to the adoption of such constructions even in everyday language.
+
+A prominent example of the effect of the standard language is the development of the consonant gradation form /ts : ts/ as in ''metsä : metsän'', as this pattern was originally (1940) found natively only in the dialects of the southern Karelian isthmus and [[Ingria]]. It has been reinforced by the spelling "ts" for the dental fricative {{IPA|[θː]}}, used earlier in some western dialects. The spelling and the pronunciation this encourages however approximate the original pronunciation, still reflected in e.g. [[Karelian language|Karelian]] /čč : č/ (''meččä : mečän''). In the spoken language, a fusion of Western /tt : tt/ (''mettä : mettän'') and Eastern /ht : t/ (''mehtä : metän'') has resulted: /tt : t/ (''mettä : metän'').<ref>[http://www.internetix.ofw.fi/opinnot/opintojaksot/8kieletkirjallisuus/aidinkieli/murteet/ts-vasti.html Yleiskielen ts:n murrevastineet] {{webarchive |url=https://web.archive.org/web/20070927010530/http://www.internetix.ofw.fi/opinnot/opintojaksot/8kieletkirjallisuus/aidinkieli/murteet/ts-vasti.html |date=September 27, 2007 }}</ref> It is notable that neither of these forms are identifiable as, or originate from, a specific dialect.
+
+The orthography of informal language follows that of the formal. However, in signalling the former in writing, [[Syncope (phonology)|syncope]] and [[sandhi]] – especially internal – may occasionally amongst other characteristics be transcribed, e.g. {{lang|fi|menenpä → me(n)empä}}. This never occurs in the standard variety.
+
+===Examples===
+
+:{| class="wikitable"
+|-
+||'''formal language'''
+||'''colloquial language'''
+||'''meaning'''
+|'''notes'''
+|-
+||''<u>hän</u> menee''
+''<u>he</u> mene<u>vät</u>''
+||''<u>se</u> menee''
+''<u>ne</u> mene<u>e</u>''
+||"he/she goes"
+"they go"
+|loss of an [[animacy]] contrast in pronouns (''ne'' and ''se'' are inanimate in the formal language), and
+
+loss of a [[Grammatical number|number]] contrast on verbs in the 3rd person (''menee'' is 3rd person singular in the formal language)
+|-
+|''minä, minun,'' ...
+|''mä(ä)/mie, mun/miun, ...''
+|"I, my, ..." 
+|various alternative, usually shorter, forms of 1st and 2nd person pronouns
+|-
+||''(<u>minä)</u> tu<u>le</u>n''
+''(<u>minä)</u> o<u>le</u>n''
+||''<u>mä</u> tu<u>u</u>n''
+''<u>mä</u> o<u>o</u>n''
+||"I'm coming" or "I will come"
+"I am" or "I will be" 
+|[[elision]] of [[Sonorant|sonorants]] before short vowels in certain [[Finnish verb conjugation#Type III verbs|Type III verbs]] along with vowel [[Assimilation (phonology)|assimilation]],
+and no [[pro-drop]] (i.e., personal pronouns are usually mandatory in the colloquial language)
+|-
+||''on<u>ko</u> teillä''
+''ei<u>kö</u> teillä ole''
+||''o(n)<u>ks</u> teil(lä)''
+''e(i)<u>ks</u> teil(lä) oo''
+||"do you (pl.) have?"
+"don't you (pl.) have (it)?"
+|vowel [[apocope]] and common use of the clitic ''-s'' in [[Interrogative sentence|interrogatives]]
+(compare ''eiks'' to standard Estonian confirmatory interrogative "eks")
+|-
+||''(me) emme sano''
+||''me ei sanota''
+||"we don't say" or "we won't say"
+|the [[Finnish grammar#Passive voice|passive voice]] is used in place of the first person plural
+|-
+||''(minun) kirja<u>ni</u>''
+||''mun kirja''  
+||"my book" 
+|lack of possessive clitics on nouns
+|-
+||''(minä) en tiedä''
+''syödä''
+||''m<u>ä</u> en ti<u>(i)ä</u>''
+''syyä''
+||"I don't know" 
+"to eat"
+|[[elision]] of [d] between vowels, and subsequent vowel [[Assimilation (phonology)|assimilation]]
+(compare ''mä en ti(i)ä'' to standard Estonian "ma ei tea" or dialectic forms "ma ei tia" or "ma ei tie")
+|-
+||''kuusikymmentäviisi''
+||''kuuskyt(ä)viis''
+||"sixty-five" 
+|abbreviated forms of numerals
+|-
+||''puna<u>i</u>nen''
+''ajo<u>i</u>ttaa''
+||''punane(n)''
+''ajottaa''
+||"red"
+"to time"
+|unstressed diphthongs ending in /i/ become short vowels, and [[apocope]] of phrase-final ''-n''
+|-
+||''korjan<u>ne</u>e''
+||''<u>kai</u> korjaa''
+||"probably will fix"
+|absence of the [[potential mood]], use of ''kai'' "probably" instead
+|}
+
+Note that there are noticeable differences between dialects. Also note that here the formal language does not mean a language spoken in formal occasions but the standard language which exists practically only in written form.
+
+==Phonology==
+{{Main|Finnish phonology}}
+
+=== Segmental phonology ===
+The phoneme inventory of Finnish is moderately small,<ref>{{Cite web|title=Consonant Inventories|url=https://wals.info/valuesets/1A-fin|last=Maddieson|first=Ian|date=2013|editor-last=Dryer|editor-first=Matthew S.|editor2-last=Haspelmath|editor2-first=Martin|website=The World Atlas of Language Structures Online|publisher=Max Planck Institute for Evolutionary Anthropology|location=Leipzig|url-status=live|archive-url=https://web.archive.org/web/20200504021126/https://wals.info/valuesets/1A-fin|archive-date=4 May 2020|access-date=4 May 2020}}</ref> with a great number of vocalic segments and a restricted set of consonant types, both of which can be long or short.
+
+==== Vocalic segments ====
+Finnish monophthongs show eight vowels qualities that contrast in duration, thus 16 vowel phonemes in total. Vowel [[allophony]] is quite restricted. Vowel phonemes are always contrastive in word-initial syllables; for non-initial syllable, see [[morphophonology]] below. Long and short vowels are shown below.
+
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan="2" |
+! colspan="2" | Front
+! rowspan="2" | Back
+|-
+!Unrounded
+!Rounded
+|-
+! Close
+| i iː
+| y yː
+|u uː
+|-
+! Mid
+| e eː
+| ø øː
+|o oː
+|-
+! Open
+| æ æː
+|
+| ɑ ɑː
+|}
+
+The usual analysis is that Finnish has long and short vowels and consonants as distinct phonemes. However, long vowels may be analyzed as a vowel followed by a [[chroneme]], or also, that sequences of identical vowels are pronounced as "diphthongs". The quality of long vowels mostly overlaps with the quality of short vowels, with the exception of '''u''', which is centralized with respect to '''uu'''; long vowels do not morph into [[diphthong]]s. There are eighteen phonemic diphthongs; like vowels, diphthongs do not have significant allophony.
+
+==== Consonants ====
+Finnish has a consonant inventory of small to moderate size, where voicing is mostly not distinctive, and fricatives are scarce. Finnish has relatively few non-[[coronal consonant]]s. Consonants are as follows, where consonants in parenthesis are found either only in a few recent loans or are allophones of other phonemes.
+
+{| class="wikitable" style=text-align:center
+!
+! [[Labial consonant|Labial]]
+! [[Dental consonant|Dental]]/<br />[[Alveolar consonant|Alveolar]]
+! [[Postalveolar consonant|Postalveolar]]
+![[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! [[Nasal stop|Nasal]]
+| {{IPA|m}}
+| {{IPA|n}}
+|
+|
+| {{IPA|ŋ}} <ref group=note>The short [[velar nasal]] is an allophone of {{IPA|/n/}} in {{IPA|/nk/}}, and the long velar nasal {{IPA|/ŋŋ/}}, written ''ng'', is the equivalent of {{IPA|/nk/}} under weakening [[consonant gradation]] (type of [[lenition]]) and thus occurs only medially, e.g. ''[[Helsinki]]''&nbsp;– ''Helsingin kaupunki'' (city ''of Helsinki'') /hɛlsiŋki&nbsp;– hɛlsiŋŋin/.</ref>
+|
+|-
+! [[Plosive]]
+| {{IPA|p}} ({{IPA|b}})
+| {{IPA|t}} {{IPA|d}} <ref group=note>{{IPA|/d/}} is the equivalent of {{IPA|/t/}} under weakening [[consonant gradation]], and thus in inherited vocabulary occurs only medially; it can actually, especially when spoken by older people, be more of an [[Dental and alveolar flaps#Alveolar|alveolar]] [[Flap consonant|tap]] rather than a true voiced stop, and the dialectal realization varies widely; see the main article on Finnish phonology.</ref>
+|
+|
+| {{IPA|k}} ({{IPA|ɡ}})
+| {{IPA|ʔ}} <ref group=note>The [[glottal stop]] can only appear at word boundaries as a result of certain sandhi phenomena, and it is not indicated in spelling: e.g. {{IPA|/annaʔolla/}} 'let it be', orthographically ''anna olla''. Moreover, this sound is not used in all dialects.</ref>
+|-
+! [[Fricative consonant|Fricative]]
+| ({{IPA|f}})
+| {{IPA|s}}
+| ({{IPA|ʃ}})
+|(ç) <ref group=note>An allophone of {{IPA|/h/}}. ''Vihko'' (notebook) {{IPA|[ˈʋiçko̞]}}</ref>
+|(x) <ref group=note>An allophone of {{IPA|/h/}}. ''Kahvi'' (coffee) {{IPA|[ˈkɑxʋi]}}</ref>
+| {{IPA|h}} (ɦ) <ref group=note>An allophone of {{IPA|/h/}}. ''Raha'' (money) {{IPA|[ˈrɑɦɑ]}}</ref>
+|-
+! [[Approximant consonant|Approximant]]
+| {{IPA|ʋ}}
+| {{IPA|l}}
+|
+| {{IPA|j}}
+|
+|
+|-
+! [[Trill consonant|Trill]]
+|
+| {{IPA|r}}
+|
+|
+|
+|
+|}
+
+{{reflist|group=note}}
+
+Almost all consonants have phonemic short and long ([[geminate]]d) forms, although length is only contrastive in consonants word-medially.
+
+Consonant clusters are mostly absent in native Finnish words, except for a small set of two-consonant sequences in [[syllable coda]]s, e.g. "rs" in ''karsta''. However, because of a number of recently adopted loanwords that have them, e.g. ''strutsi'' from Swedish ''struts'', meaning "ostrich", clusters have been integrated to the modern language to different degrees.
+
+Finnish is somewhat divergent from other Uralic languages in two respects: it has lost most fricatives, as well as losing the distinction between  [[Palatalization (phonetics)|palatalized]] and non-palatalized consonants. Finnish has only two fricatives in native words, namely {{IPA|/s/}} and {{IPA|/h/}}. All other fricatives are recognized as foreign, of which Finnish speakers can usually reliably distinguish {{IPA|/f/}} and {{IPA|/ʃ/}}. (The official alphabet includes "z" [z] and 'ž' [ʒ], but these are rarely used correctly, including by the Swedish-speakers, who also struggle with those sounds.) While standard Finnish has lost [[Palatalization (phonetics)|palatalization]], which is characteristic of Uralic languages, the Eastern dialects and the Karelian language have redeveloped or retained it. For example, the [[Karelian language|Karelian]] word ''d'uuri'' {{IPA|[dʲuːri]}}, with a palatalized {{IPA|/dʲ/}}, is reflected by ''juuri'' in Finnish and [[Savo dialect]] {{lang|fi|vesj}} {{IPA|[vesʲ]}} is ''vesi'' in standard Finnish.
+
+A feature of Finnic phonology is the development of labial and rounded vowels in non-initial syllables, as in the word ''tyttö''. [[Proto-Uralic]] had only "a" and "i" and their vowel harmonic allophones in non-initial syllables; modern Finnish allows other vowels in non-initial syllables, although they are uncommon compared to "a", "ä" and "i".
+
+=== Prosody ===
+Characteristic features of Finnish (common to some other Uralic languages) are [[vowel harmony]] and an [[agglutinative]] morphology; owing to the extensive use of the latter, words can be quite long.
+
+The main stress is always on the first syllable, and is in average speech articulated by adding approximately 100 ms more length to the stressed vowel.<ref>{{cite journal|last=Kirmse|first=U|author2=Ylinen, S|author3=Tervaniemi, M|author4=Vainio, M|author5=Schröger, E|author6=Jacobsen, T|year=2008|title=Modulation of the mismatch negativity (MMN) to vowel duration changes in native speakers of Finnish and German as a result of language experience.|journal=International Journal of Psychophysiology|volume=67|issue=2|pages=131–143|doi=10.1016/j.ijpsycho.2007.10.012|pmid=18160160|url=http://nbn-resolving.de/urn:nbn:de:bsz:352-2-ral5w6kctgza7}}</ref> Stress does not cause any measurable modifications in vowel quality (very much unlike English). However, stress is not strong and words appear evenly stressed. In some cases, stress is so weak that the highest points of volume, pitch and other indicators of "articulation intensity" are not on the first syllable, although native speakers recognize the first syllable as being stressed.
+
+==Morphophonology==
+{{further|Finnish consonant gradation}}
+
+Finnish has several morphophonological processes that require modification of the forms of words for daily speech. The most important processes are [[vowel harmony]] and [[consonant gradation]].
+
+Vowel harmony is a redundancy feature, which means that the feature [±back] is uniform within a word, and so it is necessary to interpret it only once for a given word. It is meaning-distinguishing in the initial syllable, and suffixes follow; so, if the listener hears [±back] in any part of the word, they can derive [±back] for the initial syllable. For example, from the stem ''tuote'' ("product") one derives ''t'''uo'''tteeseens'''a''''' ("into his product"), where the final vowel becomes the back vowel "a" (rather than the front vowel "ä") because the initial syllable contains the back vowels "uo". This is especially notable because vowels "a" and "ä" are different, meaning-distinguishing [[phoneme]]s, not interchangeable or [[Allophone|allophonic]]. Finnish front vowels are not [[Germanic umlaut|umlaut]]s, though the [[grapheme]]s ⟨ä⟩ and ⟨ö⟩ feature [[Diaeresis (diacritic)|dieresis]].
+
+Consonant gradation is a partly nonproductive<ref>{{cite journal|first=Valma|last=Yli-Vakkuri|title=Onko suomen kielen astevaihtelu epäproduktiivinen jäänne?|journal=Sananjalka|issue=18|year=1976|publisher=Suomen kielen seura|doi=10.30673/sja.86402|url=http://www.suomenkielenseura.fi/wp-content/uploads/sj18_053-069_yli-vakkuri.pdf}}</ref> [[lenition]] process for P, T and K in inherited vocabulary, with the oblique stem "weakened" from the nominative stem, or vice versa. For example, ''tar'''kk'''a'' "precise" has the oblique stem ''tar'''k'''a-'', as in ''tarkan'' "of the precise". There is also another gradation pattern, which is older, and causes simple elision of T and K in suffixes. However, it is very common since it is found in the partitive case marker: if V is a single vowel, V+''ta'' → Va, e.g. *''tarkka+ta'' → ''tarkkaa''.
+
+==Grammar==
+{{Main|Finnish grammar}}
+Finnish is a [[synthetic language]] that employs extensive [[agglutination]] of affixes to verbs, nouns, adjectives and numerals. Finnish is not generally considered [[polysynthetic language|polysynthetic]], however, its morpheme-to-word ratio being somewhat lower than a prototypical polysynthetic language (e.g., [[Central Alaskan Yup'ik language|Yup'ik)]].<ref>{{Cite book |author=Sapir, Edward |title=Language, an introduction to the study of speech |year=1978 |orig-year=1970 |publisher=Hart-Davis, MacGibbon |isbn=0-246-11074-0 |location=London |oclc=8692297}}</ref>
+
+The [[morphosyntactic alignment]] of Finnish is nominative–accusative, but there are two [[Grammatical object|object]] [[Grammatical case|cases]]: accusative and partitive. The contrast between accusative and partitive object cases is one of [[telicity]], where the accusative case denotes actions completed as intended (''Ammuin hirven'' "I shot the elk (dead)"), and the partitive case denotes incomplete actions (''Ammuin hirveä'' "I shot (at) the elk").<ref>{{Citation|title=Telicity and the Meaning of Objective Case|date=2004|work=The Syntax of Time|publisher=The MIT Press|doi=10.7551/mitpress/6598.003.0017|isbn=978-0-262-27449-4}}</ref> Often telicity is confused with [[perfective aspect|perfectivity]], but these are distinct notions. Finnish in fact has a [[Periphrasis|periphrastic]] [[perfective aspect]], which in addition to the two inflectional tenses (past and present), yield a [[Germanic languages|Germanic]]-like system consisting of four tense-aspect combinations: simple present, simple past, [[Perfect (grammar)|perfect]] (present + perfective aspect) and [[pluperfect]] (past + perfective aspect). No morphological future tense is needed; context and the telicity contrast in object grammatical case serve to disambiguate present events from future events. For example, ''syön kalan'' "I eat a fish (completely)" must denote a future event, since there is no way to completely eat a fish at the current moment (the moment the eating is complete, the simple past tense or the perfect must be used). By contrast, ''syön kalaa'' "I eat a fish (not yet complete)" denotes a present event by indicating ongoing action.
+
+Finnish has three grammatical [[Grammatical person|persons]]; [[Finite verb|finite]] verbs [[Agreement (linguistics)|agree]] with subject nouns in person and number by way of suffixes. Non-finite verb forms bear the infinitive suffix ''-ta/-tä'' (often [[Lenition|lenited]] to ''-(d)a/-(d)ä'' due to [[Finnish consonant gradation|consonant gradation]]).<ref>{{Cite book|last=Kiparsky|first=Paul|date=2003|chapter=Finnish noun inflection|url=https://web.stanford.edu/~kiparsky/Papers/finnish.article.pdf|title=Generative Approaches to Finnicand Saami Linguistics |editor1=Diane Nelson |editor2=Satu Manninen |publisher=CSLI Publications|pages=109-161}}</ref> There is a so-called "passive voice" (sometimes called impersonal or indefinite) which differs from a true passive in various respects.<ref>{{Cite journal |last=Shore |first=Susanna |date=December 1988 |title=On the so-called Finnish passive |journal=Word |volume=39 |issue=3 |pages=151–176 |doi=10.1080/00437956.1988.11435787 |issn=0043-7956}}</ref>  Transitivity is distinguished in the [[Derivational morpheme|derivational]] morphology of verbs, e.g. ''ratkaista'' "to solve something" vs. ''ratketa'' "to solve by itself". There are also several [[frequentative]] and [[momentane]] affixes which form new verbs derivationally.
+
+Nouns may be suffixed with the markers for the aforementioned [[accusative case]] and [[partitive case]], the [[genitive case]], eight different [[Finnish locative system|locatives]], and a few other oblique cases. The case affix must be added not only to the head noun, but also to its modifiers; e.g. ''suure+ssa talo+ssa'', literally "big-in house-in". Possession is marked with [[possessive suffix]]es; these suffixes appear on nouns and pronouns alike (Finnish [[possessive pronouns]] are thus not [[Suppletion|suppletive]] like English ''her'').
+
+==Lexicon==
+[[File:Suomalaisen Sana-Lugun Coetus.jpg|thumb|''[[Suomalaisen Sana-Lugun Coetus]]'' (1745) by [[Daniel Juslenius]] was the first comprehensive dictionary of the Finnish language with 16,000 entries.]]
+{{see also|Wiktionary:Category:Finnish language|Wiktionary:Category:Finnish derivations}}
+
+Finnish has a smaller core vocabulary than, for example, English, and uses [[Derivational morpheme|derivational]] suffixes to a greater extent. As an example, take the word ''kirja'' "a book", from which one can form derivatives ''kirjain'' "a letter" (of the [[alphabet]]), ''kirje'' "a piece of correspondence, a letter", ''kirjasto'' "a library", ''kirjailija'' "an author", ''kirjallisuus'' "literature", ''kirjoittaa'' "to write", ''kirjoittaja'' "a writer", ''kirjuri'' "a scribe, a clerk", ''kirjallinen'' "in written form", ''kirjata'' "to write down, register, record", ''kirjasin'' "a font", and many others.
+
+Here are some of the more common such suffixes. Which of each pair is used depends on the word being suffixed in accordance with the rules of [[vowel harmony]].
+{| class="wikitable"
+|+Examples of Finnish derivational suffixes on nouns
+!Suffix
+!Used to create...
+!Example(s)
+!Notes
+|-
+| -''ja / -jä''
+|[[Agent noun|agents]] from verbs
+|''lukea'' "to read" → ''lukija'' "reader"
+|
+|-
+|''-sto / -stö'':
+|[[collective noun]]s
+|''kirja'' "a book" → ''kirjasto'' "a library"
+''laiva'' "a ship" → ''laivasto'' "navy, fleet"
+|
+|-
+|''-in''
+|instruments or tools
+|''kirjata'' "to book, to file" → ''kirjain'' "a letter" (of the alphabet) 
+''vatkata'' "to whisk" → ''vatkain'' "a whisk, mixer"
+|
+|-
+|''-uri / -yri''
+|[[Agent (grammar)|agents]] or instruments
+|''kaivaa'' "to dig" → ''kaivuri'' "an excavator"
+''laiva'' "a ship" → ''laivuri'' "shipper, shipmaster"
+|
+|-
+|''-os / -ös''
+|[http://www.glottopedia.org/index.php/Result_nominal#:~:text=A%20result%20nominal%20is%20a,verb%20it%20is%20derived%20from. result] nouns from verbs
+|''tulla'' "to come" → ''tulos'' "result, outcome"
+''tehdä'' "to do" → ''teos'' "a piece of work"
+|
+|-
+|''-ton / -tön''
+|[[adjective]]s indicating the lack of something
+|''onni'' "happiness" → ''onneton'' "unhappy"
+
+''koti'' "home" → ''koditon'' "homeless"
+|
+|-
+|''-kas / -käs''
+|adjectives from nouns
+|''itse'' "self" → ''itsekäs'' "selfish"
+
+''neuvo'' "advice" → ''neuvokas'' "resourceful"
+|
+|-
+|''-va / -vä''
+|adjectives from verbs
+|''taitaa'' "to be able" → ''taitava'' "skillful"
+''johtaa'' "to lead" → ''johtava'' "leading"
+|
+|-
+|''-llinen''
+|adjectives from nouns
+|''lapsi'' "child" → ''lapsellinen'' "childish"
+''kauppa'' "a shop, commerce" → ''kaupallinen'' "commercial"
+|
+|-
+|''-la / -lä'':
+|locations (places related to the stem)
+|''kana'' "a hen" → ''kanala'' "a henhouse"
+''pappi'' "a priest" → ''pappila'' "a parsonage"
+|
+|-
+|''-lainen /'' 
+''-läinen'':
+|inhabitants (of places), among others
+|''Englanti'' "England" → ''englantilainen'' "English person/thing"
+''Venäjä'' "Russia" → ''venäläinen'' "Russian person or thing".
+|formed from ''-la / -lä'' plus ''[[wiktionary:-inen|-inen]]''
+|}
+Verbal derivational suffixes are extremely diverse; several [[frequentative]]s and [[momentane]]s differentiating [[causative]], volitional-unpredictable and [[anticausative]] are found, often combined with each other, often denoting indirection. For example, ''hypätä'' "to jump", ''hyppiä'' "to be jumping", ''hypeksiä'' "to be jumping wantonly", ''hypäyttää'' "to make someone jump once", ''hyppyyttää'' "to make someone jump repeatedly" (or "to boss someone around"), ''hyppyytyttää'' "to make someone to cause a third person to jump repeatedly", ''hyppyytellä'' "to, without aim, make someone jump repeatedly", ''hypähtää'' "to jump suddenly" (in [[anticausative]] meaning), ''hypellä'' "to jump around repeatedly", ''hypiskellä'' "to be jumping repeatedly and wantonly". [[Caritive]]s are also used in such examples as ''hyppimättä'' "without jumping" and ''hyppelemättä'' "without jumping around". The diversity and compactness of both derivation and inflectional agglutination can be illustrated with ''istahtaisinkohankaan'' "I wonder if I should sit down for a while after all" (from ''istua'', "to sit, to be seated"):
+*''istua'' "to sit down" (''istun'' "I sit down")
+*''istahtaa'' "to sit down for a while"
+*''istahdan'' "I'll sit down for a while"
+*''istahtaisin'' "I would sit down for a while"
+*''istahtaisinko'' "should I sit down for a while?"
+*''istahtaisinkohan'' "I wonder if I should sit down for a while"
+*''istahtaisinkohankaan'' "I wonder if I should sit down for a while after all"
+<!-- Plenty more to add ...-->
+
+===Borrowing===
+Over the course of many centuries, the Finnish language has borrowed many words from a wide variety of languages, most from neighbouring [[Indo-European languages]]. Owing to the different grammatical, phonological and phonotactic structure of the Finnish language, loanwords from Indo-European have been assimilated.
+
+In general, the first loan words into Uralic languages seem to come from very early [[Indo-European languages]]. Later important sources have been, depending on the language, [[Indo-Iranian languages|Indo-Iranian]], [[Turkic languages|Turkic]], [[Baltic languages|Baltic]], [[Germanic languages|Germanic]], and [[Slavic languages]]. Finnic languages, including Finnish, have borrowed in particular from Baltic and Germanic languages, and to a lesser extent from Slavic and Indo-Iranian languages. Furthermore, a certain group of very basic and neutral words exists in Finnish and other Finnic languages that are absent from other Uralic languages, but without a recognizable etymology from any known language. These words are usually regarded{{Who|date=April 2010}} as the last remnant of the [[Pre-Indo-European languages|Paleo-European]] language spoken in Fennoscandia before the arrival of the proto-Finnic language.{{Citation needed|date=April 2010}} Words included in this group are e.g. ''jänis'' (hare), ''musta'' (black), ''mäki'' (hill), ''saari'' (island), ''suo'' (swamp) and ''niemi'' (cape (geography)).
+
+Also some place names, like [[Päijänne]] and [[Imatra]], are probably from before the proto-Finnic era.<ref>Häkkinen, Kaisa. ''Suomalaisten esihistoria kielitieteen valossa'' ({{ISBN|951-717-855-7}}). Suomalaisen kirjallisuuden seura 1996. See pages 166 and 173.</ref>
+
+Often quoted loan examples are ''kuningas'' "king" and ''ruhtinas'' "[[prince|sovereign prince]], high ranking nobleman" from Germanic ''*kuningaz'' and ''*druhtinaz''—they display a remarkable tendency towards phonological conservation within the language. Another example is ''äiti'' "mother", from [[Gothic language|Gothic]] ''aiþei'', which is interesting because borrowing of close-kinship vocabulary is a rare phenomenon. The original Finnish ''emo'' occurs only in restricted contexts. There are other close-kinship words that are loaned from Baltic and Germanic languages (''morsian'' "bride", ''armas'' "dear", ''huora'' "whore"). Examples of the ancient Iranian loans are ''vasara'' "hammer" from [[Avestan]] ''vadžra'', ''vajra'' and ''orja'' "slave" from ''[[Aryan|arya]]'', ''airya'' "man" (the latter probably via similar circumstances as ''slave'' from [[Slavic peoples|Slav]] in many European languages{{Citation needed|date=August 2014}}).
+
+More recently, Swedish has been a prolific source of borrowings, and also, the [[Swedish language]] acted as a proxy for European words, especially those relating to government. Present-day Finland was a part of Sweden from the 12th century and was ceded to Russia in 1809, becoming an autonomous Grand Duchy. Swedish was retained as the official language and language of the upper class even after this. When Finnish was accepted as an official language, it gained legal equal status with Swedish. During the period of autonomy, Russian did not gain much ground as a language of the people or the government. Nevertheless, quite a few words were subsequently acquired from [[Russian language|Russian]] (especially in older [[Helsinki slang]]) but not to the same extent as with Swedish. In all these cases, borrowing has been partly a result of geographical proximity.
+
+Especially words dealing with administrative or modern culture came to Finnish from Swedish, sometimes reflecting the oldest Swedish form of the word (''lag''&nbsp;– ''laki'', "law"; ''län''&nbsp;– ''[[Provinces of Finland|lääni]]'', "province"; ''bisp''&nbsp;– ''piispa'', "bishop"; ''jordpäron''&nbsp;– ''peruna'', "potato"), and many more survive as informal synonyms in spoken or dialectal Finnish (e.g. ''likka'', from Swedish ''flicka'', "girl", usually ''tyttö'' in Finnish).
+
+Typical Russian loanwords are old or very old, thus hard to recognize as such, and concern everyday concepts, e.g. ''papu'' "bean", ''sini'' "([[Noun|n.]]) blue" and ''pappi'' "priest". Notably, a few religious words such as ''Raamattu'' ("Bible") are borrowed from Russian, which indicates language contact preceding the Swedish era. This is mainly believed to be result of trade with Novgorod from the 9th century on and [[Russian Orthodox]] [[Mission (Christianity)|mission]]s in the east in the 13th century.
+
+Most recently, and with increasing impact, English has been the source of new [[loanword]]s in Finnish. Unlike previous geographical borrowing, the influence of English is largely cultural and reaches Finland by many routes, including international business, music, film and TV (foreign films and programmes, excluding ones intended for a very young audience, are shown subtitled), literature, and the [[World Wide Web|Web]]&nbsp;– the latter is now probably the most important source of all non-face-to-face exposure to English.
+
+The importance of English as the language of global commerce has led many non-English companies, including Finland's [[Nokia]], to adopt English as their official operating language. Recently, it has been observed that English borrowings are also ousting previous borrowings, for example the switch from ''treffailla'' "to date" (from Swedish, ''träffa'') to ''deittailla'' from English "to go for a date". [[Calque]]s from English are also found, e.g. ''kovalevy'' (hard disk). Grammatical calques are also found, for example, the replacement of the impersonal (''passiivi'') with the English-style [[generic you]], e. g. ''sä et voi'' "you cannot", instead of ''ei voi'' "one cannot". This construct, however, is limited to colloquial language, as it is against the standard grammar.
+
+However, this does not mean that Finnish is threatened by English. Borrowing is normal language evolution, and neologisms are coined actively not only by the government, but also by the media. Moreover, Finnish and English have a considerably different [[Finnish grammar|grammar]], [[Finnish phonology|phonology]] and [[Finnish phonotactics|phonotactics]], discouraging direct borrowing. English loan words in Finnish slang include for example ''pleikkari'' "PlayStation", ''hodari'' "hot dog", and ''hedari'' "headache", "headshot" or "headbutt". Often these loanwords are distinctly identified as [[slang]] or [[jargon]], rarely being used in a negative mood or in formal language. Since English and Finnish grammar, pronunciation and phonetics differ considerably, most loan words are inevitably sooner or later [[calque]]d&nbsp;– translated into native Finnish&nbsp;– retaining the semantic meaning.{{Citation needed|date=November 2012}}
+
+===Neologisms===
+Some modern terms have been synthesised rather than borrowed, for example:
+:''puhelin'' "telephone" (from the stem "puhel-" "talk"+ instrument suffix "-in" to make "an instrument for talking")
+:''tietokone'' "computer" (literally: "knowledge machine" or "data machine")
+:''levyke'' "diskette" (from ''levy'' "disc" + a diminutive ''-ke'')
+:''sähköposti'' "email" (literally: "electricity mail")
+:''linja-auto'' "bus, coach" (literally: line-car)
+:''muovi'' "plastic" (from muovata "to form or model, e.g. from clay", from the stem muov+ suffix "-i" to make "a substance, material or element for modeling or forming". The suffix "-i" would correspond to the instrument suffix "-in", but instead of instrument in this case rather a substance, material or element that can be used.
+Neologisms are actively generated by the Language Planning Office and the media. They are widely adopted. One would actually give an old-fashioned or rustic impression using forms such as ''kompuutteri (computer)'' or ''kalkulaattori (calculator)'' when the neologism is widely adopted.
+
+===Loans to other languages===
+{{Main|List of English words of Finnish origin}}
+
+==Orthography==
+{{Main|Finnish orthography}}
+[[File:Abckiria.jpg|thumb|upright=1.04|right|The first page of ''[[Abckiria]]'' (1543), the first book written in the Finnish language. The spelling of Finnish in the book had many inconsistencies: for example, the k sound could be represented by c, k or even g; the long u and the long i were represented by w and ij respectively, and ä was represented by e.]]
+Finnish is written with the [[Latin alphabet]] including the distinct characters ä and ö, and also several characters (b, c, f, q, w, x, z, å, š and ž) reserved for words of non-Finnish origin. The Finnish orthography follows the phoneme principle: each phoneme (meaningful sound) of the language corresponds to exactly one grapheme (independent letter), and each grapheme represents almost exactly one phoneme. This enables an easy spelling and facilitates reading and writing acquisition. The rule of thumb for Finnish orthography is: ''write as you read, read as you write''. However, morphemes retain their spelling despite [[sandhi]].
+
+Some orthographical notes:
+*Long vowels and consonants are represented by double occurrences of the relevant graphemes. This causes no confusion, and permits these sounds to be written without having to nearly double the size of the alphabet to accommodate separate graphemes for long sounds.
+*The grapheme ''h'' is sounded slightly harder when placed before a consonant (initially [[breathy voice]]d, then voiceless) than before a vowel.
+*[[Sandhi]] is not transcribed; the spelling of morphemes is immutable, e.g. ''tulen+pa'' {{IPA|/tulempa/}}.
+*Some consonants (v, j, d) and all consonant clusters do not have distinctive length, and consequently, their allophonic variation is typically not specified in spelling, e.g. ''rajaan'' /rajaan/ (I limit) vs. ''raijaan'' /raijjaan/ (I haul).
+*Pre-1900s texts and personal names use ''w'' for ''v''. Both correspond to the same phoneme, the [[labiodental approximant]] {{IPA|/ʋ/}}, a ''v'' without the fricative ("hissing") quality of the English ''v''.
+*The letters ''[[ä]]'' {{IPA|[æ]}} and ''[[ö]]'' {{IPA|[ø]}}, although written with [[Diaeresis (diacritic)|diaereses]], do not represent [[i-mutation|phonological umlauts]] (as in German, for example), and they are considered independent graphemes; the letter shapes have been copied from Swedish. An appropriate parallel from the Latin alphabet are the characters ''C'' and ''G'' (uppercase), which historically have a closer kinship than many other characters (''G'' is a derivation of ''C'') but are considered distinct letters, and changing one for the other will change meanings.
+
+Although Finnish is almost completely written as it is spoken, there are a few differences:
+* The ''n'' in the sequence ''nk'' is pronounced as a [[velar nasal]] /ŋ/, as in English. When not followed by ''k'', /ŋː/ is written ''ng''. The fact that two spellings correspond to this one sound (putting aside the difference in [[Consonant length|length]]) can be seen as an exception to the general one-to-one correspondence between sounds and letters.
+* [[Sandhi]] phenomena at word or clitic boundaries involving gemination (e.g., ''tule tanne'' is pronounced [tu.le'''t'''.'''t'''æn.ne], not [tu.le.tæn.ne]) or the [[Assimilation (phonology)|place assimilation]] of [[Nasal consonant|nasals]] (''sen pupu'' would usually be pronounced as [se'''m'''.pu.pu], and ''onpa'' as [o'''m'''.pɑ])
+* The {{IPA|/j/}} after the letter ''i'' is very weak or there is no {{IPA|/j/}} at all, but in writing it is used; for example: ''urheilija''. Indeed, the ''j'' is not used in writing words with consonant gradation such as ''aion'' and ''läksiäiset''.
+* In speech there is no difference between the use of {{IPA|/i/}} in words (like ''ajo'''i'''ttaa'', but ''ehdottaa''), but in writing there are quite simple rules: The i is written in forms derived from words that consist two syllables and end in a or ä (''sanoittaa'', "to write song-lyrics", from ''sana'', "word"), and in words that are old-stylish (''innoittaa''). The i is not written in forms derived from words that consist two syllables and end in o or ö (''erottaa'' "to discern, to differentiate" from ''ero'' difference), words which do not clearly derive from a single word (''hajottaa'' can be derived either from the stem ''haja-'' seen in such adverbs as ''hajalle'', or from the related verb ''hajota''), and in words that are descriptive (''häämöttää'') or workaday by their style (''rehottaa'')
+
+When the appropriate characters are not available, the graphemes ''ä'' and ''ö'' are usually converted to ''a'' and ''o'', respectively. This is common in e-mail addresses and other electronic media where there may be no support for characters outside the basic [[ASCII]] character set. Writing them as ''ae'' and ''oe'', following German usage, is rarer and usually considered incorrect, but formally used in passports and equivalent situations. Both conversion rules have minimal pairs which would no longer be distinguished from each other.
+
+The sounds ''š'' and ''ž'' are not a part of Finnish language itself and have been introduced by the Finnish national languages body for more phonologically accurate transcription of loanwords (such as ''Tšekki'', "[[Czech Republic]]") and foreign names. For technical reasons or convenience, the graphemes ''sh'' and ''zh'' are often used in quickly or less carefully written texts instead of ''š'' and ''ž''. This is a deviation from the phonetic principle, and as such is liable to cause confusion, but the damage is minimal as the transcribed words are foreign in any case. Finnish does not use the sounds ''z'', ''š'' or ''ž'', but for the sake of exactitude, they can be included in spelling. (The recommendation cites the Russian opera ''[[Khovanshchina|Hovanštšina]]'' as an example.) Many speakers pronounce all of them ''s'', or distinguish only between ''s'' and ''š'', because Finnish has no voiced sibilants.<ref>{{cite web | url=http://www.mlang.name/arkisto/hatut.html | title=Kirjaimet š ja ž suomen kielenoikeinkirjoituksessa | publisher=KOTUS | year=1998 | accessdate=2014-06-29}}</ref>
+
+The language may be identified by its distinctive lack of the letters ''b, c, f, q, w, x, z'' and ''å.''
+
+==Language examples==
+Article 1 of the [[Universal Declaration of Human Rights]]:
+:{{lang|fi|Kaikki ihmiset syntyvät vapaina ja tasavertaisina arvoltaan ja oikeuksiltaan. Heille on annettu järki ja omatunto, ja heidän on toimittava toisiaan kohtaan veljeyden hengessä.}}
+:"All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."<ref>{{cite web|url=http://www.ohchr.org/EN/UDHR/Pages/Language.aspx?LangID=eng|title= Universal Declaration of Human Rights|accessdate=2010-06-01}}</ref>
+Excerpt from [[Väinö Linna]]'s ''[[The Unknown Soldier (novel)|Tuntematon Sotilas]]'' (The Unknown Soldier); these words were also inscribed in the 20 [[Finnish markka|mark]] note.
+:{{lang|fi|Hyväntahtoinen aurinko katseli heitä. Se ei missään tapauksessa ollut heille vihainen. Kenties tunsi jonkinlaista myötätuntoakin heitä kohtaan. Aika velikultia.}}
+:"The sun smiled down on them. It wasn't angry - no, not by any means. Maybe it even felt some sort of sympathy for them. Rather dear, those boys."
+{{Listen
+|filename=Fi-Suomen_kieli_johdanto.ogg
+|title=Sample of spoken Finnish
+|description=Taken from Wikipedia article on the Finnish language in Finnish
+|format=[[Ogg]]}}(translation from Liesl Yamaguchi's 2015 "Unknown Soldiers")
+
+==Basic greetings and phrases==
+[[File:Fi-Hyvää huomenta.ogg|right|thumb|Sample sound of "Hyvää huomenta"]]
+{| class="wikitable"
+!Finnish
+!Translation
+!Notes
+|-
+! colspan="3" |'''Greetings'''
+|-
+|''(Hyvää) huomenta!''
+|(Good) morning!
+|
+|-
+|''(Hyvää) päivää!''
+|(Good) day!
+|used on greeting and also when taking farewell
+|-
+|''(Hyvää) iltaa!''
+|(Good) evening!
+|used on greeting and also when taking farewell
+|-
+|''Hyvää yötä!''
+''Öitä!''
+|Good night!
+Night!
+|
+|-
+|''Terve''
+|lit. "Health!"
+|Used on greeting, modified as ''Terve vaan!'' ("health continue!")
+|-
+|''Moro''
+''Hei(ppa)''
+
+''Moi(kka)''
+|Hi! / Bye!
+|Used on greeting and also when taking farewell
+|-
+|''Moi moi!''
+''Hei hei!''
+|Bye!
+|Used when taking farewell
+|-
+|''Nähdään''
+|See you later!
+|Lit. the passive form of ''nähdä'' "to see"
+|-
+|''Näkemiin''
+|Goodbye!
+|Lit. "Until seeing", illative of the third infinitive
+|-
+|''Hyvästi''
+|Goodbye / Farewell
+|
+|-
+|''Hauska tutustua!''
+''Hauska tavata!''
+|Nice to meet you!
+|''Hauska tutustua'' is literally "nice to get acquainted", and
+''hauska tavata'' is literally "nice to meet"
+|-
+|''Mitä kuuluu?''
+''Miten menee?''
+|How are you?
+How's it going?
+|''Mitä (sinulle/teille) kuuluu'' is literally "what (to you) is heard?" or "what concerns you?"
+|-
+|''Kiitos hyvää''
+''Kiitos hyvin''
+|Fine, thank you.
+Well, thank you.
+|''Kiitos hyvää'' is an appropriate response to ''Mitä kuuluu?'', whereas
+''Kiitos hyvin'' is an appropriate response to ''Miten menee?''
+|-
+|''Tervetuloa!''
+|Welcome!
+|''Tervetuloa'' is used in a broader range of contexts in Finnish than in English;
+for example to mean "looking forward to seeing you" after arranging a visit
+|-
+! colspan="3" |'''Important words and phrases'''
+|-
+|''Anteeksi''
+|Excuse me
+|
+|-
+|''Kiitos''
+''Kiitoksia''
+|Thanks / Please
+|''Kiitos'' / ''kiitoksia'' are literally "thanks", but are also used when requesting something,
+like "please" in English
+|-
+|''Kiitos, samoin''
+|Thank you, likewise
+|Lit. "thank you, the same way" (used as a response to well-wishing)
+|-
+|''Ole hyvä''
+|You're welcome
+|Lit. "be good", also used when giving someone something to mean "here you are"
+|-
+|''Kyllä''
+|Certainly / yes
+|
+|-
+|''Joo''
+|Yeah
+|More informal than ''kyllä''
+|-
+|''Ei''
+|No / it is not
+|
+|-
+|''Voitko auttaa?''
+|Can you help?
+|
+|-
+|''Apua!''
+|Help!
+|
+|-
+|''Totta kai!''
+''Tietysti!''
+
+''Toki!''
+|Certainly!
+|
+|-
+|''(Paljon) onnea''
+|Good luck /
+congratulations
+|
+|-
+|''Olen pahoillani''
+|I'm sorry
+|
+|-
+|''Odota''
+|Wait
+|
+|-
+|''Pieni hetki''
+''Pikku hetki''
+
+''Hetkinen''
+|One moment
+|
+|-
+|''Otan osaa''
+|My condolences
+|
+|-
+|''(Minä) ymmärrän&nbsp;''
+|I understand
+|
+|-
+|''En ymmärrä''
+|I don't understand
+|
+|-
+|''Suomi''
+|Finland
+|
+|-
+|''suomi''
+''suomen kieli&nbsp;''
+|Finnish (language)
+|
+|-
+|''suomalainen''
+|(noun) Finn; (adjective) Finnish
+|
+|}
+
+==[[Phonaesthetics]] and influences==
+[[J. R. R. Tolkien]], although better known as an author, had a keen interest in languages from a young age, and became a professional [[philologist]]. He described his first encounter with Finnish:
+:"like discovering a complete wine-cellar filled with bottles of an amazing wine of a kind and flavour never tasted before. It quite intoxicated me..."<ref>J. R. R. Tolkien (1981), ''[[Letters of J. R. R. Tolkien]]'', George Allen & Unwin, letter no. 163 (to [[W. H. Auden]], 7th June 1953), p. 214; {{ISBN|0-04-826005-3}}</ref>
+Aspects of Finnish were a strong influence on [[Quenya]], one of the [[Languages constructed by J. R. R. Tolkien|languages constructed by Tolkien]]. Within his fantasy writings set in the world of [[Middle-earth]], Quenya is a highly revered language.
+
+==See also==
+{{Portal|Language|Finland}}
+{{col-begin|width=auto}}
+{{col-break}}
+* [[Estonian language]]
+* [[Hungarian language]]
+* [[Finland's language strife]]
+* [[Finnish cultural and academic institutes]]
+* [[Finnish name]]
+{{col-break|gap=4em}}
+* [[Finnish numerals]]
+* [[Finnish profanity]]
+* [[Swedish-speaking Finns]]
+{{col-end}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{Cite book |title= Finnish: An Essential Grammar |last= Karlsson |first= Fred |publisher= Routledge |year= 2008 |isbn=978-0-415-43914-5 |edition= 2nd |series= Routledge Essential Grammars |location= United Kingdom }}
+* {{cite book |last= Karlsson |first= Fred |year= 2018 |title= Finnish – A Comprehensive Grammar |location= London and New York |publisher= Routledge |isbn= 978-1-138-82104-0}}
+*{{Cite book |title= Finnish |last= Whitney |first= Arthur H |publisher= Hodder & Stoughton |year= 1973 |isbn= 978-0-340-05782-7 |series= Teach Yourself Books |location= London }}
+
+==External links==
+{{InterWiki|code=fi}}
+{{Sister project links |wikt=Finnish |commons= |b=Finnish |n=no |q=no |s=no |v=no |species=no |voy=Finnish phrasebook |display=Finnish language }}
+* [http://www.dicts.info/dictlist1.php?l=Finnish Collection of Finnish bilingual dictionaries]
+* [https://www.livelingua.com/fsi-finnish-course.php FSI Finnish Language Course (Public Domain)]
+* [http://yle.fi/aihe/artikkeli/2016/06/14/finnish-phrases-suomen-kielen-fraaseja Finnish phrases for beginners (Public Domain)]
+<!--
+<h2>To Do</h2>
+This section lists the topics which need to be written or expanded (there are headings for all of these):
+* This page:
+** History: The history of the language, especially its written form and its official status
+** Derivative suffixes
+** External links
+* Grammar page:
+** Illative formation
+** Noun plurals
+** Noun stem types
+** Adjectives, including comparison
+** Postpositions and prepositions
+** 5th infinitive
+** Imperfect indicative for type V and VI verbs
+** Present participles, active and passive
+** Past participle, passive
+** Agent participle
+** Passive, 2nd person imperatives
+** 3rd person imperatives
+** 1st person plural imperatives
+** Ordinal numbers
+** Names of numbers
+* Spoken language page:
+**important regional variations
+-->
+{{Uralic languages}}
+{{Languages of Finland}}
+{{Languages of Sweden}}
+{{Languages of Russia}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Finnish Language}}
+[[Category:Finnish language| ]]
+[[Category:Agglutinative languages]]
+[[Category:Finnic languages]]
+[[Category:Languages of Estonia]]
+[[Category:Languages of Finland]]
+[[Category:Languages of Norway]]
+[[Category:Languages of Russia]]
+[[Category:Languages of Sweden]]
+[[Category:Vowel-harmony languages]]
+[[Category:Subject–verb–object languages]]

@@ -1,0 +1,87 @@
+{{refimprove|date=February 2008}}
+{{Infobox SCOTUS case
+  |Litigants=Shaw v. Reno
+  |ArgueDate=April 20
+  |ArgueYear=1993
+  |DecideDate=June 28
+  |DecideYear=1993
+  |FullName=Ruth O. Shaw, et al., Appellants v. Janet Reno, Attorney General et al.
+  |USVol=509
+  |USPage=630
+  |ParallelCitations=113 S. Ct. 2816; 125 [[L. Ed. 2d]] 511; 61 U.S.L.W. 4818; 1993 [[U.S. LEXIS]] 4406
+  |Prior=''Shaw v. Barr'', 808 [[F. Supp.]] [https://law.justia.com/cases/federal/district-courts/FSupp/808/461/1478661/ 461] ([[E.D.N.C.]] 1992)
+  |Subsequent=On remand, ''Shaw v. Hunt'', 861 [[F. Supp.]] [https://law.justia.com/cases/federal/district-courts/FSupp/861/408/2261731/ 408] (E.D.N.C. 1994); reversed, {{ussc|517|899|1996}}; {{ussc|name=Hunt v. Cromartie|526|541|1999}}; {{ussc|name=Easley v. Cromartie|volume=532|page=234|pin=|year=2001}}.
+  |Holding=Redistricting based on race must be held to a standard of strict scrutiny under the equal protection clause while bodies doing redistricting must be conscious of race to the extent that they must ensure compliance with the Voting Rights Act.
+  |Majority=O'Connor
+  |JoinMajority=Rehnquist, Scalia, Kennedy, Thomas
+  |Concurrence=
+  |JoinConcurrence=
+  |Concurrence2=
+  |JoinConcurrence2=
+  |Concurrence/Dissent=
+  |JoinConcurrence/Dissent=
+  |Dissent=White
+  |JoinDissent=Blackmun, Stevens
+  |Dissent2=Blackmun
+  |Dissent3=Stevens
+  |Dissent4=Souter
+  |LawsApplied=
+}}
+'''''Shaw v. Reno''''', 509 U.S. 630 (1993), was a landmark [[United States Supreme Court]] case in the area of [[redistricting]] and racial [[gerrymandering]]. The court ruled in a 5-4 decision that redistricting based on race must be held to a standard of [[strict scrutiny]] under the [[equal protection clause]]. On the other hand, bodies doing redistricting must be conscious of race to the extent that they must ensure compliance with the [[Voting Rights Act of 1965]]. The redistricting that occurred after the [[United States Census, 2000|2000 census]], as required to reflect the population’s changes, was the first nationwide redistricting to apply the results of ''Shaw v. Reno''.
+
+==Decision==
+
+===Factual background ===
+[[File:United States Congressional Districts in North Carolina, 1993 – 1998.tif|alignl|thumb|250px|North Carolina's congressional districts (1993–1998); the 12th district in pink.]]
+The case involved the redistricting of [[North Carolina]] after the [[United States Census, 1990|1990 census]]. North Carolina submitted to the [[United States Department of Justice|Department of Justice]] a map with one [[majority-minority]] black [[North Carolina's 12th congressional district|district]]&mdash;that is, a district with a black majority. The Department of Justice believed that the state could have drawn another such [[majority-minority district]] in order to improve representation of black voters rather than including them all within one district. The state revised its map and submitted a new plan, this one with two majority-minority districts. The proposed 12th district was {{convert|160|mi|km}} long, winding through the state to connect various areas having in common only a large black population. 
+
+===Litigation and Supreme Court opinion===
+A federal District Court dismissed a lawsuit by some North Carolina voters on the grounds that they had no claim for relief under a standard set by a previous Supreme Court case, United Jewish Organizations of Williamsburgh v. Carey.
+
+Justice [[Sandra Day O'Connor]] delivered the opinion of the Court, which reversed that of the District Court.  She described the shape of the new district as "bizarre" and said such a district "bears an uncomfortable resemblance to political [[apartheid]]."  The Court found that if a redistricting map is "so bizarre on its face that it is 'unexplainable on grounds other than race'," that a claim for relief under the [[Fourteenth Amendment to the United States Constitution]] is available to plaintiffs.  Such redistricting will be held unconstitutional if it is found to be intended to segregate voters by race and this segregation cannot be justified under a standard of [[strict scrutiny]].  Actions subject to this standard must satisfy three conditions: a [[compelling government interest]], [[narrowly tailored]] to achieve that goal, and the [[least restrictive means]] for achieving that interest.
+
+===Dissents===
+The dissenters noted: 
+:(1) That the case was brought by white voters challenging the district. Its boundaries had enabled the district's majority of black voters to elect the majority-white state's first black representatives to Congress since 1898, when [[George Henry White]] was re-elected to his second term in Congress from [[North Carolina's 2nd congressional district]].<ref name="White">{{cite web|url=http://baic.house.gov/member-profiles/profile.html?intID=22#foot37 |archiveurl=https://web.archive.org/web/20080924185616/http://baic.house.gov/member-profiles/profile.html?intID=22 |archivedate=September 24, 2008 |title=Black Americans in Congress: George Henry White |publisher=US House of Representatives}}</ref> (In 1899, after North Carolina Democrats passed a new state constitution to disenfranchise blacks, White chose not to seek a third term in Congress. He told the ''[[Chicago Tribune]]'', "I cannot live in North Carolina and be a man and be treated as a man." He moved to Washington, DC.<ref name="White"/>)
+:(2) that the holding citing the 14th Amendment perversely made redistricting that advantaged blacks subject to more rigorous scrutiny than redistricting advantaging other non-racial groups, though the 14th amendment was intended to provide for equal protection for blacks after emancipation and abolition of slavery, and; 
+:(3) that allowing race-based voting blocs is distinct from other forms of [[affirmative action]], insofar as allowing race-based blocs does not deny another person her rights and privileges, as for example, race-based hiring and retention practices do.
+
+===Impact===
+Subsequent decisions on similar issues have made use of ''Shaw'' and refined it, though the four dissenters have held fast in their belief that no cause of action exists. For instance, ''[[Miller v. Johnson]],'' {{ussc|515|900|1995}}, which concerned a similarly irregular district in Georgia, was also decided 5-4, with the majority comprising exactly the same five justices as in ''Shaw''.
+
+==See also==
+* ''[[Hunt v. Cromartie]]'', {{ussc|526|541|1999}}
+* ''[[Easley v. Cromartie]]'', {{ussc|532|234|2001}}
+* ''[[Bush v. Vera]]'', {{ussc|517|952|1996}}
+* ''[[Wright v. Rockefeller]]'', {{ussc|376|52|1964}}
+* [[List of United States Supreme Court cases, volume 509]]
+
+==Further reading==
+*{{ cite journal | last = Aleinikoff  | first = T. Alexander | authorlink = |author2=Issacharoff, Samuel  | year = 1993 | title = Race and Redistricting: Drawing Constitutional Lines after ''Shaw v. Reno'' | journal = Michigan Law Review | volume = 92 | issue = 3| pages = 588–651 | issn = 0026-2234 | jstor = 1289796| doi = 10.2307/1289796 | publisher = Michigan Law Review, Vol. 92, No. 3 | url = https://repository.law.umich.edu/cgi/viewcontent.cgi?article=3200&context=mlr }}
+*{{ cite journal | last = Blumstein | first = James F. | authorlink = | year = 1994 | title = Racial Gerrymandering and Vote Dilution: ''Shaw v. Reno'' in Doctrinal Context | journal = Rutgers Law Journal | volume = 26 | issue = | pages = 517 | issn = 0277-318X | url =}}
+*{{ cite journal | last = Parker | first = Frank R. | authorlink = | year = 1995 | title = ''Shaw v. Reno'': A Constitutional Setback for Minority Representation | journal = PS: Political Science and Politics | volume = 28 | issue = 1 | pages = 47&ndash;50 | doi = 10.2307/420580 | jstor = 420580| publisher = PS: Political Science and Politics, Vol. 28, No. 1 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{caselaw source
+ |case=''Shaw v. Reno'', {{ussc|509|630|1993|el=no}}
+ |cornell =https://www.law.cornell.edu/supct/html/92-357.ZS.html
+ |findlaw=https://caselaw.findlaw.com/us-supreme-court/509/630.html
+ |justia=https://supreme.justia.com/cases/federal/us/509/630/
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep509/usrep509630/usrep509630.pdf
+}}[https://scholar.google.com/scholar_case?case=2057233072475851470&q=Shaw+v.+Reno,+509+U.S.+630+(1993)&hl=en&as_sdt=40006 Google Scholar]
+
+{{US14thAmendment}}
+{{Redistricting (US)}}
+{{North Carolina}}
+[[Category:United States equal protection case law]]
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Rehnquist Court]]
+[[Category:United States electoral redistricting case law]]
+[[Category:1993 in United States case law]]
+[[Category:Gerrymandering]]
+[[Category:Congressional districts of North Carolina]]
+[[Category:African-American history of North Carolina]]
+[[Category:Legal history of North Carolina]]

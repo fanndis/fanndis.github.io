@@ -1,0 +1,1378 @@
+{{short description|natural gas pipelines under the Baltic Sea between Russia and Germany}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox pipeline
+|name = Nord Stream
+|type = Natural gas
+|map = Nordstream.png
+|map_caption = Location of Nord Stream
+|country = Russia<br />Germany
+|coordinates = {{coord|60|31|44|N|28|4|21|E|region:RU_type:landmark|name=Portovaya Compressor Station|display=inline}}<br />{{coord|54|8|24|N|13|38|23|E|region:DE_type:landmark|name=Landing in Lubmin|display=inline}}
+|photo =
+|caption =
+|operator = [[Nord Stream AG]]
+|partners = [[Gazprom]]<br />[[Uniper]]<br />[[Wintershall Dea]]<br />[[Gasunie]]<br />[[Engie]]
+|length_km = 1222
+|diameter_mm = 1220
+|discharge = {{convert|55|e9m3/a|abbr=unit}}
+|compressor_stations_no= 1
+|compressor_stations= Portovaya
+|direction = east–west–south
+|start = [[Vyborg]], Russia
+|finish = [[Lubmin]] near [[Greifswald]], Germany
+|est = 8 November 2011 (1st line)<br />8 October 2012 (2nd line)
+|through = [[Baltic Sea]]
+| pipe_manufacturer = [[Salzgitter AG|EUROPIPE]]<br />OMK<br />[[Sumitomo Heavy Industries|Sumitomo]]
+| pipe_installer = [[Saipem]]
+| pipe_layer = ''Castoro Sei''
+|contractors = [[Rambøll]]<br />Environmental Resource Management<br />Marin Mätteknik<br />IfAÖ<br />PeterGaz<br />[[DOF Subsea]]<br />Intec Engineering<br />Tideway BV<br />[[Royal Boskalis Westminster]]<br />EUPEC PipeCoatings<br />[[Rolls-Royce plc]]<br />[[Dresser Industries|Dresser-Rand Group]]<br />Siirtec Nigi SPA
+}}
+{{Infobox pipeline
+|name = Nord Stream 2
+|type = Natural gas
+|map = 
+|map_caption = 
+|country = Russia<br />Germany
+|coordinates = {{coord|60|33|24|N|28|3|59|E|region:RU_type:landmark|name=Slavyanskaya Compressor Station|display=inline}}<br />{{coord|54|8|24|N|13|38|23|E|region:DE_type:landmark|name=Landing in Lubmin|display=inline}}
+|photo =
+|caption =
+|operator = Nord Stream 2 AG
+|partners = [[Gazprom]]<br />[[Uniper]]<br />[[Wintershall Dea]]<br />[[OMV]]<br />[[Engie]]<br />[[Royal Dutch Shell]]
+|length_km = 1230
+|diameter_mm = 1220
+|discharge = {{convert|55|e9m3/a|abbr=unit}}
+|compressor_stations_no= 1
+|compressor_stations= Slavyanskaya
+|direction = east–west–south
+|start = [[Ust-Luga]], Russia
+|finish = [[Lubmin]] near [[Greifswald]], Germany
+|expected = 2020–2021
+|est = 
+|through = [[Baltic Sea]]
+|pipe_manufacturer = [[Salzgitter AG|EUROPIPE]]<br />OMK<br />Chelyabinsk Pipe-Rolling Plant (Chelpipe)
+|pipe_installer = [[Allseas]] <small>(Until 21 December 2019)</small>
+|pipe_layer = ''[[Pioneering Spirit (ship)|Pioneering Spirit]]''<br />''[[Solitaire (ship)|Solitaire]]''<br/>''C10''
+|contractors = 
+}}
+'''Nord Stream''' (former names: '''North Transgas''' and '''North European Gas Pipeline'''; {{lang-ru|Северный поток}}, ''Severny potok'') is a system of offshore [[natural gas]] [[pipeline transport|pipelines]] from Russia to Germany. It includes two lines running from [[Vyborg]] to [[Lubmin]] near [[Greifswald]] forming original Nord Stream, and two lines under construction running from [[Ust-Luga]] to Lubmin termed '''Nord Stream 2'''. In Lubmin the lines connect to the [[OPAL pipeline|OPAL]] line to [[Olbernhau]] on the [[Czech Republic|Czech]] border and to the [[NEL pipeline|NEL]] line to [[Rehden]] near [[Bremen]]. Nord Stream is owned and operated by [[Nord Stream AG]], whose majority shareholder is the Russian state company [[Gazprom]], and Nord Stream 2 is owned and will be operated by Nord Stream 2 AG, a wholly owned subsidiary of Gazprom. 
+
+The first line of Nord Stream (also known as '''Nord Stream 1'''<ref name=reuters211219>
+{{cite news
+ | first = Andrey | last = Kuzmin
+ | url = https://www.reuters.com/article/us-usa-russia-nord-stream-reaction/russia-to-go-ahead-with-gas-pipe-project-despite-u-s-sanctions-idUSKBN1YP0AF
+ | title = Russia to go ahead with gas pipe project despite U.S. sanctions
+ | agency = [[Reuters]]
+ | date = 21 December 2019
+| accessdate = 3 September 2020}}
+</ref>) was laid by May 2011 and was inaugurated on 8 November 2011.<ref name=spiegel081111 /><ref name=ft081111 /> The second line of Nord Stream was laid in 2011–2012 and was inaugurated on 8 October 2012. At {{convert|1222|km|abbr=on}} in length, Nord Stream is the longest sub-sea pipeline in the world, surpassing the [[Langeled pipeline]].<ref name=mt050511>{{cite news | url= http://www.themoscowtimes.com/business/article/nord-stream-passes-ships-and-bombs/436297.html | title= Nord Stream Passes Ships and Bombs | agency = [[Bloomberg L.P.|Bloomberg]] | newspaper = [[The Moscow Times]] | date=5 May 2011 | accessdate=10 September 2011 | url-access = subscription}}</ref><ref name=reuters040511/> 
+Laying Nord Stream 2 was carried out in 2018–2019, and before the imposition of U.S. sanctions which halted the work, it was expected to become operational in mid-2020.<ref name="reuters171219">{{cite news | agency = Reuters | title = Bill imposing sanctions on companies building Russian gas pipeline heads to White House | first1 = Timothy | last1 = Gardner | url= https://www.reuters.com/article/us-usa-defense-congress-nord-stream/bill-imposing-sanctions-on-companies-building-russian-gas-pipeline-heads-to-white-house-idUSKBN1YL2EP | date = 17 December 2019 | accessdate= 22 December 2019 }}</ref> 
+
+Nord Stream has a total annual capacity of {{convert|55|e9m3|e12cuft|abbr=unit}} of gas, and the addition of Nord Stream 2 is expected to double the capacity to a total of {{convert|110|e9m3|e12cuft|abbr=unit}}.<ref name="reuters190615b">{{cite news | agency = Reuters | title = Russia's Gazprom to expand Nord Stream gas pipeline with E.ON, Shell, OMV | first1 = Dmitry | last1 = Zhdannikov | first2 = Denis | last2 = Pinchuk | url= http://uk.reuters.com/article/2015/06/18/energy-gazprom-pipeline-idUKL5N0Z42OB20150618 | date = 12 December 2008 | accessdate= 19 June 2015 | archive-url = https://web.archive.org/web/20150619183146/http://uk.reuters.com/article/2015/06/18/energy-gazprom-pipeline-idUKL5N0Z42OB20150618 | archive-date = 19 June 2015 | url-status = live}}</ref><ref name=politico301019>{{cite news | url = https://www.politico.eu/article/nord-stream-2-clears-final-hurdle-but-delays-loom/ | title = Nord Stream 2 clears final hurdle – but delays loom | first = Anca | last = Gurzu | work = [[Politico]] | date = 30 October 2019 | accessdate = 23 December 2019}}</ref><ref name=spglobal041219>{{cite news | url = https://www.spglobal.com/platts/en/market-insights/latest-news/natural-gas/120419-nord-stream-2-construction-in-danish-waters-under-way-contractor | title = Nord Stream 2 construction in Danish waters under way: contractor | first = Stuart | last = Elliott | work = [[S&P Global Platts]] | date = 4 December 2019 | accessdate = 23 December 2019}}</ref> 
+
+Nord Stream projects have been opposed by the United States as well as several Central and Eastern European countries because of concerns that it would increase Russia's influence in the region. The U.S. resistance of Nord Stream 2 is also influenced by the country's increased production of natural gas, which gives the U.S. Congress economic incentive to resist the Russian supply of gas to the EU, in favour of U.S. [[Shale gas in the United States|shale gas]].<ref>{{Cite news|url=https://subscription.newsoveraudio.com/playlists/nord-stream-ii-252155|title=Nord Stream 2: An EU-Russian Gas Pipeline|date=20 December 2019|work=Noa|access-date=30 December 2019}}</ref>
+
+The name "Nord Stream" occasionally refers to a wider pipeline network, including the feeding onshore pipeline in the Russian Federation, and further connections in [[Western Europe]].
+
+==History==
+[[File:Nord Stream ceremony.jpeg|left|thumb|Nord Stream opening ceremony on 8 November 2011 with [[Angela Merkel]], [[Dmitry Medvedev]], [[Mark Rutte]] and [[François Fillon]].]]
+
+===Nord Stream===
+The original pipeline project started in 1997 when Gazprom and the Finnish oil company [[Neste]] (in 1998 merged with Imatran Voima to form [[Fortum]], which in 2004 separated again into Fortum and Neste) formed the joint company North Transgas Oy for construction and operation of a gas pipeline from Russia to Northern Germany across the Baltic Sea.<ref name=fortum/> North Transgas cooperated with the German gas company [[Ruhrgas]] (which later became part of [[E.ON]], which was split still later into E.ON and [[Uniper]]). A route survey in the [[Exclusive Economic Zone]]s of [[Finland]], Sweden, [[Denmark]] and Germany, and a feasibility study of the pipeline was conducted in 1998. Several routes were considered including routes with onshore segments through Finland and Sweden.<ref name="notification2006">
+{{cite journal
+ | publisher= [[Nord Stream AG]]
+ | title = Project Information Document&nbsp;– Offshore pipeline through the Baltic Sea
+ | url= http://www.bsh.de/en/Marine_uses/Industry/Pipelines/Nord_Stream_Project_Information.pdf
+ |date=November 2006
+ | accessdate=14 May 2012}}
+</ref>
+
+On 24 April 2001, Gazprom, Fortum, Ruhrgas and [[Wintershall]] adopted a statement regarding a joint feasibility study for construction of the pipeline.<ref name=pipereport>
+{{cite news
+ | publisher= Scientific Surveys
+ | title = Pipeline Report
+ | url= http://www.pipemag.com/publications/report/PipeReportJun01.pdf
+ |date=June 2001
+ | accessdate=31 January 2009}}
+</ref> On 18 November 2002, the Management Committee of Gazprom approved a schedule of project implementation. In May 2005, Fortum withdrew from the project and sold its stake in North Transgas to Gazprom. As a result, Gazprom became the only shareholder of North Transgas Oy.<ref name=fortum>
+{{cite press release
+ | publisher= [[Fortum]]
+ | title = Fortum sells its stake in North Transgas to Gazprom
+ | url= http://www.fortum.com/en/mediaroom/pages/fortum-sells-its-stake-in-north-transgas-to-gazprom-.aspx
+ | date = 18 May 2005
+| accessdate=15 February 2008}}
+</ref><ref name=upstream180505>
+{{cite news
+ | newspaper = [[Upstream (newspaper)|Upstream Online]]
+ | publisher = NHST Media Group
+ | title = Gazprom takes control of North Transgas
+ | url= https://www.upstreamonline.com/live-fsu/gazprom-takes-control-of-north-transgas/1-1-1032994
+ | date = 18 May 2005
+| accessdate=31 January 2009
+| url-access = subscription
+ | archive-url = https://web.archive.org/web/20111124102936/http://www.upstreamonline.com/live/fsu/article68801.ece
+ | archive-date = 24 November 2011
+| url-status = live}}
+</ref>
+
+On 8 September 2005, Gazprom, BASF and E.ON signed a basic agreement on the construction of a North European Gas Pipeline. On 30 November 2005, the North European Gas Pipeline Company (later renamed [[Nord Stream AG]]) was incorporated in [[Zug]], [[Switzerland]]. On 9 December 2005, Gazprom started construction of the Russian onshore feeding pipeline ([[Gryazovets–Vyborg gas pipeline]]) in the town of [[Babayevo (town), Vologda Oblast|Babayevo]] in [[Vologda Oblast]].<ref name="gazprom091205">
+{{cite press release
+ | publisher= [[Gazprom]]
+ | title = Gazprom launches construction of onshore section of North European Gas Pipeline
+ | url = https://www.gazprom.com/press/news/2005/december/article63374/
+ | date = 9 December 2005
+| accessdate = 3 August 2007}}
+</ref> The feeding pipeline was completed in 2010.
+
+On 4 October 2006, the pipeline and the operating company were officially renamed Nord Stream AG.<ref name="gazprom2">
+{{cite web
+ | publisher= [[Gazprom]]
+ | title = Nord Stream: Historical Background
+ | url= http://www.gazprom.com/eng/articles/article22901.shtml
+ | accessdate = 3 August 2007
+| archive-url = https://web.archive.org/web/20080115091142/http://www.gazprom.com/eng/articles/article22901.shtml
+ | archive-date = 15 January 2008
+| url-status = dead}}
+</ref> After establishment of Nord Stream AG, all information related to the pipeline project, including results of the seabed survey of 1998, were transferred from North Transgas to the new company, and on 2 November 2006, North Transgas was officially dissolved.<ref name=rusenergy>
+{{cite news
+ | publisher= RusEnergy
+ | script-title=ru:Ликвидировано 100-процентное дочернее предприятие "Газпрома" в Финляндии
+ |trans-title=Gazprom's 100% owned daughter company in Finland is dissolved
+ | url= http://www.servon.ru/index.php?target=news&id=1709&PHPSESSID=4085cac910899bdff5d6b473df476214
+ | date = 30 January 2007
+| accessdate=15 February 2008
+| language=ru}}
+</ref>
+
+The [[environmental impact assessment]] started on 16 November 2006 with notification sent to Russia, Finland, Sweden, Denmark and Germany, as parties of origin (the countries whose [[exclusive economic zone]]s and/or [[territorial waters]] the pipeline is planned to pass through), as well as to [[Poland]], [[Latvia]], [[Lithuania]], and Estonia as affected parties.<ref name=nordstream2/> The final report on transboundary environmental impact assessment was delivered on 9 March 2009.<ref name=nordstream090309>
+{{cite press release
+ | url = http://www.nord-stream.com/press-info/press-releases/start-of-public-participation-throughout-baltic-sea-region-on-nord-stream-pipeline-project-308/
+ | title = Start of Public Participation throughout Baltic Sea Region on Nord Stream Pipeline Project
+ | publisher = Nord Stream AG
+ | date = 9 March 2009
+| accessdate = 26 April 2016
+| archive-url = https://web.archive.org/web/20160426184224/http://www.nord-stream.com/press-info/press-releases/start-of-public-participation-throughout-baltic-sea-region-on-nord-stream-pipeline-project-308/
+ | archive-date = 26 April 2016
+| url-status = live}}
+</ref>
+
+On 19 March 2007, Nord Stream AG hired Italian company [[Snamprogetti]], a subsidiary of [[Saipem]], for detailed design engineering of the pipeline.<ref name=facts1/> A letter of intent for construction works was signed with Saipem on 17 September 2007 and the contract was concluded on 24 June 2008.<ref name=upstream8>
+{{cite news
+ | newspaper = [[Upstream (newspaper)|Upstream Online]]
+ | publisher = NHST Media Group
+ | title = Saipem bags Nord Stream work
+ | url= http://www.upstreamonline.com/live/article140848.ece
+ | date = 17 September 2007
+| accessdate=30 September 2007
+| url-access = subscription}}
+</ref><ref name=reuters240608/> On 25 September 2007, the pipe supply contracts were awarded to the pipe producers [[Salzgitter AG|EUROPIPE]] and OMK, and on 18 February 2008, the concrete weight coating and logistics services agreement was awarded to EUPEC PipeCoatings S.A.<ref name="wintershall2509"/><ref name=rigzone1/> The supply contracts for the second line were awarded to OMK, Europipe and [[Sumitomo Heavy Industries]] on 22 January 2010.<ref name=reuters220110>
+{{cite news
+ | first = Vladimir | last = Soldatkin
+ | url = http://uk.reuters.com/article/nordstream-tender-idUKLDE60L0WR20100122
+ | title = Nord Stream awards 1 bln euros tender for gas link
+ | agency = [[Reuters]]
+ | date = 23 January 2010
+| accessdate = 18 February 2010}}
+</ref> On 30 December 2008 [[Rolls-Royce plc]] was awarded a contract to supply turbines for the compressor, and on 8 January 2009, [[Royal Boskalis Westminster]] and Danish Dredging Contractor Rohde Nielsen A/S. were awarded a joint venture seabed [[dredging]] contract.<ref name=downstream301208/><ref name=downstream090109/>
+
+The agreement to take [[Gasunie]] to the consortium as the fourth partner, was signed on 6 November 2007.<ref name=bloomberg2>
+{{cite news
+ | first1 = Lucian | last1 = Kim
+ | first2 = Greg | last2 = Walters
+ | url = https://www.bloomberg.com/news/articles/2007-11-06/gazprom-to-pick-gasunie-as-partner-in-northern-pipeline-today
+ | title = Gazprom Picks Dutch Company for Northern Gas Pipeline
+ | publisher = [[Bloomberg L.P.|Bloomberg]]
+ | date = 6 November 2007
+| accessdate = 26 April 2016
+| archive-url = https://web.archive.org/web/20160426183634/http://www.bloomberg.com/news/articles/2007-11-06/gazprom-to-pick-gasunie-as-partner-in-northern-pipeline-today
+ | archive-date = 26 April 2016
+| url-status = live}}
+</ref> On 10 June 2008, Gasunie was included in the register of shareholders.<ref name=rbc>
+{{cite news
+ | url = http://rbcnews.com/free/20080620155724.shtml
+ | title = Gasunie joins Nord Stream as shareholder
+ | publisher = RBC
+ | date = 20 June 2008
+| accessdate = 23 June 2008}}
+</ref> On 1 March 2010, French energy company [[GDF Suez]] signed with Gazprom a memorandum of understanding to acquire 9% stake in the project.<ref name=reuters010310>
+{{cite news
+ | url = http://uk.reuters.com/article/gdf-nordstream-idUKLDE62016F20100301
+ | title = GDF Suez, Gazprom sign Nord Stream pipeline deal
+ | agency = [[Reuters]]
+ | first = Muriel | last = Boselli
+ | date = 1 March 2010
+| accessdate = 1 March 2010}}
+</ref> The transaction was closed in July 2010.<ref name=rusmerger110810>{{cite news
+ | url = http://rusmergers.com/en/mna/4785-.html
+ | title = GDF Suez SA has received 9% in Nord Stream
+ | publisher = Rusmergers
+ | date = 11 August 2010
+| accessdate = 26 May 2011
+| archive-url = https://web.archive.org/web/20120316160901/http://rusmergers.com/en/mna/4785-.html
+ | archive-date = 16 March 2012
+| url-status = dead
+ }}</ref>
+
+In August 2008, Nord Stream AG hired former Finnish prime minister [[Paavo Lipponen]] as a consultant to help speed up the application process in Finland and to serve as a link between Nord Stream and Finnish authorities.<ref name=downstream150808>
+{{cite news
+ | url = https://www.rigzone.com/news/oil_gas/a/149229/nord_stream_consortium_hires_former_finnish_premier/
+ | agency = [[Deutsche Presse-Agentur]]
+ | title = Nord Stream Consortium Hires Former Finnish Premier
+ | work = Rigzone
+ | date = 15 August 2008
+| accessdate = 19 August 2008}}
+</ref>
+
+On 21 December 2007, Nord Stream AG submitted application documents to the Swedish government for the pipeline construction in the Swedish Exclusive Economic Zone.<ref name=downstream4>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=7807
+ | archive-url = https://web.archive.org/web/20101121015532/http://downstreamtoday.com/(S(gzg0ok45xpwpe455yi1jdi2o))/news/article.aspx?a_id=7807
+ | url-status = dead
+ | archive-date = 21 November 2010
+| title = Swedish Govt Receives Baltic Pipeline Plans
+ | agency = [[Deutsche Presse-Agentur]]
+ | publisher = Downstream Today
+ | date = 21 December 2007
+| accessdate = 26 December 2007}}
+</ref> On 12 February 2008, the Swedish government rejected the consortium's application which it had found incomplete.<ref name=reuters4>
+{{cite news
+ | url = http://uk.reuters.com/article/environment-sweden-nordstream-dc-idUKL1257921820080212
+ | title = Sweden says application for Baltic pipeline incomplete
+ | first = Anna | last = Ringstrom
+ | agency = Reuters
+ | date = 12 February 2008
+| accessdate = 15 February 2008}}
+</ref><ref name=thelocal>
+{{cite news
+ | url = http://www.thelocal.se/9964/20080212/
+ | title = Sweden unimpressed by Baltic pipeline proposal
+ | newspaper = The Local
+ | date = 12 February 2008
+| accessdate = 15 February 2008}}
+</ref> New application was filed later. On 20 October 2009, Nord Stream received a construction permit to build the pipeline in the Danish waters.<ref name=reuters201009>
+{{cite news
+ | url = http://uk.reuters.com/article/2009/10/20/nordstream-idUKLK39799020091020
+ | title = Nord Stream gas pipeline gets Danish clearance
+ | agency = [[Reuters]]
+ | date = 20 October 2009
+| accessdate = 1 November 2009}}
+</ref> On 5 November 2009, the Swedish and Finnish authorities gave a permit to lay the pipeline in their exclusive economic zones.<ref name=reuters051109>
+{{cite news
+ | url =http://uk.reuters.com/article/nordstream-idUKL532415220091105
+ | title = Nord Stream pipeline gets nod from Sweden, Finland
+ | first1 = Simon | last1 = Johnson
+ | first2 = Eva | last2 = Lamppu
+ | first3 = Darya | last3 = Korsunskaya
+ | first4 = Patryk | last4 =Wasilewski
+ | first5 = Gabriela | last5 = Baczynska
+ | agency = [[Reuters]]
+ | date = 5 November 2009
+| accessdate = 7 November 2009}}
+</ref> On 22 February 2010, the Regional State Administrative Agency for Southern Finland issued the final environmental permit allowing construction of the Finnish section of the pipeline.<ref name=upi150210>
+{{cite news
+ | url = http://www.themoscowtimes.com/business/article/nord-stream-wins-final-clearance/399732.html
+ | title = Nord Stream Wins Final Clearance
+ | newspaper = [[The Moscow Times]]
+ | date = 15 February 2010
+| accessdate = 17 February 2010}}
+</ref><ref name=reuters120210>
+{{cite news
+ | url = http://uk.reuters.com/article/2010/02/12/nordstream-idUKLDE61B03H20100212
+ | title = Nord Stream cleared to start construction in April
+ | agency = [[Reuters]]
+ | first1 = Brett | last1 = Young
+ | first2 = Terhi | last2 = Kinnunen
+ | date = 12 February 2010
+| accessdate = 18 February 2010}}
+</ref>
+
+On 15 January 2010 construction of the Portovaya compressor station in Vyborg near the Gulf of Finland began.
+<ref name=UPI15012010>
+{{cite news
+ | url = http://www.upi.com/Science_News/Resource-Wars/2010/01/18/Gazprom-starts-Nord-Stream-launch-point/UPI-49481263832571/
+ | title = Gazprom starts Nord Stream launch point
+ | publisher = Upi
+ | date = 15 January 2010
+| accessdate = 19 January 2010}}
+</ref>
+<ref name=GAZPROM15012010>
+{{cite press release
+ | url = http://www.gazprom.com/press/news/2010/january/article74659/
+ | title = Gazprom launches Portovaya compressor station construction
+ | publisher = [[Gazprom]]
+ | date = 15 January 2010
+| accessdate = 19 January 2010}}
+</ref> The first pipe of the pipeline was laid on 6 April 2010 in the Swedish exclusive economic zone by the ''[[Castoro Sei]]'' vessel. In addition to ''Castoro Sei'', also ''Castoro 10'' and ''[[Solitaire (ship)|Solitaire]]'' were contracted for pipe-laying works.<ref name=ogj080911>
+{{cite news
+ | url = http://www.ogj.com/articles/2011/09/nord-stream-natural-gas-pipeline-begins-line-fill.html
+ | title = Nord Stream natural gas pipeline begins line fill
+ | work = Oil & Gas Journal
+ | publisher = [[PennWell Corporation]]
+ | first = Christopher E. | last = Smith
+ | date = 8 September 2011
+| accessdate = 10 September 2011
+| url-access = subscription}}
+</ref> Construction of the pipeline was officially launched on 9 April 2010 at Portovaya Bay.<ref name=reuters090410>
+{{cite news
+ | url = http://uk.reuters.com/article/2010/04/09/nordstream-idUKLDE6381ES20100409
+ | title = Russia starts Nord Stream Europe gas route project
+ | agency = [[Reuters]]
+ | first = Toni | last = Vorobyova
+ | date = 9 April 2010
+| accessdate = 10 April 2010}}
+</ref>
+
+The laying of the first line was completed on 4 May 2011 (the last pipe put in place), while all underwater works on the first line were completed on 21 June 2011.<ref name=reuters040511>
+{{cite news
+ | url = http://uk.reuters.com/article/2011/05/04/europe-gas-pipeline-idUKLDE7431M720110504
+ | title = Nord Stream to finish 1st gas pipeline Thursday
+ | agency = [[Reuters]]
+ | first = Henning | last = Gloystein
+ | date = 4 May 2011
+| accessdate = 26 May 2010}}
+</ref> In August 2011, Nord Stream was connected with the [[OPAL pipeline]].<ref name=dw260811>
+{{cite news
+ | first = John | last = Blau
+ | agency = [[Deutsche Welle]]
+ | title = Nord Stream pipeline now connected to German link
+ | url= http://www.dw-world.de/dw/article/0,,15345814,00.html
+ | date = 26 August 2011
+| accessdate=10 September 2011}}
+</ref> First gas was pumped into the first line on 6 September 2011.<ref name=upstream060911>
+{{cite news
+ | newspaper = [[Upstream (newspaper)|Upstream Online]]
+ | publisher = NHST Media Group
+ | title = First gas for Nord Stream
+ | url= http://www.upstreamonline.com/live/article276687.ece
+ | date = 6 September 2011
+| accessdate=6 September 2011
+| url-access = subscription}}
+</ref>
+
+The pipeline was officially inaugurated by the German Chancellor [[Angela Merkel]], Russian President [[Dmitry Medvedev]], French Prime Minister [[François Fillon]], and Dutch Prime Minister [[Mark Rutte]] on 8 November 2011 at the ceremony held in Lubmin.<ref name=spiegel081111>
+{{cite news
+ | url = http://www.spiegel.de/international/europe/0,1518,796611,00.html
+ | title = Controversial Project Launched: Merkel and Medvedev Open Baltic Gas Pipeline
+ | newspaper = [[Spiegel Online]]
+ | date = 8 November 2011
+| accessdate = 8 November 2011}}
+</ref><ref name=ft081111>
+{{cite news
+ | url = http://www.ft.com/intl/cms/s/0/51ea636e-0a14-11e1-8d46-00144feabdc0.html
+ | first1 = Gerrit | last1 = Wiesmann
+ | title = Russia-EU gas pipeline delivers first supplies
+ | newspaper = [[Financial Times]]
+ | date = 8 November 2011
+| accessdate = 8 November 2011}}
+</ref><ref name=wsj081111>
+{{cite news
+ |url=https://www.wsj.com/articles/SB10001424052970204190704577026090216554770
+ |title=Pipeline Opening Highlights Russian Energy Role
+ |last1=Hromadko|first1=Jan
+ |last2=Harriet | first2= Torry
+ |date=8 November 2011
+|newspaper= [[The Wall Street Journal]]
+ |accessdate=8 November 2011}}
+</ref> Construction of the second line was completed in August 2012 and it was inaugurated on 8 October 2012.<ref name=osw101012>
+{{cite web
+ | url = http://www.osw.waw.pl/en/publikacje/eastweek/2012-10-10/russia-gazprom-has-activated-nord-stream-s-second-pipeline
+ | title = Russia: Gazprom has activated Nord Stream's second pipeline
+ | first = Ewa | last = Paszyc
+ | date=10 October 2012
+| work = EastWeek
+ | publisher = [[Centre for Eastern Studies]]
+ |accessdate=9 December 2012}}
+</ref>
+
+===Nord Stream 2===
+In 2011, Nord Stream AG started evaluation of an expansion project consisting of two additional lines (later named Nord Stream 2) to increase the overall annual capacity up to {{convert|110|e9m3|e12cuft|abbr=unit}}. In August 2012, Nord Stream AG applied to the Finnish and Estonian governments for route studies in their underwater [[exclusive economic zone]]s for the third and fourth lines.<ref name="kyivpost2708122">{{cite news|url=http://www.kyivpost.com/content/russia-and-former-soviet-union/nord-stream-seeks-to-study-estonian-economic-zone-in-baltic-until-2015-312086.html|title=Nord Stream seeks to study Estonian economic zone in Baltic until 2015|date=27 August 2012|newspaper=[[Kyiv Post]]|accessdate=15 September 2012|agency=[[Interfax-Ukraine]]}}</ref> It was considered to route the additional pipelines to the United Kingdom but this plan was abandoned.<ref name="pid2">{{cite journal|author=Nord Stream AG|year=2013|title=Nord Stream Extension Project Information Document (PID)|url=http://www.envir.ee/sites/default/files/nord_stream_eng.pdf|url-status=live|publisher=Ministry of the Environment of Estonia|page=18|archive-url=https://web.archive.org/web/20150619173119/http://www.envir.ee/sites/default/files/nord_stream_eng.pdf|archive-date=19 June 2015|accessdate=19 June 2015}}</ref><ref name="telegraph0312122">{{cite news|url=https://www.telegraph.co.uk/sponsored/rbth/opinion/9718952/nord-stream-uk-extension.html|title=Nord Stream: is the UK extension good for Gazprom?|last=Loukashov|first=Dmitry|date=12 December 2008|newspaper=[[The Daily Telegraph]]|accessdate=19 June 2015|archive-url=https://web.archive.org/web/20150619180128/http://www.telegraph.co.uk/sponsored/rbth/opinion/9718952/nord-stream-uk-extension.html|archive-date=19 June 2015|url-status=live}}</ref> 
+
+In January 2015, it was announced that the expansion project was put on hold since the existing lines were running at only half capacity due to EU restrictions on Gazprom.<ref name="reuters1906152">{{cite news|url=http://uk.reuters.com/article/2015/01/28/russia-gazprom-nordstream-idUSL6N0V71HO20150128|title=Gazprom mothballs extension of Nord Stream pipeline|last=Pinchuk|first=Denis|date=28 January 2015|accessdate=19 June 2015|archive-url=https://web.archive.org/web/20150619182440/http://uk.reuters.com/article/2015/01/28/russia-gazprom-nordstream-idUSL6N0V71HO20150128|archive-date=19 June 2015|url-status=live|agency=Reuters}}</ref>
+
+In June 2015, an agreement to build Nord Stream 2 was signed between Gazprom, [[Royal Dutch Shell]], [[E.ON]], [[OMV]], and [[Engie]].<ref name="reuters190615a2">{{cite news|url=http://www.reuters.com/article/2015/06/19/us-gazprom-shell-exclusive-idUSKBN0OZ0IQ20150619|title=Exclusive: Gazprom building global alliance with expanded Shell|last1=Zhdannikov|first1=Dmitry|date=12 December 2008|accessdate=19 June 2015|archive-url=https://web.archive.org/web/20150619181351/http://uk.reuters.com/article/2015/06/19/us-gazprom-shell-exclusive-idUSKBN0OZ0IQ20150619|archive-date=19 June 2015|url-status=live|agency=Reuters|last2=Pinchuk|first2=Denis}}</ref> As the creation of a joint venture was blocked by Poland, on 24 April 2017, Uniper, Wintershall, Engie, OMV and Royal Dutch Shell signed a financing agreement with Nord Stream 2 AG, a subsidiary of Gazprom responsible for the development of the Nord Stream 2 project.<ref name="ft2404172"/>
+
+On 31 January 2018, Germany granted Nord Stream 2 a permit for construction and operation in German waters and landfall areas near Lubmin.<ref name=reuters>{{cite news|url=https://www.reuters.com/article/us-nordstream-germany-permit/germany-grants-permit-for-nord-stream-2-russian-gas-pipeline-idUSKBN1FK15J|title=Germany grants permit for Nord Stream 2 Russian gas pipeline| date = 31 January 2018 | agency = Reuters|accessdate=14 February 2018}}</ref> In May 2018 construction started at the Greifswald end point.<ref name="dw-20180714">{{cite news|url=https://www.dw.com/en/nord-stream-2-gas-pipeline-what-is-the-controversy-about/a-44677741|title=Nord Stream 2 gas pipeline – What is the controversy about?|last=Janjevic|first=Darko|date=14 July 2018|newspaper=Deutsche Welle|accessdate=18 July 2018}}</ref>
+
+In January 2019, the US ambassador in Germany, [[Richard Grenell]], sent letters to companies involved in the construction of Nord Stream 2 urging them to stop working on the project and threatening with the possibility of sanctions.<ref>{{Cite news|url=http://www.spiegel.de/politik/deutschland/richard-grenell-us-botschafter-schreibt-drohbriefe-an-deutsche-firmen-a-1247785.html|title=US-Botschafter Grenell schreibt Drohbriefe an deutsche Firmen|date=13 January 2018|website=Spiegel Online}}</ref> In December 2019, the [[Republican Party (United States)|Republican]] Senators [[Ted Cruz]] and [[Ron Johnson (Wisconsin politician)|Ron Johnson]] have also urged [[Allseas]] owner [[Edward Heerema]] to suspend the works on the pipeline, warning him that otherwise the United States would impose sanctions.<ref>{{Cite web|title=Sens. Cruz, Johnson Put Company Installing Putin’s Pipeline on Formal Legal Notice {{!}} Ted Cruz {{!}} U.S. Senator for Texas|url=https://www.cruz.senate.gov/?p=press_release&id=4826|access-date=16 September 2020|website=www.cruz.senate.gov}}</ref>
+
+On 21 December 2019, Allseas announced that the company had suspended its Nord Stream 2 pipelay activities, anticipating enactment of the U.S. [[National Defense Authorization Act for Fiscal Year 2020]]<ref>{{Cite news|url=https://allseas.com/news/allseas-suspends-nord-stream-2-pipelay-activities/|title=Allseas suspends Nord Stream 2 pipelay activities|date=21 December 2019|website=Allseas}}</ref> containing sanctions. These sanctions were soon imposed.<ref name=sanctionsus /> Nord Stream 2 said it would finish construction "as soon as possible".<ref>{{cite news|url=https://www.reuters.com/article/us-usa-russia-nord-stream-completion/nord-stream-2-to-press-on-with-europe-gas-pipe-despite-u-s-sanctions-idUSKBN1YP061|title=Nord Stream 2 to press on with Europe gas pipe, despite U.S. sanctions|work=Reuters|date=21 December 2019|accessdate=21 December 2019}}</ref>
+
+In January 2020, Russian president Putin said he expected work on Nord Stream 2 to be completed "by the end of this year, or in the first quarter of next year". German chancellor Merkel said she "does not agree with the US approach" of sanctions.<ref>{{cite news|url=https://www.dw.com/en/angela-merkel-and-vladmir-putin-push-ahead-with-pipeline/a-51968258|title=Angela Merkel and Vladmir Putin push ahead with pipeline|publisher=Deutsche Welle|date=11 January 2020|accessdate=12 January 2020}}</ref>
+
+In May 2020, the German energy regulator refused an exception from [[Competition law|competition rules]] that require Nord Stream 2 to separate gas ownership from transmission.<ref>{{Cite news|last=Dezem|first=Vanessa|last2=Parkin|first2=Brian|date=4 May 2020|title=German Regulator Set to Deny Nord Stream 2 Waiver From EU Rules|work=[[Bloomberg News]]|url=https://www.bloomberg.com/news/articles/2020-05-04/german-regulator-set-to-deny-nord-stream-2-waiver-from-eu-rules|access-date=9 May 2020}}</ref>
+
+In August 2020, Poland fined Gazprom 50 million euro due to the latter's lack of cooperation with an investigation by UOKiK, the Polish anti-monopoly watchdog. This comes after the watchdog launched a probe under competition rules against Gazprom and five other companies that are financing the pipeline project, suspecting that they have continued to work on the pipeline without permission from the government of Poland. At that time 160km remained to be constructed, all within Danish waters. <ref>{{Cite news|date=3 August 2020|title=Poland fines Gazprom €50m over Nord Stream 2 pipeline|work=[[Financial Times]]|url=https://www.ft.com/content/42d196cf-0622-4255-8cab-98a2de961f73|access-date=4 August 2020}}</ref>
+
+==Technical features==
+[[File:Nord Stream pipe in Kotka.jpg|thumb|A piece of Nord Stream pipe on public display in Kotka, Finland.]]
+
+===Russian onshore pipeline===
+{{Main|Gryazovets–Vyborg gas pipeline}}
+Nord Stream is fed by the [[Gryazovets–Vyborg gas pipeline]]. It is a part of the integrated gas transport network of Russia connecting existing grid in [[Gryazovets]] with the coastal compressor station at [[Vyborg]].<ref name="FAQNS2">
+{{cite web
+ | publisher= Nord Stream AG
+ | title = Answers to questions asked by representatives of non-governmental organizations on the EIA procedure for the Nord Stream Project
+ | url=http://www.ccb.se/documents/FAQNS.pdf
+ | date = 20 October 2007
+| accessdate=15 February 2008}}
+</ref> The length of this pipeline is {{convert|917|km|mi|abbr=on}}, the diameter of the pipe is {{convert|1420|mm|in|abbr=on}}, and working pressure is {{convert|100|atm|MPa|abbr=on}}, which is secured by six compressor stations. The Gryazovets-Vyborg pipeline, parallel to the branch of the [[Northern Lights pipeline]], also supplies gas to the [[Northwestern Federal District|Northwestern region]] of Russia ([[Saint Petersburg]] and [[Leningrad Oblast]]).<ref name="gazprom3">
+{{cite web
+ | publisher= Gazprom
+ | title = Nord Stream Gas Pipeline
+ | url=http://www.gazprom.com/eng/articles/article18466.shtml
+ | accessdate=3 August 2007
+| archive-url = https://web.archive.org/web/20070708071739/http://www.gazprom.com/eng/articles/article18466.shtml
+ | archive-date = 8 July 2007
+| url-status = dead}}
+</ref> The pipeline is operated by Gazprom Transgaz Saint Petersburg.<ref name="gazprom3"/>
+
+To feed Nord Stream 2, {{convert|866|km|abbr=on}} of new pipeline and three compressor stations were built, and five existing compressor stations were expanded.<ref name="Espoo NS22" /> The feeding pipeline starts in Gryazovets and follows the existing route of the Northern Lights pipeline. In Volkhov, the pipeline turns south and continues to the Slavyanskaya compressor station near Ust-Luga.<ref name="47news131118">
+{{cite news
+ | work = 47 News
+ | script-title=ru: Вид сверху: Газпром прорубает "Северный поток-2", древесина пропадает
+ | trans-title = View from the top: Gazprom cuts Nord Stream-2 through, wood disappears
+ | url = https://47news.ru/articles/148174/
+ | date = 13 November 2018
+ | accessdate = 17 December 2019}}
+</ref>
+
+===Baltic Sea offshore pipeline===
+[[File:Castoro Sei March 2011a.JPG|thumb|right|The semi-submersible pipe-laying vessel ''[[Castoro Sei]]'' operating for Nord Stream in the Baltic Sea south-east of Gotland, Sweden in late March 2011.]]
+[[File:Nord Stream - two pipes are welded together on the Castoro Sei pipelaying vessel.jpg|thumb|Two pipes are welded together on the Castoro Sei pipelaying vessel.]]
+The Nord Stream offshore pipeline is operated by Nord Stream AG.<ref name="nordstream2"/><ref name=bloomberg2/> It runs from Vyborg compressor station at Portovaya Bay along the bottom of the [[Baltic Sea]] to Greifswald in Germany. The length of the subsea pipeline is {{convert|1222|km|mi|abbr=on}}, of which {{convert|1.5|km|abbr=on}} in Russian inland, {{convert|121.8|km|nmi|abbr=on}} in Russian [[territorial waters]], {{convert|1.4|km|nmi|1|abbr=on}} in the Russian [[Exclusive Economic Zone|economic zone]], {{convert|375.3|km|nmi|abbr=on}} in the Finnish economic zone, {{convert|506.4|km|nmi|abbr=on}} in the Swedish economic zone, {{convert|87.7|km|nmi|abbr=on}} in the Danish territorial waters, {{convert|49.4|km|nmi|abbr=on}} in the Danish economic zone, {{convert|31.2|km|nmi|abbr=on}} in the German economic zone, {{convert|49.9|km|nmi|abbr=on}} in German territorial waters and {{convert|0.5|km|abbr=on}} in German inland.<ref name=eia-ch3>
+{{cite journal
+ | url = https://www.nord-stream.com/download/document/74/?language=en
+ | title = Nord Stream Espoo Report. Chapter 4: Description of the Project
+ | publisher = Nord Stream AG
+ | page = 106
+ | format = PDF
+ | year = 2009
+ | accessdate = 19 June 2015
+| archive-url = https://web.archive.org/web/20150619174631/https://www.nord-stream.com/download/document/74/?language=en
+ | archive-date = 19 June 2015
+| url-status = live}}
+</ref> The pipeline has two parallel lines, both with capacity of {{convert|27.5|e9m3|e9cuft|abbr=unit}} of natural gas per year.<ref name="reuters190615b"/> Pipes have a diameter of {{convert|1220|mm|in|abbr=on}}, the wall thickness of {{convert|38|mm|in|2|abbr=on}} and a working pressure of {{convert|220|bar|MPa psi|abbr=on}}.<ref name="nordstream2">
+{{cite web
+ | publisher= Nord Stream AG
+ | title = Nord Stream. Facts & Figures
+ | url= http://www.nord-stream.com/en/the-pipeline/facts-figures.html
+ | accessdate=6 April 2007
+| archive-url = https://web.archive.org/web/20110104181103/http://www.nord-stream.com/en/the-pipeline/facts-figures.html
+ | archive-date = 4 January 2011
+| url-status = dead}}
+</ref>
+
+Nord Stream 2 starts at the Slavyanskaya compressor station near Ust-Luga port, located {{convert|2.8|km|mi|abbr=on}} south-east of the village of Bolshoye Kuzyomkino (Narvusi) in the [[Kingiseppsky District]] of the Leningrad Oblast, in the historical [[Ingria]] close to the Estonian border. A {{convert|3.2|km|mi|adj=on|abbr=on}} onshore pipeline runs from the compressor station to the landfall at the [[Kurgalsky Peninsula]] on the shore of [[Narva Bay]].<ref name=nsenergy>
+{{cite web
+ | url = https://www.nsenergybusiness.com/projects/nord-stream-2-pipeline-project-russia-germany/
+ | title = Nord Stream 2 Pipeline Project
+ | accessdate=23 December 2019
+ | work = NS Energy}}
+</ref><ref name="Espoo NS22" /> Also the landfall point in Kolganpya (Kolkanpää) at the Soikinsky Peninsula was considered as an alternative.<ref name="Espoo NS22" /> Except the Russian section, the route of Nord Stream 2 follows mainly the route of Nord Stream.<ref name="pid2" /><ref name="Espoo NS22">{{cite journal|author=[[Ramboll]], Nord Stream AG|date=April 2017|title=Espoo Report. Nord Stream 2|url=http://www.envir.ee/sites/default/files/ns2_aruanne_en.pdf|publisher=Ministry of the Environment of Estonia|pages=79–80; 523|accessdate=3 May 2017}}</ref> From the Russian landfall, a {{convert|114|km|mi|adj=on|abbr=on}} section runs through Russian territorial waters to the Finnish exclusive economic zone. The Finnish section is {{convert|374|km|mi|adj=on|abbr=on}} and the following section in the Swedish exclusive economic zone is {{convert|510|km|mi|adj=on|abbr=on}} long.<ref name=nsenergy/> The {{convert|147|km|mi|adj=on|abbr=on}} Danish sections runs on the Danish continental shelf southeast of Bornholm.<ref name=spglobal041219/> The German part of the pipeline consists of {{convert|85|km|mi|abbr=on}} of offshore pipeline and {{convert|29|km|mi|abbr=on}} onshore pipeline connecting the landfall with the Nord Stream 2 receiving terminal.<ref name=nsenergy/> Nord Stream 2 has two parallel lines, both with capacity of {{convert|27.5|e9m3|e9cuft|abbr=unit}} of natural gas per year.<ref name=politico301019/><ref name=nsenergy/>
+
+===Middle and Western European pipelines===
+{{main|OPAL pipeline|NEL pipeline}}
+Nord Stream is connected to two transmission pipelines in Germany. The southern pipeline ([[OPAL pipeline]]) runs from Greifswald to [[Olbernhau]] near German-[[Czech Republic|Czech]] border. It connects Nord Stream with [[JAGAL]] (connected to the [[Yamal-Europe pipeline]]), and [[STEGAL]] (connected to the Russian gas transport route via [[Czech Republic|Czech]] and [[Slovakia|Slovak]] republics) transmission pipelines. The [[Gazelle pipeline]], put into operation in January 2013,<ref>[http://www.icis.com/heren/articles/2013/04/24/9662298/czech-nord-stream-natural-gas-link-gazela-flowing-at-full.html Czech Nord Stream natural gas link Gazela flowing at full capacity, ICIS 24 Apr 2013] retrieved 28 April 2013</ref> links the OPAL pipeline with South-German gas network.
+
+The western pipeline ([[NEL pipeline]]) runs from Greifswald to [[Achim]], where it is connected with the [[Rehden-Hamburg gas pipeline]].<ref name=upstream7>
+{{cite news
+ | url = http://www.upstreamonline.com/live/europe/article130087.ece
+ | archive-url = https://web.archive.org/web/20070927201556/http://www.upstreamonline.com/live/europe/article130087.ece
+ | url-status = dead
+ | archive-date = 27 September 2007
+| title = Wingas plans Nord Stream double
+ | newspaper = [[Upstream (newspaper)|Upstream Online]]
+ | publisher = NHST Media Group
+ | date = 27 March 2007
+| accessdate = 3 August 2007
+| url-access = subscription}}
+</ref> Together with the [[MIDAL]] pipeline it creates the Greifswald–[[Bunde, Germany|Bunde]] connection. Further gas delivery to the [[United Kingdom]] is made through the connection between Bunde and [[Den Helder]], and from there through the offshore interconnector [[Balgzand]]–[[Bacton, Norfolk|Bacton]] ([[BBL Pipeline]]).
+
+Gazprom has also bought an abandoned mine (Hinrichshagen Structure) in [[Waren (Müritz)|Waren]], which it plans to convert into the largest underground gas storage in Europe with capacity of {{convert|5|e9m3|e9cuft|abbr=unit}}.<ref name=downstream1>
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=7330
+ | archive-url = https://web.archive.org/web/20120523181927/http://www.downstreamtoday.com/(S(ivbkzrzqe4ddan55e22skwvl))/news/article.aspx?a_id=7330
+ | url-status = dead
+ | archive-date = 23 May 2012
+| title = Gazprom Plans Underground Storage Near Berlin
+ | agency = [[Deutsche Presse-Agentur]]
+ | publisher = Downstream Today
+ | date = 27 November 2007
+| accessdate = 29 November 2007}}
+</ref><ref name=welt>
+{{cite news
+ | url =https://www.welt.de/welt_print/article1407227/Gazprom_plant_Europas_groesstes_Erdgaslager.html
+ | title = Gazprom plant Europas größtes Erdgaslager
+ |trans-title=Gazprom plans European largest gas storage
+ | newspaper = Welt Online
+ | date = 28 November 2007
+| accessdate = 29 November 2007
+| language = de}}
+</ref>
+
+Nord Stream 2 would be connected to the NEL pipeline and [[European Gas Pipeline Link]] (EUGAL).<ref name=nsenergy/>
+
+==Supply sources==
+[[File:Countries by Natural Gas Proven Reserves (2014).svg|thumb|250px|Countries by [[List of countries by natural gas proven reserves|natural gas proven reserves]] (2014), based on data from The World Factbook. Russia has the world's largest reserves.]]
+The main source of natural gas for the Nord Stream pipeline is [[Yuzhno-Russkoye field]], which is located in the Krasnoselkupsky District, [[Yamalo-Nenets Autonomous Okrug]], [[Tyumen Oblast]].<ref name=euobserver>
+{{cite news
+ | url = http://euobserver.com/9/27449
+ | title = Nord Stream to pump EU gas by 2011, Russia says
+ | author = Philippa Runner
+ | publisher = EUobserver
+ | date = 21 January 2009
+| accessdate = 10 October 2009}}
+</ref><ref name=eurasia>{{cite news
+ | url = http://www.oilandgaseurasia.com/articles/p/66/article/530/
+ | title = Gazprom and BASF Start Joint Production at Yuzhno-Russkoye Gas Field
+ | author = Elena Zhuk
+ | work = Oil & Gas Eurasia
+ | publisher = Eurasia Press, Inc.
+ | date = January 2008
+ | accessdate = 10 October 2009
+| archive-url = https://web.archive.org/web/20080908000202/http://www.oilandgaseurasia.com/articles/p/66/article/530/
+ | archive-date = 8 September 2008
+| url-status = dead
+ }}</ref><ref name=ns-gas>
+{{cite web
+ |url = http://www.nord-stream.com/the-pipeline/gas-for-europe.html
+ |title = Gas for Europe
+ |publisher = [[Nord Stream AG]]
+ |accessdate = 10 October 2009
+|url-status = dead
+ |archive-url = https://web.archive.org/web/20091008020039/http://www.nord-stream.com/the-pipeline/gas-for-europe.html
+ |archive-date = 8 October 2009
+|df = dmy-all
+}}
+</ref> Nord Stream is also fed from fields in Yamal Peninsula, Ob-Taz bay. Gazprom has also indicated that the majority of gas produced at the [[Shtokman field]] would be sold to Europe via the Nord Stream pipeline. For this purpose, the pipeline from the Shtokman field via [[Kola peninsula]] to Volkhov or Vyborg in the Leningrad Oblast has to be built.<ref name=bbc2>
+{{cite news
+ | author=Jorn Madslien
+ | url = http://news.bbc.co.uk/1/hi/business/6035811.stm
+ | title = Shock as Russia goes solo on gas field
+ | work = BBC News
+ | date = 9 October 2006
+| accessdate = 3 August 2007}}
+</ref>
+
+==Costs and financing==
+According to Gazprom, the costs of the onshore pipelines in Russia and Germany were around €6&nbsp;billion.<ref name=iht>
+{{cite news
+ | newspaper= [[The New York Times]]
+ | first = Judy | last = Dempsey
+ | title = Gazprom plans to re-route controversial European pipeline
+ | url = https://www.nytimes.com/2007/08/23/world/europe/23iht-pipeline.4.7231553.html
+ | date = 23 August 2007
+| accessdate=10 September 2011}}
+</ref> The offshore section of the project cost €8.8&nbsp;billion.<ref name=barents170310>{{cite news
+ | url = http://www.barentsobserver.com/nord-stream-more-expensive.4760460-116321.html
+ | title = Nord Stream more expensive
+ | publisher = Barents Observer
+ | date = 17 March 2010
+| accessdate = 18 March 2010
+| archive-url = https://web.archive.org/web/20110707213810/http://www.barentsobserver.com/nord-stream-more-expensive.4760460-116321.html
+ | archive-date = 7 July 2011
+| url-status = dead
+ }}</ref> 30% of the financing was raised through equity provided by shareholders in proportion to their stakes in the project, while 70% came from external financing by banks.<ref name=reuters120310>
+{{cite news
+ | url = http://uk.reuters.com/article/2010/03/12/nordstream-loan-idUKLDE62A20X20100312
+ | title = RLPC-Nord Stream project financing signing&nbsp;— sources
+ | agency = [[Reuters]]
+ | date = 21 October 2009
+| accessdate = 1 November 2009
+| first=Christopher | last=Mangham}}
+</ref>
+
+There were two [[tranche]]s.<ref name=gazprom160310/><ref name=independent290309>
+{{cite news
+ | first = Mark | last = Leftly
+ | url = https://www.independent.co.uk/news/business/news/gazprom-in-nord-stream-windfall-1656470.html
+ | title = Gazprom in Nord Stream windfall
+ | newspaper = The Independent
+ | date = 29 March 2009
+| accessdate = 19 April 2009
+| location=London}}
+</ref> The first tranche for a €3.9&nbsp;billion includes a 3.1&nbsp;billion, 16-year facility covered by [[Export credit agency|export credit agencies]] and an €800&nbsp;million, 10-year uncovered commercial loan to be serviced by earnings from the transportation contracts. A €1.6&nbsp;billion is covered by French credit insures company [[Euler Hermes]], a €1&nbsp;billion by the German United Loan Guarantee Programme UFK, and a €500&nbsp;million Italian Export Credit Agency SACE SpA. Loans to be provided by 26&nbsp;commercial banks. [[Crédit Agricole]] is documentation bank and bank facility agent. [[Société Générale]] is intercreditor agent, Sace facility agent, security trustee and model bank. [[Commerzbank]] is Hermes facility agent, [[UniCredit]] is UFK facility agent, [[Deutsche Bank]] is account bank and [[Sumitomo Mitsui Banking Corporation]] is technical and environmental bank.<ref name=reuters120310/><ref name=gazprom160310/> The financial advisers were Société Générale, [[Royal Bank of Scotland]] ([[ABN Amro]]), [[Dresdner Kleinwort]] (Commerzbank), and Unicredit.<ref name=euromoney140409>
+{{cite news
+ | first = Louise | last = Bowman
+ | url = http://www.euromoney.com/Article/2174599/ChannelPage/8959/AssetCategory/766/Nord-Stream-looks-for-flows-in-funding-pipeline.html
+ | title = Nord Stream looks for flows in funding pipeline
+ | publisher = Euromoney
+ | date = 14 April 2009
+| accessdate = 19 April 2009}}
+</ref><ref name=reuters211009>
+{{cite news
+ | first1 = Alasdair | last1 = Reilly
+ | first2 = Christopher | last2 = Mangham
+ | url = http://uk.reuters.com/article/idUKLL801420091021
+ | title = RLPC-Nord Stream project financing nears agreement-sources
+ | agency = [[Reuters]]
+ | date = 21 October 2009
+| accessdate = 1 November 2009}}
+</ref> The legal adviser to Nord Stream was [[White & Case]] and legal adviser for the lenders was [[Clifford Chance]].<ref name=gazprom160310>
+{{cite press release
+ | url = http://www.gazprom.com/press/news/2010/march/article87053/
+ | title = Nord Stream completes Phase I financing
+ | publisher = [[Gazprom]]
+ | date = 16 March 2010
+| accessdate = 18 March 2010}}
+</ref>
+
+For Nord Stream 2, the loan from Uniper, Wintershall Dea, OMV, Engie, and Royal Dutch Shell covers 50% of the project costs of €9.5&nbsp;billion. The rest is being financed by Gazprom.<ref name="ft2404172">{{cite news|url=https://www.ft.com/content/32898bae-28f3-11e7-9ec8-168383da43b7|title=Gazprom to receive funding for Nord Stream 2 pipeline|last1=Foy|first1=Henry|date=24 April 2017|newspaper=Financial Times|accessdate=30 April 2017|last2=Toplensky|first2=Rochelle|last3=Ward|first3=Andrew | url-access = subscription}}</ref>
+
+==Contractors==
+The environmental impact assessment was carried out by [[Rambøll]] and Environmental Resource Management. The route and seabed surveys were conducted by Marin Mätteknik, IfAÖ, PeterGaz and [[DOF Subsea]].<ref name=upstream170708/><ref name=wintershall2>
+{{cite press release
+ | url = http://www.wintershall.com/pi-nord-stream-081023.html
+ | title = Nord Stream Project Well On Track
+ | publisher = [[Wintershall]]
+ | date = 21 October 2008
+| accessdate = 17 November 2008
+| archive-url = https://web.archive.org/web/20110606143857/http://www.wintershall.com/pi-nord-stream-081023.html
+ | archive-date = 6 June 2011
+| url-status = dead
+ }}</ref>
+
+Work preliminary [[Front End Loading|front-end engineering]] was done by Intec Engineering.<ref name=ogj101006>
+{{cite news
+ | url = http://www.ogj.com/articles/save_screen.cfm?ARTICLE_ID=274364
+ | title = Gazprom to develop Shtokman alone, pipe gas to Europe
+ | first1 = Judy | last1 = Clark
+ | first2 = Nina | last2 = Rach
+ | publisher= [[PennWell Corporation]]
+ | newspaper= Oil & Gas Journal
+ | date = 10 October 2006
+| accessdate = 31 January 2009
+| url-access = subscription}}
+</ref> The design engineering of the subsea pipeline was done by Snamprogetti (now part of Saipem) and the pipeline was constructed by Saipem.<ref name=facts1>{{cite journal
+ | publisher = Nord Stream AG
+ | title = Leading engineering company to prepare detailed design
+ | url = http://www.nord-stream.com/fileadmin/Dokumente/1__PDF/4__Newsletter/1/NORD_STREAM_FACTS_ISSUE_1_ENGLISH.pdf
+ | journal = Nord Stream Facts
+ | issue = 1
+ | date = April 2007
+ | accessdate = 17 November 2008
+}}{{Dead link|date=April 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref name=reuters240608>
+{{cite news
+ | work= Reuters
+ | title = Saipem wins 1 bln euro Nord Stream contract
+ | url= http://uk.reuters.com/article/oilRpt/idUKL2415483820080624
+ | date = 24 June 2008
+| accessdate=11 July 2008
+| first=Ian
+| last=Simpson}}
+</ref> Saipem gave sub-contract to [[Allseas]] for laying more than 1/4 of both the pipelines. The seabed was prepared for the laying of the pipeline by a joint venture of Royal Boskalis Westminster and Tideway.<ref name=downstream090109>
+{{cite news
+ | url = https://www.rigzone.com/news/oil_gas/a/149232/boskalis_wins_nord_stream_saudi_contracts/
+ | title = Boskalis Wins Nord Stream, Saudi Contracts
+ | agency = [[Agence France-Presse|AFX News Limited]]
+ | work = Rigzone
+ | date = 9 January 2009
+| accessdate = 5 May 2011}}
+</ref> The pipes were provided by EUROPIPE, OMK, and Sumitomo.<ref name="wintershall2509">{{cite press release
+ | publisher= Wintershall
+ | title= Nord Stream decided on Pipe Tender
+ | url= http://www.wintershall.com/nord-stream-pi-070925.html
+ | date= 25 September 2007
+| accessdate= 30 September 2007
+| archive-url= https://web.archive.org/web/20110606143753/http://www.wintershall.com/nord-stream-pi-070925.html
+ | archive-date= 6 June 2011
+| url-status= dead
+ }}</ref><ref name=reuters220110/> Concrete weight coating and logistics services were provided by EUPEC PipeCoatings S.A. For the concrete weight coating new coating plants were constructed in [[Sassnitz|Mukran]] (Germany) and [[Kotka]] (Finland).<ref name=rigzone1>
+{{cite news
+ | publisher= Rigzone
+ | title = Sustainable Investment in Logistics around the Baltic Region
+ | url= http://www.rigzone.com/news/article.asp?a_id=56979
+ | date = 18 February 2008
+| accessdate=19 February 2008}}
+</ref> Rolls-Royce plc supplied eight [[Gas turbine#aeroderivative|aeroderivative gas turbines]] driving [[centrifugal compressor]]s for front-end gas boosting at the Vyborg (Portovaya) [[Compressor station|gas compressor station]].<ref name=downstream301208>
+{{cite press release
+ | url = https://www.rigzone.com/news/oil_gas/a/149231/Gazprom_Awards_Compressor_Contract_for_Nord_Stream_Pipeline_to_RollsRoyce/
+ | title = Gazprom Awards Compressor Contract for Nord Stream Pipeline to Rolls-Royce
+ | publisher = Rolls-Royce plc
+ | via = Rigzone
+ | date = 30 December 2008
+| accessdate = 11 January 2009}}
+</ref> [[Dresser Industries|Dresser-Rand Group]] supplied DATUM compressors and [[Siirtec Nigi SPA]] provided a gas treatment unit for the Portovaya station.<ref name=upstream130109>
+{{cite news
+ | url = https://www.upstreamonline.com/online/dresser-rand-bags-200m-in-contracts/1-1-1102474
+ | title = Dresser-Rand bags $200m in contracts
+ | newspaper = [[Upstream (newspaper)|Upstream Online]]
+ | publisher = NHST Media Group
+ | date = 13 January 2009
+| accessdate = 31 January 2009
+| url-access = subscription}}
+</ref><ref name=ogj050309>
+{{cite news
+ | url = http://www.ogj.com/index/article-display/355330/articles/oil-gas-journal/transportation/nord-stream-lets-gas-treatment-unit.html
+ | title = Nord Stream lets gas treatment unit
+ | first = Uchenna | last = Izundu
+ | publisher= [[PennWell Corporation]]
+ | newspaper= Oil & Gas Journal
+ | date = 5 March 2009
+| accessdate = 19 April 2009
+| url-access = subscription}}
+</ref>
+
+For the construction period, Nord Stream AG created a logistic center in [[Gotland]]. Other interim stock yards are located in Mukran, in Kotka, in [[Hanko]] (Finland) and in [[Karlskrona]] (Sweden).<ref name=rigzone1/>
+
+Nord Stream 2 was laid by Allseas using pipe-laying vessels ''[[Pioneering Spirit (ship)|Pioneering Spirit]]'' and ''[[Solitaire (ship)|Solitaire]]'',<ref name=spglobal211219>
+{{cite news
+ | url = https://www.spglobal.com/platts/en/market-insights/latest-news/natural-gas/122119-nord-stream-2-pipelayer-allseas-suspends-operations-on-us-sanctions
+ | title = Nord Stream 2 pipelayer Allseas suspends operations on US sanctions
+ | first = Stuart | last = Elliott
+ | work = [[S&P Global Platts]]
+ | date = 21 December 2019
+| accessdate = 22 December 2019}}
+</ref> except the part of German offshore section which was laid by Saipem's pipe-laying vessel ''C10''.<ref name=nsenergy/> Pipes were manufactured by EUROPIPE, OMK and the Chelyabinsk Pipe-Rolling Plant (Chelpipe), and were coated by [[Wasco Energy|Wasco Coatings Europe]]. Blue Water Shipping handled the transportation and storage of pipeline segments in Germany, Finland and Sweden for Wasco. A joint venture of Boskalis and [[Van Oord]] did rock placement at the preparatory stage of construction. Kvaerner did the civil and mechanical engineering of the onshore facilities in Russia.<ref name=nsenergy/>
+
+==Project companies==
+[[File:Nord-Stream-Office-Zug.jpg|thumb|Nord Stream head-office building in Zug.]]
+Nord Stream is operated by the special-purpose company [[Nord Stream AG]], incorporated in Zug, Switzerland on 30 November 2005. Shareholders of the company are the Russian gas company Gazprom (51% of shares), German companies Wintershall Dea and PEG Infrastruktur AG (E.ON) (both 15.5%), the Dutch gas company Gasunie (9%), and the French gas company Engie (9%).<ref name="nordstream2"/><ref name=bloomberg2/> The Managing Director is [[Matthias Warnig]] and the chairman of the shareholders' committee is German ex-chancellor [[Gerhard Schröder]].
+
+Nord Stream 2 is developed and will be operated by Nord Stream 2 AG, which is a wholly owned subsidiary of Gazprom.<ref name="ft2404172"/> It is registered at the same place and has the same management as Nord Stream AG.
+
+==Transportation contracts==
+On 13 October 2005 Gazprom signed a contract with German gas company [[Wingas]], a joint venture of Gazprom and [[Wintershall]] (subsidiary of BASF), to supply {{convert|9|e9m3|e9cuft|abbr=off}} of natural gas per year for 25&nbsp;years.<ref name=wingas>{{cite press release
+ | url = http://www.wingas.de/160.html?&L=1
+ | title = Gazexport and WINGAS agree upon first deliveries of natural gas through the Northern European Gas Pipeline
+ | publisher = [[Wingas]]
+ | date = 13 October 2005
+| accessdate = 16 February 2008
+| archive-url = https://web.archive.org/web/20110719114449/http://www.wingas.de/160.html?&L=1
+ | archive-date = 19 July 2011
+| url-status = dead
+ }}</ref> On 16 June 2006 Gazprom and Danish [[Ørsted (company)|Ørsted A/S]] (then named DONG Energy) signed a 20-year contract for delivery of {{convert|1|e9m3|e9cuft|abbr=unit}} Russian gas per year to Denmark, while Ørsted will supply {{convert|600|e6m3|e9cuft|abbr=unit}} natural gas per year to the Gazprom's subsidiary, Gazprom Marketing and Trading, in the United Kingdom.<ref name=dong>
+{{cite press release
+ | url = https://newsclient.omxgroup.com/cds/DisclosureAttachmentServlet?messageAttachmentId=168103
+ | title = Gazprom to deliver gas to Denmark via North European Gas Pipeline
+ | publisher = [[Ørsted (company)|Ørsted A/S]]
+ | format = PDF
+ | date = 19 June 2006
+| accessdate = 16 December 2007}}
+</ref> 1 October 2009 the companies signed a contract to double the delivery to Denmark.<ref name=reuters011009>
+{{cite news
+ | url = http://uk.reuters.com/article/idUKDKT00465120091001
+ | title = Dong Energy says to double Gazprom gas deliveries from 2012
+ | author = Peter Levring
+ | work = Reuters
+ | date = 1 October 2009
+| accessdate = 7 November 2009}}
+</ref>
+
+On 29 August 2006 Gazprom and E.ON Ruhrgas signed an agreement to extend current contracts on natural gas supplies and have signed a contract for an additional {{convert|4|e9m3|e9cuft|abbr=unit}} per year through the Nord Stream pipeline.<ref name=eon>{{cite press release
+ | url = http://www.gazprom.ru/eng/news/2006/08/20805.shtml
+ | title = Gazprom and E.ON prolong the existing contracts and sign contract for gas sypply via the NEGP
+ | publisher = Gazprom
+ | date = 29 August 2006
+| accessdate = 18 May 2008
+}}{{Dead link|date=April 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> On 19 December 2006, Gazprom and [[Gaz de France]] (now GDF Suez) agreed to an additional {{convert|2.5|e9m3|e9cuft|abbr=unit}} gas supply through the Nord Stream.<ref name=oilvoice1>
+{{cite news
+ | url = http://www.oilvoice.com/n/Gaz_de_France_and_Gazprom_Extend_Their_Natural_Gas_Supply_Ag/24fe3033.aspx
+ | title = Gaz de France and Gazprom Extend Their Natural Gas Supply Agreements until 2030
+ | publisher = Oil Voice
+ | date = 19 December 2006
+| accessdate = 16 December 2007}}
+</ref>
+
+==Controversies of Nord Stream==
+The pipeline projects were criticized by some countries and environmental organizations (such as the [[World Wide Fund for Nature]]).<ref>
+{{cite news
+ | url = http://www.ogel.org/article.asp?key=2889
+ | title = Russian Energy Strategy and Transit Routes in Eastern Europe&nbsp;— A View from Warsaw
+ | first = Aleksander | last = Kotlowski
+ | publisher = MARIS B.V.
+ | journal = Oil, Gas & Energy Law Intelligence
+ | volume = 7
+ | issue = 2 (special issue on 'EU&nbsp;– Russia relations')
+ | date = 9 June 2009
+| accessdate = 9 June 2009
+| issn = 1875-418X
+ | url-access = subscription}}
+</ref><ref name="ft2">{{cite news
+ | url = http://www.ft.com/cms/s/0/50e6faec-6779-11db-8ea5-0000779e2340.html
+ | first1 = Fidelius | last1 = Schmid
+ | first2 = Wolfgang | last2 = Proissl
+ | title = US criticises Russia-Germany gas deal
+ | newspaper = Financial Times
+ | date = 29 October 2006
+| accessdate = 2 August 2007}}
+</ref><ref name="reuters2" /><ref name="helcom" /><ref name="riigikogu" />
+
+===Political aspects===
+{{See also|Russia in the European energy sector}}
+[[Image:Major russian gas pipelines to europe.png|thumb|270px|Major existing and planned natural gas pipelines supplying Russian gas to Europe. [[Germany]] imports 50% to 75% of its natural gas from Russia.<ref>{{cite news |title=Trump: How much of Germany's gas comes from Russia? |url=https://www.bbc.com/news/business-44794688 |work=BBC News |date=11 July 2018}}</ref>]]
+Opponents have seen the pipeline as a move by Russia to bypass traditional transit countries (currently [[Ukraine]], [[Slovakia]], [[Czech Republic]], [[Belarus]] and [[Poland]]).<ref name="heritage">{{cite journal
+ | url = http://s3.amazonaws.com/thf_media/2006/pdf/bg1980.pdf
+ | first = Ariel | last = Cohen
+ | title = The North European Gas Pipeline Threatens Europe's Energy Security
+ | publisher = [[Heritage Foundation]]
+ | date = 26 October 2006
+| accessdate = 4 October 2010}}
+</ref> Some transit countries are concerned that a long-term plan of the [[Government of Russia|Kremlin]] is to attempt to exert political influence on them by threatening their gas supply without affecting supplies to Western Europe.<ref name="dw2">{{cite news
+ | url = http://www.dw-world.de/dw/article/0,2144,2679905,00.html
+ | title = New Twists and Turns in German-Russian Gas Pipeline Saga
+ | publisher = [[Deutsche Welle]]
+ |date = 13 July 2007
+| accessdate = 3 August 2007}}
+</ref><ref name="upstream9">
+{{cite news
+ | newspaper = [[Upstream (newspaper)|Upstream Online]]
+ | publisher = NHST Media Group
+ | title = Delays hit Nord Stream plans
+ | url= http://www.upstreamonline.com/live/article143622.ece
+ | archive-url= https://web.archive.org/web/20081012060350/http://www.upstreamonline.com/live/article143622.ece
+ | url-status= dead
+ | archive-date= 12 October 2008
+| date = 6 November 2007
+| accessdate=10 November 2007
+| url-access = subscription}}
+</ref> The fears are strengthened by the fact that Russia has refused to ratify the [[Energy Charter Treaty]]. Critics of Nord Stream say that Europe could become dangerously dependent on Russian natural gas, particularly since Russia could face problems meeting a surge in domestic as well as foreign demand.<ref name="iht2">{{cite news | url =https://www.nytimes.com/2008/05/06/world/europe/06iht-pipeline.4.12622476.html | title = Gas pipeline under the Baltic faces many hurdles | first = Judy | last = Dempsey | newspaper = [[The New York Times]]
+ | date = 6 May 2008 | accessdate = 18 May 2008
+| url-access = subscription}}</ref><ref name="whist">{{cite journal |url = http://www.fni.no/doc&pdf/FNI-R1508.pdf
+ |title = Nord Stream: Not Just a Pipeline |first = Bendik
+ |last = Solum Whist |publisher = [[Fridtjof Nansen Institute]] |date = November 2008
+ |accessdate = 7 November 2009 |archive-url = https://web.archive.org/web/20110720032209/http://www.fni.no/doc%26pdf/FNI-R1508.pdf |archive-date = 20 July 2011 |url-status = dead}}</ref><ref name="balticseasecurity">{{cite journal
+ |url = http://www.ii.umich.edu/UMICH/ceseuc/Home/ACADEMICS/Research%20Projects/Energy%20Security%20in%20Europe%20and%20Eurasia/Nord%20Stream,%20Sweden%20and%20Baltic%20Sea%20Security.pdff |title = Nord Stream, Sweden and Baltic Sea Security |first = Robert L. |last = Larsson
+ |publisher = [[Swedish Defence Research Agency]] |date = March 2007 |accessdate = 7 November 2009 |issn = 1650-1942 |archive-url = https://web.archive.org/web/20100614223308/http://www.ii.umich.edu/UMICH/ceseuc/Home/ACADEMICS/Research%20Projects/Energy%20Security%20in%20Europe%20and%20Eurasia/Nord%20Stream,%20Sweden%20and%20Baltic%20Sea%20Security.pdf |archive-date = 14 June 2010 |url-status = dead}}</ref> 
+Following several [[Russia–Ukraine gas disputes]] over gas prices, as well as foreign policy towards Eastern Europe, it has been noted that the gas supplies by Russia can be used as a political tool.<ref name="time">{{cite news
+ | url = http://www.timesonline.co.uk/tol/news/world/europe/article5458245.ece
+ | title = Gazprom is not a market player, it's a political weapon
+ | newspaper = [[The Times]]
+ | date = 7 January 2009
+| accessdate = 7 January 2009
+| location=London
+ | first=Roger | last=Boyes}}
+</ref> A [[Swedish Defence Research Agency]] study, finished in March 2007, counted over 55&nbsp;incidents since 1991, most with "both political and economic underpinnings".<ref name="whist" /><ref name="balticseasecurity" /> In April 2006 [[Radosław Sikorski]], then [[Ministry of National Defence (Poland)|Poland's defence minister]], compared the project to the infamous 1939 Nazi-Soviet [[Molotov–Ribbentrop Pact]].
+<ref name="VOA">{{cite news
+ | url = http://www.voanews.com/english/news/a-13-Polish-Defense-Minister-Pipeline-Remark-Angers-Germany.html
+ | title = Polish Defense Minister's Pipeline Remark Angers Germany
+ | publisher = Voice of America Online
+ | date = 3 May 2006
+| accessdate = 4 October 2010}}
+</ref> In his book ''The New Cold War: Putin's Russia and the Threat to the West'', published 2008, [[Edward Lucas (journalist)|Edward Lucas]] stated that "though Nord Stream's backers insist that the project is business pure and simple, this would be easier to believe if it were more transparent."<ref name="whist" /> In the report published by the [[Fridtjof Nansen Institute]] in 2008, Norwegian researcher Bendik Solum Whist noted that Nord Stream AG was incorporated in Switzerland, "whose strict banking secrecy laws makes the project less transparent than it would have been if based within the EU".<ref name="whist" /> Secondly, the Russian energy sector "in general lacks transparency" and Gazprom "is no exception".<ref name="whist" />
+
+The Russian response has been that the pipeline increases Europe's energy security, and that the criticism is caused by bitterness about the loss of significant transit revenues, as well as the loss of political influence that stems from the transit countries' ability to hold Russian gas supplies to Western Europe hostage to their local political agendas.<ref name="BBC_Polish">{{cite news
+ | url = http://news.bbc.co.uk/2/hi/europe/4226296.stm
+ | title = Baltic deal worries Polish press
+ | agency = [[BBC News]]
+ | date = 8 September 2005
+| accessdate = 18 March 2008}}
+</ref> It would reduce Russia's dependence on the transit countries as for the first time it would link Russia directly to Western Europe.<ref name="iht2" /> According to Gazprom, the direct connection to Germany would decrease risks in the gas transit zones, including the political risk of cutting off Russian gas exports to Western Europe.<ref name="gazprom">{{cite web
+ | url = http://www.gazprom.com/eng/articles/article20334.shtml
+ | title = Gazprom—Strategy for the Energy Sector Leadership. Speech by Alexey Miller at the Gazprom's annual general shareholders' meeting
+ | publisher = Gazprom
+ | date = 30 June 2006
+| accessdate = 2 August 2007
+| archive-url = https://web.archive.org/web/20070928081753/http://www.gazprom.com/eng/articles/article20334.shtml
+ | archive-date = 28 September 2007
+| url-status = dead}}
+</ref>
+
+An anti-trust investigation against Gazprom started in 2011 revealed a number of "abusive practices" the company applied against various recipients in the EU and Nord Stream 2 was criticized from this angle as strengthening Gazprom's position in the EU even more. European Commission officials expressed the view that "Nord Stream 2 does not enhance [EU] energy security".<ref>{{Cite news|url=https://euobserver.com/foreign/141584|title=EU documents lay bare Russian energy abuse|access-date=16 April 2018|language=en}}</ref>
+
+===Security and military aspects===
+Swedish military experts and several politicians, including former [[Minister for Defence (Sweden)|Minister for Defence]] [[Mikael Odenberg]], have stated that the pipeline can cause a security policy problem for Sweden.<ref name="spiegel5">{{cite news
+ | url = http://www.spiegel.de/international/0,1518,448652,00.html
+ | title = Baltic Sea Pipeline: Sweden Afraid of Russian Spooks
+ | first = Alex | last = Bakst
+ | newspaper = [[Spiegel Online]]
+ | date = 15 November 2006
+| accessdate = 18 May 2008}}
+</ref> According to Odenberg, the pipeline motivates Russian navy presence in Swedish economic zone and the Russians can use this for [[military intelligence]] should they want to.<ref name="dagensnyheter">{{cite news
+ | url = http://www.dn.se/DNet/jsp/polopoly.jsp?d=147&a=588619
+ | title = Rysk gasledning säkerhetspolitiskt problem (''Russian gas pipeline is a security problem'')
+ | newspaper = [[Dagens Nyheter]]
+ | date = 14 November 2006
+| accessdate = 2 August 2007
+| language = sv}}
+</ref> Finnish military scholar Alpo Juntunen has said that even though the political discussion over Nord Stream in Finland concentrates on the various ecological aspects, there are clearly military implications to the pipeline that are not discussed openly in Finland.<ref name="postimees">{{cite news
+ | url = http://www.postimees.ee/?id=67543
+ | title = Soome dotsent: Nord Streamil on sõjaline tähendus
+ |trans-title=Nord Stream has military implications
+ | newspaper = Postimees
+ | date = 10 January 2009
+| accessdate = 10 January 2009
+| language = et}}
+</ref> More political concerns were raised when Vladimir Putin stated that the ecological safety of the pipeline project will be ensured by using the [[Baltic Fleet]] of the [[Russian Navy]].<ref name="interfax">{{cite news
+ | url = http://www.redorbit.com/news/business/707474/russian_navy_to_ensure_nord_stream_ecology__putin/index.html
+ | title = Russian navy to ensure Nord Stream ecology—Putin
+ | agency = [[Interfax]]
+ | date = 25 October 2006
+| accessdate = 2 August 2007}}
+</ref> German weekly ''[[Stern (magazine)|Stern]]'' has reported that the fibre optic cable and repeater stations along the pipeline could theoretically also be used for espionage. Nord Stream AG asserted that a fibre-optic control cable was neither necessary nor technically planned.<ref name="stern">{{cite news
+ | url = http://www.stern.de/politik/deutschland/:Schr%F6ders-Pipeline-Spionagekanal-Ostsee/611094.html
+ | title = Schröders Pipeline. Spionagekanal in der Ostsee? (''Schröder's pipeline. Espionage channel in the Baltic Sea?'')
+ | first = Hans-Martin | last = Tillack
+ | newspaper = Stern
+ | date = 13 February 2008
+| accessdate = 18 May 2008
+| language = de}}
+</ref> ''[[The Economist]]'' warned Europe is to become more dependent on Russia while its own reserves decline.<ref>{{cite news |last1=H.T. |title=Why Nord Stream 2 is the world's most controversial energy project |url=https://www.economist.com/the-economist-explains/2018/08/07/why-nord-stream-2-is-the-worlds-most-controversial-energy-project |accessdate=7 August 2018 |work=The Economist |date=7 August 2018 |quote=it also makes Europe more dependent on Russian gas and pipelines at a time when its own supplies are dwindling.}}</ref>
+
+Deputy Chairman of the Board of Executive Directors of Gazprom [[Alexander Medvedev]] has dismissed these concerns, stating that "some objections are put forward that are laughable—political, military or linked to spying. That is really surprising because in the modern world ... it is laughable to say a gas pipeline is a weapon in a spy war."<ref name="upstream1">
+{{cite news
+ | url = http://www.upstreamonline.com/live/article138001.ece
+ | archive-url = https://web.archive.org/web/20070927201444/http://www.upstreamonline.com/live/article138001.ece
+ | url-status = dead
+ | archive-date = 27 September 2007
+| title = Gazprom seeking Shtokman partners
+ | newspaper = [[Upstream (newspaper)|Upstream Online]]
+ | publisher = NHST Media Group
+ | date = 28 July 2007
+| accessdate = 2 August 2007
+| url-access = subscription}}
+</ref>
+
+German [[Bundeswehr]] asked Nord Stream to change the planned route because the pipeline is laid close to a sea testing ground near [[Rügen]], which is actively used for naval exercises.{{cn|date=November 2020}}
+
+===Economic aspects===
+Russian and German officials have claimed that the pipeline leads to economic savings due to the elimination of transit fees (as transit countries would be bypassed), and a higher operating pressure of the offshore pipeline which leads to lower operating costs (by eliminating the necessity for expensive midway compressor stations).<ref name="NSQA2">{{cite web
+ | url = http://www.nord-stream.com/en/the-pipeline/faq0/faq-economic0.html
+ | title = Nord Stream. Questions and Answers. Economic and Financial aspects
+ | publisher = Nord Stream AG
+ | date = 1 February 2007
+| accessdate = 6 April 2007
+}}{{Dead link|date=April 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> According to [[Ukrtransgaz]], the Ukrainian gas transportation system operator, Ukraine alone will lose natural gas transit revenues up to $720&nbsp;million per year.<ref name="upi200511">{{cite news
+ | url = http://www.upi.com/Business_News/Energy-Resources/2011/05/20/Nord-Stream-costs-Ukraine-720-million/UPI-83611305917575/
+ | title = Nord Stream costs Ukraine $720&nbsp;million
+ | agency = [[United Press International|UPI]]
+ | date = 20 May 2011
+| accessdate = 26 May 2011}}
+</ref> In the same time, according to Naftogaz of Ukraine board chairman Ukraine will lose $3&nbsp;billion, which it annually receives from the transit of natural gas to the EU countries if the Nord Stream 2 pipeline is built.<ref name="ukrinform240719">{{cite news
+ | url = https://www.ukrinform.net/rubric-economy/2539238-ukraine-to-lose-3-bln-a-year-if-nord-stream-2-is-built-kobolev.html
+ | title = Ukraine to lose $3&nbsp;billion a year if Nord Stream 2 is built - Kobolev
+ | agency = [[Ukrinform]]
+ | date = 24 July 2019
+| accessdate = 24 July 2019}}
+</ref> Gazprom has stated that it will divert {{convert|20|e9m3|e9cuft|abbr=unit}} of natural gas transported through Ukraine to Nord Stream.<ref name="reuters250511">{{cite news
+ | url = http://uk.reuters.com/article/2011/05/25/russia-nord-stream-idAFLDE74O1XA20110525
+ | first = Jessica | last = Bachman
+ | title = Russia to divert 20 bcm of gas from Ukraine to Nord Stream
+ | agency = [[Reuters]]
+ | date = 25 May 2011
+| accessdate = 26 May 2011}}
+</ref> Opponents say that the maintenance costs of a submarine pipeline are higher than for an overland route. In 1998, former Gazprom chairman [[Rem Vyakhirev]] claimed that the project was economically unfeasible.<ref name="kommersant2">{{cite news
+ | url = http://www.kommersant.com/p776130/r_527/Gazprom_moves_towards_becoming_a_world_energy_giant/ | first = Natalya | last = Grib | title = Plus Gasification of Entire Europe | newspaper = [[Kommersant]] | date = 12 July 2007 | accessdate = 26 August 2007 | archive-url = https://web.archive.org/web/20070930181854/http://www.kommersant.com/p776130/r_527/Gazprom_moves_towards_becoming_a_world_energy_giant/ | archive-date = 30 September 2007 | url-status = dead }}</ref>
+
+As the Nord Stream pipeline crosses the waterway to Polish ports in [[Szczecin]] and [[Świnoujście]], there were concerns that it will reduce the depth of the waterway leading to the ports.<ref>{{Cite news
+ |title=A Terminal Disagreement Between Poland and Germany |date=7 September 2010
+|url=http://corporateforeignpolicy.com/corporate-foreign-policy/a-terminal-disagreement-between-poland-and-germany
+ |accessdate=6 September 2011
+|archive-url=https://web.archive.org/web/20111008194202/http://corporateforeignpolicy.com/corporate-foreign-policy/a-terminal-disagreement-between-poland-and-germany
+ |archive-date=8 October 2011
+|url-status=dead
+ }}</ref><ref>{{cite news
+ | url=https://blogs.wsj.com/new-europe/2010/01/25/poland-sits-still-as-nord-stream-prepares-to-block-sea-port/
+ | work=[[The Wall Street Journal]]
+ | first=Marcin | last=Sobczyk
+ | title=Poland Sits Still as Nord Stream Prepares to Block Sea Port
+ | date=25 January 2010
+| accessdate =6 September 2011}}
+</ref><ref name="wbj160511">{{cite news
+ |url = http://www.wbj.pl/article-54536-squeezed-by-nord-stream.html
+ |work = [[Warsaw Business Journal]]
+ |first = Brendan
+ |last = Melck
+ |title = Squeezed by Nord Stream
+ |date = 16 May 2011
+|accessdate = 6 September 2011
+|archive-url = https://web.archive.org/web/20120329141037/http://www.wbj.pl/article-54536-squeezed-by-nord-stream.html
+ |archive-date = 29 March 2012
+|url-status = dead
+}}</ref> However, Polish prime minister [[Donald Tusk]] as well as several experts have confirmed that the Nord Stream pipeline does not block the development plans of Świnoujście and Szczecin ports.<ref name="wbj160511" /><ref>{{cite news
+ | url= http://www.lngworldnews.com/poland-pm-says-nord-stream-will-not-block-development-of-polish-ports/
+ | work= LNG World News
+ | title= Poland: PM Says Nord Stream Will Not Block Development of Polish Ports
+ | date=22 June 2011
+| accessdate =6 September 2011}}
+</ref>
+
+===Environmental aspects===
+The greatest environmental impact in connection with the pipeline results from the consumption of the transported gas, if it allows more imports to the EU. That would be in conflict with decarbonization efforts for climate protection. At a nominal capacity of {{convert|55|e9m3/a|e12cuft/a|abbr=unit}}, each pipe pair can cause carbon emissions of 110 million tonnes {{co2}} each annually.<ref>Conversion with 10.1 kWh/m3 and 0.056 t {{co2}}/GJ </ref> Methane losses during extraction and transport need to be added.
+
+For the Portowaja compressor station at the Russian beginning of North Stream 1 with a rating of 366 megawatts, {{co2}} emissions of around 1.5 million tons p.a. are estimated,<ref> http://www.gazprom.de/projects/nord-stream/ Retrieved on 7 September 2020, with 40% efficiency of the gas turbines</ref> not including compressor stations for the gas pipelines within Russia.
+
+Since the pressure loss is the square of the flow velocity, dividing an unchanged gas transport volume between two Nord Stream systems could save around 3/4 of the pumping effort and presumably more than one million tons of {{co2}} emissions could be avoided annually. Using the [[Umweltbundesamt]]'s discounted {{co2}} damage costs of 180 euros / tonne,<ref>{{cite web |url=https://www.umweltbundesamt.de/presse/pressemitteilungen/hohe-kosten-durch-unterlassenen-umweltschutz |title=Hohe Kosten durch unterlassenen Umweltschutz |work=[[Umweltbundesamt]] }}</ref> this would, after a rough estimate, enable the third tube to be amortized within around 20 years from a global point of view. Possibly also the fourth tube could be amortized in the hypothetical case of an overall optimization of gas flow over various pipelines between Russia and the EU.
+
+The production of over 2 million tons of steel for the Nord Stream 2 tubes resulted in more than 3 million tons of {{co2}} emissions; not including the concrete coating and the associated pipeline sections onshore.
+
+Before construction there were concerns that during construction the sea bed would be disturbed, dislodging [[World War II]]-era [[naval mine]]s and toxic materials including mines, chemical waste, [[chemical weapon|chemical munitions]] and other items dumped in the Baltic Sea in the past decades, and thereby toxic substances could surface from the seabed, damaging the Baltic's particularly sensitive ecosystem.<ref name="helcom2">{{cite news
+ | url = http://www.helcom.fi/stc/files/Publications/OtherPublications/CHEMUFinalReport1995.pdf
+ | title = Final Report of the ''ad hoc'' Working Group on Dumped Chemical Munition (HELCOM CHEMU) to the 16th Meeting of the Helsinki Commission
+ | publisher = [[HELCOM]]
+ | date = March 1995
+ | accessdate = 2 August 2007
+| archive-url = https://web.archive.org/web/20070705224926/http://www.helcom.fi/stc/files/Publications/OtherPublications/CHEMUFinalReport1995.pdf
+ | archive-date = 5 July 2007
+| url-status = dead
+ }}</ref><ref name="spiegel3">{{cite news
+ | url = http://www.spiegel.de/international/0,1518,434329,00.html
+ | title = Tons of Mercury Found in the Baltic Sea. Europe's Underwater Chemical Dump
+ | newspaper = [[Spiegel Online]]
+ | date = 30 August 2006
+| accessdate = 2 August 2007}}
+</ref><ref name="spiegel6">{{cite news
+ | url = http://www.spiegel.de/international/europe/0,1518,524139,00.html
+ | title = Bad News Blooms in the Baltic: Can a New Cleanup Plan Save the Sea
+ | first = Patrick | last = McGroarty
+ | newspaper = [[Spiegel Online]]
+ | date = 2 January 2008
+| accessdate = 18 May 2008}}
+</ref><ref name="downstream2">
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=7327
+ | title = Gazprom Standing By Nord Stream Plans
+ | agency = [[United Press International|UPI]]
+ | publisher = Downstream Today
+ | date = 27 November 2007
+| accessdate = 28 November 2007}}
+</ref><ref>{{cite web |date=25 March 2010 |url=https://yle.fi/uutiset/osasto/news/activists_say_500000_tonnes_of_chemical_weapons_in_baltic/5534180 |title=Activists Say 500,000 Tonnes of Chemical Weapons in Baltic |work=[[Yle]] |accessdate=4 October 2020 }}</ref> Swedish Environment Minister Andreas Carlgren demanded that the environmental analysis should include alternative ways of taking the pipeline across the Baltic, as the pipeline is projected to be passing through areas considered environmentally problematic and risky.<ref name="upstream10">
+{{cite news
+ | url = http://www.upstreamonline.com/live/article143251.ece
+ | archive-url = https://web.archive.org/web/20080224032544/http://www.upstreamonline.com/live/article143251.ece
+ | url-status = dead
+ | archive-date = 24 February 2008
+| title = Nord Stream hits Swedish hurdle
+ | newspaper = [[Upstream (newspaper)|Upstream Online]]
+ | publisher = NHST Media Group
+ | date = 31 October 2007
+| accessdate = 10 November 2007}}
+</ref> Sweden's three opposition parties called for an examination of the possibility of rerouting the pipeline onto dry land.<ref name="downstream2" /> Finnish environmental groups campaigned to consider the more southern route, claiming that the sea bed is flatter and so construction would be more straightforward, and therefore potentially less disruptive to waste, including [[dioxins and dioxin-like compounds]], littered on the sea bed.<ref name="reuters3">{{cite news
+ | url = http://uk.reuters.com/article/rbssEnergyNews/idUKL2150308920080121
+ | author=Terhi Kinnunen
+ | title = Finland tells Nord Stream to study alternative routes
+ | work = Reuters
+ | date = 21 January 2008
+| accessdate = 31 January 2008}}
+</ref> Latvian president [[Valdis Zatlers]] said that Nord Stream was environmentally hazardous as, unlike the [[North Sea]], there is no such water circulation in the Baltic Sea.{{cn|date=November 2020}} [[Ene Ergma]], Speaker of the [[Riigikogu]] (Parliament of [[Estonia]]), warned that the pipeline work rips a canal in the seabed which will demand leveling the sand that lies along the way, atomizing volcanic formations and disposing of fill along the bottom of the sea, altering sea currents.<ref name="bellona1" />
+
+The impact on bird and marine life in the Baltic Sea is also a concern, as the Baltic sea is recognized by the [[International Maritime Organization]] as a particularly sensitive sea area. The World Wide Fund for Nature requested that countries party to the [[Baltic Marine Environment Protection Commission]] (HELCOM) safeguard the Baltic marine habitats, which could be altered by the implementation of the Nord Stream project.<ref name="helcom">{{cite journal
+ | url = https://portal.helcom.fi/Archive/Shared%20Documents/HABITAT%207-2005-11-3.pdf
+ | title = Risk Assessment and an Environmental Impact Assessment for the North European Gas Pipeline Project (NEGP)
+ | publisher = [[HELCOM]]
+ | date = 3 October 2005
+| accessdate = 5 June 2016
+| archive-url = https://web.archive.org/web/20160605155610/https://portal.helcom.fi/Archive/Shared%20Documents/HABITAT%207-2005-11-3.pdf
+ | archive-date = 5 June 2016
+| url-status = live
+ }}
+</ref> Its Finnish branch said it might file a court case against Nord Stream AG if the company did not properly assess a potential alternative route on the southern side of [[Hogland]]. According to Nord Stream AG, this was not a suitable route for the pipeline because of the planned conservation area near Hogland, subsea cables, and a main shipping route.<ref name="reuters2">{{cite news
+ | url = http://uk.reuters.com/article/environmentNews/idUKL1548343620080116?pageNumber=2&virtualBrandChannel=0&sp=true
+ | first =Terhi | last = Kinnunen
+ | title = Finnish court actions could delay Baltic gas link
+ | agency = [[Reuters]]
+ | date = 15 January 2008
+| accessdate = 31 January 2008}}
+</ref> Russian environmental organizations warned that the ecosystem in the Eastern part of the [[Gulf of Finland]] is the most vulnerable part of the Baltic Sea and assumed damage to the island territory of the planned Ingermanland nature preserve as a result of laying the pipeline.<ref name="bellona1">{{cite news
+ | url = http://www.bellona.org/articles/articles_2007/Nord_stream
+ | author = Galina Raguzina
+ | title = While Nord Stream embraces Russia, Estonia will not embrace Nord Stream
+ | publisher = [[Bellona Publishing House|Bellona]]
+ | date = 2 November 2007
+| accessdate = 9 August 2008
+| archive-url = https://web.archive.org/web/20081118201643/http://www.bellona.org/articles/articles_2007/Nord_stream
+ | archive-date = 18 November 2008
+| url-status = dead
+ }}</ref> Swedish environmental groups are concerned that the pipeline is planned to pass too closely to the border of the marine reserve near Gotland.<ref name="dw1">{{cite news
+ | first = Torsten | last = Schäfer
+ | url = http://www.dw-world.de/dw/article/0,2144,2345720,00.html
+ | title = Baltic Sea Gas Pipeline Meets European Resistance
+ | publisher = [[Deutsche Welle]]
+ | date = 17 February 2007
+| accessdate = 2 August 2007}}
+</ref> [[Greenpeace]] is also concerned that the pipeline would pass through several sites designated marine conservation areas.<ref name="telegraph2" />
+
+In April 2007, the Young Conservative League (YCL) of Lithuania started an [[online petition]] entitled "Protect the Baltic Sea While It’s Still Not Too Late!", translated into all state languages of the countries of the Baltic region.<ref name="bellona">{{cite news
+ | author = Galina Raguzina
+ | url = http://www.bellona.org/articles/articles_2007/1180933195.94
+ | title = Nord Stream gas pipeline a danger for the Baltic ecology
+ | publisher = Bellona
+ | date = 1 June 2007
+| accessdate = 10 November 2007
+| archive-url = https://web.archive.org/web/20081118200632/http://www.bellona.org/articles/articles_2007/1180933195.94
+ | archive-date = 18 November 2008
+| url-status = dead
+ }}</ref> On 29 January 2008 the Petitions Committee of the European Parliament organized a public hearing on the petition introduced by the leader of YCL&nbsp;– Radvile Morkunaite. On 8 July 2008, the [[European Parliament]] endorsed, by 542&nbsp;votes to 60, a non-binding report calling on the [[European Commission]] to evaluate the additional impact on the Baltic Sea caused by the Nord Stream project.<ref name="reuters080708">{{cite news
+ | url = http://uk.reuters.com/article/oilRpt/idUKL0852440420080708
+ | author= Pete Harrison
+ | title = EU lawmakers demand probe of Baltic gas pipeline
+ | work = Reuters
+ | date = 8 July 2008
+| accessdate = 11 July 2008}}
+</ref> The Riigikogu made a declaration on 27 October 2009, expressing "concern over the possible environmental impacts of the gas line" and emphasizing that international conventions have deemed "the Baltic Sea in an especially vulnerable environmental status".<ref name="riigikogu">[http://www.riigikogu.ee/?page=pub_file&op=emsplain&content_type=application/msword&u=20101110155138&file_id=803537&file_name=607-a-XI.doc&file_size=22528&mnsent=607+AE&fd=22.04.2010 Riigikogu avaldus. Läänemerre kavandatava gaasijuhtmega seotud keskkonnariskidest] Declaration of the Riigikogu. On environmental hazards connected with the gas line planned into the Baltic Sea. In Estonian. The Riigikogu 27 October 2009</ref>
+
+Russian officials described these concerns as far-fetched and politically motivated by opponents of the project. They argued that during the construction the seabed will be cleaned, rather than endangered. Russian Foreign Minister [[Sergey Lavrov]] has claimed that Russia fully respects the desire to provide for the 100% environmental sustainability of the project and that Russia is fully supportive of such an approach, and that all environmental concerns would be addressed in the process of environmental impact assessment.<ref name="upstream2">
+{{cite news
+ | url = https://www.upstreamonline.com/online/russia-backs-green-nord-stream/1-1-1039500
+ | title = Russia backs green Nord Stream
+ | newspaper = [[Upstream (newspaper)|Upstream Online]]
+ | publisher = NHST Media Group
+ | date = 13 June 2007
+| accessdate = 2 August 2007
+| url-access = subscription}}
+</ref>
+
+Concerns were raised, since originally Nord Stream AG planned on rinsing out the pipeline with 2.3&nbsp;billion liters of a solution containing [[glutaraldehyde]], which would be pumped afterward into the Baltic Sea. Nord Stream AG responded that glutaraldehyde would not be used, and even if the chemical were used, the effects would be brief and localized due to the speed with which the chemical breaks down once it comes in contact with water.<ref name="businessweek">
+{{cite news
+ | url = https://www.bloomberg.com/news/articles/2008-02-25/baltic-sea-pipeline-keeps-losing-friendsbusinessweek-business-news-stock-market-and-financial-advice
+ | title = Baltic Sea Pipeline Keeps Losing Friends
+ | work = [[Bloomberg L.P.|Bloomberg]]
+ | date = 25 February 2008
+| accessdate = 18 May 2008}}
+</ref>
+
+One of the problems raised was that the Baltic Sea and particularly Gulf of Finland was heavily mined during World War I and II, with many mines still in the sea.<ref name="telegraph2">{{cite news
+ | url = https://www.telegraph.co.uk/finance/newsbysector/energy/2784810/What%27s-in-the-pipeline-for-Nord-Stream.html
+ | title = What's in the pipeline for Nord Stream?
+ | first = Russell | last = Hotten
+ | newspaper = [[The Daily Telegraph]]
+ | date = 21 February 2008
+| accessdate = 9 August 2008
+| location=London}}
+</ref> According to Marin Mätteknik around 85,000&nbsp;mines were laid during the First and Second World Wars, of which only half have been recovered. A lot of munitions have also been dumped in this sea.<ref name="offshore010308">{{cite journal
+ | url = http://www.offshore-mag.com/index/article-display/324183/articles/offshore/supplements/sweden/articles/rov-survey-tool-searches-for-mines-along-baltic-pipeline.html
+ | title = ROV survey tool searches for mines along Baltic pipeline
+ | journal = Offshore
+ | publisher = [[PennWell Corporation]]
+ | date = 1 March 2008
+| issue = 3
+ | volume = 68
+ | accessdate = 4 October 2010
+| archive-url = https://web.archive.org/web/20110930221133/http://www.offshore-mag.com/index/article-display/324183/articles/offshore/supplements/sweden/articles/rov-survey-tool-searches-for-mines-along-baltic-pipeline.html
+ | archive-date = 30 September 2011
+| url-status = dead
+ }}</ref> Critics of the pipeline voiced fears that the pipeline would disturb ammunition dumps. In November 2008 it was reported that the pipeline will run through old sea mine defense lines and that the Gulf of Finland is considered one of the most heavily mined sea areas in the world.<ref name="downstream291108">
+{{cite news
+ | url = http://www.downstreamtoday.com/news/article.aspx?a_id=13974
+ | archive-url = https://web.archive.org/web/20101121020624/http://downstreamtoday.com/(S(ocpfoz45bclwsiqewyiu5bik))/news/article.aspx?a_id=13974
+ | url-status = dead
+ | archive-date = 21 November 2010
+| newspaper = [[Helsingin Sanomat]]
+ | title = Wartime Mines To Be Cleared from Nord Stream Route
+ | publisher = Downstream Today
+ | date = 29 November 2008
+| accessdate = 11 January 2009}}
+</ref> Sunken mines, which have been found on the pipeline route, lay primarily in international waters at a depth of more than {{convert|70|m|ft|abbr=on}}. Nord Stream AG detonated the mines underwater.<ref name="downstream291108" />
+
+===Ethical issues===
+The former [[Chancellor of Germany (Federal Republic)|Chancellor of Germany]], [[Gerhard Schröder]], and the President of Russia, [[Vladimir Putin]], were strong advocates of the pipeline project during the negotiation phase. International media alluded to a past relationship between the Managing Director of Nord Stream AG, [[Matthias Warnig]], himself a former [[Stasi|East German secret police]] officer, and Vladimir Putin when he was a [[KGB]] agent in East Germany.<ref name="spiegel240205">{{cite news
+| newspaper = [[Spiegel Online]]
+| title = My President Went to Bratislava and All I Got Was This Lousy T-Shirt
+| url=http://www.spiegel.de/international/0,1518,343445,00.html
+| date = 24 February 2005
+| accessdate=31 January 2009}}
+</ref><ref name="nyt030106">{{cite news
+| newspaper = [[New York Times]]
+| first = John | last = Vinocur
+| title = For Schröder and Putin, Linkup No Coincidence
+| url=https://select.nytimes.com/iht/2006/01/03/international/IHT-03politicus.html
+| date = 3 January 2006
+| accessdate=31 January 2009}}
+</ref><ref name="telegraph">{{cite news
+| newspaper = [[The Daily Telegraph]]
+| first = Tom | last = Parfitt
+| title = Putin's Enemies Call for Investigation into Links with Stasi Agent
+| url=https://www.telegraph.co.uk/news/worldnews/europe/russia/1484535/Putins-enemies-call-for-investigation-into-links-with-Stasi-agent.html
+| date = 27 February 2005
+| accessdate=31 January 2009
+| location=London}}
+</ref><ref name="spt010305">{{cite news
+| newspaper = [[The St. Petersburg Times]]
+| title = Report Links Putin to Dresdner
+| url = http://www.sptimes.ru/index.php?action_id=2&story_id=2858
+| date = 1 March 2005
+| accessdate = 31 January 2009
+| archive-url = https://web.archive.org/web/20080613001602/http://www.sptimes.ru/index.php?action_id=2&story_id=2858
+| archive-date = 13 June 2008
+| url-status = dead
+}}</ref> These allegations were denied by Matthias Warnig, who said that he had met Vladimir Putin for the first time in his life in 1991, when Putin was the head of the Committee for External Relations of the [[Saint Petersburg City Administration|Saint Petersburg Mayor's Office]].<ref name="spt010305" /><ref name="dwas">{{cite news
+ | newspaper=[[Welt am Sonntag]]
+ | title = In Russland braucht man einen langen Atem
+ |trans-title=In Russia You Need a Lot of Patience
+ | url = https://www.welt.de/print-welt/article708699/In-Russland-braucht-man-einen-langen-Atem.html
+ | date = 17 January 2007
+| accessdate = 26 April 2016
+| url-status = live
+ | archive-url = https://web.archive.org/web/20140505194919/http://www.welt.de/print-welt/article708699/In-Russland-braucht-man-einen-langen-Atem.html
+ | archive-date = 5 May 2014
+| language = de}}
+</ref>
+
+The agreement to build the pipeline was signed ten days before the [[2005 German federal election|German parliamentary election]]. On 24 October 2005, a few weeks before Schröder had stepped down as Chancellor, the German government guaranteed to cover €1&nbsp;billion of the Nord Stream project cost, should Gazprom [[Default (finance)|default]] on a loan. However, this guarantee expired at the end of 2006 without ever having been needed.<ref name="ft">
+{{cite news
+ | newspaper = [[Financial Times]]
+ | first1 = Tobias | last1 = Buck | first2 = Bertrand | last2 = Benoit
+ | title = EU to Probe German Gas Pipeline Guarantee
+ | url=http://www.ft.com/cms/s/4b16eef6-deb2-11da-acee-0000779e2340.html
+ | date = 8 May 2006
+| accessdate=26 August 2007}}
+</ref> Soon after leaving the post of Chancellor of Germany, Gerhard Schröder agreed to head the shareholders' committee of Nord Stream AG. This has been widely described by German and international media as a [[conflict of interest]],<ref name="spiegel2">{{cite news
+ | newspaper = [[Spiegel Online]]
+ | first = Marc | last = Young
+ | title = Schröder to Build Putin's Pipeline
+ | url=http://www.spiegel.de/international/0,1518,389965,00.html
+ | date = 12 December 2005
+| accessdate=26 August 2007}}
+</ref><ref name="spiegel4">{{cite news
+ | newspaper = [[Spiegel Online]]
+ | title = Schröder's New Job Stinks
+ | url=http://www.spiegel.de/international/0,1518,390131,00.html
+ | date = 13 December 2005
+| accessdate=26 August 2007}}
+</ref><ref name="washingtonpost">{{cite news
+ | newspaper = [[The Washington Post]]
+ | title = Gerhard Schroeder's Sellout
+ | url= https://www.washingtonpost.com/wp-dyn/content/article/2005/12/12/AR2005121201060.html
+ | date = 13 December 2005
+| accessdate=26 August 2007}}
+</ref> the implication being that the pipeline project may have been pushed through for personal gain rather than for improving gas supplies to Germany. Information about the German government's guarantee was requested by the European Commission. No formal charges have been filed against any party despite years of exhaustive investigations.<ref name="ft" />
+
+In February 2009, the Swedish prosecutor's office started an investigation based on suspicions of bribery and corruption after a college on the island of Gotland received a donation from Nord Stream. The 5&nbsp;million Swedish [[Swedish krona|kronor]] (US$574,000) donation was directed to a professor at [[Gotland University College]] who had previously warned that the Nord Stream pipeline would come too close to a sensitive bird zone.<ref name="local190209">{{cite news
+ | newspaper = The Local
+ | title = Nord Stream Gift Prompts Bribery Probe
+ | url= http://www.thelocal.se/17680/20090219/
+ | date = 19 February 2009
+| accessdate=19 April 2009}}
+</ref> The consortium has hired several former high-ranking officials, such as [[Ulrica Schenström]], former undersecretary at the Swedish Prime Minister's office, and Dan Svanell, former [[press secretary]] for several politicians in the [[Swedish Social Democratic Party]].<ref name="stockholm160209">{{cite news
+ | newspaper = Stockholm News
+ | title = Former Political Employees Now on Other Side in the Hot 'Pipe Line Question'
+ | url = http://www.stockholmnews.com/more.aspx?NID=2700
+ | first = Tommie
+ | last = Ullman
+ | date = 16 February 2009
+| accessdate = 19 April 2009
+| archive-url = https://web.archive.org/web/20101129172456/http://stockholmnews.com/more.aspx?NID=2700
+ | archive-date = 29 November 2010
+| url-status = dead
+ }}</ref> In addition, the former Prime Minister of Finland, [[Paavo Lipponen]], had worked for Nord Stream as an adviser since 2008.<ref name="hs150808">{{cite news
+ | newspaper = [[Helsingin Sanomat]]
+ | title = Ex-PM Paavo Lipponen to Serve as Adviser to Gas Pipeline Builder
+ | url= http://www.hs.fi/english/article/Ex-PM+Paavo+Lipponen+to+serve+as+adviser+to+gas+pipeline+builder/1135238642998
+ | date = 15 August 2008
+| accessdate=19 April 2009}}
+</ref>
+
+===Land-based alternatives===
+On 11 January 2007, the Ministry of Trade and Industry of Finland made a statement on the environmental impact assessment programme of the Russia-Germany natural gas pipeline, in which it mentioned that alternative routes via the Baltic states, [[Kaliningrad]] and/or Poland might theoretically be shorter than the route across the Baltic Sea, would be easier to flexibly increase the capacity of the pipeline, and might have better financial results.<ref name="ktm">{{cite journal
+ |publisher = [[Nord Stream AG]]
+ |author = Ministry of Trade and Industry of Finland
+ |title = Statement on the environmental impact assessment programme of the Russia-Germany natural gas pipeline
+ |url = http://www.nord-stream.com/uploads/media/minist_3.pdf
+ |date = 11 January 2007
+|accessdate = 23 February 2008
+|url-status = dead
+ |archive-url = https://web.archive.org/web/20090326133536/http://www.nord-stream.com/uploads/media/minist_3.pdf
+ |archive-date = 26 March 2009
+|df = dmy-all
+}}
+</ref> There were also calls from Sweden to consider rerouting the pipeline onto dry land.<ref name="downstream2" /> Poland had proposed the construction of a second line of the [[Yamal–Europe pipeline]], as well as the Amber pipeline through the Baltic states and Poland as land-based alternatives to the offshore pipeline. The Amber project foresees laying a natural gas pipeline across the [[Tver Oblast|Tver]], [[Novgorod Oblast|Novgorod]] and [[Pskov Oblast|Pskov]] oblasts in Russia and then through Latvia and Lithuania to Poland, where it would be re-connected to the Yamal–Europe pipeline.<ref name="notification2006" /> Latvia has proposed using its underground gas storage facilities if the onshore route were to be used.{{cn|date=November 2020}} Proponents have claimed that the Amber pipeline would cost half as much as an underwater pipeline, would be shorter, and would have less environmental impact.<ref name="kz">{{cite news
+ | newspaper= Gazeta.kz
+ | title = Poland has its own project of gas pipeline to deliver Russian gas to Western Europe
+ | url= http://eng.gazeta.kz/art.asp?aid=104374
+ | date = 30 January 2008
+| accessdate=31 January 2008}}
+</ref> Critics of this proposal say that in this case it would be more expensive for the suppliers over the long-term perspective, because the main aim of the project is to reduce transit costs.<ref name="rgi">{{cite journal
+ | publisher= Global Insight
+ | title = Baltic, Polish Leaders Rejuvenate Amber Gas Pipeline Proposal as Alternative to Controversial Nord Stream
+ | url= http://www.globalinsight.com/SDA/SDADetail11482.htm
+ | date = 6 February 2008
+| accessdate=31 January 2009}}
+</ref> Nord Stream AG has responded that the Baltic Sea would be the only route for the pipeline and it will not consider an overland alternative.<ref name="reuters7">{{cite news
+ | agency = Reuters
+ | title = Nord Stream says overland route not an option
+ | first = Agnieszka | last = Flak
+ | url= http://uk.reuters.com/article/2008/04/14/nordstream-idUKL1455560620080414
+ | date = 14 April 2008
+| accessdate=18 May 2008}}
+</ref>
+
+===World War II graves===
+A former member of the [[European Parliament]] from Estonia, [[Andres Tarand]] has raised the issue that the Nord Stream pipeline could disturb World War II graves dating from naval battles in 1941. A Nord Stream spokesman has stated that only one sunken ship is in the vicinity of the planned pipeline and added that it would not be disturbed.<ref>{{cite news
+ | newspaper= The Economist
+ | title = Pipelines from Russia&nbsp;— Dead souls
+ | url= http://www.economist.com/world/europe/displaystory.cfm?story_id=11376692&CFID=9227864&CFTOKEN=23116655
+ | date = 15 May 2008
+| accessdate=13 June 2008}}
+</ref> However, on 16 July 2008 it was announced that one of [[DOF Subsea]]'s seismic vessels had discovered during a survey for the planned Nord Stream pipeline, in Finland's exclusive economic zone in the Gulf of Finland, the wreck of a submarine with Soviet markings, believed to have sunk during World War II.<ref name="upstream170708">
+{{cite news
+ | newspaper = [[Upstream (newspaper)|Upstream Online]]
+ | publisher = NHST Media Group
+ | title = Nord Stream survey finds Soviet sub
+ | url= https://www.upstreamonline.com/online/nord-stream-survey-finds-soviet-sub/1-1-1086191
+ | date = 17 July 2008
+| accessdate=18 July 2008
+| url-access = subscription}}
+</ref>
+
+In addition to the wreck of the [[Soviet submarine]], there are sunken ships on the route of Nord Stream in the [[Bay of Greifswald]] and in the Gulf of Finland. The ship in the Bay of Greifswald is one of 20 sunk in 1715 by the Swedish navy to create a physical barrier across the shallow entrance to the Bay of Greifswald coastal lagoon.<ref name="ns311008b">
+{{cite press release
+ |publisher = [[Nord Stream AG]]
+ |title = Underwater Investigation of Wreck on Greifswalder Bodden Enters Second Phase
+ |url = http://www.nord-stream.com/en/press0/press-releases-special/wreck-survey.html
+ |date = 31 October 2008
+|accessdate = 11 January 2009
+|url-status = dead
+ |archive-url = https://web.archive.org/web/20100312105232/http://www.nord-stream.com/en/press0/press-releases-special/wreck-survey.html
+ |archive-date = 12 March 2010
+|df = dmy-all}}
+</ref> Russian archaeologists claimed that the ship in the Gulf of Finland "was probably built in 1710 and sank during a raid aimed at conquering Finland" in 1713 during the reign of [[Peter I of Russia|Peter the Great]].<ref name="rt121208">{{cite news
+ | agency = [[Russia Today]]
+ | title = Peter the Great's lost ship found?
+ | url= http://rt.com/news/peter-the-greats-lost-ship-found
+ | date = 12 December 2008
+| accessdate= 25 February 2015}}
+</ref>
+
+==Controversies of Nord Stream 2==
+===Political aspects===
+In January 2018, [[United States Secretary of State]] [[Rex Tillerson]] said that the U.S. and [[Poland]] oppose the Nord Stream 2 pipeline. They see it as undermining Europe's overall [[energy security]] and stability.<ref>{{cite news|url=https://money.usnews.com/investing/news/articles/2018-01-27/uss-tillerson-says-nord-stream-2-pipeline-would-undermine-europes-energy-security|title=U.S.'s Tillerson Says Nord Stream 2 Pipeline Would Undermine Europe's Energy Security|work=Reuters|accessdate=27 January 2018|agency=U.S. News & World Report}}</ref> The Nord Stream 2 pipeline was also opposed by former Ukrainian President [[Petro Poroshenko]], Polish Prime Minister [[Mateusz Morawiecki]], U.S. President [[Donald Trump]], the European Council President [[Donald Tusk]] and British Foreign Secretary [[Boris Johnson]].<ref>{{cite news |title=Germany and Russia gas links: Trump is not only one to ask questions |url=https://www.theguardian.com/us-news/2018/jul/11/germany-and-russia-gas-links-trump-questions-europe-nord-stream2 |work=The Guardian |date=11 July 2018}}</ref><ref>{{cite news |title=Trump barrels into Europe's pipeline politics |url=https://www.politico.eu/article/nord-stream-2-donald-trump-barrels-into-europes-pipeline-politics/ |work=Politico |date=11 July 2018}}</ref> The president of the European Council [[Donald Tusk]] has said that Nord Stream 2 is not in the EU's interests.<ref name="euobserver1812152">{{cite news|url=https://euobserver.com/energy/131605|title=Tusk: Nord Stream II doesn't help|last=Teffer|first=Peter|date=18 December 2015|newspaper=[[EUobserver]]|accessdate=5 June 2016}}</ref> Italian Prime Minister [[Matteo Renzi]] and Hungarian Prime Minister [[Viktor Orbán]] have questioned the different treatment of Nord Stream 2 and [[South Stream]] projects.<ref name="euobserver1812152" /><ref name="wsj1812152">{{cite news|url=https://www.wsj.com/articles/germanys-merkel-defends-russian-gas-pipeline-plan-1450447499|title=Germany's Merkel Defends Russian Gas Pipeline Plan|last=Steinhauser|first=Gabriele|date=18 December 2015|newspaper=The Wall Street Journal|accessdate=5 June 2016|url-access=subscription }}</ref> Some claim that the project violates the long-term declared strategy of the EU to diversify its gas supplies.<ref name="nge2303162">{{cite news|url=http://www.naturalgaseurope.com/nord-stream-2-trojan-horse-or-guarantee-of-security-28757|title=Nord Stream 2: Trojan Horse or Guarantee of Security|date=23 March 2016|work=Natural Gas Europe|accessdate=30 April 2017|url-access=subscription }}</ref> A letter, signed by the leaders of nine EU countries, was sent to the EC in March 2016, warning that the Nord Stream 2 project contradicts the European energy policy requirements that suppliers to the EU should not control the energy transmission assets, and that access to the energy infrastructure must be secured for non-consortium companies.<ref name="reuters1603162">{{cite news|url=http://uk.reuters.com/article/uk-eu-energy-nordstream-idUKKCN0WI1YV|title=EU leaders sign letter objecting to Nord Stream-2 gas link|last=Sytas|first=Andrius|date=16 March 2016|accessdate=30 April 2017|agency=Reuters}}</ref><ref name="euobserver1703162">{{cite news|url=https://euobserver.com/foreign/132726|title=Eastern EU leaders to warn Juncker on Nord Stream II|last=Rettman|first=Andrew|date=17 March 2016|work=EUobserver|accessdate=30 April 2017}}</ref> A letter by American lawmakers [[John McCain]] and [[Marco Rubio]] to the EU also criticized the project in July 2016.<ref name="eadaily1407162">{{cite news|url=https://eadaily.com/en/news/2016/07/14/united-states-is-attacking-russias-gas-projects-in-europe|title=United States is attacking Russia's gas projects in Europe|date=14 July 2016|work=Eurasia Daily|accessdate=30 April 2017}}</ref> [[Isabelle Kocher]], chief executive officer of Engie, criticised American sanctions targeting the projects, and said they were an attempt to promote American gas in Europe.<ref>{{cite news |url=https://www.bloomberg.com/news/articles/2017-06-15/u-s-toughens-stance-on-russian-gas-as-engie-defends-new-pipe|title=Germany, Austria Tell U.S. Not to Interfere in EU Energy|last1=Mazneva|first1=Elena|last2=Donahue|first2=Patrick|date=15 June 2017| work = [[Bloomberg L.P.|Bloomberg]] |archive-url=https://web.archive.org/web/20170615150441/https://www.bloomberg.com/news/articles/2017-06-15/u-s-toughens-stance-on-russian-gas-as-engie-defends-new-pipe|archive-date=15 June 2017|url-status=live|accessdate=30 September 2017|last3=Shiryaevskaya|first3=Anna}}</ref>
+[[File:Angela Merkel and Vladimir Putin (2018-05-18) 05.jpg|thumb|German Chancellor [[Angela Merkel]] with Russian President [[Vladimir Putin]] in [[Sochi]], Russia, 18 May 2018]]
+In June 2017, Germany and [[Austria]] criticized the [[United States Senate]] over [[Countering America's Adversaries Through Sanctions Act|new sanctions]] against Russia that target the planned Nord Stream 2 [[List of countries by natural gas exports|gas pipeline]] from Russia to Germany,<ref>"[https://www.reuters.com/article/us-usa-russia-sanctions-germany-idUSKBN197156?il=0 Germany threatens retaliation if U.S. sanctions harm its firms]". Reuters. 16 June 2017.</ref><ref name="bloom">"[https://www.bloomberg.com/view/articles/2017-06-16/u-s-russia-sanctions-punish-europe-too The U.S. Sanctions Russia, Europe Says 'Ouch!']". [[Bloomberg News|Bloomberg]]. 16 June 2017.</ref> stating that the United States was threatening [[Energy policy of the European Union|Europe's energy supplies]].<ref>"[http://www.dw.com/en/us-bill-on-russia-sanctions-prompts-german-austrian-outcry/a-39270624 US bill on Russia sanctions prompts German, Austrian outcry]". Deutsche Welle. 15 June 2017.</ref> In a joint statement Austria's Chancellor [[Christian Kern]] and Germany's Foreign Minister [[Sigmar Gabriel]] said that "Europe's energy supply is a matter for Europe, and not for the United States of America."<ref>"[https://www.usnews.com/news/business/articles/2017-06-15/germany-austria-slam-us-sanctions-against-russia Germany, Austria Slam US Sanctions Against Russia]". U.S. News. 15 June 2017.</ref> They also said: "To threaten companies from Germany, Austria and other European states with penalties on the U.S. market if they participate in natural gas projects such as Nord Stream 2 with Russia or finance them introduces a completely new and very negative quality into European-American relations."<ref>"[http://www.politico.eu/article/germany-and-austria-warn-u-s-over-expanded-russia-sanctions/ Germany and Austria warn US over expanded Russia sanctions]". ''[[Politico]]''. 15 June 2017.</ref>
+
+===EU regulations===
+According to the amended EU gas directive, the EU extends its gas market rules to external pipelines entering to the EU internal gas market. It applies to all pipelines which were completed after 23 May 2019 when amended directive entered into force.<ref name=euractiv260919>{{cite news | url = https://www.euractiv.com/section/energy/news/nord-stream-2-seeks-arbitration-in-dispute-with-eu-commission/ | title = Nord Stream 2 seeks arbitration in dispute with EU Commission | first = Georgi | last = Gotev 
+ | publisher = [[EURACTIV]] | date = 26 September 2019 | accessdate = 22 December 2019}}</ref> 
+Nord Stream 2 AG has started the legal proceeding in the [[Court of Justice of the European Union]] to annul the amended directive and has started the arbitration against the EU under the [[Energy Charter Treaty]].<ref name=euractiv260919/><ref name="euobserver270919">{{cite news | url = https://euobserver.com/foreign/146101 | title = Russian pipeline firm launches anti-EU dispute | last = Rettman | first = Andrew | date = 27 September 2019 | work = EUobserver | accessdate = 22 December 2019}}</ref> 
+Although Russia has not ratified the Energy Charter Treaty and has terminated its provisional application, both—the EU and Switzerland, a domicile of Nord Stream 2 AG—are contracting parties of it.
+
+===Legal aspects===
+Some argue that the Nord Stream project violates the provisions of the European Union's [[Third Energy Package]] law<ref>{{Cite journal| title=Nord Stream 2 and the EU Regulatory Framework: challenges ahead|last= Dudek |first= Jerzy | publisher = Publications Office of the European Union |date=15 December 2017|doi=10.2870/998504}}</ref> and international law's rules concerning the [[law of war]].<ref>{{Cite web|url=https://www.ceps.eu/wp-content/uploads/2016/11/SR151AR%20Nordstream2.pdf|title=NordStream 2: A Legal and Policy Analysis|last=Riley|first=Alan|date=November 2016|work=[[Centre for European Policy Studies|CEPS]]| access-date=18 December 2019}}</ref> Additional legal concerns relate to [[international trade law]]<ref>{{Cite web|url=https://www.oxfordenergy.org/wpcms/wp-content/uploads/2019/03/Gas-Directive-Amendment-Insight-49.pdf|title=Gas Directive amendment: implications for Nord Stream 2|last=Yafimava|first=Katja|date=March 2019|website=Oxford Institute for Energy Studies|access-date=18 December 2019}}</ref> and to the [[law of the sea]] in connection with Nord Stream 2's route through the Danish territorial waters around [[Bornholm]].<ref>{{Cite journal|last=Jeutner|first=Valentin|title=Amendments, annexations, alternatives: Nord Stream 2's contemporary status under EU and international law|journal=The Journal of World Energy Law & Business|year=2019|volume=12|issue=6|pages=502–512|doi=10.1093/jwelb/jwz031}}</ref> Most commentators appear to agree, however, that the controversies surrounding the Nord Stream project are mostly political and not legal in nature.<ref>{{Cite journal|last=Jeutner|first=Valentin|title=Amendments, annexations, alternatives: Nord Stream 2's contemporary status under EU and international law|journal=The Journal of World Energy Law & Business|year=2019|volume=12|issue=6|pages=502–512|doi=10.1093/jwelb/jwz031}}</ref><ref>{{Cite web|url=https://www.ogel.org/article.asp?key=3818|title=EU Gas Market Amendment – Despite of Compromise, Problems Remain|last=Talus|first=Kim|date=2019| work = Oil, Gas & Energy Law|access-date=18 December 2019}}</ref>
+
+Businesses involved in Nord Stream 2 have been sanctioned by the United States, which has been seeking to sell more of its own [[liquefied natural gas]] (LNG) to EU states,<ref name=sanctionsus>{{cite news |title=Nord Stream 2: Trump approves sanctions on Russia gas pipeline |url=https://www.bbc.com/news/world-europe-50875935 |work=BBC News |date=21 December 2019}}</ref> with the passing of the [[National Defense Authorization Act for Fiscal Year 2020]] on 20 December 2019.<ref>{{cite news|title=Trump approves sanctions on builders of Russia-to-Europe gas pipelines|publisher=France24|date=20 December 2019|url=https://www.france24.com/en/20191221-trump-approves-sanctions-builders-of-russia-to-europe-gas-pipelines-energy-security-germany-turkey-eu}}</ref> German Finance Minister [[Olaf Scholz]] called the sanctions "a severe intervention in German and European internal affairs", while the EU spokesman criticized "the imposition of sanctions against EU companies conducting legitimate business."<ref>{{cite news |title=Germany, EU decry US Nord Stream sanctions |url=https://www.dw.com/en/germany-eu-decry-us-nord-stream-sanctions/a-51759319 |work=Deutsche Welle |date=21 December 2019}}</ref> German Foreign Minister [[Heiko Maas]] tweeted that "European energy policy is decided in Europe, not in the United States". Russian Foreign Minister [[Sergey Lavrov]] also criticized sanctions, saying that [[United States Congress|U.S. Congress]] "is literally overwhelmed with the desire to do everything to destroy" the [[Russia–United States relations]].<ref>{{cite news |title=Ukraine and Russia look to strike new gas deal amid US sanctions threa |url=https://www.cnbc.com/2019/12/16/ukraine-and-russia-look-to-strike-gas-transit-deal.html?recirc=taboolainternal |work=CNBC |date=16 December 2019}}</ref> The German Eastern Business Association (OAOEV) said in a statement: "America wants to sell its liquefied gas in Europe, for which Germany is building terminals. Should we arrive at the conclusion that US sanctions are intended to push competitors out of the European market, our enthusiasm for bilateral projects with the US will significantly cool."<ref>{{cite news |title=Nord Stream 2 gas pipeline faces sanctions under US defense bill |url=https://www.dw.com/en/nord-stream-2-gas-pipeline-faces-sanctions-under-us-defense-bill/a-51641960 |work=Deutsche Welle |date=12 December 2019}}</ref>
+
+==See also==
+{{Portal|Energy|Russia|Engineering|Transport|Economy}}
+
+* {{annotated link|Yamal–Europe pipeline}} A gas pipeline from Northern Russia through Belarus and Poland to Germany
+* {{annotated link|South Stream}}
+* {{annotated link|TurkStream}}
+* {{annotated link|Russia–Ukraine gas disputes}}
+* {{annotated link|Economy of Germany}}
+* {{annotated link|Economy of Russia}}
+* {{annotated link|List of countries by natural gas exports}}
+* {{annotated link|List of countries by natural gas imports}}
+* {{annotated link|List of countries by natural gas proven reserves}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [http://www.nord-stream.com/ Nord Stream official website] {{in lang|en|ru|de}}
+* [https://web.archive.org/web/20080216043436/http://www2.foi.se/rapp/foir1984.pdf Sweden and the NEGP: A Pilot Study of the North European Gas Pipeline and Sweden's Dependence on Russian Energy], Base data report by Robert L. Larsson. June 2006
+* [https://web.archive.org/web/20070927104435/http://www.mgip.gov.pl/NR/rdonlyres/C08FC813-450F-474A-AB3F-236E6325C99E/31530/born3.jpg Map of the disputed between Poland and Danmark zone] {{in lang|pl}}
+* [https://web.archive.org/web/20070927104520/http://www.mgip.gov.pl/NR/rdonlyres/76F93564-0C57-4AFD-B2B7-4FB8839BE8C5/31362/070322_ListMPWdoNordStream2.pdf Original letter from Poland about disputed area of the Baltic sea bottom]
+* [https://web.archive.org/web/20070911174644/http://www.balticsea.lt/en Protect the Baltic Sea] A petition demanding an independent environmental impact assessment of the Nord Stream gas pipeline project
+* A. Łoskot-Strachota, Ł. Antas, [http://www.osw.waw.pl/en/publikacje/policy-briefs/2010-03-29/nord-stream-liberalising-eu-gas-market Nord Stream on the liberalising EU gas market], [[Centre for Eastern Studies]], March 2010
+* [http://www.spektrum.com/statisch/pdf/SdW_NordStream_EN.pdf "Sea Change"] (Spektrum der Wissenschaft ''Custom Publishing'', 2011)
+
+{{Pipeline Systems of Russia}}
+
+[[Category:Pipelines under the Baltic Sea]]
+[[Category:Germany–Russia relations]]
+[[Category:Natural gas pipelines in Germany]]
+[[Category:Natural gas pipelines in Russia]]
+[[Category:Natural gas pipelines in Finland]]
+[[Category:Natural gas pipelines in Sweden]]
+[[Category:Natural gas pipelines in Denmark]]
+[[Category:Gazprom pipelines]]
+[[Category:Engie]]
+[[Category:Uniper]]
+[[Category:Energy infrastructure completed in 2011]]

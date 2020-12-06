@@ -1,0 +1,971 @@
+{{short description|American semiconductor chip manufacturer}}
+{{about|the company|the information gathering term|Intelligence assessment|other uses|Intel (disambiguation)}}
+{{pp-vandalism|small=yes}}
+{{Use American English|date=April 2015}}
+{{Use mdy dates|date=February 2015}}
+{{Coord|37|23|16|N|121|57|49|W|type:landmark|display=title }}
+{{Infobox company
+| name = Intel Corporation
+| logo = Intel-Logo.svg
+| logo_size = 165px
+| logo_caption = Logo since September 2, 2020
+| image = 2200missioncollegeblvd.jpg
+| image_size = 250px
+| image_caption = Headquarters at Santa Clara in 2017
+| type = [[Public company|Public]]
+| traded_as = {{unbulleted list|{{NASDAQ|INTC}}|[[NASDAQ-100|NASDAQ-100 Component]]|[[Dow Jones Industrial Average|DJIA Component]]|[[S&P 100|S&P 100 Component]]|[[S&P 500|S&P 500 Component]]}}
+| founders = [[Gordon Moore]]<br />[[Robert Noyce]]
+| hq_location_city = [[Santa Clara, California|Santa Clara]], [[California]]
+| hq_location_country = U.S.
+| area_served = Worldwide
+| key_people = [[Gordon Moore]]<br />{{small|(Chairman Emeritus)}}<br />[[Omar Ishrak]]<br />{{small|(Chairman)}}<br />[[Bob Swan]]<br />{{small|(CEO)}}<br />[[Ajay Bhatt]]<br />{{small|(Chief Client Platform Architect)}}
+| industry = [[Semiconductor industry|Semiconductors]]
+| products = [[Central processing unit]]s<br />[[Microprocessor]]s<br />[[Integrated graphics|Integrated graphics processing units (iGPU)]]<br />[[System on a chip|Systems-on-chip (SoCs)]]<br />[[Motherboard]] [[chipset]]s<br />[[Network interface controller]]s<br />[[Modem]]s<br />[[Mobile phones]]<br />[[Solid state drive]]s <br />[[Wi-Fi]] and [[Bluetooth]] [[Chipset]]s<br />[[Flash memory]]<br />[[autonomous vehicles|Vehicle automation]] Sensors
+| revenue = {{Increase}} {{USD|71.9 billion|link=yes}} (2019)<ref name='xbrlus_1'>{{cite web |url=https://s21.q4cdn.com/600692695/files/doc_financials/2019/q4/a11c87c5-ac7e-4b80-b2f4-f13d59784af8.pdf|title=Intel Corporation 2019 Annual Report Form (10-K) |publisher=United States Securities and Exchange Commission |website=EDGAR |date=February 27, 2019 |access-date=February 3, 2019}}</ref>
+| operating_income = {{Increase}} {{USD|22.0 billion}} (2019)<ref name='xbrlus_1'/>
+| net_income = {{Increase}} {{USD|21.0 billion}} (2019)<ref name='xbrlus_1'/>
+| assets = {{Increase}} {{USD|136.5 billion}} (2019)<ref name='xbrlus_1'/>
+| equity = {{Increase}} {{USD|77.5 billion}} (2019)<ref name='xbrlus_1'/>
+| num_employees = 110,800 (2020)<ref>{{cite web|url=https://s21.q4cdn.com/600692695/files/doc_financials/2020/q2/Q2-2020_Earnings-Release.pdf}}</ref>
+| subsid = {{Plainlist|
+* [[Mobileye]]
+* [[Here (company)|Here]] (15%)<ref>{{cite web|url=https://fintel.io/doc/sec-intc-intel-intel-corp-ex21-1-2019-february-01-18371-349|title=INTC / Intel Corp. - EX-21.1 - Intel Corporation Subsidiaries - February 01, 2019|date=February 1, 2019|access-date=May 12, 2020}}</ref>
+}}
+| founded = {{start date and age|1968|7|18}}
+| former_name = N M Electronics (1968)
+| website = {{url|intel.com}}
+}}
+
+'''Intel Corporation''' is an American [[multinational corporation]] and [[technology company]] headquartered in [[Santa Clara, California|Santa Clara]], [[California]], in [[Silicon Valley]]. It is the world's largest and highest-valued [[semiconductor chip]] manufacturer on the basis of revenue,<ref>{{cite news|last1=Vanian|first1=Jonathan|title=Samsung Dethrones Intel As World's Biggest Chip Maker|url=http://fortune.com/2017/07/27/samsung-intel-chip-semiconductor/|work=Fortune}}</ref><ref>{{cite web |url=http://media.corporate-ir.net/media_files/irol/10/101302/2007annualReport/common/pdfs/intel_2007ar.pdf |title=Intel 2007 Annual Report |publisher=Intel |year=2007 |access-date=July 6, 2011}}</ref> and is the developer of the [[x86]] series of [[microprocessor]]s, the processors found in most personal computers (PCs). Intel ranked No. 46 in the 2018 [[Fortune 500|''Fortune'' 500]] list of the largest United States corporations by total revenue.<ref>{{Cite web|url=http://fortune.com/fortune500/list/|title=Fortune 500 Companies 2018: Who Made the List|website=Fortune|language=en-US|access-date=2018-11-10}}</ref> Intel is incorporated in Delaware.<ref>{{cite web | website=10-K | url = https://www.sec.gov/Archives/edgar/data/50863/5086319000007/0000050863-19-000007-index.htm | title = 10-K | access-date = 1 June 2019 | ref = {{harvid|10-K|2018}}}}</ref>
+
+Intel supplies microprocessors for [[List of computer system manufacturers|computer system manufacturers]] such as [[Apple Inc.|Apple]], [[Lenovo]], [[HP Inc.|HP]], and [[Dell Technologies|Dell]]. Intel also manufactures [[motherboard]] [[chipset]]s, [[network interface controller]]s and [[integrated circuit]]s, [[flash memory]], [[Graphics processing unit|graphics chips]], [[Embedded system|embedded processors]] and other devices related to communications and computing.
+
+Intel Corporation was founded on July 18, 1968 by semiconductor pioneers [[Robert Noyce]] and [[Gordon Moore]] (of [[Moore's law]]), and is associated with the executive leadership and vision of [[Andrew Grove]]. The company's name was conceived as [[portmanteau]] of the words ''int''egrated and ''el''ectronics, with co-founder Noyce having been a key inventor of the [[Integrated circuit#Invention|integrated circuit]] (the microchip). The fact that "intel" is the term for intelligence information also made the name appropriate.<ref name=Inquirer>{{cite web |url=http://www.theinquirer.net/inquirer/news/1031210/secret-intel-revealed|title=Secret of Intel's name revealed|publisher=The Inquirer |year=2007 |access-date=June 11, 2012}}</ref> Intel was an early developer of [[Static random-access memory|SRAM]] and [[Dynamic random-access memory|DRAM]] memory chips, which represented the majority of its business until 1981. Although Intel created the world's first commercial microprocessor chip in 1971, it was not until the success of the [[personal computer]] (PC) that this became its primary business.
+
+During the 1990s, Intel invested heavily in new microprocessor designs fostering the rapid growth of the [[computer industry]]. During this period, Intel became the [[Market dominance|dominant]] supplier of microprocessors for PCs and was known for aggressive and anti-competitive tactics in defense of its market position, particularly against [[Advanced Micro Devices]] (AMD), as well as a struggle with [[Microsoft]] for control over the direction of the PC industry.<ref name='CNET September 23, 1998'>{{cite web|first=Dan |last=Goodin |title=Microsoft's holy war on Java |date=September 23, 1998 |website=CNET |url=http://news.cnet.com/2009-1001-215854.html |access-date=November 18, 2018 |archive-url=https://web.archive.org/web/20130116214907/http://news.cnet.com/2009-1001-215854.html |archive-date=January 16, 2013 |url-status=dead }}</ref><ref name='BBC December 14, 1998'>{{Cite news |author-last=Lea |author-first=Graham |author-link=Graham Lea (journalist) |title=USA versus Microsoft: the fourth week |date=December 14, 1998 |url=http://news.bbc.co.uk/1/hi/special_report/1998/04/98/microsoft/215645.stm |work=BBC News |access-date=January 7, 2008 }}</ref>
+
+The Open Source Technology Center at Intel hosts [[PowerTOP]] and [[LatencyTOP]], and supports other open-source projects such as [[Wayland (display server protocol)|Wayland]], [[Mesa3D]], [[Threading Building Blocks]] (TBB), and [[Xen]].<ref>{{cite web|url=https://01.org/about/what-01.org|title=What is 01.org? - 01.org|work=01.org|date=July 13, 2012}}</ref>
+{{TOC limit|3}}
+
+==Current operations==
+{{update|section|date=June 2019}}
+
+===Operating segments===
+* '''Client Computing Group'''{{snd}} 55% of 2016 revenues{{snd}} produces hardware components used in desktop and notebook computers.<ref name="10K">{{cite web|url=https://www.sec.gov/Archives/edgar/data/50863/000005086318000007/a12302017q4-10kdocument.htm|title=Document|website=www.sec.gov}}</ref>
+* '''Data Center Group'''{{snd}} 29% of 2016 revenues{{snd}} produces hardware components used in server, network, and storage platforms.<ref name=10K/>
+* '''Internet of Things Group'''{{snd}} 5% of 2016 revenues{{snd}} offers platforms designed for retail, transportation, industrial, buildings and home use.<ref name=10K/>
+* '''Non-Volatile Memory Solutions Group'''{{snd}} 4% of 2016 revenues{{snd}} manufactures [[NAND flash memory]] and [[3D XPoint]], branded as [[Optane]], products primarily used in [[solid-state drive]]s.<ref name=10K/>
+* '''Intel Security Group'''{{snd}} 4% of 2016 revenues{{snd}} produces software, particularly security, and [[antivirus]] software.<ref name=10K/>
+* '''Programmable Solutions Group'''{{snd}} 3% of 2016 revenues{{snd}} manufactures programmable semiconductors (primarily [[FPGA]]s).<ref name=10K/>
+
+===Top customers===
+In 2017, [[Dell]] accounted for about 16% of Intel's total revenues, [[Lenovo]] accounted for 13% of total revenues, and [[HP Inc.]] accounted for 11% of total revenues.<ref name=10K/>
+
+===Market share===
+====Market share in early 2011====
+According to [[International Data Corporation|IDC]], while Intel enjoyed the biggest market share in both the overall worldwide PC microprocessor market (73.3%) and the mobile PC microprocessor (80.4%) in the second quarter of 2011, the numbers decreased by 1.5% and 1.9% compared to the first quarter of 2011.<ref>Dylan McGrath, EE Times. "[http://www.eetimes.com/electronics-news/4218438/IDC-cuts-PC-microprocessor-forecast IDC cuts PC microprocessor forecast]." August 2, 2011. Retrieved August 2, 2011.</ref><ref>Agam Shah, IDG News. "[http://www.pcworld.com/article/237068/idc_reduces_yearly_processor_shipment_growth_forecast.html IDC Reduces Yearly Processor Shipment Growth Forecast]." August 1, 2011. Retrieved August 2, 2011.</ref>
+
+==== Current status ====
+Intel's market share decreased significantly in the enthusiast market as of 2019,<ref>{{Cite web|url=https://www.gamersnexus.net/guides/3542-gn-special-report-intel-vs-amd-sales-volume|title=GN Special Report: Intel vs. AMD Volume - AMD Moves 93% of CPU Sales to GN Readers|last=Burke|first=Steve|website=www.gamersnexus.net|access-date=2019-12-14}}</ref> and they have faced delays for their 10&nbsp;nm products. According to Intel CEO Bob Swan, the delay was caused by the company's overly aggressive strategy for moving to its next node.<ref>{{Cite web|url=https://www.extremetech.com/computing/295159-intel-acknowledges-its-long-10nm-delay-caused-by-being-too-aggressive|title=Intel Acknowledges It Was 'Too Aggressive' With Its 10nm Plans - ExtremeTech|website=www.extremetech.com|access-date=2019-12-14}}</ref>
+
+====Historical market share====
+In the 1980s Intel was among the top ten sellers of [[semiconductors]] (10th in 1987) in the world. In 1992,<ref>{{cite web|last1=Intel|title=Intel Timeline: A History of Innovation|url=https://www.intel.com/content/www/us/en/history/historic-timeline.html|website=Intel|access-date=7 July 2017}}</ref> Intel became the biggest chip maker by revenue and held the position until 2018 when it was surpassed by Samsung, but Intel returned to its former position the year after.<ref>https://www.zdnet.com/article/intel-retook-semiconductor-top-spot-from-samsung-in-2019/</ref> Other top semiconductor companies include [[TSMC]], [[Advanced Micro Devices]], [[Samsung]], [[Texas Instruments]], [[Toshiba]] and [[STMicroelectronics]].
+
+====Major competitors====
+Intel's competitors in PC chipsets include [[Advanced Micro Devices]] (AMD), [[VIA Technologies]], [[Silicon Integrated Systems]], and [[Nvidia]]. Intel's competitors in networking include [[NXP Semiconductors]], [[Infineon]], [[Broadcom Limited]], [[Marvell Technology Group]] and [[Applied Micro Circuits Corporation]], and competitors in flash memory include [[Spansion]], [[Samsung Electronics]], [[Qimonda]], [[Toshiba]], [[STMicroelectronics]], and [[SK Hynix]].
+
+The only major competitor in the [[x86]] processor market is AMD, with which Intel has had full cross-licensing agreements since 1976: each partner can use the other's patented technological innovations without charge after a certain time.<ref name='Intel-AMD deal 2001'>{{Cite news | first=Ian | last=Fried |title=Intel, AMD sign new licensing deal| url=https://www.cnet.com/news/intel-amd-sign-new-licensing-deal/ | publisher=[[CNet]] |access-date=July 28, 2007 | date=April 4, 2001}}</ref> However, the cross-licensing agreement is canceled in the event of an AMD bankruptcy or takeover.<ref name='Patent Cross License Agreement'>{{Cite news|title=Patent Cross License Agreement – Advanced Micro Devices Inc. and Intel Corp. |publisher=Findlaws, Inc |url=http://contracts.corporate.findlaw.com/agreements/amd/intel.license.2001.01.01.html |access-date=September 15, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070621084244/http://contracts.corporate.findlaw.com/agreements/amd/intel.license.2001.01.01.html |archive-date=June 21, 2007 }}</ref>
+
+Some smaller competitors such as VIA Technologies produce [[low-power electronics|low-power]] x86 processors for small factor computers and portable equipment. However, the advent of such mobile computing devices, in particular, [[smartphone]]s, has in recent years led to a decline in PC sales.<ref>{{cite news|last=Lohr|first=Steve|title=Intel's Profit Falls 25% With Decline in Chip Sales|url=https://www.nytimes.com/2013/04/17/technology/intel-profits-fall-as-pc-slump-cuts-demand-for-chips.html|work=[[The New York Times]]|access-date=April 17, 2013|date=April 16, 2013}}</ref> Since over 95% of the world's smartphones currently use processors designed by [[ARM Holdings]], ARM has become a major competitor for Intel's processor market. ARM is also planning to make inroads into the PC and server market.<ref>{{cite web|last=Morgan|first=Timothy|title=Why Are We Still Waiting For ARM Servers?|url=http://www.nextplatform.com/2015/10/06/why-are-we-still-waiting-for-arm-servers/|date=October 6, 2015}}</ref>
+
+Intel has been involved in several disputes regarding violation of [[antitrust laws]], which are noted below.
+
+==Corporate history==
+{{Further|Timeline of Intel}}
+
+===Origins===
+[[File:Andy Grove Robert Noyce Gordon Moore 1978 edit.jpg|thumb|upright|[[Andy Grove]], [[Robert Noyce]] and [[Gordon Moore]] in 1978]]
+[[File:Intel Logo.svg|thumb|upright=0.5|Logo used from 1968 to 2006]]
+
+Intel was founded in [[Mountain View, California]], in 1968 by [[Gordon E. Moore]] (known for "[[Moore's law]]"), a [[chemist]], and [[Robert Noyce]], a physicist and co-inventor of the [[integrated circuit]]. [[Arthur Rock]] (investor and [[venture capital]]ist) helped them find investors, while [[Max Palevsky]] was on the board from an early stage.<ref>{{cite news|author=David B. Green|title=This day in Jewish history / Intel co-founder and self-described Luddite is born|url=http://www.haaretz.com/news/features/this-day-in-jewish-history/1.537643|access-date=September 5, 2013|newspaper=[[Haaretz]]|date=July 24, 2013}}</ref> Moore and Noyce had left [[Fairchild Semiconductor]] to found Intel. Rock was not an employee, but he was an investor and was [[chairman|chairman of the board]].<ref name="Intel_Museum">{{cite web |url=http://www.intel.com/content/www/us/en/history/historic-timeline.html |archive-url=https://web.archive.org/web/20130103012023/http://www.intel.com/content/www/us/en/history/historic-timeline.html |archive-date=January 3, 2013 |title=Intel Online Museum: Corporate Timeline (Archived version) |work=Intel Museum |publisher=Intel|access-date=July 23, 2011}}</ref><ref>{{cite web |url=http://silicongenesis.stanford.edu/transcripts/rock.htm |title=Silicon Genesis: Arthur Rock |publisher=[[Stanford University]] |access-date=July 23, 2011 |archive-url=https://www.webcitation.org/68CuU86Xc?url=http://silicongenesis.stanford.edu/transcripts/rock.htm |archive-date=June 6, 2012 |url-status=dead }}</ref> The total initial investment in Intel was $2.5 million in convertible debentures (equivalent to ${{Inflation|US|2.5|1968|r=1}}&nbsp;million in {{Inflation/year|US}}) and $10,000 from Rock. Just 2 years later, Intel became a [[public company]] via an [[initial public offering]] (IPO), raising $6.8 million ($23.50 per share).<ref name="Intel_Museum" /> Intel's third employee was [[Andrew Grove|Andy Grove]],<ref>The [[Andrew Grove]] article explains how a clerical error exchanged the employee ID numbers of Grove and the fourth employee, [[Leslie L. Vadász]], whom Grove had hired.</ref> a [[chemical engineer]], who later ran the company through much of the 1980s and the high-growth 1990s.
+
+In deciding on a name, Moore and Noyce quickly rejected "Moore Noyce",<ref>{{cite web|url= http://download.intel.com/pressroom/kits/events/idffall_2007/TranscriptMoore-Gelsinger.pdf |title=IDF Transcript: Interview with Gordon Moore |publisher=Intel Corporation |date=August 18, 2007 |access-date=July 29, 2009}}</ref> near [[wikt:homophone|homophone]] for "more noise"&nbsp;– an ill-suited name for an [[electronics]] company, since [[electronic noise|noise in electronics]] is usually undesirable and typically associated with bad [[electromagnetic interference|interference]]. Instead, they founded the company as '''N M Electronics''' on July 18, 1968, but by the end of the month had changed the name to '''Intel''' which stood for '''Int'''egrated '''El'''ectronics.{{Refn|group=note|The first name was actually picked up as temporary.<ref>{{cite web|title=Intel Timeline: A History of Innovation|url=http://www.intel.com/content/www/us/en/history/historic-timeline.html|publisher=Intel Corp.}}</ref><ref>{{cite web|title=Intel Celebrates 30 Years of Innovation|url=http://www.intel.com/pressroom/archive/releases/1998/CN071898.HTM|publisher=Intel Corp.|date=July 18, 1998}}</ref><ref>{{cite web|title=Defining Intel: 25 years / 25 events|url=http://www.intel.com/Assets/PDF/General/25yrs.pdf|publisher=Intel Corp.|pages=5}}</ref><ref>{{cite news|title=Two Found New Firm|work=San Jose Mercury News|date=August 6, 1968|quote=Founders of Intel Corp. are Drs. Robert W. Noyce and Gordon Moore.}}</ref><ref>{{Cite web|url=https://newsroom.intel.com/news/intel-50-gordon-moore-founding-intel/|title=Intel at 50: Gordon Moore on the Founding of Intel|website=Intel Newsroom|language=en-US|access-date=2019-05-30}}</ref>}} Since "Intel" was already trademarked by the hotel chain Intelco, they had to buy the rights for the name.<ref name="Intel_Museum" /><ref>{{cite web |last=Valich |first=Theo |date=September 19, 2007 |title=Secret of Intel name revealed |url=http://www.theinquirer.net/default.aspx?article=42469 |archive-url=https://archive.today/20120629001528/http://www.theinquirer.net/default.aspx?article=42469 |url-status=dead |archive-date=June 29, 2012 |work=[[The Inquirer]] |access-date=September 19, 2007 }}</ref>
+
+===Early history===
+At its founding, Intel was distinguished by its ability to make [[logic circuit]]s using [[semiconductor device]]s. The founders' goal was the [[semiconductor memory]] market, widely predicted to replace [[magnetic-core memory]]. Its first product, a quick entry into the small, high-speed memory market in 1969, was the 3101 [[Schottky transistor|Schottky TTL]] [[bipolar junction transistor|bipolar]] 64-bit [[static random-access memory]] (SRAM), which was nearly twice as fast as earlier Schottky diode implementations by Fairchild and the Electrotechnical Laboratory in [[Tsukuba, Ibaraki|Tsukuba, Japan]].<ref>[http://www.computerhistory.org/semiconductor/timeline/1969-Schottky.html 1969&nbsp;– Schottky-Barrier Diode Doubles the Speed of TTL Memory & Logic] Computer History Museum. Retrieved September 23, 2011.</ref><ref>[https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B9rh9tVI0J5mZWJjZTRlN2MtOTJiMy00YmRmLWE0MjMtODI1ZDQ5MTU2YTFl&hl=en Schottky Bipolar 3101, 3101A RAMs] Google Docs.</ref> In the same year, Intel also produced the 3301 Schottky bipolar 1024-bit [[read-only memory]] (ROM)<ref>[https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B9rh9tVI0J5mYWM3MGM1NWItYjI2YS00MGU0LWFiOGYtZjczZDdjY2IxNGJl&hl=en Schottky Bipolar 3301A ROM] Google Docs.</ref> and the first commercial [[MOSFET|metal–oxide–semiconductor field-effect transistor]] (MOSFET) [[silicon gate]] SRAM chip, the 256-bit 1101.<ref name="Intel_Museum" /><ref name='Intel-Product-Timeline'>{{cite web|url=http://download.intel.com/museum/research/arc_collect/timeline/TimelineDateSort7_05.pdf |title=A chronological list of Intel products. The products are sorted by date. |access-date=July 31, 2007 |date=July 2005 |work=Intel museum |publisher=Intel Corporation |archive-url = https://web.archive.org/web/20070809053720/http://download.intel.com/museum/research/arc_collect/timeline/TimelineDateSort7_05.pdf |archive-date = August 9, 2007}}</ref><!-- I am not sure if this reference if formatted correctly with only the archive URL still operating.--><ref>[https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B9rh9tVI0J5mYjBjNmY1YTktY2U2OS00MDNiLWI1YTAtZjhhOWE1NjQyN2Zk&hl=en Silicon Gate MOS 1101A RAM] Google Docs.</ref> While the 1101 was a significant advance, its complex static [[Memory cell (computing)|cell structure]] made it too slow and costly for [[mainframe computer|mainframe]] memories. The three-[[transistor]] cell implemented in the first commercially available [[dynamic random-access memory]] (DRAM), the [[Intel 1103|1103]] released in 1970, solved these issues. The 1103 was the bestselling semiconductor memory chip in the world by 1972, as it replaced core memory in many applications.<ref>{{cite magazine |last=Sideris |first=George |title=The Intel 1103: The MOS memory that defied cores |magazine=Electronics |pages=108–113 |date=April 26, 1973}}</ref><ref name=Bellis>{{cite web|url=https://www.thoughtco.com/who-invented-the-intel-1103-dram-chip-4078677|title=Who Invented the Intel 1103 DRAM Chip|author=Mary Bellis|date=August 25, 2016|publisher=[[ThoughtCo]]}}</ref> Intel's business grew during the 1970s as it expanded and improved its manufacturing processes and produced a wider range of [[Product (business)|products]], still dominated by various memory devices.
+
+[[File:Federico Faggin (cropped).jpg|thumb|upright|[[Federico Faggin]], designer of the [[Intel 4004]] ]]
+
+Intel created the [[Intel 4004|first commercially available microprocessor (Intel 4004)]] in 1971.<ref name="Intel_Museum" /> The microprocessor represented a notable advance in the technology of integrated circuitry, as it miniaturized the central processing unit of a computer, which then made it possible for small machines to perform calculations that in the past only very large machines could do. Considerable technological innovation was needed before the microprocessor could actually become the basis of what was first known as a "mini computer" and then known as a "personal computer".<ref>''The Unfinished Nation'', Volume 2, Brinkley, p. 786.</ref> Intel also created one of the first [[microcomputer]]s in 1973.<ref name='Intel-Product-Timeline' /><ref name='Intellec-1973'>{{cite web |url=http://www.old-computers.com/MUSEUM/computer.asp?c=754&st=1 |title=Intel Intellec Series |access-date=July 31, 2007 |last=Silberhorn |first=Gottfried |author2=Colin Douglas Howell |work=old-computers.com |publisher=OLD-COMPUTERS.COM |archive-url=https://web.archive.org/web/20100727141838/http://www.old-computers.com/MUSEUM/computer.asp?c=754&st=1 |archive-date=July 27, 2010 |url-status=dead |df=mdy-all }}</ref> Intel opened its first international manufacturing facility in 1972, in [[Malaysia]], which would host multiple Intel operations, before opening assembly facilities and semiconductor plants in [[Singapore]] and [[Jerusalem]] in the early 1980s, and manufacturing and development centres in China, India and Costa Rica in the 1990s.<ref>{{cite web |title=Intel: 35 Years of Innovation (1968–2003) |url=https://www.intel.com/Assets/PDF/General/35yrs.pdf |publisher=Intel |year=2003 |access-date=26 June 2019}}</ref> By the early 1980s, its business was dominated by [[dynamic random-access memory]] (DRAM) chips. However, increased competition from Japanese semiconductor manufacturers had, by 1983, dramatically reduced the profitability of this market. The growing success of the [[IBM]] personal computer, based on an Intel microprocessor, was among factors that convinced Gordon Moore (CEO since 1975) to shift the company's focus to microprocessors and to change fundamental aspects of that business model. Moore's decision to sole-source Intel's 386 chip played into the company's continuing success.
+
+By the end of the 1980s, buoyed by its fortuitous position as microprocessor supplier to IBM and IBM's competitors within the rapidly growing [[IBM PC compatible|personal computer market]], Intel embarked on a 10-year period of unprecedented growth as the primary (and most profitable) hardware supplier to the PC industry, part of the winning 'Wintel' combination. Moore handed over to Andy Grove in 1987. By launching its Intel Inside [[marketing campaign]] in 1991, Intel was able to associate [[brand loyalty]] with consumer selection, so that by the end of the 1990s, its line of [[Pentium]] processors had become a household name.
+
+===Slowing demand and challenges to dominance in 2000===
+After 2000, growth in demand for high-end microprocessors slowed. Competitors, notably [[Advanced Micro Devices|AMD]] (Intel's largest competitor in its primary [[x86|x86 architecture]] market), garnered significant market share, initially in low-end and mid-range processors but ultimately across the product range, and Intel's dominant position in its core market was greatly reduced,<ref name="Wong">{{Cite news|url=http://community.seattletimes.nwsource.com/archive/?date=20060731&slug=btintelchip31|title=Intel Core 2 Duo a big leap in chip race|last=Wong|first=Nicole|date=July 31, 2006|work=Seattle Times|access-date=October 15, 2009}}</ref> mostly due to controversial [[NetBurst (microarchitecture)|NetBurst]] microarchitecture. In the early 2000s then-CEO, [[Craig Barrett (businessman)|Craig Barrett]] attempted to diversify the company's business beyond semiconductors, but few of these activities were ultimately successful.
+
+===Litigation===
+Intel had also for a number of years been embroiled in litigation. US law did not initially recognize [[intellectual property rights]] related to microprocessor [[topology (electrical circuits)|topology]] (circuit layouts), until the [[Semiconductor Chip Protection Act of 1984]], a law sought by Intel and the Semiconductor Industry Association (SIA).<ref>The Senate Report on the bill (S.Rep. No. 425, 98th Cong., 2d Sess. (1984)) stated: "In the semiconductor industry, innovation is indispensable; research breakthroughs are essential to the life and health of the industry. But research and innovation in the design of semiconductor chips are threatened by the inadequacies of existing legal protection against piracy and unauthorized copying. This problem, which is so critical to this essential sector of the American economy, is addressed by the Semiconductor Chip Protection Act of 1984. ...[The bill] would prohibit "chip piracy"--the unauthorized copying and distribution of semiconductor chip products copied from the original creators of such works." Quoted in [http://cases.justia.com/us-court-of-appeals/F2/977/1555/304802/ Brooktree Corp. v. Advanced Micro Devices, Inc.], 977 F.2d 1555, 17 (Fed. Cir. 1992). See also ''Brooktree'', 21–22 (copyright and patent law ineffective).</ref> During the late 1980s and 1990s (after this law was passed), Intel also sued companies that tried to develop competitor chips to the [[Intel 80386|80386]] [[CPU]].<ref name="ReferenceA">"Bill Gates Speaks", page 29. {{ISBN|978-0-471-40169-8}}</ref> The lawsuits were noted to significantly burden the competition with legal bills, even if Intel lost the suits.<ref name="ReferenceA" /> [[Antitrust]] allegations had been simmering since the early 1990s and had been the cause of one [[lawsuit]] against Intel in 1991. In 2004 and 2005, AMD brought [[Intel Corp. v. Advanced Micro Devices, Inc.|further claims]] against Intel related to [[unfair competition]].
+
+===Regaining of momentum (2005–2007)===
+In 2005, CEO [[Paul Otellini]] reorganized the company to refocus its core processor and chipset business on platforms (enterprise, digital home, digital health, and mobility).
+
+[[File:Intel-logo.svg|thumb|upright|Logo used from January 3, 2006<ref>{{cite news|date=January 3, 2006|title=Intel Unveils New Brand Identity|url=https://www.intel.com/pressroom/archive/releases/2006/20060103corp.htm|work=Intel Corporation|access-date=September 4, 2020}}</ref><ref>{{cite news|last=Nystedt|first=Dan|date=December 30, 2005|title='Intel Inside' out as company launches a new slogan|url=https://www.computerworld.com/article/2561179/-intel-inside--out-as-company-launches-a-new-slogan.html|work=[[Computerworld]]|access-date=September 4, 2020}}</ref> to September 2, 2020<ref>{{cite news|last=Walker|first=Karen|date=September 2, 2020|title=Sparking the Next Era for the Intel Brand|url=https://newsroom.intel.com/editorials/intel-brand-karen-walker/|work=Intel Newsroom|access-date=September 4, 2020}}</ref>]]
+In 2006, Intel unveiled its [[Core (microarchitecture)|Core microarchitecture]] to widespread critical acclaim;<ref>{{Cite news|url=http://news.zdnet.com/2100-9584_22-148811.html |title=Intel's Core 2 Duo lives up to hype |last=Krazit |first=Tom |date=July 14, 2006 |publisher=[[ZDNet]] News |access-date=October 15, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090430140419/http://news.zdnet.com/2100-9584_22-148811.html |archive-date=April 30, 2009 }}&nbsp;– citing [[CNET]], [[Anandtech]], Sharky's Extreme and [[PC Mag]] as publishing similar conclusions.</ref> the product range was perceived as an exceptional leap in processor performance that at a stroke regained much of its leadership of the field.<ref>{{Cite news|url=http://www.hexus.net/content/item.php?item=6184|title=Intel Core 2 Duo/Extreme processor review|last= Sandhu|first=Tarinder|date=July 14, 2006|publisher=Hexus technology news & reviews|access-date=October 15, 2009}}</ref><ref>{{Cite news|url=https://www.theguardian.com/technology/2006/jul/27/comment.insideit|title=Intel raises the bar as AMD drops prices in chip battle|last=Schofield|first=Jack|date=July 27, 2006|work=The Guardian  |location=UK |access-date=October 15, 2009 }}</ref> In 2008, Intel had another "tick" when it introduced the Penryn microarchitecture, which was 45&nbsp;nm. Later that year, Intel released a processor with the [[Nehalem (microarchitecture)|Nehalem]] architecture. Nehalem had positive reviews.<ref>{{cite web|last=Nelson|first=Carl|title=Intel Core i7 "Nehalem" CPU Review|url=http://www.hardcoreware.net/reviews/review-372-11.htm|work=www.hardcoreware.net|access-date=December 9, 2013|url-status=dead|archive-url=https://web.archive.org/web/20131218162625/http://www.hardcoreware.net/reviews/review-372-11.htm|archive-date=December 18, 2013|df=mdy-all}}</ref>
+
+===Sale of XScale processor business (2006)===
+On June 27, 2006, the sale of Intel's [[XScale]] assets was announced. Intel agreed to sell the XScale processor business to [[Marvell Technology Group]] for an estimated $600&nbsp;million and the assumption of unspecified liabilities. The move was intended to permit Intel to focus its resources on its core x86 and server businesses, and the [[Mergers and acquisitions|acquisition]] completed on November 9, 2006.<ref name='XScale'>{{Cite news |title=Marvell buys Intel's handheld processor unit for $600&nbsp;million |date=June 27, 2006 |publisher=CMP Media LLC. |url=http://www.eetimes.com/news/latest/showArticle.jhtml?articleID=189601851 |work=eetimes.com |access-date=July 12, 2007 |archive-url=https://web.archive.org/web/20070929101919/http://www.eetimes.com/news/latest/showArticle.jhtml?articleID=189601851 |archive-date=September 29, 2007 |url-status=dead }}</ref>
+
+===Acquisitions and investments (2010–present)===
+In 2010, Intel purchased [[McAfee]], a manufacturer of computer security technology, for $7.68&nbsp;billion.<ref>{{cite news|title=Intel in $7.68bn McAfee takeover|url=https://www.bbc.co.uk/news/business-11025866|work=BBC News  |access-date=August 19, 2010|date=August 19, 2010}}</ref> As a condition for regulatory approval of the transaction, Intel agreed to provide rival security firms with all necessary information that would allow their products to use Intel's chips and personal computers.<ref>{{cite web|title=Intel wins conditional approval from EU for McAfee acquisition of $ 7.68&nbsp;billion|url=http://techshrimp.com/2011/01/26/intel-wins-conditional-approval-from-eu-for-mcafee-acquisition-of-7-68-billion/|publisher=TechShrimp|access-date=January 26, 2011|date=January 26, 2011|url-status=dead|archive-url=https://web.archive.org/web/20110129221008/http://techshrimp.com/2011/01/26/intel-wins-conditional-approval-from-eu-for-mcafee-acquisition-of-7-68-billion/|archive-date=January 29, 2011|df=mdy-all}}</ref> After the acquisition, Intel had about 90,000 employees, including about 12,000 software engineers.<ref name="wsj2011">[https://www.wsj.com/articles/SB10001424052748703808704576062073117494078 "Microsoft Alliance With Intel Shows Age"], January 4, 2011 ''[[Wall Street Journal]]'' article</ref> In September 2016, Intel sold a majority stake in its computer-security unit to [[TPG Capital]], reversing the five-year-old McAfee acquisition.<ref>By Dana Mattioli, Matt Jarzemsky and Don Clark, The Wall Street Journal. “[https://www.wsj.com/articles/intel-nears-deal-to-sell-mcafee-security-unit-to-tpg-1473277803 Intel Agrees to Sell Majority Stake in Security Unit to TPG].” September 7, 2016. Retrieved September 9, 2016.</ref>
+
+In August 2010, Intel and [[Infineon Technologies]] announced that Intel would acquire Infineon's Wireless Solutions business.<ref>[http://www.zdnet.co.uk/news/mobile-devices/2010/08/31/intel-buys-infineons-wireless-wing-for-4g-lift-off-40089960/ Intel buys Infineon's wireless wing for 4G lift-off], a August 31, 2010, ZDNet</ref> Intel planned to use Infineon's technology in laptops, smart phones, netbooks, tablets and embedded computers in consumer products, eventually integrating its wireless modem into Intel's silicon chips.<ref>[http://www.institutionalinvestor.com/Article.aspx?ArticleID=2726870 Intel CFO Talks About Acquisition Strategy], ''Institutional Investor''</ref>
+
+In March 2011, Intel bought most of the assets of Cairo-based SySDSoft.<ref>Dean Takahashi, VentureBeat. "[https://venturebeat.com/2011/03/14/intel-buys-4g-lte-sysdsoft-in-egypt/ Intel buys 4G wireless software firm SySDSoft]." March 14, 2011. Retrieved March 17, 2011.</ref>
+
+In July 2011, Intel announced that it had agreed to acquire Fulcrum Microsystems Inc., a company specializing in network switches.<ref name=EETimes>Dylan McGrath, EE Times. "[http://eetimes.com/electronics-news/4217982/Fulcrum-buy-could-signal-shift-for-Intel- Fulcrum buy could signal shift for Intel]." July 19, 2011. Retrieved July 20, 2011.</ref> The company used to be included on the EE Times list of 60 Emerging Startups.<ref name=EETimes/>
+
+In October 2011, Intel reached a deal to acquire [[Telmap]], an Israeli-based navigation software company. The purchase price was not disclosed, but Israeli media reported values around $300 million to $350 million.<ref>[https://www.nytimes.com/2011/10/03/technology/intel-reaches-deal-to-acquire-navigation-software-maker.html?ref=business]. The New York Times. Retrieved October 2, 2011.</ref>
+
+In July 2012, Intel agreed to buy 10% of the shares of [[ASML Holding]] NV for $2.1 billion and another $1 billion for 5% of the shares that need shareholder approval to fund relevant research and development efforts, as part of a EUR3.3 billion ($4.1 billion) deal to accelerate the development of 450-millimeter wafer technology and extreme ultra-violet lithography by as much as two years.<ref>{{cite news |url=https://www.bloomberg.com/news/2012-07-09/intel-agrees-to-buy-10-stake-in-asml-for-about-2-1-billion.html |title=Intel Investing $4.1 Billion in ASML to Speed Production |date=July 11, 2012 | work=Bloomberg |first=Ian |last=King}}</ref>
+
+In July 2013, Intel confirmed the acquisition of [[Omek Interactive]], an Israeli company that makes technology for gesture-based interfaces, without disclosing the monetary value of the deal. An official statement from Intel read: "The acquisition of Omek Interactive will help increase Intel's capabilities in the delivery of more immersive perceptual computing experiences." One report estimated the value of the acquisition between US$30 million and $50 million.<ref name="Omek">{{cite web|title=Gesture In The Picture, As Intel Picks Up Omek But PrimeSense Dismisses Apple Acquisition Rumors|url=https://techcrunch.com/2013/07/16/gesture-in-the-picture-as-intel-reportedly-picks-up-omek-but-primesense-dismisses-apple-acquisition-rumors/|work=TechCrunch|publisher=AOL Inc.|access-date=September 14, 2013|author=Ingrid Lunden|date=July 16, 2013}}</ref>
+
+The acquisition of a Spanish [[natural language recognition]] startup, Indisys was announced in September 2013. The terms of the deal were not disclosed but an email from an Intel representative stated: "Intel has acquired Indisys, a privately held company based in Seville, Spain. The majority of Indisys employees joined Intel. We signed the agreement to acquire the company on May 31 and the deal has been completed." Indysis explains that its artificial intelligence (AI) technology "is a human image, which converses fluently and with common sense in multiple languages and also works in different platforms."<ref name="Ai">{{cite web|title=Intel Has Acquired Natural Language Processing Startup Indisys, Price "North" Of $26M, To Build Its AI Muscle|url=https://techcrunch.com/2013/09/13/intel-has-acquired-natural-language-processing-startup-indisys-price-north-of-26m/?ncid=tcdaily|work=TechCrunch|publisher=AOL Inc|access-date=September 14, 2013|author=Ingrid Lunden|date=September 13, 2013}}</ref>
+
+In December 2014, Intel bought PasswordBox.<ref>{{cite news | url=https://thenextweb.com/apps/2014/12/01/intel-acquires-identity-management-service-passwordbox/ | title=Intel acquires identity management service PasswordBox | work=The Next Web | access-date=December 1, 2014}}</ref>
+
+In January 2015, Intel purchased a 30% stake in Vuzix, a smart glasses manufacturer. The deal was worth $24.8 million.<ref>{{cite web |url=https://www.theverge.com/2015/1/5/7493439/intel-buys-stake-in-google-glass-rival-vuzix |website= The Verge |title=Intel buys $25 million stake in Google Glass rival Vuzix |access-date=January 6, 2014}}</ref>
+
+In February 2015, Intel announced its agreement to purchase German network chipmaker Lantiq, to aid in its expansion of its range of chips in devices with Internet connection capability.<ref>{{cite news |url=http://uk.reuters.com/article/2015/02/02/lantiq-ma-intel-idUKL6N0VB0DP20150202 |title=Intel buys former Infineon "Internet of Things" chip unit Lantiq |work=Reuters |access-date=February 2, 2015 |date=February 2, 2015}}</ref>
+
+In June 2015, Intel announced its agreement to purchase FPGA design company [[Altera]] for $16.7 billion, in its largest acquisition to date.<ref name="Wall Street Journal">{{cite news|url = https://www.wsj.com/articles/intel-agrees-to-buy-altera-for-16-7-billion-1433162006|title = Intel Agrees to Buy Altera for $16.7 Billion|newspaper = Wall Street Journal|access-date = June 1, 2015|first1 = Don|last1 = Clark|first2 = Dana|last2 = Cimilluca|date = June 1, 2015}}{{Subscription required}}</ref> The acquisition completed in December 2015.<ref>{{Cite news|url = http://www.eweek.com/servers/intel-completes-16.7-billion-altera-deal.html|title = Intel Completes $16.7 Billion Altera Deal|last = Burt|first = Jeffrey|date = December 28, 2015|work = eWeek|access-date = December 29, 2015}}</ref>
+
+In October 2015, Intel bought [[cognitive computing]] company [[Saffron Technology]] for an undisclosed price.<ref name=saffron>{{cite magazine|magazine=[[Fortune (magazine)|Fortune]]|title=Intel buys Saffron AI because it can't afford to miss the next big thing in tech again|url=http://fortune.com/2015/10/26/intel-buys-saffron/|date=26 October 2015|access-date=28 January 2015}}</ref>
+
+In August 2016, Intel purchased deep-learning startup [[Nervana Systems]] for $350 million.<ref>{{cite news|last1=Fried|first1=Ina|title=Intel is paying at least $350 million to buy deep-learning startup Nervana Systems|url=http://www.recode.net/2016/8/9/12413600/intel-buys-nervana--350-million|access-date=9 August 2016}}</ref>
+
+In December 2016, Intel acquired computer vision startup [[Movidius]] for an undisclosed price.<ref name="movidius">{{cite web|url=https://www.wsj.com/articles/intel-to-buy-semiconductor-startup-movidius-1473170441|title=Intel to Buy Semiconductor Startup Movidius|first1=Don|last1=Clark|first2=Joshua|last2=Jamerson|date=September 6, 2016|via=www.wsj.com}}</ref>
+
+In March 2017, Intel announced that they had agreed to purchase [[Mobileye]], an Israeli developer of "autonomous driving" systems for US$15.3 billion.<ref name="BBC">{{cite news|title=Intel buys driverless car technology firm Mobileye|url=https://www.bbc.co.uk/news/business-39253422|access-date=13 March 2017|work=BBC|date=13 March 2017}}</ref>
+
+In June 2017, Intel Corporation announced an investment of over Rs.1100 crore ($170 million) for its upcoming Research and Development (R&D) centre in Bangalore.<ref>Hindu StanTimes. "[http://www.hindustantimes.com/business-news/intel-investing-rs-1-100-cr-in-india-afresh-to-generate-3000-jobs/story-SMJnOffvm2Y4vyuTSWnLTK.html Intel Corporation investing Rs 1,100 crore in India afresh]." June 14, 2017. Retrieved June 26, 2017.</ref>
+
+In January 2019, Intel announced an investment of over $11 billion on a new Israeli chip plant, as told by the Israeli Finance Minister.<ref>{{Cite news|url=https://www.reuters.com/article/us-israel-intel-idUSKCN1PM2GT|title=Intel to invest $11 billion on new Israeli chip plant: Israel...|date=2019-01-29|work=Reuters|access-date=2019-01-29|language=en}}</ref>
+
+====Acquisition table (2009–present)====
+{| class="wikitable plainrowheaders sortable"
+|+Intel acquisitions since 2009
+|-
+!scope="col"| Number
+!scope="col"| Acquisition announcement date
+!scope="col"| Company
+!scope="col"| Business
+!scope="col"| Country
+!scope="col"| Price
+!scope="col"| Used as or integrated with
+!scope="col" class="unsortable" | Ref(s).
+
+|-
+| 1
+| {{dts|2009|06|04}}
+!scope="row"| [[Wind River Systems]]
+| [[Embedded Systems]]
+| {{flag|US}}
+|data-sort-value="884000000"|$884M
+| Software
+| style="text-align:center;"|<ref>{{cite web|url=http://www.windriver.com/news/press/pr.html?ID=6921 |title=Intel to Acquire Wind River Systems for Approximately $884 Million |publisher=windriver.com |date=June 4, 2009 |access-date=December 9, 2013}}</ref>
+
+|-
+| 2
+| {{dts|2010|08|19}}
+!scope="row"| [[McAfee]]
+| [[Computer security|Security]]
+| {{flag|US}}
+|data-sort-value="7600000000"|$7.6B
+| Software
+| style="text-align:center;"|<ref>{{cite web|url=http://www.mcafee.com/us/about/intel-mcafee.aspx |title=Announcement &#124; McAfee, Inc |publisher=Mcafee.com |date=February 28, 2011 |access-date=June 14, 2013}}</ref>
+
+|-
+| 3
+| {{dts|2010|08|30}}
+!scope="row"| [[Infineon]] (partial)
+| [[Wireless]]
+| {{flag|Germany}}
+|data-sort-value="1400000000"|$1.4B
+| Mobile CPUs
+| style="text-align:center;"|<ref>{{cite news|author=Peter Ha |url=https://techcrunch.com/2010/08/30/intel-acquires-infineons-wireless-solutions-business-for-1-4-billion/ |title=Intel acquires Infineon's Wireless Solutions Business for $1.4 billion |work=TechCrunch |date=August 30, 2010 |access-date=June 14, 2013}}</ref>
+
+|-
+| 4
+| {{dts|2011|03|17}}
+!scope="row"| Silicon Hive
+| [[Digital signal processor|DSP]]
+| {{flag|Netherlands}}
+|data-sort-value="0"|N/A
+| Mobile CPUs
+| style="text-align:center;"|<ref>{{cite web|author=Rue Liu |url=http://www.slashgear.com/intel-acquires-silicon-hive-in-push-for-mobile-processing-chips-17140712/ |title=Intel Acquires Silicon Hive In Push For Mobile Processing Chips |publisher=SlashGear|date=March 17, 2011 |access-date=January 21, 2014}}</ref>
+
+|-
+| 5
+| {{dts|2011|09|29}}
+!scope="row"| Telmap
+| [[Software]]
+| {{flag|Israel}}
+|data-sort-value="0"|$300-350M
+| Location Services
+| style="text-align:center;"|<ref>[https://www.engadget.com/2011/09/29/intel-to-aquire-telmap-dole-out-easy-to-implement-location-apis/ Intel to acquire Telmap, dole out easy to implement location APIs to AppUp developers]. Engadget.com. Retrieved on December 9, 2013.</ref>
+
+|-
+| 6
+| {{dts|2011|10|30}}
+!scope="row"| Invision
+| [[Software]]
+| {{flag|Israel}}
+|data-sort-value="55000000"|$50–60M
+| Software
+| style="text-align:center;"|<ref>{{cite news|url=https://en.globes.co.il/en/article-1000693186 |title=Source: Intel in talks to buy Israel's InVision Biometrics|newspaper=Globes |date=October 30, 2011 |access-date=February 7, 2019}}</ref>
+
+|-
+| 7
+| {{dts|2013|04|13}}
+!scope="row"| Mashery
+| [[API Management]]
+| {{flag|US}}
+|data-sort-value="180000000"|$180M
+| Software
+| style="text-align:center;"|<ref>{{cite news|url=https://techcrunch.com/2013/04/17/source-mashery-is-selling-to-intel-for-more-than-180m |title=Source: Mashery Is Selling To Intel For More Than $180M |work=TechCrunch |date=April 17, 2013 |access-date=June 14, 2013}}</ref>
+
+|-
+| 8
+| {{dts|2013|05|06}}
+!scope="row"| [[Stonesoft Corporation]]
+| [[Computer security|Security]]
+| {{flag|Finland}}
+|data-sort-value="389000000"|$389M
+| Software
+| style="text-align:center;"|<ref>{{cite news|url=https://techcrunch.com/2013/05/06/intels-mcafee-buys-cloud-based-networked-firewall-specialist-stonesoft-for-389m-in-cash/ |title=Intel's McAfee Is Buying Stonesoft, A Finnish Networked Firewall Specialist, For $389M In Cash |work=TechCrunch |date=May 6, 2013 |access-date=June 14, 2013}}</ref>
+
+|-
+| 9
+| {{dts|2013|07|16}}
+!scope="row"| [[Omek Interactive]]
+| [[Gesture]]
+| {{flag|Israel}}
+|data-sort-value="0"|N/A
+| Software
+| style="text-align:center;"|<ref name="Omek" />
+
+|-
+| 10
+| {{dts|2013|09|13}}
+!scope="row"| Indisys
+| [[Natural language processing]]
+| {{flag|Spain}}
+|data-sort-value="0"|N/A
+| Software
+| style="text-align:center;"|<ref name="Ai" />
+
+|-
+| 11
+| {{dts|2014|03|25}}
+!scope="row"| BASIS
+| [[Wearable technology|Wearable]]
+| {{flag|US}}
+|data-sort-value="0"|N/A
+| New Devices
+| style="text-align:center;"|<ref>{{cite web|url=http://newsroom.intel.com/community/intel_newsroom/blog/2014/03/25/intel-completes-acquisition-of-basis-science-inc|title=Intel Completes Acquisition of BASIS Science Inc.|author=IntelPR|work=Intel Newsroom}}</ref>
+
+|-
+| 12
+| {{dts|2014|08|13}}
+!scope="row"| [[Avago Technologies]] (partial)
+| Semiconductor
+| {{flag|US}}
+|data-sort-value="650000000"|$650M
+| Communications Processors
+| style="text-align:center;"|<ref>{{cite news|url=https://www.bloomberg.com/news/2014-08-13/intel-agrees-to-buy-avago-s-networking-business-for-650.html|title=Intel to Buy Avago's Networking Business for $650 Million|author=Ian King|work=Bloomberg.com|date=August 14, 2014}}</ref>
+
+|-
+| 13
+| {{dts|2014|12|01}}
+!scope="row"| PasswordBox
+| [[Computer security|Security]]
+| {{flag|Canada}}
+|data-sort-value="0"|N/A
+| Software
+| style="text-align:center;"|<ref>{{cite web|url=https://techcrunch.com/2014/12/01/intel-buys-passwordbox-to-add-id-management-to-its-security-business/|title=Intel Buys PasswordBox To Add ID Management To Its Security Business|publisher=AOL|work=TechCrunch}}</ref>
+
+|-
+| 14
+| {{dts|2015|01|05}}
+!scope="row"| [[Vuzix]]
+| [[Wearable technology|Wearable]]
+| {{flag|US}}
+|data-sort-value="24800000"|$24.8M
+| New Devices
+| style="text-align:center;"|<ref>{{cite web|url=https://www.theverge.com/2015/1/5/7493439/intel-buys-stake-in-google-glass-rival-vuzix|title=Intel buys $25 million stake in Google Glass rival Vuzix|publisher=Vox Media|work=The Verge|date=January 5, 2015}}</ref>
+
+|-
+| 15
+| {{dts|2015|02|02}}
+!scope="row"| [[Lantiq]]
+| Telecom
+| {{flag|Germany}}
+|data-sort-value="345000000"|$345M
+| Gateways
+| style="text-align:center;"|<ref>{{cite web|url=https://www.sec.gov/Archives/edgar/data/50863/000005086316000105/R16.htm | title=Intel 2015 Acquisitions |access-date=9 March 2020 |date=31 December 2015}}</ref>
+
+|-
+| 16
+| {{dts|2015|06|01}}
+!scope="row"| [[Altera]]
+| Semiconductor
+| {{flag|US}}
+|data-sort-value="16700000000"|$16.7B
+| Programmable Solutions Group (PSG) - e.g. [[FPGA]]s
+| style="text-align:center;"|<ref name="Wall Street Journal" />
+
+|-
+|17
+| {{dts|2015|06|18}}
+!scope="row"| [[Recon Instruments|Recon]]
+|[[Wearable technology|Wearable]]
+|{{flag|US}}
+|data-sort-value="175000000"|$175M
+|New Devices
+| style="text-align:center;"|<ref>{{Cite web|url = https://blogs.intel.com/technology/2015/06/intel-acquires-recon/|title = Intel Acquires Recon|date = June 17, 2015|access-date = January 13, 2016}}</ref>
+
+|-
+|18
+| {{dts|2015|10|26}}
+!scope="row"| [[Saffron Technology]]
+|[[Cognitive computing]]
+|{{flag|US}}
+|data-sort-value="1"|undisclosed
+|Software
+| style="text-align:center;"|<ref name=saffron />
+
+|-
+|19
+|{{dts|2016|01|04}}
+!scope="row"|Ascending Technologies
+|[[Unmanned aerial vehicle|UAVs]]
+|{{flag|Germany}}
+|data-sort-value="1"|undisclosed
+|New Technology
+| style="text-align:center;"|<ref>{{Cite web|url = https://blogs.intel.com/technology/2016/01/intel-acquires-asctec/|title = Intel Acquires Ascending Technologies|date = January 4, 2016|access-date = March 9, 2016}}</ref>
+|-
+|20
+|{{dts|2016|03|09}}
+!scope="row"|Replay Technologies
+|Video technology
+|{{flag|Israel}}
+|data-sort-value="1"|undisclosed
+|3D video technology
+| style="text-align:center;"|<ref>{{Cite news|url=https://www.reuters.com/article/us-intel-replay-acquisition-idUSKCN0WB1Y7|title=Intel buys Israeli 3D video tech firm Replay Technologies|date=2016-03-09|newspaper=Reuters|access-date=2016-03-10}}</ref>
+
+|-
+|21
+|{{dts|2016|04|05}}
+!scope="row"|Yogitech
+|IoT security and Advanced Driver Assistance Systems.
+|{{flag|Italy}}
+|data-sort-value="1"|undisclosed
+|Software
+| style="text-align:center;"|<ref>{{Cite news|url=http://www.zdnet.com/article/intel-buys-yogitech-aims-to-bolster-iot-safety-efforts/|title=Intel buys Yogitech, aims to bolster IoT safety efforts|date=2016-04-05|website=ZDNet|access-date=2016-04-05}}</ref>
+
+|-
+|22
+|{{dts|2016|08|09}}
+!scope="row"|[[Nervana Systems]]
+|Machine learning technology
+|{{flag|US}}
+|data-sort-value="350000000"|$350M
+|New Technology
+| style="text-align:center;"|<ref>{{Cite news|url=https://techcrunch.com/2016/08/09/intel-buys-deep-learning-startup-nervana-systems-for-a-reported-350-million/|title=Intel buys deep learning startup Nervana Systems for a reported $350 million|date=2016-08-09|website=TechCrunch|access-date=2016-08-09}}</ref>
+
+|-
+|23
+|{{dts|2016|09|06}}
+!scope="row"|[[Movidius]]
+|Computer vision
+|{{flag|Ireland}}
+|data-sort-value="1"|undisclosed
+|New Technology
+| style="text-align:center;"|<ref name="movidius" />
+|-
+|24
+|{{dts|2017|03|16}}
+!scope="row"|[[Mobileye]]
+|Autonomous vehicle technology
+|{{flag|Israel}}
+|data-sort-value="15000000000"|$15B
+|Self driving technology
+|<ref>{{Cite web|url=https://newsroom.intel.com/news-releases/intel-mobileye-acquisition/|title=Intel Completes Tender Offer for Mobileye|website=Intel Newsroom|language=en-US|access-date=2019-04-19}}</ref><ref>{{Cite web|url=http://social.techcrunch.com/2017/03/13/reports-intel-buying-mobileye-for-up-to-16b-to-expand-in-self-driving-tech/|title=Intel buys Mobileye in $15.3B deal, moves its automotive unit to Israel|website=TechCrunch|language=en-US|access-date=2019-04-19}}</ref>
+|-
+|25
+|{{dts|2018|07|12}}
+!scope="row"|[[eASIC]]
+|Semiconductor
+|{{flag|US}}
+|data-sort-value="1"|undisclosed
+|Programmable Solutions Group
+|<ref>{{Cite news|url=https://venturebeat.com/2018/07/12/intel-acquires-easic-to-bolster-programmable-chip-business/|title=Intel acquires eASIC to bolster programmable chip business|date=2018-07-12|work=VentureBeat|access-date=2018-07-12|language=en-US}}</ref>   
+|-
+|26
+|{{dts|2019|04|16}}
+!scope="row"|Omnitek
+|FPGA Video Acceleration
+|{{flag|UK}}
+|data-sort-value="1"|undisclosed
+|Video acceleration 
+|<ref>{{Cite web|url=https://www.omnitek.tv/intel-acquires-omnitek-for-fpgas/|title=Intel Acquires Omnitek, Strengthens FPGA Video and Vision Offering|date=2019-04-16|website=Omnitek|language=en-GB|access-date=2019-04-19}}</ref><ref>{{Cite web|url=https://www.anandtech.com/show/14215/intel-acquires-omnitek-fpga-video-acceleration-and-inferencing|title=Intel Acquires Omnitek: FPGA Video Acceleration and Inferencing|last=Cutress|first=Ian|website=www.anandtech.com|access-date=2019-04-19}}</ref>
+
+|-
+|27
+|{{dts|2019|12|16}}
+!scope="row"|Habana Labs
+|Machine learning technology
+|{{flag|Israel}}
+|data-sort-value="1"|$2B
+|New Technology
+|<ref>{{Cite news|url=https://newsroom.intel.com/news-releases/intel-ai-acquisition/|title=Intel Acquires Artificial Intelligence Chipmaker Habana Labs|date=2019-12-16|work=Intel Newsrpp|access-date=2019-12-16|language=en-US}}</ref>
+|-
+|28
+|{{dts|2020|5|4}}
+!scope="row"|[[Moovit]]
+|Transit data 
+|{{flag|Israel}}
+|$900M
+|Transit data 
+|<ref>{{Cite web|title=Intel acquires transit data startup Moovit for $900 million|url=https://www.theverge.com/2020/5/4/21246672/intel-moovit-acquisition-self-driving-mobility-robotaxi|last=Hawkins|first=Andrew J.|date=2020-05-04|website=The Verge|language=en|access-date=2020-05-05}}</ref>
+|-
+|29
+|{{dts|2020|5|20}}
+!scope="row"|Rivet Networks
+|Networking
+|{{Flag|US}}
+|undisclosed
+|
+|<ref>{{Cite web|title=Intel Acquires Rivet Networks: Killer Networking is all in for Team Blue|url=https://www.anandtech.com/show/15809/intel-acquires-rivet-networks-killer-networking-is-all-in-for-team-blue|last=Cutress|first=Ian|date=May 20, 2020|website=AnandTech|access-date=2020-05-21}}</ref>
+|-
+|}
+
+====Expansions (2008–2011)====
+In 2008, Intel spun off key assets of a solar startup business effort to form an independent company, SpectraWatt Inc. In 2011, SpectraWatt filed for bankruptcy.<ref name="eetimes1">EE Times. "[http://eetimes.com/electronics-news/4219234/Intel-s-solar-spinoff-files-for-bankruptcy Intel's solar spinoff files for bankruptcy]." August 23, 2011. Retrieved August 25, 2011.</ref>
+
+In February 2011, Intel began to build a new microprocessor manufacturing facility in [[Chandler, Arizona]], completed in 2013 at a cost of $5&nbsp;billion.<ref>[http://www.businesswire.com/news/home/20110218005980/en/Intel-Invest-5-Billion-Build-Factory-Arizona Intel to Invest More Than $5&nbsp;billion to Build New Factory in Arizona]. Business Wire (February 18, 2011). Retrieved on July 8, 2011.</ref> The building is now the 10nm-certified Fab 42 and is connected to the other Fabs (12, 22, 32) on Ocotillo Campus via an enclosed bridge known as the Link.<ref>[https://newsroom.intel.com/video-archive/video-intels-fab-42-a-peek-inside-one-of-the-worlds-most-advanced-factories/ Video: Intel’s Fab 42: A Peek Inside One of the World’s Most Advanced Factories] Intel Newsroom, October 4, 2019</ref><ref>{{Cite web|last=MacDonald-Evoy|first=Ryan Randazzo, and Jerod|title=Intel says it's investing $7B in Chandler facility, bringing 3K jobs|url=https://www.azcentral.com/story/money/business/jobs/2017/02/08/intel-says-s-investing-7b-chandler-facility-bringing-3000-jobs-fab-42/97648708/|access-date=2020-09-07|website=The Arizona Republic|language=en-US}}</ref><ref>{{Cite web|last=Pineda|first=Paulina|title=Roadwork paves way for Intel's massive Fab 42 campus in Chandler|url=https://www.azcentral.com/story/news/local/chandler/2019/06/17/roadwork-paves-way-intels-massive-fab-42-campus-chandler/1451103001/|access-date=2020-09-07|website=The Arizona Republic|language=en-US}}</ref><ref>{{Cite web|last=Shilov|first=Anton|title=Intel Q3 2019 Fab Update: 10nm Product Era Has Begun, 7nm On Track|url=https://www.anandtech.com/show/15032/intel-2019-fab-update-10nm-hvm-7nm-on-track|access-date=2020-09-07|website=www.anandtech.com}}</ref> The company produces three-quarters of its products in the United States, although three-quarters of its revenue come from overseas.<ref>King, Ian. (February 18, 2011) [https://www.bloomberg.com/news/2011-02-18/intel-plans-to-build-5-billion-chip-plant-in-arizona-hire-4-000-workers.html "Intel Plans to Build $5&nbsp;billion Chip Plant in Arizona"]. Bloomberg. Retrieved on July 8, 2011.</ref>
+
+In April 2011, Intel began a pilot project with [[ZTE Corporation]] to produce smartphones using the [[Intel Atom]] processor for China's domestic market.
+
+In December 2011, Intel announced that it reorganized several of its business units into a new mobile and communications group<ref>Sylvie Barak, EE Times. "[http://eetimes.com/electronics-news/4233223/Intel-announces-mobile-and-wireless-reorganization- Intel announces mobile and wirelss reorganization]." December 14, 2011. Retrieved December 14, 2011.</ref> that would be responsible for the company's smartphone, tablet, and wireless efforts.
+
+====Opening up the foundries to other manufacturers (2013)====
+Finding itself with excess fab capacity after the failure of the [[Ultrabook]] to gain market traction and with PC sales declining, in 2013 Intel reached a [[Semiconductor fabrication plant|foundry]] agreement to produce chips for [[Altera]] using 14-nm process. General Manager of Intel's custom foundry division Sunit Rikhi indicated that Intel would pursue further such deals in the future.<ref>{{cite web|url=https://www.theregister.co.uk/2013/02/26/intel_altera_chip_deal/|title=Intel throws open chip ovens to Altera – but who's next: Apple?}}</ref> This was after poor sales of [[Windows 8]] hardware caused a major retrenchment for most of the major semiconductor manufacturers, except for Qualcomm, which continued to see healthy purchases from its largest customer, Apple.<ref>{{cite web|url=http://www.channelregister.co.uk/2013/03/18/chip_maker_cut_inventory/|title=Intel and pals shrink their semis by $600m as demand droops • The Channel}}</ref>
+
+As of July 2013, five companies were using Intel's fabs via the ''Intel Custom Foundry'' division: [[Achronix]], [[Tabula (company)|Tabula]], [[Netronome]], [[Microsemi]], and [[Panasonic]]{{snd}} most are [[field-programmable gate array]] (FPGA) makers, but Netronome designs network processors. Only Achronix began shipping chips made by Intel using the 22-nm Tri-Gate process.<ref>[http://www.oregonlive.com/silicon-forest/index.ssf/2013/07/intel_dabbles_in_contract_manu.html Intel dabbles in contract manufacturing, weighing tradeoffs] // The Oregonian, July 27, 2013</ref><ref>[http://www.eetimes.com/document.asp?doc_id=1280814 Intel to make 22-nm chips for Microsemi] // EETimes, February 5, 2013: "Microsemi...becomes Intel's fifth publicly disclosed foundry customer, joining network processor provider Netronome and FPGA vendors Altera, Achronix and Tabula. "</ref> Several other customers also exist but were not announced at the time.<ref>[https://blogs.wsj.com/digits/2013/05/01/microsemi-emerges-as-another-intel-manufacturing-customer/ Microsemi Emerges As Another Intel Manufacturing Customer] // WSJ,  May 1, 2013: " Paul Otellini ... also reiterated that Intel has other foundry customers it has not announced."</ref>
+
+The [[Alliance for Affordable Internet]] (A4AI) was launched in October 2013 and Intel is part of the coalition of public and private organisations that also includes [[Facebook]], [[Google]], and [[Microsoft]]. Led by [[Tim Berners-Lee|Sir Tim Berners-Lee]], the A4AI seeks to make Internet access more affordable so that access is broadened in the developing world, where only 31% of people are online. Google will help to decrease Internet access prices so that they fall below the UN Broadband Commission's worldwide target of 5% of monthly income.<ref>{{cite news|title=Sir Tim Berners-Lee and Google lead coalition for cheaper Internet|url=https://www.theguardian.com/technology/2013/oct/07/google-berners-lee-alliance-broadband-africa?CMP=EMCNEWEML6619I2&et_cid=51918&et_rid=7107573&Linkid=http%3a%2f%2fwww.theguardian.com%2ftechnology%2f2013%2foct%2f07%2fgoogle-berners-lee-alliance-broadband-africa|access-date=October 8, 2013|newspaper=The Guardian|date=October 7, 2013|author=Samuel Gibbs}}</ref>
+
+In October 2018, [[Arm Holdings]] partnered with Intel in order to share code for [[embedded systems]] through the [[Yocto Project]].<ref>{{cite web|url=https://www.theregister.co.uk/2018/10/18/arm_mbed_linux_os/|title=Arm cozies up to Intel for second time in a week – this time to borrow tools from Yocto Project for Mbed Linux}}</ref>
+
+On July 25, 2019, Apple and Intel announced an agreement for Apple to acquire the smartphone modem business of [[Intel Mobile Communications]] for US$1 billion.<ref>{{Cite web |last1=Axon |first1=Samuel |title=Apple acquires Intel's 5G smartphone modem business for $1 billion |url=https://arstechnica.com/gadgets/2019/07/apple-acquires-intels-5g-smartphone-modem-business-for-1-billion/ |website=ars Technica |access-date=July 31, 2019|date=July 25, 2019}}</ref>
+
+==Product and market history==
+{{More citations needed|section|date=January 2018}}
+
+===SRAMS and the microprocessor===
+Intel's first products were [[shift register]] memory and random-access [[Primary storage|memory]] integrated circuits, and Intel grew to be a leader in the fiercely competitive [[dynamic random-access memory|DRAM]], [[static random-access memory|SRAM]], and [[read-only memory|ROM]] markets throughout the 1970s. Concurrently, Intel engineers [[Marcian Hoff]], [[Federico Faggin]], [[Stanley Mazor]] and [[Masatoshi Shima]] invented Intel's first [[microprocessor]]. Originally developed for the Japanese company [[Busicom]] to replace a number of [[Application-specific integrated circuit|ASICs]] in a calculator already produced by Busicom, the [[Intel 4004]] was introduced to the mass market on November 15, 1971, though the microprocessor did not become the core of Intel's business until the mid-1980s. (Note: Intel is usually given credit with [[Texas Instruments]] for the almost-simultaneous invention of the microprocessor)
+
+===From DRAM to microprocessors===
+In 1983, at the dawn of the personal computer era, Intel's profits came under increased pressure from Japanese memory-chip manufacturers, and then-president Andy Grove focused the company on microprocessors. Grove described this transition in the book ''[[Only the Paranoid Survive]]''. A key element of his plan was the notion, then considered radical, of becoming the single source for successors to the popular [[Intel 8086|8086]] microprocessor.
+
+Until then, the manufacture of complex integrated circuits was not reliable enough for customers to depend on a single supplier, but Grove began producing processors in three geographically distinct factories,{{which|date=October 2013}} and ceased licensing the chip designs to competitors such as [[Zilog]] and [[Advanced Micro Devices|AMD]].{{citation needed|date=October 2013}} When the PC industry boomed in the late 1980s and 1990s, Intel was one of the primary beneficiaries.
+
+===Intel, x86 processors, and the IBM PC===
+[[File:Intel 8742 153056995.jpg|thumb|The [[die (integrated circuit)|die]] from an Intel 8742, an [[8-bit]] microcontroller that includes a [[CPU]] running at 12&nbsp;MHz, 128 bytes of [[RAM]], 2048 bytes of [[EPROM]], and [[Input/output|I/O]] in the same chip]]
+
+Despite the ultimate importance of the microprocessor, the [[Intel 4004|4004]] and its successors the [[Intel 8008|8008]] and the [[Intel 8080|8080]] were never major revenue contributors at Intel. As the next processor, the [[Intel 8086|8086]] (and its variant the 8088) was completed in 1978, Intel embarked on a major marketing and sales campaign for that chip nicknamed "Operation Crush", and intended to win as many customers for the processor as possible. One design win was the newly created [[IBM PC]] division, though the importance of this was not fully realized at the time.
+
+[[IBM]] introduced its personal computer in 1981, and it was rapidly successful. In 1982, Intel created the [[Intel 80286|80286]] microprocessor, which, two years later, was used in the [[IBM Personal Computer/AT|IBM PC/AT]]. [[Compaq]], the first IBM PC "clone" manufacturer, produced a desktop system based on the faster 80286 processor in 1985 and in 1986 quickly followed with the first [[Intel 80386|80386]]-based system, beating IBM and establishing a competitive market for PC-compatible systems and setting up Intel as a key component supplier.
+
+On April 2020 the company announced its latest Comet Lake-S processors across its Core i9, i7, i5,and i3lineups. Leading the range is the new Corei9-10900k, which offers 10 cores, 20 threads, a 125W TDP boosted speed up to 5.3GHZ, and according to Intel, its "the world's fastest gaming processor".
+
+In 1975, the company had started a project to develop a highly advanced 32-bit microprocessor, finally released in 1981 as the [[Intel iAPX 432]]. The project was too ambitious and the processor was never able to meet its performance objectives, and it failed in the marketplace. Intel extended the [[x86|x86 architecture]] to 32 bits instead.<ref>{{cite web
+  |last=Maliniak
+  |first=Lisa
+  |title=Ten Notable Flops: Learning From Mistakes
+  |work=Electronic Design Online
+  |date=October 21, 2002
+  |url=http://electronicdesign.com/Articles/Index.cfm?AD=1&ArticleID=2839
+  |access-date=November 27, 2007
+  |url-status=dead
+  |archive-url=https://web.archive.org/web/20081216121817/http://electronicdesign.com/Articles/Index.cfm?AD=1&ArticleID=2839
+  |archive-date=December 16, 2008
+  |df=mdy-all
+  }}</ref><ref>{{cite web
+  |last=Dvorak
+  |first=John C.
+  |author-link=John C. Dvorak
+  |title=What Ever Happened to... Intel's Dream Chip?
+  |date=February 1997
+  |url=http://www.brouhaha.com/~eric/retrocomputing/intel/iapx432/dreamchip.html
+  |access-date=November 27, 2007
+  |archive-url=https://web.archive.org/web/20071018060554/http://www.brouhaha.com/~eric/retrocomputing/intel/iapx432/dreamchip.html
+  |archive-date=October 18, 2007
+  |url-status=dead
+  }}</ref>
+
+====386 microprocessor====
+During this period [[Andrew Grove]] dramatically redirected the company, closing much of its [[DRAM]] business and directing resources to the [[microprocessor]] business. Of perhaps greater importance was his decision to "single-source" the 386 microprocessor. Prior to this, microprocessor manufacturing was in its infancy, and manufacturing problems frequently reduced or stopped production, interrupting supplies to customers. To mitigate this risk, these customers typically insisted that multiple manufacturers produce chips they could use to ensure a consistent supply. The 8080 and 8086-series microprocessors were produced by several companies, notably AMD, with which Intel had a technology-sharing contract. Grove made the decision not to license the 386 design to other manufacturers, instead, producing it in three geographically distinct factories: [[Santa Clara, California|Santa Clara]], California; [[Hillsboro, Oregon|Hillsboro]], Oregon; and [[Chandler, Arizona|Chandler]], a suburb of [[Phoenix, Arizona|Phoenix]], Arizona. He convinced customers that this would ensure consistent delivery. In doing this, Intel breached its contract with AMD, which sued and was paid millions of dollars in damages but could not manufacture new Intel CPU designs any longer. (Instead, AMD started to develop and manufacture its own competing x86 designs.) As the success of Compaq's Deskpro 386 established the 386 as the dominant CPU choice, Intel achieved a position of near-exclusive dominance as its supplier. Profits from this funded rapid development of both higher-performance chip designs and higher-performance manufacturing capabilities, propelling Intel to a position of unquestioned leadership by the early 1990s.
+
+====486, Pentium, and Itanium====
+Intel introduced the [[Intel 80486|486]] microprocessor in 1989, and in 1990 established a second design team, designing the processors code-named "P5" and "P6" in parallel and committing to a major new processor every two years, versus the four or more years such designs had previously taken. Engineers [[Vinod Dham]] and [[Rajeev Chandrasekhar]] (Member of Parliament, India) were key figures on the core team that invented the 486 chip and later, Intel's signature Pentium chip. The P5 project was earlier known as "Operation Bicycle," referring to the cycles of the processor through two parallel execution pipelines. The [[P5 (microarchitecture)|P5]] was introduced in 1993 as the Intel [[Pentium]], substituting a registered trademark name for the former part number (numbers, such as 486, cannot be legally registered as trademarks in the United States). The P6 followed in 1995 as the [[Pentium Pro]] and improved into the [[Pentium II]] in 1997. New architectures were developed alternately in [[Santa Clara, California]] and [[Hillsboro, Oregon]].
+
+The Santa Clara design team embarked in 1993 on a successor to the [[x86|x86 architecture]], codenamed "P7". The first attempt was dropped a year later but quickly revived in a cooperative program with [[Hewlett-Packard]] engineers, though Intel soon took over primary design responsibility. The resulting implementation of the [[Itanium|IA-64]] 64-bit architecture was the [[Itanium]], finally introduced in June 2001. The Itanium's performance running legacy x86 code did not meet expectations, and it failed to compete effectively with [[x86-64]], which was AMD's 64-bit extension of the 32-bit x86 architecture (Intel uses the name '''Intel 64''', previously '''EM64T'''). In 2017, Intel announced that the [[Itanium#Itanium 9700 (Kittson): 2017|Itanium 9700 series (Kittson)]] would be the last Itanium chips produced.<ref name="Davis 2017">{{cite web
+  |url = https://itpeernetwork.intel.com/evolution-mission-critical-computing/
+  |title = The Evolution of Mission Critical Computing
+  |access-date = 2017-05-11
+  |last = Davis
+  |first = Lisa M.
+  |date = 2017-05-11
+  |work = Intel
+  |quote = ...the 9700 series will be the last Intel Itanium processor.
+}}</ref><ref name="IA-PCWorld">{{cite web|title=Intel's Itanium, once destined to replace x86 processors in PCs, hits end of line|url=http://www.pcworld.com/article/3196080/data-center/intels-itanium-once-destined-to-replace-x86-in-pcs-hits-end-of-line.html|website=PCWorld|access-date=15 May 2017|language=en|date=May 11, 2017}}</ref>
+
+The Hillsboro team designed the [[Pentium 4#Willamette|Willamette]] processors (initially code-named P68), which were marketed as the Pentium 4.
+
+====Pentium flaw====
+{{Main|Pentium FDIV bug}}
+In June 1994, Intel engineers discovered a flaw in the [[floating-point]] math subsection of the [[P5 (microarchitecture)|P5]] [[Pentium|Pentium microprocessor]]. Under certain data-dependent conditions, the low-order bits of the result of a floating-point division would be incorrect. The error could compound in subsequent calculations. Intel corrected the error in a future chip revision, and under public pressure it issued a total recall and replaced the defective Pentium CPUs (which were limited to some 60, 66, 75, 90, and 100&nbsp;MHz models<ref>[[Pentium FDIV bug#Affected models]]</ref>) on customer request.
+
+The [[software bug|bug]] was discovered independently in October 1994 by Thomas Nicely, Professor of Mathematics at [[Lynchburg College]]. He contacted Intel but received no response. On October 30, he posted a message about his finding on the Internet.<ref name='Nicely-email'>{{cite web|url=http://www.emery.com/nicely.htm |title=Dr. Thomas Nicely's Pentium email |access-date=July 12, 2007 |last=Nicely |first=Dr. Thomas R. |date=October 30, 1994 |publisher=Vince Emery Productions }}</ref> Word of the bug spread quickly and reached the industry press. The bug was easy to replicate; a user could enter specific numbers into the calculator on the operating system. Consequently, many users did not accept Intel's statements that the error was minor and "not even an erratum." During Thanksgiving, in 1994, ''[[The New York Times]]'' ran a piece by journalist [[John Markoff]] spotlighting the error. Intel changed its position and offered to replace every chip, quickly putting in place a large end-user [[Technical support|support]] organization. This resulted in a $475 million charge against Intel's 1994 [[revenue]].<ref>{{Cite web|url=http://www.trnicely.net/#PENT|title=Personal website of Dr. Nicely, who discovered the bug|last=Nicely|first=Thomas|access-date=April 6, 2016|archive-url=https://web.archive.org/web/20160712050001/http://www.trnicely.net/#PENT|archive-date=July 12, 2016|url-status=dead}}</ref> Dr. Nicely later learned that Intel had discovered the FDIV bug in its own testing a few months before him (but had decided not to inform customers).<ref>{{Cite web|url=http://www.trnicely.net/pentbug/pentbug.html|title="Pentium FDIV flaw" FAQ email from Dr. Nicely|last=Nicely|first=Thomas|access-date=May 4, 2017|archive-url=https://www.webcitation.org/66AzslMxs?url=http://www.trnicely.net/pentbug/pentbug.html|archive-date=March 15, 2012|url-status=dead}}</ref>
+
+The "Pentium flaw" incident, Intel's response to it, and the surrounding media coverage propelled Intel from being a technology supplier generally unknown to most computer users to a household name. Dovetailing with an uptick in the "Intel Inside" campaign, the episode is considered to have been a positive event for Intel, changing some of its business practices to be more end-user focused and generating substantial public awareness, while avoiding a lasting negative impression.<ref>Grove, Andrew and Burgleman, Robert; ''Strategy Is Destiny: How Strategy-Making Shapes a Company's Future'', 2001, Free Press<!--needs page number--></ref>
+
+===="Intel Inside" and other campaigns====
+[[File:Intel Inside Logo.svg|thumb|upright=0.5|The "Intel Inside" logo used from 1991 to 2003]]
+[[File:Intel Inside Logo (2003).svg|thumb|upright=0.5|The "Intel Inside" logo used from 2003 to 2006]]
+During this period, Intel undertook two major supporting advertising campaigns. The first campaign, the 1991 "Intel Inside" marketing and branding campaign, is widely known and has become synonymous with Intel itself. The idea of "[[ingredient branding]]" was new at the time, with only [[NutraSweet]] and a few others making attempts to do so.<ref>{{Cite book|author=Richard S. Tedlow|title=Andy Grove: The Life and Times of an American Business Icon|url=https://books.google.com/books?id=zQamXENAalkC&pg=RA1-PA256|page=256|year=2007|isbn=978-1-59184-182-1}}</ref> This campaign established Intel, which had been a component supplier little-known outside the PC industry, as a household name.
+
+The second campaign, Intel's Systems Group, which began in the early 1990s, showcased manufacturing of PC [[motherboard]]s, the main board component of a personal computer, and the one into which the processor (CPU) and memory (RAM) chips are plugged.<ref>{{cite web|last=Wilson |first=Tracy V. | url=http://computer.howstuffworks.com/motherboard.htm | title=HowStuffWorks "How Motherboards Work" |publisher=Computer.howstuffworks.com |access-date=July 29, 2010|date=July 20, 2005 }}</ref> The Systems Group campaign was lesser known than the Intel Inside campaign.
+
+Shortly after, Intel began manufacturing fully configured "[[white box (computer hardware)|white box]]" systems for the dozens of PC clone companies that rapidly sprang up.{{Citation needed|date=May 2009}} At its peak in the mid-1990s, Intel manufactured over 15% of all PCs, making it the third-largest supplier at the time.{{Citation needed|date=May 2009}}
+
+During the 1990s, [[Intel Architecture Labs]] (IAL) was responsible for many of the hardware innovations for the PC, including the [[Conventional PCI|PCI]] Bus, the [[PCI Express]] (PCIe) bus, and [[Universal Serial Bus]] (USB). IAL's software efforts met with a more mixed fate; its video and graphics software was important in the development of software digital video,{{Citation needed|date=February 2011}} but later its efforts were largely overshadowed by competition from [[Microsoft]]. The competition between Intel and Microsoft was revealed in testimony by then IAL Vice-President [[Steven McGeady]] at the [[United States v. Microsoft Corp. (2001)|Microsoft antitrust trial]] (''United States v. Microsoft Corp.'').
+
+====2018–2020 security flaws====
+{{Main|Meltdown (security vulnerability)|Spectre (security vulnerability)}}
+In early January 2018, it was reported that all [[Intel CPUs|Intel processors]] made since 1995<ref>{{cite web|url=http://www.abc.net.au/news/science/2018-01-04/intel-chip-flaw-a-security-threat/9303280|title=Processor vulnerabilities could leave most computers open to hackers|first=Ariel|last=Bogle|date=January 4, 2018|access-date=January 4, 2018}}</ref><ref name="telegraph2018flaw">{{cite news|url=https://www.telegraph.co.uk/technology/2018/01/03/fix-critical-intel-chip-flaw-will-slow-millions-computers/|url-access=subscription |title=Fix for critical Intel chip flaw will slow down millions of computers|website=[[The Daily Telegraph|The Telegraph]]|first=Margi|last=Murphy|date=January 3, 2018|access-date=January 3, 2017|publisher=[[Telegraph Media Group]]}}</ref> (besides [[Intel Itanium]] and pre-2013 [[Intel Atom]]) have been subject to two security flaws dubbed [[Meltdown (security vulnerability)|Meltdown]] and [[Spectre (security vulnerability)|Spectre]].<ref>{{cite web|url=https://techcrunch.com/2018/01/03/kernel-panic-what-are-meltdown-and-spectre-the-bugs-affecting-nearly-every-computer-and-device/|title=Kernel panic! What are Meltdown and Spectre, the bugs affecting nearly every computer and device?|first=Devin|last=Coldewey|access-date=January 4, 2018}}</ref><ref name="wiredflaw">{{cite journal|url=https://www.wired.com/story/critical-intel-flaw-breaks-basic-security-for-most-computers/|title=A Critical Intel Flaw Breaks Basic Security for Most Computers|journal=[[Wired (website)|Wired]]|access-date=January 4, 2018}}</ref>
+ 
+The impact on performance resulting from software patches is "workload-dependent". Several procedures to help protect home computers and related devices from the Spectre and Meltdown security vulnerabilities have been published.<ref name="NYT-20180104">{{cite news |author-last1=Metz |author-first1=Cade |author-last2=Chen |author-first2=Brian X. |title=What You Need to Do Because of Flaws in Computer Chips
+|url=https://www.nytimes.com/2018/01/04/technology/meltdown-spectre-questions.html |date=January 4, 2018 |work=[[The New York Times]] |access-date=2018-01-05}}</ref><ref name="FM-20180105">{{cite web |author-last=Pressman |author-first=Aaron |title=Why Your Web Browser May Be Most Vulnerable to Spectre and What to Do About It |url=http://fortune.com/2018/01/05/spectre-safari-chrome-firefox-internet-explorer/ |date=January 5, 2018 |work=[[Fortune (magazine)|Fortune]] |access-date=2018-01-05}}</ref><ref name="PCW-20180104">{{cite web |author-last=Chacos |author-first=Brad |title=How to protect your PC from the major Meltdown and Spectre CPU flaws |url=https://www.pcworld.com/article/3245810/security/how-to-protect-your-pc-meltdown-spectre-cpu-flaws.html |date=January 4, 2018 |work=[[PC World]] |access-date=2018-01-04 |url-status=live |archive-url=https://web.archive.org/web/20180104231745/https://www.pcworld.com/article/3245810/security/how-to-protect-your-pc-meltdown-spectre-cpu-flaws.html |archive-date=2018-01-04}}</ref><ref name="CNET-20180104">{{cite web |author-last=Elliot |author-first=Matt |title=Security – How to protect your PC against the Intel chip flaw – Here are the steps to take to keep your Windows laptop or PC safe from Meltdown and Spectre. |url=https://www.cnet.com/how-to/how-to-protect-your-pc-against-the-intel-chip-flaw/ |date=January 4, 2018 |work=[[CNET]] |access-date=2018-01-04 |url-status=live |archive-url=https://web.archive.org/web/20180104225045/https://www.cnet.com/how-to/how-to-protect-your-pc-against-the-intel-chip-flaw/ |archive-date=2018-01-04}}</ref> Spectre patches have been reported to significantly slow down performance, especially on older computers; on the newer 8th generation Core platforms, benchmark performance drops of 2–14 percent have been measured.<ref name="PCW-20180109">{{cite web |author-last=Hachman |author-first=Mark |title=Microsoft tests show Spectre patches drag down performance on older PCs |url=https://www.pcworld.com/article/3245742/components-processors/microsoft-tests-show-spectre-patches-drag-down-performance-on-older-pcs.html |date=January 9, 2018 |work=[[PC World]] |access-date=2018-01-09}}</ref> Meltdown patches may also produce performance loss.<ref name="NYT-20180103">{{Cite news |url=https://www.nytimes.com/2018/01/03/business/computer-flaws.html |title=Researchers Discover Two Major Flaws in the World's Computers |author-last1=Metz |author-first1=Cade |date=January 3, 2018 |work=[[The New York Times]] |access-date=2018-01-03 |author-last2=Perlroth |author-first2=Nicole |issn=0362-4331 |url-status=live |archive-url=https://web.archive.org/web/20180103224048/https://www.nytimes.com/2018/01/03/business/computer-flaws.html |archive-date=2018-01-03}}</ref><ref name="bbcflaw">{{cite web |url=https://www.bbc.com/news/technology-42562303 |title=Computer chip scare: What you need to know |date=January 4, 2018 |access-date=2018-01-04 |work=[[BBC News]]}}</ref><ref name="TV-20180104">{{Cite news |url=https://www.theverge.com/2018/1/3/16846540/intel-processor-security-flaw-bug-response |title=Intel says processor bug isn't unique to its chips and performance issues are 'workload-dependent' |work=The Verge |access-date=2018-01-04}}</ref> It is believed that "hundreds of millions" of systems could be affected by these flaws.<ref name="telegraph2018flaw"/><ref>{{cite web|url=https://meltdownattack.com/#faq-systems-spectre|title=Meltdown and Spectre|website=meltdownattack.com|access-date=January 4, 2018}}</ref>
+
+On March 15, 2018, Intel reported that it will redesign its [[Central processing unit|CPU processors]] (performance losses to be determined) to protect against the [[Spectre (security vulnerability)|Spectre security vulnerability]], and expects to release the newly redesigned processors later in 2018.<ref name="TVRG-20180315">{{cite news |last=Warren |first=Tom |title=Intel processors are being redesigned to protect against Spectre - New hardware coming later this year |url=https://www.theverge.com/2018/3/15/17123610/intel-new-processors-protection-spectre-vulnerability |date=March 15, 2018 |work=[[The Verge]] |access-date=March 15, 2018 }}</ref><ref name="CNET-20180315">{{cite news |last=Shankland |first=Stephen |title=Intel will block Spectre attacks with new chips this year - Cascade Lake processors for servers, coming this year, will fight back against a new class of vulnerabilities, says CEO Brian Krzanich. |url=https://www.cnet.com/news/intel-blocks-spectre-attacks-with-new-server-chips-this-year/ |date=March 15, 2018 |work=[[CNET]] |access-date=March 15, 2018 }}</ref>
+
+On May 3, 2018, eight additional Spectre-class flaws were reported. Intel reported that they are preparing new patches to mitigate these flaws.<ref>{{cite web|last1=Tung|first1=Liam|title=Are 8 new 'Spectre-class' flaws about to be exposed? Intel confirms it's readying fixes {{!}} ZDNet|url=https://www.zdnet.com/article/are-8-new-spectre-class-flaws-about-to-be-exposed-intel-confirms-its-readying-fixes/|website=ZDNet|access-date=4 May 2018|language=en}}</ref>
+
+On August 14, 2018, Intel disclosed three additional chip flaws referred to as L1 Terminal Fault (L1TF). They reported that previously released microcode updates, along with new, pre-release microcode updates can be used to mitigate these flaws.<ref>{{cite news |title=Intel discloses three more chip flaws |url=https://www.reuters.com/article/us-cyber-intel/intel-discloses-three-more-chip-flaws-idUSKBN1KZ280 |agency=Reuters}}</ref><ref>{{cite web |last1=Culbertson |first1=Leslie |title=Protecting Our Customers through the Lifecycle of Security Threats |url=https://newsroom.intel.com/editorials/protecting-our-customers-through-lifecycle-security-threats/ |website=Intel Newsroom |access-date=16 August 2018}}</ref>
+
+On January 18, 2019, Intel disclosed three new vulnerabilities affecting all Intel CPUs, named "Fallout", "RIDL", and "ZombieLoad", allowing a program to read information recently written, read data in the line-fill buffers and load ports, and leak information from other processes and virtual machines.<ref>{{Cite web|url=https://mdsattacks.com/files/fallout.pdf|title=Fallout: Reading Kernel Writes From User Space|website=RIDL and Fallout: MDS Attacks|archive-url=https://web.archive.org/web/20190516190421/https://mdsattacks.com/files/fallout.pdf|archive-date=2019-05-16|access-date=2019-05-18}}</ref><ref>{{Cite web|url=https://mdsattacks.com/files/ridl.pdf|title=RIDL: Rogue In-Flight Data Load|website=RIDL and Fallout: MDS attacks|archive-url=https://web.archive.org/web/20190517035356/https://mdsattacks.com/files/ridl.pdf|archive-date=2019-05-17}}</ref><ref>{{Cite web|url=https://zombieloadattack.com/|title=ZombieLoad Attack|website=zombieloadattack.com|access-date=2019-05-18}}</ref> Recent Coffeelake-series CPUs are even more vulnerable, due to hardware mitigations for [[Spectre (security vulnerability)|Spectre]].{{Citation needed|date=June 2019}}
+
+On March 5, 2020, computer security experts reported another Intel chip security flaw, besides the [[Meltdown (security vulnerability)|Meltdown]] and [[Spectre (security vulnerability)|Spectre]] flaws, with the systematic name {{CVE|2019-0090}} (or, "Intel CSME Bug").<ref name="ZDNET-20200305">{{cite news |last=Cimpanu |first=Catalin |title=Intel CSME bug is worse than previously thought - Researchers say a full patch requires replacing hardware. Only the latest Intel 10th generation CPUs are not affected. |url=https://www.zdnet.com/article/intel-csme-bug-is-worse-than-previously-thought/ |date=5 March 2020 |work=[[ZDNet]] |access-date=8 March 2020 }}</ref> This newly found flaw is not fixable with a firmware update, and affects nearly "all [[Intel Core|Intel chips]] released in the past five years".<ref name="AT-20200305">{{cite news |last=Goodin |first=Dan |title=5 years of Intel CPUs and chipsets have a concerning flaw that's unfixable - Converged Security and Management Engine flaw may jeopardize Intel's root of trust. |url=https://arstechnica.com/information-technology/2020/03/5-years-of-intel-cpus-and-chipsets-have-a-concerning-flaw-thats-unfixable/ |date=5 March 2020 |work=[[Ars Technica]] |access-date=6 March 2020 }}</ref><ref name="EG-20200306">{{cite news |last=Dent |first=Steve |title=Researchers discover that Intel chips have an unfixable security flaw - The chips are vulnerable during boot-up, so they can't be patched with a firmware update. |url=https://www.engadget.com/2020/03/06/intel-chips-unpatchable-security-flaw/ |date=6 March 2020|work=[[Engadget]] |access-date=6 March 2020 }}</ref><ref name="INTEL-20200211">{{cite news |author=Staff |title=Intel® Converged Security and Management Engine, Intel® Server Platform Services, Intel® Trusted Execution Engine, and Intel® Active Management Technology Advisory (Intel-SA-00213) |url=https://www.intel.com/content/www/us/en/support/articles/000033416/technologies.html |date=11 February 2020 |work=Intel |access-date=6 March 2020 }}</ref>
+
+====Remote Keyboard Android App====
+Intel has decided to discontinue with their recent Intel Remote Keyboard Android app after encountering several security bugs. This app was launched in early 2015 to help users control Intel single-board computers and Intel NUC. The company has asked Remote Keyboard Users to delete the app at their first convenience.<ref>{{Cite news|url=https://www.bleepingcomputer.com/news/security/intel-tells-users-to-uninstall-remote-keyboard-app-over-unpatched-security-bugs/|title=Intel Tells Users to Uninstall Remote Keyboard App Over Unpatched Security Bugs|work=BleepingComputer|access-date=2018-04-05|language=en-us}}</ref>
+
+==={{anchor|SSD}}Solid-state drives (SSD)===
+{{See also|List of Intel SSDs}}
+[[File:Intel X25-M Solid-State Drive.jpg|thumb|An [[Intel X25-M]] SSD]]
+In 2008, Intel began shipping mainstream [[solid-state drive]]s (SSDs) with up to 160&nbsp;GB storage capacities.<ref name="X25-M1">[http://www.intel.com/pressroom/archive/releases/2008/20080908comp.htm Intel Introduces Solid-State Drives for Notebook and Desktop Computers]. Intel (September 8, 2008). Retrieved on July 8, 2011.</ref> As with their CPUs, Intel develops SSD chips using ever-smaller nanometer processes. These SSDs make use of industry standards such as [[NAND flash]],<ref>[http://www.intel.com/pressroom/archive/releases/2010/20100201comp.htm Intel, Micron Introduce 25-Nanometer NAND&nbsp;– The Smallest, Most Advanced Process Technology in the Semiconductor Industry]. Intel (February 1, 2010). Retrieved on July 8, 2011.</ref> [[SATA#mSATA|mSATA]],<ref name="SSD310">[http://www.anandtech.com/show/4078/intels-ssd-310-g2-performance-in-an-msata-form-factor Intel's SSD 310: G2 Performance in an mSATA Form Factor]. AnandTech. Retrieved on July 8, 2011.</ref> [[PCIe]], and [[NVM Express|NVMe]]. In 2017, Intel introduced SSDs based on [[3D XPoint]] technology under the Optane brand name.<ref>{{cite web|last1=Tallis|first1=Billy|title=The Intel Optane SSD 900P 280GB Review|url=https://www.anandtech.com/show/11953/the-intel-optane-ssd-900p-review|publisher=Anandtech|access-date=4 January 2018}}</ref>
+
+===Supercomputers===
+The Intel Scientific Computers division was founded in 1984 by [[Justin Rattner]], to design and produce [[parallel computing|parallel computers]] based on Intel microprocessors connected in [[hypercube internetwork topology]].<ref name="wilson-1994">{{cite web|last=Wilson|first=Gregory|title=The History of the Development of Parallel Computing|url=http://ei.cs.vt.edu/~history/Parallel.html|access-date=November 11, 2010|year=1994}}</ref> In 1992, the name was changed to the Intel Supercomputing Systems Division, and development of the [[iWarp]] architecture was also subsumed.<ref name="cmu-iwarp">{{cite web|title=iWarp Project|url=http://www-2.cs.cmu.edu/afs/cs/project/iwarp/archive/WWW-pages/iwarp.html|publisher=[[Carnegie Mellon University]]|access-date=November 11, 2010}}</ref> The division designed several [[supercomputer]] systems, including the [[Intel iPSC]]/1, [[Intel iPSC/2|iPSC/2]], [[Intel iPSC/860|iPSC/860]], [[Intel Paragon|Paragon]] and [[ASCI Red]]. In November 2014, Intel revealed that it is going to use light beams to speed up supercomputers.<ref>{{citation|title=Intel turns to light beams to speed up supercomputers|url=http://www.computerworld.com/article/2848400/components-processors/intel-turns-to-light-beams-to-speed-up-supercomputers.html|first=Agam|last=Shah|date=November 17, 2014|publisher=[[Computerworld]]}}</ref>
+
+===Mobile Linux software===
+In 2007, Intel formed the [[Moblin]] project to create an [[Open-source software|open source]] [[Linux]] operating system for x86-based mobile devices. Following the success of [[Google]]'s [[Android (operating system)|Android]] platform which ran exclusively on [[ARM architecture|ARM]] processors, Intel announced on February 15, 2010, that it would partner with [[Nokia]] and merge Moblin with Nokia's ARM-based [[Maemo]] project to create [[MeeGo]].<ref>{{cite web|url=https://www.theregister.co.uk/2010/02/15/meego_nokia_intel/|title=Intel joins Nokia in Android attack}}</ref> MeeGo was supported by the [[Linux Foundation]].<ref>{{cite web|url=https://www.engadget.com/2010/02/15/meego-nokia-and-intel-merge-maemo-and-moblin/|title=MeeGo: Nokia and Intel merge Maemo and Moblin}}</ref>
+
+In February 2011, Nokia left the project after partnering with [[Microsoft]], leaving Intel in sole charge of MeeGo. An Intel spokeswoman said it was "disappointed" by Nokia's decision but that Intel was committed to MeeGo.<ref>{{cite web|url=https://www.theregister.co.uk/2011/02/11/intel_sticks_with_meego/|title=Intel defends MeeGo after Nokia defection}}</ref> In September 2011 Intel stopped working on MeeGo and partnered with [[Samsung]] to create [[Tizen]], a new project hosted by the Linux Foundation.<ref>{{cite web|url=https://www.theverge.com/2011/9/28/2456253/meego-is-dead-resurrected-as-tizen-another-new-linux-based-open|title=MeeGo is dead: Resurrected as Tizen, the newest Linux-based open source OS|date=September 28, 2011}}</ref> Intel has since been co-developing the Tizen operating system which runs on several Samsung devices.
+
+===Competition, antitrust and espionage===
+{{See also|AMD v. Intel}}
+Two factors combined to end this dominance: the slowing of [[personal computer|PC]] demand growth beginning in 2000 and the rise of the low-cost PC. By the end of the 1990s, [[microprocessor]] performance had outstripped software demand for that CPU power. Aside from high-end server systems and software, whose demand dropped with the end of the "[[dot-com bubble]]", consumer systems ran effectively on increasingly low-cost systems after 2000. Intel's strategy of producing ever-more-powerful processors and obsoleting their predecessors stumbled,{{Citation needed|date=May 2009}} leaving an opportunity for rapid gains by competitors, notably AMD. This, in turn, lowered the profitability{{Citation needed|date=May 2009}} of the processor line and ended an era of unprecedented dominance of the PC hardware by Intel.{{Citation needed|date=July 2007}}
+
+Intel's dominance in the [[x86]] microprocessor market led to numerous charges of [[antitrust]] violations over the years, including [[Federal Trade Commission|FTC]] investigations in both the late 1980s and in 1999, and civil actions such as the 1997 suit by [[Digital Equipment Corporation]] (DEC) and a patent suit by [[Intergraph]]. Intel's market dominance (at one time{{When|date=May 2009}} it controlled over 85% of the market for 32-bit x86 microprocessors) combined with Intel's own hardball legal tactics (such as its infamous 338 patent suit versus PC manufacturers)<ref>{{Cite news|first=Richard |last=McCausland |title=Counterpunch: Amx86 buyers get 'legal aid.' – Advanced Micro Devices offers legal aid to manufactures of Amx86-based machines warned by Intel Corp. to take out patent licenses |date=May 24, 1993 |publisher=LookSmart Ltd. |url=http://findarticles.com/p/articles/mi_m0EKF/is_n1964_v39/ai_13901771 |archive-url=http://arquivo.pt/wayback/20091001091856/http://findarticles.com/p/articles/mi_m0EKF/is_n1964_v39/ai_13901771 |url-status=dead |archive-date=October 1, 2009 |work=FindArticles |access-date=July 12, 2007 }}</ref> made it an attractive target for litigation, but few of the lawsuits ever amounted to anything.{{Clarify|date=May 2009}}
+
+A case of [[industrial espionage]] arose in 1995 that involved both Intel and AMD. [[Bill Gaede]], an [[Argentina|Argentine]] formerly employed both at AMD and at Intel's [[Chandler, Arizona|Arizona]] plant, was arrested for attempting in 1993 to sell the [[i486]] and [[P5 (microarchitecture)|P5]] Pentium designs to AMD and to certain foreign powers.<ref name='intel-spy'>{{Cite news|title=Worker Pleads Not Guilty in Intel Spy Case |date=October 20, 1995  |url=https://query.nytimes.com/gst/fullpage.html?res=990CE7D81239F933A15753C1A963958260 |work=The New York Times |access-date=July 12, 2007 }}</ref> Gaede videotaped data from his computer screen at Intel and mailed it to [[Advanced Micro Devices|AMD]], which immediately alerted Intel and authorities, resulting in Gaede's arrest. Gaede was convicted and sentenced to 33 months in prison in June 1996.<ref name='Guillermo Gaede'>{{Cite news|title=Ex-Intel Engineer Sentenced to Prison Term |date=June 25, 1996  |url=https://query.nytimes.com/gst/fullpage.html?res=9E01E0DE1239F936A15755C0A960958260 |work=The New York Times |access-date=July 12, 2007 }}</ref><ref name='Guilty'>{{Cite news|title=Ex-Intel employee pleads guilty – Guillermo Gaede pleads guilty to stealing Intel trade secrets – Industry Legal Issue |date=March 25, 1996 |publisher=LookSmart, Ltd. |url=http://findarticles.com/p/articles/mi_m0EKF/is_n2109_v42/ai_18135525 |archive-url=http://arquivo.pt/wayback/20091001091817/http://findarticles.com/p/articles/mi_m0EKF/is_n2109_v42/ai_18135525 |url-status=dead |archive-date=October 1, 2009 |work=findarticles.com |access-date=July 12, 2007 }}</ref>
+
+===Use of Intel products by Apple Computer (2005–2022)===
+<!--Please rewrite from Intel's perspective. This only says the advantages for Apple (Amply written about in its own articles), not Intel-->
+{{details|Mac transition to Intel processors}}
+
+On June 6, 2005, [[Steve Jobs]], then CEO of [[Apple Inc.|Apple]], announced that Apple would be transitioning from its long favored [[PowerPC]] architecture to the Intel x86 architecture because the future PowerPC road map was unable to satisfy Apple's needs. The first [[Macintosh]] computers containing Intel CPUs were announced on January 10, 2006, and Apple had its entire line of consumer Macs running on Intel processors by early August 2006. The Apple Xserve server was updated to Intel [[Xeon]] processors from November 2006 and was offered in a configuration similar to Apple's Mac Pro.<ref name=newmacs>
+{{cite news | title=Jobs: New Intel Macs are 'screamers' | url=https://www.cnet.com/news/jobs-new-intel-macs-are-screamers-1/ | first=Ina | last=Fried | publisher=[[CNet]] | date=January 12, 2006}}</ref>
+
+On June 22, 2020, during the virtual WWDC, Apple announced that they would be switching some of their Mac line to their own ARM-based designs. By November 14, 2020, Apple unveiled their new ARM-based 'M1 Apple Silicon' processor that officially marks the end of Apple purchases of intel microprocessors. The move from Intel to in house 'Apple Silicon' will take 2 years.
+
+===Core 2 Duo advertisement controversy (2007)===
+In July 2007, the company released a print advertisement for its [[Intel Core 2]] Duo processor featuring six black runners appearing to bow down to a Caucasian male inside of an office setting (due to the posture taken by runners on [[starting blocks]]). According to Nancy Bhagat, Vice President of Intel Corporate Marketing, viewers found the ad to be "insensitive and insulting", and several Intel executives made public apologies.<ref name='Intel-ad blog'>{{cite web | url=https://gizmodo.com/285278/intel-apologizes-for-insulting-sprinter-ad | title=Intel Apologizes for "Insulting" Sprinter Ad |last=Frucci |first=Adam |date=August 2, 2007 | website=[[Gizmodo]]}}</ref>
+
+===Introduction of Classmate PC (2011)===
+The [[Classmate PC]] is the company's first low-cost [[netbook]] computer.<ref>{{cite magazine|last=Lemon|first=Sumner|title=Intel's Classmate PC Enrolls | url=http://www.pcworld.com/article/132748/intels_classmate_pc_enrolls.html|magazine=[[PC World]]|access-date=October 21, 2011}}</ref> In 2014, the company released an updated version of the Classmate PC.<ref>
+{{cite news | title=Intel's latest education-focused tablet and Classmate PC reference designs add... more rubber? | url=https://www.engadget.com/2014/01/22/intel-education-tablet-classmate-2014/ | first=Ben | last=Gilbert | publisher=Endagadget | date=January 22, 2014}}</ref>
+
+===Introduction of new mobile processor technology (2011)===
+In June 2011, Intel introduced the first Pentium mobile processor based on the [[Sandy Bridge]] core. The B940, clocked at 2&nbsp;GHz, is faster than existing or upcoming mobile Celerons, although it is almost identical to dual-core Celeron CPUs in all other aspects.<ref>CPU World. "[http://www.cpu-world.com/news_2011/2011061601_Intel_mobile_CPUs_to_launch_in_June_2011.html Intel mobile CPUs to launch in June 2011]." ''CPU World''. June 16, 2011. Retrieved June 20, 2011.</ref> According to IHS iSuppli's report on September 28, 2011, Sandy Bridge chips have helped Intel increase its market share in global processor market to 81.8%, while AMD's market share dropped to 10.4%.<ref>Jeffrey Burt, eWeek. "[http://www.eweek.com/c/a/Desktops-and-Notebooks/Intel-Gains-Chip-Market-Share-Due-to-Sandy-Bridge-IHS-iSuppli-692064/ Intel Gains Chip Market Share Due to Sandy Bridge: IHS iSuppli]." September 28, 2011. Retrieved October 7, 2011.</ref>
+
+Intel planned to introduce Medfield&nbsp;– a processor for tablets and smartphones&nbsp;– to the market in 2012, as an effort to compete with ARM.<ref>Brooke Crothers, CNET. "[http://news.cnet.com/8301-13924_3-20075602-64/intel-maps-out-tablet-plans-through-2014/?part=rss&subj=news&tag=2547-1_3-0-20 Intel maps out tablet plans through 2014]." June 30, 2011. Retrieved July 1, 2011.</ref> As a 32-nanometer processor, Medfield is designed to be energy-efficient, which is one of the core features in ARM's chips.<ref name="autogenerated1">Agam Shah, IDG News. "[http://www.pcworld.com/article/229596/intels_new_smartphone_chip_is_key_arm_battle.html Intel's New Smartphone Chip Is Key ARM Battle]." June 7, 2011. Retrieved July 8, 2011.</ref>
+
+At the Intel Developers Forum (IDF) 2011 in San Francisco, Intel's partnership with Google was announced. By January 2012, Google's Android 2.3 will use Intel's Atom microprocessor.<ref>WILL KNIGHT, Technology Review. "[http://www.technologyreview.com/energy/38578/?p1=A4 Intel Chases a More Power-Efficient Future]." September 15, 2011. Retrieved September 19, 2011.</ref><ref>Chris Nuttall, Financial Times. "[http://www.ft.com/cms/s/2/544c33a8-de3b-11e0-9fb7-00144feabdc0.html#axzz1YRA3N2Dr Intel and Google form Android chip alliance]." September 13, 2011. Retrieved September 19, 2011.</ref><ref>All Geek. "[http://www.allgeek.tv/2011/09/12/intel-to-officially-support-android-2-3-gingerbread-by-january-2012/ Intel to Officially Support Android 2.3 Gingerbread by January 2012]." September 12, 2011. Retrieved September 19, 2011.</ref>
+
+===Update to server chips (2011)===
+In July 2011, Intel announced that its server chips, the Xeon series, will use new sensors that can improve data center cooling efficiency.<ref>James Niccolai, IDG News. "[https://www.pcworld.com/article/235282/intel_adds_sensors_to_aid_data_center_cooling.html Intel Adds Sensors to Aid Data Center Cooling]." ''PC World''. July 8, 2011. Retrieved July 8, 2011.</ref>
+
+===Introduction of Ivy Bridge 22 nm processors (2011)===
+{{Main|Ivy Bridge (microarchitecture)}}
+In 2011, Intel announced the [[Ivy Bridge (microarchitecture)|Ivy Bridge]] processor family at the Intel Developer Forum.<ref>Rick Merritt, EE Times. "[http://eetimes.com/electronics-news/4227214/Intel-describes-22nm-Ivy-Bridge-CPUs Intel describes 22nm Ivy Bridge CPUs]." September 13, 2011. Retrieved September 14, 2011.</ref> Ivy Bridge supports both DDR3 memory and DDR3L chips.
+
+===Development of Personal Office Energy Monitor (POEM) (2011)===
+As part of its efforts in the Positive Energy Buildings Consortium, Intel has been developing an application, called Personal Office Energy Monitor (POEM), to help office buildings to be more energy-efficient. With this application, employees can get the power consumption info for their office machines, so that they can figure out a better way to save energy in their working environment.<ref>Peter Sayer, IDG News. "[https://www.pcworld.com/article/234916/intel_hopes_poem_will_encourage_office_staff_to_save_energy.html Intel Hopes POEM Will Encourage Office Staff to Save Energy]." ''PC World''. July 8, 2011. Retrieved July 8, 2011.</ref>
+
+===''IT Manager'' series===
+{{Main|IT Manager 3: Unseen Forces|IT Manager: Duels}}
+Intel has introduced some simulation games, starting in 2009 with web-based ''[[IT Manager 3: Unseen Forces]]''. In it, the player manages a company's IT department. The goal is to apply technology and skill to enable the company to grow from a small business into a global enterprise.<ref>{{cite web|url=https://software.intel.com/en-us/blogs/2009/02/27/intel-technologies-game-it-manager-3-unseen-forces|title=Intel technologies game: IT Manager 3: Unseen Forces - Intel® Software|website=software.intel.com|date=October 28, 2019}}</ref>{{better source|date=January 2018}} The game has since been discontinued and succeeded in 2012 by the web-based multiplayer game ''[[IT Manager: Duels]]'', which is no longer available.{{citation needed|date=January 2018}}
+
+===Car Security System (2011)===
+In 2011, Intel announced that it is working on a car security system that connects to smartphones via an application. The application works by streaming video to a cloud service if a car armed with the system is broken into.<ref>Radu Tyrsina, Mobile Mag. "[http://www.mobilemag.com/2011/08/02/intel-working-on-streaming-video-car-alarm-systems/ Intel working on streaming video car alarm systems] {{Webarchive|url=https://web.archive.org/web/20110829143256/http://www.mobilemag.com/2011/08/02/intel-working-on-streaming-video-car-alarm-systems/ |date=August 29, 2011 }}." August 2, 2011. Retrieved August 2, 2011.</ref>
+
+===High-Bandwidth Digital Content Protection===
+Intel also developed [[High-bandwidth Digital Content Protection|High-Bandwidth Digital Content Protection (HDCP)]] to prevent access of digital audio and video content as it travels across connections.
+
+===Move from intel desktop to open mobile platforms (2013–2014)===
+In 2013, Intel's Kirk Skaugen said that Intel's exclusive focus on Microsoft platforms was a thing of the past and that they would now support all "tier-one operating systems" such as Linux, Android, iOS, and Chrome.<ref>{{cite web |url=http://www.channelregister.co.uk/2013/11/22/intel_end_of_wintel/ |title=Chipzilla couldn't keep up with ARM-dominated mobe world |last1=Clark |first1=Jack |date=November 22, 2013 |website=channelregister.co.uk |publisher=The Register |access-date=December 3, 2013}}</ref>
+
+In 2014, Intel cut thousands of employees in response to "evolving market trends",<ref>{{cite news |url=https://money.cnn.com/2014/01/17/technology/intel-jobs/ |title=Intel to cut over 5,000 jobs |last1=Hargreaves |first1=Steve |date=January 17, 2014 |website=cnn.com |publisher=CNNMoney |access-date=January 17, 2014}}</ref> and offered to subsidize manufacturers for the extra costs involved in using Intel chips in their tablets.<ref>{{cite web |url=http://www.pcworld.com/article/2089421/how-intel-is-buying-a-piece-of-the-tablet-market.html |title=How Intel is buying a piece of the tablet market |date=January 17, 2014 |website=www.pcworld.com |publisher=PCWorld |access-date=January 17, 2014}}</ref>
+
+===Introduction of Haswell processors (2013)===
+{{Main|Haswell (microarchitecture)}}
+In June 2013, Intel unveiled its fourth generation of Intel Core processors ([[Haswell (microarchitecture)|Haswell]]) in an event named Computex in [[Taipei]].<ref>{{cite web |url= http://techstake.blogspot.in/2013/06/Intel-released-4th-generation-core-processors.html |archive-url= https://web.archive.org/web/20160101035151/http://techstake.blogspot.in/2013/06/Intel-released-4th-generation-core-processors.html |url-status= dead |archive-date= 2016-01-01 |title= Intel Released 4th Generation Intel Core Processors in Taipei |author= Aditya Dey |publisher= TechStake-Technology News Blog <!--|access-date= June 2013  Not found in archive.org-->}}</ref>
+
+===Wearable fashion (2014)===
+On January 6, 2014, Intel announced that it was "teaming with the [[Council of Fashion Designers of America]], [[Barneys New York]] and Opening Ceremony around the wearable tech field."<ref name="Intel Making Fashion Push Into Wearable Technology">{{cite magazine | url=http://www.wwd.com/fashion-news/fashion-scoops/tech-to-wear-7335247 | title=Intel Making Fashion Push Into Wearable Technology | magazine=[[Women's Wear Daily|WWD]] | date=January 7, 2014 | access-date=January 13, 2014 | author=Karimzadeh, Marc}}</ref>
+
+Intel developed a reference design for [[Wearable technology|wearable]] smart earbuds that provide biometric and fitness information. The Intel smart earbuds provide full stereo audio, and monitor heart rate, while the applications on the user's phone keep track of run distance and calories burned.
+
+[[CNBC]] reported that Intel eliminated the division that worked on health wearables in 2017.<ref>{{cite web|last1=Farr|first1=Christina|title=Intel axed its entire smartwatch and fitness-tracker group to focus on augmented reality, sources say|url=https://www.cnbc.com/2017/07/19/intel-eliminates-its-wearables-division-.html|website=CNBC|access-date=4 January 2018|date=19 July 2017}}</ref>
+
+===Fog computing===
+On November 19, 2015, Intel, alongside [[ARM Holdings]], [[Dell]], [[Cisco Systems]], [[Microsoft]], and [[Princeton University]], founded the [[OpenFog Consortium]], to promote interests and development in [[fog computing]].<ref>{{Cite news|url=https://www.forbes.com/sites/janakirammsv/2016/04/18/is-fog-computing-the-next-big-thing-in-internet-of-things/2/#1971ac3a34c9|title=Is Fog Computing the Next Big Thing in the Internet of Things|last=Janakiram|first=MSV|date=18 April 2016|work=Forbes Magazine|access-date=18 April 2016}}</ref> Intel's Chief Strategist for the IoT Strategy and Technology Office, Jeff Faders, became the consortium's first president.<ref>{{cite web|url=https://www.openfogconsortium.org/about-us/#governance|title=About Us - OpenFog Consortium|website=www.openfogconsortium.org}}</ref>
+
+===Conflict-free production===
+In 2009, Intel announced that it planned to undertake an effort to remove [[conflict resource]]s—materials sourced from mines whose profits are used to fund armed militant groups, particularly within the [[Democratic Republic of the Congo]]—from its supply chain. Intel sought conflict-free sources of the precious metals common to electronics from within the country, using a system of first- and third-party audits, as well as input from the [[Enough Project]] and other organizations. During a keynote address at [[Consumer Electronics Show]] 2014, Intel CEO at the time, Brian Krzanich, announced that the company's microprocessors would henceforth be conflict free. In 2016, Intel stated that it had expected its entire supply chain to be conflict-free by the end of the year.<ref>{{Cite news|url=https://www.theguardian.com/sustainable-business/intel-conflict-minerals-ces-congo-electronics|title=Intel unveils conflict-free processors: will the industry follow suit?|last=Gunther|first=Marc|date=2014-01-13|work=The Guardian|access-date=2017-11-06|language=en-GB|issn=0261-3077}}</ref><ref>{{Cite news|url=https://www.fastcompany.com/3055066/in-2016-intels-entire-supply-chain-will-be-conflict-free|title=In 2016, Intel's Entire Supply Chain Will Be Conflict-Free|date=2016-01-05|work=Fast Company|access-date=2017-11-06|language=en-US}}</ref><ref>{{Cite news|url=https://www.fastcompany.com/3024292/starting-now-all-intel-microprocessors-are-conflict-free-heres-how-the-company-did-it|title=Starting Now, All Intel Microprocessors Are Conflict-Free: Here's How The Company Did It|date=2014-01-06|work=Fast Company|access-date=2017-11-06|language=en-US}}</ref>
+
+===Self-driving cars===
+Intel is one of the biggest stakeholders in the [[self-driving car]] industry, having joined the race in mid 2017<ref>{{Cite web|url=https://www.cnbc.com/2017/08/09/intel-has-joined-the-self-driving-car-race.html|title=Intel has joined the self-driving car race|last=Balakrishnan|first=Anita|date=August 9, 2017|website=CNBC}}</ref> after joining forces with Mobileye.<ref>{{Cite web|url=https://www.intel.com/content/www/us/en/automotive/autonomous-vehicles.html|title=The Next Era of Driving is Here|website=Intel}}</ref> The company is also one of the first in the sector to research consumer acceptance, after an AAA report quoted a 78% nonacceptance rate of the technology in the US.<ref name=":1">{{Cite web|url=https://www.engadget.com/2017/08/24/intel-studies-how-to-make-people-accept-self-driving-cars/|title=Intel studies how to make people accept self-driving cars|last=Baldwin|first=Roberto|date=24 August 2017}}</ref>
+
+Safety levels of the technology, the thought of abandoning control to a machine, and psychological comfort of passengers in such situations were the major discussion topics initially. The commuters also stated that they did not want to see everything the car was doing. This was primarily a referral to the auto-steering wheel with no one sitting in the driving seat. Intel also learned that voice control regulator is vital, and the interface between the humans and machine eases the discomfort condition, and brings some sense of control back.<ref name=":0">{{Cite web|url=https://www.linkedin.com/pulse/intel-studies-self-driving-car-tackling-question-consumer-ahmad/|archive-url=https://archive.today/20171102060742/https://www.linkedin.com/pulse/intel-studies-self-driving-car-tackling-question-consumer-ahmad/|url-status=dead|archive-date=2 November 2017|title=Intel Studies the Self-Driving Car: Tackling the Question of Consumer Acceptance|last=Ahmad|first=Taseer|date=29 August 2017|website=LinkedIn Pulse}}</ref> It is important to mention that Intel included only 10 people in this study, which makes the study less credible.<ref name=":1" /> In a video posted on YouTube,<ref>{{Cite web|url=https://www.youtube.com/watch?v=YdEjbHzMAiM|title=Trust and Autonomous Driving|website=Youtube}}</ref> Intel accepted this fact and called for further testing.
+
+==Corporate affairs==
+===Leadership and corporate structure===
+[[File:Otellini Barrett Maloney.jpg|thumb|Paul Otellini, Craig Barrett and Sean Maloney.(2006)]]
+[[Robert Noyce]] was Intel's CEO at its founding in 1968, followed by co-founder [[Gordon Moore]] in 1975. [[Andy Grove]] became the company's president in 1979 and added the CEO title in 1987 when Moore became chairman. In 1998, Grove succeeded Moore as Chairman, and [[Craig Barrett (Intel President)|Craig Barrett]], already company president, took over. On May 18, 2005, Barrett handed the reins of the company over to [[Paul Otellini]], who had been the company president and COO and who was responsible for Intel's design win in the original [[IBM PC]]. The board of directors elected Otellini as President and CEO, and Barrett replaced Grove as [[Board of directors|Chairman of the Board]]. Grove stepped down as chairman but is retained as a special adviser. In May 2009, Barrett stepped down as chairman of the Board and was succeeded by Jane Shaw. In May 2012, Intel vice chairman Andy Bryant, who had held the posts of CFO (1994) and Chief Administrative Officer (2007) at Intel, succeeded Shaw as executive chairman.<ref>{{cite press release|url=http://newsroom.intel.com/community/intel_newsroom/blog/2012/01/20/intel-announces-management-changes |title=Intel Announces Management Changes|publisher=Intel|date=January 20, 2012|access-date=December 25, 2012}}</ref>
+
+In November 2012, president and CEO Paul Otellini announced that he would step down in May 2013 at the age of 62, three years before the company's mandatory retirement age. During a six-month transition period, Intel's board of directors commenced a search process for the next CEO, in which it considered both internal managers and external candidates such as [[Sanjay Jha (businessman)|Sanjay Jha]] and Patrick Gelsinger.<ref>{{cite web|title=Intel CEO Paul Otellini to step down in May, leaves a legacy of x86 dominance|url=https://www.engadget.com/2012/11/19/intel-ceo-paul-otellini-to-step-down-in-may/ |work=Engadget|publisher=AOL Inc|access-date=May 16, 2013|author=Terrence O'Brien|date=November 19, 2012}}</ref> Financial results revealed that, under Otellini, Intel's revenue increased by 55.8 percent (US$34.2 to 53.3 billion), while its net income increased by 46.7% (US$7.5 billion to 11 billion).<ref>{{cite web|title=On the Impact of Paul Otellini's CEO Years at Intel|url=http://techpinions.com/on-the-impact-of-paul-otellinis-ceo-years-at-intel/15800 |work=Tech.pinions|publisher=Tech.pinions |access-date=May 16, 2013|author=Peter Kastner|date=May 6, 2013}}</ref>
+
+On May 2, 2013, Executive Vice President and COO [[Brian Krzanich]] was elected as Intel's sixth CEO,<ref name="Alexis">{{cite web|title=Paul Otellini's Intel: Can the Company That Built the Future Survive It?|url=https://www.theatlantic.com/technology/archive/2013/05/can-the-company-that-built-the-future-survive-it/275825/ |work=The Atlantic Monthly|publisher=The Atlantic Media Group|access-date=May 16, 2013|author=ALEXIS C. MADRIGAL|date=May 16, 2013 |archive-url=https://web.archive.org/web/20200828034416/http://www.theatlantic.com/technology/archive/2013/05/paul-otellinis-intel-can-the-company-that-built-the-future-survive-it/275825/ |archive-date=August 28, 2020 |url-status=live}}</ref> a selection that became effective on May 16, 2013, at the company's annual meeting. Reportedly, the board concluded that an insider could proceed with the role and exert an impact more quickly, without the need to learn Intel's processes, and Krzanich was selected on such a basis.<ref>{{cite press release|url=http://newsroom.intel.com/community/intel_newsroom/blog/2013/05/02/intel-board-elects-brian-krzanich-as-ceo |title=Intel Board Elects Brian Krzanich as CEO|publisher=Intel|access-date=May 4, 2013}}</ref> Intel's software head [[Renée James]] was selected as president of the company, a role that is second to the CEO position.<ref>{{cite news|title=Intel's CEO Pick Is Predictable, but Not Its No. 2|url=https://www.wsj.com/articles/SB10001424127887324766604578458650267324178 |access-date=May 16, 2013|newspaper=The Wall Street Journal|date=May 2, 2013|author=DON CLARK|author2=JOANN S. LUBLIN}}</ref>
+
+As of May 2013, Intel's board of directors consists of Andy Bryant, John Donahoe, Frank Yeary, Ambassador [[Charlene Barshefsky]], [[Susan Decker]], [[Reed Hundt]], Paul Otellini, James Plummer, David Pottruck, and David Yoffie and Creative director [[will.i.am]]. The board was described by former ''Financial Times'' journalist Tom Foremski as "an exemplary example of corporate governance of the highest order" and received a rating of ten from GovernanceMetrics International, a form of recognition that has only been awarded to twenty-one other corporate boards worldwide.<ref>{{cite web|title=Meet Intel's King Makers – A Truly Exemplary Board Of Directors|url= http://www.siliconvalleywatcher.com/mt/archives/2013/05/meet_intels_king_make.php |work=Silicon Valley Watcher|publisher=Tom Foremski|access-date=May 16, 2013|author=Tom Foremski|date=May 1, 2013}}</ref>
+
+On June 21, 2018, Intel announced the resignation of Brian Krzanich as CEO, with the exposure of a relationship he had with an employee. [[Robert H. Swan|Bob Swan]] was named interim CEO, as the Board began a search for a permanent CEO.
+
+On January 31, 2019, [[Robert H. Swan|Swan]] transitioned from his role as CFO and interim CEO and was named by the Board as the 7th CEO to lead the company.<ref>{{Cite web|url=https://newsroom.intel.com/news/swan-email-intel-employees-customers-partners/ |title=Robert (Bob) Swan's Email to Intel Employees, Customers and Partners on First Day as CEO|website=Intel Newsroom|language=en-US|access-date=2019-01-31}}</ref>
+
+===Board of directors===
+As of 17 May 2020:<ref>https://newsroom.intel.com/biographies/board-of-directors/#gs.684lat Intel Board</ref>
+* [[Omar Ishrak]] (chairman), chairman and former CEO of [[Medtronic]]
+* [[Bob Swan]], CEO of Intel
+* [[Jim Goetz|James Goetz]], managing director of [[Sequoia Capital]]
+* Alyssa Henry, [[Square, Inc.]] executive
+* [[Risa Lavizzo-Mourey]], former president and CEO of the [[Robert Wood Johnson Foundation]]
+* [[Tsu-Jae King Liu]], professor at the [[UC Berkeley College of Engineering]]
+* Gregory Smith, CFO of [[Boeing]]
+* [[Andrew Wilson (businessman)|Andrew Wilson]], CEO of [[Electronic Arts]]
+* Frank Leary, managing member of Darwin Capital
+
+===Ownership===
+As of 2017 Intel shares are mainly held by institutional investors ([[The Vanguard Group]], [[BlackRock]], [[Capital Group Companies]], [[State Street Corporation]] and others<ref>{{cite web|url=http://www.nasdaq.com/symbol/intc/ownership-summary|title=Intel Corporation (INTC) Ownership Summary|website=NASDAQ.com}}</ref>)
+
+===Employment===
+{{More citations needed section|date=October 2008}}
+[[File:Intel Costa 12 2007 SJO 105b.jpg|thumb|Intel microprocessor facility in [[Costa Rica]] was responsible in 2006 for 20% of Costa Rican exports and 4.9% of the country's GDP.<ref>{{cite news|url=http://eleconomista.es/empresas-finanzas/noticias/81837/10/06/Intel-supone-el-49-por-ciento-del-PIB-de-Costa-Rica.html |title=Intel supone el 4,9 por ciento del PIB de Costa Rica|date=October 6, 2006|newspaper=El Economista|access-date=April 13, 2008|language=es }}</ref>]]
+
+The firm promotes very heavily from within, most notably in its executive suite. The company has resisted the trend toward outsider CEOs. Paul Otellini was a 30-year veteran of the company when he assumed the role of CEO. All of his top lieutenants have risen through the ranks after many years with the firm. In many cases, Intel's top executives have spent their entire working careers with Intel.{{Citation needed|date=January 2009}}
+
+Intel has a mandatory retirement policy for its CEOs when they reach age 65. Andy Grove retired at 62, while both Robert Noyce and Gordon Moore retired at 58. Grove retired as Chairman and as a member of the board of directors in 2005 at age 68.
+
+Intel's headquarters are located in Santa Clara, California, and the company has [[List of Intel manufacturing sites|operations around the world]]. Its largest workforce concentration anywhere is in [[Washington County, Oregon]]<ref name=oregonian-2012oct>{{cite news|last=Rogoway|first=Mike|title=Intel makes a bet on the future, and Oregon, with massive Hillsboro expansion|newspaper=[[The Oregonian]]|date=October 24, 2012|location=Portland, Oregon|url=http://www.oregonlive.com/silicon-forest/index.ssf/2012/10/intel_makes_a_bet_on_oregon_an.html|access-date=August 9, 2015}}</ref> (in the [[Portland metropolitan area]]'s "[[Silicon Forest]]"), with 18,600 employees at several facilities.<ref name=oregonian-2015aug8>{{cite news|last=Rogoway|first=Mike|title=Intel layoffs: Employees say chipmaker changed the rules, undermining 'meritocracy'|newspaper=[[The Oregonian]]|date=August 8, 2015|url=http://www.oregonlive.com/silicon-forest/index.ssf/2015/08/intel_layoffs_former_employees.html |access-date=August 9, 2015}}</ref> Outside the United States, the company has facilities in China, Costa Rica, [[Malaysia]], Israel, Ireland, India, [[Russia]], Argentina and [[Vietnam]], in 63 countries and regions internationally. In the U.S. Intel employs significant numbers of people in California, [[Colorado]], [[Massachusetts]], [[Arizona]], [[New Mexico]], [[Oregon]], Texas, [[Washington (state)|Washington]] and [[Utah]]. In Oregon, Intel is the state's largest private employer.<ref name=oregonian-2015aug8/><ref name=businessprofile>Suh, Elizabeth (October 28, 2007). [http://www.oregonlive.com/special/oregonian/index.ssf?/base/news/1192589730189230.xml&coll=7 Home of Oregon's largest employer and much more.] ''[[The Oregonian]]''.</ref> The company is the largest industrial employer in [[New Mexico]] while in Arizona the company has over 10,000 employees.{{Citation needed|date=February 2011}}
+
+Intel invests heavily in research in China and about 100 researchers{{snd}} or 10% of the total number of researchers from Intel{{snd}} are located in Beijing.<ref>Mads Ølholm, semiaccurate. "[http://semiaccurate.com/2011/06/13/intel-chinese-microprocessor-development-inefficient/ Intel: Chinese microprocessor development inefficient]." June 13, 2011. Retrieved June 20, 2011.</ref>
+
+In 2011, the Israeli government offered Intel $290 million to expand in the country. As a condition, Intel would employ 1,500 more workers in [[Kiryat Gat]] and between 600–1000 workers in the north.<ref>Peter Clarke, ''EE Times''. "[http://eetimes.com/electronics-news/4218253/Israel-Intel-grant-expand Israel offers Intel $290 million for expansion]." July 27, 2011. Retrieved July 27, 2011.</ref>
+
+In January 2014, it was reported that Intel would cut about 5,000 jobs from its work force of 107,000. The announcement was made a day after it reported earnings that missed analyst targets.<ref>{{cite news | url= https://venturebeat.com/2014/01/17/intel-to-cut-more-than-5000-employees/#! |title= Intel to cut more than 5,000 employees
+|publisher= [[Venture Beat]] |date=January 18, 2014 }}</ref>
+
+In March 2014, it was reported that Intel would embark upon a $6 billion plan to expand its activities in Israel. The plan calls for continued investment in existing and new Intel plants until 2030. {{As of|2014}}, Intel employs 10,000 workers at four development centers and two production plants in Israel.<ref>IsraelBizReg{{snd}} Israel Company Profiles. "[https://www.israelbizreg.com/blog/intel-invest-6-billion-israel-unprecedented-deal Intel to invest $6 billion in Israel in unprecedented deal]." May 8, 2014. Retrieved September 11, 2014.</ref>
+
+==== Diversity ====
+Intel has a Diversity Initiative, including employee diversity groups as well as supplier diversity programs.<ref name="Intel Diversity">{{cite web|url=http://www.intel.com/jobs/diversity/index.htm |title=Jobs at Intel – Diversity |access-date=July 28, 2007 |publisher=Intel Corporation }}</ref> Like many companies with employee diversity groups, they include groups based on race and nationality as well as sexual identity and religion. In 1994, Intel sanctioned one of the earliest corporate Gay, Lesbian, Bisexual, and Transgender employee groups,<ref name="gay">[http://www.intelglbt.org/ Intel Gay, Lesbian, Bisexual or Transgender Employees Home Page]. Intelglbt.org (July 16, 2008). Retrieved on July 8, 2011.</ref> and supports a Muslim employees group,<ref name="IMEG">{{cite web|url=http://www.intel.com/jobs/diversity/people/emplgroups.htm?grp=13 |title=Jobs at Intel – Diversity, Employee Groups (Intel Muslim Employee Group) |access-date=July 28, 2007 |publisher=Intel Corporation |archive-url = https://web.archive.org/web/20060624003954/http://www.intel.com/jobs/diversity/people/emplgroups.htm?grp=13 |archive-date = June 24, 2006}}</ref> a Jewish employees group,<ref name="IJC">{{cite web|url=http://www.intel.com/jobs/diversity/people/emplgroups.htm?grp=11 |title=Jobs at Intel – Diversity, Employee Groups (Intel Jewish Community) |access-date=July 28, 2007 |publisher=Intel Corporation |archive-url = https://web.archive.org/web/20080202081009/http://www.intel.com/jobs/diversity/people/emplgroups.htm?grp=11 |archive-date = February 2, 2008}}</ref> and a Bible-based Christian group.<ref name="IBCN">{{cite web|url=http://www.intel.com/jobs/diversity/people/emplgroups.htm?grp=7 |title=Jobs at Intel – Diversity, Employee Groups (Intel Bible-Based Christian Network) |access-date=July 28, 2007 |publisher=Intel Corporation |archive-url = https://web.archive.org/web/20070311222133/http://www.intel.com/jobs/diversity/people/emplgroups.htm?grp=7 |archive-date = March 11, 2007}}</ref><ref name="IBCN website">[http://ibcn.org/ Intel Bible-Based Christian Network (IBCN) website]. IBCN (April 8, 2011). Retrieved on July 8, 2011.</ref>
+
+Intel has received a 100% rating on numerous [[Corporate Equality Index|Corporate Equality Indices]] released by the [[Human Rights Campaign]] including the first one released in 2002. In addition, the company is frequently named one of the 100 Best Companies for Working Mothers by ''[[Working Mother]]'' magazine.
+
+In January 2015, Intel announced the investment of $300 million over the next five years to enhance gender and racial diversity in their own company as well as the technology industry as a whole.<ref name=GamasutraIntel>[http://www.gamasutra.com/view/news/233716/Intel_to_invest_300_million_in_tech_game_diversity.php Intel to invest $300 million in tech, game diversity]. Graft, Kris. [[Gamasutra]]. January 7, 2015</ref><ref name=PCM>[https://www.pcmag.com/article2/0,2817,2474749,00.asp Intel Announces $300 Million Tech Diversity Initiative]. Moscaritolo, Angela. ''[[PC Magazine]]''. January 7, 2015</ref><ref name=Intel>[http://newsroom.intel.com/community/intel_newsroom/blog/2015/01/06/intel-ceo-outlines-future-of-computing Intel CEO Outlines Future of Computing]. Intel, January 6, 2015</ref><ref>Nick Wingfield, "[https://www.nytimes.com/2015/01/07/technology/intel-budgets-300-million-for-diversity.html Intel Budgets $300 Million for Diversity]", ''The New York Times''</ref><ref name=WiredUK>[https://www.wired.co.uk/news/archive/2015-01/07/intel-diversity Intel announces fund for greater tech diversity] {{webarchive |url=https://web.archive.org/web/20150225035112/http://www.wired.co.uk/news/archive/2015-01/07/intel-diversity |date=February 25, 2015 }}. Kamen, Matt. [[Wired UK]], January 7, 2015</ref>
+
+In February 2016, Intel released its Global Diversity & Inclusion 2015 Annual Report.<ref name="Intel Diversity Report 2015">{{cite web|url=http://www.intel.com/content/www/us/en/diversity/diversity-in-technology-annual-report.html |title=Intel Diversity Report 2015 |access-date=February 5, 2016 |publisher=Intel Corporation }}</ref> The male-female mix of US employees was reported as 75.2% men and 24.8% women. For US employees in technical roles, the mix was reported as 79.8% male and 20.1% female.<ref name="Intel Diversity Report 2015"/> [[NPR]] reports that Intel is facing a retention problem (particularly for [[African Americans]]), not just a pipeline problem.<ref name="NPR Report Intel Diversity">{{cite web|url=https://www.npr.org/sections/alltechconsidered/2016/02/03/465270938/intel-discloses-diversity-data-challenges-tech-industry-to-follow-suit |title=Intel Discloses Diversity Data, Challenges Industry to Follow Suit |access-date=February 5, 2016 |publisher=National Public Radio }}</ref>
+
+===Economic impact in Oregon in 2009===
+In 2011, ECONorthwest conducted an [[economic impact analysis]] of Intel's economic contribution to the state of Oregon. The report found that in 2009 "the total economic impacts attributed to Intel's operations, capital spending, contributions and taxes amounted to almost $14.6 billion in activity, including $4.3 billion in personal income and 59,990 jobs".<ref>{{cite news|last=Eckert|first=Kurt|title=Intel Boosts County, State Economies|newspaper=[[Hillsboro Argus]]|date=October 18, 2011|url= http://www.oregonlive.com/argus/index.ssf/2011/10/intel_boosts_county_state_econ.html}}</ref> Through multiplier effects, every 10 Intel jobs supported, on average, was found to create 31 jobs in other sectors of the economy.<ref>{{cite web|publisher=ECONorthwest|title=Economic Impacts of Intel's Oregon Operations, 2009|date=October 2011|url=http://www.intel.com/content/dam/www/public/us/en/documents/reports/intel-oregon-economic-impact-report.pdf}}</ref>
+
+===School funding in New Mexico in 1997===
+In [[Rio Rancho, New Mexico]], Intel is the leading employer.<ref>{{Cite news|title=Wireless company dumps Rio Rancho|url=https://www.usatoday.com/tech/wireless/data/2004-08-18-usurf-dumps-rio-rancho_x.htm|work=USA Today|date=August 18, 2004|access-date=February 28, 2009}}</ref> In 1997, a community partnership between [[Sandoval County]] and Intel Corporation funded and built [[Rio Rancho High School]].<ref>{{cite web|url=http://www.riorancho.com/rrsch.html |title=RIO RANCHO school district |publisher=Riorancho.com |access-date=July 29, 2010}}</ref><ref>{{cite web|url=http://www.intel.com/community/newmexico/media.htm |title=Intel in Your Community – New Mexico – News Room |publisher=Intel Corporation |access-date=July 29, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20090228004507/http://www.intel.com/community/newmexico/media.htm |archive-date=February 28, 2009 }}</ref>
+
+===Ultrabook fund (2011)===
+In 2011, Intel Capital announced a new fund to support startups working on technologies in line with the company's concept for next generation notebooks.<ref name=ultrabook>Rick Merritt, EE Times. "[http://eetimes.com/electronics-news/4218699/Intel-Capital-launches--300M-ultrabook-fund Intel Capital launches $300M ultrabook fund]." August 10, 2011. Retrieved August 11, 2011.</ref> The company is setting aside a $300 million fund to be spent over the next three to four years in areas related to ultrabooks.<ref name=ultrabook/> Intel announced the ultrabook concept at Computex in 2011. The ultrabook is defined as a thin (less than 0.8&nbsp;inches [~2&nbsp;cm] thick<ref name=jeffrey/>) notebook that utilizes Intel processors<ref name=jeffrey/> and also incorporates tablet features such as a touch screen and long battery life.<ref name=ultrabook/><ref name=jeffrey/>
+
+At the Intel Developers Forum in 2011, four Taiwan ODMs showed prototype ultrabooks that used Intel's Ivy Bridge chips.<ref>Rick Merritt, EE Times. "[http://eetimes.com/electronics-news/4227333/Intel-shows-progress-on-ultrabook-vision Intel shows progress on ultrabook vision]." September 14, 2011. Retrieved September 14, 2011.</ref> Intel plans to improve power consumption of its chips for ultrabooks, like new Ivy Bridge processors in 2013, which will only have 10W default thermal design power.<ref>{{cite web|last=Shilov|first=Anton|title=Intel Readies "Ivy Bridge" Processors with 7W – 13W Power Consumption.|url=http://www.xbitlabs.com/news/cpu/display/20121205221523_Intel_Readies_Ivy_Bridge_Processors_with_10W_and_13W_Thermal_Design_Power.html|publisher=X-bit labs|access-date=February 19, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130214120949/http://www.xbitlabs.com/news/cpu/display/20121205221523_Intel_Readies_Ivy_Bridge_Processors_with_10W_and_13W_Thermal_Design_Power.html|archive-date=February 14, 2013|df=mdy-all}}</ref>
+
+Intel's goal for Ultrabook's price is below $1000;<ref name=jeffrey>Jeffrey Burt, eWeek. "[http://www.eweek.com/c/a/Mobile-and-Wireless/Intel-Ultrabook-Partners-Look-for-Cut-in-Chip-Prices-Report-830199/ Intel Ultrabook Partners Look for Cut in Chip Prices: Report]." September 20, 2011. Retrieved September 28, 2011.</ref> however, according to two presidents from Acer and Compaq, this goal will not be achieved if Intel does not lower the price of its chips.<ref>Aaron Lee & [[Joseph Tsai]], DIGITIMES. "[http://www.digitimes.com/news/a20110919PD214.html Intel downstream partners request CPU price drop]." September 20, 2011. Retrieved September 28, 2011.</ref>
+
+===Marketing===<!-- This section is linked from [[x86|X86 architecture]] -->
+
+====Intel Inside====
+Intel has become one of the world's most recognizable computer brands following its long-running ''Intel Inside'' [[advertising campaign|campaign]]. The idea for "Intel Inside" came out of a meeting between Intel and one of the major computer resellers, [[MicroAge]].<ref name="Mion">Ronald J. Mion, former Vice President of Marketing (2/88-7/89), MicroAge, cited February, 2016</ref>
+
+In the late 1980s, Intel's market share was being seriously eroded by upstart competitors such as Advanced Micro Devices (now AMD), Zilog, and others who had started to sell their less expensive microprocessors to computer manufacturers. This was because, by using cheaper processors, manufacturers could make cheaper computers and gain more market share in an increasingly price-sensitive market. In 1989, Intel's Dennis Carter visited MicroAge's headquarters in Tempe, Arizona, to meet with MicroAge's VP of Marketing, Ron Mion. MicroAge had become one of the largest distributors of Compaq, IBM, HP, and others and thus was a primary{{snd}} although indirect{{snd}} driver of demand for microprocessors. Intel wanted MicroAge to petition its computer suppliers to favor Intel chips. However, Mion felt that the marketplace should decide which processors they wanted. Intel's counterargument was that it would be too difficult to educate PC buyers on why Intel microprocessors were worth paying more for ... and they were right.<ref name="Mion"/> But Mion felt that the public didn't really need to fully understand why Intel chips were better, they just needed to feel they were better. So Mion proposed a market test. Intel would pay for a MicroAge billboard somewhere saying, "If you're buying a personal computer, make sure it has Intel inside." In turn, MicroAge would put "Intel Inside" stickers on the Intel-based computers in their stores in that area. To make the test easier to monitor, Mion decided to do the test in Boulder, Colorado, where it had a single store. Virtually overnight, the sales of personal computers in that store dramatically shifted to Intel-based PCs. Intel very quickly adopted "Intel Inside" as its primary branding and rolled it out worldwide.<ref name="Mion"/>
+
+As is often the case with computer lore, other tidbits have been combined to explain how things evolved. "Intel Inside" has not escaped that tendency and there are other "explanations" that had been floating around.
+
+Intel's branding campaign started with "The Computer Inside" tagline in 1990 in the US and Europe. The Japan chapter of Intel proposed an "Intel in it" tagline and kicked off the Japanese campaign by hosting EKI-KON (meaning "Station Concert" in Japanese) at the Tokyo railway station dome on Christmas Day, December 25, 1990. Several months later, "The Computer Inside" incorporated the Japan idea to become "Intel Inside" which eventually elevated to the worldwide branding campaign in 1991, by Intel marketing manager Dennis Carter.<ref>{{cite web|title=Intel Inside Program: Anatomy of a Brand Campaign|url=http://www.intel.com/pressroom/intel_inside.htm|publisher=Intel Corporation|access-date=July 22, 2011}}</ref> A case study, "Inside Intel Inside", was put together by Harvard Business School.<ref>{{cite web|url=http://www.hbs.edu/faculty/Pages/item.aspx?num=29096|title=Inside Intel Inside|first1=Youngme E.|last1=Moon |first2=Christina L.|last2=Darwall|id=Harvard Business School Case 502-083|date=June 2002}}</ref> The five-note jingle was introduced in 1994 and by its tenth anniversary was being heard in 130 countries around the world. The initial branding agency for the "Intel Inside" campaign was DahlinSmithWhite Advertising of [[Salt Lake City]]. The Intel ''swirl'' logo was the work of DahlinSmithWhite art director Steve Grigg under the direction of Intel president and CEO Andy Grove.{{citation needed|date=February 2016}}
+
+The ''Intel Inside'' advertising campaign sought public brand loyalty and awareness of Intel processors in consumer computers.<ref>{{Cite news|title=Intel plans a huge fall campaign for Pentium, its latest and most powerful computer chip.|url=https://www.nytimes.com/1994/08/24/business/media-business-advertising-intel-plans-huge-fall-campaign-for-pentium-its-latest.html | first=Stuart | last=Elliott | date=August 24, 1994 | work=The New York Times}}</ref> Intel paid some of the advertiser's costs for an ad that used the ''Intel Inside'' logo and [[xylo-marimba]] jingle.<ref>{{cite web|title=Intel mulls branding for handheld chips |url=http://news.cnet.com/Intel-mulls-branding-for-handheld-chips/2100-1041_3-1014468.html|first=Richard|last=Shim|date=June 9, 2003|website=[[CNET]]}}</ref>
+
+[[File:Intel PentiumDC 2009.png|thumb|upright=0.5|2009–2013 Pentium Inside badge design]]
+
+In 2008, Intel planned to shift the emphasis of its Intel Inside campaign from traditional media such as television and print to newer media such as the Internet.<ref name="IHT" /> Intel required that a minimum of 35% of the money it provided to the companies in its co-op program be used for online marketing.<ref name="IHT">{{Cite news|first=Stuart |last=Elliott |title='Intel inside' ad campaign shifts focus to the Web |date=October 11, 2007 |url=http://www.iht.com/articles/2007/10/11/business/adco.php?WT.mc_id=atomtechnology |work=International Herald Tribune |access-date=October 12, 2007}}</ref> The Intel 2010 annual financial report indicated that $1.8 billion (6% of the gross margin and nearly 16% of the total net income) was allocated to all advertising with Intel Inside being part of that.<ref>{{cite web |url=http://www.intc.com/intelAR2010/financial/statements/note2/ |title=Intel 2010 Annual Report |publisher=Intel |year=2010 |access-date=July 23, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20150520021742/http://www.intc.com/intelAR2010/financial/statements/note2/ |archive-date=May 20, 2015 |df=mdy-all }}</ref>
+
+====Sonic logo====
+The famous D♭&nbsp; D♭&nbsp; G♭&nbsp; D♭&nbsp; A♭ xylophone/xylomarimba [[jingle]], sonic logo, tag, audio [[mnemonic]] was produced by [[Musikvergnuegen]] and written by [[Walter Werzowa]], once a member of the Austrian 1980s sampling band [[Edelweiss (band)|Edelweiss]].<ref name=jingle>{{Cite news|author=Paul Morley|title=Boot me up, Dessie|url=http://observer.guardian.co.uk/print/0,3858,4774366-111639,00.html|work=The Observer|location=UK|date=October 19, 2003|access-date=January 17, 2009|author-link=Paul Morley|archive-url=https://web.archive.org/web/20080205232833/http://observer.guardian.co.uk/print/0,3858,4774366-111639,00.html|archive-date=February 5, 2008|url-status=dead}}</ref> The sonic Intel logo was remade in 1999 to coincide with the launch of the Pentium III, and a second time in 2004 to coincide with the new logo change (although it overlapped with the 1999 version and was not mainstreamed until the launch of the Core processors in 2006), with the melody unchanged. Advertisements for products featuring Intel processors with prominent MMX branding featured a version of the jingle with an embellishment (shining sound) after the final note.
+
+====Processor naming strategy====
+In 2006, Intel expanded its promotion of open specification platforms beyond [[Centrino]], to include the [[Viiv]] media center PC and the business desktop [[Intel vPro]].
+
+In mid-January 2006, Intel announced that they were dropping the long running ''Pentium'' name from their processors. The Pentium name was first used to refer to the P5 core Intel processors and was done to comply with court rulings that prevent the trademarking of a string of numbers, so competitors could not just call their processor the same name, as had been done with the prior 386 and 486 processors (both of which had copies manufactured by IBM and AMD). They phased out the Pentium names from mobile processors first, when the new [[Yonah (microprocessor)|Yonah]] chips, branded [[Intel Core|Core]] Solo and Core Duo, were released. The desktop processors changed when the Core 2 line of processors were released. By 2009, Intel was using a good-better-best strategy with Celeron being good, Pentium better, and the Intel Core family representing the best the company has to offer.<ref>{{Cite news |url=http://www.pcworld.com/article/166973/intels_chip_renaming_strategy_meets_resistance.html |title=Intel's Chip Renaming Strategy Meets Resistance |last=Shah |first=Agam |work=[[PC World (magazine)|PC World]] |access-date=June 22, 2009}}</ref>
+
+According to spokesman Bill Calder, Intel has maintained only the Celeron brand, the Atom brand for netbooks and the vPro lineup for businesses. Since late 2009, Intel's mainstream processors have been called Celeron, Pentium, Core i3, Core i5, Core i7, and Core i9 in order of performance from lowest to highest. The first generation core products carry a 3 digit name, such as i5 750, and the second generation products carry a 4 digit name, such as the i5 2500. In both cases, a K at the end of it shows that it is an unlocked processor, enabling additional overclocking abilities (for instance, 2500K). vPro products will carry the Intel Core i7 vPro processor or the Intel Core i5 vPro processor name.<ref name=Mag>{{Cite news |url=https://www.pcmag.com/article2/0,2817,2348923,00.asp |title=Intel Simplifying its Processor Branding |last=Hachman |first=Mark |date=June 17, 2009 |work=[[PC Magazine]] |access-date=July 6, 2009}}</ref> In October 2011, Intel started to sell its Core i7-2700K "Sandy Bridge" chip to customers worldwide.<ref>Anton Shilov, XBitLabs. "[http://www.xbitlabs.com/news/cpu/display/20111024150841_Intel_Quietly_Starts_to_Sell_New_Unlocked_Core_i7_Chip.html Intel Quietly Starts to Sell New "Unlocked" Core i7 Chip] {{webarchive|url=https://web.archive.org/web/20111026194759/http://www.xbitlabs.com/news/cpu/display/20111024150841_Intel_Quietly_Starts_to_Sell_New_Unlocked_Core_i7_Chip.html |date=October 26, 2011 }}." October 24, 2011. Retrieved October 26, 2011.</ref>
+
+Since 2010, "Centrino" is only being applied to Intel's WiMAX and Wi-Fi technologies.<ref name=Mag/>
+
+====Typography====
+Neo Sans Intel is a customized version of [[Neo Sans]] based on the Neo Sans and Neo Tech, designed by Sebastian Lester in 2004.<ref>{{cite web|url=https://fontmeme.com/intel-font/|title=Intel Font and Intel Logo|website=fontmeme.com}}</ref>
+
+Intel Clear is a global font announced in 2014 designed for to be used across all communications.<ref>{{cite web|url=http://newsroom.intel.com/chip-shots/chip-shot-intel-clear-designed-to-optimize-communications/|title=Chip Shot: Intel Clear Designed to Optimize Communications}}</ref><ref>{{cite web|url=http://www.webdesignerdepot.com/2014/05/intel-unveils-its-new-brand-typeface/|title=Intel unveils its new brand typeface - Webdesigner Depot|date=May 20, 2014}}</ref> The font family was designed by [[Red Peek Branding]] and [[Dalton Maag]]<ref name="auto">{{cite web|url=https://blogs.wsj.com/cmo/2014/04/07/whats-different-about-intel/|title=What's Different About Intel?|first=Nathalie|last=Tadena|date=April 7, 2014}}</ref> Initially available in Latin, Greek and Cyrillic scripts, it replaced Neo Sans Intel as the company's corporate typeface.<ref>{{cite web|url=http://creativity-online.com/work/intel-intel-clear/34786|title=Intel: Intel Clear}}</ref><ref>{{cite web|url=http://adage.com/article/digital/inside-intel-s-proprietary-font-design/292577/|title=The Inside Story Behind Intel's Proprietary Font Design}}</ref> Intel Clear Hebrew, Intel Clear Arabic were added by Daltan Maag Ltd.<ref>{{cite web|url=http://www.daltonmaag.com/work/intel|title=Dalton Maag - Intel|website=www.daltonmaag.com}}</ref>
+
+====Intel Brand Book====
+It is a book produced by Red Peak Branding as part of new brand identity campaign, celebrating Intel's achievements while setting the new standard for what Intel looks, feels and sounds like.<ref>{{cite web|url=http://red-peak.com/work/intelbrandbook|title=Intel Brand Book - RedPeak|date=January 1, 2018|website=RedPeak}}</ref>
+
+===Open source support===
+Intel has a significant participation in the [[Open-source software|open source]] communities since 1999.<ref>{{Cite web|url=https://01.org/zh/about|title=01.org|access-date=November 26, 2014}}</ref>{{Self-published source|date=August 2018}} For example, in 2006 Intel released [[MIT license|MIT-licensed]] [[X.Org Server|X.org]] drivers for their integrated [[graphic card]]s of the i965 family of chipsets. Intel released [[FreeBSD]] drivers for some networking cards,<ref>{{cite web|url=http://www.freebsd.org/cgi/man.cgi?query=em |title=FreeBSD Kernel Interfaces Manual |access-date=August 5, 2007 |date=November 27, 2005 |work=freebsd.org |publisher=The FreeBSD Project }}</ref> available under a BSD-compatible license,<ref name=bsd.em>{{cite web|url=http://bxr.su/OpenBSD/sys/dev/pci/if_em.c |author=Intel Corporation |editor=[[OpenBSD]] |title=if_em.c (Intel PRO/1000 10/100/Gigabit Ethernet device) |website=BSD Cross Reference, OpenBSD src/sys/dev/pci/}}</ref> which were also ported to [[OpenBSD]].<ref name=bsd.em /> Binary [[firmware]] files for non-wireless [[Ethernet]] devices were also released under a [[BSD licence]] allowing [[Freely redistributable software|free redistribution]].<ref>{{cite web|url=http://bxr.su/OpenBSD/sys/dev/microcode/fxp/fxp-license |title=fxp/fxp-license |website=BSD Cross Reference, OpenBSD src/sys/dev/microcode/}}</ref> Intel ran the [[Moblin project]] until April 23, 2009, when they handed the project over to the [[Linux Foundation]]. Intel also runs the ''LessWatts.org'' campaigns.<ref>[http://www.lesswatts.org/about.php About] {{webarchive |url=https://web.archive.org/web/20080603083454/http://www.lesswatts.org/about.php |date=June 3, 2008 }}. Lesswatts.org. Retrieved on July 8, 2011.</ref>
+
+However, after the release of the wireless products called Intel Pro/Wireless 2100, 2200BG/2225BG/2915ABG and 3945ABG in 2005, Intel was criticized for not granting free redistribution rights for the [[firmware]] that must be included in the operating system for the wireless devices to operate.<ref>{{Cite news|first=Sam |last=Varghese |title=OpenBSD to support more wireless chipsets |date=March 1, 2005 |publisher=The Age Company Ltd |url=http://www.theage.com.au/articles/2005/03/01/1109546842718.html |work=The Age |access-date=August 5, 2007 | location=Melbourne, Australia}}</ref> As a result of this, Intel became a target of campaigns to allow free operating systems to include binary firmware on terms acceptable to the [[free software movement|open source community]]. [[Linspire]]-[[Linux]] creator [[Michael Robertson (businessman)|Michael Robertson]] outlined the difficult position that Intel was in releasing to [[Open-source model|open source]], as Intel did not want to upset their large customer [[Microsoft]].<ref name='M.Robertson'>{{cite web |url=http://www.michaelrobertson.com/archive.php?minute_id=56 |archive-url=https://web.archive.org/web/20051028082001/http://michaelrobertson.com/archive.php?minute_id=56 |url-status=dead |archive-date=October 28, 2005 |title=Is Intel's "Centrino" Techno-Latin for "No Linux?" |access-date=August 5, 2007 |last=Robertson |first=Michael |date=March 19, 2003 |work=michaelrobertson.com }}</ref> [[Theo de Raadt]] of [[OpenBSD]] also claimed that Intel is being "an Open Source fraud" after an Intel employee presented a distorted view of the situation at an open-source conference.<ref name='Theo'>{{cite web|url=http://www.undeadly.org/cgi?action=article&sid=20060930232710&mode=expanded |title=Intel: Only "Open" for Business |access-date=August 5, 2007 |first=Theo |last=de Raadt |date=September 30, 2006 |work=[[OpenBSD Journal]]}}</ref> In spite of the significant negative attention Intel received as a result of the wireless dealings, the binary firmware <!--, as of (please add the date),--> still has not gained a license compatible with free software principles.<ref>{{cite web|url=http://bxr.su/OpenBSD/share/man/man4/ipw.4#92|title=ipw – Intel PRO/Wireless 2100 IEEE 802.11b wireless network device, Sh FILES|website=BSD Cross Reference, OpenBSD share/man/man4/|quote=These firmware files are not free because Intel refuses to grant distribution rights without contractual obligations. As a result, even though OpenBSD includes the driver, the firmware files cannot be included and users have to find these files on their own. The official person to state your views to about this issue is majid.awad@intel.com.|date=February 15, 2014|access-date=December 28, 2014}} See also: [http://mdoc.su/o/ipw.4 ipw], [http://mdoc.su/o/iwi.4 iwi], [http://mdoc.su/o/wpi.4 wpi] and [http://mdoc.su/o/iwn.4 iwn].</ref>
+
+=== Firmware Support Package ===
+The Firmware Support Package (FSP) is a [[Proprietary software|proprietary]] firmware library developed by Intel for [[UEFI Platform Initialization|platform initialization]] and can be integrated into other [[firmware]].<ref>{{Cite web|url=https://www.intel.com/content/www/us/en/intelligent-systems/intel-firmware-support-package/intel-fsp-overview.html|title=Intel® Firmware Support Package Preserves Frameworks|website=Intel|language=en|access-date=2019-11-14}}</ref>
+
+===Declining PC sales===
+Due to declining PC sales, in 2016 Intel cut 12,000 jobs.<ref>{{cite web | url=https://www.bloomberg.com/news/articles/2016-04-19/intel-cuts-12-000-jobs-forecast-misses-as-pc-blight-takes-toll |title=Intel to Cut 12,000 Jobs, Forecast Misses Amid PC Blight |first=Ian |last=King |date=April 19, 2016}}</ref>
+
+==Litigation and regulatory attacks==
+===Patent infringement litigation (2006–2007)===
+In October 2006, a [[Transmeta#Lawsuit against Intel Corporation|Transmeta lawsuit]] was filed against Intel for patent infringement on computer architecture and power efficiency technologies.<ref name='Transmeta lawsuit 2006'>{{Cite news|title=Transmeta Announces Patent Infringement Lawsuit Against Intel Corporation |date=October 11, 2006 |publisher=Transmeta Corporation |url=http://investor.transmeta.com/ReleaseDetail.cfm?ReleaseID=214275 |work=investor.transmeta.com (Press release) |access-date=July 28, 2007 |archive-url = https://web.archive.org/web/20070501122930/http://investor.transmeta.com/ReleaseDetail.cfm?ReleaseID=214275 |archive-date = May 1, 2007}}</ref> The lawsuit was settled in October 2007, with Intel agreeing to pay US$150&nbsp;million initially and US$20&nbsp;million per year for the next five years. Both companies agreed to drop lawsuits against each other, while Intel was granted a perpetual non-exclusive license to use current and future patented Transmeta technologies in its chips for 10 years.<ref name='Reuters October 24, 2007'>{{Cite news|title=Transmeta settles patent suit with Intel |date=October 24, 2007 |url=https://www.reuters.com/article/technology-media-telco-SP/idUSWNAS782620071024 |agency=Reuters |access-date=October 25, 2007 }}</ref>
+
+===Antitrust allegations and litigation (2005–2009)===
+{{Main|High-Tech Employee Antitrust Litigation}}
+{{See also|AMD v. Intel}}
+
+In September 2005, Intel filed a response to an [[AMD v. Intel|AMD lawsuit]],<ref name='Intel response September 1, 2005'>{{Cite news|title=Intel Files Response To AMD Complaint |date=September 1, 2005 |url=http://www.intel.com/pressroom/archive/releases/20050901corp.htm |publisher=Intel Corporation (Press release) |access-date=July 28, 2007 |archive-url = https://web.archive.org/web/20060624004033/http://www.intel.com/pressroom/archive/releases/20050901corp.htm |archive-date = June 24, 2006}}</ref> disputing AMD's claims, and claiming that Intel's business practices are fair and lawful. In a rebuttal, Intel deconstructed AMD's offensive strategy and argued that AMD struggled largely as a result of its own bad business decisions, including underinvestment in essential manufacturing capacity and excessive reliance on contracting out chip foundries.<ref name='Forbes September 2, 2005'>{{Cite news|first=David |last=Whelan |title=Intel's Legal Strategy Takes Shape |date=September 2, 2005 |url=https://www.forbes.com/technology/2005/09/02/intel-amd-antitrust-cz_dw_0902intel.html |work=Forbes |access-date=July 28, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20051001170040/http://forbes.com/technology/2005/09/02/intel-amd-antitrust-cz_dw_0902intel.html |archive-date=October 1, 2005 |df=mdy-all }}</ref> Legal analysts predicted the lawsuit would drag on for a number of years, since Intel's initial response indicated its unwillingness to settle with AMD.<ref>{{cite web|url=https://www.amd.com/us-en/assets/content_type/DownloadableAssets/AMD_Intel_Battle.pdf |title=AMD, Intel Battle Wages On As EU Decision Nears |access-date=January 7, 2008 |date=March 20, 2006 |work=AMD |publisher=Portfolio Media, Inc |archive-url = https://web.archive.org/web/20080216022410/http://www.amd.com/us-en/assets/content_type/DownloadableAssets/AMD_Intel_Battle.pdf |archive-date = February 16, 2008}}</ref><ref name='InfoWorld September 1, 2005'>{{Cite news|first=Tom |last=Krazit |title=Update: Intel issues formal response to AMD's antitrust lawsuit |date=September 1, 2005 |publisher=IDG News Service |url=http://www.infoworld.com/article/05/09/01/HNintelresponse_1.html |work=infoworld.com |access-date=January 7, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080201175017/http://www.infoworld.com/article/05/09/01/HNintelresponse_1.html |archive-date=February 1, 2008 |df=mdy-all }}</ref> In 2008, a court date was finally set,<ref>{{cite magazine|title=Intel, AMD Lawsuit Pushed Off to 2010|url=http://www.eweek.com/c/a/Desktops-and-Notebooks/Intel-AMD-Lawsuit-Pushed-Off-to-2010/|magazine=[[eWeek]]|access-date=June 12, 2008}}</ref> but in 2009, Intel settled with a $1.25&nbsp;billion payout to AMD (see below).<ref name="settled">{{cite web|last=Shankland |first=Stephen |url=http://news.cnet.com/8301-13578_3-10396798-38.html |title=What Intel just bought for $1.25&nbsp;billion: Less risk |publisher=CNET News |date=November 12, 2009 |access-date=July 29, 2010}}</ref>
+
+On November 4, 2009, New York's attorney general filed an antitrust lawsuit against Intel Corp, claiming the company used "illegal threats and collusion" to dominate the market for computer microprocessors.
+
+On November 12, 2009, AMD agreed to drop the antitrust lawsuit against Intel in exchange for $1.25&nbsp;billion.<ref name="settled" /> A joint press release published by the two chip makers stated "While the relationship between the two companies has been difficult in the past, this agreement ends the legal disputes and enables the companies to focus all of our efforts on product innovation and development."<ref>{{cite web|url=http://www.intel.com/pressroom/archive/releases/2009/20091112corp_a.htm?cid=rss-90004-c1-245235 |title=AMD and Intel Announce Settlement of All Antitrust and IP Disputes |publisher=Intel Corporation |access-date=July 29, 2010}}</ref><ref>{{cite web|url=https://www.amd.com/us/press-releases/Pages/amd-press-release-2009nov12.aspx |title=AMD and Intel Announce Settlement of All Antitrust and IP Disputes |publisher=Amd.com |access-date=July 29, 2010}}</ref>
+
+An antitrust lawsuit<ref>{{cite news|url=https://www.forbes.com/sites/billsinger/2012/11/19/after-apple-google-adobe-pixar-google-and-intuit-antitrust-employment-charges-hit-ebay/|title=After Apple, Google, Adobe, Intel, Pixar, And Intuit, Antitrust Employment Charges Hit eBay|author=Bill Singer|date=November 19, 2012|work=Forbes}}</ref> and a class-action suit relating to [[cold calling]] employees of other companies has been settled.<ref>{{cite news|url=https://www.washingtonpost.com/business/economy/apple-google-agree-to-settle-lawsuit-alleging-hiring-salary-conspiracy/2014/04/24/56f1bb32-cbff-11e3-95f7-7ecdde72d2ea_story.html?tid=hpModule_a2e19bf4-86a3-11e2-9d71-f0feafdd1394|title=Apple, Google agree to settle lawsuit alleging hiring, salary conspiracy|work=Washington Post | first=Dan|last=Levine|date=April 24, 2014}}</ref>
+
+====Allegations by Japan Fair Trade Commission (2005)====
+In 2005, the local [[Fair Trade Commission (Japan)|Fair Trade Commission]] found that Intel violated the [[Antimonopoly Act (Japan)|Japanese Antimonopoly Act]]. The commission ordered Intel to eliminate discounts that had discriminated against AMD. To avoid a trial, Intel agreed to comply with the order.<ref>{{Cite news|title=EU files new competition charges against Intel |url=http://uk.reuters.com/article/technologyNews/idUKL1730607220080718?pageNumber=3&virtualBrandChannel=0 |agency=Reuters |date=July 17, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20081216122419/http://uk.reuters.com/article/technologyNews/idUKL1730607220080718?pageNumber=3&virtualBrandChannel=0 |archive-date=December 16, 2008 }}</ref><ref>[http://www.marketwatch.com/news/story/europe-files-more-antitrust-complaints/story.aspx?guid={6B204911-970B-468B-9E40-09787DDB4345}&dist=msr_4 Europe files more antitrust complaints against Intel – MarketWatch]. Marketwatch (July 17, 2008). Retrieved on July 8, 2011.</ref><ref>[http://www.iht.com/articles/2008/06/20/business/wbjoe21.php Predatory pricing or old-fashioned competition? –]. International Herald Tribune (March 29, 2009). Retrieved on July 8, 2011.</ref><ref>[http://news.cnet.com/Intel-to-abide-by-Japan-FTC-recommendations/2100-1014_3-5649589.html "Intel to abide by Japan FTC recommendations"].  CNET News. Retrieved on July 8, 2011.</ref>
+
+====Allegations by the European Union (2007–2008)====
+In July 2007, the [[European Commission]] accused Intel of [[anti-competitive practices]], mostly against [[Advanced Micro Devices|AMD]].<ref name='Europa Memo July 27, 2007'>{{Cite news|title=Competition: Commission confirms sending of Statement of Objections to Intel |date=July 27, 2007 |url=http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/07/314& |work=Europa (web portal) |access-date=July 28, 2007}}</ref> The allegations, going back to 2003, include giving preferential prices to computer makers buying most or all of their [[microprocessor|chips]] from Intel, paying computer makers to delay or cancel the launch of products using AMD chips, and providing chips at below standard cost to governments and educational institutions.<ref name='Reuters July 27, 2007'>{{Cite news|first=David |last=Lawsky |title=UPDATE 4-EU says Intel tried to squeeze out Advanced Micro Devices |date=July 27, 2007 |agency=Reuters |url=https://www.reuters.com/article/governmentFilingsNews/idUSL2783620520070727?sp=true |access-date=July 28, 2007 }}</ref> Intel responded that the allegations were unfounded and instead qualified its market behavior as consumer-friendly.<ref name='Reuters July 27, 2007'/> General counsel [[Bruce Sewell]] responded that the Commission had misunderstood some factual assumptions regarding pricing and manufacturing costs.<ref name='Reuters July 27, 2007 (2)'>{{Cite news|first=David |last=Lawsky |title=Intel says EU made errors in antitrust charges |date=July 27, 2007 |url=https://www.reuters.com/article/technology-media-telco-SP/idUSL2788098920070727?sp=true |agency=Reuters |access-date=July 28, 2007 }}</ref>
+
+In February 2008, Intel announced that its office in Munich had been raided by [[European Union]] regulators. Intel reported that it was cooperating with investigators.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/business/7241022.stm |date=February 12, 2008 |access-date=February 12, 2008 |work=BBC News |title=EU regulator raids Intel offices}}</ref> Intel faced a fine of up to 10% of its annual revenue if found guilty of stifling competition.<ref name='BBC Intel 2007-07-27'>{{Cite news|title=EU outlines Intel 'market abuse' |date=July 27, 2007 |url=http://news.bbc.co.uk/1/hi/business/6918975.stm |work=BBC News |access-date=July 28, 2007 }}</ref> AMD subsequently launched a website promoting these allegations.<ref>{{Cite news |first=Peter |last=Clarke |title=AMD sets up website to tell "the truth about Intel" |date=August 8, 2007 |publisher=CMP Media LLC |url=http://www.eetimes.com/news/latest/showArticle.jhtml?articleID=201303681 |work=eetimes.com |access-date=August 9, 2007 |archive-url=https://web.archive.org/web/20070926220601/http://www.eetimes.com/news/latest/showArticle.jhtml?articleID=201303681 |archive-date=September 26, 2007 |url-status=dead }}</ref><ref>{{cite web|url=http://breakfree.amd.com/en-us/default.aspx |title=AMD Break Free |access-date=August 9, 2007 |date=July 31, 2007 |work=breakfree.amd.com |publisher=Advanced Micro Devices, Inc |url-status=dead |archive-url=https://web.archive.org/web/20070731232711/http://breakfree.amd.com/en-us/default.aspx |archive-date=July 31, 2007 }}</ref> In June 2008, the EU filed new charges against Intel.<ref>{{Cite news|title=EU files new competition charges against Intel|url=http://uk.reuters.com/article/technologyNews/idUKL1730607220080718 |agency=Reuters |date=July 17, 2008|access-date=September 10, 2008 | first=Pete | last=Harrison}}</ref> In May 2009, the EU found that Intel had engaged in anti-competitive practices and subsequently fined Intel €1.06&nbsp;billion (US$1.44&nbsp;billion), a record amount. Intel was found to have paid companies, including [[Acer Inc.|Acer]], [[Dell]], [[Hewlett Packard|HP]], [[Lenovo]] and [[NEC]],<ref name="fine">{{Cite news|url=http://www.time.com/time/business/article/0,8599,1897913,00.html|title=The Chips Are Down: Intel's $1.45&nbsp;billion Fine|date=May 13, 2009|work=TIME|access-date=May 13, 2009}}</ref> to exclusively use Intel chips in their products, and therefore harmed other, less successful companies including AMD.<ref name="fine" /><ref>[http://europa.eu/rapid/pressReleasesAction.do?reference=IP/09/745&format=HTML&aged=0&language=EN&guiLanguage=en "Antitrust: Commission imposes fine of €1.06 bn on Intel for abuse of dominant position; orders Intel to cease illegal practices", reference: IP/09/745, date: May 13, 2009]. Europa.eu (May 13, 2009). Retrieved on July 8, 2011.</ref><ref>[[Neelie Kroes]], [http://europa.eu/rapid/pressReleasesAction.do?reference=SPEECH/09/241&format=HTML&aged=0&language=EN&guiLanguage=en "Commission takes antitrust action against Intel", introductory remarks at press conference, Brussels, May 13, 2009]</ref> The European Commission said that Intel had deliberately acted to keep competitors out of the computer chip market and in doing so had made a "serious and sustained violation of the EU's antitrust rules".<ref name="fine" /> In addition to the fine, Intel was ordered by the Commission to immediately cease all illegal practices.<ref name="fine" /> Intel has said that they will appeal against the Commission's verdict. In June 2014, the General Court, which sits below the European Court of Justice, rejected the appeal.<ref name="fine" />
+
+====Allegations by regulators in South Korea (2007)====
+In September 2007, South Korean regulators accused Intel of breaking antitrust law. The investigation began in February 2006, when officials raided Intel's South Korean offices. The company risked a penalty of up to 3% of its annual sales if found guilty.<ref name='iht September 11, 2007'>{{Cite news|title=Intel facing antitrust complaint in Korea |date=September 11, 2007 |work=[[The New York Times]] |url=https://www.nytimes.com/2007/09/11/business/worldbusiness/11iht-chip.4.7467980.html?_r=0 |access-date=November 21, 2015 }}</ref> In June 2008, the Fair Trade Commission ordered Intel to pay a fine of US $25.5&nbsp;million for taking advantage of its dominant position to offer incentives to major Korean PC manufacturers on the condition of not buying products from AMD.<ref name='MarketWatch June 5, 2008'>{{Cite news|first=Benjamin |last=Pimentel|title=Intel fined $25.5&nbsp;million by South Korea |date=June 5, 2008 |publisher=[[MarketWatch]] |url=http://www.marketwatch.com/news/story/intel-fined-255-million-south/story.aspx?guid={5E548C55-0A59-47BA-8910-96F61A8C23E0}&dist=msr_2 |work=marketwatch.com |access-date=July 5, 2008 }}</ref>
+
+====Allegations by regulators in the United States (2008–2010)====
+New York started an investigation of Intel in January 2008 on whether the company violated antitrust laws in pricing and sales of its microprocessors.<ref>{{Cite news| url=https://www.nytimes.com/2008/01/10/technology/10cnd-chip.html?_r=4&ref=technology&oref=slogin&oref=slogin&oref=slogin&oref=slogin | work=The New York Times | title=Intel Gets New York Subpoena in Antitrust Inquiry | first=Nicholas | last=Confessore | date=January 10, 2008 | access-date=May 5, 2010}}</ref> In June 2008, the [[Federal Trade Commission]] also began an antitrust investigation of the case.<ref>{{Cite news|title=In Turnabout, Antitrust Unit Looks at Intel|url=https://www.nytimes.com/2008/06/07/technology/07chip.html?_r=1&partner=rssnyt&emc=rss&oref=slogin|work=The New York Times|date=June 7, 2008|access-date=December 31, 2008 | first=Stephen | last=Labaton}}</ref> In December 2009, the FTC announced it would initiate an administrative proceeding against Intel in September 2010.<ref>{{cite web|url=http://ftc.gov/opa/2009/12/intel.shtm |title=FTC Challenges Intel's Dominance of Worldwide Microprocessor Markets |publisher=Ftc.gov |date=December 16, 2009 |access-date=July 29, 2010}}</ref><ref>[http://online.wsj.com/article/BT-CO-20091217-712217.html] {{webarchive|url=https://web.archive.org/web/20100118015722/http://online.wsj.com/article/BT-CO-20091217-712217.html|date=January 18, 2010}}</ref><ref>{{cite web|url=http://www.ftc.gov/os/adjpro/d9341/091216intelcmpt.pdf |title=United States of America Before The Federal Trade Commission |publisher=FTC |access-date=January 8, 2013}}</ref><ref>{{cite web|last=King |first=Ian |url=http://www.businessweek.com/technology/content/dec2009/tc20091216_885383.htm |title=FTC Wants Intel to Repent, Not Pay Up |work=BusinessWeek |date=December 16, 2009 |access-date=July 29, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100125122437/http://www.businessweek.com/technology/content/dec2009/tc20091216_885383.htm |archive-date=January 25, 2010 |df=mdy-all }}</ref>
+
+In November 2009, following a two-year investigation, [[New York Attorney General]] [[Andrew Cuomo]] sued Intel, accusing them of bribery and coercion, claiming that Intel bribed computer makers to buy more of their chips than those of their rivals and threatened to withdraw these payments if the computer makers were perceived as working too closely with its competitors. Intel has denied these claims.<ref>{{Cite news|title=Intel in threats and bribery suit|url=http://news.bbc.co.uk/2/hi/business/8343179.stm|work=BBC News   |date=November 4, 2009|access-date=December 18, 2009}}</ref>
+
+On July 22, 2010, [[Dell]] agreed to a settlement with the [[U.S. Securities and Exchange Commission]] (SEC) to pay $100M in penalties resulting from charges that Dell did not accurately [[Corporation#Financial disclosure|disclose]] accounting information to investors. In particular, the SEC charged that from 2002 to 2006, Dell had an agreement with Intel to receive rebates in exchange for not using chips manufactured by AMD. These substantial rebates were not disclosed to investors, but were used to help meet investor expectations regarding the company's financial performance; "These exclusivity payments grew from 10 percent of Dell's operating income in FY 2003 to 38 percent in FY 2006, and peaked at 76 percent in the first quarter of FY 2007."<ref>{{cite web|url=https://www.sec.gov/news/press/2010/2010-131.htm|title=SEC Charges Dell and Senior Executives with Disclosure and Accounting Fraud}}</ref> Dell eventually did adopt AMD as a secondary supplier in 2006, and Intel subsequently stopped their rebates, causing Dell's financial performance to fall.<ref>
+{{Cite news
+  | last = Gibb
+  | first = Gordon
+  | title = Dell Agrees to $100 in Penalties to Settle SEC Accounting Fraud Charges
+  | publisher=LawyersandSettlements.com
+  | date = July 24, 2010
+  | url = http://www.lawyersandsettlements.com/articles/14615/business-fraud-unfair-accounting-dell.html
+  | access-date =July 25, 2010}}</ref><ref>
+{{Cite news
+  | last = Krantz
+  | first = Matt
+  | author2=Swartz, Jon
+  | title = Dell settles SEC charges of fraudulent accounting
+  | newspaper=[[USA Today]]
+  | date = July 24, 2010
+  | url = https://www.usatoday.com/money/industries/technology/2010-07-22-dell-sec-settlement_N.htm
+  | access-date =July 25, 2010}}
+</ref><ref>
+{{Cite news
+ |first=Kevin
+ |last=Reed
+ |title=Dell pays $100m penalty to settle accounting fraud charges
+ |url=http://www.accountancyage.com/accountancyage/news/2266948/dell-pays-100m-penalty-settle
+ |work=[[Accountancy Age]]
+ |date=July 23, 2010
+ |access-date=July 25, 2010
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20100725104512/http://www.accountancyage.com/accountancyage/news/2266948/dell-pays-100m-penalty-settle
+ |archive-date=July 25, 2010
+ |df=mdy-all
+}}
+</ref>
+
+===Corporate responsibility record===
+Intel has been accused by some residents of [[Rio Rancho, New Mexico]] of allowing [[Volatile organic compound|VOCs]] to be released in excess of their pollution permit. One resident claimed that a release of 1.4 tons of [[carbon tetrachloride]] was measured from one acid scrubber during the fourth quarter of 2003 but an emission factor allowed Intel to report no carbon tetrachloride emissions for all of 2003.<ref>{{cite web|url=http://www.corralescomment.com/index.php?option=com_content&task=view&id=717&Itemid=2|title=Corrales Comment|work=corralescomment.com}}</ref>
+
+Another resident alleges that Intel was responsible for the release of other VOCs from their Rio Rancho site and that a [[necropsy]] of lung tissue from two deceased dogs in the area indicated trace amounts of [[toluene]], [[hexane]], [[ethylbenzene]], and [[xylene]] isomers,<ref>[http://www.corralescomment.com/index.php?option=com_content&task=view&id=594&Itemid=2 Corrales Comment 11/25/2006 Intel Pollution Unresolved].</ref> all of which are [[solvent]]s used in industrial settings but also commonly found in [[gasoline]], retail [[paint thinner]]s and retail solvents. During a sub-committee meeting of the New Mexico Environment Improvement Board, a resident claimed that Intel's own reports documented more than {{convert|1580|lb}} of VOCs were released in June and July 2006.<ref>{{cite web|url=http://corralescomment.com/index.php?option=com_content&task=view&id=616&Itemid=2|archive-url=https://web.archive.org/web/20120705144619/http://corralescomment.com/index.php?option=com_content&task=view&id=616&Itemid=2|url-status=dead|archive-date=July 5, 2012|title=Corrales Comment - Local Village News, Issues, Events & Ads - Intel Pollution Control Shut Down Probed|date=July 5, 2012}}</ref>
+
+Intel's environmental performance is published annually in their corporate responsibility report.<ref>[http://www.intel.com/intel/cr/gcr/overview.htm?iid=intel_corp+rhc_visit_report Intel Corporate Responsibility Report]. Intel.com. Retrieved on July 8, 2011.  {{webarchive|url=https://web.archive.org/web/20100412034616/http://www.intel.com/intel/cr/gcr/overview.htm?iid=intel_corp%20rhc_visit_report |date=April 12, 2010 }}</ref>
+
+In its 2012 rankings on the progress of consumer electronics companies relating to [[conflict minerals]], the [[Enough Project]] rated Intel the best of 24 companies, calling it a "Pioneer of progress".<ref name='EnoughProject2012'>{{cite web | url = http://www.enoughproject.org/files/CorporateRankings2012.pdf | title = Taking Conflict Out of Consumer Gadgets: Company Rankings on Conflict Minerals 2012 | access-date = August 17, 2012 | last = Lezhnev | first = Sasha |author2=Alex Hellmuth | date = Aug 2012 | publisher = [[Enough Project]]}}</ref> In 2014, chief executive Brian Krzanich urged the rest of the industry to follow Intel's lead by also shunning conflict minerals.<ref>{{cite news |url=https://www.bbc.co.uk/news/technology-25636001 |title=Intel vows to stop using 'conflict minerals' in new chips |last1=Miller |first1=Joe |date=January 7, 2014 |website=www.bbc.co.uk |publisher=The BBC |access-date=January 7, 2014}}</ref>
+
+===Age discrimination complaints===
+Intel has faced complaints of [[age discrimination]] in firing and layoffs. Intel was sued in 1993 by nine former employees, over allegations that they were laid off because they were over the age of 40.<ref>"Intel Sued for Discrimination", ''Pittsburgh Post-Gazette'', January 30, 1993, B-12.</ref>
+
+A group called FACE Intel (Former and Current Employees of Intel) claims that Intel weeds out older employees. FACE Intel claims that more than 90 percent of people who have been laid off or fired from Intel are over the age of 40. ''[[Upside (magazine)|Upside]]'' magazine requested data from Intel breaking out its hiring and firing by age, but the company declined to provide any.<ref name="upside">Alster, Norm, (December 7, 1998). [http://www.programmersguild.org/archives/lib/agediscimination/upm19981207older.htm "Techies complain of age biases"] {{webarchive |url=https://web.archive.org/web/20090522163807/http://www.programmersguild.org/archives/lib/agediscimination/upm19981207older.htm |date=May 22, 2009 }}, ''Upside Magazine''. Retrieved on July 8, 2011.</ref> Intel has denied that age plays any role in Intel's employment practices.<ref>Weinberg, Neal (September 14, 1998). [http://www.cnn.com/TECH/computing/9809/14/tooold.idg/index.html "Help Wanted: Older workers need not apply"]. CNN Retrieved on July 8, 2011.</ref> FACE Intel was founded by Ken Hamidi, who was fired from Intel in 1995 at the age of 47.<ref name="upside" /> Hamidi was blocked in a 1999 court decision from using Intel's email system to distribute criticism of the company to employees,<ref>Goodin, Dan (April 28, 1999) [http://news.cnet.com/Court-blocks-former-Intel-employees-spam/2100-1023_3-225092.html "Court blocks former Intel employee's spam"]. CNET News. Retrieved on July 8, 2011.</ref> which overturned in 2003 in [[Intel Corp. v. Hamidi]].
+
+===Tax dispute in India===
+In August 2016, Indian officials of the [[Bruhat Bengaluru Mahanagara Palike]] (BBMP) parked garbage trucks on Intel's campus and threatened to dump them for evading payment of property taxes between 2007 and 2008, to the tune of 340 million Indian rupees (US$4.9 million). Intel had reportedly been paying taxes as a non-air-conditioned office, when the campus in fact had central air conditioning. Other factors, such as land acquisition and construction improvements, added to the tax burden. Previously, Intel had appealed the demand in the [[Karnataka]] high court in July, during which the court ordered Intel to pay BBMP half the owed amount (170 million rupees, or US$2.4 million) plus arrears by August 28 of that year.<ref>{{Cite journal|last=Kasli|first=Shelley|date=August 10, 2016|title=Rothschild Inside, Garbage Outside|url=http://greatgameindia.com/rothschild-inside-garbage-outside/|journal=GreatGameIndia Magazine}}</ref><ref>{{cite web|last1=Bell|first1=Kay|date=August 10, 2016|title=Indian city raises stink over Intel's unpaid taxes|url=http://www.dontmesswithtaxes.com/2016/08/indian-city-raises-stink-over-unpaid-tax-by-intel.html|website=Don't Mess With Taxes|access-date=10 January 2017}}</ref>
+
+==See also==
+{{Portal|San Francisco Bay Area|Companies}}
+{{div col|colwidth=25em}}
+* [[5 nm]] 
+* [[ASCI Red]]
+* [[Advanced Micro Devices]]
+* [[Bumpless Build-up Layer]]
+* [[Comparison of ATI Graphics Processing Units]]
+* [[Comparison of Intel processors]]
+* [[Comparison of Nvidia graphics processing units]]
+* [[Cyrix]]
+* [[Engineering sample (CPU)]]
+* [[Graphics processing unit|Graphics Processing Unit (GPU)]]
+* [[Intel Developer Zone]] (Intel DZ)
+* [[Intel Driver Update Utility]]
+* [[Intel GMA|Intel GMA (Graphics Media Accelerator)]]
+* [[Intel HD and Iris Graphics]]
+* [[Intel Loihi]]
+* [[Intel Museum]]
+* [[Intel Science Talent Search]]
+* [[List of Intel chipsets]]
+* [[List of Intel CPU microarchitectures]]
+* [[List of Intel manufacturing sites]]
+* [[List of Intel microprocessors]]
+* [[List of Intel graphics processing units]]
+* [[List of Semiconductor Fabrication Plants]]
+* [[Wintel]]
+{{div col end}}
+
+; Intel related biographical articles on Wikipedia
+
+{{div col|colwidth=15em}}
+* [[Andy Grove]]
+* [[Bill Gaede]]
+* [[Bob Colwell]]
+* [[Craig Barrett (chief executive)]]
+* [[Gordon Moore]]
+* [[Justin Rattner]]
+* [[Pat Gelsinger]]
+* [[Paul Otellini]]
+* [[Robert Noyce]]
+* [[Sean Maloney (technology)|Sean Maloney]]
+{{div col end}}
+
+==Notes==
+{{Reflist|group=note|30em}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Intel}}
+* {{Official website}}
+{{Finance links
+|name = Intel Corp.
+|symbol = INTC
+|sec_cik = 50863
+|yahoo = INTC
+|google = INTC
+}}
+* {{Curlie|Computers/Companies/Product_Support/Intel}}
+{{Intel|state=expanded}}
+{{Intel technology}}
+{{Intel software}}
+{{Intel processors}}
+{{Navboxes|list1=
+{{Solid-state drive}}
+{{NASDAQ-100}}
+{{Open Handset Alliance Members}}
+{{Major semiconductor companies}}
+{{Programmable Logic}}
+{{Electronics industry in the United States}}
+}}
+{{Authority control}}<!-- IMPORTANT! DO NOT REMOVE! See [[Wikipedia:Authority control]] for details. -->
+
+[[Category:Intel| ]]
+[[Category:1968 establishments in California]]
+[[Category:American companies established in 1968]]
+[[Category:Companies based in Santa Clara, California]]
+[[Category:Companies in the Dow Jones Industrial Average]]
+[[Category:Companies listed on NASDAQ]]
+[[Category:Computer companies established in 1968]]
+[[Category:Computer companies of the United States]]
+[[Category:Foundry semiconductor companies]]
+[[Category:Linux companies]]
+[[Category:Manufacturing companies based in the San Francisco Bay Area]]
+[[Category:Manufacturing companies established in 1968]]
+[[Category:Mobile phone manufacturers]]
+[[Category:Motherboard companies]]
+[[Category:Multinational companies headquartered in the United States]]
+[[Category:Netbook manufacturers]]
+[[Category:Semiconductor companies of the United States]]
+[[Category:Software companies based in the San Francisco Bay Area]]
+[[Category:Software companies established in 1968]]
+[[Category:Superfund sites in California]]
+[[Category:Technology companies of the United States]]
+[[Category:Technology companies based in the San Francisco Bay Area]]
+[[Category:Technology companies established in 1968]]
+[[Category:1970s initial public offerings]]
+[[Category:Software companies of the United States]]
+[[Category:Computer memory companies]] 
+[[Category:Computer storage companies]]

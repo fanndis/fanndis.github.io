@@ -1,0 +1,148 @@
+{{Patent law}}
+{{Intellectual property}}
+ 
+'''Patent infringement''' is the commission of a prohibited act with respect to a patented [[invention]] without permission from the [[patent]] holder. Permission may typically be granted in the form of a [[license]]. The definition of patent infringement may vary by jurisdiction, but it typically includes using or selling the patented invention.  In many countries, a use is required to be ''commercial'' (or to have a ''commercial'' purpose) to constitute patent infringement.{{Citation needed|date=June 2008}}
+
+The scope of the patented invention or the extent of protection<ref>{{EPC Article|69}}</ref> is defined in the [[claim (patent)|claim]]s of the granted patent. In other words, the terms of the claims inform the public of what is not allowed without the permission of the patent holder.
+
+Patents are territorial, and infringement is only possible in a country where a patent is in force. For example, if a patent is granted in the United States, then anyone in the United States is prohibited from making, using, selling or importing the patented item, while people in other countries may be free to exploit the patented invention in their country. The scope of protection may vary from country to country, because the patent is examined – or in some countries not substantively examined – by the [[patent office]] in each country or region and may be subject to different [[patentability]] requirements.
+
+== Overview ==
+Typically, a party (other than the patentee or licensee of the patentee) that manufactures, imports, uses, sells, or offers for sale patented technology without permission/license from the patentee, during the term of the patent and within the country that issued the patent, is considered to infringe the patent.<ref>{{UnitedStatesCode|35|271}}</ref>
+
+The test varies from country to country, but in general it requires that the infringing party's product (or method, service, and so on) falls within one or more of the [[Claim (patent)|claims]] of the patent.  The process employed involves "reading" a claim onto the technology of interest.  If all of the claim's elements are found in the technology, the claim is said to "read on" the technology; if a single element from the claim is missing from the technology, the claim does not literally read on the technology and the technology generally does not infringe the patent with respect to that claim, except if the [[doctrine of equivalence]] is considered applicable.
+
+In response to allegations of infringement, an accused infringing party typically asserts one or more of the following:
+
+* that it was not practicing the patented invention, i.e. the invention claimed in the patent (the claims define the extent of protection conferred by a patent);
+* that it was not performing any infringing act in the territory covered by the patent (patents are indeed territorial in nature);
+* that the patent has expired (since patents have a limited [[patent term]], i.e. a limited lifetime);
+* that the patent (or the particular claim(s) alleged to be infringed) is invalid, because the invention in question does not meet the [[patentability]] requirements or includes a formal defect, this rendering the patent invalid or unenforceable;
+* that it has obtained a license under the patent.
+
+The parties may also resolve their dispute in a [[Settlement (litigation)|settlement]], which may involve a licensing agreement, such as a [[cross-licensing]] agreement. Private settlements may not always serve the [[public interest]], "because litigating patent disputes to completion tends to generate positive externalities, by clarifying the limits of patent protection if the patent is upheld or encouraging wider use of the innovation if the patent is invalidated".<ref name="lemley-2005">{{cite journal|author=Lemley, Mark A. |author2=Shapiro, Carl|year=2005|title=Probabilistic Patents|journal=Journal of Economic Perspectives, Stanford Law and Economics Olin Working Paper No. 288|volume=19|page=75|doi=10.2139/ssrn.567883}}</ref>
+
+=== Indirect infringement ===
+In certain jurisdictions, there is a particular case of patent infringement called "indirect infringement."  Indirect infringement can occur, for instance, when a device is claimed in a patent and a third party supplies a product which can only be reasonably used to make the claimed device.<ref>{{Cite web |url=http://www.fisheradamskelly.com.au/2014/09/us-supreme-court-targets-patents/ |title=Patents; Limelight Networks, Inc. v. Akamai Technologies, Inc., No. 12-786 Indirect Patent Infringement |access-date=2015-02-25 |archive-url=https://web.archive.org/web/20150225055354/http://www.fisheradamskelly.com.au/2014/09/us-supreme-court-targets-patents/ |archive-date=2015-02-25 |url-status=dead }}</ref>
+
+== Legislation ==
+=== Australia ===
+In Australia, a patent infringement occurs when a person, who is not the patentee, exploits or authorises another person to exploit the patent in question.<ref>[http://www.austlii.edu.au/au/legis/cth/consol_act/pa1990109/s13.html ''Patents Act 1990'' (Cth) s 3(1).]</ref>
+
+'Exploit' in this context includes:<ref>[http://www.austlii.edu.au/au/legis/cth/consol_act/pa1990109/sch1.html Ibid sch 1.]</ref>
+
+*(i) Make, hire, sell or otherwise dispose of a patented product; or 
+*(ii) Offer to make, sell, hire or otherwise dispose of a patented product; or
+*(iii) Use or import a patented product; or
+*(iv) Keep it for the purposes of doing (i), (ii) or (iii); or
+*(v) Use a patented method or process; or
+*(vi) Do any act mentioned from (i) to (iv) above in respect of a product resulting from the use of a patented method or process.
+
+=== Canada ===
+{{Main|Patent infringement in Canadian law}}
+In [[Canada]], [[Canadian patent law|patents]] are governed by the [[Patent Act (Canada)|Patent Act]], and  the rights of a patent holder are summarized at s. 42:
+
+{{cquote|'''42'''. Every patent granted under this Act shall contain the title or name of the invention, with a reference to the specification, and shall, subject to this Act, grant to the patentee and the patentee’s legal representatives for the term of the patent, from the granting of the patent, the exclusive right, privilege and liberty of making, constructing, using the invention and selling it to others to be used, subject to adjudication in respect thereof before any court of competent jurisdiction.<ref>{{cite web |url=http://laws-lois.justice.gc.ca/eng/acts/P-4/section-42.html |title=''Patent Act'' (R.S.C., 1985, c. P-4)|location=s.42}}</ref>}}
+
+By granting the patent holder the exclusive right, privilege and liberty of making, constructing, using, and selling the invention, the Act establishes that any other person making, constructing, using, or selling the patented invention is infringing that patent. Whether there has been an infringement of a patent is usually a [[question of fact]].<ref>{{cite CanLII|litigants=Monsanto Canada Inc. v. Schmeiser|link=Monsanto Canada Inc. v. Schmeiser|year=2004|court=scc|num=34|format=|pinpoint=par. 30|parallelcite=[2004] 1 SCR 902|date=2004-05-21|courtname=|juris=}}</ref>
+
+Canada is considered to be more friendly for rights holders in pursuing patent claims than in the United States, due to significant differences between the two jurisdictions:<ref>{{cite journal|author1= Andrew M. Shaughnessy|author2= Andrew E. Bernstein|year= 2005|title= Patent Litigation: Choosing Between The United States and Canada|url= http://www.torys.com/Publications/Documents/Publication%20PDFs/ARTech-51T.pdf|journal= The Metropolitan Corporate Counsel|volume= 13|issue= 2|access-date= 2014-01-20|archive-url= https://web.archive.org/web/20120816122730/http://www.torys.com/Publications/Documents/Publication%20PDFs/ARTech-51T.pdf|archive-date= 2012-08-16|url-status= dead}}</ref>
+
+:* Patents in Canada are subject to a [[Purposive approach|purposive construction]], which relies on reading both the claims and the specifications to determine the scope of a patent, and [[extrinsic evidence]] is not permitted, leading to the absence of [[prosecution history estoppel]].<ref>{{cite CanLII|litigants=Free World Trust v. Électro Santé Inc.|link=Free World Trust v. Électro Santé Inc.|year=2000|court=scc|num=66|format=|pinpoint=|parallelcite=[2000] 2 SCR 1024|date=2000-12-15|courtname=|juris=}}</ref>
+:* While US patent trials are heard by a jury, Canadian trials are heard by a judge only, and thus the claims of a Canadian patent are construed only once as part of the trial judge's decision on the merits of the case as a whole. In that regard, the [[Federal Court of Appeal (Canada)|Federal Court of Appeal]] has ruled that [[Markman hearing]]s are not allowed under Canadian law.<ref>{{cite CanLII|litigants=Realsearch Inc. v. Valon Kone Brunette Ltd.|link=|year=2004|court=fca|num=5|format=|pinpoint=|parallelcite=[2004] 2 FCR 514|date=2004-01-09|courtname=|juris=}}</ref>
+:* In Canada, the applicant has no obligation to disclose material [[prior art]], so patents cannot be invalidated on that basis.<ref>{{cite CanLII|litigants=Flexi-Coil Ltd. v. Bourgault Industries Ltd.|link=|year=1999|court=fca|num=7650|format=canlii|pinpoint=|parallelcite=(1999) 86 CPR (3d) 221|date=1999-03-03|courtname=auto|juris=}}</ref>
+:* The same absence of obligation also means that the ''[[Competition Act]]'' will not come into play, unlike what occurs with [[antitrust law]] in the US.<ref>''Walker Process Equipment, Inc. v. Food Machinery & Chemical Corp.'', {{ussc|382|172|1965}}</ref>
+:* The Canadian [[Discovery (law)|discovery process]] is more streamlined than the US procedure, resulting in less cost and time in pursuing the lawsuit, and it also possesses an [[implied undertaking]] rule, barring use of information produced or disclosed in discovery from any purpose other than the present litigation (other than by leave of the court).
+:* Canadian law allows a plaintiff to elect to claim either [[compensatory damages]] or an [[accounting of profits]], which can either act as a deterrent on infringement or as an incentive to reach a settlement before trial.
+:* The availability of [[Costs in English law|costs]] in Canadian courts is a significant advantage to a plaintiff confident of success, but is also a deterrent to pursuing more speculative cases.
+:* [[Treble damages]] are not awarded in Canadian courts, and [[punitive damages]] are less likely to be awarded.
+
+=== Europe ===
+{{Main|Enforcement of European patents|European patent law}}
+In [[Europe]], patent infringement of both national patents and [[European patents]] are essentially dealt upon by national courts. Although European patents are granted by the [[European Patent Office]], these European patents lead are enforced at a national level, i.e. on a per-country basis.<ref>{{EPC Article|64|3}}</ref> A majority of the member states of the [[European Union]] have agreed to set up a [[unitary patent]] (formerly called [[Community patent]]) system, according to which patents would be centrally enforceable before a [[Unified Patent Court]]. However, the corresponding legal texts have not entered into force yet.
+
+=== Japan ===
+{{main|Japanese patent law}}
+
+Infringement under the patent law in [[Japan]] is defined by Article 101 of Patent Act (Act No. 121 of 1959),<ref>[http://www.cas.go.jp/jp/seisaku/hourei/data/PA.pdf Patent Act in Japan]</ref> which shows the following acts shall be deemed to constitute infringement of a patent right or an exclusive license:
+
+* (i) where a patent has been granted for an invention of a product, acts of producing, assigning, etc., importing or offering for assignment, etc. any product to be used exclusively for the producing of the said product as a business;
+* (ii) where a patent has been granted for an invention of a product, acts of producing, assigning, etc., importing or offering for assignment, etc. any product (excluding those widely distributed within Japan) to be used for the producing of the said product and indispensable for the resolution of the problem by the said invention as a business, knowing that the said invention is a patented invention and the said product is used for the working of the invention;
+* (iii) where a patent has been granted for an invention of a process, acts of producing, assigning, etc., importing or offering for assignment, etc. any product to be used exclusively for the use of the said process as a business; and
+* (iv) where a patent has been granted for an invention of a process, acts of producing, assigning, etc., importing or offering for assignment, etc. any product (excluding those widely distributed within Japan) to be used for the use of the said process and indispensable for the resolution of the problem by the said invention, knowing that the said invention is a patented invention and the said product is used for the working of the invention as a business.
+
+=== United Kingdom ===
+{{Main|Patent infringement under United Kingdom law}}
+Infringement under [[United Kingdom]] patent law is defined by [http://ukpatents.wikispaces.com/section+60 Section 60] of the [https://web.archive.org/web/20080928083039/http://ukpatents.wikispaces.com/ UK Patents Act 1977] (as amended), which sets out the following types of infringement:
+
+* Where the invention is a product, by the making, disposing of, offering to dispose of, using, importing or keeping a patented product.
+* Where the invention is a process, by the use, or offer for use where it is known that the use of the process would be an infringement.  Also, by the disposal of, offer to dispose of, use or import of a product obtained directly by means of that process, or the keeping of any such product whether for disposal or otherwise.
+* By the supply, or offer to supply, in the United Kingdom, a person not entitled to work the invention, with any of the means, relating to an essential element of the invention, for putting the invention into effect, when it is known (or it is reasonable to expect such knowledge) that those means are suitable for putting, and are intended to put, the invention into effect in the United Kingdom.
+
+=== United States ===
+{{Main|Patent infringement under United States law}}
+In United States law, an infringement may occur where the defendant has made, used, sold, offered to sell, or imported an infringing [[invention]] or its [[doctrine of equivalents|equivalent]].<ref>"[F]or a court to find infringement, the plaintiff must show the presence of every element or its substantial equivalent in the accused device." Wolverine World Wide, Inc. v. Nike, Inc., 38 F.3d 1192, 1199 (Fed. Cir. 1994)</ref> One also commits indirect infringement if he actively and knowingly induces another to infringe, and is liable for that infringement.  Types of "indirect infringement" include "contributory infringement" and "induced infringement."
+
+No infringement action may be started until the patent is issued. However, pre-grant protection is available under {{usc|35|154}}(d), which allows a patent owner to obtain reasonable royalty damages for certain infringing activities that occurred before patent's date of issuance.  This right to obtain provisional damages requires a patent holder to show that (1) the infringing activities occurred after the publication of the patent application, (2) the patented claims are substantially identical to the claims in the published application, and (3) the infringer had "actual notice" of the published patent application.
+
+In the US there are [[safe harbor (law)|safe harbor]] provisions to use a patented invention for the purposes of [[Research exemption|gathering data for a regulatory submission]].<ref>Pradip K. Sahu and Shannon Mrksich. ''The Hatch-Waxman Act: When Is Research Exempt from Patent Infringement?'' ABA-IPL Newsletter 22(4) Summer 2004. {{cite web |url=http://www.brinkshofer.com/resource_center/85-the-hatch-waxman-act-research-exempt-from-patent-infringement |title=Archived copy |accessdate=2013-06-08 |url-status=bot: unknown |archiveurl=https://web.archive.org/web/20130207023621/http://www.brinkshofer.com/resource_center/85-the-hatch-waxman-act-research-exempt-from-patent-infringement |archivedate=February 7, 2013 }} </ref>
+
+=={{anchor|Clearance search}}Clearance search, and clearance, validity and enforceability opinions ==
+
+A clearance search, also called freedom-to-operate (FTO) search<ref>{{Cite web|url=https://www.wipo.int/wipo_magazine/en/2005/05/article_0006.html|title=IP and Business: Launching a New Product: freedom to operate|website=www.wipo.int|language=en|access-date=2019-07-13}}</ref> or infringement search,<ref>[[UK Intellectual Property Office]], [http://www.ipo.gov.uk/types/patent/p-other/p-infringe/p-freedom.htm ''Freedom-to-operate (FTO) patent search (infringement search)'']. Consulted on October 9, 2009.</ref><ref>{{cite journal|year=2016|title=FTO analysis: a king among patent searches|journal=Patent Information News|publisher=European Patent Office|issue=1/2016|pages=12–13|url=http://documents.epo.org/projects/babylon/eponet.nsf/0/10397BC8E8C8FE2BC1257F7A0047E766/$File/patent_information_news_0116_en.pdf}}</ref> is a search done on issued patents or on pending [[patent application]]s to determine if a product or process infringes any of the [[claim (patent)|claim]]s of the issued patents or pending patent applications.  A clearance search may also include expired art that acts as a 'safe harbor' permitting the product or process to be used based on patents in the public domain.  These searches are often performed by one or more professional patent searchers who are under the direction of one or more [[patent attorney]]s.
+
+A clearance search can be followed by a ''clearance opinion'', i.e. a legal opinion provided by one or more patent attorneys as to whether a given product or process infringes the claims of one or more issued patents or pending patent applications. Clearance opinions may be done in combination with a "validity and enforceability" opinion. A validity and enforceability opinion is a legal opinion as to whether a given patent is valid and/or enforceable. In other words, a ''validity opinion'' is a legal opinion or letter in which a patent attorney or patent agent analyzes an issued patent and provides an opinion on how a court might rule on its validity or enforceability.<ref>[https://books.google.com/books?id=oWDs0U7C_RYC&pg=PT715&lpg=PT715&dq=%22validity+opinion%22&source=bl&ots=Mo38v34jXn&sig=D2uGCMZ8SvR4XAQ8farwSUk6_gg&hl=en&ei=_06RSsn4MM67lAe8trGYDA&sa=X&oi=book_result&ct=result&resnum=4#v=onepage&q=%22validity%20opinion%22&f=false M. John Sterba ''Legal opinion letters: a comprehensive guide to opinion letter practice'' Aspen Publishers Online, 2002]</ref>  Validity opinions are often sought before litigation related to a patent. The average cost of a validity opinion (according to one 2007 survey) is over $15,000, with an infringement analysis adding $13,000.<ref>[http://www.ccianet.org/CCIA/files/ccLibraryFiles/Filename/000000000226/Ltr%20on%20Rpt%20SCP-13-51.pdf AIPLA Report of the Economic Survey, 2007] {{webarchive|url=https://web.archive.org/web/20100706121234/http://www.ccianet.org/CCIA/files/ccLibraryFiles/Filename/000000000226/Ltr%20on%20Rpt%20SCP-13-51.pdf |date=2010-07-06 }}</ref>
+
+The cost of these opinions for U.S. patents can run from tens to hundreds of thousands of dollars (or more) depending upon the particular patent, the number of defenses and prior art references, the length of the prosecution file history, and the complexity of the technology in question.
+
+An ''exculpatory opinion'' (setting forth reasons the patent is not infringed, or providing other defenses such as prior use, intervening rights, or prior invention) is also possible.
+
+== Patent infringement insurance ==
+
+Patent infringement insurance is an [[insurance]] policy provided by one or more insurance companies to protect either an [[inventor]] or a third party from the risks of inadvertently infringing a patent.
+
+In June 2006, a Study for the [[European Commission]] on the feasibility of possible insurance schemes against patent litigation risks was published.<ref>[http://ec.europa.eu/internal_market/indprop/docs/patent/studies/pli_report_en.pdf Patent Litigation Insurance]</ref> The report concluded that the continuation of the status quo with very little, disproportionately expensive, bespoke patent litigation insurance (PLI) would not meet any objectives for a feasible insurance scheme. Instead, only a mandatory scheme was considered to be viable in order to provide the economic and technical benefits to the EU and individual patentees which would arise from a widespread PLI scheme.
+
+== "Piracy" ==
+{{See also|Patent troll}}
+
+Since the 1840s, the expression "patent pirate" has been used as a [[pejorative]] term to describe those that infringe a patent and refuse to acknowledge the priority of the [[inventor]].  [[Samuel F. B. Morse]], inventor of the [[telegraph]], for example, complained in a letter to friend in 1848<ref>{{cite web |url=http://www.fullbooks.com/Samuel-F-B-Morse-His-Letters-and-Journalsx5165.html |title=Samuel F. B. Morse, His Letters and Journals by Samuel F. B. Morse'', Part 5 out of 9 |accessdate=June 10, 2006 |publisher=fullbooks.com}}</ref>
+
+{{cquote|I have been so constantly under the necessity of watching the movements of the most unprincipled set of pirates I have ever known, that all my time has been occupied in defense, in putting evidence into something like legal shape that I am the inventor of the Electro-Magnetic Telegraph!! Would you have believed it ten years ago that a question could be raised on that subject?}}
+
+The term "pirate" has also been used to describe patent owners that vigorously enforce their patents.<ref>{{Cite web |url=http://judiciary.house.gov/legacy/4130.htm |title=see Testimony by Harold C. Wegner, Professor of Law and Director, Intellectual Property Law Program, George Washington University National Law Center before the US Senate Wednesday, March 9, 1994 |access-date=February 26, 2005 |archive-url=https://web.archive.org/web/20050226113521/http://judiciary.house.gov/legacy/4130.htm |archive-date=February 26, 2005 |url-status=dead |df=mdy-all }}</ref> Thus whether one deliberately infringes a patent or whether one vigorously enforces a patent, they may be referred to as a pirate by those that feel they are overstepping their bounds.{{Citation needed|date=February 2020}}
+
+==Threat to bring a patent infringement action==
+"A threat to bring a patent infringement action is highly likely to influence the commercial conduct of the person threatened, which is why the law of some countries, including the UK, provides that the making of a groundless threat to sue is, within certain carefully prescribed limits, an actionable wrong in itself."<ref>[[Jeremy Phillips]], [http://ipkitten.blogspot.com/2008/06/from-when-must-threat-be-compensated.html ''From when must a threat be compensated?''], [[IPKat]], June 14, 2008. Consulted on June 15, 2008.</ref> This however is not the case in the United States.
+
+== See also ==
+{{Licensing of patents}}
+* [[Anton Piller order]] (common procedure in certain countries to obtain proofs of infringement)
+* [[Cease and desist|Cease and desist order]]
+* [[Copyright infringement]]
+* [[Divided infringement]]
+* [[Industrial espionage]]
+* [[Inequitable conduct]]
+* [[Patent court]]
+* [[Patent retaliation]] (clause)
+* [[Smartphone patent licensing and litigation]]
+* [[Saisie-contrefaçon]]
+* [[Soft IP]]
+* [[Software hoarding]]
+* [[Stick licensing]]
+
+===Notable infringement cases===
+* ''[[Monsanto Canada Inc. v. Schmeiser]]'' - A Canadian farmer sued for growing canola seed patented by Monsanto.
+* ''[[Apple Inc. v. Samsung Electronics Co., Ltd.]]''
+* ''[[Microsoft v. Motorola]]''
+
+== References ==
+{{Reflist|30em}}
+
+== Further reading ==
+* Kesan, Jay P. and Ball, Gwendolyn G., ''How Are Patent Cases Resolved? An Empirical Examination of the Adjudication and Settlement of Patent Disputes'' (2005). [http://ssrn.com/abstract=808347 University of Illinois Law & Economics Research Paper]
+*{{cite book |last1=Heath |first1=Christopher |last2=Petit |first2=Laurence |title=Patent Enforcement Worldwide: A Survey of 15 Countries, Writings in Honour of Dieter Stauder |edition=Second |series=IIC Studies in Industrial Property and Copyright Law |year=2005 |publisher=Hart Publishing |location=Oxford}}
+* See [http://patentlaw.typepad.com/patent/2005/07/en_banc_federal.html Phillips] For the Federal Circuits most recent opinion regarding claim construction (United States patent law).
+
+{{DEFAULTSORT:Patent Infringement}}
+[[Category:Patent law|Infringement, patent]]

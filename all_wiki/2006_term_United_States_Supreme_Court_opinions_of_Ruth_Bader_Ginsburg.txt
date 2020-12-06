@@ -1,0 +1,232 @@
+{{SCOTUS-justice-listframe
+ |firstname=Ruth Bader
+ |lastname=Ginsburg
+ |image=File:Ruth Bader Ginsburg official SCOTUS portrait.jpg
+ |term=2006
+ |tenurecount=fourteenth
+ |startdate=October 2, 2006
+ |enddate=September 30, 2007
+ |majority=7
+ |concurrence=3
+ |concurrencedissent=1
+ |dissent=4
+ |other=0
+ |benchcount=14
+ |relatingtoorders=1
+ |inchambers=0
+ |unanimous=2
+ |mostjoinedby=Souter (10)
+ |leastjoinedby=Alito (3)
+ |url-courtopinions=https://www.supremecourt.gov/opinions/slipopinion/06
+ |url-relatingtoorders=https://www.supremecourt.gov/opinions/relatingtoorders/06
+ |url-inchambers=https://www.supremecourt.gov/opinions/in-chambers/06
+ |accessdate=December 12, 2016
+ |opinionstemplate=ruthbaderginsburgopinions
+ |courttemplate=SCOTUSterm2006-2008
+ |entries=
+{{SCOTUS-justice-listentry
+  | #=01
+  | case=Norfolk Southern R. Co. v. Sorrell
+  | type=concurrence
+  | volume=549
+  | page=158
+  | year=2007
+  | wikisource=
+  | issues=
+  | joined=
+  | otheropinion1author=Roberts || otheropinion1type=majority || otheropinion1link=2006 term United States Supreme Court opinions of John Roberts#Norfolk Southern R. Co. v. Sorrell
+  | otheropinion2author=Souter || otheropinion2type=concurrence || otheropinion2link=2006 term United States Supreme Court opinions of David Souter#Norfolk Southern R. Co. v. Sorrell
+  | summary=
+}}
+{{SCOTUS-justice-listentry
+  | #=02
+  | case=Osborn v. Haley
+  | type=majority
+  | volume=549
+  | page=225
+  | year=2007
+  | wikisource=
+  | issues=
+  | joined=Roberts, Stevens, Kennedy, Alito; Souter, Breyer (in part)
+  | otheropinion2author=Souter || otheropinion2type=concurrencedissent || otheropinion2link=2006 term United States Supreme Court opinions of David Souter#Osborn v. Haley
+  | otheropinion3author=Breyer || otheropinion3type=concurrencedissent || otheropinion3link=2006 term United States Supreme Court opinions of Stephen Breyer#Osborn v. Haley
+  | otheropinion4author=Scalia || otheropinion4type=dissent || otheropinion4link=2006 term United States Supreme Court opinions of Antonin Scalia#Osborn v. Haley
+  | summary=
+}}
+{{SCOTUS-justice-listentry
+  | #=03
+  | case=Cunningham v. California
+  | type=majority
+  | volume=549
+  | page=270
+  | year=2007
+  | wikisource=
+  | issues=[[Sentence (law)|sentencing]] {{*}} [[Sixth Amendment to the United States Constitution|Sixth Amendment]]
+  | joined=Roberts, Stevens, Scalia, Souter, Thomas
+  | otheropinion2author=Kennedy || otheropinion2type=dissent || otheropinion2link=2006 term United States Supreme Court opinions of Anthony Kennedy#Cunningham v. California
+  | otheropinion3author=Alito || otheropinion3type=dissent || otheropinion3link=2006 term United States Supreme Court opinions of Samuel Alito#Cunningham v. California
+  | summary=
+}}
+{{SCOTUS-justice-listentry
+  | #=04
+  | case=Lawrence v. Florida
+  | type=dissent
+  | volume=549
+  | page=327
+  | year=2007
+  | wikisource=
+  | issues=
+  | joined=Stevens, Souter, Breyer
+  | otheropinion1author=Thomas || otheropinion1type=majority || otheropinion1link=2006 term United States Supreme Court opinions of Clarence Thomas#Lawrence v. Florida
+  | summary=
+}}
+{{SCOTUS-justice-listentry
+  | #=05
+  | case=Philip Morris USA v. Williams
+  | type=dissent
+  | volume=549
+  | page=346
+  | year=2007
+  | wikisource=
+  | issues=[[punitive damages]] {{*}} [[Due Process]] {{*}} [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]]
+  | joined=Scalia, Thomas
+  | otheropinion1author=Breyer || otheropinion1type=majority || otheropinion1link=2006 term United States Supreme Court opinions of Stephen Breyer#Philip Morris USA v. Williams
+  | otheropinion2author=Stevens || otheropinion2type=dissent || otheropinion2link=2006 term United States Supreme Court opinions of John Paul Stevens#Philip Morris USA v. Williams
+  | otheropinion3author=Thomas || otheropinion3type=dissent || otheropinion3link=2006 term United States Supreme Court opinions of Clarence Thomas#Philip Morris USA v. Williams
+  | summary=
+}}
+{{SCOTUS-justice-listentry
+  | #=06
+  | case=Sinochem Int'l Co. v. Malaysia Int'l Shipping Corp.
+  | type=majority
+  | volume=549
+  | page=422
+  | year=2007
+  | wikisource=
+  | issues=
+  | joined=Unanimous
+  | summary=
+}}
+{{SCOTUS-justice-listentry
+  | #=07
+  | case1=Haas v. Quest Recovery Services, Inc.
+  | type=concurrence
+  | volume=549
+  | page=1163
+  | year=2007
+  | wikisource=
+  | issues=
+  | joined=
+  | summary=Ginsburg concurred in the Court’s order granting ''certiorari'', vacating the Sixth Circuit's judgment, and remanding for consideration of the views of the United States in light of 28 U.S.C. §2403(a).
+}}
+{{SCOTUS-justice-listentry
+  | #=08
+  | case=Watters v. Wachovia Bank, N. A.
+  | type=majority
+  | volume=550
+  | page=1
+  | year=2007
+  | wikisource=
+  | issues=
+  | joined=Kennedy, Souter, Breyer, Alito
+  | otheropinion2author=Stevens || otheropinion2type=dissent || otheropinion2link=2006 term United States Supreme Court opinions of John Paul Stevens#Watters v. Wachovia Bank, N. A.
+  | summary=
+}}
+{{SCOTUS-justice-listentry
+  | #=09
+  | case=Gonzales v. Carhart
+  | type=dissent
+  | volume=550
+  | page=124
+  | year=2007
+  | wikisource=
+  | issues=[[abortion]]
+  | joined=Stevens, Souter, Breyer
+  | otheropinion1author=Kennedy || otheropinion1type=majority || otheropinion1link=2006 term United States Supreme Court opinions of Anthony Kennedy#Gonzales v. Carhart
+  | otheropinion2author=Thomas || otheropinion2type=concurrence || otheropinion2link=2006 term United States Supreme Court opinions of Clarence Thomas#Gonzales v. Carhart
+  | summary=
+}}
+{{SCOTUS-justice-listentry
+  | #=10
+  | case=Scott v. Harris
+  | type=concurrence
+  | volume=550
+  | page=372
+  | year=2007
+  | wikisource=
+  | issues=
+  | joined=
+  | otheropinion1author=Scalia || otheropinion1type=majority || otheropinion1link=2006 term United States Supreme Court opinions of Antonin Scalia#Scott v. Harris
+  | otheropinion3author=Breyer || otheropinion3type=concurrence || otheropinion3link=2006 term United States Supreme Court opinions of Stephen Breyer#Scott v. Harris
+  | otheropinion4author=Stevens || otheropinion4type=dissent || otheropinion4link=2006 term United States Supreme Court opinions of John Paul Stevens#Scott v. Harris
+  | summary=
+}}
+{{SCOTUS-justice-listentry
+  | #=11
+  | case=Microsoft Corp. v. AT&T Corp.
+  | type=majority
+  | volume=550
+  | page=437
+  | year=2007
+  | wikisource=
+  | issues=
+  | joined=Scalia, Kennedy, Souter
+  | otheropinion2author=Alito || otheropinion2type=concurrence || otheropinion2link=2006 term United States Supreme Court opinions of Samuel Alito#Microsoft Corp. v. AT&T Corp.
+  | otheropinion3author=Stevens || otheropinion3type=dissent || otheropinion3link=2006 term United States Supreme Court opinions of John Paul Stevens#Microsoft Corp. v. AT&T Corp.
+  | summary=
+}}
+{{SCOTUS-justice-listentry
+  | #=12
+  | case=Ledbetter v. Goodyear Tire & Rubber Co.
+  | type=dissent
+  | volume=550
+  | page=618
+  | year=2007
+  | wikisource=
+  | issues=
+  | joined=Stevens, Souter, Breyer
+  | otheropinion1author=Alito || otheropinion1type=majority || otheropinion1link=2006 term United States Supreme Court opinions of Samuel Alito#Ledbetter v. Goodyear Tire & Rubber Co.
+  | summary=
+}}
+{{SCOTUS-justice-listentry
+  | #=13
+  | case=Sole v. Wyner
+  | type=majority
+  | volume=551
+  | page=74
+  | year=2007
+  | wikisource=
+  | issues=
+  | joined=Unanimous
+  | summary=
+}}
+{{SCOTUS-justice-listentry
+  | #=14
+  | case=Tellabs, Inc. v. Makor Issues & Rights, Ltd.
+  | type=majority
+  | volume=551
+  | page=308
+  | year=2007
+  | wikisource=
+  | issues=
+  | joined=Roberts, Kennedy, Souter, Thomas, Breyer
+  | otheropinion2author=Scalia || otheropinion2type=concurrence || otheropinion2link=2006 term United States Supreme Court opinions of Antonin Scalia#Tellabs, Inc. v. Makor Issues & Rights, Ltd.
+  | otheropinion3author=Alito || otheropinion3type=concurrence || otheropinion3link=2006 term United States Supreme Court opinions of Samuel Alito#Tellabs, Inc. v. Makor Issues & Rights, Ltd.
+  | otheropinion4author=Stevens || otheropinion4type=dissent || otheropinion4link=2006 term United States Supreme Court opinions of John Paul Stevens#Tellabs, Inc. v. Makor Issues & Rights, Ltd.
+  | summary=
+}}
+{{SCOTUS-justice-listentry
+  | #=15
+  | case=Wilkie v. Robbins
+  | type=concurrencedissent
+  | volume=551
+  | page=537
+  | year=2007
+  | wikisource=
+  | issues=
+  | joined=Stevens
+  | otheropinion1author=Souter || otheropinion1type=majority || otheropinion1link=2006 term United States Supreme Court opinions of David Souter#Wilkie v. Robbins
+  | otheropinion2author=Thomas || otheropinion2type=concurrence || otheropinion2link=2006 term United States Supreme Court opinions of Clarence Thomas#Wilkie v. Robbins
+  | summary=
+}}
+}}

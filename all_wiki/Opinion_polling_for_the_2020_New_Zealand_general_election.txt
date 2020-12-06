@@ -1,0 +1,1318 @@
+{{Use New Zealand English|date=October 2017}}
+{{Use dmy dates|date=October 2017}}
+Several polling firms have conducted [[opinion polls]] during the term of the [[52nd New Zealand Parliament]] in the lead up to the [[2020 New Zealand general election|2020 general election]], which elects the [[53rd New Zealand Parliament|53rd Parliament]]. The 52nd Parliament was elected on 23 September 2017 and dissolved on 6 September 2020. The 2020 election was originally due to take place on Saturday 19 September 2020, but due to a second [[COVID-19 pandemic in New Zealand|COVID-19 outbreak]] it was delayed until Saturday 17 October 2020.<ref name="Stuff: delayed"/>
+
+Very few polls have been conducted compared to previous electoral cycles.<ref>{{cite news |author=Michael Appleton |date=5 November 2018 |title=Why the drought in New Zealand opinion polling matters |work=The Spinoff |url=https://thespinoff.co.nz/politics/05-11-2018/why-the-drought-in-new-zealand-opinion-polling-matters/ |access-date=5 November 2018 |archive-url=https://web.archive.org/web/20181105075529/https://thespinoff.co.nz/politics/05-11-2018/why-the-drought-in-new-zealand-opinion-polling-matters/ |archive-date=5 November 2018 |url-status=live }}</ref> The two regular polls are [[Television New Zealand]] (''[[1 News (New Zealand)|1 News]]''), conducted by [[Colmar Brunton]], and [[Roy Morgan Research]], with less frequent polls from [[MediaWorks New Zealand]] ([[Newshub]]) Reid Research. The sample size, margin of error and confidence interval of each poll varies by organisation and date.
+
+==Party vote==
+===Graphical summary===
+The first graph shows trend lines averaged across all polls for all political parties that are routinely included by polling companies. The second graph shows parties that received less than 10% of the party vote in the 2017 election, and are routinely included by polling companies.
+
+[[File:Opinion polling for the 2020 New Zealand general election.svg|thumb|left|800px|Summary of poll results given below from the election result 23 September 2017. Lines give the mean estimated by a [[Local regression|LOESS smoother]] (smoothing set to span = 0.625). ]]
+
+[[File:Opinion polling for the 2020 New Zealand general election (zoomed on smaller parties).svg|thumb|left|800px|Summary of poll results for parties that received less than 10% of the party vote in the 2017 election, and that are routinely included by polling companies. Lines give the mean estimated by a [[Local regression|LOESS smoother]] (smoothing set to span = 0.625).]]
+{{clear}}
+
+===Individual polls===
+{{For|further events related to the COVID-19 pandemic in New Zealand|Timeline of the COVID-19 pandemic in New Zealand}}
+Poll results are listed in the table below in reverse chronological order. The highest percentage figure in each polling survey is displayed in bold, and the background shaded in the leading party's colour. The 'party lead' column shows the percentage-point difference between the two parties with the highest figures. In the instance of a tie, both figures are shaded and displayed in bold. Percentages may not add to 100 percent due to polls not reporting figures for all minor parties and due to rounding. Refusals are generally excluded from the party vote percentages, while question wording and the treatment of "don't know" responses and those not intending to vote may vary between survey organisations.
+
+The parties shown in the table are [[New Zealand National Party|National]] (NAT), [[New Zealand Labour Party|Labour]] (LAB), [[New Zealand First]] (NZF), [[Green Party of Aotearoa New Zealand|Green]] (GRN), [[ACT New Zealand|ACT]], [[The Opportunities Party|Opportunities]] (TOP), [[Māori Party|Māori]] (MRI), [[New Conservative Party (New Zealand)|New Conservative]] (NCP) and [[Advance New Zealand]] (ANZ). Other parties have also registered in some polls, but are not listed in this table.
+{| class="sortable" "toccolours" cellpadding="5" cellspacing="1" style="text-align:center; margin-right:0.5em; margin-top:0.4em; font-size:90%; border:1px solid darkgray;"
+|- style="background:#e8e8e8;height:35px;"
+! Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! Polling organisation
+! Sample size
+! style="background-color:#B0CEFF;width:40px" | [[New Zealand National Party|NAT]]
+! style="background-color:#FFB6B6;width:40px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#D3D3D3;width:40px" | [[New Zealand First|NZF]]
+! style="background-color:#90EE90;width:40px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#FFFF00;width:40px" | [[ACT New Zealand|ACT]]
+! style="background-color:#32DAC3;width:40px" | [[The Opportunities Party|TOP]]
+! style="background-color:#BD9490;width:40px" | [[Māori Party|MRI]]
+! style="background-color:#91D3FF;width:40px" | [[New Conservative Party (New Zealand)|NCP]]
+! style="background-color:#CFEBFC;width:40px" | [[Advance New Zealand|ANZ]]
+! data-sort-type="number" style="width:40px;" | Lead
+|- style="background:#ddd;"
+! colspan=13 |
+|- style="background:#EFEFEF; font-weight:italic;"
+| data-sort-value="2020-10-20" | '''17 Oct 2020'''
+| data-sort-value="z" | '''[[2020 New Zealand general election|2020 election result]]'''
+| {{small|N/A}} || 25.6 || style="background:#FFB6B6;"|'''50.0''' || 2.6 || 7.9 || 7.6 || 1.5 || 1.2 || 1.5 || 1.0 || style="background:#FFB6B6;" |'''24.4'''
+|-
+| data-sort-value="2020-10-15" | '''8–15 Oct 2020'''
+|[https://www.newshub.co.nz/home/politics/2020/10/nz-election-2020-newshub-reid-research-poll-shows-labour-with-slim-majority-as-national-makes-slight-gain.html Newshub–Reid Research]
+| 1000 || 31.1 || style="background:#FFB6B6;"|'''45.8''' || 3.5 || 6.3 || 7.4 || 1.3 || 0.6 || 1.7 || 0.3 || style="background:#FFB6B6;" |'''14.7'''
+|-
+| data-sort-value="2020-10-14" | '''10–14 Oct 2020'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/10-14-October-2020_1-NEWS-Colmar-Brunton-Poll-report-1.pdf 1 News–Colmar Brunton]
+| 1005 || 31 || style="background:#FFB6B6;"|'''46''' || 2.6 || 8 || 8 || 1.1 || 0.6 || 1.5 || 0.9 || style="background:#FFB6B6;" |'''15'''
+|-
+| data-sort-value="2020-10-07" | '''3–7 Oct 2020'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/3-7-October-2020_1-NEWS-Colmar-Brunton-Poll-report.pdf 1 News–Colmar Brunton]
+| 1007 || 32 || style="background:#FFB6B6;"|'''47''' || 2.4 || 6 || 8 || 1.8 || 0.2 || 1.3 || 0.9 || style="background:#FFB6B6;" |'''15'''
+|- style="background:#EFEFEF;"
+| data-sort-value="2020-10-03"|'''3 Oct 2020'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" | '''Advance voting for the election begins. The Electoral Commission estimates 60% of voters will cast their vote before election day.<ref>{{cite news|title=Hundreds of sites to open for advance voting from today|work=Radio NZ|url=https://www.tvnz.co.nz/one-news/new-zealand/hundreds-sites-open-advance-voting-today|accessdate=2 October 2020|via=1 News}}</ref>'''
+|-
+| data-sort-value="2020-09-30" | '''Sep 2020'''
+|[https://www.roymorgan.com/findings/8543-nz-national-voting-intention-september-2020-202010142349 Roy Morgan Research]
+| 911 || 28.5 || style="background:#FFB6B6;"|'''47.5''' || 2.5 || 9.5 || 7.0 || 1.5 || 0.5 || – || – || style="background:#FFB6B6;" |'''19'''
+|-
+| data-sort-value="2020-09-27" | '''23–27 Sep 2020'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/PRELIM_23-27-September-2020_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1005 || 33 || style="background:#FFB6B6;"|'''47''' || 1.4 || 7 || 8 || 1.0 || 0.8 || 1.4 || 0.6 || style="background:#FFB6B6;" |'''14'''
+|-
+| data-sort-value="2020-09-23" | '''16–23 Sep 2020'''
+|[https://www.newshub.co.nz/home/politics/2020/09/nz-election-2020-newshub-reid-research-poll-shows-labour-governing-alone-as-national-languishes-in-the-20s.html Newshub–Reid Research]
+| 1000 || 29.6 || style="background:#FFB6B6;"|'''50.1''' || 1.9 || 6.5 || 6.3 || 0.9 || 1.5 || 2.1 || – || style="background:#FFB6B6;" |'''20.5'''
+|-
+| data-sort-value="2020-09-21" | '''17–21 Sep 2020'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/PRELIM_17-21-September-2020_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1008 || 31 || style="background:#FFB6B6;"|'''48''' || 2.4 || 6 || 7 || 1.1 || 0.9 || 1.6 || 0.8 || style="background:#FFB6B6;" |'''17'''
+|-
+| data-sort-value="2020-08-31"|'''Aug 2020'''
+|[https://www.roymorgan.com/findings/8509-nz-national-voting-intention-august-2020-202008310343 Roy Morgan Research]
+| 897 || 28.5 || style="background:#FFB6B6;" |'''48.0''' || 2.5 || 11.5 || 6.0 || 1.0 || 0.5 || – || – || style="background:#FFB6B6;" |'''19.5'''
+|- style="background:#EFEFEF;"
+| data-sort-value="2020-08-17"|'''17 Aug 2020'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" | '''[[Jacinda Ardern]] announces the election is postponed to 17 October 2020, over concerns relating to [[COVID-19 pandemic in New Zealand#August 2020|a recent rise in cases of COVID-19]].<ref name="Stuff: delayed">{{cite news|url=https://www.stuff.co.nz/national/health/coronavirus/122466319/live-jacinda-ardern-delays-election-to-october-17-amid-coronavirus-outbreak|title=Live: Jacinda Ardern delays election to October 17 amid coronavirus outbreak|first=Brittney|last=Deguara|work=Stuff|date=17 August 2020|accessdate=17 August 2020}}</ref>'''
+|-
+| data-sort-value="2020-07-31"|'''Jul 2020'''
+|[https://www.roymorgan.com/findings/8489-nz-national%20-voting-intention-july-2020-202008070802 Roy Morgan Research]
+| 899 || 26.5 || style="background:#FFB6B6;" |'''53.5''' || 1.5 || 8 || 6.5 || 1.5 || 0.5 || – || {{small|N/A}} || style="background:#FFB6B6;" |'''27'''
+|-
+| data-sort-value="2020-07-29"|'''25–29 Jul 2020'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/Prelim_25-29-July-2020_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1004 || 32 || style="background:#FFB6B6;" |'''53''' || 2 || 5 || 4.8 || 0.1 || 1 || 1.2 || {{small|N/A}} || style="background:#FFB6B6;" |'''21'''
+|-
+| data-sort-value="2020-07-24"|'''16–24 Jul 2020'''
+|[https://www.newshub.co.nz/home/politics/2020/07/newshub-reid-research-poll-the-destruction-of-national-under-judith-collins-as-party-sinks-to-25-percent.html Newshub–Reid Research]
+| 1000 || 25.1 || style="background:#FFB6B6;" |'''60.9''' || 2.0 || 5.7 || 3.3 || 0.4 || 0.4 || 0.9 || {{small|N/A}} || style="background:#FFB6B6;" |'''35.8'''
+|- style="background:#EFEFEF;"
+| data-sort-value="2020-07-14"|'''14 Jul 2020'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" | '''[[Todd Muller]] resigns and [[Judith Collins]] is elected as [[Leader of the National Party of New Zealand|leader of the National Party]].'''
+|-
+| data-sort-value="2020-06-30"|'''Jun 2020'''
+|[https://www.roymorgan.com/findings/8469-nz-national%20-voting-intention-june-2020-202007130649 Roy Morgan Research]
+| 879 || 27 || style="background:#FFB6B6;" |'''54.5''' || 1.5 || 9 || 5 || 1.5 || 1 || – || {{small|N/A}} || style="background:#FFB6B6;" |'''27.5'''
+|-
+| data-sort-value="2020-06-24"|'''20–24 Jun 2020'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/V2-Prelim_20-24-June-2020_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1007 || 38 || style="background:#FFB6B6;" |'''50''' || 1.8 || 6 || 3.1 || 0.5 || 0.9 || 0.7 || {{small|N/A}} || style="background:#FFB6B6;" |'''12'''
+|-
+| data-sort-value="2020-05-24"|'''27 Apr – 24 May 2020'''
+|[http://www.roymorgan.com/findings/8429-nz-national%20-voting-intention-may-2020-202006010651 Roy Morgan Research]
+| 894 || 26.5 || style="background:#FFB6B6;" |'''56.5''' || 2.5 || 7 || 3.5 || 1 || 1.5 || – || {{small|N/A}} || style="background:#FFB6B6;" |'''30'''
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2020-05-22"|'''22 May 2020'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" | '''[[Todd Muller]] is elected leader of the National Party, replacing [[Simon Bridges]].'''
+|-
+| data-sort-value="2020-05-20"|'''16–20 May 2020'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/Prelim_16-20-May-2020_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1003 || 29 || style="background:#FFB6B6;" |'''59''' || 2.9 || 4.7 || 2.2 || 0.5 || 1.2 || 0.4 || {{small|N/A}} || style="background:#FFB6B6;" |'''30'''
+|-
+| data-sort-value="2020-05-16"|'''8–16 May 2020'''
+|[https://www.newshub.co.nz/home/politics/2020/05/newshub-reid-research-poll-jacinda-ardern-goes-stratospheric-simon-bridges-is-annihilated.html Newshub–Reid Research]
+| 1000 || 30.6 || style="background:#FFB6B6;" |'''56.5''' || 2.7 || 5.5 || 1.8 || 0.1 || 0.9 || 1.0 || {{small|N/A}} || style="background:#FFB6B6;" |'''25.9'''
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2020-05-14"|'''14 May 2020'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" | '''[[2020 New Zealand budget|2020 Budget]] is delivered.'''
+|-
+| data-sort-value="2020-04-30"|'''Apr 2020'''
+|[http://www.roymorgan.com/findings/8429-nz-national%20-voting-intention-may-2020-202006010651 Roy Morgan Research]
+| – || 30.5 || style="background:#FFB6B6;" |'''55''' || 2.5 || 7 || 2.5 || – || – || – || {{small|N/A}} || style="background:#FFB6B6;" |'''24.5'''
+|-
+| data-sort-value="2020-03-31"|'''Mar 2020'''
+|[http://www.roymorgan.com/findings/8429-nz-national%20-voting-intention-may-2020-202006010651 Roy Morgan Research]
+| – || 37 || style="background:#FFB6B6;" |'''42.5''' || 3 || 11.5 || 3.5 || – || – || – || {{small|N/A}} || style="background:#FFB6B6;" |'''5.5'''
+|- style="background:#EFEFEF;"
+| data-sort-value="2020-03-25"|'''25 March 2020'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" | '''Nationwide [[New Zealand coronavirus alert levels|Level 4]] restrictions are implemented due to the [[COVID-19 pandemic in New Zealand|COVID-19 pandemic]].'''
+|-
+| data-sort-value="2020-02-29"|'''Feb 2020'''
+|[http://www.roymorgan.com/findings/8429-nz-national%20-voting-intention-may-2020-202006010651 Roy Morgan Research]
+| – || 37 || style="background:#FFB6B6;" |'''40.5''' || 5 || 10.5 || 3.5 || – || – || – || {{small|N/A}} || style="background:#FFB6B6;" |'''3.5'''
+|-
+| data-sort-value="2020-02-12"|'''8–12 Feb 2020'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/8-12-Feb-2020_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1004 || style="background-color:#B0CEFF;" |'''46''' || 41 || 3.3 || 5 || 1.7 || 0.1 || 1.1 || 0.8 || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-5" | '''5'''
+|-
+| data-sort-value="2020-02-01"|'''23 Jan – 1 Feb 2020'''
+|[https://www.newshub.co.nz/home/politics/2020/02/national-and-labour-neck-and-neck-in-new-newshub-reid-research-poll.html Newshub–Reid Research]
+| 1000 || style="background-color:#B0CEFF;" |'''43.3''' || 42.5 || 3.6 || 5.6 || 1.8 || 0.6 || 0.9 || 0.7 || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-0.8" | '''0.8'''
+|-
+| data-sort-value="2020-01-31"|'''Jan 2020'''
+|[http://www.roymorgan.com/findings/8429-nz-national%20-voting-intention-may-2020-202006010651 Roy Morgan Research]
+| – || style="background-color:#B0CEFF;" | '''40''' || style="background:#FFB6B6;" |'''40''' || 2.5 || 10.5 || 3 || – || – || – || {{small|N/A}} || data-sort-value="0" | '''Tie'''
+|- style="background:#EFEFEF;"
+| data-sort-value="2020-01-28"|'''28 Jan 2020'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" | '''Prime Minister [[Jacinda Ardern]] announces that the election will take place on 19 September 2020.'''
+|-
+| data-sort-value="2019-11-27"|'''23–27 Nov 2019'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/Prelim_23-27-Nov-2019_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1006 || style="background-color:#B0CEFF;" |'''46''' || 39 || 4.3 || 7 || 1.6 || 0.9 || 0.5 || 0.8 || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-7" | '''7'''
+|-
+| data-sort-value="2019-11-11"|'''7–11 Nov 2019'''
+|[https://www.stuff.co.nz/national/politics/117662933/labour-ahead-while-national-dips-below-40-in-new-stuff-poll Stuff–YouGov]
+| 1005 || 38 || style="background:#FFB6B6;" | '''41''' || 8 || 8 || 2 || 1 || 1 || – || {{small|N/A}} || style="background:#FFB6B6;" |'''3'''
+|-
+| data-sort-value="2019-10-14"|'''5–9 Oct 2019'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/Prelim_05-09-Oct-2019_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1008|| style="background-color:#B0CEFF;" |'''47''' || 40 || 4.2 || 7 || 0.9 || 0.5 || 0.8 || 0.4 || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-7" | '''7'''
+|-
+| data-sort-value="2019-10-09"|'''2–9 Oct 2019'''
+|[https://www.newshub.co.nz/home/politics/2019/10/jacinda-ardern-labour-take-massive-tumble-in-new-newshub-reid-research-poll.html Newshub–Reid Research]
+| 1000|| style="background-color:#B0CEFF;" | '''43.9''' || 41.6 || 4.0 || 6.3 || 1.4 || 1.1 || 0.7 || 1 || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-2.3" | '''2.3'''
+|-
+| data-sort-value="2019-07-24"|'''20–24 Jul 2019'''
+|[https://www.colmarbrunton.co.nz/wp-content/uploads/2019/07/Prelim_20-24-July-2019_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1003 || style="background-color:#B0CEFF;" | '''45''' || 43 || 3.3 || 6 || 1 || 0.5 || 1.1 || 0.8 || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-2" | '''2'''
+|-
+| data-sort-value="2019-06-08"|'''4–8 Jun 2019'''
+|[https://www.colmarbrunton.co.nz/wp-content/uploads/2019/06/Prelim_4-8-June-2019_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1002 || style="background-color:#B0CEFF;" | '''44''' || 42 || 5 || 6 || 0.7 || 0.5 || 0.5 || 0.6 || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-2" | '''2'''
+|-
+| data-sort-value="2019-06-07"|'''30 May – 7 Jun 2019'''
+|[https://www.newshub.co.nz/home/politics/2019/06/poll-national-nosedives-into-dreaded-30s-could-trigger-leadership-coup.html Newshub–Reid Research]
+| 1000 || 37.4 || style="background:#FFB6B6;" | '''50.8''' || 2.8 || 6.2 || 0.8 || 0.1 || 0.5 || 1 || {{small|N/A}} || style="background:#FFB6B6;"|'''13.4'''
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2019-05-30"|'''30 May 2019'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" | '''The [[2019 New Zealand budget|2019 Budget]] is delivered.'''
+|-
+| data-sort-value="2019-04-10"|'''6–10 Apr 2019'''
+|[https://www.colmarbrunton.co.nz/wp-content/uploads/2019/04/6-10-April-2019_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1009 || 40 ||style="background:#FFB6B6;" | '''48''' || 4.3 || 6 || 0.7 || – || 0.5 || 0.4 || {{small|N/A}} || style="background:#FFB6B6;"|'''8'''
+|-
+| data-sort-value="2019-03-23"|'''15–23 Mar 2019'''
+|[https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12221107 Business NZ–Reid Research]
+| 1000 || 41.3 || style="background:#FFB6B6;" | '''49.6''' || 2.3 || 3.9 || – || – || – || – || {{small|N/A}} || style="background:#FFB6B6;"|'''8.3'''
+|-
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2019-03-15"|'''15 Mar 2019'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" | '''[[Christchurch mosque shootings|Christchurch shootings]] targeting mosques kill 51 people and injure a further 49. Terror threat level is raised from low to high.'''
+|-
+| data-sort-value="2019-02-13"|'''9–13 Feb 2019'''
+|[https://www.colmarbrunton.co.nz/wp-content/uploads/2019/02/Prelim_9-13-February-2019_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1006 || 42 || style="background:#FFB6B6;" | '''45''' || 3 || 6 || 0.9 || 0.6 || 1.4 || 0.2 || {{small|N/A}} || style="background:#FFB6B6;"|'''3'''
+|-
+| data-sort-value="2019-02-02"|'''24 Jan – 2 Feb 2019'''
+|[https://www.newshub.co.nz/home/politics/2019/02/national-plunges-to-worst-result-in-over-a-decade-newshub-poll.html Newshub–Reid Research]
+| 1000 || 41.6 || style="background:#FFB6B6;" | '''47.5''' || 2.9 || 5.1 || 0.4 || 0.5 || 0.8 || 1.1 || {{small|N/A}} || style="background:#FFB6B6;"|'''5.9'''
+|-
+| data-sort-value="2018-11-28"|'''24–28 Nov 2018'''
+|[https://www.colmarbrunton.co.nz/wp-content/uploads/2018/12/Prelim_24-28-November-2018_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1008 || style="background:#B0CEFF;" | '''46''' || 43 || 4 || 5 || 0.6 || 0.3 || 0.9 || – || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-3" | '''3'''
+|-
+| data-sort-value="2018-10-19"|'''15–19 Oct 2018'''
+|[http://www.colmarbrunton.co.nz/wp-content/uploads/2018/10/Prelim_15-19-October-2018_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1006 || 43 || style="background:#FFB6B6;" | '''45''' || 5 || 7 || 0.3 || 0.3 || 0.6 || 0.3 || {{small|N/A}} || style="background:#FFB6B6;"|'''2'''
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2018-08-02"|'''2 Aug 2018'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" |'''Ardern returns as Prime Minister after six weeks of maternity leave.'''
+|-
+| data-sort-value="2018-08-01"|'''28 Jul – 1 Aug 2018'''
+|[http://www.colmarbrunton.co.nz/wp-content/uploads/2018/08/Prelim_28-Jul-1-Aug-2018_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1007 || style="background-color:#B0CEFF;" | '''45''' || 42 || 5 || 6 || 1.1 || 0.4 || 0.9 || 0.1 || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-3" | '''3'''
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2018-07-10"|'''21 Jun 2018'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" |'''Ardern gives birth. [[Winston Peters]] becomes Acting Prime Minister.'''
+|-
+| data-sort-value="2018-05-27"|'''17–24 May 2018'''
+|[http://www.newshub.co.nz/home/politics/2018/05/simon-bridges-failing-to-connect-with-voters-newshub-poll.html Newshub–Reid Research]
+| 1000<ref name=reidmethodology>{{cite web|url=http://www.reidresearch.co.nz/TV3+POLL+RESULTS.html|title=TV3 poll results |publisher=Reid Research|accessdate=27 May 2018|archive-url=https://web.archive.org/web/20180528060034/http://www.reidresearch.co.nz/TV3+POLL+RESULTS.html|archive-date=28 May 2018|url-status=live}}</ref> ||style="background-color:#B0CEFF;" |'''45.1''' || 42.6 || 2.4 || 5.7 || 0.2 || 1.6 || 0.9 || 1.1 || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-2" | '''2.5'''
+|-
+| data-sort-value="2018-05-23"|'''19–23 May 2018'''
+|[http://www.colmarbrunton.co.nz/wp-content/uploads/2018/05/Prelim_19-23-May-2018_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1007 || style="background-color:#B0CEFF;" | '''45''' || 43 || 4.2 || 5 || 0.7 || 0.5 || 0.9 || 0.2 || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-2" | '''2'''
+|- style="background:#EFEFEF;"
+| data-sort-value="2018-05-17"|'''17 May 2018'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" | '''The [[2018 New Zealand budget|2018 Budget]] is delivered.'''
+|-
+| data-sort-value="2018-04-11"|'''7–11 Apr 2018'''
+|[http://www.colmarbrunton.co.nz/wp-content/uploads/2018/04/Prelim_7-11-Apr-2018_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1007 || style="background-color:#B0CEFF;" | '''44''' || 43 || 5 || 6 || 0.3 || 0.4 || 1.2 || 0.2 || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-1" | '''1'''
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2018-04-8"|'''8 Apr 2018'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" | '''[[Marama Davidson]] is elected co-leader of the Green Party.'''<ref name="Marama Davidson wins">{{Cite news|url=http://www.newshub.co.nz/home/politics/2018/04/marama-davidson-elected-new-greens-co-leader.html|title=Marama Davidson elected new Greens co-leader|work=[[Newshub]]|date=8 April 2018|accessdate=8 April 2018|archive-url=https://web.archive.org/web/20180408025107/http://www.newshub.co.nz/home/politics/2018/04/marama-davidson-elected-new-greens-co-leader.html|archive-date=8 April 2018|url-status=live}}</ref>
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2018-02-27"|'''27 Feb 2018'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" | '''[[Simon Bridges]] is elected leader of the National Party.'''<ref name=NZHerald01>{{cite news |url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12002820 |title=Simon Bridges is National Party's new leader, Paula Bennett remains deputy |date=27 February 2018 |work=[[The New Zealand Herald]] |accessdate=27 February 2018 |archive-url=https://web.archive.org/web/20180227020103/http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12002820 |archive-date=27 February 2018 |url-status=live }}</ref>
+|-
+| data-sort-value="2018-02-14"|'''10–14 Feb 2018'''<ref group="nb" name="resign1">75% of respondents were polled before Bill English announced his resignation.</ref>
+|[http://www.colmarbrunton.co.nz/wp-content/uploads/2018/02/Prelim_10-14-Feb-2018_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1007 || 43 || style="background:#FFB6B6;" | '''48''' || 2.6 || 5 || 0.5 || 0.6 || 0.7 || 0.1 || {{small|N/A}} || style="background:#FFB6B6;"|'''5'''
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2018-02-13"|'''13 Feb 2018'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" | '''[[Bill English]] announces he will stand down as National leader and resign from Parliament.'''<ref name=Newshub3>{{cite news |url=http://www.newshub.co.nz/home/politics/2018/02/former-pm-bill-english-resigns-as-national-party-leader.html |title=Former PM Bill English resigns as National Party leader |date=13 February 2018 |newspaper=[[Newshub]] |accessdate=13 February 2018 |archive-url=https://web.archive.org/web/20180213080447/http://www.newshub.co.nz/home/politics/2018/02/former-pm-bill-english-resigns-as-national-party-leader.html |archive-date=13 February 2018 |url-status=live }}</ref>
+|-
+| data-sort-value="2018-01-28"|'''18–28 Jan 2018'''
+|[http://www.newshub.co.nz/home/politics/2018/01/newshub-poll-labour-soars-to-popularity-not-seen-for-a-decade.html Newshub–Reid Research]
+| 1000 || style="background-color:#B0CEFF;" |'''44.5''' || 42.3 || 3.8 || 6 || 0.2 || 1.4 || 0.8 || 0.3 || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-2" | '''2.2'''
+|-
+| data-sort-value="2018-01-28"|'''2–28 Jan 2018'''
+|[https://www.roymorgan.com/findings/8469-nz-national%20-voting-intention-june-2020-202007130649 Roy Morgan Research]
+| 1000 || 39 || style="background:#FFB6B6;" |  '''42.5''' || 6 || 9 || 0.5 || 1.5 || 1 || – || {{small|N/A}} || style="background:#FFB6B6;"|'''3.5'''
+|-
+| data-sort-value="2017-12-10"|'''27 Nov – 10 Dec 2017'''
+|[http://www.roymorgan.com/findings/8429-nz-national%20-voting-intention-may-2020-202006010651 Roy Morgan Research]
+| – ||style="background-color:#B0CEFF;" |'''40.5''' || 37 || 8 || 10 || 0.5 || – || – || – || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-3" | '''3.5'''
+|-
+| data-sort-value="2017-12-5"|'''29 Nov – 5 Dec 2017'''
+|[http://www.colmarbrunton.co.nz/wp-content/uploads/2017/12/Website_QA-Colmar-Brunton-Poll-report-Dec-2017.pdf 1 News–Colmar Brunton]
+| 1007 ||style="background-color:#B0CEFF;" |'''46''' || 39 || 5 || 7 || 0.1 || 1.2 || 0.9 || – || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-7" | '''7'''
+|-
+| data-sort-value="2017-11-12"|'''30 Oct – 12 Nov 2017'''
+|[http://www.roymorgan.com/findings/7419-roy-morgan-new-zealand-voting-intention-november-2017-201711220740 Roy Morgan Research]
+| 887 ||style="background-color:#B0CEFF;" |'''40.5''' || 39.5 || 5 || 10 || 0.5 || 2 || 1.5 || – || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-1" | '''1'''
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2017-10-26"|'''26 Oct 2017'''
+| data-sort-value="Z" colspan="12" style="text-align:center;" | '''[[Jacinda Ardern]] is sworn in as [[Prime Minister of New Zealand]].'''<ref name=Newshub2>{{cite news |url=http://www.newshub.co.nz/home/politics/2017/10/live-updates-jacinda-ardern-to-be-sworn-in-as-prime-minister.html |title=As it happened: Jacinda Ardern sworn in as Prime Minister |author=Hurley, Emma |date=26 October 2017 |newspaper=[[Newshub]] |accessdate=27 October 2017 |archive-url=https://web.archive.org/web/20171027180505/http://www.newshub.co.nz/home/politics/2017/10/live-updates-jacinda-ardern-to-be-sworn-in-as-prime-minister.html |archive-date=27 October 2017 |url-status=live }}</ref>
+|-
+| data-sort-value="2017-10-15"|'''2–15 Oct 2017'''
+|[http://www.roymorgan.com/findings/7379-roy-morgan-new-zealand-voting-intention-october-2017-201710270443 Roy Morgan Research]
+| 894 ||style="background-color:#B0CEFF;" |'''46''' || 31 || 6.5 || 11 || 0.5 || 2 || 1.5 || – || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-15" | '''15'''
+|- style="background:#EFEFEF; font-weight:italic;"
+| data-sort-value="2017-09-23" | '''23 Sep 2017'''
+| data-sort-value="z" | '''[[2017 New Zealand general election|2017 election result]]'''<ref name="2017result">{{cite web |url= http://www.electionresults.govt.nz/electionresults_2017/ |title= Official Count Results – Overall Status |publisher= [[Electoral Commission (New Zealand)|Electoral Commission]] |location= Wellington |date= 10 October 2017 |accessdate= 24 October 2017 |archive-url= https://web.archive.org/web/20171007120051/http://www.electionresults.govt.nz/electionresults_2017/ |archive-date= 7 October 2017 |url-status= live }}</ref>
+| {{small|N/A}} || style="background-color:#B0CEFF;" |'''44.4''' || 36.9 || 7.2 || 6.3 || 0.5 || 2.4 || 1.2 || 0.2 || {{small|N/A}} || style="background:#B0CEFF;" data-sort-value="-7" | '''7.6'''
+|- style="background:#ddd;"
+! colspan=13 |
+|- style="background:#e8e8e8;height:35px;"
+! Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! Polling organisation
+! Sample size
+! style="background-color:#B0CEFF;width:40px" | [[New Zealand National Party|NAT]]
+! style="background-color:#FFB6B6;width:40px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#D3D3D3;width:40px" | [[New Zealand First|NZF]]
+! style="background-color:#90EE90;width:40px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#FFFF00;width:40px" | [[ACT New Zealand|ACT]]
+! style="background-color:#32DAC3;width:40px" | [[The Opportunities Party|TOP]]
+! style="background-color:#BD9490;width:40px" | [[Māori Party|MRI]]
+! style="background-color:#91D3FF;width:40px" | [[New Conservative Party (New Zealand)|NCP]]
+! style="background-color:#CFEBFC;width:40px" | [[Advance New Zealand|ANZ]]
+! style="width:40px;" | Lead
+|}
+{{-}}
+
+===UMR and Curia polls===
+These polls are typically unpublished and are used internally for Labour (UMR) and National (Curia). Although these polls are sometimes leaked or partially leaked, their details are not publicly available for viewing and scrutinising. Because not all of their polls are made public, it is likely that those that are released are cherry-picked and therefore may not truly indicate ongoing trends.
+
+{| class="sortable" "toccolours" cellpadding="5" cellspacing="1" style="width:700px; text-align:center; float:left; margin-right:.5em; margin-top:.4em; font-size:90%; border: 1px solid darkgray;"
+|-
+|- style="height:35px
+! style="width:15em;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:15em;" | Polling organisation
+! style="background-color:#B0CEFF;width:60px" | [[New Zealand National Party|NAT]]
+! style="background-color:#FFB6B6;width:60px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#D3D3D3;width:60px" | [[New Zealand First|NZF]]
+! style="background-color:#90EE90;width:60px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#FFFF00;width:60px" | [[ACT New Zealand|ACT]]
+! style="width:2em;" data-sort-type="number" | Lead
+|-
+| data-sort-value="2020-10-13"|'''13 Oct 2020'''
+|[https://twitter.com/henrycooke/status/1315857609161752576 UMR Research]
+| 29 || style="background:#FFB6B6;" | '''50''' || 2.7 || 6 || 7 || style="background:#FFB6B6; color:white;"|'''21'''
+|-
+| data-sort-value="2020-09-02"|'''25 Aug – 2 Sep 2020'''
+|[https://twitter.com/henrycooke/status/1303478958386601985 UMR Research]
+| 29 || style="background:#FFB6B6;" | '''53''' || 3.9 || 3.2 || 6.2 || style="background:#FFB6B6; color:white;"|'''24'''
+|-
+| data-sort-value="2020-08-12"|'''12 Aug 2020'''
+|[https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12355979 UMR Research]
+| 28 || style="background:#FFB6B6;" | '''52''' || 5.1 || 5.4 || 5.9 || style="background:#FFB6B6; color:white;"|'''24'''
+|-
+| data-sort-value="2020-07-28"|'''28 Jul 2020'''
+|[https://thespinoff.co.nz/business/28-07-2020/live-updates-july-28-labour-might-turn-to-nats-for-returnee-charge-support/ Curia]
+| 36 || style="background:#FFB6B6;" | '''47''' || 3 || 6 || 3 || style="background:#FFB6B6; color:white;"|'''11'''
+|-
+| data-sort-value="2020-06-30"|'''30 Jun 2020'''
+|[https://www.newshub.co.nz/home/politics/2020/06/national-party-s-internal-polling-revealed-as-caucus-springs-another-leak.html Curia]
+| 34 || style="background:#FFB6B6;" | '''55''' || – || – || – || style="background:#FFB6B6; color:white;"|'''21'''
+|-
+| data-sort-value="2020-06-01"|'''26 May – 1 Jun 2020'''
+|[https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12337509 UMR Research]
+| 30 || style="background:#FFB6B6;" | '''54''' || 5 || 4 || – || style="background:#FFB6B6; color:white;"|'''24'''
+|-
+| data-sort-value="2020-04-27"|'''21–27 April 2020'''
+|[https://www.nzherald.co.nz/politics/news/article.cfm?c_id=280&objectid=12328854 UMR Research]
+| 29 || style="background:#FFB6B6;" | '''55''' || 6 || 5 || 3 || style="background:#FFB6B6; color:white;"|'''26'''
+|-
+| data-sort-value="2020-04-14"|'''14 April 2020'''
+|[https://www.patreon.com/posts/leaked-curia-for-36010780/ Curia]
+| 31 || style="background:#FFB6B6;" | '''49''' || 6 || 9 || 5 || style="background:#FFB6B6; color:white;"|'''18'''
+|-
+| data-sort-value="2020-04-08"|'''8 April 2020'''
+|[https://www.patreon.com/posts/leaked-curia-for-36010780/ UMR Research]
+| 35 || style="background:#FFB6B6;" | '''49''' || 5 || 5 || 2 || style="background:#FFB6B6; color:white;"|'''14'''
+|-
+| data-sort-value="2020-02-17"|'''17 Feb 2020'''
+|[https://twitter.com/MatthewHootonNZ/status/1229154790518640640/ UMR Research]
+| 38 || style="background:#FFB6B6;" | '''42''' || 6 || 9 || 3 || style="background:#FFB6B6; color:white;"|'''4'''
+|-
+| data-sort-value="2020-02-02"|'''2 Feb 2020'''
+|[https://twitter.com/matthewhootonnz/status/1223807600157835264 Curia]
+| 39 || style="background:#FFB6B6;" | '''41''' || 7 || 7 || 2 || style="background:#FFB6B6; color:white;"|'''2'''
+|-
+| data-sort-value="2019-07-23"|'''23 Jul 2019'''
+|[https://www.newstalkzb.co.nz/opinion/barry-soper-can-bridges-survive-another-unfavourable-poll/ UMR Research]
+| 38 || style="background:#FFB6B6;" | '''42''' || –  || 9 || –  || style="background:#FFB6B6; color:white;"|'''4'''
+|-
+| data-sort-value="2018-11-09"|'''9 Nov 2018'''
+|[https://www.newshub.co.nz/home/politics/2018/11/new-polling-data-shows-another-fall-for-national-garner.html UMR Research]
+| 37 || style="background:#FFB6B6;" | '''46''' || – || – || – || style="background:#FFB6B6; color:white;"|'''9'''
+|- style="background:#EFEFEF; font-weight:italic;"
+| data-sort-value="2017-09-23"|'''23 Sep 2017'''
+|'''[[2017 New Zealand general election|2017 election result]]'''<ref name="2017result"/>
+| {{party shading/Democratic}} |'''44.4''' || 36.9 || 7.2 || 6.3 || 0.5 || style="background:#B0CEFF; color:white;"|'''7.5'''
+|}
+{{-}}
+
+==Preferred Prime Minister==
+Some opinion pollsters ask voters who they would prefer as Prime Minister. The phrasing of questions and the treatment of refusals, as well as "don't know" answers, differ from poll to poll.
+<div style="overflow-x: auto;">
+{| class="sortable" "toccolours" cellpadding="5" cellspacing="1" style="text-align:center; line-height:15px; margin-right:.5em; margin-top:.4em; font-size:90%; border: 1px solid #aaa;"
+|-ne
+|- style="height:40px
+! style="width:15em;"| Date<ref group="nb" name="dates"/>
+! style="width:15em;"| Polling organisation
+! style="width:10em;"| Sample size
+! style="background-color:#FFB6B6;width:40px" | [[Jacinda Ardern]]
+! style="background-color:#B0CEFF;width:40px" | [[Judith Collins]]
+! style="background-color:lightgray;width:40px" | [[Winston Peters]]
+! style="background-color:lightgreen;width:40px" | [[James Shaw (New Zealand politician)|James Shaw]]
+! style="background-color:lightgreen;width:40px" | [[Marama Davidson]]
+! style="background-color:#FFFF00;width:40px" | [[David Seymour (New Zealand politician)|David Seymour]]
+! style="background-color:#91D3FF;width:40px" | [[Leighton Baker]]
+! style="background-color:#CFEBFC;width:40px" | [[Billy Te Kahika]]
+! style="background-color:#B0CEFF;width:40px" | [[Todd Muller]]
+! style="background-color:#B0CEFF;width:40px" | [[Simon Bridges]]
+! style="background-color:#B0CEFF;width:40px" | [[Bill English]]
+! style="width:2em;" data-sort-type="number" | Lead
+|-
+| data-sort-value="2020-10-15"|'''8–15 Oct 2020'''
+|[https://www.newshub.co.nz/home/politics/2020/10/nz-election-2020-newshub-reid-research-poll-shows-more-than-half-of-voters-prefer-jacinda-ardern-over-judith-collins-as-prime-minister.html Newshub–Reid Research]
+| 1,000 || style="background:#FFB6B6;" | '''52.6''' || 18.4 || – || – || – || – || – || – || – || – || – || style="background:#FFB6B6; color:white;"| '''34.2'''
+|-
+| data-sort-value="2020-10-14"|'''10–14 Oct 2020'''
+| [https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/10-14-October-2020_1-NEWS-Colmar-Brunton-Poll-report-1.pdf 1 News–Colmar Brunton]
+| 1,005 || style="background:#FFB6B6;" | '''55''' || 20 || 1 || 0.4 || 0.1 || 3 || 0.4 || 0.4 || – || 0.4 || – || style="background:#FFB6B6; color:white;" | '''35'''
+|-
+| data-sort-value="2020-10-07"|'''3–7 Oct 2020'''
+| [https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/3-7-October-2020_1-NEWS-Colmar-Brunton-Poll-report.pdf 1 News–Colmar Brunton]
+| 1,007 || style="background:#FFB6B6;" | '''50''' || 23 || 1 || 0.1 || 0.5 || 2 || 0.1 || 0.2 || 0.1 || 0.2 || 0.2 || style="background:#FFB6B6; color:white;" | '''27'''
+|-
+| data-sort-value="2020-09-27"|'''23–27 Sep 2020'''
+| [https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/PRELIM_23-27-September-2020_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,005 || style="background:#FFB6B6;" | '''54''' || 23 || 1 || 0.1 || 0.2 || 2 || 0.1 || 0.4 || – || 0.1 || 0.1 || style="background:#FFB6B6; color:white;" | '''31'''
+|-
+| data-sort-value="2020-09-23"|'''16–23 Sep 2020'''
+|[https://www.newshub.co.nz/home/politics/2020/09/nz-election-2020-judith-collins-won-t-stand-down-if-national-loses-as-newshub-reid-research-poll-shows-voters-still-prefer-jacinda-ardern.html Newshub–Reid Research]
+| 1,000 || style="background:#FFB6B6;" | '''53.2''' || 17.7 || – || – || – || – || – || – || – || – || – || style="background:#FFB6B6; color:white;"| '''35.5'''
+|-
+| data-sort-value="2020-09-21"|'''17–21 Sep 2020'''
+| [https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/PRELIM_17-21-September-2020_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,008 || style="background:#FFB6B6;" | '''54''' || 18 || 2 || 0.1 || – || 2 || 0.3 || 0.2 || – || 0.1 || 0.3 || style="background:#FFB6B6; color:white;" | '''36'''
+|-
+| data-sort-value="2020-07-29"|'''25–29 Jul 2020'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/Prelim_25-29-July-2020_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,004 || style="background:#FFB6B6;" | '''54''' || 20 || 1 || 0.1 || 0.1 || 1 || 0.1 || 0.7 || 0.2 || – || – || style="background:#FFB6B6; color:white;"| '''34'''
+|-
+| data-sort-value="2020-07-24"|'''16–24 Jul 2020'''
+|[https://www.newshub.co.nz/home/politics/2020/07/newshub-reid-research-poll-jacinda-ardern-still-soaring-as-preferred-prime-minister-but-judith-collins-is-convinced-she-ll-win.html Newshub–Reid Research]
+| 1,000 || style="background:#FFB6B6;" | '''62'''|| 14.6 || – || – || – || – || – || – || – || – || – || style="background:#FFB6B6; color:white;"| '''47.4'''
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2020-07-14"|'''14 Jul 2020''' || colspan="14" style="text-align:center;" | '''[[Todd Muller]] resigns and [[Judith Collins]] is elected as [[Leader of the National Party of New Zealand|leader of the National Party]].'''
+|-
+| data-sort-value="2020-06-24"|'''20–24 Jun 2020'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/V2-Prelim_20-24-June-2020_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,007 || style="background:#FFB6B6;" | '''54 '''|| 2 || 2 || 0.1 || 0.1 || 0.8 || 0.1 || – || 13 || 0.4 || 0.2 || style="background:#FFB6B6; color:white;"| '''41'''
+|-
+| data-sort-value="2020-06-01"|'''26 May – 1 Jun 2020'''
+|[https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12337682 UMR Research]
+| – || style="background:#FFB6B6;" | '''65'''|| – || – || – || – || – || – || – || 13 || – || – || style="background:#FFB6B6; color:white;"| '''52'''
+|- style="background:#EFEFEF;"
+| data-sort-value="2020-05-22"|'''22 May 2020''' || colspan="14" style="text-align:center;" | '''[[Todd Muller]] is elected leader of the National Party.'''
+|-
+| data-sort-value="2020-05-20"|'''16–20 May 2020'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/Prelim_16-20-May-2020_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,003 || style="background:#FFB6B6;" | '''63'''|| 3 || 1 || 0.1 || 0.1 || 0.4 || 0.3 || – || 0.2 || 5 || 0.1 || style="background:#FFB6B6; color:white;"| '''58'''
+|-
+| data-sort-value="2020-05-16"|'''8–16 May 2020'''
+|[https://www.newshub.co.nz/home/politics/2020/05/newshub-reid-research-poll-jacinda-ardern-goes-stratospheric-simon-bridges-is-annihilated.html Newshub–Reid Research]
+| 1,000 || style="background:#FFB6B6;" | '''59.5'''|| 3.1 || – || – || – || – || – || – || – || 4.5 || – || style="background:#FFB6B6; color:white;"| '''51'''
+|-
+| data-sort-value="2020-04-27"|'''21–27 Apr 2020'''
+|[https://www.nzherald.co.nz/politics/news/article.cfm?c_id=280&objectid=12328854 UMR Research]
+| – || style="background:#FFB6B6;" | '''65'''|| 7 || 3 || – || – || – || – || – || – || 7 || – || style="background:#FFB6B6; color:white;"| '''58'''
+|-
+| data-sort-value="2020-02-12"|'''8–12 Feb 2020'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/8-12-Feb-2020_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,004 || style="background:#FFB6B6;" | '''42'''|| 3 || 3 || 0.1 || 0.5 || 0.8 || – || – || – || 11 || 0.2 || style="background:#FFB6B6; color:white;"| '''31'''
+|-
+| data-sort-value="2019-11-27"|'''23 Jan – 1 Feb 2020'''
+|[https://www.newshub.co.nz/home/politics/2020/02/newshub-poll-simon-bridges-breaks-10-percent-as-preferred-prime-minister.html Newshub–Reid Research]
+| 1,000 || style="background:#FFB6B6;" | '''38.7'''|| – || – || – || – || – || – || – || – || 10.6 || – || style="background:#FFB6B6; color:white;"| '''28.1'''
+|-
+| data-sort-value="2019-11-27"|'''23–27 Nov 2019'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/Prelim_23-27-Nov-2019_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,006 || style="background:#FFB6B6;" | '''36'''|| 4 || 3 || 0.3 || – || 0.6 || – || – || – || 10 || – || style="background:#FFB6B6; color:white;"| '''26'''
+|-
+| data-sort-value="2019-10-14"|'''5–9 Oct 2019'''
+|[https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/Prelim_05-09-Oct-2019_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,008 || style="background:#FFB6B6;" | '''38'''|| 5 || 4 || 0.3 || 0.3 || 0.4 || – || – || 0.2 || 9 || 0.1 || style="background:#FFB6B6; color:white;"| '''29'''
+|-
+| data-sort-value="2019-10-09"|'''2–9 Oct 2019'''
+|[https://www.newshub.co.nz/home/politics/2019/10/poll-jacinda-ardern-s-personal-brand-takes-a-bashing-simon-bridges-gets-a-bump-and-judith-collins-loses-her-mojo.html Newshub–Reid Research]
+| 1,000 || style="background:#FFB6B6;" | '''38.4'''|| 5.2 || – || – || – || – || – || – || – || 6.7 || – || style="background:#FFB6B6; color:white;"| '''31.7'''
+|-
+| data-sort-value="2019-07-24"|'''20–24 Jul 2019'''
+|[https://www.colmarbrunton.co.nz/wp-content/uploads/2019/07/Prelim_20-24-July-2019_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,003 || style="background:#FFB6B6;" | '''41'''|| 6 || 2 || – || 0.1 || 0.4 || – || – || 0.1 || 6 || 0.2 || style="background:#FFB6B6; color:white;"|'''35'''
+|-
+| data-sort-value="2019-06-08"|'''4–8 Jun 2019'''
+|[https://www.colmarbrunton.co.nz/wp-content/uploads/2019/06/Prelim_4-8-June-2019_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,002 || style="background:#FFB6B6;" | '''45'''|| 6 || 5 || 0.1 || – || 0.5 || – || – || – || 5 || 0.1 || style="background:#FFB6B6; color:white;"|'''39'''
+|-
+| data-sort-value="2019-06-07"|'''30 May – 7 Jun 2019'''
+|[https://www.newshub.co.nz/home/politics/2019/06/exclusive-poll-judith-collins-outstrips-simon-bridges-as-preferred-prime-minister.html Newshub–Reid Research]
+| 1,000 || style="background:#FFB6B6;" | '''49'''|| 7.1 || – || – || – || – || – || – || – || 4.2 || – || style="background:#FFB6B6; color:white;"|'''41.9'''
+|-
+| data-sort-value="2019-04-10"|'''6–10 Apr 2019'''
+|[https://www.colmarbrunton.co.nz/wp-content/uploads/2019/04/6-10-April-2019_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,006 || style="background:#FFB6B6;" | '''51'''|| 5 || 3 || 0.2 || – || 0.2 || – || – || – || 5 || 0.3 || style="background:#FFB6B6; color:white;"|'''46'''
+|-
+| data-sort-value="2019-02-13"|'''9–13 Feb 2019'''
+|[https://www.colmarbrunton.co.nz/wp-content/uploads/2019/02/Prelim_9-13-February-2019_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,006 || style="background:#FFB6B6;" | '''44'''|| 6 || 3 || 0.2 || – || 0.1 || – || – || – || 6 || 0.4 || style="background:#FFB6B6; color:white;"|'''38'''
+|-
+| data-sort-value="2019-02-02"|'''24 Jan – 2 Feb 2019'''
+|[https://www.newshub.co.nz/home/politics/2019/02/national-plunges-to-worst-result-in-over-a-decade-newshub-poll.html Newshub–Reid Research]
+| 1,000 || style="background:#FFB6B6;" | '''41.8'''|| 6.2 || – || – || – || – || – || – || – || 5.0 || – || style="background:#FFB6B6; color:white;"|'''35.6'''
+|-
+| data-sort-value="2018-11-28"|'''24–28 Nov 2018'''
+|[https://www.colmarbrunton.co.nz/wp-content/uploads/2018/12/Prelim_24-28-November-2018_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,008 || style="background:#FFB6B6;" | '''39'''|| 6 || 4 || 0.1 || – || 0.1 || – || – || – || 7 || 0.4 || style="background:#FFB6B6; color:white;"|'''32'''
+|-
+| data-sort-value="2018-10-19"|'''15–19 Oct 2018'''
+|[http://www.colmarbrunton.co.nz/wp-content/uploads/2018/10/Prelim_15-19-October-2018_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,006 || style="background:#FFB6B6;" | '''42'''|| 5 || 4 || 0.1 || 0.1 || – || – || – || – || 7 || 1 || style="background:#FFB6B6; color:white;"|'''35'''
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2018-08-02"|'''2 Aug 2018''' || colspan="14" style="text-align:center;" |'''[[Jacinda Ardern]] returns as Prime Minister after six weeks of maternity leave.'''
+|-
+| data-sort-value="2018-08-01"|'''28 Jul – 1 Aug 2018'''
+|[http://www.colmarbrunton.co.nz/wp-content/uploads/2018/08/Prelim_28-Jul-1-Aug-2018_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,007 || style="background:#FFB6B6;" | '''40'''|| 2 || 5 || 0.3 || 0.3 || 0.2 || – || – || – || 10 || 0.9 || style="background:#FFB6B6; color:white;"|'''30'''
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2018-07-10"|'''21 Jun 2018''' || colspan="14" style="text-align:center;" |'''Prime Minister [[Jacinda Ardern]] gives birth. [[Winston Peters]] becomes Acting Prime Minister.'''
+|-
+| data-sort-value="2018-05-27"|'''17–24 May 2018'''
+|[http://www.newshub.co.nz/home/politics/2018/05/simon-bridges-failing-to-connect-with-voters-newshub-poll.html Newshub–Reid Research]
+| 1,000<ref>https://web.archive.org/web/20190309145318/http://www.reidresearch.co.nz/TV3+POLL+RESULTS.html</ref> || style="background:#FFB6B6"|'''40.2'''|| 3.7 || 4.6 || – || – || – || – || – || – || 9 || 4.2 || style="background:#FFB6B6; color:white;"|'''31.2'''
+|-
+| data-sort-value="2018-05-23"|'''19–23 May 2018'''
+|[http://www.colmarbrunton.co.nz/wp-content/uploads/2018/05/Prelim_19-23-May-2018_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,007 || style="background:#FFB6B6;" | '''41'''|| 2 || 4 || 0.2 || – || 0.1 || – || – || – || 12 || 0.9 || style="background:#FFB6B6; color:white;"|'''29'''
+|-
+| data-sort-value="2018-04-11"|'''7–11 Apr 2018'''
+|[http://www.colmarbrunton.co.nz/wp-content/uploads/2018/04/Prelim_7-11-Apr-2018_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,007 || style="background:#FFB6B6;" | '''37'''|| 2 || 5 || – || – || 0.3 || – || – || – || 10 || 2 || style="background:#FFB6B6; color:white;"|'''27'''
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2018-04-8"|'''8 Apr 2018''' || colspan="14" style="text-align:center;" | '''[[Marama Davidson]] is elected co-leader of the Green Party.'''<ref name="Marama Davidson wins"/>
+|-
+|- style="background:#EFEFEF;"
+| data-sort-value="2018-02-27"|'''27 Feb 2018''' || colspan="14" style="text-align:center;" | '''[[Simon Bridges]] is elected leader of the National Party.<ref name=NZHerald01/>'''
+|-
+| data-sort-value="2018-02-14"|'''10–14 Feb 2018'''<ref group="nb" name="resign1"/>
+|[http://www.colmarbrunton.co.nz/wp-content/uploads/2018/02/Prelim_10-14-Feb-2018_1-NEWS-Colmar-Brunton-Poll-report-.pdf 1 News–Colmar Brunton]
+| 1,007 || style="background:#FFB6B6;" | '''41'''|| 0.4 || 4 || 0.4 || – || 0.1 || – || – || – || 1 || 20 || style="background:#FFB6B6; color:white;"|'''21'''
+|-
+| data-sort-value="2018-01-28"|'''18–28 Jan 2018'''
+|[http://www.newshub.co.nz/home/politics/2018/01/newshub-poll-labour-soars-to-popularity-not-seen-for-a-decade.html Newshub–Reid Research]
+| 1,000<ref name=reidmethodology/> || style="background:#FFB6B6"|'''37.9'''||  0.2 || 5.7 || 0.1 || – || – || – || – || – || 0.5 || 25.7 || style="background:#FFB6B6; color:white;"|'''12.2'''
+|-
+| data-sort-value="2017-12-5"|'''29 Nov – 5 Dec 2017'''
+|[http://www.colmarbrunton.co.nz/wp-content/uploads/2017/12/Website_QA-Colmar-Brunton-Poll-report-Dec-2017.pdf 1 News–Colmar Brunton]
+| 1,007 || style="background:#FFB6B6"|'''37'''|| 0.7 || 5 || 0.4 || – || – || – || – || – || 0.3 || 28 || style="background:#FFB6B6; color:white;"|'''9'''
+|}
+</div>
+{{-}}
+
+==Government approval rating==
+
+{| class="sortable" "toccolours" cellpadding="5" cellspacing="1" style="width:800px; text-align:center; line-height:15px; float:left; margin-right:.5em; margin-top:.4em; font-size:90%;border: 1px solid #aaa;"
+|-
+|- style="height:40px
+! style="width:15em;"| Date<ref group="nb" name="dates"/>
+! style="width:15em;"| Polling organisation
+! style="width:10em;"| Sample size
+! style="background-color:lightgreen;width:60px" | Right direction
+! style="background-color:salmon;width:60px" | Wrong direction
+! style="background-color:lightgray;width:60px" | Do not know
+! style="width:2em;" data-sort-type="number" | Lead
+|-
+| data-sort-value="2020-09"|'''Sep 2020'''
+|[https://www.roymorgan.com/findings/8543-nz-national-voting-intention-september-2020-202010142349 Roy Morgan Research]
+| 911 || style="background:lightgreen"|'''70.5''' || 19.5 || 10 || style="background:lightgreen;"|'''51'''
+|-
+| data-sort-value="2020-08"|'''Aug 2020'''
+|[https://www.roymorgan.com/findings/8509-nz-national-voting-intention-august-2020-202008310343 Roy Morgan Research]
+| 897 || style="background:lightgreen"|'''71''' || 19 || 10 || style="background:lightgreen;"|'''52'''
+|-
+| data-sort-value="2020-07"|'''Jul 2020'''
+|[https://www.roymorgan.com/findings/8489-nz-national%20-voting-intention-july-2020-202008070802 Roy Morgan Research]
+| 899 || style="background:lightgreen"|'''71.5''' || 19 || 9.5 || style="background:lightgreen;"|'''52.5'''
+|-
+| data-sort-value="2020-06"|'''Jun 2020'''
+|[https://www.roymorgan.com/findings/8469-nz-national%20-voting-intention-june-2020-202007130649 Roy Morgan Research]
+| 879 || style="background:lightgreen"|'''72''' || 18.5 || 9.5 || style="background:lightgreen;"|'''53.5'''
+|-
+| data-sort-value="2020-05"|'''May 2020'''
+|[http://www.roymorgan.com/findings/8429-nz-national%20-voting-intention-may-2020-202006010651 Roy Morgan Research]
+| 900 || style="background:lightgreen"|'''76''' || 17.5 || 6.5 || style="background:lightgreen;"|'''58.5'''
+|-
+| data-sort-value="2020-04"|'''Apr 2020'''
+|[http://www.roymorgan.com/findings/8429-nz-national%20-voting-intention-may-2020-202006010651 Roy Morgan Research]
+| 900 || style="background:lightgreen"|'''77''' || 14 || 9 || style="background:lightgreen;"|'''63'''
+|-
+| data-sort-value="2020-03"|'''Mar 2020'''
+|[http://www.roymorgan.com/findings/8429-nz-national%20-voting-intention-may-2020-202006010651 Roy Morgan Research]
+| 900 || style="background:lightgreen"|'''60.5''' || 25.5 || 14 || style="background:lightgreen;"|'''35'''
+|-
+| data-sort-value="2020-02"|'''Feb 2020'''
+|[http://www.roymorgan.com/findings/8429-nz-national%20-voting-intention-may-2020-202006010651 Roy Morgan Research]
+| 900 || style="background:lightgreen"|'''59''' || 27 || 14 || style="background:lightgreen;"|'''32'''
+|-
+| data-sort-value="2020-01"|'''Jan 2020'''
+|[http://www.roymorgan.com/findings/8429-nz-national%20-voting-intention-may-2020-202006010651 Roy Morgan Research]
+| 900 || style="background:lightgreen"|'''66.5''' || 20 || 12.5 || style="background:lightgreen;"|'''46.5'''
+|-
+| data-sort-value="2017-12-10"|'''27 Nov – 10 Dec 2017'''
+|[https://www.roymorgan.com/findings/8489-nz-national%20-voting-intention-july-2020-202008070802 Roy Morgan Research]
+|  || style="background:lightgreen"|'''68''' || 18 || 14 || style="background:lightgreen;"|'''50'''
+|-
+| data-sort-value="2017-12-05"|'''29 Nov – 5 Dec 2017'''
+|[http://www.colmarbrunton.co.nz/wp-content/uploads/2017/12/Website_QA-Colmar-Brunton-Poll-report-Dec-2017.pdf 1 News–Colmar Brunton]
+| 1,007 || style="background:lightgreen"|'''51''' || 26 || 23 || style="background:lightgreen;"|'''25'''
+|-
+| data-sort-value="2017-11-12"|'''30 Oct – 12 Nov 2017'''
+|[http://www.roymorgan.com/findings/7419-roy-morgan-new-zealand-voting-intention-november-2017-201711220740 Roy Morgan Research]
+| 887 || style="background:lightgreen"|'''66.5''' || 20 || 13.5 || style="background:lightgreen;"|'''46.5'''
+|-
+| data-sort-value="2017-11-01"|'''24 Oct – 1 Nov 2017'''
+|[https://www.horizonpoll.co.nz/page/489/whos-going- Horizon Research]
+| 1,068 || style="background:lightgreen"|'''49''' || 24 || 28 || style="background:lightgreen;"|'''21'''
+|-
+| data-sort-value="2017-10-15"|'''2–15 Oct 2017'''
+|[http://www.roymorgan.com/findings/7379-roy-morgan-new-zealand-voting-intention-october-2017-201710270443 Roy Morgan Research]
+| 894 || style="background:lightgreen"|'''58.5''' || 27.5 || 14 || style="background:lightgreen;"|'''31'''
+|-
+|}
+{{-}}
+
+==Electorate polling==
+
+===[[Auckland Central (New Zealand electorate)|Auckland Central]]===
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style='text-align:left;' | '''Electorate vote'''
+|-
+! rowspan=2 style="width:15em;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! rowspan=2 style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" | [[New Zealand Labour Party|LAB]]
+! colspan=2 style="background-color:#B0CEFF;width:60px" | [[New Zealand National Party|NAT]]
+! colspan=2 style="background-color:#90EE90;width:60px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! colspan=2 style="background-color:#D3D3D3;width:60px" | [[New Zealand First|NZF]]
+! colspan=2 style="background-color:#33DDCC;width:60px;"| [[The Opportunities Party|TOP]]
+! colspan=2 style="background-color:#FFFF00;width:60px" | [[ACT New Zealand|ACT]]
+! style="background-color:#80F0E0;width:60px;" | [[Sustainable New Zealand Party|SNZ]]
+! style="background-color:#DDBBFF;width:60px;" | [[New Zealand TEA Party|TEA]]
+! style="background-color:#E6E6E6;width:60px;" | [[Independent politician|IND]]
+|-
+! <small>[[Helen White (politician)|Helen White]]</small>
+! <small>Emma Mellow</small> || <small>[[Nikki Kaye]]</small>
+! <small>[[Chlöe Swarbrick ]]</small> || <small>[[Denise Roche]]</small>
+! <small>[[Jenny Marcroft]]</small> || <small>Frank Edwards</small>
+! <small>[[Tuariki Delamere]]</small> || <small>[[Mika Haka]]</small>
+! <small>Felix Poole</small> || <small>[[Brooke van Velden]]</small>
+! <small>[[Vernon Tava]]</small>
+! <small>Dominic Hoffman Dervan</small>
+! <small>Joshua Love</small>
+|-
+| '''24–30 Sep 2020'''
+| [https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/QA-Colmar-Brunton-Auckland-Central-Electorate-Poll-24-30-September-2020.pdf Q+A Colmar Brunton]
+| - style="background-color:#FFB6B6;"| '''35'''
+| 30
+| N/A
+| 26 
+| N/A
+| 1 
+| N/A
+| —
+| N/A
+| 4 || N/A
+| 2 
+| 1 
+| 0.4
+|-
+| '''September 2020'''
+| [https://www.newshub.co.nz/home/politics/2020/09/nz-election-2020-auckland-central-poll-puts-labour-s-helen-white-way-out-in-front.html Newshub Nation–Reid Research]
+| - style="background-color:#FFB6B6;"| '''42.3'''
+| 26.6
+| N/A
+| 24.2 
+| N/A
+| 2.2 
+| N/A
+| 1.0
+| N/A
+| 0.9 || N/A
+| —
+| —
+| —
+|- style="background:#EFEFEF;"
+| '''23 Sep 2017'''
+| '''[[2017 New Zealand general election|2017 election result]]'''
+| 39.82
+| N/A
+| style="background:#CCDDFF"| '''45.25'''
+| N/A 
+| 9.72
+| N/A 
+| 1.98
+| N/A 
+| 2.33
+| N/A 
+|| 0.52
+| N/A
+| N/A
+| N/A
+|}
+
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style='text-align:left;' | '''Party vote'''
+|-
+! style="width:15em;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#B0CEFF;width:60px" | [[New Zealand National Party|NAT]]
+! style="background-color:#90EE90;width:60px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#FFFF00;width:60px" | [[ACT New Zealand|ACT]]
+! style="background-color:#D3D3D3;width:60px" | [[New Zealand First|NZF]]
+! style="background-color:#33DDCC;width:60px;"| [[The Opportunities Party|TOP]]
+! style="background-color:#80F0E0;width:60px;" | [[Sustainable New Zealand Party|SNZ]]
+! style="background-color:#33FFFF;width:60px" |[[Vision NZ|VNZ]]
+! style="background-color:#F2FFCC;width:60px;" | [[Social Credit Party (New Zealand)|SCP]]
+|-
+| '''24–30 Sep 2020'''
+| [https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/QA-Colmar-Brunton-Auckland-Central-Electorate-Poll-24-30-September-2020.pdf Q+A Colmar Brunton]
+| - style="background-color:#FFB6B6;"| '''47'''
+| 28
+| 13
+| 6 
+| 1.7
+| 2.2
+| 0.6
+| 0.4
+| 0.3
+|-
+| '''September 2020'''
+| [https://www.newshub.co.nz/home/politics/2020/09/nz-election-2020-auckland-central-poll-puts-labour-s-helen-white-way-out-in-front.html Newshub Nation–Reid Research]
+| - style="background-color:#FFB6B6;"| '''56.2'''
+| 23.1
+| 12.1
+| 3.9 
+| 1.6
+| 1.4
+| —
+| —
+| —
+|- style="background:#EFEFEF;"
+| '''23 Sep 2017'''
+| '''[[2017 New Zealand general election|2017 election result]]'''
+| 37.71
+| style="background:#CCDDFF"| '''39.15'''
+| 13.87
+| 1.05
+| 3.87
+| 3.14
+| N/A
+| N/A
+| 0.01
+|}
+
+===[[East Coast (New Zealand electorate)|East Coast]]===
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style='text-align:left;' | '''Electorate vote'''
+|-
+! rowspan=2 style="width:15em;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! rowspan=2 style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" | [[New Zealand Labour Party|LAB]]
+! colspan=2 style="background-color:#B0CEFF;width:60px" | [[New Zealand National Party|NAT]]
+! colspan=2 style="background-color:#90EE90;width:60px" | [[Green Party of Aotearoa New Zealand|GRN]]
+|-
+! <small>[[Kiri Allan]]</small>
+! <small>Tania Tapsell</small> || <small>[[Anne Tolley]]</small>
+! <small>Meredith<br>Akuhata-Brown</small> || <small>[[Gareth Hughes (politician)|Gareth Hughes]]</small>
+|-
+| '''22–24 Sep 2020'''
+| [http://www.gisborneherald.co.nz/local-news/20200930/allan-ahead-in-labour-poll/ Community Engagement]
+| - style="background-color:#FFB6B6;"| '''40.5'''
+| 35 || N/A
+| 4.9 || N/A
+|- style="background:#EFEFEF;"
+| '''23 Sep 2017'''
+| '''[[2017 New Zealand general election|2017 election result]]'''
+| 33.51
+| N/A || style="background:#CCDDFF"| '''46.18'''
+| N/A || 7.13
+|}
+
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style='text-align:left;' | '''Party vote'''
+|-
+! style="width:15em;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#B0CEFF;width:60px" | [[New Zealand National Party|NAT]]
+! style="background-color:#90EE90;width:60px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#D3D3D3;width:60px" | [[New Zealand First|NZF]]
+|-
+| '''22–24 Sep 2020'''
+| [http://www.gisborneherald.co.nz/local-news/20200930/allan-ahead-in-labour-poll/ Community Engagement]
+| - style="background-color:#FFB6B6;"| '''50'''
+| 31
+| 4.4
+| 4.2
+|- style="background:#EFEFEF;"
+| '''23 Sep 2017'''
+| '''[[2017 New Zealand general election|2017 election result]]'''
+| 36.62
+| style="background:#CCDDFF"| '''44.03'''
+| 4.58
+| 9.89
+|}
+
+===[[Northland (New Zealand electorate)|Northland]]===
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style='text-align:left;' | '''Electorate vote'''
+|-
+! rowspan=2 style="width:15em;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! rowspan=2 style="width:20em;" | Polling organisation
+! style="background-color:#B0CEFF;width:60px" | [[New Zealand National Party|NAT]]
+! style="background-color:#FFB6B6;width:60px" | [[New Zealand Labour Party|LAB]]
+! colspan=2 style="background-color:#D3D3D3;width:60px" | [[New Zealand First|NZF]]
+! colspan=2 style="background-color:#90EE90;width:60px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#91D3FF;width:60px" | [[New Conservative Party (New Zealand)|NCP]]
+! colspan=2 style="background-color:#FFFF00;width:60px" | [[ACT New Zealand|ACT]]
+|-
+! <small>[[Matt King (politician)|Matt King]]</small>
+! <small>[[Willow-Jean Prime]]</small>
+! <small>[[Shane Jones]]</small> || <small>[[Winston Peters]]</small>
+! <small>Darleen Tana Hoff-Nielsen</small> || <small>Peter Hughes</small>
+! <small>Mel Taylor</small>
+! <small>[[Mark Cameron (politician)|Mark Cameron]]</small> || <small>Craig Nelson</small>
+|-
+| '''29 Jul – 4 Aug 2020'''
+| [https://www.stuff.co.nz/national/politics/300077783/election-2020-shane-jones-a-distant-third-in-northland-poll-meaning-nz-first-could-leave-parliament Q+A–Colmar Brunton]
+| style="background:#CCDDFF"|'''46'''
+| 31
+| 15 || N/A
+| 3 || N/A
+| 2
+| 1 || N/A
+|- style="background:#EFEFEF;"
+| '''23 Sep 2017'''
+| '''[[2017 New Zealand general election|2017 election result]]'''
+| style="background:#CCDDFF" | '''38.30'''
+| 21.61
+| N/A || 34.81
+| N/A || 4.51
+| 0.46
+| N/A || 0.30
+|-
+|}
+
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style='text-align:left;' | '''Party vote'''
+|-
+! style="width:15em;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#B0CEFF;width:60px" | [[New Zealand National Party|NAT]]
+! style="background-color:#FFFF00;width:60px" | [[ACT New Zealand|ACT]]
+! style="background-color:#D3D3D3;width:60px" | [[New Zealand First|NZF]]
+! style="background-color:#90EE90;width:60px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#33DDCC;width:60px;"| [[The Opportunities Party|TOP]]
+|-
+| '''29 Jul – 4 Aug 2020'''
+| [https://static.colmarbrunton.co.nz/wp-content/uploads/2019/05/QA-Colmar-Brunton-Northland-Electorate-Poll-29-July-4-Aug-2020.pdf Q+A–Colmar Brunton]
+| - style="background-color:#FFB6B6;"| '''41'''
+| 38
+| 8 
+| 7
+| 4.7
+| 0.4
+
+|- style="background:#EFEFEF;"
+| '''23 Sep 2017'''
+| '''[[2017 New Zealand general election|2017 election result]]'''
+| 30.12
+| style="background:#CCDDFF"| '''46.35'''
+| 0.47
+| 13.17
+| 6.05
+| 1.98
+|}
+
+===[[Hauraki-Waikato]]===
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style='text-align:left;' | '''Electorate vote'''
+|-
+! rowspan=2 style="width:15em;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! rowspan=2 style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" | [[New Zealand Labour Party|LAB]]
+! colspan=2 style="background-color:#BD9490;width:60px;"|[[Māori Party|MRI]]
+|-
+! <small>[[Nanaia Mahuta]]</small>
+! <small>Donna<br>Pokere-Phillips</small> || <small>Rahui Papa</small>
+|-
+| '''29–30 Sep 2020'''
+| [https://www.teaomaori.news/labour-looking-strong-waikato-hauraki Māori TV–Curia]
+| style="background:#F8C1BE"|'''61'''
+| 14 || N/A
+|- style="background:#EFEFEF;"
+| '''23 Sep 2017'''
+| '''[[2017 New Zealand general election|2017 election result]]'''
+| style="background:#F8C1BE" | '''68.85'''
+| N/A || 27.36
+|-
+|}
+
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style='text-align:left;' | '''Party vote'''
+|-
+! style="width:15em;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#BD9490;width:60px;"|[[Māori Party|MRI]]
+! style="background-color:#B0CEFF;width:60px" | [[New Zealand National Party|NAT]]
+! style="background-color:#90EE90;width:60px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#D3D3D3;width:60px" | [[New Zealand First|NZF]]
+! style="background-color:#FFFF00;width:60px" | [[ACT New Zealand|ACT]]
+|-
+| '''29–30 Sep 2020'''
+| [https://www.stuff.co.nz/national/politics/122916847/election-2020-poll-of-te-tai-hauuru-brings-bad-news-for-mori-party Māori TV–Curia]
+|style="background:#F8C1BE" | '''61'''
+| 8
+| 5 
+| 3
+| 3
+| 1
+
+|- style="background:#EFEFEF;"
+| '''23 Sep 2017'''
+| '''[[2017 New Zealand general election|2017 election result]]'''
+|style="background:#F8C1BE" | '''61.5'''
+| 11.3
+| 6.87
+| 5.14
+| 8.34
+| 0.09
+|}
+
+===[[Ikaroa-Rāwhiti]]===
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style='text-align:left;' | '''Electorate vote'''
+|-
+! rowspan=2 style="width:15em;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! rowspan=2 style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" | [[New Zealand Labour Party|LAB]]
+! colspan=2 style="background-color:#BD9490;width:60px;"|[[Māori Party|MRI]]
+! style="background-color:#90EE90;width:60px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="width:60px;" r bgcolor={{Advance New Zealand/meta/shading}} | [[Advance New Zealand|ANZ]]
+! style="width:60px;" r bgcolor={{New Zealand Outdoors Party/meta/shading}} | [[New Zealand Outdoors Party|OUT]]
+|-
+! <small>[[Meka Whaitiri]]</small>
+! <small>Heather<br>Te Au-Skipworth</small> || <small>[[Marama Fox]]</small>
+! <small>[[Elizabeth Kerekere]]</small>
+! <small>Waitangi Kupenga</small>
+! <small>Kelly Thurston</small>
+|-
+| '''23–25 Sep 2020'''
+| [https://www.teaomaori.news/whaitiri-leads-ikaroa-rawhiti-young-voters-undecided Māori TV–Curia]
+| style="background:#F8C1BE"|'''46'''
+| 19 || N/A
+| 3
+| 2
+| 0
+|- style="background:#EFEFEF;"
+| '''23 Sep 2017'''
+| '''[[2017 New Zealand general election|2017 election result]]'''
+| style="background:#F8C1BE" | '''53.68'''
+| N/A || 35.27
+| 8.41
+| N/A
+| N/A
+|-
+|}
+
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style='text-align:left;' | '''Party vote'''
+|-
+! style="width:15em;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#BD9490;width:60px;"|[[Māori Party|MRI]]
+! style="background-color:#D3D3D3;width:60px" | [[New Zealand First|NZF]]
+! style="background-color:#90EE90;width:60px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#B0CEFF;width:60px" | [[New Zealand National Party|NAT]]
+! style="background-color:#FFFF00;width:60px" | [[ACT New Zealand|ACT]]
+|-
+| '''23–25 Sep 2020'''
+| [https://www.teaomaori.news/whaitiri-leads-ikaroa-rawhiti-young-voters-undecided Māori TV–Curia]
+| style="background:#F8C1BE" | '''62'''
+| 10
+| 3
+| 3
+| 2
+| 1
+
+|- style="background:#EFEFEF;"
+| '''23 Sep 2017'''
+| '''[[2017 New Zealand general election|2017 election result]]'''
+|style="background:#F8C1BE" | '''64.7'''
+| 13
+| 7.16
+| 4.86
+| 4.8
+| 0.13
+|}
+
+=== [[Tāmaki Makaurau]] ===
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style="text-align:left;" |'''Electorate vote'''
+|-
+! rowspan="2" style="width:15em;" | Date<ref name="dates" group="nb" />
+! rowspan="2" style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" |[[New Zealand Labour Party|LAB]]
+! colspan="2" style="background-color:#BD9490;width:60px;"|[[Māori Party|MRI]]
+! style="background-color:#90EE90;width:60px" | [[Green Party of Aotearoa New Zealand|GRN]]
+|-
+! <small>[[Peeni Henare]]</small>
+! <small>[[John Tamihere]]</small> || <small>Shane Taurima</small>
+! <small>[[Marama Davidson]]</small>
+|-
+|'''6–7 Oct 2020'''
+| [https://www.teaomaori.news/tamaki-makaurau-seat-grabs-poll-results Māori TV–Curia]
+| style="background:#F8C1BE" |'''35'''
+| 29 || N/A
+| 14
+|- style="background:#EFEFEF;"
+|'''23 Sep 2017'''
+|'''[[2017 New Zealand general election|2017 election result]]'''
+| style="background:#F8C1BE" |'''47.51'''
+| N/A || 28.25
+| 21.58
+|-
+|}
+
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style="text-align:left;" |'''Party vote'''
+|-
+! style="width:15em;" | Date<ref name="dates" group="nb" />
+! style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" |[[New Zealand Labour Party|LAB]]
+! style="background-color:#BD9490;width:60px;" |[[Māori Party|MRI]]
+! style="background-color:#90EE90;width:60px" |[[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#D3D3D3;width:60px" |[[New Zealand First|NZF]]
+! style="background-color:#B0CEFF;width:60px" |[[New Zealand National Party|NAT]]
+! style="background-color:#FFFF00;width:60px" |[[ACT New Zealand|ACT]]
+|-
+|'''6–7 Oct 2020'''
+| [https://www.teaomaori.news/tamaki-makaurau-seat-grabs-poll-results Māori TV–Curia]
+| style="background:#F8C1BE" |'''57'''
+| 9
+| 7
+| 5
+| 3
+| 1
+
+|- style="background:#EFEFEF;"
+|'''23 Sep 2017'''
+|'''[[2017 New Zealand general election|2017 election result]]'''
+| style="background:#F8C1BE" |'''59.34'''
+| 10.96
+| 7.24
+| 9.53
+| 6.55
+| 0.16
+|}
+
+===[[Te Tai Hauāuru]]===
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style='text-align:left;' | '''Electorate vote'''
+|-
+! rowspan=2 style="width:15em;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! rowspan=2 style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" | [[New Zealand Labour Party|LAB]]
+! colspan=2 style="background-color:#BD9490;width:60px;"|[[Māori Party|MRI]]
+|-
+! <small>[[Adrian Rurawhe]]</small>
+! <small>[[Debbie Ngarewa-Packer|Debbie<br>Ngarewa-Packer]]</small> || <small>Howie Tamati</small>
+|-
+| '''23–25 Sep 2020'''
+| [https://www.stuff.co.nz/national/politics/122916847/election-2020-poll-of-te-tai-hauuru-brings-bad-news-for-mori-party Māori TV–Curia]
+| style="background:#F8C1BE"|'''38'''
+| 20 || N/A
+|- style="background:#EFEFEF;"
+| '''23 Sep 2017'''
+| '''[[2017 New Zealand general election|2017 election result]]'''
+| style="background:#F8C1BE" | '''43.86'''
+| N/A || 39.21
+|-
+|}
+
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style='text-align:left;' | '''Party vote'''
+|-
+! style="width:15em;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#BD9490;width:60px;"|[[Māori Party|MRI]]
+! style="background-color:#B0CEFF;width:60px" | [[New Zealand National Party|NAT]]
+! style="background-color:#90EE90;width:60px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#D3D3D3;width:60px" | [[New Zealand First|NZF]]
+! style="background-color:#FFFF00;width:60px" | [[ACT New Zealand|ACT]]
+! style="background-color:#33DDCC;width:60px;"| [[The Opportunities Party|TOP]]
+|-
+| '''23–25 Sep 2020'''
+| [https://www.stuff.co.nz/national/politics/122916847/election-2020-poll-of-te-tai-hauuru-brings-bad-news-for-mori-party Māori TV–Curia]
+| style="background:#F8C1BE" | '''51'''
+| 10
+| 4 
+| 4
+| 3
+| 2
+| 1
+
+|- style="background:#EFEFEF;"
+| '''23 Sep 2017'''
+| '''[[2017 New Zealand general election|2017 election result]]'''
+|style="background:#F8C1BE" | '''58.47'''
+| 14.96
+| 6.54
+| 6.53
+| 7.26
+| 0.08
+| 2.85
+|}
+
+=== [[Te Tai Tokerau]] ===
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style="text-align:left;" |'''Electorate vote'''
+|-
+! rowspan="2" style="width:15em;" | Date<ref name="dates" group="nb" />
+! rowspan="2" style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#BD9490;width:60px;" | [[Māori Party|MRI]]
+! style="background-color:#CFEBFC;width:40px" | [[Advance New Zealand|ANZ]]
+|-
+! <small>[[Kelvin Davis (politician)|Kelvin Davis]]</small>
+! <small>Mariameno Kapa-Kingi</small>
+! <small>[[Billy Te Kahika]]</small>
+|-
+|'''6–7 Oct 2020'''
+| [https://www.teaomaori.news/third-north-undecided-te-tai-tokerau-poll-results Māori TV–Curia]
+| style="background:#F8C1BE" |'''36'''
+| 18
+| 1
+|- style="background:#EFEFEF;"
+|'''23 Sep 2017'''
+|'''[[2017 New Zealand general election|2017 election result]]'''
+| style="background:#F8C1BE" |'''52.60'''
+| N/A
+| N/A
+|}
+
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style="text-align:left;" |'''Party vote'''
+|-
+! style="width:15em;" | Date<ref name="dates" group="nb" />
+! style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" |[[New Zealand Labour Party|LAB]]
+! style="background-color:#D3D3D3;width:60px" |[[New Zealand First|NZF]]
+! style="background-color:#B0CEFF;width:60px" |[[New Zealand National Party|NAT]]
+! style="background-color:#BD9490;width:60px;" |[[Māori Party|MRI]]
+! style="background-color:#90EE90;width:60px" |[[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#FFFF00;width:60px" |[[ACT New Zealand|ACT]]
+|-
+|'''6–7 Oct 2020'''
+| [https://www.teaomaori.news/third-north-undecided-te-tai-tokerau-poll-results Māori TV–Curia]
+| style="background:#F8C1BE" |'''58'''
+| 6
+| 4
+| 7
+| 7
+| 1
+|- style="background:#EFEFEF;"
+|'''23 Sep 2017'''
+|'''[[2017 New Zealand general election|2017 election result]]'''
+| style="background:#F8C1BE" |'''57.94'''
+| 11.12
+| 7.42
+| 6.48
+| 6.35
+| 0.16
+|}
+
+=== [[Te Tai Tonga]] ===
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style="text-align:left;" |'''Electorate vote'''
+|-
+! rowspan="2" style="width:15em;" | Date<ref name="dates" group="nb" />
+! rowspan="2" style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" |[[New Zealand Labour Party|LAB]]
+! colspan="2" style="background-color:#BD9490;width:60px;"|[[Māori Party|MRI]]
+! colspan="2" style="background-color:#90EE90;width:60px" | [[Green Party of Aotearoa New Zealand|GRN]]
+|-
+! <small>[[Rino Tirikatene]]</small>
+! <small>Tākuta Ferris</small> || <small>Mei Reedy-Taare</small>
+! <small>Ariana<br>Paretutanganui-Tamati</small>
+! <small>[[Metiria Turei]]</small>
+|-
+|'''4–5 Oct 2020'''
+| [https://www.teaomaori.news/who-do-numbers-side-te-tai-tonga-poll-results Māori TV–Curia]
+| style="background:#F8C1BE" |'''37'''
+| 11 || N/A
+| 2 || N/A
+|- style="background:#EFEFEF;"
+|'''23 Sep 2017'''
+|'''[[2017 New Zealand general election|2017 election result]]'''
+| style="background:#F8C1BE" |'''44.44'''
+| N/A || 20.97
+| N/A || 24.5
+|-
+|}
+
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style="text-align:left;" |'''Party vote'''
+|-
+! style="width:15em;" | Date<ref name="dates" group="nb" />
+! style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" |[[New Zealand Labour Party|LAB]]
+! style="background-color:#B0CEFF;width:60px" |[[New Zealand National Party|NAT]]
+! style="background-color:#BD9490;width:60px;" |[[Māori Party|MRI]]
+! style="background-color:#90EE90;width:60px" |[[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#D3D3D3;width:60px" |[[New Zealand First|NZF]]
+! style="background-color:#FFFF00;width:60px" |[[ACT New Zealand|ACT]]
+|-
+|'''4–5 Oct 2020'''
+| [https://www.teaomaori.news/who-do-numbers-side-te-tai-tonga-poll-results Māori TV–Curia]
+| style="background:#F8C1BE" |'''53'''
+| 16
+| 5
+| 5
+| 2
+| 2
+
+|- style="background:#EFEFEF;"
+|'''23 Sep 2017'''
+|'''[[2017 New Zealand general election|2017 election result]]'''
+| style="background:#F8C1BE" |'''55.8'''
+| 12.47
+| 8.4
+| 8.12
+| 7.8
+| 0.2
+|}
+
+=== [[Waiariki (New Zealand electorate)|Waiariki]] ===
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style="text-align:left;" |'''Electorate vote'''
+|-
+! rowspan="2" style="width:15em;" | Date<ref name="dates" group="nb" />
+! rowspan="2" style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" |[[New Zealand Labour Party|LAB]]
+! colspan="2" style="background-color:#BD9490;width:60px;"|[[Māori Party|MRI]]
+! style="background-color:#33FFFF;width:60px" |[[Vision NZ|VNZ]]
+|-
+!<small>[[Tamati Coffey]]</small>
+!<small>[[Rawiri Waititi]]</small>||<small>[[Te Ururoa Flavell]]</small>
+!<small>Hannah Tamaki</small>
+|-
+|'''30 Sep – 1 Oct 2020'''
+| [https://www.teaomaori.news/maori-partys-waititi-hard-on-heels-labours-coffey Māori TV–Curia]
+| style="background:#F8C1BE" |'''38'''
+| 26 || N/A
+|2
+|- style="background:#EFEFEF;"
+|'''23 Sep 2017'''
+|'''[[2017 New Zealand general election|2017 election result]]'''
+| style="background:#F8C1BE" |'''53.74'''
+| N/A || 46.26
+|N/A
+|-
+|}
+
+{| cellpadding="5" cellspacing="1" style="font-size:90%;line-height:14px;text-align:center;border: 1px solid #aaa;"
+|+ style='text-align:left;' | '''Party vote'''
+|-
+! style="width:15em;" | Date<ref group="nb" name="dates">These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.</ref>
+! style="width:20em;" | Polling organisation
+! style="background-color:#FFB6B6;width:60px" | [[New Zealand Labour Party|LAB]]
+! style="background-color:#BD9490;width:60px;"|[[Māori Party|MRI]]
+! style="background-color:#90EE90;width:60px" | [[Green Party of Aotearoa New Zealand|GRN]]
+! style="background-color:#B0CEFF;width:60px" | [[New Zealand National Party|NAT]]
+! style="background-color:#D3D3D3;width:60px" | [[New Zealand First|NZF]]
+! style="background-color:#FFFF00;width:60px" | [[ACT New Zealand|ACT]]
+|-
+| '''30 Sep – 1 Oct 2020'''
+| [https://www.teaomaori.news/maori-partys-waititi-hard-on-heels-labours-coffey Māori TV–Curia]
+| style="background:#F8C1BE" | '''47'''
+| 19
+| 7
+| 3
+| 2
+| 2
+|- style="background:#EFEFEF;"
+| '''23 Sep 2017'''
+| '''[[2017 New Zealand general election|2017 election result]]'''
+|style="background:#F8C1BE" | '''58.95'''
+| 19.71
+| 3.86
+| 4.75
+| 7.42
+| 0.08
+|}
+
+==Forecasts==
+{{2020 NZ election forecasts}}
+
+== See also ==
+*[[2017 New Zealand general election]]
+*[[Opinion polling for the 2017 New Zealand general election]]
+*[[Politics of New Zealand]]
+
+==Notes==
+{{Reflist|group=nb}}
+
+==References==
+{{Reflist}}
+{{NZ general polling}}
+
+[[Category:2020 New Zealand general election]]
+[[Category:Opinion polling in New Zealand| ]]

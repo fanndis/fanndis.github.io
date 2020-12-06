@@ -1,0 +1,132 @@
+{{Multiple issues|
+{{Original research|date=August 2015}}
+{{weasel|date=August 2015}}
+{{format footnotes|date=August 2015}}
+{{Page numbers needed|date=August 2015}}
+{{More citations needed|date=October 2018}}
+}}
+{{Infobox SCOTUS case
+  |Litigants=United States v. Lopez 
+  |ArgueDate=November 8
+  |ArgueYear=1994
+  |DecideDate=April 26
+  |DecideYear=1995
+  |FullName=United States v. Alfonso Lopez, Jr.
+  |USVol=514
+  |USPage=549
+  |ParallelCitations=115 S. Ct. 1624; 131 [[L. Ed. 2d]] 626; 1995 [[U.S. LEXIS]] 3039; 63 U.S.L.W. 4343; 95 Cal. Daily Op. Service 3074; 8 Fla. L. Weekly Fed. S 752
+  |Prior=On writ of ''certiorari'' to the United States Court of Appeals for the Fifth Circuit, 2 [[F.3d]] [https://law.justia.com/cases/federal/appellate-courts/F3/2/1342/616263/ 1342] (5th Cir. 1993)
+  |Subsequent=
+  |Holding=Possession of a handgun near school is not an economic activity nor has a substantial effect on interstate commerce, and therefore cannot be regulated by Congress.
+  |OralArgument=https://www.oyez.org/sites/default/files/audio/cases/1994/93-1260_19941108-argument.mp3
+  |Majority=Rehnquist
+  |JoinMajority=O'Connor, Scalia, Kennedy, Thomas
+  |Concurrence=Kennedy
+  |JoinConcurrence=O'Connor
+  |Concurrence2=Thomas
+  |Dissent=Breyer
+  |JoinDissent=Stevens, Souter, Ginsburg
+  |Dissent2=Stevens
+  |Dissent3=Souter
+  |LawsApplied=[[Article One of the United States Constitution|U.S. Const. art. I]], [[Article One of the United States Constitution#Section 8: Powers of Congress|§ 8]], [[Article One of the United States Constitution#Commerce Clause|cl. 3]]
+}}
+'''''United States v. Alfonso D. Lopez, Jr.''''', 514 U.S. 549 (1995), was a landmark case of the [[Supreme Court of the United States|United States Supreme Court]] concerning the [[Commerce Clause]]. It was the first case since 1937 in which the Court held that [[United States Congress|Congress]] had exceeded its power to legislate under the Commerce Clause.
+
+The case arose from a [[San Antonio]] high school student's challenge to the [[Gun-Free School Zones Act of 1990]], which banned possession of handguns near schools. In a majority decision joined by four other justices, Chief Justice [[William Rehnquist]] held that while Congress had broad lawmaking authority under the Commerce Clause, that power did not extend to the regulation of the carrying of handguns. In his dissent, Associate Justice [[Stephen Breyer]] argued that Congress could regulate handgun possession under the Commerce Clause because gun violence could have a significant effect on interstate commerce by impairing educational environments.
+
+Though it did not reverse any past ruling about the meaning of the Commerce Clause, ''Lopez'' raised serious questions as to how far the Court might be willing to go in curbing Congress' powers under the Commerce Clause. The Court would later further limit congressional powers under the Commerce Clause in ''[[United States v. Morrison]]'' (2000). After the ''Lopez'' decision, the Gun-Free School Zones Act of 1990 was amended to specifically only apply to guns that had been moved via interstate commerce.
+
+==Background==
+Alfonso Lopez, Jr., was a 12th-grade student at [[Edison High School (San Antonio, Texas)|Edison High School]] in [[San Antonio]], [[Texas]]. On March 10, 1992, he carried a concealed [[.38 Special|.38 caliber]] [[revolver]], along with five [[bullets|cartridges]], into the school. The gun was not loaded; Lopez claimed that he was to deliver the weapon to another person, a service for which he would receive $44.<ref>Court of Appeals opinion p. 4.</ref> He was confronted by school authorities—the school had received anonymous tips that Lopez was carrying the weapon—and admitted to having the weapon. The next day, he was charged with violating the federal<ref>Initially Lopez was charged with the state law crime of possession of a firearm on school premises, but these charges were dismissed in favor of the federal charges.</ref> [[Gun-Free School Zones Act of 1990]] (the "Act"), {{usc|18|922(q)}}.<ref>The federal grand jury [[indictment|indicted]] Lopez on one count of "knowing possession of a firearm at a school zone," in violation of §922(q) of the Act.</ref>
+
+Lopez [[Motion (legal)#Motion to dismiss|moved to dismiss]] the indictment on the ground that §922(q) of the Act was "[[unconstitutional]] as it is beyond the power of Congress to legislate control over our public schools."<ref>514 U.S. at 551.</ref> The [[United States District Court for the Western District of Texas|trial court]] denied the motion, ruling that §922(q) was "a constitutional exercise of Congress' well defined power to regulate activities in and affecting commerce, and the 'business' of elementary, middle and high schools...affects [[interstate commerce]]."<ref>514 U.S. at 551-52.</ref>
+
+Lopez was tried and convicted. He appealed to the [[United States Court of Appeals for the Fifth Circuit|Fifth Circuit Court of Appeals]], claiming that §922(q) exceeded Congress' power to legislate under the [[Commerce Clause]].<ref>514 U.S. at 552.</ref> The Fifth Circuit agreed and reversed his conviction, [[holding (law)|holding]] that "section 922(q), in the full reach of its terms, is invalid as beyond the power of Congress under the Commerce Clause."<ref>{{cite court |litigants=United States v. Lopez |vol=2 |reporter=F.3d |opinion=1342 |pinpoint=1367-68 |court=[[5th Cir.]] |date=1993 |url=https://law.justia.com/cases/federal/appellate-courts/F3/2/1342/616263/ |accessdate=2018-08-29 |quote=}}</ref> The Court of Appeals noted that the legislative history of the Act did not justify it as an exercise of the Commerce Clause power of Congress, suggesting that a new version of the Act which recited more of a nexus with interstate commerce might be devised, although what that nexus might be, is difficult to harmonize with the text of the decision, as the Court clearly stated that the situation posed only a "trivial impact" upon commerce.<ref>"...there was no testimony [before Congressional committees] concerning the effect of [gun] violence on interstate commerce... neither [the House nor the Senate] sponsor had anything to say about commerce in their remarks...  Neither [in ''[[Maryland v. Wirtz]]''] nor in ''[[Wickard v. Filburn]]'' has the [Supreme] Court declared that Congress may use a relatively trivial impact on commerce as an excuse for broad general regulation...  Indeed, it could not be otherwise as the chain of causation is virtually infinite, and hence there is no private activity, no matter how local and insignificant, the ripple effect from which is not in some theoretical measure ultimately felt beyond the borders of the state in which it took place." ''Lopez'', 2 F.3d at 1361-62.</ref>
+
+The United States government filed a petition for [[certiorari]], whereby the Court has discretion to hear or to decline a particular case, for Supreme Court review and the Court accepted the case.
+
+To sustain the Act, the government was obligated to show that §922(q) was a valid exercise of the Congressional Commerce Clause power,<ref>When the power of Congress is challenged, the party asserting the existence of the power — here, the Government — bears the burden of demonstrating that the power exists.</ref> ''i.e.'' that the section regulated a matter which "affected" (or "substantially affected")<ref>There was some question over the wording of the legal test, with the Court eventually opting to include the word "substantially" with "affect(s)."</ref> interstate commerce.<ref>The Court of Appeals noted how broadly the challenged section of the Act swept by its terms: "[It would] criminalize any person's carrying of an unloaded shotgun, in an unlocked pickup truck gun rack, while driving on a country road that at one turn happens to come within 950 feet of the boundary of... a church kindergarten... even during the summer when the kindergarten is not in session." ''Lopez'', 2 F.3d at 1366.</ref>
+
+The government's principal argument was that the possession of a firearm in an educational environment would most likely lead to a [[violent crime]], which in turn would affect the general economic condition in two ways. First, because violent crime causes harm and creates expense, it raises insurance costs, which are spread throughout the economy; and second, by limiting the willingness to travel in the area perceived to be unsafe. The government also argued that the presence of firearms within a school would be seen as dangerous, resulting in students' being scared and disturbed; this would, in turn, inhibit learning; and this, in turn, would lead to a weaker national economy since education is clearly a crucial element of the nation's financial health.
+
+==Supreme Court decision==
+In a 5–4 decision, the Supreme Court affirmed the decision of the Court of Appeals. It held that while Congress had broad lawmaking authority under the Commerce Clause, the power was limited, and did not extend so far from "commerce" as to authorize the regulation of the carrying of [[handgun]]s, of aggregate effect.
+
+[[William Rehnquist|Chief Justice Rehnquist]], delivering the opinion of the Court, identified the three broad categories of activity that Congress could regulate under the Commerce Clause:
+
+* The use of ''channels'' of interstate commerce
+* The ''instrumentalities'' of interstate commerce, or ''persons or things'' in interstate commerce, even though the threat may come only from intrastate activities<ref>For instance, Congress can regulate motor vehicles used in interstate commerce or can criminalize theft from interstate shipments, p.xx</ref>
+* Activities that ''substantially affect'' or ''substantially relate to'' interstate commerce<ref>"Consistent with this structure, we have identified three broad categories of activity that Congress may regulate under its commerce power...  First, Congress may regulate the use of the channels of interstate commerce...  Second, Congress is empowered to regulate and protect the instrumentalities of interstate commerce, or persons or things in interstate commerce, even though the threat may come only from intrastate activities...  Finally, Congress' commerce authority includes the power to regulate those activities having a substantial relation to interstate commerce, i.e., those activities that substantially affect interstate commerce."</ref>
+
+He said they had summarily dismissed any consideration of the first two categories and concluded that the resolution of the case depended only on consideration of the third category—regulation of activities that substantially affect interstate commerce. The Court essentially concluded that in no way was the carrying of handguns a commercial activity or even related to any sort of economic enterprise, even under the most extravagant definitions.<ref>"Where economic activity substantially affects interstate commerce, legislation regulating that activity will be sustained...  [But] this is not an essential part of a larger regulation of economic activity [and is not an activity arising] out of or connected with a commercial transaction which, when viewed in the aggregate, substantially affects interstate commerce...  [Instead,] section 922(q) is a criminal statute that by its terms has nothing to do with "commerce" or any sort of economic enterprise, however broadly one might define those terms...  States possess primary authority for defining and enforcing the criminal law...  When Congress criminalizes conduct already denounced as criminal by the States, it effects a change in the sensitive relation between federal and state criminal jurisdiction." p. xxy.</ref>
+
+The opinion rejected the government's argument that because crime negatively impacted education, Congress might have reasonably concluded that crime in schools substantially affects commerce.
+
+The Court reasoned that if Congress could regulate something so far removed from commerce, then it could regulate anything, and since the Constitution clearly creates Congress as a body with enumerated powers, this could not be so. [[William Rehnquist|Rehnquist]] concluded:
+
+{{Quote|To uphold the Government's contentions here, we have to pile inference upon inference in a manner that would bid fair to convert congressional authority under the Commerce Clause to a general police power of the sort retained by the States. Admittedly, some of our prior cases have taken long steps down that road, giving great deference to congressional action. The broad language in these opinions has suggested the possibility of additional expansion, but we decline here to proceed any further. To do so would require us to conclude that the Constitution's enumeration of powers does not presuppose something not enumerated, and that there never will be a distinction between what is truly national and what is truly local. This we are unwilling to do.}}
+
+The Court specifically looked to four factors in determining whether legislation represents a valid effort to use the Commerce Clause power to regulate activities that substantially affect interstate commerce:
+
+#Whether the activity was non-economic as opposed to economic activity; previous cases involved economic activity
+#Jurisdictional element: whether the gun had moved in interstate commerce
+#Whether there had been congressional findings of an economic link between guns and education
+#How attenuated the link was between the regulated activity and interstate commerce
+
+Although the ruling stopped a decades-long trend of inclusiveness under the commerce clause, it did not reverse any past ruling about the meaning of the clause. Later, Rehnquist stated that the Court had the duty to prevent the legislative branch from usurping state powers over policing the conduct of their citizens. He admitted that the Supreme Court had upheld certain governmental steps towards taking power away from the states, and cited ''Lopez'' as a decision that finally stepped in to check the government's authority by defining clearly between state and federal powers.<ref name="rehnquist">William H. Rehnquist, Chief Justice of the Supreme Court of the United States, <u>American Constitutional Interpretation, Third Edition</u>, 2000, Ed. Walter F. Murphy, James E. Fleming, Sotirios A. Barber, and Stephen Macedo, pgs. 639-640</ref>
+
+==Dissenting opinions==
+
+Justice Breyer authored the principal dissenting opinion.<ref>Justices Stevens, Souter and Ginsburg joined the Breyer dissent in this 5-4 decision. As noted below, Justice Souter and Justice Stevens each wrote an additional individual dissent.</ref> He applied three principles that he considered basic:
+
+#The Commerce Clause included the power to regulate local activities so long as those "significantly affect" interstate commerce.
+#In considering the question, a court must consider not the individual act being regulated (a single instance of gun possession),  but rather the cumulative effect of all similar acts (i.e., the effect of all guns possessed in or near schools).
+#A court must specifically determine not whether the regulated activity significantly affected interstate commerce, but whether Congress could have had a "[[Rational basis review|rational basis]]" for so concluding.<ref>"[We] judge the connection between a regulated activity and interstate commerce, not directly, but at one remove." p. xx</ref>
+
+With these principles in mind, Justice Breyer asked if Congress could have rationally found that the adverse effect of violent crime in [[school zones]], acting through the intermediary effect of degrading the quality of education, could significantly affect interstate commerce. Based on the existence of empirical studies, he answered this question affirmatively.<ref>"Congress could also have found ... that gun related violence in and around schools is a commercial, as well as a human, problem." p. xx.</ref> He pointed out the growing importance of education in the job market, noting that increased global competition made primary and secondary education more important.<ref>p. xxy</ref> He also observed that US firms make location decisions, in part, on the presence or absence of an educated work force.<ref>. yyx</ref>
+
+Justice Breyer concluded that it was obvious that gun violence could have an effect on interstate commerce. The only question remaining, then, was whether Congress could have rationally concluded that the effect could be "substantial." Congress could have rationally concluded, in Justice Breyer's judgment, that the linkage ''from'' gun violence ''to'' an impaired learning environment, and ''from'' this impaired environment ''to'' the consequent adverse economic effects, was sufficient to create a risk to interstate commerce that was "substantial."<ref>"Congress could have [rationally] found that gun related violence near the classroom poses a serious economic threat to [both] ... inadequately educated workers [destined for] ... low paying jobs ... and to ... businesses that might (in today's 'information society') otherwise gain ... an important commercial advantage."p. xx</ref>
+
+Congress, in Justice Breyer's view, had a rational basis "for finding a significant connection between guns in or near schools and (through their effect on education) the interstate and foreign commerce they threaten." In his opinion, no more than this was required to find sufficient supporting power for the challenged law under the Commerce Clause, and he consequently believed that the Court of Appeals had erred and should be reversed.
+
+In his dissent, Justice Souter warned that the distinction between "commercial" and "non-commercial" activity was not tenable. He echoed the "rational basis" theme of the Breyer dissent.<ref>The question ... is not... whether Congress in fact found that a particular activity substantially affects interstate commerce. The [enactment of the] legislation implies such a finding, and there is no reason to entertain claims that Congress acted [[ultra vires]] intentionally. Nor is the question whether Congress was correct in so finding. The only question is whether the legislative judgment is within the realm of reason.... Justice Breyer's opinion demonstrates beyond any doubt that the Act in question passes the rationality review [standard]. p. xxy</ref>
+
+Justice Stevens, in his dissent, iterated his agreement with the Breyer dissent that found ample congressional power under the Commerce Clause to regulate the possession of firearms in schools, in the same way that Congress may act to protect the school environment from alcohol or asbestos. He also agreed with Justice Souter's "exposition of the radical character of the Court's holding and its kinship with the discredited, pre-[[Great Depression in the United States|Depression]] version of substantive due process."<ref>p. xxy.</ref>
+
+== Aftermath ==
+''Lopez'' was the first case since 1937 in which the Court held that [[United States Congress|Congress]] had exceeded its power to legislate under the Commerce Clause.<ref>{{Cite book|title=Constitutional law--principles and policies|last=Chemerinsky, Erwin|publisher=|year=2015|isbn=9781454849476|edition= Fifth|location=New York|pages=271|oclc=904400156}}</ref> It raised serious questions as to how far the Court might be willing to go in implementing judicial safeguards against federal encroachments on state sovereignty.<ref name="Chemerinsky">[[Erwin Chemerinsky]], Professor of Law and Political Science at the University of Southern California, ''[[Florida Law Review]]'', "The Values of Federalism", September 1995, 46 Fla. L. Rev. 499</ref> The precedent takes special significance in cases that the federal government attempts to limit private conduct.<ref name="Chemerinsky"/> Commentators still postulate its possible effects on other established federal laws enacted pursuant to the Commerce Clause. The argument can be made that the significant limiting of federal power is necessary to establish a greater threshold for governmental accountability and revitalizes the role of the states in public policymaking. It can also be ascribed to new legislation that makes open carry in schools legal in some Texas jurisdictions.<ref name="collins">Kristin Collins, J.D., Yale Law School, <u>Cardozo Law Review</u>, April 2005, pg. Lexis</ref>
+
+The case has been followed by the Supreme Court in limiting Congress' power under the Commerce Clause in a 1999 case, ''[[United States v. Morrison]]'',<ref>''[[United States v. Morrison]]'', {{Ussc|529|598|2000}}.</ref> and under other enumerated powers in a 2001 case, ''[[Solid Waste Agency of Northern Cook County v. United States Army Corps of Engineers]]'' ("SWANCC").<ref>''[[Solid Waste Agency of Northern Cook County v. United States Army Corps of Engineers]]'', {{Ussc|531|159|2001}}.</ref><ref>Lee, Joshua L. (2006) "Note: Federal Wetland Jurisdiction and the Power To Regulate Commerce: Searching for the Nexus in Gerke Excavating" ''Brigham Young University Law Review'' 2006: pp. 263-304, page 285, notes 142 & 143</ref>
+
+== Revision and re-enactment of law ==
+Following the ''Lopez'' decision, Congress rewrote the [[Gun-Free School Zones Act of 1990|Gun Free School Zones Act of 1990]] with the necessary interstate-commerce "hook" used in other Federal Gun Laws. The revised [[Gun-Free School Zones Act of 1990|Federal Gun Free School Zones Act]] is currently in effect and has been upheld by several United States Appellate Courts.<ref>{{Cite court |litigants=United States v. Danks |vol=221 |reporter=F.3d |opinion=1037 |pinpoint= |court=8th Cir. |date=1999 |url=https://scholar.google.com/scholar_case?case=17405625671261403263 |accessdate=19 August 2015 |quote= }}</ref><ref>{{Cite court |litigants=United States v. Dorsey |vol=418 |reporter=F.3d |opinion=1038 |pinpoint= |court=9th Cir. |date=2005 |url=https://scholar.google.com/scholar_case?case=12355636011757425677 |accessdate=19 August 2015 |quote= }}</ref> None of the convictions occurring under the revised law have been overturned as a result of the ''Lopez'' decision.
+
+==See also==
+* [[List of United States Supreme Court cases, volume 514]]
+* [[List of United States Supreme Court cases]]
+* [[Lists of United States Supreme Court cases by volume]]
+* [[List of United States Supreme Court cases by the Rehnquist Court]]
+* [[Wickard v. Filburn|''Wickard v. Filburn'', 317 U.S. 111 (1942)]]
+* [[Schechter Poultry Corp. v. United States|''A.L.A. Schechter Poultry Corp. v. United States'', 295 U.S. 495 (1935)]]
+
+== References ==
+{{reflist|30em}}
+
+==External links==
+*{{caselaw source
+ |case=''United States v. Lopez'', {{ussc|514|549|1995|el=no}}
+ | cornell =https://www.law.cornell.edu/supct/html/93-1260.ZS.html 
+ | courtlistener =https://www.courtlistener.com/opinion/117927/united-states-v-lopez/
+ | findlaw=http://laws.findlaw.com/us/514/549.html 
+ | justia=http://supreme.justia.com/us/514/549/case.html
+ | oyez =https://www.oyez.org/cases/1994/93-1260
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep514/usrep514549/usrep514549.pdf
+ | googlescholar =https://scholar.google.com/scholar_case?case=18310045251039502778
+}}
+*[http://www.lawnix.com/cases/united-states-lopez.html Case Brief for United States v. Lopez at Lawnix.com]
+*[http://www.time.com/time/magazine/article/0,9171,134119,00.html "A GUN BAN IS SHOT DOWN" Time Magazine]
+
+[[Category:United States Commerce Clause case law]]
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Rehnquist Court]]
+[[Category:1995 in United States case law]]

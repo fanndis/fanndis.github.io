@@ -1,0 +1,63 @@
+{{Infobox SCOTUS case
+  |Litigants=Missouri v. Jenkins
+  |ArgueDate=January 11
+  |ArgueYear=1995
+  |DecideDate=June 12
+  |DecideYear=1995
+  |FullName=State of Missouri, et al. v. Kalima Jenkins, et al.
+  |USVol=515
+  |USPage=70
+  |ParallelCitations=115 S. Ct. 2038; 132 [[L. Ed. 2d]] 63; 1995 [[U.S. LEXIS]] 4041
+  |Prior= Declaratory judgment, 593 [[F. Supp.]] 1485 ([[United States District Court for the Western District of Missouri|W.D. Mo.]] 1984); final appealable order, 639 F. Supp. 19 (W.D. Mo. 1984); affirmed, 855 [[F.2d]] 1295 ([[United States Court of Appeals for the Eighth Circuit|8th Cir.]] 1988); reversed, 495 U.S. 33 (1990); new orders affirmed, 11 [[F.3d]] 755 (8th Cir. 1993).
+  |Subsequent= appeal after remand, 103 F.3d 731 (8th Cir. 1997).
+  |Holding=The District Court's school desegregation orders, which required the State of Missouri to fund across-the-board salary increases and to continue to fund remedial education programs, went beyond the court's remedial authority.
+  |Majority=Rehnquist
+  |JoinMajority=O'Connor, Scalia, Kennedy, Thomas
+  |Concurrence=O'Connor
+  |Concurrence2=Thomas
+  |Dissent=Souter
+  |JoinDissent=Stevens, Ginsburg, Breyer
+  |Dissent2=Ginsburg
+}}
+'''''Missouri v. Jenkins''''', 515 U.S. 70 (1995), is a case decided by the [[Supreme Court of the United States|United States Supreme Court]]. On June 12, 1995 the Court, in a 5-4 decision, overturned a District Court ruling that required the state of [[Missouri]] to correct ''de facto'' racial inequality in schools by funding salary increases and remedial education programs.
+
+==Background==
+The case began in 1977 l, when the [[Kansas City, Missouri School District]] (KCMSD) sued the State of [[Missouri]], federal agencies, and suburban districts around Kansas City on behalf of the district's students. The District Court then instead named the school district as a defendant. The courts held that the state of Missouri was liable for segregated schools within the boundaries of KCMSD. Originally, the school district wanted a "metropolitan plan," which would have included bus transfers to even out the racial inequalities of inner-city and suburban schools. However, over the 18-year span of the case, the court ordered remedies that were focused instead on improving educational facilities and programs.<ref>{{Cite web | last = Ciotti | first = Paul | title = Money And School Performance: Lessons from the Kansas City Desegregation Experiment | publisher = Cato Institute | date = 16 March 1998 | url = http://www.cato.org/pubs/pas/pa-298.html | accessdate = 28 August 2011}}</ref>
+
+In 1985, [[US District Court]] Judge [[Russell Gentry Clark|Russell Clark]] ordered the [[legal remedy]] of educational improvement programs, school facility repairs, and [[magnet schools]], which were thought to be the best way to attract white suburban students back into city schools. In 1987, the district courts ordered mandatory salary assistance, arguing that to end segregation in the schools the district needed higher-paid, quality teachers. In 1993, the district court ordered the state to pay for salary increases for teaching and non-teaching personnel.
+
+==Decision==
+The Supreme Court majority interpreted ''[[Brown v. Board of Education]]'' as restricting only ''[[de jure]]'' [[racial segregation|segregation]] and referred to ''[[Milliken v. Bradley]]'' and other precedents as applying only to intra-district desegregation. The Supreme Court argued that the lower courts had exceeded their authority in ordering measures such as across-the-board state-funded salary increases to fund continued quality education programs, which could not be sustained by local government.
+
+The Court looked to ''[[Board of Education of Oklahoma City Public Schools v. Dowell]]'' for the decisive question of "'whether the [constitutional violator] ha[s] complied in good faith with the desegregation decree since it was entered, and whether the vestiges of past discrimination ha[ve] been eliminated to the extent practicable.'"
+
+According to ''The Living Constitution'', 3rd Revised Edition (Saul K. Padover, Revised by Jacob W. Landynski, 1995), the other issue involved was whether a federal court could order a local government to raise taxes above the state statute amount to cover the cost of removing the "vestiges of discrimination." The Supreme Court ruled that while direct imposition of taxes is indeed beyond judicial authority, the district court may order the school district to levy the same tax: "Authorizing and directing local government institutions to devise and implement remedies not only protects the function of these institutions but, to the extent possible, also places the responsibility for solutions to the problems of segregation upon those themselves who have created the problem."
+
+The Court also said, "To hold otherwise would fail to take account of the obligations of local governments, under the [[Supremacy Clause]], to fulfill the requirements that the Constitution imposes upon them."
+
+==See also==
+* [[List of United States Supreme Court cases, volume 515]]
+* [[List of United States Supreme Court cases]]
+* [[Lists of United States Supreme Court cases by volume]]
+* [[List of United States Supreme Court cases by the Rehnquist Court]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*{{caselaw source
+ | case=''Missouri v. Jenkins'', {{ussc|515|70|1995|el=no}}
+ | cornell =https://www.law.cornell.edu/supct/html/93-1823.ZC1.html
+ | courtlistener =https://www.courtlistener.com/opinion/117944/missouri-v-jenkins/
+ | googlescholar = https://scholar.google.com/scholar_case?case=12928986410466729675
+ | findlaw=https://caselaw.findlaw.com/us-supreme-court/515/70.html
+ | justia=https://supreme.justia.com/cases/federal/us/515/70/
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep515/usrep515070/usrep515070.pdf
+ | oyez =https://www.oyez.org/cases/1989/88-1150
+}}
+
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Rehnquist Court]]
+[[Category:Legal history of Missouri]]
+[[Category:Education in Kansas City, Missouri]]
+[[Category:1995 in United States case law]]

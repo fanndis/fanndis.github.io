@@ -1,0 +1,73 @@
+{{short description|Concept of uncertainty in military operations and game theory}}
+{{For|the documentary film|The Fog of War}}
+[[File:Aerial View of Gettysburg Reenactment, 1922 (9186201948).jpg|thumb|Aerial view of the [[Gettysburg battlefield]] [[War reenactment|reenactment]], 1922, showing how the aerial byproducts of [[gunfire]] impede visibility|305x305px]]
+The '''fog of war''' ({{lang-de|links=no|[[:de:Nebel des Krieges|Nebel des Krieges]]}}) is the [[uncertainty]] in [[situational awareness]] experienced by participants in  [[military operations]].<ref>[[Joint Service Command and Staff College]], Advanced Command and Staff Course Notes dated 2001</ref> The term seeks to capture the uncertainty regarding one's own capability, adversary capability, and adversary [[Intent (Military)|intent]] during an engagement, operation, or campaign. Military forces try to reduce the fog of war through [[military intelligence]] and friendly force tracking systems. 
+
+The term has become commonly used to define uncertainty mechanics in [[war gaming|wargames]].
+
+== Origin ==
+The word "fog" ({{lang-de|Nebel}}), but not the exact phrase, in reference to 'uncertainty in war' was introduced by the [[Prussia]]n military analyst [[Carl von Clausewitz]] in his posthumously published book, ''Vom Kriege'' (1832), which appeared in English translation as ''[[On War]]'' (1873):
+
+{{quote|War is the realm of uncertainty; three quarters of the factors on which action in war is based are wrapped in a fog of greater or lesser uncertainty. A sensitive and discriminating judgment is called for; a skilled intelligence to scent out the truth.|Carl von Clausewitz<ref>Carl von Clausewitz, ''[http://slantchev.ucsd.edu/courses/ps143a/readings/Clausewitz%20-%20On%20War,%20Books%201%20and%208.pdf Vom Kriege]'', Book 1, Chapter 3.</ref>}}
+
+It has been pointed out that von Clausewitz does not use the exact phrase "fog of war,"  and also uses multiple similar metaphors, such as "twilight" and "moonlight", to describe a 'lack of clarity'.<ref>{{cite web| title=On War Without the Fog| url=http://www.clausewitz.com/bibl/Kiesling-OnFog.pdf| author=Eugenia C. Kiesling| date=2001| publisher=Military Review| accessdate=2014-11-07}}</ref> The first known use of the exact phrase in text dates to 1896 in a book titled ''The Fog of War'' by Sir Lonsdale Augustus Hale, where it is described as, "the state of ignorance in which commanders frequently find themselves as regards the real strength and position, not only of their foes, but also of their friends."<ref>[https://books.google.com/books/about/The_Fog_of_War_by_Colonel_Lonsdale_Hale.html?id=zvlLMwEACAAJ&redir_esc=y “The fog of war”], by Col. Lonsdale Hale, Royal Engineers (retired), Aldershot Military Academy, March 24, 1896.</ref>
+
+== Military ==
+{{expand section|date=November 2014}}
+The fog of war is a reality in all military conflict. Precision and certainty are unattainable goals, but modern military doctrine suggests a trade off of precision and certainty for speed and agility. Militaries employ [[command and control]] (C2) systems and doctrine to partially alleviate the fog of war.
+
+The term also applies to the experience of individual soldiers in battle: often cited is the pure confusion of direction, location, and perspective on a battlefield. Officers and soldiers become separated, orders become confused and subject to revision with poor communication. Sounds and vision are limited from the perspective of the individual and may not be easily resolved, resulting in a continuing uncertainty, a perceptual "fog".
+
+The fog of war has been decreasing as [[intelligence, surveillance and reconnaissance]] technology is improving. In 2016, [[Chief of Staff of the United States Army]] Gen. [[Mark A. Milley]] stated that "On the future [[battlefield]], if you stay in one place longer than two or three hours, you will be dead... With enemy drones and sensors constantly on the hunt for targets, there won’t even be time for four hours' unbroken sleep."<ref>https://breakingdefense.com/2016/10/miserable-disobedient-victorious-gen-milleys-future-us-soldier/</ref>
+
+== Simulations and games ==
+[[File:Richard III from Columbia Games.jpg|thumb|A [[block wargame]], ''Richard III'' by [[Columbia Games]], showing the fog of war in play: the red player can see the identity of their own pieces, but not those of the white player]]
+Abstract and military [[board game]]s sometimes try to capture the effect of the fog of war by hiding the identity of playing pieces, by keeping them face down or turned away from the opposing player (as in ''[[Stratego]]'') or covered (as in ''[[Squad Leader]]''<ref>''Squad Leader Rulebook'', 4th Edition, section 25.0.</ref>). Other games, such as the ''[[Kriegspiel (chess)|Kriegspiel]]'' chess-[[Chess variants#Chess with incomplete information and/or elements of chance|variant]], playing pieces could be hidden from the players by using a duplicate, hidden game board.<ref>[http://www.chessvariants.com/incinf.dir/kriegspiel.html  Kriegspiel] by Hans L. Bodlaender.</ref>
+
+Another version of fog of war emulation is used by [[Block wargame|block wargaming]] where, much like ''Stratego'', the blocks face each player, hiding their value. However, this also allows for incremental damage, where the block is rotated up to four times to indicate battle damage before the unit is eliminated from the playing field.{{citation needed|date=March 2016}}
+
+Solitaire games also by their nature attempt to recreate fog of war using random dice rolls or card draws to determine events.<ref>{{cite book |first=Lewis| last=Pulsipher |url=https://books.google.com/books?id=CmUY_RCnwgIC&pg=PA227 |date=2012 |title=Game Design: How to Create Video and Tabletop Games, Start to Finish |work=McFarland |page= 227|isbn=978-0-786-46952-9}}</ref> Complex double-blind [[miniature wargame]]s, including [[military simulation]]s, may make use of two identical maps or model landscapes, one or more referees providing limited intelligence to the opposing sides, participants in the roles of sub-unit leaders, and the use of radio sets or intercoms.{{Citation needed|date=November 2014}}
+
+=== In video games ===
+[[File:Freeciv-net-screenshot-2011-06-23.png|thumb|In the computer game ''[[Freeciv]]'', completely unexplored areas are fully black, while currently unobserved areas are covered in a grey shroud.]]
+A computer's ability to effectively hide information from a player is seen as a distinct advantage over board games when simulating war.<ref>{{cite magazine  |url=http://www.cgwmuseum.org/galleries/index.php?year=1984&pub=2&id=15 |title=Carrier Force: The Fog of War at its Foggiest |magazine=[[Computer Gaming World]] |date=April 1984 |volume=4 |number=2 |pages=22, 47 |accessdate=2017-03-15 |editor1-first=Russell |editor1-last=Sipe}}</ref> Fog of war in [[strategy video game]]s refers to enemy units, and often terrain, being hidden from the player; this is lifted once the area is explored, but the information is often fully or partially re-hidden whenever the player does not have a unit in that area.<ref>{{cite book |last=Adams |first=Ernest |url=https://books.google.com/books?id=Lm1jAgAAQBAJ&pg=PA510 |title=Fundamentals of Game Design |publisher=[[New Riders Press]] |date=2014 |edition=3 |isbn=978-0-321-92967-9}}</ref>
+
+The earliest use of fog of war was in the 1977 game ''[[Empire (1977 video game)|Empire]]'' by [[Walter Bright]].<ref>{{cite book |first=Christopher George |last=Lewin |title=War Games and their History |chapter=8 |publisher=Fonthill Media |location=Stroud, Great Britain |date=2012 |isbn=978-1-78155-042-7}}</ref> Another early use of fog of war was the 1978 game ''[[Tanktics]]'' designed by [[Chris Crawford (game designer)|Chris Crawford]], which was criticized for its unreliable and "confusing" fog of war system.<ref name="proctor198201">{{Cite magazine |last=Proctor |first=Bob |date=January 1982 |title=Tanktics: Review and Analysis |url=http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=2&id=2 |magazine=[[Computer Gaming World]] |pages=17–20}}</ref> Crawford in 1982 suggested "limit[ing] the amount of information available to the human player" to compensate for the computer's lack of intelligence.<ref name="crawford198212">{{cite magazine | url=https://archive.org/stream/byte-magazine-1982-12/1982_12_BYTE_07-12_Game_Plan_1982#page/n97/mode/2up | title=Design Techniques and Ideas for Computer Games | magazine=BYTE | date=December 1982 | accessdate=19 October 2013 |last=Crawford |first=Chris | pages=96}}</ref> In a 1988 ''[[Computer Gaming World]]'' article [[Dave Arneson]] called fog of war "one of the biggest 'plus' factors in computer simulations", while Crawford concluded, using ''Tanktics'' as an example, that video game fog of war systems became less "fun" the more realistic they were, leading the medium to instead use simplified systems.<ref name="CGW">{{Cite magazine |date=April 1988 |title="Fog of War": A Clearer View |url=http://www.cgwmuseum.org/galleries/index.php?year=1988&pub=2&id=46 |magazine=[[Computer Gaming World]] |pages=24–26, 52–53 |access-date=2017-03-15 |number=46 |editor1-first=Russell |editor1-last=Sipe}}</ref>
+
+Two large [[Blizzard Entertainment|Blizzard]] franchises, ''[[Warcraft]]'' and ''[[StarCraft]]'', use a fog of war which only reveals terrain features and enemy units through a player's [[reconnaissance]]. Without a unit actively observing, previously revealed areas of the map are subject to a shroud through which only terrain is visible, but changes in enemy units or bases are not.<ref name="StarCraft">{{cite web |title=StarCraft's Steps |url=http://www.howell.seattle.wa.us/ggggd/StarcraftsSteps.pdf |first=Dave |last=Howell |date=2010 |accessdate=2014-11-10 |url-status=dead |archiveurl=https://web.archive.org/web/20141110101417/http://www.howell.seattle.wa.us/ggggd/StarcraftsSteps.pdf |archivedate=2014-11-10 }}</ref> This is also common in both turn-based and real-time strategy games, such as the [[Close Combat (series)| ''Close Combat'' series]], [[Total War (video game series)| ''Total War'' series]], [[Age of Empires (series)|''Age of Empires'' series]], [[Command & Conquer: Red Alert series|''Red Alert'' series]], [[Wars (series)|''Advance Wars'' series]], [[Fire Emblem (series)|''Fire Emblem'' series]] and [[Sid Meier]]'s [[Civilization (series)|''Civilization'' series]].{{Citation needed|date=November 2014}}
+
+Fog of war gives players an incentive to uncover a game's world. A compulsion to reveal obscured parts of a map has been described to give a sense of exploring the unknown.<ref name="gamechurch">{{cite web |title=Power, Knowledge and the Fog of War |url=http://gamechurch.com/power-knowledge-and-the-fog-of-war/ |first=Jonah |last=Stowe |work=[[Gamechurch]] |accessdate=2014-11-06}}</ref> Crawford said that "reasonable" uses of fog of war, such as needing to send out scouts, "not only seem natural, but ... add to the realism and excitement of the game"{{r|crawford198212}} ''[[Merchant Prince]]'' displays over unexplored territory what ''Computer Gaming World'' described as a "[[Here be dragons|renaissance-style map of dubious accuracy]]".<ref name="carter199404">{{Cite magazine
+ |last=Carter
+ |first=Tim
+ |author=
+ |last2=
+ |first2=
+ |date=April 1994
+ |title=The Prince Of Bribes
+ |department=
+ |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=117 
+ |magazine=Computer Gaming World
+ |pages=150,152}}</ref> In some strategy games that make use of fog of war, [[Artificial intelligence (video games)|enemy AI]] can get access to complete visibility of the map, which a player may associate with cheating when discovered.<ref>{{cite journal |title=Dealing with Fog of War in a Real Time Strategy Game Environment |url=http://www.csse.uwa.edu.au/cig08/Proceedings/papers/8052.pdf |first1=Johan |last1=Hagelbäck |first2=Stefan J. |last2=Johansson |accessdate=2014-11-06 |date=2008 |publisher=IEEE |via=The University of Western Australia |journal=2008 IEEE Symposium on Computational Intelligence and Games}}</ref> A designer may use fog of war to keep a game that has become impossible to win enjoyable, by hiding this fact from the player.<ref name="StarCraft" />
+
+== See also ==
+* [[C4ISTAR]] (Command, Control, Communication, Computing, Intelligence, Surveillance, Target Acquisition, and Reconnaissance)
+* [[Coup d'œil]] (able to discern tactics ''at a glance'')
+* [[Fingerspitzengefühl]] (instinctive response)
+* [[Fog]] (weather phenomenon)
+* [[Network-centric warfare]] (1990s theory from the US DoD)
+* [[Volatility, uncertainty, complexity and ambiguity|VUCA]] (Volatility, Uncertainty, Complexity and Ambiguity)
+
+== References ==
+{{Reflist|30em}}
+
+== Further reading ==
+* [https://web.archive.org/web/20090220051918/http://www.mar.mil.br/caaml/Revista/2007/Ingles/05-Pag14.pdf The Fog of War and Friction in Current Conflicts: Fundamental Aspects of the Management of Modern Conflicts] Article by LCdr (Brazilian Navy) Osvaldo P. Caninas.
+* [https://www.rand.org/content/dam/rand/pubs/papers/2008/P7511.pdf Simulating the Fog of War] Paper by RAND Corporation John K. Setear, February 1989.
+
+{{video game gameplay}}
+{{Real-time strategy gameplay}}
+
+[[Category:Video game gameplay]]
+[[Category:Military intelligence]]
+[[Category:Metaphors referring to war and violence]]
+[[Category:Command and control]]

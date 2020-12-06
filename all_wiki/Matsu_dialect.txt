@@ -1,0 +1,402 @@
+{{Infobox language
+|name = Matsu dialect
+|nativename = {{lang|zh-tw|馬祖話}} / ''Mā-cū-huâ''<br/>{{lang|zh-tw|平話}} / ''Bàng-huâ''
+|pronunciation = {{IPA|[mɑ˧˩ tsu˥ uɑ˩˧˩]}} / {{IPA|[paŋ˧˩ ŋuɑ˩˧˩]}}
+|states = [[Taiwan]]
+|region = [[Matsu Islands]]
+|ethnicity = [[Fuzhou people|Fuzhounese]]
+|speakers = ?
+|ref=
+|familycolor=Sino-Tibetan
+|fam2=[[Sinitic languages|Sinitic]]
+|fam3=[[Min Chinese|Min]]
+|fam4=[[Eastern Min]]
+|fam5=Houguan 
+|fam6=[[Fuzhou dialect|Fuzhou]]
+|script=[[Chinese characters]] and [[Foochow Romanized]]
+|nation=[[Matsu Islands]], Taiwan (as local language<ref>[https://udn.com/news/story/6885/4827205 本土語言納中小學必修 潘文忠：將按語發法實施] {{in lang|zh}}</ref>)<ref>{{cite web|url=https://www.president.gov.tw/Page/294/46383/%E5%88%B6%E5%AE%9A%E5%9C%8B%E5%AE%B6%E8%AA%9E%E8%A8%80%E7%99%BC%E5%B1%95%E6%B3%95-|title=國家語言發展法 第二條}}</ref>
+|minority=One of the statutory languages for public transport announcements in the [[Matsu Islands]], [[Taiwan]]<ref name="大眾運輸工具播音語言平等保障法">[[:s:zh:大眾運輸工具播音語言平等保障法|大眾運輸工具播音語言平等保障法]]</ref>
+|isoexception=dialect
+|glotto=none
+|lingua=79-AAA-ico
+|map=Taiwan ROC political division map Lienchiang County.svg
+|mapcaption= Location of Matsu Islands
+|notice=IPA
+}}
+
+'''Matsu dialect''' ([[Eastern Min]]: {{sans-serif|Mā-cū-huâ}} / {{lang|cdo|馬祖話}}) is the local dialect of [[Matsu Islands]], [[Taiwan]]. Native speakers also call it '''Bàng-huâ''' ({{lang|zh|平話}}), meaning the language spoken in everyday life. It is recognised one of the statutory languages for public transport announcements in [[Lienchiang County]], Republic of China (ROC).<ref name="大眾運輸工具播音語言平等保障法"/>
+
+It is a subdialect of [[Fuzhou dialect]], [[Eastern Min]]. Matsu dialect is quite similar to [[Changle dialect]], another subdialect of Fuzhou dialect.
+
+==Phonology==
+Matsu dialect has 17 initials, 46 rimes and 7 tones.
+
+===Initials===
+{| class="wikitable"
+!colspan=2|
+![[Bilabial consonant|Bilabial]]
+![[Alveolar consonant|Alveolar]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-align=center
+!colspan=2|[[Nasal stop|Nasal]]
+| /{{IPA link|m}}/ ({{lang|zh-tw|蒙}})
+| /{{IPA link|n}}/ ({{lang|zh-tw|日}})
+| /{{IPA link|ŋ}}/ ({{lang|zh-tw|語}})
+|
+|-align=center
+!rowspan=2|[[Plosive consonant|Plosive]]
+!<small>[[aspiration (phonetics)|aspiration]]</small>
+| /{{IPA link|pʰ}}/ ({{lang|zh-tw|波}})
+| /{{IPA link|tʰ}}/ ({{lang|zh-tw|他}})
+| /{{IPA link|kʰ}}/ ({{lang|zh-tw|氣}})
+|
+|-align=center
+!<small>plain</small>
+| /{{IPA link|p}}/ ({{lang|zh-tw|邊}})
+| /{{IPA link|t}}/ ({{lang|zh-tw|低}})
+| /{{IPA link|k}}/ ({{lang|zh-tw|求}})
+| /{{IPA link|ʔ}}/ ({{lang|zh-tw|鶯}})
+|-align=center
+!colspan=2|[[Fricative consonant|Fricative]]
+|
+| /{{IPA link|s}}/ ({{lang|zh-tw|時}})
+| 
+| /{{IPA link|h}}/ ({{lang|zh-tw|喜}})
+|-align=center
+!rowspan=2|[[Affricate consonant|Affricate]]
+!<small>[[aspiration (phonetics)|aspiration]]</small>
+|
+| /{{IPA|tsʰ}}/ ({{lang|zh-tw|出}})
+|
+|
+|-align=center
+!<small>plain</small>
+|
+| /{{IPA link|ts}}/ ({{lang|zh-tw|曾}})
+|
+|
+|-align=center
+!colspan=2| [[Lateral consonant|Lateral]]
+|
+| /{{IPA link|l}}/ ({{lang|zh-tw|柳}})
+|
+|
+|}
+/{{IPA link|β}}/ and /{{IPA link|ʒ}}/ exist only in connected speech.
+
+===Rimes===
+There are 46 rimes in Matsu dialect.
+
+{| class="wikitable"
+! bgcolor="#ABCDEF" |monophthong
+! bgcolor="#ABCDEF" |compound vowel
+! bgcolor="#ABCDEF" |nasal coda {{IPA|/-ŋ/}}
+! bgcolor="#ABCDEF" |checked coda {{IPA|/-ʔ/}}
+|-
+| [{{IPA link|a}}/{{IPA link|ɑ}}] ({{lang|zh|蝦/罷}})
+| {{IPA|[ia/iɑ]}}({{lang|zh|寫/夜}})
+| {{IPA|[aŋ/ɑŋ]}}({{lang|zh|三/汗}})
+| {{IPA|[aʔ/ɑʔ]}}({{lang|zh|盒/鴨}})
+|-
+| [{{IPA link|ɛ}}/{{IPA link|a}}] ({{lang|zh|街/細}})
+| {{IPA|[ie/iɛ]}}({{lang|zh|雞/毅}})
+| {{IPA|[iŋ/ɛiŋ]}}({{lang|zh|人/任}})
+| <nowiki>[</nowiki>[[Close-mid front rounded vowel|{{IPA|øʔ}}]]/{{IPA|œʔ}}<nowiki>]</nowiki>({{lang|zh|扔/嗝}})
+|-
+| [{{IPA link|œ}}/{{IPA link|ɔ}}] ({{lang|zh|驢/告}})
+| {{IPA|[iu/ieu]}}({{lang|zh|秋/笑}})
+| {{IPA|[uŋ/ouŋ]}}({{lang|zh|春/鳳}})
+| <nowiki>[</nowiki>[[Close-mid front unrounded vowel|{{IPA|eʔ}}]]/{{IPA|ɛʔ}}<nowiki>]</nowiki>({{lang|zh|漬/咩}})
+|-
+| [{{IPA link|o}}/{{IPA link|ɔ}}] ({{lang|zh|哥/抱}})
+| {{IPA|[ua/uɑ]}}({{lang|zh|花/話}})
+| {{IPA|[yŋ/øyŋ]}}({{lang|zh|銀/頌}})
+| {{IPA|[oʔ/ɔʔ]}}({{lang|zh|樂/閣}})
+|-
+| [{{IPA link|i}}/{{IPA|ɛi}}] ({{lang|zh|喜/氣}})
+| {{IPA|[uo/uɔ]}}({{lang|zh|科/課}})
+| {{IPA|[iaŋ/iɑŋ]}}({{lang|zh|驚/命}})
+| {{IPA|[iʔ/ɛiʔ]}}({{lang|zh|力/乙}})
+|-
+| [{{IPA link|u}}/{{IPA|ou}}] ({{lang|zh|苦/怒}})
+| {{IPA|[yo/yɔ]}}({{lang|zh|橋/銳}})
+| {{IPA|[ieŋ/iɛŋ]}}({{lang|zh|天/見}})
+| {{IPA|[uʔ/ouʔ]}}({{lang|zh|勿/福}})
+|-
+| [{{IPA link|y}}/{{IPA|øy}}] ({{lang|zh|豬/箸}})
+| {{IPA|[ai/ɑi]}}({{lang|zh|紙/再}})
+| {{IPA|[uaŋ/uɑŋ]}}({{lang|zh|歡/換}})
+| {{IPA|[yʔ/øyʔ]}}({{lang|zh|肉/竹}})
+|-
+|
+| {{IPA|[au/ɑu]}}({{lang|zh|郊/校}})
+| {{IPA|[uoŋ/uɔŋ]}}({{lang|zh|王/象}})
+| {{IPA|[iaʔ/iɑʔ]}}({{lang|zh|擲/察}})
+|-
+|
+| {{IPA|[ɛu/ɑu]}}({{lang|zh|溝/構}})
+| {{IPA|[yoŋ/yɔŋ]}}({{lang|zh|鄉/樣}})
+| {{IPA|[ieʔ/iɛʔ]}}({{lang|zh|熱/鐵}})
+|-
+|
+| {{IPA|[øy/ɔy]}}({{lang|zh|催/罪}})
+| {{IPA|[ɛiŋ/aiŋ]}}({{lang|zh|恒/硬}})
+| {{IPA|[uaʔ/uɑʔ]}}({{lang|zh|活/法}})
+|-
+|
+| {{IPA|[uai/uɑi]}}({{lang|zh|我/怪}})
+| {{IPA|[ouŋ/ɔuŋ]}}({{lang|zh|湯/寸}})
+| {{IPA|[uoʔ/uɔʔ]}}({{lang|zh|月/郭}})
+|-
+|
+| {{IPA|[ui/uoi]}}({{lang|zh|杯/歲}})
+| {{IPA|[øyŋ/ɔyŋ]}}({{lang|zh|桶/洞}})
+| {{IPA|[yoʔ/yɔʔ]}}({{lang|zh|藥/弱}})
+|-
+|
+|
+|
+| {{IPA|[ɛiʔ/aiʔ]}}({{lang|zh|賊/黑}})
+|-
+|
+|
+|
+| {{IPA|[ouʔ/ɔuʔ]}}({{lang|zh|學/骨}})
+|-
+|
+|
+|
+| {{IPA|[øyʔ/ɔyʔ]}}({{lang|zh|讀/角}})
+|-
+|}
+Many rimes come in pairs: in the table above, the one to the left represents a close rime ({{lang|zh|緊韻}}), while the other represents an open rime ({{lang|zh|鬆韻}}). The close/open rimes are closely related with the tones (''[[#The relationship between tone and rime|see below]]'').
+
+===Tone===
+{| class="wikitable"
+! bgcolor="#ABCDEF"|No.
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|-
+! bgcolor="#ABCDEF"|Tone name
+| dark level<br>陰平
+| light level<br>陽平
+| rising<br>上聲
+| dark departing<br>陰去
+| light departing<br>陽去
+| dark entering<br>陰入
+| light entering<br>陽入
+|-
+! bgcolor="#ABCDEF"|rime type
+| close rime
+| close rime
+| close rime
+| open rime
+| open rime
+| open rime
+| close rime
+|-
+! bgcolor="#ABCDEF"|Tone contour
+| 55 {{IPA|˥}}
+| 51 {{IPA|˥˩}}
+| 33 {{IPA|˧}}
+| 312 {{IPA|˧˩˨}}
+| 131 {{IPA|˩˧˩}}
+| <u>13</u> {{IPA|˩˧}}
+| 5 {{IPA|˥}}
+|-
+! bgcolor="#ABCDEF"|Example Hanzi
+| 君<br>/{{IPA|kuŋ˥}}/
+| 臺<br>/{{IPA|tai˥˩}}/
+| 祖<br>/{{IPA|tsu˧}}/
+| 去<br>/{{IPA|kʰɔ˧˩˨}}/
+| 話<br>/{{IPA|uɑ˩˧˩}}/
+| 福<br>/{{IPA|houk̚˩˧}}/
+| 掘<br>/{{IPA|kuk̚˥}}/
+|}
+
+===The relationship between tone and rime===
+In Matsu dialect, level tone ({{lang|zh|平聲}}), rising tone ({{lang|zh|上聲}}) and light entering ({{lang|zh|陽入}}) should read in close rimes ({{lang|zh|緊韻}}); departing tone and dark entering should read in open rimes ({{lang|zh|鬆韻}}).
+
+For example, "{{sans-serif|a̤}}" have two pronunciations, /{{IPA link|ɛ}}/ in close rime and /{{IPA link|a}}/ in open rime; "{{sans-serif|a̤h}}" have two pronunciations, /{{IPA|eʔ}}/ in close rime and /{{IPA|ɛʔ}}/ in open rime. so we get the table:
+
+{| class="wikitable"
+! bgcolor="#ABCDEF"|Tone name
+| dark level
+| light level
+| rising
+| dark departing
+| light departing
+| dark entering
+| light entering
+|-
+! bgcolor="#ABCDEF"|Tone contour
+| 55 {{IPA|˥}}
+| 51 {{IPA|˥˩}}
+| 33 {{IPA|˧}}
+| 312 {{IPA|˧˩˨}}
+| 131 {{IPA|˩˧˩}}
+| <u>13</u> {{IPA|˩˧}}
+| 5 {{IPA|˥}}
+|-
+! bgcolor="#ABCDEF"|Rime type
+| close rime
+| close rime
+| close rime
+| open rime
+| open rime
+| open rime
+| close rime
+|-
+! bgcolor="#ABCDEF"|[[Foochow Romanized]]
+| {{sans-serif|ă̤}}
+| {{sans-serif|à̤}}
+| {{sans-serif|ā̤}}
+| {{sans-serif|á̤}}
+| {{sans-serif|â̤}}
+| {{sans-serif|á̤h}}
+| {{sans-serif|ă̤h}}
+|-
+! bgcolor="#ABCDEF"|Pronunciation
+| {{IPA|ɛ˥}}
+| {{IPA|ɛ˥˩}}
+| {{IPA|ɛ˧}}
+| {{IPA|a˧˩˨}}
+| {{IPA|a˩˧˩}}
+| {{IPA|ɛʔ˩˧}}
+| {{IPA|eʔ˥}}
+|-
+|}
+
+Close rime tone "{{sans-serif|ă̤}}" should be pronounced as {{IPA|/ɛ˥/}} instead of {{IPA|/a˥/}}; and open rime tone "{{sans-serif|â̤}}" should be pronounced as {{IPA|/a˩˧˩/}} instead of {{IPA|/ɛ˩˧˩/}}.
+
+===Sandhi and assimilation===
+====Tone sandhi====
+Matsu dialect has extremely extensive [[tone sandhi]] rules: in an utterance, only the last syllable pronounced is not affected by the rules. The two-syllable tonal sandhi rules are shown in the table below (the rows give the first syllable's original citation tone, while the columns give the citation tone of the second syllable):
+
+{|class=wikitable
+|
+| bgcolor="#88AAFF"|'''dark level'''<br>55
+| bgcolor="#88AAFF"|'''light level'''<br>51
+| bgcolor="#88AAFF"|'''light entering'''<br><u>5</u>
+| bgcolor="#88AAFF"|'''rising'''<br>33
+| bgcolor="#88AAFF"|'''dark departing'''<br>312
+| bgcolor="#88AAFF"|'''light departing'''<br>131
+| bgcolor="#88AAFF"|'''dark entering'''<br><u>13</u>
+|-
+| bgcolor="#9CFF88"|'''dark level'''<br>55
+| colspan="3"| <center>rising (33)</center>
+| colspan="4"| <center>light level (51)</center>
+|-
+| bgcolor="#9CFF88"|'''dark departing'''<br>312
+| colspan="3"| <center>rising (33)</center>
+| colspan="4"| <center>light level (51)</center>
+|-
+| bgcolor="#9CFF88"|'''light departing'''<br>131
+| colspan="3"| <center>rising (33)</center>
+| colspan="4"| <center>light level (51)</center>
+|-
+| bgcolor="#9CFF88"|'''dark entering B'''<br><u>13</u>
+| colspan="3"| <center>rising (33)</center>
+| colspan="4"| <center>light level (51)</center>
+|-
+| bgcolor="#9CFF88"|'''rising'''<br>33
+| colspan="3"| half dark departing (31)
+| 13<br />''(dark entering lost its entering coda)''
+| colspan="3"| dark level (55)
+|-
+| bgcolor="#9CFF88"|'''dark entering A'''<br><u>13</u>
+| colspan="3"| 31 + {{IPA|/-ʔ/}}<br />''(half dark departing added a entering coda "{{IPA|/-ʔ/}}")''
+| dark entering (<u>13</u>)
+| colspan="3"| light entering (<u>5</u>)
+|-
+| bgcolor="#9CFF88"|'''light level'''<br>51
+| rising (33)
+| colspan="2"| half dark departing (31)
+| rising (33)
+| colspan="3"| half dark departing (31)
+|-
+| bgcolor="#9CFF88"|'''light entering'''<br><u>5</u>
+| colspan="3"| rising (33)<br />''or'' rising + {{IPA|/-ʔ/}}
+| colspan="4"| light level (51),<br />''or'' light entering (<u>5</u>)
+|-
+|}
+
+In the table above, "dark entering A" means dark entering coda ended with {{IPA|/-k̚/}}, "dark entering B" means ended with {{IPA|/-ʔ/}}. In mordern spoken language, it's hard to distinguish with each other in individual syllable, but we can find their differences in tone sandhi.
+
+Like [[Fuzhou dialect]], the tonal sandhi rules of more than two syllables display further complexities.
+
+====Perseverative assimilation====
+The two-syllable initial [[Assimilation (phonology)|assimilation]] rules are shown in the table below:
+
+{| class="wikitable"
+|-
+! bgcolor="#ABCDEF" | The Coda of the Former Syllable
+! bgcolor="#ABCDEF" | The Initial Assimilation of the Latter Syllable
+|-
+| Null coda
+|
+*{{IPA|/p/}} and {{IPA|/pʰ/}} change to {{IPA|/β/}};
+*{{IPA|/t/}}, {{IPA|/tʰ/}} and {{IPA|/s/}}, {{IPA|/l/}} and {{IPA|/n/}} change to {{IPA|/l/}};
+*{{IPA|/ts/}} and {{IPA|/tsʰ/}} change to {{IPA|/ʒ/}};
+*{{IPA|/k/}}, {{IPA|/kʰ/}} and {{IPA|/h/}} change to null initial;
+*{{IPA|/m/}} and {{IPA|/ŋ/}} remain unchanged.
+|-
+| Nasal coda {{IPA|/-ŋ/}}
+|
+*{{IPA|/p/}} and {{IPA|/pʰ/}} change to {{IPA|/m/}};
+*{{IPA|/t/}}, {{IPA|/tʰ/}}, {{IPA|/s/}}, {{IPA|/l/}} and {{IPA|/n/}} change to {{IPA|/n/}};
+*{{IPA|/ts/}} and {{IPA|/tsʰ/}} change to {{IPA|/ʒ/}};
+*{{IPA|/k/}}, {{IPA|/kʰ/}}, {{IPA|/h/}} and null initial change to {{IPA|/ŋ/}};
+*{{IPA|/m/}} and {{IPA|/ŋ/}} remain unchanged.
+|-
+| entering coda ({{IPA|/-ʔ/}}, {{IPA|/-k̚/}})
+| remain unchanged.
+|-
+|}
+
+====Anticipatory assimilation====
+In Matsu dialect, if rime type of the former syllable is changed while [[#Tone sandhi|tone sandhi]] occurred, the rime of the former syllable should be changed to adapt [[#The relationship between tone and rime|the rule of close/open rimes]].
+
+For example, "{{lang|zh-tw|技}}" {{IPA|/kɛi˧˩˨/}} is a syllable which has dark departing tone, it's an open rime; "{{lang|zh-tw|師}}" {{IPA|/sy˥/}} has a dark level tone. When combined together as the phrase "{{lang|zh-tw|技師}}" (technician),  "{{lang|zh-tw|技}}" changes its tonal value to rising tone. Rising tone is a close rime tone, therefore the pronunciation as a whole is {{IPA|/ki˧ ly˥/}}.
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite book
+|editor1-last=Liu |editor1-first=Chia-kuo
+|editor2-last=Li |editor2-first=Shih-te
+|editor3-last=Lin |editor3-first=Chin-yen
+|editor4-last=Chiu |editor4-first=Hsin-fu
+|editor5-last=Liu |editor5-first=Hung-wen
+|editor6-last=Chen |editor6-first=Kao-chih
+|editor7-last=Ho |editor7-first=Kuang-i
+|editor8-last=Yang |editor8-first=Ping-hsun
+|editor9-last=Chen |editor9-first=Pao-ming
+|editor10-last=Chen |editor10-first=Chih-hsu
+|editor11-last=Yang |editor11-first=Ya-hsin
+|script-title=zh:連江縣志 |trans-title=Chronicle of Lienchiang County
+|url=http://gov.matsu.idv.tw/lienchiang/index.html
+|publisher=Government of Lienchiang County
+|location=Lienchiang (Matsu)
+|year=2014
+|isbn=9789860435450
+}}
+
+==External links==
+* {{in lang|zh-hant}} [https://web.archive.org/web/20090413183643/http://www.study.matsu.edu.tw/language/index.htm Fuzhou Dialect Textbook]: Elementary school textbook in Matsu.
+*{{in lang|zh-hant}}[http://163.21.182.5/ez5language/ezlearn/FM/f.html Fast learning]
+*{{in lang|zh-hans}}[https://web.archive.org/web/20160306061707/http://www.fuzhou.gov.cn/zfb/xxgk/zjrc/mdfc/msfq/201305/t20130524_684235.htm The difference of common vocabulary between Matsu dialect and Fuzhou dialect]
+
+{{Min Chinese}}
+{{Languages of Taiwan}}
+
+[[Category:Eastern Min]]
+[[Category:Languages of Taiwan]]
+[[Category:Matsu Islands]]

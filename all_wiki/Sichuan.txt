@@ -1,0 +1,836 @@
+{{stack begin}}
+{{Use dmy dates|date=July 2019}}
+{{short description|Province of China}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                            = {{raise|0.2em|Sichuan Province}}
+| native_name                     = {{lower|0.1em|{{lang|zh|四川省}}}}
+| settlement_type                 = [[Provinces of China|Province]]
+| image_skyline= {{Photomontage
+| photo1a = 1 jiuzhaigou valley wu hua hai 2011b.jpg
+| photo2a = Leshan Buddha Statue View.JPG
+| photo2b = Anshunlang bridge detail.jpg
+| photo3a = Mt emei 1.JPG
+| photo3b = Chengdu Chengdu Panda Reserve Base Große Pandas 24.jpg
+| position = center
+| size = 280
+| color = #F5F5F5
+| border = 0
+| color_border = white
+| text = {{Center|(clockwise from top){{flatlist|
+* Five Flower Lake in [[Jiuzhaigou]] 
+* [[Anshun Bridge]]
+* [[Giant panda]]
+* [[Mount Emei]]
+* [[Leshan Giant Buddha]]}}
+}}
+}}
+| image_caption                   = 
+| image_map                       = Sichuan in China (+all claims hatched).svg
+| mapsize                         = 275px
+| map_alt                         = Map showing the location of Sichuan Province
+| map_caption                     = Map showing the location of Sichuan Province
+| coordinates                     = {{coord|30|08|N|102|56|E|type:adm1st|format=dms|display=it}}
+| seat_type                       = Capital<br />{{nobold|(and largest city)}}
+| seat                            = [[Chengdu]]
+| seat1_type                      = 
+| seat1                           = 
+| parts_type                      = Divisions
+| parts_style                     = para
+| p1                              = 21 [[Prefectures of China|prefectures]]
+| p2                              = 181 [[Counties of China|counties]]
+| p3                              = 5011 [[Townships of China|townships]]
+| leader_title                    = [[Party Committee Secretary]]
+| leader_name                     = [[Peng Qinghua]]
+| leader_title1                   = Governor
+| leader_name1                    = [[Yin Li (politician)|Yin Li]]
+| area_footnotes                  = <ref name=mofcom>{{cite web|title=Doing Business in China – Survey|url=http://english.mofcom.gov.cn/article/zt_business/lanmub/|publisher=Ministry Of Commerce – People's Republic Of China|accessdate=5 August 2013|archive-url=https://web.archive.org/web/20140526181645/http://english.mofcom.gov.cn/article/zt_business/lanmub/|archive-date=26 May 2014|url-status=live}}</ref>
+| area_total_km2                  = 485000
+| area_rank                       = [[List of Chinese administrative divisions by area|5th]]
+| elevation_max_m                 = 7556
+| elevation_max_point             = 
+| elevation_max_ft                = 
+| elevation_max_rank              = 
+| elevation_min_m                 = 
+| elevation_min_point             = 
+| elevation_min_ft                = 
+| elevation_min_rank              = 
+| population_footnotes            = <ref name=censuspop>{{cite web|title=Communiqué of the National Bureau of Statistics of People's Republic of China on Major Figures of the 2010 Population Census [1] (No. 2) |url=http://www.stats.gov.cn/english/newsandcomingevents/t20110429_402722516.htm |publisher=National Bureau of Statistics of China |accessdate=4 August 2013 |date=29 April 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20130727021210/http://www.stats.gov.cn/english/newsandcomingevents/t20110429_402722516.htm |archivedate=27 July 2013 }}</ref>
+| population_total                = 81,100,000
+| population_as_of                = 2013
+| population_rank                 = [[List of Chinese administrative divisions by population|4th]]
+| population_density_km2          = auto
+| population_density_rank         = [[List of Chinese administrative divisions by population density|22nd]]
+| demographics_type1              = Demographics
+| demographics1_footnotes         = <!-- for references: use <ref> tags -->
+| demographics1_title1            = Ethnic composition
+| demographics1_info1             = [[Han Chinese|Han]] – 95% <br /> [[Yi people|Yi]] – 2.6% <br /> [[Tibetan people|Tibetan]] – 1.5% <br /> [[Qiang people|Qiang]] – 0.4% <br /> Others - 0.5%
+| demographics1_title2            = Languages and dialects
+| demographics1_info2             = [[Southwestern Mandarin]] ([[Sichuanese dialects]]), [[Khams Tibetan]], [[Hakka Chinese]]
+| iso_code                        = CN-SC
+| blank_name_sec1                 = [[Gross domestic product|GDP]] {{nobold|(2017)}}
+| blank_info_sec1                 = [[Renminbi|CNY]] 3.70 trillion<br/>USD 547.71 billion ([[List of Chinese administrative divisions by GDP|6th]])
+| blank1_name_sec1                = &nbsp;• per capita
+| blank1_info_sec1                = [[Renminbi|CNY]] 44,651 <br/>USD 6,613 ([[List of Chinese administrative divisions by GDP per capita|22nd]])
+| blank2_name_sec1                = &nbsp;• growth
+| blank2_info_sec1                = 
+| blank_name_sec2                 = [[Human Development Index|HDI]] {{nobold|(2018)}}
+| blank_info_sec2                 = 0.716<ref>{{Cite web|url=https://globaldatalab.org/shdi/shdi/?interpolation=0&extrapolation=0&nearest_real=0|title=Sub-national HDI - Subnational HDI - Global Data Lab|website=globaldatalab.org|access-date=2020-04-17}}</ref> (<span style="color:#090;">high</span>) ([[List of Chinese administrative divisions by Human Development Index|26th]])
+| website                         = {{url|www.sc.gov.cn}}
+| footnotes                       = 
+| official_name                   = 
+}}
+{{Infobox Chinese
+| pic = Sichuan_(Chinese_characters).svg
+| piccap = "Sichuan" in Chinese characters
+| picupright = 0.425
+| c = {{linktext|lang=zh|四川}}
+| l = "Four Plains"<ref>The word ''chuān'' 川 normally means "river", but here means "plains". The name "Sichuan" is an abbreviation of "the four plain [[Circuit (administrative subdivision)|circuits]]"<!--see #Name--> The four circuits consist of [[Yizhou Circuit|Yizhou]], [[Lizhou Circuit|Lizhou]], [[Zizhou Circuit|Zizhou]], & [[Kuizhou Circuit|Kuizhou]].</ref>
+<!--Mandarin-->
+| p = Sìchuān
+| gr = Syhchuan
+| bpmf = ㄙˋ&nbsp;&nbsp;&nbsp;ㄔㄨㄢ
+| w = Ssŭ<sup>4</sup>-ch{{asper}}uan<sup>1</sup>
+| myr = Sz̀-chwān
+| sic = Si<sup>4</sup>-cuan<sup>1</sup>
+| mi = {{IPAc-cmn|AUD|zh-Sichuan.ogg|s|^|4|.|ch|uan|1}}
+| psp = Szechwan
+<!--Yue/Cantonese-->
+| j = Sei<sup>3</sup>-cyun<sup>1</sup>
+| ci = {{IPAc-yue|s|ei|3|.|c|yun|1}}
+| y = Sei-chyūn
+<!--Other ZH-->
+| wuu = Sy<sup>3</sup>-tshoe<sup>1</sup>
+| poj = Sù-chhoan
+| tl = Sì-tshuan
+| h = Si-tshôn
+<!--Tibetan-->
+| tib = སི་ཁྲོན་
+| wylie = si khron
+| othername = 
+| lang1 = [[Nuosu language|Yi]]
+| lang1_content = {{lang|ii|ꌧꍧ}}<br />{{transl|ii|syp chuo}}
+| altname = 
+}}
+{{Infobox Chinese
+| title = Former names
+| altname = Ba(today's Chongqing municipalities) and Shu(today's Sichuan province)
+| c2 = {{linktext|lang=zh|巴蜀}}
+| p2 = Bāshǔ
+| gr2 = Bashuu
+| bpmf2 = ㄅㄚ&nbsp;&nbsp;&nbsp;ㄕㄨˇ
+| w2 = Pa<sup>1</sup>-shu<sup>3</sup>
+}}
+{{stack end}}
+
+'''Sichuan''' (<!-- details in infobox -->{{IPAc-en|'|s|ɛ|ʃ|w|ɒ|n}}{{zh|s={{Audio|Sichuan.ogg|四川|help=no}}|labels=no}}; [[Postal romanization|alternatively romanized]] as '''Szechuan''' or '''Szechwan''') is a landlocked [[Provinces of China|province]] in [[Southwest China]] occupying most of the [[Sichuan Basin]] and the easternmost part of the [[Tibetan Plateau]] between the [[Jinsha River]] on the west, the [[Daba Mountains]] in the north, and the [[Yunnan-Guizhou Plateau|Yungui Plateau]] to the south. Sichuan's capital city is [[Chengdu]]. The population of Sichuan stands at 81 million.
+
+In antiquity, Sichuan was the home of the [[states of ancient China|ancient states]] of [[state of Ba|Ba]] and [[state of Shu|Shu]]. Their conquest by [[state of Qin|Qin]] strengthened it and paved the way for the [[Qin Shi Huang]]'s [[Qin's wars of unification|unification]] of China under the [[Qin dynasty]]. During the [[Three Kingdoms]] era, [[Liu Bei]]'s [[Shu-Han|Shu]] was based in Sichuan. The area was devastated in the 17th century by [[Zhang Xianzhong]]'s rebellion and the area's subsequent [[Qing Empire|Manchu]] conquest, but recovered to become one of China's most productive areas by the 19th century. During [[World War II]], [[Chongqing]] served as the temporary capital of the [[Republic of China (1912–1949)|Republic of China]], making it the focus of [[Bombing of Chongqing|Japanese bombing]]. It was one of the last [[mainland China|mainland]] areas captured by the [[People's Liberation Army]] during the [[Chinese Civil War]] and was divided into four parts from 1949 to 1952, with Chongqing restored two years later. It suffered gravely during the [[Great Chinese Famine]] of 1959–61 but remained China's [[list of Chinese provinces|most populous province]] until [[Chongqing Municipality]] was again separated from it in 1997.
+
+The [[Han Chinese]] [[Sichuanese people|people]] of Sichuan speak a [[Sichuanese Mandarin|unique form]] of [[Standard Mandarin|Mandarin]], which took shape during the area's repopulation under the [[Ming dynasty|Ming]]. The family of dialects is now spoken by about 120 million people, which would make it the [[Most spoken languages of the world|10th most spoken language in the world]] if counted separately. The area's warm damp climate long caused [[traditional Chinese medicine|Chinese medicine]] to advocate [[spicy food|spicy dishes]]; the native [[Sichuan pepper]] helped to form modern [[Sichuan cuisine]], whose dishes—including [[Kung Pao chicken]] and [[mapo tofu]]—have become staples of Chinese cuisine around the world.
+
+In 1950, the province of [[Xikang]] was dissolved and its territory was later split between the newly established [[Tibet Autonomous Region]] and the Province of Sichuan. The western and northwestern part of Sichuan is made up of [[Tibetan people|Tibetan]] and [[Qiang people|Qiang]] autonomous areas.
+
+=={{anchor|Etymology|Names}}Names==
+It is commonly believed that the name ''Sichuan'' means "four [[rivers of China|rivers]]", and in [[folk etymology]] this is usually taken to mean four of the province's major rivers: the [[Jialing River|Jialing]], [[Jinsha River|Jinsha]] (or [[Wu River (Yangtze tributary)|Wu]]), [[Min River (Sichuan)|Min]], and [[Tuo River|Tuo]].<ref name=ruf>{{citation |last=Ruf |first=Gregory Anthony |title=Pillars of the State: Laboring Families, Authority, and Community in Rural Sichuan, 1937–1991 |publisher=Columbia University Press |location=New York |date=1994 |page=68 }}</ref><ref name=rowan>{{cite book |url=https://books.google.com/books?id=JXYgAwAAQBAJ&pg=PA26 |title=Ancient Central China: Centers and Peripheries along the Yangzi River|authors= Rowan K. Flad, Pochan Chen|page=26 |publisher=Cambridge University Press |date=21 January 2013| isbn= 978-0521899000 }}</ref> According to [[Historical geography|historical geographer]] [[Tan Qixiang]], "four rivers" is an erroneous interpretation of the place name.<ref name="谭其骧">{{cite journal |author1=谭其骧 |author2=王天良 |author3=邹逸麟 |author4=郑宝恒 |author5=胡菊兴 |date=1980 |script-title=zh:我国省区名称的来源 |trans-title=Etymology of our country's provinces |script-journal=zh:《复旦学报(社会科学版)》 |issue=S1 |page=128 |author1-link=Tan Qixiang }}</ref> The name of the province is actually a contraction of the phrases ''Sì Chuānlù'' {{nowrap|({{linktext|lang=zh|四|川|路}},}} "Four Plain [[Circuit (administrative subdivision)|Circuits]]") and ''Chuānxiá Sìlù'' {{nowrap|({{lang|zh|川峡四路}},}} "Four Circuits of Chuanxia"),<ref group="note">''Si'' (四) means "four", ''Chuan'' (川) means "plain", and ''Xia'' ("峡") could be understood as "gorge". ''Sì Chuānlù'' and ''Chuānxiá Sìlù'' are general names for the Four Circuits,.</ref><ref>{{cite book |author1=张学君 |author2=四川省地方志编纂委员会 |script-title=zh:《四川省志·卷首》 |trans-title=Annals of Sichuan Province, Volume 1 |location=Beijing |publisher=方志出版社 |date=2003 |isbn=7-80122-933-9 |page=103 }}</ref> referring to the division of the existing [[imperial China|imperial]] administrative circuit in the area into four during the [[Song dynasty|Northern Song dynasty]], which were [[Yi Province|Yizhou]], [[Lizhou District|Lizhou]], [[Zi Prefecture (Sichuan)|Zizhou]], and [[Kuizhou]].<ref>{{in lang|zh}}[http://www.people.com.cn/GB/shenghuo/1090/2435218.html Origin of the Names of China's Provinces] {{Webarchive|url=https://web.archive.org/web/20160427100058/http://www.people.com.cn/GB/shenghuo/1090/2435218.html |date=27 April 2016 }}, [[People's Daily Online]].</ref>  The word ''chuan'' ({{linktext|lang=zh|川}}) here means "[[plain]]", not its normal meaning of "river" as popularly assumed.<ref>{{cite book |author=牛汝辰 |script-title=zh:《中国地名掌故词典》 |trans-title=Dictionary of Etymology of Chinese Places |location=Beijing |publisher={{lang|zh-Hans|[[:zh:中国社会出版社|中国社会出版社]]}} |date=2016 |isbn=978-7-5087-5238-9 |page=321 }}</ref><ref>{{cite book |author1=贾文毓 |author2=李引 |script-title=zh:《中国地名辞源》 |trans-title=Etymology of Chinese Places |location=Beijing |publisher=[[:zh:华夏出版社|Huaxia Publishing House]] |date=2005 |isbn=7-5080-3790-1 |page=360 }}</ref>  In addition to its [[Postal Map Romanization|postal map]] and [[Wade-Giles]] forms, the name has also been irregularly romanized as '''Szű-chuan''' and '''Szechuan'''.
+
+In antiquity, the area of modern Sichuan including the now separated Chongqing Municipality was known to the [[Han Chinese|Chinese]] as {{nowrap|'''Ba-Shu'''}}, in reference to the [[states of ancient China|ancient states]] of [[Ba (state)|Ba]] and [[Shu (state)|Shu]] that once occupied the [[Sichuan Basin]]. '''Shu''' continued to be used to refer to the Sichuan region all through its history right up to the present day; a number of states formed in the area used the same name, for example the [[Shu Han|Shu]] of the [[Three Kingdoms]] period, and [[Former Shu]] and [[Later Shu]] of the [[Ten Kingdoms]] period.<ref>{{cite book |url = https://books.google.com/books?id=RcH7PLTz3OIC&pg=PA71 |title=Ancient Central China: Centers and Peripheries Along the Yangzi River |author1= Rowan K. Flad |author2 = Pochan Chen |publisher=Cambridge University Press |date= 2013 |isbn= 978-0521899000 |page=71 }}</ref> Currently, both the characters for ''Shu'' and ''Chuan'' are commonly used as abbreviations for Sichuan.<ref>{{cite book |url=http://english.sc.gov.cn/SichuaninPerspective/BriefingaboutSichuan/200906/t20090624_770675.shtml |title=Historical Geographical Characteristics |work=General Office of Sichuan Provincial People's Government. |access-date=16 January 2019 |archive-url=https://web.archive.org/web/20120819023648/http://english.sc.gov.cn/SichuaninPerspective/BriefingaboutSichuan/200906/t20090624_770675.shtml |archive-date=19 August 2012 |url-status=live }}</ref>
+
+==History==
+
+===Prehistory===
+The [[Sichuan Basin]] and adjacent areas of the [[Yangtze]] watershed were a cradle of indigenous civilizations dating back to at least the 15th century&nbsp;BC, coinciding with the [[Shang dynasty|Shang]] in northern China. The region had its own distinct religious beliefs and worldview. The earliest culture found in the region through archaeological investigation is the [[Baodun culture]] ({{circa}}2700–1750 BC) excavated in the [[Chengdu Plain]].<ref>{{cite book |chapter-url=https://books.google.com/books?id=I3XG3H_WlM8C&pg=PT164 |title=A Companion to Chinese Archaeology |editor= Anne P. Underhill|chapter=Chapter 7: The Sichuan Basin Neolithic – The Baodun Culture |isbn=978-1-118-32578-0 |publisher=Wiley |year=2013 }}</ref><ref>{{cite book |url=https://books.google.com/books?id=RcH7PLTz3OIC&pg=PA74|title=Ancient Central China: Centers and Peripheries Along the Yangzi River |authors= Rowan K. Flad, Pochan Chen|publisher=Cambridge University Press |year= 2013 |isbn= 978-0521899000 |page=74 }}</ref>
+
+===Ba and Shu Kingdoms===
+[[File:Bronze_head_from_Sanxingdui.JPG|thumb|upright|Bronze head from [[Sanxingdui]], dating from the [[Shu (state)|Shu]] kingdom]]
+The most important native states were those of Ba and Shu.
+
+[[State of Ba|Ba]] stretched into Sichuan from the [[Han River (Shaanxi)|Han Valley]] in [[Shaanxi]] and [[Hubei]] down the [[Jialing River]] as far as its confluence with the [[Yangtze]] at [[Chongqing]].<ref name=kongzi>{{cite book |title=Ancient Sichuan and the Unification of China |author= Steven F. Sage |url=https://books.google.com/books?id=VDIrG7h_VuQC&pg=PA2 |publisher= State University of New York Press |pages=2–3 |year=2006 |isbn=0-7914-1038-2 }}</ref>
+
+[[State of Shu|Shu]] occupied the valley of the [[Min River (Sichuan)|Min]], including [[Chengdu]] and other areas of western Sichuan.<ref name=kongzi/> The existence of the early state of Shu was poorly recorded in the main historical records of China. It was, however, referred to in the ''[[Book of Documents]]'' as an ally of the Zhou.<ref>[http://ctext.org/shang-shu/speech-at-mu Shujing] {{Webarchive|url=https://web.archive.org/web/20151117022051/http://ctext.org/shang-shu/speech-at-mu |date=17 November 2015 }} Original text: {{lang|zh-hant|王曰：「嗟！我友邦塚君御事，司徒、司鄧、司空，亞旅、師氏，千夫長、百夫長，及庸，蜀、羌、髳、微、盧、彭、濮人。稱爾戈，比爾干，立爾矛，予其誓。」}}</ref>  Accounts of Shu exist mainly as a mixture of mythological stories and historical legends recorded in local annals such as the ''[[Chronicles of Huayang]]'' compiled in the [[Jin dynasty (265–420)]],<ref name="sanxingdui">{{Cite book | last = Sanxingdui Museum |author2=Wu Weixi |author3=Zhu Yarong   | title = The Sanxingdui site: mystical mask on ancient Shu Kingdom | publisher = [[:zh:五洲传播出版社|China Intercontinental Press]]  | year = 2006 | pages = 7–8  | url = https://books.google.com/books?id=O0UlsHXmv9IC  | isbn =7-5085-0852-1}}</ref><ref>{{cite book |trans-title=[[Chronicles of Huayang]] |script-title=zh:華陽國志 |trans-chapter=Book 3 |script-chapter=zh:卷三 |author=Chang Qu |url=https://archive.org/stream/06061130.cn#page/n90/mode/2up |pages=90–91 |access-date=15 November 2015 |archive-url=https://web.archive.org/web/20160314081232/http://archive.org/stream/06061130.cn#page/n90/mode/2up |archive-date=14 March 2016 |url-status=live }}</ref> and the Han dynasty compilation ''Shuwang benji'' ({{zh|labels=no|t=蜀王本紀}}).<ref>{{cite book |chapter-url=https://books.google.com/books?id=I3XG3H_WlM8C&pg=PT182 |title=A Companion to Chinese Archaeology |editor= Anne P. Underhill|chapter=Chapter 8: The Sanxingdui Culture of Sichuan |author=Sun Hua |isbn=978-1-118-32578-0|publisher=Wiley |date=2013 }}</ref>  These contained folk stories such as that of Emperor Duyu ({{lang|zh|杜宇}}) who taught the people agriculture and transformed himself into a cuckoo after his death.<ref name="perf"/> The existence of a highly developed civilization with an independent bronze industry in Sichuan eventually came to light with an archaeological discovery in 1986 at a small village named [[Sanxingdui]] in [[Guanghan]], Sichuan.<ref name="perf">{{cite book |title=Ta Chʻeng, Great Perfection – Religion and Ethnicity in a Chinese Millennial Kingdom |author=Terry F. Kleeman |url=https://books.google.com/books?id=FAJrw0yInnAC&pg=PA17 |publisher= University of Hawaii Press |year=1998 |isbn=0-8248-1800-8 |pages=17–19, 22}}</ref>  This site, believed to be an ancient city of Shu, was initially discovered by a local farmer in 1929 who found jade and stone artefacts. Excavations by archaeologists in the area yielded few significant finds until 1986 when two major sacrificial pits were found with spectacular bronze items as well as artefacts in jade, gold, earthenware, and stone.<ref>{{Cite book | last = Sanxingdui Museum |author2=Wu Weixi |author3=Zhu Yarong   | title = The Sanxingdui site: mystical mask on ancient Shu Kingdom | publisher = [[:zh:五洲传播出版社|China Intercontinental Press]]  | year = 2006 | pages = 5–6  | url = https://books.google.com/books?id=O0UlsHXmv9IC  | isbn =7-5085-0852-1}}</ref> This and other discoveries in Sichuan contest the conventional historiography that the local culture and technology of Sichuan were undeveloped in comparison to the technologically and culturally "advanced" [[Yellow River]] valley of north-central China.{{citation needed|date=April 2020}}
+
+===Qin dynasty===
+The rulers of the expansionist state of [[Qin (state)|Qin]], based in present-day [[Gansu]] and [[Shaanxi]], were the first strategists to realize that the area's military importance matched its commercial and agricultural significance. The Sichuan basin is surrounded by the [[Hengduan Mountains]] to the west, the [[Qin Mountains]] to the north, and [[Yungui Plateau]] to the south. Since the Yangtze flows through the basin and then through the perilous Three Gorges to eastern and southern China, Sichuan was a staging area for amphibious military forces and a haven for political refugees.{{citation needed|date=June 2015}}
+
+Qin armies finished their conquest of the kingdoms of Shu and Ba by 316 BC. Any written records and civil achievements of earlier kingdoms were destroyed. Qin administrators introduced improved agricultural technology. [[Li Bing (administrator)|Li Bing]], engineered the [[Dujiangyan irrigation system]] to control the [[Min River (Sichuan)|Min River]], a major [[tributary]] of the Yangtze. This innovative hydraulic system was composed of movable weirs which could be adjusted for high or low water flow according to the season, to either provide irrigation or prevent floods. The increased agricultural output and taxes made the area a source of provisions and men for Qin's unification of China.{{citation needed|date=April 2020}}
+
+===Han dynasty===
+[[File:Gao Yi Que2.jpg|thumb|left|upright|A stone-carved gate pillar, or ''[[que (tower)|que]]'', {{convert|6|m}} in total height, located at the tomb of Gao Yi in Ya'an, Sichuan, built during the [[Eastern Han|Eastern Han dynasty]] (25–220 CE)]]
+Sichuan was subjected to the autonomous control of kings named by the imperial family of Han dynasty. Following the declining central government of the [[Han dynasty]] in the second century, the Sichuan basin, surrounded by mountains and easily defensible, became a popular place for upstart generals to found kingdoms that challenged the authority of Yangtze Valley emperors over China.<ref name="Haw"/>
+[[File:Warlords in 194.jpg|thumb|right|Warlords in China around 194; [[Liu Bei's takeover of Yi Province]] meant he seized the positions of [[Liu Biao]] and [[Zhang Lu (Han dynasty)|Zhang Lu]] eventually]]
+
+===Three Kingdoms===
+In 221, during the partition following the fall of the [[Eastern Han]] – the era of the [[Three Kingdoms]] – [[Liu Bei]] founded the southwest kingdom of [[Shu Han]] ({{zh|labels=no|t={{linktext|蜀|汉}}}}; 221–263) in parts of Sichuan, Guizhou and Yunnan, with [[Chengdu]] as its capital. Shu-Han claimed to be the successor to the Han dynasty.<ref name="Haw">{{cite book|title=A Traveller's History of China|first=Stephen G|last=Haw|publisher=Interlink Books|year=2008|page=83}}</ref>
+
+In 263, the [[Jin dynasty (265–420)|Jin dynasty]] of North China, [[Conquest of Shu by Wei|conquered]] the Kingdom of Shu-Han as its first step on the path to reunify China, under their rule. [[Salt in Chinese history|Salt production]] becomes a major business in [[Ziliujing District]]. During this [[Six Dynasties]] period of Chinese disunity, Sichuan began to be populated by non-[[Han Chinese|Han]] ethnic minority peoples, owing to the migration of [[Gelao people]] from the [[Yunnan–Guizhou Plateau]] to the Sichuan basin, where the Han are indigenous.
+
+===Tang dynasty===
+[[File:樂山大佛 Leshan Giant Buddha - panoramio.jpg|thumb|right|The [[Leshan Giant Buddha]], built during the latter half of the [[Tang dynasty]] (618–907).]]
+Sichuan came under the firm control of a Chinese central government during the [[Sui dynasty]], but it was during the subsequent [[Tang dynasty]] where Sichuan regained its previous political and cultural prominence for which it was known during the Han. Chengdu became nationally known as a supplier of armies and the home of [[Du Fu]], who is sometimes called China's greatest poet. During the [[An Lushan Rebellion]] (755–763), [[Emperor Xuanzong of Tang]] fled from [[Chang'an]] to Sichuan which became his refuge. The region was torn by constant warfare and economic distress as it was besieged by the [[Tibetan Empire]].<ref name="Tara">{{cite book|title=The Territories of the People's Republic of China|first1=Tara|last1=Boland-Crewe|first2=David|last2=Lea|publisher=Psychology Press|year=2004|pages=187–189}}</ref>
+
+===Five Dynasties and Ten Kingdoms===
+In the [[Five Dynasties and Ten Kingdoms period]], Sichuan became the centre of the [[Former Shu|Shu kingdom]] with its capital in [[Chengdu]] founded by [[Wang Jian (Former Shu)|Wang Jian]]. In 925 the kingdom was absorbed into [[Later Tang]] but would regain independence under [[Meng Zhixiang]] who founded [[Later Shu]] in 934. Later Shu would continue until 965 when it was absorbed by the [[Song dynasty|Song]].
+
+===Song dynasty===
+During [[Song dynasty]] (960–1279), [[Sichuanese people|Sichuanese]] were able to protect themselves from [[Tibetan people|Tibetan]] attacks with the help of central government. Sichuan also saw cultural revival like great poets [[Su Xun]] ({{lang|zh-Hant|蘇洵}}), [[Su Shi]], and [[Su Zhe]].<ref name="Tara"/> Although paper currency was known in the Tang dynasty, in 1023 AD, the first true [[Banknote|paper money]] in human history, termed ''jiaozi'' ({{zh|labels=no|c=[[:zh:交子|交子]] |p=jiāozǐ}}), was issued in [[Chengdu]].<ref>Horesh Niv , 2012, "From Chengdu to Stockholm: A Comparative Study of the Emergence of Paper Money in East and West"</ref><ref>Hans G.Wiedemann & Gerhard Bayer, 1992, "Approach to ancient Chinese artifacts by means of thermal analysis", Elsevier Science Publishers B.V., Amsterdam</ref><ref>Pan Jixing, 1998, "On the origin of movable metal-type technique", Chinese Science Bulletin</ref>
+
+It was also during the Song dynasty that the bulk of the native [[Ba (state)|Ba people]] of eastern Sichuan assimilated into the Han Chinese ethnicity.{{citation needed|date=April 2020}}
+
+In the 12th and 13th centuries, the Southern Song dynasty established coordinated defenses against the [[Mongols|Mongolian]] [[Yuan dynasty]], in Sichuan and [[Xiangzhou District, Xiangyang|Xiangyang]]. The Southern Song state monopolized the Sichuan tea industry to pay for warhorses, but this state intervention eventually brought devastation to the local economy.<ref>{{Cite book | title = A History of China | last = Roberts | first = John A.G. | isbn = 978-0-230-34536-2 | series = Palgrave Essential Histories series | url = https://books.google.com/books?id=rBpvOo_R854C | year = 2011 | publisher = Palgrave Macmillan | page = 109 | access-date = 15 November 2015 | archive-url = https://web.archive.org/web/20160604052529/https://books.google.com/books?id=rBpvOo_R854C | archive-date = 4 June 2016 | url-status = live }}</ref> The line of defense was finally broken through after the first use of [[firearm]]s in history during the six-year [[Battle of Xiangyang]], which ended in 1273. Allegedly there were a million pieces of unspecified types of skeleton bones belonging to war animals and both Song and Yuan soldiers who perished in the fighting over the city, although the figure may have been grossly exaggerated.<ref>{{cite book|url=https://books.google.com/books?id=4MBZAAAAcAAJ&pg=PP728|script-title=zh:成都录|quote={{lang|zh|城中骸骨一百四十万}}|title=Yi jia tang cong shu|last1=Yu|first1=Songnian|year=1840}}</ref> The recorded number of families in Sichuan dropped from 2,640,000 families,<ref>{{lang|zh|李心傳}} [Li Xinchuan], "{{lang|zh-hant|建炎以來朝野雜記}}", {{lang|zh|文海出版公司}} [Wenhai Publishing Co.], 1967. 1st set,section 7, page 15</ref> as recorded from the census taken in 1162 AD, to 120,000 families<ref>{{lang|zh|李心傳}} [Li Xinchuan], "{{lang|zh-hant|建炎以來朝野雜記}}", {{lang|zh|文海出版公司}} [Wenhai Publishing Co.], 1967. 1st set,section 7, page 16</ref> in 1282 AD.<ref>C. P. Atwood-Encyclopedia of Mongolia and the Mongol Empire</ref> Possible causes include forced population transfer to nearby areas, evacuation to nearby provinces, census under-reporting or inaccuracy, and war-related deaths.{{Citation needed|date=August 2017}}
+One instance of the deportation of Sichuanese civilians to Mongolia occurred in the aftermath of a battle in 1259, when more than 80,000 people were taken captive from one city in Sichuan and moved to Mongolia.<ref>{{cite book| url=https://books.google.com/books?id=9SpADAAAQBAJ&pg=PA325 | title= State Power in China, 900–1325 | page=325| isbn= 9780295998480 | last1= Ebrey | first1= Patricia Buckley | last2= Smith | first2= Paul Jakov | date= 25 August 2016 }}</ref>
+
+===Ming dynasty===
+The Ming dynasty defeated [[Ming Yuzhen]]'s Xia polity which ruled Sichuan.<ref name="MoteTwitchett1988">{{cite book|author1=Frederick W. Mote|author2=Denis Twitchett|title=The Cambridge History of China: Volume 7, The Ming Dynasty, 1368–1644|url=https://books.google.com/books?id=tyhT9SZRLS8C&pg=PA125|date=26 February 1988|publisher=Cambridge University Press|isbn=978-0-521-24332-2|pages=125–127|access-date=2 May 2016|archive-url=https://web.archive.org/web/20161128142547/https://books.google.com/books?id=tyhT9SZRLS8C&pg=PA125#v=onepage&q&f=false|archive-date=28 November 2016|url-status=live}}</ref>
+
+During the [[Ming dynasty]], major architectural works were created in Sichuan. Buddhism remained influential in the region. [[Bao'en Temple (Pingwu)|Bao'en Temple]] is a well-preserved 15th century monastery complex built between 1440 and 1446 during the [[Emperor Yingzong of Ming|Zhengtong Emperor]]'s reign (1427–64). Dabei Hall enshrines a thousand-armed wooden image of [[Guanyin]] and Huayan Hall is a repository with a revolving [[sutra]] cabinet. The wall paintings, sculptures and other ornamental details are masterpieces of the Ming period.<ref name="pan">{{cite book|first= Pan|last= Guxi|year= 2002|title= Chinese Architecture – The Yuan and Ming Dynasties|edition= English|publisher= Yale University Press|location= |pages= [https://archive.org/details/chinesearchitect0000unse/page/245 245–246]|isbn= 0-300-09559-7|url= https://archive.org/details/chinesearchitect0000unse/page/245}}</ref>
+
+In the middle of the 17th century, the peasant rebel leader [[Zhang Xianzhong]] (1606–1646) from [[Yan'an]], [[Shaanxi]] Province, nicknamed ''Yellow Tiger'', led his peasant troop from north China to the south, and conquered Sichuan. Upon capturing it, he declared himself emperor of the Daxi dynasty ({{lang|zh|大西王朝}}). In response to the resistance from local elites, he massacred a large number of people in Sichuan.<ref>{{cite news | url = http://app1.chinadaily.com.cn/star/2002/0411/cn8-3.html | title = Skeletons of massacre victims uncovered at construction site | date = 11 April 2002 | publisher = [[Shanghai Star]] | url-status = dead | archiveurl = https://web.archive.org/web/20060422024601/http://app1.chinadaily.com.cn/star/2002/0411/cn8-3.html | archivedate = 22 April 2006 | df = dmy-all }}</ref> As a result of the massacre as well as years of turmoil during the [[Qing conquest of the Ming|Ming-Qing transition]], the population of Sichuan fell sharply, requiring a massive resettlement of people from the neighboring [[Huguang Province]] (modern Hubei and Hunan) and other provinces during the Qing dynasty.<ref name="parsons">{{cite journal |title=The Culmination of a Chinese Peasant Rebellion: Chang Hsien-chung in Szechwan, 1644–46 |author= James B. Parsons |journal=The Journal of Asian Studies |volume=16 |issue=3 |pages=387–400 |year=1957 |doi=10.2307/2941233|jstor= 2941233 }}</ref><ref name="Dai"/><ref name="Dai2009">{{cite book|author=Yingcong Dai|title=The Sichuan Frontier and Tibet: Imperial Strategy in the Early Qing|url=https://books.google.com/books?id=DYHfVVAAf_kC&pg=PA16|year=2009|publisher=University of Washington Press|isbn=978-0-295-98952-5|pages=16–|access-date=2 May 2016|archive-url=https://web.archive.org/web/20161128213258/https://books.google.com/books?id=DYHfVVAAf_kC&pg=PA16#v=onepage&q&f=false|archive-date=28 November 2016|url-status=live}}</ref>
+
+===Qing dynasty===
+{{see also|Hakka people#Sichuan}}
+Sichuan was originally the origin of the Deng lineage until one of them was hired as an official in Guangdong during the Ming dynasty but during the Qing plan to increase the population in 1671 they came to Sichuan again. [[Deng Xiaoping]] was born in Sichuan.<ref name="Dai2009 2">{{cite book|author=Yingcong Dai|title=The Sichuan Frontier and Tibet: Imperial Strategy in the Early Qing|url=https://books.google.com/books?id=DYHfVVAAf_kC&pg=PA25|year=2009|publisher=University of Washington Press|isbn=978-0-295-98952-5|pages=25–|access-date=20 July 2016|archive-url=https://web.archive.org/web/20161128154047/https://books.google.com/books?id=DYHfVVAAf_kC&pg=PA25#v=onepage&q&f=false|archive-date=28 November 2016|url-status=live}}</ref>
+
+During the [[Qing dynasty]], Sichuan was merged with [[Shaanxi]] and [[Shanxi]] to create "Shenzhuan" during 1680-1731 and 1735–1748.<ref name="Tara"/> The current borders of Sichuan (which then included [[Chongqing]]) were established in the early 18th century. In the aftermath of the [[Sino-Nepalese War]] on China's southwestern border, the Qing gave Sichuan's provincial government direct control over the minority-inhabited areas of Sichuan west of [[Kangding]], which had previously been handled by an [[amban]].<ref name="Dai">{{cite book|title=The Sichuan Frontier and Tibet: Imperial Strategy in the Early Qing|first=Yingcong|last=Dai|publisher=University of Washington Press|year=2009|pages=19–26, 145}}</ref>
+
+A [[landslide dam]] on the [[Dadu River (Sichuan)|Dadu River]] caused by an earthquake gave way on 10 June 1786. The resulting flood killed 100,000 people.<ref>Schuster, R.L. and G. F. Wieczorek, "Landslide triggers and types" in ''Landslides: Proceedings of the First European Conference on Landslides'' 2002 A.A. Balkema Publishers. p.66 [https://books.google.com/books?id=psFSK_nUqqMC&pg=RA1-PA66&lpg=RA1-PA66&dq=10+June+1786+dadu&source=web&ots=baUnVQRMZA&sig=q7ExeDUuAmFl0JdFjZY0r-LthDc&hl=en] {{Webarchive|url=https://web.archive.org/web/20151031073437/https://books.google.com/books?id=psFSK_nUqqMC&pg=RA1-PA66&lpg=RA1-PA66&dq=10+June+1786+dadu&source=web&ots=baUnVQRMZA&sig=q7ExeDUuAmFl0JdFjZY0r-LthDc&hl=en |date=31 October 2015 }}</ref>
+
+===Republic of China===
+[[File:Japanese bombing chinese main road.jpg|thumb|Japanese bombers bombing a Chinese road in Sichuan during WW2]]
+In the early 20th century, the newly founded [[Republic of China (1912–1949)|Republic of China]] established Chuanbian Special Administrative District ({{lang|zh-hant|川邊特別行政區}}), which acknowledged the unique culture and economy of the region largely differing from that of mainstream northern China in the [[Yellow River]] region. The Special District later became the province of [[Xikang]], incorporating the areas inhabited by Yi, Tibetan and Qiang ethnic minorities to its west, and eastern part of today's [[Tibet Autonomous Region]].{{citation needed|date=April 2020}}
+
+In the 20th century, as [[Beijing]], [[Shanghai]], [[Nanjing]], and [[Wuhan]] had all been occupied by the Japanese during the [[Second Sino-Japanese War]], the capital of the Republic of China had been temporary relocated to [[Chongqing]], then a major city in Sichuan. An enduring legacy of this move is that nearby inland provinces, such as [[Shaanxi]], [[Gansu]], and [[Guizhou]], which previously never had [[History of education in China|modern Western-style universities]], began to be developed in this regard.<ref>{{cite book|title=Teachers' Schools and the Making of the Modern Chinese Nation-State, 1897–1937|first=Xiaoping|last=Cong|publisher=UBC Press|year=2011|page=203}}</ref> The difficulty of accessing the region overland from the eastern part of China and the foggy climate hindering the accuracy of [[Sichuan invasion|Japanese bombing]] of the [[Sichuan Basin]], made the region the stronghold of [[Chiang Kai-shek]]'s [[Kuomintang]] government during 1938–45, and led to the [[Bombing of Chongqing]].{{citation needed|date=April 2020}}
+
+The [[Second Sino-Japanese War]] was soon followed by the resumed [[Chinese Civil War]], and the cities of East China are obtained by the Communists one after another, the Kuomintang government again tried to make Sichuan its stronghold on the mainland, although it already saw some Communist activity since it was one area on the road of the [[Long March]]. Chiang Kai-shek himself flew to Chongqing from [[Taiwan]] in November 1949 to lead the defense. But the same month Chongqing switched to the Communists, followed by Chengdu on 10 December. The Kuomintang general [[Wang Sheng (soldier)|Wang Sheng]] wanted to stay behind with his troops to continue anticommunist guerilla war in Sichuan, but was recalled to Taiwan. Many of his soldiers made their way there as well, via [[Burma]].<ref>{{cite book|last=Marks|first=Thomas A.|title=Counterrevolution in China: Wang Sheng and the Kuomintang|publisher=Frank Cass|location=London|year=1998|isbn=0-7146-4700-4|url=https://books.google.com/books?id=04QiOlNKQGEC&pg=PA116|pages=116–117}}</ref>
+
+===People's Republic of China===
+The People's Republic of China was founded in 1949, and it split Sichuan into four areas and separated out Chongqing municipality. Sichuan was reconstituted in 1952, with Chongqing added in 1954, while the former [[Xikang]] province was split between [[Tibet Autonomous Region|Tibet]] in the west and Sichuan in the east.<ref name="Tara"/>
+
+The province was deeply affected by the [[Great Chinese Famine]] of 1959–1961, during which period some 9.4 million people (13.07% of the population at the time) died.<ref name="cao">{{cite book |last1=Cao |first1=Shuji (曹树基) |script-title=zh:大饑荒：1959－1961年的中国人口 |trans-title=Great Famine: China's population from 1959 to 1961 |publisher=香港時代國際出版有限公司 |location=Hong Kong |language=zh-hant |year=2005}}</ref>
+
+In 1978, when [[Deng Xiaoping]] took power, Sichuan was one of the first provinces to experiment with market economic enterprise.
+
+From 1955 until 1997 Sichuan had been China's most populous province, hitting 100 million mark shortly after the 1982 census figure of 99,730,000.<ref>{{cite web |url=http://www.citypopulation.de/China-UA.html |title=Citypopulation.de:China |access-date=19 October 2009 |archive-url=https://web.archive.org/web/20150704001241/http://www.citypopulation.de/China-UA.html |archive-date=4 July 2015 |url-status=live }}</ref> This changed in 1997 when the [[Sub-provincial city]] of Chongqing as well as the three surrounding prefectures of [[Fuling]], [[Wanxian]], and [[Qianjiang District|Qianjiang]] were split off into the new [[Chongqing|Chongqing Municipality]]. The new municipality was formed to spearhead China's effort to economically develop its western provinces, as well as to coordinate the resettlement of residents from the reservoir areas of the [[Three Gorges Dam]] project.
+
+In 1997 when Sichuan split, the sum of the two parts was recorded to be 114,720,000 people.<ref>{{cite web |url=http://www.stats.gov.cn/english/statisticaldata/yearlydata/YB1998e/D4-3E.htm |title=National Statistics Agency Tables:4-3 Total Population and Birth Rate, Death Rate and Natural Growth Rate by Region (1997) |access-date=19 October 2009 |archive-url=https://web.archive.org/web/20091113223314/http://www.stats.gov.cn/english/statisticaldata/yearlydata/YB1998e/D4-3E.htm |archive-date=13 November 2009 |url-status=live }}</ref> As of 2010, Sichuan ranks as both the [[List of Chinese administrative divisions by area|3rd largest]] (the largest among Chinese [[List of People's Republic of China administrative divisions by population|provinces with population greater than 50 million) and 4th most populous province]] in China.<ref name="bare_url">{{cite web |url=http://thechinaperspective.com/topics/province/sichuan-province/ |title=Sichuan Province: Economic News and Statistics for Sichuan's Economy |publisher=Thechinaperspective.com |accessdate=2011-10-30 |archive-url=https://web.archive.org/web/20111008050304/http://thechinaperspective.com/topics/province/sichuan-province/ |archive-date=8 October 2011 |url-status=live }}</ref>
+ [[File:Sichuan earthquake jundao.JPG|thumb|Shops in Jundao, a town devastated by the [[2008 Sichuan earthquake]]]]
+In May 2008, [[2008 Sichuan earthquake|an earthquake]] with a magnitude of 7.9/8.0 hit just {{convert|79|km}} northwest of the provincial capital of Chengdu. Official figures recorded a death toll of nearly 70,000 people, and millions of people were left homeless.<ref name="data">{{cite news|url=http://news.sina.com.cn/pc/2008-05-13/326/651.html|date=2008-06-08|accessdate=2008-07-06|title=Casualties of the Wenchuan Earthquake|publisher=[[Sina.com]]|language=zh-hans|archive-url=https://web.archive.org/web/20080519003228/http://news.sina.com.cn/pc/2008-05-13/326/651.html|archive-date=19 May 2008|url-status=live}}, and {{cite news|url=http://news.sina.com.cn/c/2008-07-06/162615881691.shtml|date=2008-07-06|accessdate=2008-07-07|title=Wenchuan Earthquake has already caused 69,196 fatalities and 18,379 missing|publisher=[[Sina.com]]|language=zh-hans|archive-url=https://web.archive.org/web/20110610125546/http://news.sina.com.cn/c/2008-07-06/162615881691.shtml|archive-date=10 June 2011|url-status=live}}</ref>
+
+==Administrative divisions==
+{{main|List of administrative divisions of Sichuan|List of township-level divisions of Sichuan}}
+Sichuan consists of twenty-one [[prefecture-level division]]s: eighteen [[Prefecture-level city|prefecture-level cities]] (including a [[Sub-provincial divisions in the People's Republic of China|sub-provincial city]]) and three [[autonomous prefecture]]s:
+
+{| class="wikitable sortable" style="margin:1em auto 1em auto; width:90%; font-size:smaller; text-align:center"
+|-
+! colspan="9" |'''Administrative divisions of Sichuan'''
+|-
+| colspan="9" style="font-size:larger" | <div style="position: relative" class="center">
+{{Image label begin|image=Administrative Division Sichuan.svg|width={{{1|702}}}|link=|font-size=85%}} 
+{{Image label|x=650|y=455|scale={{{1|702}}}/1170|text='''[[Chengdu]]'''}}
+{{Image label|x=735|y=615|scale={{{1|702}}}/1170|text='''[[Zigong]]'''}}
+{{Image label|x=410|y=905|scale={{{1|702}}}/1170|text='''[[Panzhihua]]'''}}
+{{Image label|x=860|y=680|scale={{{1|702}}}/1170|text='''[[Luzhou]]'''}}
+{{Image label|x=710|y=405|scale={{{1|702}}}/1170|text='''[[Deyang]]'''}}
+{{Image label|x=730|y=325|scale={{{1|702}}}/1170|text='''[[Mianyang]]'''}}
+{{Image label|x=845|y=270|scale={{{1|702}}}/1170|text='''[[Guangyuan]]'''}}
+{{Image label|x=820|y=460|scale={{{1|702}}}/1170|text='''[[Suining]]'''}}
+{{Image label|x=755|y=575|scale={{{1|702}}}/1170|text='''[[Neijiang]]'''}}
+{{Image label|x=630|y=625|scale={{{1|702}}}/1170|text='''[[Leshan]]'''}}
+{{Image label|x=885|y=390|scale={{{1|702}}}/1170|text='''[[Nanchong]]'''}}
+{{Image label|x=655|y=530|scale={{{1|702}}}/1170|text='''[[Meishan]]'''}}
+{{Image label|x=750|y=700|scale={{{1|702}}}/1170|text='''[[Yibin]]'''}}
+{{Image label|x=920|y=480|scale={{{1|702}}}/1170|text='''[[Guang'an]]'''}}
+{{Image label|x=1045|y=375|scale={{{1|702}}}/1170|text='''[[Dazhou]]'''}}
+{{Image label|x=540|y=540|scale={{{1|702}}}/1170|text='''[[Ya'an]]'''}}
+{{Image label|x=965|y=300|scale={{{1|702}}}/1170|text='''[[Bazhong]]'''}}
+{{Image label|x=785|y=520|scale={{{1|702}}}/1170|text='''[[Ziyang]]'''}}
+{{Image label|x=480|y=240|scale={{{1|702}}}/1170|text='''[[Ngawa Tibetan and Qiang Autonomous Prefecture|Ngawa (Aba)<br>Tibetan and Qiang AP]]'''}}
+{{Image label|x=280|y=460|scale={{{1|702}}}/1170|text='''[[Garzê Tibetan Autonomous Prefecture|Garzê (Ganzi)<br>Tibetan AP]]'''}}
+{{Image label|x=450|y=785|scale={{{1|702}}}/1170|text='''[[Liangshan Yi Autonomous Prefecture|Liangshan<br>Yi AP]]'''}}
+{{Image label|x=880|y=575|scale={{{1|702}}}/1170|text={{nobold|''[[Chongqing]]''}}}}
+</div>
+|-
+!! scope="col" rowspan="2" | [[Administrative division codes of the People's Republic of China|Division code]]<ref>{{cite web |language=zh-hans |url=http://files2.mca.gov.cn/cws/201502/20150225163817214.html |script-title=zh:中华人民共和国县以上行政区划代码 |publisher=[[Ministry of Civil Affairs]] |access-date=11 December 2015 |archive-url=https://web.archive.org/web/20150402113603/http://files2.mca.gov.cn/cws/201502/20150225163817214.html |archive-date=2 April 2015 |url-status=live }}</ref>
+!! scope="col" rowspan="2" | Division
+!! scope="col" rowspan="2" | Area in km<sup>2</sup><ref name="nj2013">{{zh}}{{cite book|language=zh-hans|author=Shenzhen Bureau of Statistics|publisher=[[:zh:中国统计出版社|China Statistics Print]] |script-title=zh:《深圳统计年鉴2014》|url=http://www.sztj.gov.cn/nj2014/indexce.htm|date=|accessdate=2015-05-29|archive-url=https://web.archive.org/web/20150512184740/http://www.sztj.gov.cn/nj2014/indexce.htm|archive-date=12 May 2015|url-status=dead}}</ref>
+!! scope="col" rowspan="2" | Population 2010<ref>{{cite book| author1=Census Office of the State Council of the People's Republic of China| author2=Population and Employment Statistics Division of the National Bureau of Statistics of the People's Republic of China | script-title=zh:中国2010人口普查分乡、镇、街道资料|date=2012|publisher=[[:zh:中国统计出版社|China Statistics Print]] |location=Beijing|isbn=978-7-5037-6660-2|edition=1}}</ref>
+!! scope="col" rowspan="2" | Seat
+!! scope="col" colspan="4" | Divisions<ref>{{cite book |language=zh-hans |author=Ministry of Civil Affairs |script-title=zh:《中国民政统计年鉴2014》|date=August 2014 |publisher=[[:zh:中国统计出版社|China Statistics Print]] |isbn= 978-7-5037-7130-9|author-link=Ministry of Civil Affairs }}</ref>
+|-
+!! scope="col" style="width:45px;"| [[District (China)|Districts]]
+!! scope="col" style="width:45px;"| [[Counties of the People's Republic of China|Counties]]
+!! scope="col" style="width:45px;"| [[Autonomous counties of the People's Republic of China|Aut. counties]]
+!! scope="col" style="width:45px;"| [[County-level city|CL cities]]
+|- style="font-weight: bold"
+! 510000 !! Sichuan Province
+| 485,000.00 || 80,418,200 || [[Chengdu]] city || 54 || 107 || 4 || 18
+|- style="background:#98fb98;"
+! 510100 !! [[Chengdu]] city
+| 12,163.16 || 14,047,625 || [[Wuhou District]] || 12 || 3 || style="background:gray;"|  || 5
+|-
+! 510300 !! [[Zigong]] city
+| 4,373.13 || 2,678,898 || [[Ziliujing District]] || 4 || 2 || style="background:gray;"|  || style="background:gray;"| 
+|-
+! 510400 !! [[Panzhihua]] city
+| 7,423.42 || 1,214,121 || [[Dong District, Panzhihua|Dong District]] || 3 || 2 || style="background:gray;"|  || style="background:gray;"| 
+|-
+! 510500 !! [[Luzhou]] city
+| 12,233.58 || 4,218,426 || [[Jiangyang District]] || 3 || 4 || style="background:gray;"|  || style="background:gray;"| 
+|-
+! 510600 !! [[Deyang]] city
+| 5,951.55 || 3,615,759 || [[Jingyang District]] || 2 || 1 || style="background:gray;"|  || 3
+|-
+! 510700 !! [[Mianyang]] city
+| 20,267.46 || 4,613,862 || [[Fucheng District]] || 3 || 4 || 1 || 1
+|-
+! 510800 !! [[Guangyuan]] city
+| 16,313.70 || 2,484,125 || [[Lizhou District]] || 3 || 4 || style="background:gray;"|  || style="background:gray;"| 
+|-
+! 510900 !! [[Suining]] city
+| 5,323.85 || 3,252,551 || [[Chuanshan District]] || 2 || 2 || style="background:gray;"|  || 1
+|-
+! 511000 !! [[Neijiang]] city
+| 5,385.33 || 3,702,847 || [[Shizhong District, Neijiang|Shizhong District]] || 2 || 2 || style="background:gray;"| || 1 
+|-
+! 511100 !! [[Leshan]] city
+| 12,827.49 || 3,235,756 || [[Shizhong District, Leshan|Shizhong District]] || 4 || 4 || 2 || 1
+|-
+! 511300 !! [[Nanchong]] city
+| 12,479.96 || 6,278,622 || [[Shunqing District]] || 3 || 5 || style="background:gray;"|  || 1
+|-
+! 511400 !! [[Meishan]] city
+| 7,173.82 || 2,950,548 || [[Dongpo District]] || 2 || 4 || style="background:gray;"|  || style="background:gray;"| 
+|-
+! 511500 !! [[Yibin]] city
+| 13,293.89 || 4,472,001 || [[Cuiping District]] || 3 || 7 || style="background:gray;"|  || style="background:gray;"| 
+|-
+! 511600 !! [[Guang'an]] city
+| 6,301.41 || 3,205,476 || [[Guang'an District]] || 2 || 3 || style="background:gray;"|  || 1
+|-
+! 511700 !! [[Dazhou]] city
+| 16,591.00 || 5,468,092 || [[Tongchuan District]] || 2 || 4 || style="background:gray;"|  || 1
+|-
+! 511800 !! [[Ya'an]] city
+| 15,213.28 || 1,507,264 || [[Yucheng District]] || 2 || 6 || style="background:gray;"|  || style="background:gray;"| 
+|-
+! 511900 !! [[Bazhong]] city
+| 12,301.26 || 3,283,771 || [[Bazhou District]] || 2 || 3 || style="background:gray;"|  || style="background:gray;"| 
+|-
+! 512000 !! [[Ziyang]] city
+| 7,962.56 || 3,665,064 || [[Yanjiang District]] || 1 || 2 || style="background:gray;"|  || style="background:gray;"| 
+|-
+! 513200 !! [[Ngawa Tibetan and Qiang Autonomous Prefecture]]
+| 82,383.32 || 898,713 || [[Barkam]] city || style="background:gray;"|  || 12 || style="background:gray;"|  || 1
+|-
+! 513300 !! [[Garzê Tibetan Autonomous Prefecture]]
+| 147,681.37 || 1,091,872 || [[Kangding]] city || style="background:gray;"|  || 17 || style="background:gray;"|  || 1
+|-
+! 513400 !! [[Liangshan Yi Autonomous Prefecture]]
+| 60,422.67 || 4,532,809 || [[Xichang]] city || style="background:gray;"|  || 15 || 1 || 1
+|- 
+| colspan = "12" | {{legend|#98FB98|[[Sub-provincial divisions in the People's Republic of China|Sub-provincial cities]]|border=1px solid #AAAAAA}}
+|}
+
+{|class="wikitable sortable collapsible collapsed" style="text-font:90%; width:auto; text-align:center; margin-left: auto; margin-right: auto;"
+|-
+! colspan="5" |Administrative divisions in Chinese and varieties of romanizations
+|-
+! English !! Chinese !! Pinyin !! Sichuanese Romanzation
+|-
+| '''Sichuan Province''' || {{lang|zh|四川省}} || '''Sìchuān Shěng''' || '''si4 cuan1 sen3'''
+|-
+| [[Chengdu]] city || {{lang|zh|成都市}} || Chéngdū Shì || cen2 du1 si4
+|-
+| [[Zigong]] city || {{lang|zh|自贡市}} || Zìgòng Shì || 
+|-
+| [[Panzhihua]] city || {{lang|zh|攀枝花市}} || Pānzhīhuā Shì || 
+|-
+| [[Luzhou]] city || {{lang|zh|泸州市}} || Lúzhōu Shì || nu2 zou1 si4
+|-
+| [[Deyang]] city || {{lang|zh|德阳市}} || Déyáng Shì || 
+|-
+| [[Mianyang]] city || {{lang|zh|绵阳市}} || Miányáng Shì || 
+|-
+| [[Guangyuan]] city || {{lang|zh|广元市}} || Guǎngyuán Shì || 
+|-
+| [[Suining]] city || {{lang|zh|遂宁市}} || Sùiníng Shì || xu4 nin2 si4
+|-
+| [[Neijiang]] city || {{lang|zh|内江市}} || Nèijiāng Shì || nui4 jiang1 si4
+|-
+| [[Leshan]] city || {{lang|zh|乐山市}} || Lèshān Shì || 
+|-
+| [[Nanchong]] city || {{lang|zh|南充市}} || Nánchōng Shì || lan2 cong1 si4
+|-
+| [[Meishan]] city || {{lang|zh|眉山市}} || Méishān Shì || mi2 san1 si4
+|-
+| [[Yibin]] city || {{lang|zh|宜宾市}} || Yíbīn Shì || ni2 bin1 si4
+|-
+| [[Guang'an]] city || {{lang|zh|广安市}} || Guǎng'ān Shì || 
+|-
+| [[Dazhou]] city || {{lang|zh|达州市}} || Dázhōu Shì || 
+|-
+| [[Ya'an]] city || {{lang|zh|雅安市}} || Yǎ'ān Shì || 
+|-
+| [[Bazhong]] city || {{lang|zh|巴中市}} || Bāzhōng Shì || 
+|-
+| [[Ziyang]] city || {{lang|zh|资阳市}} || Zīyáng Shì || 
+|-
+| [[Ngawa Tibetan and Qiang Autonomous Prefecture]] || {{lang|zh|阿坝藏族羌族自治州}} || Ābà Zangzú Qiāngzú Zìzhìzhōu || 
+|-
+| [[Garzê Tibetan Autonomous Prefecture]] || {{lang|zh|甘孜藏族自治州}} || Gānzī Zangzú Zìzhìzhōu || 
+|-
+| [[Liangshan Yi Autonomous Prefecture]] || {{lang|zh|凉山彝族自治州}} || Liángshān Yízú Zìzhìzhōu || 
+|}
+
+The twenty [[Prefectures of the People's Republic of China|Prefecture]] of Sichuan are subdivided into 183 [[county-level division]]s (53 [[District of China|district]]s, 17 [[county-level cities]], 109 [[County (People's Republic of China)|counties]], and 4 [[Autonomous counties of the People's Republic of China|autonomous counties]]). At the end of year 2017, the total population is 83.02 million.<ref>http://www.stats.gov.cn/tjsj/ndsj/2018/indexch.htm</ref>
+
+===Urban areas===
+{|class="wikitable sortable collapsible" style="font-size:90%;"
+|-
+! colspan="6" | Population by urban areas of prefecture & county cities
+|-
+!#!!City!! style="background:#aaf;"|Urban area<ref name="2010PRCcensus"/>!! style="background:#afa;"|District area<ref name="2010PRCcensus"/>!! style="background:#faa;"|City proper<ref name="2010PRCcensus">{{cite book |author=国务院人口普查办公室、国家统计局人口和社会科技统计司编 |date=2012 |script-title=zh:中国2010年人口普查分县资料 |location=Beijing |publisher=[[:zh:中国统计出版社|China Statistics Print]] |page= |isbn=978-7-5037-6659-6 }}</ref>!!Census date
+|-
+|1||'''[[Chengdu]]'''{{efn|name=Chengdu|New districts established after census: [[Shuangliu District|Shuangliu (Shuangliu County)]], [[Pidu District|Pidu (Pixian County)]]. These new districts not included in the urban area & district area count of the pre-expanded city.}}{{efn|name=Jianyang}}||6,316,922||7,415,590||15,118,839||2010-11-01
+|- style="background:lightyellow;" class="sortbottom"
+|(1)||Chengdu {{small|(new districts)}}{{efn|name=Chengdu}}||1,384,770||2,176,092||{{small|''see Chengdu''}}||2010-11-01
+|-
+|2||[[Mianyang]]{{efn|name=Mianyang|New district established after census: [[Anzhou District|Anxian County)]]. The new district not included in the urban area & district area count of the pre-expanded city.}}||967,007||1,355,331||4,613,871||2010-11-01
+|- style="background:lightyellow;" class="sortbottom"
+|(2)||Mianyang {{small|(new district)}}{{efn|name=Mianyang}}||96,265||366,802||{{small|''see Mianyang''}}||2010-11-01
+|-
+|3||[[Nanchong]]||890,402||1,858,875||6,278,614||2010-11-01
+|-
+|4||[[Luzhou]]||742,274||1,371,233||4,218,427||2010-11-01
+|-
+|5||[[Leshan]]||678,752||1,211,237||3,235,759||2010-11-01
+|-
+|6||[[Zigong]]||666,204||1,262,064||2,678,899||2010-11-01
+|-
+|7||[[Panzhihua]]||631,258||787,177||1,214,121||2010-11-01
+|-
+|8||[[Neijiang]]||586,445||1,251,095||3,702,847||2010-11-01
+|-
+|9||[[Suining]]||549,826||1,295,885||3,252,619||2010-11-01
+|-
+|10||[[Yibin]]{{efn|name=Yibin|New districts established after census: [[Nanxi District, Yibin|Nanxi (Nanxi County)]], [[Xuzhou District|Xuzhou (Yibin County)]]. These new districts not included in the urban area & district area count of the pre-expanded city.}}||549,650||836,340||4,471,896||2010-11-01
+|- style="background:lightyellow;" class="sortbottom"
+|(10)||Yibin {{small|(new districts)}}{{efn|name=Yibin}}||277,993||1,148,864||{{small|''see Yibin''}}||2010-11-01
+|-
+|11||[[Deyang]]{{efn|name=Deyang|New district established after census: [[Luojiang District, Deyang|Luojiang (Luojiang County)]]. The new district not included in the urban area & district area count of the pre-expanded city.}}||530,122||735,070||3,615,758||2010-11-01
+|- style="background:lightyellow;" class="sortbottom"
+|(11)||Deyang {{small|(new district)}}{{efn|name=Deyang}}||79,269||212,185||{{small|''see Deyang''}}||2010-11-01
+|-
+|12||[[Bazhong]]||477,235||1,126,167||3283148||2010-11-01
+|-
+|13||[[Xichang]]||466,732||712,434||{{small|''part of [[Liangshan Yi Autonomous Prefecture|Liangshan Prefecture]]''}}||2010-11-01
+|-
+|14||[[Guangyuan]]||407,756||859,246||2,484,122||2010-11-01
+|-
+|15||[[Dazhou]]{{efn|name=Dazhou|New district established after census: [[Dachuan District|Dachuan (Daxian County)]]. The new district not included in the urban area & district area count of the pre-expanded city.}}||379,467||478,276||5,468,097||2010-11-01
+|- style="background:lightyellow;" class="sortbottom"
+|(15)||Dazhou {{small|(new district)}}{{efn|name=Dazhou}}||299,223||1,111,159||{{small|''see Dazhou''}}||2010-11-01
+|-
+|16||[[Ziyang]]{{efn|name=Jianyang}}||376,387||905,729||2,593,843||2010-11-01
+|-
+|17||[[Jianyang, Sichuan|Jianyang]]{{efn|name=Jianyang|Jianyang CLC was transferred from Ziyang PLC to Chengdu PLC's jurisdiction after census; the City proper count is reflected onto Chengdu PLC not Ziyang PLC.}}||365,386||1,071,214||{{small|''see Chengdu''}}||2010-11-01
+|-
+|18||[[Meishan]]{{efn|name=Meishan|New district established after census: [[Pengshan District|Pengshan (Pengshan County)]]. The new district not included in the urban area & district area count of the pre-expanded city.}}||347,546||821,853||2,950,545||2010-11-01
+|- style="background:lightyellow;" class="sortbottom"
+|(18)||Meishan {{small|(new district)}}{{efn|name=Meishan}}||150,350||285,889||{{small|''see Meishan''}}||2010-11-01
+|-
+|19||[[Dujiangyan City|Dujiangyan]]||317,627||657,996||{{small|''see Chengdu''}}||2010-11-01
+|-
+|20||[[Guang'an]]||317,502||858,159||3,205,476||2010-11-01
+|-
+|21||[[Jiangyou]]||312,154||762,140||{{small|''see Mianyang''}}||2010-11-01
+|- style="background:lightyellow;"
+|(22)||[[Longchang]]{{efn|name=Longchang|Longchang County is currently known as Longchang CLC after census.}}||289,494||633,210||{{small|''see Neijiang''}}||2010-11-01
+|-
+|23||[[Pengzhou]]||263,199||762,887||{{small|''see Chengdu''}}||2010-11-01
+|-
+|24||[[Langzhong]]||242,535||728,935||{{small|''see Nanchong''}}||2010-11-01
+|-
+|25||[[Guanghan]]||235,872||591,115||{{small|''see Deyang''}}||2010-11-01
+|-
+|26||[[Emeishan City|Emeishan]]||220,349||437,068||{{small|''see Leshan''}}||2010-11-01
+|-
+|27||[[Ya'an]]{{efn|name=Ya'an|New district established after census: [[Mingshan District, Ya'an|Mingshan (Mingshan County)]]. The new district not included in the urban area & district area count of the pre-expanded city.}}||208,940||355,572||1,507,258||2010-11-01
+|- style="background:lightyellow;" class="sortbottom"
+|(27)||Ya'an {{small|(new district)}}{{efn|name=Ya'an}}||52,131||256,484||{{small|''see Ya'an''}}||2010-11-01
+|-
+|28||[[Chongzhou]]||206,448||661,120||{{small|''see Chengdu''}}||2010-11-01
+|-
+|29||[[Mianzhu]]||192,001||477,868||{{small|''see Deyang''}}||2010-11-01
+|-
+|30||[[Qionglai City|Qionglai]]||190,099||612753||{{small|''see Chengdu''}}||2010-11-01
+|-
+|31||[[Shifang]]||187,473||412,758||{{small|''see Deyang''}}||2010-11-01
+|-
+|32||[[Wanyuan]]||129,617||407,594||{{small|''see Dazhou''}}||2010-11-01
+|-
+|33||[[Huaying]]||119,228||278,359||{{small|''see Guang'an''}}||2010-11-01
+|- style="background:lightyellow;"
+|(34)||[[Kangding]]{{efn|name=Kangding|Kangding County is currently known as Kangding CLC after census.}}||60,439||130,142||{{small|''part of [[Garzê Tibetan Autonomous Prefecture|Garzê Prefecture]]''}}||2010-11-01
+|- style="background:lightyellow;"
+|(35)||[[Barkam]]{{efn|name=Barkam|Barkam County is currently known as Barkam CLC after census.}}||28,783||58,437||{{small|''part of [[Ngawa Tibetan and Qiang Autonomous Prefecture|Ngawa Prefecture]]''}}||2010-11-01
+|}
+{{notelist}}
+
+==Geography and biodiversity==
+Sichuan consists of two geographically very distinct parts. The eastern part of the province is mostly within the fertile [[Sichuan basin]] (which is shared by Sichuan with Chongqing Municipality). The western Sichuan consists of the numerous mountain ranges forming the easternmost part of the [[Tibetan Plateau]], which are known generically as [[Hengduan Mountains]]. One of these ranges, [[Daxue Mountains]], contains the highest point of the province [[Gongga Shan]], at {{cvt|7556|m|ft}} above sea level. The mountains are formed by the collision of the Tibetan Plateau with the [[Yangtze Plate]]. Faults here include the [[Longmenshan Fault]] which ruptured during the 2008 Sichuan earthquake. Other mountain ranges surround the Sichuan Basin from north, east, and south. Among them are the [[Daba Mountains]], in the province's northeast.
+
+The [[Yangtze River]] and its tributaries flows through the mountains of western Sichuan and the Sichuan Basin; thus, the province is upstream of the great cities that stand along the Yangtze River further to the east, such as [[Chongqing]], [[Wuhan]], [[Nanjing]] and [[Shanghai]]. One of the major tributaries of the Yangtze within the province is the [[Min River (Sichuan)|Min River]] of central Sichuan, which joins the Yangtze at [[Yibin]]. They are also a number of other rivers, such as [[Jialing River]], [[Tuo River]], [[Yalong River]], [[Wu River (Yangtze tributary)|Wu River]] and [[Jinsha River]], and any four of the various rivers are often grouped as the "four rivers" that the name of Sichuan is commonly and mistakenly believed to mean.<ref name=ruf /><ref name=rowan />
+
+Due to great differences in terrain, the climate of the province is highly variable. In general it has strong [[monsoon]]al influences, with rainfall heavily concentrated in the summer. Under the [[Köppen climate classification]], the [[Sichuan Basin]] (including [[Chengdu]]) in the eastern half of the province experiences a [[humid subtropical climate]] (Köppen ''Cwa'' or ''Cfa''), with long, hot, wet summers and short, mild to cool, dry and cloudy winters. Consequently, it has China's lowest sunshine totals. The western region has mountainous areas producing a cooler but sunnier climate. Having cool to very cold winters and mild summers, temperatures generally decrease with greater elevation. However, due to high altitude and its inland location, many areas such as Garze County and Zoige County in Sichuan exhibit a [[subarctic climate]] ([[Köppen climate classification|Köppen]] ''Dwc'')- featuring extremely cold winters down to −30&nbsp;°C and even cold summer nights. The region is geologically active with landslides and earthquakes. Average elevation ranges from 2,000 to 3,500 meters; average temperatures range from 0 to 15&nbsp;°C.<ref name=TibetansSichuan>{{cite journal|title=Study on Rural Poverty in Ecologically Fragile Areas-A Case Study of the Tibetan Areas in Sichuan Province|journal=Asian Agricultural Research|year=2012|volume=4|issue=1|pages=27–31, 61|url=http://ageconsearch.umn.edu/bitstream/133098/2/06.PDF|accessdate=26 March 2013|author=Lan Hong-xing|publisher=USA-China Science and Culture Media Corporation|archive-url=https://web.archive.org/web/20130513063229/http://ageconsearch.umn.edu/bitstream/133098/2/06.PDF|archive-date=13 May 2013|url-status=live}}</ref> The southern part of the province, including Panzhihua and Xichang, has a sunny climate with short, very mild winters and very warm to hot summers.
+
+Sichuan borders [[Qinghai]] to the northwest, [[Gansu]] to the north, [[Shaanxi]] to the northeast, [[Chongqing]] to the east, [[Guizhou]] to the southeast, [[Yunnan]] to the south, and the [[Tibet Autonomous Region]] to the west.
+
+<gallery heights="150px" perrow="4" mode="packed">
+File:Larix potaninii trees Huluhai.jpg|''[[Larix potaninii]]'' in autumn colour.
+File:1 Seda facing south.jpg|[[Garzê Prefecture]]
+File:Zitong-sichuan-china.jpg|[[Zitong County]]
+File:A Typical Linpan unit in Pi County.jpg|[[Linpan in Chengdu Plain]] is a well-known landmark in [[Chengdu Plain]], Sichuan.
+</gallery>
+
+===Giant panda===
+
+[[File:Chengdu-pandas-d10.jpg|thumb|[[Giant panda]]s eating bamboo in [[Chengdu]], Sichuan]]
+
+[[Giant panda]]s live in [[Bamboo|bamboo forests]] and low mountainous areas such as the [[Min Mountains|Minshan Mountains]] in Sichuan.<ref>[https://wwf.panda.org/what_we_do/endangered_species/giant_panda/panda/where_panda_lives_habitat/] {{Webarchive|url=https://web.archive.org/web/20180501161518/http://wwf.panda.org/what_we_do/endangered_species/giant_panda/panda/where_panda_lives_habitat/ |date=1 May 2018 }}, Survey in Minshang Mountains by Michel</ref> The majority of the panda population lives in Sichuan, with their range spreading into [[Shaanxi]] and [[Gansu]]. As it is abundant where they live, pandas' diet consists of 99% bamboo, with small other plants, or small animals consisting of the other 1%. Since the panda is native to China, it is the national symbol of China.<ref>[http://www.spiritanimal.info/panda-spirit-animal/] {{Webarchive|url=https://web.archive.org/web/20180424202525/http://www.spiritanimal.info/panda-spirit-animal/ |date=24 April 2018 }}, Panda Symbolism by Elena Harris.</ref>
+
+===Linpan settlements===
+The [[Linpan in Chengdu Plain]] is a special settlement in [[Chengdu Plain]], which consists of farm house with woods around, irrigation system, farm land and is elementary unit of the village within the scattered locations. The rural landscape of Chengdu Plain is unique because of the typical element "Linpan".{{original research inline|date=March 2019}}{{clarify|date=March 2019}}
+
+==Politics==
+{{main|Politics of Sichuan|List of current Chinese provincial leaders}}
+The politics of Sichuan is structured in a dual party-government system like all other governing institutions in [[mainland China]].
+
+The governor of Sichuan is the highest-ranking official in the People's Government of Sichuan. However, in the province's dual party-government governing system, the Governor has less power than the Sichuan Communist Party of China's [[Party Committee Secretary]], colloquially termed the "Sichuan CPC Party Chief".
+
+==Economy==
+[[File:CHUNXILU.jpg|thumb|upright=0.9|right|The capital of Sichuan, Chengdu.]][[File:IFS Chengdu Mall Entrance 1.jpg|thumb|IFS Chengdu Mall Entrance]]
+[[File:Waldorf Astoria in Chengdu.jpg|thumb|[[Waldorf Astoria Hotels & Resorts]] in Chengdu]]
+
+Sichuan has been historically known as the "Province of Abundance". It is one of the major agricultural production bases of China. Grain, including rice and wheat, is the major product with output that ranked first in China in 1999. Commercial crops include citrus fruits, sugar cane, sweet potatoes, peaches and grapes. Sichuan also had the largest output of pork among all the provinces and the second largest output of silkworm cocoons in 1999. Sichuan is rich in mineral resources. It has more than 132 kinds of proven underground mineral resources including vanadium, titanium, and lithium being the largest in China. The Panxi region alone possesses 13.3% of the reserves of iron, 93% of titanium, 69% of vanadium, and 83% of the cobalt of the whole country.<ref>{{cite web |url=http://www.tdctrade.com/mktprof/china/mpsic.htm |title=SICHUAN PROVINCE (hktdc.com) |access-date=5 February 2006 |archive-url=https://web.archive.org/web/20060208093813/http://www.tdctrade.com/mktprof/china/mpsic.htm |archive-date=8 February 2006 |url-status=live }}</ref> Sichuan also possesses China's largest proven natural gas reserves, the majority of which is transported to more developed eastern regions.<ref name="bare_url" />
+
+Sichuan is one of the major industrial centers of China. In addition to heavy industries such as coal, energy, iron and steel, the province has also established a light industrial sector comprising building materials, wood processing, food and silk processing. [[Chengdu]] and [[Mianyang]] are the production centers for textiles and electronics products. [[Deyang]], [[Panzhihua]], and [[Yibin]] are the production centers for machinery, metallurgical industries, and wine, respectively. Sichuan's wine production accounted for 21.9% of the country's total production in 2000.
+
+Great strides have been made in developing Sichuan into a modern hi-tech industrial base, by encouraging both domestic and foreign investments in electronics and information technology (such as software), machinery and metallurgy (including automobiles), hydropower, pharmaceutical, food and beverage industries.
+
+The auto industry is an important and key sector of the machinery industry in Sichuan. Most of the auto manufacturing companies are located in Chengdu, Mianyang, [[Nanchong]], and [[Luzhou]].<ref>{{cite web |url=http://strategis.ic.gc.ca/epic/internet/inimr-ri.nsf/en/gr111906e.html |title=International Market Research – AUTO PARTS INDUSTRY IN SICHUAN AND CHONGQING |access-date=5 February 2006 |archive-url=https://web.archive.org/web/20060626154234/http://strategis.ic.gc.ca/epic/internet/inimr-ri.nsf/en/gr111906e.html |archive-date=26 June 2006 |url-status=dead }}</ref>
+
+Other important industries in Sichuan include [[aerospace]] and defense (military) industries. A number of China's rockets ([[Long March rocket]]s) and [[satellite]]s were launched from the [[Xichang Satellite Launch Center]], located in the city of [[Xichang]].
+
+Sichuan's landscapes and rich historical relics have also made the province a center for tourism.
+
+The [[Three Gorges Dam]], the largest [[dam]] ever constructed, was built on the [[Yangtze River]] in nearby [[Hubei]] province to control flooding in the Sichuan Basin, neighboring [[Yunnan]] province, and downstream. The plan is hailed by some as China's efforts to shift towards alternative energy sources and to further develop its industrial and commercial bases, but others have criticised it for its potentially harmful effects, such as massive resettlement of residents in the reservoir areas, loss of archeological sites, and ecological damages.
+
+Sichuan has one of the largest economy in western China. Its nominal GDP for 2017 was 3.69 trillion yuan (US$547.71 billion), equivalent to 44,651 RMB (US$6,613) per capita.<ref>{{cite web |url=http://data.stats.gov.cn/english/  |access-date=5 July 2018 |archive-url=https://web.archive.org/web/20180614044850/http://data.stats.gov.cn/english/ |archive-date=14 June 2018 |url-status=live |title=National Data }}</ref> In 2008, the per capita net income of rural residents was 4,121 yuan (US$593), up 16.2% from 2007. The per capita [[disposable income]] of the urbanites averaged 12,633 yuan (US$1,819), up 13.8% from 2007.<ref>{{cite web |url=http://news.xinhuanet.com/english/2006-02/02/content_4128534.htm |title=Xinhua – English |access-date=4 February 2006 |archive-url=https://web.archive.org/web/20071013152115/http://news.xinhuanet.com/english/2006-02/02/content_4128534.htm |archive-date=13 October 2007 |url-status=live }}</ref><ref>{{cite web |url=http://news.xinhuanet.com/english/2008-05/29/content_8277443.htm |title=Counting the economic costs of China's earthquake_English_Xinhua<!-- Bot generated title --> |access-date=6 June 2008 |archive-url=https://web.archive.org/web/20080601030259/http://news.xinhuanet.com/english/2008-05/29/content_8277443.htm |archive-date=1 June 2008 |url-status=live }}</ref>
+
+===Foreign trade===
+According to the Sichuan Department of Commerce, the province's total foreign trade was US$22.04 billion in 2008, with an annual increase of 53.3 percent. Exports were US$13.1 billion, an annual increase of 52.3 percent, while imports were US$8.93 billion, an annual increase of 54.7 percent. These achievements were accomplished because of significant changes in China's foreign trade policy, acceleration of the yuan's appreciation, increase of commercial incentives and increase in production costs. The 18 cities and counties witnessed a steady rate of increase. Chengdu, Suining, Nanchong, Dazhou, Ya'an, Abazhou, and Liangshan all saw an increase of more than 40 percent while Leshan, Neijiang, Luzhou, Meishan, Ziyang, and Yibin saw an increase of more than 20 percent. Foreign trade in Zigong, Panzhihua, Guang'an, Bazhong and Ganzi remained constant.
+
+===Minimum wage===
+The Sichuan government raised the minimum wage in the province by 12.5 percent at the end of December 2007. The monthly minimum wage went up from 400 to 450 yuan, with a minimum of 4.9 yuan per hour for part-time work, effective 26 December 2007. The government also reduced the four-tier minimum wage structure to three. The top tier mandates a minimum of 650 yuan per month, or 7.1 yuan per hour. National law allows each province to set minimum wages independently, but with a floor of 450 yuan per month.
+
+===Economic and technological development zones===
+
+====Chengdu Economic and Technological Development Zone====
+Chengdu Economic and Technological Development Zone ({{zh|s=成都经济技术开发区|hp=Chéngdū jīngjì jìshù kāifā qū|links=no}}) was approved as state-level development zone in February 2000. The zone now has a developed area of {{convert|10.25|km2|abbr=on}} and has a planned area of {{convert|26|km2|abbr=on}}. Chengdu Economic and Technological Development Zone (CETDZ) lies {{convert|13.6|km|abbr=on}} east of Chengdu, the capital city of Sichuan Province and the hub of transportation and communication in southwest China. The zone has attracted investors and developers from more than 20 countries to carry out their projects there. Industries encouraged in the zone include mechanical, electronic, new building materials, medicine and food processing.<ref>{{cite web |url=http://rightsite.asia/en/industrial-zone/chengdu-economic-technology-development-zone/ |title=Chengdu Economic & Technological Development Zone |publisher=RightSite.asia |accessdate=2011-03-15 |archive-url=https://web.archive.org/web/20100507150656/http://rightsite.asia/en/industrial-zone/chengdu-economic-technology-development-zone |archive-date=7 May 2010 |url-status=live }}</ref>
+
+====Chengdu Export Processing Zone====
+Chengdu [[Export Processing Zone]] ({{zh|s=成都出口加工区|hp=Chéngdū chūkǒu jiāgōng qū|links=no}})) was ratified by the State Council as one of the first 15 export processing zones in the country in April 2000. In 2002, the state ratified the establishment of the Sichuan Chengdu Export Processing West Zone with a planned area of {{convert|1.5|km2|abbr=on}}, located inside the west region of the Chengdu Hi-tech Zone.<ref>{{cite web |url=http://rightsite.asia/en/industrial-zone/chengdu-export-processing-zone/ |title=Chengdu Export Processing Zone |publisher=RightSite.asia |accessdate=2011-03-15 |archive-url=https://web.archive.org/web/20100505062609/http://rightsite.asia/en/industrial-zone/chengdu-export-processing-zone |archive-date=5 May 2010 |url-status=live }}</ref>
+
+====Chengdu Hi-Tech Industrial Development Zone====
+[[File:S. Renmin Road.jpg|thumb|Nijia Qiao, South Renmin Road, Chengdu]]
+Established in 1988, Chengdu Hi-tech Industrial Development Zone ({{zh|s=成都高新技术产业开发区|hp=Chéngdū Gāoxīn Jìshù Chǎnyè Kāifā Qū|links=no}}) was approved as one of the first national hi-tech development zones in 1991. In 2000, it was open to APEC and has been recognized as a national advanced hi-tech development zone in successive assessment activities held by China's Ministry of Science and Technology. It ranks 5th among the 53 national hi-tech development zones in China in terms of comprehensive strength.
+
+Chengdu Hi-tech Development Zone covers an area of {{convert|82.5|km2|abbr=on}}, consisting of the South Park and the West Park. By relying on the city sub-center, which is under construction, the South Park is focusing on creating a modernized industrial park of science and technology with scientific and technological innovation, incubation R&D, modern service industry and Headquarters economy playing leading roles. Priority has been given to the development of software industry. Located on both sides of the "Chengdu-Dujiangyan-Jiuzhaigou" golden tourism channel, the West Park aims at building a comprehensive industrial park targeting at industrial clustering with complete supportive functions. The West Park gives priority to three major industries i.e. electronic information, biomedicine and precision machinery.<ref>{{cite web |url=http://rightsite.asia/en/industrial-zone/chengdu-hi-tech-industrial-development-zone/ |title=Chengdu Hi-Tech Industrial Development Zone |publisher=RightSite.asia |accessdate=2011-03-15 |archive-url=https://web.archive.org/web/20100620200717/http://rightsite.asia/en/industrial-zone/chengdu-hi-tech-industrial-development-zone |archive-date=20 June 2010 |url-status=live }}</ref>
+
+====Mianyang Hi-Tech Industrial Development Zone====
+Mianyang Hi-Tech Industrial Development Zone was established in 1992, with a planned area of {{convert|43|km2|abbr=on}}. The zone is situated 96 kilometers away from Chengdu, and is {{convert|8|km|abbr=on}} away from Mianyang Airport. Since its establishment, the zone accumulated 177.4 billion yuan of industrial output, 46.2 billion yuan of gross domestic product, fiscal revenue 6.768 billion yuan. There are more than 136 high-tech enterprises in the zone and they accounted for more than 90% of the total industrial output.
+
+The zone is a leader in the electronic information industry, biological medicine, new materials and production of motor vehicles and parts.<ref>{{cite web |url=http://rightsite.asia/en/industrial-zone/mianyang-hi-tech-industrial-development-zone/ |title=RightSite.asia {{!}} Mianyang Hi-Tech Industrial Development Zone |access-date=21 July 2010 |archive-url=https://web.archive.org/web/20100505065743/http://rightsite.asia/en/industrial-zone/mianyang-hi-tech-industrial-development-zone |archive-date=5 May 2010 |url-status=live }}</ref>
+
+==Transportation==
+[[File:卡萨湖.jpg|thumb|[[China National Highway 318|Sichuan–Tibet Highway]] passes by Lake Kasa in [[Luhuo County]].]]
+
+For millennia, Sichuan's rugged and riverine landscape presented enormous challenges to the development of transportation infrastructure, and the lack of roads out of the Sichuan Basin contributed to the region's isolation. Since the 1950s, numerous highways and railways have been built through the Qinling in the north and the Bashan in the east. Dozens of bridges [[Yangtze River bridges and tunnels|across the Yangtze]] and its tributaries to the south and west have brought greater connectivity with Yunnan and Tibet.
+
+===Airports===
+[[Chengdu Shuangliu International Airport]] is the 4th-busiest airport in mainland China. It was among the world's top 30 busiest airports in 2015, and the busiest in western and central China. It was also the fifth-busiest airport in terms of cargo traffic in China for 2013. Chengdu airport is the hub of [[Sichuan Airlines]], [[Chengdu Airlines]], [[Shenzhen Airlines]], [[Tibet Airlines]], [[China Southern Airlines]], [[China Eastern Airlines]], [[Lucky Air]] and [[Air China]]. Alongside Shangliu Airport, [[Chengdu Tianfu International Airport]] is under construction.
+
+Chengdu airports are also 144-hour transit visa-free airports for foreigners from many countries like Albania, Argentina, Australia, Austria, Belgium, Bosnia and Herzegovina, Brazil, Brunei, Bulgaria, Canada, Chile, Croatia, Cyprus, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Mexico, Republic of Montenegro, the Netherlands, New Zealand, Poland, Portugal, Qatar, Romania, Russia, Serbia, Singapore, Slovakia, Slovenia, South Korea, Spain, Sweden, Switzerland, Ukraine, United Arab Emirates, United Kingdom and United States.
+
+===Expressways===
+On 3 November 2007, the Sichuan Transportation Bureau announced that the [[G93 Chengyu Ring Expressway|Suining-Chongqing Expressway]] was completed after three years of construction. After completion of the Chongqing section of the road, the {{convert|36.64|km|abbr=on}} expressway connected [[G42 Shanghai–Chengdu Expressway|Chengdu-Nanchong Expressway]] and formed the shortest expressway from [[Chengdu]] to [[Chongqing]]. The new expressway is {{convert|50|km|abbr=on}} shorter than the pre-existing road between Chengdu and Chongqing; thus journey time between the two cities was reduced by an hour, now taking two and a half hours. The Sui-Yu Expressway is a four lane overpass with a speed limit of {{convert|80|km/h|abbr=on}}. The total investment was 1.045 billion [[Chinese yuan|yuan]].
+
+===Rail===
+Major railways in Sichuan include the [[Baoji–Chengdu Railway|Baoji–Chengdu]], [[Chengdu–Chongqing Railway|Chengdu–Chongqing]], [[Chengdu–Kunming Railway|Chengdu–Kunming]], [[Neijiang–Kunming Railway|Neijiang–Kunming]], Suining-Chongqing and Chengdu–Dazhou Railways. A high-speed rail line [[Chengdu-Dujiangyan High-Speed Railway|connects Chengdu and Dujiangyan]].
+
+==Demographics==
+[[File:Yi-Minority.JPG|thumb|upright=1.15|right|The Yi are the largest ethnic minority group in Sichuan.]]
+{{Historical Populations
+|title       = Historical population
+|width       = 16em
+|state       = collapsed
+|footnote    = Chongqing was part of Sichuan Province until 1939 and 1954 to 1997.<br>[[Xikang|Xikang Province]] dissolved in 1955 and parts were incorporated into Sichuan Province.
+|1912<ref>{{cite web|script-title=ja:1912年中国人口|url=http://www.ier.hit-u.ac.jp/COE/Japanese/discussionpapers/DP97.9/fhyo2.html|accessdate=6 March 2014|archive-url=https://web.archive.org/web/20150924032922/http://www.ier.hit-u.ac.jp/COE/Japanese/discussionpapers/DP97.9/fhyo2.html|archive-date=24 September 2015|url-status=live}}</ref>  |48,130,000
+|1928<ref>{{cite web|script-title=ja:1928年中国人口|url=http://www.ier.hit-u.ac.jp/COE/Japanese/discussionpapers/DP97.9/fhyo3.htm|accessdate=6 March 2014|archive-url=https://web.archive.org/web/20150924032924/http://www.ier.hit-u.ac.jp/COE/Japanese/discussionpapers/DP97.9/fhyo3.htm|archive-date=24 September 2015|url-status=live}}</ref> |47,992,000
+|1936–37<ref>{{cite web|script-title=ja:1936–37年中国人口|url=http://www.ier.hit-u.ac.jp/COE/Japanese/discussionpapers/DP97.9/fhyo4.htm|accessdate=6 March 2014|archive-url=https://web.archive.org/web/20150924032925/http://www.ier.hit-u.ac.jp/COE/Japanese/discussionpapers/DP97.9/fhyo4.htm|archive-date=24 September 2015|url-status=live}}</ref> |52,706,000
+|1947<ref>{{cite web|script-title=ja:1947年全国人口|url=http://www.ier.hit-u.ac.jp/COE/Japanese/discussionpapers/DP97.9/fhyo5.htm|accessdate=6 March 2014|archive-url=https://web.archive.org/web/20130913053600/http://www.ier.hit-u.ac.jp/COE/Japanese/discussionpapers/DP97.9/fhyo5.htm|archive-date=13 September 2013|url-status=live}}</ref> |47,437,000
+|1954<ref name="census1954">{{cite web|url=http://www.stats.gov.cn/tjgb/rkpcgb/qgrkpcgb/t20020404_16767.htm |script-title=zh:中华人民共和国国家统计局关于第一次全国人口调查登记结果的公报|publisher=[[National Bureau of Statistics of China]]|url-status=dead|archiveurl=https://web.archive.org/web/20090805174810/http://www.stats.gov.cn/TJGB/RKPCGB/qgrkpcgb/t20020404_16767.htm|archivedate=5 August 2009}}</ref> |62,303,999
+|1964<ref name="census1964">{{cite web|url=http://www.stats.gov.cn/tjgb/rkpcgb/qgrkpcgb/t20020404_16768.htm |script-title=zh:第二次全国人口普查结果的几项主要统计数字|publisher=[[National Bureau of Statistics of China]]|url-status=dead|archiveurl=https://web.archive.org/web/20120914173158/http://www.stats.gov.cn/tjgb/rkpcgb/qgrkpcgb/t20020404_16768.htm|archivedate=14 September 2012}}</ref> |67,956,490
+|1982<ref name="census1982">{{cite web|url=http://www.stats.gov.cn/tjgb/rkpcgb/qgrkpcgb/t20020404_16769.htm |script-title=zh:中华人民共和国国家统计局关于一九八二年人口普查主要数字的公报|publisher=[[National Bureau of Statistics of China]]|url-status=dead|archiveurl=https://web.archive.org/web/20120510075429/http://www.stats.gov.cn/tjgb/rkpcgb/qgrkpcgb/t20020404_16769.htm|archivedate=10 May 2012}}</ref> |99,713,310
+|1990<ref name="census1990">{{cite web|url=http://www.stats.gov.cn/tjgb/rkpcgb/qgrkpcgb/t20020404_16772.htm |script-title=zh:中华人民共和国国家统计局关于一九九〇年人口普查主要数据的公报|publisher=[[National Bureau of Statistics of China]]|url-status=dead|archiveurl=https://web.archive.org/web/20120619002216/http://www.stats.gov.cn/tjgb/rkpcgb/qgrkpcgb/t20020404_16772.htm|archivedate=19 June 2012}}</ref> |107,218,173
+|2000<ref name="census2000">{{cite web|url=http://www.stats.gov.cn/tjgb/rkpcgb/qgrkpcgb/t20020331_15435.htm |script-title=zh:现将2000年第五次全国人口普查快速汇总的人口地区分布数据公布如下|publisher=[[National Bureau of Statistics of China]]|url-status=dead|archiveurl=https://web.archive.org/web/20120829052024/http://www.stats.gov.cn/tjgb/rkpcgb/qgrkpcgb/t20020331_15435.htm|archivedate=29 August 2012}}</ref> |82,348,296
+|2010<ref name="census2010">{{cite web|url=http://www.stats.gov.cn/english/newsandcomingevents/t20110429_402722516.htm |title=Communiqué of the National Bureau of Statistics of People's Republic of China on Major Figures of the 2010 Population Census |publisher=[[National Bureau of Statistics of China]] |url-status=dead |archiveurl=https://web.archive.org/web/20130727021210/http://www.stats.gov.cn/english/newsandcomingevents/t20110429_402722516.htm |archivedate=27 July 2013 }}</ref> |80,418,200
+}}
+The majority of the province's population is [[Han Chinese]] (95% of provincial population), who are found scattered throughout the region with the exception of the far western areas. Thus, significant minorities of [[Tibetan people|Tibetan]], [[Yi people|Yi]], [[Qiang people|Qiang]] and [[Nakhi people]] reside in the western portion that are impacted by inclement weather and natural disasters, environmentally fragile, and impoverished. Sichuan's capital of [[Chengdu]] is home to a large community of Tibetans, with 30,000 permanent Tibetan residents and up to 200,000 Tibetan [[floating population]].<ref>{{cite news|url=http://news.xinhuanet.com/english/indepth/2012-03/14/c_131467409_2.htm|title=Tibetans leave home to seek new opportunities|date=2012-03-14|accessdate=2014-01-04|publisher=Xinhua|archive-url=https://web.archive.org/web/20120407225031/http://news.xinhuanet.com/english/indepth/2012-03/14/c_131467409_2.htm|archive-date=7 April 2012|url-status=live}}</ref> The [[Eastern Lipo]], included with either the Yi or the [[Lisu people]], as well as the [[A-Hmao]], also are among the ethnic groups of the provinces.
+
+Sichuan was China's [[List of Chinese administrative divisions by population|most populous province]] before [[Chongqing]] became a directly controlled municipality; it is currently the fourth most populous, after Guangdong, Shandong and Henan. As of 1832, Sichuan was the most populous of the 18 provinces in China, with an estimated population at that time of 21 million.<ref name=Roberts1>{{cite book|last=Roberts|first=Edmund|title=Embassy to the Eastern Courts of Cochin-China, Siam, and Muscat|year=1837|publisher=Harper & Brothers|location=New York|page=123|url=http://www.wdl.org/en/item/7317/view/1/123/|access-date=16 October 2013|archive-url=https://web.archive.org/web/20131016074209/http://www.wdl.org/en/item/7317/view/1/123/|archive-date=16 October 2013|url-status=live}}</ref> It was the third most populous sub-national entity in the world, after [[Uttar Pradesh]], [[India]] and the [[Russian Soviet Federative Socialist Republic]] until 1991, when the [[Soviet Union]] was dissolved. It is also one of the only eight subnational divisions to ever reach 100 million people (Uttar Pradesh, Russian RSFSR, [[Maharashtra]], Sichuan, [[Bihar]], [[Shandong]], [[Guangdong]], and [[Punjab, Pakistan|Punjab]]). It is [[List of country subdivisions by population|currently ranked 10th]].
+
+===Religion===
+{{Pie chart
+|caption = Religion in Sichuan<ref name="Wang2015">China General Social Survey (CGSS) 2009, Chinese Spiritual Life Survey (CSLS) 2007. Report by: [https://baylor-ir.tdl.org/baylor-ir/bitstream/handle/2104/9326/WANG-THESIS-2015.pdf?sequence=1 Xiuhua Wang (2015, p. 15)] {{Webarchive|url=https://web.archive.org/web/20150925123928/https://baylor-ir.tdl.org/baylor-ir/bitstream/handle/2104/9326/WANG-THESIS-2015.pdf?sequence=1 |date=25 September 2015 }}</ref>{{refn|group=note|Some of the data collected by the Chinese General Social Survey (CGSS) of 2009 and by the Chinese Spiritual Life Survey (CSLS) of 2007 have been reported and assembled by Xiuhua Wang (2015)<ref name="Wang2015"/> in order to confront the proportion of people identifying with two similar social structures: ① Christian churches, and ② the traditional Chinese religion of the lineage (i. e. people believing and worshipping ancestral deities often organised into [[Chinese lineage associations|lineage "churches"]] and [[ancestral shrine]]s). Data for other religions with a significant presence in China (deity cults, Buddhism, Taoism, folk religious sects, Islam, et. al.) were not reported by Wang and come from different sources.}}
+|label1 = [[Chinese folk religion|Chinese religion]] (also including [[Confucianism|Confucians]], [[Taoism|Taoists]] and [[Chinese salvationist religions|sects]] other than Yiguandao), or [[irreligion|not religious]] people
+|value1 = 71.31
+|color1 = #C00000
+|label2 = [[Buddhism]]{{refn|group=note|Based on a 2006 survey of the distribution of Buddhist institutions in China,<ref>{{cite web |last1=Ji |first1=Zhe |url=http://www.fjzd.org/news/ShowArticle.asp?ArticleID=2268 |trans-title=Three Decades of Revival: Basic Data on Contemporary Chinese Buddhism |script-title=zh:复兴三十年：当代中国佛教的基本数据 |website=fjzd.org [China Buddhism System Research Center] |language=zh-hans |date=2011 |access-date=18 September 2016 |archive-url=https://web.archive.org/web/20170427135345/http://www.fjzd.org/news/ShowArticle.asp?ArticleID=2268 |archive-date=27 April 2017 |url-status=dead }}</ref> assuming that the percentage of institutions per capita is consistent with the percentage of Buddhists (which has been proved so by data on other regions), the Buddhist religion would account for between 10% and 20% (≈15%) of the population of Sichuan.}}
+|value2 = 15
+|color2 = Yellow
+|label3 = [[Chinese ancestral religion]]
+|value3 = 10.6
+|color3 = DarkSlateBlue
+|label4 = [[Yiguandao]]<ref name=YiguandaoSichuan>''Tokyo Sentaku'' [in Japanese]. 1 June 1999. "Cult Groups Seen Shaking Party Leadership" (FBIS-CHI-1999-0614 1 June 1999/WNC). Cited in: ecoi.net, ''[https://www.ecoi.net/local_link/171890/288221_de.html The Tian Dao (Yi Guan Dao, Yiguandao, Yi Guandao) sect and treatment of believers by the authorities] {{Webarchive|url=https://web.archive.org/web/20161009213708/https://www.ecoi.net/local_link/171890/288221_de.html |date=9 October 2016 }}''. [CHN32887.E] [ID 171890].</ref>
+|value4 = 2.4
+|color4 = Chartreuse
+|label5 = [[Christianity]]
+|value5 = 0.68
+|color5 = DodgerBlue
+|label6 = [[Islam]]{{refn|group=note|As of 2010 there are 11,200 Muslims in Sichuan.<ref name="2010-Islam">Min Junqing. ''The Present Situation and Characteristics of Contemporary Islam in China''. JISMOR, 8. [https://doors.doshisha.ac.jp/duar/repository/ir/18185/r002000080004.pdf 2010 Islam by province, page 29] {{Webarchive|url=https://web.archive.org/web/20170427140204/https://doors.doshisha.ac.jp/duar/repository/ir/18185/r002000080004.pdf |date=27 April 2017 }}. Data from: Yang Zongde, ''Study on Current Muslim Population in China'', Jinan Muslim, 2, 2010.</ref>}}
+|value6 = 0.1
+|color6 = Green
+}}
+The predominant religions in Sichuan are [[Chinese folk religion]]s, [[Taoism|Taoist traditions]] and [[Chinese Buddhism]]. According to surveys conducted in 2007 and 2009, 10.6% of the population believes and is involved in [[Chinese ancestral religion|cults of ancestors]], while 0.68% of the population identifies as Christian.<ref name="Wang2015"/> According to the Japanese publication ''Tokyo Sentaku'' in 1999 there were 2 million members of [[Yiguandao]] (Tiandao) in Sichuan, equal to 2.4% of the province's population.<ref name=YiguandaoSichuan/>
+
+The reports didn't give figures for other types of religion; the vast majority of the population may be either irreligious or involved in [[Chinese folk religion|worship of nature deities]], Buddhism, [[Confucianism]], Taoism, [[Chinese salvationist religions|folk religious sects]], and small minorities of [[Muslim]]s. [[Tibetan Buddhism]] is widespread, especially in areas inhabited by ethnic Tibetans. Sichuan is one of the cradles of the early [[Zhengyi Taoism|Heavenly Masters' Taoist religious movements]].
+<gallery mode="packed" caption="Religious sites in Sichuan">
+File:Huanglong Sichuan China Multicolored-ponds-04.jpg|View of the Temple of the Yellow Dragon (Chinese Buddhism) in [[Huanglong Scenic and Historic Interest Area|Huanglong]].
+File:Litang8.jpg|Statues of buddhas at Litang Monastery of the Tibetan tradition.
+File:Main altar before Shangqing Temple on Qingchengshan, in Chengdu, Sichuan.jpg|A pavilion of the Shangqing Temple (Taoist) in Qingchengshan, [[Chengdu]].
+File:China - Mount Emei - EmeiShan - Sichuan 11.jpg|Golden Temple of [[Mount Emei]] (Chinese Buddhism).
+</gallery>
+{{clear}}
+
+==Culture==
+{{main|Bashu culture}}
+{{see|Sichuanese people}}
+[[File:Farmhouse in Chengdu Plain.jpg|thumb|upright=0.8|Typical vernacular house in Sichuan]]
+The ''Sichuanese people'' ([[Sichuanese Mandarin|Sichuanese]]: {{lang|zh|巴蜀人}} Ba<sup>1</sup>su<sup>2</sup>ren<sup>2</sup>; [[International Phonetic Alphabet|IPA]]: {{IPA|[pa˥su˨˩zən˨˩]}}; alternatively {{lang|zh|川人}}, {{lang|zh|川渝人}}, {{lang|zh|四川人}} or {{lang|zh|巴蜀民系}}) are a subgroup of Han Chinese living in mostly Sichuan province and the neighboring [[Chongqing]] municipality. Beginning from the 9th century BC, [[Shu (state)|Shu]] (on the [[Chengdu Plain]]) and [[Ba (state)|Ba]] (which had its first capital at [[Enshi City]] in [[Hubei]] and controlled part of the [[Han River (Shaanxi and Hubei)|Han Valley]]) emerged as cultural and administrative centers where two rival kingdoms were established. Although eventually the [[Qin dynasty]] destroyed the kingdoms of Shu and Ba, the Qin government accelerated the technological and agricultural advancements of Sichuan making it comparable to that of the [[Yellow River]] Valley. The now-extinct [[Ba-Shu Chinese|Ba-Shu language]] was derived from Qin-era settlers and represents the earliest documented division from what is now called [[Middle Chinese]].
+
+During the [[Yuan dynasty|Yuan]] and [[Ming dynasty|Ming]] dynasties, the population of the area was reduced through wars and the [[bubonic plague]] and settlers arrived from the area of modern Hubei, replacing the earlier common Chinese with a new standard.
+
+The [[Li Bai]] Memorial, located in [[Jiangyou]], is a museum in memory of Li Bai, a Chinese poet of [[Tang dynasty|Tang China]] (618–907) built at the place where he grew up. Building was begun in 1962 on the occasion of 1200th anniversary of his death, completed in 1981 and opened to the public in October 1982. The memorial is built in the style of the classic Tang garden.
+
+In 2003, Sichuan had "88 art performing troupes, 185 culture centers, 133 libraries and 52 museums". Companies based in Sichuan also produced 23 television series and one film.<ref>{{cite news|url=http://www.newsgd.com/specials/panprdforum/deltadetails/200405260039.htm|title=Sichuan: Education and Culture|date=2004-05-26|accessdate=2014-01-04|publisher=newsgd.com|editor=Catherine|archive-url=https://web.archive.org/web/20150514051220/http://www.newsgd.com/specials/panprdforum/deltadetails/200405260039.htm|archive-date=14 May 2015|url-status=live}}</ref>
+
+===Languages===
+{{Main|Sichuanese Mandarin|Ba-Shu Chinese}}
+[[File:Sichuanese in China.png|thumb|upright=0.8|right|Extent of present-day Sichuanese language]]
+The Sichuanese once spoke their own variety of Spoken Chinese called Ba-Shu Chinese, or Old Sichuanese, before it became extinct during the Ming dynasty. Now most of them speak Sichuanese Mandarin. The Minjiang dialects are thought by some linguists{{who|date=March 2019}} to be a bona fide descendant of Old Sichuanese, but there is no conclusive evidence whether Minjiang dialects are derived from Old Sichuanese or Southwestern Mandarin.{{citation needed|date=March 2019}}
+
+The languages of Sichuan are primarily members of three subfamilies of the [[Sino-Tibetan languages]].
+
+The most widely used variety of Chinese spoken in Sichuan is [[Sichuanese Mandarin]], which is the [[lingua franca]] in Sichuan, [[Chongqing]] and parts of [[Tibet Autonomous Region]]. Although Sichuanese is generally classified as a dialect of [[Mandarin Chinese]], it is highly divergent in phonology, vocabulary, and even grammar from [[Standard Chinese]].<ref name="《四川方言与巴蜀文化》">{{cite book |language=zh-hans |last1=Cui |first1=Rongchang (崔荣昌) |script-title=zh:《四川方言与巴蜀文化》 |year=1996 |publisher=[[Sichuan University]] Press |script-chapter=zh:第三章：四川的官话 |isbn=7-5614-1296-7}}</ref> The [[Minjiang dialect]] is especially difficult for speakers of other Mandarin dialects to understand.<ref>{{cite book |language=zh-hans |last1=Li |first1=Bin (李彬) |last2=Tu |first2=Minghua (涂鸣华) |script-title=zh:《百年中国新闻人（上册）》 |year=2007 |publisher=Fujian People's Press |page =563 |isbn=978-7-211-05482-4 }}</ref><ref>{{cite news |language=zh-hans |script-title=zh:四川交通："窗口"飞来普通话 |last1=Wu |first1=Dan (吴丹) |last2=Liang |first2=Xiaoming (梁晓明) |script-work=zh:中国交通报 |date=23 November 2005}}</ref><ref>{{cite news |language=zh-hans |script-title=zh:大学生村官恶补四川方言 现在能用流利四川话和村民交流 |last1=Zhang |first1=Guosheng (张国盛) |last2=Yu |first2=Yong (余勇) |newspaper=[[:zh:北京晨报|Morning Post]] |date=1 June 2009}}</ref><ref>{{cite news |language=zh-hans |script-title=zh:走进大山的志愿者 |script-work=zh:四川青年报 |trans-work=Sichuan Youth Paper |date=18 July 2009}}</ref>
+
+[[Garzê Tibetan Autonomous Prefecture]] and [[Ngawa Tibetan and Qiang Autonomous Prefecture]] in western Sichuan are populated by [[Tibetan people|Tibetans]] and [[Qiang people]]. Tibetans speak the [[Khams Tibetan|Khams]] and [[Amdo Tibetan]], which are [[Tibetic languages]], as well as various [[Qiangic languages]]. The Qiang speak Qiangic languages and often Tibetic languages as well. The [[Yi people]] of [[Liangshan Yi Autonomous Prefecture]] in southern Sichuan speak the [[Nuosu language]], which is one of the [[Lolo-Burmese languages]]; Yi is written using the [[Yi script]], a [[syllabary]] standardized in 1974. The [[Southwest University for Nationalities]] has one of China's most prominent [[Tibetology]] departments, and the Southwest Minorities Publishing House prints literature in minority languages.<ref>{{cite web|url=http://www.tibetinfonet.net/content/update/143#fn2|title=The Wuhou District (武侯区), a Tibetan enclave in Chengdu|date=2009-03-24|accessdate=2013-01-04|issn=1864-1407|publisher=TibetInfoNet|archive-url=https://web.archive.org/web/20140105045511/http://www.tibetinfonet.net/content/update/143#fn2|archive-date=5 January 2014|url-status=live}}</ref> In the minority-inhabited regions of Sichuan, there is bilingual signage and public school instruction in non-Mandarin minority languages.
+
+===Cuisine===
+{{main|Sichuan cuisine}}
+Sichuan is well known for its spicy cuisine and use of [[Sichuan pepper]]s due to its more humid climate.
+The Sichuanese are proud of their cuisine, known as one of the Four Great Traditions of [[Chinese cuisine]]. The cuisine here is of "one dish, one shape, hundreds of dishes, hundreds of tastes", as the saying goes, to describe its acclaimed diversity. The most prominent traits of Sichuanese cuisine are described by four words: spicy, hot, fresh and fragrant.<ref>[http://www.5hpk.com/WebUI/InfoDir/pTopicTagSearch.html?SiteId=Whpk&DirId=ys&MainClassId=ys&tag=%u5DDD%u83DC Sichuanese Cuisine] {{Webarchive|url=https://web.archive.org/web/20080720061416/http://www.5hpk.com/WebUI/InfoDir/pTopicTagSearch.html?SiteId=Whpk&DirId=ys&MainClassId=ys&tag=%u5DDD%u83DC |date=20 July 2008 }} {{in lang|zh}} – Pictures, descriptions, history, and examples of Sichuan cuisine.</ref> Sichuan cuisine is popular in the whole nation of China, so are Sichuan chefs. Two well-known Sichuan chefs are [[Chen Kenmin]] and his son [[Chen Kenichi]], who was Iron Chef Chinese on the Japanese television series "[[Iron Chef]]".
+
+Another famous Sichuan cuisine is hotpot. Hot pot is a Chinese soup containing a variety of East Asian foodstuffs and ingredients, prepared with a simmering pot of soup stock at the dining table. While the hot pot is kept simmering, ingredients are placed into the pot and are cooked at the table. Typical hot pot dishes include thinly sliced meat, leaf vegetables, mushrooms, wontons, egg dumplings, tofu, and seafood. The cooked food is usually eaten with a dipping sauce.
+
+<gallery widths="140px" heights="140px" perrow="4" mode="packed">
+File:Kung-pao-shanghai.jpg|[[Kung Pao chicken]], one of the best known dishes of Sichuan cuisine
+File:Mabodoufu with rice.jpg|[[Mapo doufu]]
+File:Stinky tofu with goose blood.JPG|[[Hot pot]] in Mala style
+File:Dan-dan noodles, Shanghai.jpg|[[Dandan noodles]]
+File:Mixed sauce noodles.JPG|Mixed sauce noodles ({{lang|zh-hans|杂酱面}})
+</gallery>
+
+==Education==
+[[File:SichuanEdDepartment.jpg|thumb|Sichuan Education Department]]
+
+===Colleges and universities===
+
+{{see also|List of universities and colleges in Sichuan}}
+
+*[[Sichuan University]] (Chengdu)
+*[[Southwest Jiaotong University]] (Chengdu)
+*[[Southwest University for Nationalities]] (Chengdu)
+*[[Southwestern University of Finance and Economics]] (Chengdu)
+*[[University of Electronic Science and Technology of China]] (Chengdu)
+*[[Southwest Petroleum University]] ([[Nanchong]] and [[Chengdu]])
+*[[Chengdu University of Information Technology]]
+*[[Chengdu University of Technology]]
+*[[Chengdu University of Traditional Chinese Medicine]]
+*[[Sichuan Agricultural University]] ([[Ya'an]], Chengdu, [[Dujiangyan]])
+*[[China West Normal University]]  ([[Nanchong]])
+*[[Sichuan Normal University]]  (Chengdu)
+*[[Southwest University of Science and Technology]] ([[Mianyang]])
+*[[Sichuan Police College]] ([[Luzhou]])
+*[[North Sichuan Medical College]] (Nanchong)
+*[[Sichuan University of Science and Engineering]]  ([[Zigong]] and [[Yibin]])
+*[[Chengdu University]]
+*[[Xihua University]] (Chengdu)
+*[[Panzhihua University]]([[Panzhihua]])
+*Xichang University([[Xichang]])
+*Aba Teachers University ([[Ngawa Tibetan and Qiang Autonomous Prefecture]])
+*[[Civil Aviation Flight University of China]] ([[Guanghan]])
+
+==Tourism==
+<gallery mode="packed" heights="150">
+File:Beauty of Jiuzhaigou National Park - Apr 2017.png|[[Jiuzhaigou]]
+File:Yading - panoramio (1).jpg|[[Yading]]
+File:1 huanglong pools aerial 2011.jpg|[[Huanglong Scenic and Historic Interest Area]]
+File:QinChengHouShan WuLongGou.jpg|Waterfalls at [[Mount Qincheng]] 
+</gallery>
+[[UNESCO]] [[World Heritage Site]]s in Sichuan province and Chongqing municipality include:
+* [[Dazu Rock Carvings]] and [[Wulong Karst]] ([[Chongqing]] [[municipality]])
+* [[Huanglong Scenic and Historic Interest Area]]
+* [[Jiuzhaigou Valley]] Scenic and Historic Interest Area
+* [[Mount Emei]] Scenic Area, including [[Leshan Giant Buddha]] Scenic Area
+* [[Mount Qincheng]] and the [[Dujiangyan Irrigation System]]
+* [[Sichuan Giant Panda Sanctuaries]]
+
+As of July 2013, the world's largest building the [[New Century Global Center]] is located in the city of Chendgu. At {{convert|328|ft|m}} high, {{convert|1,640|ft|m}} long, and {{convert|1,312|ft|m}} wide, the Center houses retail outlets, a 14-theater cinema, offices, hotels, the Paradise Island waterpark, an artificial beach, a {{convert|164|yd|m}}-long [[Light-emitting diode|LED]] screen, skating rink, pirate ship, fake Mediterranean village, 24-hour artificial sun, and 15,000-spot parking area.<ref>{{cite web|title=The world's new largest building is four times the size of Vatican City|url=http://qz.com/100639/china-chengdu-world-new-largest-building-is-four-times-the-size-of-vatican-city/|work=Quartz|publisher=Quartz|accessdate=4 July 2013|author=Roberto A. Ferdman|date=3 July 2013|archive-url=https://web.archive.org/web/20130704121911/http://qz.com/100639/china-chengdu-world-new-largest-building-is-four-times-the-size-of-vatican-city/|archive-date=4 July 2013|url-status=live}}</ref>
+
+==Notable individuals==
+*[[Bao Sanniang]] ({{lang|zh-Hant|鮑三娘}}), a possibly fictional woman warrior of the [[Three Kingdoms]] period.
+*[[Li Bai]] (701–762), poet of the Tang dynasty
+* [[Guifeng Zongmi]] ({{lang|zh|圭峰宗密}}; 780–841), Tang dynasty Buddhist scholar-monk, fifth patriarch of the Huayan ({{lang|zh-hant|華嚴}}) school as well as a patriarch of the Heze lineage of Southern Chan
+* [[Ouyang Xiu]] (1007–22 September 1072), Confucian historian, essayist, calligrapher, poet, and official bureaucrat of the Song dynasty
+* [[Su Xun]] ({{lang|zh-hant|蘇洵}}), poet and prose-writer of the Song dynasty
+* [[Su Shi]] (8 January 1037&nbsp;– 24 August 1101), Confucian bureaucrat official, poet, artist, calligrapher, pharmacologist, gastronome, and official bureaucrat of the Song dynasty
+* [[Su Zhe]] (1039–1112), poet and essayist, Confucian bureaucratic official of the Song dynasty
+* [[Ba Jin]] (25 November 1904&nbsp;– 17 October 2005), novelist and writer
+* [[Deng Xiaoping]], Chinese Paramount Leader during the 1980s, his [[Deng Xiaoping's Former Residence|former residence]] is now a museum.
+* [[Chen Kenmin]] (27 June 1912&nbsp;– 12 May 1990), chef who specialized in [[Szechwan cuisine]]. Father of well-known [[Iron Chef]], [[Chen Kenichi]].
+* [[Li Ching-Yuen]] ({{lang|zh-hant|李清雲}}; died 6 May 1933), [[Herbalism|herbalist]], [[Martial arts|martial artist]] and tactical advisor, also known for extreme [[longevity claim]]s
+* [[Che Yongli]] (28 January 1980), actress
+* [[SM Rookies#Past members|Xu Yiyang]] (12 August 1997), singer<ref>{{cite web | url=https://www.soompi.com/article/898975wpp/smrookies-introduces-2-new-female-trainees | title=SMROOKIES Introduces 2 New Female Trainees | access-date=14 March 2019 | archive-url=https://web.archive.org/web/20181112223341/https://www.soompi.com/article/898975wpp/smrookies-introduces-2-new-female-trainees | archive-date=12 November 2018 | url-status=live }}</ref>
+* [[Chen Shou]], official and writer
+* [[Huang Jiguang]], highly decorated soldier during the Korean War
+* [[Zhao Yiman]], resistance fighter
+* [[Liu Yonghao]], businessman
+* [[GAI (musician)|GAI]], rapper, singer, and songwriter
+* [[Zhang Yong (restaurateur)]], Singapore's richest man in 2019
+* [[Wang Jianlin]], business magnate, investor, and philanthropist
+* [[Jiang Zhuyun]], revolutionary martyr
+* [[Zhang Daqian]], artists
+* [[Wang Xiaoya]], television host and media personality
+* [[Li Yifeng]], actor and singer
+* [[Li Yuchun]], singer, songwriter, and actress
+* [[Tan Weiwei]], singer and actress
+* [[Tang Chun-i]], philosopher and scholar
+* [[Luo Ruiqing]], army officer and politician
+* [[Zhuo Wenjun]], poet
+* [[Yang Xiong (author)|Yang Xiong]], poet, philosopher, and politician
+* [[Zheng Ji (biochemist)|Zheng Ji]], nutritionist and pioneering biochemist
+* [[Zhu De]], general, warlord, politician, and revolutionary
+* [[Zhang Lan]], political activist
+* [[Zou Rong]], revolutionary martyr
+* [[Guo Moruo]], author, poet, historian, archaeologist, and government official 
+* [[Zhang Qun]], premier of the Republic of China
+* [[Bai Ling]], actress
+* [[Xu Youyu]], scholar
+* [[Cheung Chung-kiu]], business magnate
+* [[Song Yonghua]], scholar
+* [[Sanyu (painter)]]
+* [[Zhang Aiping]], from Tongchuan District, Dazhou City, Vice Premier, State Councilor and Minister of Defense
+
+==Sports==
+Professional sports teams in Sichuan include:
+* [[Chinese Basketball Association]]
+** [[Sichuan Blue Whales]]
+* [[China League Two]]
+** [[Sichuan Jiuniu F.C.]]
+* [[Chinese Volleyball League]]
+** [[Sichuan Volleyball Team]]
+* [[China Table Tennis Super League]]
+** [[Sichuan Quan-Xing Table-Tennis Team]]
+
+==Sister states and regions==
+*{{flagdeco|US}} [[Washington (state)|Washington]], United States (1982)
+*{{flagdeco|US}} [[Michigan]], United States (1982)
+*{{flagdeco|Japan}} [[Hiroshima Prefecture]], Japan (1984)
+*{{flagdeco|Japan}} [[Yamanashi Prefecture]], Japan (1985)
+*{{flagdeco|North Korea}} [[South P'yŏngan]], North Korea (1985)
+*{{flagdeco|France}} [[Midi-Pyrénées]], France (1987)
+*{{flagdeco|Germany}} [[North Rhine-Westphalia]], Germany (1988)
+*{{flagdeco|UK}} [[Leicestershire]], United Kingdom (1988)
+*{{flagdeco|Italy}} [[Piedmont]], Italy (1990)
+*{{flagdeco|Brazil}} [[Pernambuco]], Brazil (1992)
+*{{flagdeco|Hungary}} [[Tolna (county)|Tolna County]], Hungary (1993)
+*{{flagdeco|Spain}} [[Valencian Community]], Spain (1994)
+*{{flagdeco|Belgium}} [[Brussels-Capital Region]], Belgium (1995)
+*{{flagdeco|Venezuela}} [[Barinas State]], Venezuela (2001)
+*{{flagdeco|Netherlands}} [[Friesland]], Netherlands (2001)
+*{{flagdeco|Kazakhstan}} [[Almaty Province]], Kazakhstan (2001)
+*{{flagdeco|RSA}} [[Mpumalanga]], South Africa (2002)
+*{{flagdeco|Thailand}} [[Suphan Buri]], Thailand (2010)
+*{{flagdeco|Australia}} [[Victoria (Australia)|Victoria]], Australia (2015)
+
+== See also ==
+* [[Sichuan dialect]]
+* [[Sichuan cuisine]]
+* [[Bashu culture]]
+* [[Sichuan Airlines]]
+* [[Sichuan Giant Panda Sanctuaries]]
+* [[2008 Sichuan earthquake]]
+* [[Christianity in Sichuan]]
+* [[Eight Immortals from Sichuan]]
+* [[List of prisons in Sichuan]]
+* [[Major national historical and cultural sites (Sichuan)|Major national historical and cultural sites in Sichuan]]
+* [[Qutang Gorge]]
+* ''[[The Good Person of Szechwan|The Good Person of Sezuan]]''
+
+== Notes ==
+{{NoteFoot}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+{{Commons+cat|Sichuan}}
+{{Wikivoyage|Sichuan}}
+*{{Official website|http://www.sc.gov.cn/10462/wza2012/english/english.shtml}}
+*[http://info.hktdc.com/mktprof/china/sichuan.htm Economic profile for Sichuan] at [[Hong Kong Trade Development Council|HKTDC]]
+*{{OSM relation|913068}}
+
+{{-}}
+{{Geographic location
+|Centre    = Sichuan
+|North     = [[Gansu]]
+|Northeast = [[Shaanxi]]
+|East      = [[Chongqing]]
+|Southeast = [[Guizhou]]
+|South     = [[Yunnan]]
+|Southwest =
+|West      = [[Tibet Autonomous Region|Tibet]]
+|Northwest = [[Qinghai]]
+}}
+
+{{Sichuan topics}}
+{{Sichuan}}
+{{Province-level divisions of the People's Republic of China}}
+{{Provincial capitals of China}}
+
+{{Authority control}}
+
+[[Category:Sichuan| ]]
+[[Category:Provinces of the People's Republic of China]]
+[[Category:Western China]]

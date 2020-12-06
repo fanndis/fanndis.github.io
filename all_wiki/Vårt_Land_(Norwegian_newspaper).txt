@@ -1,0 +1,123 @@
+{{Italic title}}
+'''''Vårt Land''''' (which literally means "Our Country" in [[Norwegian language|Norwegian]]) is a daily newspaper published in [[Oslo]].  It has a nationwide target audience.  Its average daily circulation in 2007 was 27,146,<ref name="tcr">{{cite web|author=Helge Simonnes|date=16 February 2009|title=Vårt Land faller med 800|publisher=www.journalisten.no (norwegian)|accessdate=4 March 2009|url=http://www.journalisten.no/story/56740}}</ref> making it [[Norway]]'s 23rd largest newspaper.
+
+==History and profile==
+The founding meeting for ''Vårt Land'' was summoned on 28 September 1944, but the first edition was not published until 31 August 1945, with Bjarne Høye as the general editor and John Nome responsible for "spiritual and church-related matters."  The newspaper was initially published as a section in ''[[Morgenbladet]]'', was subsequently issued as a standalone broadsheet paper, and in 1968 went to a tabloid format. It is owned by Mentor Medier (former [[Mediehuset Vårt Land]]), which also owns several related media properties. ''Vårt Land'' includes editorial material written in both [[Bokmål]] and [[Nynorsk]]. The offices of the newspaper have moved many times. In 1983 the newspaper moved its offices to Tveita in Oslo and it was one of the first Norwegian newspapers to use digital technology daily. It is now based in downtown Oslo.
+
+The acting chief editor is Alf Gjøsund. ''Vårt Land'' has been published on the internet since 1996. Today, ''Vårt Land'' is not only a newspaper, but a part of a media house called Mentor Medier (former Mediehuset Vårt Land).
+
+''Vårt Land'' is an opinion paper.<ref name=sigurd/> It has a moderate [[Christianity|Christian]] stance in religious matters and a [[social-liberal]] leaning in political matters.<ref name=sigurd>{{cite journal|author=Sigurd Allern|title=Journalistic and Commercial News Values. News Organizations as Patrons of an Institution and Market Actors|journal=Nordicom Review|date=2002|volume=2|issue=2|url=https://www.researchgate.net/publication/242189101_Journalistic_and_Commercial_News_Values_News_Organizations_as_Patrons_of_an_Institution_and_Market_Actors/links/02e7e52a041ab22c4a000000.pdf|accessdate=30 December 2014}}</ref>
+
+==Circulation==
+{{image frame
+| content = 
+<timeline>
+ImageSize  = width:auto height:300 barincrement:12
+PlotArea   = left:50 bottom:15 top:10 right:20
+AlignBars  = late
+DateFormat = yyyy
+Period     = from:0 till:31000
+TimeAxis   = orientation:vertical
+ScaleMajor = unit:year increment:3100 start:0
+
+PlotData=
+  color:yelloworange width:7
+  bar:80 from:start till:24204
+  bar:81 from:start till:24391
+  bar:82 from:start till:25554
+  bar:83 from:start till:26130
+  bar:84 from:start till:24986
+  bar:85 from:start till:26132
+  bar:86 from:start till:27957
+  bar:87 from:start till:28011
+  bar:88 from:start till:27370
+  bar:89 from:start till:27455
+  bar:90 from:start till:27014
+  bar:91 from:start till:27050
+  bar:92 from:start till:27232
+  bar:93 from:start till:29095
+  bar:94 from:start till:30219
+  bar:95 from:start till:30056
+  bar:96 from:start till:30005
+  bar:97 from:start till:30292
+  bar:98 from:start till:30085
+  bar:99 from:start till:29373
+  bar:00 from:start till:29578
+  bar:01 from:start till:29131
+  bar:02 from:start till:27770
+  bar:03 from:start till:26782
+  bar:04 from:start till:27880
+  bar:05 from:start till:29158
+  bar:06 from:start till:27422
+  bar:07 from:start till:27146
+  bar:08 from:start till:26344
+  bar:09 from:start till:25557
+  bar:10 from:start till:24781
+  bar:11 from:start till:24448
+  bar:12 from:start till:24471
+  bar:13 from:start till:23682
+  bar:14 from:start till:22630
+  bar:15 from:start till:22886
+  bar:16 from:start till:22864
+  bar:17 from:start till:21503
+</timeline><!--Dette er slutten på #tag-->
+|width=| caption = Circulation for ''Vårt Land'' 1980 - 2009.
+}}
+Circulation grew through the years and peaked at about 30,000 in the beginning of the 1950s.  It sank to 18,500 in 1972.  It has grown modestly since then, but has recently seen some decrease. The newspaper is determined to invest in future growth.
+
+Numbers from the Norwegian Media Businesses' Association, [[Mediebedriftenes Landsforening]].
+{{div col|colwidth=16em}}
+* 1980: 24204
+* 1981: 24391
+* 1982: 25554
+* 1983: 26130
+* 1984: 24986
+* 1985: 26132
+* 1986: 27957
+* 1987: 28011
+* 1988: 27370
+* 1989: 27455
+* 1990: 27014
+* 1991: 27050
+* 1992: 27232
+* 1993: 29095
+* 1994: 30219
+* 1995: 30056
+* 1996: 30005
+* 1997: 30292
+* 1998: 30085
+* 1999: 29373
+* 2000: 29578
+* 2001: 29131
+* 2002: 27770
+* 2003: 26782
+* 2004: 27880
+* 2005: 29158
+* 2006: 27422
+* 2007: 27146
+* 2008: 26344
+* 2009: 25557
+* 2010: 24781
+* 2011: 24448
+* 2012: 24471
+* 2013: 23682
+* 2014: 22630
+* 2015: 22886
+* 2016: 22864
+* 2017: 21503
+
+{{div col end}}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.vartland.no/ ''Vårt Land'' website]
+
+{{DEFAULTSORT:Vaart Land}}
+[[Category:Newspapers published in Oslo]]
+[[Category:Christian media]]
+[[Category:Christian newspapers published in Norway]]
+[[Category:Publications established in 1945]]
+[[Category:1945 establishments in Norway]]
+[[Category:Daily newspapers published in Norway]]

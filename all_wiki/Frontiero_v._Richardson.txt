@@ -1,0 +1,67 @@
+__NOTOC__
+{{Infobox SCOTUS case
+  |Litigants=Frontiero v. Richardson
+  |ArgueDate=January 17
+  |ArgueYear=1973
+  |DecideDate=May 14
+  |DecideYear=1973
+  |FullName=Sharron A. Frontiero and Joseph Frontiero v. Elliot L. Richardson, Secretary of Defense, et al.
+  |USVol=411
+  |USPage=677
+  |ParallelCitations=93 S. Ct. 1764; 36 [[L. Ed. 2d]] 583; 1973 [[U.S. LEXIS]] 153; 9 Fair Empl. Prac. Cas. ([[Bloomberg BNA|BNA]]) 1253; 5 Empl. Prac. Dec. ([[CCH (company)|CCH]]) ¶ 8609
+  |Prior=''Frontiero v. Laird'', 341 [[F. Supp.]] 201 ([[M.D. Ala.]]), ''probable jurisdiction noted'', {{ussc|409|840|1972|el=no}}
+  |Subsequent=None
+  |Holding=Any statutory scheme which draws a sharp line between the sexes solely for the purpose of achieving administrative convenience necessarily commands dissimilar treatment for men and women who are similarly situated and therefore involves the very kind of arbitrary legislative choice forbidden by the Constitution.
+  |Plurality=Brennan
+  |JoinPlurality=Douglas, White, Marshall
+  |Concurrence=Stewart
+  |Concurrence2=Powell
+  |JoinConcurrence2=Burger, Blackmun
+  |Dissent=Rehnquist
+  |LawsApplied=[[Fourteenth Amendment to the United States Constitution|U.S. Const. amend. XIV]]; 37 [[United States Code|U.S.C.]] §§ 401, 403; 10 U.S.C. §§ 1072, 1076
+}}
+'''''Frontiero v. Richardson''''', 411 U.S. 677 (1973), was a [[List of landmark court decisions in the United States|landmark]] [[United States Supreme Court]] case<ref>Technically, the case was decided under the [[Fifth Amendment to the United States Constitution|Fifth Amendment]]'s [[Due Process Clause]], not under the Equal Protection Clause of the [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]], since the latter applies not to the federal government but to the states. However, because ''[[Bolling v. Sharpe]]'', through the doctrine of reverse [[Incorporation (Bill of Rights)|incorporation]], made the standards of the Equal Protection Clause applicable to the federal government, it was for practical purposes an addition not to due process, but rather to equal protection jurisprudence.</ref> which decided that benefits given by the [[United States armed forces|United States military]] to the family of service members cannot be given out differently because of sex.  Frontiero is an important decision in several respects, including the fact that it informed the military establishment that in terms of pay, allowances and general treatment, women must be considered on an equal plane as men.  However, the Court did not issue a broad decision requiring the military to prove in the courts its reasons for excluding women from combat positions.<ref>Joshua E. Kastenberg, Shaping U.S. Military Law: Governing a Constitutional Military. (London: Ashgate Press, 2014), 151-2</ref>
+
+==Background==
+Sharron Frontiero, a [[lieutenant]] in the [[United States Air Force]], applied for housing and medical benefits for her husband, Joseph, whom she claimed as a "dependent." While servicemen could claim their wives as dependents and get benefits for them automatically, servicewomen had to prove that their husbands were dependent on them for more than half their support. Joseph did not qualify under this rule, and therefore could not get benefits. Sharron sued, and the case was appealed up to the Supreme Court. Lt. Frontiero was represented by Joseph J. Levin, Jr., of the [[Southern Poverty Law Center]], who argued the case before the Court on her behalf.  Future Justice [[Ruth Bader Ginsburg]], representing the [[American Civil Liberties Union|ACLU]] as ''[[amicus curiae]]'', was also permitted by the Court to argue in favor of Frontiero. It was her first time giving an oral argument in front of the court. At the time Ginsburg was only a legal advocate on behalf of women's rights. While prepping for the 1972 appeal in the case, the SPLC faction had reached out to Ginsburg for aid, with recognition to her partial victory in the Reed v. Reed case of only a year prior, 1971. Ginsburg argued for the "strict scrutiny" classification to be upheld when looking at any case that was involved in gender discrimination. Her appearance before the court lasted in a 10 minute argument. Nearing the end, she said, “Asking the Court to declare sex a suspect criterion, amicus urges a position forcibly stated in 1837 by Sarah Grimké, noted abolitionist and advocate of equal rights for men and women,” Ginsburg stated. “She spoke not elegantly, but with unmistakable clarity. She said, ‘I ask no favor for my sex. All I ask of our brethren is that they take their feet off our necks.’” 
+
+==Opinion of the Court==
+A plurality of the Court ([[Associate Justice of the Supreme Court of the United States|Justices]] [[William O. Douglas|Douglas]], [[Byron White|White]], [[Thurgood Marshall|Marshall]] and [[William J. Brennan|Brennan]], who wrote the plurality's opinion) found the military's benefit policy unconstitutional, because there was no reason why military wives needed benefits any more than similarly situated military husbands. The Air Force argued that the policy was intended to save administrative costs by not forcing the military [[bureaucracy]] to determine that every wife was in fact a dependent. Justice Brennan dismissed this argument, saying that, although as an empirical matter more wives than husbands are dependent for support on their spouses, still, by automatically granting benefits to wives who might not truly be dependents, the Air Force might actually be ''losing'' money because of this policy&mdash;and the Air Force had not presented evidence to the contrary.
+
+More importantly, the plurality argued for a strict standard of judicial scrutiny for those laws and regulations that classified on the basis of sex, instead of mere [[rational basis review]]. (See the appropriate [[Equal Protection Clause#Carolene Products and the various levels of Equal Protection scrutiny|section]] of the Equal Protection Clause article for more information on the different levels of Equal Protection scrutiny.) A heightened standard of review, the plurality argued, was needed due to America's "long and unfortunate history of sex discrimination":
+<blockquote>[T]he sex characteristic frequently bears no relation to ability to perform or contribute to society. As a result, statutory distinctions between the sexes often have the effect of invidiously relegating the entire class of females to inferior legal status without regard to the actual capabilities of its individual members. [Citations omitted.]</blockquote>
+
+The plurality's application of "[[strict scrutiny]]" was not adopted in subsequent cases for evaluating gender discrimination claims; instead, so-called "[[intermediate scrutiny]]" was adopted in ''[[Craig v. Boren]]'' (1976).
+
+===Concurring and dissenting opinions===
+Justices [[Harry A. Blackmun|Blackmun]] and [[Lewis Franklin Powell Jr.|Powell]], and [[Chief Justice of the United States|Chief Justice]] [[Warren E. Burger|Burger]] concurred in the result, but, in an opinion written by Justice Powell, declined to decide whether discrimination on the basis of sex should attract strict scrutiny.  Justice Powell gave two reasons for leaving this question open.  First, that determination was not necessary to decide the case at bar, as the result was "abundantly" supported by the Court's earlier decision in ''[[Reed v. Reed]].'' Second, Justice Powell wrote that "deferring" on this question was supported by the ongoing debate about over the [[Equal Rights Amendment]] which, if adopted, would resolve the question precisely and "represent the will of the people accomplished in the manner prescribed by the Constitution."  Justice [[Potter Stewart|Stewart]] also concurred in the result, but said nothing about the Equal Rights Amendment; instead, he stated only that he agreed that the statutes in question "work an invidious discrimination in violation of the Constitution." Justice [[William Rehnquist|Rehnquist]] dissented. Thus, Frontiero won her case by an 8 to 1 vote.
+
+==See also==
+*[[List of United States Supreme Court cases, volume 411]]
+
+==Notes==
+{{Reflist}}
+
+==Further reading==
+*{{cite journal |last=Basic |first=Christine |year=2004 |title=Strict Scrutiny and the Sexual Revolution: ''Frontiero v. Richardson'' |journal=Journal of Contemporary Legal Issues |volume=14 |pages=117 |issn=0896-5595 }}
+*{{cite journal |last=McKenny |first=Betsy B. |year=1974 |title=''Frontiero v. Richardson'': Characterization of Sex-Based Classifications |journal=Columbia Human Rights Law Review |volume=6 |pages=239 |issn=0090-7944 }}
+
+==External links==
+*{{caselaw source
+ | case=''Frontiero v. Richardson'', {{ussc|411|677|1973|el=no}}
+ | justia=https://supreme.justia.com/cases/federal/us/411/677/
+ | cornell=https://www.law.cornell.edu/supct-cgi/get-us-cite?411+677
+ | courtlistener =https://www.courtlistener.com/opinion/108781/frontiero-v-richardson/
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep411/usrep411677/usrep411677.pdf
+ | oyez =https://www.oyez.org/cases/1972/71-1694 
+}}
+
+{{US14thAmendment}}
+
+[[Category:United States equal protection case law]]
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Burger Court]]
+[[Category:1973 in United States case law]]
+[[Category:American Civil Liberties Union litigation]]
+[[Category:Women in the United States military]]
+[[Category:Ruth Bader Ginsburg]]

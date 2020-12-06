@@ -1,0 +1,63 @@
+{{short description|Wikimedia list article}}
+{{Merge to|List of British monarchs|discuss=Talk:List of British monarchs#Proposed merge of List of British monarchs by longevity into List of British monarchs|date=October 2020}}
+{{unreferenced|date=October 2019}}
+
+This is a '''list of British monarchs by longevity''' since the [[Union of the Crowns]] of [[England]], [[Scotland]] and [[Ireland]] in 1603. To maintain consistency within the table, the dates of birth and death for each monarch are given in [[Old Style and New Style dates|New Style]]. Two measures of the longevity are given—this is to allow for the differing number of leap days occurring within the life of each monarch. The first column is the number of days between date of birth and date of death, allowing for leap days; the second column breaks this number down into years, and days, with the years being the number of whole years the monarch lived, and then days after their last birthday. [[Elizabeth II]] (queen since 6 February 1952), is the longest lived British sovereign.
+
+{| class="wikitable sortable" border="1"
+!rowspan="2"| Rank !!rowspan="2"| Monarch !!colspan="2"| Life Dates !!colspan="2"| Lifespan
+|- style="text-align: center; background:#FFFFFF"
+|-
+! Birth !! Death !! Days !! Longevity
+|-bgcolor="99FF99"
+| 1 || '''''[[Elizabeth II|Elizabeth II of the United Kingdom]]''''' || '''''21 April 1926''''' ||'''''&ndash;'''''||'''''{{formatnum:{{age in days|1926|4|21}}}}''''' || '''''{{ayd|1926|4|21}}'''''*
+|-
+| 2 || [[Queen Victoria|Victoria of the United Kingdom]] || 24 May 1819 || 22 January 1901 || 29,828 || 81 years, 243 days
+|-
+| 3 || [[George III of the United Kingdom]] || 4 June 1738 || 29 January 1820 || 29,823 || 81 years, 239 days{{dagger}}
+|-
+| 4 || [[Edward VIII|Edward VIII of the United Kingdom]] || 23 June 1894 || 28 May 1972 || 28,463 || 77 years, 340 days
+|-
+| 5 || [[George II of Great Britain]] || 10 November 1683 || 25 October 1760 || 28,108 || 76 years, 350 days
+<!--|-bgcolor="99FF99"
+| 6 || '''''[[Charles, Prince of Wales]]''''' || '''''14 November 1948''''' || '''''Living''''' || '''''{{formatnum:{{age in days|1948|11|14}}}}''''' || '''''{{age in years and days|1948|11|14}}'''''-->
+|-
+| 6 || [[William IV of the United Kingdom]] || 21 August 1765 || 20 June 1837 || 26,235 || 71 years, 303 days
+|-
+| 7 || [[George V|George V of the United Kingdom]] || 3 June 1865 || 20 January 1936 || 25,797 ||70 years, 231 days
+|-
+| 8 || [[Edward VII|Edward VII of the United Kingdom]] || 9 November 1841 || 6 May 1910 || 25,014 || 68 years, 178 days
+|-
+| 9 || [[James II of England|James II of England and VII of Scotland]] || 24 October 1633 || 16 September 1701 || 24,798 || 67 years, 327 days
+|-
+| 10 || [[George IV of the United Kingdom]] || 12 August 1762 || 26 June 1830 || 24,789 || 67 years, 318 days
+|-
+| 11 || [[George I of Great Britain]] || 7 June 1660 || 22 June 1727 || 24,485 || 67 years, 15 days
+|-
+| 12 || [[James VI and I|James VI of Scotland and I of England]] || 19 June 1566 || 27 March 1625 || 21,466 || 58 years, 281 days
+|-
+| 13 || [[George VI|George VI of the United Kingdom]] || 14 December 1895 || 6 February 1952 || 20,507 || 56 years, 54 days
+|-
+| 14 || [[Charles II of England|Charles II of England and Scotland]] || 8 June 1630 || 6 February 1685 || 19,977 || 54 years, 253 days
+|-
+| 15 || [[William III of England|William III of England and II of Scotland]] || 14 November 1650 || 19 March 1702 || 18,752 || 51 years, 125 days
+|-
+| 16 || [[Anne, Queen of Great Britain|Anne of Great Britain]] || 16 February 1665 || 12 August 1714 || 18,073 || 49 years, 177 days
+|-
+| 17 || [[Charles I of England|Charles I of England and Scotland]] || 29 November 1600 || 9 February 1649 || 17,604 || 48 years, 72 days
+|-
+| 18 || [[Mary II of England|Mary II of England and Scotland]] || 10 May 1662 || 7 January 1695 || 11,930 || 32 years, 242 days
+|}
+<nowiki>*</nowiki>Updated daily according to [[UTC]].<br>
+{{dagger}} While Queen Victoria lived for only 4 days more than George III in terms of years and days format, she actually lived for five days more because there were 20 leap days during Victoria's life and only 19 leap days during the life of George III.
+
+If [[Charles, Prince of Wales]], were to accede to the throne, he would immediately be ranked in 6th place with an age of {{age in years and days|1948|11|14}}.{{update after|2025|10|30}} If his son, [[William, Duke of Cambridge]], were to accede any time before September 2030, he would be ranked between Charles I and Mary II.
+
+==See also==
+*[[List of British monarchy records]]
+*[[List of monarchs of the British Isles by cause of death]]
+*[[List of monarchs in Britain by length of reign]]
+
+{{DEFAULTSORT:List Of British Monarchs By Longevity}}
+[[Category:Lists of political office-holders by age|Britain, Monarchs]]
+[[Category:Lists of British monarchs|Longevity]]

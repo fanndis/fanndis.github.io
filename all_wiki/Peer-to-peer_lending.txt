@@ -1,0 +1,409 @@
+{{Use mdy dates|date=April 2016}}
+
+{{Finance sidebar}}
+'''Peer-to-peer lending''', also abbreviated as '''P2P lending''', is the practice of [[loan|lending]] money to individuals or businesses through online services that match lenders with borrowers. Peer-to-peer lending companies often offer their services online, and attempt to operate with lower [[Overhead (business)|overhead]] and provide their services more cheaply than traditional financial institutions.{{Citation needed|date=March 2017}} As a result, lenders can earn higher returns compared to [[saving]]s and [[investment]] products offered by banks, while borrowers can borrow money at lower interest rates,<ref>{{Cite news|url=http://www.lendingmemo.com/peer-to-peer-lending-return/|title=P2P Lending: What is an Expected Return? A Survey of Industry Voices|date=2013-09-27|work=LendingMemo|access-date=2017-03-28|language=en-US}}</ref><ref>{{Cite news|url=http://www.thesimpledollar.com/savings-account-as-investment/|title=Savings Account as Investment - The Simple Dollar|date=2011-12-11|work=The Simple Dollar|access-date=2017-03-28|language=en-US}}</ref><ref>{{Cite news|url=https://www.gobankingrates.com/savings-account/what-average-savings-account-interest-rate/|title=Here's How the Average Savings Account Interest Rate Compares to Yours {{!}} GOBankingRates|date=2017-03-23|work=GOBankingRates|access-date=2017-03-28}}</ref> even after the P2P lending company has taken a fee for providing the match-making [[Computing platform|platform]] and [[credit check]]ing the borrower.<ref>{{cite web|url=https://www.lendingclub.com/public/rates-and-fees.action|title=Rates & Fees|website=www.lendingclub.com|language=en|access-date=2017-03-28}}</ref><ref>{{cite web|url=https://help.lendingclub.com/hc/en-us/articles/215480768-What-fees-does-Lending-Club-charge-investors-|title=What fees does Lending Club charge investors?|website=Lending Club|language=en-US|access-date=2017-03-28}}</ref><ref>{{cite web|url=https://www.prosper.com/help/contextual/fees/|title=Prosper Help|archive-url=https://web.archive.org/web/20130212202241/https://www.prosper.com/help/contextual/fees/|archive-date=2013-02-12|url-status=dead|access-date=2017-03-28}}</ref><ref>{{Cite news|url=http://www.lendingmemo.com/rates-fees-lending-club-prosper/|title=Interest Rates and Fees on Lending Club & Prosper Loans|date=2014-04-30|work=LendingMemo|access-date=2017-03-28|language=en-US}}</ref> There is the risk of the borrower defaulting on the loans taken out from peer-lending websites.
+
+Also known as ''crowdlending'', many peer-to-peer loans are [[unsecured loan|unsecured]] [[Loan#Personal or commercial|personal loans]], though some of the largest amounts are lent to businesses. Secured loans are sometimes offered by using luxury assets such as jewelry, watches, vintage cars, fine art, buildings, aircraft, and other business assets as [[Collateral (finance)|collateral]]. They are made to an individual, company or charity. Other forms of peer-to-peer lending include student loans, commercial and real estate loans, payday loans, as well as secured business loans, [[lease|leasing]], and [[Factoring (finance)|factoring]].<ref>{{cite journal|last=Moenninghoff, S., Wieandt, A.|title=The Future of Peer-to-Peer Finance|ssrn=2439088|journal=Zeitschrift für Betriebswirtschaftliche Forschung|date=2014-05-20}}</ref>
+
+The [[interest rate]]s can be set by lenders who compete for the lowest rate on the [[reverse auction]] model or fixed by the intermediary company on the basis of an analysis of the borrower's credit.<ref name="ab1"/> The lender's investment in the loan is not normally protected by any government guarantee. On some services, lenders mitigate the risk of [[bad debt]] by choosing which borrowers to lend to, and mitigate total risk by diversifying their investments among different borrowers.
+
+The lending intermediaries are for-profit businesses; they generate revenue by collecting a one-time fee on funded loans from borrowers and by assessing a loan servicing fee to investors (tax-disadvantaged in the UK vs charging borrowers) or borrowers (either a fixed amount annually or a percentage of the loan amount). Compared to [[stock market]]s, peer-to-peer lending tends to have both less [[Volatility (finance)|volatility]] and less [[liquidity]].<ref>J. D. Roth [http://business.time.com/2012/11/15/taking-a-peek-at-peer-to-peer-lending/ Taking a Peek at Peer-to-Peer Lending] [[Time (magazine)|Time]] November 15, 2012; Accessed March 22, 2013.</ref>
+
+==Characteristics==
+Peer-to-peer lending does not fit cleanly into any of the three traditional types of financial institutions—deposit takers, investors, insurers<ref name="mab"/>—and is sometimes categorized as an [[Alternative financial services|alternative financial service]].<ref name="Bradley"/>
+
+Typical characteristics of peer-to-peer lending are:
+* it is sometimes conducted for profit;
+* no necessary common bond or prior relationship between lenders and borrowers;
+* intermediation by a peer-to-peer lending company;
+* transactions take place [[online]];
+* lenders may often choose which borrowers to invest in, if the [[peer-to-peer|P2P]] platform offers that facility;
+* the loans can be unsecured or secured and are not normally protected by government insurance;
+* loans are securities that can be transferred to others, either for debt collection or profit, though not all P2P platforms provide transfer facilities or free pricing choices and costs can be very high, tens of percent of the amount sold, or nil.
+
+Early peer-to-peer lending was also characterized by [[disintermediation]] and reliance on [[social network]]s but these features have started to disappear. While it is still true that the emergence of [[internet]] and [[e-commerce]] makes it possible to do away with traditional [[financial intermediary|financial intermediaries]] and that people may be less likely to default to the members of their own social communities, the emergence of new intermediaries has proven to be time and cost saving. Extending [[crowdsourcing]] to unfamiliar lenders and borrowers opens up new opportunities.
+
+Most peer-to-peer intermediaries provide the following services:
+* online [[investment platform]] to enable borrowers to attract lenders and investors to identify and purchase loans that meet their investment criteria
+* development of credit models for loan approvals and pricing
+* verifying borrower identity, bank account, employment and income
+* performing borrower credit checks and filtering out the unqualified borrowers
+* processing payments from borrowers and forwarding those payments to the lenders who invested in the loan
+* [[Loan servicing|servicing loans]], providing customer service to borrowers and attempting to collect payments from borrowers who are delinquent or in default
+* legal compliance and reporting
+* finding new lenders and borrowers (marketing)
+
+==History==
+
+===United Kingdom===
+[[Zopa]], founded in February 2005, was the first peer-to-peer lending company in the United Kingdom.<ref>{{cite web | title=zopa.com: Key facts | url=https://www.zopa.com/about}}</ref> [[Funding Circle]], launched in August 2010, became the first significant peer-to-business lender and offering small businesses loans from investors via the platform.<ref>{{cite news | url=https://www.theguardian.com/money/2010/aug/28/peer-to-peer-borrowing-lending-funding-circle | title=Peer-to-peer lending and saving: Making everyone happy | work=[[The Guardian]] | first=Patrick | last=Collinson | date=August 28, 2010}}</ref> Funding Circle has originated over £6.3 billion in loans.<ref>{{cite web  | url=https://www.fundingcircle.com/statistics | title=fundingcircle.com: Statistics}}</ref><ref>{{cite news | url=https://www.thetimes.co.uk/article/start-ups-to-the-power-of-three-vzvb2sl7tl3 | title=Start-ups to the power of three | work=[[The Sunday Times]] | first=Kiki | last=Loizou | date=October 20, 2013}}</ref>
+
+In 2011, Quakle, a UK peer-to-peer lender founded in 2010, closed down with a near 100% default rate after attempting to measure a borrower's creditworthiness according to a group score, similar to the feedback scores on eBay; the model failed to encourage repayment.<ref name="guardian12"/><ref>{{cite news | url=https://www.theguardian.com/money/2014/feb/15/quakle-collapse-warning-peer-to-peer-investors | title=Quakle collapse serves as warning to peer-to-peer investors | work=[[The Guardian]] | first=Rupert | last=Jones | date=February 15, 2014}}</ref><ref>{{cite news | url=https://www.ft.com/content/2db417a6-20c1-11e1-816d-00144feabdc0 | title=Peer-to-peer loans company closes | work=[[Financial Times]] | first1=Elaine | last1=Moore | first2=Jonathan | last2=Moules | date=December 7, 2011}}</ref>
+
+In 2012, the UK government invested £20 million into British businesses via peer to peer lenders. A second investment of £40 million was announced in 2014.<ref>{{cite web | url=https://www.gov.uk/government/news/new-40-million-investment-by-british-business-bank-to-support-450-million-of-lending-to-smaller-businesses | title=New £40 million investment by British Business Bank to support £450 million of lending to smaller businesses | publisher=[[gov.uk]] | date=February 25, 2015}}</ref> The intention was to bypass the high street banks, which were reluctant to lend to smaller companies. This action was criticised for creating unfair competition in the UK, by concentrating financial support in the largest platforms.<ref>{{cite web | url=https://www.ft.com/content/feb9bc5e-5afa-11e4-8625-00144feab7de |title=Government interference risks distorting UK P2P market, say lenders | work=[[Financial Times]] | date=October 26, 2014 |url-access=subscription }}</ref>
+
+Investments have qualified for tax advantages through the Innovative Finance Individual Savings Account (IFISA) since April 2016.<ref>{{cite web | url=https://www.gov.uk/government/publications/income-tax-innovative-finance-individual-savings-account-and-peer-to-peer-loans/income-tax-innovative-finance-individual-savings-account-and-peer-to-peer-loans|title=Income Tax: Innovative Finance Individual Savings Account and peer to peer loans - GOV.UK|website=www.gov.uk|publisher=HM Revenue & Customs|language=en|access-date=2017-01-31}}</ref> In 2016, £80bn was invested in ISAs,<ref>{{cite web | url=https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/547217/Full_Statistics_Release_August_2016.pdf | title=Individual Savings Account (ISA) Statistics | publisher=[[gov.uk]]}}</ref> creating a significant opportunity for P2P platforms. By January 2017, 17 P2P providers were approved to offer the product.<ref>{{cite web | url=https://www.gov.uk/government/publications/list-of-authorised-isa-managers/isas-authorised-managers | title=ISAs authorised managers | publisher=[[gov.uk]]}}</ref>
+
+At one stage there were over 100 individual platforms applying for FCA authorisation, although many withdrew their applications as of 2015.<ref>{{cite web |url=https://www.businessinsider.com/bovill-says-26-of-p2p-lenders-applying-for-fca-authorisation-have-pulled-the-plug-2015-10 | title=The fintech bubble we warned you about is already popping | first=Oscar | last=Williams-Grut | work=[[Business Insider]] | date=October 15, 2015}}</ref>
+
+Since April 2014, the peer-to-peer lending industry has been regulated by the [[Financial Conduct Authority]]<ref>{{cite news | url=https://www.ft.com/content/1d7a4a16-4061-11e2-8e04-00144feabdc0 | title =Government boost for peer-to-peer lending | work=[[Financial Times]] | first=Jonathan | last=Moules | date=December 7, 2012 |url-access=subscription }}</ref> to increase accountability with standard reporting and facilitate the growth of the sector.<ref>{{Cite news | url=https://www.bloomberg.com/news/articles/2018-03-11/funding-circle-said-to-tap-goldman-sachs-morgan-stanley-for-ipo | title=Funding Circle Picks Goldman Sachs, Morgan Stanley for IPO | work=[[Bloomberg News]] | date=March 11, 2018}}</ref> Peer-to-peer investments do not qualify for protection from the [[Financial Services Compensation Scheme]] (FSCS), which provides security up to £75,000 per bank, for each saver,<ref>{{cite web | url=http://www.fscs.org.uk/news/2015/july/new-deposit-protection-limit-coming-on-1-january/|title=New deposit protection limit coming on 1 January | publisher=[[Financial Services Compensation Scheme]]}}</ref> but regulations mandate the companies to implement arrangements to ensure the servicing of the loans even if the platform goes bust.<ref>{{cite web | url=https://www.moneysupermarket.com/money-made-easy/peer-to-peer-fca-confirms-new-rules/ |title=Peer-to-peer: FCA rules explained}}</ref>
+
+In 2015, UK peer-to-peer lenders collectively lent over £3bn to consumers and businesses.<ref>{{cite web | url=https://www.nesta.org.uk/report/pushing-boundaries-the-2015-uk-alternative-finance-industry-report/ | title=Pushing boundaries: the 2015 UK alternative finance industry report | first1=Jonathan | last1=Bone | first2=Peter | last2=Baeck | work=[[Nesta (charity)|Nesta]] | date=16 February 2016}}</ref>
+
+According to the Cambridge Centre for Alternative Finance (Entrenching Innovation Report), £3.55B was attributed to Peer to Peer alternative finance models, the largest growth area being property showing a rise of 88% from 2015 to 2016.<ref>https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/centres/alternative-finance/downloads/2017-12-21-ccaf-entrenching-innov.pdf</ref>
+
+===United States===
+The peer-to-peer lending industry in the US started in February 2006 with the launch of [[Prosper Marketplace]], followed by [[Lending Club]].<ref name="techcrunch12"/> Both Prosper and Lending Club are headquartered in San Francisco, California.<ref name="forbes12"/> Early peer-to-peer platforms had few restrictions on borrower eligibility, which resulted in adverse selection problems and high borrower default rates. In addition, some investors viewed the lack of [[liquidity]] for these loans, most of which have a minimum three-year term, as undesirable.<ref name="Bradley"/>
+
+In 2008, the [[U.S. Securities and Exchange Commission]] (SEC) required that peer-to-peer companies register their offerings as [[Security (finance)|securities]], pursuant to the [[Securities Act of 1933]].<ref name="techcrunch12"/><ref name="ft4-12"/> The registration process was an arduous one; Prosper and Lending Club had to temporarily suspend offering new loans,<ref name="wsj09"/><ref name="techcrunch8"/><ref name="peerlend"/><ref name="LC_quietperiod"/> while others, such as the U.K.-based Zopa Ltd., exited the U.S. market entirely.<ref name="wsj09"/> Both Lending Club and Prosper gained approval from the SEC to offer investors notes backed by payments received on the loans. Prosper amended its filing to allow banks to sell previously funded loans on the Prosper platform.<ref name="Bradley"/> Both Lending Club and Prosper formed partnerships with FOLIOfn to create a secondary market for their notes, providing liquidity to investors.<ref name="wsj10"/> Lending Club had a voluntary registration at this time, whereas Prosper had mandatory registration for all members.<ref>{{cite news | url=https://www.bloomberg.com/news/articles/2009-04-06/peer-to-peer-lending-problems-and-promise |title=Peer-to-Peer Lending: Problems and Promise | first=David | last=Bogoslaw | work=[[Bloomberg News]] | date=April 6, 2009}}</ref>
+
+This addressed the liquidity problem and, in contrast to traditional securitization markets, resulted in making the loan requests of peer-to-peer companies more transparent for the lenders and secondary buyers who can access the detailed information concerning each individual loan (without knowing the actual identities of borrowers) before deciding which loans to fund.<ref name="wsj09"/> The peer-to-peer companies are also required to detail their offerings in a regularly updated [[prospectus (finance)|prospectus]]. The SEC makes the reports available to the public via [[EDGAR]] (Electronic Data-Gathering, Analysis, and Retrieval).
+
+More people turned to peer-to-peer companies for borrowing following the [[financial crisis of 2007–2008]] because banks refused to increase their loan portfolios. The peer-to-peer market also faced increased investor scrutiny because borrowers' defaults became more frequent and investors were unwilling to take on unnecessary risk.<ref name="ft11"/>
+
+Lending Club is the largest peer-to-peer lender in US based upon issued loan volume and revenue, followed by Prosper.<ref name="techcrunch12"/><ref name="forbes12"/> Lending Club is also the largest peer-to-peer lending platform worldwide.<ref>{{cite news | author=Schumpeter | url=https://www.economist.com/blogs/schumpeter/2013/01/lending-club | title=Peer review | work=[[The Economist]] | date=January 5, 2013}}</ref>  The interest rates range from 5.6%-35.8%, depending on the loan term and borrower rating.<ref name="consaction"/> The default rates vary from about 1.5% to 10% for the more risky borrowers.<ref name="forbes12"/> Executives from traditional financial institutions are joining the peer-to-peer companies as board members, lenders and investors,<ref name="ft6-12"/><ref name="tc12"/> indicating that the new financing model is establishing itself in the mainstream.<ref name="ft4-12"/>
+
+===China===
+Many micro loan companies have emerged to serve the 40 million SMEs, many of which receive inadequate financing from state-owned banks, creating an entire industry that runs alongside big banks.
+
+As the Internet and [[e-commerce]] grew in the 2000s, many P2P lenders were founded with various target customers and business models.<ref>{{cite web | url=http://www.crowdfundinsider.com/2014/11/57456-china-different-categories-peer-peer-lending-platforms/ | title=China: The Different Categories of Peer to Peer Lending Platforms | first=Yangjie | last=She | publisher=Crowdfund Insider| date=November 28, 2014 }}</ref>
+
+The first P2PL in [[Hong Kong]] was [[WeLab]], which has backing from American venture capital firm [[Sequoia Capital]] and [[Li Ka-Shing]]'s [[TOM Group]].<ref>{{cite news | url=https://blogs.wsj.com/moneybeat/2014/06/17/hong-kongs-first-peer-to-peer-lender-raises-funds-of-its-own/ | title=Hong Kong's First Peer-to-Peer Lender Raises Funds of its Own | first=Michelle | last=Yuan | work=[[The Wall Street Journal]] | date=June 17, 2014 |url-access=subscription }}</ref>
+
+[[Ezubao]], a website launched by Yucheng Group in July 2014 purporting to offer P2P services, was shut down in February 2016 by authorities who described it as a [[Ponzi scheme]].<ref>{{cite news | url=https://www.nytimes.com/2016/02/02/business/dealbook/ezubao-china-fraud.html |title=Online Lender Ezubao Took $7.6 Billion in Ponzi Scheme, China Says | last=Gough | first=Neil | work=[[The New York Times]] | date=February 2, 2016 |url-access=subscription }}</ref> Ezubao took in  50 billion [[renminbi]] from 900,000 investors.<ref>{{cite news | url=https://www.reuters.com/article/china-fraud-ezubao-arrest-idUSKCN0VA1E5 | title=China police arrest 21 over $7.6 bln online financial scam | last1=Shen | first1=Samuel | last2=Ruwitch | first2=John | work=[[Reuters]] | date=January 31, 2016}}</ref>
+
+In China, in 2016 there were more than 4,000 P2P lending platforms, but 2,000 of them had already suspended operations.<ref>{{cite web|url=http://www.wdzj.com/news/baogao/31126.html|title=再减68家 P2P正常运营平台数创近一年新低__网贷资讯_网贷之家|website=www.wdzj.com|accessdate=September 28, 2018}}</ref> As of August 2016, cash flow on all P2P lending platform have already exceeded 191 billion Chinese Yuan (US$29 billion) in the month.<ref>{{cite web|url=https://www.itouzi.com/licai/hulianwangjinrong-P2Pzixun/22277.html|title=《P2P网贷行业2016年8月月报》正式发布-爱投资|website=www.itouzi.com|accessdate=September 28, 2018}}</ref> Lender's return rate across all P2P lending platform in China is about 10% per annum on average, with a few of them offering more than 24% return rate.<ref>{{cite web|url=http://www.wdzj.com/news/yanjiu/33712.html|title=8月P2P综合收益率再降 预计9月或将跌破10%__网贷资讯_网贷之家|website=www.wdzj.com|accessdate=September 28, 2018}}</ref>  A colloquial term for P2P lending in Chinese translates as "grey market", but is not to be confused with [[grey market]]s for goods or an underground economy.
+
+In June and July 2018, scores of Chinese online P2P lending platforms fell into financial or legal troubles because of tightened regulation and liquidity. According to WDZJ.com, a P2P industry information provider, 23 P2P platforms were reported to be in financial distress or under investigation in the first 10 days of July. That follows 63 such cases in June, a higher number than in any month in the previous year.<ref>{{Cite web|url=https://www.caixinglobal.com/2018-08-13/regulators-pledge-to-help-p2p-investors-comes-with-warning-101314552.html|title=Regulators' Pledge to Help P2P Investors Comes With Warning - Caixin Global|website=www.caixinglobal.com|language=en|access-date=2018-08-14}}</ref>
+
+In late June, Shanghai police detained four senior executives of Tangxiaoseng, an online lending platform controlled by Zibang Financial Service Internet Technology Co. Ltd. and told investors on June 28, 2018 that Zibang Financial was suspected of "illegally raising funds from the public."<ref>{{Cite web|url=https://www.caixinglobal.com/2018-06-29/another-online-lender-falls-under-investigation-101288658.html|title=Another Online Lender Falls Under Investigation - Caixin Global|website=www.caixinglobal.com|language=en|access-date=2018-08-14}}</ref> On July 20, 2018, iqianbang.com, a Beijng-based P2P lending platform announced to close down, citing "deteriorating online lending environment and drying up liquidity."<ref>{{Cite web|url=https://www.caixinglobal.com/2018-07-25/chinas-p2p-online-lending-dominoes-continue-to-fall-101309685.html|title=China's P2P Online Lending Dominoes Continue to Fall - Caixin Global|website=www.caixinglobal.com|language=en|access-date=2018-08-14}}</ref>
+
+[[People's Bank of China]] announced in early July 2018 said that regulators will extend a two-year-old nationwide campaign to clean up fraud and violations in the online financial market, targeting P2P and other online lending and financial activities. More than 5,000 operations have been shut down since the campaign began in 2016.<ref>{{Cite web|url=https://www.caixinglobal.com/2018-07-10/china-vows-continued-tight-grip-on-internet-finance-101297647.html|title=China Vows Continued Tight Grip on Internet Finance - Caixin Global|website=www.caixinglobal.com|language=en|access-date=2018-08-14}}</ref>
+
+In April 2019, one of China's top peer-to-peer (P2P) lending platforms, tuandai.com, collapsed, resulting in financial losses for scores of Chinese investors.<ref>{{cite news |last1=Caiping |first1=Liu |last2=Gang |first2=Wu |title=Police Arrest 41 Associated With Failed P2P Lender Tuandai.com |url=https://www.caixinglobal.com/2019-04-27/police-arrest-41-associated-with-failed-p2p-lender-tuandaicom-101409341.html |accessdate=26 August 2020 |work=Caixin |date=April 27, 2019}}</ref>
+
+===Australia===
+In 2012 Australia's first peer to peer lending platform, [[SocietyOne]], was launched.<ref>{{cite web|url=http://www.arnnet.com.au/article/434135/societyone_takes_big_banks_peer-to-peer_online_loans/|title=SocietyOne takes on big banks with peer-to-peer online loans | work=ARN Net|accessdate=June 29, 2015}}</ref> As of June 2016 the Australian Government has been encouraging the development of [[financial technology]] and peer to peer lending startups through its 'regulatory sandbox' program.<ref>{{cite web|url=http://sjm.ministers.treasury.gov.au/media-release/133-2016/ |title=Launch of an innovative regulatory sandbox for FinTech|work=Australian Government Treasury}}</ref>
+
+===New Zealand===
+In [[New Zealand]], peer-to-peer lending became practicable on April 1, 2014, when the relevant provisions of the Financial Markets Conduct Act 2013 came into force. The Act enables peer-to-peer lending services to be licensed.<ref>{{Cite web | url=http://www.legislation.govt.nz/act/public/2013/0069/latest/DLM4090578.html?src=qs | title=Financial Markets Conduct Act 2013 No 69 (As at 09 April 2019), Public Act Contents – New Zealand Legislation}}</ref>
+
+The [[Financial Markets Authority (New Zealand)|Financial Markets Authority]] issued the first peer-to-peer lending service licence on July 8, 2014, to [[Harmoney]].<ref>{{cite news |url=http://fma.govt.nz/news/media-releases/fma-issues-new-zealands-first-licence-for-peer-to-peer-lending-services/ |title=FMA issues New Zealand's first licence for peer-to-peer lending services}}</ref> Harmoney officially launched its service on October 10, 2014.<ref>{{cite news |url=http://www.nzherald.co.nz/personal-finance/news/article.cfm?c_id=12&objectid=11321872|title=Harmoney launches with $100m to lend - Personal Finance}}</ref>
+
+===India===
+In [[India]], peer-to-peer lending is currently regulated by the [[Reserve Bank of India]], India's Central Bank.{{citation needed|date=January 2019}} It has published a consultation paper on regulation of P2P lending<ref>{{cite web|url=https://rbidocs.rbi.org.in/rdocs/content/pdfs/CPERR280416.pdf|title=RBI Peer To Peer Lending Consultation Paper|date=April 2016|website=RBI Official}}</ref> and the final guidelines were released in 2017.<ref>{{Cite news|url=https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11137|title=Master Directions - Non-Banking Financial Company – Peer to Peer Lending Platform (Reserve Bank) Directions, 2017|date=12 September 2016|via=Reserve Bank of India}}</ref> There were over 30 peer-to-peer-lending platforms in India in 2016.<ref>{{cite web|url=http://www.livemint.com/Industry/Vx9iwySoYwxHxfIsPq2r1L/RBI-proposes-regulatory-framework-for-P2P-lending-platform.html|title=RBI proposes P2P lending regulations|date=29 April 2016|website=Livemint}}</ref> Even with [[first-mover advantage]] many sites were not able to capture market share and grow their user base, arguably because of the reserved nature of Indian investors or lack of awareness of this type of debt financing.  However, peer-to-peer lending platforms in India are helping a huge section of borrowers who have previously been rejected or have failed to qualify for a loan from banks.<ref>{{cite web|url=https://medium.com/@gauravdutt/indian-p2p-lending-platforms-are-helping-the-un-catered-borrowers-get-access-to-easy-finance-3cf27461be7d|title=How P2P lending startups in India are helping the uncatered borrowers get access to cheap and easy finance|last=Dutt|first=Gaurav|date=May 2017|website=Medium}}</ref>
+
+As on August 31, 2019, 19 companies have been granted licenses by the Reserve Bank of India.<ref>{{Cite news|url=https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/p2p-lending-platform-faircent-becomes-the-first-to-receive-nbfc-p2p-certification-from-rbi/articleshow/64253816.cms?from=mdr|title=P2P lending platform Faircent becomes the first to receive NBFC-P2P certification from RBI|date=May 21, 2018|newspaper=The Economic Times}}</ref><ref>{{cite news|url=https://www.business-standard.com/article/news-ani/lendbox-receives-nbfc-peer-to-peer-p2p-certification-from-rbi-119020101152_1.html|title=Lendbox receives NBFC - peer-to-peer (P2P) certification from RBI|date=February 1, 2019|work=Business standard}}</ref><ref>{{cite news|url=https://www.rbi.org.in/Scripts/BS_NBFCList.aspx|title=List of NBFC- Peer to Peer (P2P) registered with RBI (As on August 31, 2019)|work=Reserve Bank of India}}</ref>
+
+===Sweden===
+Peer-to-peer-lending in Sweden is regulated by [[Financial Supervisory Authority (Sweden)|Finansinspektionen]].<ref>{{cite web|url=http://www.svd.se/naringsliv/pengar/fi-tar-kontroll-over-ny-lanetrend_4163725.svd|title=FI tar kontroll över ny lånetrend|work=SvD.se|accessdate=February 24, 2015}}</ref> Launched in 2007, the company Trustbuddy AB was first out on the Swedish market for peer-to-peer-lending, providing a platform for high risk personal loans between 500SEK and 10,000SEK. Trustbuddy filed for bankruptcy by October 2015, a new board cited abuses by outgoing leadership.{{Citation needed|date=January 2019}}
+
+===Israel===
+Several peer-to-peer lending services initiated operation and loan origination during 2014, Following the economic uprising of 2011,<ref>[[:he:המחאה החברתית בישראל 2011]]</ref> and public opinion regarding these platforms is positive. The maximum interest rate in Israeli P2P Arenas is limited by the "Extra-Banking Lending Regulations".<ref>{{cite web|url=http://www.nevo.co.il/law_html/Law01/047_031.htm|title=Nevo.co.il|website=www.nevo.co.il|accessdate=September 28, 2018}}</ref>
+
+===Canada===
+Peer-to-Peer P2P Lending for both real estate-secured and non-real estate-secured transactions by either investors or borrowers, is a mature industry in Canada. Peer-to-Peer P2P lending in real estate-secured transactions is regulated by members of the Mortgage Broker Regulators' Council of Canada (MBRCC),<ref>{{cite web|url=https://www.mbrcc.ca/en/|title=MBRCC - Welcome|website=www.mbrcc.ca|accessdate=September 28, 2018}}</ref> including: the Financial Services Commission of Ontario (FSCO),<ref>{{cite web|url=https://www.fsco.gov.on.ca/en/mortgage/Pages/licensing_faq.aspx#nine|title=Licensing FAQ|first=Financial Services Commission of|last=Ontario|website=www.fsco.gov.on.ca|accessdate=September 28, 2018}}</ref> the Real Estate Council of Alberta (RECA) <ref>{{cite web | url=https://www.reca.ca/professionals-learners/industry-101/working-with-consumers/mortgage-brokerage/ | title=Mortgage Brokerage | publisher=[[Real Estate Council of Alberta]]}}</ref> and the Financial Institutions Commission of British Columbia (FICOM BC).<ref name="fic.gov.bc.ca">{{cite web|url=http://www.fic.gov.bc.ca/index.aspx?p=mortgage_brokers/index|title=FICOM - Mortgage Brokers - Index|website=www.fic.gov.bc.ca|accessdate=September 28, 2018}}</ref> Starting as early as April 9, 2005 PrivateLender.org: Canada's Private Lending Network® is incontestably [the word "incontestable" is legislatively defined, pursuant to Canada's Federal Trade-marks Act R.S.C., 1985, c. T-13)<ref>{{cite web|url=http://laws-lois.justice.gc.ca/eng/acts/T-13/FullText.html|title=Consolidated federal laws of canada, Trade-marks Act|first=Legislative Services|last=Branch|website=laws-lois.justice.gc.ca|accessdate=September 28, 2018}}</ref>] recognized by Canadian federal government public records<ref name="ic.gc.ca">{{cite web|url=http://www.ic.gc.ca/app/opic-cipo/trdmrks/srch/viewTrademark?id=1391367&lang=eng&tab=reg|title=Canadian Trademarks Details 1391367 - Canadian Trademarks Database - Intellectual property and copyright - Canadian Intellectual Property Office - Innovation, Science and Economic Development Canada|website=www.ic.gc.ca|accessdate=September 28, 2018}}</ref> as Canada's first network devoted to peer-to-peer P2P lending in both regulated mortgages (real-estate secured) and non-regulated loans (non-real-estate secured). Proof of federal recognition, registration and "date of first use as April 09, 2005" is found at the Canadian Intellectual Property Office (CIPO).<ref name="ic.gc.ca"/> Since inception, member individuals and organizations who use the PrivateLender.org: Canada's Private Lending Network® platform are continuously registered with Canadian federal or provincial mortgage securities regulators including (but not limited to): the Financial Services Commission of Ontario (FSCO),<ref>{{cite web|url=http://www.fsco.gov.on.ca/en/mortgage/Pages/default.aspx|title=Mortgage Brokering|first=Financial Services Commission of|last=Ontario|website=www.fsco.gov.on.ca|accessdate=September 28, 2018}}</ref> the Real Estate Council of Alberta (RECA) <ref>{{cite web|url=https://www.reca.ca/|title=Reca Home|website=RECA|accessdate=September 28, 2018}}</ref> and the Financial Institutions Commission of British Columbia (FICOM BC).<ref name="fic.gov.bc.ca"/> PrivateLender.org: Canada's Private Lending Network® has the further distinction of being the world's first and only peer-to-peer P2P network with continuous registration to ISO 9001:2015<ref>{{cite web|url=https://www.iso.org/iso-9001-quality-management.html|title=ISO 9001 Quality management|website=www.iso.org|accessdate=September 28, 2018}}</ref> since May 9, 2008.<ref>{{cite web | url=https://mqcc.org/PrivateLender.org-Canadas-Private-Lending-Network/ | title=PrivateLender.org: Global Private Lending Network}}</ref> ISO 9001:2015 is published by the International Organization for Standardization <ref>{{cite web|url=https://www.iso.org/home.html|title=ISO - International Organization for Standardization|website=www.iso.org|accessdate=September 28, 2018}}</ref> and is the National Standard for Quality Management Systems in 119 countries<ref>{{cite web|url=https://www.iso.org/members.html|title=Members|website=www.iso.org|accessdate=September 28, 2018}}</ref> and registration thereto provides legislators, regulators, customers, prospective customers and other interested parties with at-a-glance "confidence that their products are safe, reliable and of good quality.".<ref>{{cite web|url=https://www.iso.org/benefits-of-standards.html|title=Benefits of standards|website=www.iso.org|accessdate=September 28, 2018}}</ref> Canadian Capital Markets Securities Regulators (members of the Canadian Securities Administrators)<ref>{{cite web|url=https://www.securities-administrators.ca/aboutcsa.aspx?id=77|title=Canadian Securities Administrators - Who we are - Overview|website=www.securities-administrators.ca|accessdate=September 28, 2018}}</ref> are recent entrants to Canadian Peer-to-Peer P2P lending and are only issuing interim approvals "...in order to test their products, services and applications throughout the Canadian market on a time limited basis.,<ref name="securities-administrators.ca">{{cite web|url=https://www.securities-administrators.ca/industry_resources.aspx?id=1588|title=CSA - Industry Resources - CSA Regulatory Sandbox|website=www.securities-administrators.ca|accessdate=September 28, 2018}}</ref> through "Regulatory Sandbox" programs including the CSA Regulatory Sandbox<ref name="securities-administrators.ca"/> and the Ontario Securities Commission Sandbox, branded as "OSC Launchpad".<ref>{{cite web|url=https://www.osc.gov.on.ca/en/osclaunchpad.htm|title=OSC LaunchPad|first=Ontario Securities|last=Commission|website=www.osc.gov.on.ca|accessdate=September 28, 2018}}</ref>
+
+===Brazil===
+
+Since April 2018, Brazilian p2p lending companies may operate directly without the intermediation of a bank or other financial institution.<ref name="Folha de S. Paulo">{{cite web|title=Fintechs poderão conceder crédito sem mediação de banco|url=https://www1.folha.uol.com.br/mercado/2018/04/bc-da-sinal-verde-para-fintech-conceder-credito-sem-intermediacao-de-banco.shtml}}</ref>
+
+By means of the Resolution 4656/2018, the Central Bank of Brazil created a new type of institution called SEP (personal lending society) that aims to provide a platform for direct negotiation of loans between individuals and companies. A SEP cannot lend using its own resources but only operate as an intermediary. The borrower must be Brazilian individual or company, but there isn't a restriction regarding lenders nationality.<ref>Banco Central, ''[https://www.bcb.gov.br/pre/normativos/busca/downloadNormativo.asp?arquivo=/Lists/Normativos/Attachments/50579/Res_4656_v1_O.pdf]'', Banco Central, 17 de agosto de 2018</ref>
+
+=== Latvia ===
+Latvian P2P lending market is developing very rapidly. In Q2 2018 Latvian P2P platforms lent Eur 271.8 million and Eur 1.7 Billion cumulatively.<ref>{{Cite web|url=https://www.lafpa.lv/en/statistics|title=Alternative financial services association of Latvia|website=LAFPA|access-date=2018-10-03}}</ref> Currently, the most active investors in Latvia's peer-to-peer lending platforms are residents of Germany, Great Britain, and Estonia.<ref>{{Cite web|url=https://www.lafpa.lv/en/association-486-million-euro-invested-using-latvian-peer-to-peer-lending-platforms-in-2017|title=ASSOCIATION: 486 MILLION EURO INVESTED USING LATVIAN PEER-TO-PEER LENDING PLATFORMS IN 2017|date=2018-02-06|website=LAFPA|access-date=2018-10-03}}</ref>
+
+The two biggest P2P platforms are Mintos and Twino taking over 60% and 20% of market share respectively.{{Citation needed|date=January 2019}} Around 9 companies that qualify as P2P investment platform currently operate in Latvia. Mintos was founded in 2015. In September 2018 the total amount of loans funded through Mintos have surpassed Eur 1 billion. Most of the loans funded through Mintos are personal loans with car loans coming second.<ref>{{Cite web|url=https://www.mintos.com/en/statistics/|title=Statistics|website=Mintos|access-date=2018-10-03}}</ref> In 2016 Mintos has raised Eur 2 million in funding from Latvian-based Venture Capital Skillion Ventures.<ref>{{Cite web|url=https://www.techcrunch.com/2016/02/23/mintos/|title=Latvia's Mintos Scores Eur2 million investment for P2P loans marketplace|website=Techcrunch|access-date=2018-10-03}}</ref> Twino investment platform was launched in 2015, although the company has been operating since 2009 as a loan originator. Since the inception in 2009 TWINO has lent more than Eur 500 million in loans.<ref>{{Cite web|url=https://www.twino.eu/en/about/quick-facts|title=Quick Facts|website=Twino|access-date=2018-10-03}}</ref> More than 90% of all loans that are on TWINO platform are short maturity from 1 to 3 months.<ref>{{Cite web|url=https://www.twino.eu/en/statistics|title=Statistics|website=Twino|access-date=2018-10-03}}</ref>
+
+In 2015, the Ministry of Finance of Latvia initiated development of a new regulation on the peer-to-peer lending in Latvia to establish regulatory requirements, such as rules for management compliance, AML requirements and other prudential measures.<ref>{{Cite web|url=https://www.oecd.org/finance/Latvia-financial-markets-2016.pdf|title=Latvia: Review of the Financial System|date=2016-04-01|website=OECD|access-date=2017-07-02}}</ref>
+
+===Ireland===
+The Irish P2P lending platform [[Linked Finance]] was launched in 2013. In 2016, Linked Finance was also authorised to operate in the UK by the Financial Conduct Authority.<ref>{{cite web|url=https://www.rte.ie/news/business/2017/0522/876948-p2p-lender-linked-finance-receives-uk-authorisation/|title=P2P lender Linked Finance receives UK authorisation|date=May 22, 2017|accessdate=September 28, 2018}}</ref> In 2015, Initiative Ireland launched the first property-backed secured lending P2P platform in Ireland.<ref>{{cite web|url=https://www.rte.ie/news/business/2017/0719/891429-finance-platform-to-fund-60m-in-construction-loans/|title=Finace Platform to fund €60m in construction loans|date=July 19, 2017|accessdate=October 10, 2019}}</ref>
+
+=== Indonesia ===
+In Indonesia, P2P lending is growing fast in recent years and is regulated under [[Financial Services Authority (Indonesia)|OJK]] since 2016. As of April 2019, there are 106 P2P platforms registered in OJK.<ref>{{cite web | url = https://www.cnnindonesia.com/ekonomi/20190410190058-78-385103/ojk-rilis-daftar-106-fintech-berizin|title=OJK Releases 106 Licensed Fintech Lists|website=CNN Indonesia|date=2019-04-10|accessdate=2019-09-26}}</ref> P2P platforms provide loans in particular targeting into unbanked population, which is estimated around 100+ million in Indonesia.
+
+Thousands of P2P platforms are illegal. Their applications are believed stealing customers data such as contacts and photos and these are used by the debt collectors to intimidate the customers. The debt collectors contact family members, friends, and even employers of the customers and telling them that the customers have debt that needs to be paid. Some of them suicide. Many cases are reported in the Indonesia's complaint handling system.<ref name="lapor">{{cite news | url = https://lapor.go.id/laporan/kategori/layanan-keuangan-digital-lkd | title = Laporan masyarakat tentang pinjaman online | work = LAPOR!| accessdate=August 2, 2019 }}</ref> Yet the police have not taken serious actions against these cases.
+
+===Bulgaria===
+There is no specific Peer-to-Peer lending regulation in Bulgaria. Currently, Klear Lending is the only Bulgarian platform. It was launched in 2016 and provides personal loans to prime customers. The Peer-to-Peer lending platform is operated by Klear Lending AD, a financial institution registered in the Register per art. 3a of the Credit Institutions Act maintained by the Bulgarian National Bank.<ref>{{Cite web|url=http://bnb.bg/RegistersAndServices/RSFIRegister/index.htm|title=Financial Institutions Register under Art.3a of LCI|website=Bulgarian National Bank}}</ref>
+
+===Korea===
+In Korea, Money Auction and Pop Funding are the very first peer to peer lending companies founded in 2006 and 2007 respectively.<ref>Namu Wiki P2P Finance 2018-04-02. <nowiki>https://namu.wiki/w/P2P%EA%B8%88%EC%9C%B5</nowiki></ref> Korean P2P lending industry did not attract much public attention until late 2014 and early 2015, during which period a number of new fintech companies were founded underpinned by the global fintech wave with the emergence of Lending Club as the mainstream P2P lending player in the US. New P2P lending companies launched in Korea during this period include 8 Percent, Terafunding, Lendit, Honest Fund and Funda.<ref>Korea P2P Finance Association Member Date of Establishment  <nowiki>http://p2plending.or.kr/about/</nowiki>  Retrieved 2018-04-23</ref> At the beginning, 8 Percent, Lendit and Honest Fund focused on personal loan origination and Terafunding was the only P2P platform dedicated to the real estate backed loan origination, founded by ex-real estate broker and investor, Tae Young Yang.
+
+There was a brief period of regulatory uncertainty on the P2P business model as the P2P lending model was not officially legalized under the then regulatory regime. 8 percent was briefly shut down by the regulator in Feb 2015 and was reopened again.<ref><nowiki>http://www.bloter.net/archives/219837</nowiki></ref> Korean P2P industry saw an explosive growth in a year. According to the regulator, cumulative P2P lending platform loan origination increased to KRW 311,800,000,000 as of December in 2016 from KRW 72,400,000,000 in March and there was a debate as to whether the industry was getting overheated, with questions on whether the industry offered appropriate investor protection.<ref><nowiki>http://www.hani.co.kr/arti/economy/finance/784215.html</nowiki></ref> To respond to these concerns, as of February 2017, Korean regulator imposed an annual investment limit of KRW 10,000,000 for a retail investor on these lending platforms, and KRW 40,000,000 for certain qualified investors.<ref><nowiki>http://www.zdnet.co.kr/news/news_view.asp?artice_id=20170227174804</nowiki></ref>
+
+As of April 2017, there are 148 P2P lending companies in Korea. However, only 40 companies are official members of the Korea P2P Finance Association. These members include Lendit, Roof Funding, Midrate, HF Honest Fund, Villy, 8 Percent, Terafunding, Together Funding and People Funding.<ref><nowiki>http://news.mk.co.kr/newsRead.php?year=2017&no=339030</nowiki></ref> According to the Korea P2P Finance Association, cumulative loan lent by its member P2P companies stands at c. KRW 2.3 TRN as of March 2018. By origination category, real estate project financing origination constitutes c. KRW 768,500,000,000, real estate asset backed origination is KRW 611,500,000,000, other asset backed KRW 472,400,000,000 and personal loan origination stands at KRW 443,200,000,000.<ref>{{Cite web|url=http://www.yonhapnews.co.kr/bulletin/2018/04/09/0200000000AKR20180409080500002.HTML?input=1195m|title=P2P Financing Cumulative Loans in March 10% Growth in a Month|date=2018-04-09|website=Yonhap News|access-date=2019-09-26}}</ref> Average interest yield offered by the member companies is 14.32%.
+
+=== Germany ===
+In Germany, P2P lending is growing fast in recent years and is regulated under [[Federal Financial Supervisory Authority]]. The transaction volume will reach an estimated value of €252 million in 2020.<ref>https://de.statista.com/outlook/399/137/alternative-lending/deutschland</ref>
+
+==Legal regulation==
+In many countries, soliciting investments from the general public is considered illegal. [[Crowd sourcing]] arrangements in which people are asked to contribute money in exchange for potential profits based on the work of others are considered to be [[Security (finance)|securities]].
+
+Dealing with financial securities is connected to the question of ownership: in the case of person-to-person loans, the problem is who owns the loans (notes) and how that ownership is transferred between the originator of the loan (the person-to-person lending company) and the individual lender(s).<ref name="techcrunch8"/><ref name="peerlend"/> This question arises especially when a peer-to-peer lending company does not merely connect lenders and borrowers but also borrows money from users and then lends it out again. Such activity is interpreted as a sale of securities, and a broker-dealer license and the registration of the person-to-person investment contract is required for the process to be legal. The license and registration can be obtained at a securities regulatory agency such as the U.S. [[Securities and Exchange Commission]] (SEC) in the U.S., the [[Ontario Securities Commission]] in Ontario, Canada, the Autorité des marchés financiers in [[Autorité des marchés financiers (France)|France]] and [[Autorité des marchés financiers (Québec)|Québec, Canada]], or the [[Financial Services Authority]] in the UK.
+
+Securities offered by the U.S. peer-to-peer lenders are registered with and regulated by the SEC. A recent report by the U.S. Government Accountability Office explored the potential for additional regulatory oversight by Consumer Financial Protection Bureau or the Federal Deposit Insurance Corporation, though neither organization has proposed direct oversight of peer-to-peer lending at this time.<ref name="gao"/>  In 2016, New York state sent "warning letters" threatening to require 28 peer-to-peer lenders to obtain a license to operate unless they "immediately" complied with responses to demands to disclose their lending practices and products available in the state.<ref>New York Legal News - Ongoing Investigation Into The P2P Lending Industry http://www.thenewyorklawblog.com/2016/06/new-york-investigates-p2p-lending.html</ref>
+
+In the UK, the emergence of multiple competing lending companies and problems with [[subprime loan]]s has resulted in calls for additional legislative measures that institute minimum capital standards and checks on risk controls to preclude lending to riskier borrowers, using unscrupulous lenders or misleading consumers about lending terms.<ref name="telegraph10"/>
+
+==Advantages and criticism==
+
+===Interest rates===
+One of the main advantages of person-to-person lending for borrowers can sometimes be better rates than traditional bank rates can offer.<ref name="SocialLending">[http://www.sociallending.net Social Lending Network], accessed September 21, 2010</ref> The advantages for lenders can be higher returns than obtainable from a savings account or other investments, but subject to risk of loss, unlike a savings account.<ref name="Persontopersonlending">[http://www.nbcnews.com/id/21993720 Person-to-person lending online gathers steam] Associated Press, November 27, 2007.</ref> Interest rates and the methodology for calculating those rates varies among peer-to-peer lending platforms.  The interest rates may also have a lower volatility than other investment types.<ref>{{cite web |url=http://business.time.com/2012/11/15/taking-a-peek-at-peer-to-peer-lending/ |author=JD Roth |title=Taking a Peek at Peer-to-Peer Lending |date=November 15, 2012 |accessdate=June 27, 2013 |publisher=[[Time Magazine]]}}</ref>
+
+===Socially-conscious investment===
+For investors interested in socially conscious investing, peer-to-peer lending offers the possibility of supporting the attempts of individuals to break free from high-rate debt, assist persons engaged in occupations or activities that are deemed moral and positive to the community, and avoid investment in persons employed in industries deemed immoral or detrimental to community.<ref>{{cite web|url=http://faithsaves.net/christianpeertopeer/|title=Christian Peer-to-Peer Lending - Faith Saves|work=Faith Saves|accessdate=February 24, 2015}}</ref><ref>{{Cite news|url=https://www.theobjectivestandard.com/issues/2007-fall/morality-of-moneylending/|title=The Morality of Moneylending: A Short History - The Objective Standard|work=The Objective Standard|access-date=2017-03-28|language=en-US}}</ref>
+
+===Credit risk===
+Peer-to-peer lending also attracts borrowers who, because of their credit status or the lack thereof, are unqualified for traditional bank loans. Because past behavior is frequently indicative of future performance and low credit scores correlate with high likelihood of default, peer-to-peer intermediaries have started to decline a large number of applicants and charge higher interest rates to riskier borrowers that are approved.<ref name="ft11"/>
+
+It seemed initially that one of the appealing characteristics of peer-to-peer lending for investors was low default rates, e.g. Prosper's default rate was quoted to be only at about 2.7 percent in 2007.<ref name="Persontopersonlending" />
+
+The actual default rates for the loans originated by Prosper in 2007 were in fact higher than projected. Prosper's aggregate return (across all credit grades and as measured by LendStats.com, based upon actual Prosper marketplace data) for the 2007 vintage was (6.44)%, for the 2008 vintage (2.44)%, and for the 2009 vintage 8.10%. Independent projections for the 2010 vintage are of an aggregate return of 9.87.<ref>http://www.lendstats.com/ Prosper.com - Loan Performance Summary - Independent Loan Analytics courtesy of LendStats.com</ref> During the period from 2006 through October 2008 (referred to as 'Prosper 1.0'), Prosper issued 28,936 loans, all of which have since matured. 18,480 of the loans fully paid off and 10,456 loans defaulted, a default rate of 36.1%. $46,671,123 of the $178,560,222 loaned out during this period was written off by investors, a loss rate of 26.1%.<ref>[http://www.sociallending.net/investing-lending/a-look-back-at-prosper-1-0-how-relevant-are-the-numbers/ Social Lending Network], accessed August. 13, 2012</ref>
+
+Since inception, Lending Club's default rate ranges from 1.4% for top-rated three-year loans to 9.8% for the riskiest loans.<ref name="forbes12"/>
+
+The UK peer-to-peer lenders quote the ratio of bad loans at 0.84% for Zopa of the £200m during its first seven years of lending history. As of November 2013, Funding Circle's current bad debt level was 1.5%, with an average 5.8% return after all bad debt and fees. This is comparable to the 3-5% ratio of mainstream banks and the result of modern credit models and efficient risk management technologies used by P2P companies.<ref name="guardian12"/>
+
+At the other end of the range are places such as Bondora that do lending to less credit-worthy customers, with default rates varying up to as high as 70+% for loans made to Slovak borrowers on that platform, well above those of its original Estonian market.
+
+===Government protection===
+Because, unlike depositors in banks, peer-to-peer lenders can choose themselves whether to lend their money to safer borrowers with lower interest rates or to riskier borrowers with higher returns, in the US peer-to-peer lending is treated legally as investment and the repayment in case of borrower defaulting is not guaranteed by the federal government (U.S. [[Federal Deposit Insurance Corporation]]) the way bank deposits are.<ref name="bbc12"/>
+
+A class action lawsuit, Hellum v. Prosper Marketplace, Inc. was held in Superior Court of California on behalf of all investors who purchased a note on the Prosper platform between January 1, 2006 and October 14, 2008. The plaintiffs alleged that Prosper offered and sold unqualified and unregistered securities, in violation of California and federal securities laws during that period. Plaintiffs further allege that Prosper acted as an unlicensed broker/dealer in California. The Plaintiffs were seeking rescission of the loan notes, rescissory damages, damages, and attorneys' fees and expenses.<ref>Superior Court of California, County of San Francisco, Docket: [Case Number: CGC-09-491736 http://webaccess.sftc.org/Scripts/Magic94/mgrqispi94.dll?APPNAME=IJS&PRGNAME=ROA22&ARGUMENTS=-ACGC09491736](retrieved {{Webarchive|url=https://web.archive.org/web/20130724042313/http://webaccess.sftc.org/Scripts/Magic94/mgrqispi94.dll?APPNAME=IJS&PRGNAME=ROA22&ARGUMENTS=-ACGC09491736 |date=July 24, 2013 }} February 1, 2011)</ref> On July 19, 2013 the class action lawsuit was settled. Under the settlement terms Prosper will pay $10 million to the class action members.<ref>{{cite web|url=http://www.p2p-banking.com/group-news/services/prosper-prosper-settles-class-action-lawsuit-pays-10m-us/,|title=Prosper Settles Class Action Lawsuit – Pays 10M US$|date=July 19, 2013|accessdate=September 28, 2018}}</ref>
+
+===Peer-to-peer lending sponsors===
+'''Peer-to-peer lending sponsors''' are organizations that handle loan administration on behalf of others including individual lenders and lending agencies, but do not loan their own money.<ref>{{cite news|last1=Kota|first1=Ina|title=Microfinance: Banking for the Poor|url=http://www.imf.org/external/pubs/ft/fandd/2007/06/basics.htm|accessdate=9 September 2017|agency=IMF|publisher=Finance and Development|date=June 2007}}</ref><ref name="nyt061210">{{cite news|last1=Narang|first1=Sonia|title=Web-Based Microfinancing|url=https://www.nytimes.com/2006/12/10/magazine/10section4.t-6.html|accessdate=9 September 2017|work=New York Times|date=December 10, 2006}}</ref> Notable peer-to-peer lending sponsors include:
+
+* [[Kiva (organization)|Kiva]]
+*[[Lendwithcare]]
+*[[MYC4]]
+*[[Vittana]] (defunct)
+* [[Wokai]] (defunct)
+* [[Zidisha]]
+
+==See also==
+{{Div col}}
+* [[Alternative finance]]
+* [[Alternative financial services]]
+* [[Comparison of crowd funding services]]
+* [[Customer to customer]]
+* [[Non-bank financial institution]]
+* [[Peer to peer banking|Peer-to-peer banking]]
+* [[Self-Organized Funding Allocation]]
+* [[:Category:Peer-to-peer lending companies|Peer-to-peer lending companies]]
+{{Div col end}}
+
+==References==
+{{reflist|2|refs=
+<ref name="ab1">{{cite news
+|url=http://www.americanbanker.com/issues/175_243/prosper-lending-club-1030207-1.html
+| title=Prosper Ditches Auction Pricing for Model Like P-to-P Rival's
+| first=Sara
+| last=Lepro
+| date=December 20, 2010
+| accessdate=July 31, 2012
+| newspaper=[[American Banker]]}}
+</ref>
+
+<ref name="bbc12">{{cite news
+|url=https://www.bbc.co.uk/news/business-18370777
+| title=Peer-to-peer lending via the internet hits £250m
+| first=Simon
+| last= Gompertz
+| date=June 8, 2012
+| accessdate=August 3, 2012
+| newspaper=[[BBC News]]}}
+</ref>
+
+<ref name="Bradley">{{Cite news
+  | last1 = Bradley    | first1 = Christine
+  | last2 = Burhouse    | first2 = Susan
+  | last3 = Gratton    | first3 = Heather
+  | last4 = Miller    | first4 = Rae-Ann
+  | title = Alternative Financial Services: A Primer
+  | periodical = FDIC Quarterly
+  | book-title = Federal Reserve Board Academic Consultants Meeting on Non-traditional Financial Services, April 16, 2008
+  | publisher = [[Federal Deposit Insurance Corporation]]
+  | volume = 3
+  | issue = Q1
+  | date = 2009
+  | url = http://www.fdic.gov/bank/analytical/quarterly/2009_vol3_1/AltFinServicesprimer.html
+  | accessdate = July 30, 2012
+  }}
+</ref>
+
+<ref name="consaction">{{cite news
+|url=http://www.consumer-action.org/news/articles/2012_p2p_lending_survey/
+| title=Peer-to-peer lending survey
+| first=Monica
+| last=Steinisch
+| date=June 2012
+| accessdate=July 23, 2012
+| publisher=[[Consumer Action]]}}
+</ref>
+
+<!--
+<ref name="ectimes">{{cite news
+|url=http://articles.economictimes.indiatimes.com/2009-02-20/news/27645889_1_social-entrepreneurship-social-enterprises-social-ventures
+| title=Social entrepreneurship in India
+| first=Nikhil
+| last=Menon
+| date=February 20, 2009
+| accessdate=August 2, 2012
+| newspaper=[[The Economic Times|Economic Times]]}}
+</ref>-->
+
+<ref name="ft11">{{cite news
+|url=http://www.ft.com/cms/s/0/2345e94a-0bb1-11e1-9a61-00144feabdc0.html#ixzz21aKdQtwL
+| title=Interest soars in US peer-to-peer lending
+| first=Matt
+| last=Kennard
+| first2=Shannon
+| last2=Bond
+| date=November 24, 2011
+| accessdate=July 20, 2012
+| newspaper=[[Financial Times]]}}
+</ref>
+
+<ref name="ft4-12">{{cite news
+|url=http://www.ft.com/cms/s/0/4fc03862-8952-11e1-bed0-00144feab49a.html#ixzz21aGjRoUj
+| title=Mack moves to cutting edge of P2P lending
+| first=Tracy
+| last=Alloway
+| first2=Elaine
+| last2=Moore
+| date=April 23, 2012
+| accessdate=July 20, 2012
+| newspaper=[[Financial Times]]}}
+</ref>
+
+<ref name="ft6-12">{{cite news
+|url=http://www.ft.com/intl/cms/s/0/bb517d8a-a5ad-11e1-a3b4-00144feabdc0.html#axzz1xh25M4Jh
+| title=Peer-to-peer lending: Model takes off worldwide
+| first=Sharlene
+| last=Goff
+| date=June 13, 2012
+| accessdate=August 2, 2012
+| newspaper=[[Financial Times]]}}
+</ref>
+
+<ref name="forbes12">{{cite news
+|url=https://www.forbes.com/sites/chrisbarth/2012/06/06/looking-for-10-yields-go-online-for-peer-to-peer-lending/
+| title=Looking for 10% yields? Go online for peer to peer lending
+| first=Chris
+| last=Barth
+| date=June 6, 2012
+| accessdate=July 25, 2012
+| newspaper=[[Forbes]]}}
+</ref>
+
+<ref name="gao">{{cite web
+|url=http://www.gao.gov/new.items/d11613.pdf
+|title=PERSON-TO-PERSON LENDING: New Regulatory Challenges Could Emerge as the Industry Grows (Report to Congressional Committees)
+|date=July 2011
+|accessdate=August 23, 2012
+|publisher=[[United States Government Accountability Office]]}}
+</ref>
+
+<ref name="guardian12">{{cite news
+|url=https://www.theguardian.com/business/2012/jun/10/peer-to-peer-lenders-future-of-banking
+| title=Are peer-to-peer lenders the future of banking?
+| first=Josephine
+| last=Moulds
+| date=June 9, 2012
+| accessdate=July 25, 2012
+| newspaper=[[The Guardian]]}}
+</ref>
+
+<ref name="LC_quietperiod">{{cite web|url=http://www.lendingclub.com/info/quietPeriod.action|title=Quiet Period|accessdate=April 8, 2008|publisher=[[Lending Club]]|url-status=dead|archive-url=https://web.archive.org/web/20080517083323/http://www.lendingclub.com/info/quietPeriod.action|archive-date=May 17, 2008|df=mdy-all}}
+</ref>
+
+<ref name="mab">{{cite book
+ |url= http://www.saylor.org/site/wp-content/uploads/2012/06/ECON302-1.2-1st.pdf
+ | author1 = Robert E. Wright
+ |author2=Vincenzo Quadrini
+ | title = Chapter 2 Section 5: Financial Intermediaries
+ | book-title = Money and Banking
+ | accessdate=August 5, 2012 }}
+</ref>
+
+<ref name="peerlend">{{cite web
+|url=http://www.peer-lend.com/2008/04/08/lending-club-shuts-down-temporarily/
+|title=Lending Club Shuts Down (Temporarily?)
+|accessdate=April 8, 2008
+|publisher=Peer-Lend}}
+</ref>
+
+<ref name="tc12">{{cite news
+|url=https://techcrunch.com/2012/06/06/lending-club-17-5-million-kleiner-perkins-mary-meeker-john-mack/
+| title=Lending Club Lands $17.5 Million from Kleiner Perkins and Morgan Stanley Chairman John Mack
+| first=Colleen
+| last=Taylor
+| date=June 6, 2012
+| accessdate=June 8, 2012
+| newspaper=[[Tech Crunch]]}}
+</ref>
+
+<ref name="techcrunch8">{{cite news
+|url=https://techcrunch.com/2008/04/08/lending-club-puts-moratorium-on-lending-activity/
+| title=Peer Lending Club Puts Hold on Lending Activity While It Sorts Out Some Legal Issues
+| first=Mark
+| last=Hendrickson
+| date=April 8, 2008
+| accessdate=August 2, 2012
+| newspaper=[[Techcrunch]]}}
+</ref>
+
+<ref name="techcrunch12">{{cite news
+|url=https://techcrunch.com/2012/05/29/peer-to-peer-lending-crosses-1-billion-in-loans-issued/
+| title=Peer To peer lending crosses $1 billion in loans issued
+| first=Peter
+| last=Renton
+| date=May 29, 2012
+| accessdate=July 25, 2012
+| newspaper=[[Techcrunch]]}}
+</ref>
+
+<ref name="telegraph10">{{cite news
+| url = https://www.telegraph.co.uk/finance/newsbysector/banksandfinance/8012269/Zopa-calls-on-Government-and-FSA-to-regulate-social-lending-sector.html
+| title = Zopa calls on Government and FSA to regulate social lending sector
+| author = Sean Farrell
+| date = September 20, 2010
+| accessdate=July 25, 2012
+| newspaper=[[The Daily Telegraph]]}}
+</ref>
+
+<ref name="wsj09">{{cite news
+| url = https://www.wsj.com/articles/SB124088142201761953
+| title = Peer-To-Peer Lender Relaunched
+| author = Jane J. Kim
+| date = April 28, 2009
+| accessdate=July 25, 2012
+| work=[[The Wall Street Journal]]}}
+</ref>
+
+<ref name="wsj10">{{cite news
+| url = https://www.wsj.com/articles/SB10001424052748703905604575514340314712872
+| title = Credit Crunch Gives 'Microlending' a Boost
+| author = Jonnelle Marte
+| date = September 26, 2010
+| accessdate=August 23, 2012
+| work=[[The Wall Street Journal]]}}
+</ref>
+
+}}
+
+{{Sharing economy}}
+{{Peer-to-peer lending companies}}
+
+{{DEFAULTSORT:Peer-To-Peer Lending}}
+[[Category:Loans]]
+[[Category:Collaborative finance]]
+[[Category:Credit]]
+[[Category:Social economy]]
+[[Category:Peer-to-peer]]
+[[Category:Financial technology]]
+[[Category:Crowdfunding]]
+[[Category:Peer-to-peer lending companies| ]]

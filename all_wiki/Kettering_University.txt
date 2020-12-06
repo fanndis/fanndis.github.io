@@ -1,0 +1,459 @@
+{{short description|Private university in Flint, Michigan, United States}}
+{{infobox university
+| name         = Kettering University
+| image        = KetteringSeal.png
+| image_size   = 150px
+| president    = [[Robert McMahan]]<ref>{{cite web|url=http://www.kettering.edu/news/new-president-named |title=New president named |publisher=Kettering.edu |date=2011-06-13 |accessdate=2017-10-06}}</ref>
+| provost      = James Zhang
+| established  = {{start date and age|1919}}<ref>[http://www.kettering.edu/visitors/docs/KeyDatesonCampus_000.pdf Kettering University Key Dates] {{webarchive|url=https://web.archive.org/web/20080509064057/http://www.kettering.edu/visitors/docs/KeyDatesonCampus_000.pdf |date=2008-05-09 }}</ref>
+| type         = [[Private university|Private non-profit]]
+|academic_affiliations = [[Higher Learning Commission]], [[ACBSP]], [[ABET]]
+| endowment    = $90.4&nbsp;million (2019)<ref>As of June 30, 2019. {{cite web |url=https://www.nacubo.org/-/media/Nacubo/Documents/EndowmentFiles/2019-Endowment-Market-Values--Final-Feb-10.ashx? |title=U.S. and Canadian 2019 NTSE Participating Institutions Listed by Fiscal Year 2019 Endowment Market Value, and Percentage Change in Market Value from FY18 to FY19 (Revised) |publisher=National Association of College and University Business Officers and TIAA |access-date=September 19, 2020}}</ref>
+| staff        =
+| faculty      = 145
+| students     = 2,327<ref name="Kettering Fast Facts">[https://www.kettering.edu/sites/default/files/class-profile.pdf As of May 2017] {{cite web|url=https://www.kettering.edu/sites/default/files/class-profile.pdf |date=2017-05-16 |title=Class Profile 2016-2017}}</ref>
+| undergrad    = 1,905<ref name="Kettering Fast Facts" />
+| postgrad     = 422<ref name="Kettering Fast Facts" />
+| colors       = Gold and Blue {{color box|#FFD900}}&nbsp;{{color box|#0E3393}}
+| city         = [[Flint, Michigan|Flint]]
+| state        = [[Michigan]]
+| country      = United States
+| coordinates  = {{coord|43.0125|-83.7125|type:edu|display=inline,title}}
+| nickname     = Bulldogs
+| mascot       = General Determination
+| campus       = [[Urban area|Urban]]
+| affiliations = 
+| website      = {{URL|http://www.kettering.edu}}
+| logo         = [[File:KetteringWordmark (cropped vertically).png|200px]]
+}}
+
+'''Kettering University''' (formerly '''General Motors Institute of Technology''') is a private university in [[Flint, Michigan]]. It offers bachelor's and master's degrees in STEM ([[Science, Technology, Engineering, and Mathematics]]) and business fields. Kettering University undergraduate students are required to complete at least five co-op terms to graduate.<ref>{{cite web |url=http://www.kettering.edu/content/undergraduate-application-graduate/undergraduate-graduation-requirements-and-information |title=Undergraduate Graduation Requirements and Information - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20151127193218/http://www.kettering.edu/content/undergraduate-application-graduate/undergraduate-graduation-requirements-and-information |archivedate=2015-11-27 }}</ref> Students gain paid work experience in a variety of industries with Kettering's more than 550 corporate partners, and graduate with professional experiences accompanying their degree.<ref>{{cite web|url=https://www.kettering.edu/experiential-learning/co-op-experience |title=Major in Experience - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref>
+
+Kettering University is named after inventor and former head of research for [[General Motors]], [[Charles F. Kettering]]. Along with his distinguished career that included his development of the automatic cash register and automobile self-starter, as well as research on magnetism and solar energy, Kettering was a proponent of cooperative education. This concept included professional experience to supplement instruction in classrooms and labs.<ref name="kettering.edu">{{cite web|url=http://www.kettering.edu/about/our-history-archives/collections/charles-f-kettering |title=Charles F. Kettering - Kettering University |publisher=Kettering.edu |date=1998-01-01 |accessdate=2017-10-06}}</ref> Kettering University's belief in experiential education is based on Charles Kettering's foundational belief in the power of combining theory with practice.<ref name="kettering.edu"/>
+
+==History==
+{| cellpadding=3 cellspacing=2 style="float:right; margin:5px; border:3px solid;"
+|-
+! style="background:white;"| Kettering University<br/>Presidents
+|-
+| colspan="2" style="text-align:center;"| <timeline>
+# All measures all in pixels
+ImageSize  = width:170 height:570
+PlotArea   = width: 26 height:500 left:40 bottom:65
+AlignBars  = early
+
+DateFormat = yyyy
+Period     = from:1915 till:2025
+TimeAxis   = orientation:vertical
+ScaleMajor = unit:year increment:5 start:1915
+
+Define $dx = 25 # shift text to right side of bar
+
+Colors = 
+ id:color1 value:rgb(1,0.851,0)
+ id:color2 value:rgb(0.055,0.2,0.576)
+
+PlotData= 
+  bar:Leaders width:25 mark:(line,black) align:left fontsize:7px
+  from:1919 till:1950 shift:($dx,-3) color:color1 text:Albert J. Sobey
+  from:1950 till:1960 shift:($dx,-3) color:color2 text:Guy R. Cowing
+  from:1960 till:1976 shift:($dx,-3) color:color1 text:Harold P. Rodes
+  from:1976 till:1991 shift:($dx,-3) color:color2 text:William B. Cottingham
+  from:1991 till:2005 shift:($dx,-3) color:color1 text:James E. A. John
+  from:2005 till:2011 shift:($dx,-3) color:color2 text:Stanley R. Liberty
+  from:2011 till:2020 shift:($dx,-3) color:color1 text:[[Robert McMahan|Robert K. McMahan]]
+</timeline>
+|}
+
+===Establishment===
+Founded as The School of Automotive Trades by [[Albert Sobey]] under the direction of the Industrial Fellowship of Flint on October 20, 1919, Kettering University has a long legacy with the [[automotive industry]]. The university became known as the Flint Institute of Technology in 1923 before being acquired by [[General Motors]] in 1926. It was renamed as the General Motors Institute of Technology and eventually the General Motors Institute in 1932.{{ref_label|stats|2|2}}
+
+Once referred to as the "[[West Point]] of the Automobile industry," GMI focused on creating business and industry leaders through the unique co-op model (following the development of this program at the [[University of Cincinnati]] in 1907).<ref>{{cite news |author= Beata Mostafavi |url= http://www.mlive.com/news/flint/index.ssf/2010/07/kettering_university_graduates.html |title= Kettering graduates have 10th highest salary potential |newspaper= Flint Journal |date=2010-07-10 |accessdate=2017-10-06}}</ref> GMI also pioneered freshman-level manufacturing courses (Production Processes I & II), and automotive degree specialties. A fifth-year thesis requirement was added in 1945, and the Institute was granted the ability to award degrees. The first bachelor's degree was awarded on August 23, 1946.{{ref_label|stats|2|2}}
+<!-- Deleted image removed: [[File:C kettering.jpg|thumbnail|left|Charles F. Kettering in his Solar Energy Research Lab.]] -->
+
+The co-op program required applicants to find a GM division to be their sponsor. Work and school were mixed in six-week rotations, dividing the student body into A-section and B-section. At any given time, when A-section was in school, B-section was at work. After six weeks, B-section would go back to school and so on. This resulted in students moving eight times per year and a 48-week school/work year. Because General Motors used the school to train its engineers, tuition was partially subsidized. In June 1979 (the Class of 1984) co-op rotations were expanded to twelve weeks.
+
+===Split from GM===
+After GM reduced operations in Flint, the company and the university separated on July 1, 1982. The name of the institution became "GMI Engineering & Management Institute" and the letters "GMI" were retained to allow easy identification with the old General Motors Institute. The university began charging full tuition as an independent private university. The university kept the cooperative education model, expanding the number of co-op employers for students. The university also began offering graduate programs for both on- and off-campus students.{{ref_label|stats|2|2}}
+
+===Name change and expansion of programs===
+The university's name was formally changed to Kettering University on January 1, 1998, in honor of [[Charles Kettering]].<ref>[http://www.kettering.edu/visitors/about/charles_kettering.jsp Charles Kettering biography] {{webarchive|url=https://web.archive.org/web/20080522152907/http://www.kettering.edu/visitors/about/charles_kettering.jsp |date=2008-05-22 }}</ref> The name change allowed the university to create a separate identity from General Motors as well as publicize the fact that academic programs were expanding beyond just automotive-related offerings.
+
+The university launched a physics program in 1995, and had the first ABET-accredited applied physics program in the world in 2013.<ref name="ReferenceC">{{cite web|url=http://www.kettering.edu/news/applied-physics-engineering-physics-receive-abet-accreditation |title=Physics program receives ABET accreditation - Kettering University |publisher=Kettering.edu |date=2013-10-16 |accessdate=2017-10-06}}</ref> A chemical engineering program as well as a pre-med course of study were launched in 2008.<ref name="mlive1">{{cite web |author= Ryan Garza, at ''The Flint Journal'' |url= http://www.mlive.com/news/flint/index.ssf/2011/06/pipeline_from_kettering_univer.html |title=Pipeline from Kettering to medical school grows |publisher=MLive.com |date=2011-06-15 |accessdate=2017-10-06}}</ref> The chemical engineering program received ABET accreditation in 2013.<ref>{{cite web|url=http://www.kettering.edu/news/kettering-chemical-engineering-program-receives-accreditation |title=Chemical Engineering program receives ABET accreditation - Kettering University |publisher=Kettering.edu |date=2013-10-16 |accessdate=2017-10-06}}</ref> The computer science program received ABET accreditation in 2007.<ref>{{cite web |url=http://www.kettering.edu/academics/departments/computer-science |title=Kettering University Computer Science |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20151106100937/http://www.kettering.edu/academics/departments/computer-science |archivedate=2015-11-06 }}</ref> The university added an applied biology program in 2013.<ref>{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2013/12/kettering_university_brings_bi.html |title=Kettering looking beyond engineering with new biology program |publisher=MLive.com |date= |accessdate=2017-10-06}}</ref>
+
+==Academics==
+Kettering University offers [[Bachelor of Science]] degrees and offers [[Master's degree|master's]] degrees.<ref>[http://www.kettering.edu/futurestudents/graduate/programs.jsp Kettering Graduate Programs] {{webarchive|url=https://web.archive.org/web/20080113103447/http://www.kettering.edu/futurestudents/graduate/programs.jsp |date=2008-01-13 }}</ref> Some masters programs are offered online, as the school launched distance education programs in 2015. Most undergraduate programs require completion of 160 credit hours for graduation. Kettering also offers students more than 40 minors, concentrations, specialties, and courses of study.<ref>[http://www.kettering.edu/futurestudents/programs.jsp Academic Programs] {{webarchive|url=https://web.archive.org/web/20111104065052/http://www.kettering.edu/futurestudents/programs.jsp |date=2011-11-04 }}</ref>
+
+=== Accreditation ===
+As an institution, Kettering University programs are [[Regional accreditation|regionally accredited]] by the [[Higher Learning Commission]].<ref>{{cite web|url=http://www.kettering.edu/about/planning-assessment-and-accreditation/accreditation |title=About &#124; Kettering University |publisher=Kettering.edu |date=1998-01-01 |accessdate=2017-10-06}}</ref>  A number of academic programs at the University have specific accreditation as well:
+{| class="wikitable"
+|+Program-specific accreditations
+!Program
+!Accreditor
+!Initial 
+accreditation
+|-
+|Applied Physics
+|ABET<ref name=":1">{{Cite web|url=http://main.abet.org/aps/AccreditedProgramsDetails.aspx?OrganizationID=20&ProgramIDs=|title=Find an ABET-Accredited Program {{!}} ABET|website=main.abet.org|language=en|access-date=2018-05-25}}</ref>
+|2011
+|-
+|Business Administration
+|ACBSP<ref>{{Cite web|url=https://www.acbsp.org/members/?id=18776652&hhSearchTerms=%22kettering+and+university%22|title=Kettering University - Accreditation Council for Business Schools and Programs|website=www.acbsp.org|language=en|access-date=2018-05-25}}</ref>
+|1995
+|-
+|Chemical Engineering
+|ABET<ref name=":1" />
+|2011
+|-
+|Computer Engineering
+|ABET<ref name=":1" />
+|1998
+|-
+|Computer Science
+|ABET<ref name=":1" />
+|2007
+|-
+|Electrical Engineering
+|ABET<ref name=":1" />
+|1977
+|-
+|Engineering Physics
+|ABET<ref name=":1" />
+|2011
+|-
+|Industrial Engineering
+|ABET<ref name=":1" />
+|1977
+|-
+|Mechanical Engineering
+|ABET<ref name=":1" />
+|1977
+|}
+<!-- Deleted image removed: [[File:KettBellTower.jpg|framed|right|The Bell Tower at Kettering University]] -->
+
+===Rankings===
+{{Infobox US university ranking
+| USNWR_REG = 26
+| Wamo_MASTERSU = 32
+| Forbes    = 320
+}}
+
+Kettering University ranked 13th nationally among non-Ph.D.-granting engineering universities and seventh nationally among mechanical engineering programs in the 2017 ''U.S. News and World Report'' "Best Colleges" edition.<ref name="usnews.com">{{cite web|url=https://www.usnews.com/best-colleges/kettering-university-2262/overall-rankings|title=Kettering University Overall Rankings -- U.S. News and World Report|publisher=}}</ref> The university also received a 'Best in the Midwest' designation from the [[Princeton Review]].<ref>{{cite web|url=http://www.princetonreview.com/college-rankings |title=Princeton Review Best Colleges |publisher=Princetonreview.com |date= |accessdate=2017-10-06}}</ref>
+
+Kettering ranked 12th nationally and first in the Midwest and Michigan in Return on Investment in PayScale.com's 2015 Return on Investment Rankings.<ref name="ReferenceA">{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2015/03/kettering_university_is_no_1_i.html |title=Kettering No. 1 in Michigan in Return on Investment, report says |publisher=MLive.com |date=2015-03-09 |accessdate=2017-10-06}}</ref> PayScale.com also ranked Kettering 15th nationally and first in Michigan in its 2014 Salary Potential rankings.<ref name="ReferenceB">{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2014/09/kettering_university_ranks_no.html |title=Kettering ranks No. 1 in Michigan in salary potential |publisher=MLive.com |date=2014-09-12 |accessdate=2017-10-06}}</ref> A 2015 CNNMoney.com article examining the top private colleges in the country in return on investment ranked Kettering 10th, noting that Kettering is sending graduates "out into the world with the skills employers are looking for."<ref name="money.cnn.com">{{cite web|last=Fahey |first=Mark |url=https://money.cnn.com/gallery/pf/college/2015/03/07/private-colleges/10.html |title=Private colleges with the biggest payoff - CNN Money |publisher=Money.cnn.com |date=2015-03-10 |accessdate=2017-10-06}}</ref>
+
+An article in the 2014 issue of ''Automobile'' magazine listed Kettering University among five universities nationwide that students looking to break into the auto industry should attend.<ref name="automobilemag.com">{{cite web|last=Lerner |first=Preston |url=http://www.automobilemag.com/features/magazine/1412-so-you-want-to-break-into-the-automotive-industry/photo_00.html/ |title=So you want to break into the automotive industry - ''Automobile'' magazine |publisher=Automobilemag.com |date=2014-12-24 |accessdate=2017-10-06}}</ref> The article noted that Kettering University offers "a unique program that doesn't merely prepare students to work but puts them to work—three months in school, followed by three months on the job, repeat until graduation."
+
+Kettering University was ranked 137th on ''Business Insider''{{'}}s 2014 list of "The 600 Smartest Colleges in America."<ref>{{cite web|author=Strategy |url=http://www.businessinsider.com/smartest-colleges-in-america-2014-10 |title=The 600 Smartest Colleges in America - ''Business Insider'' |publisher=Businessinsider.com |date=2014-10-21 |accessdate=2017-10-06}}</ref>
+
+===Research===
+Kettering University faculty have received ten Major Research Instrumentation (MRI) grants from the [[National Science Foundation]] since 2013, the most MRI grants in Michigan over that period of time.<ref>{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2014/07/kettering_university_ties_for.html |title=Kettering University ties for the most National Science Foundation grants received in two years |publisher=MLive.com |date=2014-07-31 |accessdate=2017-10-06}}</ref> The grants have allowed Kettering to add equipment that includes an X-Ray Diffractometer,<ref>{{cite web|url=http://www.kettering.edu/news/nsf-grant-will-help-kettering-acquire-x-ray-diffractometer |title=NSF grant will help Kettering acquire X-Ray Diffractometer - Kettering University |publisher=Kettering.edu |date=2014-03-27 |accessdate=2017-10-06}}</ref> an X-Ray Photoelectron Spectroscopy (XPS) instrument,<ref name="kettering1">{{cite web|url=http://www.kettering.edu/news/kettering-university-receives-fifth-mri-grant-national-science-foundation |title=Kettering University receives fifth MRI grant from the National Science Foundation - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref> a motion capture system,<ref>{{cite web|url=http://www.kettering.edu/news/collaboration-helps-faculty-secure-multi-disciplinary-nsf-grant |title=Collaboration helps faculty secure multi-disciplinary NSF grant - Kettering University |publisher=Kettering.edu |date=2013-10-23 |accessdate=2017-10-06}}</ref> a High-Throughput and High-Resolution Three-Dimensional Tissue Scanner with Internet-Connected 3D Virtual Microscope for Large-Scale Automated Histology,<ref>{{cite web|url=http://www.kettering.edu/news/nsf-grant-will-support-high-resolution-mri-research |title=NSF grant will support high resolution MRI research - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref> and the only 4G LTE Wireless system on a college campus in the country.<ref>{{cite web|url=http://www.kettering.edu/news/latest-nsf-grant-will-give-kettering-university-its-own-4g-lte-wireless-system |title=Latest NSF grant will give Kettering University its own 4G LTE wireless system - Kettering University |publisher=Kettering.edu |date=2014-09-18 |accessdate=2017-10-06}}</ref>
+<!-- Deleted image removed: [[File:KettCrashLab.jpg|framed|right|The Crash Safety Center at Kettering University]] -->
+Kettering University is a partner with the federal government's U.S. Ignite program, which brings super high speed internet capabilities to Flint, Michigan. The technology will bring new healthcare, crime prevention, and educational opportunities to Flint.<ref>{{cite web|url=https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=134556 |title=Igniting change in Vehicle City - National Science Foundation |publisher=Nsf.gov |date= |accessdate=2017-10-06}}</ref> Kettering University also received a $1 million neighborhood stabilization grant from the United States Department of Justice in 2014 and is also participating as a research agent on the grant along with the [[University of Michigan]] and [[Michigan State University]].<ref>{{cite web|author=Jiquanda Johnson|url=http://www.mlive.com/news/flint/index.ssf/2014/10/new_grant_may_help_ease_crime.html |title=New crime fighting grant aims to stabilize Flint corridor |publisher=MLive.com |date= |accessdate=2017-10-06}}</ref>
+
+Research in Kettering University's Crash Safety Center has directly impacted national standards for child safety seats.<ref>{{cite web|url=http://www.kettering.edu/news/crash-safety-center-makes-life-saving-research-possible |title=Crash Safety Center makes life-saving research possible - Kettering University |publisher=Kettering.edu |date=2014-01-28 |accessdate=2017-10-06}}</ref> The Crash Safety Center was featured on a [[Canadian Broadcasting Corporation]] segment in 2014 examining the effectiveness of pet harnesses for vehicles.<ref>{{cite web|url=http://www.cbc.ca/marketplace/blog/pet-safety-dog-harness-crash-test-results |title=Dog harness test results - CBC Marketplace |publisher=Cbc.ca |date=2014-12-05 |accessdate=2017-10-06}}</ref>
+
+===FIRST Robotics===
+Kettering University opened the [[FIRST Robotics|FIRST Robotics Competition]] Community Center, the first facility of its kind on any college campus in the country, in 2014. Michigan Governor [[Rick Snyder]] attended the grand opening.<ref>{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2014/09/its_a_dream_come_true_ketterin.html |title=Gov. Snyder helps unveil one of a kind robotics center |publisher=MLive.com |date= |accessdate=2017-10-06}}</ref>
+
+The facility provides work areas for eight FIRST teams with room to expand and allow space for as many as 16 teams. There is also a regulation size practice field as well as a machining lab. High school students on teams housed in the facility have access to Kettering University's faculty, staff, and students as mentors and the campus facilities.<ref name="kettering2">{{cite web|url=http://www.kettering.edu/news/gov-rick-snyder-helps-kettering-university-open-first-robotics-community-center |title=Snyder helps Kettering open FIRST Center - Kettering University |publisher=Kettering.edu |date=2014-09-22 |accessdate=2017-10-06}}</ref> Approximately 25 percent of Kettering University's student body participated in FIRST Robotics in high school.<ref name="kettering2"/>
+<!-- Deleted image removed: [[File:KettFIRST.jpg|framed|right|Teams practicing in the FIRST Robotics Community Center]] -->
+The intent of the facility is to create more opportunities for pre-college students, particularly students from underserved or financially disadvantaged populations, to gain exposure to science and engineering education and career possibilities.<ref name="kettering2"/> Kettering University also received a [[National Science Foundation]] grant in 2014 to provide scholarship to academically talented financially disadvantaged students who participated in high school robotics programs.<ref>{{cite web|url=http://www.kettering.edu/news/kettering-receives-nsf-grant-support-robotics-students |title=Kettering receives NSF grant to support robotics students - Kettering University |publisher=Kettering.edu |date=2014-07-15 |accessdate=2017-10-06}}</ref>
+
+FIRST Robotics founder and famous inventor [[Dean Kamen]], who has an honorary degree from Kettering University, toured the FIRST Robotics Community Center and spoke during a 2015 FIRST competition on Kettering's campus.<ref>{{cite web|author=William E. Ketchum III|url=http://www.mlive.com/news/flint/index.ssf/2015/03/renowned_inventor_dean_kamen_o.html |title=Renowned inventor Dean Kamen, of Segway fame, speaks at FIRST Robotics competition in Flint |publisher=MLive.com |date=2015-03-07 |accessdate=2017-10-06}}</ref>
+
+In his 2015 State of the State address, Michigan Governor [[Rick Snyder]] praised Kettering University's efforts in FIRST Robotics, calling the university a "true leader."<ref>{{cite web|url=http://www.kettering.edu/news/governor-rick-snyder-praises-kettering-university-first-robotics-during-2015-state-state |title=Snyder praises Kettering during 2015 State of the State - Kettering University |publisher=Kettering.edu |date=2015-01-20 |accessdate=2017-10-06}}</ref>
+
+===Academic departments===
+* '''Applied Biology:''' Launched in 2013, Kettering University's lab-oriented Applied Biology program has a strong focus on the molecular and cellular levels.<ref>{{cite web |url=https://www.kettering.edu/academics/departments/biology |title=Applied Biology - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20151121153136/http://www.kettering.edu/academics/departments/biology |archivedate=2015-11-21 }}</ref> The program includes significant hands-on opportunities in labs, courses, and undergraduate research, including the Bell-Kagle Research Internship, a paid, full-time research co-op position available to freshmen.<ref>{{cite web|url=http://www.kettering.edu/news/bell-kagle-program-allowing-student-get-extensive-lab-and-research-experience-immediately |title=Bell-Kagle program allowing student to get extensive lab and research experience immediately - Kettering University |publisher=Kettering.edu |date=2015-03-23 |accessdate=2017-10-06}}</ref> Research being done by Kettering's Applied Biology faculty includes determining medicinal and antioxidant value of discarded fruit parts<ref>{{cite web|url=http://www.kettering.edu/news/there-medicinal-value-discarded-fruit-parts-kettering-university-researchers-are-finding-out |title=Is there medicinal value in discarded fruit parts? - Kettering University |publisher=Kettering.edu |date=2014-08-25 |accessdate=2017-10-06}}</ref> and finding more durable joint replacement materials.<ref>{{cite web|url=http://www.kettering.edu/news/kettering-university-researchers-working-more-durable-joint-replacement-materials |title=Researchers working on more durable joint replacement materialss - Kettering University |publisher=Kettering.edu |date=2014-08-19 |accessdate=2017-10-06}}</ref> 
+* ''' Business:''' The Kettering University Department of Business prepares students to be fluent in the languages of innovation, markets, and global competition at home and abroad. Recent research by faculty in the department includes examining ways to improve delivery processes in supply chains,<ref>{{cite web|url=http://www.kettering.edu/news/improving-delivery-processes-supply-chains |title=Improving processes in supply chains - Kettering University |publisher=Kettering.edu |date=2015-02-16 |accessdate=2017-10-06}}</ref> the factors that influence users to adopt mobile banking,<ref>{{cite web|url=http://www.kettering.edu/news/faculty-member-studying-what-factors-help-convince-people-do-mobile-banking |title=What factors convince people to do mobile banking? - Kettering University |publisher=Kettering.edu |date=2014-10-20 |accessdate=2017-10-06}}</ref> and the financial benefits for companies that embrace environmentally friendly practices.<ref>{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2014/09/going_green_could_help_compani.html |title=Going green could help companies bring in more green |publisher=MLive.com |date=2014-09-06 |accessdate=2017-10-06}}</ref>
+* ''' Chemical Engineering:''' Kettering University's chemical engineering program is one of only six accredited programs in the state of [[Michigan]]. Students in the program work on synthesizing new materials, transform combinations of elements of matter, and develop processes to do it all safely. Students work on ways to better use limited petroleum resources, or design new processes to produce life-saving antibiotics and vaccines.<ref>{{cite web |url=https://www.kettering.edu/academics/departments/chemical-engineering |title=Chemical Engineering - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20151025211251/http://www.kettering.edu/academics/departments/chemical-engineering |archivedate=2015-10-25 }}</ref> The department received a Major Research Instrumentation grant from the National Science Foundation in 2014 to acquire an X-Ray Photoelectron Spectroscopy (XPS) instrument to support research on atmospheric pressure plasma on different surfaces.<ref name="kettering1"/>
+* ''' Chemistry and Biochemistry:''' Chemistry majors choose concentrations in marketing, management, electrical engineering, industrial engineering, mechanical engineering, bioengineering, or fuel cells—a track to prepare for careers in alternative energy. Biochemistry majors take additional classes in biology and learn life sciences at the molecular and cellular levels to prepare for careers in the chemical, pharmaceutical, or biotechnology fields.<ref>{{cite web |url=https://www.kettering.edu/academics/departments/chemistry-biochemistry |title=Chemistry and Biochemistry - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20151025211727/http://www.kettering.edu/academics/departments/chemistry-biochemistry |archivedate=2015-10-25 }}</ref>
+* ''' Computer Science:''' Computer Science majors take core courses in the art, science, and theory of computing, including operating systems, software construction, modern programming language concepts, and computing professionalism. Concentrations are available in Computer Gaming and Systems and Data Security. Bioinformatics students take a broad range of courses before undertaking work in genetic coding and learning how to algorithmically analyze and exploit the information contained in a strand of DNA.<ref>{{cite web |url=https://www.kettering.edu/academics/departments/computer-science |title=Computer Science - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20151106100937/http://www.kettering.edu/academics/departments/computer-science |archivedate=2015-11-06 }}</ref> The department features one of the world's top experts on opportunistic mobile social networks.<ref>{{cite web|url=http://www.kettering.edu/news/kettering-university-faculty-member-publishes-book-analyzing-opportunistic-mobile-social |title=Faculty member publishes book on opportunistic mobile social networks - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref>
+* ''' Electrical and Computer Engineering:''' Kettering University electrical engineering students take six core courses then design their curriculum to fit their professional goals. Computer engineering students focus on embedded computers built into many modern products, learning skills including writing real-time operating systems.<ref>{{cite web |url=https://www.kettering.edu/academics/departments/electrical-computer-engineering |title=Electrical and Computer Engineering - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20160125222302/http://www.kettering.edu/academics/departments/electrical-computer-engineering |archivedate=2016-01-25 }}</ref> ECE faculty Kevin Bai and Xuan Zhou were featured in a 2014 ''[[Fortune (magazine)]]'' article discussing the future of battery technology.<ref>{{cite web|last=Purdy |first=Kevin |url=http://fortune.com/2014/08/15/the-next-big-battery-disruption-isnt-coming-next-year/ |title=The next big battery disruption isn't coming next year |publisher=Fortune |date=2014-08-15 |accessdate=2017-10-06}}</ref>
+<!-- Deleted image removed: [[File:KettLEGO.jpg|framed|right|The "LEGO Lab" at Kettering University]] -->
+* ''' Industrial and Manufacturing Engineering:''' Industrial Engineering students learn about process engineering with graduates impacting a variety of fields including healthcare, manufacturing, retail, and more.<ref>{{cite web |url=https://www.kettering.edu/academics/departments/industrial-manufacturing-engineering |title=Industrial Engineering - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20151024000003/http://www.kettering.edu/academics/departments/industrial-manufacturing-engineering |archivedate=2015-10-24 }}</ref> The Industrial Engineering program was ranked first in the country among non-Ph.D.-granting programs in the country in the 2014 ''U.S. News and World Report'' 'Best Colleges' edition.<ref>{{cite web|url=https://www.kettering.edu/news/kettering-industrial-engineering-program-once-again-named-best |title=Industrial Engineering program once again the best - Kettering University |publisher=Kettering.edu |date=2013-09-13 |accessdate=2017-10-06}}</ref> Industrial Engineering faculty member Justin Young was featured in a 2015 ''[[Fast Company (magazine)|Fast Company]]'' article examining the future of [[ergonomics]].<ref>{{cite web|url=http://www.fastcoexist.com/3040205/meet-the-man-whos-figuring-out-the-ergonomics-of-the-office-of-the-future |title=Meet the man figuring out the ergonomics of the office of the future - Fast Company |publisher=Fastcoexist.com |date=2015-01-12 |accessdate=2017-10-06}}</ref>
+* ''' Liberal Studies:''' Kettering University's liberal studies department supplements the university's science, engineering, math, and business programs with courses that help students understand cultural heritages and societies, develop communication and critical thinking skills, and understand ethics and the global economy.<ref>{{cite web |url=https://www.kettering.edu/academics/departments/liberal-studies |title=Liberal Studies - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20150905132118/https://www.kettering.edu/academics/departments/liberal-studies |archivedate=2015-09-05 }}</ref>
+* ''' Mathematics:''' Kettering University's mathematics program teaches students the fundamentals of both modern and classical math, including calculus and complex variables to matrix and control theory.<ref>{{cite web |url=https://www.kettering.edu/academics/departments/mathematics |title=Applied Mathematics - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20151128134816/http://www.kettering.edu/academics/departments/mathematics |archivedate=2015-11-28 }}</ref> The Kettering Department of Mathematics hosted an international statistics conference focusing on urban communities and crime data in 2014.<ref>{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2014/06/kettering_university_hosts_int.html |title=Kettering hosts international conference on urban statistics |publisher=MLive.com |date=2014-06-18 |accessdate=2017-10-06}}</ref>
+* ''' Mechanical Engineering:''' Kettering's Mechanical Engineering program was ranked seventh in the country in the 2017 ''U.S. News and World Report'' 'Best Colleges' edition.<ref name="usnews.com"/> Students in the program customize their degree by earning a specialty concentration or by earning a minor in areas that include Automotive Engineering Design, Bioengineering Applications, Machine Design & Advanced Materials, and Alternative Energy.<ref>{{cite web |url=https://www.kettering.edu/academics/departments/mechanical-engineering |title=Mechanical Engineering - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20151128124248/http://www.kettering.edu/academics/departments/mechanical-engineering |archivedate=2015-11-28 }}</ref> 
+<!-- Deleted image removed: [[File:KettPhysics.jpg|framed|right|The Acoustics Lab at Kettering University]] -->
+* ''' Physics:''' Kettering University has the only ABET-accredited applied physics program in the world and also offers a degree in engineering physics.<ref name="ReferenceC"/> Both the applied physics and engineering physics programs focus on materials science, applied optics and acoustics, and nanotechnology.<ref>{{cite web |url=https://www.kettering.edu/academics/departments/physics |title=Physics - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20151112082056/http://www.kettering.edu/academics/departments/physics |archivedate=2015-11-12 }}</ref> Physics faculty are doing research that includes developing alternative ocular cancer treatments<ref>{{cite web|url=http://www.dbusiness.com/daily-news/Annual-2014/Kettering-U-M-Researchers-Treating-Ocular-Cancer-without-Radiation/ |title=Kettering, UM researchers treating ocular cancer without radiation - DBusiness Magazine |publisher=Dbusiness.com |date=2014-11-07 |accessdate=2017-10-06}}</ref> and developing improved technology for non-electric warming blankets for infants in areas of the world with limited access to electricity.<ref>{{cite web|url=http://www.kettering.edu/news/physics-faculty-developing-technology-spread-warmth-villages-without-electricity |title=Physics faculty developing technology to spread warmth in villages without electricity |publisher=Kettering.edu |date=2015-03-30 |accessdate=2017-10-06}}</ref>
+
+===Cooperative and experiential learning===
+All Kettering University undergraduate students are required to complete some form of experiential learning for every degree program. Cooperative education begins as early as a student's freshman year. Student schedules typically alternate between academic terms that include classes and labs and full-time employment with one of Kettering's more than 550 partner organizations. Typically, a student maintains employment with the same organization throughout the program.<ref name="kettering3">{{cite web|url=http://www.kettering.edu/experiential-learning/co-op-experience |title=Co-Op Experience - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref>
+
+Cooperative experience is paid, with freshman students earning an average of $14.20 per hour on their co-op terms and upperclassmen earning an average of $18.44 per hour.<ref name="kettering3"/> 98 percent of Kettering University graduates are employed or accepted into graduate school within six months of graduation.<ref>{{cite web|last=Lerner |first=Preston |url=http://www.automobilemag.com/features/magazine/1412-so-you-want-to-break-into-the-automotive-industry/ |title=So you want to break into the auto industry? - Automobile Magazine |publisher=Automobilemag.com |date=2014-12-24 |accessdate=2017-10-06}}</ref>
+
+===Culminating Undergraduate Experience (thesis)===
+Kettering University undergraduates are required to complete a Culminating Undergraduate Experience to represent the combination of class and lab work with hands-on work experience on a focused study topic. Students can complete a thesis with their co-op sponsor or with research faculty, nonprofit community organizations, entrepreneurs, or other business ventures. Topics include new product development, process improvement, community enrichment, and new business planning.<ref>{{cite web|url=http://www.kettering.edu/experiential-learning/culminating-experience |title=Culminating Experience - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref>
+
+===Pre-med course of study===
+Kettering University launched a pre-med course of study in 2008.<ref name="mlive1"/> Kettering's pre-med program also has early assurance agreements with both Michigan State University College of Human Medicine<ref>{{cite web|url=http://www.kettering.edu/news/early-assurance |title=Early Assurance - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref> and Lake Erie College of Osteopathic Medicine (LECOM),<ref>{{cite web|author=06/16/2011 |url=https://www.kettering.edu/news/assurance-agreement |title=Assurance Agreement - Kettering University |publisher=Kettering.edu |date=2011-06-16 |accessdate=2017-10-06}}</ref> ensuring Kettering pre-med students admittance to the schools upon graduation. In 2013 Kettering and [[Hurley Medical Center]] announced the launch of a physician scribe program, providing co-op jobs for Kettering students at Hurley.<ref>{{cite web|url=http://detroit.cbslocal.com/2013/03/10/kettering-u-hurley-join-for-physician-scribe-program/ |title=Kettering U, Hurley join for 'scribe' program - CBS Detroit |publisher=Detroit.cbslocal.com |date=2013-03-10 |accessdate=2017-10-06}}</ref> An endowed scholarship was created in 2014 to support Flint-area students interested in pursuing a pre-med course of study to attend Kettering.<ref>{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2014/11/flint_couple_creates_10000_end.html |title=Flint couple creates endowed scholarship for pre-med students |publisher=MLive.com |date= |accessdate=2017-10-06}}</ref>
+
+===Innovation to Entrepreneurship course of study===
+Kettering's Innovation to Entrepreneurship course of study encourages students to focus on utilizing their technical skills to improve the lives of others for the greater good and achieve fulfillment in the process.<ref>{{cite web|url=http://www.kettering.edu/news/kettering-university-i2e-curriculum-encourages-problem-finding-well-problem-solving |title=i2e curriculum encourages problem solving - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref> Topics covered in the program include innovation, entrepreneurship, business model development, prototyping, and commercialization. In 2014, Kettering University dedicated an opportunity lab called the T-Space that provides students with access to 3D printing, laser cutting, soldering, and other tools aimed at supporting entrepreneurial thinking.<ref name="mlive2">{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2014/12/kettering_university_unveils_o.html |title=Kettering unveils opportunity lab |publisher=MLive.com |date=2014-12-03 |accessdate=2017-10-06}}</ref>
+
+Kettering University also houses the Kettering Entrepreneur Society, an organization that meets regularly and provides seed funding for viable student business startup ideas.<ref>{{cite web|url=http://kesociety.com/ |title=Kettering Entrepreneur Society |publisher=Kesociety.com |date= |accessdate=2017-10-06}}</ref>
+
+Kettering University received a "Best in Class" award from the Kern Engineering Entrepreneurial Network (KEEN) for infusing entrepreneurship across the university in 2010.<ref>{{cite web|url=https://www.kettering.edu/news/16-million-gift |title=$1.6 million gift - Kettering University |publisher=Kettering.edu |date=2010-05-24 |accessdate=2017-10-06}}</ref>
+
+===Harvard Business School feeder===
+Kettering University is one of the feeder universities to [[Harvard Business School]]. In a 2013 interview with [[Fortune (magazine)]], Harvard Business dean of admissions Dee Leopold said, "We love Kettering in Flint."<ref>{{cite magazine|last=Whitford |first=David |url=http://fortune.com/2012/04/17/how-do-you-get-into-harvard-biz-school/ |title=How do you get into Harvard Biz School? - Fortune Magazine |magazine=Fortune.com |date=2012-04-17 |accessdate=2017-10-06}}</ref> In 2015, Kelly Quinn, assistant director of admissions for Harvard Business, called Kettering students a "good fit" for Harvard Business School.<ref>{{cite web|url=http://www.kettering.edu/news/kettering-university-graduates-good-fit-harvard-business-school |title=Kettering graduates a 'good fit' at Harvard Business - Kettering University |publisher=Kettering.edu |date=2012-04-17 |accessdate=2017-10-06}}</ref>
+
+===Study abroad===
+Kettering offers a variety of study abroad opportunities to students. Kettering students study at universities in Germany, China, Australia, and England. To promote study abroad, Kettering provides a $1,500 travel stipend to offset travel and living expenses. The Oswald Student Fellows program and the Ronald G. Greenwood Memorial Scholarship grant funds each term to qualified students.<ref>{{cite web|url=http://www.kettering.edu/news/oswalds-continue-support-international-experiences |title=Oswalds continue support of international experiences - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref>
+
+==Campus==
+Kettering University's campus is situated on approximately 90 acres of land along the [[Flint River (Michigan)|Flint River]] on the west side of Flint. In 2012, as part of the university's mission to be an active leader in the revitalization of the city of Flint, Kettering began purchasing distressed properties from the Genesee County Land Bank, razing blighted structures, and taking over maintenance, mowing, and upkeep of the properties.<ref>{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2013/09/kettering_university_emerges_a.html |title=Unlikely crusader buying up blighted Flint properties |publisher=MLive.com |date= |accessdate=2017-10-06}}</ref>
+
+Kettering has successfully received neighborhood stabilization grants from the Department of Justice<ref>{{cite web|author=Jiquanda Johnson |url=http://www.mlive.com/news/flint/index.ssf/2014/10/new_grant_may_help_ease_crime.html |title=New grant may ease crime in Flint corridor |publisher=MLive.com |date= |accessdate=2017-10-06}}</ref> and Centers for Disease Control and Prevention<ref>{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2014/10/university_avenue_corridor_coa.html |title=University Avenue receives grant for ice rink warming tent, community cleanups |publisher=MLive.com |date= |accessdate=2017-10-06}}</ref> to support revitalization of neighborhoods near campus and form a walkable connector from Kettering's campus to ongoing developments downtown Flint and on the campus of the University of Michigan–Flint.
+
+===Campus Master Plan===
+In 2014, Kettering University unveiled a new Campus Master Plan.<ref>{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2015/02/were_invested_kettering_univer.html |title=We're Invested: Kettering master plan aims to bring growth to campus |publisher=MLive.com |date=2015-02-12 |accessdate=2017-10-06}}</ref>
+
+The first phase of the plan will be construction of a new mixed-use Learning Commons building that will include some academic department functions, offer increased access to flexible, technology-enabled, collaborative spaces, a new, modern library, new food service venues and options, and other resources. It will also have space to accommodate alumni and other campus guests, integrating them into the campus community for the entirety of their visit. Completion of the Learning Commons is targeted for 2019.<ref name="kettering4">{{cite web|url=http://www.kettering.edu/news/new-campus-master-plan-aims-address-rapidly-changing-needs-next-generations-workforce |title=New master plan addresses needs of rapidly changing workforce - Kettering University |publisher=Kettering.edu |date=2015-03-27 |accessdate=2017-10-06}}</ref>
+
+Future phases will include construction of a new residence hall, new research facilities, and a raised connector across Chevrolet Avenue that pays homage to a bridge that existed when the property was home to the [[General Motors]] Chevrolet Division. The current Academic Building will include increased lab and community space, including for pre-college programming.<ref name="kettering4"/>
+
+===Kettering University General Motors Foundation Automotive Research Area===
+In April 2015, Kettering University announced a $2 million naming donation from the General Motors Foundation to construct the Kettering University General Motors Foundation Automotive Research Area.<ref>{{cite web|url=https://www.bloomberg.com/news/articles/2015-04-27/kettering-to-get-4-million-from-gm-for-test-ground-engine-lab |title=Bloomberg Business |publisher=Bloomberg.com |date=2015-04-27 |accessdate=2017-10-06}}</ref> The facility will be an automotive proving ground on a piece of campus that is the former site of the Chevrolet Division, or Chevy in the Hole.<ref name="Kettering University">[http://www.kettering.edu/news/4-million-general-motors-foundation-and-general-motors-company-will-fund-new-outdoor-indoor-lab -- Kettering University] {{webarchive|url=https://web.archive.org/web/20150623115746/http://www.kettering.edu/news/4-million-general-motors-foundation-and-general-motors-company-will-fund-new-outdoor-indoor-lab |date=2015-06-23 }}</ref> The proving ground will be built on a 19-acre parcel of land at the corner of Chevrolet Avenue and Bluff Street.<ref name="Kettering University"/>
+
+The proving ground will be an outdoor lab facility that will include various test areas as well as a dense research [[LTE Advanced|4G LTE Advanced]] wireless infrastructure. It will enable new opportunities to enhance classroom and lab experiences for students and expand research opportunities for faculty and industry partners.<ref>{{cite web|url=http://www.abc12.com/home/headlines/GM-and-Kettering-team-up-to-transform-Chevy-In-the-Hole-site-301508471.html |title=ABC 12 WJRT |publisher=Abc12.com |date= |accessdate=2017-10-06}}</ref> It will be the only facility of its kind on a college campus in the United States.<ref name="Kettering University"/>
+
+The project will also complement a major city of Flint project on the opposite side of the [[Flint River (Michigan)|Flint River]] called [[Chevy Commons]].<ref name="mlive3">{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2015/04/from_wasteland_to_green_space.html |title=MLive.com |publisher=MLive.com |date=2015-04-17 |accessdate=2017-10-06}}</ref> The project will convert a Flint-owned portion of Chevy in the Hole into an urban park that includes wetlands, woodlands, grasslands, green spaces and recreation trails.<ref name="mlive3"/>
+
+===Academic Building===
+Kettering University's Academic Building was the first building constructed on campus and features a prominent entrance with "General Motors Institute" etched into stone above the door. That entrance is featured in Kettering University's seal.<ref name="kettering5">{{cite web|url=https://www.kettering.edu/about/our-history-archives |title=Our history and archives - Kettering University |publisher=Kettering.edu |date=1998-01-01 |accessdate=2017-10-06}}</ref>
+
+The building currently includes several labs, including a Polymer Processing Lab, Ergonomics Lab, a Work Design Lab, Applied Biology labs, Chemical Engineering labs, an Advanced Power Electronics Lab, Haptics Lab, Acoustics Lab, and many other lab spaces. The building also houses McKinnon Theater, the Humanities Art Center, a library, and departmental offices for Computer Science, Industrial and Manufacturing Engineering, Business, Liberal Studies, Applied Biology, Electrical and Computer Engineering, Physics, and Chemical Engineering.<ref name="kettering5"/>
+
+===Campus Center===
+<!-- Deleted image removed: [[File:CampusCenter.JPG|thumb|right|The Orbits of Isaac sculpture by Michael Dunbar sits in front of the Campus Center]] -->
+The Campus Center is Kettering University's main administration building and includes the Office of the President, Student Life, Admissions and Financial Aid, University Advancement and External Relations, Alumni Engagement, Multicultural Student Initiatives, and Sponsored Research.
+
+The Campus Center also houses three food service areas, including B.J.'s Lounge, a student center that was renovated with new, technology-enabled, flexible space in 2013.<ref>{{cite web|url=https://www.kettering.edu/news/re-imaging-relaxation |title=Re-imagining relaxation - Kettering University |publisher=Kettering.edu |date=2013-01-31 |accessdate=2017-10-06}}</ref> Kettering's Campus Safety headquarters are also in the Campus Center. In 2012, the university unveiled a state-of-the-art campus safety system with the support of the Lear Corporation, making the university's campus one of the safest in the country.<ref>{{cite web|url=http://www.kettering.edu/news/state-art-high-definition-security-center-unveiled |title=State-of-the-art security center unveiled - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref>
+
+The Campus Center also provides community space, including classroom space for Oxford Virtual Academy<ref>{{cite web|url=http://www.kettering.edu/news/oxford-virtual-academy-offering-courses-homeschool-students-kettering-university |title=OVA offering programs for homeschool students at Kettering - MLive.com |publisher=Kettering.edu |date=2014-12-23 |accessdate=2017-10-06}}</ref> and a regional office of the Michigan Small Business Development Center.<ref>{{cite web|url=https://www.kettering.edu/news/mi-sbdc-hosting-grand-opening-ceremony-new-office-kettering-university |title=MI-SBDC hosting open house for new office - Kettering University |publisher=Kettering.edu |date=2015-01-20 |accessdate=2017-10-06}}</ref>
+
+===C.S. Mott Science and Engineering Building===
+[[File:Kettering CSMott.JPG|thumb|left|C.S. Mott Engineering and Science Center]]
+The C.S. Mott Science and Engineering Building opened in 2003 and houses departmental offices as well as classroom space for Mechanical Engineering, Chemistry, and Biochemistry. The building includes several labs, including a powertrain lab, Kettering University's Crash Safety Center, a fuel cell lab, bioengineering labs, and other core science and engineering labs for students.<ref>{{cite web|author=06/12/2003 |url=https://www.kettering.edu/news/kettering-honors-pioneer-auto-industry-and-philanthropist |title=Kettering honors auto industry pioneer and philanthropist - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref> The building also houses the T-Space, a student-driven opportunity lab with access to 3D printing, laser cutting, soldering, and other tools aimed at supporting entrepreneurial thinking.<ref name="mlive2"/>
+
+===Frances Willson Thompson Hall===
+[[File:Kettering TH.JPG|thumb|right|Frances Willson Thompson Hall]]
+Kettering University's residence hall is the sole on-campus student housing facility. All students are required to live in the residence hall during their freshman year.<ref name="kettering6">{{cite web |url=https://www.kettering.edu/current-students/student-life/student-life-offices/housing-thompson-hall/about-thompson-hall |title=About Thompson Hall - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20151025190317/http://www.kettering.edu/current-students/student-life/student-life-offices/housing-thompson-hall/about-thompson-hall |archivedate=2015-10-25 }}</ref>
+
+All rooms in the building are single, air-conditioned rooms. Residents share community bathrooms located at intersections of each hallway. The building also includes lounge areas, a community kitchen, gaming space, and computer labs. Gaming consoles and other materials are available to check out in the facility, and the residence life staff creates several programs throughout the year for students living in the dorms.<ref name="kettering6"/>
+
+Many students have created murals in the hallways of Thompson Hall, creating a living history of the many tenants in the buildings since it opened.<ref>{{cite web|url=http://www.kettering.edu/news/murals-give-thompson-hall-living-history-kettering |title=Murals give Thompson Hall 'living history' - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref>
+
+===Connie and Jim John Recreation Center===
+<!-- Deleted image removed: [[File:KetteringObama.JPG|thumb|left|President Barack Obama spoke in Kettering's recreation center in 2008]] -->
+Kettering's recreation center opened in 1995 and includes a 25-yard pool, indoor track, tennis, basketball, and racquetball courts, free weights, exercise equipment, an aerobics room, and meeting rooms.<ref>{{cite web |url=https://www.kettering.edu/current-students/student-life/recreation |title=Recreation Services - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20150905170407/https://www.kettering.edu/current-students/student-life/recreation |archivedate=2015-09-05 }}</ref>
+
+Kettering University's commencement ceremonies are typically hosted in the recreation center. The facility has also hosted President [[Barack Obama]] during a 2008 campaign stop<ref>[http://archive.freep.com/article/20080616/NEWS15/80616028/Obama-calls-sweeping-reforms-Flint-address Obama calls for sweeping reforms at Flint address -- Detroit Free Press] {{webarchive|url=https://web.archive.org/web/20150412060516/http://archive.freep.com/article/20080616/NEWS15/80616028/Obama-calls-sweeping-reforms-Flint-address |date=2015-04-12 }}</ref> and [[Mitt Romney]] during the 2012 presidential campaign.<ref>{{cite web|author=Blake Thorne |url=http://www.mlive.com/news/flint/index.ssf/2012/02/mitt_romney_at_kettering_unive.html |title=Mitt Romney: "I care about Flint" - Kettering University |publisher=Mlive.com |date=2012-02-25 |accessdate=2017-10-06}}</ref> King [[Carl XVI Gustaf of Sweden]] visited campus and spoke in the recreation center in 2008<ref>[https://www.kettering.edu/news/his-majesty-carl-xvi-gustaf-king-sweden-visit His Majesty Carl XVI Gustaf, King of Sweden visit -- Kettering University] {{webarchive|url=https://archive.is/20150407132917/https://www.kettering.edu/news/his-majesty-carl-xvi-gustaf-king-sweden-visit |date=2015-04-07 }}</ref> Former [[Michigan State]] basketball star [[Mateen Cleaves]] hosted a basketball camp at the facility in 2014.<ref>{{cite web|author=Eric Woodyard |url=http://www.mlive.com/sports/flint/index.ssf/2014/08/mateen_cleaves_1_goal_1_passio.html |title=Camp uses basketball to help change the world |publisher=MLive.com |date=2014-08-05 |accessdate=2017-10-06}}</ref>
+
+===Innovation Center===
+[[File:KetteringInnovation.JPG|thumb|right|The Innovation Center on Bluff Street at Kettering University]]
+The Innovation Center at Kettering University, a 9,000-square-foot incubator for entrepreneurs, opened in 2010. The Innovation Center was the first Leadership in Energy and Environmental Design (LEED) certified building in Genesee County.<ref name="kettering7">{{cite web|url=http://www.kettering.edu/about/global-leadership-stem-education/innovation-center |title=Innovation Center - Kettering University |publisher=Kettering.edu |date=1998-01-01 |accessdate=2017-10-06}}</ref>
+
+The center provides space for companies looking to grow their business, perfect their underlying technologies, and explore potential collaborations with Kettering University faculty, students, and corporate partners. The building includes technology-enabled collaborative space as well as laboratory and office spaces. Lab spaces feature wet and dry research capabilities and have designs that are easily reconfigurable to meet the needs of tenants. Customizable office spaces are also available. An art exhibit from the Mott-Warsh Collection is on a long-term rotational loan.<ref name="kettering7"/>
+
+===Atwood Stadium===
+<!-- Deleted image removed: [[File:KetteringAtwood.JPG|thumb|left|Kettering University took ownership of Atwood Stadium in 2013]] -->
+Kettering University acquired [[Atwood Stadium]], a 11,000-seat stadium that was previously designated a city park, from the city of Flint in 2013.<ref>{{cite web|url=https://www.kettering.edu/news/atwood-stadium-become-part-campus |title=Atwood Stadium becomes part of campus - Kettering University |publisher=Kettering.edu |date=2013-08-14 |accessdate=2017-10-06}}</ref>
+
+The stadium, which opened in 1929, has hosted many sporting events, concerts, political rallies, and other community events. President [[John F. Kennedy]] appeared there, and many successful athletes from Flint began their careers there, such as [[All-America|All American]] Lynn [[Chandnois]] of Michigan State,  [[Leroy Bolden]], [[Ellis Duckett]], [[Tony Branoff]], [[Heisman Trophy]] winner [[Mark Ingram Jr.]], and Olympic Gold Medalist [[Claressa Shields]].
+
+Kettering has made major repairs to the stadium, including fixing masonry work, restrooms, concessions areas, locker rooms, and lighting. in 2015, Kettering University replaced the turf in the stadium with a state-of-the-art field turf, making Atwood one of only three venues in the state of Michigan (the others are Ford Field and Michigan Stadium) with this field surface. With the replacement of the field surface, the field was expanded and lined to support NCAA/MLS soccer and men's and women's lacrosse play in addition to football.<ref>{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2014/09/hold_for_art_one_year_later_ke.html |title=Kettering vows to make Atwood a viable community asset |publisher=MLive.com |date= |accessdate=2017-10-06}}</ref>
+
+Kettering University has constructed temporary ice rinks in the stadium and offered free open ice skating in the winters of 2014 and 2015.<ref>{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2015/01/atwood_stadium_ice_skating_rin.html |title=Ice skating returns to Atwood for second season |publisher=MLive.com |date= |accessdate=2017-10-06}}</ref>
+
+===Flint Children's Museum===
+<!-- Deleted image removed: [[File:KetteringMuseum.JPG|thumb|right|The Flint Children's Museum on the campus of Kettering University]] -->
+The Flint Children's Museum, located on the campus of Kettering University, offers hands-on experiences for children ages two to ten. The museum features rotating exhibits that change every three months. Exhibit themes include How Things Work, Performing Arts, Health and Fitness, Our Town, and Discovery Zone.<ref>{{cite web|url=http://thefcm.org/exhibits-2/ |title=Exhibits -- Flint Children's Museum |publisher=Thefcm.org |date= |accessdate=2017-10-06}}</ref>
+
+The museum also features an outdoor educational area called Sproutside. The learning area was constructed in 2007 with support from the Ruth Mott Foundation and the Community Foundation of Greater Flint.<ref>{{cite web|author=10/27/2006 |url=http://www.kettering.edu/news/learning-lot-planned |title=Learning lot planned - Kettering University |publisher=Kettering.edu |date=2006-10-27 |accessdate=2017-10-06}}</ref>
+
+==Student life==
+Nearly half of Kettering University's student body lives in the university's residence hall or in the Campus Village Apartments complex adjacent to campus. Many others live near campus in fraternity and sorority housing or private rentals, making the university's campus community close-knit.<ref>{{cite web |url=https://www.kettering.edu/current-students/student-life/student-life-offices/housing-thompson-hall |title=Residence Life - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20151025191347/http://www.kettering.edu/current-students/student-life/student-life-offices/housing-thompson-hall |archivedate=2015-10-25 }}</ref> A variety of activities and organizations give students plenty of social outlets on and near campus.<ref name="kettering8">{{cite web |url=https://www.kettering.edu/current-students/student-life-programs/student-organizations |title=Student Organizations - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20151117002008/http://www.kettering.edu/current-students/student-life-programs/student-organizations |archivedate=2015-11-17 }}</ref>
+
+===Clubs/organizations===
+Kettering Student Government sponsors dozens of clubs to promote an atmosphere conducive to social interaction as well as to supplement educational opportunities for students by providing more options to arts and entertainment on campus.<ref name="kettering8"/> Kettering University's student grilling club was featured in an article in ''[[USA Today]]'' in 2013.<ref>{{cite web|url=http://www.mlive.com/news/flint/index.ssf/2013/02/usa_today_spotlights_kettering.html |title=USA Today spotlights Kettering's grilling club |publisher=MLive.com |date=2013-02-19 |accessdate=2017-10-06}}</ref>
+
+Clubs include a scuba diving club, an anime club, a fencing club, several sports and athletic clubs, dance clubs, fine and performing arts clubs, car clubs, and academic clubs.<ref name="kettering8"/> Kettering University also has student chapters for many professional organizations and societies, including the [[Society of Women Engineers]], the [[National Society of Black Engineers]], and oSTEM.<ref>{{cite web|url=http://www.kettering.edu/news/kettering-university-forming-ostem-chapter |title=Kettering forming oSTEM chapter - Kettering University |publisher=Kettering.edu |date=2014-02-13 |accessdate=2017-10-06}}</ref>
+
+===Service Saturdays===
+Kettering University students participate in monthly Service Saturdays, completing a variety of service projects in partnership with community organizations in the city of Flint.<ref>{{cite web|url=http://www.kettering.edu/news/service-saturdays-continue-grow |title=Service Saturdays continue to grow - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref> In 2014, 392 students volunteered and served more than 1,200 combined hours.<ref>{{cite web|url=https://www.facebook.com/KetteringUniversity/photos/a.198295641146.168624.64693586146/10152994283566147/?type=1 |title=Kettering Service Saturdays - Kettering University Facebook |publisher=Facebook.com |date=2015-01-19 |accessdate=2017-10-06}}</ref>
+<!-- Deleted image removed: [[File:KettFormula.jpg|framed|right|A Kettering University Formula SAE car]] -->
+
+===SAE Competition Teams===
+Kettering University competes in the [[SAE International|Society of Automotive Engineering’s]] Collegiate Design Series by building competition vehicles to compete in the [[Baja SAE]], [[Formula SAE]], [[SAE Aerodesign|SAE Aero Design]], and SAE Clean Snowmobile Challenge competitions. Starting in 2018 Kettering University began competing in the SAE AutoDrive Challenge, where students convert a [[Chevrolet Bolt]] vehicle into a [[Self-driving car|SAE level 4 autonomous vehicle]] by the 3rd year of competition.
+
+Each year, students design and build vehicles for national and international competitions. In 2015, Kettering's Clean Snowmobile Challenge team finished in the top two at its international competition for the fourth straight year (including a first-place finish in 2014).<ref>{{cite web|url=https://www.kettering.edu/news/kettering-university-clean-snowmobile-team-finishes-second-international-competition |title=Clean snowmobile team finishes second - MLive.com |publisher=Kettering.edu |date=2015-03-18 |accessdate=2017-10-06}}</ref> The Formula SAE team finished 10th at its competition in Lincoln, Nebraska in 2014, following a best-ever seventh-place finish in 2013.<ref>{{cite web|url=http://www.kettering.edu/news/kettering-university-formula-sae-team-gearing-strong-performances-upcoming-competitions |title=Formula team gearing up for season - Kettering University |publisher=Kettering.edu |date=2015-03-25 |accessdate=2017-10-06}}</ref>
+
+===DECA===
+Kettering University has a collegiate DECA team. Collegiate DECA helps students develop as business leaders by participating in competitions that promote career awareness, civic consciousness, social intelligence, and leadership. Competitions include activities in business, design, entrepreneurship, finance, accounting, foodservice, hospitality, information technology, management, marketing, and sales, among other areas.<ref>{{cite web|url=http://www.kettering.edu/news/students-win-awards-international-deca-conference |title=Students win big at DECA - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref>
+
+Kettering students won 13 awards at a state of Michigan competition in 2015 and three awards at the international conference in Washington D.C. in 2014.<ref>{{cite web|url=https://www.kettering.edu/news/kettering-university-deca-students-win-state-championship-collegiate-decas-state-career |title=Students win at statewide DECA - Kettering University |publisher=Kettering.edu |date=2015-02-16 |accessdate=2017-10-06}}</ref>
+
+===Model United Nations===
+Kettering University has a student Model United Nations (MUN) team. MUN teams feature students that roleplay as [[United Nations]] delegates and simulate United Nations committees at conferences or competitions.<ref>{{cite web|author=Ryan |url=http://bestdelegate.com/what-is-model-united-nations/ |title=What is Model U.N.? |publisher=Best Delegate |date=2007-11-04 |accessdate=2017-10-06}}</ref>
+
+Kettering University's team, which was formed in 2010, won its first-ever prize at an international competition at [[American Model United Nations]] in November 2014<ref>{{cite web|title=Kettering University students awarded at international Model United Nations conference|url=https://www.kettering.edu/news/kettering-university-students-awarded-international-model-united-nations-conference|publisher=Kettering University|accessdate=2015-09-16}}</ref> and won prizes at [[Harvard University]] in 2015 as well.<ref>{{cite web|url=http://www.kettering.edu/news/kettering-model-un-team-earns-honors-international-competition-harvard-university |title=Model UN team earns honors at international competition - Kettering University |publisher=Kettering.edu |date=2015-02-16 |accessdate=2017-10-06}}</ref>
+
+===Greek life===
+Greek Life on the Kettering/GMI campus begin in 1921. The first officially recognized organization was not formed until 5 years later as the White Elephants.<ref name=":0">{{cite web|url=https://my.kettering.edu/current-students/student-life/greek-life-0/history-our-greek-community|title=A History of our Greek Community|publisher=Kettering University|access-date=2016-09-07}}</ref> Several other local fraternities would appear on campus during the following years. However, because during this time GMI was not accredited, no national/international recognized fraternities appeared on campus. When GMI did receive accreditation in 1962, the university would require all local fraternities to join a national/international fraternity. Many of the current fraternities on campus came from that transition.<ref name=":0" /> Currently, Kettering University has an active [[Greek letter organization|Greek system]], which is recognized as an excellent source of service opportunities and leadership training. More than 40 percent of the student body is currently involved in a fraternity or sorority.<ref>{{cite web|url=https://my.kettering.edu/current-students/student-life/greek-life-0/history-our-greek-community |title=Kettering University History of Greek Life |publisher=My.kettering.edu |date= |accessdate=2017-10-06}}</ref>
+
+Many [[North American Interfraternity Conference]] (IFC) fraternities have chapters at Kettering as do several [[National Panhellenic Conference]] (NPC) sororities. The [[National Pan-Hellenic Council]] (NPHC) has several local chapters that are also affiliated with Kettering. IFC, NPC, and NPHC each have a school-wide council with representatives from each member organization. These councils are designed to facilitate communication between the different groups, and to facilitate relations with the university on matters such as school-wide events and membership.
+{| class="wikitable"
+|+Summary of Greek Life on Campus 
+!Organization
+!Chapter Designation
+!Local Founding Date<ref>{{cite web|url=https://my.kettering.edu/current-students/student-life/greek-life-0/greek-community-chapters|title=Greek Community Chapters|publisher=Kettering University|access-date=2016-09-07}}</ref>
+!A-Section Members<ref>{{Cite web|url=https://www.kettering.edu/undergraduate-admissions/campus-life/greek-life|title=Greek Life|website=Kettering University|language=en|access-date=2019-01-23}}</ref><ref>{{cite web|url=https://drive.google.com/file/d/0B6w12c_qsesjeEVrQm9EdEs0V1U/view|title=Greek Academic Report Winter 2017|last=|first=|date=2017-04-23|website=|publisher=Kettering University|access-date=2017-08-31}}</ref>
+!B-Section Members<ref>{{cite web|url=https://my.kettering.edu/sites/default/files/resource-file-download/AcademicReportB-SectionSpring2016.pdf|title=Greek Academic Report Spring 2016|date=2016-09-12|publisher=Kettering University|access-date=2016-09-12|url-status=dead|archiveurl=https://web.archive.org/web/20160918215506/https://my.kettering.edu/sites/default/files/resource-file-download/AcademicReportB-SectionSpring2016.pdf|archivedate=2016-09-18}}</ref>
+|-
+! colspan="5" |Fraternities
+|-
+|[[Beta Theta Pi]]
+|Delta Eta
+|1953
+|23
+|25
+|-
+|[[Delta Chi]]
+|Kettering Chapter
+|1996
+|30
+|16
+|-
+|[[Delta Tau Delta]]
+|Epsilon Iota
+|March 23, 1963
+|44
+|47
+|-
+|[[Lambda Chi Alpha]]
+|Lambda Epsilon Zeta<ref group="Note">Formerly a chapter of the local Gilgal Fraternity.</ref>
+|May 9, 1964
+|18
+|27
+|-
+|[[Phi Delta Theta]]
+|Michigan Delta<ref group="Note">Formerly a local fraternity known as Alpha Delta</ref>
+|February 13, 1965
+|20
+|44
+|-
+|[[Phi Gamma Delta]]
+|Alpha Gamma
+|November 7, 1964
+|21
+|17
+|-
+|[[Pi Kappa Alpha]]
+|Zeta Alpha
+|1963
+|31
+|15
+|-
+|[[Sigma Alpha Epsilon]]
+|Michigan Epsilon
+|1966
+|21
+|13
+|-
+|[[Sigma Chi]]
+|Zeta Theta
+|1963
+|32
+|56
+|-
+|[[Sigma Nu]]
+|Eta Mu<ref group="Note">Formerly a local fraternity known as Delta Chi Rho</ref>
+|May 4, 1963
+|17
+| -
+|-
+|[[Theta Xi]]
+|Kappa Sigma<ref group="Note">Formerly a chapter of [[Kappa Sigma Kappa]]</ref>
+|1962
+|17
+|7
+|-
+! colspan="5" |'''Sororities'''
+|-
+|[[Alpha Gamma Delta]]
+|Zeta Omicron
+|May 3, 1986
+| -
+|24
+|-
+|[[Alpha Sigma Alpha]]
+|Delta Nu
+|1973
+|18
+|41
+|-
+|[[Alpha Phi]]
+|Iota Epsilon
+|September 5, 2000
+|24
+| -
+|}
+
+===Intramural sports===
+Kettering University offers intramural sports opportunities to students year-round.<ref>{{cite web |url=http://www.kettering.edu/current-students/student-life/recreation/intramural-sports |title=Intramural Sports - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20150908003854/https://www.kettering.edu/current-students/student-life/recreation/intramural-sports |archivedate=2015-09-08 }}</ref> Sports offered include basketball, flag football, softball, soccer, volleyball, innertube water polo, outdoor broomball, volleyball, racquetball, Wiffleball home run derby, and more. The campus includes indoor basketball, tennis, and racquetball courts, a swimming pool, an indoor track, an outdoor track, softball and soccer fields, a sand volleyball court, and Atwood Stadium.
+
+Kettering was recognized for having one of the best Intramural Sports programs in the United States by bestcolleges.com.<ref>{{cite web|url=http://www.prweb.com/releases/2013/6/prweb10859474.htm |title=BestColleges.com announces unique and non-traditional college rankings |publisher=PR Web |date=2013-06-24 |accessdate=2017-10-06}}</ref>
+
+===Student media===
+The [[LPFM|low-power]] radio station [[WKUF-LP]] (94.3 FM) is run by Kettering University students and staff. It was founded in November 2004 and features music from several genres and talk programs from a variety of hosts.<ref>{{cite web|url=http://www.wkuf.fm/ |title=WKUF 94.3 FM |publisher=Wkuf.fm |date= |accessdate=2017-10-06}}</ref>
+
+Kettering University also has a student-run newspaper called ''The Technician''. A print edition is published three times per term and an online edition is also published.<ref>{{cite web |url=https://www.kettering.edu/academics/departments/liberal-studies/student-resources/technician |title=The Technician - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20150920042212/https://www.kettering.edu/academics/departments/liberal-studies/student-resources/technician |archivedate=2015-09-20 }}</ref>
+
+==Notable alumni==
+{{main|List of Kettering University people}}
+Kettering University has approximately 25,000 alumni, including nearly 1,000 who are C-level executives with major companies {{citation needed|date=December 2017}}. Kettering University graduates have the highest starting salary and salary potential of any university in Michigan, according to ''PayScale.com'' in 2017.<ref>{{cite web|url=http://www.kettering.edu/news/kettering-university-graduates-rank-no-1-michigan-salary-potential |title=Kettering graduates rank first in salary potential - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref> In 2015, Kettering was listed 12th in the nation in return-on-investment by Payscale.com<ref>{{cite web|url=http://www.payscale.com/college-roi/|title=Best Value Colleges - PayScale|website=PayScale}}</ref>  and 10th in the nation of all private universities and colleges by CNNMoney.com.<ref>{{cite web|last=Fahey |first=Mark |url=https://money.cnn.com/gallery/pf/college/2015/03/07/private-colleges/10.html |title=Kettering ranks 10th among Private Universities in Return on Investment - CNN Money |publisher=Money.cnn.com |date=2015-03-10 |accessdate=2017-10-06}}</ref>
+
+Kettering University graduates have attained prominent positions in a wide range of industries.
+<!-- Deleted image removed: [[File:KettBara.jpg|thumb|right|[[Mary Barra]] with Kettering University President [[Robert McMahan]]]] -->
+[[Mary Barra]], CEO of [[General Motors]], is a 1985 Kettering University graduate. During her commencement speech at the university in 2013, Barra noted that her education at Kettering played a key role in her career. She stated, "the practical, real-world experience that a Kettering education provides is as practical today as it was 30 years ago."<ref>{{cite web|url=http://www.kettering.edu/news/barra-continues-kettering%E2%80%99s-tradition-global-leadership |title=Barra continues Kettering tradition of global leadership - Kettering University |publisher=Kettering.edu |date= |accessdate=2017-10-06}}</ref> Barra and former [[General Motors]] President Edward Nicholas Cole, a 1933 Kettering University graduate, give Kettering two graduates who have appeared on the cover of ''[[Time (magazine)|Time]]''.<ref>{{cite magazine|url=http://time.com/3429651/mary-barras-bumpy-ride-at-the-wheel-of-gm/ |title=Barra's bumpy ride at the wheel of GM |magazine=Time |accessdate=2017-10-06}}</ref>
+
+Raj Nair, the Ex Group Vice President of [[Ford Motor Company]] Engineering, is a 1987 Kettering graduate. Nair received a reader's choice award for ''Fortune'' magazine's Businessperson of the Year in the autos category in 2014.<ref>{{cite magazine|last=Editors |first=Fortune |url=http://fortune.com/2014/11/12/businessperson-year-readers-choice/ |title=Vote: Businessperson of the Year - ''Fortune'' magazine |magazine=Fortune.com |date=2014-11-12 |accessdate=2017-10-06}}</ref>
+
+Bob Kagle, a 1978 graduate, is one of the most successful venture capitalists in [[Silicon Valley]] history and was an early investor in eBay and Instagram. Kagle has been a longtime supporter of Kettering University, including launching a mentoring program for youth in the Flint community<ref>{{cite web |url=https://www.kettering.edu/current-students/student-life/kagle-leadership-initiatives |title=Kagle Leadership Initiatives - Kettering University |publisher=Kettering.edu |accessdate=2017-10-06 |url-status=dead |archiveurl=https://web.archive.org/web/20151225110508/http://www.kettering.edu/current-students/student-life/kagle-leadership-initiatives |archivedate=2015-12-25 }}</ref> and supporting an endowment for research co-op positions for students majoring in biology, chemistry and biochemistry, and chemical engineering.<ref>{{cite web|url=https://www.kettering.edu/news/bell-kagle-endowment-creates-unique-research-co-op-positions-students |title=Bell-Kagle program creates unique research co-ops - Kettering University |publisher=Kettering.edu |date=2015-03-23 |accessdate=2017-10-06}}</ref>
+
+Karenann Terrell, a 1986 graduate, is the Chief Information Officer for [[Walmart]].<ref>[http://corporate.walmart.com/our-story/leadership/executive-management/karenann-terrell/ Karenann Terrell -- Walmart Corporate Officers] {{webarchive|url=https://web.archive.org/web/20150410023130/http://corporate.walmart.com/our-story/leadership/executive-management/karenann-terrell/ |date=2015-04-10 }}</ref> Paul Bascobert, a 1987 graduate, is the president of ''[[Bloomberg Businessweek]]''.<ref>{{cite web|url=http://www.prnewswire.com/news-releases/paul-bascobert-named-president-of-bloomberg-businessweek-78708937.html |title=Bascobert named president of Bloomberg |publisher=PR Newswire |date= |accessdate=2017-10-06}}</ref> Rhonda Winter, a 1983 graduate, is the Chief Information Officer for the [[Indianapolis Motor Speedway]]. David Kenny, a 1984 graduate, is the CEO of [[The Weather Channel]]. Matt Borland, a 1994 graduate, is the former crew chief for [[NASCAR]] driver [[Ryan Newman (racing driver)|Ryan Newman]].<ref>{{cite web|url=http://www.kettering.edu/news/nascar-borland-caught-racing-fever-kettering-student |title=Borland caught racing fever as a student - Kettering University |publisher=Kettering.edu |date=2013-08-26 |accessdate=2017-10-06}}</ref> Gene Stefanyshyn, a 1981 graduate, is Vice President of Innovation and Racing Development for [[NASCAR]].<ref>{{cite web|url=http://www.kettering.edu/news/nascar-executive-got-head-start-his-career-kettering |title=Graduate got 'head-start' on his career at Kettering - Kettering University |publisher=Kettering.edu |date=2013-08-21 |accessdate=2017-10-06}}</ref> [[Henry Juszkiewicz]], a 1976 graduate, is the chairman and CEO of [[Gibson Guitar Corporation]].
+
+==See also==
+* [[Association of Independent Technological Universities]]
+
+{{Portal|Michigan}}
+
+==Notes==
+{{reflist|group="Note"}}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Commons category}}
+* [http://www.kettering.edu Official website]
+{{Flint, Michigan}}
+{{Colleges and universities in Michigan}}
+{{MUPEC}}
+
+{{authority control}}
+
+[[Category:Kettering University| ]]
+[[Category:Engineering universities and colleges in Michigan]]
+[[Category:Education in Flint, Michigan]]
+[[Category:Private universities and colleges in Michigan]]
+[[Category:Educational institutions established in 1919]]
+[[Category:General Motors facilities]]
+[[Category:Universities and colleges in Genesee County, Michigan]]
+[[Category:1919 establishments in Michigan]]
+[[Category:Charles F. Kettering|University, Kettering]]
+[[Category:Technological universities in the United States]]

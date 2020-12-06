@@ -1,0 +1,142 @@
+{{Use dmy dates|date=August 2013}}
+{{Infobox medical condition (new)
+| name            = Cerebral venous sinus thrombosis
+| image           = Gray488.png
+| caption         = Dural veins
+| pronounce       = 
+| field           = [[Neurology]]
+| synonyms        = Cerebral venous ''and'' sinus thrombosis, (superior) sagittal sinus thrombosis, dural sinus thrombosis, intracranial venous thrombosis, cerebral thrombophlebitis
+| symptoms        = 
+| complications   = 
+| onset           = 
+| duration        = 
+| types           = 
+| causes          = 
+| risks           = 
+| diagnosis       = 
+| differential    = 
+| prevention      = 
+| treatment       = [[Low molecular weight heparin]]<ref name=Al2018/>
+| medication      = 
+| prognosis       = 
+| frequency       = 
+| deaths          = 
+}}
+<!-- Definition and symptoms -->
+'''Cerebral venous sinus thrombosis''' ('''CVST''') is the presence of a [[thrombosis|blood clot]] in the [[dural venous sinuses]], which drain blood from the [[brain]]. Symptoms may include [[headache]], abnormal vision, any of the symptoms of [[stroke]] such as weakness of the face and limbs on one side of the body, and [[epileptic seizure|seizures]].
+
+<!-- Cause and diagnosis -->
+The diagnosis is usually by [[computed tomography]] (CT scan) or [[magnetic resonance imaging]] (MRI) to demonstrate obstruction of the venous sinuses.<ref name=Stam2005>{{cite journal |author=Stam J |title=Thrombosis of the cerebral veins and sinuses |journal=N. Engl. J. Med. |volume=352 |issue=17 |pages=1791–8 |year=2005 |pmid=15858188 |doi=10.1056/NEJMra042354|url=http://dare.uva.nl/personal/pure/en/publications/thrombosis-of-the-cerebral-veins-and-sinuses(86f1380e-2fad-4435-8086-29c69dec3300).html }}</ref> Testing may be done to try to determine the underlying cause.
+
+<!-- Treatment -->
+Treatment is typically with [[anticoagulant]]s (medication that suppresses blood clotting) such as [[low molecular weight heparin]].<ref name=Al2018>{{cite journal |last1=Al Rawahi |first1=B |last2=Almegren |first2=M |last3=Carrier |first3=M |title=The efficacy and safety of anticoagulation in cerebral vein thrombosis: A systematic review and meta-analysis. |journal=Thrombosis Research |date=September 2018 |volume=169 |pages=135–139 |doi=10.1016/j.thromres.2018.07.023 |pmid=30056293}}</ref> Rarely, [[thrombolysis]] (enzymatic destruction of the blood clot) is used. The disease may be complicated by [[Intracranial pressure|raised intracranial pressure]], which may warrant surgical intervention such as the placement of a [[Cerebral shunt|shunt]].<ref name=Stam2005/>
+
+==Signs and symptoms==
+Nine in ten people with sinus thrombosis have a headache; this tends to worsen over the period of several days, but may also develop suddenly ([[thunderclap headache]]).<ref name=Stam2005/> The headache may be the only symptom of cerebral venous sinus thrombosis.<ref name=Cumurciuc2005>{{cite journal |vauthors=Cumurciuc R, Crassard I, Sarov M, Valade D, Bousser MG |title=Headache as the only neurological sign of cerebral venous thrombosis: a series of 17 cases |journal=J. Neurol. Neurosurg. Psychiatry |volume=76 |issue=8 |pages=1084–7 |year=2005 |pmid=16024884 |doi=10.1136/jnnp.2004.056275 |url=http://jnnp.bmj.com/cgi/content/full/76/8/1084 |pmc=1739763}}</ref> Many patients have symptoms of stroke: inability to move one or more limbs, weakness on one side of the face or [[aphasia|difficulty speaking]]. This does not necessarily affect one side of the body as in the more common "arterial" stroke.<ref name=Stam2005/>
+
+40% of people have [[seizure]]s, although it is more common in women who develop sinus thrombosis peripartum (in the period before and after giving birth).<ref name=EFNS>{{cite journal |vauthors=Einhäupl K, Bousser MG, de Bruijn SF |title=EFNS guideline on the treatment of cerebral venous and sinus thrombosis |journal=Eur. J. Neurol. |volume=13 |issue=6 |pages=553–9 |year=2006 |pmid=16796579 |doi=10.1111/j.1468-1331.2006.01398.x|display-authors=etal}}</ref> These are mostly seizures [[Focal seizures|affecting only one part of the body]] and [[unilateral]] (occurring on one side), but occasionally the seizures are [[Tonic-clonic seizure|generalised]] and rarely they lead to [[status epilepticus]] (persistent or recurrent seizure activity for a long period of time).<ref name=Stam2005/>
+
+In the elderly, many of the aforementioned symptoms may not occur. Common symptoms in the elderly with this condition are otherwise unexplained changes in [[mental status]] and a depressed [[level of consciousness]].<ref>{{cite journal |vauthors=Ferro JM, Canhão P, Bousser MG, Stam J, Barinagarrementeria F |title=Cerebral vein and dural sinus thrombosis in elderly patients |journal=Stroke |volume=36 |issue=9 |pages=1927–32 |year=2005 |pmid=16100024 |doi=10.1161/01.STR.0000177894.05495.54|doi-access=free }}</ref>
+
+The [[intracranial pressure|pressure around the brain]] may rise, causing [[papilledema]] (swelling of the [[optic disc]]) which may be experienced as visual obscurations. In severely raised intracranial pressure, the level of consciousness is decreased, the [[blood pressure]] rises, the [[bradycardia|heart rate falls]] and the patient assumes an abnormal posture.<ref name=Stam2005/>
+
+==Causes==
+Cerebral venous sinus thrombosis is more common in particular situations. 85% of people have at least one of these risk factors:<ref name=Stam2005/>
+* Thrombophilia, a tendency to develop blood clots due to abnormalities in coagulation, e.g. [[factor V Leiden]], deficiency of [[protein C]], [[protein S]] or [[antithrombin]], or related problems
+* [[Nephrotic syndrome]], a kidney problem causing protein loss in the urine
+* Chronic inflammatory diseases, such as [[inflammatory bowel disease]], [[Lupus erythematosus|lupus]] and [[Behçet's disease]]
+* [[Pregnancy]] and [[puerperium]] (the period after giving birth)
+* Particular blood disorders, especially [[polycythemia vera]] and [[paroxysmal nocturnal hemoglobinuria]]
+* Use of estrogen-containing forms of [[hormonal contraception]]
+* [[Meningitis]] and infections of the ear, nose and throat area such as [[mastoiditis]] and [[sinusitis]]
+* Direct injury to the venous sinuses
+* Medical procedures in the head and neck area
+* [[Sickle cell anemia]]
+* [[Dehydration]], primarily in infants and children
+* [[Homocystinuria]]
+
+==Diagnosis==
+The diagnosis may be suspected on the basis of the symptoms, for example the combination of headache, signs of raised [[intracranial pressure]] and focal neurological abnormalities, or when alternative causes of headache and neurological abnormalities, such as a [[subarachnoid hemorrhage]], have been excluded.<ref name=Stam2005/>
+
+===Imaging===
+[[File:Sagital sinus thrombus.JPG|thumb|right|CT venogram showing a filling defect in the sagittal sinus (black arrow)]]
+[[File:Duralvenoussinusthrombosis.png|thumb|A dural venous sinus thrombosis of the transverse sinus. Greater on the right than left.]]
+There are various [[neuroimaging]] investigations that may detect cerebral sinus thrombosis. [[Cerebral edema]] and venous infarction may be apparent on any modality, but for the detection of the thrombus itself, the most commonly used tests are [[computed tomography]] (CT) and [[magnetic resonance imaging]] (MRI), both using various types of radiocontrast to perform a [[venogram]] and visualise the veins around the brain.<ref name=Stam2005/>
+
+[[Computed tomography]], with [[radiocontrast]] in the venous phase (''CT venography'' or CTV), has a detection rate that in some regards exceeds that of MRI. The test involves injection into a vein (usually in the arm) of a radioopaque substance, and time is allowed for the bloodstream to carry it to the cerebral veins - at which point the scan is performed. It has a [[sensitivity (tests)|sensitivity]] of 75-100% (it detects 75-100% of all clots present), and a [[specificity (tests)|specificity]] of 81-100% (it would be incorrectly positive in 0-19%). In the first two weeks, the "empty delta sign" may be observed (in later stages, this sign may disappear).<ref name=Smith2007>{{cite journal |vauthors=Smith R, Hourihan MD |title=Investigating suspected cerebral venous thrombosis |journal=BMJ |volume=334 |issue=7597 |pages=794–5 |year=2007 |pmid=17431266 |doi=10.1136/bmj.39154.636968.47 |url=http://www.bmj.com/cgi/content/full/334/7597/794 |pmc=1852020}}</ref>
+
+[[Magnetic resonance angiography|Magnetic resonance venography]] employs the same principles, but uses MRI as a scanning modality. MRI has the advantage of being better at detecting damage to the brain itself as a result of the increased pressure on the obstructed veins, but it is not readily available in many hospitals and the interpretation may be difficult.<ref name=Smith2007/>
+
+[[Cerebral angiography]] may demonstrate smaller clots than CT or MRI, and obstructed veins may give the "corkscrew appearance".<ref name=Stam2005/> This, however, requires puncture of the [[femoral artery]] with a sheath and advancing a thin tube through the blood vessels to the brain where radiocontrast is injected before X-ray images are obtained. It is therefore only performed if all other tests give unclear results or when other treatments may be administered during the same procedure.
+
+===D-dimer===
+There is an association between the [[D-dimer]] blood test and cerebral venous sinus thrombosis.<ref name=Smith2018/> This association however is not strong enough to rule out the diagnosis alone.<ref name=Smith2018>{{cite journal |last1=Smith |first1=E |last2=Kumar |first2=V |title=BET 1: Does a normal D-dimer rule out cerebral venous sinus thrombosis (CVST)? |journal=Emergency Medicine Journal |date=June 2018 |volume=35 |issue=6 |pages=396–397 |doi=10.1136/emermed-2018-207777.1 |pmid=29784833}}</ref>
+
+===Further tests===
+In most patients, the direct cause for the cerebral sinus thrombosis is not readily apparent. Identifying a source of infection is crucial; it is common practice to screen for various forms of [[thrombophilia]] (a propensity to form blood clots).<ref name=Stam2005/>
+
+==Pathogenesis==
+The [[vein]]s of the brain, both the superficial veins and the deep venous system, empty into the dural venous sinuses, which carry blood back to the [[jugular vein]] and thence to the [[heart]]. In cerebral venous sinus thrombosis, blood clots usually form both in the veins of the brain and the venous sinuses. The thrombosis of the veins themselves causes venous [[infarction]]—damage to brain tissue due to a [[back pressure|congested]] and therefore insufficient blood supply. This results in [[cerebral edema]] (both ''vasogenic'' and ''cytotoxic'' edema), and leads to small [[petechia]]l haemorrhages that may merge into large haematomas. Thrombosis of the sinuses is the main mechanism behind the increase in intracranial pressure due to decreased resorption of cerebrospinal fluid (CSF). The condition does not lead to [[hydrocephalus]], however, because there is no difference in pressure between various parts of the brain.<ref name=Stam2005/>
+
+Any blood clot forms due to an imbalance between [[coagulation]] (the formation of the insoluble blood protein [[fibrin]]) and [[fibrinolysis]]. The three major mechanisms for such an imbalance are enumerated in [[Virchow's triad]]: alterations in normal blood flow, injury to the blood vessel wall, and alterations in the constitution of blood (hypercoagulability). Most cases of cerebral venous sinus thrombosis are due to hypercoagulability.<ref name=Stam2005/>
+
+It is possible for the clot to break off and migrate ([[embolism|embolise]]) to the [[lung]]s, causing a [[pulmonary embolism]].<ref name=Stam2005/><ref name=EFNS/> An analysis of earlier case reports concludes that this occurs in about 10% of cases, but has a very poor prognosis.<ref>{{cite journal |vauthors=Diaz JM, Schiffman JS, Urban ES, Maccario M |title=Superior sagittal sinus thrombosis and pulmonary embolism: a syndrome rediscovered |journal=Acta Neurol. Scand. |volume=86 |issue=4 |pages=390–6 |year=1992 |pmid=1455986 |doi=10.1111/j.1600-0404.1992.tb05106.x}}</ref>
+
+==Treatment==
+Various studies have investigated the use of [[anticoagulation]] to suppress blood clot formation in cerebral venous sinus thrombosis. Before these trials had been conducted, there had been a concern that small areas of hemorrhage in the brain would bleed further as a result of treatment; the studies showed that this concern was unfounded.<ref>{{Cite journal|last=Coutinho|first=Jonathan|last2=de Bruijn|first2=Sebastiaan Ftm|last3=Deveber|first3=Gabrielle|last4=Stam|first4=Jan|date=2011-08-10|title=Anticoagulation for cerebral venous sinus thrombosis|journal=Cochrane Database of Systematic Reviews|issue=8|pages=CD002005|doi=10.1002/14651858.CD002005.pub2|issn=1469-493X|pmid=21833941|pmc=7065450}}</ref> [[Clinical practice guideline]]s now recommend [[heparin]] or [[low molecular weight heparin]] in the initial treatment, followed by [[warfarin]], provided there are no other bleeding risks that would make these treatments unsuitable.<ref name=EFNS/><ref name=NICECG68>{{NICE|68|Stroke|2008}}</ref><ref name="AHAASA">{{cite journal |last1=Kernan |first1=Walter N. |last2=Ovbiagele |first2=Bruce |last3=Black |first3=Henry R. |last4=Bravata |first4=Dawn M. |last5=Chimowitz |first5=Marc I. |last6=Ezekowitz |first6=Michael D. |last7=Fang |first7=Margaret C. |last8=Fisher |first8=Marc |last9=Furie |first9=Karen L. |last10=Heck |first10=Donald V. |last11=Johnston |first11=S. Claiborne (Clay) |last12=Kasner |first12=Scott E. |last13=Kittner |first13=Steven J. |last14=Mitchell |first14=Pamela H. |last15=Rich |first15=Michael W. |last16=Richardson |first16=DeJuran |last17=Schwamm |first17=Lee H. |last18=Wilson |first18=John A. |title=Guidelines for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack |journal=Stroke |date=July 2014 |volume=45 |issue=7 |pages=2160–2236 |doi=10.1161/STR.0000000000000024|doi-access=free }}</ref> Some experts discourage the use of anticoagulation if there is extensive hemorrhage; in that case, they recommend repeating the imaging after 7–10&nbsp;days. If the hemorrhage has decreased in size, anticoagulants are started, while no anticoagulants are given if there is no reduction.<ref>{{cite journal |vauthors=Martinelli I, Franchini M, Mannucci PM |title=How I treat rare venous thromboses |journal=Blood |volume=112 | pages=4818–23 |date=September 2008 |pmid=18805965 |doi=10.1182/blood-2008-07-165969 |issue=13|doi-access=free }}</ref>
+
+The duration of warfarin treatment depends on the circumstances and underlying causes of the condition. If the thrombosis developed under temporary circumstances (e.g. pregnancy), three months are regarded as sufficient. If the condition was unprovoked but there are no clear causes or a "mild" form of thrombophilia, 6 to 12 months is advised. If there is a severe underlying thrombosis disorder, warfarin treatment may need to continue indefinitely.<ref name=EFNS/>
+
+[[Thrombolysis]] (removal of the blood clot with "clot buster" medication) has been described, either systemically by injection into a vein or directly into the clot during angiography. The 2006 [[European Federation of Neurological Societies]] guideline recommends that thrombolysis is only used in patients who deteriorate despite adequate treatment, and other causes of deterioration have been eliminated. It is unclear which drug and which mode of administration is the most effective. Bleeding into the brain and in other sites of the body is a major concern in the use of thrombolysis.<ref name=EFNS/> American guidelines make no recommendation with regards to thrombolysis, stating that more research is needed.<ref name=AHAASA/>
+
+In those where a venous infarct or hemorrhage causes significant compression of surrounding brain structures, [[decompressive craniectomy]] is sometimes required.<ref>{{cite journal |last1=Avanali |first1=Raghunath |last2=Gopalakrishnan |first2=M. S. |last3=Devi |first3=B. Indira |last4=Bhat |first4=Dhananjaya I. |last5=Shukla |first5=Dhaval P. |last6=Shanbhag |first6=Nagesh C. |title=Role of Decompressive Craniectomy in the Management of Cerebral Venous Sinus Thrombosis |journal=Frontiers in Neurology |date=15 May 2019 |volume=10 |pages=511 |doi=10.3389/fneur.2019.00511 |pmid=31156540|pmc=6529953 }}</ref> Raised intracranial pressure, if severe or threatening vision, may require therapeutic [[lumbar puncture]] (removal of excessive [[cerebrospinal fluid]]), medication ([[acetazolamide]]), or [[neurosurgery|neurosurgical]] treatment (optic nerve sheath fenestration or [[Cerebral shunt|shunting]]).<ref name=Stam2005/> In certain situations, [[anticonvulsant]]s may be used to try to prevent seizures.<ref name=EFNS/> These situations include focal neurological problems (e.g. inability to move a limb) and focal changes of the brain tissue on CT or MRI scan.<ref name=EFNS/> Evidence to support or refute the use of antiepileptic drugs as a preventive measure, however, is lacking.<ref>{{cite journal|last1=Price|first1=Michelle|last2=Günther|first2=Albrecht|last3=Kwan|first3=Joseph SK|title=Antiepileptic drugs for the primary and secondary prevention of seizures after intracranial venous thrombosis|journal=Cochrane Database of Systematic Reviews|date=21 April 2016|doi=10.1002/14651858.cd005501.pub4|pmid=27098266|volume=4|pages=CD005501|hdl=10722/226344|hdl-access=free}}</ref>
+
+==Prognosis==
+In 2004 the first adequately large scale study on the natural history and long-term prognosis of this condition was reported; this showed that at 16 months follow-up 57.1% of patients had full recovery, 29.5%/2.9%/2.2% had respectively minor/moderate/severe symptoms or impairments, and 8.3% had died. Severe impairment or death were more likely in those aged over 37 years, male, affected by coma, mental status disorder, intracerebral hemorrhage, thrombosis of the deep cerebral venous system, central nervous system infection and cancer.<ref name="pmid14976332">{{cite journal |vauthors=Ferro JM, Canhão P, Stam J, Bousser MG, Barinagarrementeria F |title=Prognosis of cerebral vein and dural sinus thrombosis: results of the International Study on Cerebral Vein and Dural Sinus Thrombosis (ISCVT) |journal=Stroke |volume=35 |issue=3 |pages=664–70 |year=2004 |pmid=14976332 |doi=10.1161/01.STR.0000117571.76197.26 |doi-access=free }}</ref> A subsequent [[systematic review]] of nineteen studies in 2006 showed that mortality is about 5.6% during hospitalisation and 9.4% in total, while of the survivors 88% make a total or near-total recovery. After several months, two thirds of the cases has resolution ("recanalisation") of the clot. The rate of recurrence was low (2.8%).<ref>{{cite journal |vauthors=Dentali F, Gianni M, Crowther MA, Ageno W |title=Natural history of cerebral vein thrombosis: a systematic review |journal=Blood |volume=108 |issue=4 |pages=1129–34 |year=2006 |pmid=16609071 |doi=10.1182/blood-2005-12-4795|doi-access=free }}</ref>
+
+In children with CVST the risk of death is high.<ref>{{cite journal|last1=Jackson|first1=BF|last2=Porcher|first2=FK|last3=Zapton|first3=DT|last4=Losek|first4=JD|title=Cerebral sinovenous thrombosis in children: diagnosis and treatment.|journal=Pediatr. Emerg. Care|date=September 2011|volume=27|issue=9|pages=874–80; quiz 881–3|pmid=21926891|doi=10.1097/PEC.0b013e31822c9ccc}}</ref> Poor outcome is more likely if a child with CVST develops seizures or has evidence of venous infarction on imaging.<ref name=CPIS>{{cite journal |vauthors=deVeber G, Andrew M, Adams C |title=Cerebral sinovenous thrombosis in children |journal=N. Engl. J. Med. |volume=345 |issue=6 |pages=417–23 |date=August 2001 |pmid=11496852 |doi=10.1056/NEJM200108093450604|display-authors=etal}}</ref>
+
+==Epidemiology==
+Cerebral venous sinus thrombosis is rare, with an estimated 3-4 cases per million annual incidence in adults. While it may occur in all age groups, it is most common in the third decade. 75% are female.<ref name=EFNS/> Given that older studies show no difference in incidence between men and women, it has been suggested that the use of [[combined oral contraceptive pill|oral contraceptives]] in women is behind the disparity between the sexes.<ref name=Stam2005/> A 1995 report from [[Saudi Arabia]] found a doubled incidence at 7 cases per 100,000; this was attributed to the fact that [[Behçet's disease]], which increases risk of CVST, is more common in the Middle East.<ref>{{cite journal |vauthors=Daif A, Awada A, al-Rajeh S |title=Cerebral venous thrombosis in adults. A study of 40 cases from Saudi Arabia |journal=Stroke |volume=26 |issue=7 |pages=1193–5 |date=1 July 1995|pmid=7604412 |doi=10.1161/01.str.26.7.1193|display-authors=etal}}</ref>
+
+A 1973 report found that CVST could be found on [[autopsy]] (examination of the body after death) in nine percent of all people. Many of these were elderly and had neurological symptoms in the period leading up to their death, and many suffered from concomitant [[heart failure]].<ref>{{cite journal |author=Towbin A |title=The syndrome of latent cerebral venous thrombosis: its frequency and relation to age and congestive heart failure |journal=Stroke |volume=4 |issue=3 |pages=419–30 |date=1 May 1973|pmid=4713031 |doi=10.1161/01.str.4.3.419|doi-access=free }}</ref>
+
+In children, a Canadian study reported in 2001 that CVST occurs in 6.7 per million annually. 43% occur in the newborn (less than one month old), and a further 10% in the first year of life. Of the newborn, 84% were already ill, mostly from complications after childbirth and dehydration.<ref name=CPIS/>
+
+==History==
+The first description of thrombosis of the cerebral veins and sinuses is attributed to the French physician Ribes, who in 1825 observed thrombosis of the sagittal sinus and cerebral veins in a man who had suffered from seizures and delirium.<ref>{{cite journal | author=Ribes MF | title=Des recherches faites sur la phlebite | journal=Rev. Med. Fr. Etrang. | year=1825 | volume=3 | pages=5–41}}</ref> Until the second half of the 20th century it remained a diagnosis generally made after death.<ref name=Bousser>{{cite journal |vauthors=Bousser MG, Chiras J, Bories J, Castaigne P |title=Cerebral venous thrombosis--a review of 38 cases |journal=Stroke |volume=16 |issue=2 |pages=199–213 |date=1 March 1985|pmid=3975957 |doi=10.1161/01.str.16.2.199|doi-access=free }}</ref> In the 1940s, reports by Dr [[Charles Symonds]] and others allowed for the clinical diagnosis of cerebral venous thrombosis, using characteristic signs and symptoms and results of [[lumbar puncture]].<ref>{{cite journal | author=Symonds CP | title=Cerebral thrombophlebitis | journal=Br. Med. J. |date=September 1940 | volume=2 | pmid=20783290 | issue=4158 | pages=348–52 | pmc=2179068 | doi=10.1136/bmj.2.4158.348}}</ref><ref name=Stansfield>{{cite journal | author=Stansfield FR | title=Puerperal cerebral thrombophlebitis treated by heparin | journal=Br. Med. J. |date=April 1942 | volume=1 | pmid=20784169 | issue=4239 | pages=436–438 | pmc=2164893 | doi=10.1136/bmj.1.4239.436}}</ref>
+
+Improvements on the diagnosis of cerebral venous sinus thrombosis in life were made with the introduction of [[venography]] in 1951,<ref>{{cite journal |vauthors=Ray BS, Dunbar HS, Dotter CT |title=Dural sinus venography as an aid to diagnosis in intracranial disease |journal=J. Neurosurg. |volume=8 |issue=1 |pages=23–37 |date=January 1951 |pmid=14804146 |doi=10.3171/jns.1951.8.1.0023}}</ref> which also aided in the distinction from [[idiopathic intracranial hypertension]],<ref>{{cite journal |vauthors=Ray BS, Dunbar HS |title=Thrombosis of the dural venous sinuses as a cause of pseudotumor cerebri |journal=Ann. Surg. |volume=134 |issue=3 |pages=376–86 |date=September 1951 |pmid=14869026 |pmc=1802934 |doi=10.1097/00000658-195113430-00009}}</ref> which has similar presenting signs and symptoms in many cases.<ref name=Bousser/>
+
+The British gynecologist Stansfield is credited with the introduction, in 1942, of the just recently introduced anticoagulant heparin in the treatment of CVST in 1942.<ref name=Bousser/><ref name=Stansfield/> Clinical trials in the 1990s finally resolved the concern about using anticoagulants in most cases of CVST.<ref name=EFNS/>
+
+==Notable cases==
+U.S. Secretary of State [[Hillary Clinton]] was hospitalized on December 30, 2012, for anticoagulation treatment of venous thrombosis of the right [[transverse sinus]], which is located at the base of the brain. Clinton's thrombotic episode was discovered on an [[MRI scan]] done for follow-up of a [[concussion|cerebral concussion]] she had suffered 2.5 weeks before after she fell while suffering from [[gastroenteritis]].<ref>{{cite news|title=Hillary Clinton expected to make full recovery from blood clot|author=Paul Richter|url=http://www.latimes.com/news/politics/la-pn-hillary-clinton-blood-clot-recovery-20121231,0,2962900.story|newspaper=Los Angeles Times|accessdate=1 January 2013}}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Medical resources
+|  DiseasesDB     = 2242 
+|  ICD10          = {{ICD10|G08}}, {{ICD10|I|63|6|i|60}}, {{ICD10|I|67|6|i|60}} 
+|  ICD9           = {{ICD9|325}}, {{ICD9|437.6}} 
+|  ICDO           =  
+|  OMIM           =  
+|  MedlinePlus    =  
+|  eMedicineSubj  = neuro 
+|  eMedicineTopic = 642 
+|  eMedicine_mult = {{eMedicine2|radio|105}} 
+|  MeshID         = 
+}}
+{{commons category}}
+* {{cite web |url=http://www.patient.co.uk/showdoc/40000819/ |title=Intracranial venous thrombosis - Patient UK}}
+* {{cite web |url=http://www.ich.ucl.ac.uk/clinical_information/clinical_guidelines/cmg_guideline_00037 |author=UCH Institute for Child Health |title=Clinical guideline Cerebral Venous Sinus Thrombosis in Children |access-date=28 October 2007 |archive-url=https://web.archive.org/web/20090202042805/http://www.ich.ucl.ac.uk/clinical_information/clinical_guidelines/cmg_guideline_00037 |archive-date=2 February 2009 |url-status=dead }}
+
+{{Cerebrovascular diseases}}
+{{Vascular diseases}}
+
+{{good article}}
+
+{{DEFAULTSORT:Cerebral Venous Sinus Thrombosis}}
+[[Category:Stroke]]

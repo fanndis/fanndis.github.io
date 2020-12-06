@@ -1,0 +1,82 @@
+{{Infobox SCOTUS case
+  |Litigants=Webster v. Reproductive Health Services
+  |ArgueDate=April 26
+  |ArgueYear=1989
+  |DecideDate=July 3
+  |DecideYear=1989
+  |FullName=[[William L. Webster]], Attorney General of Missouri, et al. v. Reproductive Health Services, et al.
+  |USVol=492
+  |USPage=490
+  |ParallelCitations=109 S. Ct. 3040; 106 [[L. Ed. 2d]] 410; 1989 [[U.S. LEXIS]] 3290; 57 U.S.L.W. 5023
+  |Prior=''Reproductive Health Servs. v. Webster'', 662 [[F. Supp.]] [https://law.justia.com/cases/federal/district-courts/FSupp/662/407/1393118/ 407] ([[W.D. Mo.]] 1987); affirmed, 851 [[F.2d]] [https://law.justia.com/cases/federal/appellate-courts/F2/851/1071/320530/ 1071] ([[United States Court of Appeals for the Eighth Circuit|8th Cir.]] 1988); probable jurisdiction noted, {{ussc|488|1003|1989|el=no}}.
+  |Subsequent=
+  |Holding=The Missouri law did not violate the Fourteenth Amendment.
+  |Majority=Rehnquist (part II-C)
+  |JoinMajority=''unanimous''; White, O'Connor, Scalia, Kennedy (parts I, II-A, II-B)
+  |Plurality=Rehnquist (parts II-D, III)
+  |JoinPlurality=White, Kennedy
+  |Concurrence=O'Connor
+  |Concurrence2=Scalia
+  |Concurrence/Dissent=Blackmun
+  |JoinConcurrence/Dissent=Brennan, Marshall
+  |Concurrence/Dissent2=Stevens
+  |LawsApplied=[[Fourteenth Amendment to the United States Constitution|U.S. Const. amend. XIV]]
+}}
+'''''Webster v. Reproductive Health Services''''', 492 U.S. 490 (1989), was a [[Supreme Court of the United States|United States Supreme Court]] decision on upholding a [[Missouri]] law that imposed restrictions on the use of state funds, facilities, and employees in performing, assisting with, or counseling an [[abortion]]s.<ref>{{ussc|name=Webster v. Reproductive Health Services|492|490|1989}}. {{usgovpd}}</ref> The Supreme Court in ''Webster'' allowed for states to legislate in an aspect that had previously been thought to be forbidden under ''[[Roe v. Wade]]'' (1973).<ref>{{ussc|name=Roe v. Wade|volume=410|page=113|pin=|year=1973}}.</ref>
+
+==Background==
+The state of Missouri passed a law which in its preamble stated that "the life of each human being begins at [[Fertilisation|conception]]", and "unborn children have protectable interests in life, health, and well-being."
+
+The statute
+# required that all Missouri state laws be interpreted to provide unborn children with rights equal to those enjoyed by other persons, subject to limits imposed by the federal constitution, and federal court rulings:
+# prohibited government-employed doctors from [[abortion|aborting]] a fetus they believed to be viable;
+# prohibited the use of state employees or facilities to perform or assist abortions, except where the mother's life was in danger; and
+# prohibited the use of public funds, employees, or facilities to "encourage or counsel" a woman to have an abortion, except where her life was in danger.
+
+The [[United States District Court for the Western District of Missouri]] struck down the above provisions, and prohibited their enforcement.<ref>{{cite court |litigants=Reproductive Health Servs. v. Webster |vol=662 |reporter=F. Supp. |opinion=407 |pinpoint= |court=[[W.D. Mo.]] |date=1987 |url=https://law.justia.com/cases/federal/district-courts/FSupp/662/407/1393118/ |accessdate=2019-10-19 |quote=}}</ref> This decision was affirmed by the [[United States Court of Appeals for the Eighth Circuit]], which ruled that these provisions violated ''[[Roe v. Wade]]''  and later [[Supreme Court of the United States|Supreme Court]] decisions.<ref>{{cite court |litigants=Reproductive Health Servs. v. Webster |vol=851 |reporter=F.2d |opinion=1071 |pinpoint= |court=[[8th Cir.]] |date=1988 |url=https://law.justia.com/cases/federal/appellate-courts/F2/851/1071/320530/ |accessdate=2019-10-19 |quote=}}</ref> [[William L. Webster]], then [[Missouri Attorney General]], appealed the decision to the Supreme Court. It was argued before the Court on April 26, 1989.
+
+==Opinion of the Court==
+The Court overturned the decision of the lower courts, stating that:
+# The Court did not need to consider the constitutionality of the law's preamble, as it is not used to justify any abortion regulation otherwise invalid under ''Roe v. Wade''.
+# The prohibitions on the use of public employees, facilities, and funds did not violate any of the Court's abortion decisions, as no affirmative right to the use of state aid for nontherapeutic abortions existed. The state could allocate resources in favor of childbirth over abortion if it so chose.
+# Provisions requiring testing for viability after 20 weeks of pregnancy were constitutional, but those limiting abortions in the second trimester of pregnancy were unconstitutional.
+
+[[William Rehnquist|Chief Justice Rehnquist]] wrote the opinion of the Court for all but Parts II-D and III; however, only [[Byron White|Justices White]] and [[Anthony Kennedy|Kennedy]] joined that opinion in its entirety. In discussing the fetal viability section, the plurality asserted that the right to abortion was a "liberty interest protected by the Due Process clause" subject to restriction by any laws which would permissibly further a rational state interest such as protecting potential life. The plurality said that this would require the court to "modify and narrow ''Roe'' and succeeding cases."
+
+[[Sandra Day O'Connor|Justices O'Connor]] and [[Antonin Scalia|Scalia]] joined Rehnquist's opinion except for the section on viability testing. Each wrote a separate concurring opinion. Justice O'Connor claimed that narrowing ''Roe v. Wade'' in the context of the ''Webster'' litigation, where upholding Missouri's law could arguably be squared with ''Roe'', would violate an important principle of judicial restraint. She then explained that she voted to uphold Missouri's law because she did not feel that it would place an undue burden on the right to abortion.
+
+Justice Scalia, who was angered by the refusal of the plurality, as well as Justice O'Connor, to overturn ''Roe v. Wade'', wrote a sharp opinion concurring in the judgment. In his concurrence he argued that the Court ought to have overturned ''Roe'', rather than attempting to uphold both ''Roe'' and the laws at issue, and he attacked Justice O'Connor's justification for declining to overturn ''Roe''. He also agreed with Blackmun's assertion that the approach of the plurality would make ''Roe'' a dead letter.
+
+===Dissent===
+[[Justice Blackmun]] wrote a dissenting opinion, joined by Justices [[William J. Brennan Jr.|William Brennan]] and [[Thurgood Marshall]], which focused on the plurality's desired narrowing of ''Roe'' as described in the section on the viability testing requirement. He wrote that the plurality's approach would allow a state to put virtually any restriction on abortion so long as it was rationally related to promoting potential life, and that this in effect would overturn ''Roe''. Noting that the plurality and Scalia together were only a single vote away from effectively overruling ''Roe'', he wrote "I fear for the future" and "a chill wind blows."
+
+Justice [[John Paul Stevens]] wrote a separate dissent, where he concurred with the plurality in allowing the state to prohibit public funds from being allocated for abortion counselling, but argued the court otherwise should have upheld the lower courts in striking down the remaining restrictions.
+
+=== Public response ===
+As a response to this Supreme Court decision, the radical feminist art collective Sister Serpents was formed in Chicago to empower women and to increase awareness of women's issues through radical art.<ref>{{Cite news|title=SisterSerpents: A Radical Feminist Art Collective|last=Margolin|first=Victor|date=1992|work=AIGA Journal of Graphic Design|issue=2|volume=10}}</ref><ref>{{Cite news|title=Hissing with anger: SisterSerpents exhibit art|last=George|first=Erika|date=March 12, 1991|work=The Chicago Maroon}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{wikisource-inline|Webster v. Reproductive Health Services}}
+* {{caselaw source
+ | case = ''Webster v. Reproductive Health Services'', {{ussc|492|490|1989|el=no}}
+ | cornell =https://www.law.cornell.edu/supremecourt/text/492/490
+ | courtlistener =https://www.courtlistener.com/opinion/112330/webster-v-reproductive-health-services/
+ | googlescholar = https://scholar.google.com/scholar_case?case=2944985204861123439
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep492/usrep492490/usrep492490.pdf
+ | justia =https://supreme.justia.com/cases/federal/us/492/490/case.html
+ | oyez =https://www.oyez.org/cases/1988/88-605
+ }}
+
+{{US14thAmendment|Due Process}}
+
+[[Category:United States substantive due process case law]]
+[[Category:United States Supreme Court cases]]
+[[Category:United States abortion case law]]
+[[Category:Right to abortion under the United States Constitution]]
+[[Category:1989 in United States case law]]
+[[Category:United States Supreme Court cases of the Rehnquist Court]]
+[[Category:United States privacy case law]]
+[[Category:Right to privacy under the United States Constitution]]

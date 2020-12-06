@@ -1,0 +1,525 @@
+{{Redirect|HDI}}
+{{for|the complete ranking of countries|List of countries by Human Development Index}}
+{{pp-pc1}}
+{{short description|Composite statistic of life expectancy, education, and income indices}}
+{{Use dmy dates|date=July 2017}}
+[[File:2019 UN Human Development Report.svg|thumb|World map representing Human Development Index categories (based on 2018 data, published in 2019).
+{| border="0" cellspacing="0" cellpadding="0" style="width:100%; background:none;"
+|-
+|valign="top"|
+{{Legend|#003135|0.800–1.000 (very high)}}
+{{Legend|#00726a|0.700–0.799 (high)}}
+{{Legend|#00bfac|0.550–0.699 (medium)}}
+|valign="top"|
+{{Legend|#ace8d4|0.350–0.549 (low)}}
+{{Legend|#a0a0a0|Data unavailable}}
+|}|430px]]
+[[File:Countries by Human Development Index (2019).png|thumb|World map of countries by Human Development Index categories in increments of 0.050 (based on 2018 data, published in 2019).
+{| border="0" cellspacing="0" cellpadding="0" style="width:100%; background:none;"
+|-
+|valign="top"|
+{{Legend|#003C00|≥ 0.900}}
+{{Legend|#007F00|0.850–0.899}}
+{{Legend|#00C400|0.800–0.849}}
+{{Legend|#00F900|0.750–0.799}}
+{{Legend|#D3FF00|0.700–0.749}}
+|valign="top"|
+{{Legend|#FFFF00|0.650–0.699}}
+{{Legend|#FFD215|0.600–0.649}}
+{{Legend|#FFA83C|0.550–0.599}}
+{{Legend|#FF852F|0.500–0.549}}
+{{Legend|#FF5B00|0.450–0.499}}
+|valign="top"|
+{{Legend|#FF0000|0.400–0.449}}
+{{Legend|#A70000|≤ 0.399}}
+{{Legend|#D9D9D9|Data unavailable}}
+|}|430px]]
+
+The '''Human Development Index''' ('''HDI''') is a statistic composite index of [[life expectancy]], [[education]] (Literacy Rate, Gross Enrollment Ratio at different levels and Net Attendance Ratio), and [[per capita income]] indicators, which are used to rank countries into four tiers of [[Human development (humanity)|human development]]. A country scores a higher HDI when the [[life expectancy at birth|lifespan]] is higher, the [[education]] level is higher, and the gross national income [[GNI (PPP) per capita]] is higher. It was developed by  Pakistani economist [[Mahbub ul Haq]] and was further used to measure a country's development by the United Nations Development Programme ([[UNDP]])'s Human Development Report Office.<ref>{{Cite journal|last=A. Stanton|first=Elizabeth|date=February 2007|title=The Human Development Index: A History|url=https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1101&context=peri_workingpapers|journal=PERI Working Papers|pages=14–15|access-date=28 February 2019|archive-url=https://web.archive.org/web/20190228191918/https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1101&context=peri_workingpapers|archive-date=28 February 2019|url-status=dead|df=dmy-all}}</ref><ref>{{cite web|title=Human Development Index|url=https://economictimes.indiatimes.com/definition/human-development-index|website=Economic Times|access-date=29 November 2017|archive-url=https://web.archive.org/web/20171201030929/https://economictimes.indiatimes.com/definition/human-development-index|archive-date=1 December 2017|url-status=live|df=dmy-all}}</ref><ref name="auto">{{cite web|title=The Human Development concept|url=http://hdr.undp.org/en/humandev/|publisher=UNDP|accessdate=29 July 2011|year=2010|archive-url=https://web.archive.org/web/20120415134936/http://hdr.undp.org/en/humandev/|archive-date=15 April 2012|url-status=dead|df=dmy-all}}</ref>
+
+The 2010 [[Human Development Report]] introduced an [[List of countries by inequality-adjusted HDI|Inequality-adjusted Human Development Index]] (IHDI). While the simple HDI remains useful, it stated that "the IHDI is the actual level of human development (accounting for [[Social inequality|inequality]])", and "the HDI can be viewed as an index of 'potential' human development (or the maximum IHDI that could be achieved if there were no inequality)". The index does not take into account several factors, such as the [[List of countries by wealth per adult|net wealth per capita]] or the relative [[Quality (business)|quality of goods]] in a country. This situation tends to lower the ranking for some of the most advanced countries, such as the [[G7]] members and others.<ref>{{Cite book|url=https://books.google.com/books?id=R2D0AAAAMAAJ|title=The Courier|date=1994|publisher=Commission of the European Communities|language=en}}</ref>
+
+The index is based on the human development approach, developed by [[Mahbub ul Haq]], often framed in terms of whether people are able to "be" and "do" desirable things in life. Examples include—Being: well fed, sheltered, healthy; Doing: work, education, voting, participating in community life. The freedom of choice is central—someone choosing to be hungry (as during a religious [[Fasting|fast]]) is quite different from someone who is hungry because they cannot afford to buy food, or because the country is in a [[famine]].<ref name="auto1">{{cite web|title=What is Human Development|url=http://hdr.undp.org/en/content/what-human-development|publisher=UNDP|accessdate=27 October 2017|year=2017|archive-url=https://web.archive.org/web/20171027132851/http://hdr.undp.org/en/content/what-human-development|archive-date=27 October 2017|url-status=live|df=dmy-all|quote=...&nbsp;human development approach, developed by the economist Mahbub Ul Haq&nbsp;...'}}</ref>
+
+== Origins ==
+
+[[File:Mahbub-ul-Haq.jpg|upright=0.8|thumb|[[Mahbub ul Haq]]]]
+
+The origins of the HDI are found in the annual Human Development Reports produced by the Human Development Report Office of the [[United Nations Development Programme]] (UNDP). These were devised and launched by Pakistani economist Mahbub ul Haq in 1990, and had the explicit purpose "to shift the focus of development economics from [[national income]] accounting to [[People-centered development|people-centered policies]]". Haq believed that a simple composite measure of human development was needed to convince the public, academics, and politicians that they can and should evaluate development not only by economic advances but also improvements in human [[well-being]].
+
+[[File:HDI explained the best way.png|thumb|upright=3.5|center|The underlying principle behind the Human Development Index.<ref name="auto1"/>]]
+
+== Dimensions and calculation ==
+=== New method (2010 Index onwards) ===
+[[File:2018 UN Human Development Report.svg|thumb|World map representing Human Development Index categories (based on 2017 data, published in 2018).<ref name="Human Development Index Trends">{{cite web|url=http://hdr.undp.org/en/composite/trends|title=Table 2. Human Development Index Trends, 1990-2017|publisher=[[Human Development Report|HDRO (Human Development Report Office)]] [[United Nations Development Programme]]|archive-url=https://web.archive.org/web/20170322121226/http://hdr.undp.org/sites/all/themes/hdr_theme/country-notes/ROU.pdf|archive-date=22 March 2017|url-status=live|accessdate=14 September 2018|df=dmy-all}}</ref>
+{| border="0" cellspacing="0" cellpadding="0" style="width:100%; background:none;"
+|-
+|valign="top"|
+{{Legend|#00023a|0.800–1.000 (very high)}}
+{{Legend|#000074|0.700–0.799 (high)}}
+{{Legend|#0010c0|0.550–0.699 (medium)}}
+|valign="top"|
+{{Legend|#aabdef|0.350–0.549 (low)}}
+{{Legend|#a0a0a0|Data unavailable}}
+|}|400x400px]]
+
+Published on 4 November 2010 (and updated on 10 June 2011), the [[2010 Human Development Report]] calculated the HDI combining three dimensions:<ref>{{cite web |title=Human Development Report 2010 |date=4 November 2010 |publisher=UNDP |url=http://hdr.undp.org/en/content/human-development-report-2010 |access-date=15 December 2015 |archive-url=https://web.archive.org/web/20151222145515/http://hdr.undp.org/en/content/human-development-report-2010 |archive-date=22 December 2015 |url-status=live |df=dmy-all }}</ref><ref>{{cite web |title=Technical notes |year=2013 |publisher=UNDP |url=http://hdr.undp.org/sites/default/files/hdr_2013_en_technotes.pdf |access-date=15 December 2015 |archive-url=https://web.archive.org/web/20150616130523/http://hdr.undp.org/sites/default/files/hdr_2013_en_technotes.pdf |archive-date=16 June 2015 |url-status=live |df=dmy-all }}</ref>
+
+* A long and healthy life: [[Life expectancy at birth]]
+* [[Education index]]: Mean years of schooling and Expected years of schooling
+* A decent standard of living: [[Gross national income|GNI]] per capita ([[Purchasing power parity|PPP]] [[international dollar]]s)
+In its 2010 Human Development Report, the UNDP began using a new method of calculating the HDI. The following three indices are used:
+
+1.{{anchor|Life Expectancy Index}} Life Expectancy Index (LEI) <math>= \frac{\textrm{LE} - 20}{85-20}</math>
+::LEI is 1 when [[Life expectancy at birth]] is 85 and 0 when [[Life expectancy at birth]] is 20.
+2. [[Education Index]] (EI) <math>= \frac{{\textrm{MYSI} + \textrm{EYSI}}} {2}</math><ref>{{Cite news|url=http://www.indiastudychannel.com/resources/141517-New-method-of-calculation-of-Human-Development-Index-HDI.aspx|title=New method of calculation of Human Development Index (HDI)|date=2011-06-01|work=India Study Channel|access-date=2017-11-19|language=en|archive-url=https://web.archive.org/web/20171110171412/http://www.indiastudychannel.com/resources/141517-New-method-of-calculation-of-Human-Development-Index-HDI.aspx|archive-date=10 November 2017|url-status=live|df=dmy-all}}</ref>
+:2.1 Mean Years of Schooling Index (MYSI) <math>= \frac{\textrm{MYS}}{15}</math><ref>Mean years of schooling (of adults) (years) is a calculation of the average number of years of education received by people ages 25 and older in their lifetime based on education attainment levels of the population converted into years of schooling based on theoretical duration of each level of education attended. Source: {{cite journal |last1=Barro |first1=R. J. |author-link=Robert Barro |first2=J.-W. |last2=Lee |year=2010 |title=A New Data Set of Educational Attainment in the World, 1950–2010 |journal=NBER Working Paper No. 15902 |url=http://www.nber.org/papers/w15902 |doi=10.3386/w15902 |access-date=29 July 2011 |archive-url=https://web.archive.org/web/20110807191234/http://www.nber.org/papers/w15902 |archive-date=7 August 2011 |url-status=live |df=dmy-all |doi-access=free }}</ref>
+:: Fifteen is the projected maximum of this indicator for 2025.
+:2.2 Expected Years of Schooling Index (EYSI) <math>= \frac{\textrm{EYS}}{18}</math><ref>(ESYI is a calculation of the number of years a child is expected to attend school, or university, including the years spent on repetition. It is the sum of the age-specific enrollment ratios for primary, secondary, post-secondary non-tertiary and tertiary education and is calculated assuming the prevailing patterns of age-specific enrollment rates were to stay the same throughout the child's life. Expected years of schooling is capped at 18 years. (Source: UNESCO Institute for Statistics (2010). Correspondence on education indicators. March. Montreal.)</ref>
+:: Eighteen is equivalent to achieving a [[master's degree]] in most countries.
+3. Income Index (II) <math>= \frac{\ln(\textrm{GNIpc}) - \ln(100)}{\ln(75,000) - \ln(100)}</math>
+::II is 1 when GNI per capita is $75,000 and 0 when GNI per capita is $100.
+Finally, the HDI is the [[geometric mean]] of the previous three normalized indices:
+
+<math>\textrm{HDI} = \sqrt[3]{\textrm{LEI}\cdot \textrm{EI} \cdot \textrm{II}}.</math>
+
+<small>LE: [[Life expectancy at birth]]<br />
+MYS: Mean years of schooling (i.e. years that a person aged 25 or older has spent in formal education)<br />
+EYS: Expected years of schooling (i.e. total expected years of schooling for children under 18 years of age)<br />
+GNIpc: [[List of countries by GNI (PPP) per capita|Gross national income at purchasing power parity per capita]]</small>
+
+=== Old method (before 2010 Index) ===
+The HDI combined three dimensions last used in its 2009 Report:
+
+* [[Life expectancy]] at birth, as an index of population health and longevity to HDI 
+* Knowledge and education, as measured by the adult [[literacy]] rate (with two-thirds weighting) and the combined primary, secondary, and tertiary [[gross enrollment ratio]] (with one-third weighting).
+* [[Standard of living]], as indicated by the [[natural logarithm]] of [[gross domestic product]] [[per capita]] at [[purchasing power parity]].
+
+[[File:Human Development Index trends.svg|thumb|right|upright=1.25|HDI trends between 1975 and 2004
+
+{| style="width:100%;"
+|-
+| valign=top |
+{{legend|black|[[OECD]]}}
+{{legend|#FF0000|[[Europe]] (not in the OECD), and [[Commonwealth of Independent States|CIS]]}}
+{{legend|#E45600|[[Latin America]] and the [[Caribbean]]}}
+{{legend|#D09B00|[[East Asia]]}}
+| valign=top |
+{{legend|#00FF00|[[Arab League]]}}
+{{legend|#003FD9|[[South Asia]]}}
+{{legend|#C600FF|[[Sub-Saharan Africa]]}}
+|}
+]]
+
+This methodology was used by the UNDP until their 2011 report.
+
+The formula defining the HDI is promulgated by the United Nations Development Programme ([[United Nations Development Programme|UNDP]]).<ref>{{Cite web|url=http://hdr.undp.org/en/statistics/faq/question,68,en.html|archive-url=https://web.archive.org/web/20071220162154/http://hdr.undp.org/en/statistics/faq/question%2C68%2Cen.html|url-status=dead|title=Definition, Calculator, etc. at UNDP site|archive-date=20 December 2007|accessdate=26 May 2020}}</ref> In general, to transform a raw [[Variable (mathematics)|variable]], say <math>x</math>, into a unit-free [[Index (economics)|index]] between 0 and 1 (which allows different indices to be added together), the following [[formula]] is used:
+
+* <math>x\text{ index} = \frac{x - a}{b - a}</math>
+
+where <math>a</math> and <math>b</math> are the [[maxima and minima|lowest and highest values]] the variable <math>x</math> can attain, respectively.
+
+The Human Development Index (HDI) then represents the uniformly weighted sum with {{frac|1|3}} contributed by each of the following factor indices:
+
+* [[Life Expectancy Index]] = <math>\frac{LE - 25} {85-25}</math>
+* [[Education Index]] = <math>\frac{2} {3} \times ALI + \frac{1} {3} \times GEI</math>
+** [[Adult Literacy Index]] (ALI) = <math>\frac{ALR - 0} {100 - 0}</math>
+** [[Gross Enrollment Ratio|Gross Enrollment Index]] (GEI) = <math>\frac{CGER - 0} {100 - 0}</math>
+* [[Gross domestic product|GDP]] = <math>\frac{\log\left(GDPpc\right) - \log\left(100\right)} {\log\left(40000\right) - \log\left(100\right)}</math>
+
+Other organizations/companies may include other factors, such as infant mortality, which produces a different HDI.
+
+{{Clear}}
+
+== 2018 Human Development Index (2019 report) ==
+{{main|List of countries by Human Development Index}}
+The Human Development Report 2019 by the [[United Nations Development Programme]] was released on 9 December 2019, and calculates HDI values based on data collected in 2018.<ref name="UNDP2019">{{cite web|url=http://www.hdr.undp.org/sites/default/files/hdr2019.pdf |title= Human Development Report 2019 – "Beyond income, beyond averages, beyond today: Inequalities in human development in the 21st century"|publisher=[[Human Development Report|HDRO (Human Development Report Office)]] [[United Nations Development Programme]]|pages=22–25 |accessdate=9 December 2019}}</ref> Below is the list of countries or territories with ’very high human development’:
+
+* {{Increase}} = increase.
+* {{Steady}} = steady.
+* {{Decrease}} = decrease.
+<!-- * Similar HDI values in the current list do not lead to ranking ties, since the HDI rank is actually determined using HDI values to the sixth decimal point. (It changed on the 2014 report, and know there are ranking ties) -->
+
+{{clear}}
+
+{{col-begin}}
+{{col-break}}
+{|class="wikitable sortable" style="text-align:center"
+|-
+!scope="col" colspan="2"| Rank
+! scope="col" rowspan="2" style="width:250px;"| Country/territory
+!scope="col" colspan="2"| HDI
+|-
+! scope="col" style="width:75px;"| <small>2018 data (2019 report) rankings</small><br /><ref name="UNDP2019"/>
+! scope="col" style="width:75px;"| <small>Change in rank from previous year</small><ref name="UNDP2019"/>
+! scope="col" style="width:75px;"| <small>2018 data (2019 report) rankings</small><br /><ref name="UNDP2019"/>
+! scope="col" style="width:75px;"| <small>Change from previous year</small><br /><ref name="UNDP2019"/>
+|-
+|  1 || {{steady}} ||style="text-align:left"| {{flag|Norway}} || 0.954 || {{increase}} 0.001
+|-
+|  2 || {{steady}} ||style="text-align:left"| {{flag|Switzerland}} || 0.946 || {{increase}} 0.003
+|-
+|  3 || {{steady}} ||style="text-align:left"| {{flag|Ireland}} || 0.942 || {{increase}} 0.003
+|-
+|  4 || {{steady}} ||style="text-align:left"| {{flag|Germany}} || 0.939 || {{increase}} 0.001
+|-
+|  4 || {{increase}} (2) ||style="text-align:left"| {{flag|Hong Kong}} || 0.939 || {{increase}} 0.003
+|-
+|  6 || {{increase}} (1) ||style="text-align:left"| {{flag|Iceland}} || 0.938 || {{increase}} 0.003
+|-
+|  6 || {{decrease}} (1) ||style="text-align:left"| {{flag|Australia}} || 0.938 || {{increase}} 0.001
+|-
+|  8 || {{decrease}} (1) ||style="text-align:left"| {{flag|Sweden}} || 0.937 || {{increase}} 0.001
+|-
+|  9 || {{steady}} ||style="text-align:left"| {{flag|Singapore}} || 0.935 || {{increase}} 0.001
+|-
+| 10 || {{steady}} ||style="text-align:left"| {{flag|Netherlands}} || 0.933 || {{increase}} 0.001
+|-
+| 11 || {{steady}} ||style="text-align:left"| {{flag|Denmark}} || 0.930 || {{increase}} 0.001
+|-
+| 12 || {{steady}} ||style="text-align:left"| {{flag|Finland}} || 0.925 || {{increase}} 0.001
+|-
+| 13 || {{steady}} ||style="text-align:left"| {{flag|Canada}} || 0.922 || {{increase}} 0.001
+|-
+| 14 || {{steady}} ||style="text-align:left"| {{flag|New Zealand}} || 0.921 || {{increase}} 0.001
+|-
+| 15 || {{steady}} ||style="text-align:left"| {{flag|United Kingdom}} || 0.920 || {{increase}} 0.001
+|-
+| 15 || {{steady}} ||style="text-align:left"| {{flag|United States}} || 0.920 || {{increase}} 0.001
+|-
+| 17 || {{steady}} ||style="text-align:left"| {{flag|Belgium}} || 0.919 || {{increase}} 0.002
+|-
+| 18 || {{steady}} ||style="text-align:left"| {{flag|Liechtenstein}} || 0.917 || {{increase}} 0.001
+|-
+| 19 || {{steady}} ||style="text-align:left"| {{flag|Japan}} || 0.915 || {{increase}} 0.002
+|-
+| 20 || {{steady}} ||style="text-align:left"| {{flag|Austria}} || 0.914 || {{increase}} 0.002
+|-
+| 21 || {{steady}} ||style="text-align:left"| {{flag|Luxembourg}} || 0.909 || {{increase}} 0.001
+|-
+| 22 || {{steady}} ||style="text-align:left"| {{flag|Israel}} || 0.906 || {{increase}} 0.002
+|-
+| 22 || {{steady}} ||style="text-align:left"| {{flag|South Korea}} || 0.906 || {{increase}} 0.002
+|-
+| 24 || {{steady}} ||style="text-align:left"| {{flag|Slovenia}} || 0.902 || {{increase}} 0.003
+|-
+| 25 || {{steady}} ||style="text-align:left"| {{flag|Spain}} || 0.893 || {{increase}} 0.002
+|-
+| 26 || {{steady}} ||style="text-align:left"| {{flag|Czech Republic}} || 0.891 || {{increase}} 0.003
+|-
+| 26 || {{steady}} ||style="text-align:left"| {{flag|France}} || 0.891 || {{increase}} 0.001
+|-
+| 28 || {{steady}} ||style="text-align:left"| {{flag|Malta}} || 0.885 || {{increase}} 0.002
+|-
+| 29 || {{steady}} ||style="text-align:left"| {{flag|Italy}} || 0.883 || {{increase}} 0.002
+|-
+| 30 || {{steady}} ||style="text-align:left"| {{flag|Estonia}} || 0.882 || {{increase}} 0.003
+|-
+| 31 || {{steady}} ||style="text-align:left"| {{flag|Cyprus}} || 0.873 || {{increase}} 0.002
+|}
+{{col-break}}
+{|class="wikitable sortable" style="text-align:center"
+|-
+!scope="col" colspan="2"| Rank
+! scope="col" rowspan="2" style="width:250px;"| Country
+!scope="col" colspan="2"| HDI
+|-
+! scope="col" style="width:75px;"| <small>2018 data (2019 report) rankings</small><br /><ref name="UNDP2019"/>
+! scope="col" style="width:75px;"| <small>Change in rank from previous year</small><ref name="UNDP2019"/>
+! scope="col" style="width:75px;"| <small>2018 data (2019 report) rankings</small><br /><ref name="UNDP2019"/>
+! scope="col" style="width:75px;"| <small>Change from previous year</small><br /><ref name="UNDP2019"/>
+|-
+| 32 || {{steady}} ||style="text-align:left"| {{flag|Greece}} || 0.872 || {{increase}} 0.001
+|-
+| 32 || {{increase}} (1) ||style="text-align:left"| {{flag|Poland}} || 0.872 || {{increase}} 0.004
+|-
+| 34 || {{steady}} ||style="text-align:left"| {{flag|Lithuania}} || 0.869 || {{increase}} 0.003
+|-
+| 35 || {{steady}} ||style="text-align:left"| {{flag|United Arab Emirates}} || 0.866 || {{increase}} 0.002
+|-
+| 36 || {{increase}} (2) ||style="text-align:left"| {{flag|Andorra}} || 0.857 || {{increase}} 0.005
+|-
+| 36 || {{steady}} ||style="text-align:left"| {{flag|Saudi Arabia}} || 0.857 || {{increase}} 0.001
+|-
+| 36 || {{increase}} (1) ||style="text-align:left"| {{flag|Slovakia}} || 0.857 || {{increase}} 0.003
+|-
+| 39 || {{steady}} ||style="text-align:left"| {{flag|Latvia}} || 0.854 || {{increase}} 0.004
+|-
+| 40 || {{steady}} ||style="text-align:left"| {{flag|Portugal}} || 0.850 || {{increase}} 0.002
+|-
+| 41 || {{steady}} ||style="text-align:left"| {{flag|Qatar}} || 0.848 || {{steady}}
+|-
+| 42 || {{steady}} ||style="text-align:left"| {{flag|Chile}} || 0.847 || {{increase}} 0.002
+|-
+| 43 || {{steady}} ||style="text-align:left"| {{flag|Brunei}} || 0.845 || {{increase}} 0.002
+|-
+| 43 || {{steady}} ||style="text-align:left"| {{flag|Hungary}} || 0.845 || {{increase}} 0.004
+|-
+| 45 || {{steady}} ||style="text-align:left"| {{flag|Bahrain}} || 0.838 || {{decrease}} 0.001
+|-
+| 46 || {{steady}} ||style="text-align:left"| {{flag|Croatia}} || 0.837 || {{increase}} 0.002
+|-
+| 47 || {{steady}} ||style="text-align:left"| {{flag|Oman}} || 0.834 || {{increase}} 0.001
+|-
+| 48 || {{steady}} ||style="text-align:left"| {{flag|Argentina}} || 0.830 || {{decrease}} 0.002
+|-
+| 49 || {{steady}} ||style="text-align:left"| {{flag|Russia}} || 0.824 || {{increase}} 0.002
+|-
+| 50 || {{increase}} (3) ||style="text-align:left"| {{flag|Belarus}} || 0.817 || {{increase}} 0.002
+|-
+| 50 || {{increase}} (8) ||style="text-align:left"| {{flag|Kazakhstan}} || 0.817 || {{increase}} 0.004
+|-
+| 52 || {{decrease}} (1) ||style="text-align:left"| {{flag|Bulgaria}} || 0.816 || {{increase}} 0.003
+|-
+| 52 || {{decrease}} (1) ||style="text-align:left"| {{flag|Montenegro}} || 0.816 || {{increase}} 0.003
+|-
+| 52 || {{decrease}} (1) ||style="text-align:left"| {{flag|Romania}} || 0.816 || {{increase}} 0.003
+|-
+| 55 || {{increase}} (1) ||style="text-align:left"| {{flag|Palau}} || 0.814 || {{increase}} 0.003
+|-
+| 56 || {{decrease}} (5) ||style="text-align:left"| {{flag|Barbados}} || 0.813 || {{steady}}
+|-
+| 57 || {{steady}} ||style="text-align:left"| {{flag|Kuwait}} || 0.808 || {{decrease}} 0.001
+|-
+| 57 || {{increase}} (1) ||style="text-align:left"| {{flag|Uruguay}} || 0.808 || {{increase}} 0.001
+|-
+| 59 || {{steady}} ||style="text-align:left"| {{flag|Turkey}} || 0.806 || {{increase}} 0.001
+|-
+| 60 || {{steady}} ||style="text-align:left"| {{flag|Bahamas}} || 0.805 || {{increase}} 0.001
+|-
+| 61 || {{steady}} ||style="text-align:left"| {{flag|Malaysia}} || 0.804 || {{increase}} 0.002
+|-
+| 62 || {{steady}} ||style="text-align:left"| {{flag|Seychelles}} || 0.801 || {{increase}} 0.001
+|}
+{{col-end}}
+
+=== Inequality-adjusted HDI (2019 report) ===
+{{main|List of countries by inequality-adjusted HDI}}
+The Inequality-adjusted Human Development Index (IHDI)<ref name="UNDP2019"/> is a "measure of the average level of human development of people in a society once inequality is taken into account".
+
+<small>The rankings are not relative to the HDI list above due to the exclusion of countries which are missing IHDI data.</small>
+
+{{columns-list|colwidth=22em|
+# {{flag|Norway}} 0.889
+# {{flag|Iceland}} 0.885
+# {{flag|Switzerland}} 0.882
+# {{flag|Japan}} 0.882
+# {{flag|Finland}} 0.876
+# {{flag|Sweden}} 0.874
+# {{flag|Denmark}} 0.873
+# {{flag|Netherlands}} 0.870
+# {{flag|Ireland}} 0.865
+# {{flag|Australia}} 0.862
+# {{flag|Germany}} 0.861
+# {{flag|Slovenia}} 0.858
+# {{flag|Czech Republic}} 0.850
+# {{flag|Belgium}} 0.849
+# {{flag|United Kingdom}} 0.845
+# {{flag|Austria}} 0.843
+# {{flag|Canada}} 0.841
+# {{flag|New Zealand}} 0.836
+# {{flag|Luxembourg}} 0.822
+# {{flag|Estonia}} 0.818
+# {{flag|Hong Kong}} 0.815
+# {{flag|Malta}} 0.815
+# {{flag|Singapore}} 0.810
+# {{flag|France}} 0.809
+# {{flag|Israel}} 0.809
+# {{flag|Slovakia}} 0.804
+# {{flag|Poland}} 0.801
+# {{flag|United States}} 0.797
+# {{flag|Cyprus}} 0.788
+# {{flag|South Korea}} 0.777
+# {{flag|Hungary}} 0.777
+# {{flag|Italy}} 0.776
+# {{flag|Latvia}} 0.776
+# {{flag|Lithuania}} 0.775
+# {{flag|Croatia}} 0.768
+# {{flag|Greece}} 0.766
+# {{flag|Belarus}} 0.765
+# {{flag|Spain}} 0.765
+# {{flag|Kazakhstan}} 0.759
+# {{flag|Montenegro}} 0.746
+# {{flag|Russia}} 0.743
+# {{flag|Portugal}} 0.742
+# {{flag|Oman}} 0.725
+# {{flag|Romania}} 0.725
+# {{flag|Argentina}} 0.714
+# {{flag|Bulgaria}} 0.714
+# {{flag|Iran}} 0.706
+# {{flag|Albania}} 0.705
+# {{flag|Uruguay}} 0.703
+# {{flag|Ukraine}} 0.701
+# {{flag|Chile}} 0.696
+# {{flag|Georgia}} 0.692
+# {{flag|Mauritius}} 0.688
+# {{flag|Sri Lanka}} 0.686
+# {{flag|Armenia}} 0.685
+# {{flag|Serbia}} 0.685
+# {{flag|Azerbaijan}} 0.683
+# {{flag|Barbados}} 0.675
+# {{flag|Turkey}} 0.675
+}}
+
+Countries with ’very high human development’ with a missing IHDI: [[Liechtenstein]], [[United Arab Emirates]], [[Andorra]], [[Saudi Arabia]], [[Qatar]], [[Brunei]], [[Bahrain]], [[Palau]], [[Kuwait]], [[Bahamas]], [[Malaysia]] and [[Seychelles]].
+
+== Past top countries ==
+The list below displays the top-ranked country from each year of the Human Development Index. [[Norway]] has been ranked the highest fifteen times, [[Canada]] eight times, and [[Japan]] three times. [[Iceland]] has been ranked highest twice.
+
+=== In each original HDI ===
+The year represents the time period from which the statistics for the index were derived. In parentheses is the year when the report was published.
+{{columns-list|colwidth=25em|
+* 2018 (2019): {{Flagcountry|Norway}}
+* 2017 (2018): {{Flagcountry|Norway}}
+* 2015 (2016): {{Flagcountry|Norway}}
+* 2014 (2015): {{Flagcountry|Norway}}
+* 2013 (2014): {{Flagcountry|Norway}}
+* 2012 (2013): {{Flagcountry|Norway}}
+* 2011 (2011): {{Flagcountry|Norway}}
+* 2010 (2010): {{Flagcountry|Norway}}
+* 2007 (2009): {{Flagcountry|Norway}}
+* 2006 (2008): {{Flagcountry|Iceland}}
+* 2005 (2007): {{Flagcountry|Iceland}}
+* 2004 (2006): {{Flagcountry|Norway}}
+* 2003 (2005): {{Flagcountry|Norway}}
+* 2002 (2004): {{Flagcountry|Norway}}
+* 2001 (2003): {{Flagcountry|Norway}}
+* 2000 (2002): {{Flagcountry|Norway}}
+* 1999 (2001): {{Flagcountry|Norway}}
+* 1998 (2000): {{Flagcountry|Canada}}
+* 1997 (1999): {{Flagcountry|Canada}}
+* 1995 (1998): {{Flagcountry|Canada}}
+* 1994 (1997): {{Flagcountry|Canada}}
+* 1993 (1996): {{Flagcountry|Canada}}
+* 1992 (1995): {{Flagcountry|Canada}}
+* ???? (1994): {{Flagcountry|Canada}}
+* ???? (1993): {{Flagcountry|Japan}}
+* 1990 (1992): {{Flagcountry|Canada}}
+* 1990 (1991): {{Flagcountry|Japan}}
+
+}}
+
+== Geographical coverage ==
+The HDI has extended its geographical coverage: David Hastings, of the [[United Nations Economic and Social Commission for Asia and the Pacific]], published a report geographically extending the HDI to 230+ economies, whereas the UNDP HDI for 2009 enumerates 182 economies and coverage for the 2010 HDI dropped to 169 countries.<ref>{{cite web |url=http://www.unescap.org/publications/detail.asp?id=1308 |last=Hastings |first=David A. |year=2009 |title=Filling Gaps in the Human Development Index |work=United Nations Economic and Social Commission for Asia and the Pacific, Working Paper WP/09/02 |access-date=1 December 2009 |archive-url=https://web.archive.org/web/20110430104401/http://www.unescap.org/publications/detail.asp?id=1308 |archive-date=30 April 2011 |url-status=live |df=dmy-all }}</ref><ref>{{cite web |url=http://www.humansecurityindex.org/?page_id=204 |last=Hastings |first=David A. |year=2011 |title=A "Classic" Human Development Index with 232 Countries |work=HumanSecurityIndex.org |access-date=9 March 2011 |archive-url=https://web.archive.org/web/20110503210307/http://www.humansecurityindex.org/?page_id=204 |archive-date=3 May 2011 |url-status=live |df=dmy-all }} Information Note linked to data</ref>
+
+== Country/region specific HDI lists ==
+{{Div col}}
+* [[List of African countries by Human Development Index|African countries]]
+* [[List of Argentine provinces by Human Development Index|Argentine provinces]]
+* [[List of Australian states by Human Development Index|Australian states]]
+* [[List of Bolivian departments by Human Development Index|Bolivian departments]]
+* [[List of Brazilian federative units by Human Development Index|Brazilian states]]
+* [[List of Canadian provinces and territories by Human Development Index|Canadian provinces and territories]]
+* [[Ranked list of Chilean regions#By international HDI (old methodology)|Chilean regions]]
+* [[List of Chinese administrative divisions by HDI|Chinese administrative divisions]]
+* [[List of Ethiopian regions by Human Development Index|Ethiopian regions]]
+* [[List of sovereign states in Europe by Human Development Index|European countries]]
+* [[List of German states by Human Development Index|German states]]
+* [[List of Indian states by Human Development Index|Indian states]]
+** [[List of districts in Tamil Nadu by Human Development Index|Tamil Nadu districts]]
+* [[List of Indonesian provinces by HDI|Indonesian provinces]]
+* [[List of Iranian provinces by Human Development Index|Iranian provinces]]
+* [[List of Governorates of Iraq by Human Development Index|Iraqi governorates]]
+* [[List of Italian regions by Human Development Index|Italian regions]]
+* [[List of Japanese prefectures by Human Development Index|Japanese prefectures]]
+* [[List of Latin American countries by Human Development Index|Latin American countries]]
+* [[List of Mexican states by Human Development Index|Mexican states]]
+* [[List of administrative units of Pakistan by Human Development Index|Pakistani administrative units]]
+* [[List of Philippine provinces by HDI|Philippine provinces]]
+* [[List of regions of Palestine by Human Development Index|Palestinian regions]]
+* [[List of federal subjects of Russia by Human Development Index|Russian federal subjects]]
+* [[List of South African provinces by HDI|South African provinces]]
+* [[List of Spanish autonomous communities by Human Development Index|Spanish communities]]
+* [[List of regions of the United Kingdom by Human Development Index|UK countries and regions of England]]
+* [[List of U.S. states by Human Development Index|U.S. states]] ([[American Human Development Report]] (AHDR))
+* [[Ranked list of Venezuelan states#By human development index|Venezuelan states]]
+* [http://hdr.undp.org/en/content/subnational-human-development-index-moving-beyond-country-level-averages World, regional (Sub-national HDI by GDL)]
+{{Div col end}}
+
+== Criticism ==
+[[File:Human welfare and ecological footprint.jpg|thumb|HDI vs. [[ecological footprint]]]]
+The Human Development Index has been criticized on a number of grounds, including alleged lack of consideration of technological development or contributions to the human civilization, focusing exclusively on national performance and ranking, lack of attention to development from a global perspective, measurement error of the underlying statistics, and on the UNDP's changes in formula which can lead to severe misclassification in the categorisation of "low", "medium", "high" or "very high" human development countries.<ref name="Wolff et al. 2011">{{cite journal |last1=Wolff |first1=Hendrik |last2=Chong |first2=Howard |last3=Auffhammer |first3=Maximilian |year=2011 |title=Classification, Detection and Consequences of Data Error: Evidence from the Human Development Index |journal=Economic Journal |volume=121 |issue=553 |pages=843–870 |doi=10.1111/j.1468-0297.2010.02408.x |s2cid=18069132 |url=https://scholarship.sha.cornell.edu/articles/338 }}</ref>
+
+=== Sources of data error ===
+Economists Hendrik Wolff, Howard Chong and [[Maximilian Auffhammer]] discuss the HDI from the perspective of data error in the underlying health, education and income statistics used to construct the HDI. They identified three sources of data error which are due to (i) data updating, (ii) formula revisions and (iii) thresholds to classify a country's development status and conclude that 11%, 21% and 34% of all countries can be interpreted as currently misclassified in the development bins due to the three sources of data error, respectively. The authors suggest that the United Nations should discontinue the practice of classifying countries into development bins because: the cut-off values seem arbitrary, can provide incentives for strategic behavior in reporting official statistics, and have the potential to misguide politicians, investors, charity donors and the public who use the HDI at large.<ref name="Wolff et al. 2011" />
+
+In 2010, the UNDP reacted to the criticism and updated the thresholds to classify nations as low, medium, and high human development countries. In a comment to ''[[The Economist]]'' in early January 2011, the Human Development Report Office responded<ref>{{cite news |url=http://www.economist.com/user/UNDP%2BHuman%2BDevelopment%2BReport%2BOffice/comments |title=UNDP Human Development Report Office's comments |date=January 2011 |work=The Economist |access-date=12 January 2011 |archive-url=https://web.archive.org/web/20110211083547/http://www.economist.com/user/UNDP%2BHuman%2BDevelopment%2BReport%2BOffice/comments |archive-date=11 February 2011 |url-status=dead |df=dmy-all }}</ref> to a 6 January 2011 article in the magazine<ref>{{cite news |url=http://www.economist.com/node/17849159?story_id=17849159 |title=The Economist (pages 60–61 in the issue of Jan 8, 2011) |date=6 January 2011 |access-date=12 January 2011 |archive-url=https://web.archive.org/web/20110113063006/http://www.economist.com/node/17849159?story_id=17849159 |archive-date=13 January 2011 |url-status=live |df=dmy-all }}</ref> which discusses the Wolff ''et al.'' paper. The Human Development Report Office states that they undertook a systematic revision of the methods used for the calculation of the HDI, and that the new methodology directly addresses the critique by Wolff ''et al.'' in that it generates a system for continuously updating the human-development categories whenever formula or data revisions take place.
+
+In 2013, Salvatore Monni and Alessandro Spaventa emphasized that in the debate of GDP versus HDI, it is often forgotten that these are both external indicators that prioritize different benchmarks upon which the quantification of societal welfare can be predicated. The larger question is whether it is possible to shift the focus of policy from a battle between competing paradigms to a mechanism for eliciting information on well-being directly from the population.<ref name="Monni and Spaventa, 2013">{{cite journal |last1=Monni |first1=Salvatore |last2=Spaventa |first2=Alessandro |year=2013 |title=Beyond Gdp and HDI: Shifting the focus from Paradigms to Politics |journal=Development |volume=56 |issue=2 |pages=227–231 |doi=10.1057/dev.2013.30 |s2cid=84722678 }}</ref>
+
+== See also ==
+
+===Indices===
+{{div col|colwidth=18em}}
+* [[Bhutan GNH Index]]
+* [[Broad measures of economic progress]]
+* [[Corruption Perceptions Index]]
+* [[Democracy Index]]
+* [[Fragile States Index]]
+* [[Gross domestic product]]
+* [[Green national product]]
+* [[Green gross domestic product]] (Green GDP)
+* [[Gender Inequality Index]]
+* [[Gender-related Development Index]]
+* [[Genuine Progress Indicator]] (GPI)
+* [[Global Peace Index]] (GPI)
+* [[Gross National Well-being]] (GNW)
+* [[Happy Planet Index]] (HPI)
+* [[Human Poverty Index]]
+* [[Inequality-adjusted Human Development Index]] (IHDI)
+* [[Legatum Prosperity Index]]
+* [[List of countries by Human Development Index]]
+* [[Living planet index]]
+* [[Multidimensional Poverty Index]]
+* [[Rule of Law Index]]
+* [[OECD Better Life Index]] (BLI)
+* [[Social Progress Index]]
+* [[Where-to-be-born Index]]
+* [[World Happiness Report]]
+{{div col end}}
+
+===Other===
+{{div col|colwidth=18em}}
+* [[Developing country]]
+* [[Economic development]]
+* [[Ethics of care]]
+* [[Happiness economics]]
+* [[Human Development and Capability Association]]
+* [[Humanistic economics]]
+* [[International development]]
+* [[List of countries by percentage of population living in poverty]]
+* [[Right to an adequate standard of living]]
+* [[Subjective life satisfaction]]
+* [[Sustainable Development Goals]] (SDGs)
+{{div col end}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{commons category|Human Development Index}}
+* [http://hdr.undp.org/en/content/human-development-index-hdi Human Development Index]
+* [http://hdr.undp.org/en/statistics/ Human Development Tools and Rankings]
+* {{cite web|url= http://hdr.undp.org/en/media/hdr_20072008_tech_note_1.pdf |archive-url= https://web.archive.org/web/20080216013844/http://hdr.undp.org/en/media/hdr_20072008_tech_note_1.pdf |url-status= dead |archive-date= 2008-02-16 |title=Technical note explaining the definition of the HDI }}&nbsp;{{small|(5.54&nbsp;MB)}}
+* [http://ec.europa.eu/eurostat/web/products-eurostat-news/-/DDN-20170306-1?inheritRedirect=true&redirect=%2Feurostat%2Fhome New demographic datasets by 'Human Development Index (HDI)’]
+* An independent [http://www.humansecurityindex.org/?page_id=204 HDI] covering 232 countries, formulated along the lines of the traditional (pre-2010) approach.
+
+{{Global economic classifications}}
+{{Population country lists}}
+{{Quality of life country lists}}
+{{Deprivation Indicators}}
+{{Authority control}}
+
+[[Category:Human Development Index| ]]
+[[Category:Development economics]]
+[[Category:Environmental economics]]
+[[Category:International rankings]]
+[[Category:Science and technology in India]]
+[[Category:Science and technology in Pakistan]]
+[[Category:American inventions]]
+[[Category:British inventions]]
+[[Category:Indian inventions]]
+[[Category:Pakistani inventions]]
+[[Category:1990 establishments]]
+
+[[sah:HDI]]

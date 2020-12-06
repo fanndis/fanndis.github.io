@@ -1,0 +1,95 @@
+{{short description|Cloud content management program}}
+{{Use mdy dates|date=September 2017}}
+{{Infobox website
+| name = Box, Inc.
+| type = Content management and file sharing
+| traded_as = {{NYSE|BOX}}
+| company_type = [[Public company|Public]]
+| logo = [[File:Box, Inc. logo.svg|150px]]
+| launch_date = {{start date and age|2005}}<ref>{{cite web |url=http://www.techrepublic.com/article/how-aaron-levie-and-his-childhood-friends-built-box-into-a-2-billion-business-without-stabbing-each-other-in-the-back/ |publisher=TechRepublic |title=How Aaron Levie and his childhood friends built Box into a $2&nbsp;billion business,Box V4, without stabbing each other in the back |date=March 6, 2014 |accessdate=December 1, 2016 |author=Rachel King |quote=Development for Box, then Box.net, started at the end of 2004, but really got off the ground and went online in 2005 during their second years of college.}}</ref><ref>{{cite web |url=http://www.geekwire.com/2011/leave-seattle-build-boxnet/ |title=Commentary: Why we had to leave Seattle to build Box.net |publisher=GeekWire |date=September 14, 2011 |accessdate=December 1, 2016 |author=Aaron Levie |quote=Box{{snd}}which now competes with Redmond's very own Microsoft SharePoint{{snd}}had been started in early '05 from college dorm rooms in California and North Carolina.}}</ref> (as Box.net)<br>[[Mercer Island, Washington]], U.S.
+| location = [[Redwood City, California]], U.S.
+| key_people = Aaron Levie<br>{{small|(Chairman and CEO)}}<br>Stephanie Carullo<br>{{small|(COO)}}<br>Dylan Smith<br>{{small|(CFO)}}
+<br>Ben Kus<br>{{small|(CTO)}}
+| num_employees = 1850 {{small|(as of 2017)}}<ref>{{cite web|url=https://www.nytimes.com/2013/04/01/technology/box-a-data-storage-company-prepares-to-expand-in-europe.html|title=Box, a Data Storage Company, Prepares to Expand in Europe|first=Kimiko De|last=Freytas-tamura|date=March 31, 2013|via=NYTimes.com}}</ref>
+| author = [[Aaron Levie]]<br>[[Dylan Smith (businessman)|Dylan Smith]]
+| industry = [[Cloud storage]], [[File hosting service|File hosting]]
+| website = {{URL|https://www.box.com/}}
+| revenue = {{Increase}} $696 Million(2019)<ref>https://www.boxinvestorrelations.com/news-and-media/news/press-release-details/2020/Box-Reports-Revenue-of-696-Million-for-Fiscal-Year-2020-Up-14-Percent-Year-Over-Year-and-Delivers-First-Full-Year-of-Non-GAAP-Profitability/default.aspx</ref>
+}}
+'''Box, Inc.''' (formerly '''Box.net'''), is an American internet company based in [[Redwood City, California]]. The company focuses on cloud [[content management]] and [[file sharing]] service for businesses.  Official clients and apps are available for [[Windows]], [[macOS]], and several mobile platforms. Box was founded in 2005.
+
+==History==
+Box was originally developed as a college project of [[Aaron Levie]] while he was a student of the [[University of Southern California]] in 2004. Levie left school to run the company full-time in 2005.<ref>{{Cite news|url=http://www.businessinsider.com/aaron-levie-quit-college-to-found-box-now-25-billion-company-2017-7|title='I was having nightmares for a few weeks': Box CEO Aaron Levie reveals how hard it was to build a $2.5 billion business and take it public by age 29|work=Business Insider|access-date=2017-09-21|language=en|last1=Mazarakis|first1=Anna|last2=Shontell|first2=Alyson}}</ref> Levie became CEO, while his childhood friend [[Dylan Smith (businessman)|Dylan Smith]] became CFO.
+
+In October 2009, Box made its first acquisition, buying Increo Solutions for its document collaboration and preview technology.<ref>{{Cite web|url=https://techcrunch.com/2009/10/06/box-net-acquires-increo-solutions-to-expand-document-collaboration-and-sharing/|title=Box.net Acquires Increo Solutions To Expand Document Collaboration And Sharing|last=Arrington|first=Michael|website=TechCrunch|access-date=2016-10-02}}</ref>
+
+In July 2012, Box secured $125&nbsp;million in a funding round led by growth equity firm [[General Atlantic]], joined by investors [[Bessemer Venture Partners]], [[Draper Fisher Jurvetson|DFJ Growth]], [[New Enterprise Associates]], [[Sapphire Ventures]] (formerly SAP Ventures), [[Scale Venture Partners]], and [[Social Capital (venture capital)|Social + Capital Partnership]].<ref>{{cite news|last1=Ha|first1=Anthony|title=Box Raises $125M To Target Global Growth And Large Enterprises, Round Led By General Atlantic|url=https://techcrunch.com/2012/07/31/box-raises-125m/|accessdate=December 16, 2015|publisher=TechCrunch}}</ref><ref>{{cite web|title=Box Announces $125 Million Investment to Fuel Enterprise Growth|url=http://www.generalatlantic.com/media/archive/box-announces-$125-million-investment-to-fuel-enterprise-growth/|website=General Atlantic website|accessdate=December 16, 2015|archive-url=https://web.archive.org/web/20170902100030/http://www.generalatlantic.com/media/archive/box-announces-$125-million-investment-to-fuel-enterprise-growth/|archive-date=September 2, 2017|url-status=dead|df=mdy-all}}</ref>
+
+In December 2013, eight investors participated in a $100&nbsp;million series F funding round. Investors included Coatue Management, [[Draper Fisher Jurvetson|DFJ Growth]], [[Itochu|Itochu Technology Ventures]], Macnica Networks Corp., [[Mitsui & Co]], Telefónica Digital, [[Telstra]], and Telstra Ventures.<ref>{{cite news|last1=Darrow|first1=Barb|title=Yowza: Box touts $100M investment to fund global land grab|url=http://gigaom.com/2013/12/05/yowza-box-touts-100m-investment-to-fund-global-land-grab/|accessdate=December 16, 2015|publisher=Gigaom}}</ref>
+
+In July 2014, Box received $150&nbsp;million from Coatue Management and [[TPG Capital]] in a series G funding round.<ref>{{cite news|last1=Wilhelm|first1=Alex|title=Box Picks Up $150M More As It Waits For Favorable IPO Winds|url=https://techcrunch.com/2014/07/07/box-picks-up-150m-more-as-it-waits-for-favorable-ipo-winds/|accessdate=December 16, 2015|publisher=TechCrunch}}</ref>
+
+In November 2014, Box acquired two-man medical-imaging software startup MedXT for $3.84&nbsp;million.<ref>By Jordan Novet, VentureBeat. "[https://venturebeat.com/2014/11/17/box-paid-out-3-8m-in-stock-shares-to-buy-medxt/ Box paid out $3.8M in stock to buy MedXT]." November 17, 2014. November 17, 2014.</ref>
+
+On January 23, 2015 Box held its initial public offering on the NYSE. The IPO price was $14.00. It opened at $20.20 and closed at $23.23. The IPO raised $175&nbsp;million and established a market capitalization of about $1.6&nbsp;billion.<ref>Matt Egan, CNN Money. "[https://money.cnn.com/2015/01/23/investing/box-ipo-tech-stocks/ Box jumps 66% in first big IPO of 2015]."</ref>
+
+In February 2015, Box acquired the company Airpost. Airpost is a [[Cloud management|cloud management service]].<ref>{{Cite web|url=https://techcrunch.com/2015/02/20/box-acquires-airpost/|title=Box Acquires Cloud Management Startup Airpost – TechCrunch|website=techcrunch.com|language=en-US|access-date=2018-04-19}}</ref>
+
+In January 2016, some Box employees moved into their new headquarters in downtown [[Redwood City]], California.<ref>{{cite web|url=http://realsmartgroup.com/redwood-city-welcomes-first-wave-of-box-employees/|title=Redwood City Welcomes First Wave of Box Employees – RealSmart Group|website=realsmartgroup.com|access-date=March 28, 2017|archive-url=https://web.archive.org/web/20170518133626/http://realsmartgroup.com/redwood-city-welcomes-first-wave-of-box-employees/|archive-date=May 18, 2017|url-status=dead|df=mdy-all}}</ref>
+
+In July 2018, Box acquired Butter.ai, an enterprise search company founded by Jack Hirsch and Adam Walz.<ref>{{Cite web|title=Box acquires Butter.ai to make search smarter|url=https://social.techcrunch.com/2018/07/10/box-acquires-butter-ai-to-make-search-smarter/|access-date=2020-10-30|website=TechCrunch|language=en-US}}</ref>
+
+==Business model==
+Box is a [[cloud computing]] business which provides file sharing, [[Cloud collaboration|collaborating]], and other tools for working with files that are uploaded to its servers. Users can determine how their content can be shared with other users.<ref>{{cite web|url=https://app.box.com/legal_text/privacy_policy|title=Box Privacy Policy|work=box.com}}</ref> Users may invite others to view and/or edit an account's shared files, upload documents and photos to a shared files folder (and thus share those documents outside Box), and give other users rights to view shared files.<ref name="privacy">{{cite web|url=http://www.box.com/static/html/privacy.html |title=Privacy Policy |publisher=Box |date=June 13, 2012 |accessdate=2013-06-14}}</ref>
+
+Box offers three account types: Enterprise, Business and Personal.<ref>{{cite web|url=http://www.box.com/pricing |title=Select a Plan |publisher=Box |accessdate=2013-06-14}}</ref> There are official clients offered for [[Windows]] and [[OS X|macOS]], but not for [[Linux]]. A mobile version of the service is available for [[Android (operating system)|Android]], [[BlackBerry 10]], [[iOS]], [[WebOS]], and [[Windows Phone]] devices.<ref>{{cite web|url=https://www.box.com/personal/mobile-access/ |title=Box Mobile Access |publisher=Box.com |accessdate=2013-06-27}}</ref>
+
+Box's enterprise clients include [[IBM]],<ref>{{cite web|url=https://www-03.ibm.com/press/us/en/pressrelease/47185.wss|title=IBM and Box Forge Global Partnership to Transform Work in the Cloud}}</ref> [[GE]],<ref>{{cite web|url=https://techcrunch.com/2014/05/08/box-scores-huge-win-with-ge/|title=Box Scores Huge Win With GE|author=Ron Miller|publisher=AOL|work=TechCrunch}}</ref> [[Schneider Electric]],<ref>{{cite web|url=http://www.citeworld.com/article/2115579/cloud-computing/schneider-electric-stifles-shadow-it-box-implementation-hits-25000-virally.html|title=Consumer Technology|work=CIO}}</ref> and [[Procter & Gamble]].<ref>{{cite web|url=http://www.informationweek.com/how-pandg-promotes-box-file-sharing/d/d-id/1100441?|title=How P&G Promotes Box File Sharing|work=InformationWeek}}</ref>
+
+In December 2007 the company announced OpenBox 2, which allows developers to create services that interact with files on both Box.com and competing web-based applications and services. The [[application programming interface]] is implemented over conventional [[XML]].<ref>{{cite web|url=http://developers.box.net/w/page/12923958/Welcome%20to%20the%20Box%20Platform |title=Box Platform Developer Documentation / Welcome to the Box Platform |publisher=Developers.box.net |accessdate=2013-06-27 |url-status=dead |archive-url=https://web.archive.org/web/20130622070140/http://developers.box.net/w/page/12923958/Welcome%20to%20the%20Box%20Platform |archive-date=June 22, 2013 }}</ref>
+
+== Events ==
+
+=== BoxWorks ===
+BoxWorks is an annual conference hosted by Box featuring presentations, feature announcements and working sessions to assist users.<ref>{{Cite news|url=http://www.cloudpro.co.uk/collaboration/7098/what-to-expect-from-boxworks-2017|title=What to expect from BoxWorks 2017|work=Cloud Pro|access-date=2018-06-07|language=en}}</ref>
+
+== See also ==
+* [[Cloud collaboration]]
+* [[Cloud storage]]
+* [[Comparison of file hosting services]]
+* [[Comparison of file synchronization software]]
+* [[Comparison of online backup services]]
+* [[Document collaboration]]
+* [[File sharing]]
+* [[Project management software]]
+* [[Software as a service]]
+* [[Amazon Web Services]]
+* [[CloudApp]]
+* [[Dropbox (service)|Dropbox]]
+* [[Evernote]]
+* [[Monosnap]]
+* [[Oracle Cloud]]
+* [[iCloud Drive]]
+* [[Adobe Creative Cloud]]
+
+==References==
+{{Reflist|33em}}
+
+==External links==
+*{{Official website|http://www.box.com }}
+
+{{Cloud computing}}
+{{File hosting service}}
+
+{{DEFAULTSORT:Box}}
+[[Category:2005 establishments in Washington (state)]]
+[[Category:American companies established in 2005]]
+[[Category:Computer-related introductions in 2005]]
+[[Category:2015 initial public offerings]]
+[[Category:File sharing services]]
+[[Category:File hosting for MacOS]]
+[[Category:File hosting for Windows]]
+[[Category:File sharing]]
+[[Category:Companies listed on the New York Stock Exchange]]
+[[Category:Companies based in Redwood City, California]]
+[[Category:One-click hosting]]

@@ -1,0 +1,131 @@
+{{short description|Removal of material from the surface of an object by vaporization, chipping, or other erosive processes}}
+{{distinguish|oblation|ablution (disambiguation){{!}}ablution}}
+[[File:Ablation of quartz glass in a flashtube.jpg|thumb|200px|Ablation near the electrode in a [[flashtube]]. The high-energy electrical arc slowly erodes the glass, leaving a frosted appearance.]]
+
+'''Ablation''' is removal or destruction of material from an object by [[vaporization]], chipping, or other [[erosion|erosive]] processes. Examples of ablative materials are described below, and include [[spacecraft]] material for ascent and [[atmospheric reentry]], ice and snow in [[glaciology]], biological tissues in [[medicine]] and [[passive fire protection]] materials.
+
+==Artificial intelligence==
+{{details|Ablation (artificial intelligence)}}
+
+In [[artificial intelligence]] (AI), especially [[machine learning]], '''[[Ablation (artificial intelligence)|ablation]]''' is the removal of a component of an AI system.<ref>{{cite conference
+|last=Newell |first=Allen |author-link=Allen Newell
+|year=1975
+|title=A Tutorial on Speech Understanding Systems
+|conference=In Speech Recognition: Invited Papers Presented at the 1974 IEEE Symposium
+|editor=D. Raj Reddy
+|editor-link=Raj Reddy
+|page=[{{GBurl|eJac7g7YfZIC|pg=PA43}} 43]
+|location=New York
+|publisher=Academic
+}}</ref> The term is by analogy with biology: removal of components of an organism.
+
+==Biology==
+
+'''Biological ablation''' is the removal of a biological structure or functionality.
+
+Genetic ablation is another term for [[gene silencing]], in which [[gene expression]] is abolished through the alteration or deletion of [[genetic sequence]] information. In cell ablation, individual cells in a population or culture are destroyed or removed. Both can be used as experimental tools, as in [[loss-of-function]] experiments.<ref>[http://www.changbioscience.com/res/res/rCellsAblation.htm Cell Ablation definition], Change Bioscience.</ref>
+
+== Electro-Ablation ==
+'''Electro-ablation''', is an [[electrochemical]] process similar to electro-polishing, that removes material from a metallic workpiece to reduce [[surface roughness]].
+
+It is similar to electro-polishing in that it uses a current flowing through an electrolyte from the workpiece (Anode) to remove metal from the surface of the workpiece, producing a smoother surface. It differs from electro-polishing in its current flow, frequency and high rate of metal removal ('''ablation''').
+
+Electro-polishing uses low currents, usually much less than 1 Amp/cm<sup>2</sup>, that are usually constant or changing at very low frequency. This limits the speed of electro-polishing. Components often requiring several hours of immersed electro-polishing for significant reduction in surface roughness. This reduces the attractiveness of electro-polishing for post-processing of metallic components, such as those produced by [[3D printing|Metal Additive Manufacturing]] (3D Printing of Metals).
+
+Electro-ablation uses a combination of very high current flow (usually in excess of 10 Amps/cm<sup>2</sup>) combined with very high frequency (up to 200kHz) changes in current flow. This allows electro-ablation to break through highly resistive oxide surfaces, such as those found on Titanium and other exotic metals and alloys. Through software control, electro-ablation processes are able to quickly remove - via ablation - tough protective oxide layers and then immediately reduce the current flow to avoid melting the underlying non-oxidised metal or alloy. This allows very quick surface finishing.
+
+The process is capable of providing surface finishing for a wide range of exotic and widely used metals and alloys, including: Titanium, Stainless Steel, Niobium, Chromium-Cobalt, Inconel, Aluminium and a range of widely available steels and alloys.
+
+Due to its use of very high frequencies, electro-ablation is very effective at achieving high levels of surface finishing in holes, valleys and hidden or internal surfaces on metallic workpieces (parts).
+
+The process is particularly applicable to components produced by Additive Manufacturing process, such as 3D-printed metals. These components tend to be produced with roughness levels well above 5-20 micron. Electro-ablation can be used to quickly reduce the surface roughness to less than 0.8 micron, allowing the post-process to be used for volume production surface finishing.
+
+The electro-ablation process can be applied in two ways, “Brush” or “Immersion” in a bath.
+
+The brush method occurs in air, above a drain tank, with the electrolyte and cathode contained in a brush, that is either handheld or positioned by robotic control. This method is preferred for objects that only require surface finishing on limited areas or on objects that are too large to be used in an Immersion tank.
+
+The Immersion method requires the object to be immersed in a tank containing an electrolyte, usually phosphoric acid, and cathodic probes. This method is preferred for objects produced in a high-volume production environment, where low-skilled labour is available for loading and unloading components, or where longer surface finishing times are required.
+
+==Glaciology==
+{{further|Ablation zone}}
+In glaciology and [[meteorology]], ablation—the opposite of accumulation—refers to all processes that remove snow, ice, or water from a glacier or snowfield.<ref>Paterson, W. S. B. 1999. ''The Physics of Glaciers''. Tarrytown, N.Y., Pergamon.</ref>{{page needed|date=December 2016}} Ablation refers to the melting of snow or ice that runs off the glacier, [[evaporation]], [[Sublimation (chemistry)|sublimation]], [[Ice calving|calving]], or erosive removal of snow by wind.  Air temperature is typically the dominant control of ablation, with precipitation exercising secondary control. In a temperate climate during ablation season, ablation rates typically average around 2&nbsp;mm/h.<ref>{{Cite web |url=http://amsglossary.allenpress.com/glossary/search?p=1&query=ablation&submit=Search |title=''Glossary of Meteorology'' |access-date=2010-07-05 |archive-url=https://web.archive.org/web/20110917232831/http://amsglossary.allenpress.com/glossary/search?p=1&query=ablation&submit=Search |archive-date=2011-09-17 |url-status=dead }}</ref> Where solar radiation is the dominant cause of snow ablation (e.g., if air temperatures are low under clear skies), characteristic ablation textures such as [[Suncup (snow)|suncups]] and [[Penitente (snow formation)|penitentes]] may develop on the snow surface.<ref name=Betterton>{{cite journal | last=Betterton | first=M. D. | title=Theory of structure formation in snowfields motivated by penitentes, suncups, and dirt cones | journal=Physical Review E | publisher=American Physical Society (APS) | volume=63 | issue=5 | date=2001-04-26 | issn=1063-651X | doi=10.1103/physreve.63.056129 | page=056129| arxiv=physics/0007099 | pmid=11414983}}</ref>
+
+Ablation can refer either to the processes removing ice and snow or to the quantity of ice and snow removed.
+
+Debris-covered glaciers have also been shown to greatly impact the ablation process. There is a thin debris layer that can be located on the top of glaciers that intensifies the ablation process below the ice. The debris-covered parts of a glacier that is experiencing ablation are sectioned into three categories which include ice cliffs, ponds, and debris. These three sections allow scientists to measure the heat digested by the debris-covered area and is calculated. The calculations are dependent on the area and net absorbed heat amounts in regards to the entire debris-covered zones. These types of calculations are done to various glaciers to understand and analyze future patterns of melting.<ref>Sakai, Akiko, et al. "Role of supraglacial ponds in the ablation process of a debris-covered glacier in the Nepal Himalayas." IAHS PUBLICATION (2000): 119-132.</ref>
+
+[[Moraine]] (glacial debris) is moved by natural processes that allow for down-slope movement of materials on the glacier body. It is noted that if the slope of a glacier is too high then the debris will continue to move along the glacier to a further location. The sizes and locations of glaciers vary around the world, so depending on the climate and physical geography the varieties of debris can differ. The size and magnitude of the debris is dependent on the area of glacier and can vary from dust-size fragments to blocks as large as a house.<ref>{{cite journal | last1=Paul | first1=Frank | last2=Huggel | first2=Christian | last3=Kääb | first3=Andreas | title=Combining satellite multispectral image data and a digital elevation model for mapping debris-covered glaciers | journal=Remote Sensing of Environment | publisher=Elsevier BV | volume=89 | issue=4 | year=2004 | issn=0034-4257 | doi=10.1016/j.rse.2003.11.007 | pages=510–518}}</ref>
+
+There has been many experiments done to demonstrate the effect of debris on the surface of glaciers. Yoshiyuki Fujii, a professor at the [[National Institute of Polar Research]] designed an experiment that showed ablation rate was accelerated under a thin debris layer and was retarded under a thick one as compared with that of a natural snow surface.<ref>{{cite journal | last=Fujii | first=Yoshiyuki | title=Field Experiment on Glacier Ablation under a Layer of Debris Cover | journal=Journal of the Japanese Society of Snow and Ice | publisher=Japanese Society of Snow and Ice | volume=39 | issue=Special | year=1977 | issn=0373-1006 | doi=10.5331/seppyo.39.special_20 | pages=20–21|doi-access=free}}</ref> This science is significant due to the importance of long-term availability of water resources and assess glacier response to [[climate change]].<ref>Kayastha, Rijan Bhakta, et al. "Practical prediction of ice melting beneath various thickness of debris cover on Khumbu Glacier, Nepal, using a positive degree-day factor." IAHS PUBLICATION 7182 (2000).</ref> Natural resource availability is a major drive behind research conducted in regards to the ablation process and overall study of glaciers.
+
+==Laser ablation==
+{{main article|laser ablation}}
+[[Image:SSY1 Military Surplus Nd-YAG Laser Firing.JPG|thumb|250px|An [[Nd:YAG]] laser drills a hole through a block of [[Nitrile rubber|nitrile]]. The intense burst of infrared radiation ablates the highly absorbing rubber, releasing an eruption of [[plasma (physics)|plasma]].]] [[Laser ablation]] is greatly affected by the nature of the material and its ability to absorb energy, therefore the wavelength of the ablation laser should have a minimum absorption depth.  While these lasers can average a low power, they can offer peak intensity and fluence given by:
+
+:<math>\begin{align}
+       \text{Intensity } (\mathrm{W}/\mathrm{cm}^2) &= \frac{\text{average power } (\mathrm{W})}{\text{focal spot area } (\mathrm{cm}^2)} \\[5pt]
+  \text{Peak intensity } (\mathrm{W}/\mathrm{cm}^2) &= \frac{\text{peak power } (\mathrm{W})}{\text{focal spot area } (\mathrm{cm}^2)} \\[5pt]
+         \text{Fluence } (\mathrm{J}/\mathrm{cm}^2) &= \frac{\text{laser pulse energy } (\mathrm{J})}{\text{focal spot area } (\mathrm{cm}^2)}
+\end{align}</math>
+
+while the peak power is
+
+:<math>\text{Peak power } (\mathrm{W}) = \frac{\text{pulse energy } (\mathrm{J})}{\text{pulse duration } (\mathrm{s})}</math>
+
+Surface ablation of the [[cornea]] for several types of eye [[refractive surgery]] is now common, using an [[excimer laser]] system ([[LASIK]] and [[LASEK]]). Since the cornea does not grow back, laser is used to remodel the cornea [[refraction|refractive]] properties to correct [[refraction error]]s, such as [[Astigmatism (eye)|astigmatism]], [[myopia]], and [[hyperopia]]. Laser ablation is also used to remove part of the [[uterus|uterine]] wall in women with [[menstruation]] and [[adenomyosis]] problems in a process called [[endometrial ablation]].
+
+Recently, researchers have demonstrated a successful technique for ablating subsurface tumors with minimal thermal damage to surrounding healthy tissue, by using a focused laser beam from an ultra-short pulse diode laser source.<ref>{{cite journal | last1=Yousef Sajjadi | first1=Amir | last2=Mitra | first2=Kunal | last3=Grace | first3=Michael | title=Ablation of subsurface tumors using an ultra-short pulse laser | journal=Optics and Lasers in Engineering | publisher=Elsevier BV | volume=49 | issue=3 | year=2011 | issn=0143-8166 | doi=10.1016/j.optlaseng.2010.11.020 | pages=451–456}}</ref>
+
+==Marine surface coatings==
+[[Biofouling#Anti-fouling|Antifouling]] paints and other related coatings are routinely used to prevent the buildup of [[microorganisms]] and other animals, such as [[barnacle]]s for the bottom hull surfaces of recreational, commercial and military sea vessels. Ablative paints are often utilized for this purpose to prevent the dilution or deactivation of the antifouling agent.  Over time, the paint will slowly decompose in the water, exposing fresh antifouling compounds on the surface. Engineering the antifouling agents and the ablation rate can produce long-lived protection from the deleterious effects of biofouling.
+
+==Medicine==
+
+In medicine, ablation is the same as removal of a part of [[biological tissue]], usually by [[surgery]]. Surface ablation of the [[skin]] ([[dermabrasion]], also called resurfacing because it induces [[Regeneration (biology)|regeneration]]) can be carried out by chemicals (chemoablation), by lasers ([[laser ablation]]), by freezing ([[cryoablation]]), or by electricity ([[fulguration]]). Its purpose is to remove skin spots, [[aging|aged skin]], [[wrinkles]], thus [[rejuvenation (aging)|rejuvenating]] it. Surface ablation is also employed in [[otolaryngology]] for several kinds of surgery, such as for [[snoring]]. Ablation therapy using radio frequency waves on the heart is used to cure a variety of cardiac arrhythmiae such as [[supraventricular tachycardia]], [[Wolff–Parkinson–White syndrome]] (WPW), [[ventricular tachycardia]], and more recently as [[management of atrial fibrillation]]. The term is often used in the context of [[laser ablation]], a process in which a [[laser]] dissolves a material's [[covalent bond|molecular bonds]].  For a laser to ablate tissues, the power density or [[fluence]] must be high, otherwise thermocoagulation occurs, which is simply thermal vaporization of the tissues.
+
+Rotoablation is a type of arterial cleansing that consists of inserting a tiny, diamond-tipped, drill-like device into the affected artery to remove fatty deposits or plaque. The procedure is used in the treatment of [[coronary heart disease]] to restore blood flow.
+
+[[Radiofrequency ablation]] (RFA) is a method of removing aberrant tissue from within the body via minimally invasive procedures.
+
+[[Microwave ablation]] (MWA) is similar to RFA but at higher frequencies of electromagnetic radiation.
+
+[[High-intensity focused ultrasound|High-intensity focused ultrasound (HIFU)]] ablation removes tissue from within the body noninvasively.
+
+[[Bone marrow]] ablation is a process whereby the human bone marrow cells are eliminated in preparation for a [[bone marrow transplant]]. This is performed using high-intensity [[chemotherapy]] and [[total body irradiation]]. As such, it has nothing to do with the vaporization techniques described in the rest of this article.
+
+[[Ablative brain surgery|Ablation of brain tissue]] is used for treating certain [[neurological disorder]]s, particularly [[Parkinson's disease]], and sometimes for [[psychiatric disorder]]s as well.
+
+Recently, some researchers reported successful results with genetic ablation. In particular, genetic ablation is potentially a much more efficient method of removing unwanted cells, such as [[tumor]] cells, because large numbers of animals lacking specific cells could be generated. Genetically ablated lines can be maintained for a prolonged period of time and shared within the research community. Researchers at Columbia University report of reconstituted [[caspases]] combined from ''[[Caenorhabditis elegans|C. elegans]]'' and humans, which maintain a high degree of target specificity. The genetic ablation techniques described could prove useful in battling cancer.<ref>{{cite journal |title=Targeted cell killing by reconstituted caspases |journal=Proceedings of the National Academy of Sciences |first1=Dattananda S. |last1=Chelur |author2=Chalfie, Martin |volume=104 |issue=7 |pages=2283–8 |url=http://www.pnas.org/cgi/reprint/104/7/2283 |accessdate=2007-03-08 |doi=10.1073/pnas.0610877104 |pmid=17283333 |pmc=1892955 |bibcode=2007PNAS..104.2283C |date=February 2007}}</ref>
+
+==Passive fire protection==
+[[Firestop]]ping and [[fireproofing]] products can be ablative in nature. This can mean [[endothermic]] materials, or merely materials that are sacrificial and become "spent" over time while exposed to [[fire]], such as [[silicone]] firestop products.
+Given sufficient time under fire or heat conditions, these products char away, crumble, and disappear. The idea is to put enough of this material in the way of the fire that a level of [[fire-resistance rating]] can be maintained, as demonstrated in a [[fire test]]. Ablative materials usually have a large concentration of organic matter{{Citation needed|date=September 2008}} that is reduced by fire to ashes. In the case of silicone, organic [[rubber]] surrounds very finely divided [[silica]] [[dust]] (up to 380 m² of combined surface area of all the dust particles per gram of this dust{{Citation needed|date=September 2008}}). When the organic rubber is exposed to fire, it burns to ash and leaves behind the silica dust with which the product started.
+
+== Protoplanetary disk ablation ==
+[[Protoplanetary disk|Protoplanetary disks]] are rotating [[Circumstellar disc|circumstellar disks]] of dense gas and dust surrounding [[Stellar evolution|young, newly formed]] stars. Shortly after [[star formation]], stars often have leftover surrounding material that is still gravitationally bound to them, forming primitive disks that orbit around the star's equator – not too dissimilarly from [[Rings of Saturn|the rings of Saturn]]. This occurs because the decrease in the [[Protostar|protostellar]] material’s radius during formation increases [[angular momentum]], which means that this remaining material gets whipped into a flattened circumstellar disk around the star. This circumstellar disk may eventually mature into what is referred to as a protoplanetary disk: a disk of gas, dust, ice and other materials from which [[Planetary system|planetary systems]] may form. In these disks, orbiting matter starts to accrete in the colder mid-plane of the disk from dust grains and ices sticking together. These small accretions grow from pebbles to rocks to early baby planets, called [[Planetesimal|planetesimals]], then [[Protoplanet|protoplanets]], and eventually, full [[Planet|planets]].<ref>{{Cite journal|last=Sheehan|first=Patrick|date=October 2020|title=Early onset of planet formation observed in a nascent star system|url=https://www.nature.com/articles/d41586-020-02748-w|journal=Nature|language=en|volume=586|issue=7828|pages=205–206|doi=10.1038/d41586-020-02748-w|pmid=33029003}}</ref>
+
+As it is believed that [[List of most massive stars|massive stars]] may play a role in actively triggering star formation (by introducing gravitational instabilities amongst other factors),<ref>{{Cite journal|last1=Lee|first1=Hsu-Tai|last2=Chen|first2=W. P.|date=10 March 2007|title=Triggered Star Formation by Massive Stars|url=https://iopscience.iop.org/article/10.1086/510893/meta|journal=The Astrophysical Journal|language=en|volume=657|issue=2|pages=884|doi=10.1086/510893|s2cid=18844691|issn=0004-637X}}</ref> it is plausible that young, smaller stars with disks may be living relatively nearby to older, more massive stars. This has already been confirmed through [[Observation|observations]] to be the case in certain [[Star cluster|clusters]], e.g. in the [[Trapezium Cluster|Trapezium cluster]].<ref>{{Cite journal|last1=McCaughrean|first1=Mark J.|last2=O'dell|first2=C. Robert|date=May 1996|title=Direct Imaging of Circumstellar Disks in the Orion Nebula|url=http://adsabs.harvard.edu/cgi-bin/bib_query?1996AJ....111.1977M|journal=The Astronomical Journal|volume=111|pages=1977|doi=10.1086/117934|bibcode=1996AJ....111.1977M}}</ref> Since massive stars tend to collapse through [[Supernova|supernovae]] at the end of their lives, research is now investigating what role the [[Shock wave|shockwave]] of such an explosion, and the resulting [[supernova remnant]] (SNR), would play if it occurred in the line of fire of a protoplanetary disk. According to computationally modelled simulations, a SNR striking a protoplanetary disk would result in significant ablation of the disk, and this ablation would strip a significant amount of protoplanetary material from the disk – but not necessarily destroy the disk entirely.<ref>{{Cite journal|last1=Close|first1=J. L.|last2=Pittard|first2=J. M.|date=July 2017|title=Hydrodynamic ablation of protoplanetary discs via supernovae|url=https://academic.oup.com/mnras/article-lookup/doi/10.1093/mnras/stx897|journal=Monthly Notices of the Royal Astronomical Society|language=en|volume=469|issue=1|pages=1117–1130|doi=10.1093/mnras/stx897|arxiv=1704.06308|s2cid=119262203|issn=0035-8711}}</ref> This is an important point because a disk that survives such an interaction with sufficient material leftover to form a planetary system may inherit an altered [[Astrochemistry|disk chemistry]] from the SNR, which could have effects on the planetary systems that later form.
+
+==Spaceflight==
+{{main article|atmospheric reentry#Ablative}}
+In [[spacecraft]] design, ablation is used to both cool and protect mechanical parts and/or payloads that would otherwise be damaged by extremely high temperatures.  Two principal applications are [[heat shield]]s for spacecraft entering a [[Atmosphere|planetary atmosphere]] from space and cooling of [[rocket engine nozzle]]s.   Examples include the [[Apollo Command/Service Module|Apollo Command Module]] that protected astronauts from the [[heat]] of [[atmospheric reentry]] and the [[Kestrel (rocket engine)|Kestrel]] [[multistage rocket|second stage]] [[rocket engine]] designed for exclusive use in an environment of [[Outer space#Environment|space vacuum]] since no [[Convection|heat convection]] is possible.
+
+In a basic sense, ablative material is designed so that instead of heat being transmitted into the structure of the spacecraft, only the outer surface of the material bears the majority of the heating effect. The outer surface chars and burns away -- but quite slowly, only gradually exposing new fresh protective material beneath. The heat is carried away from the spacecraft by the gases generated by the ablative process, and never penetrates the surface material, so the metallic and other sensitive structures they protect, remain at a safe temperature. As the surface burns and disperses into space, while the remaining solid material continues to insulate the craft from ongoing heat and superheated gases. The thickness of the ablative layer is calculated to be sufficient to survive the heat it will encounter on its mission.
+
+There is an entire branch of [[spaceflight]] research involving the search for new [[fireproofing]] materials to achieve the best ablative performance;  this function is critical to protect the spacecraft occupants and payload from otherwise excessive heat loading.<ref>[[John Parker (scientist)|Parker, John]] and C. Michael Hogan, "Techniques for Wind Tunnel assessment of Ablative Materials", NASA Ames Research Center, Technical Publication, August 1965.</ref>  The same technology is used in some [[passive fire protection]] applications, in some cases by the same vendors, who offer different versions of these [[fireproofing]] products, some for aerospace and some for structural [[fire protection]].
+
+==See also==
+* [[Arc flash#Distance|Electrical ''arc'' ''flash'' burns]]
+* [[Ablative armor]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wiktionary|ablation}}
+* [https://web.archive.org/web/20071008075611/http://www.asds.net/Patients/FactSheets/patients-Fact_Sheet-chem_peel.html Chemical Peeling]. American Society for Dermatological Surgery.
+* [https://web.archive.org/web/20041120095300/http://www.fda.gov/cdrh/lasik/ Lasik Laser Eye Surgery]. USA Food an Drugs Administration info.
+* [https://web.archive.org/web/20041010154030/http://www.chm.bris.ac.uk/pt/laser/ashfold/ablation.htm Physics of laser ablation]
+
+[[Category:Plasma physics]]
+[[Category:Materials degradation]]

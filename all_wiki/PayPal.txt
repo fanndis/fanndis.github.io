@@ -1,0 +1,574 @@
+{{short description|Online financial services company}}
+{{pp-pc|small=yes}}
+{{Use American English|date=November 2015}}
+{{Use mdy dates|date=July 2016}}
+{{Infobox company
+| name             = PayPal Holdings, Inc.
+| logo             = PayPal.svg
+| logo_size        = 230
+| image            = PayPal San Jose Headquarters.jpg
+| type     = [[Public company|Public]]
+| traded_as        = {{ubl|{{NASDAQ|PYPL}}|[[NASDAQ-100]] component|[[S&P 100]] component|[[S&P 500]] component}}
+| founded          = {{start date and age|1998|12}} (as [[Confinity]]) <br/> {{start date and age|1999|11}} (as [[X.com]])
+| predecessor      = [[Confinity]], [[X.com]]
+| location         = 2211 North First Street<br/>[[San Jose, California]], U.S. (corporate headquarters)<br/>[[La Vista, Nebraska]], U.S. (operative center)
+| area_served      = Almost worldwide
+| founder          = {{ubl
+  | [[Ken Howery]]
+  | [[Luke Nosek]]
+  | [[Max Levchin]]
+  | [[Peter Thiel]]
+  | [[Yu Pan]]
+  | [[Elon Musk]]
+  }}
+| key_people       = {{ubl
+  | [[John Donahoe]] ([[Chairman#Public corporations|Chairman]])
+  | [[Dan Schulman]] ([[President (corporate title)|President]] and [[Chief executive officer|CEO]])<ref>{{cite web|url=https://www.paypal.com/us/webapps/mpp/about#leadership|website=www.paypal.com|title=PayPal Leadership|access-date=2019-04-07}}</ref>
+  }}
+| industry         = [[Financial services]]
+| products         = [[Credit card]]s, [[payment systems]]
+| revenue          = {{increase}} {{US$|17.772 billion|link=yes}} (2019)<ref name="ppc">[https://investor.paypal-corp.com/node/10831/pdf "PayPal reports Fourth Quarter and Full Year 2019 Results"], ''investor.paypal-corp.com'', January 29, 2020.</ref>
+| operating_income = {{increase}} {{US$|2.719 billion}} (2019)<ref name="ppc"/>
+| net_income       = {{increase}} {{US$|2.459 billion}} (2019)<ref name="ppc"/>
+| assets           = {{increase}} {{US$|51.333 billion}} (2019)<ref name="ppc"/>
+| equity           = {{increase}} {{US$|16.929 billion}} (2019)<ref name="ppc"/>
+| num_employees    = c. 21,800 (Dec. 2018)<ref>{{Cite web |url=https://investor.paypal-corp.com/static-files/0679dfac-93e0-4768-b280-58eae8917612 |title=Archived copy |access-date=April 29, 2019 |archive-date=July 4, 2019 |archive-url=https://web.archive.org/web/20190704083755/https://investor.paypal-corp.com/static-files/0679dfac-93e0-4768-b280-58eae8917612 |url-status=dead }}</ref>
+| parent           = [[eBay]] (2002–2015)<ref name="PayPal Goes Public">{{cite news |url=https://www.forbes.com/sites/ryanmac/2015/07/20/as-paypal-goes-public-again-ceo-hints-at-working-with-amazon-and-sets-sights-on-acquisitions/ |title=PayPal Goes Public Again |work=Forbes |accessdate=2017-08-27}}</ref>
+| divisions        = {{ubl
+  | PayPal Inc (PPI) <ref name="sec_gov"/>
+  | PayPal Pte. Ltd (3PL) <ref name="sec_gov"/>
+  | PayPal Payments Pte. Holdings (PPLUX) <ref name="sec_gov"/>
+  | PayPal Payments Pte Limited (4PL)
+ }}
+| subsid           = {{hlist|[[Braintree (company)|Braintree]]|[[Paydiant]]|[[Honey (company)|Honey]]|[[Venmo]]|[[PayPal Credit]]|[[Xoom Corporation]]|TIO Networks|card.io|[[iZettle]]|[[Tradera]]}}
+| website          = {{URL|https://www.paypal.com}}
+}}
+[[File:EBayTorontoOffice2.JPG|thumb|upright|[[eBay]], PayPal, [[Kijiji]] and [[StubHub]] in Toronto]]
+
+'''PayPal Holdings, Inc.''' is an American company operating a worldwide online payments system that supports [[E-commerce payment system|online money transfers]] and serves as an electronic alternative to traditional [[Banknote|paper]] methods like [[cheque|checks]] and [[money order]]s. The company operates as a payment processor for online vendors, [[auction]] sites, and many other commercial users, for which it charges a fee in exchange for benefits such as one-click transactions and password memory.
+
+Established in 1998 as Confinity,<ref>{{Cite news|url=https://www.forbes.com/sites/ryanmac/2012/05/01/reid-hoffman-and-peter-thiel-in-conversation-finding-the-best-candidates-for-the-job/|title=Reid Hoffman And Peter Thiel In Conversation: Finding The Best Candidates For The Job|last=Mac|first=Ryan|date=May 1, 2012|work=Forbes|access-date=2018-02-28}}</ref> PayPal had its [[initial public offering]] in 2002. It became a wholly owned subsidiary of [[eBay]] later that year, valued at $1.5 billion.<ref>{{cite news|url=https://www.cnet.com/news/its-official-ebay-weds-paypal/|title=It's official: eBay weds PayPal|last=Wolverton|first=Troy|date=October 3, 2002|newspaper=[[CNET News]]|accessdate=16 March 2014}}</ref><ref name="nytimes02">{{cite news|url=https://www.nytimes.com/2002/07/09/business/ebay-to-buy-paypal-a-rival-in-online-payments.html|title=EBay to Buy PayPal, a Rival in Online Payments|last=Richtel|first=Matt|date=July 9, 2002|work=The New York Times|accessdate=November 23, 2014}}</ref> In 2015, eBay [[corporate spin-off|spun off]] PayPal to eBay's shareholders.<ref name="sec_gov">{{Cite web|url=https://www.sec.gov/Archives/edgar/data/1633917/000119312515257108/d31081dex105.htm|title=EX-10.5|website=www.sec.gov|access-date=2018-06-16}}</ref><ref name="reuters2014">{{cite web|url=https://www.reuters.com/article/2014/09/30/us-ebay-divestiture-idUSKCN0HP13D20140930|title=EBay follows Icahn's advice, plans PayPal spinoff in 2015|last1=Seetharaman|first1=Deepa|last2=Mukherjee|first2=Supantha|date=September 30, 2014|website=Reuters|accessdate=November 23, 2014}}</ref>
+The company ranked 204th on the 2019 [[Fortune 500]] of the largest United States corporations by revenue.<ref name="Fortune 500 Companies 2018">{{cite web|url=http://fortune.com/fortune500/list/|title=Fortune 500 Companies 2018|publisher=fortune.com|accessdate =March 18, 2019}}</ref>
+
+== History ==
+{{further|Timeline of PayPal}}
+
+=== Early history ===
+PayPal was originally established by [[Max Levchin]], [[Peter Thiel]], and [[Luke Nosek]] in December 1998 as [[Confinity]],<ref name="techrepublic">{{cite web|url=http://www.techrepublic.com/article/how-the-paypal-mafia-redefined-success-in-silicon-valley/|title=How the 'PayPal Mafia' redefined success in Silicon Valley|last=Forrest|first=Conner|date=June 30, 2014|website=TechRepublic|accessdate=November 11, 2014}}</ref> a company that developed security software for handheld devices.  It had no success with that business model, however, so switched its focus to a digital wallet.<ref name="entrepreneur">{{cite web|url=http://www.entrepreneur.com/article/228206|title=What PayPal's Rocky Beginnings Can Teach You About Startup Success|last=Cohan|first=Peter S.|date=September 5, 2013|website=Entrepreneur Magazine|accessdate=11 November 2014}}</ref>  The first version of the PayPal electronic payments system was launched in 1999.<ref>http://www.fundinguniverse.com/company-histories/paypal-inc-history/</ref>
+
+In March 2000, Confinity merged with [[X.com]], an online banking company founded by [[Elon Musk]].<ref name="fastco2012">{{cite web|url=http://www.fastcompany.com/1837839/reid-hoffman-paypals-pivoted-path-success|title=Reid Hoffman On PayPal's Pivoted Path To Success|last=Penenberg|first=Adam L.|date=August 9, 2012|website=Fast Company|accessdate=November 11, 2014}}</ref> Musk was optimistic about the future success of the money transfer business Confinity was developing.<ref name=":1">{{Cite book|last=Jackson|first=Eric M.|url=https://books.google.com/books?id=uTq5LqBP0IoC&q=history+of+paypal|title=The PayPal Wars: Battles with EBay, the Media, the Mafia and the Rest of Planet Earth|date=2006|publisher=WND Books|isbn=978-0-9778984-3-5|language=en}}</ref> Musk and Bill Harris, then-president and CEO of X.com, disagreed about the potential future success of the money transfer business and Harris left the company in May 2000.<ref>{{Cite book|last=Gardner|first=James A.|url=https://books.google.com/books?id=dXoYuInfkP0C&q=history+of+paypal&pg=PT65|title=Innovation and the Future Proof Bank: A Practical Guide to Doing Different Business-as-Usual|date=2011-04-20|publisher=John Wiley & Sons|isbn=978-0-470-68521-1|language=en}}</ref> In October of that year, Musk decided that X.com would terminate its other internet banking operations and focus on PayPal.<ref name="Startup Playbook">{{cite book|url=https://books.google.com/books?id=iyAbTjqVXgkC|title=The Startup Playbook: Secrets of the Fastest Growing Start-Ups from the founding Entrepreneurs|last1=Kidder|first1=David|last2=Hoffman|first2=Reid|last3=Hindi|first3=Hanny|publisher=Chronicle Books|year=2012|isbn=9781452105048|location=San Francisco, CA|pages=214–216}}</ref> That same month, Elon Musk was replaced by Peter Thiel as CEO of X.com,<ref>{{Cite web|url=https://www.cnbc.com/2019/11/02/why-elon-musk-says-taking-vacations-will-kill-you.html|title=Why Elon Musk says taking 'vacations will kill you'|last=Locke|first=Taylor|date=2019-11-02|website=CNBC|language=en|access-date=2020-03-31}}</ref> which was renamed PayPal in 2001 and went [[IPO|public]] in 2002.<ref name="bizfounders">{{cite web|url=http://www.businessinsider.com/the-paypal-mafia-is-even-more-powerful-2011-11?op=1|title=Where Are They Now? The PayPal "Mafia" Is More Powerful Than Ever|last=Rosoff|first=Matt|date=November 12, 2011|website=Business Insider|accessdate=11 November 2014}}</ref><ref name=autogenerated1>{{cite news| url=https://www.reuters.com/article/2014/09/30/us-ebay-divestiture-idUSKCN0HP13D20140930| title=EBay follows Icahn's advice, plans PayPal spinoff in 2015| last1=SEETHARAMAN| first1=DEEPA| last2=MUKHERJEE| first2=SUPANTHA| date=30 September 2014| work=Reuters| accessdate=11 November 2014}}</ref><ref>{{Cite web|url=https://www.theverge.com/2017/7/10/15949862/elon-musk-x-com-paypal-tesla-spacex-domain-name|title=Elon Musk now owns X.com, the defunct domain of his second startup|last=Statt|first=Nick|date=2017-07-10|website=The Verge|language=en|access-date=2020-03-31}}</ref> PayPal's [[Initial public offering|IPO]] listed under the [[Ticker symbol|ticker]] PYPL at $13 per share and generated over $61 million.<ref name=ecommerce02>{{cite web| url=https://www.ecommercetimes.com/story/16368.html| title=PayPal IPO Off to Spectacular Start| author=Keith Regan| date=15 February 2002| publisher=ECommerce Times| accessdate=11 November 2014}}</ref>
+
+=== eBay subsidiary (2002–2014) ===
+
+Shortly after PayPal's [[IPO]], the company was acquired by [[eBay]] on October 3, 2002,<ref>{{Cite web|url=http://www.annualreports.com/HostedData/AnnualReportArchive/e/NASDAQ_EBAY_2002.pdf|title=eBay 2002 Annual Report}}</ref> for $1.5 billion.<ref name="Startup Playbook"/><ref>{{Cite news|author=Kane, Margaret|title=eBay picks up PayPal for $1.5 billion|url=http://www.news.com/2100-1017-941964.html|date=July 8, 2002|work=CNET News.com|publisher=CNET Networks|accessdate=November 13, 2007}}</ref><ref name=fastcompany2014>{{cite magazine|url=http://www.fastcompany.com/3036087/unfinished-business-max-levchins-quest-to-build-the-next-paypal |title=UNFINISHED BUSINESS: MAX LEVCHIN'S QUEST TO BUILD THE NEXT PAYPAL |author=Austin Carr |date=16 October 2014 |magazine=Fast Company |accessdate=11 November 2014}}</ref> More than 70 percent of all eBay auctions accepted PayPal payments, and roughly 1 in 4 closed auction listings were transacted via PayPal.<ref>{{cite web|url=https://venturebeat.com/2012/10/27/how-ebays-purchase-of-paypal-changed-silicon-valley/#8cV8y19jcBArQLfE.99 |title=How eBay's purchase of PayPal changed Silicon Valley|publisher=Venture Beat |date=October 27, 2012 |accessdate=October 28, 2012}}</ref> PayPal became the default payment method used by the majority of eBay users, and the service competed with eBay's subsidiary [[Billpoint]], as well as [[Citibank]]'s c2it, [[Yahoo!]]'s [[PayDirect]], and [[Google Checkout]].<ref name=":1" />
+
+In 2005, PayPal acquired the [[VeriSign]] payment solution to provide added security support.<ref name=ecommerce05>{{cite web |url=https://www.ecommercetimes.com/story/46648.html |title=Eyeing Expansion of PayPal, eBay Buys VeriSign Payment Gateway |author=Keith Regan |date=11 October 2005 |publisher=ECommerce Times |accessdate=11 November 2014}}</ref> In 2007, PayPal announced a partnership with [[MasterCard]], which led to the development and launch of the PayPal Secure Card service, a software that allows customers to make payments on websites that do not accept PayPal directly.<ref name=reuters2007>{{cite news |url=https://www.reuters.com/article/2007/11/19/us-ebay-paypal-ecommerce-idUSN1840572920071119 |title=PayPal offers secure way to shop non-PayPal sites |author=Eric Auchard |date=19 November 2007 |work=Reuters |accessdate=11 November 2014}}</ref> By the end of 2007, the company generated $1.8 billion in revenue.<ref name=cnnmoney>{{cite web|url=https://money.cnn.com/2008/02/26/smbusiness/paypal_float.fsb/ |title=What PayPal does with your money |author=Lenora Chu |date=26 February 2008 |website=CNN Money |accessdate=11 November 2014}}</ref>
+
+In January 2008, PayPal acquired [[Fraud Sciences]], a privately held Israeli start-up that developed online risk tools, for $169 million.<ref name=techcrunchha>{{cite news |url=https://techcrunch.com/2008/01/28/ebay-acquires-fraud-sciences-for-169-million/ |title=eBay Acquires Fraud Sciences For $169 Million |author=Peter Ha |date=28 January 2008 |work=TechCrunch |accessdate=11 November 2014}}</ref><ref>{{Cite web|url=https://archive.nytimes.com/www.nytimes.com/idg/IDG_002570DE00740E18002573DE00422DAA.html|title=PayPal Buys Fraud Sciences for $169 Million - New York Times|last1=Kirk|first1=Jeremy|last2=Bureau|first2=IDG News Service\London|website=archive.nytimes.com|access-date=2020-03-31|last3=IDG}}</ref> In November 2008, the company acquired [[Bill Me Later]], an online transactional credit company.<ref name=incmag08>{{cite web |url=http://www.inc.com/mike-hofman/2008/10/ebay_buys_bill_me_later_for_ne.html |title=EBay Buys Bill Me Later for Nearly $1 Billion |author=MIKE HOFMAN |date=7 October 2008 |publisher=Inc Magazine |accessdate=11 November 2014}}</ref>
+
+By 2010, PayPal had over 100 million active user accounts in 190 markets through 25 different currencies.<ref name=galeecommerce>{{cite book |author=<!--Staff writer(s); no by-line.--> |title=Gale Encyclopedia of E-Commerce, 2nd Edition |publisher=Gale |date=June 2012 |isbn=9781414490465}}</ref> In July 2011, fourteen alleged members of the [[Anonymous (group)|Anonymous]] [[hacktivist]] group were charged with attempting to disrupt PayPal's operations. The [[denial of service]] attacks occurred in December 2010, after PayPal stopped processing donations to [[WikiLeaks]]. On December 5, 2013, 13 of the [[PayPal 14]] pleaded guilty to misdemeanor and felony charges related to the attacks.<ref name="David Gilbert">{{cite news |url=http://www.ibtimes.co.uk/articles/528058/20131206/paypal-14-freedom-fighters-plead-guilty-cyber.htm |author=David Gilbert |title=PayPal 14 'Freedom Fighters' Plead Guilty to Cyber-Attack |work=International Business Times |date=December 6, 2013}}</ref><ref name="Steven Musil">{{cite web |url=http://news.cnet.com/8301-1009_3-57614906-83/anonymous-hackers-plead-guilty-to-2010-paypal-cyberattack/ |author=Steven Musil |title=Anonymous hackers plead guilty to 2010 PayPal cyberattack |publisher=Cnet |date=December 8, 2013}}</ref>
+
+The company continued to build its Merchant Services division, providing [[e-payment]]s for retailers on eBay. In 2011, PayPal announced that it would begin moving its business offline so that customers can make payments via PayPal in stores.<ref>Verne Kopytoff, ''The New York Times''. "[http://bits.blogs.nytimes.com/2011/09/15/paypal-prepares-for-a-move-offline/?ref=technology PayPal Prepares to Expand Offline]". September 15, 2011. Retrieved September 16, 2011.</ref> In August 2012, the company announced its partnership with [[Discover Card]] to allow PayPal payments to be made at any of the 7 million stores in [[Discover Card]]'s network.<ref name=forbesbarth>{{cite web |url=https://www.forbes.com/sites/chrisbarth/2012/08/22/discover-and-paypal-join-forces-in-the-war-against-paper-money-banks/ |title=Discover And PayPal Join Forces In The War Against Paper Money, Banks |author=Chris Barth |date=22 August 2012 |work=Forbes |accessdate=11 November 2014}}</ref> By the end of 2012, PayPal's total payment volume processed was {{currency|145 billion}}.<ref>[https://www.paypal-media.com/about About PayPal – PayPal]. Paypal-media.com. Retrieved on 2013-08-12.</ref> and accounted for 40% of eBay's revenue, amounting to {{currency|1.37 billion}} in the 3rd quarter of 2012.<ref name=samuels2012/>
+
+In 2013, PayPal acquired IronPearl, a [[Palo Alto]] startup offering engagement software,<ref name=venturebeat2013>{{cite news |url=https://venturebeat.com/2013/04/11/paypal-buys-iron-pearl/ |title=PayPal buys young startup Iron Pearl to help it acquire more users |author=Sean Ludwig |date=11 April 2013 |work=VentureBeat |accessdate=11 November 2014}}</ref> and [[Braintree (company)|Braintree]], a [[Chicago]]-based [[payment gateway]], to further product development and mobile services.<ref name=techcrunchrao>{{cite news |url=https://techcrunch.com/2013/09/26/paypal-acquires-payments-gateway-braintree-for-800m-in-cash/ |title=EBay's PayPal Acquires Payments Gateway Braintree For $800M In Cash |author= Leena Rao |date=26 September 2013 |work=TechCrunch |accessdate=11 November 2014}}</ref> In June 2014 [[David A. Marcus|David Marcus]] announced he was leaving his role<ref>{{Cite news |url=http://www.businessinsider.com/paypal-president-david-marcus-joins-facebook-2014-6 |title=PayPal President David Marcus Is Stepping Down To Join Facebook|author=Jillian D'Onfro|work=[[Business Insider]] |date=June 9, 2014}}</ref> as PayPal President; Marcus joined PayPal in August 2011 after its acquisition of [[Zong mobile payments|Zong]], of which he was the founder and CEO.<ref name=duryee2012>{{cite news |author=Tricia Duryee |work=AllThingsD.com |url=http://allthingsd.com/20120329/ebay-promotes-david-marcus-to-fill-top-vacancy-at-paypal |title=eBay Promotes David Marcus to Fill Top Vacancy at PayPal |date=March 29, 2012 |accessdate=October 14, 2012 |publisher=[[Dow Jones & Company|Dow Jones]]}}</ref> David Marcus succeeded [[Scott Thompson (businessman)|Scott Thompson]] as president, who left the role to join [[Yahoo]].<ref name=duryee2012/> PayPal announced that Marcus would be succeeded by [[Dan Schulman]], who previously served as CEO of [[Virgin Mobile]] and Executive vice president of [[American Express]].<ref name=bizjournal2014>{{cite web|url=http://www.bizjournals.com/sanjose/news/2014/09/30/who-the-heck-is-dan-schulman-paypals-new-ceo.html?page=all |title=Meet PayPal CEO-to-be Schulman: Homelessness exercise as a management tool |author=Cromwell Schubarth |date=30 September 2014 |work=Silicon Valley Business Journal |accessdate=11 November 2014}}</ref>
+
+=== Spin-off from eBay (2014–present) ===
+
+It was announced on September 30, 2014, that eBay would spin off PayPal into a separate publicly traded company, a move demanded in 2013 by activist [[hedge fund]] magnate [[Carl Icahn]]. The spin-off was completed on July 18, 2015.<ref>{{cite news|last1=De La Merced|first1=Michael|last2=Sorkin|first2=Andrew|title=EBay to Spin Off PayPal, Adopting Strategy Backed by Icahn|url=https://dealbook.nytimes.com/2014/09/30/ebay-to-spin-off-paypal-adopting-strategy-backed-by-icahn/?_php=true&_type=blogs&_r=0|newspaper=The New York Times|accessdate=30 September 2014}}</ref><ref>{{cite news|last1=Mukherjee|first1=Supantha|title=EBay follows Icahn's advice, plans PayPal spinoff in 2015|url=https://www.reuters.com/article/2014/09/30/us-ebay-divestiture-idUSKCN0HP13D20140930|work=Reuters|accessdate=30 September 2014}}</ref><ref>{{cite web|last1=Cheng|first1=Roger|title=eBay, PayPal to split into separate companies in 2015|url=https://www.cnet.com/news/ebay-to-split-paypal-into-separate-company-in-2015/|website=[[CNET]]|accessdate=30 September 2014}}</ref> [[Dan Schulman]] is the current president and CEO, with former eBay CEO [[John Donahoe]] serving as chairman.<ref name=bizjournal2014 /> On January 31, 2018, eBay announced that "After the existing eBay-PayPal agreement ends in 2020, PayPal will remain a payment option for shoppers on eBay, but it won't be prominently featured ahead of debit and credit card options as it is today. PayPal will cease to process card payments for eBay at that time." The company will "instead begin working with Amsterdam-based [[Adyen]]".<ref>{{Cite news|url=https://www.recode.net/2018/1/31/16957212/ebay-adyen-paypal-payments-agreement|title=After 15 years, eBay plans to cut off PayPal as its main payments processor|last=Del Rey|first=Jason|date=January 31, 2018|work=[[Recode]]|access-date=2018-02-28}}</ref>
+
+On July 1, 2015, PayPal announced that it was acquiring digital money transfer company [[Xoom Corporation]]. PayPal spent $25 a share in cash to acquire the publicly traded Xoom, or about $1.09 billion. The deal was closed in the fourth quarter of 2015. The move strengthened PayPal’s international business, giving it access to Xoom’s 1.3 million active U.S. customers that sent about $7 billion in the 12 months ending on March 31, to people in 37 countries.<ref>{{Cite web|title = PayPal acquires money transfer firm Xoom for $890 million|url = http://fortune.com/2015/07/01/paypal-acquires-money-transfer-firm-xoom-for-890-million/|website = Fortune|access-date = 2016-02-11}}</ref><ref>{{Cite news|title = PayPal Acquires Xoom for Stake in Digital Money Transfers|url = https://www.nytimes.com/2015/07/02/business/paypal-acquires-xoom-for-stake-in-digital-money-transfers.html|newspaper = The New York Times|date = 2015-07-01|access-date = 2016-02-11|issn = 0362-4331|first = Nick|last = Wingfield}}</ref>
+
+On September 1, 2015, PayPal launched their [[peer-to-peer]] payment platform "PayPal.Me", a service that allows users to send a custom link to request funds via text, email, or other messaging platforms.<ref name="PayPalMeTechCrunch">{{cite web|last1=Perez|first1=Sarah|title=PayPal Launches PayPal.Me, A Simpler Way To Request Money Using Your Own Personalized URL|url=https://techcrunch.com/2015/09/01/paypal-launches-paypal-me-a-simpler-way-to-request-money-using-your-own-personalized-url/|website=Tech Crunch|accessdate=1 September 2015}}</ref> Custom links are set to be structured as PayPal.me/username/amountrequested.<ref name= PayPalMeTechCrunch />  PayPal.Me was launched in 18 countries including the United States, United Kingdom, Germany, Australia, Canada, Russia, Turkey, [[France, Italy, Spain, Poland, Sweden, Belgium, Norway, Denmark, Netherlands, Austria and Switzerland.<ref name="PayPalMeEngadget">{{cite web|last1=Brian|first1=Matt|title=PayPal makes it even easier to call in your debts|url=https://www.engadget.com/2015/09/01/paypal-me/|website=engadget|accessdate=1 September 2015}}</ref> PayPal had 170 million users, as of September 2015, and the focus of PayPal.Me was to create a mobile-first user experience that enables faster payment sharing than PayPal's traditional tools.<ref name= PayPalMeTechCrunch />
+
+On May 17, 2018, PayPal agreed to purchase Swedish payment processor [[iZettle]] for $2.2 billion. This was PayPal's largest acquisition until late November 2019 and the company claims that it is the in-store expertise and digital marketing strength that will complement its own online and [[mobile payment]] services.<ref name=":0">{{Cite news|url=https://www.bbc.com/news/business-44161814|title=PayPal acquires Swedish payments firm iZettle|date=2018-05-17|work=BBC|access-date=2018-05-18}}</ref>
+
+On March 19, 2019, PayPal announced their partnership with [[Instagram]] as part of the company's new checkout feature, "Checkout on Instagram".<ref>{{Cite web|url=https://www.pymnts.com/news/ecommerce/2019/instagram-paypal-checkout-social-commerce/|title=PayPal Powers Instagram Checkout|date=2019-03-19|website=PYMNTS.com|access-date=2019-03-24}}</ref><ref>{{Cite web|url=https://www.paypal.com/stories/us/shopping-on-instagram|title=Shopping on Instagram|last=Ready|first=Bill|date=March 19, 2019|website=www.paypal.com|access-date=2019-03-24}}</ref>
+
+In June 2019, PayPal reported that Chief Operating Officer Bill Ready would be leaving the company at the end of the year. In December 2019, [[Google]] announced that Ready would become the new commerce chief.<ref>{{Cite web|url=http://social.techcrunch.com/2019/12/11/paypals-exiting-coo-bill-ready-to-join-google-as-its-new-president-of-commerce/|title=PayPal's exiting COO Bill Ready to join Google as its new president of Commerce|website=TechCrunch|language=en-US|access-date=2019-12-11}}</ref>
+
+On January 6, 2020, PayPal acquired [[Honey (company)|Honey]] for over $4 billion. This is PayPal's largest acquisition to date, and its most recent.<ref>{{Cite web|title=PayPal Completes Acquisition of Honey|url=https://www.prnewswire.com/news-releases/paypal-completes-acquisition-of-honey-300981363.html}}</ref> It more recently signed a deal with NBCUniversal.<ref>{{Cite web|title=E-commerce comes to TV as NBCU signs deal with PayPal {{!}} WARC|url=http://origin.warc.com/newsandopinion/news/e-commerce-comes-to-tv-as-nbcu-signs-deal-with-paypal/44342|access-date=2020-11-12|website=origin.warc.com|language=en}}</ref>
+
+=== Acquisitions ===
+{| class="wikitable sortable"
+!Acquisition date
+!Company
+!Price
+!Refs
+|-
+|Jan 28, 2008
+|Fraud Sciences
+|$169M
+|<ref>{{cite web |last1=Rocha |first1=Euan |title=PayPal to buy Fraud Sciences |url=https://www.reuters.com/article/us-paypal-fraudsciences/paypal-to-buy-fraud-sciences-idUSWNAS794520080128 |publisher=[[Reuters]] |accessdate=20 January 2020 |date=28 January 2008}}</ref>
+|-
+|Oct 6, 2008
+|[[PayPal Credit|Bill Me Later]] 
+|$945M
+|<ref>{{Cite news|url=http://finovate.com/ebay_acquires_bill_me_later_for_almost_1_billion/|title=eBay Acquires Bill Me Later for Almost $1 Billion - Finovate|date=2008-10-06|work=Finovate|access-date=2017-06-30}}</ref>
+|-
+|Apr 20, 2011
+|[[Where.com]]
+|$135M
+|<ref>{{Cite web|url=https://techcrunch.com/2011/04/20/ebay-acquires-location-based-media-and-advertising-company-where/|title=eBay Acquires Location-Based Media And Advertising Company WHERE {{!}} TechCrunch|last=Rao|first=Leena|access-date=2017-06-30}}</ref>
+|-
+|Apr 28, 2011
+|FigCard
+| —
+|<ref>{{Cite web|url=https://techcrunch.com/2011/04/28/ebays-paypal-buys-mobile-payments-startup-fig-card/|title=eBay's PayPal Buys Mobile Payments Startup Fig Card {{!}} TechCrunch|last=Rao|first=Leena|access-date=2017-06-30}}</ref>
+|-
+|Oct 15, 2011
+|[[Zong mobile payments|Zong]]
+|$240M
+|<ref>{{Cite web|url=https://blogs.wsj.com/venturecapital/2011/07/07/ebays-zong-deal-mobile-payments-are-all-fun-games/|title=EBay's Zong Deal: Mobile Payments Are All Fun & Games|last=McMahan|first=Ty|date=2011-07-07|website=WSJ|access-date=2017-06-30}}</ref>
+|-
+|Jul 17, 2012
+|card.io
+| —
+|<ref>{{cite web |last1=Rodgers |first1=Evan |title=Paypal acquires Card.io mobile payment service |url=https://www.theverge.com/2012/7/17/3165825/paypal-card-io-optical-mobile-payment |publisher=[[The Verge]] |accessdate=20 January 2020 |date=17 July 2012}}</ref>
+|-
+|Apr 11, 2013
+|IronPearl
+| —
+|<ref>{{cite web |last1=Cutler |first1=Kim-Mai |title=eBay's PayPal Acquires IronPearl To Fuel Growth Beyond 123M Users |url=https://techcrunch.com/2013/04/11/ebay-paypal-ironpearl/ |publisher=[[TechCrunch]] |accessdate=20 January 2020 |date=12 April 2013}}</ref><ref>{{cite web |title=PayPal Acquires Iron Pearl |url=https://www.ebayinc.com/stories/news/paypal-acquires-iron-pearl/ |publisher=[[eBay | eBay Inc]] |accessdate=20 January 2020 |date=14 April 2013}}</ref>
+|-
+|Sep 26, 2013
+|[[Braintree (company)|Braintree]]
+|$800M
+|<ref name=braintree>{{Cite web |last1=Rao |first1=Leena |last2=Perez |first2=Sarah |last3=Lunden |first3=Ingrid |date=26 September 2013 |title=EBay's PayPal Acquires Payments Gateway Braintree for $800M in Cash |url=https://techcrunch.com/2013/09/26/paypal-acquires-payments-gateway-braintree-for-800m-in-cash/ |publisher=[[TechCrunch]] |quote=In addition, Braintree operates Venmo, a mobile payments solution the company acquired last year |access-date=11 July 2019}}</ref><ref name="Forbes History of PayPal Acquisitions">{{cite web |last1=Mavadiya |first1=Madhvi |title=A History Of PayPal Acquisitions In Fintech |url=https://www.forbes.com/sites/madhvimavadiya/2018/05/18/paypal-acquisitions-fintech/#663e22632002 |work=Forbes}}</ref><ref>{{cite web |last1=Popper |first1=Ben |title=PayPal spends $800M to acquire the startup that accused it of screwing customers |url=https://www.theverge.com/2013/9/26/4772894/paypal-acquires-braintree |publisher=[[The Verge]] |accessdate=20 January 2020 |date=26 September 2013}}</ref>
+|-
+|Sep 26, 2013
+|[[Venmo]]
+| $26.2M
+|<ref name=braintree/><ref name="Forbes History of PayPal Acquisitions" />
+|-
+|Dec 17, 2013
+|StackMob
+| —
+|<ref>{{cite web |last1=Bertoni |first1=Steven |title=PayPal Buys StackMob To Continue Mobile Payment Push |url=https://www.forbes.com/sites/stevenbertoni/2013/12/17/paypal-buys-stackmob-to-continue-mobile-payment-push/#e231429522c5 |work=Forbes |accessdate=20 January 2020 |date=17 December 2013}}</ref>
+|-
+|Mar 2, 2015
+|[[Paydiant]]
+| $280M
+|<ref name="Forbes History of PayPal Acquisitions" /><ref>{{cite web |last1=D'Onfro |first1=Jillian |title=PayPal is going to buy the startup behind Wal-Mart's Apple Pay competitor for $280 million |url=https://www.businessinsider.in/tech/paypal-is-going-to-buy-the-startup-behind-wal-marts-apple-pay-competitor-for-280-million/articleshow/46434967.cms |publisher=Business Insider |accessdate=20 January 2020 |date=2 March 2015}}</ref>
+|-
+|Mar 5, 2015
+|CyActive
+|$60M
+|<ref>{{cite web |last1=Lunden |first1=Ingrid |title=PayPal Doubles Down On Israel: Confirms CyActive Acquisition, New Security Hub |url=https://techcrunch.com/2015/03/10/paypal-confirms-acquisition-of-cyactive-plans-to-open-new-security-hub-in-israel/ |publisher=[[TechCrunch]] |accessdate=20 January 2020 |date=10 March 2015}}</ref><ref>{{cite web |last1=Nai |first1=John |title=PayPal Makes Acquisition of CyActive Official |url=https://www.paypal.com/stories/us/paypal-makes-acquisition-of-cyactive-official |website=PayPal Stories |publisher=PayPal |accessdate=20 January 2020 |date=9 April 2015}}</ref>
+|-
+|Jul 2, 2015
+|[[Xoom Corporation]]
+| $890M
+|<ref>{{cite web |last1=Loizos |first1=Connie |title=PayPal Agrees to Buy Xoom for $890 Million |url=https://techcrunch.com/2015/07/01/paypal-agrees-to-buy-xoom-for-890-million/ |publisher=[[TechCrunch]]}}</ref><ref>{{cite web |url=https://investor.paypal-corp.com/news-releases/news-release-details/paypal-completes-acquisition-xoom | title=PayPal Completes Acquisition of Xoom |website=PayPal Investor Relations |publisher=PayPal |accessdate=20 January 2020}}</ref>
+|-
+|Aug 19, 2015
+|Modest Inc
+| —
+|<ref name="Forbes History of PayPal Acquisitions" /><ref>{{cite web |last1=Ready |first1=Bill |title=PayPal Acquires Modest |url=https://www.paypal.com/stories/us/paypal-acquires-modest |website=PayPal Stories |publisher=PayPal |accessdate=20 January 2020 |date=19 August 2015}}</ref>
+|-
+|Feb 14, 2017
+|TIO Networks
+|$233M
+|<ref name="Forbes History of PayPal Acquisitions" /><ref>{{cite web |last1=Roof |first1=Katie |title=PayPal buys TIO Networks for $233 million |url=https://techcrunch.com/2017/02/14/paypal-buys-tio-networks-for-233-million/ |publisher=[[TechCrunch]] |accessdate=20 January 2020}}</ref><ref>{{cite web |url=https://www.paypal.com/stories/us/paypal-completes-acquisition-of-tio-networks| title=PayPal Completes Acquisition of TIO Networks |website=PayPal Stories |publisher=PayPal |accessdate=20 January 2020}}</ref>
+|-
+|Aug 10, 2017
+|Swift Financial
+| —
+|<ref name="Forbes History of PayPal Acquisitions" /><ref>{{Cite news|url=http://newscenter.io/2017/08/paypal-acquires-swift-financial-undisclosed-sum/|title=PayPal Acquires Swift Financial for Undisclosed Sum - NewsCenter.io|date=2017-08-14|work=NewsCenter.io|access-date=2017-08-15}}</ref>
+|-
+|May 29, 2018
+|Jetlore
+| —
+|<ref>{{Cite news|url=https://www.paypal.com/stories/us/paypal-acquires-jetlore}}</ref>
+|-
+|May 17, 2018
+|[[iZettle]]
+|$2.2B
+|<ref name=":0" /><ref name="Forbes History of PayPal Acquisitions" />
+|-
+|June 19, 2018
+|Hyperwallet
+|$400M
+|<ref>{{Cite news|url=https://www.marketwatch.com/story/paypal-to-acquire-hyperwallet-for-400-million-2018-06-19|title=PayPal to acquire Hyperwallet for $400 million|last=Bary|first=Emily|work=MarketWatch|access-date=2018-06-22}}</ref>
+|-
+|June 22, 2018
+|Simility
+|$120M
+|<ref>{{Cite web|url=https://www.paypal.com/stories/us/paypal-to-acquire-simility-to-expand-global-merchant-offerings|title=PayPal to Acquire Simility to Expand Global Merchant Offerings|website=www.paypal.com|access-date=2018-06-22}}</ref>
+|-
+|Sept 30, 2019
+|GoPay
+|undisclosed (70% stake)
+|<ref name=GoPay>{{Cite web |last1=Sawers |first1=Paul|date=30 September 2019 |title=PayPal to be the first foreign online payment platform in China after acquiring 70% stake in GoPay |url=https://venturebeat.com/2019/09/30/paypal-to-be-the-first-foreign-online-payment-platform-in-china-after-acquiring-70-stake-in-gopay/ |publisher=[[VentureBeat]]|access-date=2019-10-01}}</ref>
+|-
+|Nov 20, 2019
+|[[Honey (company)|Honey]]
+|$4B
+|<ref>{{Cite web|url=https://www.reuters.com/article/us-honeysciencecorp-m-a-paypal-hldg/paypal-to-buy-rewards-platform-honey-science-for-4-billion-idUSKBN1XU2OX|title=PayPal to buy rewards platform Honey Science for $4 billion|website=www.reuters.com|access-date=2019-11-22}}</ref>
+|-
+|}
+
+== Finances ==
+The fiscal year for Paypal is from January 1 to December 31.  For fiscal year 2019, Paypal reported earnings of US$2.459 billion, with an annual revenue of $17.772 billion, an increase of 15% over the previous fiscal cycle. PayPal's shares traded at over $108 per share, and its market capitalization was valued at over $127.58 billion in December 2019.<ref name=":2">{{Cite web|date=April 8, 2020|title=Combined 2019 Annual Report / 2020 Proxy Statement|url=https://investor.paypal-corp.com/financial-information/annual-reports|access-date=August 9, 2020|website=PayPal Investor Relations}}</ref><ref>{{Cite web|title=PayPal Holdings - Stock Price History {{!}} PYPL|url=https://www.macrotrends.net/stocks/charts/PYPL/paypal-holdings/stock-price-history|access-date=2020-08-09|website=www.macrotrends.net}}</ref>
+{| class="wikitable float-left" style="text-align: right;"
+!Year
+!Revenue<br />in mil. $
+!Net income<br />in mil. $
+!Total Assets<br />in mil. $
+!Price per Share<br />in $
+!Employees
+|-
+|2012
+|5,662
+|778
+|
+|
+|
+|-
+|2013
+|6,727
+|955
+|19,160
+|
+|
+|-
+|2014
+|8,025
+|419
+|21,917
+|
+|
+|-
+|2015
+|9,248
+| 1,228
+|28,881
+|36.20
+|16,800
+|-
+|2016
+|10,842
+|1,401
+|33,103
+|39.47
+|18,100
+|-
+|2017
+|13,094
+|1,795
+|40,774
+|73.62
+|18,700
+|-
+|2018
+|15,451
+|2,057
+|43,332
+|84.09
+|21,800
+|-
+|2019
+|17,772
+|2,459
+|51,333
+|108.17
+|23,200
+|}
+The [[COVID-19 pandemic|Covid-19 pandemic]] has accelerated the growth of digital payment platforms, including PayPal, at the expense of the traditional banking sector.<ref>{{Cite web|last=Equities|first=AlphaTech|date=2020-10-09|title=PayPal: Thriving In The Pandemic And Building For The World Beyond (NASDAQ:PYPL)|url=https://seekingalpha.com/article/4378275-paypal-thriving-in-pandemic-and-building-for-world-beyond|access-date=2020-10-12|website=Seeking Alpha|language=en}}</ref> As a result, Paypal has seen an increase in its stock to up to 78% in 2020 as of October. In addition, total payment volume has increased 29% amounting to $220 billion increasing positive investor sentiment.<ref>{{Cite web|last=Cohan|first=Peter|title=Growing At 400%, Rapyd Takes On PayPal In $160 Trillion B2B Payments Market|url=https://www.forbes.com/sites/petercohan/2020/10/27/growing-at-400-rapyd-takes-on-paypal-in-160-trillion-b2b-payments-market/|access-date=2020-11-16|website=Forbes|language=en}}</ref>
+
+== Offices ==
+[[File:PayPal Headquarters.jpg|thumb|PayPal Operations Center and main office in [[Omaha, Nebraska]].]]
+PayPal's corporate headquarters are located in the [[North San Jose Innovation District]] of [[San Jose, California]],<ref name=samuels2012>{{Citation|author=Diana Samuels |date=October 29, 2012 |title=PayPal lays off 325 in effort to speed innovation |periodical=[[San Jose Business Journal]] |at=bizjournals.com|url=http://www.bizjournals.com/sanjose/blog/2012/10/paypal-lays-off-325-in-effort-to-speed.html |accessdate=October 30, 2012}}</ref> at North First Street campus.<ref name=bizjournalsanjose>{{cite web| url=http://www.bizjournals.com/sanjose/news/2013/01/30/ebay-to-expand-presence-in-north-san.html?page=all| title=Fast-growing eBay spreads out in North San Jose| author=Nathan Donato-Weinstein| date=30 January 2013| publisher=San Jose Business Journal| accessdate=11 November 2014}}</ref> The company's operations center is located in [[Omaha, Nebraska]], which was opened in 1999.<ref name=journalstar>{{cite web| url= http://journalstar.com/business/paypal-center-in-lavista-moves-online-payments-worldwide/article_1f8125ca-7087-5dd7-a854-34f4e32743b8.html| title=PayPal center in LaVista moves online payments worldwide| author=Josh Funk| date=24 June 2007| publisher=JournalStar| accessdate=11 November 2014}}</ref><ref name="Virgil Larson 2007">Virgil Larson, "Local building, global growth: PayPal opens facility, plans to expand staff to keep up with business", ''[[Omaha World-Herald]]'', March 8, 2007, 1D.</ref> Since July 2007, PayPal has operated across the [[European Union]] as a Luxembourg-based bank. The PayPal European headquarters are located in [[Luxembourg]] and the international headquarters are in [[Singapore]]. PayPal opened a technology center in [[Scottsdale, Arizona]] in 2006,<ref name="auctionbytes.com">{{cite web|url=http://www.auctionbytes.com/cab/abn/y06/m09/i27/s04 |title=eBay CEO Meets with Arizona Governor over PayPal Tech Center  |publisher=auctionbytes.com |date=September 27, 2007 |accessdate=March 1, 2012}}</ref> and a software development center in [[Chennai]], India in 2007.<ref>{{cite web |url=http://www.efytimes.com/e1/fullnews.asp?edid=22523 |title=eBay, PayPal Open Development Facility in Chennai |publisher=efytimes.com |date=November 5, 2007 |accessdate=March 1, 2012 |archive-url=https://web.archive.org/web/20151017051010/http://www.efytimes.com/e1/fullnews.asp?edid=22523 |archive-date=October 17, 2015 |url-status=dead }}</ref> In October 2007, PayPal opened a data service office on the north side of [[Austin, Texas]],<ref name=bizjournalatx>{{cite news| url=http://www.bizjournals.com/austin/stories/2007/10/15/daily35.html| title=PayPal open for business| date=19 October 2007| newspaper=Austin Business Journal| accessdate=11 November 2014}}</ref> and also opened a second operations center in [[La Vista, Nebraska]] that same year.<ref name=journalstar /> In 2011, joining similar customer support operations located in [[Berlin, Germany]]; [[Chandler, Arizona]]; [[Dublin]] and [[Dundalk]], Ireland; [[Omaha, Nebraska]]; and [[Shanghai]], China; PayPal opened a second customer support center in [[Kuala Lumpur, Malaysia]], and began the hiring process.<ref>{{cite web|last1=Cheon-Fong|first1=Liew|title=New PayPal Office in Kuala Lumpur, Malaysia (and Hiring!)|url=http://www.liewcf.com/paypal-office-job-kl-malaysia-6879/|archive-url=https://web.archive.org/web/20110117120724/http://www.liewcf.com/paypal-office-job-kl-malaysia-6879/|url-status=dead|archive-date=17 January 2011|publisher=LiewCF|accessdate=26 April 2016}}</ref> In 2014, PayPal opened a new global center of operations in Kuala Lumpur.<ref>{{cite web|title=Grand Opening Ceremony - PayPal Global Operations Centre [sic] in Malaysia|url=https://www.glassdoor.co.in/Photos/PayPal-Office-Photos-IMG167693.htm|website=glassdoor.co.in, 18 Mar 2014}}</ref>
+
+== Services ==
+{{As of | 2020}}, PayPal operates in 202 markets and has 305 million active, registered accounts. PayPal allows customers to send, receive, and hold funds in 25 currencies worldwide.<ref>[https://www.paypal.com/stories/us/paypal-reports-fourth-quarter-and-full-year-2019-results "PayPal Reports Fourth Quarter and Full Year 2019 Results", ''paypal.com/stories'', January 29, 2020.]</ref>
+
+PayPal's services allow people to make [[financial transaction]]s online by granting the ability to [[electronic funds transfer|transfer funds electronically]] between individuals and businesses.<ref name=howitworks>{{cite web| url=http://money.howstuffworks.com/paypal.htm| title=How PayPal Works| last1=Grabianowski| first1=Ed| last2=Crawford| first2=Stephanie| publisher=How Stuff Works| accessdate=23 November 2014}}</ref> Through PayPal, users can send or receive payments for online auctions on websites like [[eBay]], purchase or sell goods and services, or [[Philanthropy|donate money]] or receive donations. It is not necessary to have a PayPal account to use the company's services.<ref name=howitworks/> PayPal account users can set [[Exchange rate|currency conversion]] option in account settings.<ref>{{Cite web|url=https://smallbusiness.chron.com/convert-money-paypal-28101.html|title=How to Convert Money in PayPal|website=smallbusiness.chron.com|language=en|access-date=2020-02-19}}</ref>
+
+From 2009 to 2016, PayPal operated Student Accounts, allowing parents to set up a student account, transfer money into it, and obtain a debit card for student use. The program provided tools to teach how to spend money wisely and take responsibility for actions.<ref>[http://news.softpedia.com/news/PayPal-Creates-Student-Accounts-For-Teens-118965.shtml PayPal Creates Student Accounts for Teens]. Retrieved October 23, 2010.</ref><ref name=nybits>{{cite news| url=http://bits.blogs.nytimes.com/2008/12/01/paypal-brings-the-weekly-allowance-into-the-21st-century/?_php=true&_type=blogs&_r=1| title=PayPal Brings Allowances Into the 21st Century| author=Brad Stone| date=1 December 2008| newspaper=New York Times| accessdate=23 November 2014}}</ref>  PayPal discontinued Student Accounts in August 2016.
+
+In November 2009, PayPal opened its platform, allowing other services to get access to its code and to use its infrastructure in order to enable peer-to-peer online transactions.<ref>{{cite web|url=http://gigaom.com/2009/11/03/paypals-partially-open-platform-to-usher-in-new-payment-models-apps/ |title=PayPal's (Partially) Open Platform to Usher in New Payment Models & Apps: Tech News and Analysis  |publisher=GigaOM |date=November 3, 2009 |accessdate=January 20, 2011}}</ref>
+
+In 2007, PayPal acquired the online credit product [[Bill me later|Bill Me Later]], Inc.,<ref>{{Cite web|title=Ebay Spends More Than $1.2 Billion To Buy Bill Me Later And DBA.dk, And Lays Off 10% Of Employees|url=https://social.techcrunch.com/2008/10/06/ebay-spends-more-than-1-billion-to-buy-billmelater-and-dbadk-and-lays-off-10-of-employees/|access-date=2020-09-21|website=TechCrunch|language=en-US}}</ref> which has since been rebranded as PayPal Credit and provided services for [[Alliance Data|Comenity Capital Bank]], the lender of PayPal Credit accounts. Founded in 2000, Bill Me Later is headquartered in [[Timonium, Maryland]].<ref>{{Cite web|date=2008-10-06|title=eBay Inc. adds Bill Me Later to Portfolio|url=https://www.ebayinc.com/stories/news/ebay-inc-adds-bill-me-later-to-portfolio/|access-date=2020-09-21|website=www.ebayinc.com|language=en-US}}</ref> PayPal Credit offers shoppers access to an instant online revolving line of credit at thousands of vendors that accept PayPal, subject to credit approval. PayPal Credit allows consumers to shop online in much the same way as they would with a traditional credit card. The rebranding of Bill Me Later as PayPal Credit also means that consumers can use PayPal Credit to fund transactions virtually anywhere PayPal is accepted.<ref name="billmelater.com">{{cite web|url=https://www.billmelater.com/about/index.xhtml|title=Bill Me Later|accessdate=5 September 2015}}</ref> In 2015 PayPal agreed that PayPal Credit would pay a $25 million fine to settle a complaint filed in Federal Court by the [[Consumer Financial Protection Bureau]].<ref name="cfpb">{{cite court
+|litigants=Consumer Financial Protection Bureau v. Paypal Inc., and Bill Me Later, Inc.
+|vol=Case 1:15-cv-01426-RDB
+|reporter=
+|opinion=Stipulated Final Judgment and Order
+|pinpoint=
+|court=United States District Court for the District of Maryland
+|date=05/21/2015
+|url=http://files.consumerfinance.gov/f/201505_cfpb_consent-order-paypal.pdf
+|accessdate=
+|quote=
+}}</ref>
+
+The PayPal app is available online or at the [[iTunes App Store]] and [[Google Play]].  One year after acquiring [[Braintree (company)|Braintree]], PayPal introduced its "One Touch" service, which allows users to pay with a one-touch option on participating merchants websites or apps.<ref name=recode2014>{{cite web| url=http://recode.net/2014/08/19/paypal-introduces-one-touch-mobile-payments-thanks-to-braintree-and-venmo/| title=PayPal Introduces One-Touch Mobile Payments, Thanks to Braintree and Venmo| author=Jason Del Rey| date=19 August 2014| publisher=Recode| accessdate=23 November 2014}}</ref>
+
+On November 28, 2011, PayPal reported [[Black Friday (shopping)|Black Friday]] brought record mobile engagement including a 538% increase in global mobile payment volume when compared with Black Friday 2010.<ref name=post1>{{cite news |title=PayPal Cyber Monday Mobile Payment Volume Up Over 500 Percent |work=TechCrunch |date=November 28, 2011 |url=https://techcrunch.com/2011/11/28/paypal-cyber-monday-mobile-payment-volume-up-over-500-percent/}}</ref>
+
+In 2012, the company launched "PayPal Here", a small business mobile payment system that includes a combination of a free [[mobile app]] and a small card-reader that plugs into a [[Smartphone|smart phone]].<ref name=mashable2012>{{cite web| url=http://mashable.com/2012/03/15/paypal-here-hands-on/| title='PayPal Here' Accepts Payments from iPhones| author=Emily Price| date=15 March 2012| publisher=Mashable| accessdate=23 November 2014}}</ref>
+
+PayPal launched an updated app for [[iOS]] and [[Android (operating system)|Android]] in 2013 that expanded its mobile app capabilities by allowing users to search for local shops and restaurants that accept PayPal payments, order ahead at participating venues, and access their PayPal Credit accounts (formerly known as Bill Me Later).<ref name="billmelater.com"/>
+
+On October 21, 2020, PayPal announced a new service allowing customers to use [[cryptocurrencies]] to shop at 26 million merchants on the network starting in 2021. As part of the announcement, PayPal secured the first conditional cryptocurrency license from the [[New York State Department of Financial Services]], which will allow customers to purchase cryptocurrencies such as [[Bitcoin]], [[Litecoin]], [[Ethereum]], and [[Bitcoin Cash]].<ref name="Reuters 2020-10-21">{{cite news |url=https://www.reuters.com/article/paypal-cryptocurrency/paypal-to-allow-cryptocurrency-buying-selling-and-shopping-on-its-network-idINL1N2HB14U |title=PayPal to allow cryptocurrency buying, selling and shopping on its network |work=[[Reuters]] |date=2020-10-21 |accessdate=2020-10-21 }}</ref><ref>{{Cite news|date=2020-10-21|title=PayPal allows Bitcoin and crypto spending|language=en-GB|work=BBC News|url=https://www.bbc.com/news/technology-54630283|access-date=2020-10-22}}</ref>
+
+=== Business model evolution ===
+PayPal's success in users and volumes was the product of a three-phase strategy described by former eBay CEO [[Meg Whitman]]: "First, PayPal focused on expanding its service among eBay users in the US. Second, we began expanding PayPal to eBay's international sites. And third, we started to build PayPal's business off eBay."<ref name=wallstfolly>{{cite web |url=http://wallstfolly.typepad.com/wallstfolly/2006/01/intel_conferenc.html |archive-url=https://web.archive.org/web/20061116122051/http://wallstfolly.typepad.com/wallstfolly/2006/01/intel_conferenc.html |url-status=dead |archive-date=November 16, 2006 |title=Wall Street Folly: eBay: Conference call transcript – 1/18/06 |publisher=Wallstfolly.typepad.com |accessdate=January 20, 2011 }}</ref>
+
+==== Phase 1 ====
+
+In the first phase, payment volumes were coming mostly from the eBay auction website. The system was very attractive to auction sellers, most of which were individuals or small businesses that were unable to accept credit cards, and for consumers as well. In fact, many sellers could not qualify for a credit card Merchant account because they lacked a commercial credit history. The service also appealed to auction buyers because they could fund PayPal accounts using credit cards or bank account balances, without divulging credit card numbers to unknown sellers. PayPal employed an aggressive marketing campaign to accelerate its growth, depositing $10 in new users' PayPal accounts.<ref name=wallstfolly/>
+
+==== Phase 2 ====
+
+Until 2000, PayPal's strategy was to earn interest on funds in PayPal accounts. However, most recipients of PayPal credits withdrew funds immediately. Also, a large majority of senders funded their payments using credit cards, which cost PayPal roughly 2% of payment value per transaction.{{Citation needed|date=November 2017}}
+
+To solve this problem, PayPal tailored its product to cater more to business accounts. Instead of relying on interests earned from deposited funds, PayPal started relying on earnings from service charges. They offered seller protection to PayPal account holders, provided that they comply with reimbursement policies. For example, PayPal merchants are either required to retain a traceable proof of shipping to a confirmed address or to provide a signed receipt for items valued over $750.{{Citation needed|date=November 2017}}
+
+==== Phase 3 ====
+
+After fine-tuning PayPal's business model and increasing its domestic and international penetration on eBay, PayPal started its off-eBay strategy. This was based on developing stronger growth in active users by adding users across multiple platforms, despite the slowdown in on-eBay growth and low-single-digit user growth on the eBay site. A late 2003 reorganization created a new business unit within PayPal—Merchant Services—to provide payment solutions to small and large e-commerce merchants outside the eBay auction community. Starting in the second half of 2004, PayPal Merchant Services unveiled several initiatives to enroll online merchants outside the eBay auction community, including:<ref name=wallstfolly/>
+
+* Lowering its transaction fee for high-volume merchants from 2.2% to 1.9% (while increasing the monthly transaction volume required to qualify for the lowest fee to $100,000)
+* Encouraging its users to recruit non-eBay merchants by increasing its referral bonus to a maximum of $1,000 (versus the previous $100 cap)
+* Persuading credit card gateway providers, including [[CyberSource]] and Retail Decisions USA, to include PayPal among their offerings to online merchants.
+* Hiring a new sales force to acquire large merchants such as [[Dell]], [[ITunes|Apple's iTunes]], and [[Yahoo! Store]]s, which hosted thousands of online merchants
+* Reducing fees for online music purchases and other "micropayments"
+* Launching PayPal Mobile, which allowed users to make payments using text messaging on their cell phones
+
+=== Global reach ===
+
+PayPal can be used in more than 200 countries/regions.<ref>{{cite web | url=https://www.paypal.com/al/webapps/mpp/country-worldwide | title=PayPal Global - All countries and markets - PayPal | publisher=PayPal | accessdate=28 March 2017}}</ref>
+
+Different countries have different conditions: ''Send only'' (Package Service allows sending only, valid in 97 countries), ''PayPal Zero'' (package suggests the possibility of enrollment, entry, and withdrawal of funds in foreign currency, but the user can not hold the balance PayPal account, operates in 18 countries), ''SRW Send - Receive - Withdrawal'' (the possibility of enrollment, input-output and the ability to keep your PayPal account balance in the currency and to transfer to the card when the user sees fit, operates in 41 countries) and ''Local Currency'' (SRW plus opportunity to conduct transactions in the local currency, 21 countries).
+
+==== China ====
+
+In July 2017, PayPal announced a partnership with [[Baidu]], to allow the Chinese firm’s 100 million mobile wallet users to make payments to PayPal’s 17 million merchants through the Baidu service.<ref>{{Cite web|url=https://techcrunch.com/2017/07/27/baidu-teams-up-with-paypal/|title=Baidu teams up with PayPal to take its Chinese mobile wallet global {{!}} TechCrunch|last=Russell|first=Jon|access-date=2017-07-28}}</ref>
+
+==== Crimea ====
+
+In January 2015, PayPal ceased operations in [[Crimea]] in compliance with international sanctions against [[Russia]] and Crimea.<ref>{{cite web|url=http://tass.ru/en/russia/772897|title=TASS: Russia - PayPal system stops servicing clients in Crimea|work=TASS|accessdate=5 September 2015}}</ref>
+
+==== India ====
+
+As of March 2011, PayPal has made changes to the User Agreement for Indian users to comply with [[Reserve Bank of India]] regulations.<ref>{{cite news|title=PayPal follows RBI to restrict e-payment to Indian merchants|url=http://articles.economictimes.indiatimes.com/2011-01-29/news/28426592_1_personal-payments-paypal-online-payment|accessdate=16 March 2014|newspaper=[[The Economic Times]]|date=Jan 29, 2011}}</ref> The per transaction limit had been set to USD $3,000, since October 14, 2011. However, on July 29, 2013, PayPal increased the per transaction limit to USD $10,000.<ref>[http://www.crazyengineers.com/threads/paypal-india-receiving-limit-increased-to-10-000-per-transaction.69544/ PayPal India Receiving Limit Increased To $10,000 Per Transaction!]. CrazyEngineers. Retrieved on 2013-08-12.</ref> This brings the per transaction limit for India in line with the restrictions imposed by PayPal in most other countries.
+
+PayPal has disabled sending and receiving personal payments in India, thus forcing all recipients to pay a transaction fee.<ref>{{cite web|url=http://www.techground.net/2010/02/paypal-notification-reversed-transaction/|title=Paypal Reversing Transactions of Indian Accounts|accessdate=5 September 2015}}</ref>
+
+PayPal plans to make India an incubation center for the company's employee engagement policies. In 2012, PayPal hired 120 people for its offices in [[Chennai]] and [[Bangalore|Bengaluru]].<ref>{{cite news|last=Sengupta|first=Devina|title=PayPal plans to hire 1,000 in India|url=http://timesofindia.indiatimes.com/tech/news/internet/PayPal-plans-to-hire-1000-in-India/articleshow/13840301.cms|accessdate=16 March 2014|newspaper=[[The Times of India]]|date=Jun 5, 2012}}</ref>
+
+On 8 November 2017, PayPal launched domestic operations under PayPal Payments Private Limited and now provides digital payment solutions for merchants and customers in [[India]].<ref>{{Cite news|url=https://www.thehindubusinessline.com/money-and-banking/paypal-launches-domestic-payments-in-india/article9949289.ece|title=PayPal launches domestic payments in India|work=@businessline|access-date=2018-06-04}}</ref> As of 2020, Paypal supports the domestic card system [[RuPay]] and is planning to further integrate [[Unified Payments Interface|Unified Payment Interface]] (UPI) in collaboration with [[National Payments Corporation of India]] (NPCI).<ref>{{Cite news|last=Malik|first=Yuvraj|url=https://www.business-standard.com/article/companies/us-major-paypal-set-to-launch-upi-based-digital-payments-in-india-120022400127_1.html|title=US major PayPal set to launch UPI-based digital payments in India|date=2020-02-24|work=Business Standard India|access-date=2020-04-04}}</ref> PayPal now has the largest global engineering team in India outside of US that is spread over [[Bengaluru]], [[Chennai]] and [[Hyderabad]].<ref>{{Cite news|last=Agarwal|first=Surabhi|url=https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/paypal-cto-says-in-for-the-long-haul-in-india-to-back-upi-soon/articleshow/74560215.cms|title=PayPal CTO says in for the long haul in India, to back UPI soon|date=2020-03-10|work=The Economic Times|access-date=2020-04-04}}</ref>
+
+==== Israel and Palestinian Territories ====
+
+PayPal is available in Israel<ref>{{cite web|url=https://developer.paypal.com/docs/classic/api/country_codes/|title=List of country codes where PayPal available}}</ref> but is not available in the [[Palestinian territories]]. Nor can Palestinians working in the [[West Bank]] or [[Gaza Strip|Gaza]] access it but Israelis living in [[Israeli settlement|settlements]] in the West Bank can use PayPal. This discrepancy has prompted Palestinian tech companies to seek a policy change from PayPal.<ref>{{cite web|url=https://techcrunch.com/2016/09/09/paypal-brushes-off-request-from-palestinian-tech-firms-to-access-the-platform/|title=PayPal brushes-off request from Palestinian tech firms to access the platform}}</ref>
+
+==== Japan ====
+
+In late March 2010, new Japanese banking regulations forced PayPal Japan to suspend the ability of personal account holders registered in Japan from sending or receiving money between individuals and as a result are now subject to PayPal's business fees on all transactions.<ref>Martyn Williams, [http://www.computerworld.com/s/article/9174359/PayPal_to_halt_some_remittance_services_in_Japan PayPal to halt some remittance services in Japan], Compuserve, 30 March 2010 03:16&nbsp;am ET</ref><ref>[http://www.finextra.com/news/fullstory.aspx?newsitemid=21238 New regs force PayPal to stop Japanese personal payments], Finextra, March 30, 2010</ref>
+
+==== Pakistan ====
+
+In [[Pakistan]], users can use [[Xoom Corporation|Xoom]], a money transfer service owned by PayPal.<ref>{{citation|url=https://www.dawn.com/news/1436793|title=PayPal-owned money transfer service to facilitate overseas donations to dam fund: report}}</ref> In October 2018, [[Government of Pakistan|Pakistan's government]] used Xoom to help crowdsource funds for the purpose of building two dams.<ref>{{citation|url=https://www.nytimes.com/2018/10/25/world/asia/pakistan-dam-fund.html|title=Pakistan Tries a New Way to Pay for a Dam: Crowdsourcing}}</ref>
+
+The government of Pakistan is trying to convince PayPal administration to launch its service in the country, but PayPal is not ready to introduce its services there.<ref>{{cite web|url=https://www.thenews.com.pk/latest/572694-paypal-is-not-ready-to-introduce-services-in-pakistan|title=PayPal is not coming to Pakistan anytime soon|website=The News|accessdate=22 November 2019}}</ref>
+
+==== Turkey ====
+
+Eight years after the company first started operating in the country, Paypal ceased operations in Turkey on 6 June 2016 when Turkish financial regulator BDDK denied it a payment license. The regulators had demanded that PayPal's data centers be located inside Turkey to facilitate compliance with government and court orders to block content and to generate [[tax revenue]]. PayPal said that the closure will affect tens of thousands of businesses and hundreds of thousands of consumers in Turkey.<ref>{{cite web|url=https://www.wsj.com/articles/paypal-to-exit-turkey-after-regulator-denies-payments-license-1464720574|title=PayPal to Exit Turkey After Regulator Denies Payments License}}</ref><ref>{{cite web|url=https://techcrunch.com/2016/05/31/paypal-to-halt-operations-in-turkey-after-losing-license-impacts-hundreds-of-thousands/|title=PayPal to halt operations in Turkey after losing license, impacts 'hundreds of thousands'}}</ref>
+
+==== Sri Lanka ====
+
+In January 2017, PayPal team scheduled to visit [[Sri Lanka]] mid-January to re-establish links.<ref>{{cite web|url=http://www.dailymirror.lk/article/Doors-open-for-PayPal-in-Sri-Lanka-says-CB-143016.html|title=Doors open for PayPal in Sri Lanka, says CB|website=Daily Mirror|accessdate=29 December 2017}}</ref> As of 2020, PayPal doesn't operate in the country.<ref>{{Cite web|date=2020-02-17|title=Paypal gap holds back Sri Lanka's online fashion aspirations|url=https://economynext.com/paypal-gap-holds-back-sri-lankas-online-fashion-aspirations-51114,%20https://economynext.com/paypal-gap-holds-back-sri-lankas-online-fashion-aspirations-51114/|access-date=2020-09-21|website=EconomyNext}}</ref>
+
+=== PayPal Giving Fund ===
+
+PayPal Giving Fund is a registered charity supported by Paypal that streamlines donations to non-profit organizations.<ref>{{cite web|url=https://www.paypal.com/givingfund/faq|title=PayPal Giving Fund - FAQ}}</ref><ref>{{Cite web|url=https://www.businessnewsdaily.com/10416-paypal-social-responsibility-tips.html|title=Corporate Social Responsibility Tips from PayPal|website=www.businessnewsdaily.com|access-date=2019-01-30}}</ref><ref>{{Cite web|url=http://www.bandt.com.au/media/paypal-giving-fund-launches-australia|title=PayPal Giving Fund Launches In Australia|date=2018-11-15|website=B&T|access-date=2019-01-30}}</ref>
+
+== Digital marketing with PayPal ==
+
+PayPal launches different marketing activities in various channels and emphasizes that consumers can use it in different ways.<ref name=jenni>{{cite web|last1=Jennifer|first1=Faull|title=PayPal set to launch multi-channel campaign|url=http://www.thedrum.com/news/2013/05/31/paypal-set-launch-multi-channel-campaign|website=The Drum|accessdate=15 March 2018}}</ref> PayPal's marketing includes [[Television advertisement|TV commercials]], [[outdoor advertising]], [[Facebook]], and [[display advertisement]].<ref name="jenni">{{cite web|last1=Jennifer|first1=Faull|title=PayPal set to launch multi-channel campaign|url=http://www.thedrum.com/news/2013/05/31/paypal-set-launch-multi-channel-campaign|website=The Drum|accessdate=15 March 2018}}</ref>
+
+PayPal provides free [[analytics]] to traders about the ways that consumers utilize [[online payments]].<ref name=gesen>{{cite web|last1=Amy|first1=Gesenhues|title=PayPal's new Marketing Solutions tool sheds light on how shoppers use the online payment platform|url=https://marketingland.com/paypals-new-marketing-solutions-tool-sheds-light-shoppers-use-online-payment-platform-226918|website=Marketing Land|accessdate=14 March 2018|date=24 October 2017}}</ref> Through the free tracking service, PayPal assists traders in targeting consumers. PayPal's code gathers the consumer information which can be installed on the trader's website.<ref name=gesen/> Both PayPal and traders benefit from the free service.
+
+PayPal partners with [[Synchrony Financial]] to provide the [[Mastercard|PayPal Cashback Mastercard]], which offers 2% cash back to customers who use the card to make purchases both online and in physical stores.<ref>{{cite web|last1=Tyrone|first1=Stewart|title=Paypal launches first cashback credit card to target physical stores {{!}} Mobile Marketing Magazine|url=http://mobilemarketingmagazine.com/paypal-cashback-mastercard-credit-card|website=MobileMarketing|accessdate=15 March 2018}}</ref> PayPal’s cashback financial service promotes the number of potential customers.
+
+[[Apple Inc.|Apple]] allows PayPal as a mode of payment for [[App Store (iOS)|App Store]], [[Apple Music]], [[iTunes]], and [[Apple Books]].<ref name=spencer>{{cite web|last1=Alex|first1=Spencer|title=Apple brings PayPal to App Store, Apple Music and iTunes for the first time {{!}} Mobile Marketing Magazine|url=http://mobilemarketingmagazine.com/apple-brings-paypal-to-app-store-apple-music-and-itunes-for-the-first-time|website=MobileMarketing|accessdate=15 March 2018}}</ref> PayPal can increase usage of Apple platforms. In addition, PayPal receives revenue from Apple services, especially from the App Store.<ref>{{cite web|last1=Ayoub|first1=Aouad|title=PayPal and Apple enter major partnership|url=http://uk.businessinsider.com/paypal-and-apple-enter-major-partnership-2017-7|website=Business Insider|accessdate=15 March 2018}}</ref>  Customers can use PayPal to make purchases by linking their PayPal accounts to their Apple IDs.<ref name=spencer>{{cite web|last1=Alex|first1=Spencer|title=Apple brings PayPal to App Store, Apple Music and iTunes for the first time {{!}} Mobile Marketing Magazine|url=http://mobilemarketingmagazine.com/apple-brings-paypal-to-app-store-apple-music-and-itunes-for-the-first-time|website=MobileMarketing|accessdate=15 March 2018}}</ref>
+
+== Regulation ==
+
+Thiel, a founder of PayPal, has stated that PayPal is not a bank because it does not engage in [[fractional-reserve banking]].<ref name=ecorner>{{cite web| url=http://ecorner.stanford.edu/authorMaterialInfo.html?mid=1036| title=Paypal is Not a Bank| date=21 January 2004| publisher= Entrepreneurial Thought Leader Speaker Series: ECorner| accessdate=24 November 2014}}</ref> Rather, PayPal's funds that have not been disbursed are kept in commercial interest-bearing checking accounts.<ref>{{cite news|last=Chu|first=Lenora|title=What PayPal does with your money|url=https://money.cnn.com/2008/02/26/smbusiness/paypal_float.fsb/|accessdate=16 March 2014|newspaper=[[CNNMoney]]|date=February 26, 2008}}</ref>
+
+In the United States, PayPal is licensed as a [[money transmitter]], on a state-by-state basis.<ref name=Wolverton>[https://www.zdnet.com/news/fdic-decides-paypals-no-bank/121346 FDIC decides PayPal's no bank]. ZDNet (March 13, 2002). Retrieved on 2013-08-12.</ref><ref>{{cite web|url=http://law.bepress.com/cgi/viewcontent.cgi?article=1153&context=expresso |title=Bepress.com |accessdate=January 20, 2011}}</ref> But state laws vary, as do their definitions of banks, narrow banks, money services businesses, and money transmitters.  Although PayPal is not classified as a bank, the company is subject to some of the rules and regulations governing the financial industry including [[Regulation E]] consumer protections and the [[USA PATRIOT Act]].<ref>Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA Patriot Act) Act of 2001, Pub. L. No. 107-56, 115 Stat. 272 (2001)</ref> The most analogous regulatory source of law for PayPal transactions comes from [[Peer-to-peer banking|peer-to-peer]] (P2P) payments using [[Credit card|credit]] and [[debit cards]]. Ordinarily, a credit card transaction, specifically the relationship between the issuing bank and the cardholder, is governed by the [[Truth in Lending Act]] (TILA) 15 U.S.C. §§ 1601-1667f as implemented by Regulation Z, 12 C.F.R. 226, (TILA/Z). TILA/Z requires specific procedures for billing errors, dispute resolution, and limits cardholder liability for unauthorized charges.<ref name=margaretjane>Margaret Jane Radin et al., Internet Commerce The Emerging Legal Framework 1174–1175 Foundation Press (2d ed. 2006)</ref> Similarly, the legal relationship between a debit cardholder and the issuing bank is regulated by the [[Electronic Funds Transfer Act]] (EFTA) 15 U.S.C. §§ 1693-1693r, as implemented by Regulation E, 12 C.F.R. 205, (EFTA/E). EFTA/E is directed at consumer protection and provides strict error resolution procedures. However, because PayPal is a ''payment intermediary'' and not otherwise regulated directly, TILA/Z and EFTA/E do not operate exactly as written once the credit/debit card transaction occurs via PayPal. Basically, unless a PayPal transaction is funded with a credit card, the consumer has no recourse in the event of fraud by the seller.<ref name=margaretjane />
+
+In 2008, PayPal Europe was granted a Luxembourg banking license, which, under European Union law, allows it to conduct banking business throughout the EU.<ref>Article 23 of the EU's Banking Directive (Directive 2006/48/EC).</ref> It is therefore regulated as a bank by Luxembourg's banking supervisory authority, the [[Commission de Surveillance du Secteur Financier]] (CSSF).<ref>{{cite web |url=http://www.paymentsnews.com/2007/05/paypal_obtains_.html |title=PayPal Obtains Bank Charter for European Union |publisher=Paymentsnews.com |accessdate=February 15, 2012 |archive-url=https://www.webcitation.org/6Cwyn4bpc?url=http://www.paymentsnews.com/2007/05/paypal_obtains_.html |archive-date=December 16, 2012 |url-status=dead }}</ref><ref>{{cite web|last=Stevenson|first=Tom|title=PayPal becomes a bank to fight off Google|url=https://www.telegraph.co.uk/finance/markets/2808982/PayPal-becomes-a-bank-to-fight-off-Google.html|work=The Daily Telegraph|accessdate=September 24, 2012}}</ref><ref>{{cite web|url=http://tamebay.com/2007/05/paypal-becomes-a-bank-no-longer-under-fsa.html |title=PayPal becomes a Bank, no longer under FSA : TameBay : eBay & ecommerce made easy |publisher=TameBay |date=May 15, 2007 |accessdate=February 15, 2012}}</ref> All of the company's European accounts were transferred to PayPal's bank in Luxembourg in July 2007.<ref>{{cite web|last=Holahan |first=Catherine |url=http://www.businessweek.com/technology/content/jun2007/tc20070614_606853.htm?chan=technology_technology+index+page_top+stories |title=Businessweek.com |work=Bloomberg BusinessWeek   |date=June 15, 2007 |accessdate=January 20, 2011}}</ref> Prior to this move, PayPal had been registered in the United Kingdom as PayPal (Europe) Ltd, an entity which was licensed as an Electronic Money Issuer with the UK's [[Financial Services Authority]] (FSA) from 2004. This ceased in 2007, when the company moved to Luxembourg.<ref>{{cite web|url=http://www.fsa.gov.uk/register/firmBasicDetails.do?sid=99095 |title=FSA.gov.uk |publisher=FSA.gov.uk |accessdate=January 20, 2011}}</ref>
+
+In India, as of January 2010, PayPal has no cross-border money transfer authorization. In [[The New York Times]] article "India's Central Bank Stops Some PayPal Services", Reserve Bank of India spokesman Alpana Killawalla stated: "Providers of cross-border money transfer service need prior authorization from the Reserve Bank under the Payment and Settlement Systems Act, PayPal does not have our authorization."<ref>[https://www.nytimes.com/2010/02/11/business/global/11paypal.html NYtimes.com] The New York Times, India's Central Bank Stops Some PayPal Services, by Heather Timmons and Claire Cain Miller, February 10, 2010,</ref> PayPal is not listed in the "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India".<ref>[http://rbi.org.in/scripts/PublicationsView.aspx?id=12043 RBI.org.in] {{webarchive|url=https://web.archive.org/web/20100219072245/http://rbi.org.in/scripts/PublicationsView.aspx?id=12043 |date=February 19, 2010 }} Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India</ref>
+PaisaPay is an Indian sister service to PayPal, and is also owned by eBay.<ref name=paisapay>{{cite web|last=Ebay Helpfile on Paisapay|title=Ebay.in help file on Paisapay|url=http://pages.ebay.in/ebayexplained/paisapay.html|accessdate=October 15, 2013}}</ref> PaisaPay makes possible payments from abroad by PayPal account holders to Indian sellers on eBay.in.
+
+In Australia, PayPal is licensed as an [[authorised deposit-taking institution]] (ADI) and is thus subject to Australian banking laws and regulations.<ref>{{cite web|url=http://www.apra.gov.au/adi/Documents/cfdocs/PayPal-auth-and-conditions-2006.pdf|title=Authority to carry on banking business, ''Banking Act 1959''}}</ref>
+
+In Singapore, PayPal is the holder of a stored value facility that does not require the approval of the [[Monetary Authority of Singapore]].<ref>{{cite web|url=https://www.paypal.com/sg/home|website=paypal.com/sg|title=PayPal|accessdate=2019-08-10}}</ref>
+
+== Safety and protection policies ==
+
+The PayPal Buyer Protection Policy states that the customer may file a buyer complaint if he or she did not receive an item or if the item he or she purchased was significantly not as described. The customer can open a dispute within 180 days from the date of payment and escalate it to a claim within 20 days from opening the dispute.  If the buyer used a credit card, he or she might get a refund via [[chargeback]] from his or her credit-card company. However, in the UK, where such a purchaser is entitled to specific statutory protections (that the credit card company is a second party to the purchase and is therefore equally liable in law if the other party defaults or goes into liquidation) under Section 75 Consumer Credit Act 1979, the purchaser loses this legal protection if the card payment is processed via PayPal.<ref>{{cite web|last=Kukiewicz |first=Julia |url=http://www.choose.net/money/guide/features/section-75-credit-card-protection-claim.html |title=Choose.net |publisher=Choose.net |date=November 1, 2011 |accessdate=November 1, 2011}}</ref>
+
+Also, the Financial Ombudsman Service position is that section 75 protection does not apply where PayPal or any eMoney service becomes involved in the credit card transaction. This leaves consumers with no recourse to pursue their complaint with the Financial Ombudsman Service. They only have recourse with the courts. However, the key issues which determine the applicability of section 75 are identified very clearly in Office of Fair Trading v Lloyds TSB Bank Plc and others [2006] EWCA Civ 268 7 and the [[Bank of Scotland]] v Alfred Truman (a firm) [2005] [EWHC] 583 (QB). This is a legal authority that section 75 protection does exist where one has paid on a credit card for a product, via an eMoney service.<ref>{{cite web|last=Miloseski-Reid |first=Paul |url=https://publications.parliament.uk/pa/cm201314/cmselect/cmhaff/70/70vw05.htm |title=Home Affairs Committee |publisher=publications.parliament.uk |date=July 29, 2013 |accessdate=June 13, 2015}}</ref>
+
+According to PayPal, it protects sellers in a limited fashion via the Seller Protection Policy. In general, the Seller Protection Policy is intended to protect the seller from certain kinds of chargebacks or complaints if the seller meets certain conditions including proof of delivery to the buyer. PayPal states the Seller Protection Policy is "designed to protect sellers against claims by buyers of unauthorized payments and against claims of non-receipt of any merchandise". The policy includes a list of "Exclusions" which itself includes "Intangible goods", "Claims for receipt of goods 'not as described{{'"}}, and "Total reversals over the annual limit".<ref name=ppsafety>{{cite web| url=https://www.paypal.com/us/webapps/mpp/paypal-safety-and-security| title=Buyer Protection & Seller Protection| publisher=PayPal| accessdate=24 November 2014}}</ref> There are also other restrictions in terms of the sale itself, the payment method and the destination country the item is shipped to (simply having a tracking mechanism is not sufficient to guarantee the Seller Protection Policy is in effect). The PayPal Seller Protection Policy does not provide the additional consumer protection afforded by UK consumer legislation (e.g., Sale of Goods Act) and in addition, it cannot be enforced in the Courts because PayPal operates from Luxembourg, outside all three of the UK legal jurisdictions.<ref name=ppagreement>{{cite web| url=https://www.paypal.com/us/webapps/mpp/ua/useragreement-full| title=PayPal User Agreement| date=8 October 2014| publisher= PayPal| accessdate=24 November 2014}}</ref>
+
+==Security==
+
+=== Security token ===
+
+{{main|Security token}}
+In early 2006, PayPal introduced an optional [[Security token|security key]] as an additional precaution against fraud.<ref name=forbessecurity>{{cite magazine| url=https://www.forbes.com/sites/katevinton/2014/06/25/researchers-discover-vulnerability-in-paypals-two-factor-authentication/| title=Researchers Discover Vulnerability in PayPal's Two-Factor Authentication| author=Kate Vinton| date=25 June 2014| magazine=Forbes| accessdate=24 November 2014}}</ref> A user account tied to a security key has a modified login process. Account-holders enter their login ID and password as normal but are then prompted to enter a six-digit code provided by a credit card sized hardware security key or a text message sent to the account holder's mobile phone. For convenience, users may append the code generated by the hardware key to their password in the login screen. This way they are not prompted for it on another page. This method is required for some services, such as when using PayPal through the eBay application on [[iPhone]].
+
+This [[two-factor authentication]] is intended to make it difficult for an account to be compromised by a malicious third party without access to the physical security key, although it does not prevent the so-called [[Man in the Browser]] (MITB) attacks. However, the user (or malicious third party) can alternatively authenticate by providing the credit card or bank account number listed on their account. Thus the PayPal implementation does not offer the security of true two-factor authentication.<ref name=techhivepp>{{cite web| url=http://www.techhive.com/article/2058327/keep-your-paypal-account-safer-with-two-factor-authentication.html| title=Keep your PayPal account safer with two-factor authentication| author=Nick Mediati| date=29 October 2013| publisher=TechHive| accessdate=24 November 2014}}</ref>
+
+=== MTAN ===
+
+It is also possible to use a mobile phone to receive an [[mTAN]] (Mobile Transaction Authentication Number) via [[SMS]].<ref>{{cite web| title=PayPal Security Key – PayPal|url=https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Marketing_CommandDriven/securitycenter/PayPalSecurityKey-outside| accessdate=August 18, 2009}}</ref> Use of a security code that is sent to the account holder's mobile phone is currently free.<ref>[http://www.moonlightceo.com/paypal-secrets/ MoonlightCEO.com] Moonlight CEO, PayPal Secrets, October 28, 2013</ref>
+
+== Fraud ==
+
+As early as 2001, PayPal had substantial problems with [[online fraud]], especially international [[hacker]]s who were hacking into PayPal accounts and transferring small amounts of money out of multiple accounts. Standard solutions for merchant and banking fraud might use government criminal sanctions to pursue the fraudsters. But with PayPal losing millions of dollars each month to fraud while experiencing difficulties with using the [[FBI]] to pursue cases of international fraud, PayPal developed a private solution: a "fraud monitoring system that used artificial intelligence to detect potentially fraudulent transactions.  ... Rather than treating the problem of fraud as a [[Legal matter management|legal problem]], the company treated it as a [[risk management]] one."<ref name=stringham2013>{{cite journal |last=Stringham|first=Edward |title=PayPal's Private Governance |journal=The Freeman |date=March 4, 2013 |url=http://www.fee.org/the_freeman/detail/paypals-private-governance#ixzz2Ma4h62Lo |accessdate=March 4, 2013}}</ref><ref>{{cite news|last1=Morisy|first1=Michael|title=How PayPal Boosts Security with Artificial Intelligence|url=http://www.technologyreview.com/news/545631/how-paypal-boosts-security-with-artificial-intelligence/|accessdate=28 January 2016|work=MIT Technology Review|date=25 January 2016}}</ref>
+
+=== 150,000 PayPal cards frozen ===
+
+In 2015, 150,000 Spanish card holders had their funds frozen in an apparent fraud case involving a PayPal service provider, Younique Money, which was the de facto administrator of the cards. Previously, PayPal had charged €15 to all its card users without authorization (150,000 users). As of March 2015 most funds had not been returned.<ref>{{cite web|url=http://www.ocu.org/dinero/tarjetas/noticias/paypal-prepago|title=Paypal prepago deja de estar operativa|accessdate=5 September 2015}}</ref><ref>{{cite web|url=http://cadenaser.com/programa/2015/03/06/ser_consumidor/1425647549_395678.html|title=OCU denuncia a YoUnique Money ante el Banco de España|author=Cadena Ser|date=6 March 2015|work=Cadena Ser|accessdate=5 September 2015}}</ref><ref>{{cite web|url=http://www.lavanguardia.com/economia/20150216/54427286227/younique-money-perdio-su-autorizacion-para-operar-por-irregularidad-contable.html|title=El Banco de España retira la licencia a Younique Money para emitir tarjetas Paypal|work=LA VANGUARDIA|accessdate=5 September 2015}}</ref>
+
+== Criticism ==
+
+{{See also|Criticism of eBay}}
+
+In 2003, PayPal voluntarily ceased serving as a payment intermediary between gambling websites and their online customers. At the time of this cessation, it was the largest payment processor for online gambling transactions. In 2010, PayPal resumed accepting such transactions, but only in those countries where online gambling is legal, and only for sites which are properly licensed to operate in said jurisdictions.<ref>{{cite web|url=http://internet-bingo.co/payment-options/paypal/ |title=Internet bingo guide to PayPal |publisher=internet-bingo.co |date=October 30, 2011 |accessdate=November 2, 2011}}</ref>
+
+If an account is subject to fraud or unauthorized use, PayPal puts the "Limited Access" designation on the account. PayPal has had several notable cases in which the company has frozen the account of users such as [[Richard Kyanka]], owner of the website [[Something Awful]], in September 2005,<ref>{{cite web|url=https://www.ecommercetimes.com/story/46325.html |title=E-Commerce News: Security: Feds Investigating Fraudulent Katrina-Related Web Sites|publisher=Ecommercetimes.com |accessdate=January 20, 2011}}</ref> [[Cryptome]] in March 2010,<ref>{{cite web|last=Orlowski |first=Andrew|url=https://www.theregister.co.uk/2010/03/08/paypal_cryptome_ko/ |title=Theregister.co.uk |publisher=Theregister.co.uk |date=March 8, 2010 |accessdate=January 20, 2011}}</ref><ref>{{cite web|last=Orlowski |first=Andrew |url=https://www.theregister.co.uk/2010/03/10/cryptome_paypal/ |title=Theregister.co.uk|publisher=Theregister.co.uk |date=March 10, 2010 |accessdate=January 20, 2011}}</ref><ref>{{cite web|last=Orlowski |first=Andrew|url=https://www.theregister.co.uk/2010/03/16/cryptome_paypal/ |title=Theregister.co.uk |publisher=Theregister.co.uk |date=March 16, 2010 |accessdate=January 20, 2011}}</ref> or [[April Winchell]], the owner of [[Regretsy]], in December 2011. The account was reinstated, and PayPal apologized and donated to her cause.<ref>{{cite news | url=http://consumerist.com/2011/12/paypal-rains-on-regretsys-secret-santa-campaign-over-use-of-wrong-button.html | title=PayPal Rains on Regretsy's Secret Santa Campaign Over Use of Wrong Button | work=The Consumerist | date=December 5, 2011 | accessdate=November 6, 2011 | author=Morran, Chris}}</ref>
+
+In September 2010, PayPal froze the account of a [[Minecraft]] developer, [[Markus Persson]]. Persson stated publicly that he had not received a clear explanation of why the account was frozen, and that PayPal was threatening to keep the money if they found anything wrong. His account contained around €600,000.<ref name="rock-paper-shotgun">{{cite web|url=http://www.rockpapershotgun.com/2010/09/10/paypal-freezes-minecraft-devs-600k-euros/|title=PayPal Freezes Minecraft Dev's 600k Euros |publisher=Rock, Paper, Shotgun |accessdate=January 20, 2011}}</ref>
+
+PayPal's partner [[MasterCard]] ceased taking donations to [[WikiLeaks]] in 2010, and PayPal also suspended, and later permanently restricted, payments to the website after the [[United States Department of State|U.S. State Department]] deemed WikiLeaks activities as illegal. Online supporters and activists retaliated by subjecting PayPal and MasterCard, along with other companies, to coordinated [[cyberattack|cyber attacks]].<ref>{{cite news| url=https://www.theguardian.com/media/2010/dec/08/operation-payback-mastercard-website-wikileaks | location=London |work=The Guardian | first1=Esther | last1=Addley | first2=Josh | last2=Halliday | title=Operation Payback cripples MasterCard site in revenge for WikiLeaks ban | date=December 8, 2010 |accessdate=December 28, 2014}}</ref>
+
+In February 2011 PayPal [[wikt:unbanned|unbanned]] the account of a website that supports [[List of Iraq War resisters|Iraq War resisters]] after it had enough information to fulfill its [[know your customer]] guidelines. The [[Chelsea Manning]] Support Network claimed the backdown was a reaction to a petition to the company to reinstate the account.<ref>{{cite web |url=https://www.cnet.com/news/paypal-reinstates-bradley-manning-support-group-account/ |author=Lance Whitney |title=PayPal reinstates Bradley Manning support group account |date=February 25, 2011|website=CNET |accessdate=December 28, 2014}}</ref>
+
+In May 2013, PayPal declined to pay a reward offered in its Bug Bounty Program<ref>{{cite web |url=https://www.paypal.com/us/webapps/mpp/security/reporting-security-issues |publisher=PayPal |title=Security Researchers Bug Bounty Program |accessdate=May 27, 2013}}</ref> to a 17-year-old German student who had reported a [[cross-site scripting]] flaw on its site.<ref>{{cite magazine |url=http://www.pcworld.com/article/2039940/paypal-denies-teenager-reward-for-finding-website-bug.html |title=PayPal denies teenager reward for finding website bug |magazine=PCWorld |date=May 28, 2013 |accessdate=May 29, 2013}}</ref> The company wrote that the vulnerability had been previously reported, and chastised the youth for disclosing the issue to the public, but, uniquely, sent him a "Letter of recognition" for the discovery.<ref>{{cite website|url=https://threatpost.com/paypal-to-fix-xss-flaw-but-no-reward-for-researcher/100802/ |title=PayPal to Fix XSS Flaw, But No Reward For Researcher| last=Fisher|first=Dennis|date=May 29, 2013}}</ref>
+
+In August 2013, entrepreneurs who had used PayPal to collect the funds they raised on [[crowdfunding]] platforms like [[Kickstarter]] and [[Indiegogo]] reported difficulty in being able to withdraw the money. Most notable victims are [[Ouya]], GlassUp (a rival to [[Google Glass]]), and [[Mailpile]].<ref>{{cite news|url=https://venturebeat.com/2013/08/14/glassup-raised-100k-on-indiegogo-but-paypal-is-refusing-to-pay-up/|title=GlassUp raised $100K on Indiegogo – but PayPal is refusing to pay up|accessdate=August 15, 2013|publisher=Venture Beat|date=August 14, 2013}}</ref><ref>{{cite web|url=http://www.mailpile.is/blog/2013-09-05_PayPal_Freezes_Campaign_Funds.html|title=PayPal Freezes Campaign Funds|accessdate=September 5, 2013|publisher=Mailpile|date=September 5, 2013}}</ref>
+
+In May 2014 PayPal blocked the account of a Russian human rights organisation "RosUznik", which supported political prisoners arrested at [[Bolotnaya Square case]].<ref>{{cite web|url=http://globalvoicesonline.org/2015/05/15/paypal-blocks-donations-for-printing-boris-nemtsovs-ukraine-war-report/|title=PayPal Blocks Donations for Printing Boris Nemtsov's Ukraine War Report · Global Voices|work=Global Voices|accessdate=5 September 2015}}</ref><ref>{{cite web|url=http://blogs.ft.com/beyond-brics/2014/05/30/russian-campaigning-website-snared-in-internet-controls/|title=Russian campaigning website snared in internet controls|work=Financial Times|accessdate=5 September 2015}}</ref>
+
+As of January 2015, a class-action lawsuit against PayPal has been filed in [[Israel]],<ref name="autogenerated2">{{cite news|url = http://www.globes.co.il/news/article.aspx?did=1000998078|date = 5 January 2015|newspaper = Globes|accessdate = 5 January 2015|title = ייצוגית ב-154 מ' ש': פייפאל חוסמת חשבונות באופן שרירותי}}</ref> claiming that they arbitrarily freeze accounts and hold funds for up to 180 days without paying interest and thereby directly profit from it. The lawsuit requests that PayPal be declared a monopoly and thus regulated accordingly.
+
+In April 2015 ''[[The Guardian]]'' reported PayPal blocking the account of [[London]]-based human rights group [[Justice for Iran]].<ref>{{cite web|url=https://www.theguardian.com/world/2015/apr/21/iranian-human-rights-group-account-blocked-paypal-sanctions|title=PayPal blocks Iranian human rights group's account over sanctions|work=The Guardian|accessdate=22 April 2017}}</ref>
+
+In May 2015 PayPal blocked an account intended to raise money for the distribution of [[Boris Nemtsov]]'s report "[[Putin. War]]".<ref>{{cite web|url=http://www.themoscowtimes.com/news/article/paypal-blocks-russian-account-linked-to-nemtsov-report-on-ukraine/520809.html|title=Paypal Blocks Russian Account Linked to Nemtsov Report on Ukraine - News|work=The Moscow Times|accessdate=5 September 2015}}</ref><ref>{{cite web|url=https://www.economist.com/news/europe/21651130-posthumously-completed-report-details-russias-involvement-war-ukraine-boris-nemtsovs|title=Boris Nemtsov's parting shot|work=The Economist|accessdate=5 September 2015}}</ref> The explanation by PayPal was that "PayPal does not offer the opportunity to use its system for collecting funds to finance the activities of political parties or for political aims in Russia", though PayPal's Acceptable Use Policy does not mention financing for political goals.<ref>{{cite web|url=https://globalvoicesonline.org/2015/05/15/paypal-blocks-donations-for-printing-boris-nemtsovs-ukraine-war-report/|title=PayPal Blocks Donations for Printing Boris Nemtsov's Ukraine War Report · Global Voices|work=Global Voices|accessdate=5 September 2015}}</ref> [[Non-governmental organization]] [[Freedom House]] issued a statement that "PayPal should immediately lift this ban, to help, rather than hinder, press freedom in Russia."<ref>{{cite web|url=https://freedomhouse.org/article/paypal-blocks-donations-report-russian-actions-ukraine|title=PayPal Blocks Donations for Report on Russian Actions in Ukraine|accessdate=5 September 2015}}</ref>
+
+By 2016, [[ConsumerAffairs]] had received over 1,200 consumer complaints relating to PayPal policies.<ref>[https://www.consumeraffairs.com/online/paypal_02.html Consumer Complaints & Reviews]</ref>{{Failed verification|date=July 2019|reason=The page cited no longer contains complaints, but only reviews (both positive and negative).}} Consumers have also launched numerous anti-PayPal Facebook sites and Twitter accounts to air their complaints.<ref>[https://www.nytimes.com/2013/10/13/your-money/stuck-in-a-dispute-between-paypal-and-itself.html?_r=0 Stuck in A Dispute Between PayPal and Itself ]</ref>
+
+In February 2017, PayPal froze the account of [[News Media Canada]], a [[Canada|Canadian]] [[trade association]], in response to a payment from [[The Reminder (Flin Flon)|The Reminder]], a [[Flin Flon, Manitoba|Flin Flon]], [[Manitoba]] [[Community journalism|community]] [[newspaper]], intended to cover the fee for the Reminder's submission of articles for consideration in a nationwide journalism contest run by News Media Canada, including one discussing [[Refugees of the Syrian Civil War|Syrian refugees]]. PayPal cited United States regulations as a reason for flagging the transaction between Canadian entities.<ref>[https://www.cbc.ca/news/canada/manitoba/paypal-freezes-flin-flon-newspaper-syrian-refugees-1.3977292 PayPal freezes Canadian media company's account over a story about Syrian family]</ref>
+
+In September 2018, PayPal banned radio host [[Alex Jones]] and his website ''[[InfoWars]]'', claiming that his site has content that was hateful and discriminatory against certain religious groups.<ref>[http://www.foxnews.com/tech/2018/09/23/paypal-bans-infowars-over-hate-speech.html "PayPal bans Infowars over hate speech"], September 23, 2018; via Michael Kan, [https://www.pcmag.com/news/paypal-bans-infowars-over-hate-speech "PayPal Bans Infowars Over Hate Speech"], ''[[PCMag]]'', September 21, 2018.</ref>
+
+PayPal discontinued payments to [[Pornhub]] models on November 14, 2019,<ref>{{cite news|accessdate=2019-11-15|title=PayPal halts payment support to PornHub models|url=https://www.reuters.com/article/us-paypal-pornhub-idUSKBN1XO2SV|newspaper=[[Reuters]]|date=14 November 2019|first=Vibhuti|last=Sharma}}</ref> alleging that "Pornhub has made certain business payments through PayPal without seeking our permission".<ref name="Vice Pornhub">{{cite web|first1=Samantha|last1=Cole|accessdate=2019-11-15|title=PayPal Pulls Out of Pornhub, Hurting 'Hundreds of Thousands' of Performers|url=https://www.vice.com/en_us/article/d3abgv/paypal-pulls-out-of-pornhub-payments|date=14 November 2019|website=[[Vice (magazine)|Vice]]}}</ref> Pornhub criticized the decision as one that affected "over a hundred thousand performers who rely on them for their livelihoods", and steered its payees toward other payment options.<ref name="Vice Pornhub" /><ref>{{cite web|first1=Jay|last1=Peters|accessdate=2019-11-15|title=PayPal abruptly cuts off Pornhub's payroll, leaving performers with few payment options|url=https://www.theverge.com/2019/11/14/20965167/paypal-pornhub-payroll-model-program-payment-options-paxum-verge-performers|date=14 November 2019|website=[[The Verge]]}}</ref>
+
+In September 2020, PayPal issued new terms of service which introduce a fee for inactive account in 19 countries. PayPal sent its clients an e-mail about updating the terms, but didn't mention introducing such fee.<ref>{{cite blog|accessdate=2020-10-01|title=Make sure you have an inactive PayPal account as there is a risk of a fee|url=https://newsbeezer.com/czechrepubliceng/make-sure-you-have-an-inactive-paypal-account-as-there-is-a-risk-of-a-fee/}}</ref> In reaction, some users closed their accounts once they found it from news and social media.
+
+== Litigation ==
+
+In March 2002, two PayPal account holders separately sued the company for alleged violations of the Electronic Funds Transfer Act (EFTA) and California law. Most of the allegations concerned PayPal's dispute resolution procedures. The two lawsuits were merged into one class-action lawsuit (In re: PayPal litigation). An informal settlement was reached in November 2003, and a formal settlement was signed on June 11, 2004. The settlement requires that PayPal change its business practices (including changing its dispute resolution procedures to make them EFTA-compliant), as well as making a US$9.25 million payment to members of the class. PayPal denied any wrongdoing.<ref>{{cite web|url=http://paypalsucks.com/files/PayPalSettlementAgreement.pdf|title=Settlement Agreement|date=June 11, 2004}}</ref>
+
+In June 2003, [[Stamps.com]] filed a lawsuit against PayPal and eBay claiming breach of contract, breach of the implied covenants of good faith and fair dealing, and interference with contract, among other claims. In a 2002 license agreement, Stamps.com and PayPal agreed that Stamps.com technology would be made available to allow PayPal users to buy and print postage online from their PayPal accounts. Stamps.com claimed that PayPal did not live up to its contractual obligations and accused eBay of interfering with PayPal and Stamps.com's agreement, hence Stamp.com's reasoning for including eBay in the suit.<ref name=nytimesarchive>{{cite news| url=https://www.nytimes.com/2003/06/26/business/technology-briefing-internet-stampscom-files-breach-contract-suit-against-ebay.html| title=Technology Briefing, Internet: Stamps.com Files Breach Of Contract Suit Against eBay| date=26 June 2003| newspaper=The New York Times| accessdate=24 November 2014}}</ref><ref>{{cite web|url=http://www.stamps.com/company/news/20030625p/|title=Stamps.com Asserts Breach of Contract Claim Against PayPal and eBay|date=April 23, 2008}}</ref>
+
+Craig Comb and two others filed a class action against PayPal in ''Craig Comb, et al. v. PayPal Inc.''. They sued, alleging illegal misappropriation of customer accounts and detailed their customer service experiences, including freezing deposited funds for up to 180 days until disputes were resolved by PayPal. PayPal argued that the plaintiffs were required to arbitrate their disputes under the [[American Arbitration Association]]'s Commercial Arbitration Rules. The court ruled against PayPal, stating that "the User Agreement and arbitration clause are substantively unconscionable under California law."<ref>{{cite web|url=http://pub.bna.com/eclr/021227.htm|title=Comb v. PayPal Inc.|date=January 21, 2007}}</ref> Paypal agreed to pay $9.25 million as a result of the case.<ref>{{Cite web|last=Christophi|first=Helen|date=2017-03-27|title=Judge Approves $4M Deal Over Closed PayPal Accounts|url=https://www.courthousenews.com/judge-approves-4m-deal-closed-paypal-accounts/|access-date=2020-08-09|language=en-US}}</ref>
+
+In September 2002, [[Bank One Corporation]] sued PayPal for allegedly infringing its cardless payment system patents.<ref>[http://www.pcworld.com/article/104855/paypal_hit_with_patent_infringement_lawsuit.html PayPal Hit With Patent Infringement Lawsuit] {{webarchive|url=https://web.archive.org/web/20120107065400/http://www.pcworld.com/article/104855/paypal_hit_with_patent_infringement_lawsuit.html |date=January 7, 2012 }} – PC World, September 10, 2002</ref> The following year, PayPal countersued, claiming that Bank One's online bill-payment system was an infringement against PayPal's online bill-payment patent, issued in 1998.<ref>{{cite news|url=https://query.nytimes.com/gst/fullpage.html?res=9C0DEFD91F3DF932A35753C1A9659C8B63|title=Internet: PayPal Sues Bank One Over Patent Infringement|date=April 23, 2008| work=The New York Times}}</ref> The two companies agreed on a [[Settlement (litigation)|settlement]] in October 2003.<ref>[http://www.law360.com/financialservices/articles/110/ebay-s-paypal-bank-one-settle-patent-suit eBay, Bank One Settle Patent Suit] – Law360, October 20, 2003</ref>
+
+In November 2003, [[AT&T Corporation]] filed suit against eBay and PayPal claiming that their payment systems infringed an AT&T patent, filed in 1991 and granted in 1994.<ref>{{cite web|url=https://www.cnet.com/news/at-38t-sues-ebay-paypal-over-patent/|first=Paul|last=Festa|title=AT&T sues eBay, PayPal over patent|date=April 23, 2008}}</ref> The case was settled out of court the following month, with the terms of the settlement undisclosed.<ref>[http://news.cnet.com/2100-1038_3-5133886.html eBay, Tumbleweed settle patent suit] – CNET, December 23, 2003</ref>
+
+In June 2011, PayPal and Israel Credit Cards-Cal Ltd. were sued for [[New Israeli Shekel|NIS]] 16 million. The claimants accused PayPal of deliberately failing to notify its customers that ICC-Cal was illegally charging them for currency conversion fees.<ref>{{cite news|last=Katzovitch|first=Guy|title=ICC-Cal, Paypal sued in Tel Aviv court for NIS 16m|url=http://www.globes.co.il/serveen/globes/docview.asp?did=1000656812&fid=1725|accessdate=June 23, 2011|newspaper=[[Globes (newspaper)|Globes]]|date=June 22, 2011|quote=A NIS 16 million lawsuit was filed yesterday with the Tel Aviv District Court against Israel Credit Cards-Cal Ltd. (ICC-Cal) (Visa) and PayPal Inc., and the claimants have asked the court to recognize it as a class-action suit.}}</ref>
+
+A class-action lawsuit filed in 2010 was settled in 2016, in which the plaintiffs contested PayPal's "holds" on funds. PayPal has proposed a settlement in the amount of $3.2 million in Zepeda v. PayPal which has yet to be ratified. As part of the settlement, the company agreed to change some of its policies.<ref>[http://www.ecommercebytes.com/cab/abn/y16/m01/i15/s03 PayPal Agrees to Change Business Practices in Lawsuit Settlement ]</ref>
+
+=== CFPB consent ===
+
+On 21 May 2015 PayPal agreed that PayPal Credit would pay a $25 million fine to settle a complaint filed in Federal Court by the [[Consumer Financial Protection Bureau]].<ref name="cfpb">{{cite court
+|litigants=Consumer Financial Protection Bureau v. Paypal Inc., and Bill Me Later, Inc.
+|vol=Case 1:15-cv-01426-RDB
+|reporter=
+|opinion=Stipulated Final Judgment and Order
+|pinpoint=
+|court=United States District Court for the District of Maryland
+|date=05/21/2015
+|url=http://files.consumerfinance.gov/f/201505_cfpb_consent-order-paypal.pdf
+|accessdate=
+|quote=
+}}</ref> The complaint alleged that consumers using PayPal were signed up for PayPal credit accounts without their knowledge nor consent. It alleged that PayPal had promised discounts and payment options the consumers never received, and that users trying to sign up for the regular, non-credit, PayPal accounts were signed up for credit accounts instead.<ref name="cfpb"/><ref name="wp">{{cite news|last1=Marte|first1=Jonnelle|title=CFPB seeks to fine PayPal $25 million over credit allegations|url=https://www.washingtonpost.com/news/get-there/wp/2015/05/19/agency-wants-to-fine-paypal-25-million-to-settle-credit-allegations/|accessdate=21 Jan 2016|newspaper=The Washington Post|date=May 19, 2015}}</ref> The complaint was filed in the [[United States District Court for the District of Maryland]], which ordered PayPal Credit to refund $15 million to consumers and to pay a $10 million fine.<ref name="cfpb"/>
+
+== See also ==
+{{div col|colwidth=30em}}
+*[[Billpoint]]
+*[[E-commerce payment system]]
+*[[Electronic money]]
+*[[Interchange fee]]
+*[[List of online payment service providers]]
+*[[Micropayment]]
+*[[Payment service provider]]
+*[[PayPal Mafia]]
+*[[Paytm]]
+*[[Google Pay]]
+*[[Stripe (company)]]
+{{div col end}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+<!--======================== {{No more links}} ============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia  |
+    | is not a collection of links nor should it be used for advertising. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+=========================== {{No more links}} =============================-->
+{{Commons category}}
+* {{Official website|https://www.paypal.com}}
+{{Finance links
+| name = PayPal
+| symbol = PYPL
+| sec_cik = PYPL
+| yahoo = PYPL
+| google = PYPL
+}}
+
+{{Mobile payments}}
+{{Elon Musk}}
+{{Payment service providers}}
+{{NASDAQ-100}}
+{{Major financial technology companies}}
+
+[[Category:PayPal| ]]
+[[Category:2002 mergers and acquisitions]]
+[[Category:2002 initial public offerings]]
+[[Category:Companies based in San Jose, California]]
+[[Category:Companies listed on NASDAQ]]
+[[Category:Corporate spin-offs]]
+[[Category:EBay]]
+[[Category:Electronic funds transfer]]
+[[Category:Financial services companies established in 1998]]
+[[Category:Financial technology companies]]
+[[Category:Foreign exchange companies]]
+[[Category:Mobile payments]]
+[[Category:Online payments]]
+[[Category:Payment systems]]
+[[Category:Payment service providers]]
+[[Category:Elon Musk]]
+[[Category:American companies established in 1998]]
+[[Category:1998 establishments in California]]
+[[Category:Internet properties established in 1998]]

@@ -1,0 +1,109 @@
+{{Pfam box
+| Symbol = Peptidase_C1
+| Name = Papain family cysteine protease
+| image = Papain_cartoon.png
+| width =
+| caption = Papain from ''[[Carica papaya]]''
+| Pfam= PF00112
+| InterPro= IPR000668
+| SMART=
+| Prosite = PDOC00126
+| SCOP = 1aec
+| TCDB =
+| OPM family=
+| OPM protein=
+}}
+{{Infobox enzyme
+| Name = papain
+| EC_number = 3.4.22.2
+| CAS_number = 9001-73-4
+| IUBMB_EC_number = 3/4/22/2
+| GO_code = 
+| image = 
+| width = 
+| caption = 
+}}
+'''Papain''', also known as '''papaya proteinase I''', is a [[cysteine protease]] ({{EC number|3.4.22.2}}) [[enzyme]] present in [[papaya]] (''Carica papaya'') and [[mountain papaya]] (''Vasconcellea cundinamarcensis'').
+
+==Papain family==
+Papain belongs to a family of related proteins with a wide variety of activities, including [[endopeptidase]]s, [[aminopeptidase]]s, [[dipeptidyl peptidase]]s and enzymes with both exo- and endopeptidase activity.<ref name="PUB00003577">{{cite journal | vauthors = Rawlings ND, Barrett AJ | title = Families of cysteine peptidases | journal = Methods in Enzymology | volume = 244 | pages = 461–86 | year = 1994 | pmid = 7845226 | pmc = 7172846 | doi = 10.1016/0076-6879(94)44034-4 }}</ref> Members of the papain family are widespread, found in [[Baculoviridae|baculoviruses]],<ref name="PUB00000522">{{cite journal | vauthors = Rawlings ND, Barrett AJ | title = Evolutionary families of peptidases | journal = The Biochemical Journal | volume = 290 ( Pt 1) | pages = 205–18 | date = February 1993 | pmid = 8439290 | pmc = 1132403 | doi = 10.1042/bj2900205 }}</ref> eubacteria, yeast, and practically all protozoa, plants and mammals.<ref name="PUB00003577" /> The proteins are typically lysosomal or secreted, and proteolytic cleavage of the [[propeptide]] is required for enzyme activation, although bleomycin hydrolase is cytosolic in fungi and mammals.<ref name="PUB00000287">{{cite journal | vauthors = Sebti SM, DeLeon JC, Lazo JS | title = Purification, characterization, and amino acid composition of rabbit pulmonary bleomycin hydrolase | journal = Biochemistry | volume = 26 | issue = 14 | pages = 4213–9 | date = July 1987 | pmid = 3117099 | doi = 10.1021/bi00388a006 }}</ref> Papain-like cysteine proteinases are essentially synthesised as inactive [[proenzyme]]s ([[zymogen]]s) with ''N''-terminal propeptide regions. The activation process of these enzymes includes the removal of propeptide regions, which serve a variety of functions ''in vivo'' and ''in vitro''. The pro-region is required for the proper folding of the newly synthesised enzyme, the inactivation of the peptidase domain and stabilisation of the enzyme against denaturing at neutral to alkaline pH conditions. Amino acid residues within the pro-region mediate their membrane association, and play a role in the transport of the proenzyme to lysosomes. Among the most notable features of propeptides is their ability to inhibit the activity of their cognate enzymes and that certain propeptides exhibit high selectivity for inhibition of the peptidases from which they originate.<ref name="PUB00015451">{{cite journal | vauthors = Yamamoto Y, Kurata M, Watabe S, Murakami R, Takahashi SY | title = Novel cysteine proteinase inhibitors homologous to the proregions of cysteine proteinases | journal = Current Protein & Peptide Science | volume = 3 | issue = 2 | pages = 231–8 | date = April 2002 | pmid = 12188906 | doi = 10.2174/1389203024605331 }}</ref>
+
+== Structure ==
+The papain precursor protein contains 345 amino acid residues,<ref name="urlPapain precursor - Carica papaya (Papaya)">{{cite web | url = https://www.uniprot.org/uniprot/P00784 | title = UniProt P00784: Papain precursor – ''Carica papaya'' (Papaya) | publisher = UniProtKB }}</ref> and consists of a signal sequence (1-18), a [[propeptide]] (19-133) and the mature peptide (134-345). The amino acid numbers are based on the mature peptide. The protein is stabilised by three [[disulfide bond|disulfide bridges]]. Its three-dimensional structure consists of two distinct [[structural domain]]s with a cleft between them. This cleft contains the [[active site]], which contains a catalytic dyad that has been likened to the [[catalytic triad]] of [[chymotrypsin]]. The catalytic dyad is made up of the amino acids cysteine-25 (from which it gets its classification) and histidine-159. Aspartate-158 was thought to play a role analogous to the role of aspartate in the [[serine protease]] catalytic triad, but that has since been disproved.<ref name="pmid2397208">{{cite journal | vauthors = Ménard R, Khouri HE, Plouffe C, Dupras R, Ripoll D, Vernet T, Tessier DC, Lalberté F, Thomas DY, Storer AC | display-authors = 6 | title = A protein engineering study of the role of aspartate 158 in the catalytic mechanism of papain | journal = Biochemistry | volume = 29 | issue = 28 | pages = 6706–13 | date = July 1990 | pmid = 2397208 | doi = 10.1021/bi00480a021 }}</ref>
+
+== Function ==
+{{see also|Catalytic triad}}
+The mechanism by which papain breaks [[peptide bond]]s involves the use of a catalytic dyad with a deprotonated cysteine.<ref>{{cite journal | vauthors = Shokhen M, Khazanov N, Albeck A | title = Challenging a paradigm: theoretical calculations of the protonation state of the Cys25-His159 catalytic dyad in free papain | journal = Proteins | volume = 77 | issue = 4 | pages = 916–26 | date = December 2009 | pmid = 19688822 | pmc = 2767454 | doi = 10.1002/prot.22516 }}</ref> A nearby Asn-175 helps to orient the [[imidazole]] ring of His-159 to allow it to deprotonate the catalytic Cys-25. This cysteine then performs a [[nucleophile|nucleophilic]] attack on the carbonyl carbon of a peptide backbone. This forms a covalent acyl-enzyme intermediate and frees the amino terminus of the peptide. The enzyme is deacylated by a water molecule and releases the carboxy terminal portion of the peptide. In immunology, papain is known to cleave the Fc (crystallisable) portion of [[immunoglobulins]] (antibodies) from the Fab (antigen-binding) portion.
+
+Papain is a relatively heat-resistant enzyme, with an optimal temperature range of 60 to 70&nbsp;°C.<ref>{{Cite web |url=http://www.biozym.de/datasheets/papain.php |title=Data Sheet - Papain |access-date=2010-08-08 |archive-url=https://web.archive.org/web/20140715224627/http://www.biozym.de/datasheets/papain.php |archive-date=2014-07-15 |url-status=dead }}</ref>
+
+Papain prefers to cleave after an [[arginine]] or [[lysine]] preceded by a [[hydrophobic]] unit ([[alanine|Ala]], [[valine|Val]], [[leucine|Leu]], [[isoleucine|Ile]], [[phenylalanine|Phe]], [[tryptophan|Trp]], [[tyrosine|Tyr]]) and not followed by a [[valine]].<ref>{{cite web |title=Papain - Selective Proteolytic Enzymes |url=https://www.sigmaaldrich.com/life-science/biochemicals/biochemical-products.html?TablePage=16410606 |website=Sigma-Aldrich |access-date=2 August 2020}}</ref>
+
+==Uses==
+[[File:Anthelmintic effect of papain on Heligmosomoides bakeri.ogv|thumb|[[Anthelmintic]] effect of papain on the worm ''[[Heligmosomoides bakeri]]''.]]
+{{More citations needed section|date=February 2014}}
+Papain breaks down tough meat fibres, and has been used since before European contact to tenderise meat eaten in its native South America. Meat tenderisers in powder form with papain as an active component are widely sold.
+
+Papain can be used to dissociate cells in the first step of [[cell culture]] preparations. A ten-minute treatment of small tissue pieces (less than 1&nbsp;mm<sup>3</sup>) will allow papain to begin cleaving the extracellular matrix molecules holding the cells together. After ten minutes, the tissue should be treated with a protease inhibitor solution to stop the protease action. Left untreated, papain activity will lead to complete lysis of the cells. The tissue must then be [[Trituration|triturated]] (passed quickly up and down through a [[Pasteur pipette]]) to break up the pieces of tissue into a single [[cell suspension]].
+
+It is also used as an ingredient in various [[enzyme|enzymatic]] [[debridement|debriding]] preparations, notably Accuzyme. These are used in the care of some chronic wounds to clean up dead tissue.
+
+Papain is added to some toothpastes and mint sweets as a tooth whitener. Its whitening effect is, however, minimal because the papain is present in low concentrations and is quickly diluted by saliva. It would take several months of use to have a noticeable effect.<ref name="pmid23493413">{{cite journal | vauthors = Chakravarthy P, Acharya S | title = Efficacy of extrinsic stain removal by novel dentifrice containing papain and bromelain extracts | journal = Journal of Young Pharmacists | volume = 4 | issue = 4 | pages = 245–9 | date = October 2012 | pmid = 23493413 | pmc = 3573376 | doi = 10.4103/0975-1483.104368 }}</ref>
+
+Papain is the main ingredient of Papacarie, a gel used for chemomechanical [[dental caries]] removal. It does not require [[Dental drill|drilling]] and does not interfere in the bond strength of restorative materials to [[dentin]].<ref name="pmid18477426">{{cite journal | vauthors = Lopes MC, Mascarini RC, da Silva BM, Flório FM, Basting RT | title = Effect of a papain-based gel for chemomechanical caries removal on dentin shear bond strength | journal = Journal of Dentistry for Children | volume = 74 | issue = 2 | pages = 93–7 | year = 2007 | pmid = 18477426 | url = https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+Effect+of+a+papain-based+gel+for+chemomechanical+caries+removal+on+dentin+shear+bond+strength+&btnG= }}</ref>
+
+Papain has been known to interfere with urine [[Psychoactive drug#Recreational use|drug]] tests for [[cannabinoid]]s.<ref>{{cite journal | vauthors = Burrows DL, Nicolaides A, Rice PJ, Dufforc M, Johnson DA, Ferslew KE | title = Papain: a novel urine adulterant | journal = Journal of Analytical Toxicology | volume = 29 | issue = 5 | pages = 275–95 | date = July 2005 | pmid = 16105251 | doi = 10.1093/jat/29.5.275 | doi-access = free }}</ref> It is found in some drug detox products.
+
+Recently, it has been demonstrated that papain can be used to assemble [[thin films]] of [[titanium dioxide|titania]] used in [[photovoltaics|photovoltaic cells]].<ref name="doi:10.1039/C8TB00381E">{{cite journal | vauthors = Bawazer LA, Ihli J, Levenstein MA, Jeuken LJ, Meldrum FC, McMillan DG | title = Enzymatically-controlled biomimetic synthesis of titania/protein hybrid thin films | journal = Journal of Materials Chemistry B | volume = 6 | issue = 23 | pages = 3979–3988 | date = June 2018 | pmid =  32254326| doi = 10.1039/C8TB00381E | url = http://eprints.whiterose.ac.uk/131298/1/Papain%20Symplectic.pdf }}</ref>
+
+Papain has also been used to create a degenerated disc disease model to assess various types of injectable therapies.<ref>{{cite journal | vauthors = Chan SC, Bürki A, Bonél HM, Benneker LM, Gantenbein-Ritter B | title = Papain-induced in vitro disc degeneration model for the study of injectable nucleus pulposus therapy | journal = The Spine Journal | volume = 13 | issue = 3 | pages = 273–83 | date = March 2013 | pmid = 23353003 | doi = 10.1016/j.spinee.2012.12.007 }}</ref><ref>{{cite journal | vauthors = Roberts S, Menage J, Sivan S, Urban JP | title = Bovine explant model of degeneration of the intervertebral disc | journal = BMC Musculoskeletal Disorders | volume = 9 | issue = 1 | pages = 24 | date = February 2008 | pmid = 18298830 | pmc = 2266744 | doi = 10.1186/1471-2474-9-24 }}</ref>
+
+==Immunoglobulins==
+[[File:2fab fc.svg|thumb|The papain-digested antibody: two [[Fab fragment]]s and an [[Fc fragment]].]]
+An [[antibody]] digested by papain yields three fragments: two 50&nbsp;kDa [[Fab fragment]]s and one 50&nbsp;kDa [[Fc fragment]].  The papain-digested antibody is unable to promote [[agglutination (biology)|agglutination]], [[protein precipitation|precipitation]], [[opsonization]], and [[lysis]].
+
+==Production==
+Papain is usually produced as a crude, dried material by collecting the [[latex]] from the fruit of the papaya tree. The latex is collected after scoring the neck of the fruit, where it may either dry on the fruit or drip into a container. This latex is then further dried. It is now classified as a dried, crude material. A purification step is necessary to remove contaminating substances. This purification consists of the solubilization and extraction of the active papain enzyme system through a government-registered process. This purified papain may be supplied as powder or as liquid.
+
+== US restrictions on marketing ==
+{{See also|Proteases (medical and related uses)}}
+
+On September 23, 2008, the US [[Food and Drug Administration]] (FDA) warned companies to stop marketing [[Human eye|ophthalmic]] balanced salt solutions and topical drug products containing papain by November 4, 2008. The FDA said, "Papain-containing drug products in topical form historically have been marketed without approval...".<ref name="urlwww.fda.gov">{{cite web | url = https://www.fda.gov/OHRMS/DOCKETS/98fr/FDA-2008-N-0481-n.pdf | title = Topical Drug Products Containing Papain; Enforcement Action Dates | author = Shuren J | date = 2008-09-22 | publisher = United States Food and Drug Administration, Department of Health and Human Services | archive-url = https://web.archive.org/web/20170301223514/https://www.fda.gov/OHRMS/DOCKETS/98fr/FDA-2008-N-0481-n.pdf| archive-date = 1 March 2017}}</ref> According to the FDA's statement on the subject, "These unapproved products have put consumers' health in jeopardy, from reports of permanent vision loss with unapproved balanced salt solutions to a serious drop in blood pressure and increased heart rate from the topical papain products," said [[Janet Woodcock]], director for the [[Center for Drug Evaluation and Research]].
+
+===Unapproved topical papain products===
+Topical drug ointments containing papain are used to remove dead or contaminated tissue in acute and chronic lesions, such as diabetic ulcers, pressure ulcers, varicose ulcers, and traumatic infected wounds. Trade names for these products include Accuzyme, Allanfil, Allanzyme, Ethezyme, Gladase, Kovia, Panafil, Pap Urea, and Ziox. Other products are marketed under the names of the active ingredients, for instance, papain-urea ointment.
+
+In 2008 the FDA announced its intention to take action against these products because it had received reports of serious adverse events in patients using products containing papain. Reports included hypersensitivity (allergic) reactions that lead to hypotension (low blood pressure) and [[tachycardia]] (rapid heart rate). In addition, people allergic to latex can also be allergic to papaya, the source of papain, implying that people with latex sensitivity may be at increased risk of suffering an adverse reaction to a topical papain drug product.
+
+FDA recommended that people with concerns about using topical papain preparations contact their health care provider about discontinuing use.
+
+==Human cysteine proteases from papain family ==
+[[CTSB]];      [[Cathepsin C|C]]TSC;      [[CTSF]];      [[CTSH (gene)|CTSH]];      [[CTSK]];      [[CTSL1]];     [[CTSL2]];
+[[CTSL3]];     [[CTSO]];      [[Cathepsin S|CTSS]];      [[Cathepsin W|CTSW]];      [[CTSZ]].
+
+== See also ==
+*[[Bromelain]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* The [[MEROPS]] online database for peptidases and their inhibitors: [http://merops.sanger.ac.uk/cgi-bin/merops.cgi?id=C01.001 C01.001]
+* {{MeshName|Papain}}
+*[http://www.drugdigest.org/DD/DVH/HerbsWho/0,3923,552451%7CPapain,00.html drugdigest]- info on papin
+*[http://www.sigmaaldrich.com/Area_of_Interest/Biochemicals/Enzyme_Explorer/Analytical_Enzymes/Papain.html Papain Applications, Inhibitors and Substrates]
+*[https://web.archive.org/web/20140715224627/http://www.biozym.de/datasheets/papain.php Data sheet-Papain from BIOZYM]
+*[http://www.proteopedia.org/wiki/index.php/Papain Papain on Proteopedia (wiki with more protein specific info)]
+* {{PDBe-KB2|P00784|Papain}}
+
+{{Authority control}}
+{{Cysteine proteases}}
+{{Enzymes}}
+{{Portal bar|Biology|border=no}}
+
+[[Category:EC 3.4.22]]
+[[Category:Peptidase]]
+[[Category:Hydrolases]]
+[[Category:Food additives]]
+[[Category:Dietary supplements]]
+[[Category:Articles containing video clips]]

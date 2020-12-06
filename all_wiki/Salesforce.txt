@@ -1,0 +1,441 @@
+{{Short description|American software company}}
+{{Advert|date=May 2020}}
+{{Use mdy dates|date=November 2018}}
+{{Infobox company
+| name             = salesforce.com, Inc.
+| logo             = Salesforce logo.svg
+| image            = Salesforce Tower SF 2017.jpg
+| image_caption    = [[Salesforce Tower]] in San Francisco
+| trade_name       = Salesforce
+| type             = [[Public company|Public]]
+| traded_as        = {{ubl|{{NYSE|CRM}}|[[DJIA]] component|[[S&P 100]] component|[[S&P 500]] component}}
+| industry         = {{Flatlist|
+* [[Cloud computing]]
+* [[Software]]
+}}
+| foundation       = {{Start date and age|1999|2|3}}
+| location         = [[Salesforce Tower]]<br />[[San Francisco, California]], U.S.
+| key_people       = [[Marc Benioff]]<br /><small>([[Chairman]], CEO)</small><br />Parker Harris<br /><small>([[Co-Founder]])</small>
+| products         = Sales Cloud<br />Service Cloud<br />Platform<br />Marketing Cloud<br />Commerce Cloud<br />Community Cloud
+| services         = [[Cloud computing]]
+| revenue          = {{Increase}} {{US$|17.1 billion|link=yes}} (2020)<ref name="xbrlus_1">{{Cite web |url=https://www.sec.gov/ix?doc=/Archives/edgar/data/1108524/000110852420000014/crm-20200131.htm |title=salesforce.com, inc. 2020 Annual Report Form (10-K) |website=EDGAR |publisher=United States Securities and Exchange Commission |date=March 5, 2020 |access-date=March 6, 2020}}</ref>
+| operating_income = {{Decrease}} {{US$|297 million}} (2020)<ref name="xbrlus_1" />
+| net_income       = {{Decrease}} {{US$|126 million}} (2020)<ref name="xbrlus_1" />
+| assets           = {{nowrap| {{Increase}} {{US$|55.13 billion}} (2020)<ref name="xbrlus_1" /> }}
+| equity           = {{Increase}} {{US$|33.89 billion}} (2020)<ref name="xbrlus_1" />
+| founders         = [[Marc Benioff]]<br />Parker Harris<br />Dave Moellenhoff<br />Frank Dominguez<br /><ref>Statement|publisher=U.S. Securities and Exchange Commission|access-date=June 5, 2017}}</ref>
+| num_employees    = 49,000 (2020)<ref name="xbrlus_1" />
+| subsid           = [[Quip (software)|Quip]]<br />[[Demandware]]<br />[[Heroku]]<br />[[MuleSoft]]<br />[[Tableau Software]]<br />[[Slack Technologies]]
+| website          = {{URL|salesforce.com}}
+}}
+
+'''Salesforce.com, Inc.''' is an American cloud-based software company headquartered in [[San Francisco, California]]. It provides [[customer relationship management]] (CRM) service and also sells a complementary suite of enterprise applications focused on customer service, marketing automation, analytics, and application development. 
+
+In 2020, ''[[Fortune (magazine)|Fortune]]'' magazine ranked Salesforce at number six on its list, "[[100 Best Companies to Work For]]," based on an employee survey of satisfaction.<ref>{{cite web|url=https://www.businessinsider.com/best-companies-to-work-for-based-on-employee-satisfaction-fortune-2020-2|title=The 25 best companies to work for, based on employee satisfaction|publisher=[[Business Insider]]|author=Jessica Snouwaert|access-date=April 1, 2020}}</ref>
+
+==History==
+The company was founded on February 3, 1999 by former [[Oracle Corporation|Oracle]] executive [[Marc Benioff]], together with Parker Harris, Dave Moellenhoff, and Frank Dominguez as a [[software as a service]] (SaaS) company, and was launched publicly between September and November 1999.<ref name="Babcock 2009-12-29">{{Cite web
+| url=http://www.informationweek.com/cloud/salesforcecoms-wizard-was-parker-harris-and-team/d/d-id/1085826
+| title=Salesforce.com's Wizard Was Parker Harris & Team
+| first=Charles |last=Babcock
+| work=InformationWeek |date=December 29, 2009
+| access-date=November 1, 2015}}</ref><ref>{{Cite web
+| url=http://www.buttonclickadmin.com/parker-harris-co-founding-salesforce-com
+| title=Parker Harris on Co-Founding Salesforce.com
+| first=Mike |last=Gerholdt
+| work=ButtonClick Admin
+| publisher=Salesforce.com
+| date=October 17, 2013
+| access-date=November 1, 2015}}</ref>
+
+In June 2004, the company had its [[initial public offering]] on the [[New York Stock Exchange]] under the stock symbol CRM and raised US$110&nbsp;million.<ref name="Compton 2004-06-23">{{Cite web
+| url=http://www.destinationcrm.com/Articles/CRM-News/Daily-News/Salesforce.com-IPO-Raises-$110-Million-44252.aspx
+| title=Salesforce.com IPO Raises $110&nbsp;million
+| first=Jason |last=Compton
+| work=Destination CRM.com
+| date=June 23, 2004
+| access-date=November 1, 2015}}</ref> Early investors include [[Larry Ellison]], Magdalena Yesil, [[Halsey Minor]], Stewart Henderson, Mark Iscaro, and Igor Sill, a founding member of Geneva Venture Partners.
+
+In October 2014, Salesforce announced the development of its Customer Success Platform to tie together Salesforce's services, including sales, service, marketing, analytics, community, and mobile apps.<ref>{{Cite web
+| title = Marc Benioff Announces Salesforce Customer Success Platform, Analytics Cloud
+| url = https://www.salesforce.com/blog/2014/10/marc-benioff-analytics-cloud.html
+| website = Salesforce Blog |first= Laura
+| last=Fagan
+| date=October 14, 2014
+| access-date = November 1, 2015}}</ref> In October 2017, Salesforce launched a [[Facebook]] Analytics tool for [[Business marketing|business-to-business marketers]].<ref>{{Cite web|url=https://www.mediapost.com/publications/article/308530/salesforce-launches-facebook-analytics-tool-for-b2.html|title=Salesforce Launches Facebook Analytics Tool For B2B Marketers|website=Mediapost.com|language=en|access-date=October 18, 2017}}</ref><ref>{{Cite news|url=http://www.moneyhealthfinance.com/salesforce-com-launches-lead-analytics-for-facebook/|title=Salesforce.com Launches Lead Analytics for Facebook – Money Health Finance|date=October 11, 2017|work=Money Health Finance|access-date=October 18, 2017|language=en-US}}</ref> In September 2018, Salesforce partnered with [[Apple Inc.|Apple]] intended on improving apps for businesses.<ref>{{Cite news|url=https://www.wsj.com/articles/salesforce-partners-with-apple-for-business-apps-1537801889|title=Salesforce Partners With Apple for Business Apps|last=Chin|first=Kimberly|date=September 24, 2018|work=Wall Street Journal|access-date=September 25, 2018|language=en-US|issn=0099-9660}}</ref>
+
+In February 2020, co-chief executive officer Keith Block stepped down from his position in the company. [[Marc Benioff]] remained as chairman and chief executive officer.<ref>{{Cite web|url=https://www.wishtv.com/news/business/salesforce-leader-steps-down-as-software-company-reports-2020-revenue/|title=Salesforce leader steps down as software company reports 2020 revenue|last=Reports|first=Staff|date=2020-02-25|website=WISH-TV {{!}} Indianapolis News {{!}} Indiana Weather {{!}} Indiana Traffic|language=en-US|access-date=2020-02-28}}</ref>
+
+On December 1, 2020, it was announced that Salesforce would acquire [[Slack Technologies|Slack]] for 27.7 billion USD.<ref>{{Cite web|url= https://www.theverge.com/2020/12/1/21719666/salesforce-slack-acquisition-purchase-announced|title=Salesforce is acquiring workplace chat app Slack for $27.7 billion|website=The verge.com|language=en|access-date=2020-12-01}}</ref>
+
+== Services ==
+Salesforce.com's [[customer relationship management]] (CRM) service comprises several broad categories: Commerce Cloud, Sales Cloud,<ref>{{Cite web|last=Lager |first=Marshall |url=http://www.destinationcrm.com/Articles/CRM-News/Daily-News/Salesforce.com-Expands-the-Cloud-to-Sales-52602.aspx |title=Salesforce.com Expands the Cloud to Sales – CRM Magazine |website=Destinationcrm.com |date=February 10, 2009 |access-date=February 1, 2012}}</ref> Service Cloud,<ref>{{Cite web|url=http://www.techcrunchit.com/2009/01/14/salesforcecom-launches-the-service-cloud-a-customer-service-saas-application/ |title=Salesforce.com Launches The Service Cloud, A Customer Service SaaS Application &#124; TechCrunch |website=Techcrunchit.com |date=January 14, 2009 |access-date=February 1, 2012}}</ref> Data Cloud<ref>{{Cite web|first=Ben |last=Kepes |url=http://gigaom.com/cloud/salesforce-integrates-jigsaw-refining-contact-data/ |title=Salesforce Integrates Jigsaw - Refining Contact Data - Cloud Computing News |website=Gigaom.com |date=September 1, 2010 |access-date=February 1, 2012}}</ref> (including [[#Data-dot-com|Jigsaw]]), [[Salesforce Marketing Cloud|Marketing Cloud]], Community Cloud<ref>{{Cite web|last=Diana |first=Alison |url=http://www.informationweek.com/news/storage/disaster_recovery/showArticle.jhtml?articleID=225700975 |title=Salesforce.com Launches Chatter Collaboration Tool – Storage – Disaster recovery/business continuity |work=InformationWeek |date=June 22, 2010 |access-date=February 1, 2012}}</ref> (including Chatter), Analytics Cloud,<ref>{{Cite web|last1=Dignan|first1=Larry|title=Salesforce launches Wave analytics cloud, boosts enterprise reach|url=http://www.zdnet.com/article/salesforce-launches-wave-analytics-cloud-boosts-enterprise-reach/|publisher=ZDNet|access-date=February 10, 2015}}</ref> App Cloud, and IoT with over 100,000 customers.<ref>{{Cite web|url=http://www.capterra.com/customer-relationship-management-software/#infographic |title=Top Customer Relationship Management Software &#124; 2014 Reviews of the Best Systems |website=Capterra.com |date=February 25, 2013 |access-date=March 24, 2014}}</ref>
+
+=== Active ===
+==== Salesforce ====
+Salesforce is the primary enterprise offering within the Salesforce platform. It provides companies with an interface for case management and task management, and a system for automatically routing and escalating important events. The Salesforce customer portal provides customers the ability to track their own cases, includes a social networking [[Plug-in (computing)|plug-in]] that enables the user to join the conversation about their company on [[Social networking service|social networking Web sites]], provides analytical tools and other services including email alert, Google search, and access to customers' entitlement and contracts.<ref>{{Cite web|url=https://techcrunch.com/2009/09/08/everything-you-need-to-know-about-salesforces-service-cloud-2/|title=Everything You Need To Know About Salesforce's Service Cloud 2|last=Rao|first=Leena|date=September 8, 2009|publisher=TechCrunch|access-date=September 29, 2013}}</ref>
+
+==== Lightning Platform ====
+Lightning Platform<ref>{{Cite web|url=https://developer.salesforce.com/platform|title=Salesforce Lightning Platform {{!}} The Leading Enterprise PaaS {{!}} Salesforce Developers|website=developer.salesforce.com|access-date=January 29, 2018}}</ref> (also known as Force.com) is a [[platform as a service]] (PaaS) that allows developers to create add-on applications that integrate into the main Salesforce.com application.<ref>{{Cite news|url=https://www.nytimes.com/idg/IDG_002570DE00740E180025742400363509.html|title=What Cloud Computing Really Means|date=April 7, 2008|newspaper=[[The New York Times]]|first1=Eric|last1=Knorr|first2=Galen|last2=Gruman|agency=[[International Data Group|IDG]]|access-date=January 23, 2015}}</ref>{{Failed verification|date=November 2017}} These third-party applications are hosted on Salesforce.com's infrastructure.<ref>{{Cite web|url=http://www.eweek.com/c/a/Enterprise-Apps/Salesforcecom-Unveils-Forcecom-Cloud-Computing-Architecture/|title=Salesforce.com Unveils Force.com Cloud Computing Architecture|website=Eweek.com}}</ref>
+
+Force.com applications are built using declarative tools, backed by Lightning{{Explain|date=November 2017}} and Apex (Application Express), a proprietary [[Java (programming language)|Java]]-like programming language for Force.com,<ref>{{Cite news|url=https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm|title=What is Apex? {{!}} Apex Developer Guide {{!}} Salesforce Developers|access-date=November 7, 2017}}</ref> as well as Visualforce, a framework<ref>{{Cite news|url=https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_intro_what_is_it.htm|title=What is Visualforce? {{!}} Visualforce Developer Guide {{!}} Salesforce Developers|access-date=November 7, 2017}}</ref> including an XML<ref>{{Cite web|url=http://www.salesforce.com/docs/developer/pages/Content/pages_quick_start_compile_requirements.htm|title=Compiling Visualforce Successfully|website=Salesforce.com}}</ref> syntax typically used to generate [[HTML]]. The Force.com platform typically receives three complete releases a year.<ref>{{Cite web|url=https://developer.salesforce.com/page/App_Distribution#Official_Salesforce_Documentation|title=App Distribution - developer.force.com|website=developer.salesforce.com|language=en|access-date=November 7, 2017}}</ref> As the platform is provided as a service to its developers, every single development instance also receives all these updates.
+
+In the Spring 2015 release a new framework for building user interfaces – Lightning Components – was introduced in beta.<ref>{{Cite web|url = http://docs.releasenotes.salesforce.com/en-us/spring15/release-notes/rn_lightning.htm|title = Salesforce Spring15 Release Notes|access-date = January 26, 2015|publisher =Salesforce.com}}</ref> Lightning components are built using the open-source Aura Framework<ref>{{Cite web|url = https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/intro_open_source.htm|title = Lightning Developer Guide: Open Source Aura Framework|access-date = January 26, 2015|publisher =Salesforce.com}}</ref> but with support for Apex as the server-side language instead of Aura's [[JavaScript|Javascript]] dependency. This has been described as an alternative to, not necessarily a replacement for, Visualforce pages.<ref>{{Cite web|url = https://developer.salesforce.com/page/Lightning_FAQ#Visualforce_and_Lightning|title = Lightning FAQ: Visualforce and Lightning|access-date = January 26, 2015|publisher =Salesforce.com}}</ref>
+
+According to September 2009 [[Gartner|Gartner Group]] report,<ref>{{Cite web|url=http://www.gartner.com/DisplayDocument?id=1180217|title=Who's Who in Application Platforms for Cloud Computing: The Cloud Specialists|date=September 16, 2009|publisher=Gartner}}</ref> Force.com had over 1,000 customer accounts. As of 2013, the Force.com platform has 1.4 million registered developers.<ref>{{Cite AV media|url=https://www.youtube.com/watch?v=KELBWQIVcfk|title=Developer Keynote: Build Next Generation Apps|date=November 21, 2013|publisher=[[YouTube]]}}</ref>
+
+Lightning Base Components is the component library built on top of Lightning Web Components.<ref>{{Cite web|url=https://developer.salesforce.com/blogs/2019/11/df19-developer-keynote-highlights.html|title=#DF19 Developer Keynote Highlights|date=2019-11-20|website=Salesforce Developers Blog|language=en-US|access-date=2019-12-05}}</ref>
+
+==== Community Cloud ====
+Community Cloud provides Salesforce customers the ability to create online web properties for external collaboration, customer service, channel sales, and other custom portals in their instance of Salesforce. Tightly integrated to Sales Cloud, Service Cloud, and App Cloud, Community Cloud can be quickly customized to provide a wide variety of web properties. Community Cloud combines the functionality of the former Salesforce Customer and Partner Portals with some additional features.<ref>{{cite web|url=https://www.salesforce.com/products/community-cloud/faq/|title=Community Cloud FAQ|publisher=Salesforce.com|access-date=2019-10-04}}</ref>
+
+==== Work.com ====
+Work.com, previously '''Rypple''', is a social performance management platform that helps managers and employees improve work performance through continuous coaching, real-time feedback, and recognition.<ref>{{Cite web|last=Berkow|first=James|title=HR industry feels Rypple effect|url=http://www2.canada.com/edmontonjournal/story.html?id=e47cbc72-7f06-437e-bea2-d470e9c4fb30|work=Edmonton Journal|access-date=October 14, 2010}}</ref> It is marketed as a solution for [[sales management|sales performance]], [[customer service]], [[marketing]], and as a service that can be employed by [[human resource management|human resource departments]].
+
+Work.com, then known as "Rypple", was founded by Daniel Debow and David Stein, who wanted to create a simple way of asking for feedback anonymously at work.<ref>{{Cite web|last=Abbott|first=Kate|title=How I Got Here: Salesforce Rypple's Daniel Debow|url=http://www.businessweek.com/articles/2012-06-27/how-i-got-here-salesforce-rypples-daniel-debow|work=Bloomberg BusinessWeek|access-date=June 27, 2012}}</ref> The company was formed in May 2008 and their client list included [[Mozilla]], [[Facebook]], [[LinkedIn]] and the [[Gilt Groupe]]. Rypple "'reverses the onus on the demand for more feedback' by getting employees to build and manage their own coaching networks".<ref>{{Cite news|title=The Rypple effect|url=https://www.economist.com/node/12863565|work=The Economist|access-date=December 30, 2008}}</ref>
+
+In September 2011, Rypple announced that they had hired Bohdan Zabawskyj as its Chief Technology Officer.<ref>{{Cite web|title=Introducing Rypple's New CTO... Bohdan Zabawskyj|url=http://work.com/blog/2011/09/introducing-bohdan-zabawskyj-rypples-new-vp-engineering/|website=Work.com|access-date=January 9, 2014|url-status=dead|archive-url=https://web.archive.org/web/20140110090251/http://work.com/blog/2011/09/introducing-bohdan-zabawskyj-rypples-new-vp-engineering/|archive-date=January 10, 2014}}</ref>
+
+In 2011, Rypple developed a more formalized management methodology called [[OKR]] ("Objectives and Key Results") for [[Spotify]].<ref>{{Cite news|last=Clark|first=Don|title=Spotify Rallies Workers With Help From Rypple|url=https://blogs.wsj.com/digits/2011/12/13/spotify-rallies-workers-with-help-from-rypple/|work=The Wall Street Journal|access-date=December 13, 2011}}</ref> Rypple also partnered with Facebook to create "Loops", short for "feedback loops", which gathers feedback from co-workers, "thank you's", progress against goals, and coaching from supervisors into one channel for a "rich, robust, continuous performance review".<ref>{{Cite news|last=Goetz|first=Thomas|title=How Facebook Uses Feedback Loops: Meet Rypple|url=https://www.wired.com/business/2011/06/facebook-uses-feedback-loops/|work=Wired|access-date=June 20, 2011|date=June 20, 2011}}</ref>
+
+In December 2011, Salesforce.com announced that they would acquire Rypple. The transaction was completed in 2012 and Rypple was rebranded as Work.com in September 2012.<ref>{{Cite web|last=Rao|first=Leena|title=Salesforce Debuts Rypple-Powered Work.com To Help Companies Manage Talent, Partners With Facebook|url=https://techcrunch.com/2012/09/19/salesforce-debuts-rypple-powered-work-com-to-help-companies-manage-talent/|publisher=Techcrunch|access-date=February 15, 2013}}</ref>
+
+====AppExchange====
+Launched in 2005, the Salesforce AppExchange is an online [[app store|application marketplace]] for third-party applications that run on the Force.com platform. Applications are available for free, as well as via yearly or monthly subscription models. Applications available range from integrations with [[SharePoint]] to mobile approval management.<ref>{{Cite web|url=http://www.salesforce.com/appexchange/ |title=AppExchange – Home |website=Salesforce.com |date=March 1, 2011 |access-date=July 17, 2013}}</ref> As of June 2016, it features 2,948 applications which have driven 3+ million installs.<ref>{{Cite web|url=https://appexchange.salesforce.com/ |title=AppExchange – Home |website=Appexchange.salesforce.com|access-date=February 6, 2015}}</ref> The "AppExchange" is also a place customers can search for cloud consulting partners to help them implement the technology in their own organization. Cloud consulting partners for Salesforce include large companies like [[IBM]]'s "Bluewolf" and [[Accenture]] as well as smaller ones like [[Cloudreach]].<ref>{{Cite web|url=https://appexchange.salesforce.com/consulting/top |title=AppExchange- Consulting Top Partners |website=Salesforce.com |access-date=July 5, 2017}}</ref>
+
+==== myTrailhead ====
+Announced in 2017 and launched in 2019, Salesforce's myTrailhead is an online training platform that can be customized for the specific needs of its customers. The platform extends functionality which Salesforce built to provide users with training content specific to their usage of Salesforce and enables users to create and publish their own training content and programs.<ref> https://www.salesforce.com/products/mytrailhead/overview/ </ref>
+
+==== Blockchain platform ====
+Announced on May 29, 2019,<ref>{{Cite web|url=https://twitter.com/SalesforceforIT/status/1133780085104926722|title=Introducing Salesforce Blockchain: The fast and easy way to create trusted partner networks|last=Platform|first=Salesforce|date=2019-05-29|website=@SalesforceforIT|language=en|access-date=2019-06-05}}</ref> Salesforce launched a blockchain platform<ref>{{Cite web|url=https://www.salesforce.com/products/platform/products/blockchain/|title=Blockchain|website=Salesforce.com|language=en|access-date=2019-06-05}}</ref> based on [[Hyperledger#Hyperledger Sawtooth|Hyperledger Sawtooth]] to facilitate building blockchain network and apps integrated with CRM.<ref>{{Cite web|url=https://venturebeat.com/2019/05/29/salesforce-blockchain-lets-customers-create-blockchain-networks-workflows-and-apps-without-having-to-write-code/|title=Salesforce Blockchain enables code-free blockchain networks, workflows, and apps|date=2019-05-29|website=VentureBeat|language=en-US|access-date=2019-06-05}}</ref><ref>{{Cite web|url=https://www.techradar.com/news/salesforce-launches-blockchain-channel|title=Salesforce launches blockchain channel|last=Computing|first=Anthony Spadafora 2019-05-30T22:58:41Z|website=TechRadar|language=en|access-date=2019-06-05}}</ref><ref>{{Cite web|url=https://www.computerworld.com/article/3399961/salesforce-offers-blockchain-lite-to-entice-users.html|title=Salesforce offers blockchain lite to entice users|last=Mearian|first=Lucas|date=2019-06-03|website=Computerworld|language=en|access-date=2019-06-05}}</ref><ref>{{Cite news|url=https://www.bloomberg.com/news/articles/2019-06-04/salesforce-projects-revenue-showing-continued-strong-growth|title=Salesforce Projects Revenue Showing Continued Strong Growth|date=2019-06-04|access-date=2019-06-05|language=en}}</ref>
+
+Salesforce, announced in April 2019 a blockchain offering on top of Hyperledger Sawtooth<ref>{{Cite web|url=https://www.forbes.com/sites/justinoconnell/2019/11/01/how-salesforce-is-using-blockchain-to-decentralize-data--hyperledgers-role/|title=How Salesforce Is Using Blockchain To Decentralize Data & Hyperledger’s Role|last=O'Connell|first=Justin|website=Forbes|language=en|access-date=2019-12-15}}</ref>
+
+=== Retired or end-of-life ===
+===={{Anchor|Data-dot-com}}Data.com====
+Data.com, previously known as Jigsaw, was a cloud-based automated system for acquiring and managing CRM records within a user's Salesforce.com account.<ref>{{Cite web|url=http://outbound-call-center.tmcnet.com/topics/hosted-call-center/articles/69309-enterprise-customers-flocking-jigsaw-data-fusion.htm |title=Enterprise Customers Flocking to Jigsaw Data Fusion |website=Outbound-call-center.tmcnet.com |date=November 19, 2009 |access-date=June 27, 2011}}</ref>
+
+Data.com was also an online business directory of companies and business professionals that is built, maintained and accessed by a worldwide community of over a million subscribers.,<ref>{{cite news|url=https://www.sfgate.com/business/article/Jigsaw-Data-not-a-company-that-follows-standards-2553108.php|title=Jigsaw Data not a company that follows standards|first=Dan|last=Fost|newspaper=San Francisco Chronicle|date=September 5, 2006}}</ref> The information consisted of what is commonly found on a [[business card]].
+
+Data.com competitors included services such as [[Dun & Bradstreet]]/Avention and [[ZoomInfo]].
+
+Data.com was made up of three products: Data.com Connect, Data.com Clean and Data.com Prospector.{{Citation needed|date=June 2020}}
+
+In April 2018, Salesforce announced it would retire Data.com Connect on May 4, 2019.<ref>{{Cite web|url=https://community.data.com/t5/Blogs/Important-Changes-Coming-to-Data-com-Connect/ba-p/328106|title=Important Changes Coming to Data.com Connect|date=April 17, 2018|website=Community.data.com|access-date=October 9, 2018}}</ref>
+
+Salesforce also announced it will wind down Data.com Clean and Data.com Prospector, and these services will close on July 31, 2020.<ref>{{Cite web|url=https://help.salesforce.com/articleView?id=000270376&type=1|title=Data.com Clean and Prospector Retirement|website=Help.salesforce.com|access-date=January 22, 2019}}</ref>
+
+==== Desk.com ====
+Desk.com is a [[software as a service|saas]] [[help desk]] and [[customer support]] product accessible through the cloud. Desk.com is owned by Salesforce.com and was previously known as Assistly. Desk.com is headquartered in [[San Francisco, California]].
+
+After being acquired by Salesforce.com for $50 million in 2011<ref name="Techcrunch">{{Cite web |url=https://techcrunch.com/2011/09/21/salesforce-buys-social-customer-service-saas-startup-assistly-for-50m-in-cash/ |title=Salesforce Buys Customer Service SaaS Assistly For $50M To Reach Small Businesses |publisher=Techcrunch |access-date=September 21, 2011}}</ref> Assistly was re-branded as Desk.com in 2012<ref name="Desk.com">{{Cite web |url=http://www.desk.com/blog/assistly-deskcom/ |title=Assistly Is Now Desk.com |website=Desk.com |access-date=December 30, 2012}}</ref> as a [[customer support]] [[software]].<ref name="Venturebeat">{{Cite web |url=https://venturebeat.com/2012/01/30/desk-com-salesforce-social-customer-support-assistly/ |title=Salesforce launches Desk.com, slick social customer support software based on Assistly |website=Venturebeat.com|access-date=January 30, 2012}}</ref>
+
+Desk.com is a Saas customer service application. The product differentiates itself from Salesforce's other service platform in that Desk.com specifically targets small businesses with its features and functions.<ref name="PC World">{{Cite web |url=http://www.pcworld.com/article/2943232/salesforce-sweetens-the-deal-for-growing-smbs-with-new-deskcom-edition.html |title=Salesforce sweetens the deal for growing SMBs with new Desk.com edition |publisher=PC World |access-date=January 7, 2015}}</ref> Desk.com integrates with a variety of products and third-party applications including Salesforce CRM, Salesforce IQ,<ref name="Salesforce">{{Cite web |url=http://www.salesforce.com/salesforceiq/overview/ |title=Customer Relationship Software for Small Businesses |website=Salesforce.com |access-date=February 1, 2015}}</ref> Atlassian JIRA, Mailchimp<ref name="Mailchimp">{{Cite web |url=https://www.desk.com/apps/mailchimp |title=Mailchimp for Desk.com |website=Desk.com |access-date=February 1, 2015}}</ref> and other apps. Desk.com also supports up to 50 languages.<ref name="Computerworld">{{Cite web |url=http://www.computerworld.com/article/2889457/salesforces-deskcom-steps-up-global-focus.html |title=Desk.com steps up global focus |website=Computerworld.com |access-date=February 26, 2015}}</ref>
+
+Salesforce announced the retirement of desk.com, replacing it with Service Cloud Lightning. After March 13, 2018 no new desk.com licenses were sold, and the retirement date was announced as March 13, 2020.<ref>{{Cite web|url=https://support.desk.com/customer/en/portal/articles/2927444-desk-to-service-cloud-product-update-faqs|title=Desk to Service Cloud Product Update FAQ...|website=Support.desk.com|access-date=October 9, 2018}}</ref>
+
+==== Do.com ====
+Do.com was a cloud-based [[task management]] system for small groups and businesses, introduced in 2011 and discontinued in 2014.<ref>[https://venturebeat.com/2011/11/08/salesforce-com-debuts-do-com-its-take-on-the-social-productivity-app/ Salesforce debuts Do.com, a smart social productivity app for small teams], [[VentureBeat]] News</ref><ref>{{Cite web|url=https://thenextweb.com/insider/2013/10/25/salesforce-shut-social-productivity-app-com-january-31-2014/|title=Salesforce to Shut Down Social Productivity App Do.com on January 31|first=Emil |last=Protalinski|date=October 25, 2013|work=The Next Web}}</ref><ref>[http://www.citeworld.com/article/2114662/sales-marketing-tech/salesforce-to-shut-down-do-com-task-management-service.html?null Salesforce to shut down Do.com task management service], CiteWorld</ref> Salesforce did not offer any reason for shutting down the service, however, it provided an Export tool to save data entered within the Do.com interface. The Do.com domain was sold to a startup in 2014.<ref>[http://domainnamewire.com/2014/07/07/salesforce-com-sells-do-com-domain-name-to-startup/ Salesforce.com sells Do.com domain name to startup], DomainNameWire</ref>
+
+===Configuration===
+Salesforce users can configure their CRM application. In the system, there are tabs such as "Contacts," "Reports," and "Accounts." Each tab contains associated information. Configuration can be done on each tab by adding user-defined custom fields.<ref>{{Cite web |url=http://www.oreillynet.com/pub/a/network/2006/11/13/an-introduction-to-saleforcecoms-appexchange.html |work=O'Reilly Network |title=An Introduction to Salesforce.com's AppExchange |date=November 13, 2006 |last=Stubblebine |first=Tony}}</ref>
+
+Configuration can also be done at the "platform" level by adding configured applications to a Salesforce instance, that is adding sets of customized / novel tabs for specific vertical- or function-level (Finance, Human Resources, etc.) features.
+
+===Web services===
+In addition to the web interface, Salesforce offers a [[SOAP]]/[[Representational state transfer|REST]] [[Web service]] [[application programming interface]] (API) that enables integration with other systems.<ref>{{cite web |title=Field Types {{!}} SOAP API Developer Guide {{!}} Salesforce Developers |url=https://developer.salesforce.com/docs/atlas.en-us.226.0.api.meta/api/field_types.htm |website=developer.salesforce.com |access-date=5 August 2020}}</ref><ref>{{cite news |title=Salesforce Offers REST & SOAP API for 3rd Party App Integration |url=https://kennected.org/salesforce-api-integration-rest-soap/ |access-date=5 August 2020 |work=Kennected |date=29 July 2020}}</ref>
+
+==Technologies==
+Salesforce works on [[Model–view–controller]] architecture.
+
+===Apex===
+Apex is a proprietary programming language provided by the Force.com platform to developers similar to [[Java (programming language)|Java]] and [[C Sharp (programming language)|C#]]. It is a strongly typed, object-oriented, case-insensitive programming language, following a dot-notation and curly-brackets syntax. Apex can be used to execute programmed functions during most processes on the Force.com platform including custom buttons and links, event handlers on record insertion, update, or deletion, via scheduling, or via the custom controllers of Visualforce or Lightning Experience pages.
+
+Due to the multitenant nature of the platform, the language has strictly imposed governor limitations<ref>{{Cite web|url=https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm |title=Salesforce Developers |website=Salesforce.com |access-date=July 5, 2017}}</ref> to guard against any code monopolizing shared resources. Salesforce provides a series of [[Asynchrony (computer programming)|asynchronous processing]] methods for Apex to allow developers to produce longer-running and more complex Apex code.<ref>{{Cite web|url=http://www.salesforce.com/us/developer/docs/async_processing/salesforce_async_processing.pdf |title=Asynchronous Processing in Force.com |website=Salesforce.com |access-date=July 6, 2017}}</ref>
+
+=== Lightning ===
+In 2014, Salesforce made public the [[Front and back ends|front end]] of its platform, called Lightning.<ref>{{Cite web|url=https://developer.salesforce.com/lightning|title=Lightning Platform|last=<!-- no byline -->|date=<!-- copyright 2000-2017 -->|website=Salesforce Developers|access-date=July 25, 2018}}{{Self-published source|date=July 2018}}</ref> This component-based framework is what the Salesforce mobile app is built on. Salesforce built on this framework in 2015 by releasing the Lightning Design System,<ref>{{Cite web|url=https://www.lightningdesignsystem.com/|title=Lightning Design System|last=<!-- no byline -->|date=June 29, 2018<!-- last modified, in page footer -->|website=Salesforce.com|access-date=July 25, 2018}}{{Self-published source|date=July 2018}}</ref> an HTML style framework with default CSS styling built in. This framework allows customers to build their own components to either use in their internal instances or sell on the AppExchange.
+
+The Salesforce Lightning App Builder is a tool for [[rapid application development]] of responsive web interfaces. This interface allows for different screens to be put together based on Lightning components. This can be used as layouts for records or specific applications.
+
+[https://blogs.emorphis.com/salesforce-lightning-vs-classic/ Lightning Experience], released in 2016, is the new redesigned interface in Salesforce for processes enhancement. Since then all the apps available on AppExchange need to be Lightning and those built on Classic have to migrate to Lightning as Classic is not to be updated any more by Salesforce. The platform offers an option for developers to employ migration techniques to enable the new user interface and switch to Lightning.<ref>{{cite web|url=https://trailhead.salesforce.com/en/content/learn/modules/lex_migration_introduction/lex_migration_introduction_whatis|title=Get Started with Lightning Experience|publisher=Salesforce.com|access-date=2019-08-27}}</ref>
+
+==Operations==
+[[File:SalesforceCustomerCompanyTour4.JPG|thumb|A discussion panel at Salesforce's ''Customer Company Tour'' event that focused on customer relationship management]]
+Salesforce<ref>{{Cite web|url= https://suyati.com/blog/how-salesforce-crm-works-and-uses/|title= What is Salesforce CRM |date=2014-02-11|website= Suyati.com |language=en-US}}</ref> is headquartered in San Francisco, with regional headquarters in [[Morges]], [[Switzerland]] (covering Europe, the [[Middle East]], and Africa, [[Singapore]]), India (covering Asia Pacific minus Japan), and [[Tokyo]] (covering Japan). Other major offices are in [[Toronto]], [[Chicago]], [[New York City]], [[London]], [[Sydney]], [[Dublin]], [[Hyderabad]], [[Vancouver]], [[San Mateo, California]], [[Salesforce Tower (Indianapolis)|Indianapolis]],<ref>{{Cite web|url=http://salesforcetowerindy.com/|title=Salesforce Tower|website=salesforcetowerindy.com|access-date=October 9, 2018}}</ref> and [[Hillsboro, Oregon]].<ref>{{Cite news|last=Hoge|first=Patrick|title=Salesforce.com set to move into the West's tallest office building|url=http://www.bizjournals.com/portland/morning_call/2014/04/salesforce-com-set-to-move-into-the-wests-tallest.html?page=all|access-date=April 12, 2014|newspaper=[[American City Business Journals|Portland Business Journal]]|date=April 11, 2014}}</ref> Salesforce.com has its services translated into 16<ref name="Read Write Web">{{Cite web |last=Finley |first=Klint |url=http://www.readwriteweb.com/enterprise/2010/12/beyond-babel.php |title=Beyond Babel: Language Support in Enterprise 2.0 Products |website=Readwriteweb.com |date=December 8, 2010 |access-date=February 1, 2012 |url-status=dead |archive-url=https://www.webcitation.org/610yADEeP?url=http://www.readwriteweb.com/enterprise/2010/12/beyond-babel.php |archive-date=August 17, 2011}}</ref> different languages and as of July 31, 2011, had 104,000<ref>{{Cite web|url=http://www.salesforce.com/company/ |title=CRM, the cloud, and the social enterprise |website=Salesforce.com |access-date=February 1, 2012}}</ref> customers and over 2.1 million subscribers.<ref>{{Cite web|title=History of Salesforce|url=http://salesforceprogrammers.com/article467-History_of_Salesforce_.html|work=Salesforce Programmers|publisher=Digital Marketing Solutions, LLC|access-date=July 4, 2011}}</ref> Salesforce moved its Midwest Regional headquarters to Indianapolis in 2017.
+[[File:Salesforce Tower New York.jpg|thumb|right|Salesforce Tower in New York City.]]
+[[Standard & Poor's]] included Salesforce, at the same time as [[Fastenal]], into the [[S&P 500 Index]] in September 2008, following the [[federal takeover of Fannie Mae and Freddie Mac]] and their removal from the index.<ref>{{Cite news | url=https://www.bloomberg.com/apps/news?pid=20601103&sid=abSHUiBFprac&refer=us |title=Salesforce.com, Fastenal to Replace Fannie, Freddie in S&P 500 |work=Bloomberg |date=September 9, 2008 |last=Martin |first=Eric}}</ref>
+
+=== Leadership ===
+* [[Marc Benioff]], Chairman & CEO, co-founder of the company (1999– )<ref>{{Cite news|url=https://techcrunch.com/2017/09/01/tech-giants-urge-trump-to-continue-daca-program/|title=Amazon, Facebook, Google and other tech giants urge Trump to continue DACA program|last=Russell|first=Jon|work=TechCrunch|access-date=September 14, 2017|language=en}}</ref>
+* Parker Harris, Co-Founder, oversees product strategy (1999– )<ref>{{Cite news|url=http://www.businessinsider.com/9-silicon-valley-leaders-that-didnt-study-engineering-2015-7|title=Not every Silicon Valley leader is an engineer, including these 9 super successful liberal arts majors|work=Business Insider|access-date=September 14, 2017|language=en}}</ref>
+* Bret Taylor, President, Chief Product Officer (2017– )<ref>{{Cite news|url=https://www.cnbc.com/2018/09/22/bret-taylor-salesforce-ex-google-facebook-profile.html|title=How Bret Taylor, a former Facebook and Google engineer, earned Marc Benioff's trust to become one of the most important execs at Salesforce|date=September 22, 2018|work=CNBC.com|access-date=September 22, 2018|language=en-us}}</ref>
+* Suzanne DiBianca, Executive Vice President, Corporate Relations and Chief Philanthropy Officer (2000– )<ref>{{Cite news|url=https://www.greenbiz.com/article/salesforce-blesses-san-franciscos-clean-energy-program|title=Salesforce blesses San Francisco's clean energy program|last=Clancy|first=Heather|date=August 7, 2017|work=GreenBiz|access-date=September 14, 2017|language=en}}</ref> Chief Communications Officer (2017– )<ref>{{Cite news|url=https://www.geekwire.com/2017/tech-moves-zillow-cfo-joins-apptio-board-starbucks-svp-joins-salesforce-communications-chief/|title=Tech Moves: Zillow CFO joins Apptio board, Starbucks SVP joins Salesforce as communications chief, and more|date=June 1, 2017|work=GeekWire|access-date=September 14, 2017|language=en-US}}</ref>
+* Mark Hawkins, President and Chief Financial Officer (2014– )<ref>{{Cite news|url=http://fortune.com/2017/02/28/salesforces-revenue-rises-as-losses-widen/|title=Salesforce's Revenue Rises as Losses Widen|access-date=September 14, 2017|language=en-US}}</ref>
+* Elizabeth Pinkham, Executive Vice President, Global Real Estate (2000–)<ref>{{Cite news|url=https://www.cnbc.com/2016/09/30/the-brains-behind-the-scenes-of-salesforces-global-expansion.html|title=This woman is behind Salesforce's global expansion|last=Levy|first=Ari|date=September 30, 2016|work=CNBC|access-date=September 14, 2017}}</ref>
+* Tony Prophet, Chief Equality Officer (2016– )<ref>{{Cite news|url=https://www.independent.co.uk/news/business/analysis-and-features/a-view-from-the-top-salesforce-tony-prophet-silicon-valley-tech-chief-equality-officer-diversity-a7775831.html|title=How Salesforce's other CEO is championing equality in Silicon Valley|date=June 6, 2017|work=The Independent|access-date=September 14, 2017|language=en-GB}}</ref>
+* Stephanie Buscemi, Chief Marketing Officer (2018– )
+* Cindy Robbins, President and Chief People Officer (2006– )<ref>{{Cite news|url=http://www.workforce.com/2017/01/10/minibios-homoring-hrs-female-influencers/|title=MiniBios: Honoring HR's Female Influencers – Workforce Magazine|date=January 10, 2017|work=Workforce Magazine|access-date=September 14, 2017|language=en-US}}</ref>
+* Amy Weaver, President, Legal and General Counsel (2013– )<ref>{{Cite web|url=https://www.bloomberg.com/research/stocks/private/person.asp?personId=46478296&privcapId=122917|title=Amy E. Weaver: Executive Profile & Biography – Bloomberg|website=Bloomberg.com|access-date=September 14, 2017}}</ref>
+<br />
+
+=== Culture ===
+Salesforce was credited to have a strong [[Organizational culture|corporate culture]] and its HR practices were said to have been a huge driving force behind its success story.<ref name=":0">{{Cite web|last=Purkayastha, Debapratim and Chakraborty, Barnali|date=2020|title=Corporate Culture and HR Practices at Salesforce.com, Inc.{{!}}Human Resource and Organization Behavior{{!}}Case Study{{!}}Case Studies|url=https://icmrindia.org/casestudies/catalogue/Human%20Resource%20and%20Organization%20Behavior/HROB217.htm|access-date=2020-06-14|website=icmrindia.org}}</ref><ref>{{Cite web|last=Sundberg|first=Jörgen|date=2017-09-10|title=Salesforce Ohana: Attracting Talent with Corporate Culture|url=https://theundercoverrecruiter.com/salesforce-ohana-culture/|access-date=2020-06-14|website=Undercover Recruiter|language=en-US}}</ref> Salesforce’s corporate culture is based on the concept of [[Ohana]], a deep-rooted support system nurtured inside the company.<ref>{{Cite web|date=2018-03-14|title=SALESFORCE AND ITS OHANA CULTURE|url=https://www.isdi.education/en/news/salesforce-and-its-ohana-culture|access-date=2020-06-14|website=ISDI|language=en}}</ref> Its culture emphasized certain core values, behaviors, and experiences. The leaders at Salesforce believed that its culture fostered dialogue, collaboration, recognition, and a sense of family, and helped its employees drive the company’s purpose, vision, and impact<ref name=":0" />.
+
+* 
+
+=== Finances ===
+For the fiscal year 2019, Salesforce reported revenue of US$3.28 billion, an increase of 26% year-over-year and 26% in constant currency. The CRM giant reported subscription and support revenues of US$12.41 billion, an increase of 27% year-over-year. Salesforce ranked 240 on the 2019 Fortune 500 list of the largest United States companies by revenue.<ref>{{Cite web|url=https://www.salesforce.com/company/news-press/press-releases/2019/03/190304-g/|title=Salesforce Announces Record Fourth Quarter and Full Year Fiscal 2019 Results{{!}} CRM|website=www.salesforce.com|access-date=March 17, 2020}}
+Salesforce ranked 240 on the 2019 Fortune 500 list of the largest United States companies by revenue.</ref> {{Cite web|url=https://www.salesforce.com/company/news-press/stories/2019/05/051619-k/|title=Reaching New Heights on the Fortune 500 List{{!}} CRM|website=www.salesforce.com|access-date=March 17, 2020}}
+{| class="wikitable float-left" style="text-align: right;"
+!Year
+!Revenue<br />US$<br />millions
+!Net income<br />US$<br />millions
+!Total Assets<br />US$<br />millions
+!Price per Share<br />US$
+!Employees
+|-
+| 2005
+| 176
+| 7
+| 280
+| 5.19
+|
+|-
+| 2006
+| 310
+| 28
+| 435
+| 8.62
+|
+|-
+| 2007
+| 497
+| 0
+| 665
+| 11.69
+|
+|-
+| 2008
+| 749
+| 18
+| 1,090
+| 13.43
+|
+|-
+| 2009
+| 1,077
+| 43
+| 1,480
+| 11.37
+|
+|-
+| 2010
+| 1,306
+| 81
+| 2,460
+| 24.21
+|
+|-
+| 2011
+| 1,657
+| 64
+| 3,091
+| 32.93
+|
+|-
+| 2012
+| 2,267
+| −12
+| 4,164
+| 35.73
+|
+|-
+| 2013
+| 3,050
+| −270
+| 5,529
+| 45.94
+| 9,800
+|-
+| 2014
+| 4,071
+| −232
+| 9,153
+| 57.26
+| 13,300
+|-
+| 2015
+| 5,374
+| −263
+| 10,665
+| 70.66
+| 16,000
+|-
+| 2016
+| 6,667
+| −47
+| 12,763
+| 74.55
+| 19,000
+|-
+| 2017
+| 8,392
+| 180
+| 17,585
+| 90.26
+| 25,000
+|-
+| 2018
+| 10,480
+| 127
+| 21,010
+| 131.91
+| 29,000
+|}
+
+===IT infrastructure===
+Salesforce migrated to [[Dell]] servers with [[Advanced Micro Devices]] processors running Linux from [[Sun Fire 15K#Sun Fire E25K|Sun Fire E25K]] servers with SPARC processors running Solaris in 2008.<ref>{{Cite web|url=https://www.theregister.co.uk/2008/07/14/salesforce_sun_server_dell/|title=Salesforce.com pulls plug on Sun's flagship Unix servers|work=The Register}}</ref> The company uses the Momentum platform from Message Systems to allow its customers to send large amounts of email.<ref>{{Cite web|url=http://fortune.com/2014/10/06/message-systems-email-provider/|title=The biggest email provider you've never heard of|work=Fortune}}</ref>
+
+In 2012, Salesforce announced plans to build a [[data center]] in the UK to handle European citizens' personal data.<ref>{{Cite web|url=http://gigaom.com/2013/05/02/salesforce-finally-solidifies-european-data-center-plans/|title=Salesforce finally solidifies European data center plans|last=Meyer|first=David|website=Gigaom.com}}</ref>
+
+In 2013, Salesforce and Oracle announced a nine-year partnership in which Salesforce will use [[Oracle Linux]], [[Oracle Exadata]], [[Oracle Database]], and the [[Java (software platform)|Java platform]] to power Salesforce's applications and SaaS platform.<ref>{{Cite press release|url=http://www.oracle.com/us/corporate/press/1964798|title=Salesforce.com and Oracle Announce New Strategic Partnership|publisher=Oracle}}</ref>
+
+In 2016, Salesforce announced that it will use [[Amazon Web Services]] hosting for countries with restrictive data residency requirements and where no Salesforce data centers are operating. In July 2017, the first such Salesforce instance went live in Canada, with Salesforce announcing that this enabled signing a number of Canadian customers.<ref>{{Cite web|url=https://www.salesforce.com/company/news-press/press-releases/2017/07/170712-2.jsp|title=Salesforce Now Live on Amazon Web Services Cloud Infrastructure in Canada|website=Salesforce.com|access-date=August 28, 2017}}</ref>
+
+==Acquisitions==
+The following is a list of acquisitions by Salesforce:
+{{Columns-list|colwidth=30em|
+* Sendia (April 2006)&nbsp;– now Salesforce Classic<ref>{{Cite web|last1=Wood|first1=Jason|title=With Kieden Acquisition, Salesforce.com Is On A Roll|url=https://seekingalpha.com/article/15884-with-kieden-acquisition-salesforce-com-is-on-a-roll|website=Seeking Alpha|access-date=December 30, 2017}}</ref>
+* Kieden (August 2006)&nbsp;– now Salesforce for [[Google Ads|Google AdWords]]
+* Kenlet (January 2007)&nbsp;– original product CrispyNews used at Salesforce IdeaExchange and [[Dell IdeaStorm]]&nbsp;– now relaunched as Salesforce Ideas
+* Koral (March 2007)&nbsp;– now Salesforce Content
+* Instranet (August 2008) for $31.5 million&nbsp;– now re-branded to Salesforce Knowledge
+* GroupSwim (December 2009)&nbsp;– now part of Salesforce Chatter<ref>{{Cite news|last1=Kepes|first1=Ben|title=Breaking: Salesforce.com Buys GroupSwim|url=https://www.cloudave.com/1072/breaking-salesforce-com-buys-groupswim/|access-date=September 2, 2015|agency=Cloud Ave|date=December 11, 2009}}</ref>
+* Informavores (December 2009)<ref>{{Cite web|last=Whiting |first=Rick |url=http://www.crn.com/news/applications-os/222600988/salesforce-adds-business-process-development-to-force-com.htm |title=Salesforce Adds Business Process Development To Force.com |website=Crn.com |date=February 3, 2010 |access-date=February 1, 2012}}</ref>&nbsp;– now re-branded to Visual Workflow
+* Jigsaw Data Corp. (April 2010),<ref>{{Cite web |url=http://www.zdnet.com/blog/btl/salesforcecom-acquires-jigsaw-for-142-million/33362 |title=Salesforce.com acquires Jigsaw for $142 million |publisher=ZDNet |date=April 21, 2010 |access-date=February 1, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120106104245/http://www.zdnet.com/blog/btl/salesforcecom-acquires-jigsaw-for-142-million/33362 |archive-date=January 6, 2012 }}</ref>&nbsp;– now known as Data.com
+* Sitemasher (June 2010)&nbsp;– now known as Site.com
+* Navajo Security (August 2011)<ref name="navajo">{{Cite news|title=Salesforce.com Brings Navajo Into Camp to Boost Cloud Security |url=https://www.forbes.com/sites/greatspeculations/2011/08/30/salesforce-com-brings-navajo-into-camp-to-boost-cloud-security/ | work=Forbes | date=August 30, 2011}}</ref>
+* Activa Live Chat (September 2010)&nbsp;– now known as Salesforce Live Agent<ref>{{Cite web|url=https://techcrunch.com/2010/09/24/salesforce-buys-enterprise-chat-startup-activa-live/ |title=Salesforce Buys Enterprise Chat Startup Activa Live |publisher=TechCrunch |date=September 24, 2010 |access-date=February 1, 2012}}</ref>
+* [[Heroku]] (December 2010)&nbsp;– for $212 million<ref name="foobar">{{Cite web|title=Salesforce.com Buys Heroku For $212&nbsp;million In Cash|url=https://techcrunch.com/2010/12/08/breaking-salesforce-buys-heroku-for-212-million-in-cash/|publisher=TechCrunch|date=December 8, 2010}}</ref>
+* Etacts (December 2010)<ref name="etacts">{{Cite web|title=Salesforce Buys Email Contact Manager Etacts|url=https://techcrunch.com/2010/12/21/salesforce-buys-email-contact-manager-etacts/|publisher=TechCrunch|date=December 21, 2010}}</ref>
+* [[Dimdim]] (January 2011)<ref>{{Cite web|url=http://www.zdnet.com/blog/btl/salesforce-buys-dimdim-for-31-million-eyes-webex-gotomeeting-turf/43352 |title=Salesforce buys Dimdim for $31 million, bolsters Chatter collaboration |publisher=ZDNet |access-date=February 1, 2012}}</ref>
+* Manymoon (February 2011)&nbsp;– now known as Do.com<ref name="manymoon">{{Cite web |title=Salesforce.com Buys Manymoon| url=http://kara.allthingsd.com/20110201/salesforce-buys-manymoon | publisher=All Things Digital| access-date=January 20, 2011}}</ref>
+* Radian6 (March 2011) for $340M<ref>{{Cite news|first=Eric|last=Savitz |url=https://www.forbes.com/sites/ericsavitz/2011/03/30/salesforce-buys-social-media-tracker-radian6-for-340m/ |title=Salesforce Buys Social Media Tracker Radian6 For $340M |work=Forbes |date=March 30, 2011 |access-date=February 1, 2012}}</ref>
+* Model Metrics (November 2011)<ref>{{Cite web|url=https://techcrunch.com/2011/11/14/salesforce-acquires-social-and-mobile-cloud-computing-consultancy-model-metrics/ |title=Salesforce Acquires Social And Mobile Cloud Computing Consultancy Model Metrics |publisher=TechCrunch |date=November 14, 2011 |access-date=February 1, 2012}}</ref>
+* Rypple (December 2011)<ref>{{Cite web|title=Salesforce Acquires Rypple For Social Employee Performance Management|url=http://informationweek.com/thebrainyard/news/social_networking_private_platforms/232300731/salesforce-acquires-rypple-for-social-employee-performance-management|work=InformationWeek|access-date=December 19, 2011|url-status=dead|archive-url=https://web.archive.org/web/20120108232022/http://www.informationweek.com/thebrainyard/news/social_networking_private_platforms/232300731/salesforce-acquires-rypple-for-social-employee-performance-management|archive-date=January 8, 2012}}</ref>&nbsp;– now known as Work.com
+* Stypi (May 2012)<ref>{{Cite web|title=Salesforce Acquires Stypi |url=https://www.pcworld.com/article/254824/salesforcecom_acquires_collaboration_tool_company_stypi.html}}</ref>
+* Buddy Media (May 2012) for US$689 million<ref>{{Cite web|url=https://techcrunch.com/2012/06/04/salesforce-lines-up-against-oracle-on-social-push-buys-buddy-media-for-689m/ |title=Salesforce Lines Up Against Oracle On Social Push; Buys Buddy Media For $689M |publisher=TechCrunch |date=June 4, 2012 |access-date=June 27, 2013}}</ref><ref>{{Cite web|title=Salesforce to Acquire Buddy Media |url=http://www.webpronews.com/salesforce-to-acquire-buddy-media-2012-05 |website=Webpronews.com|date=May 30, 2012 }}</ref>
+* ChoicePass (June 2012)<ref>{{Cite web|title=Salesforce.com Buys Corporate 'perks' Software Vendor ChoicePass |url=https://www.pcworld.com/article/257887/salesforcecom_buys_corporate_perks_software_vendor_choicepass.html|work=PC World}}</ref>
+* Thinkfuse (June 2012)<ref>{{Cite web|title=Salesforce Acquires TechStars And TechCrunch Disrupt Alum Thinkfuse|url=https://techcrunch.com/2012/06/25/salesforce-acquires-techstars-and-techcrunch-disrupt-alum-thinkfuse/|publisher=TechCrunch|date=June 25, 2012}}</ref>
+* BlueTail (July 2012)&nbsp;– now part of Data.com<ref>{{Cite web|url=https://finance.yahoo.com/news/salesforce-com-acquired-bluetail-july-120744356.html |title=Salesforce.com acquired BlueTail in July, AllThingsD reports |publisher=Yahoo! Finance |date=September 11, 2012 |access-date=June 27, 2013}}</ref>
+* GoInstant (July 2012) for US$70 million<ref>{{Cite web|url=https://techcrunch.com/2012/07/09/salesforce-com-reported-to-buy-goinstant-for-70-million/ |title=Salesforce.com Reported To Buy GoInstant For $70 Million |publisher=TechCrunch |date=July 9, 2012 |access-date=June 27, 2013}}</ref>
+* Prior Knowledge (December 2012)<ref>{{Cite web|first=Rebecca|last=Grant |url=https://venturebeat.com/2012/11/23/salesforce-to-predict-the-future-with-the-power-of-prior-knowledge/ |title=Salesforce to predict the future with the power of Prior Knowledge|publisher=VentureBeat |date=November 23, 2012 |access-date=November 22, 2013}}</ref>
+* EntropySoft (February 2013) for an undisclosed sum&nbsp;– now known as Salesforce Files Connect
+* clipboard.com (May 2013) for US$12 million<ref>{{Cite web|url=https://techcrunch.com/2013/05/09/clipboard-acquired-by-salesforce-will-be-shuttered-on-june-30th |title=Web Clipping Service Clipboard Acquired By Salesforce For $12M, Will Be Shuttered On June 30th |publisher=TechCrunch |date=May 9, 2013 |access-date=June 27, 2013}}</ref>
+* ExactTarget (announced June 4, 2013)&nbsp;– now '''[[Salesforce Marketing Cloud]]''' for US$2.5 billion<ref>{{Cite web |url=http://www.insideindianabusiness.com/newsitem.asp?ID=59728 |title=ExactTarget to be Acquired in $2.5 Billion Deal&nbsp;– Newsroom&nbsp;– Inside INdiana Business with Gerry Dick |website=InsideINdianaBusiness.com |access-date=July 17, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130710033813/http://www.insideindianabusiness.com/newsitem.asp?ID=59728 |archive-date=July 10, 2013}}</ref>
+* EdgeSpring (June 7, 2013)&nbsp;– now part of the Analytics Cloud<ref>{{Cite web|url=https://techcrunch.com/2013/06/07/after-picking-up-exacttarget-salesforce-buys-enterprise-business-intelligence-and-analytics-startup-edgespring |title=After Picking Up ExactTarget, Salesforce Buys Enterprise Business Intelligence And Analytics Startup EdgeSpring |publisher=TechCrunch |date=June 7, 2013 |access-date=July 17, 2013}}</ref>
+* RelateIQ (July 10, 2014) for US$390 million&nbsp;– now known as [[SalesforceIQ]]<ref>{{Cite web|url=https://techcrunch.com/2014/07/11/salesforce-buys-big-data-startup-relateiq-for-up-to-390m/ |title=Salesforce Buys Big Data Startup RelateIQ For Up To $390M| publisher=TechCrunch |date=July 10, 2014}}</ref>
+* Toopher (April 1, 2015)<ref>{{Cite web|url=https://techcrunch.com/2015/04/01/toopher-salesforce/ |title=Mobile Authentication Startup Toopher Acquired By Salesforce | publisher=TechCrunch |date=April 1, 2015}}</ref>
+* [[Tempo (app)|Tempo]] (May 29, 2015)&nbsp;– now part of SalesforceIQ<ref>{{Cite web|url=https://techcrunch.com/2015/05/29/salesforce-acquires-tempo/ |title=Salesforce Acquires Smart Calendar Startup Tempo, App Will Shut Down On June 30 |publisher=TechCrunch |date=May 29, 2015}}</ref>
+* ÄKTA (September 2015)&nbsp;– for an undisclosed sum.<ref>{{Cite web|url=https://venturebeat.com/2015/09/02/salesforce-signs-definitive-agreement-to-acquire-digital-experience-consultancy-akta/ |title=Salesforce acquires application development consulting firm AKTA |publisher=VentureBeat |date=September 2, 2015}}</ref>
+* [[MinHash]] (December 2015)<ref>{{Cite web|title=Salesforce Has Acquired MinHash, Creators Of The AILA Virtual Marketing Assistant|url=https://techcrunch.com/2015/12/14/salesforce-has-acquired-an-ai-startup-called-minhash-to-build-out-its-marketing-analytics/|publisher=TechCrunch|date=December 14, 2015}}</ref>
+* SteelBrick (December 2015) for US$360 million&nbsp;– now re-branded to Salesforce CPQ<ref>{{Cite web|title=Salesforce Acquires SteelBrick|url=https://blog.steelbrick.com/blog/salesforce-signs-definitive-agreement-to-acquire-steelbrick|publisher=Steelbrick|url-status=dead|archive-url=https://web.archive.org/web/20160420170845/https://blog.steelbrick.com/blog/salesforce-signs-definitive-agreement-to-acquire-steelbrick|archive-date=April 20, 2016}}</ref>
+* PredictionIO (February 2016)<ref>{{Cite web|title=Salesforce Acquires PredictionIO To Build Up Its Machine Learning Muscle|url=https://techcrunch.com/2016/02/19/salesforce-acquires-predictionio-to-build-up-its-machine-learning-muscle/|publisher=TechCrunch|date=February 19, 2016}}</ref>
+* MetaMind (April 2016) <ref>{{Cite web |title=Salesforce buys MetaMind|url= https://techcrunch.com/2016/04/04/saleforce-acquires-metamind/}}</ref>
+* Implisit (May 2016)<ref>{{Cite web|url=http://www.businessinsider.com/salesforce-buys-implisit-insights-2016-5|title=Salesforce just bought a startup for 'tens of millions' of dollars, adding to its buying spree|work=Business Insider|access-date=July 24, 2016}}</ref>
+* [[Demandware]] (announced June 1, 2016)&nbsp;– now '''Salesforce Commerce Cloud'''<ref>{{cite web|title=Demandware is Now the Salesforce Commerce Cloud|url=https://www.salesforce.com/blog/2016/09/demandware-salesforce-commerce-cloud.html|website=Salesforce}}</ref> for US$2.5 billion<ref>{{Cite web|url=http://investors.demandware.com/phoenix.zhtml?c=247632&p=irol-newsArticle&ID=2173848/ |title=Salesforce Signs Definitive Agreement to Acquire Demandware |publisher=Demandware |date=June 1, 2016}}</ref>
+* Coolan (July 2016)<ref>{{Cite web|url=https://venturebeat.com/2016/07/21/coolan-salesforce/|title=Salesforce acquires data center analytics startup Coolan|website=VentureBeat|access-date=December 12, 2016|date=July 21, 2016}}</ref>
+* [[Quip (software)|Quip]] (August 2016) for US$750 million<ref>{{Cite web|url=https://techcrunch.com/2016/08/01/salesforce-buys-word-processing-app-quip-for-750m/ |title=Salesforce buys word processing app Quip for $750M |date=August 1, 2016|publisher=TechCrunch}}</ref>
+* BeyondCore (August 2016)<ref>{{Cite web|url=https://techcrunch.com/2016/08/15/another-salesforce-acquisition-with-beyondcore-enterprise-analytics-grab/|title=Another Salesforce acquisition with BeyondCore enterprise analytics grab |date=August 16, 2016|publisher=TechCrunch}}</ref>
+* Heywire (September 8, 2016)<ref>https://www.businessinsider.com/salesforce-buys-heywire-2016-9</ref>
+* Gravitytank (September 2016)<ref>{{Cite web|url=https://finance.yahoo.com/news/salesforce-adds-4-billion-spending-002624416.html/ |title=Salesforce adds to its $4 billion spending spree by quietly buying another company |date=September 15, 2016 |publisher=Yahoo! Finance}}</ref>
+* Krux (October 2016)<ref>{{Cite web|url=http://blogs.forrester.com/susan_bidel/16-10-04-salesforce_closes_their_marketing_cloud_gap_with_krux|title=Susan Bidel's Blog|website=blogs.forrester.com|access-date=October 13, 2016}}</ref>
+* Twin Prime (December 2016)<ref>{{Cite web|url=http://www.businessinsider.com/salesforce-acquired-twin-prime-startup-2016-12|title=Salesforce just bought a startup called Twin Prime, adding to its $5 billion buying binge|publisher=BusinessInsider|date=December 13, 2016}}</ref>
+* Sequence (February 2017)<ref>{{Cite web|url=https://techcrunch.com/2017/02/01/salesforce-acquires-sequence-to-build-out-its-ux-design-services/|title= Salesforce acquires Sequence to build out its UX design services|publisher=TechCrunch|access-date=February 1, 2017}}</ref>
+* Attic Labs (January 2018)<ref>{{Cite web|url=https://techcrunch.com/2018/01/08/salesforce-acquires-attic-labs-the-startup-behind-decentralized-database-noms/|title=Salesforce acquires Attic Labs, the startup behind decentralized database Noms|publisher=TechCrunch|access-date=January 8, 2018}}</ref>
+* CloudCraze (March 2018)<ref>{{Cite web|url=http://searchsalesforce.techtarget.com/news/252436946/Salesforce-e-commerce-gets-B2B-boost-with-CloudCraze-purchase=Salesforce|title= e-commerce gets B2B boost with CloudCraze purchase Noms|publisher=TechTarget|date=March 15, 2018}}</ref>
+* [[MuleSoft]] (announced March 2018)&nbsp;– For $6.5 billion<ref>{{Cite web|url=http://www.businessinsider.com/salesforce-is-in-talks-to-buy-mulesoft-briefly-sending-shares-through-the-roof-2018-3|title=Salesforce is buying MuleSoft|date=March 20, 2018|website=Business Insider|access-date=March 20, 2018}}</ref><ref>{{Cite web|url=http://fortune.com/2018/03/20/salesforce-mulesoft-acquisition-deal|title=Salesforce buys MuleSoft in a deal worth 6.5 billion|website=Fortune|access-date=March 20, 2018}}</ref>
+* Datorama (July 2018)<ref>{{Cite web|url=https://searchsalesforce.techtarget.com/news/252445304/Salesforce-Datorama-acquisition-to-bolster-Marketing-CloudSalesforce|title=Datorama acquisition to bolster Marketing Cloud Noms|publisher=TechTarget|access-date=July 23, 2018}}</ref>
+* Rebel Mail (October 2018)
+* Griddable.io (January 2019)<ref>{{Cite web|url=https://griddable.io/blog/salesforce-to-acquire-griddable/|title=Salesforce Signs Definitive Agreement to Acquire Griddable&nbsp;– Griddable|last=Bharadhwaj|first=Rajeev|date=2019-01-28|website=Griddable.io|archive-url=https://web.archive.org/web/20190128214618/https://griddable.io/blog/salesforce-to-acquire-griddable/|archive-date=2019-01-28|url-status=dead|access-date=2019-04-26}}</ref>
+* MapAnything (April 2019)<ref>{{Cite web|url=http://social.techcrunch.com/2019/04/17/salesforce-is-buying-mapanything-a-startup-that-raised-over-84-million/|title=Salesforce is buying MapAnything, a startup that raised over $84 million|last=Miller|first=Ron|date=2019-04-17|website=TechCrunch|archive-url=https://web.archive.org/web/20190418120158/https://techcrunch.com/2019/04/17/salesforce-is-buying-mapanything-a-startup-that-raised-over-84-million/|archive-date=2019-04-18|url-status=live|access-date=2019-04-26}}</ref>
+* [[Bonobo AI]] (May 2019)<ref>{{Cite web|url=https://www.calcalistech.com/ctech/articles/0,7340,L-3761679,00.html|website=Ctech|title=Salesforce Buys Conversational AI Startup Bonobo|date=May 6, 2019}}</ref>
+* [[Tableau Software|Tableau]] (August 2019)<ref>{{Cite web|url=https://www.tableau.com/about/press-releases/2019/salesforce-completes-acquisition-tableau|title=Salesforce Completes Acquisition of Tableau|date=2019-08-06|website=Tableau.com}}</ref> – $15.3 billion
+* ClickSoftware (August 2019)<ref>{{Cite web|url=https://techcrunch.com/2019/08/07/salesforce-is-acquiring-clicksoftware-for-1-35b/|title=Salesforce is acquiring ClickSoftware for $1.35B|date=2019-08-08|website=techcrunch.com}}</ref> – $1.35 billion
+* [[Diffeo_(Company)|Diffeo]] (November 2019)<ref>{{Cite web|url=https://www.sec.gov/Archives/edgar/data/1108524/000119312520131040/d861721ddef14a.htm|title=Notice of the 2020 Annual Meeting and 2020 Proxy Statement|date=2020-06-11|website=sec.gov}}</ref> 
+* Evergage (February 2020)<ref>{{cite web |last1=Wirth• |first1=Karl |title=Evergage Has Joined the Salesforce Family |url=https://www.evergage.com/blog/evergage-has-joined-the-salesforce-family |website=Evergage |access-date=5 August 2020 |date=3 February 2020}}</ref>
+* Vlocity (February 2020)<ref>{{cite web |title=Salesforce Has Signed a Definitive Agreement to Acquire Vlocity |url=https://vlocity.com/newsroom/salesforce/ |website=Vlocity |access-date=5 August 2020}}</ref>
+* The CMO Club (March 2020)<ref>{{cite web |title=Welcome The CMO Club to the Salesforce Family |url=https://www.salesforce.com/company/news-press/stories/2020/3/salesforce-cmoclub/ |website=Salesforce.com |access-date=5 August 2020 |language=en}}</ref>
+* [[Slack Technologies]] (December 2020) – $27.7 billion <ref> {{cite web |title= Salesforce Signs Definitive Agreement to Acquire Slack|url=https://www.salesforce.com/news/press-releases/2020/12/01/salesforce-definitive-agreement-update/ |website=Salesforce.com |access-date=2 December 2020 |language=en}}</ref> }}
+{{panorama|image = Salesforce-merger.svg|height = 300px|width = 900px|caption = Simplified timeline of Salesforce's biggest acquisitions, including only biggest ones.|dir = rtl}}
+
+==Criticisms==
+{{Criticism section|date=June 2017}}
+===Subject to a phishing attack===
+
+In November 2007 a successful [[phishing]] attack on a Salesforce employee compromised contact information on a number of Salesforce customers, which was then used to send highly targeted phishing emails.<ref>{{Cite web |url=http://www.zdnet.co.uk/news/security-threats/2007/11/07/salesforce-tight-lipped-after-phishing-attack-39290616/ |title=Salesforce tight-lipped after phishing attack |date=November 7, 2007 |publisher=[[ZDNet]] |last=Espiner |first=Tom}}</ref><ref>{{Cite web |url=http://www.internetnews.com/ent-news/article.php/3709836 |title=Salesforce.com Scrambles To Halt Phishing Attacks |date=November 7, 2007 |last=Patrizio |first=Andy |website=[[QuinStreet|InternetNews.com]]}}</ref><ref>{{Cite web |url=http://www.computerworlduk.com/news/security/6058/salesforcecom-customer-list-stolen/ |title=Salesforce.com customer list stolen |date=November 7, 2007 |last=McMillan |first=Robert |work=[[International Data Group|IDG News Service]]}}</ref> Salesforce has stated that "a phisher tricked someone into disclosing a password, but this intrusion did not stem from a security flaw in [the salesforce.com] application or database."<ref>{{Cite web|url=https://trust.salesforce.com/en/letter/|title=Trust&nbsp;— Salesforce|website=Trust.salesforce.com|access-date=October 9, 2018}}</ref> The phishing breach was cited as an example of why the CRM industry needs greater security for users against such threats as [[Spamming|spam]].<ref>{{Cite web |url=http://blogs.zdnet.com/Berlind/?p=880 |title=Phishing-based breach of Salesforce customer data is more evidence of industry's need to act on spam. Now. |date=November 6, 2007 |last=Berlind |first=David |work=Berlind's Testbed (blog)}}</ref>
+
+While the crowd-sourced method of building business contacts<ref>{{Cite news| url=http://bits.blogs.nytimes.com/2009/09/24/jigsaw-shows-how-crowdsourcing-can-be-a-business-model/ | work=[[The New York Times]]| title=Jigsaw's Business Model Is Built on Crowdsourcing | first=Steve | last=Lohr | date=September 24, 2009}}</ref> has proven popular with recruiters, marketers, and sales professionals, it has also raised questions of privacy as most of the site's database is entered without permission from the person being listed. Data.com does, however, make it easy to remove business information on request as noted in December 2009 by [[TechCrunch]].<ref>{{Cite web|first=Michael|last=Arrington |url=https://techcrunch.com/2009/12/20/the-world-has-changed-is-jigsaw-still-evil/ |title=The World Has Changed. Is Jigsaw Still Evil? |website=Techcrunch.com |date=December 20, 2009 |access-date=June 27, 2011}}</ref> However, recipients of these messages regard it as spam and at least one complaint about receiving more spam after attempting to remove one's address has been noted.<ref>{{Cite web|url=http://www.siteadvisor.com/sites/jigsaw.com/msgpage |title=jigsaw.com &#124; Web Safety Ratings from McAfee SiteAdvisor |website=[[McAfee SiteAdvisor|Siteadvisor.com]] |access-date=June 27, 2011}}</ref>
+===Attempt to trademark [[Social enterprise]]===
+In July 2012, Salesforce applied to trademark the term "[[social enterprise]]" in the [[United States]], the [[European Union]] and [[Jamaica]] where the term was in widespread use to describe businesses with a primarily social purpose. This was successfully challenged by a campaign called ''#notinourname'' which was launched by [[Social Enterprise UK]], resulting in Salesforce.com withdrawing their trademark application and agreeing not to use the term in their future marketing.<ref>{{Cite web|title=Not In Our Name|url=http://www.socialenterprise.org.uk:80/policy-campaigns/past-campaigns/not-in-our-name|archive-url=https://web.archive.org/web/20160923070542/http://www.socialenterprise.org.uk:80/policy-campaigns/past-campaigns/not-in-our-name|url-status=dead|archive-date=23 September 2016|website=socialenterprise.org.uk|publisher=Social Enterprise UK|access-date=3 September 2014}}</ref><ref>{{Cite web|url=https://www.forbes.com/sites/connieguglielmo/2013/08/15/salesforce-coms-marc-benioff-on-innovation-acquisitions-and-reinvention/|title=Salesforce.com's Marc Benioff On Innovation, Acquisitions And Reinvention|last=Guglielmo|first=Connie|website=Forbes|language=en|access-date=2019-12-05}}</ref>
+===‘Meatpistol’ presenters let go at Def Con===
+
+In 2017 at [[DEF CON|Def Con]], Salesforce's Director of Offensive Security and a security engineer were fired on the conference room floor in front of several other attendees by an executive at the company after giving a talk. Word rapidly spread that two speakers had been released at the event.<ref name="Ars2017DefCon">{{Cite web|url=https://arstechnica.com/gadgets/2017/08/salesforce-fires-two-security-team-members-for-presenting-at-defcon/|title=Salesforce "red team" members present tool at Defcon, get fired|website=Arstechnica.com|access-date=October 9, 2018}}</ref> The presentation was initially signed off on by the company; however, Salesforce's management team had an unexplained and sudden change of heart an hour before the event.<ref>{{Cite web|first=Zack|last=Whittaker |url=http://www.zdnet.com/article/salesforce-fires-red-team-staffers-who-gave-defcon-talk/ |title=Salesforce fires red team staffers who gave Defcon talk |website=Zdnet.com |date= August 9, 2017 |access-date= August 9, 2017}}</ref> Salesforce's Director of Offensive Security had turned off his phone prior to the presentation and was unable to receive any communication from Salesforce prior to the presentation.<ref name="Ars2017DefCon" /> Reaction after the firings were swift, with the [[Electronic Frontier Foundation]] providing representation to the fired employees<ref name="Ars2017DefCon" /> and members of the security community opining "Salesforce undermined their credibility in the security community to a significant degree" and that "how they are perceived by the security community isn't top of their list of things they care about."<ref>{{Cite web|url=http://securitycurve.com/musings-on-meatpistol-firings/|title=Musings on MEATPISTOL firings|date=August 10, 2017|website=Securitycurve.com|access-date=October 9, 2018}}</ref> The presented MEATPISTOL tool was anticipated to be released as open-source at the time of the presentation, but Salesforce continues to hold back on releasing any of the code to developers or the public.<ref>{{Cite web|url=https://www.theregister.co.uk/2017/08/10/salesforce_fires_its_senior_security_engineers_after_defcon_talk/|title=Salesforce sacks two top security engineers for their DEF CON talk|website=Theregister.co.uk|access-date=October 9, 2018}}</ref> The terminated employees have continued to call on the company to open-source the software.<ref>{{Cite web|url=http://news.sky.com/story/security-researchers-fired-after-giving-talk-to-hackers-10981960|title=Security researchers fired after giving talk to hackers|website=News.sky.com|access-date=October 9, 2018}}</ref>
+
+===RAICES donation refusal===
+
+The [[Nonprofit organization|not-for-profit]] organization [[Refugee and Immigrant Center for Education and Legal Services]] (RAICES) rejected a US$250,000 philanthropic donation from Salesforce because the company has contracts with [[U.S. Customs and Border Protection]]. The executive director of Raices, Jonathan Ryan, tweeted that "When it comes to supporting oppressive, inhumane, and illegal policies, we want to be clear: the only right action is to stop" in reference to the rejected donation.<ref>{{Cite web|url=https://twitter.com/RAICESTEXAS/status/1019975176140701696|title=Raices Twitter}}</ref> Salesforce CEO [[Marc Benioff]] responded in an [[press release|official statement]] that the company's employees "don't work with [[U.S. Customs and Border Protection|CBP]] regarding separation of families. CBP is a customer & follows our [[terms of service|TOS]]. We don't have an agreement with [[U.S. Immigration and Customs Enforcement|ICE]]. I'm Proud of the Men & Women who protect & serve our country every day & I'm Proud of our [[Ohana]]."<ref>{{Cite web|title=Marc Benioff Twitter|url=https://twitter.com/Benioff/status/1016101605307920385}}</ref>
+
+It was reported that, in a change to its acceptable-use policy,<ref>{{Cite web|url=https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/policies/ExternalFacing_Services_Policy.pdf|title=Acceptable Use and External-Facing Services Policy}}</ref> Salesforce is barring customers from using its system to sell semiautomatic guns and other firearms.<ref>{{Cite news|url=https://www.washingtonpost.com/technology/2019/05/30/tech-giant-brings-software-gun-fight/|title=Tech giant brings software to a gun fight}}</ref><ref>{{Cite web|url=https://www.businessinsider.com/salesforce-semi-automatic-gun-sales-2019-5|title=Salesforce is refusing to let its customers use its software to sell semi-automatic guns|last=Leskin|first=Paige|website=Business Insider|access-date=2019-06-05}}</ref>
+
+===Tax avoidance===
+In December 2019, the ''[[Institute on Taxation and Economic Policy]]'' found that Salesforce was one of 91 companies who "paid an effective federal tax rate of 0% or less" in 2018, as a result of the [[Tax Cuts and Jobs Act of 2017]].<ref>{{cite web|url=https://itep.org/corporate-tax-avoidance-in-the-first-year-of-the-trump-tax-law/|title=Corporate Tax Avoidance in the First Year of the Trump Tax Law|last1=Gardner|first1=Matthew|last2=Rogue |first2=Lorena|last3=Wamhoff|first3=Steve| publisher=Institute on Taxation Policy|date=December 16, 2019|access-date=August 17, 2020}}</ref> Their findings were published in a report based on the 379 [[Fortune 500|''Fortune'' 500]] companies that declared a profit in 2018.<ref>{{cite news | first = Jesse | last = Pound | title = These 91 companies paid no federal taxes in 2018| work = [[CNBC]] | date = December 16, 2019 | url = https://www.cnbc.com/2019/12/16/these-91-fortune-500-companies-didnt-pay-federal-taxes-in-2018.html | access-date = 2020-02-11}}</ref>
+
+== Lawsuit ==
+In March 2019 Salesforce faced a lawsuit by 50 anonymous women claiming to be victims and survivors of [[Sex trafficking in the United States|sex trafficking]], abuse and rape, which alleges the company profited from and knowingly facilitated sex trafficking on the Web site [[Backpage]].com (defunct since April 2018).<ref name="Fortune">{{Cite web | url=http://fortune.com/2019/03/27/salesforce-lawsuit-backpage-sex-trafficking/ | title=on Backpage.com | work=Fortune | date=March 27, 2019 | access-date=March 31, 2019 | author=Natasha Bach}}</ref> The lawsuit also pointed out that Salesforce was publicly promoting an anti-[[human trafficking]] campaign at the time of its work with Backpage.<ref name="Lawsuit">{{Cite web | url=https://www.itpro.co.uk/cloud/33343/salesforce-sued-over-dealings-with-sex-trafficking-site| title=50 plaintiffs claim the CRM specialist helped grow the now defunct criminal website Backpage.com | work=[[Dennis Publishing|IT PRO]] | date=March 28, 2019 | access-date=March 31, 2019 | author=Jones, Connor}}</ref><ref name="Barron's">{{Cite web | url=https://www.barrons.com/articles/salesforce-stock-falls-after-lawsuit-is-filed-51553705541 | title=Salesforce Stock Falls After Lawsuit Is Filed | work=[[Barron's (newspaper)|Barron's]] | date=March 27, 2019 | access-date=March 31, 2019 | author= Swartz, Jon}}</ref>
+
+==Salesforce Ventures==
+In 2009, in response to the [[financial crisis of 2007–2008]] and the resulting decline in venture funding, Salesforce began investing in digital companies that used or integrated Salesforce platform.<ref name="Peterson, BI 8/18/2018">{{Cite web|url=https://www.businessinsider.com/how-salesforce-ventures-helped-fortify-salesforce-empire-2018-8|title=Inside Salesforce Ventures&nbsp;— the investment arm behind a $1 billion software ecosystem fueling growth|last1=Peterson|first1=Becky|date=August 18, 2018|website=BusinessInsider.com|publisher=Business Insider|access-date=4 February 2019}}</ref> This eventually became Salesforce Ventures, headed by John Somorjai<ref name="Peterson, BI 8/18/2018" /><ref>{{Cite web|url=https://dealbook.nytimes.com/2014/09/08/embargoed-salesforce-com-to-set-up-a-venture-capital-fund/|title=Salesforce.com to Set Up a Venture Capital Fund|last1=De La Merced|first1=Michael J.|work=The New York Times|access-date=September 10, 2014}}</ref> Since then various funds have been created to focus on specific areas&nbsp;— in September 2014 SFV set up Salesforce1 Fund, aimed at start-ups creating applications primarily for mobile phones. In December 2018, Salesforce Ventures announced the launch of the Japan Trailblazer Fund, focused on Japanese startups.<ref>{{Cite web|url=https://www.bizjournals.com/sanfrancisco/news/2018/12/04/salesforce-100-million-japan-vc-fund-startups.html|title=Salesforce Ventures launches $100 million fund for Japanese startups|last1=Kawamoto|first1=Dawn|date=December 5, 2018|website=San Francisco Business Times|publisher=American City Business Journals.}}</ref>
+
+As of August 2018, Salesforce Ventures reported investments totaling $1.2 billion in 275 companies covering a wide range of business models, including e-commerce (CloudCraze),<ref>{{Cite web|url=https://www.chicagobusiness.com/article/20170105/BLOGS11/170109932/salesforce-software-maker-cloudcraze-lands-20-million-led-by-insight-venture|title=Salesforce software maker CloudCraze lands $20 million|last1=Pletz|first1=John|date=January 5, 2017|website=Crain's Chicago Business|publisher=Crain Communications|access-date=3 February 2019|quote=Salesforce's venture-capital arm also invested in the deal.}}</ref> [[artificial intelligence]] ([[Figure Eight (company)|Figure Eight]]), online fraud prevention ([[Forter]]),<ref>{{Cite web|url=https://www.bizjournals.com/newyork/news/2018/09/26/salesforce-march-capital-back-forter.html|title=Salesforce, March Capital back Forter with $50 million funding round|last1=Noto|first1=Anthony|date=September 26, 2018|website=New York Business journal|publisher=American Cities Business Media|access-date=3 February 2019}}</ref> Accounting and Professional Services Automation software (FinancialForce)<ref>{{Cite web|url=http://fortune.com/2017/06/20/salesforce-financialforce-microsoft/|title=This Salesforce Ally Is Gearing Up to Take on Microsoft and Oracle|last1=Darrow|first1=Barb|date=June 20, 2017|website=Fortune|publisher=Time Inc.|access-date=3 February 2019}}</ref> and many other areas.<ref>{{Cite web|url=https://www.salesforce.com/company/ventures/portfolio/|title=Salesforce Ventures Portfolio|website=salesforce.com|publisher=Salesforce|access-date=3 February 2019}}</ref> Its five largest investments [[Domo (company)|Domo]] (data-visualization software), [[SurveyMonkey]] (online survey software), [[Twilio]] (cloud-communication), [[Dropbox (service)|Dropbox]] (cloud storage), and [[DocuSign]] (secure e-signature company) account for nearly half of its portfolio.<ref name="Peterson BI 11/14/2018">{{Cite web|url=https://www.businessinsider.com/salesforce-investment-domo-twilio-docusign-dropbox-2018-8|title=Salesforce owns $1.2 billion worth of other companies&nbsp;— here are its 5 biggest investments in public companies|last1=Peterson|first1=Becky|date=November 14, 2018|website=BusinessInsider.com|publisher=Business Insider|access-date=4 February 2019|quote=the company's five largest public investments account for $505 million}}</ref>
+
+== See also ==
+* [[Amazon Web Services]]
+* [[Oracle Cloud]]
+* [[Salesforce Tower]]
+* [[Salesforce Tower (Indianapolis)|Salesforce Tower Indianapolis]]
+* [[Salesforce Marketing Cloud]]
+* [[SalesforceIQ]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Salesforce.com}}
+{{Finance links
+| name = Salesforce.com
+| symbol = CRM
+| sec_cik = CRM
+| yahoo = CRM
+| google = CRM
+}}
+{{Cloud computing}}
+{{Major Internet companies}}
+{{Dow Jones Industrial Average companies}}
+{{NASDAQ-100}}
+
+[[Category:Salesforce.com| ]]
+[[Category:2004 initial public offerings]]
+[[Category:Companies listed on the New York Stock Exchange]]
+[[Category:Companies in the Dow Jones Industrial Average]]
+[[Category:CRM software companies]]
+[[Category:Customer relationship management software]]
+[[Category:Software companies based in the San Francisco Bay Area]]
+[[Category:Companies based in San Francisco]]
+[[Category:Software companies established in 1999]]
+[[Category:Cloud applications]]
+[[Category:Cloud computing providers]]
+[[Category:1999 establishments in California]]
+[[Category:American companies established in 1999]]
+[[Category:Software companies of the United States]]

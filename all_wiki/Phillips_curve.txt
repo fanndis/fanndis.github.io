@@ -1,0 +1,264 @@
+{{For|the Phillips curve in supernova astrophysics|Phillips relationship}}
+{{More citations needed|date=October 2011}}
+{{short description|Single-equation economic model}}
+{{Macroeconomics sidebar}}
+The '''Phillips curve''' is a single-equation [[economic model]], named after [[William Phillips (economist)|William
+Phillips]], describing an inverse relationship between rates of [[unemployment]] and corresponding rates of rises in wages that result within an economy. Stated simply, decreased unemployment, (i.e., increased levels of employment) in an economy will correlate with higher rates of wage rises.<ref>[[AW Phillips]], ‘The Relation between Unemployment and the Rate of Change of Money Wage Rates in the United Kingdom 1861–1957’ (1958) [https://www.jstor.org/stable/2550759 25 Economica 283], referring to unemployment and the "change of money wage rates".</ref> Phillips did not himself state there was any relationship between employment and [[inflation]]; this notion was a trivial deduction from his statistical findings. Samuelson and Solow made the connection explicit and subsequently [[Milton Friedman]]<ref name="FriedmanRole">{{cite journal | author=Friedman, Milton| title=The Role of Monetary Policy | journal=American Economic Review | year=1968 | volume=58 | issue=1 | pages=1–17 | jstor=1831652}}</ref> 
+and [[Edmund Phelps]]<ref name="PhelpsMoneyWage">{{cite journal | author=Phelps, Edmund S. | title=Money-Wage Dynamics and Labor Market Equilibrium | journal=Journal of Political Economy | year=1968 | volume=76 | issue=S4 | pages=678–711 | doi=10.1086/259438}}</ref><ref name="PhelpsPhillips">{{cite journal | author=Phelps, Edmund S. | title=Phillips Curves, Expectations of Inflation and Optimal Unemployment over Time | journal=Economica | year=1967 | volume=34 | issue=135 | pages=254–281 | jstor=2552025| doi=10.2307/2552025 }}</ref>
+put the theoretical structure in place. In so doing, Friedman was to successfully predict the imminent collapse of Phillips' a-theoretic correlation.
+
+While there is a short run tradeoff between unemployment and inflation, it has not been observed in the long run.<ref name=chang>Chang, R. (1997) [https://wwz.unibas.ch/fileadmin/wwz/redaktion/makrooekonomie/intermediate_macro/reader/7/02_ACFC7.pdf "Is Low Unemployment Inflationary?"] {{Webarchive|url=https://web.archive.org/web/20161005104049/https://wwz.unibas.ch/fileadmin/wwz/redaktion/makrooekonomie/intermediate_macro/reader/7/02_ACFC7.pdf |date=2016-10-05 }} ''Federal Reserve Bank of Atlanta Economic Review'' 1Q97:4-13</ref> In 1967 and 1968, [[Milton Friedman]] and [[Edmund Phelps]] asserted that the Phillips curve was only applicable in the short-run and that, in the long-run, inflationary policies would not decrease unemployment.<ref name="FriedmanRole" /><ref name="PhelpsMoneyWage" /><ref name="PhelpsPhillips" /><ref name="Phelan">{{cite web|url=http://www.thecommentator.com/article/1895/milton_friedman_and_the_rise_and_fall_of_the_phillips_curve|title=Milton Friedman and the rise and fall of the Phillips Curve|accessdate=September 29, 2014|publisher=thecommentator.com|last=Phelan|first=John|date=23 October 2012}}</ref>  Friedman then correctly predicted that in the [[1973–75 recession]], both [[Stagflation|inflation and unemployment would increase]].<ref name="Phelan"/> The long-run Phillips curve is now seen as a vertical line at the natural rate of unemployment, where the rate of inflation has no effect on unemployment.<ref>{{cite web|url=http://www.econlib.org/library/Enc/PhillipsCurve.html#lfHendersonCEE2-126_figure_036|title=Phillips Curve: The Concise Encyclopedia of Economics – Library of Economics and Liberty|publisher=}}</ref>  In the 2010s<ref>{{cite web|url=https://www.economist.com/graphic-detail/2017/11/01/the-phillips-curve-may-be-broken-for-good|title=The Phillips curve may be broken for good|year=2017|work=The Economist}}</ref> the slope of the Phillips curve appears to have declined and there has been controversy over the usefulness of the Phillips curve in predicting inflation.  Nonetheless, the Phillips curve remains the primary framework for understanding and forecasting inflation used in central banks.<ref>{{Cite news|url=https://www.federalreserve.gov/newsevents/speech/yellen20170926a.htm|title=Speech by Chair Yellen on inflation, uncertainty, and monetary policy|work=Board of Governors of the Federal Reserve System|access-date=2017-09-30|language=en}}</ref>
+
+==History==
+[[File:Phillips Curve.svg|Rate of Change of Wages against Unemployment, United Kingdom 1913–1948 from Phillips (1958)|thumb|200px]]
+[[William Phillips (economist)|William Phillips]], a [[New Zealand]] born economist, wrote a paper in 1958 titled ''The Relation between Unemployment and the Rate of Change of Money Wage Rates in the United Kingdom, 1861-1957'', which was published in the quarterly journal ''[[Economica]]''.<ref>{{cite journal |last=Phillips |first=A. W. |year=1958 |title=The Relationship between Unemployment and the Rate of Change of Money Wages in the United Kingdom 1861-1957 |journal=Economica |volume=25 |issue=100 |pages=283–299 |doi= 10.1111/j.1468-0335.1958.tb00003.x}}</ref> In the paper Phillips describes how he observed an inverse relationship between money wage changes and unemployment in the British economy over the period examined. Similar patterns were found in other countries and in 1960 [[Paul Samuelson]] and [[Robert Solow]] took Phillips' work and made explicit the link between inflation and unemployment: when inflation was high, unemployment was low, and vice versa.<ref name="SamuelsonSolow1960" />
+
+In the 1920s, an American economist [[Irving Fisher]] had noted this kind of Phillips curve relationship. However, Phillips' original curve described the behavior of money wages.<ref>{{cite journal |last=Fisher |first=Irving |year=1973 |title=I discovered the Phillips curve: 'A statistical relation between unemployment and price changes' |journal=Journal of Political Economy |volume=81 |issue=2 |pages=496–502 |doi= 10.1086/260048|jstor= 1830534}} Reprinted from 1926 edition of ''International Labour Review''.</ref>
+
+In the years following Phillips' 1958 paper, many economists in the advanced industrial countries believed that his results showed that there was a permanently stable relationship between inflation and unemployment.{{citation needed|date=May 2014}} One implication of this for government policy was that governments could control unemployment and inflation with a [[Keynesian economics|Keynesian]] policy. They could tolerate a reasonably high rate of inflation as this would lead to lower unemployment – there would be a [[trade-off]] between inflation and unemployment. For example, [[monetary policy]] and/or [[fiscal policy]] could be used to stimulate the economy, raising [[gross domestic product]] and lowering the unemployment rate. Moving along the Phillips curve, this would lead to a higher inflation rate, the cost of enjoying lower unemployment rates.{{citation needed|date=May 2014}} Economist [[James Forder]] argues that this view is historically false and that neither economists nor governments took that view and that the 'Phillips curve myth' was an invention of the 1970s.<ref name="Forder">{{cite book |last1=Forder |first1=James |title=Macroeconomics and the Phillips Curve Myth |date=2014 |publisher=Oxford University Press |isbn=978-0-19-968365-9 |url=https://books.google.com/books?id=U0SZBAAAQBAJ }}</ref>
+
+Since 1974, seven Nobel Prizes have been given to economists for, among other things, work critical of some variations of the Phillips curve. Some of this criticism is based on the United States' experience during the 1970s, which had periods of high unemployment and high inflation at the same time. The authors receiving those prizes include [[Thomas Sargent]], [[Christopher Sims]], [[Edmund Phelps]], [[Edward Prescott]], [[Robert A. Mundell]], [[Robert E. Lucas]], [[Milton Friedman]], and [[F.A. Hayek]].<ref>{{cite magazine|url=https://www.forbes.com/sites/briandomitrovic/2011/10/10/the-economics-nobel-goes-to-sargent-sims-attackers-of-the-phillips-curve/|title=The Economics Nobel Goes to Sargent & Sims: Attackers of the Phillips Curve|last=Domitrovic|first=Brain|date=10 October 2011|magazine=Forbes.com|accessdate=12 October 2011}}</ref>
+
+===Stagflation===
+In the 1970s, many countries experienced high levels of both inflation and unemployment also known as [[stagflation]]. Theories based on the Phillips curve suggested that this could not happen, and the curve came under a concerted attack from a group of economists headed by [[Milton Friedman]].{{citation needed|date=May 2014}} Friedman argued that the Phillips curve relationship was only a short-run phenomenon.  In this he followed eight years after Samuelson and Solow [1960] who wrote "All of our discussion has been phrased in short-run terms, dealing with what might happen in the next few years.  It would be wrong, though, to think that our Figure 2 menu that related obtainable price and unemployment behavior will maintain its same shape in the longer run.  What we do in a policy way during the next few years might cause it to shift in a definite way."<ref name="SamuelsonSolow1960">{{cite journal |title=Analytical Aspects of Anti-Inflation Policy |first=Paul A. |last=Samuelson |first2=Robert M. |last2=Solow |journal=[[American Economic Review]] |volume=50 |issue=2 |year=1960 |pages=177–194 |jstor=1815021 }}</ref> As Samuelson and Solow had argued 8 years earlier, he argued that in the long run, workers and employers will take inflation into account, resulting in employment contracts that increase pay at rates near anticipated inflation. Unemployment would then begin to rise back to its previous level, but now with higher inflation rates. This result implies that over the longer-run there is no trade-off between inflation and unemployment. This implication is significant for practical reasons because it implies that [[central bank]]s should not set unemployment targets below the natural rate.<ref name=chang/>
+
+More recent research suggests that there is a moderate trade-off between low-levels of inflation and unemployment. Work by [[George Akerlof]], [[William Dickens]], and [[George Perry (American economist)|George Perry]],<ref>{{cite journal |first=George A. |last=Akerlof |first2=William T. |last2=Dickens |first3=George L. |last3=Perry |title=Near-Rational Wage and Price Setting and the Long-Run Phillips Curve |journal=Brookings Papers on Economic Activity |volume=2000 |issue=1 |year=2000 |pages=1–60 |doi=10.1353/eca.2000.0001 |citeseerx=10.1.1.457.3874 }}</ref> implies that if inflation is reduced from two to zero percent, unemployment will be permanently increased by 1.5 percent. This is because workers generally have a higher tolerance for real wage cuts than nominal ones. For example, a worker will more likely accept a wage increase of two percent when inflation is three percent, than a wage cut of one percent when the inflation rate is zero.
+
+===Today===
+[[File:U.S. Phillips Curve 2000 to 2013.png|thumb|right|U.S. inflation and unemployment 1/2000 to 8/2014]]
+Most economists no longer use the Phillips curve in its original form because it was shown to be too simplistic.<ref name="hossfeld">Oliver Hossfeld (2010) [http://www.hhl.de/fileadmin/texte/publikationen/forschungspapiere/HOSSFELD_USMONEY_INFERWP_2010-4.pdf "US Money Demand, Monetary Overhang, and Inflation Prediction"] {{Webarchive|url=https://web.archive.org/web/20131113215511/http://www.hhl.de/fileadmin/texte/publikationen/forschungspapiere/HOSSFELD_USMONEY_INFERWP_2010-4.pdf |date=2013-11-13 }} ''International Network for Economic Research'' working paper no. 2010.4</ref> This can be seen in a cursory analysis of US inflation and unemployment data from 1953–92. There is no single curve that will fit the data, but there are three rough aggregations—1955–71, 1974–84, and 1985–92—each of which shows a general, downwards slope, but at three very different levels with the shifts occurring abruptly. The data for 1953–54 and 1972–73 do not group easily, and a more formal analysis posits up to five groups/curves over the period.<ref name=chang/>
+
+But still today, modified forms of the Phillips curve that take inflationary expectations into account remain influential. The theory goes under several names, with some variation in its details, but all modern versions distinguish between short-run and long-run effects on unemployment. Modern Phillips curve models include both a short-run Phillips Curve and a long-run  Phillips Curve. This is because in the short run, there is generally an inverse relationship between inflation and the unemployment rate; as illustrated in the downward sloping short-run Phillips curve. In the long run, that relationship breaks down and the economy eventually returns to the natural rate of unemployment regardless of the inflation rate.<ref>{{Cite web|url=http://www.apeconreview.com/phillips-curve.html|title=AP Macroeconomics Review: Phillips Curve|last=Jacob|first=Reed|date=2016|website=APEconReview.com|publisher=|access-date=}}</ref>
+
+The "short-run Phillips curve" is also called the "expectations-augmented Phillips curve", since it shifts up when inflationary expectations rise, [[Edmund Phelps]] and [[Milton Friedman]] argued. In the long run, this implies that monetary policy cannot affect unemployment, which adjusts back to its "[[natural rate of unemployment|natural rate]]", also called the "NAIRU" or "long-run Phillips curve". However, this long-run "[[neutrality of money|neutrality]]" of monetary policy does allow for short run fluctuations and the ability of the monetary authority to temporarily decrease unemployment by increasing permanent inflation, and vice versa. The popular textbook of [[Olivier Blanchard|Blanchard]] gives a textbook presentation of the expectations-augmented Phillips curve.<ref>{{cite book |last=Blanchard |first=Olivier |title=Macroeconomics |publisher=Prentice Hall |edition=Second |year=2000 |isbn=978-0-13-013306-9 |pages=149–55 |url=https://books.google.com/books?id=Dxu3AAAAIAAJ&pg=PA149 }}</ref>
+
+An equation like the expectations-augmented Phillips curve also appears in many recent [[New Keynesian economics|New Keynesian]] [[dynamic stochastic general equilibrium]] models. As Keynes mentioned: "A Government has to remember, however, that even if a tax is not prohibited it may be unprofitable, and that a medium, rather than an extreme, imposition will yield the greatest gain".<ref>{{cite book |last1=Keynes |first1=John Maynard |title=Monetary Reform |date=1924 |publisher=Hancourt |location=New York |page=54–55 |doi=10.1086/318607 }}</ref> In these [[macroeconomic model]]s with [[sticky (economics)|sticky prices]], there is a positive relation between the rate of inflation and the level of demand, and therefore a negative relation between the rate of inflation and the rate of unemployment. This relationship is often called the "New Keynesian Phillips curve".  Like the expectations-augmented Phillips curve, the New Keynesian Phillips curve implies that increased inflation can lower unemployment temporarily, but cannot lower it permanently. Two influential papers that incorporate a New Keynesian Phillips curve are [[Richard Clarida|Clarida]], [[Jordi Galí|Galí]], and [[Mark Gertler (economist)|Gertler]] (1999),<ref>{{cite journal |last=Clarida |first=Richard |author2=Galí, Jordi |author3=Gertler, Mark  |year=1999 |title=The science of monetary policy: a New-Keynesian perspective |journal=Journal of Economic Literature |volume=37 |issue=4 |pages=1661–1707 |doi= 10.1257/jel.37.4.1661|jstor= 2565488|hdl=10230/360 |url=http://repositori.upf.edu/bitstream/10230/360/1/356.pdf }}</ref> and [[Olivier Blanchard|Blanchard]] and [[Jordi Galí|Galí]] (2007).<ref>{{cite journal |last=Blanchard |first=Olivier |author2=Galí, Jordi |year=2007 |title=Real Wage Rigidities and the New Keynesian Model |journal=Journal of Money, Credit, and Banking |volume=39 |issue=s1 |pages=35–65 |doi=10.1111/j.1538-4616.2007.00015.x |hdl=1721.1/64018 |url=http://www.nber.org/papers/w11806.pdf }}</ref>
+
+==Mathematics==
+There are at least two different mathematical derivations of the Phillips curve. First, there is the traditional or [[Keynesian]] version. Then, there is the new Classical version associated with [[Robert E. Lucas, Jr.]]
+
+===The traditional Phillips curve===
+The original Phillips curve literature was not based on the unaided application of economic theory. Instead, it was based on empirical generalizations. After that, economists tried to develop theories that fit the data.
+
+====Money wage determination====
+The traditional Phillips curve story starts with a wage Phillips Curve, of the sort described by Phillips himself. This describes the rate of growth of money wages (''gW''). Here and below, the operator ''g'' is the equivalent of "the percentage rate of growth of" the variable that follows.
+:<math>gW = gW^T - f(U)</math>
+The "money wage rate" (''W'') is shorthand for total money wage costs per production employee, including benefits and payroll taxes. The focus is on only production workers' money wages, because (as discussed below) these costs are crucial to pricing decisions by the firms.
+
+This equation tells us that the growth of money wages rises with the trend rate of growth of money wages (indicated by the superscript ''T'') and falls with the unemployment rate (''U''). The function ''f'' is assumed to be monotonically increasing with ''U'' so that the dampening of money-wage increases by unemployment is shown by the negative sign in the equation above.
+
+There are several possible stories behind this equation. A major one is that money wages are set by ''bilateral negotiations'' under partial [[bilateral monopoly]]: as the unemployment rate rises, ''all else constant'' worker bargaining power falls, so that workers are less able to increase their wages in the face of employer resistance.
+
+During the 1970s, this story had to be modified, because (as the late [[Abba Lerner]] had suggested in the 1940s) workers try to keep up with inflation. Since the 1970s, the  equation has been changed to introduce the role of inflationary expectations (or the expected inflation rate, ''gP''<sup>ex</sup>). This produces the expectations-augmented wage Phillips curve:
+
+:<math>gW = gW^T - f(U) + \lambda.gP^\text{ex}.</math>
+
+The introduction of inflationary expectations into the equation implies that actual inflation can ''feed back'' into inflationary expectations and thus cause further inflation. The late economist [[James Tobin]] dubbed the last term "inflationary inertia," because in the current period, inflation exists which represents an inflationary impulse left over from the past.
+
+It also involved much more than expectations, including the price-wage spiral. In this spiral, employers try to protect profits by raising their prices and employees try to keep up with inflation to protect their real wages. This process can feed on itself, becoming a self-fulfilling prophecy.
+
+The parameter '''λ''' (which is presumed constant during any time period) represents the degree to which employees can gain money wage increases to keep up with expected inflation, preventing a fall in expected real wages. It is usually assumed that this parameter equals 1 in the long run.
+
+In addition, the function '''f'''() was modified to introduce the idea of the [[non-accelerating inflation rate of unemployment]] (NAIRU) or what's sometimes called the "natural" rate of unemployment or the
+inflation-threshold unemployment rate:
+
+: [1]  ''gW'' = ''gW<sup>T</sup>'' − ''f''(''U'' − ''U*'')  +  ''λ''·''gP''<sup>ex</sup>.
+
+Here, ''U*'' is the NAIRU. As discussed below, if ''U'' < ''U''*, inflation tends to accelerate. Similarly, if ''U'' > ''U''*, inflation tends to slow. It is assumed that ''f''(0) = 0, so that when ''U'' = ''U''*, the ''f'' term drops out of the equation.
+
+In equation [1], the roles of  '''gW<sup>T</sup>''' and '''gP<sup>ex</sup>''' seem to be redundant, playing much the same role. However, assuming that '''λ'''  is equal to unity, it can be seen that they are not. If the trend rate of growth of money wages equals zero, then the case where '''U''' equals '''U*''' implies that '''gW''' equals expected inflation. That is, expected real wages are constant.
+
+In any reasonable economy, however, having constant expected real wages could only be consistent with actual real wages that are constant over the long haul.  This does not fit with economic experience in the U.S. or any other major industrial country. Even though real wages have not risen much in recent years, there have been important increases over the decades.
+
+An alternative is to assume that the trend rate of growth of money wages equals the trend rate of growth of average labor productivity ('''Z'''). That is:
+
+: [2]  '''gW<sup>T</sup>''' = '''gZ<sup>T</sup>'''.
+
+Under assumption [2], when '''U''' equals '''U*''' and '''λ''' equals unity, expected real wages would increase with labor productivity. This would be consistent with an economy in which actual real wages increase with labor productivity. Deviations of real-wage trends from those of labor productivity might be explained by reference to other variables in the model.
+
+====Pricing decisions====
+Next, there is price behavior. The standard assumption is that markets are ''imperfectly competitive'', where most businesses have some power to set prices. So the model assumes that the average business sets a unit price ('''P''') as a mark-up ('''M''') over the [[unit labor cost]] in production measured at a standard rate of capacity utilization (say, at 90 percent use of plant and equipment) and then adds in the unit materials cost.
+
+The standardization involves later ignoring deviations from the trend in labor productivity. For example, assume that the growth of labor productivity is the same as that in the trend and that current productivity equals its trend value:
+
+: '''gZ''' = '''gZ<sup>T</sup>''' and '''Z''' = '''Z<sup>T</sup>'''.
+
+The markup reflects both the firm's degree of market power and the extent to which overhead costs have to be paid. Put another way, all else equal, '''M''' rises with the firm's power to set prices or with a rise of overhead costs relative to total costs.
+
+So pricing follows this equation:
+
+:'''P''' = '''M''' × ('''unit labor cost''') + '''(unit materials cost)'''
+
+:: = '''M''' × ('''total production employment cost''')/('''quantity of output''') + '''UMC'''.
+
+'''UMC''' is unit raw materials cost (total raw materials costs divided by total output). So the equation can be restated as:
+
+:'''P ''' = ''' M ''' × ('''production employment cost per worker''')/('''output per production employee''') + ''' UMC'''.
+
+This equation can again be stated as:
+
+:'''P''' = '''M'''×('''average money wage''')/('''production labor productivity''') + '''UMC'''
+
+:: = '''M'''×('''W'''/'''Z''') + '''UMC'''.
+
+Now, assume that both the average price/cost mark-up ('''M''') and '''UMC''' are constant. On the other hand, labor productivity grows, as before.  Thus, an equation determining the price inflation rate ('''gP''') is:
+
+: '''gP''' = '''gW''' − '''gZ<sup>T</sup>'''.
+
+====Price====
+Then, combined with the wage Phillips curve [equation 1] and the assumption made above about the trend behavior of money wages [equation 2], this price-inflation equation gives us a simple expectations-augmented price Phillips curve:
+
+: '''gP''' = −'''f'''('''U''' − '''U*''') + '''λ'''·'''gP<sup>ex</sup>'''.
+
+Some assume that we can simply add in '''gUMC''', the rate of growth of '''UMC''', in order to represent the role of supply shocks (of the sort that plagued the U.S. during the 1970s). This produces a standard short-term Phillips curve:
+
+: '''gP''' = −'''f'''('''U''' − '''U*''')  + '''λ'''·'''gP<sup>ex</sup>''' + '''gUMC'''.
+
+Economist [[Robert J. Gordon]] has called this the "Triangle Model" because it explains short-run inflationary behavior by three factors: demand inflation (due to low unemployment), supply-shock inflation ('''gUMC'''), and inflationary expectations or inertial inflation.
+
+In the ''long run'', it is assumed, inflationary expectations catch up with and equal actual inflation so that '''gP''' = '''gP<sup>ex</sup>'''. This represents the long-term equilibrium of expectations adjustment. Part of this adjustment may involve the adaptation of expectations to the experience with actual inflation. Another might involve guesses made by people in the economy based on other evidence. (The latter idea gave us the notion of so-called [[rational expectations]].)
+
+Expectational equilibrium gives us the long-term Phillips curve. First,  with '''λ''' less than unity:
+
+:'''gP''' = [1/(1 − '''λ''')]·(−'''f'''('''U''' − '''U*''') + '''gUMC''').
+
+This is nothing but a steeper version of the short-run Phillips curve above. Inflation rises as unemployment falls, while this connection is stronger. That is, a low unemployment rate (less than '''U*''') will be associated with a higher inflation rate in the long run than in the short run. This occurs because the actual higher-inflation situation seen in the short run feeds back to raise inflationary expectations, which in turn raises the inflation rate further. Similarly, at high unemployment rates (greater than '''U*''') lead to low inflation
+rates. These in turn encourage lower inflationary expectations, so that inflation itself drops again.
+
+This logic goes further if '''λ''' is equal to unity, i.e., if workers are able to protect their wages ''completely'' from expected inflation, even in the short run. Now, the Triangle Model equation becomes:
+
+:- '''f'''('''U''' − '''U*''') = '''gUMC'''.
+
+If we further assume (as seems reasonable) that there are no long-term supply shocks, this can be simplified to become:
+
+: −'''f'''('''U''' − '''U*''') = 0 which implies that  '''U''' = '''U*'''.
+
+All of the assumptions imply that in the long run, there is only one possible unemployment rate, '''U*''' at any one time. This uniqueness explains why some call this unemployment rate "natural."
+
+To truly understand and criticize the uniqueness of '''U*''', a more sophisticated and realistic model is needed. For example, we might introduce the idea that workers in different sectors push for money wage increases that are similar to those in other sectors. Or we might make the model even more realistic. One important place to look is at the determination of the mark-up, '''M'''.
+
+===New classical version===
+The Phillips curve equation can be derived from the (short-run) [[Lucas aggregate supply function]]. The Lucas approach is very different from that of the traditional view. Instead of starting with empirical data, he started with a classical economic model following very simple economic principles.
+
+Start with the [[aggregate supply]] function:
+
+:<math>Y = Y_n + a (P-P_e) \, </math>
+
+where '''''Y''''' is log value of the actual [[output (economics)|output]], '''''Y<sub>n</sub>''''' is log value of the "natural" level of output, '''''a''''' is a positive constant, '''''P''''' is log value of the actual [[price level]], and '''''P<sub>e</sub>''''' is log value of the expected [[price level]]. Lucas assumes that '''Y<sub>''n''</sub>''' has a unique value.
+
+Note that this equation indicates that when expectations of future inflation (or, more correctly, the future price level) are ''totally accurate'', the last term drops out, so that actual output equals the so-called "natural" level of real GDP.  This means that in the Lucas aggregate supply curve, the ''only'' reason why actual real GDP should deviate from potential—and the actual unemployment rate should deviate from the "natural" rate—is because of ''incorrect expectations'' of what is going to happen with prices in the future. (The idea has been expressed first by [[John Maynard Keynes|Keynes]], ''[[The General Theory of Employment, Interest and Money|General Theory]]'', Chapter 20 section III paragraph 4).
+
+This differs from other views of the Phillips curve, in which the failure to attain the "natural" level of output can be due to the imperfection or incompleteness of markets, the stickiness of prices, and the like. In the non-Lucas view, incorrect expectations can contribute to aggregate demand failure, but they are not the only cause. To the "new Classical" followers of Lucas, markets are presumed to be perfect and always attain equilibrium (given inflationary expectations).
+
+We re-arrange the equation into:
+
+:<math> P = P_e + \frac{Y-Y_n}{a} </math>
+
+Next we add unexpected exogenous shocks to the world supply '''''v''''':
+
+:<math> P = P_e + \frac{Y-Y_n}{a} + v </math>
+
+Subtracting last year's price levels '''''P<sub>−1</sub>''''' will give us inflation rates, because
+
+:<math> P-P_{-1}\ \approx \pi </math>
+
+and
+
+:<math> P_e- P_{-1}\ \approx \pi_e </math>
+
+where '''π''' and '''π<sub>e</sub>''' are the [[inflation]] and expected inflation respectively.
+
+There is also a negative relationship between output and unemployment (as expressed by [[Okun's law]]). Therefore, using
+:<math>\frac{Y-Y_n}{a} = -b(U-U_n) </math>
+where '''''b''''' is a positive constant, '''''U''''' is unemployment, and '''''U<sub>n</sub>''''' is the [[natural rate of unemployment]] or [[NAIRU]], we arrive at the final form of the short-run Phillips curve:
+
+:<math> \pi = \pi_e - b(U-U_n) + v \, </math>
+
+This equation, plotting inflation rate '''π''' against unemployment '''''U''''' gives the downward-sloping curve in the diagram that characterises the Phillips curve.
+
+===New Keynesian version===
+The New Keynesian Phillips curve was originally derived by Roberts in 1995,<ref>{{cite journal |last=Roberts |first=John M. |year=1995 |title=New Keynesian Economics and the Phillips Curve |journal=[[Journal of Money, Credit and Banking]] |volume=27 |issue=4 |pages=975–984 |jstor=2077783 |doi=10.2307/2077783 }}</ref> and since been used in most state-of-the-art New Keynesian DSGE models like the one of Clarida, Galí, and Gertler (2000).<ref>{{cite journal |last=Clarida |first=Richard |last2=Galí |first2=Jordi |last3=Gertler |first3=Mark |year=2000 |title=Monetary Policy Rules and Macroeconomic Stability: Evidence and Some Theory |journal=[[The Quarterly Journal of Economics]] |volume=115 |issue=1 |pages=147–180 |doi=10.1162/003355300554692 |citeseerx=10.1.1.111.7984 }}</ref><ref>{{cite book |last=Romer |first=David |year=2012 |chapter=Dynamic Stochastic General Equilibrium Models of Fluctuation |title=Advanced Macroeconomics |publisher=McGraw-Hill Irwin |location=New York |pages=312–364 |isbn=978-0-07-351137-5 |chapterurl=https://books.google.com/books?id=xTovPwAACAAJ&pg=PA312 }}</ref>
+
+:<math>\pi_{t} = \beta E_{t}[\pi_{t+1}] + \kappa y_{t}</math>
+
+where <math>\kappa = \frac{\alpha[1-(1-\alpha)\beta]\phi}{1-\alpha}</math>. The current expectations of next period's inflation are incorporated as <math>\beta E_{t}[\pi_{t+1}]</math>
+
+==NAIRU and rational expectations==
+[[File:NAIRU-SR-and-LR.svg|thumb|right|200px|Short-Run Phillips Curve before and after Expansionary Policy, with Long-Run Phillips Curve (NAIRU)]]
+In the 1970s, new theories, such as [[rational expectations]] and the [[NAIRU]] (non-accelerating inflation rate of unemployment) arose to explain how [[stagflation]] could occur. The latter theory, also known as the "[[natural rate of unemployment]]", distinguished between the "short-term" Phillips curve and the "long-term" one. The short-term Phillips Curve looked like a normal Phillips Curve but shifted in the long run as expectations changed. In the long run, only a single rate of unemployment (the NAIRU or "natural" rate) was consistent with a stable inflation rate. The long-run Phillips Curve was thus vertical, so there was no trade-off between inflation and unemployment. [[Edmund Phelps]] won the [[Nobel Prize in Economics]] in 2006 in part for this work. However, the expectations argument was in fact very widely understood (albeit not formally) before Phelps' work on it.<ref>{{cite journal|last1=Forder|first1=James|title=The historical place of the 'Friedman-Phelps' expectations critique|journal=European Journal of the History of Economic Thought|date=2010|volume=17|issue=3|pages=493–511|doi=10.1080/09672560903114875|url=http://www.economics.ox.ac.uk/materials/working_papers/paper399.pdf}}</ref>
+
+In the diagram, the long-run Phillips curve is the vertical red line. The NAIRU theory says that when unemployment is at the rate defined by this line, inflation will be stable. However, in the short-run policymakers will face an inflation-unemployment rate trade-off marked by the "Initial Short-Run Phillips Curve" in the graph. Policymakers can, therefore, reduce the unemployment rate temporarily, moving from point '''A''' to point '''B''' through expansionary policy. However, according to the NAIRU, exploiting this short-run trade-off will raise inflation expectations, shifting the short-run curve rightward to the "new short-run Phillips curve" and moving the point of equilibrium from '''B''' to '''C'''.  Thus the reduction in unemployment below the "Natural Rate" will be temporary, and lead only to higher inflation in the long run.
+
+Since the short-run curve shifts outward due to the attempt to reduce unemployment, the expansionary policy ultimately worsens the exploitable trade-off between unemployment and inflation. That is, it results in more inflation at each short-run unemployment rate. The name "NAIRU" arises because with actual unemployment below it, inflation accelerates, while with unemployment above it, inflation decelerates. With the actual rate equal to it, inflation is stable, neither accelerating nor decelerating. One practical use of this model was to explain stagflation, which confounded the traditional Phillips curve.
+
+The rational expectations theory said that expectations of inflation were equal to what actually happened, with some minor and temporary errors. This, in turn, suggested that the short-run period was so short that it was non-existent: any effort to reduce unemployment below the NAIRU, for example, would ''immediately'' cause inflationary expectations to rise and thus imply that the policy would fail. Unemployment would never deviate from the NAIRU except due to random and transitory mistakes in developing expectations about future inflation rates. In this perspective, any deviation of the actual unemployment rate from the NAIRU was an illusion.
+
+However, in the 1990s in the U.S., it became increasingly clear that the NAIRU did not have a unique equilibrium and could change in unpredictable ways. In the late 1990s, the actual [[unemployment]] rate fell below 4% of the labor force, much lower than almost all estimates of the NAIRU. But inflation stayed very moderate rather than accelerating. So, just as the Phillips curve had become a subject of debate, so did the NAIRU.
+
+Furthermore, the concept of [[rational expectations]] had become subject to much doubt when it became clear that the main assumption of models based on it was that there exists a single (unique) [[Economic equilibrium|equilibrium]] in the economy that is set ahead of time, determined independently of demand conditions. The experience of the 1990s suggests that this assumption cannot be sustained.
+
+==Theoretical questions==
+{{Unreferenced section|date=October 2007}}
+The Phillips curve started as an empirical observation in search of a theoretical explanation.{{citation needed|date=June 2016}} Specifically, the Phillips curve tried to determine whether the inflation-unemployment link was [[Correlation does not imply causation|causal or simply correlational]]. There are several major explanations of the short-term Phillips curve regularity.
+
+To [[Milton Friedman]] there is a short-term correlation between inflation shocks and employment. When an inflationary surprise occurs, workers are fooled into accepting lower pay because they do not see the fall in real wages right away. Firms hire them because they see the inflation as allowing higher profits for given nominal wages. This is a movement along the Phillips curve as with change '''A'''. Eventually, workers discover that real wages have fallen, so they push for higher money wages. This causes the Phillips curve to shift upward and to the right, as with '''B'''. Some research underlines that some implicit and serious assumptions are actually in the background of the Friedmanian Phillips curve. This information asymmetry and a special pattern of flexibility of prices and wages are both necessary if one wants to maintain the mechanism told by Friedman. However, as it is argued, these presumptions remain completely unrevealed and theoretically ungrounded by Friedman.<ref>{{cite book |last=Galbács |first=Peter |title=The Theory of New Classical Macroeconomics. A Positive Critique |location=Heidelberg/New York/Dordrecht/London |publisher=Springer |year=2015 |isbn= 978-3-319-17578-2|doi=10.1007/978-3-319-17578-2|series=Contributions to Economics }}</ref>
+
+Economists such as [[Edmund Phelps]] reject this theory because it implies that workers suffer from [[money illusion]]. According to them, rational workers would only react to [[real wages]], that is, inflation adjusted wages. However, one of the characteristics of a modern industrial economy is that workers do not encounter their employers in an atomized and perfect market. They operate in a complex combination of imperfect markets, [[monopoly|monopolies]], [[monopsony|monopsonies]], [[labor unions]], and other institutions. In many cases, they may lack the [[bargaining power]] to ''act on'' their expectations, no matter how rational they are, or their perceptions, no matter how free of money illusion they are. It is not that high inflation ''causes'' low unemployment (as in Milton Friedman's theory) as much as ''vice versa'': Low unemployment raises worker bargaining power, allowing them to successfully push for higher nominal wages. To protect profits, employers raise prices.
+
+Similarly, built-in inflation is not simply a matter of subjective "inflationary expectations" but also reflects the fact that high inflation can gather momentum and continue beyond the time when it was started, due to the objective price/wage spiral.
+
+However, other economists, like Jeffrey Herbener, argue that price is market-determined and competitive firms cannot simply raise prices.{{Citation needed|date=July 2009}} They reject the Phillips curve entirely, concluding that unemployment's influence is only a small portion of a much larger inflation picture that includes prices of raw materials, intermediate goods, cost of raising capital, worker productivity, land, and other factors.
+
+===Gordon's triangle model===
+[[Robert J. Gordon]] of [[Northwestern University]] has analyzed the Phillips curve to produce what he calls the [[Inflation#Keynesian view|triangle model]], in which the actual inflation rate is determined by the sum of
+
+#[[demand pull inflation|demand pull or short-term Phillips curve inflation]],
+#[[cost push inflation|cost push or supply shocks]], and
+#[[built-in inflation]].
+
+The last reflects inflationary expectations and the [[price/wage spiral]]. Supply shocks and changes in built-in inflation are the main factors shifting the short-run Phillips curve and changing the trade-off. In this theory, it is not only inflationary expectations that can cause stagflation. For example, the steep climb of oil prices during the 1970s could have this result.
+
+Changes in built-in inflation follow the [[adaptive expectations|partial-adjustment]] logic behind most theories of the NAIRU:
+
+# Low unemployment encourages high inflation, as with the simple Phillips curve. But if unemployment stays low and inflation stays high ''for a long time'', as in the late 1960s in the U.S., both inflationary expectations and the price/wage spiral accelerate. This ''shifts'' the short-run Phillips curve upward and rightward, so that more inflation is seen at any given unemployment rate. (This is with shift '''B''' in the diagram.)
+# High unemployment encourages low inflation, again as with a simple Phillips curve. But if unemployment stays high and inflation stays low for a long time, as in the early 1980s in the U.S., both inflationary expectations and the price/wage spiral slow. This ''shifts'' the short-run Phillips curve downward and leftward, so that less inflation is seen at each unemployment rate.
+
+In between these two lies the NAIRU, where the Phillips curve does not have any inherent tendency to shift, so that the inflation rate is stable.  However, there seems to be a range in the middle between "high" and "low" where built-in inflation stays stable. The ends of this "non-accelerating inflation range of unemployment rates" change over time.
+
+==See also==
+{{cols}}
+*{{section link|David Blanchflower#The Wage Curve}}
+*[[Goodhart's law]]
+*[[MONIAC Computer]]
+*[[New Keynesian economics]]
+*[[Wage curve]]
+*[[Shapiro–Stiglitz theory]]
+{{colend}}
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+*[[Federal Reserve Bank of Boston]], [http://www.bos.frb.org/economic/conf/conf53/index.htm "Understanding Inflation and the Implications for Monetary Policy: A Phillips Curve Retrospective"], FRBB Conference Series 53, June 9–11, 2008, Chatham, Massachusetts.
+* {{cite journal |last=Gordon |first=Robert J. |authorlink=Robert J. Gordon |title=The History of the Phillips Curve: Consensus and Bifurcation |journal=Economica |volume=78 |issue=309 |pages=10–50 |year=2011 |doi=10.1111/j.1468-0335.2009.00815.x }}
+* {{cite book |first=Jeffrey M. |last=Herbener |chapter=The Fallacy of the Phillips Curve |title=Dissent on Keynes: A Critical Appraisal of Keynesian Economics |location=New York |publisher=Praeger |year=1992 |isbn=978-0-275-93778-2 |pages=51–71 |chapterurl=https://books.google.com/books?id=8j-6AAAAIAAJ&pg=PA51 }}
+*M Friedman, ‘The Role of Monetary Policy’ (1968) 58(1) American Economic Review 1
+* {{cite encyclopedia |last1=Hoover |first1=Kevin D.  |authorlink1= Kevin Hoover |editor= [[David R. Henderson]]|encyclopedia=[[Concise Encyclopedia of Economics]] |title=Phillips Curve |url=http://www.econlib.org/library/Enc/PhillipsCurve.html |year=2008 |edition= 2nd |publisher=[[Library of Economics and Liberty]] |location=Indianapolis |isbn=978-0865976658 |oclc=237794267}}
+*E McGaughey, 'Will Robots Automate Your Job Away? Full Employment, Basic Income, and Economic Democracy' (2018) [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3044448 SSRN, part 2(1)]
+*[[A. W. Phillips]], ‘The Relation between Unemployment and the Rate of Change of Money Wage Rates in the United Kingdom 1861–1957’ (1958) [https://www.jstor.org/stable/2550759 25 Economica 283]
+* {{cite journal |last=Qin |first=Duo |year=2011 |title=The Phillips Curve from the Perspective of the History of Econometrics |journal=[[History of Political Economy]] |volume=43 |issue=Suppl. 1 |pages=283–308 |doi=10.1215/00182702-1158763 }}
+
+==External links==
+*[http://www.dollarsandsense.org/archives/2006/0906drdollar.html Left critique of Phillips Curve] from [[Dollars & Sense]] magazine
+*[https://mises.org/library/phillips-curve A Critique of the Phillips Curve] by Charles Oliver, [[Ludwig von Mises Institute]], February 9, 1999 (includes the article "''Who's Afraid Of A Red-Hot Economy?''", [[Investor's Business Daily]], February 9, 1999)
+*[https://mises.org/MultiMedia/mp3/Keynes89/05_Keynes_Herbener.mp3 Audio speech] by Jeffery Herbener at the Ludwig Von Mises Institute.
+*"Of Hume, Thornton, the Quantity Theory, and the Phillips Curve." by [[Thomas M. Humphrey]]. Federal Reserve Bank of Richmond Economic Review, 1982.[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2120005]
+
+{{Employment}}
+{{Economics}}
+
+[[Category:Economics models]]
+[[Category:Economics curves]]
+[[Category:Monetary policy]]
+[[Category:Unemployment]]
+[[Category:1958 in economics]]

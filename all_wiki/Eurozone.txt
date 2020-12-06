@@ -1,0 +1,935 @@
+{{short description|Area in which the euro is the official currency}}
+{{Use dmy dates|date=December 2017}}
+{{Infobox
+|title        = Euro area
+|bodystyle    = width:4px
+|headerstyle  = background:#efefef;
+|image        = {{Eurozone labelled map interior|float=none|class=}}
+|label1       = Policy of
+|data1        = European Union
+|label2       = Type
+|data2        = [[Currency union|Monetary union]]
+|label3       = Currency
+|data3        = [[Euro]]
+|label4       = Established
+|data4        = 1 January 1999
+|label5       = Members
+|data5        = {{Collapsible list|titlestyle=font-weight:normal; background:transparent; text-align:left;|title=19 states|Austria|Belgium|Cyprus|Estonia|Finland|France|Germany|Greece|Ireland|Italy|Latvia|Lithuania|Luxembourg|Malta|Netherlands|Portugal|Slovakia|Slovenia|Spain|<small>[[International status and usage of the euro|Further usage]]</small>}}
+|header6      = Governance
+|label7       = Political control
+|data7        = [[Eurogroup]]
+|label8       = [[Euro Group#President|Group president]]
+|data8        = [[Paschal Donohoe]]
+|label9       = [[Central bank|Issuing authority]]
+|data9        = [[European Central Bank]]
+|label10      = [[President of the European Central Bank|ECB president]]
+|data10       = [[Christine Lagarde]]
+|header11     = Statistics
+|label12      = Area
+|data12       = 2,753,828 km<sup>2</sup>
+|label13      = Population
+|data13       = 342,806,623 {{increase}}<ref name="population">{{cite web|url=https://ec.europa.eu/eurostat/databrowser/view/tps00001/default/table?lang=en |title=Total population as of 1 January 2020. Euro area (19 countries)|publisher=Epp.eurostat.ec.europa.eu}}</ref>
+|label14      = Density
+|data14       = 124/km<sup>2</sup>
+|label15      = GDP (Nominal)
+|data15       = $12.712 trillion<ref>https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?a=1&c=163,&s=NGDPD,&sy=2019&ey=2025&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1</ref>
+|label16      = [[Monetary policy#Interest rates|Interest rate]]
+|data16       = -0.50%<ref name="interest rates"/>
+|label17      = Inflation
+|data17       = 0.2%<ref>[http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tec00118&plugin=1 HICP – all items – annual average inflation rate] Eurostat</ref>
+|label18      = Unemployment<sup>(2019)</sup>
+|data18       = 7.5%<ref>[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=teilm020&tableSelection=1&plugin=1 Harmonised unemployment rate by gender – total – [teilm020,; Total % (SA)] Eurostat</ref>
+|label19      = [[List of countries by current account balance|Trade balance]]
+|data19       = €362 billion trade surplus<ref> https://www.reuters.com/article/eurozone-economy-currentaccount/euro-zone-2019-current-account-surplus-steady-at-31-gdp-ecb-idUSF9N2AB003</ref>
+}}
+{{Politics of the European Union}}
+
+The '''eurozone''', officially called the '''euro area''',<ref>{{cite web |publisher=the EU Publications Office |title=Countries, languages, currencies |work=Interinstitutional style guide |url=http://publications.europa.eu/code/en/en-370300.htm |access-date=2 February 2009}}<br />[http://www.ecb.int/euro/intro/html/map.en.html The euro area] {{webarchive |url=https://web.archive.org/web/20130806204322/http://www.ecb.int/euro/intro/html/map.en.html |date=6 August 2013}}, [[European Central Bank]]</ref> is a [[monetary union]] of 19 [[Member state of the European Union|member states]] of the [[European Union]] (EU) that have adopted the [[euro]] ([[Euro sign|€]]) as their primary [[currency]] and sole [[legal tender]]. The [[monetary authority]] of the eurozone is the [[Eurosystem]]. Eight members of the European Union continue to use their own national currencies, although most of them will be obliged to adopt the euro in the future.
+
+The eurozone consists of Austria, Belgium, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Portugal, Slovakia, Slovenia, and Spain. Other EU states (except for Denmark) are obliged to join once they meet the [[Euro convergence criteria|criteria]] to do so.<ref>{{Cite web|title=Who can join and when?|url=https://ec.europa.eu/info/business-economy-euro/euro-area/enlargement-euro-area/who-can-join-and-when_en|access-date=2020-12-02|website=European Commission - European Commission|language=en}}</ref> No state has left, and there are no provisions to do so or to be expelled.<ref>{{cite news |last=Fox |first=Benjamin |title=Dutch PM: Eurozone needs exit clause |url=http://euobserver.com/political/118925 |access-date=18 June 2013 |newspaper=EUobserver.com |date=1 February 2013}}</ref> [[Andorra–European Union relations|Andorra]], [[Monaco–European Union relations|Monaco]], [[San Marino–European Union relations|San Marino]], and [[Holy See-European Union relations|Vatican City]] have formal agreements with the EU to use the euro as their official currency and issue their own coins.<ref name="agreements"/><ref name=design>{{cite web |url=http://www.andorra-euro.com/en/news1.html |title=The government announces a contest for the design of the Andorran euros |date=19 March 2013 |access-date=26 March 2013 |publisher=Andorra Mint |url-status=dead |archive-url=https://web.archive.org/web/20130822005234/http://www.andorra-euro.com/en/news1.html |archive-date=22 August 2013 |df=dmy-all}}</ref><ref name="amisdeleuro">{{cite web |url=http://www.amisdeleuro.org/news.php?news_id=603&lg=fr |archive-url=https://web.archive.org/web/20131004224909/http://www.amisdeleuro.org/news.php?news_id=603&lg=fr |url-status=dead |archive-date=4 October 2013|title=Nouvelles d'Andorre |date=1 February 2013 |access-date=2 February 2013 |language=fr}}</ref> Kosovo and Montenegro have adopted the euro unilaterally,<ref name="agreements 2"/> but these countries do not officially form part of the eurozone and do not have representation in the [[European Central Bank]] (ECB) or in the Eurogroup.<ref>A [http://www.ecb.int/home/glossary/html/glosse.en.html glossary] {{webarchive |url=https://web.archive.org/web/20130514162558/http://www.ecb.int/home/glossary/html/glosse.en.html |date=14 May 2013}} issued by the [[European Central Bank|ECB]] defines "euro area", without mention of Monaco, San Marino, or the Vatican.</ref>
+
+The ECB, which is governed by a president and a board of the heads of national [[central bank]]s, sets the [[monetary policy]] of the zone. The principal task of the ECB is to keep inflation under control. Though there is no common representation, governance or [[fiscal policy]] for the [[currency union]], some co-operation does take place through the [[Eurogroup]], which makes political decisions regarding the eurozone and the euro. The Eurogroup is composed of the finance ministers of eurozone states, but in emergencies, national leaders also form the Eurogroup.
+
+Since the [[financial crisis of 2007–2008]], the eurozone has established and used provisions for granting emergency loans to member states in return for enacting economic reforms.{{Citation needed|date=March 2020}} The eurozone has also enacted some limited [[fiscal union|fiscal integration]]: for example, in peer review of each other's national budgets. The issue is political and in a state of flux in terms of what further provisions will be agreed for eurozone change.
+
+==Territory==
+===European Union member states===
+In 1998, eleven [[Member state of the European Union|member states of the European Union]] had met the [[euro convergence criteria]], and the eurozone came into existence with the official launch of the euro (alongside national currencies) on 1 January 1999. Greece qualified in 2000, and was admitted on 1 January 2001 before physical [[Euro banknotes|notes]] and [[Euro coins|coins]] were introduced on 1 January 2002, replacing all national currencies. Between 2007 and 2015, seven new states acceded.
+
+{| class="wikitable sortable" style="font-size:90%; line-height:1.33"
+|-
+! [[Member state of the European Union|State]]
+! [[Enlargement of the eurozone|Adopted]]
+! Population<ref name="population" /><br />2019
+! Nominal [[Gross National Income|GNI]]<br />2014<br />(USD,<br />millions)<ref>{{cite web |url=http://data.worldbank.org/indicator/NY.GNP.ATLS.CD |title=GNI, Atlas method (current US$) {{!}} Data {{!}} Table|access-date=23 June 2016 |url-status=live |archive-url=https://web.archive.org/web/20160507043605/http://data.worldbank.org/indicator/NY.GNP.ATLS.CD |archive-date=7 May 2016 |df=dmy }}</ref>
+! Relative [[Gross National Income|GNI]]<br /><small>of total, nominal</small>
+! [[Gross National Income|GNI]] per<br />capita<br /><small>nominal,<br />2014 (USD)</small><ref>{{cite web |url=http://data.worldbank.org/indicator/NY.GNP.PCAP.CD |title=GNI per capita, Atlas method (current US$) {{!}} Data |access-date=24 February 2016 |url-status=live |archive-url=https://web.archive.org/web/20161028170148/http://data.worldbank.org/indicator/NY.GNP.PCAP.CD |archive-date=28 October 2016 |df=dmy }}</ref>
+! Pre-euro<br />currency
+! class="unsortable"| Exceptions
+! class="unsortable"| [[ISO 3166-1|ISO<br />code]]
+|-
+| [[Austria]]
+| 1999-01-01<ref name=original11>{{cite journal|url=http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:31998D0317&from=EN|title=COUNCIL DECISION of 3 May 1998 in accordance with Article 109j(4) of the Treaty|date=11 May 1998|access-date=27 October 2014|journal=[[Official Journal of the European Union]]|volume=L|number=139/30}}</ref>
+|align="right"| {{formatnum:8,858,775}}
+|align="right"| {{Nts|423,906}}
+|align="right"| {{percentage | 404279  | 12701834 | pad=2}}
+|align="right"| {{Nts|49,670}} <!-- 1e6 = 1,000,000 -->
+| [[Austrian schilling|Schilling]]
+|
+| AT
+|-
+| [[Belgium]]
+| 1999-01-01<ref name=original11/>
+| align="right"| {{formatnum:11,467,923}}
+| align="right"| {{Nts|530,558}}
+| align="right"| {{percentage | 530558| 12701834 | pad=2}}
+| align="right"| {{Nts|47,260}}
+| [[Belgian franc|Franc]]
+|
+| BE
+|-
+| [[Cyprus]]
+| 2008-01-01<ref>{{cite journal|url=http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007D0503&from=EN|title=COUNCIL DECISION of 10 July 2007 in accordance with Article 122(2) of the Treaty on the adoption by Cyprus of the single currency on 1 January 2008|date=18 July 2007|access-date=27 October 2014|journal=[[Official Journal of the European Union]]|volume=L|number=186/29}}</ref>
+| align="right"| {{formatnum:875,898}}
+| align="right"| {{Nts|22,519}}
+| align="right"| {{percentage | 22519| 12701834 | pad=2}}
+| align="right"| {{Nts|26,370}}
+| [[Cypriot pound|Pound]]
+| {{small|''Northern Cyprus''}}<ref group="lower-alpha">The self-declared ''Turkish Republic of Northern Cyprus'' is not recognised by the EU and uses the [[Turkish lira]]. However the euro does circulate widely.{{citation needed|date=May 2018}}</ref>
+| CY
+|-
+| [[Estonia]]
+| 2011-01-01<ref>{{cite journal|url=http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0416&from=EN|title=COUNCIL DECISION of 13 July 2010 in accordance with Article 140(2) of the Treaty on the adoption by Estonia of the euro on 1 January 2011|date=28 July 2010|access-date=27 October 2014|journal=[[Official Journal of the European Union]]|volume=L|number=196/24}}</ref>
+| align="right"| {{formatnum:1,324,820}}
+| align="right"| {{Nts|24,994}}
+| align="right"| {{percentage | 24994 | 12701834 | pad=2}}
+| align="right"| {{Nts|19,030}}
+| [[Estonian kroon|Kroon]]
+|
+| EE
+|-
+| [[Finland]]
+| 1999-01-01<ref name=original11/>
+|align="right"| {{formatnum:5,517,919}}
+|align="right"| {{Nts|264,554}}
+|align="right"| {{percentage | 264554| 12701834 | pad=2}}
+|align="right"| {{Nts|48,420}}
+| [[Finnish markka|Markka]]
+|
+| FI
+|-
+| [[France]]
+| 1999-01-01<ref name=original11/>
+|align="right"| {{formatnum:67,028,048}}
+|align="right"| {{Nts|2,844,284}}
+|align="right"| {{percentage | 2844284| 12701834 | pad=2}}
+|align="right"| {{Nts|42,960}}
+| [[French franc|Franc]]
+| <small>[[New Caledonia]]<ref name="CFP note" group="lower-alpha">French Pacific territories use the [[CFP franc]], which is pegged to the euro.(1 franc = 0.00838 euro)</ref><br />[[French Polynesia]]<ref name="CFP note" group="lower-alpha"/><br />[[Wallis and Futuna]]<ref name="CFP note" group="lower-alpha"/></small>
+| FR
+|-
+| [[Germany]]
+| 1999-01-01<ref name=original11/>
+|align="right"| {{formatnum:83,019,214}}
+|align="right"| {{Nts|3,853,623}}
+|align="right"| {{percentage | 3853623| 12701834 | pad=2}}
+|align="right"| {{Nts|47,640}}
+| [[Deutsche Mark|Mark]]
+| 
+| DE
+|-
+| [[Greece]]
+| 2001-01-01<ref>{{cite journal|url=http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32000D0427&from=EN|title=COUNCIL DECISION of 19 June 2000 in accordance with Article 122(2) of the Treaty on the adoption by Greece of the single currency on 1 January 2001|date=7 July 2000|access-date=27 October 2014|journal=[[Official Journal of the European Union]]|volume=L|number=167/19}}</ref>
+|align="right"| {{formatnum:10,722,287}}
+|align="right"| {{Nts|250,095}}
+|align="right"| {{percentage | 250095| 12701834 | pad=2}}
+|align="right"| {{Nts|22,680}}
+| [[Greek drachma|Drachma]]
+|
+| GR
+|-
+| [[Republic of Ireland|Ireland]]
+| 1999-01-01<ref name=original11/>
+|align="right"| {{formatnum:4,904,226}}
+|align="right"| {{Nts|214,711}}
+|align="right"| {{percentage | 214711| 12701834 | pad=2}}
+|align="right"| {{Nts|46,550}}
+| [[Irish pound|Pound]]
+|
+| IE
+|-
+| [[Italy]]
+| 1999-01-01<ref name=original11/>
+|align="right"| {{formatnum:60,359,546}}
+|align="right"| {{Nts|2,147,247}}
+|align="right"| {{percentage | 2147247| 12701834 | pad=2}}
+|align="right"| {{Nts|34,270}}
+| [[Italian lira|Lira]]
+| 
+| IT
+|-
+| [[Latvia]]
+| 2014-01-01<ref>{{cite journal|url=http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32013D0387&from=EN|title=COUNCIL DECISION of 9 July 2013 on the adoption by Latvia of the euro on 1 January 2014|date=18 July 2013|access-date=27 October 2014|journal=[[Official Journal of the European Union]]|volume=L|number=195/24}}</ref>
+|align="right"| {{formatnum:1,919,968}}
+|align="right"| {{Nts|30,413}}
+|align="right"| {{percentage | 30413| 12701834 | pad=2}}
+|align="right"| {{Nts|15,280}}
+| [[Latvian lats|Lats]]
+|
+| LV
+|-
+| [[Lithuania]]
+| 2015-01-01<ref>{{cite journal|url=http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014D0509&from=EN|title=COUNCIL DECISION of 23 July 2014 on the adoption by Lithuania of the euro on 1 January 2015|date=31 July 2014|access-date=31 December 2014|journal=[[Official Journal of the European Union]]|volume=L|number=228/29}}</ref>
+|align="right"| {{formatnum:2,794,184}}
+|align="right"| {{Nts|45,185}}
+|align="right"| {{percentage | 45185| 12701834 | pad=2}}
+|align="right"| {{Nts|15,430}}
+| [[Lithuanian Litas|Litas]]
+|
+| LT
+|-
+| [[Luxembourg]]
+| 1999-01-01<ref name=original11/>
+|align="right"| {{formatnum:613,894}}
+|align="right"| {{Nts|42,256}}
+|align="right"| {{percentage | 42256| 12701834 | pad=2}}
+|align="right"| {{Nts|75,990}}
+| [[Luxembourgish franc|Franc]]
+|
+| LU
+|-
+| [[Malta]]
+| 2008-01-01<ref>{{cite journal|url=http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007D0504&from=EN|title=COUNCIL DECISION of 10 July 2007 in accordance with Article 122(2) of the Treaty on the adoption by Malta of the single currency on 1 January 2008|date=18 July 2007|access-date=27 October 2014|journal=[[Official Journal of the European Union]]|volume=L|number=186/32}}</ref>
+|align="right"| {{formatnum:493,559}}
+|align="right"| {{Nts|8,889}}
+|align="right"| {{percentage | 8889| 12701834 | pad=2}}
+|align="right"| {{Nts|21,000}}
+| [[Maltese lira|Lira]]
+|
+| MT
+|-
+| [[Netherlands]]
+| 1999-01-01<ref name=original11/>
+|align="right"| {{formatnum:17,282,163}}
+|align="right"| {{Nts|874,590}}
+|align="right"| {{percentage | 874590| 12701834 | pad=2}}
+|align="right"| {{Nts|51,890}}
+| [[Dutch guilder|Guilder]]
+| <small>Aruba<ref group="lower-alpha">Aruba is part of the Kingdom of the Netherlands, but not the EU. It uses the [[Aruban florin]], which is pegged to the US dollar.(1 dollar = 1.79 florins)</ref><br />[[Curaçao]]<ref group=lower-alpha name="Caribbean guilder group=lower-alpha">Currently uses the [[Netherlands Antillean guilder]] and had planned to introduce the [[Caribbean guilder]] in 2014, although the change has been delayed. {{cite web |url=http://www.centralbank.an/faq |title=FAQ - Central Bank |access-date=16 May 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140407084222/http://www.centralbank.an/faq |archive-date=7 April 2014 |df=dmy-all }} both are pegged to the US dollar.(1 dollar = 1.79 guilder)</ref><br />[[Sint Maarten]]<ref group="lower-alpha" name="Caribbean guilder group=lower-alpha" /><br />[[Caribbean Netherlands]]<ref group="lower-alpha">Uses the US Dollar.</ref></small>
+| NL
+|-
+| [[Portugal]]
+| 1999-01-01<ref name=original11/>
+|align="right"| {{formatnum:10,276,617}}
+|align="right"| {{Nts|222,126}}
+|align="right"| {{percentage | 222126| 12701834 | pad=2}}
+|align="right"| {{Nts|21,360}}
+| [[Portuguese escudo|Escudo]]
+|
+| PT
+|-
+| [[Slovakia]]
+| 2009-01-01<ref>{{cite journal|url=http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32008D0608&from=EN|title=COUNCIL DECISION of 8 July 2008 in accordance with Article 122(2) of the Treaty on the adoption by Slovakia of the single currency on 1 January 2009|date=24 July 2008|access-date=27 October 2014|journal=[[Official Journal of the European Union]]|volume=L|number=195/24}}</ref>
+|align="right"| {{formatnum:5,450,421}}
+|align="right"| {{Nts|96,200}}
+|align="right"| {{percentage | 96200 | 12701834 | pad=2}}
+|align="right"| {{Nts|17,750}}
+| [[Slovak koruna|Koruna]]
+|
+| SK
+|-
+| [[Slovenia]]
+| 2007-01-01<ref>{{cite journal|url=http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32006D0495&from=EN|title=COUNCIL DECISION of 11 July 2006 in accordance with Article 122(2) of the Treaty on the adoption by Slovenia of the single currency on 1 January 2007|date=15 July 2006|access-date=27 October 2014|journal=[[Official Journal of the European Union]]|volume=L|number=195/25}}</ref>
+|align="right"| {{formatnum:2,080,908}}
+|align="right"| {{Nts|48,625}}
+|align="right"| {{percentage | 48,625| 12701834 | pad=2}}
+|align="right"| {{Nts|23,580}}
+| [[Slovenian tolar|Tolar]]
+|
+| SI
+|-
+| [[Spain]]
+| 1999-01-01<ref name=original11/>
+|align="right"| {{formatnum:46,934,632}}
+|align="right"| {{Nts|1,366,027}}
+|align="right"| {{percentage | 1366027 | 12701834 | pad=2}}
+|align="right"| {{Nts|29,440}}
+| [[Spanish peseta|Peseta]]
+|
+| ES
+|- class="sortbottom"
+|colspan=2| Eurozone
+|align="right"| {{formatnum:341,925,002}}
+|align="right"| {{Nts|13,265,378}}
+|align="right"| {{percentage | 13265378| 13265378}}
+|align="right"| {{Nts|39,162}}
+| {{n/a}}
+| {{n/a}}
+| EZ{{efn|EZ is not assigned, but is reserved for this purpose, in ISO-3166-1.}}
+|}
+
+===Dependent territories of EU member states — outside EU===
+Four of the [[International status and usage of the euro#Dependent territories outside the EU|dependent territories of EU member states not part of the EU]] have adopted the euro:
+* [[Akrotiri and Dhekelia]] (British territory, with Cyprus ensuring eurozone laws are implemented,{{citation needed|date=July 2020}} adopted 2008-01-01, replacing Cypriot Pound)
+* [[Territorial collectivity of Saint Barthélemy]] (French territory, with France ensuring eurozone laws are implemented)
+* [[Overseas Collectivity of Saint-Pierre and Miquelon]] (French territory, with France ensuring eurozone laws are implemented)
+* [[French Southern and Antarctic Lands]] (French territory, with France ensuring eurozone laws are implemented)
+
+===Non-member usage===
+{{Further|International status and usage of the euro}}
+{{Euro accession map}}
+
+====With formal agreement====
+The euro is also used in countries outside the EU. Four states – Andorra, Monaco, San Marino, and Vatican City —<ref name="agreements">{{cite web| url=http://europa.eu/legislation_summaries/economic_and_monetary_affairs/institutional_and_economic_framework/l25040_en.htm| title=Agreements on monetary relations (Monaco, San Marino, the Vatican and Andorra)| date=30 September 2004| access-date=12 September 2006| publisher=European Communities}}</ref><ref name="agreements 2">{{cite web |title=The euro outside the euro area |publisher=[[Europa (web portal)]] |url=http://ec.europa.eu/economy_finance/euro/world/outside_euro_area/index_en.htm |access-date=26 February 2011}}</ref> have signed formal agreements with the EU to use the euro and issue their own coins. Nevertheless, they are not considered part of the eurozone by the ECB and do not have a seat in the ECB or Euro Group.
+
+Several currencies are pegged to the euro, some of them with a fluctuation band and others with an exact rate.
+For example, the [[West African CFA franc|West African]] and [[Central African CFA franc]]s are pegged exactly at 655.957 CFA to 1 EUR.
+In 1998, in anticipation of [[Economic and Monetary Union of the European Union]], the [[Council of the European Union]] addressed the monetary agreements France had with the [[CFA franc|CFA Zone]] and Comoros and ruled that the ECB had no obligation towards the convertibility of the CFA and [[Comorian franc]]s.
+The responsibility of the free convertibility remained in the [[French Treasury]].
+
+====Other====
+Kosovo*<ref group="lower-alpha">{{Kosovo-note}}</ref> and Montenegro officially adopted the euro as their sole currency without an agreement and, therefore, have no issuing rights.<ref name="agreements 2"/> These states are not considered part of the eurozone by the ECB. However, sometimes the term ''eurozone'' is applied to all territories that have adopted the euro as their sole currency.<ref>{{cite web|url=http://www.europeanfoundation.org/docs/117id.htm |title=European Foundation Intelligence Digest |publisher=Europeanfoundation.org |access-date=30 May 2010 |url-status=dead |archive-url=https://web.archive.org/web/20070826141401/http://www.europeanfoundation.org/docs/117id.htm |archive-date=26 August 2007 }}</ref><ref>{{cite web|url=http://www.iht.com/articles/2007/01/01/business/euro.php |title=Euro used as legal tender in non-EU nations |work=International Herald Tribune |date=1 January 2007 |access-date=22 November 2010 |url-status=dead |archive-url=https://web.archive.org/web/20081210203907/http://www.iht.com/articles/2007/01/01/business/euro.php |archive-date=10 December 2008 }}</ref><ref>{{cite news|url=http://news.bbc.co.uk/1/hi/world/europe/1696122.stm |title=Europe, The eurozone's 13th member |work=BBC News |date=11 December 2001 |access-date=30 May 2010}}</ref> Further unilateral adoption of the euro ([[euroisation]]), by both non-euro EU and non-EU members, is opposed by the ECB and EU.<ref>{{cite web|url=http://www.lawofemu.info/blog/2008/02/ecb-unilateral.html |title=Unilateral Euroization By Iceland Comes With Real Costs And Serious Risks |publisher=Lawofemu.info |date=15 February 2008 |archive-url=https://web.archive.org/web/20120314000247/http://www.lawofemu.info/blog/2008/02/ecb-unilateral.html |archive-date=14 March 2012 |access-date=28 February 2015}}</ref>
+
+{{Clear}}
+
+===Historical eurozone enlargements and exchange-rate regimes for EU members===
+{{Further|History of the euro}}
+
+The chart below provides a full summary of all applying [[exchange-rate regime]]s for [[Member state of the European Union|EU members]], since the [[European Monetary System]] with its [[Exchange Rate Mechanism]] and the related new common currency [[European Currency Unit|ECU]] was born on 13 March 1979. The euro replaced the ECU 1:1 at the exchange rate markets, on 1 January 1999. During 1979–1999, the [[Deutsche Mark|D-Mark]] functioned as a de facto anchor for the ECU, meaning there was only a minor difference between pegging a currency against ECU and pegging it against the D-mark.
+{{Exchange-rate regime for EU members}}
+The eurozone was born with its first 11 member states on 1 January 1999. The first [[enlargement of the eurozone]], to Greece, took place on 1 January 2001, one year before the euro had physically entered into circulation. The next enlargements were to states which [[2004 enlargement of the European Union|joined the EU in 2004]], and then joined the eurozone on 1 January in the year noted: Slovenia (2007), Cyprus (2008), Malta (2008), Slovakia (2009), Estonia (2011), Latvia (2014), and Lithuania (2015).
+
+All new EU members joining the bloc after the signing of the [[Maastricht Treaty]] in 1992 are obliged to adopt the euro under the terms of their accession treaties. However, the last of the five economic [[euro convergence criteria|convergence criteria]] which need first to be complied with in order to qualify for euro adoption, is the exchange rate stability criterion, which requires having been an ERM-member for a minimum of two years without the presence of "severe tensions" for the currency exchange rate.
+
+In September 2011, a diplomatic source close to the euro adoption preparation talks with the seven remaining new member states who had yet to adopt the euro (Bulgaria, Czech Republic, Hungary, Latvia, Lithuania, Poland and Romania), claimed that the monetary union (eurozone) they had thought they were going to join upon their signing of the accession treaty may very well end up being a very different union entailing much closer fiscal, economic and political convergence. This changed legal status of the eurozone could potentially cause them to conclude that the conditions for their promise to join were no longer valid, which "could force them to stage new referendums" on euro adoption.<ref>{{cite web|title=New EU members to break free from euro duty|url=http://www.euractiv.com/euro-finance/new-eu-members-break-free-eurozone-duty-news-507564|publisher=Euractiv.com|date=13 September 2011|access-date=7 September 2013}}</ref>
+
+{| class="wikitable sortable"
+|-
+! Country
+! Old unit
+! Exchange rate<br>(Euro in units of old currency)
+! Year
+|-
+| Belgium
+| [[Belgian franc]]
+| 40.3399
+| 1999
+|-
+| Luxembourg
+| [[Luxembourgish franc]]
+| 40.3399
+| 1999
+|-
+| Germany
+| [[Deutsche Mark]]
+| 1.95583
+| 1999
+|-
+| Spain, Andorra<ref group="lower-alpha" name="Andorra2011">Andorra got a formal agreement on euro usage in 2011</ref>
+| [[Spanish peseta]]
+| 166.386
+| 1999
+|-
+| France, Monaco, Andorra<ref group="lower-alpha" name="Andorra2011"/>
+| [[French franc]]
+| 6.55957
+| 1999
+|-
+| Ireland
+| [[Irish pound]]
+| 0.787564
+| 1999
+|-
+| Italy, San Marino, Vatican City
+| [[Italian lira]]
+| 1936.27
+| 1999
+|-
+| Netherlands
+| [[Dutch guilder]]
+| 2.20371
+| 1999
+|-
+| Austria
+| [[Austrian schilling]]
+| 13.7603
+| 1999
+|-
+| Portugal
+| [[Portuguese escudo]]
+| 200.482
+| 1999
+|-
+| Finland
+| [[Finnish markka]]
+| 5.94573
+| 1999
+|-
+| Greece
+| [[Greek drachma]]
+| 340.75
+| 2001
+|-
+| Slovenia
+| [[Slovenian tolar]]
+| 239.64
+| 2007
+|-
+| Cyprus
+| [[Cypriot pound]]
+| 0.585274
+| 2008
+|-
+| Malta
+| [[Maltese lira]]
+| 0.4293
+| 2008
+|-
+| Slovakia
+| [[Slovak koruna]]
+| 30.126
+| 2009
+|-
+| Estonia
+| [[Estonian kroon]]
+| 15.6466
+| 2011
+|-
+| Latvia
+| [[Latvian lats]]
+| 0.702804 
+| 2014
+|-
+| Lithuania
+| [[Lithuanian litas]]
+| 3.4528
+| 2015
+|-
+|}
+
+===Future enlargement===
+{{Main|Enlargement of the eurozone}}
+{{Supranational European Bodies|align=right|size=400px}}
+<!--If you wish to update the future adoption dates of euro...
+
+Please update other articles as well to avoid contradiction within Wikipedia e.g:
+* Eurozone
+* Enlargement of the eurozone
+* Template:Euro topics
+* (The pre-euro national currency article)
+* (The national euro coin article)
+
+Thank you.
+-->
+
+Eight countries (Bulgaria, Croatia, Czech Republic, Denmark, Hungary, Poland, Romania, and Sweden) are EU members but do not use the euro. Before joining the eurozone, a state must spend at least two years in the [[European Exchange Rate Mechanism]] (ERM II). As of September 2020, the Danish central bank, Bulgarian central bank, and Croatian central bank participate in ERM II.
+
+Denmark obtained a special [[Opt-outs in the European Union|opt-out]] in the original [[Maastricht Treaty]], and thus is legally exempt from joining the eurozone unless its government decides otherwise, either by parliamentary vote or [[referendum]]. The United Kingdom likewise had an opt-out prior to [[Brexit|withdrawing from the EU]] in 2020.
+
+The remaining seven countries are obliged to adopt the euro in future, although the EU has so far not tried to enforce any time plan. They should join as soon as they fulfill the convergence criteria, which include being part of ERM II for two years. [[Sweden and the euro|Sweden]], which joined the EU in 1995 after the Maastricht Treaty was signed, is required to join the eurozone.  However, the Swedish people turned down euro adoption in a [[2003 Swedish euro referendum|2003 referendum]] and since then the country has intentionally avoided fulfilling the adoption requirements by not joining ERM II, which is voluntary.<ref>{{cite web |url=http://www.eu-upplysningen.se/Sverige-i-EU/Sverige-sa-nej-till-euron/ |title=Sverige sa nej till euron |publisher=Swedish Parliament|date=28 August 2013 |access-date=12 August 2014 |language=sv}}</ref><ref>{{cite web |url=http://ec.europa.eu/economy_finance/euro/adoption/erm2/index_en.htm |title=Information on ERM II |publisher=European Commission |date=22 December 2009 |access-date=16 January 2010}}</ref> Bulgaria and Croatia joined ERM II on 10 July 2020.<ref>{{Cite news|date=2020-07-10|title=Bulgaria, Croatia take vital step to joining euro|language=en|work=Reuters|url=https://www.reuters.com/article/us-eurozone-economy-croatia-bulgaria-idUSKBN24B2JM|access-date=2020-07-11}}</ref>
+
+Interest in joining the eurozone increased in Denmark, and initially in Poland, as a result of the 2008 financial crisis. In Iceland, there was an increase in interest in joining the European Union, a pre-condition for adopting the euro.<ref>{{cite news |last=Dougherty |first=Carter |title=Buffeted by financial crisis, countries seek euro's shelter |work=International Herald Tribune|date=1 December 2008 |url=http://www.iht.com/articles/2008/12/01/business/euro.php?page=1 |access-date=2 December 2008}}{{dead link|date=May 2014}}</ref> However, by 2010 the debt crisis in the eurozone caused interest from Poland, as well as the Czech Republic, to cool.<ref>{{cite news |url=https://www.reuters.com/article/idUSLDE65F15Z20100616 |title=Czechs, Poles cooler to euro as they watch debt crisis |agency=Reuters |date=16 June 2010 |access-date=18 June 2010}}</ref>
+
+===Expulsion and withdrawal===
+{{main|Withdrawal from the Eurozone}}
+{{see also|Greek withdrawal from the eurozone}}
+
+In the opinion of journalist Leigh Phillips and [[Locke Lord]]'s Charles Proctor,<ref name=noone>[https://euobserver.com/news/113563 "Brussels: No one can leave the euro"] by Leigh Phillips, ''[[EUobserver]]'', 8 September 2011</ref><ref name=locke>"[http://www.lexology.com/library/detail.aspx?g=a92664b9-d267-4347-a59a-6488ab3895fb The Eurozone crisis – the final stage?]" by Charles Proctor, [[Locke Lord]], 15 May 2012</ref> there is no provision in any European Union treaty for an exit from the eurozone. In fact, they argued, the Treaties make it clear that the process of [[Economic and Monetary Union of the European Union|monetary union]] was intended to be "irreversible" and "irrevocable".<ref name=locke/> However, in 2009, a [[European Central Bank]] legal study argued that, while voluntary withdrawal is legally not possible, expulsion remains "conceivable."<ref name="ecblegal">"[https://www.ecb.europa.eu/pub/pdf/scplps/ecblwp10.pdf Withdrawal and Expulsion from the EU and EMU : Some reflections]" by Phoebus Athanassiou, Principal Legal Counsel with the [[Directorate-General for Legal Service]], [[European Central Bank|ECB]], 2009</ref> Although an explicit provision for an exit option does not exist, many experts and politicians in Europe, have suggested an option to leave the Eurozone should be included in the relevant treaties.<ref name=activ>[http://www.euractiv.com/section/eu-priorities-2020/news/german-advisory-council-calls-for-exit-option-in-the-eurozone/ "German advisory council calls for exit option in the eurozone"] by Daniel Tost, [[EurActiv]], 29 July 2015</ref>
+
+On the issue of leaving the eurozone, the [[European Commission]] has stated that "[t]he irrevocability of membership in the euro area is an integral part of the Treaty framework and the Commission, as a guardian of the EU Treaties, intends to fully respect [that irrevocability]."<ref name=rehn/> It added that it "does not intend to propose [any] amendment" to the relevant Treaties, the current status being "the best way going forward to increase the resilience of euro area Member States to potential economic and financial crises.<ref name=rehn>[http://www.europarl.europa.eu/sides/getAllAnswers.do?reference=E-2012-004398&language=EN Text] of response by [[Olli Rehn]], [[European Commissioner for Economic and Monetary Affairs and the Euro]], on behalf of the [[European Commission]], to question submitted by Claudio Morganti, [[Member of the European Parliament]], 22 June 2012</ref> The [[European Central Bank]], responding to a question by a [[Member of the European Parliament]], has stated that an exit is not allowed under the Treaties.<ref>[http://www.ecb.europa.eu/pub/pdf/other/20121107_morganti.en.pdf Text] of message by [[Mario Draghi]], [[European Central Bank|ECB]], to Claudio Morganti, [[Member of the European Parliament]], 6 November 2012</ref>
+
+Likewise there is no provision for a state to be expelled from the euro.<ref>Athanassiou, Phoebus (December 2009) [http://www.ecb.int/pub/pdf/scplps/ecblwp10.pdf Withdrawal and Expulsion from the EU and EMU, Some Reflections] (PDF), European Central Bank. Retrieved 8 September 2011</ref> Some, however, including the Dutch government, favour the creation of an expulsion provision for the case whereby a heavily indebted state in the eurozone refuses to comply with an EU economic reform policy.<ref name="phillips">{{cite web|last=Phillips |first=Leigh |url=http://euobserver.com/19/113552 |title=EUobserver / Netherlands: Indebted states must be made 'wards' of the commission or leave euro |publisher=Euobserver.com |access-date=20 May 2014}}</ref>
+
+In a Texas law journal, [[University of Texas at Austin]] law professor Jens Dammann has argued that even now EU law contains an implicit right for member states to leave the Eurozone if they no longer meet the criteria that they had to meet in order to join it.<ref name="Jens Dammann">{{cite journal| last=Dammann|first=Jens|title=The Right to Leave the Eurozone|journal=U of Texas Law, Public Law Research Paper|date=10 February 2012|volume=48| series=2013|issue=2| ssrn=2262873}}</ref>  Furthermore, he has suggested that, under narrow circumstances, the European Union can expel member states from the eurozone.<ref name="Jens Dammann2">{{cite journal| last=Dammann| first=Jens|title=Paradise Lost: Can the European Union Expel Countries from the Eurozone| journal=Vanderbilt Journal of Transnational Law|date=26 August 2015|volume=49| series=2016| issue=2|ssrn=2827699}}</ref>
+
+[[University of California, Berkeley]] professor of Economics and Political Science [[Barry Eichengreen]], argued in 2007 that "Europe’s leap to monetary union was a mistake...compounded by...including [in the union] also...Italy, Spain, Portugal and Greece," and that "although a breakup was not impossible...it was  unlikely," given the technical, political and above all economic obstacles. "On the first minute that word got out," Eisengreen argued, "that the [Greek] government was discussing the possibility [of a [[Grexit]]] investors would sell their Greek stocks and bonds" and there "would be a full-fledged financial panic... a full-out bank run."<ref name=eisen/> In 2011, he still believed the probability of Grexit was "very low" and in case of any bank run "the Greek government would almost certainly receive support for its banks from its European Union partners and the [[European Central Bank]], because, in his view, more financial crises in other European countries are... the last thing that German business wants." As he put it, "the German economic miracle of the last ten years can be summed up in one word: exports. And the country’s export competitiveness has been greatly enhanced by a euro exchange rate that has been kept down at reasonable levels by the fact that Germany shares the currency with other weaker economies."<ref name=eisen>Eichengreen, Barry (23 July 2011)[http://www.econ.berkeley.edu/~eichengr/can_euro_area_7-23-11.pdf Can the Euro Area Hit the Rewind Button?] (PDF), University of California. Retrieved 8 September 2011</ref>
+
+In Greece's case, one additional obstacle presented by analysts is that if Greece were to replace the euro with a new national currency, this would not be possible to achieve quickly enough. Paper banknotes must be printed and coins minted, which would take about "six months."<ref>{{cite web|url=https://www.telegraph.co.uk/finance/financialcrisis/9298195/De-La-Rue-silent-on-deal-to-print-Drachma.html|title=De La Rue silent on deal to print Drachma|date=29 May 2012|access-date=11 February 2015|newspaper=[[The Daily Telegraph]]|first=Harry|last=Wallop}}</ref> The changeover, according to a blogger in ''[[The Economist]]'', would likely require bank deposits to be converted from euros to the new currency and this prospect could lead to money leaving the country as well as Greek residents withdrawing cash from the banks, causing a [[bank run]] and necessitating [[capital control]]s.<ref>{{cite web|url=https://www.economist.com/blogs/buttonwood/2015/01/greece-and-euro|title=Take the money and run|newspaper=[[The Economist]]|date=28 January 2015|access-date=11 February 2015}}</ref> This was not only a blogger statement, as Greece actually had tendencies of bank runs, and capital controls were in effect, without any decision of withdrawal, only media rumours of it.
+
+==Administration and representation==
+{{Further|European Central Bank|Eurogroup|Euro summit}}
+[[File:Mário Centeno, Informal ECOFIN, 2016-09-10.jpg|thumb|left|upright|Eurogroup President [[Mário Centeno]]]]
+[[File:Frankfurt EZB-Neubau.20130909.jpg|thumb|The [[European Central Bank]] ([[Seat of the European Central Bank|seat]] in [[Frankfurt am Main|Frankfurt]] depicted) is the supranational [[Central bank|monetary authority]] of the eurozone.]]
+
+The monetary policy of all countries in the eurozone is managed by the [[European Central Bank]] (ECB) and the [[Eurosystem]] which comprises the ECB and the central banks of the EU states who have joined the eurozone. Countries outside the eurozone are not represented in these institutions. Whereas all EU member states are part of the [[European System of Central Banks]] (ESCB), non EU member states have no say in all three institutions, even those with monetary agreements such as Monaco. The ECB is entitled to authorise the design and printing of [[euro banknotes]] and the volume of [[euro coins]] minted, and [[President of the European Central Bank|its president]] is currently [[Christine Lagarde]].
+
+The eurozone is represented politically by its finance ministers, known collectively as the [[Eurogroup]], and is presided over by a president, currently [[Mário Centeno]]. The finance ministers of the EU member states that use the euro meet a day before a meeting of the [[Economic and Financial Affairs Council]] (Ecofin) of the [[Council of the European Union]]. The Group is not an official Council formation but when the full EcoFin council votes on matters only affecting the eurozone, only Euro Group members are permitted to vote on it.<ref>[http://eur-lex.europa.eu/en/treaties/dat/12007L/htm/C2007306EN.01004201.htm Treaty of Lisbon (Provisions specific to member states whose currency is the euro)], EurLex {{webarchive |url=https://web.archive.org/web/20090327080406/http://eur-lex.europa.eu/en/treaties/dat/12007L/htm/C2007306EN.01004201.htm |date=27 March 2009 }}</ref><ref name="FT EGE BG">{{cite web|title=An economic government for the eurozone? |publisher=Federal Union |url=http://www.fedtrust.co.uk/admin/uploads/FedT_Economic_Government.pdf |access-date=26 February 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110717135636/http://www.fedtrust.co.uk/admin/uploads/FedT_Economic_Government.pdf |archive-date=17 July 2011 }}</ref><ref>[https://web.archive.org/web/20090307190231/http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2008:115:0201:0328:EN:PDF Protocols], Official Journal of the European Union</ref>
+
+Since the global [[financial crisis of 2007–2008]], the Euro Group has met irregularly not as finance ministers, but as heads of state and government (like the European Council). It is in this forum, the [[Euro summit]], that many eurozone reforms have been decided upon. In 2011, former [[French President]] [[Nicolas Sarkozy]] pushed for these summits to become regular and twice a year in order for it to be a 'true economic government'.
+
+===Reform===
+In April 2008 in [[Brussels]], [[European Commission]] [[President of the European Commission|President]]  [[Jean-Claude Juncker]] suggested that the eurozone should be represented at the [[International Monetary Fund|IMF]] as a bloc, rather than each member state separately: "It is absurd for those 15 countries not to agree to have a single representation at the IMF. It makes us look absolutely ridiculous. We are regarded as buffoons on the international scene".<ref name="Common IMF">{{cite web |title=Eurozone countries should speak with one voice, Juncker says |author=Elitsa Vucheva |date=15 April 2008 |publisher=EU Observer |url=http://euobserver.com/9/25984 |access-date=26 February 2011}}</ref> In 2017 Juncker stated that he aims to have this agreed by the end of his mandate in 2019.<ref>[https://www.euractiv.com/section/economy-jobs/news/commission-wants-single-eurozone-seat-at-imf-plan-adopted-by-end-of-mandate "Commission wants single eurozone seat at IMF plan adopted by end of mandate"], ''Euractiv'', 7 December 2017</ref> However, [[European Commissioner for Economic & Financial Affairs|Finance Commissioner]] [[Joaquín Almunia]] stated that before there is common representation, a common political agenda should be agreed upon.<ref name="Common IMF"/>
+
+Leading EU figures including the commission and national governments have proposed a variety of reforms to the eurozone's architecture; notably the creation of a Finance Minister, a larger eurozone budget, and reform of the current bailout mechanisms into either a "European Monetary Fund" or a eurozone [[Treasury]]. While many have similar themes, details vary greatly.<ref>[https://www.ft.com/content/68e0ead0-a3a5-11e7-8d56-98a09be71849 "Macron is right — the eurozone needs a finance minister"], ''Financial Times'', 28 September 2017</ref><ref>[https://www.theguardian.com/business/2017/dec/06/europe-should-have-its-own-minister-of-economy-and-finance-says-ec Europe should have its own economy and finance minister, says EC], theguardian 6 December 2017</ref><ref>[https://www.reuters.com/article/us-eurozone-eurogroup-budget/large-number-of-eu-finance-ministers-want-euro-zone-budget-dijsselbloem-idUSKBN1D62NS "Large number of EU finance ministers want euro zone budget: Dijsselbloem"], ''Reuters'', 6 November 2017</ref><ref>[https://www.ft.com/content/afedcb46-5021-11e7-a1f2-db19572361bb "Spain urges sweeping reforms on eurozone to correct flaws"], ''Financial Times'', 14 June 2017</ref>
+
+==Economy==
+[[File:European GNI PPP Per Capita 2017.png|thumb|GNI PPP per capita of Europe according to the World Bank, 2017.
+{{legend|#003399|Nations in the Eurozone, at 44,000 USD}}
+{{legend|#3366cc|Nations with a GNI PPP per capita above 44,000 USD}}
+{{legend|#94b0e8|Nations with a GNI PPP per capita below 44,000 USD}}]]
+
+===Comparison table===
+{| class="wikitable sortable"
+|+Comparison of the eurozone with US and China
+<ref>{{cite web|url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October|title=Report for Selected Countries and Subjects|website=www.imf.org}}</ref>
+|-
+! class="unsortable" |
+! Population
+! GDP(Nominal){{ref|reference_name_A|a}}
+|-
+! {{USA}}
+| 328 million 
+| $20.8 trillion
+|-
+! {{China}}
+| 1400 million
+| $15.2 trillion
+|-
+! [[File:Logo European Central Bank.svg|22px]] Eurozone
+| 342 million
+| $12.7 trillion
+|-
+|}
+<small>{{note|reference_name_A|a}} GDP in [[purchasing power parity|PPP]], exports/imports of goods and services excluding intra-EU trade.</small>
+
+{{Bar chart|float=none
+| title       = Comparison with economies of individual sovereign countries
+| table_width = 70
+| bar_width   = 45 <!-- must be an unformatted number -->
+| data_max    = 25,000<!-- Upper bound on the values in the data fields -->
+| label_type  = Economy
+| data_type   = {{center|Nominal GDP (billions in USD) - Peak year as of 2019}}
+| label1     = (01) United States <small>''(Peak in 2019)''</small> | data1 = 21,439
+| label2     = (02) [[File:Logo European Central Bank.svg|22px]] Eurozone <small>''(Peak in 2008)''</small> | data2 = 14,188
+| label3     = (03) China <small>''(Peak in 2019)''</small> | data3 = 14,140
+| label4     = (04) Japan <small>''(Peak in 2012)''</small> | data4 = 6,203
+| label5     = (05) United Kingdom <small>''(Peak in 2007)''</small> | data5 = 3,085
+| label6     = (06) India <small>''(Peak in 2019)''</small> | data6 = 2,936
+| label7     = (07) Brazil <small>''(Peak in 2011)''</small> | data7 = 2,614
+| label8     = (08) Russia <small>''(Peak in 2013)''</small> | data8 = 2,289
+| label9     = (09) Canada <small>''(Peak in 2013)''</small> | data9 = 1,847
+| label10    = (10) Korea <small>''(Peak in 2018)''</small> | data10 = 1,720
+| label11    = (11) Australia <small>''(Peak in 2012)''</small> | data11 = 1,569
+| label12    = (12) Mexico <small>''(Peak in 2014)''</small> | data12 = 1,315
+| label13    = (13) Indonesia <small>''(Peak in 2019)''</small> | data13 = 1,112
+| label14    = (14) Turkey <small>''(Peak in 2013)''</small> | data14 = 950
+| label15    = (15) Saudi Arabia <small>''(Peak in 2018)''</small> | data15 = 787
+| label16    = (16) Switzerland <small>''(Peak in 2019)''</small> | data16 = 715
+| label17    = (17) Argentina <small>''(Peak in 2017)''</small> | data17 = 643
+| label18    = (18) Taiwan <small>''(Peak in 2018)''</small> | data18 = 590
+| label19    = (19) Poland <small>''(Peak in 2018)''</small> | data19 = 585
+| label20    = (20) Sweden <small>''(Peak in 2013)''</small> | data20 = 579
+
+| caption = {{resize|88%|The 20 largest economies in the world including Eurozone as a single entity, by [[Nominal GDP]] (2019) at their peak level of GDP in billions US$. The values for EU members that are not also eurozone members are listed both separately and as part of the EU.<ref>Figures from the April 2018 update of the International Monetary Fund's ''World Economic Outlook Database''. [http://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=107&pr.y=10&sy=2014&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=163&s=NGDPD&grp=1&a=1]</ref>}}
+}}
+
+===Inflation===
+[[HICP]] figures from the ECB, taken from May of each year:
+
+{| style="vertical-align:top;"
+|-
+|
+* 2000: 1.7%
+* 2001: 3.1%
+* 2002: 2.0%
+* 2003: 1.8%
+* 2004: 2.5%
+|
+* 2005: 2.0%
+* 2006: 2.5%
+* 2007: 1.9%
+* 2008: 3.7%
+* 2009: 0.0%
+|
+* 2010: 1.7%
+* 2011: 2.7%
+* 2012: 2.4%
+* 2013: 0.9%
+* 2014: -0,2%
+|
+* 2015: 0.3%
+* 2016: -0.1%
+* 2017: 1.4%
+* 2018: N/A
+* 2019: N/A
+|}
+
+===Interest rates===
+Interest rates for the eurozone, set by the ECB since 1999. Levels are in percentages per annum. Between June 2000 and October 2008, the ''main refinancing operations'' were variable rate tenders, as opposed to fixed rate tenders. The figures indicated in the table from 2000 to 2008 refer to the minimum interest rate at which counterparties may place their bids.<ref name="interest rates">[http://www.ecb.int/stats/monetary/rates/html/index.en.html Key ECB interest rates] {{webarchive |url=https://web.archive.org/web/20130811172454/http://www.ecb.int/stats/monetary/rates/html/index.en.html |date=11 August 2013 }}, ECB</ref>
+
+[[File:ECBrates.png|Eurozone [[interest rate]]s]]
+{| class="wikitable"
+|-
+! Date
+! <small>Deposit<br />facility</small>
+! <small>Main<br />refinancing<br />operations</small>
+! <small>Marginal<br />lending<br />facility</small>
+|-
+| 1999-01-01
+| 2.00
+| 3.00
+| 4.50
+|-
+| style="white-space:nowrap" | 1999-01-04<ref group="lower-alpha">The ECB announced on 22 December 1998 that, between 4 and 21 January 1999, there would be a narrow corridor of 50 base points interest rates for the marginal lending facility and the deposit facility in order to help the transition to the ECB's interest regime.</ref>
+| 2.75
+| 3.00
+| 3.25
+|-
+| 1999-01-22
+| 2.00
+| 3.00
+| 4.50
+|-
+| 1999-04-09
+| 1.50
+| 2.50
+| 3.50
+|-
+| 1999-11-05
+| 2.00
+| 3.00
+| 4.00
+|-
+| 2000-02-04
+| 2.25
+| 3.25
+| 4.25
+|-
+| 2000-03-17
+| 2.50
+| 3.50
+| 4.50
+|-
+| 2000-04-28
+| 2.75
+| 3.75
+| 4.75
+|-
+| 2000-06-09
+| 3.25
+| 4.25
+| 5.25
+|-
+| 2000-06-28
+| 3.25
+| 4.25
+| 5.25
+|-
+| 2000-09-01
+| 3.50
+| 4.50
+| 5.50
+|-
+| 2000-10-06
+| 3.75
+| 4.75
+| 5.75
+|-
+| 2001-05-11
+| 3.50
+| 4.50
+| 5.50
+|-
+| 2001-08-31
+| 3.25
+| 4.25
+| 5.25
+|-
+| 2001-09-18
+| 2.75
+| 3.75
+| 4.75
+|-
+| 2001-11-09
+| 2.25
+| 3.25
+| 4.25
+|-
+| 2002-12-06
+| 1.75
+| 2.75
+| 3.75
+|-
+| 2003-03-07
+| 1.50
+| 2.50
+| 3.50
+|-
+| 2003-06-06
+| 1.00
+| 2.00
+| 3.00
+|-
+| 2005-12-06
+| 1.25
+| 2.25
+| 3.25
+|-
+| 2006-03-08
+| 1.50
+| 2.50
+| 3.50
+|-
+| 2006-06-15
+| 1.75
+| 2.75
+| 3.75
+|-
+| 2006-08-09
+| 2.00
+| 3.00
+| 4.00
+|-
+| 2006-10-11
+| 2.25
+| 3.25
+| 4.25
+|-
+| 2006-12-13
+| 2.50
+| 3.50
+| 4.50
+|-
+| 2007-03-14
+| 2.75
+| 3.75
+| 4.75
+|-
+| 2007-06-13
+| 3.00
+| 4.00
+| 5.00
+|-
+| 2008-07-09
+| 3.25
+| 4.25
+| 5.25
+|-
+| 2008-10-08
+| 2.75
+|
+| 4.75
+|-
+| 2008-10-09
+| 3.25
+|
+| 4.25
+|-
+| 2008-10-15
+| 3.25
+| 3.75
+| 4.25
+|-
+| 2008-11-12
+| 2.75
+| 3.25
+| 3.75
+|-
+| 2008-12-10
+| 2.00
+| 2.50
+| 3.00
+|-
+| 2009-01-21
+| 1.00
+| 2.00
+| 3.00
+|-
+| 2009-03-11
+| 0.50
+| 1.50
+| 2.50
+|-
+| 2009-04-08
+| 0.25
+| 1.25
+| 2.25
+|-
+| 2009-05-13
+| 0.25
+| 1.00
+| 1.75
+|-
+| 2011-04-13
+| 0.50
+| 1.25
+| 2.00
+|-
+| 2011-07-13
+| 0.75
+| 1.50
+| 2.25
+|-
+| 2011-11-09
+| 0.50
+| 1.25
+| 2.00
+|-
+| 2011-12-14
+| 0.25
+| 1.00
+| 1.75
+|-
+| 2012-07-11
+| 0.00
+| 0.75
+| 1.50
+|-
+| 2013-05-08
+| 0.00
+| 0.50
+| 1.00
+|-
+| 2013-11-13
+| 0.00
+| 0.25
+| 0.75
+|-
+| 2014-06-11
+| -0.10
+| 0.15
+| 0.40
+|-
+| 2014-09-10
+| -0.20
+| 0.05
+| 0.30
+|-
+| 2015-12-09
+| -0.30
+| 0.05
+| 0.30
+|-
+| 2016-03-16
+| -0.40
+| 0.00
+| 0.25
+|}
+
+===Public debt===
+<!--- Synchronise against http://en.wikipedia.org/wiki/List_of_countries_by_public_debt also
+--->
+The following table states the ratio of [[public debt]] to GDP in percent for eurozone countries given by EuroStat.<ref name="teina225">{{cite web |url=http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=teina225&plugin=1 |title=General government gross debt - annual data (table code: teina225) |publisher=[[Eurostat]] |access-date=24 October 2019}}</ref> The [[Euro convergence criteria|euro convergence criterion]] is 60%.
+{| class="wikitable sortable"
+|-
+! Country
+!             2007
+!             2009
+!             2010
+!             2011
+!             2015
+!             2016
+!             2017
+!             2018
+|-
+| Eurozone           || {{no|64.9}}  || {{no|78.5}}  || {{no|84.0}}  || {{no|86.0}}  || {{no|90.7}}  || {{no|88.9}}  || {{no|86.7}} || {{no|85.9}}
+|-
+| Austria        || {{no|64.7}}  || {{no|79.7}}  || {{no|82.4}}  || {{no|82.2}}  || {{no|86.2}}  || {{no|83.6}}  || {{no|78.4}} || {{no|74.0}}
+|-
+| Belgium        || {{no|87.0}}  || {{no|99.6}}  || {{no|99.7}}  || {{no|102.3}} || {{no|106.0}} || {{no|105.7}} || {{no|103.1}} || {{no|100.0}}
+|-
+| Cyprus         || {{yes|53.5}} || {{yes|53.9}} || {{yes|56.3}} || {{no|65.8}}  || {{no|108.9}} || {{no|107.1}} || {{no|97.5}} || {{no|100.6}}
+|-
+| Estonia       || {{yes|3.7}}  || {{yes|7.0}}  || {{yes|6.6}}  || {{yes|5.9}}  ||  {{yes|9.7}} || {{yes|9.4}}  || {{yes|9.0}} || {{yes|8.4}}
+|-
+| Finland       || {{yes|34.0}} || {{yes|41.7}} || {{yes|47.1}} || {{yes|48.5}} || {{no|63.1}}  || {{no|63.1}}  || {{no|61.4}} || {{yes|59.0}}
+|-
+| France        || {{no|64.3}}  || {{no|79.0}}  || {{no|81.7}}  || {{no|85.2}}  || {{no|95.8}}  || {{no|96.5}}  || {{no|97.0}} || {{no|98.4}}
+|-
+| Germany        || {{no|63.7}}  || {{no|72.4}}  || {{no|81.0}}  || {{no|78.3}}  || {{no|71.2}}  || {{no|68.1}}  || {{no|64.1}} || {{no|61.9}}
+|-
+| Greece         || {{no|103.1}} || {{no|126.7}} || {{no|146.2}} || {{no|172.1}} || {{no|176.9}} || {{no|180.8}} || {{no|178.6}} || {{no|181.2}}
+|-
+| Ireland        || {{yes|23.9}} || {{no|61.8}}  || {{no|86.8}}  || {{no|109.1}} || {{no|93.8}}  || {{no|72.8}}  || {{no|68.0}} || {{no|63.6}}
+|-
+| Italy          || {{no|99.8}}  || {{no|112.5}} || {{no|115.4}} || {{no|116.5}} || {{no|132.7}} || {{no|132}}  || {{no|131.8}} || {{no|134.8}}
+|-
+| Latvia         || {{yes|8.0}}  || {{yes|36.6}} || {{yes|47.5}} || {{yes|42.8}} || {{yes|36.4}} || {{yes|40.6}} || {{yes|40.1}} || {{yes|36.4}}
+|-
+| Lithuania      || {{yes|15.9}} || {{yes|29.0}} || {{yes|36.2}} || {{yes|37.2}} || {{yes|42.7}} || {{yes|40.1}} || {{yes|39.7}} || {{yes|34.1}}
+|-
+| Luxembourg     || {{yes|7.7}}  || {{yes|16.0}} || {{yes|20.1}} || {{yes|19.1}} || {{yes|21.4}} || {{yes|20.8}} || {{yes|23.0}} || {{yes|21.0}}
+|-
+| Malta          || {{no|62.3}}  || {{no|67.8}}  || {{no|67.6}}  || {{no|69.9}}  || {{no|63.9}}  || {{yes|57.6}} || {{yes|50.8}} || {{yes|45.8}}
+|-
+| Netherlands    || {{yes|42.7}} || {{yes|56.5}} || {{yes|59.0}} || {{no|61.7}}  || {{no|65.1}}  || {{no|61.8}}  || {{yes|56.7}} || {{yes|52.4}}
+|-
+| Portugal       || {{no|68.4}}  || {{no|83.6}}  || {{no|96.2}}  || {{no|111.4}} || {{no|129.0}} || {{no|130.1}} || {{no|125.7}} || {{no|122.2}}
+|-
+| Slovakia       || {{yes|30.1}} || {{yes|41.0}} || {{yes|43.3}} || {{yes|43.3}} || {{yes|52.9}} || {{yes|51.8}} || {{yes|50.9}} || {{yes|49.4}}
+|-
+| Slovenia       || {{yes|22.8}} || {{yes|36.0}} || {{yes|40.8}} || {{yes|46.6}} || {{no|83.2}}  || {{no|78.5}}  || {{no|73.6}} || {{no|70.4}}
+|-
+| Spain          || {{yes|35.6}} || {{yes|52.7}} || {{no|60.1}}  || {{no|69.5 }} || {{no|99.2}}  || {{no|99.0}}  || {{no|98.3}} || {{no|97.6}}
+|}
+
+===Fiscal policies===
+{{see also|European Fiscal Compact}}
+[[File:Government surplus or deficit (EU-USA-UK).png|thumb|Comparison of government surplus/[[Government budget|deficit]] (2001-2012) of eurozone, United States and United Kingdom]]
+
+The primary means for fiscal coordination within the EU lies in the [[Broad Economic Policy Guidelines]] which are written for every member state, but with particular reference to the 19 current members of the eurozone. These guidelines are not binding, but are intended to represent policy coordination among the EU member states, so as to take into account the linked structures of their economies.
+
+For their mutual assurance and stability of the currency, members of the eurozone have to respect the [[Stability and Growth Pact]], which sets agreed limits on [[Government budget|deficits]] and [[national debt]], with associated sanctions for deviation. The Pact originally set a limit of 3% of GDP for the yearly deficit of all eurozone member states; with fines for any state which exceeded this amount. In 2005, Portugal, Germany, and France had all exceeded this amount, but the Council of Ministers had not voted to fine those states. Subsequently, reforms were adopted to provide more flexibility and ensure that the deficit criteria took into account the economic conditions of the member states, and additional factors.
+
+The [[Fiscal Compact]]<ref>{{cite news|author=Nicholas Watt|url=https://www.theguardian.com/politics/2012/jan/31/lib-dems-david-cameron-eu|title=Lib Dems praise David Cameron for EU U-turn|newspaper=The Guardian|date=31 January 2012|access-date=5 February 2012|location=London}}</ref><ref name="EC_ready">{{cite web|url=http://european-council.europa.eu/home-page/highlights/the-fiscal-compact-ready-to-be-signed-(2)?lang=en|title=The fiscal compact ready to be signed|date=31 January 2012|access-date=5 February 2012|publisher=European Commission|url-status=dead|archive-url=https://web.archive.org/web/20121022095150/http://european-council.europa.eu/home-page/highlights/the-fiscal-compact-ready-to-be-signed-%282%29?lang=en|archive-date=22 October 2012|df=dmy-all}}</ref> (formally, the Treaty on Stability, Coordination and Governance in the Economic and Monetary Union),<ref>{{cite news| url=http://www.rte.ie/news/2012/0228/referendum.html#video | work=RTÉ News | title=Referendum to be held on Fiscal Treaty | date=28 February 2012}}</ref> is an [[Enhanced cooperation#Related intergovernmental treaties|intergovernmental treaty]] introduced as a new stricter version of the [[Stability and Growth Pact]], signed on 2 March 2012 by all [[member states of the European Union]] (EU), except the Czech Republic, the United Kingdom,<ref name="signed">{{cite news|url=https://www.bbc.co.uk/news/world-europe-17230760|title=EU summit: All but two leaders sign fiscal treaty|work=BBC News|access-date=2 March 2012|date=2 March 2012}}</ref> and Croatia (subsequently [[Accession of Croatia to the European Union|acceding the EU]] in July 2013). The treaty entered into force on 1 January 2013 for the 16 states which completed ratification prior of this date.<ref name="Fiscal Compact entry into force">{{cite web|url=http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/ecofin/134543.pdf|title=Fiscal compact enters into force 21/12/2012 (Press: 551, Nr: 18019/12)|publisher=European Council|date=21 December 2012|access-date=21 December 2012}}</ref> As of 1 April 2014, it had been ratified and entered into force for all 25 signatories.
+
+[[Olivier Blanchard]] suggests that a fiscal union in the EZ can mitigate devastating effects of the single currency on the EZ peripheral countries. But he adds that the currency bloc will not work perfectly even if a fiscal transfer system is built, because, he argues, the fundamental issue about competitiveness adjustment is not tackled. The problem is, since the EZ peripheral countries do not have their own currencies, they are forced to adjust their economies by decreasing their wages instead of devaluation.<ref>[https://www.telegraph.co.uk/finance/economics/11919355/fiscal-union-eurozone-emu-olivier-blanchard-imf.html Fiscal union will never fix a dysfunctional eurozone, warns ex-IMF chief Blanchard] Mehreen Khan, ''The Daily Telegraph'' (London), 10 October 2015</ref>
+
+==Bailout provisions==
+{{see also|History of the euro#Recession era}}
+
+The [[financial crisis of 2007–2008]] prompted a number of reforms in the eurozone. One was a U-turn on the eurozone's [[bailout]] policy that led to the creation of a specific fund to assist eurozone states in trouble. The [[European Financial Stability Facility]] (EFSF) and the [[European Financial Stability Mechanism]] (EFSM) were created in 2010 to provide, alongside the [[International Monetary Fund]] (IMF), a system and fund to bail out members. However the EFSF and EFSM were temporary, small and lacked a basis in the EU treaties. Therefore, it was agreed in 2011 to establish a [[European Stability Mechanism]] (ESM) which would be much larger, funded only by eurozone states (not the EU as a whole as the EFSF/EFSM were) and would have a permanent [[Treaties of the European Union|treaty basis]]. As a result of that its creation involved agreeing an amendment to TEFU Article 136 allowing for the ESM and a new ESM treaty to detail how the ESM would operate. If both are successfully ratified according to schedule, the ESM would be operational by the time the EFSF/EFSM expire in mid-2013.
+
+In February 2016, the UK secured further confirmation that countries that do not use the [[Euro]] would not be required to contribute to bailouts for Eurozone countries.<ref>{{cite web|title=European Council meeting (18 and 19 February 2016) – Conclusions|url=http://www.consilium.europa.eu/en/press/press-releases/2016/02/19-euco-conclusions/|publisher=European Commission|access-date=14 May 2016}}</ref>
+
+==Peer review==
+{{see also|Euro Plus Pact}}
+
+In June 2010, a broad agreement was finally reached on a controversial proposal for member states to peer review each other's budgets prior to their presentation to [[National parliaments of the European Union|national parliaments]]. Although showing the entire budget to each other was opposed by Germany, Sweden and the UK, each government would present to their peers and the Commission their estimates for growth, inflation, revenue and expenditure levels six months before they go to national parliaments. If a country was to run a deficit, they would have to justify it to the rest of the EU while countries with a debt more than 60% of GDP would face greater scrutiny.<ref name="peer 1">[http://euobserver.com/9/30232 EU agrees controversial peer review of national budgets], EU Observer</ref>
+
+The plans would apply to all EU members, not just the eurozone, and have to be approved by EU leaders along with proposals for states to face sanctions before they reach the 3% limit in the [[Stability and Growth Pact]]. Poland has criticised the idea of withholding regional funding for those who break the deficit limits, as that would only impact the poorer states.<ref name="peer 1"/> In June 2010 France agreed to back Germany's plan for suspending the voting rights of members who breach the rules.<ref name="Merkel Spain">Willis, Andrew (15 June 2010) [http://euobserver.com/9/30284 Merkel: Spain can access aid if needed], EU Observer</ref>  In March 2011 was initiated a new reform of the [[Stability and Growth Pact#Reform|Stability and Growth Pact]] aiming at straightening the rules by adopting an automatic procedure for imposing of penalties in case of breaches of either the deficit or the debt rules.<ref>{{cite web|url=http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/ecofin/119888.pdf |title=Council reaches agreement on measures to strengthen economic governance |access-date=18 May 2011}}</ref><ref>{{cite web|author=Jan Strupczewski |url=http://uk.finance.yahoo.com/news/EU-finmins-adopt-tougher-reuters_molt-1023414724.html?x=0 |title=EU finmins adopt tougher rules against debt, imbalance |website=Uk.finance.yahoo.com |publisher=[[Yahoo! Finance]] |date=15 March 2011 |access-date=18 May 2011}}{{dead link|date=May 2014}}</ref>
+
+==Criticism==
+Nobel prize-winning economist [[James Tobin]] thought that the euro project would not succeed without making drastic changes to European institutions, pointing out the difference between the US and the eurozone.<ref name=JT2001EMUd>J. Tobin, Policy Opinions, 31 (2001)</ref> Concerning monetary policies, the US central bank [[Federal Reserve Bank|FRB]] aims at both growth and reducing unemployment, while the [[European Central Bank|ECB]] tends to give its first priority to price stability under the Bundesbank's supervision. As the price level of the currency bloc is kept low, the unemployment level of the region has become higher than that of US since 1982.<ref name=JT2001EMUd />
+{{see also|Phillips curve|Nominal rigidity}}
+
+When it comes to fiscal policies, 12 percent of the US federal budget is used for transfers to states and local governments. Also, when a state has financial or economic difficulties, a fair amount of money is automatically transferred to the state. The US government does not impose restrictions on state budget policies. This is different from the fiscal policies of the eurozone, where [[Treaty of Maastricht]] requires each eurozone member country to run its budget deficit smaller than 3 percent of its GDP.<ref name=JT2001EMUd />
+
+In February 2019, a study from the Centre for European Policy concluded that while some countries had gained from adopting the euro, several countries were poorer than they would have been had they not adopted it, with France and Italy being particularly affected. The authors argued that this was down to its effect on competitiveness; usually countries would devalue their currencies to make their exports cheaper on the world market but this was not possible due to the common currency.<ref>Nicole Ng, [https://p.dw.com/p/3E2fQ "CEP study: Germans gain most from euro introduction"], ''Deutsche Welle'', 25/02/19, accessed 05/03/19</ref>
+
+===Economic policemen===
+In 1997, [[Arnulf Baring]] expressed concern that the European Monetary Union would make Germans the most hated people in Europe. Baring suspected the possibility that the people in Mediterranean countries would regard Germans and the currency bloc as economic policemen.<ref name=WST16Jul2015NAGAB>[http://wolfstreet.com/2015/07/16/this-prediction-about-the-euro-deserves-a-nostradamus-award/ This Prediction about the Euro Deserves a ‘Nostradamus Award’] W. Richter, Wolf Street, 16 July 2015</ref>
+
+== See also ==
+{{Portal|European Union}}
+* [[Greek withdrawal from the eurozone]]
+* [[List of acronyms associated with the eurozone crisis]]
+* [[List of people associated with the eurozone crisis]]
+* [[Sixpack (European Union law)]]
+* [[Special member state territories and the European Union]]
+*[[Economic and Monetary Union of the European Union|Economic and Monetary Union]]
+*[[Capital Markets Union]]
+*[[Banking union|Banking Union]]
+
+== Notes ==
+{{reflist|group=lower-alpha|30em|refs =
+{{efn|name=status|{{Kosovo-note}}}}
+}}
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{commons category|Eurozone}}
+{{wikisource|Consolidated version of the Treaty on the Functioning of the European Union/Title VIII: Economic and Monetary Policy}}
+* [https://web.archive.org/web/20120609030416/http://www.eurozone.europa.eu/ Eurozone official portal]
+* [http://www.ecb.europa.eu/ European Central Bank]
+* [http://ec.europa.eu/economy_finance/euro/index_en.htm European Commission – Economic and Financial Affairs – Eurozone]
+
+{{Euro topics|state=expanded}}
+{{European Union topics|state=collapsed}}
+{{Europe topics (small)|state=collapsed}}
+{{Authority control}}
+
+[[Category:Eurozone| ]]
+[[Category:Multi-speed Europe]]

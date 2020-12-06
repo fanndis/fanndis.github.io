@@ -1,0 +1,62 @@
+{{Infobox website
+| name = Crowdpac
+| logo = 
+| logo_size = 
+| logo_alt = 
+| logo_caption = <!-- or: | logocaption =  -->
+| screenshot = 
+| collapsible = <!-- set as "on", "y", etc, otherwise omit/leave blank -->
+| collapsetext = <!-- collapsible area's heading (default "Screenshot"); omit/leave blank if collapsible not set -->
+| background = <!-- for collapsetext heading; default grey (gainsboro) -->
+| screenshot_size = 
+| screenshot_alt = 
+| caption = 
+| url = https://www.crowdpac.com/
+| commercial = Yes
+| type = [[Crowdfunding]]
+| registration = 
+| language = 
+| num_users = 
+| content_license = <!-- or: | content_licence = -->
+| programming_language = 
+| owner = <!-- or: | owners = -->
+| creators = [[Steve Hilton]], [[Adam Bonica]], [[Gisel Kordestani]], [[Paul Hilder]]
+| editor = <!-- or: | editors = -->
+| launch_date = 2014
+| revenue = 
+| alexa = {{increase}} [http://www.alexa.com/siteinfo/crowdpac.com 148,843] (Global 06/2017)
+| ip = 
+| issn = <!-- ISSN, e.g. 1085-6706 (automatically linked to http://www.WorldCat.org) -->
+| oclc = <!-- OCLC number, useful where an ISSN has not been allocated (automatically linked to http://www.WorldCat.org) -->
+| current_status = Active
+| footnotes = 
+}}
+'''Crowdpac''' is a for-profit website founded in 2014, with the purpose of helping unknown [[Democratic Party (United States)|Democrat]] political outsiders raise money and run for office, and to track political data from across the [[United States]]. While it was originally marketed as a non-partisan political fundraising site, the platform is currently only open for fundraising to select political ideologies.<ref name=":3" />
+
+== History ==
+Crowdpac was co-founded in 2014 by [[Steve Hilton]], a former political advisor to British Prime Minister [[David Cameron]],<ref>{{cite web | url=https://www.washingtonpost.com/politics/steve-hilton-a-brit-out-to-disrupt-american-politics-with-crowdpac/2014/09/03/14e0910e-2efc-11e4-bb9b-997ae96fad33_story.html | title=Steve Hilton, a Brit out to disrupt American politics with Crowdpac | work=[[The Washington Post]] | date=3 September 2014 | accessdate=26 June 2017 | author=Payne, Sebastian}}</ref><ref name="rc">{{cite web | url=http://www.rollcall.com/news/politics/crowdpac-helps-candidates-test-the-waters | title=Crowdpac Helps Candidates Test the Waters | work=[[Roll Call]] | date=9 May 2017 | accessdate=26 June 2017 | author=Garcia, Eric}}</ref> along with [[Adam Bonica]], [[Gisel Kordestani]], and [[Paul Hilder]]. The website is based in [[San Francisco]], and Hilton served as its CEO until 2018.<ref>{{cite web | url=http://www.sfchronicle.com/politics/article/Could-this-San-Francisco-tech-CEO-s-show-pull-11186597.php | title=Could this San Francisco tech CEO's show pull Fox to the middle? | work=[[San Francisco Chronicle]] | date=31 May 2017 | accessdate=26 June 2017 | author=Garofoli, Joe}}</ref><ref>{{cite web | url=https://www.crowdpac.com/about | title=About | work=Crowdpac.com | accessdate=26 June 2017}}</ref> One of the company's most successful crowdfunding campaigns was for Kathryn Allen, who raised three times as much money as incumbent Congressman [[Jason Chaffetz]], before Chaffetz announced that he would not run for re-election.<ref name="rc" /><ref>{{cite web | url=https://www.recode.net/2017/4/19/15350312/steve-hilton-crowdpac-politics-fundraising-recode-podcast | title=To fix politics, you have to fix fundraising, Crowdpac CEO Steve Hilton says | work=[[Recode]] | date=19 April 2017 | accessdate=26 June 2017 | author=Johnson, Eric}}</ref> The website also uses an algorithm built by researchers at [[Stanford University]] to track political candidates' sources of funding to predict how ideologically partisan they are.<ref>{{cite web | url=http://www.cnn.com/2015/01/14/politics/crowdpac-video-and-story/index.html | title=Rating 2016 candidates by donors busts conventional wisdom | work=[[CNN]] | date=14 January 2015 | accessdate=26 June 2017 | author=Moody, Chris}}</ref>
+
+In May 2018, Crowdpac announced that it was suspending fundraising for Republican candidates on its platform because of issues with "hate speech and the rhetoric and actions used to stir up racial animosity legitimized by the President of the United States".<ref name=":2" />  At the same time, Hilton was fired as CEO due to his relationship with [[Fox News]] as a conservative [[Pundit|political pundit]] and his conflicting values with the company, with Jesse Thomas appointed as acting CEO.<ref name=":2">{{cite web|url=https://medium.com/@Crowdpac/a-stand-against-trumpism-a-stand-for-democracy-a45e95a77ed5|title=A stand against Trumpism, a stand for democracy|author=Jesse Thomas|date=May 14, 2018|website=Medium}}</ref>
+
+The website suspended all donations and closed on June 19, 2019.<ref>{{Cite web|url=https://medium.com/@Crowdpac/the-end-of-the-crowdpac-experiment-dc4b3d3b2e5d|title=The end of the Crowdpac experiment|date=May 21, 2019|website=Medium|accessdate=Aug 19, 2020}}</ref> The site was acquired by Prytany and relaunched in November 2019.<ref>{{Cite web|url=https://thehill.com/homenews/campaign/471225-progressive-fundraising-platform-crowdpac-relaunching-after-shutting-down|title=Progressive fundraising platform Crowdpac relaunching after shutting down in May|first=Julia|last=Manchester|date=Nov 20, 2019|website=TheHill|accessdate=Aug 19, 2020}}</ref>
+
+== Criticisms ==
+Crowdpac was criticized for promoting endorsements by [[Ron Conway]], one of its investors and a candidate for office, in a 2015 election in San Francisco.<ref name=":0">{{Cite web|url=https://missionlocal.org/2015/11/community-view-crowdpacs-not-so-nonpartisan-sf-endorsements/|title=Community View: Crowdpac's Not So Nonpartisan SF Endorsements|last=Martin|first=Jay|date=2015-11-03|website=MissionLocal|language=en-US|access-date=2018-05-03}}</ref>
+
+Although launched with the aim to be a non-partisan platform, in 2018 the company acting CEO Jesse Thomas decided to block Republican candidates from raising on the platform, stating "This decision has been a hard one for our company, but as Trumpism has spread through the Republican Party we’ve started to see an increase in campaigns for Republican candidates that we cannot allow on our platform."<ref name=":1">{{Cite news|url=https://www.thedailybeast.com/fox-news-host-exits-his-company-over-support-for-trump|title=Fox News Host Exits His Company Over Support for Trump|last=Tani|first=Maxwell|date=2018-05-15|work=The Daily Beast|access-date=2018-05-15|language=en}}</ref><ref name=":3">{{Cite news|url=http://thehill.com/homenews/campaign/387823-campaign-fundraising-site-suspends-republican-accounts-in-effort-to-reject|title=Campaign fundraising site suspends Republican accounts in effort to reject 'Trumpism'|last=Thomsen|first=Jacqueline|date=2018-05-15|work=TheHill|access-date=2018-05-15|language=en}}</ref> Thomas cited an example of a [[Neo-Nazism|neo-Nazi]] candidate, whom was kicked out of the Republican convention, attempting to raise money through the website.<ref name=":1" />
+
+== See also ==
+
+* [[Comparison of crowdfunding services]]
+
+==References==
+{{Reflist|30em}}
+
+{{Crowdfunding platforms}}
+
+{{DEFAULTSORT:Crowdpac}}
+[[Category:Internet properties established in 2014]]
+[[Category:Crowdfunding platforms of the United States]]
+[[Category:American political websites]]
+[[Category:Campaign finance in the United States]]
+[[Category:Companies based in San Francisco]]

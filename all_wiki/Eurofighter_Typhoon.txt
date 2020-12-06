@@ -1,0 +1,983 @@
+{{short description|1994 multi-role combat aircraft family by Eurofighter; primary fighter of British, German and other air forces}}
+{{redirect2|EF2000|Eurofighter||Eurofighter (disambiguation)}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=January 2017}}
+{|{{Infobox aircraft begin
+| name = Eurofighter Typhoon
+| image = File:RAF Eurofighter EF-2000 Typhoon F2 Lofting-1.jpg
+| caption = An [[Royal Air Force|RAF]] Typhoon F2 flying through the [[Mach Loop]]
+}}{{Infobox aircraft type
+| type = [[multirole combat aircraft|Multirole fighter]]
+| national origin = Multi-national
+| manufacturer = [[Eurofighter GmbH|Eurofighter Jagdflugzeug GmbH]]
+| designer = 
+| first flight = 27 March 1994<ref name="maiden" />
+| introduced = 4 August 2003
+| produced = 1994–present
+| retired = 
+| number built = 571 as of October 2020<ref>{{cite web|last=Jennings|first=Gareth|url=https://www.janes.com/defence-news/news-detail/italy-receives-final-eurofighter-closing-core-nation-programme-of-record|title=Italy receives final Eurofighter, closing core nation programme of record|work=Janes|date=26 October 2020|accessdate=28 October 2020}}</ref> 
+| primary user = [[Royal Air Force]] <!-- on basis UK has ordered most -->
+| more users = [[German Air Force]] <br />[[Italian Air Force]] <br />[[Spanish Air Force]]<!-- Limit is THREE (3) in 'more users' field, four (4) total users with primary user. Please separate with <br />. --> <br />See ''[[#Operators|Operators]]'' below for others
+| status = In service
+| unit cost = €90&nbsp;million (system cost Tranche 3A)<ref name="kunden" /><br />£125&nbsp;million (including development + production costs) <ref name="NAO" />
+| developed from = [[British Aerospace EAP]]
+| variants with their own articles = [[Eurofighter Typhoon variants]]
+}}
+|}
+
+The '''Eurofighter Typhoon''' is a European [[twinjet|twin-engine]], [[canard (aeronautics)|canard]] [[delta wing]], [[multirole combat aircraft|multirole fighter]].<ref name="firstline" /><ref name="first2" /> The Typhoon was designed originally as an [[air superiority fighter]]<ref name="first3" /> and is manufactured by a [[consortium]] of [[Airbus]], [[BAE Systems]] and [[Leonardo S.p.A.|Leonardo]] that conducts the majority of the project through a joint [[holding company]], [[Eurofighter GmbH|Eurofighter Jagdflugzeug GmbH]]. [[NATO Eurofighter and Tornado Management Agency]] manages the project and is the prime customer.<ref name="NETMA" />
+
+The aircraft's development effectively began in 1983 with the Future European Fighter Aircraft programme, a multinational collaboration among the UK, Germany, France, Italy and Spain. Disagreements over design authority and operational requirements led France to leave the consortium to develop the [[Dassault Rafale]] independently. A technology demonstration aircraft, the [[British Aerospace EAP]], first flew on 6{{nbsp}}August 1986; the first prototype of the finalised Eurofighter made its first flight on 27 March 1994. The aircraft's name, Typhoon, was adopted in September 1998 and the first production contracts were also signed that year.
+
+The sudden end of the [[Cold War]] reduced European demand for fighter aircraft and led to debate over the aircraft's cost and work share and protracted the Typhoon's development: the Typhoon entered operational service in 2003 and is now in service with the air forces of [[Austrian Air Force|Austria]], [[Italian Air Force|Italy]], [[German Air Force|Germany]], the [[Royal Air Force|United Kingdom]], [[Spanish Air Force|Spain]], [[Royal Saudi Air Force|Saudi Arabia]] and [[Royal Air Force of Oman|Oman]]. [[Kuwait Air Force|Kuwait]] and [[Qatar Air Force|Qatar]] have also ordered the aircraft, bringing the procurement total to 623 aircraft {{as of|2019|lc=yes}}.
+
+The Eurofighter Typhoon is a highly agile aircraft, designed to be a supremely effective [[dogfight]]er in combat.<ref name="JDW" /> Later production aircraft have been increasingly better equipped to undertake air-to-surface strike missions and to be compatible with an increasing number of different armaments and equipment, including [[Storm Shadow]] and [[Brimstone (missile)|Brimstone]] missiles. The Typhoon had its combat debut during the [[2011 military intervention in Libya]] with the UK's Royal Air Force (RAF) and the Italian Air Force, performing [[aerial reconnaissance]] and [[Air interdiction|ground-strike]] missions. The type has also taken primary responsibility for air-defence duties for the majority of customer nations.
+{{TOC limit|limit=3}}
+
+==Development==
+===Origins===
+{{Further|British Aerospace EAP}}
+[[File:Eurofighter logo.svg|thumb|left|Official Eurofighter logo]]
+The UK had identified a requirement for a new fighter as early as 1971. The Air Staff Target (AST) 403 specification in 1972 led to the P.96 conventional "tailed" design presented in the late 1970s. While the design would have met the Air Staff's requirements, the UK air industry had reservations, as it appeared to be very similar to the [[McDonnell Douglas F/A-18 Hornet]], which was then well advanced in its development. The P.96 design had little potential for growth, and when it entered production, it would secure few exports in a market in which the Hornet would be well established.<ref name="Boot" /> However, the simultaneous West German requirement for a new fighter had led by 1979 to the development of the TKF-90 concept.<ref>Buttler 2000, pp. 131–34.</ref><ref name="efcuk" /> This was a [[Delta wing#Design variations|cranked delta wing]] design with forward close-coupled-[[canard (aeronautics)|canard controls]] and artificial stability. Although the British Aerospace designers rejected some of its advanced features such as engine [[vectoring nozzle]]s and vented [[trailing edge]] controls, a form of [[boundary layer control]], they agreed with the overall configuration.<ref name="Boot" />
+
+In 1979, [[Messerschmitt-Bölkow-Blohm]] (MBB) and [[British Aerospace]] (BAe) presented a formal proposal to their respective governments for the ECF, the European Collaborative Fighter<ref name="butl2" /> or ''European Combat Fighter''.<ref name="efcuk" /> In October 1979 [[Dassault Aviation|Dassault]] joined the ECF team for a tri-national study, which became known as the ''European Combat Aircraft''.<ref name="butl2" /> It was at this stage of development the Eurofighter name was first attached to the aircraft.<ref name="butler3" /> The development of different national prototypes continued. France produced the ACX. The UK produced two designs; the P.106{{refn|The P.106 was in actuality the P.106B. The P.106A was a single-engined version of the original P.96.<ref>Boot 1990, pp. 79–82.</ref> |group=N}} was a single-engined [[light fighter|"lightweight" fighter]], superficially resembling the [[JAS 39 Gripen]], the P.110 was a twin-engined fighter. The RAF rejected the P.106 concept on the grounds it had "half the effectiveness of the two-engined aircraft at two-thirds of the cost".<ref name="Boot" /> West Germany continued to refine the TKF-90 concept.<ref name="efcuk" /> The ECA project collapsed in 1981 for several reasons, including differing requirements, Dassault's insistence on "design leadership" and the British preference for a new version of the [[Turbo-Union RB199|RB199]] to power the aircraft versus the French preference for the new [[Snecma M88]].<ref name="butler3" />
+[[File:British Aerospace EAP at the Farnborough Air Show, 1986.jpg|thumb|right|[[British Aerospace EAP]] ''ZF534'' (for "Experimental Aircraft Programme") at the [[Farnborough Air Show]], 1986]]
+
+Consequently, the [[Panavia]] partners (MBB, BAe and [[Aeritalia]]) launched the ''Agile Combat Aircraft'' (ACA) programme in April 1982.<ref name="butler4" /> The ACA was very similar to the BAe P.110, having a cranked delta wing, canards and a twin tail. One major external difference was the replacement of the side-mounted engine intakes with a chin intake. The ACA was to be powered by a modified version of the RB199. The German and Italian governments withdrew funding, and the UK [[Ministry of Defence (United Kingdom)|Ministry of Defence]] (MoD) agreed to fund 50% of the cost with the remaining 50% to be provided by industry. MBB and Aeritalia signed up with the aim of producing two aircraft, one at [[BAe Warton|Warton]] and one by MBB. In May 1983, BAe announced a contract with the MoD for the development and production of an ACA demonstrator, the [[British Aerospace EAP|Experimental Aircraft Programme]].<ref name="butler4" /><ref name="KEY1" />
+
+In 1983 Italy, Germany, France, the UK and Spain launched the "Future European Fighter Aircraft" (FEFA) programme. The aircraft was to have [[STOL|short take off and landing]] (STOL) and beyond visual range (BVR) capabilities. In 1984, France reiterated its requirement for a [[Aircraft carrier|carrier-capable]] version and demanded a leading role. Italy, West Germany and the UK opted out and established a new EFA programme.<ref name="efcuk" /> In [[Turin]] on 2{{nbsp}}August 1985, West Germany, the UK and Italy agreed to go ahead with the Eurofighter; and confirmed France, along with Spain, had chosen not to proceed as a member of the project.<ref name="LEWIS" /> Despite pressure from France, Spain rejoined the Eurofighter project in early September 1985.<ref name="SPAININ" /> France officially withdrew from the project to pursue its own ACX project, which was to become the [[Dassault Rafale]].
+
+By 1986, the programme's cost had reached [[Pound sterling|£]]180&nbsp;million.<ref name="FI" /> When the EAP programme had started, the cost was supposed to be equally shared by government and industry, but the West German and Italian governments wavered on the agreement and the three main industrial partners had to provide £100&nbsp;million to keep the programme from ending. In April 1986, the BAe EAP was rolled out at BAe Warton, by this time also partially funded by MBB, BAe and Aeritalia.<ref name="FI" /> The EAP first flew on 6{{nbsp}}August 1986.<ref name="FAIRH" /> The Eurofighter bears a strong resemblance to the EAP. Design work continued over the next five years using data from the EAP. Initial requirements were: UK: 250 aircraft, Germany: 250, Italy: 165 and Spain: 100. The share of the production work was divided among the countries in proportion to their projected procurement – BAe (33%), [[DaimlerChrysler Aerospace|DASA]] (33%), Aeritalia (21%), and [[Construcciones Aeronáuticas SA]] (CASA) (13%).
+
+The Munich-based Eurofighter Jagdflugzeug GmbH was established in 1986 to manage development of the project<ref name="COWTON" /> and [[EuroJet Turbo GmbH]], the alliance of [[Rolls-Royce plc|Rolls-Royce]], [[MTU Aero Engines]], FiatAvio (now [[Avio]]) and [[Industria de Turbo Propulsores |ITP]] for development of the [[Eurojet EJ200|EJ200]]. The aircraft was known as Eurofighter EFA from the late 1980s until it was renamed EF 2000 in 1992.<ref>Spick 2000, p. 438.</ref>
+
+By 1990, the selection of the aircraft's radar had become a major stumbling-block. The UK, Italy and Spain supported the [[Ferranti]] Defence Systems-led [[ECR-90]], while Germany preferred the [[APG-65]]-based MSD2000 (a collaboration between [[Hughes Aircraft|Hughes]], [[AEG]] and [[GEC-Marconi]]). An agreement was reached after UK Defence Secretary [[Tom King, Baron King of Bridgwater|Tom King]] assured his West German counterpart [[Gerhard Stoltenberg]] that the British government would approve the project and allow the GEC subsidiary [[Marconi Electronic Systems]] to acquire Ferranti Defence Systems from its parent, the [[Ferranti]] Group, which was in financial and legal difficulties. GEC thus withdrew its support for the MSD2000.<ref name="RADAR1" />
+
+===Delays===
+{{Main|Timeline of the Eurofighter Typhoon}}
+
+The financial burdens placed on Germany by [[German reunification|reunification]] caused [[Helmut Kohl]] to make an [[1990 German federal election|election]] promise to cancel the Eurofighter. In early to mid-1991 German Defence Minister [[Volker Rühe]] sought to withdraw Germany from the project in favour of using Eurofighter technology in a cheaper, lighter plane. Because of the amount of money already spent on development, the number of jobs dependent on the project, and the binding commitments on each partner government, Kohl was unable to withdraw; "Rühe's predecessors had locked themselves into the project by a punitive penalty system of their own devising."<ref name="BBCwomc" />
+[[File:Royal Air Force Eurofighter Typhoon FGR4 MOD 45160576.jpg|thumb|RAF Typhoon FGR4 ''ZK356'' shows its delta wing, July 2016.]]
+
+In 1995 concerns over workshare appeared. Since the formation of Eurofighter the workshare split had been agreed at 33/33/21/13 (United Kingdom/Germany/Italy/Spain) based on the number of units being ordered by each contributing nation, all the nations then reduced their orders. The UK cut its orders from 250 to 232, Germany from 250 to 140, Italy from 165 to 121 and Spain from 100 to 87.<ref name="BBCwomc" /> According to these order levels the workshare split should have been 39/24/22/15 UK/Germany/Italy/Spain, however Germany was unwilling to give up such a large amount of work.<ref name="BBCwomc" /> In January 1996, after much negotiation between German and UK partners, a compromise was reached whereby Germany would purchase another 40 aircraft.<ref name="BBCwomc" /> The workshare split was therefore UK 37.42%, Germany 29.03%, Italy 19.52% and Spain 14.03%.
+
+At the 1996 [[Farnborough Airshow]] the UK announced funding for the construction phase of the project.<ref name="Farn96" /> On 22 December 1997 the defence ministers of the four partner nations signed the contract for production of the Eurofighter.<ref name="CON97" />
+
+===Testing===
+[[File:typhoon f2 zj910 canard arp.jpg|thumb|right|Close-up view of [[RAF]] Typhoon F2 ''ZJ910'', showing the deflected [[canard (aeronautics)|canard]] control surface immediately below the pilot]]
+
+The [[maiden flight]] of the Eurofighter prototype took place in [[Bavaria]] on 27 March 1994, flown by DASA chief test pilot Peter Weger.<ref name="maiden" /> In December 2004, Eurofighter Typhoon IPA4 began three months of Cold Environmental Trials (CET) at the [[Vidsel Air Base]] in Sweden, the purpose of which was to verify the operational behaviour of the aircraft and its systems in temperatures between −25 and 31&nbsp;°C.<ref name="hastings" /> The maiden flight of Instrumented Production Aircraft{{nbsp}}7 (IPA7), the first fully equipped Tranche{{nbsp}}2 aircraft, took place from EADS' [[Manching]] airfield on 16 January 2008.<ref name="T2MAIDEN" />
+
+===Procurement, production and costs===
+The first production contract was signed on 30 January 1998 between Eurofighter GmbH, Eurojet and NETMA.<ref name="BBC" /> The procurement totals were as follows: the UK 232, Germany 180, Italy 121, and Spain 87. Production was again allotted according to procurement: BAe (37.42%), DASA (29.03%), Aeritalia (19.52%), and CASA (14.03%).
+
+On 2 September 1998, a naming ceremony was held at [[Farnborough Airfield|Farnborough]], United Kingdom. This saw the Typhoon name formally adopted, initially for export aircraft only. The name continues the storm theme started by the [[Panavia Tornado]]. This was reportedly resisted by Germany; the [[Hawker Typhoon]] was a fighter-bomber aircraft used by the RAF during the [[Second World War]] to attack German targets.<ref name="NAMING" /> The name "Spitfire II" (after the famous British Second World War fighter, the [[Supermarine Spitfire]]) had also been considered and rejected for the same reason early in the development programme.<ref name="SPITFIRE" /> In September 1998, contracts were signed for production of 148 Tranche{{nbsp}}1 aircraft and procurement of long lead-time items for Tranche{{nbsp}}2 aircraft.<ref name="CON98" /> In March 2008, the final Tranche{{nbsp}}1 aircraft was delivered to the German Air Force.<ref name="holm" /> On 21 October 2008, the RAF's first two of 91 Tranche{{nbsp}}2 aircraft, were delivered to [[RAF Coningsby]].<ref name="RAFt1" />
+
+In July 2009, after almost 2 years of negotiations, the planned Tranche 3 purchase was split into 2 parts and the Tranche 3A contract was signed by the partner nations.<ref name="CON09" /> The "Tranche 3B" order did not go ahead.<ref name="NOT3" />
+
+The Eurofighter Typhoon is unique in modern combat aircraft in that there are four separate assembly lines. Each partner company assembles its own national aircraft, but builds the same parts for all aircraft (including exports); [[Premium AEROTEC]] (main centre fuselage),<ref name="BUILD" /> [[EADS CASA]] (right wing, leading edge slats), [[BAE Systems]] (BAE) (front fuselage (including foreplanes), canopy, dorsal spine, tail fin, inboard flaperons, rear fuselage section) and [[Leonardo S.p.A.|Leonardo]] (left wing, outboard [[flaperon]]s, rear fuselage sections).
+
+Production is divided into three tranches (see table below). Tranches are a production/funding distinction, and do not imply an incremental increase in capability with each tranche. Tranche{{nbsp}}3 are based on late Tranche{{nbsp}}2 aircraft with improvements added. Tranche{{nbsp}}3 was split into A and B parts.<ref name="FI3A" /> Tranches were further divided up into production standard/capability blocks and funding/procurement batches, though these did not coincide, and are not the same thing; e.g., the Eurofighter designated ''[[Eurofighter Typhoon variants#Typhoon FGR4|FGR4]]'' by the RAF is a Tranche 1, block 5. Batch{{nbsp}}1 covered block 1, but batch{{nbsp}}2 covered blocks 2, 2B and 5. On 25 May 2011 the 100th production aircraft, ZK315, rolled off the production line at Warton.<ref name="ZK315" />
+
+<center>
+{| class="wikitable"
+|+'''Expected production summary'''
+!Tranche
+!{{AUT}}
+!{{DEU}}
+!{{ITA}}
+!{{KWT}}
+!{{OMN}}
+!{{SAU}}
+!{{ESP}}
+!{{GBR}}
+!{{QAT}}
+!Total
+|-
+|Tranche 1
+|15{{refn|The change in Austria's order from six Tranche 1 and 12 Tranche 2 aircraft to 15 Tranche 1 jets led to a reduction in Tranche 1 quantities for the four partner nations, with a commensurate increase in Tranche 2 numbers.|group=N}}
+|33
+|28
+|0
+|0
+|0
+|19
+|53
+|0
+|148
+|-
+|Tranche 2<ref>Hoyle, Craig. [http://www.flightglobal.com/news/articles/uk-to-receive-first-tranche-2-eurofighter-typhoons-317612/ "UK to receive first Tranche 2 Eurofighter Typhoons."] ''Flightglobal.com, '' 21 October 2008. Retrieved: 7 July 2012.</ref>
+|0
+|79
+|47
+|0
+|0
+|48
+|34
+|67{{refn|24 Saudi aircraft were taken from UK Tranche 2 production, and were to have been replaced at the end of Tranche 2, but will now be accounted against the UK's Tranche 3A total. This marks an effective reduction of 24 aircraft in the UK order total.<ref>[http://www.airpower.at/news07/0627_eingespart/index.html "Der Darabos-Deal."] ''Airpower.at'', 2 April 2007. Retrieved: 28 November 2009.</ref>|group=N}}
+|0
+|275
+|-
+| Tranche 3A<ref name="FI3A" />
+| 0
+| 31
+| 21
+| 28
+| 12
+| 24
+| 20
+| 40
+| 24
+| 200
+|-
+| Tranche 4
+| 0
+| 38<ref>https://www.janes.com/defence-news/news-detail/germany-signs-for-quadriga-eurofighters</ref>
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 38
+|- style="border-top:2px solid #aaa; font-weight:bold;"
+| Total
+| 15
+| 181
+| 96
+| 28
+| 12
+| 72
+| 73
+| 160
+| 24
+| 661
+|}</center>
+
+In 1985 the estimated cost of 250 UK aircraft was £7&nbsp;billion. By 1997 the estimated cost was £17&nbsp;billion; by 2003, £20&nbsp;billion, and the in-service date (2003, defined as the date of delivery of the first aircraft to the RAF) was 54 months late.<ref name="LATE54" /> After 2003, the MoD refused to release updated cost-estimates on the grounds of commercial sensitivity.<ref name="COMM" /> However, in 2011, the [[National Audit Office (United Kingdom)|National Audit Office]] estimated the UK's "assessment, development, production and upgrade costs eventually hit £22.9&nbsp;billion" and total programme costs would reach £37{{nbsp}}billion.<ref name="NAO" />
+
+By 2007, Germany estimated the system cost (aircraft and training, plus spare parts) at €120{{nbsp}}million{{clarify|is this _per year_?|date=April 2012}} and said it was in perpetual increase.<ref name="DEUCOST" /> On 17 June 2009, Germany ordered 31 aircraft of Tranche 3A for €2.8{{nbsp}}billion, leading to a system cost of €90{{nbsp}}million per aircraft.<ref name="kunden" /> The UK's [[Public Accounts Committee (United Kingdom)|Committee of Public Accounts]] reported that mismanagement of the project had helped increase the cost of each aircraft by seventy-five percent.<ref name="PACCOST" /> The Spanish MoD put the cost of their Typhoon project up to December 2010 at €11.718{{nbsp}}billion, up from an original €9.255{{nbsp}}billion and implying a system cost for their 73 aircraft of €160{{nbsp}}million.<ref name="PEAs" />
+
+On 31 March 2009, a Eurofighter Typhoon fired an [[AIM-120 AMRAAM]] whilst having its radar in passive mode for the first time; the necessary target data for the missile was acquired by the radar of a second Eurofighter Typhoon and transmitted using the [[Multifunctional Information Distribution System]] (MIDS).<ref name="MIDSF" /> The entire Typhoon fleet passed the 500,000 flying hours milestone in 2018.<ref name="HOURS" /> As of August 2019, a total of 623 orders had been received with 560 delivered.<ref name="airbus" />
+
+In July 2016, the ten-year Typhoon Total Availability Enterprise (TyTAN) support deal between the RAF and industry partners BAE and Leonardo was announced that aims to reduce the Typhoon's per-hour operating cost by 30 to 40 percent.<ref name="TYTAN" /> This should equate to a saving of at least £550{{nbsp}}million ($712{{nbsp}}million), which "will be recycled into the programme" and, according to BAE, will result in the Typhoon having a per-hour operating cost "equivalent to a [[General Dynamics F-16 Fighting Falcon|F-16]]".<ref name="OPCOST" />
+
+===Upgrades===
+In 2000, the UK selected the [[Meteor (missile)|Meteor]] from [[MBDA]] as the long range air-to-air missile armament for its Typhoons with an in-service date (ISD) of December 2011.<ref name="Meteorcontract" /> In December 2002, France, Germany, Spain and Sweden joined the British in a $1.9bn contract for Meteor on Typhoon, the Dassault Rafale and the Saab Gripen.<ref name="Meteorcontract" /> The protracted contract negotiations pushed the ISD to August 2012,<ref name="Meteorcontract" /> and it was further put back by Eurofighter's failure to make trials aircraft available to the Meteor partners.<ref name="METTRIAL" /> In 2014 the "second element of the Phase{{nbsp}}1 Enhancements package known as 'P1Eb'" was announced, allowing "Typhoon to realise both its air-to-air and air-to-ground capability to full effect".<ref name="P1Eb" />
+
+In 2011 ''Flight International'' reported that budgetary pressures being encountered by the four original partner nations were limiting upgrades.<ref name="FILIMIT" /> For example, the four original partner nations were reluctant at that stage to fund enhancements that extend the aircraft's air-to-ground capability, such as integration of the [[MBDA Storm Shadow]] cruise missile.<ref name="MEU" />
+
+Tranche 3 aircraft ESM/ECM enhancements have focused on improving radiating jamming power with antenna modifications, while EuroDASS is reported to offer a range of new capabilities, including the addition of a digital receiver, extending band coverage to low frequencies ([[Very high frequency|VHF]]/[[Ultra high frequency |UHF]]) and introducing an interferometric receiver with extremely precise geolocation functionalities. On the jamming side, EuroDASS is looking to low-band<ref name="DASS0" /> (VHF/UHF) jamming, more capable antennae, new ECM techniques, while protection against missile is to be enhanced through a new passive MWS in addition to the active devices already on board the aircraft. The latest support for self-protection will however originate from the new AESA radar which is to replace the Captor system, providing in a spiralled programme with passive, active and cyberwarfare RF capabilities. [[Selex ES]] has developed a self-contained expendable [[Digital Radio Frequency Memory]] (DRFM) [[Radar jamming and deception|jammer]] for fast jet aircraft known as [[BriteCloud]] which is being studied for integration on the Typhoon.<ref name="centurion" />
+[[File:Nozzle of EJ200 afterburning turbofan (5).jpg|thumb|EJ200 TVC prototype]]
+
+Eurojet is attempting to find funding to test [[thrust vectoring]] control (TVC) nozzles on a flight demonstrator.<ref name="FITV" /> In April 2014, BAE announced new wind tunnel tests to assess the aerodynamic characteristics of [[conformal fuel tank]]s (CFTs). The CFTs, which can be fitted to any Tranche 3 aircraft, could carry 1,500 litres each to increase the Typhoon's [[combat radius]] by a factor of 25% to 1,500 n miles (2,778&nbsp;km).<ref name="CFT" />
+
+BAE has completed development of its Striker II Helmet-Mounted Display that builds on the capabilities of the original Striker Helmet-Mounted Display, which is already in service on the Typhoon.<ref name="STRIKER" /> Striker II features a new display with more colour and can transition between day and night seamlessly eliminating the need for separate night vision goggles. In addition, the helmet can monitor the pilot's exact head position so it always knows exactly what information to display.<ref name="STRIKER2" /> The system is compatible with [[Active noise control|ANR]], a [[3-D audio]] threats system and 3-D communications; these are available as customer options.<ref name="STRIKER3" /> In 2015, BAE was awarded a £1.7{{nbsp}}million contract to study the feasibility of a common weapon launcher that could be capable of carrying multiple weapons and weapon types on a single pylon.<ref name="CL" />
+
+[[File:EurofighterLEX2.jpg|thumb|AMK Leading Edge Root Extension]]
+Also in 2015, Airbus flight tested a package of aerodynamic upgrades for the Eurofighter known as the Aerodynamic Modification Kit (AMK) consisting of reshaped (delta) [[Strake (aeronautics)|fuselage strakes]], extended trailing-edge [[flaperons]] and [[Leading–edge extension#Leading–edge root extension|leading-edge root extensions]]. This increases wing lift by 25% resulting in an increased turn rate, tighter turning radius, and improved nose-pointing ability at low speed with angle of attack values around 45% greater and roll rates up to 100% higher.<ref name="AMK" /><ref name="AMK4" /><ref name="AMK5" /> Eurofighter's Laurie Hilditch said these improvements should increase subsonic turn rate by 15% and give the Eurofighter the sort of "knife-fight in a phone box" turning capability enjoyed by rivals such as Boeing's F/A-18E/F or the Lockheed Martin F-16, without sacrificing the transonic and supersonic high-energy agility inherent to its delta wing-canard configuration.<ref name="AMK2" /> Eurofighter Project Pilot Germany Raffaele Beltrame said: "The handling qualities appeared to be markedly improved, providing more manoeuvrability, agility and precision while performing tasks representative of in-service operations. And it is extremely interesting to consider the potential benefits in the air-to-surface configuration thanks to the increased variety and flexibility of stores that can be carried."<ref name="AMK3" />
+
+In April 2016, Finmeccanica (now Leonardo) demonstrated the air-to-ground capabilities of its Mode{{nbsp}}5 Reverse-[[Identification friend or foe]] (IFF) system which showed that it is possible to give pilots the ability to distinguish between friendly and enemy platforms in a simple fashion using the aircraft's existing transponder.<ref name="RIFF" /> Finmeccanica said [[NATO]] is considering the system as a short- to mid-term solution for air-to-surface identification of friendly forces and thus avoid collateral damages due to friendly fire during close air support operations.<ref name="RIFF" />
+
+====UK Project Centurion upgrades====
+With the confirmed retirement date of March 2019 for RAF Tornado GR4s, in 2014 the UK commenced an upgrade programme that would eventually become the £425 million Project Centurion to ensure the Typhoon was able to assume the precision strike duties of the ageing Tornado. The upgrade was delivered under different phases:<ref name="centurion" />
+*Phase 0 – initial multirole upgrades.
+*Phase 1/P2EA – MBDA Meteor integration and initial Storm Shadow Capability.
+*Phase 2/P3EA – Full Storm Shadow capability as well as Brimstone integration.
+
+Phase 1 standard aircraft were used operationally for the first time as part of [[Operation Shader]] over Iraq and Syria in 2018. On 18 December 2018 the RAF approved release to service for the full Project Centurion package.<ref name="centurion" />
+
+====Proposed upgrade for German Tornado replacement====
+On 24 April 2018, Airbus announced its offer to replace Germany's Panavia Tornado fleet, proposing the integration of new weaponry, performance enhancements and additional capabilities to the Eurofighter Typhoon.<ref name="FG.COM" /> This is similar to that being performed as part of the UK's Project Centurion. Integration of air-to-ground weapons already has begun on German Typhoons as part of Project Odin. Among the weapons being offered are the Kongsberg Joint Strike Missile for the anti-ship mission and the Taurus cruise missile.
+
+The consortium is keen to make use of the engine's growth potential to boost thrust by around 15% as well as improve fuel efficiency and range. This will be combined with a new design and enlarged 1,800-litre fuel tank. The aircraft currently is fitted with 1,000-litre fuel tanks. Other modifications will include the Aerodynamic Modification Kit, test flown in 2014, to improve maneuverability and handling, particularly with heavy weapon loads. Eurofighter says it is comfortable with delivering integration of the U.S. [[B61 nuclear weapon]] onto the aircraft, a process that requires U.S. certification. Paltzo said he was confident the U.S. government would not use the certification requirements of the weapon as "leverage" to force Germany towards a U.S. platform.{{citation needed |reason=Previous 3–4 sentences are all unsourced!|date=July 2019}} A next-generation electronic warfare suite has been planned by the four-country consortium.<ref name="NEWEW" />
+
+In November 2019 Airbus proposed a [[Suppression of Enemy Air Defenses |SEAD]] capability for the aircraft, a role which is currently performed by the Tornado ECR in German service. The Typhoon ECR would be configured with two Escort Jammer pods under the wings and two Emitter Location Systems at the wing tips. Armament configuration would include four MBDA Meteor, two [[IRIS-T]] and six [[SPEAR 3|SPEAR-EW]] in addition to three [[drop tank]]s.<ref name="SEAD" />
+
+On 5 November 2020 The German Government approved an order for 38 Tranche 4 with ground attack capabilities for the replacement of Tranche 1 units in German service.<ref>https://www.dw.com/en/germany-approves-billion-euro-purchase-of-38-eurofighter-jets/a-55513389</ref>
+
+===Replacement===
+Germany is to replace the Eurofighter with the [[New Generation Fighter]] (NGF), co-developed with France and Spain.<ref name="NGFTEMPEST" /> The [[BAE Systems Tempest]] is a ‘6th Generation’ fighter envisioned as a replacement for the RAF and [[Italian Air Force]] (AMI).<ref name="NGFTEMPEST" />
+
+==Design==
+===Airframe overview===
+[[File:Eurofighter 9803.ogg|thumb|left|thumbtime=32|Typhoon flight demonstration]]
+
+The Typhoon is a highly agile aircraft both at supersonic and at low speeds, achieved through having an intentionally [[relaxed stability]] design. It has a quadruplex digital [[fly-by-wire]] control system providing artificial stability, as manual operation alone could not compensate for the inherent instability. The fly-by-wire system is described as "carefree", and prevents the pilot from exceeding the permitted manoeuvre envelope. Roll control is primarily achieved by use of the ailerons. Pitch control is by operation of the canards and ailerons, because the canards disturb airflow to inner elevons (flaps). The yaw control is done by big single rudder.<ref name="AERPERF" /> Engines are fed by a chin double [[intake ramp]] situated below a [[Splitter plate (aeronautics)|splitter plate]].
+
+The Typhoon features lightweight construction (82% composites consisting of 70% [[carbon fibre]] [[composite material]]s and 12% [[glass fibre]] reinforced composites) with an estimated lifespan of 6,000 flying hours.<ref name="MATER" /><ref name="HRS" />
+
+====Radar signature reduction features====
+[[File:Eurofighter EFA-2000 Typhoon DA1 98+29 Intake DMFO 10June2013 (14563817746).jpg|thumb|[[S-duct]]-like air intake conceals engine fans, a major source of radar wave reflection]]
+
+Although not designated a [[stealth aircraft|stealth fighter]],<ref name="STEALTH" /> measures were taken to reduce the Typhoon's [[radar cross section]] (RCS), especially from the frontal aspect; An example of these measures is that the Typhoon has jet inlets that conceal the front of the engines (a strong radar target) from radar. Many important potential radar targets, such as the wing, canard and fin leading edges, are highly swept so they will reflect radar energy well away from the front.<ref>Richardson 2001, p. 113.</ref> Some external weapons are mounted semi-recessed into the aircraft, partially shielding these missiles from incoming radar waves.<ref name="structure" /> In addition [[radar-absorbent material]]s (RAM), developed primarily by [[Airbus|EADS]]/DASA, coat many of the most significant reflectors, such as the wing leading edges, the intake edges and interior, the rudder surrounds, and strakes.<ref name="structure" />
+
+The manufacturers carried out tests on the early Eurofighter prototypes to optimise the low observability characteristics of the aircraft from the early 1990s. Testing at BAE's Warton facility on the DA4 prototype measured the RCS of the aircraft and investigated the effects of a variety of RAM coatings and composites.<ref name="iarpdf" /> Another measure to reduce the likelihood of discovery is the use of passive sensors (PIRATE IRST), which minimises the radiation of treacherous electronic emissions. While canards generally have poor stealth characteristics from side because of corner to hull,<ref name="STECAN" /> the flight control system is designed to maintain the elevon trim and canards at an angle at which they have the smallest RCS.<ref name="STECAN2" />
+
+===Cockpit===
+[[File:Cockpit of RAF Typhoon Fighter MOD 45152531.jpg|thumb|upright|MHDDs and pedestal panel with centre stick in the Typhoon cockpit]]
+
+The Typhoon features a [[glass cockpit]] without any conventional instruments. It incorporates three full colour multi-function head-down displays (MHDDs) (the formats on which are manipulated by means of softkeys, XY cursor, and voice ([[Direct Voice Input]] or DVI) command), a wide angle [[head-up display]] (HUD) with forward-looking infrared ([[FLIR]]), a voice and hands-on throttle and stick (Voice+[[HOTAS]]), a Helmet Mounted Symbology System ([[Helmet mounted display#Eurofighter Helmet-Mounted Symbology System|HMSS]]), a MIDS, a manual data-entry facility (MDEF) located on the left glareshield and a fully integrated aircraft warning system with a dedicated warnings panel (DWP). Reversionary flying instruments, lit by [[LED]]s, are located under a hinged right glareshield.<ref name="INST" /> Access to the cockpit is normally via either a telescopic integral ladder or an external version. The integral ladder is stowed in the port side of the fuselage, below the cockpit.<ref name="LAD" />
+
+User needs were given a high priority in the cockpit's design; both layout and functionality was developed with feedback and assessments from military pilots and a specialist testing facility.<ref name="COCKP" /> The aircraft is controlled by means of a [[centre stick]] (or control stick) and left hand [[throttle]]s, designed on a Hand on Throttle and Stick (HOTAS) principle to lower pilot [[Cognitive load|workload]].<ref name="CONTROL" /> Emergency escape is provided by a [[Martin-Baker]] Mk.16A [[ejection seat]], with the canopy being jettisoned by two rocket motors.<ref name="EJSEAT" /> The HMSS was delayed by years but should have been operational by late 2011.<ref name="HMSS" /> Standard ''g''-force protection is provided by the ''full-cover anti-''g'' trousers'' (FCAGTs),<ref name="LIFES" /> a specially developed [[G suit|''g'' suit]] providing sustained protection up to nine ''g''. German and Austrian Air Force pilots wear a hydrostatic ''g''-suit called ''Libelle'' (''dragonfly'') Multi G Plus instead,<ref name="suit" /> which also provides protection to the arms, theoretically giving more complete ''g'' tolerance.
+
+[[File:Royal Air Force Typhoon Pilot's Helmet MOD 45158393.jpg|thumb|left|Helmet Mounted Symbology System (HMSS)]]
+In the event of pilot [[Spatial disorientation|disorientation]], the [[Flight Control System]] allows for rapid and automatic recovery by the simple press of a button. On selection of this cockpit control the FCS takes full control of the engines and flying controls, and automatically stabilises the aircraft in a wings level, gentle climbing attitude at 300 knots, until the pilot is ready to retake control.<ref name="AUTOR" /> The aircraft also has an Automatic Low-Speed Recovery system (ALSR) which prevents it from departing from controlled flight at very low speeds and high [[angle of attack]]. The FCS system is able to detect a developing low-speed situation and to raise an audible and visual low-speed cockpit warning. This gives the pilot sufficient time to react and to recover the aircraft manually. If the pilot does not react, however, or if the warning is ignored, the ALSR takes control of the aircraft, selects maximum dry power for the engines and returns the aircraft to a safe flight condition. Depending on the attitude, the FCS employs an ALSR "push", "pull" or "knife-over" manoeuvre.<ref name="FCS" />
+
+The Typhoon Direct Voice Input (DVI) system uses a speech recognition module (SRM), developed by [[Smiths Industries|Smiths Aerospace]] and Computing Devices. It was the first production DVI system used in a military cockpit. DVI provides the pilot with an additional natural mode of command and control over approximately 26 non-critical cockpit functions, to reduce pilot workload, improve aircraft safety, and expand mission capabilities. An important step in the development of the DVI occurred in 1987 when [[Texas Instruments]] completed the TMS-320-C30, a digital signal-processor, enabling reductions in the size and system complexity required. The project was given the go-ahead in July 1997, with development carried out on the Eurofighter Active Cockpit Simulator at Warton.<ref name="DVI1" /> The DVI system is speaker-dependent, requiring each pilot to create a template. It is not used for safety-critical or weapon-critical tasks, such as weapon release or lowering of the undercarriage.<ref name="DVI2" /> Voice commands are confirmed by visual or aural feedback, and serves to reduce pilot workload. All functions are also achievable by means of a conventional button-press or soft-key selections; functions include display management, communications, and management of various systems.<ref name="EF_DVI" /> [[Cassidian|EADS Defence and Security]] in Spain has worked on a new non-template DVI module to allow for continuous speech recognition, speaker voice recognition with common databases (e.g. [[British English]], [[American English]], etc.) and other improvements.<ref name="EF_DVI" />
+
+===Avionics===
+[[File:DASS by numbers.png|thumb|Praetorian DASS<br />
+ 1. Laser warners<br>
+ 2. Flare launchers (IR decoys)<br>
+ 3. Chaff dispensers<br>
+ 4. Missile warners<br>
+ 5. Wingtip pods for ESCM<br>
+ 6. Towed decoy
+]]
+
+Navigation is via both [[GPS]] and an [[inertial navigation system]]. The Typhoon can use [[Instrument Landing System]] (ILS) for landing in poor weather. The aircraft also features an [[ground proximity warning system|enhanced ground proximity warning system]] (GPWS) based on the [[TERPROM]] Terrain Referenced Navigation (TRN) system used by the Panavia Tornado.<ref name="gpws" /> MIDS provides a [[Link 16]] data link.<ref name="MIDS" />
+
+The aircraft employs a sophisticated and highly integrated [[Defensive aids system|Defensive Aids Sub-System]] named [[Praetorian DASS|Praetorian]] (formerly Euro-DASS)<ref name="DASS" /> Praetorian monitors and responds automatically to air and surface threats, provides an all-round prioritised assessment, and can respond to multiple threats simultaneously. Threat detection methods include a [[Radar warning receiver]] (RWR), a [[Missile approach warning system|missile warning system]] (MWS) and a [[laser warning receiver]] (LWR, only on UK Typhoons). Protective countermeasures consist of [[Chaff (countermeasure)|chaff]], [[flare (countermeasure)|flare]]s, an [[electronic countermeasures]] (ECM) suite and a towed radar decoy (TRD).<ref name="DASS2" /> The ESM-ECM and MWS consists of 16 [[Active electronically scanned array|AESA]] antenna array assemblies and 10 radomes.<ref name="EWITEMS" />
+
+Traditionally each sensor in an aircraft is treated as a discrete source of information; however this can result in conflicting data and limits the scope for the automation of systems, hence increasing pilot workload. To overcome this, the Typhoon employs [[sensor fusion]] techniques. In the Typhoon, fusion of all data sources is achieved through the Attack and Identification System, or AIS. This combines data from the major on-board sensors along with any information obtained from off-board platforms such as [[Airborne early warning and control|AWACS]], [[Raytheon Sentinel|ASTOR]], and MIDS. Additionally the AIS integrates all the other major offensive and defensive systems (e.g. DASS & communications). The AIS physically comprises two essentially separate units: the Attack Computer (AC) and the Navigation Computer (NC).<ref name="AVI" />
+
+By having a single source of information, pilot workload should be reduced by removing the possibility of conflicting data and the need for cross-checking, improving [[situational awareness]] and increasing systems automation. In practice the AIS should allow the Eurofighter to identify targets at distances in excess of 150&nbsp;nmi and acquire and auto-prioritise them at over 100&nbsp;nmi. In addition the AIS offers the ability to automatically control emissions from the aircraft, so called EMCON (from EMissions CONtrol). This should aid in limiting the detectability of the Typhoon by opposing aircraft further reducing pilot workload.<ref name="Paul S. Owen" />
+
+In 2017 a RAF Eurofighter Typhoon demonstrated interoperability with the F-35B using its [[Multifunction Advanced Data Link]] (MADL) in a two-week trial known as Babel Fish III, in the [[Mojave Desert]]. This was achieved by translating the MADL messages into Link 16 format, thus allowing an F-35 in stealth mode to communicate directly with the Typhoon.<ref name="MADL" />
+
+===Radar and sensors===
+====CAPTOR radar====
+{{main|Euroradar CAPTOR}}
+[[File:ILA Berlin 2012 PD 193-2.JPG|thumb|CAPTOR-E demonstrator]]
+The Euroradar CAPTOR is a mechanical multi-mode pulse Doppler radar designed for the Eurofighter Typhoon. The Eurofighter operates automatic Emission Controls (EMCON) to reduce the electro-magnetic emissions of the current CAPTOR mechanically scanned radar.<ref name="structure" /> The Captor-M has three working channels, one intended for classification of jammer and for jamming suppression.<ref name="CAPCHA" /> A succession of radar software upgrades have enhanced the air-to-air capability of the radar.<ref name="EFW0712" /> These upgrades have included the R2P programme (initially UK only, and known as T2P when 'ported' to the Tranche{{nbsp}}2 aircraft) which is being followed by R2Q/T2Q.<ref name="R2P" /> R2P was applied to eight German Typhoons deployed on Red Flag Alaska in 2012.
+
+;CAPTOR-E AESA variant
+The [[Euroradar CAPTOR|CAPTOR-E]] is an AESA derivative of the original CAPTOR radar, also known as CAESAR (from CAPTOR Active Electronically Scanned Array Radar) being developed by the EuroRADAR Consortium, led by Selex ES.
+
+Synthetic Aperture Radar is expected to be fielded as part of the AESA radar upgrade which will give the Eurofighter an all-weather ground attack capability.<ref name="SAR" /> The conversion to AESA will also give the Eurofighter a [[low probability of intercept radar]] with improved jam resistance.<ref name="AESA1" /> These include an innovative design with a gimbal to meet RAF requirements for a wider scan field than a fixed AESA.<ref name="AESA2" /> The coverage of a fixed AESA is limited to 120° in azimuth and elevation.<ref name="AESA3" /> A senior EADS radar expert has claimed that Captor-E is capable of detecting an [[F-35]] from roughly 59&nbsp;km away.<ref name="AESA4" />
+
+The first flight of a Eurofighter equipped with a "mass model" of the Captor-E occurred in late February 2014, with flight tests of the actual radar beginning in July of that year.<ref name="AESA5" /> On 19 November 2014 the contract to upgrade to the Captor-E was signed at the offices of EuroRadar lead Selex ES in Edinburgh, in a deal worth €1bn.<ref name="AESA6" /> Kuwait became the launch customer for the Captor-E active electronically scanned array radar in April 2016.<ref name="AESA7" /> Germany has announced the intention to integrate the AESA Captor-E into their Typhoons, beginning in 2022.<ref name="AESA8" />
+
+====IRST{{Anchor|IRST}}====
+{{Main|EuroFIRST PIRATE}}
+
+{{Anchor|PIRATE}}The Passive Infra-Red Airborne Track Equipment (PIRATE) system is an [[infrared search and track]] (IRST) system mounted on the port side of the fuselage, forward of the windscreen. Selex ES is the lead contractor which, along with [[Thales Optronics]] (system technical authority) and Tecnobit of Spain, make up the EUROFIRST consortium responsible for the system's design and development. Eurofighters starting with Tranche{{nbsp}}1 block{{nbsp}}5 have the PIRATE. The first Eurofighter Typhoon with PIRATE-IRST was delivered to the Italian [[Aeronautica Militare]] in August 2007.<ref name="PIRATE" /> More advanced targeting capabilities can be provided with the addition of a targeting pod such as the [[LITENING]] pod.<ref name="AUSTERE2" />
+
+[[File:Aeronautica Militare Typhoon IRST (27476944291).jpg|thumb|PIRATE IRST]]
+When used with the radar in an air-to-air role, it functions as an infrared search and track system, providing passive target detection and tracking. The system can detect variations in temperature at a long range.<ref name="PIRATE2" /> It also provides a navigation and landing aid. PIRATE is linked to the pilot's [[helmet-mounted display]].<ref name="Airforce-TechEF2000" /> It allows the detection of both hot exhaust plumes of jet engines and surface heating caused by friction; processing techniques further enhance the output, giving a near-high resolution image of targets. The output can be directed to any of the Multi-function Head Down Displays, and can also be overlaid on both the Helmet Mounted Sight and the Head Up Display.
+
+Up to 200 targets can be simultaneously tracked using one of several different modes; Multiple Target Track (MTT), Single Target Track (STT), Single Target Track Ident (STTI), Sector Acquisition and Slaved Acquisition. In MTT mode the system will scan a designated volume space looking for potential targets. In STT mode PIRATE will provide tracking of a single designated target. An addition to this mode, STT Ident allows for visual identification of the target, the resolution being superior to CAPTOR's. When in Sector Acquisition mode PIRATE will scan a volume of space under direction of another onboard sensor such as CAPTOR. In Slave Acquisition, off-board sensors are used with PIRATE being commanded by data obtained from an AWACS or other source. When a target is found in either of these modes, PIRATE will automatically designate it and switch to STT.{{citation needed|date=May 2020}}
+
+Once a target has been tracked and identified, PIRATE can be used to cue an appropriately equipped short range missile, i.e. a missile with a high off-boresight tracking capability such as ASRAAM. Additionally the data can be used to augment that of CAPTOR or off-board sensor information via the AIS. This should enable the Typhoon to overcome severe ECM environments and still engage its targets.<ref name="Paul S. Owen" /> PIRATE also has a passive ranging capability<ref name="PIRATE3" /> although the system remains limited when providing passive firing solutions, as it does not have a laser rangefinder.
+
+===Engines===
+{{main|Eurojet EJ200}}
+
+The Eurofighter Typhoon is fitted with two Eurojet EJ200 engines, each capable of providing up to 60&nbsp;kN (13,500&nbsp;lbf) of dry thrust and >90&nbsp;kN (20,230&nbsp;lbf) with afterburners. Using the "war" setting, dry thrust increases by 15% to 69&nbsp;kN per engine and afterburners by 5% to 95&nbsp;kN per engine and for a few seconds, up to 102&nbsp;kN thrust without damaging the engine.<ref name="ENGINESPECS" /> The EJ200 engine combines the leading technologies from each of the four European companies, using advanced digital control and health monitoring; wide chord aerofoils and single crystal turbine blades; and a convergent / divergent exhaust nozzle to give high thrust-to-weight ratio, multimission capability, supercruise performance, low fuel consumption, low cost of ownership, modular construction and growth potential.<ref name="ENGINESPECSMTU" />
+
+The Typhoon is capable of supersonic cruise without using [[afterburner]]s (referred to as [[supercruise]]). ''Air Forces Monthly'' gives a maximum supercruise speed of Mach&nbsp;1.1 for the RAF FGR4 multirole version,<ref name="Swing" /> however in a [[Singapore]]an evaluation, a Typhoon managed to supercruise at Mach&nbsp;1.21 on a hot day with a combat load.<ref name="SUPERC" /> Eurofighter states that the Typhoon can supercruise at Mach&nbsp;1.5.<ref name="web.archive.org" /> As with the F-22, the Eurofighter can launch weapons while under supercruise to extend their ranges via this "running start".<ref name="RUNNING" /> In 2007, the EJ200 engine had accumulated 50,000 Engine Flying Hours in service with the four Nation Air Forces (Germany, UK, Spain and Italy).<ref name="EJHOURS" />
+
+The EJ200 engine has the potential to be fitted with a thrust vectoring control (TVC) nozzle, which the Eurofighter and Eurojet consortium have been actively developing and testing, primarily for export but also for future upgrades of the fleet. TVC could reduce fuel burn on a typical Typhoon mission by up to 5%, as well as increase available thrust in supercruise by up to 7% and take-off thrust by 2%.<ref name="THRUSTV" /> Clemens Linden, Eurojet TURBO GmbH CEO, speaking at the 2018 Farnborough International Air Show, said "15 per cent more thrust would allow pilots to operate with a heavily loaded aircraft in the battlespace with the same performance levels as they have today. The technology insertion also provides more persistence – giving aircraft longer range or longer loitering time. To achieve more thrust we would increase the airflow and pressure ratios of the high and low pressure compressors and run higher temperatures in the turbines by using the latest generation single crystal turbine blade materials. And with higher aerodynamic efficiencies we can achieve a lower fuel burn. A third area of improvement would be the engine exhaust nozzle which would be upgraded with the installation of a 2-parametric version allowing independent and optimized adjustment of the throat and exit area at all flight conditions, providing fuel burn advantages. The technologies for the different components are at a [[Technology readiness level]] of between 7{{nbsp}}and 9. The nozzle has been at [[Industria de Turbo Propulsores|ITP]] in Spain on a test bed for 400 hours."<ref name="EJHRS" />
+
+===Performance===
+The Typhoon's combat performance, compared to the [[Lockheed Martin F-22 Raptor|F-22 Raptor]] and F-35 Lightning II fighters and the French Dassault Rafale, has been the subject of much discussion.<ref name="COMPARE1" /> In March 2005, [[United States Air Force]] Chief of Staff General [[John P. Jumper]], then the only person to have flown both the Eurofighter Typhoon and the Raptor, said:
+
+{{bquote|The Eurofighter is both agile and sophisticated, but is still difficult to compare to the F/A-22 Raptor. They are different kinds of airplanes to start with; it's like asking us to compare a [[NASCAR]] car with a [[Formula One]] car. They are both exciting in different ways, but they are designed for different levels of performance.{{nbsp}}... The Eurofighter is certainly, as far as smoothness of controls and the ability to pull (and sustain high G forces), very impressive. That is what it was designed to do, especially the version I flew, with the avionics, the color moving map displays, etc. — all absolutely top notch. The maneuverability of the airplane in close-in combat was also very impressive. The F/A-22 performs in much the same way as the Eurofighter. But it has additional capabilities that allow it to perform the [U.S.] Air Force's unique missions.<ref name="Rapt_Eurof" />}}
+
+[[File:German eurofighter.JPG|thumb|German Air Force Eurofighter Typhoon ''31+17'' during takeoff, July 2010]]
+In the 2005 Singapore evaluation, the Typhoon won all three combat tests, including one in which a single Typhoon defeated three RSAF F-16s, and reliably completed all planned flight tests.<ref>Defence Analysis August 2004</ref> In July 2009, Former Chief of Air Staff for the RAF, Air Chief Marshal Sir Glenn Torpy, said that "The Eurofighter Typhoon is an excellent aircraft. It will be the backbone of the Royal Air Force along with the JSF."<ref name="TORPY" />
+
+In July 2007, Indian Air Force [[Sukhoi Su-30MKI|Su-30MKI]] fighters participated in the ''Indra-Dhanush'' exercise with the RAF's Typhoon. This was the first time the two fighters had taken part in such an exercise.<ref name="INDIA1" /> The IAF did not allow their pilots to use the MKI's radar during the exercise to protect the highly classified Russian [[Bars radar|N011M Bars]].<ref name="INDIA2" /> The IAF pilots were impressed by the Typhoon's agility.<ref name="AirSceneUK" /> In 2015, Indian Air Force Su-30MKIs again participated in a ''Indra-Dhanush'' exercise with RAF Typhoons.<ref name="INDIA3" />
+
+===Armament===
+{{expand section|1=details related to its air-to-air armaments|date=January 2020}}
+[[File:Eurofighter Typhoon FGR4 4 (5969145285).jpg|thumb|RAF Typhoon FGR4 ''ZJ700'' seen from below, displaying several air-to-ground munitions and two external drop tanks]]
+
+The Typhoon is a multi-role fighter with maturing air-to-ground capabilities. The initial absence of air-to-ground capability is believed to have been a factor in the type's rejection from Singapore's fighter competition in 2005. At the time it was claimed that Singapore was concerned about the delivery timescale and the ability of the Eurofighter partner nations to fund the required capability packages.<ref name="A2G" /> Tranche{{nbsp}}1 aircraft could drop laser-guided bombs in conjunction with third-party designators but the anticipated deployment of Typhoon to Afghanistan meant that the UK required self-contained bombing capabilities before the other partners.<ref name="AUSTERE1" /> In 2006 the UK embarked on the £73m Change Proposal 193 (CP193) to give an "austere" air-to-surface capability using [[GBU-16 Paveway II]] and [[Rafael Advanced Defense Systems|Rafael]]/[[Ultra Electronics]] [[LITENING targeting pod|Litening III]] [[laser designator]] for Tranche{{nbsp}}1 Block{{nbsp}}5 aircraft.<ref name="AUSTERE2" /> Aircraft with this upgrade were designated Typhoon FGR4 by the RAF.
+[[File:Eurofighter hardpoints.png|thumb|Eurofighter hardpoints]]
+
+Similar capability was added to Tranche 2 aircraft on the main development pathway as part of the Phase{{nbsp}}1 Enhancements. P1Ea (SRP10) entered service in 2013 Q1 and added the use of Paveway IV, EGBU16 and the cannon against surface targets.<ref name="EFW0712" /> P1Eb (SRP12) added full integration with GPS bombs such as [[GBU-10 Paveway II]], GBU-16 Paveway II, [[Paveway IV]] and a new real-time operating system that allows multiple targets to be attacked in a single run.<ref name="EFW0712" /> This new system will form the basis for future weapons integration by individual countries under the Phase{{nbsp}}2 Enhancements. The Storm Shadow and [[KEPD 350]] (Taurus) cruise missiles, together with the Meteor Beyond Visual Range Air-to-Air missile flight trials have been successfully completed by January 2016.<ref name="CRTRIAL" /> The Storm Shadow and Meteor firings are part of the Phase{{nbsp}}2 Enhancement (P2E) programme which introduced a range of new and improved long range attack capabilities to Typhoon. In addition to Meteor and Storm Shadow, the first live firing of MBDA's Brimstone air-to-surface missile, part of the Phase{{nbsp}}3 Enhancements (P3E) programme, was successfully completed in July 2017.<ref name="P3E" />
+
+German aircraft can carry four [[Paveway|GBU-48]] 1000&nbsp;lb bombs.<ref name="GERGBU" />
+
+An anti-ship capability has been studied but has not yet been contracted. Weapon options for this role could include [[Harpoon (missile)|Boeing Harpoon]], [[Sea Killer|MBDA Marte]], "Sea Brimstone", and [[RBS-15]].<ref name="shipping2" /><ref name="Wall" /><ref name="shipping3" />
+
+The Typhoon also carries a specially developed variant of the [[Mauser BK-27]] 27&nbsp;mm cannon that was developed originally for the Panavia Tornado. This is a single-barrel, electrically fired, gas-operated revolver cannon with a new linkless feed system is located in the starboard wing root, and is capable of firing up to 1700 rounds per minute. There was a proposal on cost grounds in 1999 to limit UK gun-armament fit to the first 53 batch-1 aircraft and not used operationally, but this decision was reversed in 2006.<ref name="CANNON" />
+
+==Operational history==
+{{main|Eurofighter Typhoon procurement}}
+
+===Austrian Air Force (Luftstreitkräfte)===
+[[File:Eurofighter Typhoon AUT.jpg|thumb|left|[[Austrian Air Force]] Eurofighter ''7L-WA'' in flight to [[Zeltweg Air Base]], July 2007]]
+
+In 2002 Austria selected the Typhoon as its new air defence aircraft, it having beaten the F-16 and the Saab Gripen in competition.<ref name="AUSTRIANOS" /> The purchase of 18 Typhoons was agreed on 1 July 2003, however this was reduced to 15 in June 2007.<ref name="AUSTRIANOS" /> The first aircraft (''7L-WA'') was delivered on 12 July 2007 to [[Zeltweg Air Base]] and formally entered service with the [[Austrian Air Force]].<ref name="AUDEL" /> A 2008 report by the Austrian government oversight office, the [[Court of Audit|Rechnungshof]], calculated that instead of getting 18 Tranche{{nbsp}}2 jets at a price of €109{{nbsp}}million each, as stipulated by the original contract, the revised deal agreed by Minister Darabos meant that Austria was paying an increased unit price of €114{{nbsp}}million for 15 partially used, Tranche{{nbsp}}1 jets.<ref name="AUT1" /> In July 2008, the Luftstreitkräfte assigned the Eurofighter to [[Quick Reaction Alert]] (QRA) duties, by the end of the year they had been scrambled 73 times.<ref name="QRA73" />
+
+Austrian prosecutors are investigating allegations that up to €100{{nbsp}}million was made available to lobbyists to influence the original purchase decision in favour of the Eurofighter.<ref name="AUP" /> By October 2013, all Typhoons in service with Austria had been upgraded to the latest ''Tranche{{nbsp}}1'' standard.<ref name="austrias" /> In 2014, due to defense budget restrictions, there were only 12 pilots available to fly the 15 aircraft in Austria's Air Force.<ref name="AUF" /> In February 2017, Austrian Defense Minister [[Hans Peter Doskozil]] accused Airbus of fraudulent intent following a probe that allegedly unveiled corruption linked to the order of Typhoon jets.<ref name="AUSS" />
+
+In July 2017, the Austria Defense Ministry announced that it would be replacing all its Typhoon aircraft by 2020. The ministry said continued use of its Typhoons over their 30-year life span would cost about €5{{nbsp}}billion with the bulk being for maintenance. By comparison it is estimated that buying and operating a new fleet of 15 single-seat and three twin-seat fighters would save €2{{nbsp}}billion over that period. Austria plans to explore a government-to-government sale or lease agreement to avoid a lengthy and costly tender process with a manufacturer. Possible replacements include the Gripen and the F-16.<ref name="AUSTREP" />
+
+On 20 July 2020, a letter written by Indonesia's defense minister, [[Prabowo Subianto]], was published by Indonesian news outlets expressing interest in acquiring Austria's entire fleet of Typhoon jets<ref>{{cite web|work=[[Defense News]]|last=Yeo |first=Mike |date=20 July 2020 |url=https://www.defensenews.com/global/asia-pacific/2020/07/20/indonesia-says-it-wants-to-buy-austrias-entire-typhoon-fighter-fleet/ |title=Indonesia says it wants to buy Austria's entire Typhoon fighter fleet |accessdate=21 July 2020}}</ref>
+
+===German Air Force (Luftwaffe)===
+[[File:Eurofighter Luftwaffe (26437961262).jpg|thumb|A Luftwaffe Eurofighter Typhoon]]
+On 4 August 2003, the German Air Force accepted its first series production Eurofighter (''30+03'') starting the replacement process of the [[Mikoyan MiG-29]]s inherited from the [[East German Air Force]].<ref name="GER1ST" /> The first Luftwaffe Wing to accept the Eurofighter was [[Jagdgeschwader 73]] "Steinhoff" on 30 April 2004 at [[Rostock–Laage Airport]].<ref name="FirstLWING" /> The second Wing was [[Jagdgeschwader 74]] (JG74) on 25 July 2006, with four Eurofighters arriving at [[Neuburg Air Base]], beginning the replacement of JG74's [[McDonnell Douglas F-4 Phantom II|McDonnell Douglas F-4F Phantom II]]s.<ref name="REPLACEF4" />
+
+The Luftwaffe assigned their Eurofighter Typhoons to QRA on 3 June 2008, taking over from the F-4F Phantom II.<ref name="QRA" />
+
+On 28 October 2014, while deployed to [[Ämari Air Base]] in [[Estonia]] as part of the NATO [[Baltic Air Policing]] mission, German Eurofighters scrambled and intercepted seven [[Russian Air Force]] aircraft over the [[Baltic Sea]].<ref name="BALTIC" />
+{{Clear}}
+
+===Italian Air Force (Aeronautica Militare)===
+[[File:Eurofighter EF-2000 Typhoon S MM7286 - 36-02 (cn IS018) Landing @ LIPI with aerobrake displaced (21467992094).jpg|thumb|right|Italian F-2000A Typhoon ''MM7286'' of 936° GEA landing at [[Rivolto Air Base]], September 2015]]On 16 December 2005, the F-2000 Typhoon reached initial operational capability (IOC) with the [[Italian Air Force]] (Aeronautica Militare). Its F-2000 Typhoons were put into service as air defence fighters at the [[Grosseto]] Air Base, and immediately assigned to QRA at the same base.<ref name="Italy_IOC" />
+
+On 17 July 2009, Italian Air Force F-2000A Typhoons were deployed to protect [[Albania]]'s airspace.<ref name="ALBANIA" /> On 29 March 2011, Italian Air Force Eurofighter Typhoons began flying combat air patrol missions in support of NATO's [[Operation Unified Protector]] in [[Libya]].<ref name="ITLIBYA" />
+
+Between January and August 2015, four Aeronautica Militare F-2000A Typhoons (from 36º and 37º Stormo) were deployed to [[Šiauliai Air Base]] in northern [[Lithuania]] as part of the Baltic Air Policing mission.<ref name="ITLITH" />
+{{Clear}}
+
+===Kuwait Air Force===
+On 11 September 2015, Eurofighter confirmed that an agreement had been reached to supply Kuwait with 28 aircraft.<ref name="kuwait" /> On 1{{nbsp}}March 2016, the [[National Assembly (Kuwait)|Kuwaiti National Assembly]] approved the procurement of 22 single-seat and six twin-seat Typhoons.<ref name="KUWOPTS" /> On 5{{nbsp}}April 2016, Kuwait signed a contract with Leonardo valued at €7.957{{nbsp}}billion ($9.062{{nbsp}}billion) for the supply of the 28 aircraft, all to tranche 3 standard.<ref name="KUWCONT" /> The Kuwaiti aircraft will be the first Typhoons to receive the Captor-E AESA radar, with two instrumented production aircraft from the UK and Germany currently undergoing ground-based integration trials. The Typhoons will be fitted with Leonardo's Praetorian defensive aids suite and PIRATE infrared search and track system. The contract involves the production of aircraft in Italy and covers logistics, operational support and the training of flight crews and ground personnel. It also encompasses infrastructure work at the [[Ali Al Salem Air Base]], where the Typhoons will be based. Aircraft deliveries will begin in 2020.<ref name="KUWFI" />
+
+===Qatar Emiri Air Force===
+From January 2011 the [[Qatar Air Force]] evaluated the Typhoon, alongside the Boeing F/A-18E/F Super Hornet, the McDonnell Douglas [[McDonnell Douglas F-15E Strike Eagle|F-15E Strike Eagle]], the Dassault Rafale, and the Lockheed Martin F-35 Lightning II, to replace its then inventory of [[Dassault Mirage 2000#Mirage 2000-5|Dassault Mirage 2000-5s]]. On 30 April 2015 Qatar announced that it would order 24 Rafales.<ref name="QATRAFA" />
+
+On 17 September 2017, the UK government announced that Qatar had signed a Statement of Intent to procure 24 Eurofighter Typhoons.<ref name="Qatar" /> In December 2017 a deal for Qatar to buy 24 jets, including a support and training package from BAE, with deliveries due to start in 2022, was announced in [[Doha]] by Defence Secretary [[Gavin Williamson]] and his Qatari counterpart, Khalid bin Mohammed al Attiyah.<ref name="Qatarbbc" />
+
+In September 2018, Qatar made the first payment for the procurement of 24 Eurofighter Typhoons and nine [[BAE Hawk]] aircraft to BAE.<ref name="QATPAYM" />
+
+===Royal Air Force===
+[[File:Eurofighter EF-2000 Typhoon T1, UK - Air Force AN0616796.jpg|thumb|Typhoon T1 ''ZJ800'' of [[No. 17 Squadron RAF|No. XVII (R) Squadron]] at [[RAF Waddington]], June 2004. This was the first RAF full production aircraft to fly.]]
+
+The UK's first Typhoon Development Aircraft (DA-2) ''ZH588'' made its maiden flight on 6{{nbsp}}April 1994 from Warton.<ref name="DA2" /> On 1{{nbsp}}September 2002, [[No. 17 Squadron RAF|No. XVII (Reserve) Squadron]] was reformed at Warton as the Typhoon Operational Evaluation Unit (TOEU), receiving its first aircraft on 18 December 2003.<ref name="RAFFGR4" /> The first RAF production aircraft to take to the air was ''ZJ800'' (BT001) on 14 February 2003, completing a 21-minute flight.<ref name="FIRSTP" /> The next Typhoon squadron to be formed was [[No. 29 Squadron RAF|No. 29 (R) Squadron]] which formed as the Typhoon Operational Conversion Unit (OCU).<ref name="RAFFGR4" /> The first operational RAF Typhoon squadron to be formed was [[No. 3 Squadron RAF|No.{{nbsp}}3 (Fighter) Squadron]] on 31 March 2006, when it moved to RAF Coningsby.<ref name="RAFOPER" />
+
+No. 3 (F) Squadron Typhoon F2s took over QRA responsibilities from the [[Panavia Tornado F3]] on 29 June 2007, initially alternating with the Tornado F3 every month.<ref name="QRA2" /> On 9{{nbsp}}August 2007, the UK's MoD reported that [[No. 11 Squadron RAF|No. XI (F) Squadron]] of the RAF, which stood up as a Typhoon squadron on 29 March 2007,<ref name="11sqnRAF" /> had taken delivery of its first two multi-role Typhoons.<ref name="RAFMULTI" /> Two of No. XI (F) Squadron's Typhoons were sent to intercept a Russian [[Tupolev Tu-95]] approaching British airspace on 17 August 2007.<ref name="RAFINT" /> The RAF Typhoons were declared combat ready in the air-to-ground role by 1{{nbsp}}July 2008.<ref name="RAFSURF" /> The RAF Typhoons were projected to be ready to deploy for operations by mid-2008.<ref name="11sqnRAF" />
+
+On late 2009, four RAF Typhoon FGR4s were deployed to [[RAF Mount Pleasant]], replacing the Tornado F3s of [[No. 1435 Flight RAF|No. 1435 Flight]] defending the [[Falkland Islands]].<ref name="FALKLANDS" /> No.{{nbsp}}6 Squadron stood up at [[RAF Leuchars]] on 6{{nbsp}}September 2010, making Leuchars the second RAF base to operate the Typhoon.<ref name="6SQN" />
+[[File:RAF Tyhoon Russian Intercept.jpg|thumb|left|A QRA Typhoon F2 (''ZJ932'') of [[No. 11 Squadron RAF|No. XI (F) Squadron]] escorting a Russian [[Tupolev Tu-95]] aircraft over the North Atlantic Ocean, August 2008]]
+
+On 20 March, ten Typhoons from RAF Coningsby and RAF Leuchars arrived at the [[Gioia del Colle Air Base|Gioia del Colle airbase]] in southern Italy to enforce a [[Libyan no-fly zone|no-fly zone in Libya]] alongside Panavia Tornado GR4s.<ref name="LIBYANFZ" /> On 21 March, RAF Typhoons flew their first-ever combat mission while patrolling the no-fly zone.<ref name="RAF1ST" /> On 29 March, it was revealed that the RAF was having to divert personnel from Typhoon training to meet the shortfall in pilots available to fly the required number of sorties over Libya.<ref name="LIBYASHORT" />
+
+On 12 April 2011, a RAF Typhoon and a Tornado GR4 dropped [[precision-guided bomb]]s on ground vehicles operated by Gaddafi forces.<ref name="LIBYAPGB" /> The RAF revealed that each aircraft dropped one GBU-16 Paveway II 454&nbsp;kg (1,000&nbsp;lb) laser-guided bomb which struck "very successfully and very accurately [and this] represented] a significant milestone in the delivery of multi-role Typhoon."<ref name="LIBYA1ST" /> Target designation was provided by the Tornados with their Litening III targeting pods due to the lack of Typhoon pilots trained in air-to-ground missions.<ref name="WITHTORNADO" />
+
+The National Audit Office observed in 2011 that the distribution of the Eurofighter's parts supply and repairs over several countries has led to [[stockout|parts shortages]], long timescales for repairs, and the [[Cannibalization (parts)|cannibalisation]] of some aircraft to keep others flying.<ref name="NAO" /> The UK's then Defence Secretary Liam Fox admitted on 14 April 2011 that Britain's Eurofighter Typhoon jets were grounded in 2010 due to shortage of spare parts. The RAF "cannibalised" aircraft for spare parts in a bid to keep the maximum number of Typhoons operational on any given day. The MoD warned that the problems were likely to continue until 2015.<ref name="RAFCAN" />
+
+On 15 September 2012, [[No. 1 Squadron RAF|No.{{nbsp}}1 (F) Squadron]] stood up at RAF Leuchars, joining No.{{nbsp}}6 Squadron as the second Typhoon unit to operate in Scotland.<ref name="rafl" /> On 22 April 2013, [[No. 41 Squadron RAF|No. 41 (R) Test and Evaluation Squadron]] (TES) began operating the Typhoon from RAF Coningbsy.<ref name="RAF41" />
+
+By July 2014, a dozen RAF Tranche 2 Typhoons had been upgraded with Phase{{nbsp}}1 Enhancement (P1E) capability to enable them to use the Paveway IV guided bomb; the Tranche{{nbsp}}1 version had used the [[GBU-12 Paveway II]] in combat over Libya, but the Paveway IV can be set to explode above or beneath a target and to hit at a set angle.
+
+No. II (AC) Squadron became the fifth RAF Typhoon squadron on 12 January 2015 at RAF Lossiemouth.<ref name="IISQN" /> In July 2015, it was reported that Typhoons from No. II (AC) Squadron were training with [[Type 45 destroyer]]s in an Air-Maritime Integration (AMI) role, conceding that the service had recently neglected the role following the decommission of the [[Nimrod Maritime Patrol Aircraft]].<ref name="MARITIME" /> In the 2015 Strategic Defense and Security Review (SDSR), the UK decided to retain some of the Tranche{{nbsp}}1 aircraft to increase the number of front-line squadrons from five to seven and to extend the out-of-service date from 2030 to 2040 as well as implementing the Captor-E AESA radar in later tranches.<ref name="SDSR" /> In 2015 Typhoons were deployed to Malta as security for the [[Commonwealth Heads of Government Meeting 2015|Commonwealth Heads of Government Meeting]].<ref name="GHOGM" />
+
+On 3{{nbsp}}December 2015, six Typhoon FGR4s deployed to [[RAF Akrotiri]] to support operations against ISIL. The following evening the Typhoons, accompanied by Tornados, attacked targets in Syria.<ref name="SYRIA" />
+
+In October 2016, four Typhoon FGR4s from No. II (AC) Squadron, supported by an [[Airbus A330 MRTT|Airbus Voyager KC3]] aerial tanker and a [[Boeing C-17 Globemaster III]], deployed to [[Misawa Air Base]] in Japan for the first bilateral exercises with non-US forces hosted by the JASDF.<ref name="JAPAN16" />
+
+On 14 December 2017, it was announced No. 12 (B) Squadron would stand as a joint RAF/Qatari Air Force squadron, with the Qatari crew temporarily operating Typhoons to prepare them for their own Typhoon deliveries in 2022.<ref name="QATTEMP" /> On 29 January 2018, the RAF announced that 16 twin-seat Typhoons would undergo the Return to Produce (RTP) process in an effort to save £800{{nbsp}}million, with each airframe producing £50m of spare parts.<ref name="RTP" /> This move also reflected the switch from two-seat trainer to single-seat pilot training and greater use of training simulators. In addition, the two-seat airframes were primarily from Tranche{{nbsp}}1 and could not be equipped with Tranche{{nbsp}}3 and later upgrades such as Captor-E.<ref name="RTP2" /> [[No. IX Squadron RAF|No. IX (B) Squadron]] officially converted from the Tornado GR4 to the Typhoon FGR4 on 1{{nbsp}}April, becoming an aggressor and air defence squadron at Lossiemouth.<ref name="9Sqn" /> In April, four Typhoons of No. XI (F) Squadron deployed from RAF Coningsby to Ämari Airbase, Estonia, to undergo a four month long NATO Baltic policing mission (Op AZOTIZE).<ref name="AZOTIZE" /> Five Typhoons of No.{{nbsp}}6 Squadron participated in the Arctic Challenge Exercise (ACE) in Sweden from 22 May to 4{{nbsp}}June.<ref name="RAFACE" /> No. 12 (B) Squadron were assigned their first Typhoon FGR4 in July 2019.<ref name="12SQN" />
+
+The 160th, and last, Typhoon (''ZK437'') was delivered to the RAF on 27 September 2019.<ref name="RAFLAST" />
+
+===Royal Air Force of Oman===
+During the 2008 Farnborough Airshow it was announced that [[Oman]] was in an "advanced stage" of discussions to order Typhoons as a replacement for its [[SEPECAT Jaguar]] aircraft.<ref name="OMAN1" /> On 21 December 2012, the [[Royal Air Force of Oman]] (RAFO) became the Typhoon's seventh customer when BAE and Oman announced an order for 12 Typhoons to enter service in 2017.<ref name="OMANORDER" /> The first of the Typhoons (plus Hawk Mk 166) ordered by Oman were "formally presented to the customer" on 15 May 2017. This included a flypast by a RAFO Typhoon.<ref name="OMAN2" />
+
+===Royal Saudi Air Force===
+[[File:Saudi Arabia - Eurofighter EF-2000 Typhoon.jpg|thumb|RSAF Typhoon ''1007'' on a delivery flight passing through [[Malta International Airport]], December 2009]]
+
+In August 2006, [[Saudi Arabia]] confirmed it had agreed to purchase 72 Typhoons for The [[Royal Saudi Air Force]] (RSAF).<ref name="SAUDI1" /> In December 2006, it was reported in ''The Guardian'' that Saudi Arabia had threatened to buy Rafales because of a UK [[Serious Fraud Office (United Kingdom)|Serious Fraud Office]] (SFO) investigation into the [[Al-Yamamah arms deal|Al Yamamah]] defence deals which commenced in the 1980s.<ref name="SAUDI2" />
+
+On 14 December 2006, Britain's attorney general, [[Peter Goldsmith|Lord Goldsmith]], ordered that the SFO discontinue its investigation into BAE Systems' alleged bribery of senior Saudi officials in the Al-Yamamah contracts, citing "the need to safeguard national and international security".<ref name="aly" /> ''The Times'' raised the possibility that RAF production aircraft would be diverted as early Saudi Arabian aircraft, with the RAF forced to wait for its full complement of aircraft.<ref name="TimesSaudi" /> This arrangement would mirror the diversion of RAF Tornados to the RSAF. ''The Times'' also reported that such an arrangement would make the UK purchase of its Tranche{{nbsp}}3 commitments more likely.<ref name="TimesSaudi" /> On 17 September 2007, Saudi Arabia confirmed it had signed a GB£4.43&nbsp;billion contract for 72 aircraft.<ref name="saucontract" /> 24 aircraft would be at the Tranche{{nbsp}}2 build standard, previously destined for the UK RAF, the first being delivered in 2008. The remaining 48 aircraft were to be assembled in Saudi Arabia and delivered from 2011, however following contract renegotiations in 2011, it was agreed that all 72 aircraft would be assembled by BAE Systems in the UK, with the last 24 aircraft being built to Tranche{{nbsp}}3 capability.<ref name="SAUDI3" />
+
+On 29 September 2008, the United States [[Department of State]] approved the Typhoon sale, required because of a certain technology governed by the [[International Traffic in Arms Regulations|ITAR]] process which was incorporated into the MIDS of the Eurofighter.<ref name="ITAR" />
+
+On 22 October 2008, the first RSAF Typhoon made its maiden flight at Warton.<ref name="SAUDI4" /> Since 2010, BAE has been training Saudi Arabian personnel at Warton.<ref name="SAUDI5" />
+
+By 2011, 24 Tranche 2 Eurofighter Typhoons had been delivered to Saudi Arabia, consisting of 18 single-seat and six two-seat aircraft. After that, BAE and Riyadh entered into discussions over configurations and price of the rest of the 72-plane order. On 19 February 2014, BAE announced that the Saudis had agreed to a price increase.<ref name="SAUDI6" /> BAE announced that the last of the original 72 Typhoons had been delivered to Saudi Arabia in June 2017.<ref name="Saudi0617" />
+
+RSAF Typhoons are playing a central role in the Saudi-led [[Saudi Arabian-led intervention in Yemen|bombing campaign in Yemen]].<ref name="YEMEN" /> In February 2015, Saudi Typhoons attacked ISIS targets over Syria using Paveway IV bombs for the first time.<ref name="SAUDISYR" />
+
+On 9{{nbsp}}March 2018, a memorandum of intent for the additional 48 Typhoons was signed during Saudi Crown Prince Mohammed bin Salman's visit to the United Kingdom.<ref name="SAUDI7" />
+
+===Spanish Air Force (Ejército del Aire)===
+[[File:Typhoon - RIAT 2006 (altered).jpg|thumb|A Spanish Air Force Typhoon]]
+The first Spanish production Eurofighter Tifón to fly was ''CE.16-01'' (ST001) on 17 February 2003, flying from [[Getafe Air Base]].<ref name="ST001" /> The Spanish Air Force assigned their Typhoons to QRA responsibilities in July 2008.<ref name="QRA" />
+
+A Spanish Air Force Typhoon, on a training exercise near [[Otepää]] in Estonia, released an AMRAAM missile by mistake on 7{{nbsp}}August 2018. There were no casualties, but the ten-day search operation for missile remains was unsuccessful and the unknown status of the missile, whether it self-destructed in the air or landed unexploded, left a hazardous situation for the public. The pilot was disciplined for negligence, but received only the minimum penalty in the light of undisclosed mitigating circumstances.<ref name="SPAEST" />
+{{Clear}}
+
+==Sales and marketing==
+{{main|Eurofighter Typhoon procurement}}
+
+===Belgium===
+The Eurofighter Typhoon was one of the contenders to replace Belgium's fleet of ageing F-16A/B MLU's by 2023. Other contenders include the SAAB Gripen-E/F, Dassault Rafale, F/A-18E/F Super Hornet and F-35A Lightning II.
+
+On 25 October 2018, Belgium officially selected the offer for 34 F-35As to replace the current fleet of around 54 F-16s. Government officials said the decision to select the F-35 over the Eurofighter Typhoon came down to price, stating that "The offer from the Americans was the best in all our seven valuation criteria." The total purchasing price for the aircraft and its support until 2030 totaled €4{{nbsp}}billion, €600{{nbsp}}million cheaper than the initially budgeted €4.6{{nbsp}}billion.<ref name="BELF35" />
+
+===Denmark===
+The [[Royal Danish Air Force]] held a competition to replace its ageing fleet of F-16s in which the Eurofighter Typhoon, Boeing F/A-18F Super Hornet and the F-35 Lightning II were assessed. Denmark is a level-3 partner in the [[Joint Strike Fighter program]]me, and had already invested $200{{nbsp}}million. On 12 May 2016 the Danish government recommended that 27 F-35A fighters, instead of 34 Typhoons, should be procured.<ref name="DANISH" />
+
+===Bangladesh===
+Eurofighter was one of the Three aircraft competing for the MRCA Tender for 16 multi-role fighters. BAF shortlisted the SU-30SME, Typhoon and Rafale.{{cn|date=October 2020}}
+
+===Singapore===
+In 2005 the Eurofighter was a contender for Singapore's next generation fighter requirement competing with the [[F-15SG|Boeing F-15SG]] and the Dassault Rafale. The Eurofighter was eliminated from the competition in June 2005.<ref name="SING" />
+
+===South Korea===
+{{Main|F-X fighter program}}
+
+In 2002, the [[Republic of Korea Air Force]] (ROKAF) chose the [[F-15K|F-15K Slam Eagle]] over the Dassault Rafale, Eurofighter Typhoon and Sukhoi Su-35 for its 40 aircraft F-X Phase I fighter competition. During 2012–13, the Typhoon competed with the [[Boeing F-15SE Silent Eagle]] and the F-35 for the ROKAF's F-X Phase III fighter competition. In November 2013, it was announced that the ROKAF will purchase 40 F-35As.<ref name="SKOR" />
+
+==Variants==
+{{Main|Eurofighter Typhoon variants}}
+
+The Eurofighter is produced in single-seat and twin-seat variants. The twin-seat variant is not used operationally, but only for training, though it is combat capable. The aircraft has been manufactured in three major standards; seven Development Aircraft (DA), seven production standard Instrumented Production Aircraft (IPA) for further system development<ref name="IPA" /> and a continuing number of Series Production Aircraft. The production aircraft are now operational with the partner nation's air forces.
+
+The Tranche 1 aircraft were produced from 2000 onwards. Aircraft capabilities are being increased incrementally, with each software upgrade resulting in a different standard, known as blocks.<ref name="efb5" /> With the introduction of the block{{nbsp}}5 standard, the R2 retrofit programme began to bring all Tranche{{nbsp}}1 aircraft to that standard.<ref name="efb5" />
+
+==Operators==
+{{main|Eurofighter Typhoon procurement}}
+[[File:Eurofighter operators.png|thumb|upright=1.6|Eurofighter Typhoon operators in blue with orders in cyan]]
+
+; {{AUT}}
+* [[Austrian Air Force]] – 15 delivered<ref name="Reuters" />
+** [[Austrian Air Force#Hinterstoisser Air Base|Überwachungsgeschwader]], at [[Zeltweg Air Base]]<ref name="EF Site" />
+
+; {{GER}}
+* [[German Air Force]] – 143 ordered, all of which have been delivered.<ref name="L143" /> 2 lost in a collision.<ref name="CRASH0" /> In November 2020, the German parliament committed to ordering 38 additional aircraft.<ref>https://www.airforce-technology.com/news/german-parliament-commits-to-acquisition-of-38-eurofighter-jets/</ref>
+** [[Taktisches Luftwaffengeschwader 71 "Richthofen"|Taktisches Luftwaffengeschwader 71]] ''"Richthofen"'', at [[Wittmundhafen Air Base]]<ref name="L71" />
+** [[Taktisches Luftwaffengeschwader 73]] ''"Steinhoff"'', at [[Laage Air Base]], OCU formation<ref name="EF Site" />
+** [[Taktisches Luftwaffengeschwader 74]], at [[Neuburg Air Base]]<ref name="EF Site" />
+** [[Taktisches Luftwaffengeschwader 31]] ''"Boelcke"'', at [[Nörvenich Air Base]]<ref name="EF Site" />
+
+;{{ITA}}
+* [[Italian Air Force]] – 96 ordered, of which 96 have been delivered and 95 in operation as of June 2020<ref>{{cite web|url=https://www.flightglobal.com/reports/world-air-forces-2020/135665.article|title = World Air Forces 2020|publisher=[[FlightGlobal]]|year=2020|access-date= 4 June 2020|url-access=registration}}</ref> (one lost in an demonstration flight)<ref>{{cite web |title=Italian Eurofighter Typhoon Crashes |url=https://theaviationist.com/2017/09/24/italian-eurofighter-typhoon-crashes-during-terracina-airshow-killing-test-pilot/ |publisher=The Aviationist |accessdate=4 June 2020}}</ref>
+** [[Structure of the Italian Air Force#Combat Forces Command|4º Stormo]] ''"[[Prince Amedeo, Duke of Aosta|Amedeo d'Aosta]]"'' (4th Wing), at [[Grosseto Air Base]]<ref name="Eurofighter AM" />
+*** 9° Gruppo Caccia (9th Fighter Squadron)
+*** 20° Gruppo OCU Caccia (20th Fighter Operational Conversion Squadron)
+** 36° Stormo ''"Riccardo Hellmuth Seidl"'' (36th Wing), at [[Gioia del Colle Air Base]]<ref name="Eurofighter AM" />
+*** 10° Gruppo Caccia (10th Fighter Squadron)
+*** 12° Gruppo Caccia (12th Fighter Squadron)
+** 37° Stormo ''"Cesare Toschi"'' (37th Wing), at [[Trapani-Birgi Airport|Trapani Air Base]]<ref name="Eurofighter AM" />
+*** 18° Gruppo Caccia (18th Fighter Squadron)
+** 51° Stormo ''"Ferruccio Serafini"'' (51st Wing), at [[Istrana Air Base]]<ref>{{cite web |title=Difesa Aerea: i velivoli del 51° Stormo pronti allo scramble |url=http://www.aeronautica.difesa.it/comunicazione/notizie/Pagine/Difesa-Aerea-i-velivoli-del-51%C2%B0-Stormo-pronti-allo-scramble-.aspx |publisher=Italian Air Force |accessdate=4 June 2020}}</ref>
+*** 132° Gruppo Caccia (132nd Fighter Squadron)
+
+;{{KWT}}
+*[[Kuwait Air Force]] – 28 ordered<ref name="KuwaitContractSigned" />
+
+;{{OMN}}
+*[[Royal Air Force of Oman]] – 12 ordered in December 2012,<ref name="OMANORDER" /> all of which have been delivered as of February 2018.{{citation needed|date=May 2020}}
+**No. 8 Squadron at RAFO Adam
+
+;{{QAT}}
+*[[Qatar Air Force]] – 24 ordered<ref name="Qatarbbc" />
+**[[RAF Coningsby]], Lincolnshire, England (from 2019)
+***[[No. 12 Squadron RAF]], joint RAF/Qatar Air Force squadron<ref name="12Sqn" />
+
+;{{SAU}}
+*[[Royal Saudi Air Force]] – 71 aircraft in operation as of June 2018 from 72 delivered.<ref name="Saudi0617" />
+**[[King Fahad Air Base]], Taif<ref name="CBTACAUG15" />
+***[[No. 3 Squadron RSAF|No. 3 Squadron]]
+***[[No. 10 Squadron RSAF|No. 10 Squadron]]
+***[[No. 80 Squadron RSAF|No. 80 Squadron]]<ref name="AFMAUG15" />
+
+; {{ESP}}
+* [[Spanish Air Force]] – 73 ordered, all of which have been delivered by October 2020 with 70 in operation as of October 2020.<ref name="UD18j" /> Spain is planning to order 40 more Tranche 3+ and Tranche 4 Eurofighters to replace its F-18 Hornets.<ref name="UD18j" />
+** Ala 11, at [[Morón Air Base|Seville-Morón Air Base]]
+*** 111 Escuadrón<ref name="EFW0202012" />
+*** 113 Escuadrón, OCU Tactical pilot training and evaluation<ref name="EFW0202012" />
+** Ala 14, at [[Albacete Airport|Albacete-Los Llanos Air Base]]
+*** 142 Escuadrón<ref name="EFW0202012" />
+
+; {{UK}}
+*[[Royal Air Force]] – 160 ordered, all of which have been delivered by September 2019.<ref name="RAFLAST" />
+**[[RAF Coningsby]], Lincolnshire, England
+***[[No. 3 Squadron RAF|No. 3 (F) Squadron]]<ref name="EF Site" />
+***[[No. 11 Squadron RAF|No. XI (F) Squadron]]<ref name="EF Site" />
+***[[No. 12 Squadron RAF|No. 12 (B) Squadron]], joint RAF/Qatar Air Force squadron<ref name="12Sqn" />
+***[[No. 29 Squadron RAF|No. 29 Squadron]], OCU Tactical pilot training and evaluation<ref name="EF Site" />
+***[[No. 41 Squadron RAF|No. 41 Test and Evaluation Squadron]]<ref name="41SQN" />
+**[[RAF Lossiemouth]], Moray, Scotland
+***[[No. 1 Squadron RAF|No. 1 (F) Squadron]]<ref name="EF Site" />
+***[[No. 2 Squadron RAF|No. II (AC) Squadron]]<ref name="IIsqn" />
+***[[No. 6 Squadron RAF|No. 6 Squadron]]<ref name="EF Site" />
+***[[No. 9 Squadron RAF|No. IX (B) Squadron]]<ref name="9Sqn" />
+**[[RAF Mount Pleasant]], [[East Falkland]], Falkland Islands
+***[[No. 1435 Flight RAF|No. 1435 Flight]]<ref name="EF Site" />
+**Past Units
+***[[No. 17 Squadron RAF|No. 17 (R) Test & Evaluation Squadron]], Operational Evaluation Unit (Operated between 2003 and 2013)<ref name="OEU" />
+
+==Accidents==
+*On 21 November 2002, the Spanish twin-seat Typhoon prototype DA-6 crashed due to a double engine [[flameout]] caused by surges of the two engines at 45,000&nbsp;ft. The two crew members escaped unhurt and the aircraft crashed in a military test range near [[Toledo, Spain|Toledo]], some {{convert|110|km}} from its base at [[Getafe Air Base]].<ref name="SPACRASH" />
+*On 23 April 2008, a RAF Typhoon FGR4 from 17 Squadron at RAF Coningsby (ZJ943), made a [[Belly landing|wheels–up]] landing at the US Navy's [[Naval Air Weapons Station China Lake|NAWS China Lake]], in the United States.<ref name="CRASH9" /> The aircraft was severely damaged however the pilot from [[No. 17 Squadron RAF|17 Squadron]] did not sustain any significant injury. It is thought the pilot may have forgotten to deploy the [[Landing gear|undercarriage]] or that for some reason he was not alerted to the undercarriage having not been deployed.<ref name="CRASH9" />
+*On 24 August 2010, a Spanish twin-seat Typhoon crashed at Spain's [[Morón Air Base]] moments after take-off for a routine training flight. It was being piloted by a RSAF pilot, who was killed, and a Spanish Air Force Major, who ejected safely.<ref name="CRASH4" /> In September 2010 the German Air Force grounded its 55 planes and the RAF temporarily grounded all Typhoon training flights amidst concerns that after ejecting successfully the pilot had fallen to his death.<ref name="CRASH5" /><ref name="CRASH6" /> On 21 September, the RAF announced that the harness system had been sufficiently modified to enable routine flying from RAF Coningsby. The Austrian Air Force also said all its aircraft had been cleared for flight.<ref name="CRASH7" /> On 24 August 2010, the ejection seat manufacturer Martin Baker commented: "...{{nbsp}}under certain conditions, the quick release fitting could be unlocked using the palm of the hand, rather than the thumb and fingers, and that this posed a risk of inadvertent release", adding that a modification had been rapidly developed and approved "to eliminate this risk" and was being fitted to all Typhoon seats.<ref name="CRASH8" />
+*On 9 June 2014, the [[Spanish Air Force|Spanish Air Ministry]] announced that a Typhoon had crashed at Spain's Morón Air Base on landing after a routine training flight. The sole pilot, Captain Fernando Lluna Carrascosa of the Spanish Air Force, who had over 600 Eurofighter flying hours, died in the crash.<ref name="SPANCRASH" />
+*On 23 June 2014, a Typhoon of the German Air Force suffered [[Olsberg mid-air collision|a mid-air collision]] with a [[Learjet 35A]], which crashed near [[Olsberg, Germany|Olsberg]], Germany. The severely damaged Eurofighter made a safe landing at [[Nörvenich Air Base]], while the Learjet crashed with the two onboard killed.<ref name="CRASH3" />
+*On 1 September 2017, a RAF Typhoon [[Runway excursion|overran the runway]] on landing at [[Pardubice Airport]], Czech Republic, after diverting for bad weather.<ref name="Pardubice" />
+*On 14 September 2017, a RSAF aircraft crashed on a combat mission in [[Yemen]]'s [[Abyan Governorate|Abhyan province]], killing its pilot. According to the [[Politics of Saudi Arabia|Saudi Government]], the aircraft crashed due to technical reasons and the pilot did not survive.<ref name="RSAFCRASH" />
+*On 24 September 2017, an Italian Air Force aircraft crashed during an airshow in [[Terracina]], Lazio, Italy. The pilot did not eject and died in the accident.<ref name="CRASH2" /> The Italian Air Force said the jet completed a loop but then failed to get enough lift as it approached sea level and hit the water just a few hundred metres offshore.<ref name="CRASH2" />
+*On 12 October 2017, a Spanish Air Force Typhoon crashed near its base at [[Albacete Airport|Los Llanos]] [[Albacete]], Spain, when returning from the military parade for the [[Fiesta Nacional de España|Spanish National Day]]. The pilot was killed.<ref name="CRASH1" /> 
+*On 24 June 2019, two German Air Force aircraft collided mid-air during an exercise in the region of Müritz in [[Mecklenburg-Vorpommern]] in northern Germany. Both aircraft were lost while the pilots ejected. The two planes were based at [[Laage]], home to the "Steinhoff" [[Taktisches Luftwaffengeschwader 73|Tactical Air Force Wing 73]]. Neither plane was carrying weapons. One of the pilots died.<ref name="CRASH0" />
+
+==Aircraft on display==
+;Germany
+*''98+29'' EF2000 Prototype DA-1 on display at the [[Deutsches Museum Flugwerft Schleissheim]], Munich.<ref>[http://www.deutsches-museum.de/flugwerft/sammlungen/strahlflugzeuge/eurofighter/ "Eurofighter DA-1."] {{webarchive|url=https://web.archive.org/web/20080306005603/http://www.deutsches-museum.de/flugwerft/sammlungen/strahlflugzeuge/eurofighter/ |date=6 March 2008}} ''deutsches-museum.de''. Retrieved: 1 November 2009.</ref>
+
+;Italy
+*''MMX603'' EF2000 Prototype DA-7 on display at Cameri Air Base, [[Cameri]].<ref>{{cite web |url=http://www.eurodemobbed.org.uk/locations.php?location=1243 |title=Cameri Airfield, Italy |website=eurodemobbed.org.uk |accessdate=21 March 2019}}</ref>
+
+;United Kingdom
+*''ZH588'' EF2000 Prototype DA-2 on display at the [[Royal Air Force Museum London]], Hendon, England.<ref>Ajay, Srivastava. "New Display at Royal Air Force Museum". ''Flight Journal'', Volume 13, Issue 3, June 2008.</ref>
+*''ZH590'' EF2000(T) Prototype DA-4 on display at the [[Imperial War Museum Duxford]], Cambridgeshire, England.<ref>[http://duxford.iwm.org.uk/server/show/ConWebDoc.6079 "Eurofighter Typhoon DA4 arrives at Duxford."] {{webarchive|url=https://web.archive.org/web/20110929142802/http://duxford.iwm.org.uk/server/show/ConWebDoc.6079 |date=29 September 2011}} ''Imperial War Museum''. Retrieved: 3 July 2011.</ref>
+
+==Specifications==
+[[File:Eurofighter Typhoon line drawing.svg|frameless|upright=1.8|right]]
+[[File:Eurojet EJ200 for Eurofighter Typhoon PAS 2013 01 free.jpg|thumb|EJ200 engine on display at [[Paris Air Show]] 2013]]
+[[File:EJ200-Eurofighter-Turbine-apel.JPG|thumb|The aircraft's turbofan engine (front)]]
+[[File:Irist expo mount.JPG|thumb|German ground crew mount an [[IRIS-T]] to a Eurofighter]]
+
+{{Aircraft specs
+|ref= RAF Typhoon data,<ref name="RAF_Typhoon" /> Air Forces Monthly,<ref name="Swing" /> ''Superfighters'',<ref>Williams, Mel, ed. "Typhoon". ''Superfighters, The Next Generation of Combat Aircraft''. London: AIRtime, 2002. {{ISBN|1-880588-53-6}}.</ref> and ''Brassey's Modern Fighters''<ref name="Modern Fighters" />
+|prime units?=met
+<!-- General characteristics -->
+|crew=1 or 2
+|length m=15.96
+|length note=
+|span m=10.95
+|span note=
+|height m=5.28
+|height note=
+|wing area sqm=51.2
+|wing area note=
+|aspect ratio=<!-- sailplanes -->
+|airfoil=<!-- '''root:''' [[NACA airfoil|NACA ]]; '''tip:''' [[NACA airfoil|NACA ]]<ref>{{cite web |last1=Lednicer |first1=David |title=The Incomplete Guide to Airfoil Usage |url=https://m-selig.ae.illinois.edu/ads/aircraft.html |website=m-selig.ae.illinois.edu |accessdate=16 April 2019}}</ref> -->
+|empty weight kg=11000
+|empty weight note=
+|gross weight kg=16000
+|gross weight note=
+|max takeoff weight kg=23500
+|max takeoff weight note=
+|fuel capacity={{convert|4996|kg|lb|sigfig=4|abbr=on}} / {{cvt|6.215|l|USgal impgal}} internal<ref name="FUELC" />
+|more general=
+<!-- Powerplant -->
+|eng1 number=2
+|eng1 name=[[Eurojet EJ200]]
+|eng1 type=[[afterburning turbofan]] engines
+|eng1 kn=60
+|eng1 note=<ref name="fas_specs" />
+|eng1 kn-ab=90
+
+<!-- Performance -->
+|max speed kmh=2,125
+|max speed note= / Mach 2.0<big>+</big><ref>{{cite web |url=http://www.aerospaceweb.org/aircraft/fighter/typhoon/ |title=Typhoon |publisher=Aerospaceweb.org |accessdate= 15 December 2014}}</ref> ({{convert|2,125|km/h|mph|abbr=on|disp=or}} at 11,000m altitude)<ref>{{cite web|url=http://www.bmlv.gv.at/waffen/waf_eurofighter.shtml|title=Bundesheer—Waffen und Gert—Eurofighter EF 2000|author=BMLVS—Abteilung Kommunikation}}</ref><ref>{{cite web|url=http://www.baesystems.com/article/BAES_159814/typhoon|title=Euofighter Typhoon—BAE Systems|work=baesystems.com|accessdate=1 April 2015}}</ref>{{better source|not relevant|date=July 2020}}
+::::{{cvt|1530|km/h|mph kn}} / Mach 1.25 at sea level<ref name="Modern Fighters" /> ({{convert|1530|km/h|mph|abbr=on|disp=or}})<ref>See [[Mach number]] for relationship.</ref>
+:::: Mach 1.5: Supercruise<ref name="web.archive.org" />
+|cruise speed kmh=
+|cruise speed note=
+|stall speed kmh=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed note=
+|minimum control speed kmh=
+|minimum control speed note=
+|range km=2900
+|range note=
+|combat range km=1389
+|combat range note=Air defence with 10-min. loiter / Ground attack, hi-lo-hi (with 3 × external 1,000{{nbsp}}l tanks)<ref name="fas_specs" />
+::::{{convert|185|km|nmi|abbr=on}} Air defence with 3-hr combat air patrol (with 3 × external 1,000{{nbsp}}l tanks)
+::::{{convert|601|km|nmi|abbr=on}} Ground attack, lo-lo-lo (with 3 × external 1,000{{nbsp}}l tanks)
+|ferry range km=3790
+|ferry range note=<big>+</big> with 3 × drop tanks
+|endurance=<!-- if range unknown -->
+|ceiling m=19812
+|ceiling note=<ref name="CEIL" />
+|g limits=<big>+</big>9 <big>-</big>3<ref>[http://www.eurofighter.com/eurofighter-typhoon/technicaldata.html Typhoon Technical Data]. eurofighter.com</ref>
+|roll rate=<!-- aerobatic -->
+|climb rate ms=318
+|climb rate note={{citation needed|date=May 2020}}
+|time to altitude=
+|wing loading kg/m2=312
+|wing loading note=<ref name="Typhoon_Janes" />
+|fuel consumption kg/km=
+|thrust/weight=1.15 (interceptor configuration)<ref>{{cite web|url=http://www.baesystems.com/en-uk/product/typhoon2|title=Typhoon|accessdate=21 October 2016}}</ref>
+
+|more performance=<br/>
+*'''Brakes-off to Take-off acceleration:''' <8{{nbsp}}s
+*'''Brakes-off to supersonic acceleration:''' <30{{nbsp}}s
+*'''Brakes-off to Mach&nbsp;1.6 at 11,000&nbsp;m (36,000{{nbsp}}ft):''' <150{{nbsp}}s<ref>{{cite web|url=http://www.baesystems.com/enhancedarticle/BAES_156125/typhoon |title=Typhoon |publisher=BAE Systems |date=3 June 2014 |accessdate=9 June 2014}}</ref>{{refn|Air superiority configuration.|group=N}}
+
+<!-- Armament -->
+|guns=1 × 27&nbsp;mm [[Mauser BK-27]] [[revolver cannon]] with 150 rounds
+|hardpoints= Total of 13: 8 × under-wing; and 5 × under-fuselage pylon stations; holding in excess of {{convert|9000|kg|lb|abbr=on|sigfig=3}} of payload<ref>https://www.baesystems.com/en-be/download-en-be/20180730081352/1434615927425.pdf</ref> <br/>Typical multi-role configuration for a Tranche 2-P1E would be 4 × AMRAAM, 2×ASRAAM/IRIS-T, 4 × EGBU-16/Paveway-IV, 2 × 1000-litre supersonic fuel tanks and a targeting pod.<ref name="CONFI" />
+|rockets=
+|missiles=<ref>AirForces Monthly May/June 2014 Eurofighter 20th Anniversary Special</ref><br />
+**'''[[Air-to-air missile]]s:'''
+***[[AIM-120 AMRAAM]] (AIM-120C-5/7 planned for P2E)
+***[[AIM-132 ASRAAM]]
+***[[AIM-9 Sidewinder]]
+***[[IRIS-T]]
+***[[MBDA Meteor]]
+**'''[[Air-to-surface missile]]s:'''
+***[[AGM-65 Maverick]]
+***[[AGM-88 HARM]]
+***[[Brimstone (missile)|Brimstone]]
+***[[KEPD 350|Taurus KEPD 350]]
+***[[Storm Shadow missile|Storm Shadow/Scalp EG]]
+***[[SPEAR 3]] (planned)<ref name="S3" />
+***[[Marte (missile)|Marte ER anti-ship missile]]
+***[[Joint Strike Missile]] (planned)<ref name="JSM" />
+|bombs=<br/>
+**[[Paveway|Paveway II/III/Enhanced Paveway]] series of [[laser-guided bomb]]s (LGBs)
+**[[Paveway IV|500-lb Paveway IV]]
+**[[Small Diameter Bomb]] (planned for P2E)
+**[[Joint Direct Attack Munition]] (JDAM), in the future
+**[[HOPE/HOSBO]], in the future
+**[[Spice (bomb)|Spice 250]]<ref name="SPICE" />
+*'''Others:'''
+**Up to 3 × [[drop tank]]s for ferry flight or extended range/loitering time
+**[[Conformal fuel tank]]s on Tranche 3 or later
+|avionics=
+:*[[Euroradar CAPTOR]] Radar
+:*[[EuroFIRST PIRATE|Passive Infra-Red Airborne Tracking Equipment]] 
+:*[[Praetorian DASS]]
+:*[[Damocles (targeting pod)]]
+:*[[LITENING targeting pod|LITENING III laser targeting pod]]
+:*[[Sniper Advanced Targeting Pod]]
+}}
+<!-- A "Popular culture" section should be avoided per Wikipedia:Avoid trivia sections in articles unless the appearances are especially notable. This section should not be a compendium of every trivial appearance, but significant ones of relevance to the airframe.
+
+Please READ [[Wikipedia:WikiProject Aircraft/page content]] and [[Wikipedia:WikiProject Military history#Popular culture]] before adding any "Popular culture" items. -->
+
+==See also==
+{{Portal|Aviation}}
+{{aircontent
+|see also=
+*[[Timeline of the Eurofighter Typhoon]]
+*[[Fourth-generation jet fighter]]
+|related=
+*[[British Aerospace EAP]]
+|similar aircraft=<!-- 
+*[[Boeing F/A-18E/F Super Hornet]]
+*[[Chengdu J-10]]
+*[[Dassault Rafale]]
+*[[General Dynamics F-16 Fighting Falcon#Variants|Lockheed Martin F-16 Block 50/52/60]]
+*[[Mikoyan MiG-35]]
+*[[Shenyang_J-11#Variants|Shenyang J-11B]] -->
+<!-- DO ''not'' ADD COMPARABLE AIRCRAFT WITHOUT DISCUSSION. A consensus has been reached that this section is subject to the arbitrary judgements of individual editors and is therefore unencyclopedic. See Talk:Eurofighter_Typhoon/Archive_2#Proposal -->
+|lists=
+*[[List of active United Kingdom military aircraft]]
+*[[List of aircraft of the Royal Air Force]]
+*[[List of military aircraft of Germany]]
+*[[List of active Italian military aircraft]]
+*[[List of megaprojects#Aerospace projects|List of megaprojects, Aerospace]]
+<!-- See [[WP:Air/PC]] for more info on these fields in template. -->
+}}
+
+==References==
+
+===Notes===
+{{reflist|group=N}}
+
+===Citations===
+{{reflist|refs=
+<ref name="6SQN">{{cite web |url=https://www.gov.uk/government/news/raf-leuchars-welcomes-the-typhoon |title=RAF Leuchars welcomes the Typhoon |publisher=Ministry of Defence |website=gov.uk |date=8 September 2010 |accessdate=27 March 2019}}</ref>
+<ref name="9Sqn">{{cite web |url=https://combataircraft.keypublishing.com/2019/02/14/bats-re-born/ |title='Bats' re-born |website=Combat Aircraft |publisher=Key Publishing |date=14 February 2019 |accessdate=21 March 2019}}</ref>
+<ref name="11sqnRAF">[http://www.raf.mod.uk/organisation/11squadron.cfm "11 Squadron."] {{Webarchive|url=https://web.archive.org/web/20161006192251/http://www.raf.mod.uk/organisation/11squadron.cfm |date=6 October 2016}} ''Raf.mod.uk'', 9 January 2007. Retrieved: 3 July 2011.</ref>
+<ref name="12SQN">{{cite web |url=https://www.militaryaircraftmarkings.co.uk/updates/MAMupdate170-2019.pdf |title=Military Aircraft Markings Update Number 170, July 2019 |publisher=Military Aircraft Markings |accessdate=13 July 2019}}</ref>
+<ref name="12Sqn">{{cite web |url=https://www.gov.uk/government/news/joint-uk-qatari-typhoon-squadron-stands-up-as-defence-relationship-deepens |title=Joint UK-Qatari Typhoon squadron stands up as defence relationship deepens |publisher=Ministry of Defence |website=gov.uk |date=24 July 2018 |accessdate=21 March 2019}}</ref>
+<ref name="41SQN">[http://www.raf.mod.uk/rafconingsby/newsweather/index.cfm?storyid=F98C1C92-5056-A318-A8E6523A2460382A "Typhoons in new colours"] ''raf.mod.uk,'' 22 April 2013. Retrieved: 2 May 2013.</ref>
+<ref name="A2G">[http://www.flightglobal.com/articles/2006/02/21/204924/typhoon-air-to-ground-ability-near-fruition.html "Typhoon air-to-ground ability near fruition."] ''Flight International'' via ''flightglobal.com,'', 21 February 2006.</ref>
+<ref name="AERPERF">[http://typhoon.starstreak.net/Eurofighter/flight-sys.html "Eurofighter Flight Control Systems."] {{webarchive|url=https://web.archive.org/web/20110901224810/http://typhoon.starstreak.net/Eurofighter/flight-sys.html |date=1 September 2011}} ''starstreak.net''. Retrieved: 3 July 2011.</ref>
+<ref name="AESA1">Parker, Ian. [http://www.aviationtoday.com/av/issue/feature/Avionics-Crown-Typhoon-Performance_1048.html "Avionics Crown Typhoon Performance."] ''Aviationtoday.com'', 1 August 2006. Retrieved: 28 November 2009.</ref>
+<ref name="AESA2">[http://www.flightglobal.com/articles/2008/05/29/224274/ila-2008-aesa-radar-solution-now-for-typhoons.html "AESA radar solution now for Typhoons."] ''Flight International'' via ''flightglobal.com,'' 29 May 2008. Retrieved: 28 November 2009.</ref>
+<ref name="AESA3">[http://www.radartutorial.eu/06.antennas/an14.en.html "AESA Disadvantages."] ''Radartutorial.eu''. Retrieved: 28 November 2009.</ref>
+<ref name="AESA4">{{cite web|url=https://www.koreatimes.co.kr/www/news/nation/2011/10/205_97236.html |title=F-35: a game changer in modern warfare |publisher=Koreatimes.co.kr |date=24 October 2011 |accessdate=23 June 2014}}</ref>
+<ref name="AESA5">{{cite web|title=BAE Begins E-Scan Radar Test Flights|url=http://aviationweek.com/shownews/bae-begins-e-scan-radar-test-flights|website=Aviation Week|accessdate=20 May 2017}}</ref>
+<ref name="AESA6">{{cite news|url=https://www.bbc.co.uk/news/uk-scotland-scotland-business-30114054|title=BBC News—Eurofighter radar deal secures 500 jobs in Edinburgh|work=BBC News|accessdate=19 November 2014|date=19 November 2014}}</ref>
+<ref name="AESA7">"Typhoon Captor-E awaits flight testing as Kuwait confirmed as launch customer". FlightGlobal. 7 April 2016.</ref>
+<ref name="AESA8">{{cite news|date=4 November 2019 |title=Captor-E AESA Upgrades for Bundeswehr's Eurofighters from 2022 |url=https://www.defenseworld.net/news/25772/Captor_E_AESA_Upgrades_for_Bundeswehr___s_Eurofighters_from_2022#.XcODnxDgpE4 |work=www.defenseworld.net |access-date=2020-05-17}}</ref>
+<ref name="AFMAUG15">{{cite book|title=AirForces Monthly|date=August 2015|publisher=[[Key Publishing|Key Publishing Ltd]]|location=[[Stamford, Lincolnshire|Stamford]], [[Lincolnshire]], [[England]]|page=4|title-link=AirForces Monthly}}</ref>
+<ref name="airbus">{{Cite web|url=https://www.airbus.com/defence/eurofighter.html|title=Eurofighter|website=Airbus}}</ref>
+<ref name="Airforce-TechEF2000">[http://www.airforce-technology.com/projects/ef2000/ "Eurofighter Typhoon."] ''Airforce-Technology.com''. Retrieved: 28 November 2009.{{Unreliable source?|reason=domain on WP:BLACKLIST|date=June 2016}}</ref>
+<ref name="AirSceneUK">Parsons, Gary. [http://www.airsceneuk.org.uk/hangar/2007/441indians/indra.htm "Waddington's Indian Summer, Part three: The Exercise."] {{Webarchive|url=https://web.archive.org/web/20110804163723/http://www.airsceneuk.org.uk/hangar/2007/441indians/indra.htm |date=4 August 2011}} ''AirSceneUK.'' Retrieved: 21 August 2011.</ref>
+<ref name="ALBANIA">[http://www.eurofighter.com/media/news0/news-detail/article/italian-typhoons-up-in-the-albanian-air.html "Italian Typhoons up in the Albanian Air."] {{webarchive|url=https://web.archive.org/web/20120319052449/http://www.eurofighter.com/media/news0/news-detail/article/italian-typhoons-up-in-the-albanian-air.html |date=19 March 2012}} ''Eurofighter.com'', 17 July 2009. Retrieved: 3 July 2011.</ref>
+<ref name="aly">[http://today.reuters.co.uk/news/articlebusiness.aspx?type=businessNews&storyID=2006-12-14T181242Z_01_WLA6589_RTRUKOC_0_UK-BAE-SAUDI.xml "Probe into BAE's Saudi defence deal dropped."] {{webarchive|url=https://web.archive.org/web/20070108151135/http://today.reuters.co.uk/news/articlebusiness.aspx?type=businessNews |date=8 January 2007}} ''Reuters'', 14 December 2006. Retrieved: 14 December 2006.</ref>
+<ref name="AMK">{{cite news |url=https://www.flightglobal.com/eurofighter-new-aerodynamics-set-for-2014-test-flight/113606.article |last=Kemsley |first=Dan |date=1 July 2014 |title=Eurofighter: new aerodynamics set for 2014 test flight |work=Flight International }}</ref>
+<ref name="AMK2">{{cite news |url=http://www.flightglobal.com/news/articles/farnborough-typhoon-brews-up-radar-storm-401344/ |title=FARNBOROUGH: Typhoon brews up radar storm |last1=Thisdell |first1=Dan |date=13 July 2014 |website=www.flightglobal.com |publisher=Reed Business Information |accessdate=15 July 2015}}</ref>
+<ref name="AMK3">{{cite news |date=21 July 2015 |title=Airbus D&S completes Typhoon aerodynamic testing |work=Flight International}}</ref>
+<ref name="AMK4">[https://www.aerosociety.com/media/3384/aerospace_1406.pdf AEROSPACE June 2014, section "In The Typhoon's path" by Joe Coles] ''Royal Aeronautical Society''. Retrieved: 17 May 2020.</ref>
+<ref name="AMK5">[https://www.airbus.com/newsroom/press-releases/en/2015/07/flight-test-of-eurofighter-aerodynamic-upgrades-completed.html Flight-test of Eurofighter aerodynamic upgrades completed (July 2015)] ''Airbus Defense and Space''. Retrieved: 15 October 2020.</ref>
+<ref name="AUDEL">{{cite web |url=http://www.bundesheer.at/english/dynmod/artikel.php?id=2083 |title=First Eurofighter Delivered to Austria |publisher=Austrian Federal Ministry of Defence |date=12 July 2007 |accessdate=21 March 2019}}</ref>
+<ref name="AUF">{{cite web|url=https://www.thelocal.at/20140515/twelve-pilots-for-15-eurofighters|title=Only 12 pilots for 15 Eurofighter jets|date=15 May 2014|accessdate=24 October 2016}}</ref>
+<ref name="AUP">[https://archive.today/20120730193320/http://www.defensenews.com/story.php?i=7571746 "Austria: EADS Desperately Sought Eurofighter Deal."] ''Agence France-Presse'' via ''Defensenews.com,'' 2 September 2011. Retrieved: 9 January 2012.</ref>
+<ref name="AUSTERE1">[http://www.flightglobal.com/news/articles/farnborough-2008-typhoon-fighter-bomber-declared-operational-225407/ "Farnborough 2008: Typhoon fighter-bomber declared operational."] ''Flight International,'' 14 July 2008. Retrieved: 7 July 2012.</ref>
+<ref name="AUSTERE2">{{cite news |last=Mason |first=James |date=24 April 2007 |title=Blue sky thinking |work=Flight International}}</ref>
+<ref name="AUSS">{{cite news|title=Austria sues Airbus over alleged Eurofighter corruption|url=http://dw.com/p/2Xg2D|accessdate=16 February 2017|work=Deutsche Welle|date=16 February 2017}}</ref>
+<ref name="AUSTREP">[https://www.reuters.com/article/us-austria-eurofighter-idUSKBN19S0ZN "Austria plans to end Eurofighter program early amid row with Airbus."] Business News, 7 July 2017.</ref>
+<ref name="AUSTRIANOS">{{cite web |url=https://sites.tufts.edu/corruptarmsdeals/airbus-eurofighter-sales-to-austria/ |title=Airbus Eurofighter Sales to Austria |website=sites.tufts.edu/corruptarmsdeals |access-date=2020-05-15 }}</ref>
+<ref name="austrias">{{cite web|url=https://www.eurofighter.com/news-and-events/2013/10/austrian-eurofighters-equipped-with-latest-capability-standard-for-tranche-1-aircraft|title=Eurofighter Typhoon—Austrian Eurofighters equipped with latest capability standard for Tranche 1 aircraft|accessdate=24 October 2016}}</ref>
+<ref name="AUT1">{{cite web |first=Andrew |last=Rhys Thompson |url=http://www.css.ethz.ch/en/services/digital-library/articles/article.html/101871/pdf |title=Austria: Eurofighter Saga Continues |publisher=ISN Security Watch |website=isn.ethz.ch |date=17 June 2009 |accessdate=9 January 2012 |archive-url=https://web.archive.org/web/20170511150200/http://www.css.ethz.ch/en/services/digital-library/articles/article.html/101871/pdf |archive-date=11 May 2017}}</ref>
+<ref name="AUTOR">[http://www.eurofighter.com/capabilities/performance/automatic-recovery-system.html "Automatic Recovery System."] ''eurofighter.com.'' Retrieved: 3 February 2012.</ref>
+<ref name="AVI">{{cite web |url=https://www.flightglobal.com/news/articles/sensor-fusion-52559 |title=Sensor fusion |date=16 June 1999 |website= Flight Global |accessdate=3 October 2018}}</ref>
+<ref name="AZOTIZE">{{Cite web|url=https://www.raf.mod.uk/news/articles/raf-typhoon-jets-arrive-in-estonia/ |title=RAF Typhoon jets arrive in Estonia |publisher=Royal Air Force |date=25 April 2019 |accessdate=13 July 2019}}</ref>
+<ref name="BALTIC">{{cite web |first=David |last=Cenciotti |url=https://theaviationist.com/2014/10/28/german-typhoons-intercept-7-ruaf-planes/ |title=German Typhoons have intercepted 7 Russian Air Force combat planes over the Baltic Sea today |website=The Aviationist |date=28 October 2014 |accessdate=23 March 2019 |archive-url=https://web.archive.org/web/20141203055705/https://theaviationist.com/2014/10/28/german-typhoons-intercept-7-ruaf-planes/ |archive-date=3 December 2014}}</ref>
+<ref name="BBC">[http://news.bbc.co.uk/1/hi/world/europe/52066.stm BBC "Euro-fighter contracts signed."] ''BBC News'', 30 January 1998. Retrieved: 18 September 2007.</ref>
+<ref name="BBCwomc">''Eurofighter: Weapon of Mass Construction'' (TV broadcast). ''BBC'', 6 July 2003 airdate.</ref>
+<ref name="BELF35">{{cite web |last1=Emmott |first1=Robin |title=Belgium picks Lockheed's F-35 over Eurofighter on price |url=https://www.reuters.com/article/us-aerospace-belgium/belgium-picks-lockheeds-f-35-over-eurofighter-on-price-idUSKCN1MZ1S0 |website=Reuters |accessdate=26 October 2018 |archive-url=https://web.archive.org/web/20181025145835/https://www.reuters.com/article/us-aerospace-belgium/belgium-picks-lockheeds-f-35-over-eurofighter-on-price-idUSKCN1MZ1S0 |archive-date=25 October 2018 |location=Brussels |date=25 October 2018 |url-status=live |df=dmy-all}}</ref>
+<ref name="Boot">Boot 1990, pp. 229–233.</ref>
+<ref name="BUILD">Sanchez, Miguel and Serena Di Martino. [http://www.eads.com/eads/int/en/news/press.62021f8f-a5e8-4aa1-8964-6f795b133248.08af92a7-2c53-400a-8429-8b135733cbcc.html?queryStr=Eurofighter&pid=1 "EADS-CASA begins the Eurofighter Typhoon final assembly phase."] {{Webarchive|url=https://web.archive.org/web/20131202233702/http://www.eads.com/eads/int/en/news/press.62021f8f-a5e8-4aa1-8964-6f795b133248.08af92a7-2c53-400a-8429-8b135733cbcc.html?queryStr=Eurofighter&pid=1 |date=2 December 2013}} ''eads.com,'' 26 July 2001. Retrieved: 3 July 2011.</ref>
+<ref name="butler3">Butler 2000, p. 135.</ref>
+<ref name="butler4">Buttler 2000, p. 137.</ref>
+<ref name="CAPCHA">[http://eurofighter.airpower.at/sensorik-captor.htm Das "Captor" Radar ][https://translate.google.com/translate?u=http%3A%2F%2Feurofighter.airpower.at%2Fsensorik-captor.htm&sl=de&tl=en&hl=en&ie=UTF-8 "Translation."] ''google.de''. Retrieved: 28 November 2009.</ref>
+<ref name="CANNON">Tweedie, Neil. (3 October 2006) [https://www.telegraph.co.uk/news/uknews/1530420/Typhoon-wins-gun-dogfight.html "Typhoon wins gun dogfight."] ''Telegraph''. Retrieved on 16 August 2013.</ref>
+<ref name="CBTACAUG15">{{cite book|title=Combat Aircraft Monthly|date=August 2015|publisher=[[Key Publishing|Key Publishing Ltd]]|location=[[Stamford, Lincolnshire|Stamford]], [[Lincolnshire]], [[England]]|page=17|title-link=Combat Aircraft Monthly}}</ref>
+<ref name="CEIL">{{cite web|url=https://www.rusi.org/downloads/assets/WHR_1-15_Maximising_European_Combat_Air_Power.pdf |title=Archived copy |accessdate=2015-06-06 |url-status=dead |archive-url=https://web.archive.org/web/20150714141600/https://www.rusi.org/downloads/assets/WHR_1-15_Maximising_European_Combat_Air_Power.pdf |archive-date=14 July 2015}}</ref>
+<ref name="centurion">{{cite news |author=<!--Staff writer(s); no by-line.--> |title=RIAT: How Typhoon updates put Centurion on guard for UK |work=Flight International |date=20 July 2019}}</ref>
+<ref name="CFT">{{cite news |date=29 April 2014 |title=Typhoon starts windtunnel tests with conformal fuel tanks |work=Flight International }}</ref>
+<ref name="GHOGM">{{cite web|url=http://www.maltatoday.com.mt/news/national/59675/maltas_border_controls_to_remain_in_place_until_end_of_year#.Vllt-nYrLDf|title=Suspension of Schengen borders to remain in place until end of year|accessdate=21 October 2016}}</ref>
+<ref name="CL">{{cite web|url=https://www.flightglobal.com/news/articles/bae-to-study-common-weapon-launcher-for-typhoon-412903/|title=BAE to study common weapon launcher for Typhoon|date=1 June 2015|accessdate=21 October 2016}}</ref>
+<ref name="COCKP">[http://www.eurofighter.com/capabilities/technology/cockpit/general-features.html "Cockpit—General Features."] eurofighter.com</ref>
+<ref name="COMM">{{cite web |url=https://www.nao.org.uk/wp-content/uploads/2007/11/070898i.pdf |title=''Ministry of Defence'': Major Projects Report 2007 |author=<!--Not stated--> |date=5 August 2012 |website=www.nao.org.uk |publisher=National Audit Office |access-date=2020-05-17}}</ref>
+<ref name="COMPARE1">Sweetman, Bill. [http://www.aviationweek.com/aw/blogs/defense/index.jsp?plckController=Blog&plckScript=blogscript&plckElementId=blogDest&plckBlogPage=BlogViewPost&plckPostId=Blog%3A27ec4a53-dcc8-42d0-bd3a-01329aef79a7Post%3A947912ce-ee4b-422e-87fc-00bb5d66044c "JSF Delays Pile Up."] ''Aviationweek.com'', 11 August 2008. Retrieved: 3 July 2011.</ref>
+<ref name="CON09">Doyle, Andrew. [http://www.flightglobal.com/articles/2009/08/19/331233/uk-has-no-obligation-to-meet-232-aircraft-typhoon.html "UK has 'no obligation' to meet 232-aircraft Typhoon pledge."] ''Flight International'' via ''flightglobal.com,'' 19 September 2009. Retrieved: 21 July 2010.</ref>
+<ref name="CON98">Chuter, Andy. "EF2000 deal firms up first batch order." ''Flight International'', 23 September 1998.</ref>
+<ref name="CON97">{{cite news |last=Karacs |first=Imre |date=23 December 1997 |title=Eurofighter: Jobs secured at a price by Europe's joint project |work=The Independent |location=London}}</ref>
+<ref name="CONFI">{{cite news |url=http://www.eurofighter.com/files/pdf/Eurofighter_World_Nov_13.pdf |title=The Secret Behind A Good Fighter Weapons System |first1=Craig |last1=Penrice |first2=Laurie |last2=Hilditch |work = Eurofighter WORLD |date=November 2013 |page=41 |accessdate=20 November 2013}}</ref>
+<ref name="CONTROL">[http://www.eurofighter.com/capabilities/technology/voice-throttle-stick/hand-on-throttle-and-stick0.html "Hand on Throttle & Stick (HOTAS)".] ''eurofighter.com.'' Retrieved: 17 December 2011.</ref>
+<ref name="COWTON">Cowton, Rodney. "Eurofighter partners: West Germany, Britain, Italy and Spain." ''The Times'', 7 June 1986.</ref>
+<ref name="CRASH0">{{Cite web|url=https://www.euronews.com/2019/06/24/two-eurofighters-crash-over-eastern-germany-pilots-eject|title=One killed in Eurofighter collision over eastern Germany|date=24 June 2019|website=euronews}}</ref>
+<ref name="CRASH1">{{cite web |url=https://politica.elpais.com/politica/2017/10/12/actualidad/1507804142_584249.html |title=Se estrella un avión Eurofighter en la base aérea de Albacete tras participar en el desfile del 12 de octubre |trans-title= A Eurofighter plane crashes at the Albacete airbase after participating in the parade on October 12 |website=Online newspaper El País |language=es |access-date=2017-10-12}}</ref>
+<ref name="CRASH2">{{cite web|url=http://www.foxnews.com/world/2017/09/24/eurofighter-pilot-killed-during-air-show-in-italy.html|title=Eurofighter pilot killed during air show crash in Italy|date=24 September 2017|accessdate=12 October 2017}}</ref>
+<ref name="CRASH3">{{cite web|last=Cenciotti |first=David |url=http://theaviationist.com/2014/06/23/gaf-typhoon-midair/ |title=Lear Jet crashes after colliding mid-air with Typhoon combat plane over Germany |publisher=The Aviationist |accessdate=23 June 2014}}</ref>
+<ref name="CRASH4">O'Keeffe, Niall. [http://www.flightglobal.com/articles/2010/08/24/346505/saudi-pilot-killed-as-eurofighter-crashes-in-spain.html "Saudi pilot killed as Eurofighter crashes in Spain."] ''Flight International'' via ''flightglobal.com,'' 24 August 2010. Retrieved: 29 November 2010.</ref>
+<ref name="CRASH5">Donahue, Patrick. [http://www.businessweek.com/news/2010-09-16/germany-grounds-eurofighter-combat-jets-on-ejector-seat-concern.html "Germany Grounds Eurofighter Combat Jets on Ejector Seat Concern."] ''Business Week.'' 16 September 2010. Retrieved: 3 July 2011.</ref>
+<ref name="CRASH6">[https://www.bbc.co.uk/news/uk-11355789 "Safety probe leads to some Typhoon jets being grounded."] ''bbc.co.uk,'' 18 September 2010. Retrieved: 19 September 2010.</ref>
+<ref name="CRASH7">[http://www.key.aero/view_news.asp?ID=2522&thisSection=military "Updated: Eurofighters remain grounded."] {{webarchive|url=https://web.archive.org/web/20120301010335/http://www.key.aero/view_news.asp?ID=2522&thisSection=military |date= 1 March 2012}} ''key.aero.'' Retrieved: 14 October 2010.</ref>
+<ref name="CRASH8">[http://www.flightglobal.com/articles/2010/09/24/347784/martin-baker-responds-to-eurofighter-seat-reports.html Martin-Baker responds to Eurofighter seat reports]. Flightglobal.com</ref>
+<ref name="CRASH9">{{cite web|url=https://www.telegraph.co.uk/news/1916854/RAF-fighter-jet-lands-without-wheels.html |title=RAF Fighter Jet Lands Without Wheels |accessdate=19 October 2015}}</ref>
+<ref name="CRTRIAL">{{cite web|url=https://www.eurofighter.com/news-and-events/2016/02/successful-storm-shadow-and-meteor-missile-trials-continue-for-eurofighter-typhoon?q=meteor|title=Eurofighter Typhoon—Successful Storm Shadow and Meteor missile trials continue for Eurofighter Typhoon|website=www.eurofighter.com|accessdate=18 August 2017}}</ref>
+<ref name="DA2">{{cite web |url=https://www.rafmuseum.org.uk/documents/collections/X004-6167-TYPHOON-DA2.pdf |title=EUROFIGHTER DA-2/ZH588 |publisher=Royal Air Force Museum |accessdate=22 March 2019}}</ref>
+<ref name="DANISH">{{cite news |last1=Seligman |first1=Lara |last2=O'Dwyer |first2=Gerard |date=16 May 2016 |title=Danish Government Recommends Buying 27 F-35s |work=Defense News}}</ref>
+<ref name="DASS0">{{cite web|author=Air Power Australia |url=http://ausairpower.net/APA-Rus-Low-Band-Radars.html |title=Russian / PLA Low Band Surveillance Radar Systems (Counter Low Observable Technology Radars) |publisher=Ausairpower.net |date=27 January 2014 |accessdate=9 June 2014}}</ref>
+<ref name="DASS">[http://www.eurofighter.com/media/news0/news-detail/article/farnborough-day-iii-rauen-speaks-media-listen.html "16 July 2008—Farnborough day III: Rauen speaks, media listen."] {{webarchive|url=https://web.archive.org/web/20110927053641/http://www.eurofighter.com/media/news0/news-detail/article/farnborough-day-iii-rauen-speaks-media-listen.html |date=27 September 2011}} ''Eurofighter GmbH''. Retrieved: 3 July 2011.</ref>
+<ref name="DASS2">[http://eurofighter.airpower.at/sensorik-dass.htm "DASS / Defensive Aids Sub System."] ''Eurofighter.airpower.at'', 31 March 2007. Retrieved: 28 November 2009.</ref>
+<ref name="DEUCOST">[http://www.tagesspiegel.de/wirtschaft/kunden-kaempfen-mit-eurofighter/1117378.html "Kunden kämpfen mit Eurofighter (in German)."] ''tagesspiegel.de,'' 12 October 2007. Retrieved: 20 February 2011.</ref>
+<ref name="DVI1">[https://web.archive.org/web/20080512020020/http://www.janes.com/extracts/extract/jav/jav_a062.html "Janes: Aircraft Control and Monitoring Systems."] (archive version) Jane's Information Group, 2008.</ref>
+<ref name="DVI2">[http://www.aph.gov.au/house/committee/jfadt/defenceannualreport_2002_2003/subs/sub6.pdf "Defence Annual Report 2002-03 Analysis III. (PDF)."] ''aph.gov.au''. Retrieved: 28 November 2009. {{webarchive |url=https://web.archive.org/web/20110929162930/http://www.aph.gov.au/house/committee/jfadt/defenceannualreport_2002_2003/subs/sub6.pdf |date=29 September 2011}}</ref>
+<ref name="efb5">Hoeveler, Wolfdietrich and Philip Lee. [http://www.eurofighter.com/media/news0/news-detail/article/major-retrofit-for-early-eurofighter-typhoon-aircraft-begins.html "Major Retrofit For Early Eurofighter Typhoon Aircraft Begins."] {{webarchive|url=https://web.archive.org/web/20120319052512/http://www.eurofighter.com/media/news0/news-detail/article/major-retrofit-for-early-eurofighter-typhoon-aircraft-begins.html |date=19 March 2012}} ''Eurofighter.com'', 15 November 2006. Retrieved: 3 July 2011.</ref>
+<ref name="efcuk">[http://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=55 "Eurofighter Typhoon Multirole Fighter—History, Specs and Data."] militaryfactory.com. Retrieved: 3 July 2011.</ref>
+<ref name="EF_DVI">[http://www.eurofighter.com/media/press-office/facts-sheet-mediakit/direct-voice-input.html "Direct Voice Input."] ''Eurofighter.com''. Retrieved: 30 March 2012.</ref>
+<ref name="EF Site">{{cite web |url=http://www.eurofighter.com/eurofighter-typhoon/in-service.html |title=Eurofighter Typhoon in service |website=eurofighter.com |accessdate=1 August 2010 |archive-url=https://web.archive.org/web/20160922230831/https://www.eurofighter.com/customers |archive-date=22 September 2016}}</ref>
+<ref name="EFW0202012">[http://www.eurofighter.com/fileadmin/web_data/downloads/efworld/efworld0202012.pdf "Spanish Air Force operates new Typhoon squadron"] {{webarchive|url=https://web.archive.org/web/20120920084934/http://www.eurofighter.com/fileadmin/web_data/downloads/efworld/efworld0202012.pdf |date=20 September 2012}} ''Eurofighter World (Eurofighter Gmbh)'', July 2012, pp. 6. Retrieved: 7 December 2012.</ref>
+<ref name="EFW0712">Lake, Jon. [http://www.eurofighter.com/fileadmin/web_data/downloads/efworld/efworld0202012.pdf "P1E—Typhoon Prepares For Leap In Capability."] {{webarchive|url=https://web.archive.org/web/20120920084934/http://www.eurofighter.com/fileadmin/web_data/downloads/efworld/efworld0202012.pdf |date=20 September 2012}} ''Eurofighter World (Eurofighter Gmbh)'', July 2012, pp. 8–12. Retrieved: 7 July 2012.</ref>
+<ref name="EJHOURS">{{cite web|url=http://www.defense-aerospace.com/articles-view/release/3/83836/ej200-engine-logs-50,000-flight-hours.html|title=EJ200 Engine Powers Eurofighter Typhoon in Four Major European Air Forces|accessdate=21 October 2016}}</ref>
+<ref name="EJHRS">{{cite web|url=https://world.eurofighter.com/articles/eurofighter-in-the-future-battlespace|title=Eurofighter in the Future Battlespace|website=Content Hub|accessdate=3 October 2018}}</ref>
+<ref name="EJSEAT">[http://www.eurofighter.com/capabilities/technology/crew-escape-lifesupport/cockpit-ingress-and-egress.html "Eurofighter Cockpit Ingress & Egress."] ''Eurofighter.com''. Retrieved: 3 July 2011.</ref>
+<ref name="ENGINESPECS">{{cite web|url=http://eurofighter.airpower.at/technik-triebwerke.htm|title=Eurofighter Typhoon|website=eurofighter.airpower.at|accessdate=25 June 2019}}</ref>
+<ref name="ENGINESPECSMTU">{{cite web |url=http://www.mtu.de/fileadmin/EN/2_Engines/2_Military_Aircraft_Engines/1_Fighter_Aircraft/EJ200/ProductLeaflet_EJ200.pdf |title=EJ200 turbofan engine |website=www.mtu.de |publisher=MTU Aero Engines AG |access-date=2020-05-17 }}</ref>
+<ref name="EWITEMS">{{cite web|author= Chris Pocock |url=http://www.ainonline.com/aviation-news/paris-air-show/2011-06-20/paris-2011-selex-sets-itself-apart-europes-electronic-warfare-stakes |title=Paris 2011: Selex sets itself apart in Europe's electronic warfare stakes &#124; Aviation International News |publisher=Ainonline.com |date=20 June 2011 |accessdate=9 June 2014}}</ref>
+<ref name="FAIRH">Fairhill, David. "Euro-fighter goes supersonic on maiden flight: First test flight of EAP aircraft in Lancashire." ''The Guardian'', 7 August 1986.</ref>
+<ref name="FALKLANDS">{{cite web |url=https://en.mercopress.com/2009/10/16/falklands-confirmed-as-first-overseas-deployment-for-typhoons |title=Falklands' confirmed as first overseas deployment for Typhoons |website=MercoPress |location=Montevideo |date=17 October 2009 |accessdate=22 March 2019}}</ref>
+<ref name="Farn96">{{cite news |last1=Bevins |first1=Anthony |last2=Godsmark |first2=Chris |date=3 September 1996 |title=£15bn go-ahead for Eurofighter |work=The Independent |location=London}}</ref>
+<ref name="fas_specs">[https://fas.org/man/dod-101/sys/ac/row/eurofighter.htm "Eurofighter."] ''fas.org''. Retrieved: 1 November 2009.</ref>
+<ref name="FCS">[http://www.targetlock.org.uk/typhoon/systems.html "Flight Control System."] {{webarchive|url=https://web.archive.org/web/20120316175354/http://www.targetlock.org.uk/typhoon/systems.html |date=16 March 2012}} ''targetlock.org.uk.'' Retrieved: 3 February 2012.</ref>
+<ref name="FI">[http://www.flightglobal.com/pdfarchive/view/1986/1986%20-%200940.html "BAe uncovers EAP."] ''Flight International'' via flightglobal.com, 28 April 1986, p. 10.</ref>
+<ref name="FI3A">Hoyle, Craig. [https://www.flightglobal.com/news/articles/eurofighter-partners-sign-9-billion-tranche-3a-deal-330463/ "Eurofighter partners sign €9&nbsp;billion Tranche 3A deal."] ''Flight International'' via ''flightglobal.com,'' 31 July 2009. Retrieved: 7 July 2012.</ref>
+<ref name="FILIMIT">{{cite web|url=https://www.flightglobal.com/news/articles/budget-pressures-halt-eurofighter-tranche-3b-talks-354941/|title=Budget pressures halt Eurofighter Tranche 3B talks, says Cassidian boss|date=30 March 2011|accessdate=21 October 2016}}</ref>
+<ref name="firstline">{{cite web |url=http://www.eurofighter.com/media/press-office/facts-sheet-mediakit/benefits-to-industry.html|title=Benefits to Industry |publisher=eurofighter.com |accessdate=31 January 2012}}</ref>
+<ref name="FirstLWING">{{cite web |url=http://www.eurofighter.com/News/Article/default.asp?NewsItemId=170 |title=30 April 2004—Eurofighter Flies Home |publisher=Eurofighter |date=30 April 2004 |accessdate=23 March 2019 |archive-url=https://web.archive.org/web/20061111012251/http://www.eurofighter.com/News/Article/default.asp?NewsItemId=170 |archive-date=11 November 2006}}</ref>
+<ref name="FIRSTP">{{cite web |url=http://www.defense-aerospace.com/article-view/release/16608/first-uk-production-eurofighter-flies.html |title=Typhoon: First British Aircraft Rolls off the Production Line and Takes to the Skies |website=Defence-Aerospace.com |date=18 February 2003 |accessdate=22 March 2019}}</ref>
+<ref name="first2">{{cite web|url=http://www.eurofighter.com/eurofighter-typhoon/swing-role/air-superiority/overview1.html |title=Overview |publisher=eurofighter.com|accessdate=31 January 2012}}</ref>
+<ref name="first3">{{cite web |url=http://www.xairforces.net/newsd.asp?newsid=2557&newst=4 |title=Fighter Focus: Eurofighter and Gripen |accessdate=6 September 2017}}</ref>
+<ref name="FITV">Doye, Andrew.[http://www.flightglobal.com/articles/2009/10/18/333501/eurojet-pushes-thrust-vectoring-technology-for-typhoon.html "Eurojet pushes thrust-vectoring technology for Typhoon."] ''Flight International'' via ''flightglobal.com,'' 18 October 2009. Retrieved: 28 November 2009.</ref>
+<ref name="FG.COM">{{cite web|url=https://www.flightglobal.com/news/articles/ila-eurofighter-to-upgrade-typhoon-engine-to-lift-s-448005/|title=ILA: Eurofighter to upgrade Typhoon engine to lift sales|date=25 April 2018|accessdate=3 October 2018}}</ref>
+<ref name="FUELC">http://eurofighter.airpower.at/technik-daten.htm tank capacity Tankinhalt: 4.996&nbsp;kg / 6.215 Liter</ref>
+<ref name="GER1ST">Hoeveler, Wolfdietrich. [http://www.eurofighter.com/media/news0/news-detail/article/german-air-force-take-delivery-of-first-series-production-eurofighter.html "German Air Force take Delivery of First Series Production Eurofighter."] {{webarchive|url=https://web.archive.org/web/20120319052358/http://www.eurofighter.com/media/news0/news-detail/article/german-air-force-take-delivery-of-first-series-production-eurofighter.html |date=19 March 2012}} ''Eurofighter GmbH'', 4 August 2003. Retrieved: 3 July 2011.</ref>
+<ref name="GERGBU">{{cite web|url=https://www.ainonline.com/aviation-news/defense/2019-06-17/can-typhoon-still-win-orders-era-f-35|title=Can Typhoon Still Win Orders in the Era of the F-35?|website=www.ainonline.com|accessdate=17 June 2019}}</ref>
+<ref name="gpws">[http://www.eurofighter.com/media/news0/news-detail/article/bae-systems-delivers-first-eurofighter-typhoon-ground-proximity-warning.html "BAE Systems delivers first Eurofighter Typhoon Ground Proximity Warning."] {{webarchive|url=https://web.archive.org/web/20110927053702/http://www.eurofighter.com/media/news0/news-detail/article/bae-systems-delivers-first-eurofighter-typhoon-ground-proximity-warning.html |date=27 September 2011}} ''Eurofighter GmbH''. Retrieved: 3 July 2011.</ref>
+<ref name="hastings">Hastings, David. [http://www.targetlock.org.uk/typhoon/development.html "Eurofighter Typhoon."] {{webarchive|url=https://web.archive.org/web/20080516131840/http://www.targetlock.org.uk/typhoon/development.html |date=16 May 2008}} ''targetlock.org'', 6 October 2009. Retrieved: 12 October 2009.</ref>
+<ref name="HMSS">De Clercq, Geert. [https://www.reuters.com/article/2011/06/24/us-airshow-helmets-idUSTRE75N52A20110624 "New helmet to give Typhoon pilots killer look."] ''Reuters'', 24 June 2011.</ref>
+<ref name="holm">Holm, Kathryn and Martina Schmidmeir. [http://www.eurofighter.com/media/news0/news-detail/article/german-air-force-10000-flying-hours-with-the-eurofighter.html "German Air Force: 10,000 Flying Hours with the Eurofighter."] {{webarchive|url=https://web.archive.org/web/20110927053539/http://www.eurofighter.com/media/news0/news-detail/article/german-air-force-10000-flying-hours-with-the-eurofighter.html |date=27 September 2011}} ''Eurofighter.com'', 16 March 2009. Retrieved: 3 July 2011.</ref>
+<ref name="HOURS">{{cite web |url=https://www.raf.mod.uk/news/articles/eurofighter-fleet-passes-500-000-flying-hours/ |title=Eurofighter fleet passes 500,000 flying hours |website=www.raf.mod.uk |access-date=2020-05-15 }}</ref>
+<ref name="HRS">Doyle, Andrew. [https://www.flightglobal.com/news/articles/uk-looks-to-extend-eurofighter-typhoons-fatigue-lif-331483/ "UK looks to extend Eurofighter Typhoon's fatigue life."] ''Flight International'' via ''flightglobal.com,'' 26 August 2009. Retrieved: 28 November 2009.</ref>
+<ref name="IIsqn">[http://www.raf.mod.uk/news/archive/minister-announces-new-typhoon-squadron-13122013 "Minister Announces New Typhoon Squadron"] {{webarchive|url=https://web.archive.org/web/20180226152008/https://www.raf.mod.uk/news/archive/minister-announces-new-typhoon-squadron-13122013 |date=26 February 2018}} ''raf.mod.uk,'' 13 December 2013. Retrieved: 17 September 2014.</ref>
+<ref name="IISQN">{{cite web |url=http://www.raf.mod.uk/news/archive/reformation-of-12b-sqn-12012015 |title=II(AC) Sqn re-role and reformation of 12(B) Sqn |publisher=Royal Air Force |date=12 January 2015 |accessdate=27 March 2019 |archive-url=https://web.archive.org/web/20160401132726/https://www.raf.mod.uk/news/archive/reformation-of-12b-sqn-12012015/ |archive-date=1 April 2016}}</ref>
+<ref name="INST">Owen, Paul S. [http://www.eurofighter-typhoon.co.uk/Eurofighter/cockpit.html "Eurofighter cockpit."] ''Eurofighter-typhoon.co.uk'' 7 December 1997. Retrieved: 28 November 2009. {{webarchive |url=https://web.archive.org/web/20080828065257/http://www.eurofighter-typhoon.co.uk/Eurofighter/cockpit.html |date=28 August 2008}}</ref>
+<ref name="Italy_IOC">[http://www.aeronautica.difesa.it/Organizzazione/Reparti/Repartivolo/Pagine/4%c2%b0Stormo.aspx "4˚ Stormo (in Italian)".] {{webarchive|url=https://web.archive.org/web/20160609175726/http://www.aeronautica.difesa.it/Organizzazione/Reparti/Repartivolo/Pagine/4%C2%B0Stormo.aspx |date=9 June 2016}} ''aeronautica.difesa.it.'' Retrieved: 20 February 2011.</ref>
+<ref name="IPA">Hoeveler, Wolfdietrich and Philip Lee. [http://www.prnewswire.co.uk/cgi/news/release?id=216895 "First Tranche 2 Eurofighter Typhoon Has Flown."] ''Eurofighter GmbH'', 16 January 2008. Retrieved: 3 July 2011.</ref>
+<ref name="JDW">''[[Janes Defence Weekly]]'', Vol 52 ''Fighting Fit'', page XL</ref>
+<ref name="iarpdf">[http://www.ipcs.org/pdf_file/issue/SR126-NSP-IndiaandtheRafale.pdf "India and the Rafale, Anatomy of a Bad Deal."] Institute of Peace and Conflict Studies, April 2012.</ref>
+<ref name="INDIA1">[http://www.raf.mod.uk/news/archive.cfm?storyid=BE8B53D9-1143-EC82-2E1D1D967FFBDE9F "Exercise Indra Dhanush wraps up at Waddington."] {{Webarchive|url=https://web.archive.org/web/20100411001505/http://www.raf.mod.uk/news/archive.cfm?storyid=BE8B53D9-1143-EC82-2E1D1D967FFBDE9F |date=11 April 2010}} ''raf.mod.uk.'' Retrieved: 10 August 2010.</ref>
+<ref name="INDIA2">[http://cities.expressindia.com/fullstory.php?newsid=252960 "India's Sukhois turn it on in UK skies, turn off radars."] {{webarchive |url=https://web.archive.org/web/20090906021119/http://cities.expressindia.com/fullstory.php?newsid=252960 |date=6 September 2009}} ''expressindia.com.'' Retrieved: 10 August 2010.</ref>
+<ref name="JAPAN16">[http://www.defense-aerospace.com/cgi-bin/client/modele.pl?shop=dae&modele=release&prod=178201&cat=3 Royal Air Force Aircraft Arrive in Japan 22 October 2016] ''Royal Air Force'' Retrieved 17 May 2020</ref>
+<ref name="JSM">{{cite web|url=http://www.airrecognition.com/index.php/archive-world-worldwide-news-air-force-aviation-aerospace-air-military-defence-industry/defense-security-exhibitions-news/air-show-2017/lima-2017-bis/lima-2017-news-coverage-report-bis/3367-kongsberg-s-jsm-missile-to-be-added-to-eurofighter-typhoon-weapons-package.html|title=Kongsberg's JSM missile to be added to Eurofighter Typhoon weapons package|date= 21 March 2017|accessdate=30 March 2017}}</ref>
+<ref name="KEY1">Nicholls, Mark et al. ''Eurofighter''. Key Publishing "on behalf of Eurofighter GmbH", 2003. Retrieved: 23 May 2008.</ref>
+<ref name="INDIA3">{{cite news |last=Merrill |first=Jamie |date=6 August 2015 |title=Indian Air Force 'beats RAF 12-0 in training exercise' - using Russian-designed jets|work=The Independent|location=London}}</ref>
+<ref name="ITAR">Sevastopulo, Demetri and Sylvia Pfeifer. [http://www.ft.com/cms/s/0/d97faa00-a09a-11dd-80a0-000077b07658.html "Gov approval given for Saudi Eurofighter sale."] ''FT.com'', 23 October 2008. Retrieved: 18 May 2011.</ref>
+<ref name="ITLIBYA">[http://www.flightglobal.com/news/articles/libya-italian-eurofighters-harriers-fly-first-combat-air-patrol-missions-354948 "LIBYA: Italian Eurofighters, Harriers fly first combat air patrol missions."] ''flightglobal.com'', 17 July 2009. Retrieved: 6 August 2013.</ref>
+<ref name="ITLITH">{{cite web|url=http://www.analisidifesa.it/2015/08/fine-missione-per-i-typhoon-italiani-in-lituania/|title=Fine missione per i Typhoon italiani in Lituania—Analisi Difesa|website=www.analisidifesa.it|date=27 August 2015|accessdate=18 August 2017|language=it}}</ref>
+<ref name="kunden">[http://www.bmvg.de/portal/a/bmvg/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4n3sXQCSYGYJu7G-pHoYm7mCLGglFR9b31fj_zcVP0A_YLc0IhyR0dFADbjUEY!/delta/base64xml/L2dJQSEvUUt3QS80SVVFLzZfRF8yOE81?yw_contentURL=%2FC1256F1200608B1B%2FW27T4K7S368INFODE%2Fcontent.jsp "Haushaltsausschuss billigt Bundeswehrprojekte (in German."] ''bmvg.de,'' 17 June 2009. Retrieved: 20 February 2011.</ref>
+<ref name="kuwait">{{cite news|title=Eurofighter welcomes the agreement between Italy and Kuwait for the supply of 28 Eurofighter Typhoons|url=https://www.eurofighter.com/news-and-events/2015/09/eurofighter-welcomes-the-agreement-between-italy-and-kuwait-for-the-supply-of-28-eurofighter-typhoons|accessdate=11 September 2015|agency=Eurofighter|date=11 September 2015}}</ref>
+<ref name="KuwaitContractSigned">{{cite news|title=Finmeccanica Signs a Contract to Supply 28 Eurofighter Typhoon to Kuwait|url=http://www.finmeccanica.com/en/-/kuwait-eurofighter-typhoon|accessdate=5 April 2016|agency=Finmeccanica|date=5 April 2016}}</ref>
+<ref name="KUWCONT">{{cite magazine |url=http://aviationweek.com/defense/kuwait-signs-87b-deal-28-typhoons |title=Kuwait Signs $8.7B Deal For 28 Typhoons |date=5 April 2016 |magazine=Aviation Week}}</ref>
+<ref name="KUWFI">{{cite news |url=https://www.flightglobal.com/news/articles/typhoon-captor-e-awaits-flight-testing-as-kuwait-con-423938/ |title=Typhoon Captor-E awaits flight testing as Kuwait confirmed as launch customer |date=7 April 2016 |work=FlightGlobal}}</ref>
+<ref name="KUWOPTS">{{cite news|title=Kuwait Opts For Eurofighter Typhoon|url=http://www.janes.com/article/58452/kuwaiti-parliament-approves-typhoon-procurement|accessdate=3 March 2016|agency=IHS Jane's 360|date=1 March 2016}}</ref>
+<ref name="L143">{{cite news |last=Jennings |first=Gareth |date=1 January 202 |title=Germany receives final Eurofighter under current POR |work=Jane's Defence Weekly}}</ref>
+<ref name="L71">{{cite web|url=http://www.luftwaffe.de/portal/a/luftwaffe/start/org/luftm/jg71/!ut/p/z1/hU69DoIwGHwWB9Z-BUTBrYRFxWiCUehiCtSCqZSUCj6-GCYTjbfdbw4opEAb1teCmVo1TI48o4tL6MfH2AkcJz4FEV7bu60XBKETRhjO_wJ0tPEPEAxJySEbN5Y_NsjenkMCFOiN9eyJWqWN5Aax4v0Qsoo1peQHVZBJ2AAVUuXTddLkri-Aan7lmmv00KNcGdN2KwtbeBgGJJQSkqNcWPhbo1KdgfQjCO09HbDryT4msxfCWt4J/dz/d5/L2dBISEvZ0FBIS9nQSEh/#Z7_B8LTL2922LV9D0I1MK599BAO14|title=Taktisches Luftwaffengeschwader 71 "Richthofen"|website=www.luftwaffe.de|accessdate=18 August 2017}}</ref>
+<ref name="LAD">{{cite web|url=http://www.eurofighter.com/the-aircraft|title=Eurofighter Typhoon—The world's most advanced fighter aircraft|accessdate=19 November 2014}}</ref>
+<ref name="LATE54">[https://publications.parliament.uk/pa/cm200304/cmselect/cmpubacc/383/38305.htm "The impact of the large cost overruns and delays."] ''House of Commons''.</ref>
+<ref name="LEWIS">Lewis, Paul. "3 European Countries Plan Jet Fighter Project." ''[[The New York Times]]'', 3 August 1985, p. 31.</ref>
+<ref name="LIBYA1ST">Hoyle, Craig. [http://www.flightglobal.com/articles/2011/04/13/355511/libya-raf-typhoons-drop-first-bombs-in-combat.html "Libya: RAF Typhoons drop first bombs in combat."] ''Flight International'' via ''flightglobal.com,'' 13 April 2011.</ref>
+<ref name="LIBYAPGB">Harding, Thomas. [https://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8448774/Libya-RAF-Typhoon-fighters-carry-out-first-ever-attack.html "Libya: Typhoons carry out first ever attack."] ''The Daily Telegraph (UK),'' 14 April 2011. Retrieved: 30 April 2011.</ref>
+<ref name="LIBYANFZ">{{cite news |last=Wintour |first=Patrick |date=4 April 2011 |title=Libya: UK to increase number of Tornado jets |work=The Guardian}}</ref>
+<ref name="LIBYASHORT">[https://www.telegraph.co.uk/news/uknews/defence/8412467/Shortage-of-RAF-pilots-for-Libya-as-defence-cuts-bite.html "Shortage of RAF pilots for Libya as defence cuts bite."] ''telegraph.co.uk.'' Retrieved: 3 July 2011.</ref>
+<ref name="LIFES">[http://www.eurofighter.com/capabilities/technology/crew-escape-lifesupport/life-support-system-aircrew-eq.html "Life Support System & Aircrew Equipment Assembly (AEA)."] ''Eurofighter.com''. Retrieved: 3 July 2011.</ref>
+<ref name="maiden">[http://news.bbc.co.uk/onthisday/hi/dates/stories/march/27/newsid_2531000/2531051.stm "1994: Maiden flight for future fighter jet."] ''BBC News'', 27 February 1994. Retrieved: 19 March 2008.</ref>
+<ref name="MADL">{{cite web|url=https://news.northropgrumman.com/news/releases/northrop-grumman-and-royal-air-force-demonstrate-enhanced-airborne-communications-interoperability-between-5th-and-4th-generation-fast-jet-aircraft|title=Northrop Grumman and Royal Air Force Demonstrate Enhanced Airborne Communications Interoperability Between 5th and 4th Generation Fast-Jet Aircraft|website=Northrop Grumman Newsroom|accessdate=3 October 2018}}</ref>
+<ref name="MARITIME">{{cite news| title=''RAF Typhoon force trains for maritime role''| last=Warnes| first=Alan| url=http://www.janes.com/article/52678/raf-typhoon-force-trains-for-maritime-role| date=1 July 2015| newspaper=Janes Defence| accessdate=2 July 2015}}</ref>
+<ref name="MATER">[http://www.eurofighter.com/capabilities/technology/materials/carbon-fibre-composites.html "Carbon Fibre Composites."] ''Eurofighter GmbH.'' Retrieved: 3 July 2011.</ref>
+<ref name="Meteorcontract">[http://findarticles.com/p/articles/mi_6712/is_2_217/ai_n28975975/ "MBDA Signs $1.9{{nbsp}}Billion Meteor Missile Contract."] {{webarchive|url=https://web.archive.org/web/20151016225722/http://findarticles.com/p/articles/mi_6712/is_2_217/ai_n28975975/ |date=16 October 2015}} ''Defense Daily,'' 6 January 2003. Retrieved: 7 July 2012.</ref>
+<ref name="METTRIAL">[https://www.nao.org.uk/report/ministry-of-defence-major-projects-report-2008/ "MoD Major Projects Report 2008."] ''National Audit Office,'' 18 December 2008, p. 22. Retrieved: 17 May 2020.</ref>
+<ref name="MEU">{{cite web|url=http://www.ainonline.com/aviation-news/ain-defense-perspective/2013-07-26/middle-east-customers-funding-eurofighter-upgrades|title=Middle East Customers Funding Eurofighter Upgrades.|work=Aviation International News|accessdate=19 November 2014}}</ref>
+<ref name="MIDS">[http://www.datalinksolutions.net/dls/news/02_4-23.asp "Data Link Solutions Delivers First Production MIDS Low Volume Terminal for Eurofighter 2000 Aircraft."] ''Ipunwired.com'', 23 April 2002. Retrieved: 3 July 2011. {{webarchive |url=https://web.archive.org/web/20130417004710/http://www.datalinksolutions.net/dls/news/02_4-23.asp |date=17 April 2013}}</ref>
+<ref name="MIDSF">[http://www.eurofighter.com/media/news0/news-detail/article/unique-amraam-firing-with-eurofighter-typhoon.html "Unique AMRAAM Firing with Eurofighter Typhoon."] {{webarchive|url=https://web.archive.org/web/20120319052436/http://www.eurofighter.com/media/news0/news-detail/article/unique-amraam-firing-with-eurofighter-typhoon.html |date=19 March 2012}} ''Eurofighter.com'', 1 April 2009. Retrieved: 3 July 2011.</ref>
+<ref name="NAMING">[http://news.bbc.co.uk/1/hi/uk/163092.stm "Storm over 'Typhoon' name for Eurofighter."] ''BBC News'', 2 September 1998. Retrieved: 18 September 2007.</ref>
+<ref name="NAO">{{cite web |url=http://www.nao.org.uk/report/management-of-the-typhoon-project/ |title=Management of the Typhoon Project |date=March 2011 |website=www.nao.org.uk |publisher=National Audit Office |accessdate=2020-05-14 }}</ref>
+<ref name="NETMA">{{cite web |url=http://articles.janes.com/articles/Janes-Defence-Industry-2007/Eurofighter-and-NETMA-strike-logistics-deal.html |title=Eurofighter and NETMA Strike Logistics Deal|publisher= [[Jane's International Defence Review]]|accessdate=3 July 2011}}</ref>
+<ref name="NEWEW">{{cite news |last=Scott |first=Richard |date=21 October 2019 |title=EuroDASS unveils plan for new Typhoon DASS/EW suite |url=https://www.janes.com/article/92058/eurodass-unveils-plan-for-new-typhoon-dass-ew-suite |work=IHS Janes |location=London |access-date=23 October 2019}}</ref>
+<ref name="NGFTEMPEST">{{cite news |last=Rose |first=Michael |date=2020-06-17 |title=Spain joins France and Germany in race to build Europe's next combat jet |url=https://www.reuters.com/article/us-france-airshow-europe-fighter/spain-joins-france-and-germany-in-race-to-build-europes-next-combat-jet-idUSKCN1TI0Z3 |work=www.reuters.com |access-date=2020-05-15}}</ref>
+<ref name="NOT3">{{cite news |last=Jennings |first=Gareth |date=17 January 2020 |title=Deliveries to Eurofighter partner nations near conclusion |url=https://www.janes.com/article/93771/deliveries-to-eurofighter-partner-nations-near-conclusion |work= Jane's Defence Weekly |access-date=2020-05-12}}</ref>
+<ref name="OEU">{{cite web |url=http://www.raf.mod.uk/RAFconingsby/newsweather/index.cfm?storyid=F49C9161-5056-A318-A822347F24474925&rss=true |title=17 Squadron Standard Parade |website=raf.mod.uk |publisher=Royal Air Force |date=12 April 2013 |accessdate=2 May 2013 |archive-url=https://web.archive.org/web/20170107115219/http://www.raf.mod.uk/RAFconingsby/newsweather/index.cfm?storyid=F49C9161-5056-A318-A822347F24474925&rss=true |archive-date=7 January 2017}}</ref>
+<ref name="OMAN1">Barrie, Douglas. [http://www.flightglobal.com/articles/2008/07/18/225867/farnborough-2008-oman-pushes-the-typhoon-door-ajar.html "Farnborough Airshow."] ''Flight International'' via ''flightglobal.com,'' 18 July 2008. Retrieved: 28 November 2009.</ref>
+<ref name="OMAN2">{{cite web|url=http://www.baesystems.com/en-uk/article/official-roll-out-for-omani-eurofighter-typhoon-combat-jet-and-hawk-advanced-jet-trainer-aircraft|title=Official roll-out for Omani Eurofighter Typhoon combat jet and Hawk Advanced Jet Trainer aircraft|publisher= [[BAE Systems]]|accessdate=17 May 2017}}</ref>
+<ref name="OMANORDER">[https://www.bbc.co.uk/news/business-20808517 "BAE Systems wins £2.5bn Hawk and Typhoon contract"] ''BBC'', 21 December 2012. Retrieved: 21 December 2012.</ref>
+<ref name="OPCOST">{{cite web|url=https://www.flightglobal.com/news/articles/uk-to-drive-down-typhoon-operating-costs-to-match-f-439514/|title=UK to drive down Typhoon operating costs to match F-16|date=20 July 2017|accessdate=18 August 2017}}</ref>
+<ref name="Pardubice">{{cite web |url=https://airshowinfo.hu/airshowfeed/2017/09/01/typhoon-accident-during-arriving-to-ciaf/ |title=Typhoon accident during arrival to CIAF |publisher=Airshow info |date=1 September 2017 |accessdate=4 September 2017 |archive-url=https://web.archive.org/web/20170904201119/https://airshowinfo.hu/airshowfeed/2017/09/01/typhoon-accident-during-arriving-to-ciaf/ |archive-date=4 September 2017 |url-status=dead}}</ref>
+<ref name="Paul S. Owen">{{cite web|url=http://typhoon.starstreak.net/Eurofighter/sensors.html |title=Eurofighter Technology and Performance: Sensors |author=Paul S. Owen |accessdate=19 November 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141127103445/http://typhoon.starstreak.net/Eurofighter/sensors.html |archive-date=27 November 2014}}</ref>
+<ref name="P1Eb">{{cite news |url=http://www.defencetalk.com/eurofighter-unveils-major-upgrade-package-59672/ |title=Eurofighter Unveils Major Upgrade Package |date=22 May 2014 |website=www.defencetalk.com |publisher=Eurofighter GmgH |accessdate=22 May 2014}}</ref>
+<ref name="P3E">{{cite web|url=http://www.defense-aerospace.com/article-view/release/185335/bae-says-eurofighter-fires-brimstone-missiles.html|title=Successful Completion of First Live Firing of Brimstone Missile|website=www.defense-aerospace.com|accessdate=18 August 2017}}</ref>
+<ref name="PACCOST">Abbas, Mohammed. [http://uk.reuters.com/article/2011/04/15/uk-britain-typhoon-report-idUKTRE73D8PE20110415 "Watchdog slams delays, high costs of Typhoon jet."] ''Reuters'', 15 April 2011.</ref>
+<ref name="PEAs">{{cite web | url=http://www.revistatenea.es/revistaatenea/revista/PDF/documentos/Documento_1026.pdf | archive-url=https://web.archive.org/web/20131024113307/http://www.revistatenea.es/revistaatenea/revista/PDF/documentos/Documento_1026.pdf | archive-date=24 October 2013 | title=Evaluación de los Programas Especiales de Armamento (PEAs) | author =Ministerio de Defensa | location=Madrid | date=September 2011 | publisher=Grupo Atenea| language=es | accessdate=30 September 2012}}</ref>
+<ref name="PIRATE">[http://www.air-attack.com/news/news_article/2615/1st-Eurofighter-with-PIRATE-IRST-Radar-Delivered-to-Italian-Air-Force.html "1st Eurofighter with PIRATE-IRST Radar delivered to Italian Air Force."] {{webarchive|url=https://web.archive.org/web/20071215130911/http://www.air-attack.com/news/news_article/2615/1st-Eurofighter-with-PIRATE-IRST-Radar-Delivered-to-Italian-Air-Force.html |date=15 December 2007}} ''Air-attack.com''. Retrieved: 28 November 2009.</ref>
+<ref name="PIRATE2">{{cite news |date=8 March 2019 |title=Infrared search and track technology gives fighter aircraft stealth vision |work=MarketLine NewsWire}}</ref>
+<ref name="PIRATE3">{{cite web|url=http://www.leonardocompany.com/-/pirate_irst|title=Pirate IRST—DETTAGLIO—Leonardo|accessdate=21 October 2016}}</ref>
+<ref name="Qatar">{{cite web |url=https://www.bloomberg.com/news/articles/2017-09-18/qatar-to-buy-24-typhoon-jets-to-beef-up-u-k-defense-partnership |title=Qatar to buy 24 Typhoon jets |author=adrien |accessdate=18 September 2017}}</ref>
+<ref name="Qatarbbc">{{cite web |url=https://www.bbc.co.uk/news/business-42302767 |title=Qatar buys 24 Eurofighter Typhoon jets in £6bn deal |author=<!-- Not stated --> |date=10 December 2017 |website=BBC News |access-date=11 December 2017 }}</ref>
+<ref name="QATPAYM">{{cite web |last1=Hoyle |first1=Craig |title=Qatar makes first payment against Typhoon buy |url=https://www.flightglobal.com/news/articles/qatar-makes-first-payment-against-typhoon-buy-452021/ |website=FlightGlobal |accessdate=20 September 2018 |archive-url=https://web.archive.org/web/20180920195221/https://www.flightglobal.com/news/articles/qatar-makes-first-payment-against-typhoon-buy-452021/ |archive-date=20 September 2018 |location=London |date=19 September 2018 |url-status=live}}</ref>
+<ref name="QATRAFA">{{cite news|title=Qatar has chosen the Rafale|url=http://www.dassault-aviation.com/en/dassault-aviation/press/press-kits/qatar-has-chosen-the-rafale/|accessdate=30 April 2015}}</ref>
+<ref name="QATTEMP">{{cite web |url=https://www.gov.uk/government/news/defence-minister-reveals-new-raf-squadron-at-qatar-event |title=Defence Minister reveals new RAF Squadron at Qatar event |publisher=Ministry of Defence |website=gov.uk |date=14 December 2017 |accessdate=27 March 2019}}</ref>
+<ref name="QRA">{{cite web |url=http://www.defense-aerospace.com/articles-view/release/3/96585/spain-makes-it-five-for-eurofighter-on-qra-duties.html |title=Eurofighter Typhoon Now on QRA Duty in Five Air Forces |website=Defence-Aerospace |date=24 July 2008 |accessdate=23 March 2019 |archive-url=https://web.archive.org/web/20190323170029/http://www.defense-aerospace.com/articles-view/release/3/96585/spain-makes-it-five-for-eurofighter-on-qra-duties.html |archive-date=23 March 2019}}</ref>
+<ref name="QRA2">{{cite web |first=Craig |last=Hoyle |url=https://www.flightglobal.com/news/articles/typhoons-near-uk-air-defence-duty-212535/ |title=Royal Air Force Eurofighter Typhoons are to provide air policing duties over the southern UK from mid-year |website=FlightGlobal |location=London |date=13 March 2007 |accessdate=23 March 2019 |archive-url=https://web.archive.org/web/20190323174953/https://www.flightglobal.com/news/articles/typhoons-near-uk-air-defence-duty-212535/ |archive-date=23 March 2019}}</ref>
+<ref name="QRA73">{{cite web |first=Craig |last=Hoyle |url=https://www.flightglobal.com/news/articles/pictures-typhoons-intercept-modified-austrian-767-324572/ |title=The Austrian air force demonstrated the air policing capabilities of its new Eurofighter Typhoons on 27 March |website=FlightGlobal |location=London |date=31 March 2009 |accessdate=23 March 2019 |archive-url=https://web.archive.org/web/20190323170405/https://www.flightglobal.com/news/articles/pictures-typhoons-intercept-modified-austrian-767-324572/ |archive-date=23 March 2019}}</ref>
+<ref name="R2P">{{cite web |url=http://www.onetooneonline.co.uk/PDFs/onetoone_iss_1_12.pdf |title=Running the Gauntlet |page=6 |website=www.onetooneonline.co.uk |publisher=onetoone: The RAF Conningsby Journal |access-date=2020-05-17 }}</ref>
+<ref name="RADAR1">Miller, Charles. "Radar Deal Keeps Britain in Forefront of Airborne Technology." The Press Association Ltd., May 1990.</ref>
+<ref name="RAFACE">{{Cite web|url=https://www.raf.mod.uk/news/articles/raf-takes-on-artic-challenge/ |title=RAF takes on Arctic Challenge |publisher=Royal Air Force |date=21 May 2019 |accessdate=13 July 2019}}</ref>
+<ref name="RAF1ST">[http://www.mod.uk/DefenceInternet/DefenceNews/MilitaryOperations/RafTyphoonsPatrolLibyanNoflyZone.htm "RAF Typhoons patrol Libyan no-fly zone."] ''mod.uk.'' Retrieved: 23 March 2011.</ref>
+<ref name="RAF41">{{cite web |url=http://www.raf.mod.uk/rafconingsby/newsweather/index.cfm?storyid=F98C1C92-5056-A318-A8E6523A2460382A |title=Typhoons in new colours |publisher=Royal Air Force |date=22 April 2013 |accessdate=27 March 2019 |archive-url=https://web.archive.org/web/20130427062218/http://www.raf.mod.uk/rafconingsby/newsweather/index.cfm?storyid=F98C1C92-5056-A318-A8E6523A2460382A |archive-date=27 April 2013}}</ref>
+<ref name="RAFCAN">[https://www.independent.co.uk/news/uk/politics/spares-shortage-keeps-typhoon-jets-grounded-2268301.html "Britain's fighter jets grounded by spares shortages."] ''The Independent'', 15 April 2011.</ref>
+<ref name="RAFFGR4">{{cite web |url=https://www.raf.mod.uk/aircraft/typhoon-fgr4/ |title=TYPHOON FGR4 |publisher=Royal Air Force |accessdate=22 March 2019 |archive-url=https://web.archive.org/web/20180528145341/https://www.raf.mod.uk/aircraft/typhoon-fgr4/ |archive-date=28 May 2018}}</ref>
+<ref name="RAFINT">{{cite web|url=http://www.mod.uk/DefenceInternet/DefenceNews/MilitaryOperations/TyphoonLaunchesOperationallyForTheFirstTime.htm |title=Typhoon launches operationally for the first time. |date=21 August 2007 |website=mod.uk |publisher=[[Ministry of Defence (United Kingdom)|MOD]] |accessdate=28 November 2009 |archive-url=https://web.archive.org/web/20091128185425/http://www.mod.uk/DefenceInternet/DefenceNews/MilitaryOperations/TyphoonLaunchesOperationallyForTheFirstTime.htm |archive-date=28 November 2009 |url-status=dead}}</ref>
+<ref name="rafl">{{cite web |url=https://www.gov.uk/government/news/typhoon-squadron-stands-up-in-scotland |title=Typhoon squadron stands up in Scotland |publisher=Ministry of Defence |website=gov.uk |date=18 September 2012 |accessdate=27 March 2019}}</ref>
+<ref name="RAFLAST">{{cite web |url=https://www.baesystems.com/en/article/advanced-typhoon-delivered-to-the-royal-air-force |title=Advanced Typhoon delivered to the Royal Air Force |website=BAE Systems |date=27 September 2019 |accessdate=28 September 2019}}</ref>
+<ref name="RAFOPER">{{cite web |url=http://www.raf.mod.uk/news/news_0603_27.html |title=Formation of first operational Typhoon squadron ushers in new era for the RAF |publisher=Royal Air Force |date=31 March 2006 |accessdate=22 March 2019 |archive-url=https://web.archive.org/web/20061023095817/http://www.raf.mod.uk/news/news_0603_27.html |archive-date=23 October 2006}}</ref>
+<ref name="RAFMULTI">{{cite web |first=Barbara |last=Cockburn |url=https://www.flightglobal.com/news/articles/picture-uk-raf-takes-delivery-of-first-multi-role-eurofighter-typhoons-215964/ |title=The UK Royal Air Force took delivery of its first two Eurofighter Typhoon combat aircraft with multi-role capability from BAE Systems on 6 August. |publisher=Flight Global |location=London |date=8 August 2007 |accessdate=22 March 2019}}</ref>
+<ref name="RAFSURF">{{cite web |url=http://www.mod.uk/DefenceInternet/DefenceNews/EquipmentAndLogistics/TyphoonProvesItsAirsurfaceCapability.htm |title=Defence News, Equipment and Logistics &#124: Typhoon proves its air-surface capability. |date=9 June 2008 |website=mod.uk |publisher=[[Ministry of Defence (United Kingdom)|MOD]] |accessdate=28 November 2009 |archive-url=https://web.archive.org/web/20100410051907/http://www.mod.uk/DefenceInternet/DefenceNews/EquipmentAndLogistics/TyphoonProvesItsAirsurfaceCapability.htm |archive-date=10 April 2010}}</ref>
+<ref name="RAFt1">[http://www.mod.uk/DefenceInternet/DefenceNews/EquipmentAndLogistics/NewTyphoonsFlyIntoRafConingsby.htm "New Typhoons fly into RAF Coningsby."] {{webarchive|url=https://web.archive.org/web/20081024084058/http://www.mod.uk/DefenceInternet/DefenceNews/EquipmentAndLogistics/NewTyphoonsFlyIntoRafConingsby.htm |date=24 October 2008}} '' Mod.uk'' via ''Defence News'', 20 February 2007. Retrieved: 28 November 2009.</ref>
+<ref name="RAF_Typhoon">{{cite web |title=Typhoon FGR4 |url=http://www.raf.mod.uk/equipment/typhooneurofighter.cfm |website=Royal Air Force |accessdate=22 July 2019 |archive-url=https://web.archive.org/web/20120810152512/http://www.raf.mod.uk/equipment/typhooneurofighter.cfm |archive-date=10 August 2012}}</ref>
+<ref name="Rapt_Eurof">Lopez, Staff Sgt. C. Todd. [http://www.af.mil/News/ArticleDisplay/tabid/223/Article/134781/csaf-raptor-eurofighter-complementary.aspx "CSAF: Raptor, Eurofighter complementary."] ''Air Force Print News'', 22 March 2005.</ref>
+<ref name="REPLACEF4">{{cite web |url=http://www.eurofighter.com/news/article245.asp |title=Second German Air Force Wing Takes Eurofighter Typhoon—Seventh Eurofighter unit in Operation |publisher=Eurofighter |date=24 July 2006 |accessdate=23 March 2019 |archive-url=https://web.archive.org/web/20070927192624/http://www.eurofighter.com/news/article245.asp |archive-date=27 September 2007}}</ref>
+<ref name="Reuters">[http://uk.reuters.com/article/idUKTRE6584I520100609 "Eurofighter woos buyers for 10&nbsp;billion euro order"] ''Reuters'', 9 June 2010. Retrieved: 1 August 2010.</ref>
+<ref name="RIFF">{{cite web|url=http://www.defense-aerospace.com/articles-view/release/3/173215/italian-typhoons-demo-mode-5-reverse-iff-capability.html|title=Finmeccanica Demonstrates Air-to-Ground Mode 5 Reverse-IFF Capability with Italian Typhoons|accessdate=21 October 2016}}</ref>
+<ref name="RTP">{{cite web |first=Tom |last=Ripley |url=https://www.janes.com/article/77413/raf-to-scrap-twin-seat-typhoons |title=RAF to scrap twin-seat Typhoons |publisher=Jane's 360 |location=London |date=29 January 2018 |accessdate=21 March 2019 |archive-url=https://web.archive.org/web/20180715024044/https://www.janes.com/article/77413/raf-to-scrap-twin-seat-typhoons |archive-date=15 July 2018}}</ref>
+<ref name="RTP2">{{cite web|url=https://www.monch.com/mpg/news/ew-c4i-channel/4578-ef-radar.html|title=Eurofighter TYPHOON—Moving to Electronically Scanned Radar|website=www.monch.com|accessdate=25 June 2019}}</ref>
+<ref name="RUNNING">{{cite web|url=http://www.businessinsider.com/the-f-35-will-never-beat-the-eurofighter-2013-2|title=There's No Way The F-35 Will Ever Match The Eurofighter In Aerial Combat.|date=13 February 2013|work=Business Insider|accessdate=19 November 2014}}</ref>
+<ref name="SAR">[http://www.defenseindustrydaily.com/Eurofighters-EUR-9B-Miltinational-Tranche-3A-Contract-05674/ "Eurofighter's Future: Tranche 3, and Beyond."] ''Defense Industry Daily'', 27 April 2011.</ref>
+<ref name="saucontract">Oliver, Emmet and Massoud A. Derhally. [http://wayback.vefsafn.is/wayback/20100327063500/http://www.bloomberg.com/apps/news?pid=20601085&sid=a_tmH4i16wBk&refer=europe "Saudis Pay 4.43&nbsp;billion Pounds for 72 Eurofighters (Update1)."] ''bloomberg.com'', 17 September 2007. Retrieved: 12 October 2009.</ref>
+<ref name="Saudi0617">{{cite web|url=https://www.flightglobal.com/news/articles/bae-details-slowing-typhoon-production-rate-439912/|title=BAE details slowing Typhoon production rate|publisher=Flight Global|date=2 August 2017|accessdate=13 August 2017}}</ref>
+<ref name="S3">{{cite web|url=https://www.flightglobal.com/news/articles/uk-mod-funds-further-development-of-spear-3-missile-425485/|title=UK MoD funds further development of Spear 3 missile|date=18 May 2016|accessdate=21 October 2016}}</ref>
+<ref name="SAUDI1">[http://news.bbc.co.uk/1/hi/business/5262120.stm?ls "Saudi Arabia buys 72 Eurofighters."] [[BBC News]], 18 August 2006. Retrieved: 26 October 2006.</ref>
+<ref name="SAUDI2">Morgan, Oliver. [http://observer.guardian.co.uk/business/story/0,,1962471,00.html "BAE in eye of the Typhoon."] ''The Guardian'', 3 December 2006. Retrieved: 20 December 2006.</ref>
+<ref name="SAUDI3">Hoyoa, Carola. [http://www.ft.com/cms/s/0/e0001514-36f5-11e1-96bf-00144feabdc0.html#axzz1iT6R0Rd7 "Saudi jet deal delay threatens BAE earnings."] ''Financial Times'' via ''FT.com,'' 4 January 2012. Retrieved: 5 January 2012.</ref>
+<ref name="SAUDI4">Earnshaw, Paul and John Neilson. [http://www.baesystems.com/Newsroom/NewsReleases/autoGen_10892294737.html "First Flight of Typhoon in Royal Saudi Air Force Livery."] {{Webarchive|url=https://web.archive.org/web/20120215012606/http://baesystems.com/Newsroom/NewsReleases/autoGen_10892294737.html |date=15 February 2012}} ''Baesystems.com'', 22 October 2008. Retrieved: 28 November 2009.</ref>
+<ref name="SAUDI5">[http://www.defenseindustrydaily.com/the-2006-saudi-shopping-spree-eurofighter-flying-off-with-10b-saudi-contract-updated-01669/ "The 2006 Saudi Shopping Spree: Eurofighter Flies Off With Saudi Contract."] ''defenseindustrydaily.com.'' Retrieved: 17 August 2010.</ref>
+<ref name="SAUDI6">{{cite news |url=https://www.telegraph.co.uk/finance/newsbysector/epic/badot/10648144/BAE-agrees-pricing-on-Typhoon-deal-with-Saudi-Arabia.html |title=BAE agrees pricing on Typhoon deal with Saudi Arabia |last1=Tovey |first1=Alan |date=19 February 2014 |website=www.telegraph.co.uk |publisher=Telegraph Media Group Limited |accessdate=19 February 2014 |location=London}}</ref>
+<ref name="SAUDI7">[https://www.bbc.com/news/business-43347848 "Saudi Arabia nears Typhoon jet deal with BAE."] ''bbc.co.uk,'' 9 March 2018. Retrieved: 9 March 2018.</ref>
+<ref name="SAUDISYR">{{cite web|url=http://www.defensenews.com/story/defense/show-daily/idex/2015/02/25/saudi-typhoons-use-paveway-bombs-on-isis/23982221/|title=Saudi Typhoons Use Paveway IV Bombs on ISIS|author=Andrew Chuter|date=25 February 2015|work=Defense News|accessdate=1 April 2015}}</ref>
+<ref name="SDSR">[https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/478933/52309_Cm_9161_NSS_SD_Review_web_only.pdf National Security Strategy and Strategic Defence and Security Review 2015]</ref>
+<ref name="SEAD">{{Cite web|url=https://www.janes.com/article/92377/airbus-proposes-ecr-sead-eurofighter-emphasises-german-requirement|title=Airbus proposes ECR/SEAD Eurofighter, emphasises German requirement &#124; Jane's 360|website=www.janes.com}}</ref>
+<ref name="shipping2">[http://www.defensenews.com/article/20140609/DEFREG01/306090023/Eurofighter-Studying-Missiles-Give-Typhoon-Maritime-Attack-Capability "Eurofighter Studying Missiles To Give Typhoon Maritime Attack Capability."] Defensenews.com, 9 June 2014.</ref>
+<ref name="shipping3">{{cite web|url=https://www.flightglobal.com/news/articles/bae-checks-harpoon-fit-for-anti-ship-typhoon-384566/|title=BAE checks Harpoon fit for anti-ship Typhoon|date=11 April 2013|accessdate=3 October 2018}}</ref>
+<ref name="SING">{{cite web|url=http://www.flightglobal.com/articles/2005/06/13/199178/typhoon-hit-by-singapore.html|title=Typhoon hit by Singapore|publisher=Flight International |via=flightglobal.com|date=13 June 2005|accessdate=24 July 2013}}</ref>
+<ref name="SKOR">[http://www.flightglobal.com/news/articles/south-korea-to-obtain-40-f-35as-393402/ South Korea to obtain 40 F-35As]—Flightglobal.com, 22 November 2013</ref>
+<ref name="SPACRASH">[http://www.flightglobal.com/articles/2002/12/10/159126/engine-surges-caused-da6-crash.html "Engine surges caused DA6 crash."] ''[[Flight International]]'' via ''flightglobal.com,'' 10 December 2002. Retrieved: 29 November 2010.</ref>
+<ref name="SPAININ">"Eurofighter: Spain joins the club." ''The Economist'', 17 September 1985, p. 68.</ref>
+<ref name="SPANCRASH">{{cite news|url=https://www.reuters.com/article/2014/06/09/us-spain-eurofighter-crash-idUSKBN0EK19320140609 |title=Eurofighter jet crashes at Spanish base, killing pilot |work=Reuters |date= 9 June 2014|accessdate=9 June 2014 |first=Raquel |last=Castillo}}</ref>
+<ref name="SPAEST">{{cite web|url=http://estonianworld.com/security/minimum-penalty-for-the-spanish-pilot-who-fired-a-missile-in-the-estonian-airspace/|title=Minimum penalty for the Spanish pilot who fired a missile in the Estonian airspace|date=2 October 2018|publisher=estonianworld.com|accessdate=3 October 2018}}</ref>
+<ref name="SPICE">{{cite web|url=https://www.ainonline.com/aviation-news/defense/2018-07-18/israeli-smart-bomb-closes-service-debut|title=Israeli Smart Bomb Closes In on Service Debut|accessdate=3 October 2018}}</ref>
+<ref name="SPITFIRE">{{cite news |date=June 27, 2010 |title=WWII Air Ace and its Heir; 70 Years on from the Battle of Britain a Look Inside the Plane that Won the Skies.. And its Modern Counterpart |work=Sunday Mirror }}</ref>
+<ref name="ST001">{{cite web |url=https://www.eurofighter.com/news-and-events/2013/02/info-ten-years-ago-the-first-series-production-eurofighter-takes-off-on-its-first-flight-from-cassidian |title=Info—Ten years ago: the first series production Eurofighter takes off on its first flight from Cassidian |publisher=Eurofighter |date=13 February 2013 |accessdate=23 March 2019 |archive-url=https://web.archive.org/web/20150509063704/https://www.eurofighter.com/news-and-events/2013/02/info-ten-years-ago-the-first-series-production-eurofighter-takes-off-on-its-first-flight-from-cassidian |archive-date=9 May 2015}}</ref>
+<ref name="STEALTH">{{cite web|url=http://www.globalsecurity.org/military/world/europe/eurofighter.htm|title=Eurofighter Typhoon EF-2000|author=John Pike|work=globalsecurity.org|accessdate=3 November 2015}}</ref>
+<ref name="STECAN">Neblett, Evan et al. [http://www.aoe.vt.edu/~mason/Mason_f/canardsS03.pdf "Canards."] {{webarchive |url=https://web.archive.org/web/20080227123111/http://www.aoe.vt.edu/~mason/Mason_f/canardsS03.pdf |date=27 February 2008}} ''AOE 4124: Configuration Aerodynamics''. Department of Aerospace and Ocean Engineering, Virginia Tech., 17 March 2003. Retrieved: 28 November 2009.</ref>
+<ref name="STECAN2">[https://translate.google.com/translate?u=http%3A%2F%2Feurofighter.airpower.at%2Ffaq.htm&langpair=de%7Cen&hl=en&ie=UTF-8 "Faq Eurofighter (translation)."] ''google.com''. Retrieved: 29 November 2009.</ref>
+<ref name="STRIKER">{{cite web|url=http://www.baesystems.com/en-uk/article/bae-systems-unveils-digital-striker-ii-helmetmounted-display-system-with-superior-tracking-night-vision-capabilities|title=BAE Systems Unveils Digital Striker II Helmet-Mounted Display System with Superior Tracking, Night Vision Capabilities|accessdate=21 October 2016}}</ref>
+<ref name="STRIKER2">{{cite web|url=http://www.baesystems.com/en-uk/article/trials-of-bae-systems-advanced-fighter-pilot-helmet-prove-successful|title=Trials of advanced fighter pilot helmet prove successful|accessdate=21 October 2016}}</ref>
+<ref name="STRIKER3">{{cite web|url=http://www.janes.com/article/62284/farnborough-2016-colour-comes-to-striker-ii-hmd|title=Farnborough 2016: Colour comes to Striker II HMD—IHS Jane's 360|accessdate=21 October 2016}}</ref>
+<ref name="structure">[http://www.eurofighter.com/capabilities/technology/design-features.html "Eurofighter Design Features."] ''eurofighter-typhoon.co.uk''. Retrieved: 3 July 2011.</ref>
+<ref name="suit">[http://www.lssag.ch/website%2003%2011.html "Libelle Multi G Plus."] {{webarchive|url=https://web.archive.org/web/20081205172519/http://www.lssag.ch/website%2003%2011.html |date=5 December 2008}} ''Lssag.ch''. Retrieved: 28 November 2009.</ref>
+<ref name="SUPERC">{{cite journal|title=AirForces Monthly|date=2004}}</ref>
+<ref name="Swing">Ayton, Mark. "Kings of Swing". ''Air Forces Monthly'', Key Publishing, September 2008, pp. 58–67</ref>
+<ref name="SYRIA">[https://web.archive.org/web/20150619115130/https://www.gov.uk/government/news/update-air-strikes-in-iraq Update: air strikes in Iraq] Ministry of Defence, 5 December 2015</ref>
+<ref name="T2MAIDEN">Hoeveler, Wolfdietrich and Phillip Lee. [http://www.prnewswire.co.uk/cgi/news/release?id=216895 "First Tranche 2 Eurofighter Typhoon Has Flown."] ''eurofighter.com'', 2009. Retrieved: 12 October 2009.</ref>
+<ref name="TimesSaudi">Evans, Michael. [http://business.timesonline.co.uk/tol/business/industry_sectors/engineering/article1290808.ece "Saudis get Typhoons ahead of RAF."] ''The Times'', 9 January 2007. Retrieved: 11 January 2007.</ref>
+<ref name="THRUSTV">{{cite web|url=https://www.flightglobal.com/news/articles/eurojet-pushes-thrust-vectoring-technology-for-typhoon-333501/|title=Eurojet pushes thrust-vectoring technology for Typhoon|date=18 October 2009|accessdate=21 October 2016}}</ref>
+<ref name="TORPY">[http://www.defpro.com/news/details/9044/ "Departing Chief of Royal Air Staff praises Eurofighter Typhoon."] {{webarchive|url=https://web.archive.org/web/20090811011155/http://defpro.com/news/details/9044/ |date=11 August 2009}} ''Defpro.com'', 9 August 2009. Retrieved: 28 November 2009.</ref>
+<ref name="Typhoon_Janes">"Eurofighter Typhoon". ''All the World's Aircraft''. Jane's Information Group, 2013.</ref>
+<ref name="TYTAN">{{cite web|url=https://www.flightglobal.com/news/articles/farnborough-bae-wins-10-year-typhoon-support-deal-427433/|title=FARNBOROUGH: BAE wins 10-year Typhoon support deal|date=15 July 2016|accessdate=18 August 2017}}</ref>
+<ref name="Wall">Wall, Robert. [http://www.aviationweek.com/Article.aspx?id=/article-xml/awx_11_14_2011_p0-394043.xml "Marte-ER Integration On Typhoons Eyed For India."] ''Aviation Week,''14 November 2011. Retrieved: 7 July 2012.</ref>
+<ref name="web.archive.org">{{cite web|url=http://www.eurofighter.at/austria/td_lu.asp|archive-url=https://web.archive.org/web/20090815004539/http://www.eurofighter.at/austria/td_lu.asp|title=Eurofighter Typhoon—Luftüberlegenheitsrolle|archive-date=15 August 2009|work=eurofighter.at|accessdate=3 November 2015}}</ref>
+<ref name="WITHTORNADO">Hoyle, Craig. [http://www.flightglobal.com/articles/2011/04/15/355641/libya-raf-typhoon-hits-fresh-target-with-help-from.html "Libya: RAF Typhoon hits fresh target, with help from Tornado."] ''Flight International'' via ''flightglobal.com,'' 15 April 2011.</ref>
+<ref name="YEMEN">{{Cite news |url= https://www.telegraph.co.uk/news/uknews/defence/11584269/Saudis-UK-made-war-jets-outnumber-RAFs.html |title=Saudis' UK-made war jets outnumber RAF's |date= 5 May 2015 |work= The Daily Telegraph}}</ref>
+<ref name="ZK315">{{cite web|url=http://www.targetlock.org.uk/typhoon/production_uk.html|title="Production for the United Kingdom" at targetlock.org.uk|accessdate=19 November 2014|url-status=dead|archive-url=https://web.archive.org/web/20150428020549/http://www.targetlock.org.uk/typhoon/production_uk.html|archive-date=28 April 2015|df=dmy-all}}</ref>
+<ref name="RSAFCRASH">{{cite web|url=https://theaviationist.com/2017/09/14/saudi-eurofighter-typhoon-crashes-during-combat-mission-in-yemen-killing-the-pilot/|title="Saudi Eurofighter crashes during combat mission in Yemen killing the pilot" at theaviationist.com|accessdate=17 June 2020}}</ref>
+<ref name="butl2">Buttler 1990, p. 134.</ref>
+<ref name="Eurofighter AM">{{cite web |title=Eurofighter |url=http://www.aeronautica.difesa.it/mezzi/mlinea/Pagine/EFA.aspx |publisher=Italian Air Force |accessdate=4 June 2020}}</ref>
+<ref name="Modern Fighters">Spick 2002</ref>
+<ref name="UD18j">Jennings, Gareth (10 July 2020) [https://www.janes.com/defence-news/news-detail/spain-to-receive-new-eurofighters-under-project-halcon Spain to receive new Eurofighters under Project 'Halcon'] Jsnes</ref>
+}}
+
+===Bibliography===
+{{Refbegin}}
+*Boot, Roy. ''From Spitfire to Eurofighter: 45 years of Combat Aircraft Design''. Shrewsbury, UK: AirLife Publishing Ltd., 1990. {{ISBN|1-85310-093-5}}.
+*Buttler, Tony. ''British Secret Projects: Jet Fighters Since 1950''. Hinckley, UK: Midland Publishing, 2000. {{ISBN|1-85780-095-8}}.
+*{{Cite book|title=The Encyclopedia of Modern Military Aircraft|publisher=Amber Books, 2004|isbn=1-904687-84-9|editor-last=Eden|editor-first=Paul|location=London, UK}}
+*Harkins, Hugh. ''Eurofighter 2000, Europe's Fighter for the New Millennium (Aerofax 6)''. Earl Shilton, UK: Midland Publishing, 2006, First edition 1997. {{ISBN|1-85780-068-0}}.
+*Matthews, Henry. ''Prelude to Eurofighter: EAP (Experimental Aircraft Programme)'' (X-Planes Profile-1). Beirut, Lebanon: HPM (Henry Paul Matthews) Publications, 2000.
+*Richardson, Doug. ''Stealth Warplanes: Deception, Evasion and Concealment in the Air''. London: Salamander, 2001. {{ISBN|0-7603-1051-3}}.
+*Spick, Mike. "Eurofighter EF 2000 Typhoon". ''Brassey's Modern Fighters: The Ultimate Guide to In-Flight Tactics, Technology, Weapons, and Equipment''. Washington, DC: Potomac Books Inc, 2002. {{ISBN|1-57488-462-X}}.
+*Spick, Mike. "Eurofighter Typhoon". ''The Great Book of Modern Warplanes''. St. Paul, Minnesota USA: MBI Publishing Company, 2000. {{ISBN|0-7603-0893-4}}.
+*Williams, Mel, ed. "Dassault Rafale". ''Superfighters, The Next Generation of Combat Aircraft''. London: AIRtime, 2002. {{ISBN|1-880588-53-6}}.
+{{Refend}}
+
+== External links ==
+{{Commons and category}}
+* {{Official website}}
+* [https://www.raf.mod.uk/aircraft/typhoon-fgr4/ Typhoon FGR4 on the Royal Air Force website]
+* [http://www.doppeladler.com/oebh/luftfahrzeuge/eurofighter.htm Austrian Air Force Eurofighter page] {{in lang|de}}
+* [http://www.luftwaffe.de/portal/a/luftwaffe/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLNzKId_d1BMlB2F7O-pFw0aCUVH1fj_zcVH1v_QD9gtyIckdHRUUA0YcKCg!!/delta/base64xml/L2dJQSEvUUt3QS80SVVFLzZfMjBfSDVQ?yw_contentURL=%2F01DB060000000001%2FW26E7J9E579ITSRDE%2Fcontent.jsp Luftwaffe Eurofighter] {{in lang|de}}
+
+{{Aircraft of the Airbus Group}}
+{{Alenia Aermacchi aircraft}}
+{{BAE aircraft}}
+{{Italian military aircraft}}
+
+{{Authority control}}
+
+[[Category:Eurofighter Typhoon| ]]
+[[Category:Eurofighter aircraft|Typhoon]]
+[[Category:Delta-wing aircraft]]
+[[Category:Canard aircraft]]
+[[Category:Relaxed-stability aircraft]]
+[[Category:Twinjets]]
+[[Category:1990s international fighter aircraft]]
+[[Category:Articles containing video clips]]
+[[Category:Aircraft first flown in 1994]]
+[[Category:Fourth-generation jet fighter]]

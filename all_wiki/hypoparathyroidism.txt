@@ -1,0 +1,139 @@
+{{Infobox medical condition (new)
+| name            = Hypoparathyroidism
+| synonyms        =
+| image           =
+| caption         =
+| pronounce       =
+| field           = [[Endocrinology]]
+|
+| symptoms        =
+| complications   =
+| onset           =
+| duration        =
+| types           =
+| causes          =
+| risks           =
+| diagnosis       =
+| differential    =
+| prevention      =
+| treatment       =
+| medication      =
+| prognosis       =
+| frequency       =
+| deaths          =
+}}
+'''Hypoparathyroidism''' is decreased function of the [[parathyroid gland]]s with underproduction of [[parathyroid hormone]]. This can lead to [[hypocalcemia|low levels of calcium in the blood]], often causing [[cramp]]ing and twitching of muscles or [[Tetany (medical sign)|tetany]] (involuntary muscle contraction), and several other symptoms. It is a very rare disease. The condition can be inherited, but it is also encountered after [[thyroidectomy|thyroid]] or [[parathyroidectomy|parathyroid gland surgery]], and it can be caused by [[autoimmunity|immune system-related damage]] as well as a number of rarer causes. The diagnosis is made with [[blood test]]s, and other investigations such as [[genetic testing]] depending on the results. The primary treatment of hypoparathyroidism is calcium and vitamin D supplementation. Calcium replacement or [[vitamin D]] can ameliorate the symptoms but can increase the risk of [[kidney stone]]s and [[chronic kidney disease]].<ref name=Bilezikian/> However teriparatide, brand name [[Forteo]], a biosimilar peptide to parathyroid hormone, may be given by injection.
+
+==Signs and symptoms==
+The main symptoms of hypoparathyroidism are the result of the [[hypocalcemia|low blood calcium level]], which interferes with normal [[muscle contraction]] and [[action potential|nerve conduction]]. As a result, people with hypoparathyroidism can experience [[paresthesia]], an unpleasant tingling sensation around the mouth and in the hands and feet, as well as muscle cramps and severe spasms known as "[[tetany]]" that affect the hands and feet.<ref name=Shoback>{{cite journal |author=Shoback D |title=Hypoparathyroidism |journal=N. Engl. J. Med. |volume=359 |issue=4 |pages=391–403 |date=July 2008 |pmid=18650515 |doi=10.1056/NEJMcp0803050}}</ref> Many also report a number of subjective symptoms such as [[fatigue (medical)|fatigue]], [[headache]]s, [[bone pain]] and [[insomnia]].<ref name=Bilezikian>{{cite journal  |vauthors=Bilezikian JP, Khan A, Potts JT, etal |title=Hypoparathyroidism in the adult: epidemiology, diagnosis, pathophysiology, target-organ involvement, treatment, and challenges for future research |journal=J. Bone Miner. Res. |volume=26 |issue=10 |pages=2317–37 |date=October 2011 |pmid=21812031 |doi=10.1002/jbmr.483 |pmc=3405491}}</ref> Crampy [[abdominal pain]] may occur.<ref name=Potts>{{cite book |author=Potts Jr JT |veditors=Kasper DL, Braunwald E, Fauci AS |title=Harrison's Principles of Internal Medicine|edition=16th |year=2005 |publisher=McGraw-Hill |location=New York, NY |isbn=978-0-07-139140-5 |pages=2249–68 |chapter=Diseases of the parathyroid gland|display-editors=etal}}</ref> [[Physical examination]] of someone with [[hypocalcemia]] may show tetany, but it is also possible to provoke tetany of the facial muscles by tapping on the [[facial nerve]] (a phenomenon known as [[Chvostek's sign]]) or by using the cuff of a [[sphygmomanometer]] to temporarily obstruct the blood flow to the arm (a phenomenon known as [[Trousseau sign of latent tetany|Trousseau's sign of latent tetany]]).<ref name=Potts/>
+
+A number of [[medical emergency|medical emergencies]] can arise in people with low calcium levels. These are [[epileptic seizure|seizures]], [[Cardiac dysrhythmia|severe irregularities in the normal heart beat]], as well as spasm of the [[laryngospasm|upper part of the airways]] or the [[bronchospasm|smaller airways known as the bronchi]] (both potentially causing [[respiratory failure]]).<ref name=Bilezikian/>
+
+=== Related conditions ===
+{| cellpadding="5" | class="wikitable"
+|-
+! colspan="2" | Condition
+! Appearance
+! [[parathyroid hormone|PTH]] levels
+! [[Calcitriol]]
+! [[Calcium]]
+! [[Phosphates]]
+! [[Genomic imprinting|Imprinting]]
+|-
+| colspan="2" | Hypoparathyroidism
+| Normal
+| Low
+| Low
+| Low
+| High
+| Not applicable
+|-
+| rowspan="3" | [[Pseudohypoparathyroidism]]
+| align="center" | Type 1A
+| [[Albright's hereditary osteodystrophy|Skeletal defects]]
+| High
+| Low
+| Low
+| High
+| Gene defect from mother ([[GNAS1]])
+|-
+| align="center" | Type 1B
+| Normal
+| High
+| Low
+| Low
+| High
+| Gene defect from mother ([[GNAS1]] and [[STX16]])
+|-
+| align="center" | Type 2
+| Normal
+| High
+| Low
+| Low
+| High
+| ?
+|-
+| colspan="2" | [[Pseudopseudohypoparathyroidism]]
+| [[Albright's hereditary osteodystrophy|Skeletal defects]]
+| Normal
+| Normal
+| Normal<ref name="HussainLatif2010">{{cite book|author1=Shahid Hussain|author2=Sharif Aaron Latif|author3=Adrian Hall|title=Rapid Review of Radiology|url=https://books.google.com/books?id=rOliqVIROGcC&pg=PA262|accessdate=30 October 2010|date=1 July 2010|publisher=Manson Publishing|isbn=978-1-84076-120-7|pages=262–}}</ref>
+| Normal
+| gene defect from father
+|}
+
+==Causes==
+Hypoparathyroidism can have the following causes:<ref name=Bilezikian/>
+* Removal of, or trauma to, the parathyroid glands due to [[thyroid]] surgery ([[thyroidectomy]]), parathyroid surgery (parathyroidectomy) or other surgical interventions in the central part of the neck (such as operations on the larynx and/or pharynx) is a recognized cause. It is the most common cause of hypoparathyroidism. Although [[surgery|surgeon]]s generally make attempts to spare normal parathyroid glands at surgery, inadvertent injury to the glands or their blood supply is still common. When this happens, the parathyroids may cease functioning. This is usually temporary but occasionally long term (permanent).
+* [[Kenny-Caffey Syndrome]]
+* [[Autoimmune disorder|Autoimmune]] invasion and destruction is the most common non-surgical cause. It can occur as part of [[autoimmune polyendocrine syndrome]]s.
+* [[Hemochromatosis]] can lead to iron accumulation and consequent dysfunction of a number of endocrine organs, including the parathyroids.
+* Absence or dysfunction of the parathyroid glands is one of the components of [[Chromosome 22, microdeletion 22 q11|chromosome 22q11 microdeletion syndrome]] (other names: DiGeorge syndrome, Schprintzen syndrome, velocardiofacial syndrome).
+* [[Magnesium deficiency (medicine)|Magnesium deficiency]]
+* A defect in the calcium receptor leads to a rare congenital form of the disease
+* Idiopathic (of unknown cause), occasionally familial (e.g. [[Barakat syndrome]] (HDR syndrome) a genetic development disorder resulting in hypoparathyroidism, sensorineural deafness, and kidney disease)
+
+==Mechanism==
+The parathyroid glands are so named because they are usually located behind the [[thyroid|thyroid gland]] in the neck. They arise during [[human embryogenesis|fetal development]] from structures known as the third and fourth [[Pharyngeal pouch (embryology)|pharyngeal pouch]]. The glands, usually four in number, contain the [[parathyroid chief cell]]s that sense the level of [[calcium in biology|calcium]] in the blood through the [[calcium-sensing receptor]] and secrete parathyroid hormone. [[Magnesium]] is required for PTH secretion. Under normal circumstances, the parathyroids secrete PTH to maintain a calcium level within normal limits, as calcium is required for adequate muscle and nerve function (including the [[autonomic nervous system]]). PTH acts on several organs to increase calcium levels. It increases calcium absorption in the bowel, while in the kidney it prevents calcium excretion and increases phosphate release and in bone it increases calcium through bone resorption.{{citation needed | date=November 2011}}
+
+==Diagnosis==
+Diagnosis is by measurement of [[calcium]], [[serum albumin]] (for correction) and PTH in [[blood test|blood]]. If necessary, measuring [[Cyclic adenosine monophosphate|cAMP]] (cyclic AMP) in the urine after an intravenous dose of PTH can help in the distinction between hypoparathyroidism and other causes.{{citation needed |date=August 2020}}
+
+Differential diagnoses are:{{citation needed | date=November 2011}}
+* [[Pseudohypoparathyroidism]] (normal PTH levels but tissue insensitivity to the hormone, associated with [[intellectual disability]] and [[skeleton|skeletal deformities]]) and [[pseudopseudohypoparathyroidism]].
+* [[Vitamin D#Deficiency|Vitamin D deficiency]] or hereditary insensitivity to this vitamin (X-linked dominant).
+* [[Malabsorption]]
+* [[Kidney disease]]
+* Medication: [[steroid]]s, [[diuretic]]s, some [[antiepileptic]]s.
+
+Other tests include [[ECG]] for abnormal heart rhythms, and measurement of blood magnesium levels.{{citation needed | date=November 2011}}
+
+==Treatment==
+Severe hypocalcaemia, a potentially life-threatening condition,  is treated as soon as possible with [[intravenous]] [[calcium]] (e.g. as [[calcium gluconate]]). Generally, a central venous catheter is recommended, as the calcium can irritate [[peripheral vein]]s and cause [[phlebitis]]. In the event of a life-threatening attack of low calcium levels or tetany (prolonged muscle contractions), calcium is administered by intravenous (IV) infusion. Precautions are taken to prevent seizures or larynx spasms. The heart is monitored for abnormal rhythms until the person is stable. When the life-threatening attack has been controlled, treatment continues with medicine taken by mouth as often as four times a day.{{citation needed | date=November 2011}}
+
+Long-term treatment of hypoparathyroidism is with [[vitamin D]] analogs and calcium supplementation, but may be ineffective in some due to potential renal damage.<ref>Winer KK, Yanovski JA, Cutler GB Jr. Synthetic human parathyroid hormone 1-34 vs calcitriol and calcium in the treatment of hypoparathyroidism: Results of a randomized crossover trial" ''JAMA'' 1996;276:631-636</ref> The N-terminal fragment of parathyroid hormone (PTH 1-34) has full [[biological activity]]. The use of pump delivery of synthetic PTH 1-34 provides the closest approach to physiologic PTH replacement therapy.<ref>Winer KK, Zhang B, Shrader J, et al. Synthetic human parathyroid hormone 1-34 replacement therapy: A randomized crossover trial comparing pump versus injections in the treatment of chronic hypoparathyroidism. J Clin Endocrinol Metab. Nov.2011.</ref> Injections of [[recombinant human parathyroid hormone]] are available as treatment in those with low blood calcium levels.<ref>{{cite web|title=FDA approves Natpara to control low blood calcium levels in patients with hypoparathyroidism|url=https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm431358.htm|website=fda.gov/|accessdate=30 January 2015}}</ref>
+
+==See also==
+* [[Hyperparathyroidism]]
+
+==References==
+{{reflist}}
+
+== External links ==
+{{Medical resources
+|   DiseasesDB     = 6490
+|   ICD10          = {{ICD10|E|20||e|20}}, {{ICD10|E|89|2|e|70}}, {{ICD10|P|71|4|p|70}}
+|   ICD9           = {{ICD9|252.1}}
+|   OMIM           = 146200
+|   MedlinePlus    = 000385
+|   eMedicineSubj  = med
+|   eMedicineTopic = 1131
+|   eMedicine_mult = {{eMedicine2|emerg|276}} {{eMedicine2|ped|1125}}
+|   MeshID         = D007011
+}}
+{{Parathyroid disease}}
+{{Medicine}}
+
+[[Category:Parathyroid disorders]]
+[[Category:Endocrine-related cutaneous conditions]]
+[[Category:Rare diseases]]

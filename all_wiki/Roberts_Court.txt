@@ -1,0 +1,140 @@
+{{short description|Period of the Supreme Court of the United States from 2005-present}}
+{{Infobox SCOTUS CJcourt| court_name = Roberts Court| previous = [[Rehnquist Court]]| next = ''Current''| image =  Official roberts CJ.jpg| image_upright = .75| alt = | caption = [[Chief Justice of the United States|Chief Justice]] [[John Roberts]]| start = Since September 29, 2005| end = | duration = {{age in years and days|September 29, 2005}}| location = [[United States Supreme Court Building|Supreme Court Building]]<br/>[[Washington, D.C.]]| positions = [[Judiciary Act of 1869|9]]| decisions = [[List of United States Supreme Court cases by the Roberts Court|Roberts Court decisions]]}}
+
+The '''Roberts Court''' is the time since 2005 during which the [[Supreme Court of the United States]] has been led by [[Chief Justice of the United States|Chief Justice]] [[John Roberts]]. It is generally considered more conservative than the preceding [[Rehnquist Court]], as well as the most conservative court since the 1940s [[Vinson Court]]. This is due to the retirement of moderate Justices [[Sandra Day O'Connor]] and [[Anthony Kennedy]], and the death of liberal Justice [[Ruth Bader Ginsburg]], and the subsequent confirmation of the conservative Justices [[Samuel Alito]], [[Brett Kavanaugh]], and [[Amy Coney Barrett]] in their place, respectively.<ref name="nyt-liptak01">{{cite news | first = Adam | last = Liptak | title = Court Under Roberts Is Most Conservative in Decades | url = https://www.nytimes.com/2010/07/25/us/25roberts.html | work = New York Times | location = [[New York City|New York, New York]] | date = 2010-07-24 | accessdate = 2010-08-05 }}</ref>
+
+==Membership==
+Roberts was originally [[John Roberts Supreme Court nomination|nominated]] by President [[George W. Bush]] to replace Associate Justice [[Sandra Day O'Connor]], who had decided to retire from the Court, effective with the confirmation of her successor. However, before the Senate could act upon Roberts' nomination to be an Associate Justice, Chief Justice [[William Rehnquist]] died, and President Bush nominated Roberts for the Chief Justice vacancy.  Roberts' nomination as Chief Justice was confirmed by the Senate in 2005. Roberts took the [[United States Constitution|Constitutional]] [[oath of office#United States|oath of office]], administered by senior Associate Justice [[John Paul Stevens]] (who was the acting Chief Justice during the vacancy) at the [[White House]], on September 29, 2005, almost immediately after his confirmation. On October 3, Roberts took the judicial oath provided for by the [[Judiciary Act of 1789]], prior to the first oral arguments of the 2005 term. The Roberts Court commenced with Roberts as Chief Justice and eight holdovers from the [[Rehnquist Court]]: Stevens, O'Connor, [[Antonin Scalia]], [[Anthony Kennedy]], [[David Souter]], [[Clarence Thomas]], [[Ruth Bader Ginsburg]], and [[Stephen Breyer]].
+
+President Bush  [[Samuel Alito Supreme Court nomination|nominated]] [[Samuel Alito]] (after the withdrawal of Bush's first nominee, [[White House Counsel]] [[Harriet Miers]]) to replace O'Connor, and he was confirmed in January 2006. In 2009, President [[Barack Obama]] [[Sonia Sotomayor Supreme Court nomination|nominated]] [[Sonia Sotomayor]] to replace Souter, and in 2010 Obama [[Elena Kagan Supreme Court nomination|nominated]] [[Elena Kagan]] to replace Stevens. After six years, Justice Scalia died in February 2016. In the following month Obama [[Merrick Garland Supreme Court nomination|nominated]] [[Merrick Garland]], but Garland's nomination was never considered by the Senate, and it expired when the Senate's 114th Congress ended and the 115th Congress began on January 3, 2017. Eleven days after the [[inauguration of Donald Trump|2017 Inauguration]], on January 31, 2017, President [[Donald Trump]] [[Neil Gorsuch Supreme Court nomination|nominated]] [[Neil Gorsuch]] to replace Scalia. Democrats in the Senate filibustered the Gorsuch nomination, which led to the Republicans exercising the "[[nuclear option]]". After that, Gorsuch was confirmed in April 2017. On July 9, 2018, Trump nominated [[Brett Kavanaugh]] to replace Kennedy (who retired on July 31)<ref>{{Cite news|url=https://www.bbc.com/news/world-us-canada-44634176|title=Trump gets chance to reshape top court|date=2018-06-27|work=[[BBC News]]|access-date=2018-06-27|language=en-GB}}</ref>, and he was confirmed on October 6, 2018. Justice Ginsburg died on September 18, 2020; Trump [[Amy Coney Barrett Supreme Court nomination|nominated]] [[Amy Coney Barrett]] to succeed her and was confirmed on October 26, 2020.<ref>{{cite news|title=Trump nominates Amy Coney Barrett as Supreme Court justice|last1=Vazquez|first1=Maegan|last2=Liptak|first2=Kevin|date=September 26, 2020|publisher=CNN|url=https://www.cnn.com/2020/09/26/politics/amy-coney-barrett-supreme-court-nominee/index.html|accessdate=October 2, 2020}}</ref>
+
+===Timeline===
+
+{{blockindent|
+{{#tag:timeline| 
+ImageSize = width:775 height:auto barincrement:35
+PlotArea  = top:15 bottom:20 right:30 left:7
+AlignBars = late
+DateFormat = x.y
+Period = from:2005.74 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor  = gridcolor:black unit:year increment:1 start:2006
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:blackline value:rgb(0.212,0.192,0.173)
+  id:nowline   value:rgb(0,0,0.933)
+  id:blank     value:rgb(1,1,1)
+  id:GF        value:rgb(0.757,0.604,0.420)
+  id:RR        value:rgb(1,0.871,0.678)
+  id:GHWB      value:rgb(0.878,1,1)
+  id:BC        value:rgb(0.890,0.976,0.533)
+  id:GWB       value:rgb(0.859,0.439,0.576)
+  id:BO        value:rgb(0.576,0.773,0.447)
+  id:DT        value:rgb(1,0.600,0.400)
+
+PlotData=
+   width:22 textcolor:black shift:(5,-5) anchor:from fontsize:m)
+   bar:1 color:GWB from:2005.74 till:$now text:John Roberts (2005&ndash;present)
+   bar:2 color:GF from:2005.74 till:2010.49 text:John Paul Stevens (1975&ndash;2010)
+   bar:3 color:BO from:2010.60 till:$now text:Elena Kagan]] (2010&ndash;present)
+   bar:4 color:RR from:2005.74 till:2006.08 text:Sandra Day O'Connor (1981&ndash;2006)
+         color:blank from:2006.08 till:2010.13
+   bar:5 color:GWB from:2006.08 till:$now text:Samuel Alito (2006&ndash;present)
+   bar:6 color:RR from:2005.74 till:2016.12 text:Antonin Scalia (1986&ndash;2016)
+   bar:7 color:blank from:2017.01 till:2017.27 text:Neil Gorsuch (2017&ndash;present)
+         color:DT from:2017.27 till:$now 
+   bar:8 color:RR from:2005.74 till:2018.58 text:Anthony Kennedy (1988&ndash;2018)
+   bar:9 color:blank from:2016.57 till:2018.76 text:Brett Kavanaugh (2018&ndash;present)
+         color:DT from:2018.76 till:$now
+   bar:10 color:GHWB from:2005.74 till:2009.49 text:David Souter (1990&ndash;2009)
+   bar:11 color:BO from:2009.60 till:$now text:Sonia Sotomayor (2009&ndash;present)
+   bar:12 color:GHWB from:2005.74 till:$now text:Clarence Thomas (1991&ndash;present)
+   bar:13 color:BC from:2005.74 till:2020.70 text:Ruth Bader Ginsburg (1993&ndash;2020)
+   bar:14 color:blank from:2016.30 till:2020.76 text:Amy Coney Barrett (2020&ndash;present)
+          color:DT from:2020.76 till:$now
+   bar:15 color:BC from:2005.74 till:$now text:Stephen Breyer (1994&ndash;present)
+
+Linedata=
+ at:$now width:0.75 color:nowline
+}}
+'''Note''': {{smaller|The {{color|#0000ee|blue}} vertical line denotes "now" ({{Currentmonth}} {{CURRENTYEAR}}).}}
+'''Bar key''': {{smaller|{{color box|#c19a6b|{{ns|4}}}}&nbsp;Ford&nbsp;appointee{{•}} {{color box|#ffdead|{{ns|4}}}}&nbsp;Reagan&nbsp;appointee{{•}} {{color box|#e0ffff|{{ns|4}}}}&nbsp;G.&nbsp;H.&nbsp;W.&nbsp;Bush&nbsp;appointee{{•}} {{color box|#e3f988|{{ns|4}}}}&nbsp;Clinton&nbsp;appointee{{•}} {{color box|#db7093|{{ns|4}}}}&nbsp;G.&nbsp;W.&nbsp;Bush&nbsp;appointee{{•}} {{color box|#93c572|{{ns|4}}}}&nbsp;Obama&nbsp;appointee{{•}} {{color box|#ff9966|{{ns|4}}}}&nbsp;Trump&nbsp;appointee}}}}
+
+==Other branches==
+Presidents during this court have included [[George W. Bush]], [[Barack Obama]], and [[Donald Trump]]. Congresses included [[109th United States Congress|109th]] through the current [[116th United States Congress|116th]] United States Congresses.
+
+==Rulings of the Court==
+[[File:Supreme Court of the United States - Roberts Court 2018.jpg|thumb|upright=1.10|The Roberts Court (October 2018 – September 2020):<br />Front row (left to right): [[Stephen Breyer]], [[Clarence Thomas]], [[John Roberts]] (Chief Justice), [[Ruth Bader Ginsburg]], and [[Samuel A. Alito]]. Back row (left to right): [[Neil Gorsuch]], [[Sonia Sotomayor]], [[Elena Kagan]], and [[Brett Kavanaugh]]]]
+
+The Roberts court has issued major rulings on [[incorporation of the Bill of Rights]], [[Gun politics in the United States|gun control]], [[Affirmative Action|affirmative action]], [[Campaign finance in the United States|campaign finance regulation]], [[Abortion in the United States|abortion]], [[Capital punishment in the United States|capital punishment]], [[LGBT rights in the United States|gay rights]], [[unlawful search and seizure]], and [[Criminal sentencing in the United States|criminal sentencing]]. Major decisions of the Roberts Court include:<ref name="schiusano">{{cite news|last1=Chiusano|first1=Scott|title=Landmark decisions during John Roberts' decade as Chief Justice|url=http://www.nydailynews.com/news/national/landmark-cases-john-roberts-decade-chief-justice-article-1.2378637|accessdate=February 25, 2016|publisher=New York Daily News|date=September 29, 2015}}</ref><ref name="rwolf"/>
+
+*''[[Massachusetts v. EPA]]'' (2007): In a 5–4 decision in which the majority opinion was delivered by Justice Stevens, the Supreme Court upheld the [[Environmental Protection Agency]]'s right to [[Regulation of greenhouse gases under the Clean Air Act|regulate]] [[carbon dioxide]] under the [[Clean Air Act (United States)|Clean Air Act]].
+*''[[District of Columbia v. Heller]]'' (2008): In a 5–4 decision in which the majority opinion was delivered by Justice Scalia, the Supreme Court held that the [[Second Amendment to the United States Constitution|Second Amendment]] [[Incorporation of the Bill of Rights|applies]] to [[federal enclave]]s, and that the amendment protects the right of individuals to possess a firearm, regardless of service in a militia. ''[[McDonald v. City of Chicago]]'' (2010), in a 5–4 decision written by Justice Alito, extended this protection to the states.
+*''[[Ashcroft v. Iqbal]]'' (2009): In a 5–4 decision written by Justice Kennedy, the court reversed the [[United States Court of Appeals for the Second Circuit|Second Circuit]]'s decision not to dismiss a suit against former Attorney General [[John Ashcroft]] and others that claimed that the [[Federal Bureau of Investigation|FBI]] engaged in discriminatory activities following the [[9/11 attacks]]. The court also extended the [[Twiqbal|heightened pleading standard]] established in ''[[Bell Atlantic Corp. v. Twombly]]'' (2006), which had previously applied only to [[United States antitrust law|antitrust law]]. The number of [[Motion in United States law#Motion to dismiss|dismissals]] greatly increased after the ''Iqbal'' ruling.<ref name="iqbal">{{cite news|last1=Liptak|first1=Adam|title=Supreme Court Ruling Altered Civil Suits, to Detriment of Individuals|url=https://www.nytimes.com/2015/05/19/us/9-11-ruling-by-supreme-court-has-transformed-civil-lawsuits.html|accessdate=March 3, 2016|work=New York Times|date=May 18, 2015}}</ref>
+*''[[Citizens United v. Federal Election Commission]]'' (2010): In a 5–4 decision in which the majority opinion was delivered by Justice Kennedy, the Court held that the provisions of the [[Bipartisan Campaign Reform Act]] which regulated [[independent expenditure]]s in political campaigns by corporations, unions, and non-profits violated [[First Amendment to the United States Constitution|First Amendment]] [[freedom of speech]] rights.
+*''[[National Federation of Independent Business v. Sebelius]]'' (2012): In a 5–4 decision written by Chief Justice Roberts, the Court upheld most of the provisions of the [[Patient Protection and Affordable Care Act]], including the [[individual mandate]] to buy health insurance. The mandate was upheld as part of Congress's power of [[Taxing and Spending Clause|taxation]]. In a subsequent case, ''[[King v. Burwell]]'' (2015), the Court upheld the Patient Protection and Affordable Care Act, this time in a 6–3 opinion written by Chief Justice Roberts.
+*''[[Arizona v. United States]]'' (2012): In a 5–3 decision delivered by Justice Kennedy, the Court held that portions of [[Arizona SB 1070]], an Arizona law regarding immigration, unconstitutionally usurped the federal authority to regulate immigration laws and enforcement.
+*''[[Shelby County v. Holder]]'' (2013): In a 5–4 decision delivered by Chief Justice Roberts, the Court struck down Section 4(b) of the [[Voting Rights Act of 1965]], which provided a coverage formula for Section 5 of the Voting Rights Act. The latter section requires certain states and jurisdictions to obtain federal preclearance before changing voting laws or practices, in an effort to prevent those states and jurisdictions from discriminating against voters. Without a coverage formula, Section 5 of the Voting Rights Act is no longer in effect.
+*''[[Burwell v. Hobby Lobby]]'' (2014): In a 5–4 decision delivered by Justice Alito, the Court exempted [[closely held corporation]]s from the Affordable Care Act's [[contraception mandate]] on the basis of the [[Religious Freedom Restoration Act]].
+*''[[Riley v. California]]'' (2014): The Court unanimously held that the warrantless search and seizure of digital contents of a [[cell phone]] during an arrest is unconstitutional.
+*''[[Obergefell v. Hodges]]'' (2015): In a 5–4 decision delivered by Justice Kennedy, the Court held that the [[Due Process Clause]] and the [[Equal Protection Clause]] both guarantee the right of [[same-sex marriage|same-sex couples to marry]].
+*''[[Whole Woman's Health v. Hellerstedt]]'' (2016): In a 5–3 decision delivered by Justice Breyer, the Court struck down restrictions the state of Texas had placed on [[abortion clinic]]s as an "[[undue burden]]" on access to abortion.
+*''[[Trump v. Hawaii]]'' (2017): In a 5–4 decision written by Chief Justice Roberts, the Court overturned a preliminary injunction against the [[Trump Travel Ban]], allowing it to go into effect. The Court also overturned the precedent ''[[Korematsu v United States]]'' (1944), which allowed President Franklin Delano Roosevelt to intern Japanese-Americans during World War II.<ref>{{cite web|url=https://www.newyorker.com/news/daily-comment/one-really-good-thing-in-the-supreme-courts-travel-ban-ruling-korematsu-is-gone|title=One Really Good Thing in the Supreme Court's Travel-Ban Ruling: Korematsu Is Gone}}</ref>
+*''[[Carpenter v. United States]]'' (2018): In a 5–4 decision written by Chief Justice Roberts, the Court held that government acquisition of cell-site records is a Fourth Amendment search, and, thus, generally requires a warrant.
+*''[[Timbs v. Indiana]]'' (2019): In a 9-0 decision, the Court ruled that the "excessive fines" clause of the [[Eighth Amendment to the United States Constitution|Eighth Amendment]] is [[Incorporation of the Bill of Rights|incorporated]] against state and local governments, affecting the use of [[civil forfeiture]]s.
+*''[[Rucho v. Common Cause]]'' (2019): In a 5–4 decision written by Chief Justice Roberts, the Court held that partisan gerrymandering claims present [[justiciability|nonjusticiable]] [[political question|political questions]].
+*''[[Bostock v. Clayton County, Georgia]]'' (2020): In a 6–3 decision, the Court ruled that Title VII employment protections of the [[Civil Rights Act of 1964]] do extend to cover [[gender identity]] and [[LBGTQ|sexual orientation]].
+
+==Judicial philosophy==
+{{see also|Ideological leanings of U.S. Supreme Court justices}}
+The Roberts Court has been described as "conservative in most cases, liberal in some," with (prior to the death of Justice Scalia) five conservative-leaning justices and four liberal-leaning justices. Alito, Thomas, Kennedy, Roberts, and Scalia generally have taken more conservative positions, while Ginsburg, Breyer, Sotomayor, and Kagan have generally taken more liberal positions. Souter and Stevens had also been part of the liberal bloc prior to their respective retirements. These two blocs of voters have lined up together in several major cases, though Justice Kennedy has often sided with the liberal bloc. Roberts has also served as a swing vote, often advocating for narrow rulings and compromise among the two blocs of Justices.<ref name="rwolf">{{cite news|last1=Wolf|first1=Richard|title=Chief Justice John Roberts' Supreme Court at 10, defying labels|url=https://www.usatoday.com/story/news/politics/2015/09/28/supreme-court-john-roberts-conservative-liberal/72399618/|accessdate=February 25, 2016|publisher=USA Today|date=September 29, 2015}}</ref><ref name="hfairfield">{{cite news|last1=Fairfield|first1=Hannah|title=A More Nuanced Breakdown of the Supreme Court|url=https://www.nytimes.com/2014/06/27/upshot/a-more-nuanced-breakdown-of-the-supreme-court.html|accessdate=February 25, 2016|work=New York Times|date=June 26, 2014}}</ref> Though the Court sometimes does divide along partisan lines, attorney and [[SCOTUSblog]] founder [[Tom Goldstein]] has noted that more cases are decided 9–0 and that the individual judges hold a wide array of views.<ref name=Goldstein2010>{{cite web|url=http://www.scotusblog.com/2010/06/everything-you-read-about-the-supreme-court-is-wrong/|last=Goldstein | first= Tom|author-link=Tom Goldstein|title=Everything you read about the Supreme Court is wrong (except here, maybe)|publisher=[[SCOTUSblog]]|date=June 30, 2010|accessdate=July 7, 2010}}</ref>
+
+The judicial philosophy of Roberts on the Supreme Court has been assessed by leading court commentators including Jeffrey Rosen<ref name="newrepublic.com">{{cite web|url=https://newrepublic.com/article/104898/john-roberts-supreme-court-aca|title=Big Chief|first=Jeffrey|last=Rosen|date=July 13, 2012}}</ref> and Marcia Coyle.<ref name="ReferenceA">Marcia Coyle, ''The Roberts Court: The Struggle for the Constitution'', 2013.</ref> Although Roberts is identified as having a conservative judicial philosophy, his vote in ''[[National Federation of Independent Business v. Sebelius]]'' (2012) upholding the constitutionality of the [[Patient Protection and Affordable Care Act]] (ACA) has caused reflection in the press concerning the comparative standing of his conservative judicial philosophy compared to other sitting justices of conservative orientation; he is seen as having a more moderate conservative orientation, particularly when his vote to uphold the ACA is compared to [[William Rehnquist|Rehnquist's]] vote in ''[[Bush v. Gore]]''.<ref name="Scalia, Antonin 2008">Scalia, Antonin; [[Bryan A. Garner|Garner, Bryan A.]] (2008) ''Making Your Case: The Art of Persuading Judges'' (St. Paul: Thomson West) {{ISBN|978-0-314-18471-9}}.</ref>
+
+Regarding Roberts' contemporaneous peers on the bench, his judicial philosophy is seen as more moderate and conciliatory than that of [[Antonin Scalia]] and [[Clarence Thomas]].<ref name="newrepublic.com"/><ref name="Scalia, Antonin 2008"/> Unlike Scalia, Roberts has not indicated any particularly enhanced reading of [[originalism]] or framer's intentions as has been plainly evident in Scalia's speeches and writings.<ref name="ReferenceA"/> Roberts' strongest inclination on the Court has been to attempt to re-establish the centrist orientation of the Court as being party neutral, in contrast to his predecessor Rehnquist who had devoted significant effort to promote a states rights orientation for the Court. Roberts' voting pattern reflecting his conservative judicial philosophy is most closely aligned to [[Samuel Alito]] on the Court,<ref>{{cite web|url=https://www.nytimes.com/interactive/2014/06/24/upshot/24up-scotus-agreement-rates.html|title=Which Supreme Court Justices Vote Together Most and Least Often|date=June 24, 2014|work=The New York Times}}</ref> the latter of whom has also become associated with libertarian trends in the conservative judicial philosophy.<ref name="newrepublic.com"/>
+
+==List of Roberts Court opinions==
+{{Main|List of United States Supreme Court cases by the Roberts Court}}
+{{colbegin}}
+*[[2005 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2005 term]]
+*[[2006 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2006 term]]
+*[[2007 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2007 term]]
+*[[2008 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2008 term]]
+*[[2009 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2009 term]]
+*[[2010 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2010 term]]
+*[[2011 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2011 term]]
+*[[2012 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2012 term]]
+*[[2013 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2013 term]]
+*[[2014 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2014 term]]
+*[[2015 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2015 term]]
+*[[2016 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2016 term]]
+*[[2017 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2017 term]]
+*[[2018 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2018 term]]
+*[[2019 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2019 term]]
+*[[2020 term opinions of the Supreme Court of the United States|Supreme Court opinions during the 2020 term]]
+{{colend}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{refbegin|2}}
+* Chemerinsky, Erwin. "Roberts Court at Age Three, The." ''Wayne L. Rev.'' 54 (2008): 947.
+* Collins, Ronald KL. "Foreword, Exceptional Freedom—The Roberts Court, the First Amendment, and the New Absolutism." ''Albany Law Review'' 76.1 (2013): 409–66. [http://www.albanylawreview.org/Articles/Vol76_1/76.1.0409%20Collins.pdf online]
+* Franklin, David L. "What kind of business-friendly court? Explaining the Chamber of Commerce's success at the Roberts Court." ''Santa Clara Law Review'' 49 (2009). [http://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1071&context=lawreview online]
+* Gottlieb, Stephen E. ''Unfit for Democracy: The Roberts Court and the Breakdown of American Politics'' (New York University Press, 2016. xii, 381 pp
+* Liptak, Adam. "Court under Roberts is most conservative in decades." ''Sup. Ct. Preview'' (2012): 48. [http://mqscores.berkeley.edu/media/nyt0710.pdf online]
+* Mazie, Steven V. ''American Justice 2015: The Dramatic Tenth Term of the Roberts Court.'' (University of Pennsylvania Press, 2015).
+* Tushnet, Mark. ''In the Balance: Law and Politics on the Roberts Court'' (WW Norton, 2013). Pp. xviii, 324pp
+{{refend}}
+
+{{SCOTUS Justices|chiefjustices}}
+{{SCOTUS horizontal}}
+
+{{authority control}}
+
+[[Category:2000s in the United States]]
+[[Category:2005 establishments in the United States]]
+[[Category:United States Supreme Court history by court]]

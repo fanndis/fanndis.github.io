@@ -1,0 +1,210 @@
+{{Use British English Oxford spelling|date=September 2017}}
+{{Electoral systems}}
+
+'''Open list''' describes any variant of [[party-list proportional representation]] where voters have at least some influence on the order in which a party's candidates are elected. This is as opposed to [[closed list]], which allows only active members, party officials, or consultants to determine the order of its candidates and gives the general voter no influence at all on the position of the candidates placed on the [[party list]]. Additionally, an open list system allows voters to select individuals rather than parties. Different systems give voter different amounts of influence. Voter's choice is usually called '''preference vote'''.
+
+==Systems==
+
+===Relatively closed===
+A "relatively closed" open list system is one where a candidate must get a ''full [[Quota Share|quota]]'' of votes on their own to be assured of winning a seat. (This quota, broadly speaking, is the total number of votes cast divided by the number of places to be filled. Usually the precise number required is the [[Hare quota]], but the [[Droop quota]] can also be used.)
+
+The total number of seats won by the party minus the number of its candidates that achieved this quota gives the number of unfilled seats. These are then successively allocated to the party's not-yet-elected candidates who were ranked highest on the original list.
+
+===More open===
+In a 'more open' list system, the quota for election could be lowered from the above amount. It is then (theoretically) possible that more of a party's candidates achieve this quota than the total seats won by the party. It should therefore be made clear in advance whether list ranking or absolute votes take precedence in that case.
+
+Example: A party list got 5000 votes. If the quota is 1000 votes, then the party wins five seats.
+{| class="wikitable" border="1"
+|-
+! Candidate position<br />on the list
+! Preference votes
+! 25% of the quota
+! Elected
+|-
+| #1
+| 3500
+| x (first)
+| x
+|-
+| #2
+| 50
+|
+| x
+|-
+| #3
+| 150
+|
+| x
+|-
+| #4
+| 250
+| x (third)
+| x
+|-
+| #5
+| 100
+|
+|
+|-
+| #6
+| 100
+|
+|
+|-
+| #7
+| 450
+| x (second)
+| x
+|-
+| #8
+| 50
+|
+|
+|-
+| ...
+| ...
+|
+|-
+|}
+
+Candidates #1, #7 and #4 have each achieved 25% of the quota (250 preference votes or more). They get the first three of the five seats the party has won. The other two seats will be taken by #2 and #3, the two highest remaining positions on the party list. This means that #5 is not elected even though being the fifth on the list and having more preference votes than #2.
+
+In practice, at the national level only one or two candidates succeed to precede on their lists as 25% of the national quota means a huge number of votes. This happens more often at the local level where the quota (in absolute numbers of votes) is lower. Parties usually allow candidates to ask for preference votes, but without campaigning negatively against other candidates on the list.
+
+A country could introduce a version of a more open list voting system allowing parties to choose a small number (say, 5 or 10) of candidates to be guaranteed to be selected first (perhaps to form a small 'core' of government, such as head of state, cabinet, etc.) This solves the problem of major party figures being prevented from taking office, yet still allows the vast majority of party candidates' order on the party list to be decided by the voters.
+
+====Austria====
+
+The members of the [[National Council (Austria)|National Council]] are elected by open list [[proportional representation]] in nine multi-member constituencies based on the [[States of Austria|states]] (with varying in size from 7 to 36 seats) and 39 sub-constituencies. Voters are able to cast a party vote and one preference votes on each the federal, state and electoral district level for their preferred candidates within that party. The thresholds for a candidate to move up the list are 7% of the candidate's party result on the federal level, 10% on the state level and 14% on the electoral district level.<ref>[https://www.help.gv.at/Portal.Node/hlpd/public/content/32/Seite.320260.html Vorzugsstimmenvergabe bei einer Nationalratswahl ("''Preferential voting in a federal election''")] [[HELP.gv.at]]</ref> Candidates for sub-constituency level are listed on the ballot while voters need to write-in their preferred candidate on state and federal level.
+
+====Croatia====
+
+In [[Elections in Croatia|Croatia]], the voter can give their vote to a single candidate on the list, but only candidates who have received at least 10% of the party's votes take precedence over the other candidates on the list.<ref>{{cite web| url=https://www.zakon.hr/z/355/Zakon-o-izborima-zastupnika-u-Hrvatski-sabor | title=Zakon o izborima zastupnika u Hrvatski sabor (Act on Election of Representatives to the Croatian Parliament) | language=Croatian | accessdate=August 27, 2018}}</ref>
+
+====Czechia====
+
+In [[Elections in the Czech Republic|Czech]] parliamentary elections, voters are given 4 preference votes. Only candidates who have received more than 5% of preferential votes at the regional level take precedence over the list.<ref>{{Cite web | url=http://archive.ipu.org/parline-e/reports/2083_B.htm | title=IPU PARLINE database: CZECH REPUBLIC (Poslanecka Snemovna), Electoral system}}</ref> For elections to the European Parliament, the procedure is identical but each voter is only allowed 2 preference votes.
+
+====Indonesia====
+
+In [[Elections in Indonesia|Indonesia]], any candidate who has obtained at least 30% of the quota is automatically elected.<ref>{{Cite web | url=http://archive.ipu.org/parline-e/reports/2147_B.htm | title=IPU PARLINE database: INDONESIA (Dewan Perwakilan Rakyat), Electoral system}}</ref>
+
+====Netherlands====
+
+In [[Elections in the Netherlands|the Netherlands]], the voter can give their vote to any candidate in a list (for example, in elections for the [[House of Representatives of the Netherlands|House of the Representatives]]); the vote for this candidate is called a "preference vote" (''voorkeurstem'' in Dutch). If a candidate has at least 25% of the quota then he/she takes priority over the party's other candidates who stand higher on the party list but received fewer preference votes. Most people vote for the [[lijstrekker|top candidate]], to indicate no special preference for any individual candidate, but support for the party in general. Sometimes, however, people want to express their support for a particular person. Many women, for example, vote for the first woman on the list. If a candidate gathers enough preference votes, then they get a seat in parliament, even if their position on the list would leave them without a seat. In the [[2003 Dutch general election|2003 elections]] [[Hilbrand Nawijn]], the former [[minister without portfolio#Netherlands|minister]] of migration and integration was elected into parliament for the [[Pim Fortuyn List]] by preference votes even though he was the [[Lijstduwer|last candidate on the list]].
+
+====Slovakia====
+
+In [[Elections in Slovakia|Slovakia]], each voter may, in addition to the party, select one to four candidates from the ordered party list. Candidates who are selected by more than 3% of the party's voters are elected (in order of total number of votes) first and only then is the party ordering used. For European elections, voters select two candidates and the candidates must have more than 10% of the total votes to override the party list. In the [[2009 European Parliament election in Slovakia|European election in 2009]] three of Slovakia's thirteen MEPs were elected solely by virtue of preference votes (having party list positions too low to have won otherwise) and only one ([[Katarína Neveďalová]] of SMER) was elected solely by virtue of her position on the party list (having fewer preference votes than a number of other candidates who themselves, nevertheless had preferences from fewer than 10 percent of their party's voters).
+
+====Sweden====
+
+In [[Elections in Sweden|Sweden]], the 'most open' list is used, but a person needs to receive 5% of the party's votes for the personal vote to overrule the ordering on the party list.<ref>Swedish Election Authority: [http://www.val.se/pdf/electionsinsweden_webb.pdf Elections in Sweden: The way its done] {{webarchive|url=https://web.archive.org/web/20090225072954/http://www.val.se/pdf/electionsinsweden_webb.pdf |date=2009-02-25 }} (page 16)</ref> Voting without expressing a preference between individuals is possible, although the parties urge their voters to support the party's prime candidate, to protect them from being beaten by someone ranked lower by the party.
+
+===Most open===
+[[File:Finnish parliamentary election uses the open list method.JPG|thumb|right|Finnish parliamentary election uses the open list method. Here an official poster rack in central Helsinki displays the candidates and their assigned ballot numbers by party.]]
+[[File:Valsedel Finland riksdagsval 2011.jpg|thumb|Ballot during the [[2011 Finnish parliamentary election|Finnish parliamentary election of 2011]]]]
+[[File:Tamuratomoko-uenoparkexit-e-july2-2016.jpg|thumb|right|A campaign bus in [[Tokyo]] for (successful) [[Japanese Communist Party|Communist]] proportional candidate [[Tomoko Tamura]] in Japan's [[2016 Japanese House of Councillors election|2016 Councillors election]]. Tamura received roughly half of her votes in Tokyo, other proportional candidates on the same list won most of their votes in other prefectures.<ref>Ministry of Internal Affairs and Communications: [http://www.soumu.go.jp/senkyo/senkyo_s/data/sangiin24/index.html Results of the 24th regular election of members of the House of Councillors]: [http://www.soumu.go.jp/main_content/000430619.xls Proportional election, Japanese Communist Party results (lists preference votes by candidate and prefecture)] {{in lang|ja}}</ref> The proportional district is nationwide; but limited by a very short legal campaign period, some proportional candidates focus their campaign efforts on only certain regions where they personally or their party have a local base.]]
+
+The 'most open' list system is the one where the absolute number of votes every candidate receives fully determines the "order of election" (the list ranking only possibly serving as a 'tiebreaker').
+
+When such a system is used, one could make the case that ''within'' every party an additional virtual [[single non-transferable vote|single non-transferable vote (SNTV)]] election is taking place.
+
+This system is used in all [[Elections in Finland|Finnish]], [[Elections in Latvia|Latvian]], and [[Elections in Brazil|Brazilian]] multiple-seat elections. While ties may be resolved by a [[coin toss]] in Finland, the oldest candidate wins the tie in Brazil. Since 2001, lists of this 'most open' type have also used in the elections to fill the 96 proportional seats in the 242-member [[House of Councillors (Japan)|upper house of Japan]] (the other 146 are elected through a majoritarian, SNTV/FPTP system).
+
+===Free or panachage===
+{{Main|Panachage}}
+A 'free list', more usually called [[panachage]], is similar in principle to the most open list, but instead of having just one vote for one candidate in one list, an elector has (usually) as many votes as there are seats to be filled, and may distribute these among different candidates in different lists. Electors may also give more votes to one candidate, in a manner similar to [[cumulative voting]], and delete ({{lang-de|Streichen}} or {{lang|de|Reihen}}, {{lang-fr|latoisage}}) the names of some candidates. This gives the elector more control over which candidates are elected.<ref>"[http://www.aceproject.org/ace-en/topics/es/esd/esd02/esd02e/esd02e03 Open, closed, and free lists]", ''ACE Electoral Knowledge Network''</ref>
+
+It is used in elections at all levels in [[Elections in Liechtenstein|Liechtenstein]], [[Elections in Luxembourg|Luxembourg]], and [[Elections in Switzerland|Switzerland]], in congressional elections in [[Elections in Ecuador|Ecuador]], [[Elections in El Salvador|El Salvador]], and [[Elections in Honduras|Honduras]], as well as in local elections in a majority of [[Elections in Germany|German]] [[States of Germany|states]], in [[Communes of France|French communes]] with under 1,000 inhabitants, and in [[Elections in the Czech Republic|Czech]] municipal elections.
+
+==Practical operation==
+Some ways to operate an open list system when using traditional paper-based voting are as follows:
+*One method (used in [[Belgium]] and [[The Netherlands]]) is to have a large ballot paper with a box for each party and sub-boxes for the various candidates. In [[Belgium]], where electronic voting is used in most voting precincts, the voter has to choose with an electronic pencil on a touchscreen between lists and blank vote, then on the list's page between the top box (vote for the list without preference for specific candidates) or the box(es) for one or several candidates on the same list.<ref>{{in lang|fr}} « [https://www.youtube.com/watch?v=8sWrV4S-P4c Voilà comment voter électroniquement avec Smartmatic] », video posted on Youtube by the Belgian Federal Interior Ministry</ref> The computer program forbids [[spoilt vote]].
+*Another method (used in [[Norway]], [[Slovakia]] and [[Spain]]) is to have a separate ballot paper for each party. To maintain voter secrecy, the voter is handed ballot papers for every party. The voter chooses the candidates (or may vote for the party as a whole) on one of the ballot papers and puts that paper into an envelope and putting the envelope into the ballot box.
+* In [[Brazil]], each candidate is assigned a number (in which the first 2 digits are the party number and the others the candidate's number within the party). The voting machine has a telephone-like panel where the voter presses the buttons for the number of their chosen candidate. In [[Finland]], each candidate is assigned a 3-digit number.
+* In [[Italy]], the voter must write the name of each chosen candidate in blank boxes under the party box.
+
+==Countries with open list proportional representation==
+Some of these states may use other systems in addition to open list. For example, open list may decide only upper house legislative elections while another electoral system is used for lower house elections.
+
+===Africa===
+{{div col|colwidth=20em}}
+*{{flag|Democratic Republic of the Congo}}<ref>{{Cite web | url=http://archive.ipu.org/parline-e/reports/2375_B.htm | title=IPU PARLINE database: DEMOCRATIC REPUBLIC OF THE CONGO (Assemblée nationale), Electoral system}}</ref>
+{{div col end}}
+
+===Americas===
+{{div col|colwidth=20em}}
+*{{flag|Brazil}}<ref name="mainw">{{cite journal | url=http://kellogg.nd.edu/publications/workingpapers/WPS/141.pdf | title=Politicians, Parties, and Electoral Systems: Brazil in Comparative Perspective | author=Mainwaring, Scott | journal=Comparative Politics |date=October 1991 | volume=24 | issue=1 | pages=21–43 | doi=10.2307/422200| jstor=422200 }}</ref>
+*{{flag|Chile}}<ref name="mainw"/>
+*{{flag|Colombia}}<ref group=CEPPS name=colombia/>
+*{{flag|Ecuador}}<ref>Craig Arceneaux, ''Democratic Latin Americ''a, Routledge, 2015 {{ISBN|9781317348825}} [https://books.google.com/books?id=86DhCgAAQBAJ&pg=PT339 p.339]</ref>
+*{{flag|El Salvador}}<ref>George Rodriguez, "[http://www.ticotimes.net/2015/02/28/voters-head-to-the-polls-in-el-salvador-to-elect-legislators-mayors Voters head to the polls in El Salvador to elect legislators, mayors]", ''Tico Times'', 28 February 2015</ref><ref>{{in lang|es}} "[http://es.calameo.com/read/001686636ac80aa84289b Papeletas para las elecciones 2015] (reproduction of ballot papers and explanation of the new voting system)", ''Tribunal Supremo Electoral''</ref><ref>[http://ps.ucdavis.edu/people/mshugart Matthew S. Shugart], "[https://fruitsandvotes.wordpress.com/2015/03/08/el-salvador-joins-the-panachage-ranks-presidents-party-holds-steady/ El Salvador joins the panachage ranks, president’s party holds steady]", ''Fruits and Votes'', 8 March 2015</ref>
+*{{flag|Honduras}}<ref>"[http://www.electionpassport.com/electoral-systems/honduras/ Honduras]", ''Election Passport''</ref>
+*{{flag|Panama}}<ref>{{Cite web | url=http://archive.ipu.org/parline-e/reports/2245_B.htm | title=IPU PARLINE database: PANAMA (Asamblea Nacional), Electoral system}}</ref>
+*{{flag|Peru}}<ref>{{Cite web | url=http://www.electionguide.org/countries/id/170/ |title = IFES Election Guide &#124; Country Profile: Peru}}</ref>
+*{{flag|Suriname}}<ref>"http://archive.ipu.org/parline-e/reports/2299_B.htm"</ref>
+{{div col end}}
+
+===Asia-Pacific===
+{{div col|colwidth=20em}}
+*{{flag|Fiji}}<ref>{{cite web|author=Fijan elections office|url=http://www.electionsfiji.gov.fj/wp-content/uploads/2014/03/Electoral-Decree-2014.pdf|accessdate=3 July 2014|title=Electoral decree 2014|url-status=dead|archiveurl=https://web.archive.org/web/20140714162747/http://www.electionsfiji.gov.fj/wp-content/uploads/2014/03/Electoral-Decree-2014.pdf|archivedate=14 July 2014}}</ref>
+*{{flag|Indonesia}} <ref group=CEPPS name=indo/> for 2019 general election 
+*{{flag|Iraq}}<ref>{{cite web | url=http://www.cfr.org/democracy-and-human-rights/iraqs-political-landscape/p18411 | title=Reshuffling the Political Deck | publisher=Council on Foreign Relations | work=Backgrounder: Iraq's Political Landscape | date=February 5, 2009 | accessdate=July 8, 2012 | author=Bruno, Greg | archive-url=https://web.archive.org/web/20121118191346/http://www.cfr.org/democracy-and-human-rights/iraqs-political-landscape/p18411 | archive-date=November 18, 2012 | url-status=dead }}</ref>
+*{{flag|Japan}}<ref>[[:ja:非拘束名簿式]]</ref>
+*{{flag|Jordan}}<ref>{{Cite web | url=http://archive.ipu.org/parline-e/reports/2163_B.htm | title=IPU PARLINE database: JORDAN (Majlis Al-Nuwaab), Electoral system}}</ref>
+*{{flag|Lebanon}}<ref>{{cite web|url=http://gulfnews.com/news/mena/lebanon/lebanon-to-hold-parliamentary-elections-in-may-2018-1.2043638|accessdate=23 June 2017|title=Lebanon to hold parliamentary elections in May 2018}}</ref>
+*{{flag|Sri Lanka}}<ref group=CEPPS name=srilanka/>
+{{div col end}}
+
+===Europe===
+{{div col|colwidth=20em}}
+*{{flag|Austria}}<ref name="eupaper"/>
+*{{flag|Belgium}}<ref name="eupaper"/>
+*{{flag|Bosnia and Herzegovina}}<ref>{{cite web | url=http://www.izbori.ba/Documents/documents/ZAKONI/POIZpw110508.pdf | title=Izborni zakon BiH, članovi 9.5 i 9.8 | accessdate=September 2, 2012}}</ref>
+*{{flag|Croatia}}<ref>{{cite web| url=https://www.zakon.hr/z/355/Zakon-o-izborima-zastupnika-u-Hrvatski-sabor | title=Zakon o izborima zastupnika u Hrvatski sabor (Act on Election of Representatives to the Croatian Parliament) | language=Croatian | accessdate=April 8, 2018}}</ref>
+*{{flag|Cyprus}}<ref name="eupaper"/>
+*{{flag|Czech Republic}}<ref group=CEPPS name=cze/>
+*{{flag|Denmark}}<ref name="eupaper"/>
+*{{flag|Estonia}}<ref group=CEPPS name=est/>
+*{{flag|Finland}}<ref name="eupaper"/>
+*{{flag|Germany}} in:
+** {{flag|Bavaria}}
+** {{flag|Bremen}}
+** {{flag|Hamburg}}
+** Municipal elections in various states
+*{{flag|Greece}}<ref name="eupaper"/>
+* {{flag|Italy}} for [[European Parliament|European]], [[Regions of Italy|regional]] and [[Communes of Italy|municipal]] elections. (formerly used for [[Parliament of Italy|national parliamentary elections]])<ref>{{cite journal | url=http://mpra.ub.uni-muenchen.de/5626/1/MPRA_paper_5626.pdf |title=Pork-Barrel Politics in Postwar Italy, 1953-94 | authors=Miriam A. Golden, Lucio Picci | journal=American Journal of Political Science |date=April 2008 | volume=52 | issue=2 |pages=268–289 | doi = 10.1111/j.1540-5907.2007.00312.x }}</ref>
+*{{flag|Latvia}}<ref group=CEPPS name=lat/>
+*{{flag|Liechtenstein}}<ref name="eupaper"/>
+*{{flag|Lithuania}}<ref>{{Cite web | url=http://www.electionguide.org/countries/id/125/ |title = IFES Election Guide &#124; Country Profile: Lithuania}}</ref>
+*{{flag|Luxembourg}}<ref group=CEPPS name=luxembourg/>
+*{{flag|Netherlands}}<ref group=CEPPS name=net/>
+*{{flag|Northern Cyprus}}
+*{{flag|Norway}}<ref group=CEPPS name=norway/>
+*{{flag|Poland}}
+*{{flag|San Marino}}<ref name="eupaper">{{cite web | url=https://ecprd.secure.europarl.europa.eu/ecprd/getfile.do;jsessionid=3b490694614cde33796973863f72c657?id=5063 | title=Electoral Systems in Europe: An Overview | publisher=European Centre for Parliamentary Research and Documentation | location=European Parliament in Brussels | date=October 2000 | accessdate=July 6, 2012 | url-status=dead | archiveurl=https://web.archive.org/web/20130509064043/https://ecprd.secure.europarl.europa.eu/ecprd/getfile.do;jsessionid=3b490694614cde33796973863f72c657?id=5063 | archivedate=May 9, 2013 }}</ref>
+*{{flag|Slovakia}}<ref group=CEPPS name=slovak/>
+*{{flag|Slovenia}}<ref group=CEPPS name=slovenia/>
+*{{flag|Sweden}}<ref group=CEPPS name=sweden/>
+*{{flag|Switzerland}}<ref name="mainw"/>
+*{{flag|Ukraine}}<ref>[https://www.kyivpost.com/ukraine-politics/ukrinform-ukrainian-parliament-adopts-electoral-code.html UkrInform: Ukrainian parliament adopts Electoral Code], [[Kyiv Post]]</ref>
+{{div col end}}
+
+===Partially recognized states===
+*{{flag|Kosovo}}
+
+==References==
+{{reflist}}
+
+=== CEPPS ===
+{{reflist|group=CEPPS|refs=<ref name=sweden>{{cite web|url=http://www.electionguide.org/country.php?ID=206|title=Country Profile: Sweden|work=ElectionGuide | publisher=Consortium for Elections and Political Process Strengthening |date= 2010-08-08|accessdate = 07/08/2012}}</ref><ref name=colombia>{{cite web|url=http://www.electionguide.org/country.php?ID=48|title=Country Profile: Colombia|date=2012-06-19|accessdate = 07/08/2012}}</ref><ref name=luxembourg>{{cite web|url=http://www.electionguide.org/country.php?ID=126|title=Country Profile: Luxembourg|date=02/04/2010|accessdate = 07/08/2012}}</ref><ref name=norway>{{cite web|url=http://www.electionguide.org/country.php?ID=162|title=Country Profile: Norway|date=2011-03-18|accessdate = 07/08/2012}}</ref><ref name=srilanka>{{cite web | url=http://www.electionguide.org/country.php?ID=201 | title=Country Profile: Sri Lanka | date=2010-02-18 | accessdate=June 30, 2012}}</ref><ref name=slovenia>{{cite web | url=http://www.electionguide.org/country.php?ID=195 | title=Country Profile: Slovenia | date=2012-02-28 | accessdate=June 30, 2012}}</ref><ref name=net>{{cite web | url=http://www.electionguide.org/country.php?ID=152 | title=Country Profile: Netherlands | date=2010-10-14 | accessdate=June 30, 2012}}</ref><ref name=indo>{{cite web | url=http://www.electionguide.org/country.php?ID=102 | title=Country Profile: Indonesia | date=2010-11-26 | accessdate=June 30, 2012}}</ref><ref name=slovak>{{cite web | url=http://www.electionguide.org/country.php?ID=194 | title=Country Profile: Slovakia | date=02/01/2012 | accessdate=June 30, 2012}}</ref><ref name=lat>{{cite web | url=http://www.electionguide.org/country.php?ID=119 | title=Country Profile: Latvia| date=08/05/2011 | accessdate=June 30, 2012}}</ref><ref name=est>{{cite web | url=http://www.electionguide.org/country.php?ID=69 | title=Country Profile: Estonia | date=2011-04-15 | accessdate=June 30, 2012}}</ref><ref name=cze>{{cite web | url=http://www.electionguide.org/countries/id/58/ |title=Country Profile: Czech Republic}}</ref>}}
+
+==External links==
+*[https://web.archive.org/web/20041010123536/http://www.citizensassembly.bc.ca/public/learning_resources/learning_materials/week5 British Columbia Citizens' Assembly on Electoral Reform] - A debate on the merits of open and closed lists by the [[Citizens' Assembly on Electoral Reform (British Columbia)|Citizens' Assembly on Electoral Reform]] in the Canadian province of [[British Columbia]], 2004.
+*[https://web.archive.org/web/20131227085045/http://rcum.uni-mb.si/~jure/preferential8_emlist.pdf "Preferential Voting: Definition and Classification"] - Paper presented by Jurij Toplak at the annual meeting of the Midwest Political Science Association's 67th Annual National Conference, Chicago, IL, April 2009.
+
+{{voting systems}}
+
+{{DEFAULTSORT:Open List}}
+[[Category:Party-list proportional representation]]

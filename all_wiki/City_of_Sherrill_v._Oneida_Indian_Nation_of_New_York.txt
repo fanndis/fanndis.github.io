@@ -1,0 +1,97 @@
+{{Infobox SCOTUS case
+  |Litigants=City of Sherrill v. Oneida Indian Nation of New York
+  |ArgueDate=January 11
+  |ArgueYear=2005
+  |DecideDate=March 29
+  |DecideYear=2005
+  |FullName=City of Sherrill, New York v. Oneida Indian Nation of New York, et al.
+  |Docket=03-855
+  |USVol=544
+  |USPage=197
+  |ParallelCitations=125 S. Ct. 1478; 161 [[L. Ed. 2d]] 386; 2005 [[U.S. LEXIS]] 2927 [https://supreme.justia.com/cases/federal/us/544/197/]
+  |Prior=''Oneida Indian Nation v. City of Sherrill'', 337 [[F.3d]] [https://law.justia.com/cases/federal/appellate-courts/F3/337/139/588082/ 139] ([[2d Cir.]] N.Y. 2003)
+  |Subsequent=Rehearing denied, {{ussc|544|1057|2005|el=no}}, on remand sub nom. ''Oneida Indian Nation of N.Y. v. Madison Cnty.'', 401 [[F. Supp. 2d]] 219 ([[N.D.N.Y.]] 2005), motion to amend denied, 235 F.R.D. 559 (N.D.N.Y. 2006), aff'd, 605 F.3d [https://www.leagle.com/decision/inadvfco100810000010 149] (2nd Cir. 2010), cert. granted, 131 S. Ct. 459 (2010), vacated and remanded sub nom. ''Madison Cnty. v. Oneida Indian Nation of N.Y.'', 131 S. Ct. 704 (2011) (per curiam)
+  |Holding=Reversed and remanded. Held that repurchase of traditional tribal lands did not restore tribal sovereignty to that land.
+  |Majority=Ginsburg
+  |JoinMajority=Rehnquist, O'Connor, Scalia, Kennedy, Thomas, Breyer
+  |Concurrence=Souter
+  |Dissent=Stevens
+  |LawsApplied={{usc|25|465
+}}}}
+'''''City of Sherrill v. Oneida Indian Nation of New York''''', 544 U.S. 197 (2005), was a [[Supreme Court of the United States|US Supreme Court]] case in which the Court held that repurchase of traditional tribal lands 200 years later did not restore tribal sovereignty to that land. [[Ruth Bader Ginsburg|Justice Ruth Bader Ginsburg]] wrote the majority opinion. <ref name=OIN>''[https://supreme.justia.com/cases/federal/us/544/197/ City of Sherrill v. Oneida Indian Nation]'', {{ussc|544|197|2005}}</ref>
+
+==Background==
+===Historical tribal background===
+The [[Oneida Indian Nation]] (OIN) originally possessed approximately {{convert|6000000|acre|mi2+km2}} in what is now known as Central [[New York (state)|New York]].<ref name="Land claim I">''Oneida Indian Nation v County of Oneida'', {{ussc|414|661|1974}}</ref>  The OIN entered three treaties with the United States: Treaty of Fort Stanwix of 1784; The Treaty of Fort Halmar of 1789; and the Treaty of Canandaigua of 1794.<ref name="Land claim I"/>  These treaties were codified into federal law in the [[Indian Trade and Intercourse Act|Non-intercourse Act of 1790]].<ref name="Land claim I"/>  The Act also prohibited transacting any sale of Indian Territory without US Congressional consent and ratification.<ref name="Land claim I"/>
+
+In 1788, New York State (the state) and the OIN entered into a treaty where the tribe ceded approximately {{convert|5000000|acre|mi2+km2}}, reserving only {{convert|300000|acre|mi2+km2}} to the OIN.<ref name=OIN /><ref name="Land claim I"/>  The OIN and the state entered into another land transaction where the OIN ceded some of their 300,000-acre reservation to the state.<ref name="Land claim I"/>  The treaty was known as the Treaty of Fort Schuyler.<ref name=OIN/>  Over the next 200 years, the state continued to purchase OIN land without seeking US Congressional consent and ratification.<ref name=OIN/> By 1920, the OIN reservation was only {{convert|32|acre|mi2+km2}}.<ref name=OIN/>  These transactions forced part of the OIN to move to western lands, e.g. the [[Oneida Nation of Wisconsin]]; and the [[Stockbridge-Munsee]] and the [[Brothertown Indians]], who also moved from land they owned in New York to Wisconsin.<ref name=OIN/>
+
+In 1997 and 1998, the OIN purchased land on the open market that had been part of their aboriginal reservation lands. The city of [[Sherrill, New York|Sherrill]] sought to impose property taxes on the land.<ref name=OIN/>  The OIN claimed that because the land fell within its aboriginal lands, the OIN could exert its tribal sovereignty of the same; rendering the property tax exempt.<ref name=OIN/>  The county of [[Madison County, New York|Madison]] filed a similar suit, ''Oneida Indian Nation of NY v Madison County''.<ref>401 F. Supp. 2d 219 [NDNY 2005]</ref>
+
+===Prior history===
+While Sherrill sought relief through eviction proceedings in state court, the OIN sought injunctive relief in federal court.<ref name=OIN/>  The  [[U.S. District Court for the Northern District of New York]] enjoined the city of Sherrill and Madison County from taxing the tribal property.<ref name=dc1>{{cite court |litigants=Oneida Indian Nation, et al. v. City of Sherrill, et al. |vol=145 |reporter=F.Supp.2d |opinion=226 |court=N.D.N.Y. |year=2001}}</ref><ref name=dc2>{{cite court |litigants=Oneida Indian Nation v. Madison County |vol=145 |reporter=F.Supp.2d |opinion=268 |court=N.D.N.Y. |year=2001}}</ref> Both the city of Sherrill and Madison County appealed the decision to the [[United States Court of Appeals for the Second Circuit|U.S. 2nd Circuit Court of Appeals]]. The Circuit Court affirmed, holding that the lands at issue fell within the federal definition of Indian Territory and not subject to state or local taxes.<ref name=OIN/><ref name=2cc>{{cite court |litigants=Oneida Indian Nation, et al. v. City of Sherrill, et al. |vol=337 |reporter=F.3d |opinion=139 |court=2d Cir. N.Y. |year=2003}}</ref> The defendants appealed and the Supreme Court granted ''[[certiorari]].''<ref name=OIN /><ref>Oneida Indian Nation, et al. v. City of Sherrill, et al.{{ussc|542|__|2004}}</ref>
+
+==Opinion of the Court==
+[[Ruth Bader Ginsburg|Justice Ginsburg]] delivered the opinion of the Court, reversing and remanding.<ref name=OIN />
+
+The Second Circuit found that the land qualified as Indian Territory, which meant it was exempt from state and local taxation.<ref name=OIN/>  Justice Ginsburg's decision never overturned that finding.  Instead, Justice Ginsburg held that the OIN purchase of the land did not revive its tribal sovereignty over the land because almost 200 years lapsed where the land was not under OIN control.<ref name=OIN/> During this 200-year period, the lands came under state, county, and local jurisdiction.  This meant the lands were taxable for property taxes.<ref name=OIN/>  The municipalities, the counties, and the state relied on that land's taxable revenue for 200 years.<ref name=OIN/>  Justice Ginsburg also noted that during this 200-year span, the OIN did not attempt to regain title (ownership) over the land until recently; and even then only a small portion of its original 6,000,000-acre reservation.<ref name=OIN/> Because of this, the Court opined that 200 years was too long to be out of OIN ownership.<ref name=OIN/>  Therefore, OIN could not reassert its tribal immunity over those lands as an automatic mechanism.<ref name=OIN/>
+
+In further support of the decision to overturn, Justice Ginsburg noted that to affirm the lower courts' holdings would cause too much upheaval for the city, the county, and the state who exerted jurisdiction over the land for 200 years without notice that it was not validly done.<ref name=OIN/>  Affirming the injunctive relief the OIN sought did not consider the loss of tax revenue to the city.<ref name=OIN/>  Additionally, Justice Ginsburg opined that because the lands were non-contiguous with existing reservation lands, affirming the injunctive relief would create a "checkerboard" of jurisdictional conflict between the OIN, the state, the town of Sherrill, and Madison County.<ref name=OIN/>
+
+These justifications provided by [[Ruth Bader Ginsburg|Justice Ginsburg]] were meant to help those not familiar with the case history to rationalize her decision. The bedrock precedent relied on is known as the [[Discovery doctrine|Doctrine of Discovery]] and was cited in the opinion's first footnote as follows:
+
+<blockquote>"Under the “doctrine of discovery,” County of Oneida v. Oneida Indian Nation of N. Y., 470 U. S. 226, 234 (1985) (Oneida II), “fee title to the lands occupied by Indians when the colonists arrived became vested in the sovereign—first the discovering European nation and later the original States and the United States,” Oneida Indian Nation of N. Y. v. County of Oneida, 414 U. S. 661, 667 (1974) (Oneida I)."<ref name=OIN /></blockquote>
+
+This set of preceding court cases made clear from the outset that immediately upon the first arrival of Christian sovereigns (including their representatives) of a European nation to lands either uninhabited '''''or''''' inhabited by non-Christians who were not of European descent ultimate sovereignty of the land, whose boundaries were usually understood as the entire watershed or sometimes a given radius or other specified boundary, was vested in the discovering power. Native nations retained limited rights, such as those to occupy and use the land they were currently recognized (by the discovering power) to be living within.<ref>Miller, R. J. (2006). Native America, discovered and conquered: Thomas Jefferson, Lewis & Clark, and manifest destiny. Greenwood Publishing Group.</ref> Regardless, from this moment onward native nations could no longer legally (under international law and the laws of the discovering power) expand their sovereignty or jurisdictions beyond their recognized boundaries, even if they purchased them in the same way that the discovering power was purchasing lands from native nations. Such expansions would have to be done through the discovering power. Today in the United States the federal government (the full legal owner) holds native lands 'in trust' for the native nations (the beneficial owner). Therefore, it was unlawful for ONI to purchase lands and claim sovereignty over them, just as it would be unlawful for a private citizen to purchase land within the United States and claim sovereignty over it. The tribe would be able to have the federal government purchase these lands and manage them in trust for the tribe as part of their reservation, but that power ultimately lies in with the federal government under the [[Discovery doctrine|Doctrine of Discovery]]. 
+
+Justice Ginsburg understood and agreed with upholding the [[Discovery doctrine|Doctrine of Discovery]] and therefore concluded that the proper way for the Oneida Nation to reassert its immunity over those re-acquired lands was to place the land in US trust under the [[Department of the Interior]], as authorized by the [[Indian Reorganization Act]] of 1934.<ref name=OIN/> Justice Ginsburg reasoned that the mechanisms behind the IRA would address issues of jurisdiction, tax revenue loss, and other pertinent issues.<ref name=OIN />  Shortly after the Court published this decision, in April 2005, the OIN applied to the US Interior Department to place {{convert|13000|acre|mi2+km2}} into trust.
+
+===Concurring opinion===
+[[David Souter|Justice Souter]] issued a concurring opinion stating that the amount of time involved barred the tribe from restoring sovereignty to the land in question.<ref name=OIN />
+
+===Dissent===
+[[John Paul Stevens|Justice Stevens]] dissented, noting that the majority opinion did not overrule the Second Circuit's determination that the subject land was Indian Territory.<ref name=OIN/>  Justice Stevens opined that because the land is within the boundaries of its historical reservation, it was "Indian Country."<ref name=OIN/>  Therefore, the city had no jurisdiction to tax that property.<ref name=OIN />
+
+==Subsequent history==
+''Sherrill'' held only that the local governments could tax OIN-owned property that was part of the original reservation but reacquired on the open market, not that the local governments could collect. In 2010, in ''Oneida Indian Nation of New York v Madison County, NY'', the [[United States Court of Appeals for the Second Circuit|Second Circuit]] held that [[tribal sovereignty in the United States|tribal sovereign immunity]] barred a tax foreclosure suit against the tribe for unpaid taxes.<ref>605 F.3d 149.</ref> As urged by concurring judges [[José A. Cabranes]] and [[Peter W. Hall]], the U.S. Supreme Court granted [[certiorari]].<ref>''Madison County v. Oneida Indian Nation of New York'', 131 S. Ct. 459 (2010).</ref>  Following a tribal declaration and ordinance waiving sovereign immunity, the Court vacated and remanded.<ref>''Madison County v. Oneida Indian Nation of New York'', 131 S. Ct. 704 (mem).</ref>
+
+==See also==
+*''[[Oneida Indian Nation of New York State v. Oneida County]]'' (1974)
+*''[[Oneida County v. Oneida Indian Nation of New York State]]'' (1985)
+*''[[Cayuga Indian Nation of N.Y. v. Pataki]]'' (2d Cir. 2005)
+*''[[Oneida Indian Nation of New York v. Madison County, N.Y.]]'', 605 F.3d 149 (2d Cir. 2010)
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite journal | author = Derrick Braaten | url = https://litigation-essentials.lexisnexis.com/webcd/app?action=DocumentDisplay&crawlid=1&doctype=cite&docid=25+Law+%26+Ineq.+227&srctype=smi&srcid=3B15&key=35b5cd4a629ceb2449abbb03a16ed3f3 | title = The Right To Be Heard In 'City of Sherrill v. Oneida Indian Nation': Equity and the Sound of Silence | volume = 25 | journal = Law and Inequality | page = 227 | year = 2007 |access-date = 5 January 2016}} {{subscription required}}
+* {{cite journal|author=Matthew L.M. Fletcher |url=http://www.uchastings.edu/hlj/archive/vol59/Fletcher_59-HLJ-579.pdf |title=The Supreme Court's Indian Problem |volume=59 |journal=Hastings Law Journal |page=579 |year=2007 |access-date=5 January 2016 |url-status=dead |archiveurl=https://web.archive.org/web/20120601130025/http://uchastings.edu/hlj/archive/vol59/Fletcher_59-HLJ-579.pdf |archivedate=June 1, 2012 }} 
+* {{cite journal | author = Kathryn E. Fort | url = http://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1372&context=facpubs | title = The New Laches: Creating Title Where None Existed | volume = 16 | journal = George Mason Law Review | page = 357 | year = 2009|access-date = 5 January 2016}}
+* {{cite journal | author = Kathryn E. Fort | url = http://works.bepress.com/cgi/viewcontent.cgi?article=1001&context=kathryn_fort&sei-redir=1#search=%22oneida+laches+certiorari%22  | title = Disruption and Impossibility: The Unfortunate Resolution of the Modern Iroquois Land Claims | volume = 11 | journal = Wyoming Law Review | page = 375 | year = 2011 |access-date = 5 January 2016}}
+* Sarah Krakoff (2005). "'City of Sherrill v. Oneida Indian Nation of New York': A Regretful Postscript to the Taxation Chapter, in 'Cohen's Handbook of Federal Indian Law,'" ''Tulsa Law Review'' '''41''': 5.
+* {{cite journal | author = Ezra Rosser | ssrn = 1114995 | title = Protecting Non-Indians from Harm: The Property Consequences of Indians | volume = 87 | journal = Oregon Law Review | page = 175 | year = 2008 |access-date = }}
+* George C. Shattuck (1991). ''The Oneida Land Claims:  A Legal History.{{full citation needed|date=January 2016}}
+* Patrick W. Wandres  (2006). "Indian Land Claims, ''Sherrill'' and the Impending Legacy of the Doctrine of Laches," ''American Indian Law Review'' '''31''':131.
+
+==External links==
+* {{caselaw source
+ | case = ''City of Sherrill v. Oneida Indian Nation'', {{ussc|544|197|2005|el=no}}
+ | cornell =https://www.law.cornell.edu/supct/html/03-855.ZS.html
+ | courtlistener =https://www.courtlistener.com/opinion/142882/city-of-sherrill-v-oneida-indian-nation-of-ny/
+ | justia =https://supreme.justia.com/cases/federal/us/544/197/
+ | oyez =https://www.oyez.org/cases/2004/03-855
+ | googlescholar =https://scholar.google.com/scholar_case?case=15926282018498825263
+ }}
+
+{{Oneida}}
+{{Aboriginal title in the United States}}
+{{Native American rights}}
+
+{{DEFAULTSORT:City Of Sherrill V. Oneida Indian Nation Of N. Y.}}
+[[Category:United States Supreme Court cases]]
+[[Category:2005 in United States case law]]
+[[Category:Aboriginal title case law in the United States]]
+[[Category:United States tribal sovereign immunity case law]]
+[[Category:Oneida]]
+[[Category:United States Supreme Court cases of the Rehnquist Court]]

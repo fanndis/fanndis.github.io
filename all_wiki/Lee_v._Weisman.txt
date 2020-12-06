@@ -1,0 +1,107 @@
+{{Infobox SCOTUS case
+  |Litigants=Lee v. Weisman
+  |ArgueDate=November 6
+  |ArgueYear=1991
+  |DecideDate=June 24
+  |DecideYear=1992
+  |FullName=Robert E. Lee, Individually and as Principal of Nathan Bishop Middle School, et al., Petitioners v. Daniel Weisman etc.
+  |USVol=505
+  |USPage=577
+  |ParallelCitations=112 S. Ct. 2649; 120 [[Lawyers' Edition|L. Ed. 2d]] 467; 60 U.S.L.W. 4723; 92 Cal. Daily Op. Service 5448; 92 Daily Journal DAR 8669
+  |Prior=Respondents' motion for restraining order to prevent invocation from being delivered denied, ''Weisman v. Lee'', 728 [[F. Supp.]] [https://law.justia.com/cases/federal/district-courts/FSupp/728/68/2596846/ 68] ([[United States District Court for the District of Rhode Island|D.R.I.]] 1990); appealed after graduation ceremony, decision reversed, 908 [[F.2d]] [https://law.justia.com/cases/federal/appellate-courts/F2/908/1090/169061/ 1090] ([[1st Cir.]] 1990); [[Certiorari|cert]]. granted, {{ussc|499|918|1991|el=no}}.
+  |Subsequent=
+  |Holding=Including a clergy-led prayer within the events of a public high school graduation violates the Establishment Clause of the First Amendment.
+  |Majority=Kennedy
+  |JoinMajority=Blackmun, Stevens, O'Connor, Souter
+  |Concurrence=Blackmun
+  |JoinConcurrence=Stevens, O'Connor
+  |Concurrence2=Souter
+  |JoinConcurrence2=Stevens, O'Connor
+  |Dissent=Scalia
+  |JoinDissent=Rehnquist, White, Thomas
+  |LawsApplied=[[First Amendment to the United States Constitution|U.S. Const. amend. I]]
+}}
+'''''Lee v. Weisman''''', 505 U.S. 577 (1992), was a [[Supreme Court of the United States|United States Supreme Court]] decision regarding school prayer. It was the first major [[school prayer]] case decided by the [[Rehnquist]] Court. It held that schools may not sponsor clerics to conduct even non-denominational prayer.<ref>{{ussc|name=Lee v. Weisman|505|577|1992}}. {{usgovpd}}</ref> The Court followed a broad interpretation of the [[Establishment Clause]] that had been standard for decades at the nation's highest court, a reaffirmation of the principles of such landmark cases as ''[[Engel v. Vitale]]''<ref>{{ussc|name=Engel v. Vitale|370|421|1962}}.</ref> and ''[[Abington School District v. Schempp|Abington v. Schempp]]''.<ref>{{ussc|name=Abington School District v. Schempp|374|203|1963}}.</ref>
+
+==Background==
+Robert E. Lee was the principal of Nathan Bishop Middle School in [[Providence, Rhode Island]]. He invited a rabbi to deliver a prayer at the 1989 graduation ceremony, but the parents of student Deborah Weisman requested a temporary injunction to bar the rabbi from speaking. The question being reviewed was whether or not this was constitutional. The [[United States District Court for the District of Rhode Island|Rhode Island district court]] denied the Weismans' motion.<ref>{{cite court |litigants=Weisman v. Lee |vol=728 |reporter=F. Supp. |opinion=68 |pinpoint= |court=[[United States District Court for the District of Rhode Island|D.R.I.]] |date=1990 |url=https://law.justia.com/cases/federal/district-courts/FSupp/728/68/2596846/ |accessdate=2019-08-21 |quote=}}</ref> The family did attend the graduation ceremony, and the rabbi did deliver the benediction.
+
+The Weismans continued their litigation after the graduation and won a victory at the [[United States Court of Appeals for the First Circuit|First Circuit Court of Appeals]].<ref>{{cite court |litigants=Weisman v. Lee |vol=908 |reporter=F.2d |opinion=1090 |pinpoint= |court=[[1st Cir.]] |date=1990 |url=https://law.justia.com/cases/federal/appellate-courts/F2/908/1090/169061/ |accessdate=2019-08-21 |quote=}}</ref> The school district appealed to the U.S. Supreme Court, arguing that the prayer was nonsectarian and was doubly voluntary: Deborah was free not to stand for the prayer and because participation in the ceremony itself was not required. Arguments were heard on November 6, 1991. [[Associate Justice|Justice]] [[Anthony Kennedy]] had been critical of the Court's decisions on school prayer, and many court watchers thought that he would provide the crucial fifth vote to reverse the lower court's ruling and deal a major blow to the twin separationist pillars of ''Engel'' and ''Abington''.'''
+
+==Decision==
+The 5–4 decision was announced on June 24, 1992. It was somewhat surprising as a victory for the Weismans and a defeat for the school district. Justice Kennedy wrote the majority opinion, which maintained previous Supreme Court precedents sharply limiting the place of religion within the nation's public schools—far from joining those who favored curtailing restrictions on school prayers. The [[Harry Blackmun|Blackmun]] papers reveal that Kennedy switched his vote during the deliberations, as he also did in ''[[Planned Parenthood v. Casey]]'',<ref>{{ussc|name=Planned Parenthood v. Casey|link=|volume=505|page=833|pin=|year=1992}}.</ref> saying that his draft majority opinion upholding the prayer exercise "looked quite wrong." Instead, Kennedy wrote an opinion that repudiated the school district's main arguments. He found fault with Principal Lee's decision to give the rabbi who was planning to offer the graduation invocation a pamphlet on composing prayers for civic occasions:
+
+:Through these means, the principal directed and controlled the content of the prayers. Even if the only sanction for ignoring the instructions were that the rabbi would not be invited back, we think no religious representative who valued his or her continued reputation and effectiveness in the community would incur the State's displeasure in this regard. It is a cornerstone principle of our Establishment Clause jurisprudence that it is no part of the business of government to compose official prayers for any group of the American people to recite as a part of a religious program carried on by government, and that is what the school officials attempted to do.<ref>505 U.S. at 588 citation omitted).</ref>
+
+Kennedy also noted that the nonsectarian nature of the prayer was no defense, as the Establishment Clause forbade coerced prayers in public schools, not just those representing a specific religious tradition. He addressed the State's contention that attendance was voluntary at the graduation exercises:
+
+:To say a teenage student has a real choice not to attend her high school graduation is formalistic in the extreme. True, Deborah could elect not to attend commencement without renouncing her diploma; but we shall not allow the case to turn on this point. Everyone knows that, in our society and in our culture, high school graduation is one of life's most significant occasions. A school rule which excuses attendance is beside the point. Attendance may not be required by official decree, yet it is apparent that a student is not free to absent herself from the graduation exercise in any real sense of the term "voluntary," for absence would require forfeiture of those intangible benefits which have motivated the student through youth and all her high school years.<ref>505 U.S. at 595.</ref>
+
+Finally, Kennedy formulated what is now known as the coercion test<ref name="20200528FirstAmendmentCenterEClause">{{cite web |title=Religious liberty in public life: Establishment Clause overview |url=http://www.firstamendmentcenter.org/rel_liberty/establishment/index.aspx |publisher=First Amendment Center |accessdate=May 28, 2020 |archiveurl=https://web.archive.org/web/20100905120418/http://www.firstamendmentcenter.org/rel_liberty/establishment/index.aspx |archivedate=September 5, 2010}}</ref>{{efn|Justice Anthony Kennedy in his dissent in ''[[County of Allegheny v. American Civil Liberties Union]]'', {{ussc|492|573|1989}}, delineated the coercion test<ref name="20200528FirstAmendmentCenterEClause" /> with these words: "Government policies of accommodation, acknowledgment, and support for religion are an accepted part of our political and cultural heritage, and the Establishment Clause permits government some latitude in recognizing the central role of religion in society. Any approach less sensitive to our heritage would border on latent hostility to religion, as it would require government in all its multifaceted roles to acknowledge only the secular, to the exclusion, and so to the detriment, of the religious. Thus, this Court's decisions disclose two principles limiting the government's ability to recognize and accommodate religion: it may not coerce anyone to support or participate in any religion or its exercise; and it may not, in the guise of avoiding hostility or callous indifference, give direct benefits to a religion in such a degree that it, in fact, establishes a state religion or tends to do so. In other words, the government may not place its weight behind an obvious effort to [https://en.wiktionary.org/wiki/proselytize proselytize] [[Proselytism|on behalf of a particular religion]]. On the other hand, where the government's act of recognition or accommodation is passive and symbolic, any intangible benefit to religion is unlikely to present a realistic risk of establishment. To determine whether there exists an establishment, or a tendency toward one, reference must be made to the other types of church-state contacts that have existed unchallenged throughout our history or that have been found permissible in our case law. For example, ''[[Lynch v. Donnelly]]'', 465 U.S. 668, 104 S.Ct. 1355, 79 L.Ed.2d 604, upheld a city's holiday display of a creche, and ''[[Marsh v. Chambers]]'', 463 U.S. 783, 103 S.Ct. 3330, 77 L.Ed.2d 1019, held that a State's practice of employing a legislative chaplain was permissible.<ref>{{cite web |title=County of Allegheny v. ACLU, 492 U.S. 573 (1989) at page 492 |url=https://supreme.justia.com/cases/federal/us/492/573/ |publisher=Justia US Supreme Court Center |accessdate=May 30, 2020}}</ref>"}} in answering the argument that participation in the prayer was voluntary:
+
+:The school district's supervision and control of a high school graduation ceremony places subtle and indirect public and peer pressure on attending students to stand as a group or maintain respectful silence during the invocation and benediction. A reasonable dissenter of high school age could believe that standing or remaining silent signified her own participation in, or approval of, the group exercise, rather than her respect for it. And the State may not place the student dissenter in the dilemma of participating or protesting. Since adolescents are often susceptible to peer pressure, especially in matters of social convention, the State may no more use social pressure to enforce orthodoxy than it may use direct means. The embarrassment and intrusion of the religious exercise cannot be refuted by arguing that the prayers are of a ''[[de minimis]]'' character, since that is an affront to the rabbi and those for whom the prayers have meaning, and since any intrusion was both real and a violation of the objectors' rights.<ref>{{cite book|author1=Louis Grumet|author2=John Caher|author3=Judith Kaye|title=Curious Case of Kiryas Joel: The Rise of a Village Theocracy and the Battle to Defend the Separation of Church and State|url=https://books.google.com/books?id=TcCzCwAAQBAJ&pg=PT141|year=2016|publisher=Chicago Review Press|pages=141–42}}</ref><ref>505 U.S. 577, Syllabus.</ref>
+
+:The principle that government may accommodate the [[Free Exercise Clause|free exercise of religion]] does not supersede the fundamental limitations imposed by '''the [[Establishment Clause]]'''. It is beyond dispute that, '''at a minimum''', the Constitution '''guarantees that government may not coerce anyone to support or participate in religion or its exercise, or otherwise act in a way which "establishes a [state] religion or religious faith, or tends to do so."'''<ref>505 U.S. at 587 (citations omitted and emphasis added).</ref>
+
+:As we have observed before, there are heightened concerns with protecting freedom of conscience from subtle coercive pressure in the elementary and secondary public schools. Our decisions in [Engel] and [Abington] recognize, among other things, that prayer exercises in public schools carry a particular risk of indirect coercion. The concern may not be limited to the context of schools, but it is most pronounced there. What to most believers may seem nothing more than a reasonable request that the nonbeliever respect their religious practices, in a school context may appear to the nonbeliever or dissenter to be an attempt to employ the machinery of the State to enforce a religious orthodoxy.<ref>505 U.S. at 592 (citations omitted).</ref>
+
+===Concurring opinions===
+
+Justice Blackmun's concurrence stressed that "our decisions have gone beyond prohibiting coercion, however, because the Court has recognized that 'the fullest possible scope of religious liberty,' entails more than freedom from coercion."<ref>505 U.S. at 606 (Blackmun, J., concurring; internal citation omitted).</ref> Blackmun emphasized that the government was without power to place its imprimatur on any religious activity, even if no one was compelled to participate in a state-sponsored religious exercise, directly or indirectly.
+
+Justice Souter devoted his concurring opinion to a historical analysis, rebutting the contention that the government could endorse nonsectarian prayers. He cited the writings of [[James Madison]] and pointed to the changing versions of the [[First Amendment to the United States Constitution|First Amendment]] that the First Congress considered, as opposed to the version which was eventually adopted. Souter, too, took issue with the school district's defense of non-coercive religious exercises, dismissing the position as without precedential authority.
+
+===Dissenting opinion===
+Justice Scalia's dissent argued against the coercion test:
+
+:In holding that the Establishment Clause prohibits invocations and benedictions at public school graduation ceremonies, the Court - with nary a mention that it is doing so - lays waste a tradition that is as old as public school graduation ceremonies themselves, and that is a component of an even more longstanding American tradition of nonsectarian prayer to God at public celebrations generally. As its instrument of destruction, the bulldozer of its social engineering, the Court invents a boundless, and boundlessly manipulable, test of psychological coercion.<ref>505 U.S. at 632 (Scalia, J., dissenting).</ref>
+
+Scalia pointed to several historical examples of calling on divine guidance by American Presidents, including Washington's proclamation of the Thanksgiving holiday in 1789 and the inaugural addresses of both Madison and [[Thomas Jefferson]]. He disputed the Court's contention that attendance at high school graduation ceremonies was effectively required as part of social norms, and also the conclusion that students were subtly coerced to stand for the rabbi's invocation. In Scalia's view, only official penalties for refusing to support or adhere to a particular religion created an Establishment Clause violation.
+
+==Subsequent developments==
+
+The coercion test is now used to determine the constitutionality of certain government actions under the Establishment Clause, along with the [[Lemon test]] and Justice O'Connor's [[Endorsement test|"endorsement or disapproval" test]]. The test "seeks to determine whether the state has applied coercive pressure on an individual to support or participate in religion."<ref>{{cite court |litigants=Doe v. Elmbrook School Dist. |vol=687 |reporter=F.3d |opinion=840 |pinpoint= |court=[[7th Cir.]] |date=2012 |url=https://www.leagle.com/decision/infco20120723121 |accessdate=2018-07-11 |quote=}}</ref>
+
+A broad reading of the Establishment Clause won out, but it seems to have its greatest current application in a public school context. The Court has ruled against the separationist position in several key funding cases since ''Lee'', including the [[school voucher]] case ''[[Zelman v. Simmons-Harris]]''.<ref>{{ussc|name=Zelman v. Simmons-Harris|link=|volume=536|page=639|pin=|year=2002}}.</ref> However, a majority of the Court continues to maintain a strict ban on most forms of state-sponsored religious exercises in schools themselves, as evidenced by the 6–3 ruling in ''[[Santa Fe Independent School District v. Doe]]'', which struck down student-led prayers before public school football games.<ref>{{ussc|name=Santa Fe Independent School District v. Doe|link=|volume=530|page=290|pin=|year=2000}}.</ref>
+
+==See also==
+* ''[[Ahlquist v. Cranston]]'' (D.R.I. 2012) a school prayer case in Cranston, Rhode Island
+* [[List of United States Supreme Court cases, volume 505]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite book |title=A People's History of the Supreme Court |last=Irons |first=P. |author-link= |year=1999 |publisher=Viking |location=New York |isbn=0-670-87006-4 |pages= |url-access=registration |url=https://archive.org/details/peopleshistoryof00iron }}
+*{{Bluebook journal | first=Michael Stokes | last=Paulsen | title=Lemon is dead | volume=43 | journal=Case W. Res. L. Rev. | page=795 | pin= | url=https://scholarlycommons.law.case.edu/caselrev/vol43/iss3/8/ | year=1992}}.
+
+==External links==
+*{{caselaw source
+ |case=''Lee v. Weisman'', {{ussc|505|577|1992|el=no}}
+ | courtlistener =https://www.courtlistener.com/opinion/112779/lee-v-weisman/
+ | findlaw=http://laws.findlaw.com/us/505/577.html 
+ | googlescholar = https://scholar.google.com/scholar_case?case=140480915250262562
+ | justia=https://supreme.justia.com/cases/federal/us/505/577/
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep505/usrep505577/usrep505577.pdf
+ | oyez =https://www.oyez.org/cases/1991/90-1014
+}}
+
+{{US1stAmendment|establishment|state=expanded}}
+
+{{DEFAULTSORT:Lee V. Weisman}}
+[[Category:Establishment Clause case law]]
+[[Category:United States Supreme Court cases]]
+[[Category:United States education case law]]
+[[Category:1992 in United States case law]]
+[[Category:1992 in religion]]
+[[Category:1992 in education]]
+[[Category:American Civil Liberties Union litigation]]
+[[Category:History of Providence, Rhode Island]]
+[[Category:Graduation]]
+[[Category:Education in Providence, Rhode Island]]
+[[Category:United States Supreme Court cases of the Rehnquist Court]]
+[[Category:Religion and education]]
+[[Category:Prayer]]

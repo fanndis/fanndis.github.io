@@ -1,0 +1,126 @@
+{{Infobox SCOTUS CJcourt| court_name = Burger Court| previous = [[Warren Court]]| next = [[Rehnquist Court]]| image = File:Warren e burger photo.jpeg| image_upright = .75| alt = | caption = [[Chief Justice of the United States|Chief Justice]] [[Warren Burger]]| start = June 23, 1969| end = September 26, 1986| duration = ({{age in years and days|1969|06|23|1986|09|26}})| location = [[United States Supreme Court Building|Supreme Court Building]]<br/>[[Washington, D.C.]]| positions = [[Judiciary Act of 1869|9]]| decisions = [[List of United States Supreme Court cases by the Burger Court|Burger Court decisions]]}}
+
+The '''Burger Court''' refers to the [[Supreme Court of the United States]] from 1969 to 1986, when [[Warren Burger]] served as [[Chief Justice of the United States]]. Burger succeeded [[Earl Warren]] as Chief Justice after the latter's retirement, and Burger served as Chief Justice until his retirement, at which point [[William Rehnquist]] was nominated and confirmed as Burger's replacement. The Burger Court is generally considered to be the last liberal court to date. It has been described as a "transitional" court, due to its transition from having the liberal rulings of the [[Warren Court]] to the conservative rulings of the [[Rehnquist Court]].<ref name="lgreenhouse1">{{cite news|last1=Greenhouse|first1=Linda|title=Warren E. Burger Is Dead at 87; Was Chief Justice for 17 Years|url=https://www.nytimes.com/1995/06/26/obituaries/warren-e-burger-is-dead-at-87-was-chief-justice-for-17-years.html?pagewanted=all|accessdate=28 February 2016|work=The New York Times|date=26 June 1995}}</ref>
+
+A symbol of the conservative "retrenchment" promised by President [[Richard Nixon]] in the [[1968 United States presidential election|1968 election]], Burger was often overshadowed by the liberal [[William J. Brennan, Jr.|William Brennan]] and the more conservative [[William Rehnquist]].<ref name="lgreenhouse1"/> The Burger Court had a less generous interpretation of the protections offered by the [[Fourth Amendment to the United States Constitution|Fourth Amendment]] and the [[Fifth Amendment to the United States Constitution|Fifth Amendment]] than those of the Warren Court, but the Burger Court did not overrule any of the major precedents set by the Warren Court.<ref name="parenella">{{cite news|last1=Arenella|first1=Peter|title=Burger Court Took a Different Road : It Let Other Goals Supplant Fairness in Individual Rights Cases|url=http://articles.latimes.com/1986-06-27/local/me-20680_1_burger-court|accessdate=28 February 2016|work=LA Times|date=27 June 1986}}</ref>
+
+==Membership==
+In 1969, President [[Richard Nixon]] appointed Warren Burger as the replacement for the retiring [[Earl Warren]]. Warren had attempted to retire in 1968, but President [[Lyndon Johnson]]'s nomination of Associate Justice [[Abe Fortas]] as Chief Justice was successfully filibustered by Senate Republicans. Fortas resigned from the court in 1969 following an ethics scandal, and Burger was easily confirmed the next month.
+
+The Burger Court thus began with Burger and seven veterans of the [[Warren Court]]: [[Hugo Black]], [[William O. Douglas]], [[John Marshall Harlan II]], [[William J. Brennan, Jr.|William Brennan]], [[Potter Stewart]], [[Byron White]], and [[Thurgood Marshall]]. Nixon attempted to fill Fortas's vacant seat, but Nixon's nominations of [[Clement Haynsworth]] and [[G. Harrold Carswell]] were both voted down by the Senate. Fortas's replacement, [[Harry Blackmun]], was finally [[Richard Nixon Supreme Court candidates|confirmed]] in 1970; the 391-day vacancy was the longest since the 1860s.<ref name="ddesilver">{{cite news|last1=Desilver|first1=Drew|title=Long Supreme Court vacancies used to be more common|url=http://www.pewresearch.org/fact-tank/2016/02/26/long-supreme-court-vacancies-used-to-be-more-common/|accessdate=3 March 2016|publisher=Pew|date=26 February 2016}}</ref> Black and Harlan both died in 1971, and Nixon replaced them with [[Lewis F. Powell, Jr.|Lewis Powell]] and [[William Rehnquist]]. In 1975, Douglas stepped down from the court, and President [[Gerald Ford]] appointed [[John Paul Stevens]] to replace him. In 1981, Stewart retired, and President [[Ronald Reagan]] appointed [[Sandra Day O'Connor]] to replace him. O'Connor was the first woman to serve on the Supreme Court.
+
+The Burger Court ended in 1986 when the chief justice retired. He was succeeded as Chief Justice by William Rehnquist, who was elevated to the position of Chief Justice by President Reagan.
+
+===Timeline===
+
+{{blockindent|
+{{#tag:timeline| 
+ImageSize = width:775 height:auto barincrement:35
+PlotArea  = top:15 bottom:30 right:30 left:7
+AlignBars = late
+DateFormat = x.y
+Period     = from:1969.47 till:1986.73
+TimeAxis   = orientation:horizontal
+ScaleMajor  = gridcolor:black unit:year increment:1 start:1970
+
+Colors =
+  id:blackline value:rgb(0.212,0.192,0.173)
+  id:blank     value:rgb(1,1,1)
+  id:FR        value:rgb(0.867,0.816,0.416)
+  id:DE        value:rgb(0,0.749,1)
+  id:JK        value:rgb(0.788,0.627,0.863)
+  id:LJ        value:rgb(0.945,0.612,0.733)
+  id:RN        value:rgb(0.188,0.835,0.784)
+  id:GF        value:rgb(0.757,0.604,0.420)
+  id:RR        value:rgb(1,0.871,0.678)
+
+PlotData=
+   width:22 textcolor:black shift:(5,-5) anchor:from fontsize:m)
+   bar:1 color:RN from:1969.47 till:1986.73 text:Warren E. Burger (1969&ndash;1986)
+   bar:2 color:FR from:1969.47 till:1971.71 text:Hugo Black (1937&ndash;1971)
+         color:blank from:1971.71 till:1973.05
+   bar:3 color:RN from:1972.02 till:1986.73 text:Lewis F. Powell (1972–1987)
+   bar:4 color:FR from:1969.47 till:1975.86 text:William O. Douglas (1939&ndash;1975)
+   bar:5 color:GF from:1975.96 till:1986.73 text:John Paul Stevens (1975&ndash;2010)
+   bar:6 color:DE from:1969.47 till:1971.72 text:John Marshall Harlan II (1955&ndash;1971)
+         color:blank from:1971.72 till:1974.70
+   bar:7 color:RN from:1972.02 till:1986.73 text:William Rehnquist (1972&ndash;2005)
+   bar:8 color:DE from:1969.47 till:1986.73 text:William J. Brennan (1956&ndash;1990)
+   bar:9 color:DE from:1969.47 till:1981.50 text:Potter Stewart (1958&ndash;1981)
+   bar:10 color:RR from:1981.73 till:1986.73 text:Sandra Day O'Connor (1981–2006)
+   bar:11 color:JK from:1969.47 till:1986.73 text:Byron White (1962&ndash;1993)
+   bar:12 color:LJ from:1969.47 till:1986.73 text:Thurgood Marshall (1967&ndash;1991)
+   bar:13 color:RN from:1970.43 till:1986.73 text:Harry Blackmun (1970&ndash;1994)
+
+Linedata=
+ at:1986.73 width:0.5 color:blackline
+}}
+
+'''Bar key''': {{smaller|{{color box|#ddd06a|{{ns|4}}}}&nbsp;F.&nbsp;Roosevelt&nbsp;appointee{{•}} {{color box|#00bfff|{{ns|4}}}}&nbsp;Eisenhower&nbsp;appointee{{•}} {{color box|#c9a0dc|{{ns|4}}}}&nbsp;Kennedy&nbsp;appointee{{•}} {{color box|#f19cbb|{{ns|4}}}}&nbsp;L.&nbsp;Johnson&nbsp;appointee{{•}} {{color box|#30d5c8|{{ns|4}}}}&nbsp;Nixon&nbsp;appointee{{•}} {{color box|#c19a6b|{{ns|4}}}}&nbsp;Ford&nbsp;appointee{{•}} {{color box|#ffdead|{{ns|4}}}}&nbsp;Reagan&nbsp;appointee}}}}
+
+==Other branches==
+Presidents during this court included [[Richard Nixon]], [[Gerald Ford]], [[Jimmy Carter]], and [[Ronald Reagan]]. Congresses during this court included [[91st United States Congress|91st]] through the [[99th United States Congress|99th]] United States Congresses.
+
+==Rulings of the Court==
+{{see also|List of United States Supreme Court cases by the Burger Court}}
+The Burger Court issued several notable rulings touching on many aspects of American life. Landmark cases of the Burger Court include:<ref name="lgreenhouse1"/><ref name="SCHS">{{cite web|title=The Burger Court, 1969-1986|url=http://supremecourthistory.org/timeline_court_burger.html|website=The Supreme Court Historical Society|accessdate=28 February 2016}}</ref>
+
+*''[[Lemon v. Kurtzman]]'' (1971): In an 8–1 decision written by Chief Justice Burger, the Court struck down a state law that allowed school superintendents to reimburse Catholic schools for the salaries of teachers. The court held that this violated the [[Establishment Clause]], and the court created the [[Lemon test]] to determine whether a law is constitutional under the Establishment Clause.
+*''[[New York Times v. United States]]'' (1971): In a 6–3, [[per curiam]] decision, the court allowed ''[[The New York Times]]'' and ''[[The Washington Post]]'' to publish the [[Pentagon Papers]]. In so doing, the court placed the concept of [[freedom of the press]] above the Nixon Administration's claimed need to keep the papers secret for national security purposes.
+*''[[Roe v. Wade]]'' (1973): In a 7–2 decision written by Justice Blackmun, the court held that the right to privacy under the [[Due Process Clause]] extended to a woman's decision to have an [[abortion]]. The opinion struck down several state restrictions on abortion, and the opinion remains a major part of an [[Abortion debate|ongoing debate]] regarding abortion.
+*''[[Miller v. California]]'' (1973): In a 5–4 decision written by Chief Justice Burger, the court laid out the [[Miller test]], which the court continues to use as a definition for [[obscene]] material. The court held that First Amendment protections extend only to non-obscene material.
+*''[[United States v. Nixon]]'' (1974): In an 8–0 decision written by Chief Justice Burger, the court rejected President Nixon's claim that [[executive privilege]] protected all communications between Nixon and his advisers. The ruling was important to the [[Watergate scandal]], and Nixon resigned weeks after the decision was delivered.
+*''[[Gregg v. Georgia]]'' (1976): In a 7–2 decision written by Justice Stewart, the court held that the [[Capital punishment in the United States|death penalty]] did not always qualify as [[cruel and unusual punishment]], which is barred by the [[Eighth Amendment to the United States Constitution|Eighth Amendment]]. The court required that the death penalty only be applied in extreme circumstances, and that any death penalty sentence be subject to appellate review
+*''[[Regents of the University of California v. Bakke]]'' (1978): No single opinion was able to win a majority of the court's vote in this case. Nonetheless, ''Bakke'' upheld the usage of [[affirmative action]] in college admissions while disallowing the use of [[racial quota]]s.
+*''[[Bob Jones University v. United States]]'' (1983): In an 8–1 decision written by Chief Justice Burger, the court allowed the [[Internal Revenue Service]] to remove the non-profit classification of [[Bob Jones University]] due to the university's policy of racial discrimination. In doing so, the court held that IRS could deny non-profit status on the basis of compelling government interests.
+
+==Judicial philosophy==
+Although Presidents Nixon, Ford, and Reagan all criticized the rulings of the Warren Court and sought to appoint conservative justices, the legacy of the Warren Court remained strong throughout the 1970s.<ref name="sgillers">{{cite news|last1=Gillers|first1=Stephen|title=BURGER'S WARREN COURT|url=https://www.nytimes.com/1983/09/25/opinion/burger-s-warren-court.html|accessdate=28 February 2016|work=The New York Times|date=25 September 1983}}</ref> The Burger Court upheld many of the precedents of the Warren Court, even in regards to [[Due Process Clause|due process]] and criminal law.<ref>{{cite journal|last1=Alschuler|first1=Albert|title=Failed Pragmatism: Reflections on the Burger Court Commentaries|journal=Harvard Law Review|date=1986|volume=100|issue=1436|url=http://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1977&context=journal_articles|accessdate=28 February 2016}}</ref> The latter era of the Warren Court was dominated by liberal justices, but the court shifted to the right early in 1969, following Nixon's appointments.<ref name="galloway">{{cite journal|last1=Galloway|first1=Russell|title=The Burger Court (1969-1986)|journal=Santa Clara Law Review|date=1 January 1987|volume=27|issue=1|url=http://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1867&context=lawreview|accessdate=28 February 2016}}</ref> Brennan and Marshall generally took liberal positions, while Stevens (after he replaced the liberal Douglas in 1975), Stewart, and White often took centrist positions, and Rehnquist, Burger, and (to a lesser extent) Powell made up the conservative bloc of the court.<ref name="galloway"/> During his time on the court, Blackmun shifted from the right towards the center, allowing liberals to claim more victories as the 1970s continued.<ref name="galloway"/> However, the conservatives on the court were strengthened in 1981 when Stewart was replaced by the more conservative O'Connor.<ref name="galloway"/> Nonetheless, Justice Brennan was often credited for winning the votes of the more centrist judges with his intellectual leadership.<ref name="sgillers"/> The large number of moderates on the court and the resulting decisions gave the court a paradoxical reputation for being both conservative and liberal.<ref name="csitomer">{{cite news|last1=Sitomer|first1=Curtis|title=Burger court: activism mixed with restraint. Court under Nixon appointee defied facile characterization|url=http://www.csmonitor.com/1986/0707/aburg.html|accessdate=29 February 2016|publisher=Christian Science Monitor|date=7 July 1986}}</ref> Although Burger was often overshadowed by the intellectual leadership of Brennan and Rehnquist, he earned a reputation as important judicial administrator who helped to create institutions such as the [[National Center for State Courts]].<ref name="lgreenhouse1"/> Burger also often questioned the need for a judicial remedy in cases; Burger was a strong believer that courts could not cure all injustices, and Burger was not reluctant to limit the [[standing (law)|standing]] of plaintiffs.<ref name="lgreenhouse1"/>
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{refbegin|2}}
+
+===Works centering on the Burger Court===
+* {{cite book |last1=Blasi |first1=Vincent |title=The Burger Court: The Counter-revolution that Wasn't |url=https://archive.org/details/burgercourtcount00blas |url-access=registration |date=1983 |publisher=Yale University Press |isbn=9780300036206}}
+* {{cite book |last1=Graetz |first1=Michael J. |last2=Greenhouse |first2=Linda |title=The Burger Court and the Rise of the Judicial Right |date=2017 |publisher=Simon and Schuster |isbn=9781476732510}}
+* {{cite book |last1=Lamb |first1=Charles M. |title=The Burger Court: Political and Judicial Profiles |date=1991 |publisher=University of Illinois Press |isbn=9780252061356}}
+* {{cite book |last1=Maltz |first1=Earl M. |title=The Chief Justiceship of Warren Burger, 1969-1986 |date=2000 |publisher=University of South Carolina Press |isbn=9781570033353}}
+* {{cite book |last1=Schwartz |first1=Bernard |title=The Burger Court: Counter-Revolution or Confirmation? |url=https://archive.org/details/burgercourtcount00schw |url-access=registration |date=1998 |publisher=Oxford University Press |isbn=9780195352733}}
+* {{cite book |last1=Yarbrough |first1=Tinsley E. |title=The Burger Court: Justices, Rulings, and Legacy |date=2000 |publisher=ABC-CLIO |isbn=9781576071793}}
+
+===Works centering on Burger Court justices===
+
+* {{citation |last1=Barnhart|first1=Bill |last2=Schlickman |first2=Gene |title=John Paul Stevens: An Independent Life |publisher=Northern Illinois University Press |year=2010 |isbn=978-0-87580-419-4 }}
+* {{citation |last=Greenhouse |first=Linda |authorlink=Linda Greenhouse |isbn=0805080570 |title=Becoming Justice Blackmun: Harry Blackmun's Supreme Court Journey |year=2005 |publisher=Times Books |url=https://archive.org/details/becomingjusticeb00gree }}
+* {{cite book |last1=Hirshman |first1=Linda |title=Sisters in Law: How Sandra Day O'Connor and Ruth Bader Ginsburg Went to the Supreme Court and Changed the World |date=2015 |publisher=HarperCollins |isbn=9780062238481}}
+* {{cite book |last1=Hutchinson |first1=Dennis J. |title=The Man who Once was Whizzer White: A Portrait of Justice Byron R. White |date=1998 |publisher=Free Press |isbn=9780684827940 |url=https://archive.org/details/manwhooncewaswhi00hutc }}
+* {{cite book |last1=Jeffries |first1=John Calvin |title=Justice Lewis F. Powell, Jr |date=2001 |publisher=Fordham University Press |isbn=9780823221103}}
+* {{cite book |last1=Jenkins |first1=John A. |title=The Partisan: The Life of William Rehnquist |date=2012 |publisher=PublicAffairs |isbn=9781586488871}}
+* {{cite book |last1=Murphy |first1=Bruce Allen |title=Wild Bill: The Legend and Life of William O. Douglas |date=2003 |publisher=Random House |isbn=9780394576282 |url=https://archive.org/details/wildbilllegendan00murp }}
+* {{cite book |last1=Stern |first1=Seth |last2=Wermiel |first2=Stephen |title=Justice Brennan: Liberal Champion |date=2010 |publisher=Houghton Mifflin Harcourt |isbn=9780547523897}}
+* {{cite book |last1=Williams |first1=Juan |title=Thurgood Marshall: American Revolutionary |date=2011 |publisher=Crown/Archetype |isbn=9780307786128}}
+
+===Other relevant works===
+
+* {{cite book|last1=Abraham|first1=Henry Julian|title=Justices, Presidents, and Senators: A History of the U.S. Supreme Court Appointments from Washington to Bush II|date=2008|publisher=Rowman & Littlefield|isbn=9780742558953}}
+* {{cite book |last=Cushman |first=Clare |title=The Supreme Court Justices: Illustrated Biographies, 1789–1995 |edition=2nd |publisher=(Supreme Court Historical Society, [[Congressional Quarterly]] Books) |year=2001 |isbn=1-56802-126-7}}
+* {{cite book |editor-last=Friedman |editor-first=Leon |editor2-last=Israel |editor2-first=Fred L. |title=The Justices of the United States Supreme Court: Their Lives and Major Opinions |publisher=[[Chelsea House]] Publishers |year=1995 |isbn=0-7910-1377-4 |url=https://archive.org/details/justicesofunited0000unse }}
+* {{cite book |editor1-last=Hall |editor1-first=Kermit L. |editor2-last=Ely, Jr. |editor2-first=James W. |editor3-last=Grossman |editor3-first=Joel B. |title=The Oxford Companion to the Supreme Court of the United States |date=2005 |publisher=Oxford University Press |edition=2nd |isbn=9780195176612}}
+* {{cite book |editor1-last=Hall |editor1-first=Kermit L. |editor2-last=Ely, Jr. |editor2-first=James W. |title=The Oxford Guide to United States Supreme Court Decisions |date=2009 |publisher=Oxford University Press |edition=2nd |isbn=978-0195379396}}
+* {{cite book |last1=Hall |first1=Timothy L. |title=Supreme Court Justices: A Biographical Dictionary |date=2001 |publisher=Infobase Publishing |isbn=9781438108179}}
+* {{cite book |last1=Hoffer |first1=Peter Charles |last2=Hoffer |first2=WilliamJames Hull |last3=Hull |first3=N. E. H. |title=The Supreme Court: An Essential History |date=2018 |publisher=University Press of Kansas |edition=2nd |isbn=978-0-7006-2681-6}}
+* {{cite book |last1=Irons |first1=Peter |title=A People's History of the Supreme Court: The Men and Women Whose Cases and Decisions Have Shaped Our Constitution |url=https://archive.org/details/peopleshistoryof00iron_0 |url-access=registration |date=2006 |publisher=Penguin |isbn=9781101503133 |edition=Revised}}
+* {{cite book |last=Martin |first=Fenton S. |author2=Goehlert, Robert U. |title=The U.S. Supreme Court: A Bibliography |publisher=Congressional Quarterly Books |year=1990 |isbn=0-87187-554-3 |url=https://archive.org/details/ussupremecourtbi0000mart }}
+* {{cite book |last1=Schwarz |first1=Bernard |title=A History of the Supreme Court |date=1995 |publisher=Oxford University Press |isbn=9780195093872 |url=https://archive.org/details/historyofsupreme00schw_0 }}
+* {{cite book |editor1-last=Tomlins |editor1-first=Christopher |title=The United States Supreme Court: The Pursuit of Justice |publisher=Houghton Mifflin Harcourt |date=2005 |isbn=978-0618329694 |url=https://archive.org/details/unitedstatessupr00toml }}
+* {{cite book |last=Urofsky |first=Melvin I. |title=The Supreme Court Justices: A Biographical Dictionary |publisher=Garland Publishing |year=1994 |isbn=0-8153-1176-1 |url=https://archive.org/details/supremecourtjust00melv }}
+{{refend}}
+
+{{SCOTUS Justices|chiefjustices}}
+{{SCOTUS horizontal}}
+
+[[Category:1970s in the United States]]
+[[Category:United States Supreme Court history by court]]

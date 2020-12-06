@@ -1,0 +1,1391 @@
+{{short description|River in the Mid-Atlantic United States}}
+{{Use mdy dates|date=March 2019}}
+{{Infobox river
+| name               = Potomac River
+| name_native        = Patawomeck
+| name_native_lang   = 
+| name_other         = 
+| name_etymology     = 
+<!---------------------- IMAGE & MAP -->
+| image              = File:Great Falls of the Potomac River - NPS.jpg
+| image_size         = 300
+| image_caption      = [[Great Falls (Potomac River)|Great Falls of the Potomac River]]
+
+<br />[[File:AHR-logo.png|150px|link=https://en.wikipedia.org/wiki/American_Heritage_Rivers|alt=President [[Bill Clinton]] designated the Potomac as one of the [[American Heritage Rivers]] in 1998]]<ref>{{cite web |title=President Clinton: Celebrating America's Rivers |work=American Heritage Rivers |date=July 30, 1998 |url=http://clinton2.nara.gov/CEQ/Rivers/ |access-date=February 5, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140428045708/http://clinton2.nara.gov/CEQ/Rivers/ |archive-date=April 28, 2014 |df=mdy-all }}</ref>
+| map                = Potomacwatershedmap.png
+| map_size           = 300
+| map_caption        = The Potomac River watershed covers the District of Columbia and parts of four states
+| pushpin_map        = 
+| pushpin_map_size   = 300
+| pushpin_map_caption= 
+<!---------------------- LOCATION -->
+| subdivision_type1  = Country
+| subdivision_name1  = [[United States]]
+| subdivision_type2  = State
+| subdivision_name2  = [[West Virginia]], [[Maryland]], [[Virginia]], [[District of Columbia]]
+| subdivision_type3  = 
+| subdivision_name3  = 
+| subdivision_type4  = 
+| subdivision_name4  = 
+| subdivision_type5  = Cities
+| subdivision_name5  = [[Cumberland, Maryland|Cumberland, MD]], [[Harpers Ferry, West Virginia|Harpers Ferry, WV]], [[Washington, D.C.]], [[Alexandria, Virginia|Alexandria, VA]]
+<!---------------------- PHYSICAL CHARACTERISTICS -->
+| length             = {{convert|405|mi|km|abbr=on}} 
+| width_min          = 
+| width_avg          = 
+| width_max          = 
+| depth_min          = 
+| depth_avg          = 
+| depth_max          = 
+| discharge1_location= [[Little Falls (Potomac River)|Little Falls]], near Washington, D.C. (non-tidal; water years: 1931–2018)<ref name="USGS-WYS">{{cite web |url=https://nwis.waterdata.usgs.gov/nwis/annual/?referred_module=sw&amp;site_no=01646500&amp;por_01646500_68478=1382484,00060,68478,1930,2019&amp;year_type=W&amp;format=html_table&amp;date_format=YYYY-MM-DD&amp;rdb_compression=file&amp;submitted_form=parameter_selection_list |title=USGS 01646500 POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA |author=<!--Not stated--> |date=2019 |website=nwis.waterdata.usgs.gov |publisher= National Weather Service (NOAA) |access-date=23 March 2019}}</ref>
+| discharge1_min     = {{convert|4,017|cuft/s|m3/s|abbr=on}} (2002)
+| discharge1_avg     = {{convert|11498|cuft/s|m3/s|abbr=on}} (1931–2018)
+| discharge1_max     = {{convert|23,760|cuft/s|m3/s|abbr=on}} (1996)
+| discharge2_location= [[Point of Rocks, Maryland]]
+| discharge2_min     = 
+| discharge2_avg     = {{convert|9504|cuft/s|m3/s|abbr=on}}
+| discharge2_max     = 
+| discharge3_location= [[Hancock, Maryland]]
+| discharge3_min     =  
+| discharge3_avg     = {{convert|4168|cuft/s|m3/s|abbr=on}}
+| discharge3_max     = 
+| discharge4_location= [[Paw Paw, West Virginia]]
+| discharge4_min     =  
+| discharge4_avg     = {{convert|3376|cuft/s|m3/s|abbr=on}}
+| discharge4_max     = 
+<!---------------------- BASIN FEATURES -->
+| source1            = [[Fairfax Stone]]
+| source1_location   = [[Preston County, West Virginia|Preston County]], [[West Virginia]], [[United States]]
+| source1_coordinates= {{coord|39|11|43|N|79|29|28|W|display=inline}}
+| source1_elevation  = {{convert|3060|ft|abbr=on}}
+| mouth              = [[Chesapeake Bay]]
+| mouth_location     = [[St. Mary's County, Maryland]]/[[Northumberland County, Virginia]], [[United States]]
+| mouth_coordinates  = {{coord|37|59|57|N|76|14|59|W|display=inline,title}}
+| mouth_elevation    = {{convert|0|ft|abbr=on}}
+| progression        = 
+| waterfalls         = 
+| river_system       = 
+| basin_size         = {{convert|14700|sqmi|abbr=on}}
+| tributaries_left   = [[Conococheague Creek]], [[Antietam Creek]], [[Monocacy River]], [[Rock Creek (Potomac River)|Rock Creek]], [[Anacostia River]]
+| tributaries_right  = [[Cacapon River]], [[Shenandoah River]], [[Goose Creek (Potomac River)|Goose Creek]], [[Occoquan River]], [[Wicomico River (Potomac River)|Wicomico River]]
+| custom_label       = 
+| custom_data        = 
+| extra              =  ------------------------------------------------------------------<br>'''Note:''' Since 1996, the Potomac has been the 'sister river' of the [[Arakawa River (Kantō)|Ara River]] of [[Tokyo, Japan]]<ref name=Potomac>{{cite web|url=http://www.potomacriver.org/2012/component/content/article/39-facts-faqs/facts-faqs/92-arakawa |title=(Arakawa - Potomac sister rivers) |date=January 27, 2012 |publisher=Interstate Commission on the Potomac River Basin |access-date=September 23, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20131227155451/http://www.potomacriver.org/2012/component/content/article/39-facts-faqs/facts-faqs/92-arakawa |archive-date=December 27, 2013 }}</ref>
+}}
+
+The '''Potomac River''' ({{IPAc-en|audio=GT Potomac.ogg|p|ə|ˈ|t|oʊ|m|ə|k}}) is found within the [[Mid-Atlantic (United States)|Mid-Atlantic]] region of the [[United States]] and flows from the [[Potomac Highlands of West Virginia|Potomac Highlands]] into the [[Chesapeake Bay]]. The [[river]] (main stem and North Branch) is approximately {{convert|405|mi}} long,<ref name=NHD>U.S. Geological Survey. National Hydrography Dataset high-resolution flowline data. [http://viewer.nationalmap.gov/viewer/ The National Map] {{webarchive|url=https://web.archive.org/web/20120329155652/http://viewer.nationalmap.gov/viewer/ |date=March 29, 2012 }}. Retrieved August 15, 2011</ref> with a [[Drainage basin|drainage area]] of about 14,700 square miles (38,000&nbsp;km<sup>2</sup>).<ref name="basin-facts">{{cite web
+ |publisher=Interstate Commission on the Potomac River Basin (ICPRB), Rockville, MD
+ |title=Facts & FAQs
+ |date=September 16, 2009
+ |url=http://www.potomacriver.org/cms/index.php?option=com_content&view=article&id=70&Itemid=57
+ |access-date=2010-02-05
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20100115144016/http://www.potomacriver.org/cms/index.php?option=com_content&view=article&id=70&Itemid=57
+ |archive-date=January 15, 2010
+ }}</ref> In terms of area, this makes the Potomac River the fourth largest river along the Atlantic coast of the United States and the 21st largest in the United States. Over 5 million people live within the Potomac [[drainage basin|watershed]].<!-- see talk page -->
+
+The river forms part of the borders between [[Maryland]] and [[Washington, D.C.]], on the left descending bank and [[West Virginia]] and [[Virginia]] on the river's right descending bank. The majority of the lower Potomac River is part of Maryland. Exceptions include a small tidal portion within the District of Columbia, and the border with Virginia being delineated from "point to point" (thus various bays and shoreline indentations lie in Virginia).  Except for a small portion of its headwaters in West Virginia, the [[#North Branch Potomac River|North Branch Potomac River]] is considered part of Maryland to the low water mark on the opposite bank. The [[South Branch Potomac River]] lies completely within the state of West Virginia except for its [[headwaters]], which lie in Virginia.
+
+{{anchor|watershed|Potomac River Watershed|Potomac River watershed}}<!-- redirect to section targets -->
+
+{{TOC limit|3}}
+
+==Course==
+[[File:Potomac River in District of Columbia IMG 4720.JPG|250px|thumb|The Potomac River in [[Washington, D.C.]], with [[Arlington Memorial Bridge]] in the foreground and [[Rosslyn, Arlington, Virginia]] in the background|right]]
+The Potomac River runs {{convert|405|mi}} from [[Fairfax Stone Historical Monument State Park]] in West Virginia on the [[Allegheny Plateau]] to [[Point Lookout, Maryland|Point Lookout]], Maryland, and drains {{convert|14679|sqmi|km2}}. The length of the river from the junction of its North and South Branches to Point Lookout is {{convert|302|mi}}.<ref name=NHD/> The average daily flow during the [[water year]]s 1931–2018 was {{convert|11,498|cuft|m3}}&nbsp;/s.<ref name="USGS-WYS" /> The highest average daily flow ever recorded on the Potomac at [[Little Falls (Potomac River)|Little Falls, Maryland]] (near Washington, D.C.), was in March 1936 when it reached {{convert|426,000|cuft|m3}}&nbsp;/s.<ref name="USGS-WYS" /> The lowest average daily flow ever recorded at the same location was {{convert|601.0|cuft|m3}}&nbsp;/s in September 1966<ref name="USGS-WYS" /> The highest crest of the Potomac ever registered at Little Falls was 28.10&nbsp;ft, on March 19, 1936;<ref>{{cite web |url= https://water.weather.gov/ahps2/crests.php?wfo=lwx&gage=brkm2&crest_type=historic
+ |title=Historic Crests for Potomac near Washington, DC (Little Falls) |author=<!--Not stated--> |date=2019 |website= water.weather.gov/ahps/ |publisher= National Weather Service (NOAA)|access-date=23 March 2019}}</ref><ref name="1936Flood">{{cite web
+ |url=https://www.weather.gov/lwx/1936Flood
+ |title=1936 Flood Retrospective: The Flood of March 17-19 1936
+ |author=<!--Not stated-->
+ |date=16 March 2016
+ |website=weather.gov
+ |publisher=NWS
+ |access-date=26 March 2019
+ }}</ref>
+however, the most damaging flood to affect Washington, DC and its metropolitan area was that of October 1942.<ref name="1942Flood">
+{{cite web |url=https://www.history.com/news/worst-flood-washington-dc-world-war-ii-fdr |title=World War II-Era Flood Was the Worst in D.C.'s History |last=Little |first=Becky |date=14 September 2018 |website=www.history.com |publisher=A&E Television Networks, LLC |access-date=23 March 2019}}</ref>
+
+[[File:Physiographic provinces of the Mid-Atlantic region by NPS.png|thumb|left|Map showing the five geological provinces through which the Potomac River flows <ref name="NPS-PH">{{cite web|url=https://www.nps.gov/pohe/learn/nature/geology.htm |title=Geology of Potomac Heritage National Scenic Trail |date=2019 |website=Potomac Heritage |publisher=NPS |access-date=25 March 2019}}</ref>]]
+[[File:PR sub-basins with tributary names.jpg|thumb|Major sub-basins and cities of the Potomac River basin<ref>{{cite web |url=http://www.potomacriver.org/wp-content/uploads/2015/07/NAJ_01_Chap1.pdf
+ |title=The Potomac River Basin and its Estuary: Landscape Loadings and Water Quality Trends, 1895 – 2005  |last=Jaworski|first=Norbert A.|date=20 July 2015 |website= www.potomacriver.org  |publisher=Interstate Commission on the Potomac River Basin(ICPRB) |access-date=30 March 2019}}</ref>]]
+
+The river has two sources. The source of the North Branch is at the Fairfax Stone located at the junction of [[Grant County, West Virginia|Grant]], [[Tucker County, West Virginia|Tucker]], and [[Preston County, West Virginia|Preston]] counties in [[West Virginia]]. The source of the South Branch is located near [[Hightown, Virginia|Hightown]] in northern [[Highland County, Virginia|Highland County]], Virginia. The river's two branches converge just east of [[Green Spring, West Virginia|Green Spring]] in [[Hampshire County, West Virginia|Hampshire County]], West Virginia, to form the Potomac. As it flows from its [[River source|headwaters]] down to the Chesapeake Bay, the Potomac traverses five geological provinces: the [[Appalachian Plateau]], the [[Ridge and Valley]], the [[Blue Ridge Mountains|Blue Ridge]], the [[Piedmont Plateau]], and the [[Atlantic coastal plain]].
+
+Once the Potomac drops from the [[Piedmont (United States)|Piedmont]] to the [[Coastal Plain]] at the [[Atlantic Seaboard fall line]] at [[Little Falls (Potomac River)|Little Falls]], [[tides]] further influence the river as it passes through Washington, D.C. and beyond. [[Salinity]] in the [[#cnote PES|Potomac River Estuary]] increases thereafter with distance downstream. The [[estuary]] also widens, reaching 11 statute miles (17&nbsp;km) wide at its mouth, between Point Lookout, Maryland, and [[Smith Point Light|Smith Point]], Virginia, before flowing into the Chesapeake Bay.
+{| class="wikitable" style="border:2px solid white; margin:auto; background:white;"
+|{{Potomac River routemap}}|}
+
+==History==
+[[File:Detail of 1608 Smith Map showing the Patawomeck River.jpg|thumb|left|In 1608, Captain John Smith explored the river now known as the Potomac and made drawings of his observations which were later compiled into a map and published in London in 1612. This detail from that map shows his rendition of the river that the local tribes had told him was called the "Patawomeck".]]
+"Potomac" is a European spelling of ''[[Patawomeck]]'', the [[Algonquian languages|Algonquian]] name of a Native American village on its southern bank.<ref name="Bright2004">{{cite book|last=Bright|first=William|author-link=William Bright|title=Native American Placenames of the United States|url=https://books.google.com/books?id=5XfxzCm1qa4C&pg=PA396|year=2004|publisher=University of Oklahoma Press|isbn=978-0-8061-3598-4|page=396|url-status=live|archive-url=https://web.archive.org/web/20160511135133/https://books.google.com/books?id=5XfxzCm1qa4C&pg=PA396|archive-date=May 11, 2016}}</ref> Native Americans had different names for different parts of the river, calling the river above [[Great Falls (Potomac River)|Great Falls]] ''Cohongarooton'', meaning "honking geese"<ref>''Legends of Loudoun: An account of the history and homes of a border county of Virginia's Northern Neck'', Harrison Williams, p. 26.</ref><ref name="Achenbach2004">{{cite book| last=Achenbach| first=Joel| title=The Grand Idea: George Washington's Potomac and the Race to the West| url=https://archive.org/details/grandideageorgew00ache| url-access=registration| year=2004| publisher=Simon and Schuster| isbn=978-0-684-84857-0| pages=[https://archive.org/details/grandideageorgew00ache/page/35 35]–36}}</ref> and "Patawomke" below the Falls, meaning "river of swans".<ref>Hagemann, James A. (1988). The Heritage of Virginia. The Donning Company, 2nd edition, 297 p. {{ISBN|0-89865-255-3}}.</ref> The spelling of the name has taken many forms over the years from "[[Patawomeck]]" (as on [[John Smith (explorer)|Captain John Smith]]'s map) to "Patomake", "Patowmack", and numerous other variations in the 18th century and now "Potomac".<ref name="Achenbach2004"/> The river's name was officially decided upon as "Potomac" by the [[Board on Geographic Names]] in 1931.<ref>{{Cite GNIS| 597915 |Potomac River}}</ref>
+[[File:Tundra swans (6565983429).jpg|thumb|[[Tundra swan]]s were the predominant species of swan on the Potomac River when the [[Algonquian peoples|Algonquian tribes]] dwelled along its shores, and continue to be the most populous variety today.<ref>{{cite web |url=http://cbmm.org/news/chesapeake-swan-song-exhibition-opens-april-11-at-cbmm/ |title=Chesapeake Swan Song exhibition opens April 11 at CBMM |author=<!--Not stated--> |date=January 26, 2015 |publisher=Chesapeake Bay Maritime Museum |archive-url=https://archive.today/20180228140642/http://cbmm.org/news/chesapeake-swan-song-exhibition-opens-april-11-at-cbmm/ |archive-date=February 28, 2018 |url-status=live |access-date=February 28, 2018 |df=mdy-all }}</ref>]] The similarity of the name to the Ancient Greek word for river, ''potamos'', has been noted for more than two centuries but it appears due to chance.<ref name="Jefferson1814">{{cite book|last=Jefferson|first=Thomas|author-link=Thomas Jefferson|title=The Proceedings of the Government of the United States, in Maintaining the Public Right to the Beach of the Missisipi: Adjacent to New-Orleans, Against the Intrusion of Edward Livingston|url=https://books.google.com/books?id=Mpc0AQAAMAAJ&pg=PA200|year=1814|publisher=Edward J. Coale|pages=200–|quote= I have heard of an etymologist who derived the name of the river Potomac from the Greek Potamos. This derivation is quite as probable as that of beach from beotian; being founded on a much greater similarity of sound, as well as analogy of sense.}}</ref><ref name="CampbellSherman2014">{{cite book|last1=Campbell|first1=Douglas E.|last2=Sherman|first2=Thomas B.|title=On the Potomac River|url=https://books.google.com/books?id=Z4URBwAAQBAJ&pg=PA3|date=25 July 2014|isbn=978-1-304-69872-8|pages=3–}}</ref><ref name="SorensonRaish1996">{{cite book|last1=Sorenson|first1=John L.|last2=Raish|first2=Martin|title=Pre-Columbian Contact with the Americas Across the Oceans: An Annotated Bibliography|url=https://books.google.com/books?id=6o_fAAAAMAAJ|year=1996|publisher=Research Press|isbn=978-0-934893-23-7|page=146}}</ref>
+
+The river itself is at least 3.5 million years old,<ref name="NPS-PH" /> likely extending back ten to twenty million years before present when the Atlantic Ocean lowered and exposed coastal sediments along the fall line. This included the area at Great Falls, which eroded into its present form during recent glaciation periods.<ref name=USGS>{{cite web| title=The River and the Rocks: The Geologic Story of Great Falls and the Potomac River Gorge| last=Reed| first=John Calvin| url=https://pubs.usgs.gov/bul/1471/report.pdf| website=pubs.usgs.gov|  publisher=USGS| access-date= 24 March 2019}}</ref>
+{| class="wikitable mw-collapsible mw-collapsed" style="margin:auto;"
+|+ style="min-width: 20em;" | Major Tributaries of the Potomac River and Area Drained
+|-
+! scope="col" | Name of Tributary
+! scope="col" | Drainage Area (km<sup>2</sup>; mi<sup>2</sup>)
+|-
+| colspan="2" style="background: #F0FFFF; text-align:center;" | Upper Basin
+|-
+| North Branch           || style="text-align:right;" | {{convert|2,266|km|mi|abbr=on}}
+|-
+| South Branch           || style="text-align:right;" | {{convert|3,756|km|mi|abbr=on}}
+|-
+| [[Cacapon River]]      || style="text-align:right;" | {{convert|677|km|mi|abbr=on}}
+|-
+|[[Conococheague Creek]] || style="text-align:right;" | {{convert|469|km|mi|abbr=on}}
+|-
+|[[Antietam Creek]]      || style="text-align:right;" | {{convert|283|km|mi|abbr=on}}
+|-
+|[[Opequon Creek]]       || style="text-align:right;" | {{convert|309|km|mi|abbr=on}}
+|-
+|[[Shenandoah River]]    || style="text-align:right;" | {{convert|3,012|km|mi|abbr=on}}
+|-
+|[[Monocacy River]]      || style="text-align:right;" | {{convert|813|km|mi|abbr=on}}
+|-
+| colspan="2" style="background: #F0FFFF; text-align:center;" | Lower Basin
+|-
+| [[Rock Creek (Potomac River)|Rock Creek]]    || style="text-align:right;" | {{convert|210|km|mi|abbr=on}}
+|-
+| [[Anacostia River]]    || style="text-align:right;" | {{convert|418|km|mi|abbr=on}}
+|-
+| [[Piscataway Creek]]   || style="text-align:right;" | {{convert|163|km|mi|abbr=on}}
+|-
+| [[Occoquan River]]     || style="text-align:right;" | {{convert|1,614|km|mi|abbr=on}}
+|-
+| [[Mattawoman Creek]]   || style="text-align:right;" | {{convert|203|km|mi|abbr=on}}
+|-
+| [[Wicomico River (Potomac River)|Wicomico River]]   || style="text-align:right;" | {{convert|467|km|mi|abbr=on}}
+|-
+| colspan="2" style="text-align:center;" |<small>Based on data provided by the [[ICPRB]]</small>
+|-
+|}
+The Potomac River brings together a variety of cultures throughout the watershed from the coal miners of upstream West Virginia to the urban residents of the nation's capital and, along the lower Potomac, the watermen of Virginia's Northern Neck.
+[[File:View of the Potomac River - George Washington Birthplace National Monument - Stierch - B.jpg|thumb|View of the Potomac River from [[George Washington Birthplace National Monument|George Washington's birthplace]] in [[Westmoreland County, Virginia|Westmoreland County]], [[Virginia]] ]]
+[[File:Sunset over the Potomac River 22 Jan 2019.jpg|thumb|Sunset over the Potomac near [[Mount Vernon]] ]]
+
+{{multiple image
+| direction = vertical|total_width=250|align=left|background color=#EEEEEE
+| header_background = 
+| header_align      = center   
+| header            = Civil War Era
+| image1 = Conferderate army crossing the Potomac River during the invasion of Maryland.jpg
+| image2 = Defense of Washington - 6 views- 2 views of Chain Bridge, Pimmitt Run Bridge (small bridge near Chain Bridge), Block House for defense of Aqueduct Bridge, and Georgetown Ferry LCCN2003670507.jpg
+| image3 = PR Chain Bridge Lower Battery ca 1862 LOC.jpg
+| caption1 = Confederate troops crossing the fords of the Potomac in early September 1862 for the invasion of Maryland, which would culminate in the [[Battle of Antietam]]. (Print of a wood carving based on a drawing by [[Thomas Nast]]; first published in the September 27, 1862 edition of [[Harper's Weekly]].)
+| caption2 = Union defenses along the Potomac near Washington, DC <br>Top row: Chain Bridge (two views) and Pimmit Run Bridge; Bottom Row: Aqueduct Bridget {two views) and Georgetown Ferry
+| caption3 = Union soldiers manning the Lower Battery at the north end of Chain Bridge in 1862.
+}}
+Being situated in an area rich in [[American history]] and American heritage has led to the Potomac being nicknamed "the Nation's River." [[George Washington]], the first [[President of the United States]], was born in, surveyed, and spent most of his life within, the Potomac basin. All of Washington, D.C., the nation's [[capital city]], also lies within the watershed. The 1859 siege of [[Harpers Ferry, West Virginia|Harper's Ferry]] at the river's [[confluence]] with the [[Shenandoah River|Shenandoah]] was a precursor to numerous epic battles of the [[American Civil War]] in and around the Potomac and its tributaries, such as the 1861 [[Battle of Ball's Bluff]] and the 1862 [[Battle of Shepherdstown]]. [[File:Map of the Potomac River ~1862 by Sneden LOC.jpg|thumb|right|Map of the Potomac River and its environs circa 1862 by [[Robert Knox Sneden]].]]General [[Robert E. Lee]] crossed the river, thereby invading the North and threatening Washington, D.C., twice in campaigns climaxing in the battles of [[Battle of Antietam|Antietam]] (September 17, 1862) and [[Battle of Gettysburg|Gettysburg]] (July 1–3, 1863). Confederate General [[Jubal Early]] crossed the river in July 1864 on his attempted raid on the nation's capital. The river not only divided the Union from the Confederacy, but also gave name to the Union's largest army, the [[Army of the Potomac]].<ref>{{cite book|last=Peck|first=Garrett|title=The Potomac River: A History and Guide|year=2012|publisher=The History Press|location=Charleston, SC|isbn=978-1-60949-600-5|page=18}}</ref>
+
+The [[Patowmack Canal]] was intended by George Washington to connect the [[Tidewater region of Virginia|Tidewater region]] near [[Georgetown, District of Columbia|Georgetown]] with [[Cumberland, Maryland|Cumberland]], Maryland. Started in 1785 on the Virginia side of the river, it was not completed until 1802. Financial troubles led to the closure of the [[canal]] in 1830. The [[Chesapeake and Ohio Canal]] operated along the banks of the Potomac in Maryland from 1831 to 1924 and also connected Cumberland to Washington, D.C.<ref>{{cite book |title=The Chesapeake & Ohio Canal: Pathway to the Nation's Capital |last=Hahn |first=Thomas |year=1984 |publisher=Scarecrow Press |location=Metuchen, NJ |isbn=0-8108-1732-2 }}</ref> This allowed freight to be transported around the [[rapids]] known as the [[Great Falls of the Potomac River]], as well as many other, smaller rapids.
+
+Washington, D.C. began using the Potomac as its principal source of [[drinking water]] with the opening of the [[Washington Aqueduct]] in 1864, using a [[water intake]] constructed at Great Falls.<ref name="Ways">Ways, Harry C. (1996). ''The Washington Aqueduct: 1852-1992.'' (Baltimore, MD: U.S. Army Corps of Engineers, Baltimore District)</ref><ref>[[#cnote AQU|Washington Aqueduct]]</ref>
+
+==Water supply and water quality==
+An average of approximately {{convert|486|e6USgal|m3}} of water is [[#cnote AQU|withdrawn daily from the Potomac in the Washington area]] for [[water supply]], providing about 78 percent of the region's total water usage, this amount includes approximately 80 percent of the drinking water consumed by the region's estimated 6.1 million residents.<ref name="basin-facts"/><ref>{{cite web |url=https://www.census.gov/content/dam/Census/newsroom/releases/2016/cb16-cn43_table_6.pdf |title= The 10 Most Populous Metro Areas : July 1, 2015|date=July 2015 |website=www.census.gov|publisher=US Census Bureau |access-date=April 9, 2019}}</ref>
+
+[[File:The Potomac River surges over Chain Bridge during 1936 Flood 19 March 1936.jpg|thumb|The Potomac River surges over the deck of [[Chain Bridge (Potomac River)|Chain Bridge]] during the [[Pittsburgh Flood of 1936#Effects in other areas|historic 1936 flood]]. The bridge was so severely damaged by the raging water, and the debris it carried, that its superstructure had to be re-built; the new bridge was opened to traffic in 1939. (This photograph was taken from a vantage point on [[Virginia State Route 120|Glebe Road]] in Arlington County, Virginia.  The houses on the bluffs in the background are located on the [[The Palisades, Washington, D.C.|Potomac Palisades]] of Washington, DC.)]]
+
+As a result of damaging floods in 1936 and 1937,<ref name="1936Flood" /> the [[United States Army Corps of Engineers|Army Corps of Engineers]] proposed the [[Potomac River basin reservoir projects]], a series of dams that were intended to regulate the river and to provide a more reliable water supply. One dam was to be built at Little Falls, just north of Washington, backing its pool up to Great Falls. Just above Great Falls, the much larger [[Seneca Dam]] was proposed whose reservoir would extend to Harpers Ferry.<ref name="ffls1">{{cite news| url=https://news.google.com/newspapers?nid=1298&dat=19631204&id=cuQPAAAAIBAJ&sjid=sYsDAAAAIBAJ&pg=5587,5390295| title=Potomac Dam Is Opposed By Virginians| last=Carey| first=Frank| date=December 4, 1963| publisher=Fredericksburg Free-Lance Star| access-date=2009-11-13}}</ref> Several other dams were proposed for the Potomac and its tributaries.
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed" style="margin:auto;"
+!  style="border-width:4px; background: #F0FFFF;"|Dams on the Potomac River&nbsp;
+|-
+|
+<blockquote>
+'''Operational'''
+* [[Little Falls Dam (Potomac River)]] aka Brookmont Dam (at C&O Canal milepost 5.6, upstream of Chain Bridge)
+* [[Washington Aqueduct|Potomac Aqueduct Dam]] (at C&O Canal milepost 17.5, upstream of Great Falls)
+* [[Power Plant and Dam No. 4|C&O Feeder Dam No. 4]] (at C&O Canal milepost 84, downstream of Williamsport, MD)
+* [[Power Plant and Dam No. 5 (Potomac River)|Honeywood Dam]] aka C&O Feeder Dam No. 5 (at C&O Canal milepost 106, upstream of Williamsport, MD)
+* [[Cumberland Dam]] aka Feeder Dam No. 8 (on North Branch of Potomac River, 40 miles downstream of Fairfax Stone)
+* [[Jennings Randolph Lake|Jennings Randolph Dam]] (on North Branch of the Potomac River, 27 miles downstream of Fairfax Stone)
+
+'''Non-Operational'''
+* [https://www.canaltrust.org/discoverypoi/feeder-dam-1/ C&O Feeder Dam No. 1] (C&O Canal milepost  5.6, upstream of Chain Bridge near Lock 6; associated with  [[Patowmack Canal#Little Falls Canal|Little Falls Skirting Canal]] [http://www.riverexplorer.com/details.php?id=531] )
+* [http://www.riverexplorer.com/details.php?id=615 Seneca Dam] aka C&O Feeder Dam No. 2 (at C&O Canal milepost 22, near Violette's Lock)
+* [http://www.riverexplorer.com/details.php?id=1304 Armory Dam] aka C&O Feeder Dam No. 3 (at C&O Canal milepost 62, upstream of Harpers Ferry, WV)<ref>{{cite web
+ |url= http://www.candocanal.org/articles/engineering-Dam3-HF.pdf
+ |title= Canal Engineering from Dam 3 to Harpers Ferry
+ |last=Grey
+ |first=Karen
+ |date=March 2018
+ |website=candocanal.org
+ |publisher='Along the Towpath', C&O Canal Association
+ |access-date=16 March 2019
+ }}
+</ref>
+* [http://candocanal.org/articles/2014-Dam6.pdf C&O Feeder Dam No. 6] (at C&O Canal milepost 134, west of Hancock, MD)<ref>{{cite web
+ |url= http://www.candocanal.org/level51.html
+ |title=Level 51 (Dam #6)
+ |last=Holdsworth
+ |first=Bill
+ |date=April 2013
+ |website=candocanal.org
+ |publisher=C&O Canal Association
+ |access-date=16 March 2019
+ }}
+</ref>
+
+'''Planned, but never built'''
+* C&O Feeder Dam No. 7 and Guard Lock No. 7 were proposed to be located near milepost 164, close to the mouth of the South Branch of the Potomac, but were never built due to financial considerations.<ref>{{cite web
+ |url=https://www.nps.gov/parkhistory/online_books/choh/unrau_hrs.pdf
+ |title=Historical Resource Study: Chesapeake & Ohio Canal
+ |last=Unrau
+ |first=Harland D.
+ |date=August 2007
+ |publisher=US Department of the Interior, National Park Service
+ |pages=208; 470
+ |access-date=16 March 2019
+ }}
+</ref>
+</blockquote>
+|}
+
+When detailed studies were issued by the Corps in the 1950s, they met sustained opposition, led by [[U.S. Supreme Court]] Justice [[William O. Douglas]], resulting in the plans' abandonment.<ref>{{cite web| url=https://www.washingtonpost.com/ac2/wp-dyn?pagename=article&node=&contentId=A13425-2002May1 | archive-url=https://web.archive.org/web/20020916051041/http://www.washingtonpost.com/ac2/wp-dyn?contentId=A13425-2002May1&node=&pagename=article | url-status=dead | archive-date=September 16, 2002 |title=America's River |author=Joel Achenbach |work=The Washington Post |date=May 5, 2002 |pages=W12}}</ref> The only dam project that did get built was [[Jennings Randolph Lake]] on the North Branch.<ref>{{cite web
+ |url=https://www.nab.usace.army.mil/portals/63/docs/factsheets/fy15_factsheets/md-wv-jenningsrandolphlake-om.pdf
+ |title=Jennings Randolph Lake, MD & WV
+ |date=February 2015
+ |website=www.nab.usace.army.mil
+ |publisher=USACE (United States Corps of Engineers)
+ |access-date=April 5, 2019
+}}</ref>
+The Corps built a supplementary water intake for the Washington Aqueduct at Little Falls in 1959.<ref name="Scott">Scott, Pamela (2007), [http://140.194.76.129/publications/eng-pamphlets/ep870-1-67/toc.htm "Capital Engineers: The U.S. Army Corps of Engineers in the Development of Washington, D.C., 1790–2004."] {{webarchive|url=https://web.archive.org/web/20120226045246/http://140.194.76.129/publications/eng-pamphlets/ep870-1-67/toc.htm |date=February 26, 2012 }} (Washington, DC: U.S. Army Corps of Engineers.) Publication No. EP 870-1-67. p. 256.</ref>
+[[File:Potomac River Discharge at Little Falls 1931-2017.jpg|thumb|left|This chart displays the Annual Mean Discharge of the Potomac River measured at Little Falls, Maryland for Water Years 1931–2017 (in cubic feet per second). Source of data: USGS<ref name="USGS-WYS" />]]
+[[File:PR AMD of Pot Riv min max latest.jpg|left|thumb|Source of data: USGS<ref name="USGS-WYSfeb2019">{{cite web|title=USGS 01646500 POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA |publisher=USGS |year=2019|url=https://waterdata.usgs.gov/nwis/annual?referred_module=sw&site_no=01646500&por_01646500_68478=1382484,00060,68478,1930,2018&year_type=W&format=html_table&date_format=YYYY-MM-DD&rdb_compression=file&submitted_form=parameter_selection_list|access-date=March 12, 2019}}</ref>]]
+In 1940 [[United States Congress|Congress]] passed a law authorizing creation of an [[interstate compact]] to coordinate water quality management among states in the Potomac basin. Maryland, West Virginia, Pennsylvania, Virginia, and the District of Columbia agreed to establish the [[Interstate Commission on the Potomac River Basin]]. The compact was amended in 1970 to include coordination of water supply issues and land use issues related to water quality.<ref name="ICPRB timeline">ICPRB. [http://www.potomacriver.org/cms/index.php?option=com_content&view=article&id=96&catid=39&Itemid=57 "Potomac Timeline."] {{webarchive|url=https://web.archive.org/web/20110105161359/http://www.potomacriver.org/cms/index.php?option=com_content&view=article&id=96&catid=39&Itemid=57 |date=January 5, 2011 }} Updated 2008-04-15.</ref>
+[[File:Potomac green water.JPG|right|thumb|[[Eutrophication]] in the Potomac River is evident from this bright green water in Washington, D.C., caused by a dense bloom of [[cyanobacteria]], April 2012]]
+Beginning in the 19th century, with increasing [[mining]] and [[agriculture]] upstream and urban [[sewage]] and [[Surface runoff|runoff]] downstream, the [[water quality]] of the Potomac River deteriorated. This created conditions of severe [[eutrophication]]. It is said that President [[Abraham Lincoln]] used to escape to the highlands on summer nights to escape the river's stench. In the 1960s, with dense green [[algae|algal]] blooms covering the river's surface, President [[Lyndon Johnson]] declared the river "a national disgrace" and set in motion a long-term effort to reduce [[water pollution|pollution]] from [[sewage]] and restore the beauty and ecology of this historic river. One of significant pollution control projects at the time was the expansion of the [[Blue Plains Advanced Wastewater Treatment Plant]], which serves Washington and several surrounding communities.<ref>District of Columbia Water and Sewer Authority. Washington, DC. [http://www.dcwater.com/about/gen_overview.cfm "History of Blue Plains Wastewater Treatment Plant."] {{webarchive|url=https://web.archive.org/web/20150317131913/http://www.dcwater.com/about/gen_overview.cfm |date=March 17, 2015 }} Accessed 2010-09-28.</ref> Enactment of the 1972 [[Clean Water Act]] led to construction or expansion of additional [[sewage treatment]] plants in the Potomac watershed. Controls on [[phosphorus]], one of the principal contributors to eutrophication, were implemented in the 1980s, through sewage plant upgrades and restrictions on phosphorus in detergents.<ref name="ICPRB timeline" />
+[[File:PR STATISTICS OF MONTHLY MEAN DATA FOR WATER YEARS 1930 - 2018, BY WATER YEAR.jpg|left|thumb|Monthly Mean Data for Water Years 1930 - 2018<br>Source of data: USGS<ref name="USGS-WYSfebmthly">{{cite web|title=STATISTICS OF MONTHLY MEAN DATA FOR WATER YEARS 1930 - 2018, BY WATER YEAR, near WDC|publisher=USGS |year=2019|url=https://waterdata.usgs.gov/nwis/wys_rpt?dv_ts_ids=68478&wys_water_yr=2018&site_no=01646500&agency_cd=USGS&adr_water_years=2006%2C2007%2C2008%2C2009%2C2010%2C2011%2C2012%2C2013%2C2014%2C2015%2C2016%2C2017&referred_module=|access-date=March 13, 2019}}</ref>]]
+By the end of the 20th century, notable success had been achieved, as massive algal blooms vanished and recreational fishing and boating rebounded. Still, the aquatic [[habitat (ecology)|habitat]] of the Potomac River and its tributaries remain vulnerable to eutrophication, [[heavy metals]], [[pesticide]]s and other toxic chemicals, over-fishing, [[Alien (biology)|alien species]], and [[pathogen]]s associated with [[fecal coliform]] [[bacteria]] and [[shellfish]] diseases. In 2005 two federal agencies, the [[US Geological Survey]] and the [[Fish and Wildlife Service]], began to identify fish in the Potomac and tributaries that exhibited "intersex" characteristics, as a result of [[Endocrine disruptor|endocrine disruption]] caused by some form of pollution.<ref>U.S. Fish and Wildlife Service. Annapolis, MD (2009). [http://www.fws.gov/chesapeakebay/pdf/endocrine.pdf "Intersex fish: Endocrine disruption in smallmouth bass."] {{webarchive|url=https://web.archive.org/web/20160303192520/http://www.fws.gov/chesapeakebay/pdf/endocrine.pdf |date=March 3, 2016 }}</ref>
+
+On November 13, 2007, the Potomac Conservancy, an environmental group, issued the river a grade of "D-plus", citing high levels of pollution and the reports of "[[intersex]]" fish.<ref>{{cite news | last = Fahrenthold | first = David A. | title = Potomac Recovery Deemed At Risk | work = The Washington Post | date = November 13, 2007 | url = https://www.washingtonpost.com/wp-dyn/content/article/2007/11/12/AR2007111201814.html | access-date = 2007-11-13 | url-status = live | archive-url = https://web.archive.org/web/20110701174301/http://www.washingtonpost.com/wp-dyn/content/article/2007/11/12/AR2007111201814.html | archive-date = July 1, 2011 }}</ref> Since then, the river has improved with a reduction in nutrient runoff, return of fish populations, and land protection along the river. As a result, the same group issued a grade of "B" for 2017 and 2018.<ref>{{cite web|url=http://www.potomacreportcard.org/|title=Potomac Report Card |publisher=Potomac Conservancy|date=28 March 2018|access-date=26 March 2019}}</ref> In March 2019, the [[Potomac Riverkeeper|Potomac Riverkeeper Network]] launched a laboratory boat dubbed the "Sea Dog", which will be monitoring water quality in the Potomac and providing reports to the public on a weekly basis;<ref>[https://www.washingtonpost.com/local/taking-a-swim-in-the-potomac-weekly-readings-will-reveal-water-quality-and-bacteria-levels/2019/03/19/fa173378-4a71-11e9-b79a-961983b7e0cd_story.html Lang, Marissa J. "Taking a swim in the Potomac? Weekly readings will reveal water quality and bacteria levels." 2019-03-30. Retrieved 2019-03-30.] (Archived by WebCite® at https://www.webcitation.org/77GYx0Kjp)</ref> in that same month, the catching near [[Fletcher's Cove|Fletcher's Boat House]] of a [[Striped Bass]] estimated to weigh 35 lbs was seen as a further indicator of the continuing improvement in the health of the river.<ref>Need a bigger boat: 35-pound bass caught on the Potomac River. Washington Post. 2019-04-03. URL:https://wtop.com/local/2019/03/need-a-bigger-boat-35-pound-bass-caught-on-the-potomac-river/. Accessed: 2019-04-03. (Archived by WebCite® at https://www.webcitation.org/77MQbQA7K)</ref>
+
+{| class="wikitable" width="500px" style="margin:auto;"
+! colspan="8" style= "background: #F0FFFF; "|Top Ten Historic Crests of the Potomac River, 1877–2017
+|-
+! {{Plainlink |https://www.weather.gov/media/marfc/Top20/POT/Kitzmiller.pdf | Kitzmiller}}
+| align=center | {{Plainlink |https://www.weather.gov/media/marfc/Top20/POT/Hancock.pdf | Hancock}}
+! {{Plainlink |https://www.weather.gov/media/marfc/Top20/POT/WilliamsportPot.pdf | Williamsport}}
+| align=center |{{Plainlink |https://www.weather.gov/media/marfc/Top20/POT/Shepherdstown.pdf| Shepherdstown}}
+|-
+| {{Plainlink |https://www.weather.gov/media/marfc/Top20/POT/HarpersFerry.pdf | Harpers Ferry}}
+! align=center | {{Plainlink |https://www.weather.gov/media/marfc/Top20/POT/PointofRocks.pdf | Point of Rocks}} 
+| align=center | {{Plainlink |https://www.weather.gov/media/marfc/Top20/POT/LittleFallsMD.pdf | Little Falls}}
+! {{Plainlink |https://www.weather.gov/media/marfc/Top20/POT/WisconsinAve.pdf | Georgetown}}
+|-
+| align=center colspan="8" style= "background: white"|Source: [[National Weather Service]]
+|-
+|}
+
+==Legal issues==
+{{multiple image
+| direction = vertical|total_width=250|align=right|background color=#EEEEEE
+| image1=  Confluence of the Potomac and Shenandoah at Harpers Ferry - aer photo by NPS.jpg
+| image2 = PR VA MD WV Boundary near Harpers Ferry by USFWS ebm.png
+| image3 = Potomac River passing through two water gaps.jpg
+| caption1 = This westward-looking aerial photograph shows the [[Shenandoah River]] (left) flowing into the Potomac River (right) at [[Harpers Ferry, WV]]. The Potomac then continues eastward toward the Chesapeake Bay. (Visible in the foreground are the ruins of the famed [https://www.nps.gov/places/harpers-ferry-baltimore-ohio-bridge-ruins.htm B&O Bridge] which was destroyed nine times during the Civil War -- four times by military action and five times by floods.) <center>&nbsp;</center> 
+| caption2 = Boundary between Maryland, Virginia, and West Virginia at Harpers Ferry <center>&nbsp;</center>
+| caption3 = Satellite view of the Potomac River passing through two water gaps downstream of Harpers Ferry
+}}
+For 400 years Maryland and Virginia have disputed control of the Potomac and its North Branch, since both states' original [[colonial charter]]s grant the entire river rather than half of it as is normally the case with boundary rivers. In its first state [[constitution]] adopted in 1776, Virginia ceded its claim to the entire river but reserved free use of it, an act disputed by Maryland. Both states acceded to the 1765 [[Mount Vernon Compact]] and the 1877 Black-Jenkins Award which granted Maryland the river bank-to-bank from the low water mark on the Virginia side, while permitting Virginia full [[riparian rights]] short of obstructing navigation.
+
+From 1957 to 1996, the [[Maryland Department of the Environment]] (MDE) routinely issued permits applied for by Virginia entities concerning use of the Potomac. However, in 1996 the MDE denied a permit submitted by the [[Fairfax County Water Authority]] to build a water intake 725 feet (220 m) offshore, citing potential harm to Maryland's interests by an increase in Virginia sprawl caused by the project. After years of failed appeals within the Maryland government's appeal processes, in 2000 Virginia took the case to the [[Supreme Court of the United States]], which exercises original jurisdiction in cases between two states. Maryland claimed Virginia lost its riparian rights by acquiescing to MDE's permit process for 63 years (MDE began its permit process in 1933). A [[Special Master]] appointed by the Supreme Court to investigate recommended the case be settled in favor of Virginia, citing the language in the 1785 Compact and the 1877 Award. On December 9, 2003, the Court agreed in a 7–2 decision.<ref>U.S. Supreme Court. ''Virginia v. Maryland,'' {{ussc|540|56|2003}}</ref>
+
+[[File:Land Use in the Potomac Basin.gif|thumb|left|Map of land use in the watershed]]
+The original charters are silent as to which branch from the upper Potomac serves as the boundary, but this was settled by the 1785 Compact. When West Virginia [[West Virginia#Separation from Virginia|seceded]] from Virginia in 1863, the question of West Virginia's succession in title to the lands between the branches of the river was raised, as well as title to the river itself. Claims by Maryland to West Virginia land north of the South Branch (all of [[Mineral County, West Virginia|Mineral]] and [[Grant County, West Virginia|Grant]] Counties and parts of [[Hampshire County, West Virginia|Hampshire]], [[Hardy County, West Virginia|Hardy]], [[Tucker County, West Virginia|Tucker]] and [[Pendleton County, West Virginia|Pendleton]] Counties) and by West Virginia to the Potomac's high-water mark were rejected by the Supreme Court in two separate decisions in 1910.<ref>''[[Maryland v. West Virginia]],'' {{ussc|217|1|1910}}</ref><ref>''Maryland v. West Virginia,'' {{ussc|217|577|1910}}</ref>
+
+== Flora of the Potomac River Basin ==
+{| role="presentation" class="wikitable collapsible" width=90%
+|-urgay?
+! colspan="2" |Flora of the Potomac River Basin
+|-
+! scope="col" width=50% style="text-align: center;"| 
+! scope="col" width=50% style="text-align: center;"|
+|-
+| [[File:Mertensia virginica - Virginia Bluebells.jpg|thumb|center|Virginia Bluebells growing wild on [[Theodore Roosevelt Island]] ]]
+<blockquote>
+
+{| class="wikitable" style="text-align: center"
+! {{Plainlink |https://msa.maryland.gov/msa/mdmanual/01glance/plants/wildflowers/html/wildflowerslist.html | Wildflowers of the Potomac River Basin}}
+|}
+
+</blockquote>
+| [[File:Vaccinium pallidum - Blue Ridge Blueberry.jpg|thumb|center|Blue Ridge Blueberry]]
+<blockquote>
+
+{| class="wikitable"  style="text-align: center;"
+! {{Plainlink |http://msa.maryland.gov/msa/mdmanual/01glance/plants/shrubs/html/shrubs.html#maryland | Shrubs of the Potomac River Basin}}
+|-
+|}
+
+</blockquote>
+|-
+|[[File:Fall-orange-maple-tree - West Virginia - ForestWander.jpg|thumb|center|Sugar Maple]]
+<blockquote>
+
+{| class="wikitable"  style="text-align: center"
+! {{Plainlink |http://msa.maryland.gov/msa/mdmanual/01glance/html/trees.html#maryland | Trees of the Potomac River Basin}}
+|}
+
+</blockquote>
+|[[File:Typha latifolia 16zz.jpg|thumb|center|Broad Cattail]]
+<blockquote>
+
+{| class="wikitable"  style="text-align: center"
+! {{Plainlink |http://msa.maryland.gov/msa/mdmanual/01glance/plants/herbs/html/herbs.html#maryland | Herbs of the Potomac River Basin}}
+|}
+
+</blockquote>
+|-
+| [[File:Lonicera sempervirens close.jpg|thumb|center|Trumpet Honeysuckle]]
+<blockquote>
+
+{| class="wikitable"  style="text-align: center"
+! {{Plainlink |http://msa.maryland.gov/msa/mdmanual/01glance/plants/vines/html/vines.html#maryland | Vines and Groundcover of the Potomac River Basin}}
+|}
+
+</blockquote>
+| [[File:Broomsedge bluestem (Andropogon virginicus) (21787518884).jpg|thumb|center|Broomsedge Bluestem]]
+<blockquote>
+
+{| class="wikitable"  style="text-align: center"
+! {{Plainlink |http://msa.maryland.gov/msa/mdmanual/01glance/plants/grasses/html/grasses.html#maryland | Grasses of the Potomac River Basin}}
+|}
+
+</blockquote>
+|-
+|}
+
+==Fauna of the Potomac River and its Basin==
+===Fish===
+[[File:American Shad by Duane Raver USFWS.jpg|thumb|After an absence lasting many decades, the American Shad has recently returned to the Potomac.]]
+A variety of fish inhabit the Potomac, including [[Bass (fish)|bass]], [[muskellunge]], [[pike (fish)|pike]], [[walleye]]. The [[northern snakehead]], an invasive species resembling the native [[bowfin]], [[lamprey]], and [[American eel]], was first seen in 2004.<ref>[http://www.baltimoresun.com/sports/outdoors/bal-md.snakeheads27apr27,0,6241227.story Potomac snakeheads not related to others] {{webarchive|url=https://web.archive.org/web/20070930035221/http://www.baltimoresun.com/sports/outdoors/bal-md.snakeheads27apr27,0,6241227.story |date=September 30, 2007 }} Associated Press, ''Baltimore Sun'', April 27, 2007.</ref><ref>{{cite web|url=https://dwr.virginia.gov/fishing/snakehead/|title=Northern Snakehead|publisher=Virginia Department of Wildlife Resources}}</ref>  Many types of [[Centrarchidae|sunfish]] are also present in the Potomac and its headwaters.<ref>{{cite web |url=http://www.potomacriver.org/wp-content/uploads/2014/11/MasterFreshFishList0213.pdf
+ |title= FISHES OF THE FRESHWATER POTOMAC
+ |author=Jim Cummins |date=2013 |website= www.potomacriver.org| publisher=[[Interstate Commission on the Potomac River Basin]] |access-date=February 27, 2018}}</ref> Although rare, [[bull shark]]s can be found.<ref>{{cite web |url=http://www.somdnews.com/stories/09032010/entetop183727_32296.shtml |title=Sharks! Watermen catch two 8-footers on same day |publisher=somdnews.com |access-date=2011-12-17 |url-status=dead |archive-url=https://archive.today/20120910163457/http://www.somdnews.com/stories/09032010/entetop183727_32296.shtml |archive-date=September 10, 2012 }}</ref>
+
+After having been depressed for many decades, the river's population of [[American Shad]] is currently re-bounding as a result of the [[ICPRB]]'s successful "American Shad Restoration Project" that was begun in 1995. In addition to stocking the river with more than 22 million shad fry, the Project supervised construction of a fishway that was built to facilitate the passage of adults around the Little Falls Dam on the way to their traditional spawning grounds upstream.<ref>{{cite web |url=https://www.potomacriver.org/wp-content/uploads/2014/12/shadfs.pdf |title=THE POTOMAC RIVER AMERICAN SHAD RESTORATION PROJECT  |author=<!--Not stated--> |date=March 2014 |website=www.potomacriver.org |publisher=[[Interstate Commission on the Potomac River Basin]] |access-date=February 26, 2018}}</ref>
+
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+! Freshwater fish of the Potomac River
+|-
+|
+<blockquote>
+
+==== Bowfin ([[Amiidae]]) ====
+* [[Bowfin]] ''Amia calva''
+
+==== Catfishes ([[Ictaluridae]]) ====
+* [[White bullhead|White bullhead catfish]] ''Ameiurus catus''
+* [[Yellow bullhead|Yellow bullhead catfish]] ''Ameiurus natalis''
+* [[Brown bullhead|Brown bullhead catfish]] ''Ameiurus nebulosus''
+* [[Channel catfish]] ''Ictalurus punctatus''
+* [[Tadpole madtom]] ''Noturus gyrinus''
+* [[Noturus insignis|Margined madtom]] ''Noturus insignis''
+* [[Blue catfish]]* ''Ictalurus furcatus''*
+* [[Flathead catfish]]* ''Pylodictis olivaris''*
+
+==== Eels ([[Anguillidae]]) ====
+* [[American eel]] ''Anguilla rostrata''
+
+==== Gars ([[Lepisosteidae]]) ====
+* [[Longnose gar]] ''Lepisosteus osseus''
+
+==== Herrings ([[Clupeidae]]) ====
+* [[Blueback herring]] ''Alosa aestivalis''
+* [[Hickory shad]] ''Alosa mediocris''
+* [[alewife (fish)|Alewife]] ''Alosa pseudoharengus''
+* [[American shad]] ''Alosa sapidissima''
+* [[Gizzard shad]] ''Dorosoma cepedianum''
+* [[Threadfin shad]] ''Dorosoma petenense''
+
+==== Killifishes ([[Fundulidae]]) ====
+* [[Banded killifish]] ''Fundulus diaphanus''
+* [[Mummichog|Mummichog killifish]] ''Fundulus heteroclitus''
+* [[Spotfin killifish]] ''Fundulus luciae''
+* [[Striped killifish]] ''Fundulus majalis''
+* [[Rainwater killifish]] ''Lucania parva''
+
+==== Pupfish ([[Cyprinodontidae]]) ====
+* [[Sheepshead minnow]] ''Cyprinodon variegatus''
+
+==== Lampreys ([[Petromyzontidae]]) ====
+* [[Least brook lamprey]] ''Lampetra aepyptera''
+* [[American brook lamprey]] ''Lampetra appendix''
+* [[Sea lamprey]] ''Petromyzon marinus''
+
+==== Minnows ([[Cyprinidae]]) ====
+* [[Central stoneroller]] ''Campostoma anomalum''
+* [[Goldfish]] ''Carassius auratus''
+* [[Redside dace]] ''Clinostomus elongatus''
+* [[Rosyside dace]] ''Clinostomus funduloides''
+* [[Grass carp]] ''Ctenopharyngodon idella''
+* [[Satinfin shiner]] ''Cyprinella analostana''
+* [[Spotfin shiner]] ''Cyprinella spiloptera''
+* [[Common carp]] ''Cyprinus carpio''
+* [[Cutlips minnow]] ''Exoglossum maxillingua''
+* [[Eastern silvery minnow]] ''Hybognathus regius''
+* [[Striped shiner]] ''Luxilus chrysocephalus''
+* [[Common shiner]] ''Luxilus cornutus''
+* [[Allegheny pearl dace]] ''Margariscus margarita''
+* [[River chub]] ''Nocomis micropogon''
+* [[Golden shiner]] ''Notemigonus crysoleucas''
+* [[Comely shiner]] ''Notropis amoenus''
+* [[Emerald shiner]] ''Notropis atherinoides''
+* [[Bridle shiner]] ''Notropis bifrenatus''
+* [[Silverjaw minnow]] ''Notropis buccatus''
+* [[Ironcolor shiner]] ''Notropis chalybaeus''
+* [[Spottail shiner]] ''Notropis hudsonius''
+* [[Swallowtail shiner]] ''Notropis procne''
+* [[Rosyface shiner]] ''Notropis rubellus''
+* [[Bluntnose minnow]] ''Pimephales notatus''
+* [[Fathead minnow]] ''Pimephales promelas''
+* [[Eastern blacknose dace]] ''Rhinichthys atratulus''
+* [[Longnose dace]] ''Rhinichthys cataractae''
+* [[Creek chub]] ''Semotilus atromaculatus''
+* [[Fallfish]] ''Semotilus corporalis''
+* [[Bluehead chub]] ''Nocomis leptocephalus''
+* [[Mimic shiner]] ''Notropis volucellus''
+
+==== Mudminnows ([[Umbridae]]) ====
+* [[Eastern mudminnow]] ''Umbra pygmaea''
+
+==== Perches ([[Percidae]]) ====
+* [[Greenside darter]] ''Etheostoma blennioides''
+* [[Rainbow darter]] ''Etheostoma caeruleum''
+* [[Fantail darter]] ''Etheostoma flabellare''
+* [[Swamp darter]] ''Etheostoma fusiforme''
+* [[Johnny darter]] ''Etheostoma nigrum''
+* [[Tessellated darter]] ''Etheostoma olmstedi''
+* [[Glassy darter]] ''Etheostoma vitreum''
+* [[Etheostoma zonale|Banded darter]] ''Etheostoma zonale''
+* [[Yellow perch]] ''Perca flavescens''
+* [[Logperch]] ''Percina caprodes''
+* [[Stripeback darter]] ''Percina notogramma''
+* [[Shield darter]] ''Percina peltata''
+* [[Walleye]] ''Sander vitreum''
+
+==== Percopsids ([[Percopsidae]]) ====
+* [[Trout-perch]] ''Percopsis omiscomaycus''
+
+==== Pikes ([[Esocidae]]) ====
+* [[Redfin pickerel]] ''Esox americanus''
+* [[Northern pike]] ''Esox lucius''
+* [[Muskellunge]] ''Esox masquinongy''
+* [[Chain pickerel]] ''Esox niger''
+
+==== Pirate perch ([[Aphredoderidae]]) ====
+* [[Pirate perch]] ''Aphredoderus sayanus''
+* [[Guppy]] ''Poecilia reticulata''
+
+==== Poeciliids ([[Poeciliidae]]) ====
+* [[Eastern mosquitofish]] ''Gambusia holbrooki''
+
+==== Pupfish ([[Cyprinodontidae]]) ====
+* [[Sheepshead minnow]] ''Cyprinodon variegatus''
+
+==== Sculpins ([[Cottidae]]) ====
+* [[Mottled sculpin]] ''Cottus bairdii''
+* [[Blue Ridge sculpin]] ''Cottus caeruleomentum''
+* [[Potomac sculpin]] ''Cottus girardi''
+
+==== Silversides ([[Atherinopsidae]]) ====
+* [[Inland silverside]] ''Menidia beryllina''
+
+==== Smelts ([[Osmeridae]]) ====
+* [[Rainbow smelt]] ''Osmerus mordax''
+
+==== Snakeheads ([[Channidae]]) ====
+* [[Snakehead (fish)|Northern snakehead]]* ''Channa argus''*
+
+==== Sturgeons ([[Acipenseridae]]) ====
+* [[Shortnose sturgeon]] ''Acipenser brevirostrum''
+* [[Atlantic sturgeon]] ''Acipenser oxyrhinchus''
+
+==== Suckers ([[Catostomidae]]) ====
+* [[Quillback]] ''Carpiodes cyprinus''
+* [[White sucker]] ''Catostomus commersoni''
+* [[Creek chubsucker]] ''Erimyzon oblongus''
+* [[Northern hogsucker]] ''Hypentelium nigricans''
+* [[Golden redhorse]] ''Moxostoma erythrurum''
+* [[Shorthead redhorse]] ''Moxostoma macrolepidotum''
+* [[Thoburnia rhothoeca|Torrent sucker]] ''Thoburnia rhothoeca''
+
+==== Sunfishes ([[Centrarchidae]]) ====
+* [[Mud sunfish]] ''Acantharcus pomotis''
+* [[Rock bass]] ''Amblopites rupestris''
+* [[Flier (fish)|Flier sunfish]] ''Centrarchus macropterus''
+* [[Enneacanthus chaetodon|Blackbanded sunfish]] ''Enneacanthus chaetodon''
+* [[Bluespotted sunfish]] ''Enneacanthus gloriosus''
+* [[Banded sunfish]] ''Enneacanthus obesus''
+* [[Redbreast sunfish]] ''Lepomis auritus''
+* [[Green sunfish]] ''Lepomis cyanellus''
+* [[Pumpkinseed|Pumpkinseed sunfish]] ''Lepomis gibbosus''
+* [[Warmouth|Warmouth sunfish]] ''Lepomis gulosus''
+* [[Bluegill|Bluegill sunfish]] ''Lepomis macrochirus''
+* [[Longear sunfish]] ''Lepomis megalotis''
+* [[Redear sunfish]] ''Lepomis microlophus''
+* [[Smallmouth bass]] ''Micropterus dolomieu''
+* [[Largemouth bass]] ''Micropterus salmoides''
+* [[White crappie]] ''Pomoxis annularis''
+* [[Black crappie]] ''Pomoxis nigromaculatus''
+
+==== Temperate basses ([[Moronidae]]) ====
+* [[White perch]] ''Morone americana''
+* [[Striped bass]] ''Morone saxatilis''
+
+==== Trout and whitefish ([[Salmonidae]]) ====
+* [[Rainbow trout]] (''Oncorhynchus mykiss'')
+* [[Brown trout]] (''Salmo trutta'')
+
+</blockquote>
+
+&nbsp;&nbsp;* denotes naturalized species;
+
+Sources:
+* [https://web.archive.org/web/20070509065631/http://www.dnr.state.md.us/streams/pubs/fishkey_2003.pdf Dnr.state.md: Fish key of native species]
+* http://www.potomacriver.org/wp-content/uploads/2014/11/MasterFreshFishList0213.pdf
+
+|}
+
+<!--  ++++++++++++++++++++++++++++++++  -->
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+! Tidal freshwater fish of the Potomac River
+|-
+| <blockquote>
+
+==== Mullets ([[Mugilidae]]) ====
+[[Striped mullet]] ''Mugil cephalus''
+
+==== Drums ([[Sciaenidae]]) ====
+[[Spot (fish)|Spot]] ''Leiostomus xanthurus''
+
+[[Spotted seatrout]] ''Cynoscion nebulosus''
+
+[[Atlantic Croaker]]  ''Micropogonias undulatus''
+
+[[Red drum]] ''Sciaenops ocellata''
+
+==== Soles ([[Soleidae]]) ====
+[[Hogchoker]] ''Trinectes maculatus''
+
+==== Sharks ([[Carcharhinidae]]) ====
+[[Bull shark]] ''Carcharhinus leucas''
+
+</blockquote>
+
+Sources:
+* [https://web.archive.org/web/20070509065631/http://www.dnr.state.md.us/streams/pubs/fishkey_2003.pdf Dnr.state.md: Fish key of native species]
+* http://www.potomacriver.org/wp-content/uploads/2014/11/MasterFreshFishList0213.pdf
+
+|}
+
+===Mammals===
+[[File:Bottlenose dolphin with young.JPG|thumb|left|Several hundred Bottle-nosed Dolphins live six months of the year (from mid-April through mid-October) in the Potomac. Depicted here, a mother with her young.]]
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+! Mammals of the Potomac River Basin
+|-
+|
+<blockquote>
+* Bats
+** [[Little brown bat]] ''Myotis lucifugus''
+** [[Indiana bat]] ''Myotis sodalis''
+** [[Eastern small-footed bat]] ''Myotis leibii''
+** [[Myotis septentrionalis|Northern long-eared bat]] ''Myotis septentrionalis''
+** [[Silver-haired bat]] ''Lasionycteris noctivagans''
+** [[Tricolored bat]] ''Perimyotis subflavus''
+** [[Big brown bat]] ''Eptesicus fuscus''
+** [[Eastern red bat|Red bat]] ''Lasiurus borealis''
+** [[Hoary bat]] ''Lasiurus cinereus''
+** [[Evening bat]] ''Nycticeius humeralis''
+* Bears
+** [[American black bear|Black bear]] ''Ursus americanus''
+* Beavers
+** [[American beaver]] ''Castor canadensis''
+* Cats
+** [[Bobcat]] ''Lynx rufus''
+* Foxes and Coyotes
+** [[Red fox]] ''Vulpes vulpes''
+** [[Gray fox]] ''Urocyon cinereoargenteus''
+** [[Coyote]] ''Canis latrans''
+* Hoofed mammals
+** [[Sika deer]]* ''Cervus nippon'' *
+** [[White-tailed deer]] ''Odocoileus virginianus''
+** [[American bison]] ''Bos bison''
+* Jumping Mice
+** [[Meadow jumping mouse]] ''Zapus hudsonius''
+** [[Woodland jumping mouse]] ''Napaeozapus insignis''
+* Lemmings
+** [[Southern bog lemming]] ''Synaptomys cooperi''
+* Marine Mammals
+** [[Bottlenose dolphin]] ''Tursiops truncatus''
+* Moles
+** [[Hairy-tailed mole]] ''Parascalops breweri''
+** [[Eastern mole]] ''Scalopus aquaticus''
+** [[Star-nosed mole|Southeastern star-nosed mole]] ''Condylura cristata parva''
+* Muskrats
+** [[Muskrat]] ''Ondatra zibethicus''
+* New World Mice and Rats
+** [[Marsh rice rat]] ''Oryzomys palustris''
+** [[Deer mouse]] ''Peromyscus maniculatus''
+** [[White-footed mouse|White-footed deer mouse]] ''Peromyscus leucopus''
+** [[Allegheny woodrat]] ''Neotoma magister''
+* Nutria
+** [[Coypu|Nutria]]* ''Myocastor coypus''*
+* Old World Mice and Rats
+** [[Black rat]]* ''Rattus rattus''*
+** [[Norway rat]]* ''Rattus norvegicus''*
+** [[House mouse]]* ''Mus musculus''*
+* Opossums
+** [[Virginia opossum]] ''Didelphis virginiana''
+* Porcupines
+** [[Porcupine]] ''Erethizon dorsatum''
+* Rabbits and Hares
+** [[Eastern cottontail]] ''Sylvilagus floridanus''
+** [[Appalachian cottontail]] ''Sylvilagus obscurus''
+* Raccoons
+** [[Raccoon]] ''Procyon lotor''
+* Shrews
+** [[Masked shrew]] ''Sorex cinereus''
+** [[Southeastern shrew]] ''Sorex longirostris''
+** [[American water shrew|Southern Water shrew]] ''Sorex palustris punctulatus''
+** [[Smoky shrew]] ''Sorex fumeus''
+** [[Long-tailed shrew]] ''Sorex dispar''
+** [[American pygmy shrew|Southern pygmy shrew]] ''Sorex hoyi winnemana''
+** [[Northern short-tailed shrew]] ''Blarina brevicauda''
+** [[Least shrew]] ''Cryptotis parva''
+* Skunks
+** [[Eastern spotted skunk]] ''Spilogale putorius''
+** [[Striped skunk]] ''Mephitis mephitis''
+* Squirrels and Chipmunks
+** [[Eastern chipmunk]] ''Tamias striatus''
+** [[Groundhog]] (aka Woodchuck) ''Marmota monax''
+** [[Eastern gray squirrel]] ''Sciurus carolinensis''
+** [[Eastern fox squirrel]] ''Sciurus niger''
+** [[Delmarva fox squirrel]] ''Sciurus niger cinereus''
+** [[Red squirrel]] ''Tamiasciurus hudsonicus''
+** [[Southern flying squirrel]] ''Glaucomys volans''
+* Voles
+** [[Southern red-backed vole]] ''Clethrionomys gapperi''
+** [[Meadow vole]] ''Microtus pennsylvanicus''
+** [[Rock vole|Southern Rock vole]] ''Microtus chrotorrhinus carolinensis''
+** [[Woodland vole]] ''Microtus pinetorum''
+* Weasels, Minks and Otters
+** [[Fisher (animal)|Fisher]] ''Martes pennanti''
+** [[Ermine]] ''Mustela erminea''
+** [[Least weasel]] ''Mustela nivalis''
+** [[Long-tailed weasel]] ''Mustela frenata''
+** [[Mink]] ''Neovison vison''
+** [[Northern river otter]] ''Lutra canadensis''
+</blockquote>
+
+&nbsp;&nbsp;* denotes naturalized species
+
+Sources:
+* [http://dnr.maryland.gov/wildlife/Pages/plants_wildlife/Mammals.aspx ''Mammals of Maryland'']; [[Maryland Department of Natural Resources]]. Retrieved February 8, 2018.]
+* [https://dwr.virginia.gov/wildlife/information/ ''Wildlife Infomation'']; [[Virginia Department of Wildlife Resources]]. Retrieved July 4, 2020.
+* [http://www.wvdnr.gov/Publications/PDFFiles/mammals%20brochure.pdf ''Mammals of West Virginia: A Field Checklist''] (2001); [[West Virginia Division of Natural Resources]], Wildlife Resources Section. Retrieved February 8, 2018.]
+
+|}
+Early European colonists who settled along the Potomac found a diversity of large and small mammals living in the dense forests nearby. [[American bison|Bison]], [[elk]], wolves ( [[Gray wolf|gray]] and [[Red wolf|red]]) and [[Cougar|panthers]] (cougars) were still present at that time, but had been hunted to extirpation by the middle of the 19th century.  Among the denizens of the Potomac's banks, [[beaver]]s and [[otter]]s met a similar fate, while small populations of [[mink]]s and [[marten]]s survived into the 20th century in some secluded areas.
+
+There is no record of early settlers having observed marine mammals in the Potomac, but several sightings of [[Common bottlenose dolphin|Atlantic Bottle-nosed Dolphins]] (''Tursiops truncatus'') were reported during the 19th century.  In July 1844. a pod of 14 adults and young was followed up the river by men in boats as high as the [[Aqueduct Bridge (Potomac River)|Aqueduct Bridge]] (approximately the same location occupied by [[Key Bridge (Washington, D.C.)|Key Bridge]] today).<ref>{{cite web|title=The Mysterious Dolphins of the Potomac|url=https://www.atlasobscura.com/articles/bottlenose-dolphins-potomac-chesapeake|access-date=February 26, 2018|year=2017|url-status=live|archive-url=https://archive.today/20170930230141/http://www.atlasobscura.com/articles/bottlenose-dolphins-potomac-chesapeake|archive-date=September 30, 2017}}</ref>
+
+Since 2015, perhaps as a result of warmer temperatures, rising water levels in the Chesapeake Bay and improving water quality in the Potomac, unprecedented numbers of Atlantic Bottle-nosed Dolphins have been observed in the river.  According to Dr Janet Mann of Georgetown University's [http://www.pcdolphinproject.org Potomac-Chesapeake Dolphin Project], more than 500 individual members of the species have been identified in the Potomac during this period.<ref>{{cite web|title=Potomac-Chesapeake Dolphin Project|url=http://www.pcdolphinproject.org/research/|access-date=February 26, 2018|year=2018|url-status=live|archive-url=https://web.archive.org/web/20170406105846/http://www.pcdolphinproject.org/research/|archive-date=April 6, 2017}}</ref>
+
+===Birds===
+[[File:Great Blue Heron-27527-2.jpg|thumb|left|A Great Blue Heron]]
+{| class="wikitable"
+<caption></caption>
+|-
+! [[List of birds of Maryland|Birds of the Potomac River Basin]]
+|-
+|}
+
+<!--
+{{:List of birds of Maryland}}
+Note: transclusion doesn't work well here; puts FL star on page plus messes up TOC by listing all birds; also, causes List to load each time PR page loads wo waiting for reader to press the Birds button, which wastes much time.
+-->
+
+===Reptiles===
+
+[[File:Eastern Box Turtle NPS.jpg|thumb|right|Eastern Box Turtles are frequently spotted along the towpath of the C&O Canal.]]
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+!Turtles of the Potomac River Basin
+|-
+|
+<blockquote>
+
+[[Bog turtle|Bog (=Muhlenberg) turtle]] ''Glyptemys (=Clemmys) muhlenbergii''
+
+[[Chinese softshell turtle]] * ''Pelodiscus sinensis'' *
+
+[[Coastal plain cooter]] ''Pseudemys concinna floridana''
+
+[[Cumberland slider]] ''Trachemys scripta troostii''
+
+[[Eastern box turtle]] ''Terrapene carolina carolina''
+
+[[Chicken turtle|Eastern chicken turtle]] ''Deirochelys reticularia reticularia''
+
+[[Eastern mud turtle]] ''Kinosternon subrubrum subrubrum''
+
+[[Eastern musk turtle]] ''Sternotherus odoratus''
+
+[[Eastern painted turtle]] ''Chrysemys picta picta''
+
+[[Eastern river cooter]] ''Pseudemys concinna concinna''
+
+[[Spiny softshell turtle|Eastern spiny softshell turtle]] ''Apalone spinifera spinifera''
+
+[[Green sea turtle]] ''Chelonia mydas''
+
+[[Gulf Coast spiny softshell turtle]] * ''Apalone spinifera aspera'' *
+
+[[Hawksbill sea turtle]] ''Eretmochelys imbricata''
+
+[[Kemp's ridley sea turtle]] ''Lepidochelys kempii''
+
+[[Leatherback sea turtle]] ''Dermochelys coriacea''
+
+[[Loggerhead sea turtle]] ''Caretta caretta''
+
+[[Mississippi map turtle]]* ''Graptemys pseudogeographica kohnii'' *
+
+[[Northern map turtle]] ''Graptemys geographica''
+
+[[Diamondback terrapin|Northern diamond-backed terrapin]] ''Malaclemys terrapin terrapin''
+
+[[Northern red-bellied cooter]] ''Pseudemys rubriventris''
+
+[[Red-eared slider]] * ''Trachemys scripta elegans'' *
+
+[[Snapping turtle]] ''Chelydra serpentina''
+
+[[Spotted turtle]] ''Clemmys guttata''
+
+[[Striped mud turtle]] ''Kinosternon baurii''
+
+[[Loggerhead musk turtle|Stripe-necked musk turtle]] ''Sternotherus minor peltifer''
+
+[[Wood turtle]] ''Glyptemys insculpta''
+
+[[Yellow-bellied slider]] ''Trachemys scripta scripta''
+</blockquote>
+
+&nbsp;&nbsp;* denotes naturalized species
+
+Sources:<br />
+https://dwr.virginia.gov/wp-content/uploads/virginia-native-naturalized-species.pdf<br />
+http://dnr.maryland.gov/wildlife/Documents/herpchecklist.pdf
+
+|}
+
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+! Snakes of the Potomac River basin
+|-
+|
+<blockquote>
+
+[[Agkistrodon contortrix mokasen|Northern copperhead]] ''Agkistrodon contortrix mokasen''
+
+[[Timber rattlesnake]] ''Crotalus horridus''
+
+[[Northern watersnake]] ''Nerodia sipedon sipedon''
+
+[[Red-bellied watersnake]] ''Nerodia erythrogaster erythrogaster''
+
+[[Queen snake]] ''Regina septemvittata''
+
+[[Virginia valeriae|Eastern smooth earthsnake]] ''Virginia valeriae valeriae''
+
+[[Virginia valeriae|Mountain earthsnake]] ''Virginia valeriae pulchra''
+
+[[Northern brown snake]] ''Storeria dekayi dekayi''
+
+[[Storeria occipitomaculata|Northern Red-bellied Snake]] ''Storeria occipitomaculata occipitomaculata''
+
+[[Eastern garter snake]] ''Thamnophis sirtalis sirtalis''
+
+[[Ribbon snake|Common ribbonsnake]] ''Thamnophis sauritus sauritus''
+
+[[Ring-necked snake|Southern ring-necked snake]] ''Diadophis punctatus punctatus''
+
+[[Ring-necked snake|Northern ring-necked snake]] ''Diadophis punctatus edwardsi''
+
+[[Eastern worm snake]] ''Carphophis amoenus amoenus''
+
+[[Smooth green snake]] ''Opheodrys vernalis''
+
+[[Opheodrys aestivus|Northern rough greensnake]] ''Opheodrys aestivus aestivus''
+
+[[Eastern hog-nosed snake]] ''Heterodon platirhinos''
+
+[[Farancia erytrogramma|Rainbow snake]] ''Farancia erytrogramma erytrogramma''
+
+[[Coluber constrictor|Northern Black Racer]] ''Coluber constrictor constrictor''
+
+[[Corn snake|Red cornsnake]] ''Pantherophis guttatus''
+
+[[Pantherophis alleghaniensis|Eastern ratsnake]] ''Pantherophis alleghaniensis''
+
+[[Mole kingsnake]] ''Lampropeltis calligaster rhombomaculata''
+
+[[Lampropeltis getula|Eastern kingsnake]] ''Lampropeltis getula getula''
+
+[[Milk snake|Eastern kilksnake]] ''Lampropeltis triangulum triangulum''
+
+[[Milk snake|Coastal Plain Milksnake]] ''Lampropeltis triangulum elapsoides''
+
+[[Cemophora coccinea|Northern scarletsnake]] ''Cemophora coccinea copei''
+</blockquote>
+
+Sources:<br />
+http://dnr.maryland.gov/wildlife/Documents/herpchecklist.pdf<br />
+A Guide to the Snakes of Virginia (Virginia Department of Game and Inland Fisheries, Wildlife Diversity Division, Special Publication No. 2.1)  2002; by Michael J Pinder (Author)
+
+|}
+
+[[File:Fivelined skink.jpg|thumb|left|Five-lined skink, juvenile]]
+
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+! Lizards of the Potomac River Basin
+|-
+|
+<blockquote>
+
+[[Eastern Fence Lizard]] ''Sceloporus undulatus''
+
+[[Eastern Six-lined Racerunner]] ''Aspidoscelis sexlineata sexlineata''
+
+[[Little Brown Skink]] ''Scincella lateralis''
+
+[[Coal Skink|Northern Coal Skink]] ''Plestiodon anthracinus anthracinus''
+
+[[Plestiodon fasciatus|Common Five-lined Skink]] ''Plestiodon fasciatus''
+
+[[Broad-headed Skink]] ''Plestiodon laticeps''
+
+</blockquote>
+
+Sources:
+* https://dwr.virginia.gov/wp-content/uploads/virginia-native-naturalized-species.pdf
+* http://dnr.maryland.gov/wildlife/Documents/herpchecklist.pdf
+
+|}
+
+===Amphibians===
+[[File:Eastern Tiger Salamander (Ambystoma tigrinum) (25522389762).jpg|thumb|right|Eastern Tiger Salamanders (Ambystoma tigrinum) can be found sheltering under rocks along the banks of the Potomac.]]<!--
+By Peter Paplanus (Eastern Tiger Salamander (Ambystoma tigrinum)) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
+-->
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+! Salamanders of the Potomac River Basin
+|-
+|
+<blockquote>
+
+[[Common Mudpuppy]] ''Necturus maculosus maculosus''
+
+[[Eastern Hellbender]] ''Cryptobranchus alleganiensis alleganiensis''
+
+[[Marbled Salamander]] ''Ambystoma opacum''
+
+[[Jefferson Salamander]] ''Ambystoma jeffersonianum''
+
+[[Spotted Salamander]] ''Ambystoma maculatum''
+
+[[Eastern Tiger Salamander]] ''Ambystoma tigrinum tigrinum''
+
+[[Red-spotted Newt]] ''Notophthalmus viridescens viridescens''
+
+[[Red-backed salamander|Eastern Red-backed Salamander]] ''Plethodon cinereus''
+
+[[Wehrle's Salamander]] ''Plethodon wehrlei''
+
+[[Northern slimy salamander]] ''Plethodon glutinosus''
+
+[[Valley and ridge salamander]] ''Plethodon hoffmani''
+
+[[Seal Salamander]] ''Desmognathus monticola monticola''
+
+[[Northern Dusky Salamander]] ''Desmognathus fuscus''
+
+[[Allegheny Mountain Dusky Salamander]] ''Desmognathus ochrophaeus''
+
+[[Red salamander|Northern Red Salamander]] ''Pseudotriton ruber ruber''
+
+[[Mud salamander|Eastern Mud Salamander]] ''Pseudotriton montanus montanus''
+
+[[Spring salamander|Northern Spring Salamander]] ''Gyrinophilus porphyriticus porphyriticus''
+
+[[Northern Two-lined Salamander]] ''Eurycea bislineata''
+
+[[Southern Two-lined Salamander]] ''Eurycea cirrigera''
+
+[[Long-tailed salamander]] ''Eurycea longicauda longicauda''
+
+[[Four-toed Salamander]] ''Hemidactylium scutatum''
+
+[[Green Salamander]] ''Aneides aeneus''
+
+</blockquote>
+
+Sources:
+* https://dwr.virginia.gov/wp-content/uploads/virginia-native-naturalized-species.pdf
+* http://dnr.maryland.gov/wildlife/Documents/herpchecklist.pdf
+
+|}
+
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+! Frogs and toads of the Potomac River Basin
+|-
+|
+<blockquote>
+
+[[Upland Chorus Frog]] ''Pseudacris feriarum''
+
+[[Chorus frog|New Jersey Chorus Frog]] ''Pseudacris kalmi''
+
+[[Spring peeper|Northern Spring Peeper]] ''Pseudacris crucifer''
+
+[[Mountain Chorus Frog]] ''Pseudacris brachyphona''
+
+[[Cricket frog|Eastern Cricket Frog]] ''Acris crepitans crepitans''
+
+[[American green tree frog|Green Treefrog]] ''Hyla cinerea''
+
+[[Gray Treefrog]] ''Hyla versicolor''
+
+[[Cope's Gray Treefrog]] ''Hyla chrysoscelis''
+
+[[Hyla gratiosa|Barking Treefrog]] ''Hyla gratiosa''
+
+[[Carpenter Frog]] ''Lithobates virgatipes''
+
+[[Wood Frog]] ''Lithobates sylvaticus''
+
+[[Northern Leopard Frog]]* ''Lithobates pipiens''*
+
+[[Southern Leopard Frog]] ''Lithobates sphenocephalus utricularius''
+
+[[Pickerel Frog]] ''Lithobates palustris''
+
+[[Northern Green Frog]] ''Lithobates clamitans melanota''
+
+[[American Bullfrog]] ''Lithobates catesbeiana''
+
+[[Eastern spadefoot toad]] ''Scaphiopus holbrookii''
+
+[[American toad|Eastern American Toad]] ''Anaxyrus americanus americanus''
+
+[[Fowler's Toad]] ''Anaxyrus fowleri''
+
+[[Eastern Narrow-mouthed Toad]] ''Gastrophryne carolinensis''
+
+</blockquote>
+
+&nbsp;&nbsp;* denotes naturalized species
+
+Sources:
+* https://dwr.virginia.gov/wp-content/uploads/virginia-native-naturalized-species.pdf
+* http://dnr.maryland.gov/wildlife/Documents/herpchecklist.pdf
+
+|}
+
+==The Potomac River System==
+===North Branch Potomac River===
+<!-- This section is linked from [[West Virginia]] -->
+[[File:North Branch Potomac River Cumberland.jpg|thumb|The North Branch between [[Cumberland, Maryland]], and [[Ridgeley, West Virginia]], in 2007]]
+The source of the '''North Branch Potomac River''' is at the [[Fairfax Stone]] located at the junction of [[Grant County, West Virginia|Grant]], [[Tucker County, West Virginia|Tucker]] and [[Preston County, West Virginia|Preston]] counties in West Virginia.
+[[File:PR confluence of N n S Branches.jpg|thumb|left|Confluence of the North and South Branches of the Potomac River near Potomac Forks Campsite (southeast of [[Cumberland]]), [[Allegany County, Maryland]]]]
+From the Fairfax Stone, the North Branch Potomac River flows {{convert|27|mi|km}} to the man-made [[Jennings Randolph Lake]], an [[Reservoir|impoundment]] designed for flood control and emergency water supply. Below the dam, the North Branch cuts a serpentine path through the eastern Allegheny Mountains. First, it flows northeast by the communities of [[Bloomington, Maryland|Bloomington]], [[Luke, Maryland|Luke]], and [[Westernport, Maryland|Westernport]] in Maryland and then on by [[Keyser, West Virginia|Keyser]], West Virginia to [[Cumberland, Maryland|Cumberland]], Maryland. At Cumberland, the river turns southeast. {{convert|103|mi}} downstream from its source,<ref name=NHD/> the North Branch is joined by the South Branch between [[Green Spring, West Virginia|Green Spring]] and [[South Branch Depot, West Virginia|South Branch Depot]], West Virginia from whence it flows past [[Hancock, Maryland|Hancock]], Maryland and turns southeast once more on its way toward [[Washington, D.C.]], and the [[Chesapeake Bay]].
+
+The following table shows the major tributaries of the North Branch Potomac River, listed in order from the source to its mouth. Numerous other tributary creeks exist.
+
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+! Tributaries of the North Branch of the Potomac River
+|-
+|
+<blockquote>
+* [[Stony River (North Branch Potomac River)|Stony River]] (West Virginia)
+* [[Abram Creek (West Virginia)|Abram Creek]] (West Virginia)
+* [[Savage River (Maryland)|Savage River]] (Maryland)
+* [[Georges Creek (Potomac River)|Georges Creek]] (Maryland)
+** [[Laurel Run (Georges Creek)|Laurel Run]] (Maryland)
+* [[New Creek]] (West Virginia)
+* [[Limestone Run (North Branch Potomac River)|Limestone Run]] (West Virginia)
+* Warrior Run (Maryland)
+* [[Wills Creek (North Branch Potomac River)|Wills Creek]] (Pennsylvania/Maryland)
+** [[Brush Creek (Wills Creek)|Brush Creek]] (Pennsylvania)
+** [[Little Wills Creek]] (Pennsylvania)
+* [[Evitts Creek (Pennsylvania)|Evitts Creek]] (Maryland and Pennsylvania)
+* [[Patterson Creek]] (West Virginia)
+** [[Mill Creek (Patterson Creek)|Mill Creek]] (West Virginia)
+* [[Dans Run]] (West Virginia)
+* [[Green Spring Run]] (West Virginia)
+</blockquote>
+|}
+
+===South Branch Potomac River===
+{{Main|South Branch Potomac River}}
+[[File:South Branch Potomac River South Branch Depot WV 2004.JPG|thumb|The [[South Branch Potomac River|South Branch]] near [[South Branch Depot, West Virginia|South Branch Depot]], [[West Virginia]]]]
+
+The South Branch Potomac River has its [[headwaters]] in northwestern [[Highland County, Virginia|Highland County]], Virginia near [[Hightown, Virginia|Hightown]] along the eastern edge of the [[Allegheny Front]]. After a river distance of {{convert|139|mi}},<ref name=NHD/> the mouth of the South Branch lies east of [[Green Spring, West Virginia|Green Spring]] in [[Hampshire County, West Virginia|Hampshire County]], West Virginia where it meets the [[North Branch Potomac River]] to form the Potomac.<ref>[http://mapserver.maptech.com/homepage/index.cfm?lat=39.52833&lon=-78.58778&scale=25000&type=1&zoom=100&bpid=MAP0060030900%2C1%2C1%2C0&latlontype=DMS&searchscope=dom&CFID=10736808&CFTOKEN=19084588 Topographic map of the confluence of the North and South branches of the Potomac River] {{webarchive|url=https://web.archive.org/web/20070312000346/http://mapserver.maptech.com/homepage/index.cfm?lat=39.52833&lon=-78.58778&scale=25000&type=1&zoom=100&bpid=MAP0060030900%2C1%2C1%2C0&latlontype=DMS&searchscope=dom&CFID=10736808&CFTOKEN=19084588 |date=March 12, 2007 }}</ref>
+
+The North Fork South Branch Potomac River, {{convert|43.6|mi}} long,<ref name=NHD/> forms just north of the Virginia/West Virginia border in [[Pendleton County, West Virginia|Pendleton County]] at the confluence of the [[Laurel Fork (North Fork South Branch Potomac River)|Laurel Fork]] and Straight Fork along Big Mountain {{convert|3881|ft|m}}. From [[Circleville, West Virginia|Circleville]], the North Fork flows northeast through Pendleton County between the Fore Knobs {{convert|2949|ft|m}} to its west and the [[River Knobs (West Virginia)|River Knobs]], 2,490 feet (759 m) to its east. At [[Seneca Rocks, West Virginia|Seneca Rocks]], the North Fork is met by [[Seneca Creek (North Fork South Branch Potomac River)|Seneca Creek]]. From Seneca Rocks, the North Fork continues to flow northeast along the western edge of North Fork Mountain 3,389 feet (1033 m) into [[Grant County, West Virginia|Grant County]]. Flowing east through North Fork Gap, the North Fork joins the South Branch Potomac at the town of [[Cabins, West Virginia|Cabins]], west of [[Petersburg, West Virginia|Petersburg]].
+
+The South Fork South Branch Potomac River forms just north of [[U.S. Route 250]] in [[Highland County, Virginia|Highland County]], [[Virginia]] near Monterey, and flows {{convert|68.4|mi}}<ref name=NHD/> north-northeastward to the South Branch Potomac River at [[Moorefield, West Virginia|Moorefield]] in [[Hardy County, West Virginia|Hardy County]], [[West Virginia]]. From 1896 to 1929, it was named the '''Moorefield River''' by the [[Board on Geographic Names]] to avoid confusion with the South Branch.
+
+===Upper Potomac River===
+This stretch encompasses the section of the Potomac River from the [[confluence]] of its North and South Branches through [[Opequon Creek]] near [[Shepherdstown, West Virginia]].<ref>{{cite web
+ |url=https://www.potomacriverkeepernetwork.org/
+ |title=Potomac Riverkeeper Network
+ |date=2019
+ |website=www.potomacriverkeepernetwork.org
+ |publisher=Potomac Riverkeeper Network
+ |access-date=25 March 2019
+}}</ref>
+
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+! Tributaries of the Upper Potomac River
+|-
+|
+<blockquote>
+* [[North Branch Potomac River]] (Maryland/West Virginia)
+* [[South Branch Potomac River]] (West Virginia/Virginia)
+* [[Town Creek (Potomac River)|Town Creek]] (Maryland/Pennsylvania)
+* [[Little Cacapon River]] (West Virginia)
+** [[North Fork Little Cacapon River]] (West Virginia)
+** [[South Fork Little Cacapon River]] (West Virginia) 
+* [[Sideling Hill Creek (Potomac River)|Sideling Hill Creek]] (Maryland/Pennsylvania)
+* [[Cacapon River]] (West Virginia)
+** [[Capon Springs Run]] (West Virginia)
+** [[Dillons Run]] (West Virginia)
+** [[Edwards Run]] (West Virginia)
+** [[Lost River (Cacapon River)|Lost River]] (West Virginia)
+** [[Mill Branch (Cacapon River)|Mill Branch]] (West Virginia)
+** [[North River (Cacapon River)|North River]] (West Virginia)
+*** [[Grassy Lick Run]] (West Virginia)
+*** [[Tearcoat Creek]] (West Virginia)
+**** [[Bearwallow Creek]] (West Virginia)
+** [[Trout Run (Cacapon River)|Trout Run]] (West Virginia)
+* [[Sir Johns Run]] (West Virginia)
+* [[Warm Spring Run]] (West Virginia)
+* [[Tonoloway Creek]] (Maryland/Pennsylvania)
+* [[Fifteenmile Creek (Potomac River)|Fifteenmile Creek]] (Maryland/Pennsylvania)
+* [[Sleepy Creek]] (West Virginia/Virginia)
+** [[Meadow Branch]] (West Virginia)
+* [[Cherry Run]] (West Virginia)
+* [[Back Creek (Potomac River)|Back Creek]] (West Virginia/Virginia)
+** [[Hogue Creek]] (Virginia)
+** [[Isaacs Creek (Back Creek)|Isaacs Creek]] (Virginia)
+** [[Tilhance Creek]] (West Virginia)
+* [[Conococheague Creek]] (Maryland/Pennsylvania)
+** [[Back Creek (Conococheague Creek)|Back Creek]] (Pennsylvania)
+* [[Opequon Creek]] (West Virginia/Virginia)
+** [[Middle Creek (Opequon Creek)|Middle Creek]] (West Virginia)
+** [[Mill Creek (Opequon Creek)|Mill Creek]] (West Virginia/Virginia)
+** [[Tuscarora Creek (Opequon Creek)|Tuscarora Creek]] (West Virginia)
+</blockquote>
+|}
+
+===Lower Potomac River===
+
+[[File:Sunrise View from Jefferson Rock.jpg|thumb|left|225px|Sunrise view from [[Jefferson Rock]] at Harpers Ferry, WV. (In the distance is the [[Sandy Hook Bridge]] over the Potomac River that connects Maryland (left bank) with Virginia along [[w:U.S. Highway 340|U.S. Highway 340]].) ]]
+This section covers the Potomac from just above Harpers Ferry in West Virginia down to Little Falls, Maryland on the border between Maryland and Washington, DC.
+
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+! Tributaries of the Lower Potomac River
+|-
+|
+<blockquote>
+* [[Antietam Creek]] (Pennsylvania/Maryland)
+** East Branch (Pennsylvania)
+** West Branch (Pennsylvania)
+** Red Run (Pennsylvania)
+** Falls Creek (Pennsylvania)
+** Little Antietam Creek (Maryland)
+** Beaver Creek (Maryland)
+** Marsh Run (Maryland)
+* [[Shenandoah River]] (West Virginia/Virginia)
+** [[North Fork Shenandoah River]] (Virginia)
+*** [[Cedar Creek (North Fork Shenandoah River)|Cedar Creek]] (Virginia)
+*** [[Smith Creek (Virginia)|Smith Creek]] (Virginia)
+** [[South Fork Shenandoah River]] (Virginia)
+* [[Catoctin Creek (Virginia)|Catoctin Creek]] (Virginia)
+* [[Catoctin Creek (Maryland)|Catoctin Creek]] (Maryland)
+* [[Tuscarora Creek (Potomac River)|Tuscarora Creek]] (Maryland)
+* [[Monocacy River]] (Maryland)
+** [[Bennett Creek (Monocacy River)|Bennett Creek]] (Maryland)
+** [[Ballenger Creek]] (Maryland)
+** [[Bush Creek (Monocacy River)|Bush Creek]] (Maryland)
+** [[Linganore Creek]] (Maryland)
+** [[Carroll Creek (Maryland)|Carroll Creek]] (Maryland)
+** [[Tuscarora Creek (Monocacy River)|Tuscarora Creek]] (Maryland)
+** [[Double Pipe Creek]] (Maryland)
+** [[Toms Creek (Monocacy River)|Toms Creek]] (Pennsylvania)
+** [[Marsh Creek (Monocacy River)|Marsh Creek]] (Pennsylvania/Maryland)
+** [[Rock Creek (Monocacy River)|Rock Creek]] (Pennsylvania/Maryland)
+* [[Little Monocacy River]] (Maryland)
+* [[Broad Run (Maryland)|Broad Run]] (Maryland)
+* [[Goose Creek (Potomac River)|Goose Creek]] (Virginia)
+** [[Little River (Goose Creek)|Little River]] (Virginia)
+** [[Sycolin Creek (Goose Creek)|Sycolin Creek]] (Virginia)
+** [[Tuscarora Creek (Goose Creek)|Tuscarora Creek]] (Virginia)
+** [[Cattail Branch (Goose Creek)|Cattail Branch]] (Virginia)
+* [[Broad Run (Loudoun County, Virginia)|Broad Run]] (Virginia)
+** [[Horsepen Run (Broad Run)|Horsepen Run]] (Virginia)
+** [[Cabin Branch (Broad Run)|Cabin Branch]] (Virginia)
+** [[Beaverdam Run (Broad Run)|Beaverdam Run]] (Virginia)
+*  Horsepen Branch (Maryland)
+* [[Sugarland Run (Potomac River)|Sugarland Run]] (Virginia)
+* [[Seneca Creek (Potomac River)|Seneca Creek]] (Maryland)
+* [[Dry Seneca Creek]] (Maryland)
+* [[Little Seneca Creek]] (Maryland)
+* [[Tenmile Creek (Maryland)|Tenmile Creek]] (Maryland)
+* [[Great Seneca Creek]] (Maryland)
+* Old Sugarland Run (Virginia)
+* [[Muddy Branch]] (Maryland)
+* Nichols Run (Virginia)
+* [[Watts Branch (Potomac River)|Watts Branch]] (Maryland)
+* Limekiln Branch (Maryland)
+* Carroll Branch (Maryland)
+* Pond Run (Virginia)
+* Clarks Branch (Virginia)
+* Mine Run Branch (Virginia)
+* [[Difficult Run]] (Virginia)
+* Bullneck Run (Virginia)
+* [[Rock Run (Potomac River)|Rock Run]] (Maryland)
+* Scott Run (Virginia)
+* Dead Run (Virginia)
+* Turkey Run (Virginia)
+* [[Cabin John Creek (Potomac River)|Cabin John Creek]] (Maryland)
+* Minnehaha Branch (Maryland)
+* [[Little Falls Branch (Potomac River)|Little Falls Branch]] (Maryland)
+</blockquote>
+|}
+
+===Tidal Potomac River===
+[[File:2016-08-28 10 15 51 View southwest across the Potomac River from the south end of Cobb Island Road on Cobb Island, Charles County, Maryland.jpg|thumb|right|View southwest across the tidal Potomac River from the south end of [[Maryland Route 254|Cobb Island Road]] on [[Cobb Island (Maryland)|Cobb Island]], [[Charles County, Maryland]] ]]
+The Tidal Potomac River lies below the [[Atlantic Seaboard fall line|Fall Line]]. This 108-mile (174-km) stretch encompasses the Potomac from a short distance below the [[Washington, DC]] - [[Montgomery County, Maryland|Montgomery County]] line, just downstream of the [[Little Falls of the Potomac River]], to the [[Chesapeake Bay]].<ref>{{cite web |title=Potomac River Basin Fact Sheet |url=https://www.potomacriver.org/wp-content/uploads/2014/11/Potomac-Basin-Fact-Sheet_Oct_2015.pdf| date=October 2015 |website=www.potomacriver.org |publisher=Interstate Commission on the Potomac River Basin (ICPRB) |access-date=28 March 2019}}</ref>
+
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+! Tributaries of the Tidal Potomac River
+|-
+|
+<blockquote>
+* [[Pimmit Run]] (Virginia)
+* [[Gulf Branch]] (Virginia)
+* [[Donaldson Run]] (Virginia)
+* [[Windy Run]] (Virginia)
+* [[Spout Run]] (Virginia)
+* [[Maddox Branch]] (District of Columbia)
+* [[Foundry Branch]] (District of Columbia)
+* [[Rock Creek (Potomac River)|Rock Creek]] (District of Columbia/Maryland)
+* Rocky Run (Virginia) (paved over)
+* [[Tiber Creek]] (District of Columbia) (paved over)
+* Roaches Run (Virginia)
+* [[Washington Channel]] (District of Columbia)
+* [[Anacostia River]] (District of Columbia/Maryland; [[Buzzard Point]])
+** [[Stickfoot Branch]] (District of Columbia)
+** [[Pope Branch]] (District of Columbia)
+** [[Watts Branch (Anacostia River)|Watts Branch]] (District of Columbia/Maryland)
+** [[Hickey Run]] (District of Columbia)
+** [[Beaverdam Creek (Anacostia River)|Beaverdam Creek]] (District of Columbia/Maryland)
+** [[Northwest Branch Anacostia River]] (Maryland)
+*** [[Sligo Creek]] (Maryland)
+** [[Northeast Branch Anacostia River]] (Maryland)
+*** [[Paint Branch]] (Maryland)
+* [[Four Mile Run]] (Virginia)
+** Lubber Run (Virginia)
+** Long Branch (upper) (Virginia)
+** Doctors Run (Doctors Branch) (Virginia)
+** Lucky Run (Virginia) (paved over)
+** Long Branch (lower) (Virginia)
+* [[Oxon Creek]] (District of Columbia/Maryland)
+* [[Hunting Creek]] (Virginia)
+** [[Cameron Run]] (Virginia)
+*** Backlick Run (Virginia)
+*** [[Holmes Run]] (Virginia)
+** [[Hooff Run]] (Virginia)
+* [[Broad Creek (Potomac River)|Broad Creek]] (Maryland)
+* Henson Creek (Maryland)
+* Swan Creek (Maryland)
+* [[Piscataway Creek]] (Maryland)
+* [[Little Hunting Creek]] (Virginia)
+* [[Dogue Creek]] (Virginia)
+* [[Accotink Creek]] (Virginia)
+* [[Pohick Creek]] (Virginia)
+* [[Pomonkey Creek]] (Maryland)
+* [[Occoquan River]] (Virginia)
+** [[Bull Run (Occoquan River)|Bull Run]] (Virginia)
+** [[Broad Run (Occoquan River)|Broad Run]] (Virginia)
+** [[Cedar Run (Occoquan River)|Cedar Run]] (Virginia)
+* [[Neabsco Creek]] (Virginia)
+* [[Powell's Creek]] (Virginia)
+* [[Mattawoman Creek]] (Maryland)
+* [[Chicamuxen Creek]] (Maryland)
+* [[Quantico Creek]] (Virginia)
+* [[Little Creek (Potomac River)|Little Creek]] (Virginia)
+* [[Chopawamsic Creek]] (Virginia)
+* [[Tank Creek]] (Virginia)
+* [[Aquia Creek]] (Virginia)
+* [[Potomac Creek]] (Virginia)
+** [[Accokeek Creek]] (Virginia)
+* [[Nanjemoy Creek]] (Maryland)
+* [[Chotank Creek]] (Virginia)
+* [[Port Tobacco River]] (Maryland)
+* [[Popes Creek (Maryland)|Popes Creek]] (Maryland)
+* [[Gambo Creek]] (Virginia)
+* [[Clifton Creek]] (Maryland)
+* [[Piccowaxen Creek]] (Maryland)
+* [[Upper Machodoc Creek]] (Virginia)
+** [[Cuckold Creek]] (Maryland)
+* [[Wicomico River (Maryland eastern shore)|Wicomico River]] (Maryland)
+* [[Neale Sound|Cobb Island]] (Maryland)
+* [[Monroe Creek]] (Virginia)
+* [[Mattox Creek]] (Virginia)
+* [[Popes Creek (Virginia)|Popes Creek]] (Virginia)
+* [[Breton Bay, Leonardtown]] (Maryland)
+* [[St. Marys River (Maryland)|St. Marys River]] (Maryland)
+* [[Yeocomico River]] (Virginia)
+* [[Coan River]] (Virginia)
+* [[Hull Creek (Potomac River)|Hull Creek]] (Virginia)
+** [[Sword's Creek]] (Maryland)
+</blockquote>
+|}
+
+<br />&nbsp;
+
+==Additional images==
+
+{{col-begin}}
+
+{{col-3}}
+
+===Upper and lower Potomac===
+
+[[File:View of Potomac River at Junction of Cacapon River.jpg|thumb|center|225px|Confluence of the [[Cacapon River]] (barely visible) with the Potomac]]
+
+[[File:Potomac River Water Gaps Harpers Ferry w compass and pointer.jpg|thumb|center|Oblique air photo, facing southwest, of the Potomac River flowing through water gaps in the Blue Ridge Mountains. Virginia on the left, Maryland on the right, West Virginia in upper right, including Harpers Ferry (partially obscured by Maryland Heights of Elk Ridge Mountain) at the confluence of the Potomac and Shenandoah Rivers.]]
+
+[[File:Potomac River at Goose Creek.jpg|thumbnail|center|Potomac River at [[Goose Creek (Potomac River)|Goose Creek]] ]]
+
+[[File:PR Great Falls of the Potomac aquatint by George Beck 1802.jpg|thumb|center|[[Great Falls (Potomac River)|The Great Falls of the Potomac]], viewed from the Virginia bank of the river (Engraving based on an aquatint drawn by [[George Beck (artist)|George Jacob Beck in 1802)]] ]]
+
+{{col-3}}
+
+===Tidal Potomac===
+
+[[File:PR Georgetown or City of Washington 1801 by Beck.jpg|thumb|center|View of the Potomac River, [[Theodore Roosevelt Island|Analostan Island]], [[Georgetown (Washington, D.C.)|Georgetown]], and, in the distance, buildings of the nascent [[History of Washington, D.C.|City of Washington]]. (Engraving based on an 1801 watercolor by [[George Beck (artist)|George Jacob Beck]]) ]]
+
+[[File:Jefferson Memorial.jpg|thumb|center|[[Jefferson Memorial]] in [[Washington, D.C.]], viewed from across the [[Tidal Basin, Washington DC|Tidal Basin]] of the Potomac]]
+
+[[File:The Pentagon US Department of Defense building.jpg|thumb|center|[[The Pentagon]], looking northeast with the Potomac in the distance]]
+
+[[File:East Branch of the Potomac 1839 (via xparency) LOC.jpg|thumb|center|East Branch of the Potomac (now called the [[Anacostia River]]) near its confluence with the mainstem Potomac in Washington. (Watercolor drawn in 1839 by Augustus Kollner)]]
+
+[[File:View of Potomac River from Mount Vernon.jpg|thumb|center|View of the Potomac from [[Mount Vernon]]]]
+
+[[File:Potomac Reagan National.jpg|thumb|center|Potomac River seen while landing at [[Reagan National Airport]]]]
+
+&nbsp;
+
+{{col-3}}
+
+===Other===
+
+[[File:2016-06-06 16 55 09 View northeast down the North Branch Potomac River from the Gorman-Gormania Bridge (U.S. Route 50) between Gormania, Grant County, West Virginia and Gorman, Garrett County, Maryland.jpg|thumb|center|View northeast down the North Branch Potomac River from the Gorman-Gormania Bridge [[U.S. Route 50 in Maryland|(U.S. Route 50)]] between [[Gormania, West Virginia|Gormania, Grant County, West Virginia]] and [[Gorman, Maryland|Gorman, Garrett County, Maryland]] ]]
+
+[[File:2016-06-18 07 22 42 View east down the North Branch Potomac River from the Piedmont-Westernport Bridge between Piedmont, Mineral County, West Virginia and Westernport, Allegany County, Maryland.jpg|thumb|center|The North Branch Potomac River near Piedmont, WV]]
+
+[[File:Potomac River South Branch Depot WV 2007 05 07 07.jpg|thumb|center|The South Branch Potomac River near South Branch Depot, WV]]
+
+[[File:South Branch Potomac River Millesons Mill WV 2007 05 07 01.jpg|thumb|center|The South Branch of the Potomac River at Millesons Mill, WV]]
+
+[[File:Map of Potomac River Watershed in West Virginia Virginia Pennsylvania Maryland.jpg|thumb|center|Potomac River Watershed in West Virginia, Virginia, Pennsylvania, and Maryland]]
+
+{{col-end}}
+
+==See also==
+* [[Air Florida Flight 90]]
+* [[List of cities and towns along the Potomac River]]
+* [[List of crossings of the Potomac River]]
+* [[List of islands on the Potomac River]]
+* [[List of rivers of Maryland]]
+* [[List of rivers of Virginia]]
+* [[List of rivers of West Virginia]]
+* [[List of tributaries of the Potomac River]]
+* [[List of variant names of the Potomac River]]
+* [[Potomac Heritage Trail]]
+
+==Notes and references==
+===Notes===
+* {{cnote|AQU|The diversion dam at Great Falls, often called the [[Washington Aqueduct|"Aqueduct Dam"]], was built in the 1850s by the US Army Corps of Engineers as part of the project assigned to them by Congress to supply clean water from above Great Falls to Washington, DC. Water diverted by the dam flows 12 miles through a 9-foot diameter pipeline to Dalecarlia Reservoir on the outskirts of the city where it is first allowed to settle and then filtered and purified before being distributed to consumers. Since 1927, potable water from Dalecarlia has also been provided to Arlington County and some other sections of nearby northern Virginia through three 20-inch diameter pipelines that cross the Potomac under the deck of Chain Bridge. In addition, there is nearby a 4-foot diameter conduit constructed in 1967 that traverses the Potomac beneath the riverbed which is used primarily for backup purposes.<ref>[https://archive.today/20180219231327/https://www.washingtonian.com/2007/03/01/water-water/ "Water, Water ... "] by Larry Van Dyne, ''Washingtonian Magazine'' (March 2007)</ref><ref>[https://archive.today/20180219231922/http://www.virginiaplaces.org/nova/watersourcesnova.html "Sources of Northern Virginia Drinking Water"], ''Virginia Places''</ref> }}
+* {{cnote|GHL|"Evidence of the ancient Potomac River bed can be seen in well-rounded boulders, smoothed surfaces and grooves, and beautifully formed potholes. Look for sandstone boulders along the trail, which were deposited by massive floods. The sandy soils along the river trail, with shells mixed in, are a result of sediment deposits from floods. Some of the oldest sediment deposits in the area can be found on '''Glade Hill''', between the Matildaville and Carriage Road trails. '''Glade Hill''' was once an island in the Potomac River, and the deposits found there were left before Mather Gorge formed."<ref>[https://www.nps.gov/grfa/learn/nature/geology.htm Great Falls Geology], National Park Service, April 10, 2015</ref> }}
+* {{cnote|PIF|"In the Late Pennsylvanian, the rocks of the Stubblefield Falls domain of the Mather Gorge Formation moved up relative to the Sykesville Formation on the steep, west-dipping Plummers Island fault and mylonite zones (Schoenborn, 2001) within an existing Plummers Island shear zone (figs. 5, 6). Shearing formed S2 cleavage with below-closure muscovite growth and more pervasive S2 cleavage in the Sykesville Formation. By the earliest Permian, all of the rocks in the Potomac terrane had cooled through 235°C (figs. 3, 5). Apatite fission-track data indicate cooling through ~90°C to 100°C in Early Jurassic to Early Cretaceous time, with increasing ages to the east, suggesting kilometer-scale rotation of the Potomac terrane in the Cretaceous and (or) Tertiary, with the west side up."<ref>Michael J. Kunk, et al., [https://pubs.usgs.gov/circ/2004/1264/html/trip5/ Multiple Paleozoic Metamorphic Histories, Fabrics, and Faulting in the Westminster and Potomac Terranes, Central Appalachian Piedmont, Northern Virginia and Southern Maryland], U.S. Geological Survey, 23 November 2016</ref> }}
+* {{cnote|BLK|"Two samples collected from the terrace dissected by Great Falls indicate that the Falls were established in their current location by 30 ky. A series of 6 samples taken from a vertical transect just below the falls, indicates that vertical incision continued a rate of 0.5 m/ky between 27 and 12 ky, increasing to nearly 1.0 m/ky during the Holocene. These data suggest that the drop over Great Falls is growing with time. A dramatic increase in outcrop weathering and soil depth 3.5 km downstream of the Falls, suggests that prior to establishment of the Great Falls knickzone, a similar feature was likely present near Black Pond. 10-Be data are not yet available for this paleo knick zone; however, a 10-Be model age >200 ky from the top of Plummers island 5 km down stream of Black Pond suggests a much older period of retreat led to the formation of the Black Pond paleo knick zone."<ref>Paul Bierman, et. al., [https://gsa.confex.com/gsa/2004NE/finalprogram/abstract_69763.htm Great Falls is 30,000 Years Old], Paper No. 35-5, Session No. 35, Geomorphic Process Rates on the Passive Margin, March 26, 2004. Geological Society of America ''Abstracts with Programs'', Vol. 36, No. 2, p. 94</ref>}}
+* {{cnote|PES|"The Potomac Estuary: From the Chain Bridge in Washington, DC, to Point Lookout at the confluence with the Chesapeake Bay, the Potomac Estuary is a long and narrow estuary—approximately 189 km. With its many tributaries and bays, however, the Potomac Estuary has a shoreline of 1,800 km. The Estuary meanders in a south, southeasterly direction, except for a sharp bend about halfway downriver. The Estuary has three well-defined and distinct zones. The upper zone, from Chain Bridge to Indian Head, is the tidal freshwater reach, with salinities of less than 0.5 parts per thousand (ppt). The middle reach, between Indian Head and the Route 301 Bridge at Morgantown, is the transition zone. The salinity of this zone varies from 0.5 to 7.0 ppt and is often referred to as the zone of maximum turbidity. The lower zone, from the 301 Bridge to Point Lookout, has salinities ranging from 7 to 16 ppt."<ref>[http://www.potomacriver.org/wp-content/uploads/2015/07/NAJ_01_Chap1.pdf Chapter One: Introduction]</ref> }}
+* {{cnote|TRI|The rocky western (upriver) and central portions of the island are part of the Piedmont Plateau, while the southeastern part is within the Atlantic Coastal Plain. At one point opposite Georgetown, the Atlantic Seaboard fall line between the Piedmont and the Coastal Plain can be seen as a natural phenomenon. The island has about 2.5-mile (4.0 km) of shoreline, and the highest area of the island (where the Mason mansion stood) is about 44 feet (13 m) above sea level.<!-- Text copied from [[Theodore Roosevelt Island#Geography and natural history]] April 2018 -->}}
+
+===References===
+{{reflist}}
+
+===Works cited===
+{{refbegin}}
+* Rice, James D., ''Nature and History in the Potomac Country: From Hunter-Gatherers to the Age of Jefferson.'' (2009), Baltimore: Johns Hopkins University Press; {{ISBN|0-8018-9032-2}}; {{ISBN|978-0-8018-9032-1}}
+* Smith, J. Lawrence, ''The Potomac Naturalist: The Natural History of the Headwaters of the Historic Potomac'' (1968), Parsons, WV: McClain Printing Co.; {{ISBN|0-87012-023-9}}; {{ISBN|978-0-87012-023-7}}
+
+{{refend}}
+
+==External links==
+{{Sister project links|Potomac River}}
+* [http://water.weather.gov/ahps/ Advanced Hydrologic Prediction Service] - [https://web.archive.org/web/20150622084034/http://newweb.erh.noaa.gov/ahps2/index.php?wfo=lwx Baltimore/Washington (Sterling, VA)] - including Potomac River levels
+** Potomac River level at [http://water.weather.gov/ahps2/hydrograph.php?wfo=lwx&gage=wllm2&view=1,1,1,1,1,1 Williamsport]
+** Potomac River level at [http://water.weather.gov/ahps2/hydrograph.php?wfo=lwx&gage=hfew2&view=1,1,1,1,1,1 Harpers Ferry]
+** Potomac River level at [http://water.weather.gov/ahps2/hydrograph.php?wfo=lwx&gage=porm2&view=1,1,1,1,1,1 Point of Rocks]
+** Potomac River level at [http://water.weather.gov/ahps2/hydrograph.php?wfo=lwx&gage=brkm2&view=1,1,1,1,1,1 Little Falls]
+** Potomac River level at [http://water.weather.gov/ahps2/hydrograph.php?wfo=lwx&gage=gtnd2&view=1,1,1,1,1,1 Wisconsin Avenue]
+* [https://books.google.com/books?id=VsPiAAAAMAAJ&pg=PP6#v=onepage&q&f=false ''Geology of the National Capital Region: Field Trip Guidebook'' (2004) edited by Scott Southworth, William Chapin Burton, Reston, VA: U.S. Geological Survey]
+* [http://www.candocanal.org/articles/flowers.pdf ''Guide to Spring Wildflowers on the Towpath'' (2010) compiled by the C&O Canal Association Nature Committee]
+* [http://www.potomacriver.org/ Interstate Commission on the Potomac River Basin (ICPRB)]
+* [http://www.potomac.org/ Potomac Conservancy]
+* [http://www.nps.gov/pohe/ Potomac Heritage National Scenic Trail]
+* [http://www.potomacriverkeeper.org/ Potomac Riverkeeper]
+* [https://www.potomacriver.org/potomac-basin-facts/potomac-timeline/ Potomac Timeline] (focus on water quality) by ICPRB
+* [https://web.archive.org/web/20020602104614/http://www.potomacwatershed.net/ Potomac Watershed Partnership]
+* [http://www.potomacroundtable.org/ Potomac Watershed Roundtable]
+* [http://www.pwconserve.org/ Prince William Conservation Alliance]
+* [https://web.archive.org/web/20160303175407/http://potomacstewards.org/ Stewards of the Potomac Highlands]
+* [http://www.southbranchpotomac.org/ South Branch Consortium]
+* [https://www.nps.gov/parkhistory/online_books/grfa/sec2.htm ''The River and the Rocks: The Geologic Story of Great Falls and the Potomac River Gorge'' (Second edition, 1980) by John C. Reed, Jr. et al, Washington, DC: US Government Printing Office]; also available in [https://pubs.usgs.gov/bul/1471/report.pdf downloadable pdf format]
+* [https://pubs.usgs.gov/of/1997/0060/report.pdf ''The Seven-Storey River: Geomorphology of the Potomac River Channel Between Blockhouse Point, Maryland, and Georgetown, District of Columbia, With Emphasis on the Gorge Complex Below Great Falls'' (1997) by E-an Zen, Reston, VA: US Geological Survey]
+* [http://www.dcr.virginia.gov/natural-heritage/document/pogovegecol3.pdf VEGETATION ECOLOGY OF THE POTOMAC GORGE] by the Virginia Department of Conservation and Recreation, Division of Natural Heritage
+* [https://web.archive.org/web/20160126233357/http://www.wvdnr.gov/fishing/fishing.shtm West Virginia Division of Natural Resources]
+* [http://www.wvrivers.org/ West Virginia Rivers Coalition]
+* [http://www.switchfisher.com/admin/CatchGuides/NBCatchguide.html Trout and Smallmouth Fishing on the North Branch of the Potomac]
+* [http://www.switchfisher.com/admin/CatchGuides/CG-UPCatchguide.html Wade and Shoreline Fishing the Potomac River for Smallmouth Bass]
+
+{{Potomac River System}}
+{{Maryland waters}}
+{{Monongahela National Forest}}
+{{AHR}}
+
+{{Authority control}}
+
+[[Category:Potomac River| ]]
+[[Category:Potomac River watershed| ]]
+[[Category:Rivers of the United States]]
+[[Category:Rivers of Washington, D.C.]]
+[[Category:Rivers of Maryland]]
+[[Category:Rivers of Virginia]]
+[[Category:Rivers of West Virginia]]
+[[Category:Monongahela National Forest]]
+[[Category:History of West Virginia]]
+[[Category:Borders of Maryland]]
+[[Category:Borders of Virginia]]
+[[Category:Borders of West Virginia]]
+[[Category:American Heritage Rivers]]
+[[Category:Tributaries of the Chesapeake Bay]]

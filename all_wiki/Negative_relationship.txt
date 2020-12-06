@@ -1,0 +1,23 @@
+[[File:IdempotentCosineAngle.jpg |right|thumb|300px|When 3&pi; /2 > &theta; > &pi; /2 , then cos(&theta;) < 0.]]
+
+In [[statistics]], there is a '''negative relationship''' or '''inverse relationship''' between two variables if higher values of one variable tend to be associated with lower values of the other. A negative relationship between two variables usually implies that the [[correlation]] between them is negative, or &mdash; what is in some contexts equivalent &mdash; that the [[slope]] in a corresponding graph is negative. A '''negative correlation''' between variables is also called '''anticorrelation''' or '''inverse correlation'''.
+
+Negative correlation can be seen geometrically when two normalized [[random vector]]s are viewed as points on a sphere, and the [[Pearson correlation coefficient#Geometric interpretation|correlation]] between them is the [[cosine]] of the arc of separation of the points on the sphere.<ref> R. J. Rummel [http://www.hawaii.edu/powerkills/UC.HTM Understanding Correlation] from [[University of Hawaii]]</ref> When this arc is more than a quarter-circle (&theta; > &pi;/2), then the cosine is negative. [[Diametrically opposed]] points represent a correlation of –1 = cos(&pi;). Any two points not in the same hemisphere have negative correlation.
+
+An example would be a negative [[cross-sectional]] relationship between illness and vaccination, if it is observed that where the incidence of one is higher than average, the incidence of the other tends to be lower than average. Similarly, there would be a negative [[time series|temporal]] relationship between illness and vaccination if it is observed in one location that times with a higher-than-average incidence of one tend to coincide with a lower-than-average incidence of the other.
+
+A particular inverse relationship is called [[Proportionality (mathematics)#Inverse proportionality|inverse proportionality]], and is given by <math>y = k/x </math> where ''k'' > 0 is a [[constant (mathematics)|constant]]. In a [[Cartesian plane]] this relationship is displayed as a [[hyperbola]] with ''y'' decreasing as ''x'' increases.<ref>The [[derivative]] <math>\ y \prime = \frac{-k}{x^2} \ </math> is negative for [[positive real numbers]] ''x'' and as well for negative real numbers. Thus the slope is everywhere negative except at the [[singular point of a curve|singularity]] ''x'' = 0.</ref>
+
+In [[finance]], an inverse correlation between the [[rate of return|returns]] on two different assets enhances the [[financial risk|risk]]-reduction effect of  [[diversification (finance)|diversifying]] by holding them both in the same portfolio.
+
+==See also==
+* [[Diminishing returns]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* Michael Palmer [http://ordination.okstate.edu/STATS.htm Testing for correlation] from [[Oklahoma State University–Stillwater]]
+
+[[Category:Independence (probability theory)]]
+[[Category:Negative concepts]]

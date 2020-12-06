@@ -1,0 +1,118 @@
+{{short description|Electoral system}}
+{{Use dmy dates|date=December 2018}}
+{{more citations needed|date=May 2015}}
+{{Electoral systems}}
+
+The '''additional member system''' ('''AMS'''), also known as [[mixed-member proportional representation]] (MMP) outside the United Kingdom,<ref name="Additional-member system: Politics">{{cite encyclopedia |title=Additional-member system: Politics|url=http://www.britannica.com/topic/additional-member-system|encyclopedia=[[Encyclopædia Britannica]]|accessdate= 24 March 2016}}</ref><ref name="Elections in Wales">{{cite web |title=Elections in Wales |url=http://blogs.cardiff.ac.uk/electionsinwales/2013/11/05/electoral-systems-in-wales-3-ams/|publisher=[[Cardiff University]]}}</ref><ref name="Electoral Reform and Voting Systems">{{cite web |title=Electoral Reform and Voting Systems |url=http://www.politics.co.uk/reference/electoral-reform-and-voting-systems|publisher=Politics.co.uk}}</ref><ref name="Electoral Reform and Voting Systems: MMP">{{cite web |title=Mixed Member Proportional (MMP) System |url=http://www.mec.org.mw/files/column%2040-%20Mixed%20member%20proprtional.pdf |access-date=25 March 2016 |archive-url=https://web.archive.org/web/20171020142244/http://www.mec.org.mw/files/column%2040-%20Mixed%20member%20proprtional.pdf |archive-date=20 October 2017 |url-status=dead }}</ref> is a [[mixed electoral system]] with one tier of single-member district [[legislator|representatives]], and another tier of ‘additional members’ elected to make the overall election results more [[proportional representation|proportional]].
+
+The term ''additional member system'', introduced by the [[Hansard Society]], has been largely replaced in the literature by the term ''mixed member proportional'' coined by [[New Zealand]]'s [[Royal Commission on the Electoral System]] (1984–1986).<ref name=LundbergElecSysRev>{{cite journal|last1=Lundberg|first1=Thomas Carl|title=Electoral System Reviews in New Zealand, Britain and Canada: A Critical Comparison|url=https://core.ac.uk/download/pdf/1395088.pdf|journal=[[Government and Opposition]]|volume=42|issue=4|pages=471–490|year=2007|doi=10.1111/j.1477-7053.2007.00232.x}}</ref> This article focuses primarily on [[semi-proportional representation|semi-proportional]] implementations of MMP designed to yield moderately proportional election results, similar to the mixed systems used in the UK and referred to locally as AMS. In [[Scotland]], [[Wales]], and the [[London Assembly]], the fixed numbers of additional members, elected in relatively small regions, are not always sufficient to fully compensate for the disproportionality caused by the single-member district ([[first-past-the-post voting]]) tier.
+
+== Method of voting ==
+In an election using the additional member system, each voter casts two votes: a vote for a candidate standing in their constituency (with or [[independent candidate|without]] an affiliated party), and a vote for a [[party list]] standing in a wider region made up of multiple constituencies. The constituency vote is used to elect a single representative in the voter's constituency using the traditional [[first-past-the-post voting|first past the post]] system: the candidate [[plurality (voting)|with the most votes]] (not necessarily a majority of the electorate) wins. The regional vote is used to elect representatives from party lists to stand in regional seats, taking into account how many seats were gained by that party in the constituency vote, using a system of [[proportional representation]]: the number of seats a party receives will roughly reflect its percentage of the vote.
+
+Voters are not required to vote for the same party in the constituency and regional votes. If a voter votes for different parties at the constituency and regional levels this is referred to as [[split-ticket voting]]. In the regional vote, the voter votes for a specific party, but has no control over which candidates from the party are elected. On the other hand, in the constituency vote, the voter votes for a specific candidate rather than a party. The [[Arbuthnott Commission]] recommended that Scotland change to a model where the voter can vote for a specific regional candidate as well, but this has not been implemented. With a similar model in [[Bavaria]] the second vote is not simply for the party but for one of the candidates on the party's regional list and both votes count for party and candidates so that every vote counts: Bavaria uses seven regions for this purpose. In [[Baden-Württemberg]] there are no lists; they use the "best near-winner" method in a four-region model, where the regional members are the local candidates of the under-represented party in that region who received the most votes in their local constituency without being elected in it, but this model has not been copied in the United Kingdom.
+
+== Calculation ==
+[[File:Scottish_Election_Results_2016.svg|thumb|right|300px|The Scottish elections are divided into two tiers.]]
+{{see also|Election threshold}}
+{{confusing|date=May 2016}}
+In the model of AMS used in the United Kingdom, the regional seats are divided using a [[D'Hondt method]]. However, the number of seats already won in the local constituencies is taken into account in the calculations for the list seats, and the first average taken in account for each party follows the number of FPTP seats won. For example, if a party won 5 constituency seats, then the first D'Hondt divisor taken for that party would be 6 (5 seats + 1), not 1. The D'Hondt method is also implemented in sequential rounds, rather than using a table to find the highest averages, although both ways produce identical results.<ref>[http://www.assemblywales.org/abthome/abt-nafw/abt-assembly-elections-2/abt-nafw-how-assembly-elected.htm The National Assembly for Wales] {{webarchive |url=https://web.archive.org/web/20090109132651/http://www.assemblywales.org/abthome/abt-nafw/abt-assembly-elections-2/abt-nafw-how-assembly-elected.htm |date=9 January 2009 }}</ref> Similar systems are used in [[Wales]] and London.
+
+In the Italian model of AMS, used from 1993 to 2005, for every constituency seat won by a party, that party's vote total was reduced by the number of votes received by the second-place candidate in the constituency, subject to the condition that the deduction cannot be less than either 25% of the total votes cast in the constituency, or the votes received by the winning candidate, whichever is less.
+
+As in many systems containing or based upon [[party-list]] representation, in order to be eligible for list seats in some AMS models, a party must earn at least a certain percentage of the total party vote, or no candidates will be elected from the party list. Candidates having won a constituency will still have won their seat. In almost all elections in the UK there are no thresholds except the "effective threshold" inherent in the regional structure. However the elections for the [[London Assembly]] have a threshold of 5% which has at times denied seats to the [[Christian Peoples Alliance]] (in [[2000 London Assembly election|the 2000 election]]), the [[British National Party]], [[Respect – The Unity Coalition]] (both in [[2004 London Assembly election|the 2004 election]]), and the [[Women's Equality Party]] (in [[2016 London Assembly election|the 2016 election]]). Under the AMS used in Italy from 1993 to 2005, a threshold of 4% was needed to receive proportional seats.
+
+Since smaller parties are likely, in compensatory systems, to win a larger number of proportional seats, such additional member systems could hand additional political power to the leaders of these parties at the expense of regional directly elected representatives, unless the additional members are elected on an open regional list or a closed regional list as in Scotland and Wales. With closed lists, party-list candidates may become puppets for the party leadership, or may add diversity to the party's elected members.
+The New Zealand solution to the 'puppet' problem is for parties to require list candidates to contest a constituency. This isolates & identifies the candidate's contribution to their party's overall share of the vote. Party members can form judgement based on voting returns.
+The largest party in an election is likely to win a smaller number of proportional seats, so that governing parties may lose diversity, unless the members elected from the party list when it was in opposition then win local seats when the party gains enough support to form the government.
+
+=== Decoy lists ===
+So-called "decoy lists" are a trick to unhinge the compensation mechanisms contained into the proportional part of the AMS, so to ''de facto'' establish a [[parallel voting]] system.
+
+For instance in the [[2001 Italian general election]], one of the two main coalitions (the [[House of Freedoms]] coalition, which opposed the MMP system) linked many of their constituency candidates to a decoy list (''liste civetta'') in the proportional parts, under the name ''Abolizione Scorporo''. As a defensive move, the other coalition, [[The Olive Tree (political coalition)|Olive Tree]], felt obliged to do the same, under the name ''Paese Nuovo''. The constituency seats won by each coalition would not reduce the number of proportional seats they received. Between them, the two decoy lists won 360 of the 475 constituency seats, more than half of the total of 630 seats available, despite winning a combined total of less than 0.2% of the national proportional part of the vote. In the case of [[Forza Italia]] (part of the House of Freedoms), the tactic was so successful that it did not have enough candidates in the proportional part to receive as many seats as it in fact won, missing out on 12 seats.
+
+Decoy lists are not used in Scotland, Wales, or most other places using AMS, where most voters vote for candidates from parties with long-standing names. In the run up to the 2007 Scottish election, the Labour party had considered not fielding list candidates in the [[Glasgow (Scottish Parliament electoral region)|Glasgow]], [[West of Scotland (Scottish Parliament region)|West of Scotland]], and [[Central Scotland (Scottish Parliament electoral region)|Central Scotland]] regions,{{citation needed|date=July 2013}} as their constituency strength in the previous two elections had resulted in no list MSPs; instead they proposed to support a list composed of [[Co-operative Party]] candidates.{{citation needed|date=July 2013}} Before this the Co-operative party had chosen not to field candidates of its own but merely to endorse particular Labour candidates. However the [[Electoral Commission (United Kingdom)|Electoral Commission]] ruled that as membership of the Co-operative party is dependent on membership of the Labour party they could not be considered distinct legal entities.{{citation needed|date=July 2013}}
+
+In contrast, in the [[2007 National Assembly for Wales election|2007 Welsh Assembly election]], [[Forward Wales]] had its candidates (including sitting leader [[John Marek (politician)|John Marek]]) stand as independents, to attempt to gain list seats they would not be entitled to if Forward Wales candidates were elected to constituencies in the given region. However the ruse failed: Marek lost his seat in [[Wrexham (National Assembly for Wales constituency)|Wrexham]] and Forward Wales failed to qualify for any top-up seats.
+
+== Use ==
+AMS is used in:
+
+* Unicameral nation/city [[elections in the United Kingdom]]:
+** [[Scotland]]: the [[Scottish Parliament]]
+** [[Wales]]: the [[Welsh Assembly|Welsh Assembly (Senedd Cymru)]]
+** London: the [[London Assembly]]
+* Unicameral general elections in [[Hungary]]:
+** the [[National Assembly of Hungary|National Assembly]]
+* Bicameral general elections in [[Bolivia]]:
+** the [[Chamber of Deputies of Bolivia|Chamber of Deputies]] ([[Lower house]]).
+
+It was used from 1993 to 2005 in Italy:
+
+* the [[Italian Chamber of Deputies|Chamber of Deputies]], even if ''decoy lists'' changed ''de facto'' the electoral system into a pure [[parallel voting]]
+* the [[Italian Senate]], with a particular single-vote variant: proportional representation was automatically calculated upon all losers in the [[first-past-the-post|FPTP]] races, and candidates with best percentages were elected
+
+In 1976, the [[Hansard Society]] recommended that a mixed electoral system in a form different from the German be used for [[UK parliamentary elections]], but instead of using closed party lists, it proposed that seats be filled by the "best runner-up" basis used by the German state of Baden-Württemberg, where the compensatory seats are filled by the party's defeated candidates who were the 'best near-winner' in each of the state's four regions.<ref>[http://www.hansardsociety.org.uk/wp-content/uploads/2012/10/Commission-on-Electoral-Reform-1976.pdf ''Report of the Hansard Society Commission on Electoral Reform''] {{webarchive |url=https://web.archive.org/web/20151031082741/http://www.hansardsociety.org.uk/wp-content/uploads/2012/10/Commission-on-Electoral-Reform-1976.pdf |date=31 October 2015 }}, [[Hansard Society]], 1976</ref> It was the way that compensatory seats were allocated that made their report the origin of the additional member system, the term which the report also invented, which was then applied along with the much older "mixed system" by English-speaking writers on voting systems to West Germany's system and similar models until [[mixed-member proportional representation|mixed member proportional]] (MMP) was invented for the adoption of the German system proposed for New Zealand in a royal commission report in 1986, which would explain why AMS and MMP have been used as synonyms. The system the Hansard Society proposed was eventually adopted but with closed lists instead of the "best runner-up" (popularly known in Britain as "best losers") provision for elections to the [[Scottish Parliament]], [[Welsh Parliament]] and [[London Assembly]], but not for that proposed for elections to the [[House of Commons of the United Kingdom|House of Commons]].
+
+This system was proposed by the [[Jenkins Commission (UK)|Independent Commission]] in 1999, known as [[Alternative vote top-up]] (AV+). This would have involved the use of the [[Instant-runoff voting|Alternative Vote]] for electing members from single-member constituencies, and regional [[open list|open party lists]]. However, contrary to the [[Labour Party (UK)|Labour Party]]'s earlier manifesto promises, no referendum was held before the [[2001 United Kingdom general election|2001 general election]] and the statement was not repeated.
+
+The AMS system in use in the London Assembly would have been used for the other proposed [[Regional Assemblies in England|regional assemblies]] of England, but this process has stalled since the No vote in the [[Northern England referendums]] in 2004.
+
+=== Scotland ===
+{| class="wikitable" style="float: right"
+|+ Scottish Parliament Election Study 1999 and Scottish Social Attitudes Survey 2003<ref>{{cite book|author1=Catherine Bromley|author2=John Curtice|author3=David McCrone|author4=Alison Park|title=Has Devolution Delivered?|date=4 July 2006|publisher=Edinburgh University Press|isbn=0748627014|page=126|url=https://books.google.com/books?id=4dKqBgAAQBAJ&pg=PA126|quote="Proportion of respondents giving correct answers to knowledge quiz about the electoral system"}}</ref>
+! colspan="3" | % answering correctly
+|- style="background-color:#ffd700;text-align:left;"
+! Question (and correct response)
+! 1999
+! 2003
+|- valign=top
+| You are allowed to vote for the same party on the first and second vote (True)
+| 78%
+| 64%
+|-
+| People are given two votes so that they can show their first and second preferences (False)
+| 63%
+| 48%
+|-
+| No candidate who stands in a constituency contest can be elected as a regional party list member (False)
+| 43%
+| 33%
+|-
+| Regional party list seats are allocated to try to make sure each party has as fair a share of seats as is possible (True)
+| 31%
+| 24%
+|-
+| The number of seats won by each party is decided by the number of first votes they get (False)
+| 30%
+| 26%
+|-
+| Unless a party wins at least 5% of the second vote, it is unlikely to win any regional party lists seats (True)
+| 26%
+| 25%
+|-
+| ''Average''
+| ''45%''
+| ''37%''
+|}
+
+The system implemented for the Scottish Parliament is known to make it more difficult for any one party to win an outright majority, compared to the first-past-the-post system used for general elections to the UK Parliament in Westminster.<ref>{{cite web|url=http://www.scottish.parliament.uk/visitandlearn/Education/16285.aspx |title=Parliament in depth: Electoral System: Electoral system for the Scottish Parliament |publisher=Scottish Parliament |accessdate=23 November 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20141129054933/http://www.scottish.parliament.uk/visitandlearn/Education/16285.aspx |archivedate=29 November 2014 }}</ref> However, in [[2011 Scottish Parliament election|2011]], the [[Scottish National Party]] won 69 seats, a majority of four.<ref>{{cite news|title=Scottish election: SNP majority for second term|url=https://www.bbc.co.uk/news/uk-scotland-13319936|accessdate=5 April 2017|work=BBC News|date=7 May 2011}}</ref>
+
+In the first election for Scotland's new Parliament, the majority of voters surveyed misunderstood some key aspects of the difference there between the "first" (constituency) vote and the "second" (regional list) vote; indeed in some ways the understanding worsened in the second election.
+
+The [[Arbuthnott Commission]] found references to first and second votes fuelled a misconception that the constituency vote should be a first preference and the regional vote a second one. That misconception was not helped by the Green Party's tactic of running only regional candidates and appealing for "second votes".{{Citation needed|date=January 2015}}
+
+To deal with the misunderstanding between "first" and "second" votes, the ballot for the 2007 Scottish Parliament election was changed as recommended by the Arbuthnott Commission. The British government announced on 22 November 2006 that the two separate ballot papers used in the previous Scottish Parliament elections would be replaced for the elections in May 2007 by a single paper, with the left side listing the parties standing for election as regional MSPs and the right side the candidates standing as constituency MSPs.
+
+== See also ==
+* [[Mixed-member proportional representation]]
+* [[Parallel voting]]
+* [[Scorporo]]
+* [[Mixed electoral system]]
+* [[Semi-proportional representation]]
+* [[Types of democracy]]
+
+== References ==
+{{reflist|40em}}
+
+[[Category:Semi-proportional electoral systems]]

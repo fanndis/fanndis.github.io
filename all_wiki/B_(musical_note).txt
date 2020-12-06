@@ -1,0 +1,79 @@
+{{Unreferenced|date=July 2009}}
+'''B''', also known as '''Si''', '''Ti''', or, in some European countries, '''H''', is the seventh [[Musical note|note]] of the [[Solfège#Fixed do solfège|fixed-Do solfège]]. Its [[enharmonic]] equivalents are C{{music|flat}} and A{{music|##}}.
+
+When calculated in [[equal temperament]] with a reference of [[A (musical note)|A]] above middle C as 440&nbsp;[[hertz|Hz]], the [[frequency]] of Middle B (B<sub>4</sub>) is approximately 493.883&nbsp;Hz. See [[pitch (music)]] for a discussion of historical variations in frequency.
+
+==Designation by octave==
+{|class="wikitable"
+![[Scientific pitch notation|Scientific]] designation
+![[Helmholtz pitch notation|Helmholtz]] designation
+!Octave name
+!Frequency (Hz)
+|-
+|B<sub>&minus;1</sub> || B͵͵͵ or ͵͵͵B or BBBB || Subsubcontra ||align=right| {{#expr:440 * 2^((11-69)/12) round 3}}
+|-
+|B<sub>0</sub> || B͵͵ or ͵͵B or BBB || Subcontra ||align=right| {{#expr:440 * 2^((23-69)/12) round 3}}
+|-
+|B<sub>1</sub> || B͵ or ͵B or BB || Contra ||align=right| {{#expr:440 * 2^((35-69)/12) round 3}}
+|-
+|B<sub>2</sub> || B || Great ||align=right| {{#expr:440 * 2^((47-69)/12) round 3}}
+|-
+|B<sub>3</sub> || b || Small ||align=right| {{#expr:440 * 2^((59-69)/12) round 3}}
+|-
+|B<sub>4</sub> || b&prime; || One-lined ||align=right| {{#expr:440 * 2^((71-69)/12) round 3}}
+|-
+|B<sub>5</sub> || b&prime;&prime; || Two-lined ||align=right| {{#expr:440 * 2^((83-69)/12) round 3}}
+|-
+|B<sub>6</sub> || b&prime;&prime;&prime; || Three-lined ||align=right| {{#expr:440 * 2^((95-69)/12) round 3}}
+|-
+|B<sub>7</sub> || b&prime;&prime;&prime;&prime; || Four-lined ||align=right| {{#expr:440 * 2^((107-69)/12) round 3}}
+|-
+|B<sub>8</sub> || b&prime;&prime;&prime;&prime;&prime; || Five-lined ||align=right| {{#expr:440 * 2^((119-69)/12) round 3}}
+|-
+|B<sub>9</sub> || b&prime;&prime;&prime;&prime;&prime;&prime; || Six-lined ||align=right| {{#expr:440 * 2^((131-69)/12) round 3}}
+|-
+|B<sub>10</sub> || b&prime;&prime;&prime;&prime;&prime;&prime;&prime; || Seven-lined ||align=right| {{#expr:440 * 2^((143-69)/12) round 3}}
+|}
+
+==Scales==
+===Common scales beginning on B===
+*[[B major]]: B C{{music|#}} D{{music|#}} E F{{music|#}} G{{music|#}} A{{music|#}} B
+*[[B minor|B natural minor]]: B C{{music|#}} D E F{{music|#}} G A B
+*B [[Minor scale#Harmonic minor scale|Harmonic minor]]: B C{{music|#}} D E F{{music|#}} G A{{music|#}} B
+*B [[Minor scale#Melodic minor scale|Melodic minor]] ascending: B C{{music|#}} D E F{{music|#}} G{{music|#}} A{{music|#}} B
+*B melodic minor descending: B A G F{{music|#}} E D C{{music|#}} B
+
+===[[Diatonic scale|Diatonic scales]]===
+*B [[Ionian mode|Ionian]]: B C{{music|#}} D{{music|#}} E F{{music|#}} G{{music|#}} A{{music|#}} B
+*B [[Dorian mode|Dorian]]: B C{{music|#}} D E F{{music|#}} G{{music|#}} A B
+*B [[Phrygian mode|Phrygian]]: B C D E F{{music|#}} G A B
+*B [[Lydian mode|Lydian]]: B C{{music|#}} D{{music|#}} E{{music|#}} F{{music|#}} G{{music|#}} A{{music|#}} B
+*B [[Mixolydian mode|Mixolydian]]: B C{{music|#}} D{{music|#}} E F{{music|#}} G{{music|#}} A B
+*B [[Aeolian mode|Aeolian]]: B C{{music|#}} D E F{{music|#}} G A B
+*B [[Locrian mode|Locrian]]: B C D E F G A B
+
+===[[Jazz scale#Modes of the melodic minor scale|Jazz melodic minor]]===
+*B [[Jazz minor scale|Ascending melodic minor]]: B C{{music|#}} D E F{{music|#}} G{{music|#}} A{{music|#}} B
+*B [[Dorian ♭2 scale|Dorian ♭2]]: B C D E F{{music|#}} G{{music|#}} A B
+*B [[Lydian augmented scale|Lydian augmented]]: B C{{music|#}} D{{music|#}} E{{music|#}} F{{music|x}} G{{music|#}} A{{music|#}} B
+*B [[Lydian dominant scale|Lydian dominant]]: B C{{music|#}} D{{music|#}} E{{music|#}} F{{music|#}} G{{music|#}} A B
+*B [[Aeolian dominant scale|Mixolydian ♭6]]: B C{{music|#}} D{{music|#}} E F{{music|#}} G A B
+*B [[Half diminished scale|Locrian ♮2]]: B C{{music|#}} D E F G A B
+*B [[Altered scale|Altered]]: B C D E{{music|b}} F G A B
+
+==Variation of meaning by geographical region==
+The referent of the musical note B varies by location. See [[Musical note#History of note names|note]] for a discussion on other differences in letter naming of the notes.
+
+In the United States, Canada, Australia, the United Kingdom, the Republic of Ireland, and the Netherlands, as described above, B usually refers to the note a [[semitone]] below C, while [[B♭ (musical note)|B-flat]] refers to the note a [[Major second|whole tone]] below C.
+
+However, in Germany, [[Central Europe|Central]] and [[Eastern Europe]], and [[Scandinavia]], the label B is used for what, above, is called B-flat, and the note a [[semitone]] below C is called H. This makes possible certain spellings which are otherwise impossible, such as the [[BACH motif]] and the [[DSCH motif]] (the latter of which also uses the "S" name for what in Anglophone and Dutch notation would be [[E♭ (musical note)|E-flat]]).
+
+==See also==
+*[[Piano key frequencies]]
+*[[B major]]
+*[[B minor]]
+*[[Root (chord)]]
+
+{{Semitones}}
+
+[[Category:Musical notes]]

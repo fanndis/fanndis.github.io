@@ -1,0 +1,73 @@
+{{short description|Musical note}}
+'''C{{music|sharp}}''' ('''C-sharp''') is a musical note lying a [[chromatic semitone]] above [[C (musical note)|C]] and a [[diatonic semitone]] below [[D (musical note)|D]]. C-sharp is thus [[enharmonic]] to [[D♭ (musical note)|D{{music|flat}}]]. It is the second semitone in the French [[solfège]] and is known there as ''do dièse''. In some European notations, it is known as '''Cis'''. In equal temperament it is also enharmonic with B{{music|double sharp}} (Hisis).
+
+When calculated in [[equal temperament]] with a reference of [[A (musical note)|A]] above [[middle C]] as 440 [[hertz|Hz]], the [[frequency]] of C{{music|sharp}}<sub>4</sub> (the C{{music|sharp}} above middle C) is about 277.18&nbsp;Hz. See [[pitch (music)]] for a discussion of historical variations in frequency.
+
+==Designation by octave==
+{|class="wikitable"
+![[Scientific pitch notation|Scientific]] designation
+![[Helmholtz pitch notation|Helmholtz]] designation
+!Octave name
+!Frequency (Hz)
+|-
+|C{{music|sharp}}<sub>−1</sub> || C{{music|sharp}}͵͵͵ or ͵͵͵C{{music|sharp}} or CCCC{{music|sharp}} ||Subsubcontra ||align="right"| {{#expr:440 * 2^((1-69)/12) round 3}}
+|-
+|C{{music|sharp}}<sub>0</sub> || C{{music|sharp}}͵͵ or ͵͵C{{music|sharp}} or CCC{{music|sharp}} ||Subcontra ||align="right" | {{#expr:440 * 2^((13-69)/12) round 3}}
+|-
+|C{{music|sharp}}<sub>1</sub> || C{{music|sharp}}͵ or ͵C{{music|sharp}} or CC{{music|sharp}} || Contra ||align="right" | {{#expr:440 * 2^((25-69)/12) round 3}}
+|-
+|C{{music|sharp}}<sub>2</sub> || C{{music|sharp}} || Great ||align="right" | {{#expr:440 * 2^((37-69)/12) round 3}}
+|-
+|C{{music|sharp}}<sub>3</sub> || c{{music|sharp}} || Small ||align="right" | {{#expr:440 * 2^((49-69)/12) round 3}}
+|-
+|C{{music|sharp}}<sub>4</sub> || c{{music|sharp}}&prime; || One-lined ||align="right" | {{#expr:440 * 2^((61-69)/12) round 3}}
+|-
+|C{{music|sharp}}<sub>5</sub> || c{{music|sharp}}&prime;&prime; || Two-lined ||align="right" | {{#expr:440 * 2^((73-69)/12) round 3}}
+|-
+|C{{music|sharp}}<sub>6</sub> || c{{music|sharp}}&prime;&prime;&prime; || Three-lined ||align="right" | {{#expr:440 * 2^((85-69)/12) round 3}}
+|-
+|C{{music|sharp}}<sub>7</sub> || c{{music|sharp}}&prime;&prime;&prime;&prime; || Four-lined ||align="right" |{{#expr:440 * 2^((97-69)/12) round 3}}
+|-
+|C{{music|sharp}}<sub>8</sub> || c{{music|sharp}}&prime;&prime;&prime;&prime;&prime; ||  Five-lined ||align="right" |{{#expr:440 * 2^((109-69)/12) round 3}}
+|-
+|C{{music|sharp}}<sub>9</sub> || c{{music|sharp}}&prime;&prime;&prime;&prime;&prime;&prime; || Six-lined ||align="right" |{{#expr:440 * 2^((121-69)/12) round 3}}
+|-
+|C{{music|sharp}}<sub>10</sub> ||c{{music|sharp}}&prime;&prime;&prime;&prime;&prime;&prime;&prime; ||  Seven-lined ||align="right" |{{#expr:440 * 2^((133-69)/12) round 3}}
+|}
+
+==Scales==
+===Common scales beginning on C{{music|#}}===
+*[[C-sharp major|C{{music|#}} major]]: C{{music|#}} D{{music|#}} E{{music|#}} F{{music|#}} G{{music|#}} A{{music|#}} B{{music|#}} C{{music|#}}
+*[[C-sharp minor|C{{music|#}} natural minor]]: C{{music|#}} D{{music|#}} E F{{music|#}} G{{music|#}} A B C{{music|#}}
+*C{{music|#}} [[Minor scale#Harmonic minor scale|harmonic minor]]: C{{music|#}} D{{music|#}} E F{{music|#}} G{{music|#}} A B{{music|#}} C{{music|#}}
+*C{{music|#}} [[Minor scale#Melodic minor scale|melodic minor]] Ascending: C{{music|#}} D{{music|#}} E F{{music|#}} G{{music|#}} A{{music|#}} B{{music|#}} C{{music|#}}
+*C{{music|#}} melodic minor descending: C{{music|#}} B A G{{music|#}} F{{music|#}} E D{{music|#}} C{{music|#}}
+
+===[[Diatonic scale]]s===
+*C{{music|#}} [[Ionian mode|Ionian]]: C{{music|#}} D{{music|#}} E{{music|#}} F{{music|#}} G{{music|#}} A{{music|#}} B{{music|#}} C{{music|#}}
+*C{{music|#}} [[Dorian mode|Dorian]]: C{{music|#}} D{{music|#}} E F{{music|#}} G{{music|#}} A{{music|#}} B C{{music|#}}
+*C{{music|#}} [[Phrygian mode|Phrygian]]: C{{music|#}} D E F{{music|#}} G{{music|#}} A B C{{music|#}}
+*C{{music|#}} [[Lydian mode|Lydian]]: C{{music|#}} D{{music|#}} E{{music|#}} F{{music|x}} G{{music|#}} A{{music|#}} B{{music|#}} C{{music|#}}
+*C{{music|#}} [[Mixolydian mode|Mixolydian]]: C{{music|#}} D{{music|#}} E{{music|#}} F{{music|#}} G{{music|#}} A{{music|#}} B C{{music|#}}
+*C{{music|#}} [[Aeolian mode|Aeolian]]: C{{music|#}} D{{music|#}} E F{{music|#}} G{{music|#}} A B C{{music|#}}
+*C{{music|#}} [[Locrian mode|Locrian]]: C{{music|#}} D E F{{music|#}} G A B C{{music|#}}
+
+===[[Jazz scale#Modes of the melodic minor scale|Jazz melodic minor]]===
+*C{{music|#}} [[Jazz minor scale|ascending melodic minor]]: C{{music|#}} D{{music|#}} E F{{music|#}} G{{music|#}} A{{music|#}} B{{music|#}} C{{music|#}}
+*C{{music|#}} [[Dorian ♭2 scale|Dorian ♭2]]: C{{music|#}} D E F{{music|#}} G{{music|#}} A{{music|#}} B C{{music|#}}
+*C{{music|#}} [[Lydian augmented scale|Lydian augmented]]: C{{music|#}} D{{music|#}} E{{music|#}} F{{music|x}} G{{music|x}} A{{music|#}} B{{music|#}} C{{music|#}}
+*C{{music|#}} [[Lydian dominant scale|Lydian dominant]]: C{{music|#}} D{{music|#}} E{{music|#}} F{{music|x}} G{{music|#}} A{{music|#}} B C{{music|#}}
+*C{{music|#}} [[Aeolian dominant scale|Mixolydian ♭6]]: C{{music|#}} D{{music|#}} E{{music|#}} F{{music|#}} G{{music|#}} A B C{{music|#}}
+*C{{music|#}} [[Half diminished scale|Locrian ♮2]]: C{{music|#}} D{{music|#}} E F{{music|#}} G A B C{{music|#}}
+*C{{music|#}} [[Altered scale|Altered]]: C{{music|#}} D E F G A B C{{music|#}}
+
+==See also==
+*[[D♭ (musical note)]], an enharmonic note
+*[[Piano key frequencies]]
+*[[Root (chord)]]
+{{Semitones}}
+
+{{DEFAULTSORT:Csharp}}
+[[Category:Musical notes]]
+
+{{music-theory-stub}}

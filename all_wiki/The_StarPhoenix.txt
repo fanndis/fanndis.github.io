@@ -1,0 +1,61 @@
+{{More citations needed|date=October 2009}}
+{{Infobox newspaper
+| name = The StarPhoenix
+| image = [[File:StarPhoenix 11-11-12.jpg|border|Front page&nbsp;— November 12, 2011]]
+| type = Daily [[newspaper]]
+| format = [[Broadsheet]]
+| foundation = 2000
+| owners = Postmedia Network Inc.
+| headquarters = 204 5th Avenue North<br />[[Saskatoon]], [[Saskatchewan]]<br />S7K 2P1
+| editor = 
+| circulation = 38,763 weekdays<br />40,230 Saturdays in 2015<ref name="Circulation 2015">{{Cite web|url=https://nmc-mic.ca/wp-content/uploads/2016/06/2015-Daily-Newspaper-Circulation-Report-by-Title-SPREADSHEET_FINAL.xlsx|title=2015 Daily Newspaper Circulation Spreadsheet (Excel)|work=News Media Canada|access-date=16 December 2017}} Numbers are based on the total circulation (print plus digital editions).</ref>
+| publisher = 
+| website = [http://www.canada.com/saskatoonstarphoenix/index.html www.thestarphoenix.com]
+}}
+'''''The StarPhoenix''''' is a daily [[newspaper]] that serves [[Saskatoon]], [[Saskatchewan]], Canada, and is a part of [[Postmedia Network]]. The ''StarPhoenix'' puts out six editions each week and publishes one weekly, ''Bridges''. It is also part of the canada.com [[Web portal]].
+
+== History ==
+The ''StarPhoenix'' was first published as '''''The Saskatoon Phoenix''''' on October 17, 1902 (following a short-lived attempt at a local newspaper, the ''Saskatoon Sentinel''). In 1909, it became a daily paper and, in 1910, was renamed the '''''Saskatoon Capital'''''.
+
+The paper was sold and bought several times between its inception and the 1920s, at one point being owned by [[W. F. Herman]], the future owner and publisher of the ''[[Windsor Star]]''.<ref name=NYTimes>[http://timesmachine.nytimes.com/timesmachine/1938/01/17/issue.html "W. F. Herman, Editor of the Windsor Star,"] ''The New York Times'' (Jan. 17, 1938).</ref>
+
+By 1927, there were two daily papers in Saskatoon: the ''Saskatoon Daily Star'' and the ''Daily Phoenix''. In January 1928, both papers were bought by the Sifton family of [[Winnipeg]] and amalgamated into the ''Saskatoon Star-Phoenix''. In the early 1980s the spelling of the newspaper name was modified to ''StarPhoenix''. Between the 1928 amalgamation and the launch of the Saskatoon edition of ''[[Metro International|Metro]]'' in April 2012, the ''StarPhoenix'' was the city's only daily newspaper.
+
+In 1996, the ''StarPhoenix'' was bought by the Hollinger newspaper chain. It was subsequently sold to [[Canwest|CanWest Global Communications]] in 2000 and became part of the [[Postmedia Network|Southam Newspapers]] division now called [[Postmedia News|CanWest News Service]]. CanWest was acquired by Postmedia News, Inc. and is the current owner of ''The StarPhoenix''.
+
+In 2015, the StarPhoenix press began printing the ''[[Regina Leader-Post]]'' in addition to its own print edition, after the Regina press was shut down.<ref>{{Cite news|title=Leader-Post to stop printing its newspaper in Regina|url=http://www.cbc.ca/news/canada/saskatchewan/leader-post-to-stop-printing-its-newspaper-in-regina-1.3259881|access-date=2017-12-05|publisher=[[CBC News]]|date=2015-10-06}}</ref>
+
+== Circulation ==
+''The StarPhoenix'' has seen like most [[List of newspapers in Canada#Daily newspapers|Canadian daily newspapers]] a decline in [[Newspaper circulation|circulation]]. Its total circulation dropped by {{Formatnum: {{#expr: abs(100 - (39008 / 54140 * 100)) round 0}}}} percent to 39,008 copies daily from 2009 to 2015.<ref name="Circulation">{{Cite web|url=https://nmc-mic.ca/about-newspapers/circulation/daily-newspapers/|title=Daily Newspaper Circulation Data|work=News Media Canada|access-date=16 December 2017}}</ref>
+
+:::::::::'''Daily average'''<ref name="Circulation Chart">{{Cite web|url=https://nmc-mic.ca/about-newspapers/circulation/daily-newspapers/|title=Daily Newspaper Circulation Data|work=News Media Canada|access-date=16 December 2017}} Figures refer to the total circulation, print and digital combined, which includes paid and unpaid copies.</ref>
+{{#invoke:Chart | bar chart
+| height = 270
+| width = 360
+| group 1 = 54140:52648:53160:48107:44907:43615:39008
+| colors = DarkCyan
+| units suffix = Copies
+| group names = 
+| x legends = 2009:2010:2011:2012:2013:2014:2015
+}}
+
+== See also ==
+*[[List of newspapers in Canada]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|https://thestarphoenix.com}}
+* [http://www.dailynewspapercovers.com/View/Canada/The+StarPhoenix%2c+Saskatoon/ The ''StarPhoenix'' Newspaper Cover&nbsp;— Daily]
+* [http://www.canada.com/ canada.com]
+
+{{Postmedia}}
+
+{{DEFAULTSORT:StarPhoenix, The}}
+[[Category:Newspapers published in Saskatoon]]
+[[Category:Postmedia Network publications]]
+[[Category:Daily newspapers published in Saskatchewan]]
+
+{{Canada-newspaper-stub}}
+{{Saskatchewan-stub}}

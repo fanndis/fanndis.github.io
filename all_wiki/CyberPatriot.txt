@@ -1,0 +1,344 @@
+{{Infobox sports league
+| title           = AFA CyberPatriot
+| current_season  = CyberPatriot XII (2019-2020)
+| last_season     = CyberPatriot XI (2018-2019)
+| upcoming_season = CyberPatriot XII (2020-2021)
+| sport           = Cybersecurity (Defense and Hardening) (Basic skills and best practices, defending in RVB environment session - at the National Finals)
+| logo            = File:CyberPatriot Logo Modern Logo Version.png
+| founded         = 2008
+| inaugural       = CyberPatriot I (2008-2009)
+| administrator   = [[Air Force Association]]
+| commissioner    = Bernie Skoch
+| divisions       = All Service, Open, Middle School
+| teams           = All Service: 1885, Open: 3630, Middle School: 1245, Total: 6760 (CyberPatriot XII - 2019-2020)
+| countries       = United States and Limited International Countries
+| champion        = 
+| champ_season    = 
+| most_champs     = 
+| most successful club = 
+| sponsor         = Northrop Grumman Foundation
+| related_comps   = [[National Collegiate Cyber Defense Competition]]
+| tournament_format = Online Rounds, National Finals Competition
+| website         = https://www.uscyberpatriot.org/
+}}
+
+'''CyberPatriot''' is a national youth cyber education program created in the United States to help direct students toward careers in [[cybersecurity]] or other science, technology, engineering, and mathematics disciplines. The program was created by the [[Air Force Association]] (AFA).  It features the annual ''National Youth Cyber Defense Competition'' for high school and middle school students. It is similar to its collegiate counterpart, the [[National Collegiate Cyber Defense Competition|Collegiate Cyber Defense Competition (CCDC)]], especially at the CyberPatriot National Finals Competition.
+
+The ''National Youth Cyber Defense Competition'' is now in its thirteenth season and is called "CyberPatriot XIII" indicating the season's competition.  CyberPatriot XIII is open to all high schools, middle schools, and accredited home school programs around the country. [[JROTC]] units of all Services, [[Civil Air Patrol]] squadrons, and [[Naval Sea Cadet Corps]] divisions may also participate in the competition.  Outside of the regular competition, CyberPatriot also hosts two additional sub-programs: Summer CyberCamps<ref>{{Cite web|url=https://www.uscyberpatriot.org/special-initiatives/afa-cybercamp-program/program-overview|title=2018 AFA CyberCamp Program Overview|website=www.uscyberpatriot.org|language=en|access-date=2018-11-04|archive-url=https://web.archive.org/web/20181104211145/https://www.uscyberpatriot.org/special-initiatives/afa-cybercamp-program/program-overview|archive-date=2018-11-04|url-status=dead}}</ref> and an Elementary School Cyber Education Initiative.<ref>{{Cite web|url=https://www.uscyberpatriot.org/special-initiatives/afa-cybercamp-program/standard-afa-cybercamp-information|title=Standard AFA CyberCamp Information|website=www.uscyberpatriot.org|language=en|access-date=2018-11-04|archive-url=https://web.archive.org/web/20181104211245/https://www.uscyberpatriot.org/special-initiatives/afa-cybercamp-program/standard-afa-cybercamp-information|archive-date=2018-11-04|url-status=dead}}</ref> The [[Northrop Grumman]] Foundation is the "presenting sponsor". A spin off program is run in the UK called [[Cyber Centurion]].
+
+==History==
+CyberPatriot began in 2009 as a proof of concept demonstration at AFA's Air Warfare Symposium in Orlando, Florida. Eight high school teams, from AFJROTC and Civil Air Patrol squadrons competed.  The second phase of the program was limited to Air Force [[JROTC|AFJROTC]] and Civil Air Patrol teams. Online training and qualification competitions were held during fall 2009 with nearly 200 teams from 44 states competing for eight slots to the first in-person National Finals Competition in February 2010, held in Orlando, Florida. The final phase of the developmental program, full national deployment, is now underway. The Open Division, which allows any school to register, was started a few seasons after the first season. Over 1,500 teams from all 50 states, Canada, and DoD Dependant schools overseas competed in CyberPatriot VI. CyberPatriot VII began in October 2014, with over 2,100 teams registered to compete. The Middle School Division, was added in CyberPatriot V. CyberPatriot IX, which started in October 2016, featured over 4,300 registered teams.
+
+==Goals and objectives==
+
+CyberPatriot, which is designed to be accessible to any high school or middle school student, provides a path from high school to college and the workforce, and benefits all CyberPatriot partners and the nation. The program increases the awareness of cybersecurity by delivering a basic cybersecurity education in a competitive format that enhances leadership, communication, and cooperation skills among its competitors.
+[[File:CyberPatriot Logo.jpg|alt=Classic CyberPatriot Logo (Full-Color) (Still used today in some materials, used mainly in the past mostly, most notably on CyberPatriot website)|thumb|Full Color Classic CyberPatriot Logo (Still used today in some materials, used more in the past including on CyberPatriot website)]]
+
+==Organization and preparation==
+
+Teams have the following members:
+* Coach: Supervises, chaperones team. Usually a teacher. Does not need to have a technical background.  
+* Competitors: 2-6 students (5 competitors, 1 alternate)
+* Technical Mentor (Optional):  Particularly useful when coach is not cyber-savvy. Helps teach cyber concepts.
+* Team Assistant (Optional): Assistants Coach with daily administrative tasks related to the competition
+
+Each team is required to have a registered Coach and registered Competitors. Coach registration begins in the late spring to allow preparation over the summer. The qualification rounds of the competition are completed online at the teams’ home locations from September to early January.
+
+== Competition guidelines ==
+The competition is a tournament structure with three divisions:
+# Open High School Division:  Open to all public, private, parochial, magnet, charter, home schools, and special groups such as CampFire, Boys & Girls Club, Boy Scouts, Church Youth Groups, Girl Scouts, etc.
+# All-Service Division: Open to all JROTC Services, Civil Air Patrol squadrons, US Naval Sea Cadet Corps units. The registration fee is waived for teams competing in the All-Service Division
+# Middle School Division: Open to all middle schools and junior high schools which follow the same common organizations as mentioned above in the Open High School Division.
+
+The early rounds of the competition are done online during weekends via the Internet from teams’ schools or other sponsoring organizations’ facilities. Prior to the round, teams download virtual image representations of operating systems with known flaws, or cybersecurity vulnerabilities. Each team is tasked to find the flaws while keeping specified computer functions (services such as email) working. Team progress is recorded by a central CyberPatriot scoring system.
+
+The scores from Qualification Rounds 1 and 2 are totaled to determine which tier a team advances to:
+
+*Platinum: Top 30% of teams. Rounds include State (guaranteed), Semifinals, and National Finals
+*Gold: Middle 40% of teams. Rounds include State (guaranteed) and Semifinals.
+*Silver: Bottom 30% of teams. Rounds include State (guaranteed) and Semifinals.
+In CyberPatriot XIII, there are only 3 rounds total and round 1 will be held later than in CyberPatriot XII due to COVID-19 in order to give coaches more time to recruit (according to AFA email announcements), Round 3 determining the National Finalists teams.
+
+Teams in the Platinum tier are the only teams eligible to qualify for National Finals.
+
+See additional rules below:
+
+* The Qualification Competition begins as soon as this image is opened, and ends 6 consecutive hours later, after which the score will be logged. Attempting to continue after the time limit has reached will incur penalties. It is the coach's responsibility to ensure their team does not exceed the limit.
+* Only one instance of the image can be open at any given time. Opening multiple instance of a virtual image will result in a penalty.
+* No person may compete on a team with which they are not registered, and may only be registered with one team per competition.
+* During the competition, no outside assistance may be given to or received from anyone.
+* No competitor may offer assistance to another after their round ends and the others begins.
+* No outside communication is allowed during the competition. This includes but is not limited to verbal, electronic, written or coded.
+* No offensive activity of any kind is permitted, including but not limited to hacking through programs or manual code injection, interfering with another team through social engineering and/or deception, or attaining the opposing machine.
+
+==National Finals Competition==
+
+The top scoring Semifinal teams from each division, approximately 28 teams, are invited (all-expenses paid) to the in-person National Finals Competition each spring.  For CyberPatriot IV - VII, National Finals Competitions was held at the Gaylord National Hotel and Convention Center in National Harbor, Maryland in March. From the CyberPatriot VIII season through the CyberPatriot XI season, the National Finals Competitions moved to the Hyatt Regency Baltimore Inner Harbor in Baltimore, Maryland and was held in April of each year. Beginning in the CyberPatriot XII season, the National Finals Competition is planned to be held at the Bethesda North Marriott Hotel & Conference Center in Bethesda, Maryland outside of Washington, D.C. in March. However, the CyberPatriot XII In-Person National Finals Competition, which was the first planned year at the Bethesda North Marriott, was canceled due to the [[COVID-19 pandemic in the United States|COVID-19]] outbreak and a virtual, in-home competition was held online in May, about two months after the originally scheduled in-person competition event. The CP-XII Virtual National Finals was held on May 2nd, 2020, and marked the first-ever online virtual CyberPatriot National Finals Competition.
+
+The Challenges that teams may face include:
+
+# Network Security Master Challenge, in which teams fix vulnerabilities in "images" of Operating Systems that have been purposely tampered with while protecting the "images" from "Red Team" which is a group of "hackers" that will exploit vulnerabilities on the competitor's machines.
+# Leidos Digital Forensics Challenge, in which teams solve mysteries with computer programs.
+# Digital Crime Scene Challenge, in which teams search a live "crime scene" for digital evidence.
+# Cisco Networking Challenge, in which teams show their knowledge about Wiring, Cisco's Packet Tracer, and in a Cisco quiz.
+
+Winning teams in the Open and All Service Division earn education grants to the school of their choice. First place teams earn $2,000 per competitor, second place teams earn $1,500 per competitor, and third place earns $1,000 per competitor. The scholarship money is provided by Northrop Grumman Corp. In CyberPatriot VII, for first, second, and third place, an additional $2,000, $1,500, and $1,000 were awarded to the teams, respectively, by the National Security Agency.
+
+== Criticism ==
+There is an argument regarding the use of external scripts which allow competitors perform automated tasks to during the competition. Teams which have developed scripts that do most of the work over the years that could put new teams at a disadvantage. Organizations such as CyberAegis have dominated the Middle School scene and made it harder for other teams to get on the leaderboard.  
+
+===CyberPatriot Winners===
+
+{| class="wikitable sortable" style="margin-left: auto; margin-right: auto; border: none;"
+|+ All Service Division Winners
+|-
+! Year
+! Season
+! Team Name
+! School/Organization
+! City
+|-
+| 2009
+| CyberPatriot I
+| Osceola High School AFJROTC
+| Osceola High School
+| Kissimmee, FL
+|-
+| 2010
+| CyberPatriot II
+| Clearfield High School Air Force JROTC
+| Clearfield High School
+| Clearfield, UT
+|-
+| 2011
+| CyberPatriot III
+| Colorado Springs Cadet Squadron
+| N/A
+| Colorado Springs, CO
+|-
+| 2012
+| CyberPatriot IV
+| Wolfpack
+| Colorado Springs Cadet Squadron
+| Colorado Springs, CO
+|-
+| 2013
+| CyberPatriot V
+| Marine Military Academy
+| Marine Military Academy
+| Harlingen, TX
+|-
+| 2014
+| CyberPatriot VI
+| Osceola High School AFJROTC
+| Osceola High School
+| Kissimmee, FL
+|-
+| 2015
+| CyberPatriot VII
+| Fearsome Falcons
+| Clearfield High School
+| Clearfield, UT
+|-
+| 2016
+| CyberPatriot VIII
+| Netrunners
+| Centurion Battalion
+| Winter Park, FL
+|-
+| 2017
+| CyberPatriot IX
+| Wolfpack
+| Colorado Springs Cadet Squadron
+| Colorado Springs, CO
+|-
+| 2018
+| CyberPatriot X
+| Cyber Warriors 0
+| Troy High School
+| Fullerton, CA
+|-
+| 2019
+| CyberPatriot XI
+| CyberD3lta
+| Troy High School Navy JROTC
+| Fullerton, CA
+|}
+<ref name="cphistory">{{cite web|title=Competition History|url=https://www.uscyberpatriot.org/competition/history|accessdate=18 June 2019|website=www.uscyberpatriot.org|publisher=CyberPatriot}}</ref>
+
+{| class="wikitable sortable" style="margin-left: auto; margin-right: auto; border: none;"
+|+ Open Division Winners
+|-
+! Year
+! Season
+! Team Name
+! School/Organization
+! City
+|-
+| 2009
+| CyberPatriot I
+| N/A
+| N/A
+| N/A
+|-
+| 2010
+| CyberPatriot II
+| N/A
+| N/A
+| N/A
+|-
+| 2011
+| CyberPatriot III
+| Red Bank Regional High School
+| Red Bank Regional High School
+| Little Silver, NJ
+|-
+| 2012
+| CyberPatriot IV
+| Alamo Academies
+| Alamo Academies
+| San Antonio, TX
+|-
+| 2013
+| CyberPatriot V
+| Chantilly Academy
+| Chantilly Academy
+| Chantilly, VA
+|-
+| 2014
+| CyberPatriot VI
+| Azure
+| North Hollywood High School
+| North Hollywood, CA
+|-
+| 2015
+| CyberPatriot VII
+| CyberSloths
+| [[Grissom High School]]
+| Huntsville, AL
+|-
+| 2016
+| CyberPatriot VIII
+| Sudo
+| Summit Technology Academy
+| Lee's Summit, MO
+|-
+| 2017
+| CyberPatriot IX
+| Togo
+| North Hollywood High School
+| North Hollywood, CA
+|-
+| 2018
+| CyberPatriot X
+| Togo
+| North Hollywood High School
+| North Hollywood, CA
+|-
+| 2019
+| CyberPatriot XI
+| Troy Tech Support
+| Troy High School
+| Fullerton, CA
+|}
+<ref name="cphistory" />
+{| class="wikitable" style="margin-left: auto; margin-right: auto; border: none;"
+|+Middle School Division Winners
+!Year
+!Season
+!Team Name
+!School/Organization
+!City
+|-
+|2009
+|CyberPatriot I
+|N/A
+|N/A
+|N/A
+|-
+|2010
+|CyberPatriot II
+|N/A
+|N/A
+|N/A
+|-
+|2011
+|CyberPatriot III
+|N/A
+|N/A
+|N/A
+|-
+|2012
+|CyberPatriot IV
+|N/A
+|N/A
+|N/A
+|-
+|2013
+|CyberPatriot V
+|N/A
+|N/A
+|N/A
+|-
+|2014
+|CyberPatriot VI
+|Cyber Knights
+|Beach Cities Cadet Squadron
+|San Pedro, CA
+|-
+|2015
+|CyberPatriot VII
+|Team 1
+|Nysmith School for the Gifted
+|Herndon, VA
+|-
+|2016
+|CyberPatriot VIII
+|CyberFalcon Millennium 360
+|Oak Valley Middle School
+|San Diego, CA
+|-
+|2017
+|CyberPatriot IX
+|Error 37
+|Summit Lakes Middle School
+|Lees Summit, MO
+|-
+|2018
+|CyberPatriot X
+|CyberAegis Cancer Minor
+|Oak Valley Middle School
+|San Diego, CA
+|-
+|2019
+|CyberPatriot XI
+|CyberAegis Chaos
+|Oak Valley Middle School
+|San Diego, CA
+|-
+|2020
+|CyberPatriot XII
+|CyberAegis Polariton
+|Design39Campus
+|San Diego, CA
+|}
+<ref name="cphistory" />
+
+==External Links From 2013 ==
+* {{cite web|url=http://www.uscyberpatriot.org/Pages/default.aspx |title=CyberPatriot: The National High School Cyber Defense Competition | publisher=Uscyberpatriot.org |year=2013 |accessdate=2013-11-19| archiveurl =https://web.archive.org/web/20131123162041/http://www.uscyberpatriot.org/Pages/default.aspx|url-status=dead |archivedate=2013-11-23}}
+* {{cite web |url=http://www.uscyberpatriot.org/CP5/CPVI%20Documents/CP-VI%20Rules%20Book.pdf |title=CyberPatriot VI : Competition Rules |publisher=Uscyberpatriot.org |accessdate=2013-12-09 |url-status=dead |archiveurl=https://web.archive.org/web/20131212193831/http://www.uscyberpatriot.org/CP5/CPVI%20Documents/CP-VI%20Rules%20Book.pdf |archivedate=2013-12-12|year=2013}}
+* {{cite web |url=http://www.uscyberpatriot.org/about/Pages/FAQ.aspx |title=FAQ : What is CyberPatriot |publisher=Uscyberpatriot.org |accessdate=2013-11-19 |url-status=dead |archiveurl=https://web.archive.org/web/20140226225959/http://www.uscyberpatriot.org/about/Pages/FAQ.aspx |archivedate=2014-02-26|year=2013 }}
+
+== See also ==
+
+* [[List of computer science awards]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.uscyberpatriot.org/Pages/default.aspx uscyberpatriot.org]
+*[https://web.archive.org/web/20131119225420/http://www.afa.org/HOME afa.org]
+
+[[Category:Computer science competitions]]
+[[Category:Computer security]]

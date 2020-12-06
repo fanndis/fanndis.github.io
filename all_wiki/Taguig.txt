@@ -1,0 +1,616 @@
+{{short description|City in Metro Manila, Philippines}}
+{{pp|small=yes}}
+{{Use mdy dates|date=March 2018}}
+{{Infobox settlement
+| name                            = {{PH wikidata|name}}
+| image_skyline                   = {{Photomontage
+| photo1a = BGC.jpg
+| photo2a = AMERICAN CEMETERY,TAGUIG CITY.jpg
+| photo2b = Venice Grand Canal Taguig.jpg
+| photo3a = 4967Taguig City Landmarks Heritage 06.jpg
+| photo3b = DambanangKawayanjf9999 09.JPG
+| size = 250
+| spacing = 2
+| position = center
+| color = transparent
+| border = 0
+}}
+| image_caption                   = Clockwise from top: [[Bonifacio Global City]], [[Venice Grand Canal, Taguig|Venice Grand Canal]], [[Dambanang Kawayan]], Vista Mall Taguig, and the [[Manila American Cemetery]]
+| image_seal                      = Ph_seal_ncr_taguig.png
+| seal_size                       = 100x80px
+| image_map                       = {{PH wikidata|image_map}}
+| map_caption                     = {{PH wikidata|map_caption}}
+| image_map1                      = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map                     = Philippines
+| pushpin_label_position          = left
+| pushpin_map_caption             = Location within the {{PH wikidata|country}}
+| coordinates                     = {{PH wikidata|coordinates}}
+| settlement_type                 = {{PH wikidata|settlement_type}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Philippines}}
+| subdivision_type1               = [[Regions of the Philippines|Region]]
+| subdivision_name1               = {{PH wikidata|region}}
+| subdivision_type2               = [[Provinces of the Philippines|Province]]
+| subdivision_name2               = ''none''
+| official_name                   = {{PH wikidata|official_name}}
+| etymology                       = <!--origin of name-->
+| named_for                       = <!--named after (if person or place)-->
+| nickname                        = ''Metro Manila's Probinsyudad''
+| motto                           = "I Love Taguig"
+| anthem                          = ''Martsa ng Taguig'' ("Taguig March")
+| subdivision_type3               = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3               = [[Legislative district of Pateros-Taguig City|1st]] <!-- The Legislative District of Pateros-Taguig City acts as 1st District of Taguig City --> and [[Legislative district of Taguig City|2nd Districts]] <!-- The Legislative District of Taguig City acts as a 2nd District of the city. -->
+| established_title               = [[Date of establishment|Founded]]
+| established_date                = April 25, 1587
+| established_title1              = Cityhood
+| established_date1               = December 8, 2004
+| parts_type                      = [[Barangay]]s
+| parts_style                     = para
+| p1                              = 28 (see [[#Barangays|Barangays]])
+| leader_title                    = [[Mayor of Taguig|Mayor]]
+| leader_name                     = [[Lino Cayetano|Lino Edgardo Cayetano]] ([[Nacionalista Party|Nacionalista]])
+| leader_title1                   = [[Vice Mayor]]
+| leader_name1                    = Ricardo Cruz ([[Nacionalista Party|Nacionalista]])
+| leader_title2                   = Representative, 1st District with [[Pateros]]
+| leader_name2                    = [[Alan Peter Cayetano]] ([[Nacionalista Party|Nacionalista]])
+| leader_title3                   = Representative, 2nd District
+| leader_name3                    = [[Lani Cayetano]] ([[Nacionalista Party|Nacionalista]])
+| leader_title4                   = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4                    = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+| government_type                 = {{PH wikidata|government_type}}
+| government_footnotes            = {{thinsp}}<ref>{{DILG detail}}</ref>
+| elevation_m                     = {{PH wikidata|elevation_m}}
+| elevation_max_m                 =
+| elevation_min_m                 =
+| elevation_max_rank              =
+| elevation_min_rank              =
+| elevation_footnotes             = {{PH wikidata|elevation_footnotes}}
+| elevation_max_footnotes         = 
+| elevation_min_footnotes         =
+| area_rank                       = 
+| area_footnotes                  = {{PSGC detail|area}}
+| area_total_km2                  = {{PH wikidata|area}}
+| population_footnotes            = {{PH census|current}}
+| population_total                = {{PH wikidata|population_total}}
+| population_as_of                = {{PH wikidata|population_as_of}}
+| population_blank1_title         = [[Household]]s
+| population_blank1               = {{PH wikidata|household}} 
+| population_blank2_title         = 
+| population_blank2               = 
+| population_density_km2          = auto
+| population_demonym              = Taguigeño
+| population_rank                 = 
+| population_note                 = 
+| demographics_type1     = [[Economy of the Philippines|Economy]]
+| demographics1_title1   = {{PH wikidata|income_class_title}}
+| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_title2   = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2    = 3.12% (2015)<ref>{{cite web |url=https://psa.gov.ph/sites/default/files/City%20and%20Municipal-level%20Small%20Area%20Poverty%20Estimates_%202009%2C%202012%20and%202015_0.xlsx|title=PSA releases the 2015 Municipal and City Level Poverty Estimates|location=Quezon City, Philippines |accessdate=1 January 2020}}</ref>
+| demographics1_title3   = [[Revenue]]
+| demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}
+| demographics1_title4   = Revenue Rank
+| demographics1_info4    = 
+| demographics1_title5   = [[Asset]]s
+| demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}
+| demographics1_title6   = Assets Rank
+| demographics1_info6    = 
+| demographics1_title7   = [[Liabilities]]
+| demographics1_info7    = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}}
+| demographics1_title8   = Liabilities Rank
+| demographics1_info8    = 
+| demographics1_title9   = [[Expenditure]]
+| demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}
+| demographics1_title10  = Expenditure Rank
+| demographics1_info10   = 
+| demographics_type2     = Utilities
+| demographics2_title1   = Electricity
+| demographics2_info1    = [[Meralco|MERALCO]]
+| demographics2_title2   = Water
+| demographics2_info2    = [[Manila Water]] 
+| demographics2_title3   = Telecommunications
+| demographics2_info3    = 
+| demographics2_title4   = Cable TV
+| demographics2_info4    =
+| demographics2_title5   = 
+| demographics2_info5    =
+| demographics2_title6   = 
+| demographics2_info6    =
+| demographics2_title7   = 
+| demographics2_info7    =
+| demographics2_title8   = 
+| demographics2_info8    =
+| demographics2_title9   = 
+| demographics2_info9    =
+| demographics2_title10  = 
+| demographics2_info10   =
+| blank_name_sec1        = {{PH wikidata|climate_title}}
+| blank_info_sec1        = {{PH wikidata|climate_type}}
+| blank1_name_sec1       = [[Languages of the Philippines|Native languages]]
+| blank1_info_sec1       = {{PH wikidata|language}}
+| blank2_name_sec1       = Currency
+| blank2_info_sec1       = Philippine peso (₱)
+| timezone               = [[Philippine Standard Time|PST]]
+| utc_offset             = +8
+| postal_code_type       = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code            = {{PH wikidata|postal_code}}
+| postal2_code_type      = {{PSGCstyle}}
+| postal2_code           = {{PSGC detail}}
+| area_code_type         = {{areacodestyle}}
+| area_code              = {{PH wikidata|area_code}}
+| website                = {{PH wikidata|website}}
+| footnotes              =
+}}
+
+'''{{PH wikidata|name}}''' ({{IPA-tl|taˈɡiɡ|pron}}) is the seventh most populous city in the [[Philippines]] with a population of {{PH wikidata|population_total}} people.{{PH census|current}} Located in the western shores of [[Laguna de Bay]], the city is known for the [[Bonifacio Global City]], one of the leading financial centers of the Philippines. Originally a fishing village during the Spanish and American colonial periods, the municipality experienced rapid growth when former military reservations were converted by the [[Bases Conversion and Development Authority]] (BCDA) into mixed-use planned communities and financial centers. Taguig was converted from a municipality into a [[Cities of the Philippines#Independent cities|highly urbanized city]] with the passage of Republic Act No. 8487 in 2004.
+
+The city is politically subdivided into 28 barangays: [[Bagumbayan, Taguig|Bagumbayan]], [[Bambang, Taguig|Bambang]], Calzada, Central Bicutan, [[Central Signal Village]], [[Fort Bonifacio (barangay)|Fort Bonifacio]], Hagonoy, Ibayo Tipas, Katuparan, Ligid Tipas, Lower Bicutan, [[Maharlika Village]], [[Napindan]], [[New Lower Bicutan]], North Daang Hari, North Signal Village, Palingon Tipas, [[Pinagsama]], San Miguel, [[Santa Ana, Taguig|Santa Ana]], South Daang Hari, [[South Signal Village]], Tanyag, [[Tuktukan]], Ususan, [[Upper Bicutan]], Wawa, and [[Western Bicutan]]. The city is also divided into two legislative districts: [[Legislative district of Pateros–Taguig|Pateros & Taguig]] (which includes the [[Pateros|Municipality of Pateros]]) and [[Legislative district of Taguig|Taguig]], for its representation in the [[Congress of the Philippines|Congress]] and the election of city council members.
+
+==Etymology==
+
+The original farmer-fishermen of the area, about 800 in number, were good at threshing rice after harvest. Hence they were referred to as "''mga taga-giik''," ([[Tagalog language|Tagalog]] for "rice thresher") and the settlement as "''pook ng mga taga-giik''." Spanish friar Fray Alonso de Alvarado, together with conquistador [[Ruy López de Villalobos]] who crossed [[Pasig River]] to reach the city's present site in 1571, found "taga-giik" difficult to pronounce. "Tagui-ig" was later shortened to its current form "Taguig".<ref>{{Cite web|url=http://www.taguig.gov.ph/our-city/history/|title=History|website=Official Website of The City of Taguig|language=en-US|access-date=2016-04-18}}</ref>
+
+== History ==
+Before the [[Spaniards]] came, Taguig was a part of [[Namayan]] and [[Tondo (historical polity)|Tondo]] ruled by [[Lakandula]]. There were also accounts that [[Han Chinese|Chinese]] settlements were once present in the area as revealed by the recent archaeological diggings of various artifacts like cups, plates and other utensils, which bear Chinese characters. This was believed to have originated from China's [[Ming dynasty]].
+
+Taguig was one of the earliest known territories to have been Christianized when the Spaniards succeeded in subjugating mainland Luzon through the [[Miguel López de Legazpi|Legazpi]] expedition in 1571. Between the years 1582 and 1583, Taguig was part of the encomienda of Tondo headed by an alcalde mayor, Captain Vergara. It was in 1587 when Taguig was established as a separate "[[pueblo]]" (town) of the then province of [[Manila]]. Captain Juan Basi was its Kapitan from 1587 to 1588. According to records, Taguig had nine (9) barrios then namely, Bagumbayan, Bambang, Hagonoy, Palingon, Santa Ana, Tipas, Tuktukan, Ususan, and Wawa. Records show that Tipas had once petitioned to become an independent town but was denied by the Spanish government.
+
+During that time, Taguig was accessible via the [[Pasig River]], which was connected to two large bodies of water, the [[Manila Bay]] and [[Laguna de Bay]]. The population then was estimated to be 800 tributes. The town produced more than enough rice for consumption but had less sugar cane to mill. The men lived through fishing while women wove cotton cloth and "sawali" from bamboo strips. The people of Taguig were known to have resisted both Spanish and American colonial rule. During that early period of Spanish colonization. Don Juan Basi, "Kapitan" of Taguig from 1587 to 1588, took part in the [[Tondo Conspiracy]], an attempt to overthrow the Spanish government which failed. Basi was exiled for two years as punishment. When the [[Katipunan]] was on its early years, many from Taguig became followers and later joined the uprising. The people of Taguig also joined the revolutionary government of General Emilio Aguinaldo on August 6, 1898.
+
+During the [[United States|American]] occupation, they struggled against the forces of General Wheaton under the command of General Pio del Pilar. It was recorded that on February 6, 1898, Filipino forces including Taguig "revolutionarios" dislodged an American position in the hills of Taguig, now a portion of [[Pateros]] and [[Fort Bonifacio]]. They were defeated eventually by the Americans with superiority in the armaments and training. Taguig finally fell to the contingent of the First Washington Volunteer Infantry led by Col. Wholly.
+
+The defeat of the Filipinos after two years of struggle against the American forces subsequently subjected the Philippines to another system of governance. On August 14, 1898, United States occupied the islands and established a military government with General Wesley Meritt as the First Military Governor. He exercised legislative powers until September 1, 1900. At the start of American occupation, Taguig was proclaimed as an independent municipality with the promulgation of General Order No. 4 on March 29, 1900. The town was subsequently incorporated to the newly created province of Rizal when the Philippine Commission promulgated Act. No. 137 on June 11, 1901. On October 12, 1903, Taguig, [[Muntinlupa]] and [[Pateros]] were merged by the virtue of Act. No. 942 with Pateros hosting the seat of the municipal government. The merger did not last long as a month later Muntinlupa was segregated from it and made part of [[Biñan]] when Act. No. 1008 was enacted on November 25, 1903. However it was returned to Taguig on March 22, 1905, with the promulgation Act. No. 1308. On February 29, 1908, Taguig was again declared an independent municipality through Executive Order No. 20. Eventually, Pateros separated from Taguig and both became independent municipalities of Rizal province on January 1, 1918.
+
+It was also during the American Colonial Period that the US government acquired a {{cvt|25.78|km2}} property of Taguig for military purposes. This large piece of land, which had a TCT dated 1902, was turned into a camp that became known as Fort McKinley (named after [[William McKinley]], 25th president of the U.S.). When the Japanese occupied the Philippines in 1942, Fort McKinley was taken over by the [[Japanese Imperial Army]]. They occupied the military camp until the end of the war in 1945. After the Philippines gained its political independence from the United States on July 4, 1946, the US surrendered the Republic of the Philippines all right of possession, jurisdiction, supervision and control over the Philippine territory except the use of the military bases. On May 14, 1949, [[Fort William McKinley]] was turned over to the Philippine government by virtue of the US Embassy Note No. 0570. Fort McKinley was made the permanent headquarters of the Philippine Army in 1957 and was subsequently renamed [[Fort Bonifacio]] after the Father of the Philippine Revolution against Spain, Andres Bonifacio.
+
+The town's political subdivision was changed to barangays following the nationwide implementation of the Integrated Reorganization Plan (IRP) in the 1970s when the country was under [[Martial Law]]. The IRP has increased its subdivisions into 18 barangays, namely, Bagong Tanyag, Bagumbayan, Bambang, Calzada, Hagonoy, Ibayo-Tipas, Ligid-Tipas, Lower Bicutan, Maharlika, Napindan, Palingon, Signal Village, Santa Ana, Tuktukan, Upper Bicutan, Ususan, Wawa, and Western Bicutan. On November 7, 1975, Taguig seceded from the province of Rizal to form the [[National Capital Region]] through Presidential Decree No. 824.
+
+=== Cityhood ===
+In 1998, a bill was passed in Congress pushing for the cityhood of Taguig. The resulting plebiscite in April showed that the citizens were against cityhood. A recent petition to the Supreme Court sought a recount of the plebiscite and the Supreme Court on February 19, 2004, ordered the Commission on Elections to conduct a recount. The recount showed that the residents did want the municipality of Taguig to become a city (21,105 'yes' and 19,460 'no'). Subsequently, Taguig became a city on December 8, 2004.
+
+=== Present ===
+In 2008, the City Council created 10 new barangays, carving them out from the initial 18 barangays. Hence, in December 2008, after a successful plebiscite, the numbers of barangays in the city increased from 10 to 28 barangays. The 10 newly created barangays were Central Bicutan, New Lower Bicutan, Fort Bonifacio, Katuparan, North Signal Village, South Signal Village, South Daanghari, North Daanghari, Pinagsama, San Miguel, and Tanyag.
+
+In 2011, during 424th foundation day of Taguig, former Mayor (now Congresswoman) Lani Cayetano takes pride in calling the city a “ProbinSyudad” because it is the only remaining city in Metro Manila which has the amenities of a highly urbanized city, yet has the feel and relaxing atmosphere of a province plus its people exude the values and magandang asal of the probinsyano, what with its more than 10 kilometers of lakeshore, with farmers, fishermen, old churches, a historic lighthouse, and with people whose virtue of pagtutulungan is still very much alive.
+
+In 2020, the city and the entire metropolitan Manila was placed under community [[quarantine]] for one month starting March 15 due to the [[2020 coronavirus pandemic in Metro Manila|2020 coronavirus pandemic]].
+
+A new, "state-of-the-art" 17-storey Taguig City Hall is currently being built in Barangay Ususan along Cayetano Boulevard and is expected to be completed in 2021.<ref>https://www.taguig.gov.ph/soon-to-rise-new-taguig-city-hall Soon to rise: New Taguig City Hall (City Government of Taguig)</ref> This will replace the current city hall in Barangay Tuktukan that was built in 1959 and was renovated thrice.<ref>https://newsinfo.inquirer.net/1146513/new-17-story-taguig-city-hall-to-be-completed-in-2021 New 17-story Taguig city hall to be completed in 2021 (Inquirer.net)</ref>
+
+==Geography==
+
+Taguig is located on the western shores of [[Laguna de Bay]], the largest [[lake]] in the Philippines. Taguig River, a tributary of the [[Pasig River]], runs through the northern half of the city, while the Napindan River, another tributary of Pasig, forms the natural border between Taguig in Pasig. A relatively small area of the city called Ibayo Napindan is located north of the river, adjoining the disputed territories between Pasig, Taguig and [[Taytay, Rizal|Taytay]] in [[Rizal (province)|Rizal Province]]. The city has an area of 53.67 square kilometers.
+
+===Climate===
+
+The climate of Taguig is characterized by two types of season: dry season from November to April, and wet season from May to October. Rainfall is less evenly distributed.
+
+{{Weather box
+| location     = Taguig City
+| width        = auto
+| metric first = Yes
+| single line  = Yes
+| Jan high C = 29
+| Jan low C  = 20
+| Feb high C = 30
+| Feb low C  = 20
+| Mar high C = 32
+| Mar low C  = 21
+| Apr high C = 34
+| Apr low C  = 23
+| May high C = 33
+| May low C  = 24
+| Jun high C = 31
+| Jun low C  = 25
+| Jul high C = 30
+| Jul low C  = 24
+| Aug high C = 29
+| Aug low C  = 25
+| Sep high C = 29
+| Sep low C  = 24
+| Oct high C = 30
+| Oct low C  = 23
+| Nov high C = 30
+| Nov low C  = 22
+| Dec high C = 29
+| Dec low C  = 21
+| Jan precipitation mm = 7
+| Feb precipitation mm = 7
+| Mar precipitation mm = 9
+| Apr precipitation mm = 21
+| May precipitation mm = 101
+| Jun precipitation mm = 152
+| Jul precipitation mm = 188
+| Aug precipitation mm = 170
+| Sep precipitation mm = 159
+| Oct precipitation mm = 115
+| Nov precipitation mm = 47
+| Dec precipitation mm = 29
+| Jan rain days        = 3.3
+| Feb rain days        = 3.5
+| Mar rain days        = 11.1
+| Apr rain days        = 8.1
+| May rain days        = 18.9
+| Jun rain days        = 23.5
+| Jul rain days        = 26.4
+| Aug rain days        = 25.5
+| Sep rain days        = 24.5
+| Oct rain days        = 19.6
+| Nov rain days        = 10.4
+| Dec rain days        = 6.4
+| source 1 = Meteoblue <small>(Use with caution: this is modeled/calculated data, not measured locally.)</small><ref name="met_norms">
+{{cite web 
+| url = https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/city-of-taguig_philippines_1684308
+| title =  Taguig: Average Temperatures and Rainfall
+| publisher = Meteoblue
+| accessdate = 13 May 2020 }}</ref>
+| date = 13 May 2020  
+}}
+
+===Territorial disputes===
+
+{{see also|Fort Bonifacio boundary dispute}}
+
+[[File:Bonifacio Global City contested between Taguig and Makati.svg|thumb|Contested territories between Makati, Pateros and Taguig.]]
+
+Taguig, [[Makati]] and [[Pateros]] have fought over the jurisdiction of [[Fort Bonifacio]] and nearby places. In 2003, the Pasig Regional Trial Court (RTC) ruled that Fort Bonifacio and Pinagsama Village belongs to Taguig. In 2011, the Pasig RTC also ruled that the "embo" barangays (Cembo, South Cembo, East Rembo, West Rembo, Comembo, Pembo), as well as Rizal and Pitogo, are part of Taguig since they were formerly part of the military reservation. Pateros also claims the "embo" barangays, parts of Taguig and Fort Bonifacio, but the municipality's petition were dismissed by the Supreme Court. Meanwhile, the Court of Appeals stopped Taguig from exercising jurisdiction in the said areas in 2013. On 2017, the Court of Appeals upheld its final decision that Fort Bonifacio belongs to Taguig.
+
+Taguig is also involved in a dispute between Pasig and Taytay, Rizal over a large area which covers Ibayo Napindan, Pinagbuhatan, and Lupang Arendra.
+
+{{-}}
+
+==Demographics==
+{{Philippine Census
+| title= Population Census of Taguig
+| 1903 = {{PH census population|1903}}
+| 1918 = {{PH census population|1918}}
+| 1939 = {{PH census population|1939}}
+| 1948 = {{PH census population|1948}}
+| 1960 = {{PH census population|1960}}
+| 1970 = {{PH census population|1970}}
+| 1975 = {{PH census population|1975}}
+| 1980 = {{PH census population|1980}}
+| 1990 = {{PH census population|1990}}
+| 1995 = {{PH census population|1995}}
+| 2000 = {{PH census population|2000}}
+| 2007 = {{PH census population|2007}}
+| 2010 = {{PH census population|2010}}
+| 2015 = {{PH census population|2015}}
+| 2020 =
+| 2025 =
+| 2030 =
+| footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}}
+}}
+
+According to the {{PH wikidata|population_as_of}}, the population of the city was {{PH wikidata|population_total}}, making it the [[List of cities in the Philippines|seventh most populous city]] in the Philippines, and the fourth most populous city in [[Luzon]].{{PH census|2015|NCR}}
+
+==Local government==
+{{See also|Cities of the Philippines}}
+Like other cities in the Philippines, Taguig is governed by a mayor and vice mayor who are elected to three-year terms. The mayor is the executive head and leads the city's departments in executing the city ordinances and improving public services. The city mayor is restricted to three consecutive terms, totaling nine years, although a mayor can be elected again after an interruption of one term. The vice mayor heads a legislative council consisting of 18 members: 8 councilors from the First District, 8 councilors from the Second District, the president of the Sangguniang Kabataan (Youth Council) Federation, representing the youth sector, and the president of the Association of Barangay Chairmen (ABC) as barangay sectoral representative. The council is in charge of creating the city's policies in the form of Ordinances and Resolutions.<ref>{{Cite web|url=http://www.lawphil.net/statutes/repacts/ra1991/ra_7160_1991.html|title=R.A. 7160|website=The LawPhil Project|access-date=2016-04-18}}</ref>
+
+===City officials===
+The current mayor for the 2019–2022 term is [[Lino Cayetano]]. Ricardo Cruz, former councilor and Barangay Chairman of Lower Bicutan is the city's incumbent vice mayor. Current district representatives of the city are [[Alan Peter Cayetano]], representing the 1st district and House Speaker of the congress and [[Lani Cayetano]], representing the 2nd district.
+
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|+ Representatives, officials and members of the city council
+! scope="col" style="text-align:center;"| Designation
+! scope="col" style="text-align:center;"| [[Legislative district of Pateros–Taguig|First district]]
+! scope="col" style="text-align:center;"| [[Legislative district of Taguig|Second district]]
+|- 
+| style="text-align:left;" | [[House of Representatives of the Philippines|Representatives]] || style="text-align:center;"| [[Alan Peter Cayetano|Alan Peter S. Cayetano]] ([[Nacionalista Party|NP]]) || style="text-align:center;"| [[Lani Cayetano|Ma. Laarni L. Cayetano]] ([[Nacionalista Party|NP]])
+|- 
+| style="text-align:left;"| Mayor || colspan=2 style="text-align:center;"| [[Lino Cayetano|Lino Edgardo S. Cayetano]] ([[Nacionalista Party|NP]])
+|-
+| style="text-align:left;"| Vice Mayor || colspan=2 style="text-align:center;"|  Ricardo Cruz Jr. ([[Nacionalista Party|NP]])
+|- 
+|style="text-align:left;" | Councilors || style="text-align:center;" | Raul T. Cruz ([[Nacionalista Party|NP]]) ||style="text-align:center;"| Arvin Ian V. Alit ([[Nacionalista Party|NP]])
+|- style="text-align:center;"
+| || Allan Paul C. Cruz ([[Nacionalista Party|NP]]) || Marisse Balina-Eron ([[Nacionalista Party|NP]])
+|- style="text-align:center;"
+| || Darwin B. Icay ([[Nacionalista Party|NP]]) || Noel R. Dizon ([[Nacionalista Party|NP]])
+|- style="text-align:center;"
+| || Jaime R. Labampa ([[Nacionalista Party|NP]]) || Jaime R. Garcia ([[Nacionalista Party|NP]])
+|- style="text-align:center;"
+| || Baby Gloria V. Mesa ([[Nacionalista Party|NP]]) || Erwin G. Manalili ([[Nacionalista Party|NP]])
+|- style="text-align:center;"
+| || Ferdinand B. Santos ([[Nacionalista Party|NP]]) || Yasser G. Pangandaman ([[Nacionalista Party|NP]])
+|- style="text-align:center;"
+| || Rommel B. Tanyag ([[Nacionalista Party|NP]]) || Maria Mher C. Supan ([[Nacionalista Party|NP]])
+|- style="text-align:center;"
+| || ''vacant''{{efn|name=Ryanne R. Gutierrez|Former councilor Ryanne R. Gutierrez has been passed away last November 15, 2019, the position is still ''vacant''.}} || Amparo Maria J. Zamora ([[Nacionalista Party|NP]])
+|-
+| style="text-align:left;"| [[Councilor#Sangguniang Panlungsod|ABC President]] || colspan=2 style="text-align:center; | Jorge Daniel S. Bocobo
+|- " 
+| style="text-align:left;"| [[Sangguniang Kabataan|SK President]] || colspan=2 style="text-align:center;" | Maryruth "Beng" R. Maximo
+|}
+
+===Barangays===
+[[File:Taguig Barangays .jpg|thumb|300px|Map showing the barangays of Taguig]]
+Taguig is politically subdivided into 28 [[barangays]]. In December 2008, ten new barangays were created in the city after a successful plebiscite by virtue of City Ordinance Nos. 24–27, 57–61, 67–69, and 78, Series of 2008.<ref>{{Cite news|url=http://www.philstar.com/metro/465753/taguig-names-heads-citys-10-new-barangays|title=Taguig names heads of city's 10 new barangays|last=Villanueva|first=Rhodina|date=2009-05-10|work=The Philippine Star|access-date=2016-04-18}}</ref>
+
+{| class="wikitable"
+|-
+!colspan=3|'''[[Legislative district of Pateros-Taguig City|First District]]'''
+|-
+! Barangay
+! Barangay Chairman
+! Population (2015)<ref name="census.gov.ph">[https://www.census.gov.ph/data/sectordata/2010/2010CPH_ncr.pdf Total Population by Province, City, Municipality and Barangay: as of May 1, 2010] {{webarchive|url=https://web.archive.org/web/20120625152554/http://www.census.gov.ph/data/sectordata/2010/2010CPH_ncr.pdf |date=June 25, 2012 }} – Philippine Statistics Authority</ref>
+|-
+| align=center|[[Bagumbayan, Taguig|Bagumbayan]]
+| align=center|Sergio B. Cruz
+|align=right|40,685
+|-
+| align=center|[[Bambang, Taguig|Bambang]]
+| align=center|Jaime T. Cruz Jr.
+|align=right|10,010
+|-
+| align=center|[[Calzada, Taguig|Calzada]]
+| align=center|Marilyn R. Tanyag
+|align=right|21,747
+|-
+| align=center|[[Hagonoy, Taguig|Hagonoy]]
+| align=center|Renato O. Gutierrez
+|align=right|18,652
+|-
+| align=center|[[Ibayo Tipas]]
+| align=center|Erwin C. Mendiola
+|align=right|20,932
+|-
+| align=center|[[Ligid Tipas]]
+| align=center|Lamberto Mañosca
+|align=right|9,700
+|-
+| align=center|[[Lower Bicutan, Taguig|Lower Bicutan]]
+| align=center|Roel Pacayra
+|align=right|56,754
+|-
+| align=center|[[New Lower Bicutan]]
+| align=center|Gregorio S. Franco Jr.
+|align=right|49,829
+|-
+| align=center|[[Napindan]]
+| align=center|Virgilio C. Dela Paz
+|align=right|19,346
+|-
+| align=center|[[Palingon, Taguig|Palingon]]
+| align=center|Jerome M. Mendiola
+|align=right|13,705
+|-
+| align=center|[[San Miguel, Taguig|San Miguel]]
+| align=center|Vicente G. Espital
+|align=right|8,590
+|-
+| align=center|[[Santa Ana, Taguig|Santa Ana]]
+| align=center|Roberto M. Flogen
+
+|align=right|18,057
+|-
+| align=center|[[Tuktukan]]
+| align=center|Suranie G. Ulunday
+|align=right|10,730
+|-
+| align=center|[[Ususan, Taguig|Ususan]]
+| align=center|Marilyn F. Marcelino
+|align=right|54,186
+|-
+| align=center|[[Wawa, Taguig|Wawa]]
+| align=center|Phillip E. Buenaflor
+|align=right|11,177
+|}
+
+*Parts of '''Hagonoy''' became under the jurisdiction of a new barangay '''San Miguel'''
+*'''Lower Bicutan''' was divided into two, the other one to be known as Barangay '''New Lower Bicutan'''
+
+{| class="wikitable"
+|-
+!colspan=3|'''[[Legislative district of Taguig City|Second District]]'''
+|-
+! Barangay
+! Barangay Chairman
+! Population (2015)<ref name="census.gov.ph" />
+|-
+| align=center|[[Central Bicutan]]
+| align=center|Jennifer F. Alit
+|align=right|28,705
+|-
+| align=center|[[Central Signal Village]]
+| align=center|Henry A. Duenas III
+|align=right|39,674
+|-
+| align=center|[[Fort Bonifacio (barangay)|Fort Bonifacio]]
+| align=center|Jorge Daniel S. Bocobo
+|align=right|11,739
+|-
+| align=center|[[Katuparan, Taguig|Katuparan]]
+| align=center|Edgar Victor S. Baptista
+|align=right|23,062
+|-
+| align=center|[[Maharlika Village]]
+| align=center|Hareem P. Pautin
+|align=right|22,944
+|-
+| align=center|[[North Daang Hari]]
+| align=center|Lorenzo O. Fortuno
+|align=right|11,771
+|-
+| align=center|[[North Signal Village]]
+| align=center|Jesus J. Pullente
+|align=right|32,112
+|-
+| align=center|[[Pinagsama]]
+| align=center|Nomie S.Veloria
+|align=right|57,343
+|-
+| align=center|[[South Daang Hari]]
+| align=center|Velerado D. Hernandez
+|align=right|19,166
+|-
+| align=center|[[South Signal Village]]
+| align=center|Michelle Anne M. Odivilas
+|align=right|39,214
+|-
+| align=center|[[Bagong Tanyag, Taguig|Bagong Tanyag]]
+| align=center|Cecilia C. Teodoro
+|align=right|22,711
+|-
+| align=center|[[Upper Bicutan]]
+| align=center|Alexander S. Penolio
+|align=right|41,216
+|-
+| align=center|[[Western Bicutan]]
+| align=center|Perlita B. Carmen
+|align=right|91,158
+|}
+
+*'''Signal Village''' was divided into four barangays, '''Central Signal Village''' (originating barangay), '''Katuparan''', '''North Signal Village''', and '''South Signal Village'''.
+*'''Bagong Tanyag''' was divided into three barangays, '''North Daang Hari''', '''South Daang Hari''', and '''Tanyag''' proper (originating barangay)
+*Parts of '''Upper Bicutan''' became under the jurisdiction of a new barangay '''Central Bicutan'''
+*'''Western Bicutan''' was divided into three barangays, '''Fort Bonifacio''', '''Pinagsama''' and '''Western Bicutan''' (originating barangay).
+
+===Past mayors of Taguig===
+
+{{main|Mayor of Taguig}}
+
+==Education==
+{{See also|List of schools in Taguig}}
+[[File:International school manila.gif|right|thumb|International School Manila]]
+[[File:Tupunivlibrary.jpg|left|thumb|Technological University of the Philippines]]
+Taguig City<ref>Taguig city book</ref> is home to several prestigious international schools which provide [[international education]] to Metro Manila residents, such as the [[British School Manila]], [http://www.everestmanila.org// Everest Academy Manila], [[International School Manila]], and [[Manila Japanese School]], which are all located in the University Parkway of Bonifacio Global City. The [[Chinese International School Manila]], [[Enderun Colleges]], and [[Korean International School Philippines]] are in the nearby area of McKinley Hill, while [http://www.beaconschool.ph/ The Beacon School] is located along the nearby [[Chino Roces Avenue]].
+
+The [[Taguig City University]] is the prime university run and managed by the city. Established in 2004  through Ordinance No. 29, Series of 2004 (enacted 6 September 2004, Municipal Government of Taguig. The University main campus is located inside the Taguig City Hall of Justice Compound.<ref>https://www.facebook.com/officialtcu/</ref>
+
+Other schools in Fort Bonifacio are the STI College Global City, [[Global City Innovative College]], [[Leaders International Christian School of Manila]] (Christian-based curriculum), Victory Leadership Institute, and [[MGC-New Life Christian Academy]].
+
+Two of the top state universities are also in Taguig—the [[Polytechnic University of the Philippines]], and the [[Technological University of the Philippines]]. Both universities are located within the city in Central Bicutan and Western Bicutan.
+
+The [[University of Santo Tomas]] in 2015 offered an offsite Masters in Business Administration (MBA) class of its Graduate School at the PCCI Building at McKinley Hills.<ref>http://graduateschool.ust.edu.ph/announcement/now-accepting-applicants-for-its-mba-extension-class-at-the-bonifacio-global-city-bgc/</ref>
+
+In 2016, the [[University of the Philippines]] inaugurated its campus in Bonifacio Global City for its law programs.<ref>[https://www.rappler.com/nation/124333-up-bgc-open-2016],</ref> Following that year
+in 2017, the [[De La Salle University College of Law]] opened its Rufino Campus at Bonifacio Global City's University Parkway Drive.<ref>{{cite news|url=http://newsinfo.inquirer.net/872850/dlsu-inaugurates-law-campus-in-bonifacio-global-city|title=DLSU inaugurates law campus in Bonifacio Global City|first=Jovic|last=Yee|work=Philippine Daily Inquirer}}</ref>
+
+[[Enderun Colleges]], an affiliate of Les Roches International School of Hotel Management-Switzerland is an undergraduate college and management school in the Philippines that offers a full range of bachelor's degree and non-degree courses in the fields of international hospitality management and business administration.<ref>https://www.enderuncolleges.com/about/</ref> Likewise, The '''Meridian International College or MINT''', a tertiary educational institution of arts, business and technology are both located in McKinley Hill, Barangay [[Pinagsama]], Taguig City.<ref>{{cite web|url=http://www.mintcollege.com/about-us/|title=Our Story|website=MINT College}}</ref>
+
+Taguig City University, the city's local state university located in Central Bicutan started operations in November 2006.<ref>[http://newsinfo.inquirer.net/inquirerheadlines/metro/view_article.php?article_id=111607 Taguig University will have own campus in 2009] {{Webarchive|url=https://web.archive.org/web/20080222171849/http://newsinfo.inquirer.net/inquirerheadlines/metro/view_article.php?article_id=111607 |date=February 22, 2008 }}, newsinfo.inquirer.net; accessed August 10, 2015.</ref>
+
+The [[Technical Education and Skills Development Authority]] (TESDA) was established through the enactment of "Technical Education and Skills Development Act of 1994", which was signed into law by President [[Fidel V. Ramos]]. This Act aims to encourage the full participation of and mobilize the industry, labor, local government units, and technical-vocational institutions in the skills development of the country's human resource. The TESDA complex and facilities are located at the East Service Road of the South Luzon Expressway in Taguig.
+
+The [https://web.archive.org/web/20110426063952/http://www.ppsc.gov.ph/ Philippine Public Safety College] in [[Fort Bonifacio]] is an educational institution offering undergraduate and graduate programs for the training, human resource development, and continuing education of police, fire and jail personnel.
+
+Taguig has two Islamic educational institutions located in Maharlika Village—the Maharlika Bandara-Inged Integrated School and the Maharlika Village Islamic Madrasa.
+
+Other notable schools in Taguig include the city's Science High Schools [[Taguig Science High School]] in Barangay San Miguel, [[Senator Renato "Compañero" Cayetano Memorial Science and Technology High School]] in Ususan, [[Taguig National High School]], a state-owned secondary institution in New Lower Bicutan, the [[Catholic Church]]-owned [[Colegio de Santa Ana]] (formerly Santa Ana Parochial School), [[The Fisher Valley College]], a Christian school in Hagonoy and Pinagsama and [[Saint Francis of Assisi College System]], a Catholic school in Bagumbayan.
+
+Taguig is set to become the new "university city" of Metro Manila as new campuses of [[University of the Philippines]] Professional Schools and [[De La Salle University]] are located in Bonifacio Global City.<ref>{{Cite news|url=http://www.philstar.com/nation/2015/07/21/1479372/taguig-become-university-city-new-dlsu-campuses|title=Taguig to become 'university city' with new UP, DLSU campuses|last=Frialde|first=Mike|date=2015-07-21|work=The Philippine Star|access-date=2016-02-01|archive-url=https://web.archive.org/web/20160114231509/http://www.philstar.com/nation/2015/07/21/1479372/taguig-become-university-city-new-dlsu-campuses|archive-date=January 14, 2016|url-status=dead|df=mdy-all}}</ref><ref>{{Cite web|title = Taguig becoming a ‘University City’|url = http://www.taguig.gov.ph/taguig-becoming-a-university-city/|website = Official Website of The City of Taguig|access-date = 2016-02-01|language = en-US}}</ref>
+
+==Notable people== 
+<gallery>
+File:PIA NEW PROFILE PIC 2.JPG|[[Pia Cayetano]], Senator
+File:Senator Alan Peter S. Cayetano (cropped).jpg|[[Alan Peter Cayetano]], House Speaker of the Congress
+File:Bea Alonzo by Ronn Tan, April 2010.png|[[Bea Alonzo]], actress
+</gallery>
+*[[Dante Tiñga]], former Associate Justice
+*[[Rene Cayetano]], former Senator
+*[[Felix Y. Manalo]], Iglesia Ni Cristo Preacher
+*[[Lino Cayetano]], TV/movie director, former Congressman, Mayor
+*[[Jamalul Kiram III]], claimant to throne of [[Sultanate of Sulu]]
+*[[Ervic Vijandre]], actor
+*[[Precious Lara Quigaman]], actress and [[Miss International 2005]] titleholder 
+*[[Lance Lucido]], Filipino child actor
+*[[Ate Glow|Rene Facunla Humpshire a.k.a. Ate Glow]], Filipino Actor/Commediane/Impersonator 
+*[[Lucita Soriano]], actress
+
+;Groups
+*[[Taguig Renegade Drum and Lyre Corps]], 3 time National Drum and Lyre champion
+
+==International relations==
+
+===Diplomatic missions===
+Countries that have set up permanent missions or offices in the city include:
+
+{{div col|colwidth=18em}}
+*{{flag|Austria}}
+*{{flag|Colombia}}
+*{{flag|Denmark}}
+*{{flag|Hungary}}
+*{{flag|Israel}}
+*{{flag|Kazakhstan}}
+*{{flag|South Korea}}
+*{{flag|Kuwait}}
+*{{flag|Malaysia}}
+*{{flag|Morocco}}
+*{{flag|Norway}}
+*{{flag|Oman}}
+*{{flag|Paraguay}}
+*{{flag|Poland}}
+*{{flag|Qatar}}
+*{{flag|Senegal}}
+*{{flag|Singapore}}
+*{{flag|Sweden}}
+*{{flag|United Arab Emirates}}
+*{{flag|United Kingdom}}
+{{div col end}}
+
+===Sister cities===
+The local government of Taguig maintains relations with other cities in the Philippines.
+{| class="wikitable"
+!Local
+|-
+| [[Bacolod]]<ref>{{cite news|url=http://www.sunstar.com.ph/bacolod/local-news/2012/05/11/council-approves-sisterhood-twinning-taguig-220930|archive-url=https://archive.is/20130616061408/http://www.sunstar.com.ph/bacolod/local-news/2012/05/11/council-approves-sisterhood-twinning-taguig-220930|url-status=dead|archive-date=June 16, 2013|title=Council approves sisterhood, twinning with Taguig|work=SunStar|date=May 11, 2012}}</ref>
+|-
+| [[Iloilo City]]<ref>{{cite news|url = https://news.mb.com.ph/2018/08/26/iloilo-honors-sister-cities/ |title = Iloilo honors sister cities |work=Manila Bulletin| date = August 26, 2018}}</ref>
+|-
+| [[Tabaco]]<ref>{{cite news|url=http://www.tabacocity.com.ph/Updates/Resolutions.php?id=332|title=RESOLUTION EXPRESSING INTENTION FOR SISTERHOOD AND TWINNING WITH TAGUIG CITY|newspaper=Tabaco City.com|date=March 21, 2011|access-date=May 14, 2013|archive-url=https://web.archive.org/web/20131029212053/http://www.tabacocity.com.ph/Updates/Resolutions.php?id=332|archive-date=October 29, 2013|url-status=dead|df=mdy-all}}</ref>
+|-
+| [[Vigan]]<ref>{{cite news|url=http://www.vigancitycouncil.com.ph/files/resolutions/Sisterhood%20Resolutions.pdf|title=A RESOLUTION EXTENDING AN INVITATION TO THE CITY OF TAGUIG TO  BECOME A SISTER CITY OF VIGAN, ILOCOS SUR|newspaper=City of Vigan|date=February 18, 2008}}{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}</ref>
+|-
+|}
+{| class="wikitable"
+!International
+|-
+| {{flagdeco|AUS}} [[Blacktown]], Australia<ref>{{cite news|url = https://www.dfa.gov.ph/dfa-news/news-from-our-foreign-service-postsupdate/16102-taguig-mayor-lani-cayetano-forges-links-with-mayor-stephen-bali-of-blacktown-city-in-australia |title = Taguig Mayor Lani Cayetano Forges Links with Mayor Stephen Bali of Blacktown City in Australia | newspaper = DFA.gov.ph | date = March 28, 2018}}</ref>
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Portal|Philippines}}
+
+==External links==
+{{Commons category}}
+{{Wikivoyage|Taguig}}
+*[https://web.archive.org/web/20111015011952/http://www.taguig.gov.ph/ Official Website of Taguig]
+* [https://www.philatlas.com/luzon/ncr/taguig.html Taguig Profile at PhilAtlas.com]
+* [{{NSCB detail}} Philippine Standard Geographic Code]
+*[http://www.thinkbigtaguig.com/ Think Big Taguig - Official Lifestyle Website]
+*[https://www.facebook.com/taguigcity Official Facebook page of City of Taguig]
+*{{OSM relation|184776}}
+
+{{Geographic location
+| North     = [[Pateros]] / [[Pasig]]
+| West      = [[Pasay]]<br>[[Parañaque]]
+| Center    = Taguig
+| East      = ''[[Laguna de Bay]]''
+| South     = [[Muntinlupa]]
+| Northwest = [[Makati]]
+| Northeast = [[Cainta, Rizal]]<br>[[Taytay, Rizal]]
+}}
+{{Navboxes
+| title = Articles related to Taguig
+| list  =
+{{Taguig}}
+{{Bonifacio Global City}}
+{{Metro Manila}}
+{{Philippine cities}}
+{{Largest cities of the Philippines}}
+{{Most populous cities in Philippines}}
+{{Largest Cities and Municipalities in Luzon}}
+}}
+
+[[Category:Taguig| ]]
+[[Category:Cities in Metro Manila]]
+[[Category:Populated places established in 1587]]
+[[Category:1587 establishments in the Philippines]]
+[[Category:Populated places on the Pasig River]]
+[[Category:Populated places on Laguna de Bay]]

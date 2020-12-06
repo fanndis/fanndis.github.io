@@ -1,0 +1,91 @@
+{{short description|Form of musical articulation}}
+{{distinguish|text=a [[dotted note]]}}
+{{Other uses}}{{Image frame|content=<score> {
+\override Score.TimeSignature #'stencil = ##f    \relative c'' {
+        a4-. b-. c2-. 
+    }
+
+}
+</score>|width=120|caption=Three notes with staccato dots}}'''Staccato''' ({{IPA-it|stakˈkaːto|}}; Italian for "detached") is a form of [[Articulation (music)|musical articulation]]. In modern notation, it signifies a note of shortened duration,<ref>Willi Apel, ''Harvard Dictionary of Music'' (Cambridge, Massachusetts: Harvard University Press, 1960), p. 708.</ref><ref>Michael Kennedy, ed., {{Full|date=June 2015}}<!--The page citation is nice, but it is customary to cite dictionary entries by title.-->''The Concise Oxford Dictionary of Music'', third edition (Oxford and New York: Oxford University Press, 1980), p. 617.</ref> separated from the note that may follow by silence.<ref>Geoffrey Chew, "Staccato", ''The New Grove Dictionary of Music and Musicians'', second edition, edited by [[Stanley Sadie]] and [[John Tyrrell (professor of music)|John Tyrrell]] (London: Macmillan Publishers, 2001).</ref> It has been described by theorists and has appeared in music since at least 1676.<ref>Werner Bachmann, Robert E. Seletsky, [[David D. Boyden]], Jaak Liivoja-Lorius, Peter Walls, and Peter Cooke, "Bow", ''The New Grove Dictionary of Music and Musicians'', second edition, edited by [[Stanley Sadie]] and [[John Tyrrell (musicologist)|John Tyrrell]] (London: Macmillan Publishers, 2001).</ref>
+
+== Notation ==
+{{listen
+ | filename     = Without staccato.ogg
+ | title        = Music played without staccato
+ | description  = 
+ | filename2    = With staccato.ogg
+ | title2       = The same music played with staccato
+ | description2 = 
+ | filename3    = Bassoon-technical-articulations.ogg
+ | title3       = Bassoon articulations
+ | description3 = A [[bassoon]] played '''staccato''', [[legato]], [[legato]] + [[vibrato]], and [[slur (music)|slurred]].
+}}
+In 20th-century music, a dot placed above or below a note indicates that it should be played staccato, and a wedge is used for the more emphatic [[staccatissimo]]. However, before 1850, dots, dashes, and wedges were all likely to have the same meaning, even though some theorists from as early as the 1750s distinguished different degrees of staccato through the use of dots and dashes, with the dash indicating a shorter, sharper note, and the dot a longer, lighter one.  
+
+A number of signs came to be used in the late 19th and early 20th centuries to discriminate more subtle nuances of staccato. These signs involve various combinations of dots, vertical and horizontal dashes, vertical and horizontal wedges, and the like, but attempts to standardize these signs have not generally been successful.<ref>Geoffrey Chew, "Staccato", ''The New Grove Dictionary of Music and Musicians'', second edition, edited by [[Stanley Sadie]] and [[John Tyrrell (professor of music)|John Tyrrell]] (London: Macmillan Publishers, 2001).</ref>  
+
+The example below illustrates the scope of the staccato dot:
+
+:<score> {
+\override Score.TimeSignature #'stencil = ##f
+    << \clef treble
+        \relative c' {
+            \stemNeutral <e c'>-. <g d'>-. <g e'>-. <c, c'>-.
+            \stemUp a'-. c-. c-. d-.
+        } \\ {
+            s1
+            f'4 f' g' g'
+        }
+    >>
+
+}
+</score>
+
+In the first measure, the pairs of notes are in the same musical [[Part (music)|part]] (or voice) since they are on a common stem. The staccato applies to both notes of the pairs. In the second measure, the pairs of notes are stemmed separately indicating two different parts, so the staccato applies only to the upper note.
+
+The opposite musical articulation of staccato is [[legato]], signifying long and continuous notes.<ref>Michael Kennedy and Joyce Bourne, "Staccato", ''The Concise Oxford Dictionary of Music''{{Full|date=June 2015}}<!--Third edition 1980 cited elsewhere in this article; is this the fourth, fifth, or some other edition?--> (Oxford and New York: Oxford University Press, 1996).</ref> There is an intermediate articulation called either [[mezzo staccato]] or [[non legato]]. 
+
+By default, in the music notation program [[Sibelius (software)|Sibelius]], "staccatos shorten a note by 50%."<ref>Daniel Spreadbury, Michael Eastwood, Ben Finn, and Jonathan Finn, "Sibelius 5 Reference", edition 5.2 (March 2008), p.&nbsp;284.</ref>
+
+== Staccatissimo ==
+In [[musical notation]], '''staccatissimo''' (plural: ''staccatissimi'' or the [[Anglicisation|anglicised]] form ''staccatissimos'') indicates that the notes are to be played extremely separated and distinct, a superlative staccato. This can be notated with little pikes over or under the notes, depending on [[Stem (music)|stem]] direction, as in this example from [[Anton Bruckner|Bruckner]]'s [[Symphony No. 0 (Bruckner)|Symphony No. 0 in D minor]]:
+
+: <score>
+\new Score {
+  \new Staff {
+    \relative c' {
+      \time 3/4
+      \key d \minor
+      \clef treble
+      d8->(\ff cis d2~
+      d4) a'-! d-!
+      es-! e-! f-!
+      fis-! g-! gis-!
+      a8(-> gis a4)
+    }
+  }
+}
+</score>
+
+Alternatively, it can be notated by writing the word "staccatissimo" or the abbreviation "staccatiss." over the staff. A few composers, such as Mozart, have used staccato dots accompanied by a written instruction ''staccatissimo'' when they mean the passage to be played ''staccatissimo''.<ref>Philip Farkas, ''The Art of French Horn Playing'' (Evanston: Summy-Birchard Company, 1956): p.&nbsp;51. {{ISBN|978-0-87487-021-3}}.</ref>
+
+== See also ==
+* [[Glissando]]
+* [[Legato]]
+* [[Marcato]]
+* [[Portato]]
+* [[Slur (music)]]
+
+== References ==
+<references />
+
+== External links ==
+{{Wiktionary|staccato}}
+* [http://neilhawes.com/sstheory/theory43.htm Basic Music Theory] Neil V. Hawes, organist and choirmaster of St. Mary's Church, [[Osterley]]
+* [http://www.theviolinsite.com/bowarm.html Staccato]—video example of staccato playing
+
+{{Musical notation}}
+
+[[Category:Articulations]]
+[[Category:Italian words and phrases]]
+[[Category:Musical notation]]

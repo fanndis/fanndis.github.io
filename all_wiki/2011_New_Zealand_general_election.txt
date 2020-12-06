@@ -1,0 +1,772 @@
+{{use dmy dates|date=September 2020}}
+{{Infobox election
+| election_name      = 2011 New Zealand general election
+| country            = New Zealand
+| type               = parliamentary
+| ongoing            = no
+| previous_election  = 2008 New Zealand general election
+| previous_year      = 2008
+| outgoing_members   = 49th New Zealand Parliament
+| next_election      = 2014 New Zealand general election
+| next_year          = 2014
+| next_MPs           = 51st New Zealand Parliament
+| seats_for_election = All 120 seats (plus one [[overhang seat]]) in the [[New Zealand House of Representatives]] <br /> 61 seats are needed for a majority
+| election_date      = {{start date|2011|11|26|df=y}}<ref name="nzhdate" />
+| elected_mps        = [[50th New Zealand Parliament|elected members]]
+| opinion_polls      = Opinion polling for the 2011 New Zealand general election
+| turnout            = 2,278,989 (74.21%) {{decrease}}5.25%
+| 1blank = Constituency&nbsp;vote 
+| 2blank = % and swing
+| 3blank = Party vote
+| 4blank = % and swing
+
+<!-- National -->
+| image1         = {{CSS image crop|Image =John Key headshot.jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| leader1        = [[John Key]]
+| leader_since1  = [[2006 New Zealand National Party leadership election|27 November 2006]]
+| party1         = New Zealand National Party
+| leaders_seat1  = [[Helensville (New Zealand electorate)|Helensville]]
+| last_election1 = 58 seats, 44.93%
+| seats_before1  = 58
+| seats1         = 59
+| seat_change1   = {{increase}}1
+| 1data1 = 1,027,696
+| 2data1 = 47.31% {{increase}}0.71 [[Percentage point|pp]]
+| 3data1 = 1,058,638
+| 4data1 = 47.31% {{increase}}2.38 [[Percentage point|pp]]
+
+<!-- Labour -->
+| image2         = {{CSS image crop|Image =Phil Goff.jpg|bSize = 130|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| leader2        = [[Phil Goff]]
+| leader_since2  = [[2008 New Zealand Labour Party leadership election|11 November 2008]]
+| party2         = New Zealand Labour Party
+| leaders_seat2  = [[Mount Roskill (New Zealand electorate)|Mount Roskill]]
+| last_election2 = 43 seats, 33.99%
+| seats_before2  = 42
+| seats2         = 34
+| seat_change2   = {{decrease}}8
+| 1data2 = 762,897
+| 2data2 = 35.12% {{decrease}}0.10 pp
+| 3data2 = 614,936
+| 4data2 = 27.48% {{decrease}}6.51 pp
+
+<!-- Green -->
+| image3         = {{CSS image crop|Image =Metiria Turei and Russel Norman crop.jpg|bSize = 165|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 20}}
+| leader3        = [[Russel Norman]]<br />[[Metiria Turei]]
+| leader_since3  = 3 June 2006<br />30 May 2009
+| party3         = Green Party of Aotearoa New Zealand
+| leaders_seat3  = [[Party-list proportional representation|List]]<br />[[Party-list proportional representation|List]]
+| last_election3 = 9 seats, 6.72%
+| seats_before3  = 9
+| seats3         = 14
+| seat_change3   = {{increase}}5
+| 1data3 = 155,492
+| 2data3 = 7.16% {{increase}}1.53 pp
+| 3data3 = 247,370
+| 4data3 = 11.06% {{increase}}4.34 pp
+
+<!-- NZ First-->
+| image4         = {{CSS image crop|Image =Winston Peters cropped.PNG|bSize = 150|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 10}}
+| leader4        = [[Winston Peters]]
+| leader_since4  = 18 July 1993
+| party4         = New Zealand First
+| leaders_seat4  = [[Party-list proportional representation|List]]
+| last_election4 = 0 seats, 4.07%
+| seats_before4  = 0
+| seats4         = 8
+| seat_change4   = {{increase}}8
+| 1data4 = 39,892
+| 2data4 = 1.84% {{increase}}0.15 pp
+| 3data4 = 147,544
+| 4data4 = 6.59% {{increase}}2.52 pp
+<!-- Māori -->
+| image5         = {{CSS image crop|Image =Tariana and Pita at Maori Party Launch 2005.jpg|bSize = 190|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 20}}
+| leader5        = [[Tariana Turia]]<br />[[Pita Sharples]]
+| leader_since5  = 7 July 2004
+| party5         = Māori Party
+| leaders_seat5  = [[Te Tai Hauāuru]]<br />[[Tāmaki Makaurau]]
+| last_election5 = 5 seats, 2.39%
+| seats_before5  = 4
+| seats5         = 3
+| seat_change5   = {{decrease}}1
+| 1data5 = 39,320
+| 2data5 = 1.81% {{decrease}}1.53 pp
+| 3data5 = 31,982
+| 4data5 = 1.43% {{decrease}}0.96 pp
+
+<!-- Mana -->
+| image6         = {{CSS image crop|Image =Hone Harawira (cropped).jpg|bSize = 165|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 30}}
+| leader6        = [[Hone Harawira]]
+| leader_since6  = 30 April 2011
+| party6         = Mana Party (New Zealand)
+| leaders_seat6  = [[Te Tai Tokerau]]
+| last_election6 = ''(not yet founded)''
+| seats_before6  = 1
+| seats6         = 1
+| seat_change6   = {{steady}}0
+| 1data6 = 29,872
+| 2data6 = 1.38% ''new''
+| 3data6 = 24,168
+| 4data6 = 1.08% ''new''
+
+<!-- ACT -->
+| image7         = {{CSS image crop|Image =Don.Brash.jpg|bSize = 145|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 10}}
+| leader7        = [[Don Brash]]
+| leader_since7  = 28 April 2011
+| party7         = ACT New Zealand
+| leaders_seat7  = ''Ran in [[North Shore (New Zealand electorate)|North Shore]] (lost)''
+| last_election7 = 5 seats, 3.65%
+| seats_before7  = 5
+| seats7         = 1
+| seat_change7   = {{decrease}}4
+| 1data7 = 31,001
+| 2data7 = 1.43% {{decrease}}1.56 pp
+| 3data7 = 23,889
+| 4data7 = 1.07% {{decrease}}2.58 pp
+
+<!-- United Future -->
+| image8         = {{CSS image crop|Image =Peter Dunne.jpg|bSize = 120|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 0}}
+| leader8        = [[Peter Dunne]]
+| leader_since8  = 16 November 2000
+| party8         = United Future
+| leaders_seat8  = [[Ōhariu]]
+| last_election8 = 1 seat, 0.87%
+| seats_before8  = 1
+| seats8         = 1
+| seat_change8   = {{steady}}0
+| 1data8 = 18,792
+| 2data8 = 0.87% {{decrease}}0.26 pp
+| 3data8 = 13,443
+| 4data8 = 0.60% {{decrease}}0.27 pp
+
+| map_image   = 2011 New Zealand general election - Results.svg
+| map_size    = 400px
+| map_caption = Results of the election.
+
+<!--Polls are on link at top-->
+| title           = [[Prime Minister of New Zealand|Prime Minister]]
+| before_election = [[John Key]]
+| before_party    = New Zealand National Party
+| posttitle       = Subsequent Prime Minister
+| after_election  = [[John Key]]
+| after_party     = New Zealand National Party
+}}
+
+The '''2011 New Zealand general election''' on Saturday 26 November 2011<ref name="nzhdate">{{cite news |url= http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10703639 |title= Key confirms election date |work= The New Zealand Herald|date= 2 February 2011 |accessdate=5 May 2011}}</ref> determined the membership of the [[50th New Zealand Parliament]].
+
+One hundred and twenty-one MPs were elected to the [[New Zealand House of Representatives]], 70 from single-member [[New Zealand electorates|electorates]], and 51 from party lists including one [[overhang seat]]. New Zealand since 1996 has used the [[Mixed-member proportional representation|Mixed Member Proportional]] (MMP) voting system, giving voters two votes: one for a political party and the other for their local electorate MP. A [[2011 New Zealand voting system referendum|referendum on the voting system]] was held at the same time as the election,<ref name="nzh_date">{{cite news|url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10604317|title=MMP referendum to be held with 2011 election|work=[[The New Zealand Herald]] | date=20 October 2009}}</ref> with voters voting by majority to keep the MMP system.<ref>{{cite web |url= http://archive.electionresults.govt.nz/electionresults_2011/referendum.html |title= Overall Results - 2011 Referendum on the Voting System |publisher=Electoral Commission |date= 10 December 2011 |accessdate= 10 December 2011}}</ref>
+
+A total of 3,070,847 people were registered to vote in the election, with over 2.2 million votes cast and a [[voter turnout|turnout]] of 74.21%<ref name="electorate">{{cite web |url= http://archive.electionresults.govt.nz/electionresults_2011/e9/html/e9_part9_1.html |title= Party Votes and Turnout by Electorate -- Statistics -- 2011 General Election |publisher=Electoral Commission (New Zealand) |accessdate=20 February 2012}}</ref> – the lowest turnout since 1887.<ref>[[Otago Daily Times]] "Decision 2011":Election Special Issue, 28 November 2011, p. 2.</ref> The incumbent [[New Zealand National Party|National Party]], led by [[John Key]], gained the plurality with 47.3% of the party vote and 59 seats, two seats short of holding a majority. The opposing [[New Zealand Labour Party|Labour Party]], led by [[Phil Goff]], lost ground winning 27.5% of the vote and 34 seats, while the [[Green Party of Aotearoa New Zealand|Green Party]] won 11.1% of the vote and 14 seats – the biggest share of the party vote for a minor party since 1996. [[New Zealand First]], having won no seats in 2008 due to its failure to either reach the 5% threshold or win an electorate, made a comeback with 6.6% of the vote entitling them to eight seats.
+
+National's confidence and supply partners in the 49th Parliament meanwhile suffered losses. [[ACT New Zealand]] won less than a third of the party vote it received in 2008, reducing from five seats to one. The [[Māori Party]] was reduced from five seats to three, as the party vote split between the Māori Party and former Māori Party MP [[Hone Harawira]]'s [[Mana Party (New Zealand)|Mana Party]]. [[United Future]] lost party votes, but retained their one seat in Parliament.
+
+Following the election, National reentered into [[confidence and supply]] agreements with ACT and United Future on 5 December 2011,<ref>{{cite web |url= http://tvnz.co.nz/politics-news/dunne-banks-secure-ministerial-roles-in-coalition-deals-4589569 |title= Dunne, Banks secure ministerial roles in coalition deals |publisher=Television New Zealand |date= 5 December 2011 |accessdate= 5 December 2011}}</ref><ref>{{cite news |url= http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10771067 |title= Dunne, Banks get Govt roles |work= The New Zealand Herald|date= 5 December 2011 |accessdate= 5 December 2011}}</ref> and with the Māori Party on 11 December 2011,<ref>{{cite web |url= http://tvnz.co.nz/politics-news/key-finalises-maori-coalition-deal-4626361 |title= Key finalises Maori coalition deal |publisher=Television New Zealand |date= 11 December 2011 |accessdate= 11 December 2011}}</ref> to form a [[minority government]] with a seven-seat majority (64 seats to 57) and give the [[Fifth National Government of New Zealand|Fifth National Government]] a second term in office.
+
+==Background==
+
+===Election date and other key dates===
+The election date was set as Saturday 26 November 2011, as predicted by the media.<ref>{{cite news |url= http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10697628 |title= Challenges ahead but first, a break |work= The New Zealand Herald|last1= Armstrong |first1= John |last2= Young |first2= Audrey |date= 3 January 2011 |accessdate=13 January 2011}}</ref> Breaking with tradition, Prime Minister John Key announced the election date in February. Traditionally, the election date is a closely guarded secret, announced as late as possible. The date follows the tradition of holding the general election on the last Saturday of November unless the schedule is interrupted by a snap election or to circumvent holding a by-election.
+
+The [[Governor-General of New Zealand|Governor-General]] must issue [[writ of election|writs]] for an election within seven days of the expiration or dissolution of Parliament.<ref>{{cite web |url=http://www.legislation.co.nz/act/public/1993/0087/latest/DLM309425.html#DLM309425 |title=Electoral Act 1993, Sec. 125 |publisher=Legislation.co.nz |date=17 August 2011 |accessdate=27 November 2011 |archive-url=https://web.archive.org/web/20110928000658/http://www.legislation.co.nz/act/public/1993/0087/latest/DLM309425.html#DLM309425 |archive-date=28 September 2011 |url-status=dead }}</ref> Under section 17 of the [[Constitution Act 1986]], Parliament expires three years "from the day fixed for the return of the writs issued for the last preceding general election of members of the House of Representatives, and no longer." The writs for the previous general election were returnable on 27 November 2008.<ref name="www.elections.org.nz/voting/key-dates">{{cite web |author=CEO |url=http://www.elections.org.nz/voting/key-dates.html |title=2008 General Election Timetable |date=2010-06-04 |accessdate=2017-09-07 |url-status=dead |archiveurl=https://web.archive.org/web/20100604123736/http://www.elections.org.nz/voting/key-dates.html |archivedate=4 June 2010}}</ref> As a result, the [[49th New Zealand Parliament|49th Parliament]] would have expired, if not dissolved earlier, on 27 November 2011. As that day was a Sunday, the last available working day was 25 November 2011. Consequently, the last day for issuance of writs of election was 2 December 2011. Except in some circumstances (such a recount or the death/incapacitation of an electorate candidate), the writs must be returned within 50 days of their issuance with the last possible working day being 20 January 2012.<ref name="sec139">{{cite web |url=http://www.legislation.co.nz/act/public/1993/0087/latest/DLM309482.html#DLM309482 |title=Electoral Act 1993, Sec. 139 |publisher=Legislation.co.nz |date=17 August 2011 |accessdate=27 November 2011 |archive-url=https://web.archive.org/web/20120114123024/http://www.legislation.co.nz/act/public/1993/0087/latest/DLM309482.html#DLM309482 |archive-date=14 January 2012 |url-status=dead}}</ref> Because polling day must be a Saturday,<ref name="sec139"/> the last possible polling date for the election was 7 January 2012, allowing time for the counting of special votes.<ref name="last_date">{{cite web|url=http://www.elections.org.nz/elections/system-of-government.html|title=New Zealand's system of government - an overview|publisher=[[Electoral Commission (New Zealand)|The New Zealand Electoral Commission]]|url-status=dead|archiveurl=https://web.archive.org/web/20100514042908/http://www.elections.org.nz/elections/system-of-government.html|archivedate=14 May 2010}}</ref> The Christmas/New Year holiday period made the last realistic date for the election Saturday 10 December 2011. The [[Rugby World Cup 2011]] was hosted by New Zealand between 9 September and 23 October 2011, and ruled out all the possible election dates in this period. This left two possible windows for the general election: on or before 2 September and 29 October to 10 December.
+
+Key dates of the election were:<ref name="keydates">{{cite web |url= http://www.elections.org.nz/elections/2011-general-election-and-referendum/election-date-announcement-and-key-dates.html |title= 2011 general election and referendum timetable |publisher=Electoral Commission |accessdate= 9 October 2011 |url-status= dead |archiveurl= https://web.archive.org/web/20111014115011/http://www.elections.org.nz/elections/2011-general-election-and-referendum/election-date-announcement-and-key-dates.html |archivedate= 14 October 2011}}</ref>
+{| class="wikitable"
+|-
+| 2 February 2011 || Prime Minister John Key announces election to be held on 26 November
+|-
+| 6 October 2011 || Last sitting day for the 49th Parliament
+|-
+| 20 October 2011 || Governor-General Jerry Mateparae dissolves the 49th Parliament
+|-
+| 26 October 2011 || '''Writ Day''' - Governor-General issues formal direction to the Electoral Commission to hold the election. <br />Electoral roll closes for printing (all people enrolling after this date must cast special declaration votes).
+|-
+| 2 November 2011 || Details of candidates for election and polling places released.
+|-
+| 9 November 2011 || Advance and overseas voting begins.
+|-
+| 25 November 2011 || Advance voting ends. Overseas voting ends 4:00pm local time.
+|-
+| 26 November 2011 || '''Election Day''' - polling places open 9:00am to 7:00pm. Preliminary results released progressively after 7:00pm.
+|-
+| 10 December 2011 || '''Official results released'''
+|-
+| 15 December 2011 || Writ for election returned; official declaration of elected members
+|}
+
+However, as the recount of the [[Waitakere (New Zealand electorate)|Waitakere]] was not completed in time for the writ to be returned on 15 December, the return of the writ was delayed to 17 December 2011.
+
+===49th Parliament, 2008–2011===
+Following the [[2008 New Zealand general election|2008 general election]], [[New Zealand National Party|National Party]] leader and Prime Minister [[John Key]] announced a confidence and supply agreement with [[ACT New Zealand|ACT]], the [[Māori Party]] and [[United Future]] to form the [[Fifth National Government of New Zealand|Fifth National Government]]. These arrangements gave the National-led government a majority of 16 seats, with 69 on confidence-and-supply in the 122-seat Parliament.
+
+[[New Zealand Labour Party|Labour]], [[Green Party of Aotearoa New Zealand|Greens]] and the [[New Zealand Progressive Party|Progressives]] are all in opposition, although only the Labour and Progressive parties formally constitute the [[Official Opposition (New Zealand)|formal Opposition]]; the Greens have a minor agreement with the government but are not committed to ''[[confidence and supply]]'' support.
+
+At the 2008 election, the National Party had 58 seats, the Labour Party 43 seats, Green Party 9 seats, ACT and Māori Party five each, and Progressive and United Future one each. During the Parliament session, two members defected from their parties – [[Chris Carter (politician)|Chris Carter]] was expelled from Labour in August 2010, and [[Hone Harawira]] left the Māori Party in February 2011. Carter continued as an [[Independent politician|independent]], while Harawira resigned from parliament to recontest his [[Te Tai Tokerau]] electorate in [[2011 Te Tai Tokerau by-election|a by-election]] under his newly formed [[Mana Party (New Zealand)|Mana Party]]. Two MPs resigned from Parliament before the end of the session, [[John Carter (New Zealand politician)|John Carter]] of National and Chris Carter, but as they resigned within 6 months of an election, their seats remained vacant.
+
+At the dissolution of the 49th parliament on 20 October 2011, National held 57 seats, Labour 42 seats, Green 9 seats, ACT 5 seats, Māori 4 seats, and Progressive, United Future and Mana one each.
+
+===Marginal seats in 2008===
+At the [[2008 New Zealand general election|2008 election]], the following seats were won by a majority of less than 1000 votes:
+{|class="wikitable sortable"
+|-
+!Electorate
+!Member of Parliament
+!colspan=2|Incumbent party
+!Majority
+!Second place
+!colspan=2|Second party
+|-
+|[[New Plymouth (New Zealand electorate)|New Plymouth]]
+|{{sortname|Jonathan|Young|Jonathan Young (politician)}}
+{{Party name with colour|New Zealand National Party}}
+|{{nts|105}}
+|{{sortname|Harry|Duynhoven}}
+{{Party name with colour|New Zealand Labour Party}}
+|-
+|[[Waimakariri (New Zealand electorate)|Waimakariri]]
+|{{sortname|Clayton|Cosgrove}}
+{{Party name with colour|New Zealand Labour Party}}
+|{{nts|390}}
+|{{sortname|Kate|Wilkinson|Kate Wilkinson (politician)}}
+{{Party name with colour|New Zealand National Party}}
+|-
+|[[Waitakere (New Zealand electorate)|Waitakere]]
+|{{sortname|Paula|Bennett}}
+{{Party name with colour|New Zealand National Party}}
+|{{nts|632}}
+|{{sortname|Lynne|Pillay}}
+{{Party name with colour|New Zealand Labour Party}}
+|-
+|[[Rimutaka (New Zealand electorate)|Rimutaka]]
+|{{sortname|Chris|Hipkins}}
+{{Party name with colour|New Zealand Labour Party}}
+|{{nts|753}}
+|{{sortname|Richard|Whiteside|nolink=1}}
+{{Party name with colour|New Zealand National Party}}
+|-
+|[[Hauraki-Waikato]]
+|{{sortname|Nanaia|Mahuta}}
+{{Party name with colour|New Zealand Labour Party}}
+|{{nts|888}}
+|{{sortname|Angeline|Greensill}}
+{{Party name with colour|Māori Party}}
+|-
+|[[Christchurch Central]]
+|{{sortname|Brendon|Burns|Brendon Burns (politician)}}
+{{Party name with colour|New Zealand Labour Party}}
+|{{nts|935}}
+|{{sortname|Nicky|Wagner}}
+{{Party name with colour|New Zealand National Party}}
+|-
+|[[West Coast-Tasman]]
+|{{sortname|Chris|Auchinvole}}
+{{Party name with colour|New Zealand National Party}}
+|971
+|{{sortname|Damien|O'Connor}}
+{{Party name with colour|New Zealand Labour Party}}
+|}
+
+===MPs retiring in 2011===
+Nineteen MPs, including all five ACT MPs and the sole Progressive MP, intended to retire at the end of the 49th Parliament. One of the ACT MPs, John Boscawen, contested [[Tāmaki (New Zealand electorate)|Tāmaki]], but did not expect to win and was not on the party list. National MP Allan Peachey died three weeks before the election.
+{| class="wikitable"
+|-
+! colspan=2| Party !! Name !! Electorate !!
+|-
+| rowspan=5 width=5 style="background-color: {{ACT New Zealand/meta/color}}" |
+| rowspan=5|[[ACT New Zealand|ACT]]
+| [[Roger Douglas]] || (List) ||<ref name="RNZ_68884">{{cite news |url=http://www.radionz.co.nz/news/political/68884/sir-roger-douglas-to-quit-parliament |title=Sir Roger Douglas to quit parliament |date=19 February 2011 |work=[[Radio New Zealand]] |accessdate=30 October 2011}}</ref>
+|-
+| [[Rodney Hide]] || [[Epsom (New Zealand electorate)|Epsom]] ||<ref>{{cite news|url= http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10723116 |work=[[The New Zealand Herald]]|title=Hide won't contest general election|date=3 May 2011 |accessdate=3 August 2011}}</ref><ref>{{cite news|url= http://www.nzherald.co.nz/act-party/news/article.cfm?o_id=359&objectid=10742163 |work=[[The New Zealand Herald]]|title=Hide refuses to give traditional farewell|date=1 August 2011 |accessdate=3 August 2011}}</ref>
+|-
+|[[Heather Roy]]||(List)||<ref name="Stuff.co.nz_5191845">{{cite news |url=http://www.stuff.co.nz/national/politics/5191845/Roy-to-quit-on-her-own-terms |title=Roy to quit - on her own terms |author=Vance, Andrea |date=25 June 2011 |work=[[The Dominion Post (Wellington)|The Dominion Post]] |accessdate=30 October 2011}}</ref>
+|-
+|[[Hilary Calvert]]||(List)||<ref name="NBR_99744">{{cite news |url=http://www.nbr.co.nz/article/nz-politics-daily-hilary-calvert-suddenly-looks-ideal-politician-ck-99744 |title=Hilary Calvert, ideal politician |author=Edwards, Bryce |date=29 August 2011 |work=[[National Business Review]] |accessdate=30 October 2011}}</ref>
+|-
+|[[John Boscawen]]||(List)||<ref>{{cite web |url=http://act.org.nz/news/boscawen-announces-he-will-not-seek-re-election-on-act-party-list |title=Nix NAIT Says Nicolson &#124; ACT New Zealand |publisher=Act.org.nz |date=6 September 2011 |accessdate=27 November 2011 |url-status=dead |archiveurl=https://archive.is/20120707222719/http://act.org.nz/news/boscawen-announces-he-will-not-seek-re-election-on-act-party-list |archivedate=7 July 2012}}</ref>
+|-
+| rowspan=2 style="background-color: {{Green Party of Aotearoa New Zealand/meta/color}}" |
+| rowspan=2| [[Green Party of Aotearoa New Zealand|Green]]
+| [[Sue Kedgley]] || (List) ||<ref>{{cite web|url=http://www.greens.org.nz/press-releases/kedgley-sprints-2011-finish-line|title=Kedgley sprints to the 2011 finish line|date=17 September 2010|publisher=Green Party of Aotearoa New Zealand|accessdate=17 September 2010|url-status=dead|archiveurl=https://web.archive.org/web/20100918192206/http://www.greens.org.nz/press-releases/kedgley-sprints-2011-finish-line|archivedate=18 September 2010}}</ref><ref>{{cite news |url=http://www.stuff.co.nz/national/politics/4138433/Kedgley-confirms-resignation |title=Kedgley confirms resignation |date=17 September 2010 |accessdate=17 September 2010}}</ref>
+|-
+| [[Keith Locke]] || (List) ||<ref>{{cite web |url=http://www.scoop.co.nz/stories/PA1101/S00088/locke-to-retire-at-election.htm |title=Locke to retire at election |publisher=Green Party of Aotearoa New Zealand |date=26 January 2011 |accessdate=26 January 2011}}</ref>
+|-
+| style="background-color: {{New Zealand Progressive Party/meta/color}}" |
+| [[Jim Anderton's Progressive Party|Progressive]]
+| [[Jim Anderton]] || [[Wigram (New Zealand electorate)|Wigram]] ||<ref>{{cite web|url=http://www.stuff.co.nz/the-press/news/4220907/Anderton-will-retire-from-House-in-2011 |title=Anderton will retire from House in 2011 |work=[[The Press]] |publisher=[[Fairfax New Zealand]]|first=Sam |last=Sachdeva |date=12 October 2010 |accessdate=15 February 2011}}</ref>
+|-
+| rowspan=5 style="background-color: {{New Zealand Labour Party/meta/color}}" |
+| rowspan=5| [[New Zealand Labour Party|Labour]]
+| [[Ashraf Choudhary]] || (List) || <ref name="Stuff.co.nz_4871296">{{cite news |url=http://www.stuff.co.nz/manawatu-standard/news/4871296/Labours-list-not-trusted-by-MP |title=Labour's list 'not trusted' by MP |date=11 April 2011 |work=[[Manawatu Standard]] |accessdate=30 October 2011}}</ref>
+|-
+| [[George Hawkins (politician)|George Hawkins]] || [[Manurewa (New Zealand electorate)|Manurewa]] ||<ref name="NZ_Herald_10693070">{{cite news |url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10693070 |title=Labour in turmoil over MP's threat to resign |author=Trevett, Claire |date=9 December 2010 |work=[[The New Zealand Herald]] |accessdate=30 October 2011}}</ref>
+|-
+| [[Pete Hodgson]] || [[Dunedin North (New Zealand electorate)|Dunedin North]] ||<ref>{{cite news|url=http://www.odt.co.nz/news/dunedin/109398/hodgson-exits-politics-039own-terms039|title=Hodgson exits politics on 'own terms'|last=Makenzie|first=Dene|date=5 June 2010|work=Otago Daily Times|accessdate=6 June 2010}}</ref>
+|-
+| [[Lynne Pillay]] || (List) ||<ref>{{cite web |url=http://www.scoop.co.nz/stories/PA0912/S00039.htm |title=Lynne Pillay confirms she will stand down in 2011 |publisher=Scoop Media |date=3 December 2009 |accessdate=3 December 2009}}</ref>
+|-
+| [[Mita Ririnui]] || (List) ||<ref>{{cite web |url=http://www.scoop.co.nz/stories/PA1102/S00201/mita-ririnui-time-for-new-challenges.htm |title=Mita Ririnui: Time for new challenges |publisher=New Zealand Labour Party |date=15 February 2011 |accessdate=15 February 2011}}</ref>
+|-
+| rowspan=6 style="background-color: {{New Zealand National Party/meta/color}}" |
+| rowspan=6| [[New Zealand National Party|National]]
+| [[John Carter (New Zealand politician)|John Carter]] || [[Northland (New Zealand electorate)|Northland]] ||<ref>{{cite web |url=http://www.scoop.co.nz/stories/PA1102/S00172/mccully-names-new-high-commissioner-to-the-cook-islands.htm |title=McCully names new High Commissioner to the Cook Islands |publisher=New Zealand Government |date=11 February 2011 |accessdate=11 February 2011}}</ref>
+|-
+| [[Sandra Goudie]] || [[Coromandel (New Zealand electorate)|Coromandel]] ||<ref>{{cite news|url=http://www.nzherald.co.nz/politics/news/article.cfm?c_id=280&objectid=10699661|title=Coromandel MP Sandra Goudie to retire|work=[[The New Zealand Herald]]|accessdate=14 January 2011|date=14 January 2011}}</ref>
+|-
+| [[Wayne Mapp]] || [[North Shore (New Zealand electorate)|North Shore]] ||<ref name="retire">{{cite web|url=http://www.stuff.co.nz/national/politics/4460226/National-MP-Wayne-Mapp-to-retire|date=15 December 2010|title=National MP Wayne Mapp to retire |author=Liz Willis}}</ref>
+|-
+| [[Simon Power]] || [[Rangitīkei (New Zealand electorate)|Rangitīkei]] ||<ref>{{cite web|url=http://www.stuff.co.nz/national/politics/4721936/Justice-Minister-Simon-Power-to-retire|title=Justice Minister Simon Power to retire|author=Martin Kay|publisher=[[Stuff (website)|Stuff]]|date=2 March 2011|accessdate=2 March 2011}}</ref>
+|-
+| [[Allan Peachey]] || [[Tāmaki (New Zealand electorate)|Tāmaki]] ||<ref>{{cite web|url=http://www.stuff.co.nz/national/politics/5737007/Nationals-Allan-Peachey-steps-down|title=Nationals Allan Peachey steps down|author=John Hartevelt|publisher=[[Stuff (website)|Stuff]]|date=5 October 2011|accessdate=5 October 2011}}</ref>
+|-
+| [[Georgina te Heuheu]] || (List) ||<ref>{{cite news|url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10724694&ref=rss |title=Georgina te Heuheu to retire from politics |work=[[The New Zealand Herald]] |date= 10 May 2011 |accessdate=10 May 2011}}</ref>
+|}
+
+===Electorate boundaries===
+[[File:Christchurch polling place 01.jpg|thumb|Advance voting in campervans in Christchurch. Campervans were used as many of the polling stations used at previous elections are unavailable due to the [[2010 Canterbury earthquake|2010]] and [[2011 Christchurch earthquake|2011]] earthquakes.]]
+[[New Zealand electorates|Electorates]] in the election were the same as at the 2008 election.
+
+Electorates and their boundaries in New Zealand are reviewed every five years after the [[New Zealand census]]. The last review took place in 2007, following the [[2006 New Zealand census|2006 census]]. The next review is not due until 2014, following the [[2013 New Zealand census|2013 census]] (the 2011 census was cancelled due to the 22 February [[2011 Christchurch earthquake]]).
+
+===Election procedures===
+On 17 September 2010, Justice Minister [[Simon Power]] announced the government was introducing legislation making this the first election where voters would be able to re-enrol completely on-line. Enrolments on-line beforehand still required the election form to be printed, signed, and sent by post.<ref>{{cite web|title=Government to allow voters to enrol via Internet|url= http://beehive.govt.nz/release/government+allow+voters+enrol+internet |publisher=New Zealand Government|date=17 September 2010}}</ref>
+
+Voters in the [[Christchurch]] region were encouraged to cast their votes before election day if they had doubt about being able to get to a polling booth on election day or to avoid long queues, as many traditional polling booths are unavailable due to the earthquakes. Nineteen advance voting stations were made available, with three of them campervans, which are usually only used in rural areas of New Zealand. The [[Christchurch Central]] electorate, for example, has 33 polling stations in 2011 compared to 45 in 2008.<ref name="Camper vans">{{cite news|last=Gamble|first=Warren|title=Campervans collect early votes in Christchurch|url=http://www.stuff.co.nz/national/politics/campaign-trail/5989769/Campervans-collect-early-votes-in-Christchurch|accessdate=26 November 2011|work=[[The Press]]|date=18 November 2011}}</ref>
+
+==Contesting parties and candidates==
+{{Main|Candidates in the New Zealand general election 2011 by electorate|Party lists in the 2011 New Zealand general election}}
+
+At the close of nominations, 544 individuals had been nominated to contest the election, down from 682 at the 2008 election. Of those, 91 were list-only, 73 were electorate-only (43 from registered parties, 17 independents, and 13 from non-registered parties), and 380 contested both list and electorate.<ref name="candidates-locked">{{cite news |url= http://www.nzherald.co.nz/politics/news/article.cfm?c_id=280&objectid=10763396 |title= Candidates locked in for election |work= The New Zealand Herald|date= 2 November 2011 |accessdate=3 November 2011}}</ref>
+
+Political parties registered with the Electoral Commission on Writ Day can contest the general election as a party, allowing it to submit a party list to contend the party vote, and have a party election expenses limit in addition to individual candidate limits. At Writ Day, sixteen political parties were registered to contend the general election.<ref>{{cite web |url= http://www.elections.org.nz/elections/registers/registered-political-parties.html |title= Registered political parties - overview & register |publisher=Electoral Commission |date= 7 October 2011 |accessdate= 23 October 2011 |url-status= dead |archiveurl= https://web.archive.org/web/20111110025930/http://www.elections.org.nz/elections/registers/registered-political-parties.html |archivedate= 10 November 2011}}</ref> At the close of nominations, thirteen registered parties had put forward a party list to the commission to contest the party vote, down from nineteen in 2008.<ref name="candidates-locked"/><ref>{{cite web |url= http://www.elections.org.nz/elections/candidates-and-parties/party-lists.html |title= Party lists for the 2011 General Election |publisher=Electoral Commission |date= 2 November 2011 |accessdate= 2 November 2011 |url-status= dead |archiveurl= https://web.archive.org/web/20111110033910/http://www.elections.org.nz/elections/candidates-and-parties/party-lists.html |archivedate= 10 November 2011}}</ref>
+
+{| class="wikitable"
+|-
+! colspan=2| Party !! Leader(s) !! Party vote % <br /><small>(2008 election)</small> !! Seats <br /><small>(October 2011)</small> !! Electorate<br />candidates !! Party list<br />candidates
+|-
+| style="background:#fc9;" colspan="7"| '''Parties with seats in the 49th Parliament'''
+|-
+|{{party name with color|ACT New Zealand}} || [[Rodney Hide]] || 3.65 || 5 || 50 || [[Party lists in the 2011 New Zealand general election#ACT New Zealand|55]]
+|-
+|{{party name with color|Green Party of Aotearoa New Zealand}} || [[Russel Norman]] / [[Metiria Turei]] || 6.72 || 9 || 59 || [[Party lists in the 2011 New Zealand general election#Green Party|61]]
+|-
+|{{party name with color|New Zealand Labour Party}} || [[Phil Goff]] || 33.99 || 42 || 70 || [[Party lists in the 2011 New Zealand general election#Labour Party|65]]
+|-
+|{{party name with color|Mana Party (New Zealand)}}|| [[Hone Harawira]] || –{{ref|newparty|[a]|[a]}} || 1 || 21 || [[Party lists in the 2011 New Zealand general election#Mana Party|20]]
+|-
+|{{party name with color|Māori Party}} || [[Pita Sharples]] / [[Tariana Turia]] || 2.39 || 4 || 11 || [[Party lists in the 2011 New Zealand general election#Māori Party|17]]
+|-
+|{{party name with color|New Zealand National Party}} || [[John Key]] || 44.93 || 57 || 63 || [[Party lists in the 2011 New Zealand general election#National Party|65]]
+|-
+|{{party name with color|United Future New Zealand}} || [[Peter Dunne]] || 0.87 || 1 || 19 || [[Party lists in the 2011 New Zealand general election#United Future|15]]
+|-
+| style="background:#fc9;" colspan="7"| '''Other parties'''
+|-
+|{{party name with color|Alliance (New Zealand political party)}} || [[Andrew McKenzie (politician)|Andrew McKenzie]] / [[Kay Murray]] || 0.08 || – || 5 || [[Party lists in the 2011 New Zealand general election#Alliance|14]]
+|-
+|{{party name with color|Conservative Party of New Zealand}} || [[Colin Craig]] || –{{ref|newparty|[a]|[a]}} || – || 52 || [[Party lists in the 2011 New Zealand general election#Conservative Party|30]]
+|-
+|{{party name with color|New Zealand Democratic Party for Social Credit}} || [[Stephnie de Ruyter]] || 0.05 || – || 14 || [[Party lists in the 2011 New Zealand general election#Democrats for Social Credit|24]]
+|-
+|{{party name with color|Aotearoa Legalise Cannabis Party}} || [[Michael Appleby (politician)|Michael Appleby]] || 0.41 || – || 18 || [[Party lists in the 2011 New Zealand general election#Legalise Cannabis Party|28]]
+|-
+|{{party name with color|Libertarianz}} || Richard McGrath || 0.05 || – || 9 || [[Party lists in the 2011 New Zealand general election#Libertarianz|27]]
+|-
+|{{party name with color|New Zealand First}} || [[Winston Peters]] || 4.07 || – || 31 || [[Party lists in the 2011 New Zealand general election#New Zealand First|33]]
+|-
+| colspan=6| <small>{{note|newparty|[a]|Party was founded after the 2008 election}}</small>
+|}
+
+[[The Kiwi Party]], the [[New Citizen Party]] and the [[Jim Anderton's Progressive Party|Progressive Party]] were registered, but did not contend the election under their own banners. The Kiwi Party and the New Citizen Party stood candidates for the Conservative Party.<ref>{{cite web |url=http://www.stuff.co.nz/national/politics/5807380/New-Citizens-Party-joins-with-Conservatives |title=New Citizens Party joins with Conservatives |author=Danya Levy |publisher=Stuff |date=18 October 2011 |accessdate=18 October 2011}}</ref>
+
+In addition to the registered parties and their candidates, thirteen candidates from nine non-registered parties contested electorates. The [[Human Rights Party (New Zealand)|Human Rights Party]] contested Auckland Central, the [[Communist League (New Zealand)|Communist League]] Manukau East and Mount Roskill, the [[Nga Iwi Morehu Movement]] contested Hauraki-Waikato and Te Tai Hauauru, the [[Pirate Party of New Zealand|Pirate Party]] contested Hamilton East and Wellington Central, the [[New Zealand Sovereignty Party|Sovereignty Party]] contested Clutha-Southland and Te Tai Hauauru, Economic Euthenics contested Wigram, [[New Economics Party|New Economics]] contested Wellington Central, [[Restore All Things In Christ]] contested Dunedin South, and the [[Aotearoa NZ Youth Party|Youth Party]] contested West Coast-Tasman.
+
+Seventeen [[Independent politician|independent]] candidates also contested the electorates in thirteen electorates: Christchurch Central, Coromandel, Epsom (two), Hamilton West (two), New Plymouth, Ōtaki, Rangitikei (two), Rongotai, Tāmaki (two), Tauranga, Waitaki, Wellington Central, and Ikaroa-Rawhiti
+
+==Campaigning==
+{{expand section|date=October 2011}}
+
+===Epsom and the Tea Tape scandal===
+{{main|Tea Tape scandal}}
+On 11 November, National Party leader John Key met with [[John Banks (New Zealand politician)|John Banks]], the ACT candidate for [[Epsom (New Zealand electorate)|Epsom]], over a cup of tea at a cafe in [[Newmarket, New Zealand|Newmarket]] to send a signal to Epsom voters about voting tactically.<ref>{{cite web |last= McMahon |first= Lyle |url= http://www.stuff.co.nz/national/politics/5948536/PM-and-Banks-have-their-Epsom-cup-of-tea |title= PM and Banks have their Epsom cup of tea |publisher=Stuff.co.nz |date= 11 November 2011 |accessdate=18 November 2011}}</ref> The National Party passively campaigned for Epsom voters to give their electorate vote to ACT while giving their party vote to National. This would allow ACT to bypass the 5% party vote threshold and enter Parliament by winning an electorate seat, thereby providing a coalition partner for National. However, in October and November 2011, [[Opinion polling for the 2011 New Zealand general election#Epsom electorate vote|polls of the Epsom electorate vote]] taken by various companies showed that the National candidate for Epsom, Paul Goldsmith,<ref>{{cite web |url= http://www.national.org.nz/Candidate.aspx?Id=13160 |title= Paul Goldsmith - Candidate profile |publisher=New Zealand National Party |accessdate= 20 November 2011 }}{{Dead link|date=August 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> was leading in the polls and likely to win the seat. During the meeting, the two politicians' discussion was recorded by a device left on the table in a black pouch. The recording tapes were leaked to ''[[The Herald on Sunday]]'' newspaper, and subsequently created a media frenzy over the content of the unreleased tapes.<ref name="3 News">{{cite news |url=http://www.3news.co.nz/Key-may-face-more-teapot-tape-accusations/tabid/419/articleID/232874/Default.aspx |title=Key may face more teapot tape accusations |author=Wilson, Peter |date=16 November 2011 |work=[[3 News]] |location=New Zealand |accessdate=16 November 2011 |archive-url=https://web.archive.org/web/20120201110834/http://www.3news.co.nz/Key-may-face-more-teapot-tape-accusations/tabid/419/articleID/232874/Default.aspx |archive-date=1 February 2012 |url-status=dead}}</ref>
+
+===Debates===
+[[Television New Zealand|TVNZ]] held three party leaders' debates: two between the Prime Minister and the Leader of the Opposition, and one between the leaders of the smaller parties.<ref>{{cite web |url= http://tvnz.co.nz/politics-news/tv-one-election-debates-announced-4463641 |publisher=Television New Zealand |date= 13 October 2011 |accessdate=26 October 2011 |title= TV ONE election debates announced}}</ref> [[TV3 (New Zealand)|TV3]] hosted a single debate between the Prime Minister and the Leader of the Opposition.<ref>{{cite news |url= http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10747425 |title= Worm returns for leaders' debate |first= John |last= Drinnan |work= The New Zealand Herald|date= 26 August 2011 |accessdate=26 October 2011}}</ref>
+
+{| class="wikitable"
+|-
+! '''Date'''
+! '''Host'''
+! '''Leaders'''
+!  '''Presenter / Moderator'''
+|-
+|| 30 October
+|| [[TVNZ]]
+|| Don Brash, Metiria Turei, Hone Harawira, Pita Sharples, Peter Dunne
+|| [[Paul Holmes (broadcaster)|Paul Holmes]]
+|-
+| colspan="5"  style="vertical-align:top; border-bottom:solid 2px black;"| '''Highlights''' – The debate included a variety of topics, ranging from the age of superannuation eligibility to youth unemployment to asset sales. Peter Dunne won the debate, with Metiria Turei coming second.<ref>{{cite news |url= http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10762673 |accessdate=31 October 2011 |first= Derek |last= Cheng |title= Dunne wins debate by a hair |work= The New Zealand Herald|date= 30 October 2011}}</ref>
+|-
+|| 31 October
+|| [[TVNZ]]
+|| John Key, Phil Goff
+|| [[Mark Sainsbury (New Zealand)|Mark Sainsbury]] / [[Guyon Espiner]]
+|-
+| colspan="5"  style="vertical-align:top; border-bottom:solid 2px black;"| '''Highlights''' – The economy, asset sales, the cost of living, education, welfare, environment and mining, crisis management and recovery, leadership and New Zealand's involvement in Afghanistan. A text poll conducted alongside gave the debate to John Key with 61%.<ref name="TVNZ-multi-debate">{{cite news |url= http://tvnz.co.nz/politics-news/goff-and-key-clash-in-fiery-opening-debate-4492905 |title= Goff and Key clash in fiery opening debate |work= [[Television New Zealand]] |date= 31 October 2011 |accessdate=21 November 2011}}</ref>
+|-
+|| 16 November
+|| TVNZ
+|| Don Brash, Russel Norman, Hone Harawira, Tariana Turia, Winston Peters, Peter Dunne
+|| Mark Sainsbury / Guyon Espiner
+|-
+| colspan="5"  style="vertical-align:top; border-bottom:solid 2px black;"| '''Highlights''' – The debate included the economy, the age of superannuation eligibility, Māori affairs, the environment, the Emissions Trading Scheme, the [[Tea Tape scandal]], the [[2011 New Zealand voting method referendum|voting system referendum]], and potential partners after the election. A text poll conducted alongside gave the debate to Winston Peters with 36%, with Hone Harawira coming second with 27%.<ref>{{cite news |url= http://tvnz.co.nz/election-2011/multi-party-debate-happened-4543250 |title= Multi party debate: As it happened |work= [[Television New Zealand]] |date= 16 November 2011 |accessdate=17 November 2011}}</ref><ref>{{cite web |url= http://www.stuff.co.nz/national/politics/5981643/Winston-Peters-winner-in-minor-party-debate |accessdate=17 November 2011 |first= Andrea |last= Vance |title= Winston Peters winner in minor party debate |date= 17 November 2011}}</ref>
+|-
+|| 21 November
+|| TV3
+|| John Key, Phil Goff
+|| [[John Campbell (broadcaster)|John Campbell]]
+|-
+| colspan="5"  style="vertical-align:top; border-bottom:solid 2px black;"| '''Highlights''' – A studio audience of undecided voters gave positive or negative reactions to the leaders, which showed up on a reactor worm. Aside from claims that the studio audience was biased, Phil Goff won the debate.<ref>{{cite web |url= http://www.stuff.co.nz/national/politics/campaign-trail/6009172/The-worm-turns-for-Goff-in-leaders-debate |title= The worm turns for Goff in leaders' debate |publisher=Fairfax Media (via Stuff.co.nz) |first1= Tracy |last1= Watkins |first2= Vernon |last2= Small |date= 22 November 2011 |accessdate= 25 February 2012}}</ref>
+|-
+|| 23 November
+|| TVNZ
+|| John Key, Phil Goff
+|| Mark Sainsbury / Guyon Espiner
+|-
+| colspan="5"  style="vertical-align:top; border-bottom:solid 2px black;"| '''Highlights''' – ''to be completed''
+|}
+
+===Pre-election coalition preferences===
+The National Party ruled out working with New Zealand First's Winston Peters after the election.<ref>{{cite news|title=PM rules out any NZ First deal|url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10703680|date=2 February 2011|work=[[The New Zealand Herald]]|accessdate=6 March 2011}}</ref> ACT confirmed it would work with National after the elections.
+
+The Labour Party leader [[Phil Goff]] ruled out a coalition agreement with Hone Harawira's new [[Mana Party (New Zealand)|Mana Party]], but left open the possibility of reaching an agreement with New Zealand First.<ref>{{cite web|title=Goff rules out deal with Hone Harawira|url=http://www.stuff.co.nz/national/politics/4767365/Goff-rules-out-deal-with-Hone-Harawira|date=14 March 2011|work=Stuff.co.nz|accessdate=22 March 2011}}</ref>
+
+In the 16 November minor parties debate, leaders from the minor parties stated their preferences:<ref name="TVNZ-multi-debate" />
+* The Green's preference was it would work in a coalition government with Labour, but wouldn't completely rule out working with National.
+* Mana would not work in a coalition government with National and/or ACT
+* Māori would not work in a coalition government with ACT.
+* No preference was stated for New Zealand First, but later said it would not work with National or Labour.
+* United Future ruled out working with Labour
+
+===Media bias===
+A Massey University study released in November 2012 suggested newspaper coverage was favourable towards National and John Key. In the month leading up to the election, the big four newspapers in New Zealand – ''[[The New Zealand Herald]]'', ''The Herald on Sunday'', ''[[The Dominion Post (Wellington)|The Dominion Post]]'' and ''[[The Sunday Star-Times]]'' – printed 72 percent more photos of Key than his opponent, Phil Goff, and devoted twice as many column inches of text coverage.<ref>{{cite news | url= http://www.3news.co.nz/Election-coverage-biased-towards-Key-National---study/tabid/1607/articleID/278232/Default.aspx | work= 3 News NZ | title= Election coverage biased towards Key, National - study | date= 27 November 2012 | access-date= 26 November 2012 | archive-url= https://web.archive.org/web/20130222133625/http://www.3news.co.nz/Election-coverage-biased-towards-Key-National---study/tabid/1607/articleID/278232/Default.aspx | archive-date= 22 February 2013 | url-status= dead }}</ref>
+
+==Opinion polling==
+{{Main|Opinion polling for the 2011 New Zealand general election}}
+[[File:NZ opinion polls 2009-2011 -parties.png|thumb|350px|Graphical representation of poll results]]
+
+The nature of the Mixed Member Proportional voting system, whereby the share of seats in Parliament a party gets is determined by its share of the nationwide party vote, means aside from normal polling bias and error, opinion polling in New Zealand is fairly accurate in predicting the outcome of an election compared with other countries.
+
+Opinion polls were undertaken periodically since the 2008 election by [[MediaWorks New Zealand]] ([[3 News]] Reid Research), [[The New Zealand Herald]] (Herald Digipoll), [[Roy Morgan Research]], and [[Television New Zealand]] (''[[One News (New Zealand)|One News]]'' [[Colmar Brunton]]), with polls having also being conducted by [[Fairfax Media]] (Fairfax Media Research International) since July 2011. The graph on the right shows the collated results of all five polls for parties that have polled above the 5% electoral threshold.
+
+After the 2008 election, National gained in popularity, and since 2009 has regularly polled in the 50-55% range, peaking at 55% in August 2009 and October 2011, before falling to 51% in the week before the election. Labour and Green meanwhile kept steady after the election at 31-34% and 7-8% respectively until July 2011, when Labour started to lose support, falling to just 26% before the election. The majority of Labour's loss was the Green's gain, rising to 13% in the same period. No other party peaked on average above 5% in the period.
+
+==Results==
+
+===Parliamentary parties===
+{{Pie chart
+| thumb = right
+| caption = '''Party vote percentage'''
+| other = yes
+| label1 =[[New Zealand National Party|National]]
+| value1 =47.31
+| color1 ={{New Zealand National Party/meta/color}}
+| label2 =[[New Zealand Labour Party|Labour]]
+| value2 =27.48
+| color2 = {{New Zealand Labour Party/meta/color}}
+| label3 =[[Green Party of Aotearoa New Zealand|Green]]
+| value3 =11.06
+| color3 = {{Green Party of Aotearoa New Zealand/meta/color}}
+| label4 =[[New Zealand First|NZ First]]
+| value4 =6.59
+| color4 = {{New Zealand First/meta/color}}
+| label5 =[[Conservative Party of New Zealand|Conservative]]
+| value5 =2.65
+| color5 = {{Conservative Party of New Zealand/meta/color}}
+| label6 =[[Māori Party|Māori]]
+| value6 =1.43
+| color6 = {{Māori Party/meta/color}}
+| label7 =[[Mana Party (New Zealand)|Mana]]
+| value7 =1.08
+| color7 = {{Mana Party (New Zealand)/meta/color}}
+| label8 =[[ACT New Zealand|ACT]]
+| value8 =1.07
+| color8 = {{ACT New Zealand/meta/color}}
+| label9 =[[United Future New Zealand|United Future]]
+| value9 =0.60
+| color9 = {{United Future New Zealand/meta/color}}
+}}
+[[File:NZ Parliament seats, 2011.svg|thumb|Seating diagram, after 2011 election]]
+{{New Zealand election, 2011}}
+
+===Votes summary===
+{{bar box
+| title=Constituency Vote
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|'''National'''|{{New Zealand National Party/meta/color}}|47.31}}
+{{bar percent|Labour|{{New Zealand Labour Party/meta/color}}|35.12}}
+{{bar percent|Green|{{Green Party of Aotearoa New Zealand/meta/color}}|7.16}}
+{{bar percent|Conservative|{{Conservative Party of New Zealand/meta/color}}|2.38}}
+{{bar percent|NZ First|{{New Zealand First/meta/color}}|1.84}}
+{{bar percent|Māori|{{Māori Party/meta/color}}|1.81}}
+{{bar percent|ACT|{{ACT New Zealand/meta/color}}|1.43}}
+{{bar percent|Mana|{{Mana Party (New Zealand)/meta/color}}|1.38}}
+{{bar percent|United Future|{{United Future New Zealand/meta/color}}|0.87}}
+{{bar percent|Others|#777777|0.70}}
+}}
+{{bar box
+| title=Party Vote
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|'''National'''|{{New Zealand National Party/meta/color}}|47.31}}
+{{bar percent|Labour|{{New Zealand Labour Party/meta/color}}|27.48}}
+{{bar percent|Green|{{Green Party of Aotearoa New Zealand/meta/color}}|11.06}}
+{{bar percent|NZ First|{{New Zealand First/meta/color}}|6.59}}
+{{bar percent|Conservative|{{Conservative Party of New Zealand/meta/color}}|2.65}}
+{{bar percent|Māori|{{Māori Party/meta/color}}|1.43}}
+{{bar percent|Mana|{{Mana Party (New Zealand)/meta/color}}|1.08}}
+{{bar percent|ACT|{{ACT New Zealand/meta/color}}|1.07}}
+{{bar percent|United Future|{{United Future New Zealand/meta/color}}|0.60}}
+{{bar percent|Others|#777777|0.73}}
+}}
+{{bar box
+| title=Parliament seats
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|'''National'''|{{New Zealand National Party/meta/color}}|48.76}}
+{{bar percent|Labour|{{New Zealand Labour Party/meta/color}}|28.09}}
+{{bar percent|Green|{{Green Party of Aotearoa New Zealand/meta/color}}|11.57}}
+{{bar percent|NZ First|{{New Zealand First/meta/color}}|6.61}}
+{{bar percent|Māori|{{Māori Party/meta/color}}|2.47}}
+{{bar percent|Mana|{{Mana Party (New Zealand)/meta/color}}|0.83}}
+{{bar percent|ACT|{{ACT New Zealand/meta/color}}|0.83}}
+{{bar percent|United Future|{{United Future New Zealand/meta/color}}|0.83}}
+}}
+
+===Electorate results===
+[[File:New Zealand electorates 2011 election (insets).svg|thumb|left|600px|Party affiliation of winning electorate candidates.]]
+{{clear}}
+Prior to the election, the National Party held the majority of the electorate seats with 41. Labour held 20 seats, Māori held four seats, and ACT, Mana, Progressive, United Future and an ex-Labour independent held one seat each.
+
+After the election, National gained one seat to hold 42 seats, Labour gained three seats to hold 23 electorates, Māori lost one seat to hold three, and ACT, Mana, and United Future held steady with one seat each.<ref name="electorate-status">{{cite web |url= http://archive.electionresults.govt.nz/electionresults_2011/electoratestatus.html |title= Official Count Results -- Electorate Status |publisher=Electoral Commission |date= 10 December 2011 |accessdate= 10 December 2011}}</ref> A National or Labour candidate took second place in all the general electorates except [[Rodney (New Zealand electorate)|Rodney]], where it was Conservative Party leader [[Colin Craig]].<ref>{{cite news |title=10 things you didn't know about the election results |first=Audrey |last=Young |url=http://www.nzherald.co.nz/election-2011/news/article.cfm?c_id=1503012&objectid=10769537 |work=[[The New Zealand Herald]] |date=29 November 2011 |accessdate=29 November 2011}}</ref>
+
+In eleven electorates, the incumbents did not seek re-election, and new MPs were elected. In [[Coromandel (New Zealand electorate)|Coromandel]], [[North Shore (New Zealand electorate)|North Shore]], [[Northland (New Zealand electorate)|Northland]], [[Rangitīkei (New Zealand electorate)|Rangitikei]], Rodney and [[Tāmaki (New Zealand electorate)|Tāmaki]], the seats were passed from incumbent National MPs to new National MPs; in [[Epsom (New Zealand electorate)|Epsom]], the seat was passed from the incumbent ACT MP to the new ACT MP; and in [[Dunedin North (New Zealand electorate)|Dunedin North]] and [[Manurewa (New Zealand electorate)|Manurewa]], the seats were passed from incumbent Labour MPs to new Labour MPs. Labour also won [[Te Atatū (New Zealand electorate)|Te Atatū]] from the retiring ex-Labour independent, and [[Wigram (New Zealand electorate)|Wigram]] from the retiring Progressive MP.
+
+Of the 59 seats where the incumbent sought re-election, four changed hands. In [[West Coast-Tasman]], Labour's Damien O'Connor regained the seat from National's Chris Auchinvole, who defeated him for the seat in 2008. In [[Waimakariri (New Zealand electorate)|Waimakariri]], National's Kate Wilkinson defeated Labour MP Clayton Cosgrove, and in [[Te Tai Tonga]], Labour's Rino Tirikatene defeated Maori Party MP Rahui Katene. [[Christchurch Central]] on election night ended with incumbent Labour MP [[Brendon Burns (politician)|Brendon Burns]] and National's [[Nicky Wagner]] [[tie (draw)|tied]] on 10,493 votes each, and on official counts, swung to Nicky Wagner with a 45-vote majority, increasing to 47 votes on a [[judicial recount]].<ref>{{cite web |url= http://www.elections.org.nz/study/news/christchurch-central-judicial-recount-official-results.html |title= Christchurch Central Judicial Recount Official Results |publisher=Electoral Commission |date= 14 December 2011 |accessdate= 16 December 2011 |url-status= dead |archiveurl= https://web.archive.org/web/20120209195846/http://www.elections.org.nz/study/news/christchurch-central-judicial-recount-official-results.html |archivedate= 9 February 2012}}</ref><ref>{{cite web |url= http://www.stuff.co.nz/national/politics/6137499/Recount-confirms-Christchurch-central-seat |accessdate= 14 December 2011 |title= Recount confirms Christchurch Central seat |first= Kate |last= Chapman |date= 14 December 2011 |publisher=Fairfax Media (via Stuff.co.nz)}}</ref> Despite losing their electorate seats, Chris Auchinvole and Clayton Cosgrove were re-elected into parliament via the party list.
+
+On election night, [[Waitakere (New Zealand electorate)|Waitakere]] was won by incumbent National MP [[Paula Bennett]] with a 349-vote majority over Labour's [[Carmel Sepuloni]]. On official counts, it swung to Sepuloni with a majority of 11 votes, and Bennett subsequently requested a judicial recount, and on the recount, the seat swung back to Bennett with a majority of nine votes.<ref>{{cite web |url= http://www.elections.org.nz/study/news/waitakere-judicial-recount-official-results.html |title= Waitakere Judicial Recount Official Results |publisher=Electoral Commission |date= 17 December 2011 |accessdate= 17 December 2011 |url-status= dead |archiveurl= https://web.archive.org/web/20120209011458/http://www.elections.org.nz/study/news/waitakere-judicial-recount-official-results.html |archivedate= 9 February 2012}}</ref> Bennett was declared elected, and Sepuloni was not returned via the party list due to her list ranking, being replaced in the Labour caucus with [[Raymond Huo]].
+
+Five electorates returned with the winner having a majority of less than one thousand – Waitakere (9), Christchurch Central (47), Waimakariri (642), {{NZ electorate link|Auckland Central}} (717) and [[Tāmaki Makaurau]] (936).<ref name="electorate-status" />
+
+{{2011 New Zealand general election by electorate}}
+
+;Notes
+{{note|List|†|These people subsequently entered Parliament at the election as list MPs}}
+
+===List results===
+{{Main|Party lists in the 2011 New Zealand general election}}
+[[File:New Zealand party vote map, 2011.svg|thumb|left|600px|Highest polling party in each electorate.]]
+{{clear}}
+The election was notable for the entry in Parliament of New Zealand's first ever profoundly deaf MP, [[Mojo Mathers]], number 14 on the Green Party's list.<ref>{{cite web |url= http://tvnz.co.nz/election-2011/greens-ecstatic-have-14-mps-4625646 |title= Greens 'ecstatic' to have 14 MPs |publisher=Television New Zealand |date= 10 December 2011|accessdate= 11 December 2011}}</ref><ref>{{cite news |url= http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10772275 |title= First deaf MP to join Parliament |work= The New Zealand Herald|date= 10 December 2011 |accessdate= 11 December 2011}}</ref>
+
+{| class= "wikitable"
+|-
+| [[New Zealand National Party|National]]
+| [[New Zealand Labour Party|Labour]]
+| [[Green Party of Aotearoa New Zealand|Green]]
+| [[New Zealand First|NZ First]]
+|-
+| bgcolor={{New Zealand National Party/meta/color}}|
+| bgcolor={{New Zealand Labour Party/meta/color}}|
+| bgcolor={{Green Party of Aotearoa New Zealand/meta/color}}|
+| bgcolor={{New Zealand First/meta/color}}|
+|- valign="top"
+| [[Lockwood Smith]] (03) <br /> [[Chris Finlayson]] (09) <br /> [[David Carter (politician)|David Carter]] (10) <br /> [[Tim Groser]] (12) <br /> [[Steven Joyce]] (13) <br /> [[Hekia Parata]] (18) <br /> [[Michael Woodhouse]] (31) <br /> [[Melissa Lee]] (34) <br /> [[Kanwal Singh Bakshi]] (35) <br /> [[Jian Yang (politician)|Jian Yang]] (36) <br /> [[Alfred Ngaro]] (37) <br /> [[Katrina Shanks]] (38) <br /> [[Paul Goldsmith (politician)|Paul Goldsmith]] (39) <br /> [[Tau Henare]] (40) <br /> [[Chris Auchinvole]] (43) <br /> [[Jackie Blue]] (46) <br /> [[Cam Calder]] (50)
+| [[David Parker (New Zealand politician)|David Parker]] (04) <br /> [[Maryan Street]] (07) <br /> [[Clayton Cosgrove]] (08) <br /> [[Sue Moroney]] (10) <br /> [[Charles Chauvel (politician)|Charles Chauvel]] (11) <br />[[Jacinda Ardern]] (13) <br /> [[Andrew Little (New Zealand politician)|Andrew Little]] (15) <br /> [[Shane Jones]] (16) <br /> [[Darien Fenton]] (18) <br /> [[Moana Mackey]] (19)<br /> [[Rajen Prasad]] (20) <br /> [[Raymond Huo]] (21)
+| [[Metiria Turei]] (01) <br /> [[Russel Norman]] (02) <br /> [[Kevin Hague]] (03) <br /> [[Catherine Delahunty]] (04) <br /> [[Kennedy Graham]] (05) <br /> [[Eugenie Sage]] (06) <br /> [[Gareth Hughes (politician)|Gareth Hughes]] (07) <br /> [[David Clendon]] (08) <br /> [[Jan Logie]] (09) <br /> [[Steffan Browning]] (10) <br /> [[Denise Roche]] (11) <br /> [[Holly Walker]] (12) <br /> [[Julie Anne Genter]] (13) <br /> [[Mojo Mathers]] (14)
+| [[Winston Peters]] (01) <br /> [[Tracey Martin]] (02) <br /> [[Andrew Williams (New Zealand politician)|Andrew Williams]] (03) <br /> [[Richard Prosser]] (04) <br /> [[Barbara Stewart]] (05) <br /> [[Brendan Horan]] (06) <br /> [[Denis O'Rourke]] (07) <br /> [[Asenati Taylor]] (08)
+|}
+
+====Unsuccessful list candidates====
+{| class="wikitable"
+|-
+|{{party name with color|New Zealand National Party}}
+|<small>[[Aaron Gilmore]]*, [[Paul Quinn (New Zealand politician)|Paul Quinn]], [[Paul Foster-Bell]]*, [[Claudette Hauiti]]*, [[Jo Hayes]]*, Leonie Hapeta, Sam Collins, Jonathan Fletcher, Heather Tanner, [[Denise Krum]], Carolyn O'Fallon, Viv Gurrey, Karen Rolleston, [[Brett Hudson (politician)|Brett Hudson]], [[Linda Cooper (New Zealand politician)|Linda Cooper]], Karl Varley</small>
+|-
+|{{party name with color|New Zealand Labour Party}}
+|<small>[[Carol Beaumont]]*, [[Kelvin Davis (politician)|Kelvin Davis]]*, [[Carmel Sepuloni]], [[Rick Barker]], Deborah Mahuta-Coyle, [[Stuart Nash]], [[Brendon Burns (politician)|Brendon Burns]], [[Michael Wood (New Zealand politician)|Michael Wood]], [[Steve Chadwick]], Kate Sutton, Jerome Mika, Josie Pagani, [[Lynette Stewart]], Jordan Carter, [[Christine Rose (politician)|Christine Rose]], Glenda Alexander, Susan Zhu, Sehai Orgad, Mea'ole Keil, [[Richard Hills (New Zealand politician)|Richard Hills]], [[Anahila Kanongata'a-Suisuiki|Anahila Suisuiki]], [[Hamish McDouall]], Louis Te Kani, Tat Loo, Soraya Peke-Mason, Julian Blanchard, Peter Foster, Pat Newman, Julia Haydon-Carr, Michael Bott, Vivienne Goldsmith, Nick Bakulich, Chris Yoo, Barry Monks, Hugh Kininmonth, Jo Kim, Paula Gillon, Carol Devoy-Heena, Ben Clark, Chao-Fu Wu</small>
+|-
+|{{party name with color|Green Party of Aotearoa New Zealand}}
+|<small>[[James Shaw (New Zealand politician)|James Shaw]], David Hay, Richard Leckinger, Aaryn Barlow, Jeanette Elley, [[Sea Rotmann]], Michael Gilchrist, Dora Langsbury, David Kennedy, Tane Woodley, Joseph Burston, Mikaere Curtis, Shane Gallagher, Saffron Toms, Stephen Tollestrup, Zachary Dorner, Paul Bailey, Rick Bazeley, Maree Brannigan, Caroline Conroy, Sue Coutts, Pauline Evans, Rachael Goldsmith, Cameron Harper, John Kelcher, Alex Kruize, Tom Land, Gerrie Ligtenberg, Jim MacDonald, Nick Marryatt, Zane McCarthy, Jack McDonald, Ian McLean, John Milnes, Darryl Monteith, Robert Moore, Teresa Moore, David Moorhouse, Todd Ross, Brett Stansfield, Geoff Steedman, Gary Stewart, [[Vernon Tava]], Corrina Tucker, Pieter Watson, Charmaine Watts, Richard Wesley</small>
+|-
+|{{party name with color|New Zealand First}}
+|<small>Helen Mulford, Hugh Barr, [[Fletcher Tabuteau]], [[Pita Paraone]], [[Brent Catchpole]], Ben Craven, Jerry Ho, [[Bill Gudgeon]], Kevin Gardener, Ray Dolman, David Scott, Randall Ratana, [[Mahesh Bindra]], [[Edwin Perry]], Dion Jelley, John Hall, Kevin Stone, Doug Nabbs, Brett Pierson, Olivia Ilalio, Gordon Stewart, Tamati Reid, Ian Brougham, Bill Woods, Allen Davies</small>
+|-
+|{{party name with color|Conservative Party (New Zealand)}}
+|<small>[[Colin Craig]], Kathy Sheldrake, [[Larry Baldock]], Fa'avae Gagamoe, Brian Dobbs, Roy Brown, Simonne Dyer, Simon Kan, Litia Simpson, Kevin Campbell, Paul Young, Leighton Baker, Feleti Key, Claire Holley, Frank John Naea, Frank Poching, Jesse Misa, Bob Daw, Lance Gedge, Robyn Jackson, Pat Gregory, Timothy de Vries, Melanie Taylor, Cynthia Liu, Craig Jensen, Oliver Vitali, Danny Mountain, Ivan Bailey, Brent Reid, Michael Cooke</small>
+|-
+|{{party name with color|Māori Party}}
+|<small>Waihoroi Shortland, Kaapua Smith, Wheturangi Walsh-Tapiata, Tina Porou, Awanui Black, [[Davina Murray]], Josie Peita, Paora Te Hurihanganui, Fallyn Flavell, Daryl Christie, Tom Phillips, Tim Morrison, Tamai Nicholson, Aroha Rickus</small>
+|-
+|{{party name with color|ACT New Zealand}}
+|<small>[[Don Brash]], [[Catherine Isaac]], Don Nicolson, [[David Seymour (New Zealand politician)|David Seymour]], Chris Simmons, Stephen Whittington, Kath McCabe, Robyn Stent, John Thompson, John Ormond, Lyn Murphy, Kevin Moratti, Robin Grieve, Pratima Nand, Dominic Costello, Toni Severin, Richard Evans, Ian Cummings, Gareth Veale, [[Toby Hutton]], Daniel Stratton, Robert Burnside, Hayden Fitzgerald, Alex Speirs, Peter McCaffrey, Shane Atkinson, Allan Birchfield, Robin Boom, Stephen Boyle, [[Barry Brill]], Ian Carline, Tom Corbett, Casey Costello, Alwyn Courtenay, Alan Daniel Davidson, Kimberly Hannah, Beth Houlbrooke, Paul Hufflett, Rosanne Jollands, Nick Kearney, Tim Kronfeld, Joel Latimer, Jonathan Macfarlane, [[Garry Mallett]], Guy McCallum, Colin Nicholls, John Norvill, David Peterson, James Read, Geoff Russell, Andrew Sharrock, Barbara Steinijans, Michael Warren, Vince Ashworth</small>
+|-
+|{{party name with color|United Future New Zealand}}
+| <small> Doug Stevens, Rob Eaddy, Sultan Eusoff, Alan Simmons, Bryan Mockridge, Vanessa Roberts, Pete George, Ram Prakash, Martin Gibson, Clyde Graf, [[Damian Light]], Andrew McMillan, Diane Brown, Brian Carter, Johnny Miller, Ian Gaskin</small>
+|-
+|{{party name with color|Mana Party (New Zealand)}}
+| <small> [[Annette Sykes]], [[John Minto]], [[Sue Bradford]], Misty Harrison, James Papali’i, Tawhai McClutchie, [[Angeline Greensill]], Jayson Gardiner, Richard Shortland Cooper, Peter Cleave, Val Irwin, Sharon Stevens, Keriana Reedy, Pat O'Dea, Rod Paul, Grant Rogers, Te Nguha Huirama-Patuwai, Barry Tumai, Ngawai Herewini</small>
+|-
+|{{party name with color|Aotearoa Legalise Cannabis Party}}
+| <small> [[Michael Appleby (politician)|Michael Appleby]], Michael Britnell, Maki Herbert, Julian Crawford, Jeff Lye, Jasmin Hewlett, Emma-Jane Mihaere-Kingi, Steven Wilkinson, Richard Goode, Fred MacDonald, Leo Biggs, Jay Fitton, Romana Manning, Geoff McTague, Jamie Dombroski, Christine Mitchell, Dwayne Sherwood, Abe Gray, Sean Norris, Adrian McDermott, Philip Pophristoff, Neville Yates, Mark Bradford, Blair Anderson, Kevin O'Connell, Paula Lambert, Irinka Britnell, Paul McMullan</small>
+|-
+|{{party name with color|New Zealand Democratic Party for Social Credit}}
+| <small>[[Stephnie de Ruyter]], John Pemberton, Warren Voight, Katherine Ransom, Carolyn McKenzie, Hessel van Wieren, Heather Smith, Jeremy Noble, Barry Pulford, John McCaskey, Huia Mitchell, Ken Goodhue, Les Port, Robert Mills, Harry Alchin-Smith, Errol Baird, Peter Adcock-White, John Ring, Kelly Balsom, David Espin, Ross Hayward, Gary Gribben, Ron England, David Tranter</small>
+|-
+|{{party name with color|Libertarianz}}
+| <small>Richard McGrath, Sean Fitzpatrick, Peter Cresswell, Reagan Cutting, Peter Osborne, Michael Murphy, Shane Pleasance, Robert Palmer, [[Bernard Darnton]], Helen Hughes, Colin Cross, Nik Haden, Luke Howison, Phil Howison, Andrew Couper, Mike Webber, Bruce Whitehead, Donald Rowberry, Ken Riddle, Peter Linton, Allan Munro, Ian Hayes, Shirley Riddle, Callum McPetrie, Elahrairah Zamora, Euan McPetrie, Mitch Lees</small>
+|-
+|{{party name with color|Alliance (New Zealand political party)}}
+| <small>Kay Murray, Andrew McKenzie, [[Kevin Campbell (politician)|Kevin Campbell]], [[Jim Flynn (academic)|Jim Flynn]], [[Paul Piesse]], [[Victor Billot]], Mary O'Neill, Kelly Buchanan, Robert van Ruyssevelt, Jen Olsen, Tom Dowie, Thomas O'Neill, Eunice Billot, Norman MacRitchie</small>
+|}
+
+;Notes:
+# These party list members would eventually enter parliament in the term as other list MPs elected resigned from parliament.
+# These party list members have since resigned.
+
+===Changes in MPs===
+In total, 25 new MPs were elected to Parliament, and three former MPs returned.
+
+'''New MPs:'''
+Scott Simpson,
+Maggie Barry,
+Mike Sabin,
+Ian McKelvie,
+Mark Mitchell,
+Simon O'Connor,
+Alfred Ngaro,
+Jian Yang,
+Paul Goldsmith,
+David Clark,
+Rino Tirikatene,
+Megan Woods,
+Andrew Little,
+Eugenie Sage,
+Jan Logie,
+Steffan Browning,
+Denise Roche,
+Holly Walker,
+Julie Anne Genter,
+Tracey Martin,
+Andrew Williams,
+Richard Prosser,
+Denis O'Rourke,
+Asenati Taylor,
+Brendan Horan
+
+'''Returning MPs:'''
+John Banks,
+Winston Peters,
+Barbara Stewart
+
+'''Defeated MPs:'''
+Paul Quinn,
+Steve Chadwick,
+Stuart Nash,
+Carmel Sepuloni,
+Rick Barker,
+Rahui Katene
+
+'''Defeated MPs who later returned during the 50th Parliament'''
+Aaron Gilmore,
+Carol Beaumont,
+Kelvin Davis
+
+===Election expenses===
+
+The Electoral Commission released party electoral expense returns on 21 March 2012, stating how much each party spent on campaigning between 26 August and 25 November 2011. Candidate only expenses were excluded.<ref>{{cite web |url= http://www.elections.org.nz/rules/parties/party-expenses-returns/party-expense-returns.html |title= Party expense returns - Election '11 |publisher=Electoral Commission |date= 21 March 2012 |accessdate= 24 March 2012 |url-status= dead |archiveurl= https://web.archive.org/web/20120604053452/http://www.elections.org.nz/rules/parties/party-expenses-returns/party-expense-returns.html |archivedate= 4 June 2012}}</ref>
+
+Of note in the party expenses was the $1.88 million spent by the Conservative Party, spending more than but gaining less than one-tenth of the votes of the Labour Party. Translated into dollars spent per party vote gained, the Conservatives spent $31.71 per vote, compared to Labour's $2.91 and National's $2.19.
+
+{| class="wikitable"
+|-
+! colspan=2| Party
+! Campaign expenditure
+! Party votes received
+! Expenditure per party vote
+|-
+{{party name with colour|New Zealand National Party}} || $2,321,216 || 1,058,636 || $2.19
+|-
+{{party name with colour|Conservative Party (New Zealand)}} || $1,878,486 || 59,237 || $31.71
+|-
+{{party name with colour|New Zealand Labour Party}} || $1,789,152 || 614,937 || $2.91
+|-
+{{party name with colour|Green Party of Aotearoa New Zealand}} || $779,618 || 247,372 || $3.15
+|-
+{{party name with colour|ACT New Zealand}} || $617,035 || 23,889 || $25.83
+|-
+{{party name with colour|New Zealand First}} || $155,903 || 147,544 || $1.06
+|-
+{{party name with colour|Māori Party}} || $72,173 || 31,982 || $2.26
+|-
+{{party name with colour|Mana Party (New Zealand)}} || $60,082 || 24,168 || $2.49
+|-
+{{party name with colour|New Zealand Democratic Party for Social Credit}} || $34,676 || 1,714 || $20.23
+|-
+{{party name with colour|United Future New Zealand}} || $27,719 || 13,443 || $2.06
+|-
+{{party name with colour|Aotearoa Legalise Cannabis Party}} || $4,003 || 11,738 || $0.34
+|-
+{{party name with colour|Libertarianz}} || $2,760 || 1,595 || $1.73
+|-
+{{party name with colour|Alliance (New Zealand political party)}} || $2,407 || 1,209 || $1.99
+|-
+|colspan=2| '''Total/Average''' || '''$7,745,081''' || '''2,237,464''' || '''$3.46'''
+|}
+
+==Post-election events==
+
+===Changes in party leadership===
+For the ACT party the mediocre election results on 26 November 2011 (1.1% of the party vote, with no list MPs, 1 electorate MP) resulted in [[Don Brash]] tendering his resignation as leader, stating that he took full responsibility for the party's poor performance.<ref>[http://www.radionz.co.nz/news/election-2011/92180/act-wins-espom,-don-brash-resigns Don Brash resigns leadership of ACT] [[Radio New Zealand]], 27 November 2011. Retrieved: 27 November 2011</ref><ref>[http://www.radionz.co.nz/audio/player/2503502 Don Brash interview] [[Radio New Zealand]], 26 November 2011. Retrieved: 27 November 2011</ref>
+
+On 29 November the leader of the Labour party [[Phil Goff]] and the deputy leader [[Annette King]] tendered their resignations to a meeting of the caucus, effective on Tuesday 13 December 2011.<ref>[http://www.radionz.co.nz/news/election-2011/92386/labour-leadership-battle-begins-as-phil-goff-quits Phil Goff tenders resignation] [[Radio New Zealand]], 29 November 2011. Retrieved: 29 November 2011</ref> After a fortnight-long leadership campaign and election, [[David Shearer]], with deputy [[Grant Robertson]], won Labour caucus support over the ticket of [[David Cunliffe]] and [[Nanaia Mahuta]].<ref>[http://www.3news.co.nz/Shearer-routs-Cunliffe-for-Labour-leadership/tabid/419/articleID/236418/Default.aspx Shearer routs Cunliffe for Labour leadership: Duncan Garner] {{Webarchive|url=https://web.archive.org/web/20131215043229/http://www.3news.co.nz/Shearer-routs-Cunliffe-for-Labour-leadership/tabid/419/articleID/236418/Default.aspx |date=15 December 2013 }} [[3 News]], 13 December 2011. Retrieved: 13 December 2011</ref>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{Cite book
+| publisher = Victoria University Press
+| isbn = 9780864738349
+| last1 = Johansson
+| first1 = Jon
+| last2 = Levine
+| first2 = Stephen
+| title = Kicking the tyres: the New Zealand general election and electoral referendum of 2011
+| location = Wellington, N.Z.
+| year = 2012
+}}
+
+==External links==
+{{Commons category|2011 New Zealand election}}
+
+===Election broadcast===
+* {{youtube|m46wbNdc0R0|National opening}}
+* {{youtube|MN5DZC4MimQ|Labour opening}}
+* {{youtube|D7JHPDB7kKU|Greens opening}}
+* {{youtube|fAm6c2FNnCM|ACT opening}}
+* {{youtube|upZHW_P7mvU|Alliance opening}}
+* {{youtube|sVS2ex8ibyM|ALCP opening}}
+** [https://web.archive.org/web/20120104223021/http://www.3news.co.nz/Politics/Decision2011/News.aspx Election 2011], Coverage from 3 News
+
+{{Fifth National Government of New Zealand}}
+
+{{New Zealand elections}}
+
+[[Category:2011 New Zealand general election| ]]
+[[Category:November 2011 events in New Zealand]]

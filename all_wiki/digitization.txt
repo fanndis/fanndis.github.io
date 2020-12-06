@@ -1,0 +1,166 @@
+{{redirect|Digitizer}}
+{{Redirect|Digitalization|transforming business and education|Digital transformation}}
+{{Use American English|date=August 2020}}
+
+[[File:Internet Archive book scanner 1.jpg|thumb|[[Internet Archive]] book [[image scanner|scanner]]]]
+
+'''Digitization'''<ref name=wi>[http://whatis.techtarget.com/definition/digitization Definition of digitization] at WhatIs.com</ref> is the process of converting information into a [[Digital data|digital]] (i.e. computer-readable) format, in which the information is organized into [[bit]]s.<ref name=wi/><ref name=collins>[https://www.collinsdictionary.com/dictionary/english/digitize "Digitization/digitisation"] in Collins English Dictionary</ref> The result is the representation of an object, [[image]], [[sound]], [[document]] or [[Signal (electrical engineering)|signal]] (usually an [[analog signal]]) by generating a series of numbers that describe a discrete set of points or [[sample (signal)|sample]]s. The result is called ''[[Digital data|digital]] [[group representation|representation]]'' or, more specifically, a ''[[digital image]]'', for the object, and ''digital form'', for the signal. In modern practice, the digitized data is in the form of [[binary number]]s, which facilitate computer processing and other operations, but, strictly speaking, digitizing simply means the conversion of analog source material into a numerical format; the [[decimal]] or any other [[number system]] that can be used instead.
+
+Digitization is of crucial importance to data processing, storage and transmission, because it "allows information of all kinds in all formats to be carried with the same efficiency and also intermingled".<ref>McQuail, D (2000) McQuail's Mass Communication Theory (4th edition), Sage, London, pp. 16–34</ref> Though analog data is typically more stable, digital data can more easily be shared and accessed and can, in theory, be propagated indefinitely, without generation loss, provided it is [[digital preservation|migrated to new, stable formats as needed]]. This is why it is a favored way of preserving information for many organizations around the world.
+
+== Process ==
+
+The term digitization is often used when diverse forms of information, such as an object, text, sound, image or voice, are converted into a single [[binary code]]. The core of the process is the compromise between the capturing device and the player device so that the rendered result represents the original source with the most possible fidelity, and the advantage of digitization is the speed and accuracy in which this form of information can be transmitted with no degradation compared with analog information.
+
+Digital information exists as one of two digits, either 0 or 1. These are known as [[bit]]s (a contraction of ''binary digits'') and the sequences of 0s and 1s that constitute information are called [[byte]]s.<ref>Flew, Terry. 2008. New Media An Introduction. South Melbourne. 3rd Edition. South Melbourne: Oxford University Press.</ref>
+
+Analog signals are [[continuum (theory)|continuously]] variable, both in the number of possible values of the signal ''at'' a given [[time]], as well as in the number of points in the signal ''in'' a given period of time. However, digital signals are [[discrete signal|discrete]] in both of those respects – generally a finite sequence of integers – therefore a digitization can, in practical terms, only ever be an [[approximation]] of the signal it represents.
+
+Digitization occurs in two parts:
+;Discretization: The reading of an analog signal ''A'', and, at regular time intervals ([[sampling frequency|frequency]]), [[sampling (signal processing)|sampling]] the value of the signal at the point. Each such reading is called a ''sample'' and may be considered to have infinite precision at this stage;
+;Quantization: Samples are rounded to a fixed set of numbers (such as integers), a process known as [[Quantization (signal processing)|quantization]].
+In general, these can occur at the same time, though they are conceptually distinct.
+
+A series of digital integers can be transformed into an analog output that approximates the original analog signal. Such a transformation is called a [[DA conversion]]. The [[sampling rate]] and the number of bits used to represent the integers combine to determine how close such an approximation to the analog signal a digitization will be.
+
+==Examples==
+[[File:Digitizing Estonian popular science magazine Horisont.jpg|thumb|Digitization of the first number of Estonian popular science magazine Horisont published in January 1967.]]
+The term is used to describe, for example, the [[image scanner|scanning]] of analog sources (such as printed [[photo]]s or taped [[video]]s) into computers for editing, 3D scanning that creates [[3D modeling]] of an object's surface, and [[Sound recording and reproduction|audio]] (where sampling rate is often measured in [[kilohertz]]) and [[Graphics pipeline#Modeling transformation|texture map]] transformations. In this last case, as in normal photos, the sampling rate refers to the [[Image resolution|resolution]] of the image, often measured in [[pixel]]s per inch.
+
+Digitizing is the primary way of storing images in a form suitable for [[transmission (telecommunications)|transmission]] and [[computer]] processing, whether scanned from two-dimensional analog originals or captured using an [[image sensor]]-equipped device such as a [[digital camera]], [[tomography|tomographical]] instrument such as a [[CAT scan]]ner, or acquiring precise dimensions from a real-world object, such as a [[motor vehicle|car]], using a [[3D scanner|3D scanning]] device.<ref>[http://www.digimation.com/home/?Content=digitalcarshome.html Digimation for 3D Models, 3D Software and Creative Services<!-- Bot generated title -->]</ref>
+
+Digitizing is central to making digital representations of geographical features, using raster or vector images, in a [[geographic information system]], i.e., the creation of [[electronic map]]s, either from various geographical and satellite imaging (raster) or by digitizing traditional paper [[map]]s or [[Chart|graphs]]<ref>{{cite web|url=http://digitizer.sourceforge.net|title=Open source Engauge Digitizer for digitizing graphs}}</ref><ref>{{cite web|url=https://www.digitizeit.de|title=DigitizeIt graph digitizing software}}</ref> (vector).
+
+"Digitization" is also used to describe the process of populating [[database]]s with files or data.  While this usage is technically inaccurate, it originates with the previously proper use of the term to describe that part of the process involving digitization of analog sources, such as printed pictures and brochures, before uploading to target databases.
+
+Digitizing may also used in the field of apparel, where an image may be recreated with the help of [[Machine embroidery#Computerized machine embroidery|embroidery digitizing]] software tools and saved as [[Machine embroidery#Design files|embroidery machine]] code. This machine code is fed into an embroidery machine and applied to the fabric. The most supported format is DST file. Apparel companies also digitize clothing patterns{{Citation needed|date=August 2009}}<ref>{{Cite journal|last=Hedstrom|first=Margaret|date=1997-05-01|title=Digital Preservation: A Time Bomb for Digital Libraries|journal=Computers and the Humanities|volume=31|issue=3|pages=189–202|doi=10.1023/A:1000676723815|issn=1572-8412|hdl=2027.42/42573|url=https://deepblue.lib.umich.edu/bitstream/2027.42/42573/1/10579_2004_Article_153071.pdf}}</ref>
+
+==Analog signals to digital==
+
+Analog signals are continuous electrical signals; digital signals are non-continuous. Analog signals can be converted to digital signals by using an [[analog-to-digital converter]].<ref>{{cite web|url=http://cbdd.wsu.edu/kewlcontent/cdoutput/TR502/page8.htm|archive-url=https://web.archive.org/web/20080303111122/http://cbdd.wsu.edu/kewlcontent/cdoutput/TR502/page8.htm|archive-date=2008-03-03|title=Analog vs. Digital Signals|date=3 March 2008}}</ref>
+
+Nearly all recorded music has been digitized. About 12 percent of the 500,000+ movies listed on the [[Internet Movie Database]] are digitized on [[DVD]].<ref>{{Cite journal|last=Lee|first=Kyong-Ho|last2=Slattery|first2=Oliver|last3=Lu|first3=Richang|last4=Tang|first4=Xiao|last5=McCrary|first5=Victor|date=2002|title=The State of the Art and Practice in Digital Preservation|journal=Journal of Research of the National Institute of Standards and Technology|volume=107|issue=1|pages=93–106|doi=10.6028/jres.107.010|issn=1044-677X|pmc=4865277|pmid=27446721}}</ref><ref>{{Cite journal|last=Waldfogel|first=Joel|date=August 2017|title=How Digitization Has Created a Golden Age of Music, Movies, Books, and Television|journal=Journal of Economic Perspectives|volume=31|issue=3|pages=195–214|doi=10.1257/jep.31.3.195|issn=0895-3309|url=http://pdfs.semanticscholar.org/2034/36118c561c32e7c5d5ab99f839ab767806db.pdf}}</ref>
+
+The handling of an analog signal becomes easy {{according to whom|date=July 2012}} when it is digitized because the signal is digitized before modulation and transmission. The conversion process of analog to digital consists of two processes: sampling and quantizing.
+
+Digitization of personal multimedia, such as [[home movies]], [[Photographic slide|slides]], and [[photographs]] is a popular method of preserving and sharing older repositories. Slides and photographs may be scanned using an [[image scanner]], but videos are more difficult.<ref>{{cite web|url=http://www.pcworld.com/article/112029/goodbye_vhs_hello_dvd.html|title=Good-Bye, VHS; Hello, DVD|author=Paul Heltzel}}</ref> Slides can be digitized with different film scanner by [[Nikon]] such as the Nikon Coolscan 5000ED.
+
+Another example of digitization is [[VisualAudio]] process of the Swiss ''Fonoteca Nazionale'' in [[Lugano]], that extract and reconstruct the sound from a high-resolution picture of a record.
+
+==Analog texts to digital==
+{{main|Book digitization}}
+{{see|Text digitizing projects}}
+At most 1 in 20 texts have been digitized as of 2006.<ref>Kelly, Kevin (May&nbsp;14, 2006). "[https://www.nytimes.com/2006/05/14/magazine/14publishing.html Scan This Book!]". ''New York Times''. Retrieved 2016-10-26.</ref>
+
+Older print books are being scanned and [[optical character recognition]] technologies have been applied by academic and public libraries, foundations, and private companies like [[Google Books|Google]].<ref>{{cite press release |url=http://www.google.com/press/pressrel/print_library.html |title=Google Checks Out Library Books Press release |date= December 14, 2004 }}</ref>
+
+Unpublished text documents on paper, which have some enduring historical or research value are being digitized by [[libraries]] and [[archives]], though frequently at a much slower rate than for books (see [[digital libraries]]).  In many cases, [[archives]] have replaced [[microfilm]]ing with digitization as a means of preserving and providing access to unique documents.
+
+==Implications==
+{{see also|Digital Revolution}}
+The shift to digitization in the contemporary media world has created implications for traditional mass media products. However, these "limitations are still very unclear".<ref name="McQuail-p28">McQuail, Denis (2000). ''McQuail's Mass Communication Theory''.  4th ed. Thousand Oaks, Calif.: Sage. p. 28.</ref> The more technology advances, the more converged the realm of mass media will become with less need for traditional communication technologies. For example, the Internet has transformed many communication norms, creating more efficiency not only for individuals but also for businesses. However, [[Denis McQuail|McQuail]] suggests traditional media have also benefited greatly from new media, allowing more effective and efficient resources available.<ref name="McQuail-p28"/>
+
+==Library preservation==
+{{main|Preservation (library and archival science)}}
+[[File:Dunhuang manuscript digitisation.jpg|right|thumb|220px|Digitization at the [[British Library]] of a [[Dunhuang manuscripts|Dunhuang manuscript]] for the [[International Dunhuang Project]]]]
+In the context of libraries, archives, and museums, digitization is a means of creating digital surrogates of analog materials, such as books, newspapers, [[microfilm]] and videotapes, offers a variety of benefits, including increasing access, especially for patrons at a distance; contributing to collection development, through collaborative initiatives; enhancing the potential for research and education; and supporting preservation activities.<ref>Hughes, Lorna M.  (2004). ''Digitizing Collections: Strategic Issues for the Information Manager''. London: Facet Publishing. {{ISBN|1-85604-466-1}}. Chapter 1, "Why digitize? The costs and benefits of digitization", p. 3-30; here, especially p. 9-17.</ref> Digitization can provide a means of preserving the content of the materials by creating an accessible facsimile of the object in order to put less strain on already fragile originals. For sounds, digitization of legacy analog recordings is essential insurance against technological obsolescence.<ref>{{cite web|url=http://www.iasa-web.org/tc04/audio-preservation|title=Guidelines on the Production and Preservation of Digital Audio Objects (web edition)|work=iasa-web.org}}</ref> A fundamental aspect of planning digitization projects is to ensure that the digital files themselves are preserved and remain accessible;<ref>Hughes (2004), p. 204.</ref> the term "[[digital preservation]]," in its most basic sense, refers to an array of activities undertaken to maintain access to digital materials over time.<ref>{{cite journal | title =What is Digital Preservation? | last = Caplan | first = Priscilla | journal =  Library Technology Reports |volume = 44 |issue = 2 |date=February–March 2008|page = 7 |url=https://journals.ala.org/ltr/article/view/4224/4808|access-date=2016-10-26}}</ref>
+
+The prevalent [[Brittle Books Program|Brittle Books]] issue facing libraries across the world is being addressed with a digital solution for long term book preservation.<ref>Cloonan, M.V. and Sanett, S.  "The Preservation of Digital Content," Libraries and the Academy.  Vol. 5, No. 2 (2005): 213–37.</ref>  Since the mid-1800s, books were printed on [[pulp (paper)|wood-pulp paper]], which turns acidic as it decays. Deterioration may advance to a point where a book is completely unusable. In theory, if these widely circulated titles are not treated with de-acidification processes, the materials upon those acid pages will be lost. As digital technology evolves, it is increasingly preferred as a method of preserving these materials, mainly because it can provide easier access points and significantly reduce the need for physical storage space.
+
+Cambridge University Library is working on the [[Cambridge Digital Library]], which will initially contain digitised versions of many of its most important works relating to science and religion. These include examples such as Isaac Newton's personally annotated first edition of his [[Philosophiæ Naturalis Principia Mathematica]]<ref>{{cite web|last=Newton|first=Isaac|title=Philosophiæ Naturalis Principia Mathematica|url=http://cudl.lib.cam.ac.uk/view/PR-ADV-B-00039-00001/|publisher=Cambridge University Digital Library|access-date=10 January 2012}}</ref> as well as college notebooks<ref>{{cite web|last=Newton|first=Isaac|title=Trinity College Notebook|url=http://cudl.lib.cam.ac.uk/view/MS-ADD-03996/|publisher=Cambridge University Digital Library|access-date=10 January 2012}}</ref><ref>{{cite web|last=Newton|first=Isaac|title=College Notebook|url=http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/|publisher=Cambridge University Digital Library|access-date=10 January 2012}}</ref>  and other papers,<ref>{{cite web|last=Newton|first=Isaac|title=Newton Papers|url=http://cudl.lib.cam.ac.uk/collections/newton|publisher=Cambridge University Digital Library|access-date=10 January 2012}}</ref> and some Islamic manuscripts such as a [[Quran]]<ref>{{cite web|title=al-Qurʼān|url=http://cudl.lib.cam.ac.uk/view/MS-NN-00003-00075/|publisher=Cambridge University Digital Library|access-date=10 January 2012}}</ref> from Tipu Sahib's library.
+
+Google, Inc. has taken steps towards attempting to digitize every title with "[[Google Book Search]]".<ref>{{cite book|url=https://books.google.com/|title=Google Books}}</ref>  While some academic libraries have been contracted by the service, issues of copyright law violations threaten to derail the project.<ref>Baksik, C.  "Fair Use or Exploitation?  The Google Book Search Controversy," Libraries and the Academy.  Vol. 6, No. 2 (2006): 399–415.</ref>  However, it does provide – at the very least – an online consortium for libraries to exchange information and for researchers to search for titles as well as review the materials.
+
+==Digitization versus digital preservation==
+{{main|Digital preservation}}
+There is a common misconception that to digitize something is the same as digital preservation.  To digitize something is to convert something from an analog into a digital format.<ref>{{cite web|url=http://anthroarchivist.wordpress.com/2011/10/07/why-digitization-is-not-digital-preservation/|title=why digitization is not digital preservation|date=7 October 2011}}</ref>  An example would be scanning a photograph and having a digital copy on a computer.  This is essentially the first step in digital preservation.  To digitally preserve something is to maintain it over a long period of time.<ref>{{Cite book | last  = Ross| first = Seamus| title     = Changing Trains at Wigan: Digital Preservation and the Future of Scholarship| publisher = British Library (National Preservation Office)| place     = London| edition = 1| year    = 2000|url = http://www.bl.uk/aboutus/stratpolprog/collectioncare/publications/reports/wigan_digital_preservation.pdf}}</ref><ref>{{cite web|url=http://blogs.loc.gov/digitalpreservation/2011/07/digitization-is-different-than-digital-preservation-help-prevent-digital-orphans/|title=Digitization is Different than Digital Preservation: Help Prevent Digital Orphans!|work=loc.gov}}</ref>
+
+Digital preservation is more complicated because technology changes so quickly that a format that was used to save something years ago may become obsolete, like a 5 1/4" floppy drive.  Computers are no longer made with them, and obtaining the hardware to convert a file from an obsolete format to a newer one can be expensive.  As a result, the upgrading process must take place every 2 to 5 years,<ref>{{cite web|url=http://www.prairienet.org/op/digarch/digitization-vs-preservation/|title=Digitization vs. Preservation|work=prairienet.org}}</ref>  or as newer technology becomes affordable, but before older technology becomes unobtainable.   The Library of Congress provides numerous resources and tips for individuals looking to practice digitization and digital preservation for their personal collections.<ref>{{cite web|url=http://www.digitalpreservation.gov/|title=Digital Preservation|work=digitalpreservation.gov}}</ref>
+
+Digital preservation can also apply to born-digital material.  An example of something that is born-digital is a Microsoft Word document saved as a .docx file or a post to a social media site.  In contrast, digitization only applies exclusively to analog materials.  Born-digital materials present a unique challenge to digital preservation not only due to technological obsolescence but also because of the inherently unstable nature of digital storage and maintenance.  Most websites last between 2.5 and 5 years, depending on the purpose for which they were designed.<ref>{{cite web|url=http://www.orbitmedia.com/blog/website-lifespan-and-you/|title=Website Lifespan and You|work=Orbit Media Studios}}</ref>
+
+Many libraries, archives, and museums, as well as other institutions, struggle with catching up and staying current in regards to both digitization and digital preservation.  Digitization is a time-consuming process, particularly depending on the condition of the holdings prior to being digitized.  Some materials are so fragile that undergoing the process of digitization could damage them irreparably; light from a scanner can damage old photographs and documents.  Despite potential damage, one reason for digitizing some materials is because they are so heavily used that digitization will help to preserve the original copy long past what its life would have been as a physical holding.
+
+Digitization can also be quite expensive.  Institutions want the best image quality in digital copies so that when they are converted from one format to another over time only a high-quality copy is maintained.  Smaller institutions may not be able to afford such equipment.   Manpower at many facilities also limits how much material can be digitized.  Archivists and librarians must have an idea of what their patrons wish to see most and try to prioritize and meet those needs digitally.
+
+Labour resources and funding also limit digital preservation in many institutions.  The cost of upgrading hardware or software every few years can be prohibitively expensive.  Training is another issue since many librarians and archivists do not have a computer science background.  Intellectual control of digital holdings presents yet another issue that sometimes occurs when the physical holdings have not yet been entirely processed.  One suggested timeframe for completely transcribing digital holdings was every ten to twenty years,  making the process an ongoing and time-consuming one.
+
+Finally preserving digitized assets over long periods of time is challenging.  Essentially you are storing a massive set of 1s and 0s.  These signals can be physically burned onto media, like CDs, or stored magnetically, on hard drives.  In either case, the storage mechanisms degrade over time.  The physical materials degrade until the 1s or 0 marks can no longer be made out.  The magnetic media degrades and loses its charge. If you alter just one 1 or one 0, you can significantly alter the recording.  Thus data integrity with digitized assets in storage is a big challenge.
+
+==Digital reformatting==
+'''Digital reformatting''' is the process of converting analog materials into a digital format as a surrogate of the original. The digital surrogates perform a preservation function by reducing or eliminating the use of the original. Digital reformatting is guided by established best practices to ensure that materials are being converted at the highest quality.
+
+===Digital reformatting at the Library of Congress===
+The [[Library of Congress]] has been actively reformatting materials for its [[American Memory]] project and developed best standards and practices pertaining to book handling during the digitization process, scanning resolutions, and preferred file formats.<ref>{{cite web|url=http://memory.loc.gov/ammem/about/techStandards.pdf|title=Library of Congress. (2007). Technical Standards for Digital Conversion of Text and Graphic Materials}}</ref> Some of these standards are:
+
+*The use of [[International Organization for Standardization|ISO]] 16067-1 and ISO 16067-2 standards for [[Image resolution|resolution]] requirements.
+*Recommended 400 [[pixels per inch|ppi]] resolution for [[Optical Character Recognition|OCR]]'ed printed text.
+*The use of [[24-bit color]] when color is an important attribute of a document.
+*The use of the scanning device's maximum resolution for digitally reproducing photographs
+*[[TIFF]] as the standard file format.
+*Attachment of descriptive, structural, and technical [[metadata]] to all digitized documents.
+
+A list of archival standards for digital preservation can be found on the [[Association of Research Libraries|ARL]] website.<ref>{{cite web|url=http://www.arl.org/bm~doc/digi_preserv.pdf|title=Search Publications – Association of Research Libraries® – ARL®|website=www.arl.org}}</ref>
+
+The Library of Congress has constituted a Preservation Digital Reformatting Program.<ref>Library of Congress, (2006). Preservation Digital Reformatting Program.  https://www.loc.gov/preserv/prd/presdig/presintro.html</ref> The Three main components of the program include:
+*Selection Criteria for digital reformatting
+*Digital reformatting principles and specifications
+*Life cycle management of LC digital data
+
+== Audio digitization and reformatting ==
+Audio media offers a rich source of historic ethnographic information, with the earliest forms of recorded sound dating back to 1890.<ref name=":0">{{cite web|url=http://www.clir.org/wp-content/uploads/sites/6/pub164.pdf|title=ARSC Guide to Audio Preservation}}</ref> According to the International Association of Sound and Audiovisual Archives (IASA), these sources of audio data, as well as the aging technologies used to play them back, are in imminent danger of permanent loss due to degradation and obsolescence.<ref>{{Cite journal|last=Casey|first=Mike|date=January 2015|title=Why Media Preservation Can't Wait: The Gathering Storm|url=https://www.avpreserve.com/wp-content/uploads/2015/04/casey_iasa_journal_44_part3.pdf|journal=IASA Journal|volume=44|pages=14–22}}</ref> These primary sources are called “carriers” and exist in a variety of formats, including wax cylinders, magnetic tape, and flat discs of grooved media, among others. Some formats are susceptible to more severe, or quicker, degradation than others. For instance, lacquer discs suffer from [[delamination]]. Analog tape may deteriorate due to [[Sticky-shed syndrome|sticky shed syndrome]]. 
+[[File:Analog tape playback.jpg|thumb|1/4" analog tape being played back on a Studer A810 tape machine for digitization at Smithsonian Folkways Recordings.|alt=]]
+
+<ref>{{cite web|url=http://www.clir.org/wp-content/uploads/sites/6/pub164.pdf|title=ARSC Guide to Audio Preservation|access-date=2019-05-04}}</ref>
+
+Archival workflow and file standardization have been developed to minimize loss of information from the original carrier to the resulting digital file as digitization is underway. For most at-risk formats (magnetic tape, grooved cylinders, etc), a similar workflow can be observed. Examination of the source carrier will help determine what, if any, steps need to be taken to repair material prior to transfer. A similar inspection must be undertaken for the playback machines. If satisfactory conditions are met for both carrier and playback machine, the transfer can take place, moderated by an [[analog-to-digital converter]].<ref>{{cite web|url=https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/technical-bulletins/digitization-audio-tapes.html#a2|title=The Digitization of Audio Tapes – Technical Bulletin 30|last=Institute|first=Canadian Conservation|date=2017-09-14|website=aem|access-date=2019-05-04}}</ref> The digital signal is then represented visually for the transfer engineer by a [[digital audio workstation]], like Audacity, WaveLab, or ProTools. Reference access copies can be made at smaller sample rates. For archival purposes, it is standard to transfer at a sample rate of 96 kHz and a bit depth of 24 bits per channel.<ref name=":0" />
+
+==Lean philosophy==
+The broad use of internet and the increasing popularity of [[Lean manufacturing|lean philosophy]] has also increased the use and meaning of "digitizing" to describe improvements in the efficiency of organizational processes. Lean philosophy refers to the approach which considers any use of time and resources, which does not lead directly to creating a product, as waste and therefore a target for elimination. 
+This will often involve some kind of Lean process in order to simplify process activities, with the aim of implementing new "lean and mean" processes by digitizing data and activities. Digitization can help to eliminate time waste by introducing wider access to data, or by the implementation of enterprise resource planning systems.
+
+==Fiction==
+Works of science-fiction often include the term '''digitize''' as the act of transforming people into [[digital signals]] and sending them into [[digital electronics|digital technology]]. When that happens, the people disappear from the [[Reality|real world]] and appear in a [[virtual world]] (as featured in the [[cult film]] ''[[Tron]]'', the [[animated series]] ''[[Code: Lyoko]]'', or the late 1980s live-action series ''[[Captain Power and the Soldiers of the Future]]''). In the [[video game]] ''[[Beyond Good & Evil]]'', the [[protagonist| protagonist's]] [[holographic]] friend digitizes the player's inventory [[Item (Game)|items]]. One [[Super Friends]] cartoon episode showed [[Wonder Woman]] and [[Jayna]] freeing the world's men (including the male super heroes) onto computer tape by the female villainess Medula.<ref>The Mind Maidens. Aired Nov. 5 1977 on the ABC Network along with other segments.</ref>
+
+==See also==
+{{colbegin}}
+*[[Book scanning]]
+*[[Digital audio]]
+*[[Digital Library]]
+*[[Digital television]]
+*[[Economics of Digitization]]
+*[[Enumerate (project)|ENUMERATE]]
+*[[Frame grabber]]
+*[[Graphics tablet]]
+*[[Newspaper digitization]]
+*[[Optical character recognition]]
+*[[Raster graphics]]
+*[[Raster image]]
+*[[Raster to vector]]
+*[[Scannebago]]
+*[[Vector graphics]]
+
+{{colend}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{Wiktionary|digitizing|digitisation}}
+{{Wikiquote}}
+{{refbegin}}
+*Anderson, Cokie G.; Maxwell, David C, ''Starting a Digitization Center'', Chandos Publishing, 2004, {{ISBN|978-1843340737}}
+*Bulow, Anna; Ahmon, Jess, ''Preparing Collections for Digitization'', Facet Publishing, 2010, {{ISBN|978-1856047111}}
+*Perrin, Joy, ‘’Digitization of Flat Media: Principles and Practices’’, Rowman & Littlefield Publishers, 2015, {{ISBN|978-1442258099}}
+*Piepenburg, Scott, "Digitizing Audiovisual and Nonprint Materials: the Innovative Librarian's Guide", Libraries Unlimited, 2015, {{ISBN|978-1440837807}}
+*Robinson, Peter, ''Digitization of Primary Textual Sources'', Office for Humanities Communication, 1993, {{ISBN|978-1897791059}}
+*S Ross; I Anderson; C Duffy; M Economou; A Gow; P McKinney; R Sharp; The NINCH Working Group on Best Practices, [https://web.archive.org/web/20160221223614/http://www.ninch.org/guide.pdf Guide to Good Practice in the Digital Representation and Management of Cultural Heritage Materials], Washington DC: NINCH, 2002.
+*Speranski, V. [http://www.nationalvideo.com.au/challenges-in-audio-visual-digitization-and-digital-preservation Challenges in AV Digitization and Digital Preservation]
+*[https://www.loc.gov/rr/record/nrpb/PLAN%20pdf.pdf 'The Library of Congress National Recording Preservation Plan']
+{{refend}}
+
+{{Digital humanities}}
+{{Authority control}}
+[[Category:Data transmission]]
+[[Category:Mass digitization]]
+[[Category:Digital preservation]]

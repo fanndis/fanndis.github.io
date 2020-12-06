@@ -1,0 +1,41 @@
+{{Advert|date=September 2019}}
+{{Infobox software
+| name                   = Microsoft News
+| logo                   = Microsoft News logo.svg
+| screenshot             = MSN News.png
+| caption                = Microsoft News on Windows 10 in dark mode
+| developer              = [[Microsoft]]
+| operating system       = [[Windows 8]], [[Windows 8.1]], [[Windows 10]], [[Windows Phone 8]], [[Windows Phone 8.1]], [[Windows 10 Mobile]], [[Windows Mixed Reality]], [[Windows Server 2012]], [[Windows Server 2012 R2]], [[Windows Server 2016]], [[Windows Server 2019]], [[iOS]], [[Android (operating system)|Android]]
+| platform               = [[IA-32]], [[x64]], [[ARM architecture|ARM]]
+| language               = 
+| language count         = 
+| language footnote      = 
+| genre                  = [[news aggregator]]
+| website                = {{URL|https://www.msn.com/news}}<br />{{URL|https://www.microsoft.com/store/productId/9WZDNCRFHVFW}}
+| logo_size              = 
+| released               = {{Start date and age|2012|10|26}}
+}}
+<!-- Bing News is different from MSN News and Bing News the app, respectively -->
+'''Microsoft News''' (previously named '''MSN News''' and '''Bing News''') is a [[news aggregator]] and service that features news headlines and articles chosen by editors. The app includes sections for top stories, U.S., world, [[politics]], money, technology, entertainment, opinion, sports, and crime, along with other miscellaneous stories. It allows users to set their own favorite topics and sources, receive notifications of breaking news though alerts, filter preferred news sources, and alter font sizes to make articles easier to read.<ref name=WindowsCentral>{{cite news|last=Rubino|first=Daniël|title=Microsoft announces Bing Apps for Windows Phone 8, bringing News, Weather, Sports and Finance to the small screen [Updated]|url=http://www.windowscentral.com/microsoft-announces-bing-apps-windows-phone-8|newspaper=Windows Central|date=7 August 2013}}</ref>
+<!-- No need to list platforms here for every app because it is summarized above. The only ones that differ are Weather and Travel, and they're explained individually below. -->
+
+Originally, News included an RSS feed, but that capability was removed; Microsoft currently only allows users to subscribe to specified news sources.<ref>{{cite web|url=http://www.windowscentral.com/msn-news-windows-10-now-lets-you-add-select-media-sources-fast-ring|title=MSN News for Windows 10 now lets you add select media sources (Fast Ring)|publisher=|date=2016-06-23}}</ref> News uses the chaseable live tile feature introduced in the [[Windows 10 Anniversary Update]]. If a user clicks on the News Start menu tile when a particular story is shown, the user will see a link to that story at the top of the app when it launches.<ref>{{cite web|url=https://www.onmsft.com/news/heres-whats-coming-live-tiles-notifications-windows-10|title=Chasable Live Tiles, Adaptive notifications, improved Action Center coming to Windows 10 – On MSFT|date=1 April 2016|publisher=}}</ref>
+
+==See also==
+*[[Bing News]]
+
+==References==
+{{Ref list}}
+
+[[Category:News aggregators]]
+[[Category:Microsoft software|News]]
+[[Category:Windows software]]
+[[Category:Universal Windows Platform apps]]
+[[Category:iOS software]]
+[[Category:Android (operating system) software]]
+[[Category:Windows Phone software]]
+[[Category:MSN]]
+[[Category:Microsoft Bing]]
+[[Category:Xbox One software]]
+
+{{Microsoft-software-stub}}

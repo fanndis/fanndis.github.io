@@ -1,0 +1,50 @@
+{{About|the computer interface element|the concept in US tax law|Check-the-box}}
+{{Refimprove|date=November 2010}}
+[[File:Checkbox2.png|thumb|Sample binary-state checkboxes, with some options disabled]]
+
+A '''checkbox''' ('''check box''', '''tickbox''', '''tick box''') is a [[Widget (GUI)|GUI widget]] that permits the [[user (computing)|user]] to make a binary choice, i.e. a choice between one of two possible mutually exclusive options. For example, the user may have to answer 'yes' (checked) or 'no' (not checked) on a simple yes/no question.
+
+Check boxes are shown as ☐ when unchecked, or ☑ or ☒ (depending on the GUI) when checked. A caption describing the meaning of the checkbox is normally shown adjacent to the checkbox. Inverting the state of a checkbox is done by clicking the mouse on the box, or the caption, or by using a [[keyboard shortcut]], such as the [[space bar]].
+
+Often, a series of checkboxes is presented, each with a binary choice between two options. Then the user may select several of the choices. Contrasting is a [[radio button]], in which only a single option is selectable from several mutually-exclusive choices.
+
+==Tri-state checkbox==
+[[File:Checkbox States.svg|thumb|Sample tri-state checkboxes]]
+Some [[Application software|applications]] use checkboxes that allow an indeterminate state in addition to the two provided by a normal checkbox. This third state is shown as a square or dash in the checkbox, and indicates that its state is neither checked nor unchecked. This is most often used when the checkbox is tied to a collection of items in mixed states. The indeterminate state cannot usually be selected by the user, and switches to a checked state when activated.
+
+For example, a checkbox presented to select files to send via [[File Transfer Protocol|FTP]] might use a [[tree view]] so that files can be selected one at a time, or by folder. If only some of the files in a folder are selected, then the checkbox for that folder would be indeterminate. Clicking on this indeterminate checkbox would select all or, less commonly, none of the contained files. Continuing to click on the checkbox would alternate between checked (all sub-directories and files selected) and unchecked (no sub-directories or files selected).
+
+Some tri-state checkbox implementations allow the user to toggle among all states, including the indeterminate state, by remembering the mixed state of the items in the collection. This serves as an [[undo]] feature.
+
+==Not actionable==
+Setting or clearing a checkbox changes the checkbox's state with no other side-effects. Violating this guideline by associating additional actions with the change of state frequently confuses users, because they are used to configuring data in entry controls such as text boxes, radio buttons, and checkboxes and then invoking an action control such as a push button to initiate the action to process the data.<ref>{{cite web |url=http://msdn.microsoft.com/en-us/library/dn742401.aspx |title=Check Boxes |website=msdn |accessdate=February 5, 2010}}</ref><ref>{{cite website|last1=Nielsen |first1=Jakob |url=http://www.useit.com/alertbox/20040927.html |title=Checkboxes vs. Radio Buttons |website=Jakob Nielsen's Alertbox |date=September 2004 |accessdate=February 5, 2010}}</ref>
+
+One common exception is to enable or display additional user input elements whose relevance depends on the checkbox state.
+
+==Light switch==
+[[File:Light switch widget.svg|thumb|right|75 px|Light switch alternative to checkbox]]
+An alternative form of checkbox is the '''light switch''' in which the user toggles a switch which moves from one state to the other. In the image on the right, the option ''Large Icons'' has not been selected, while the option ''Hide Menus'' has been. The light switch is only rarely used{{Update inline|reason=native and ubiquitous on Android OS|date=March 2020}} as it takes more room onscreen, and is not a standard control, meaning it must be handled programmatically (the graphics system does not handle it), requiring the program to change it when the user clicks on it. As a design choice, there may be some cases where the light switch is a better interface choice than a checkbox.
+
+==HTML==
+In [[form (web)|web forms]], the [[HTML element]] {{code|lang=html|code=<input type="checkbox">}} is used to display a checkbox.
+
+==Unicode==
+{{plainlist|
+*{{unichar|2610|BALLOT BOX|ulink=Universal Character Set characters |size=150% |nlink=Ballot box |note= }}
+*{{unichar|2611|BALLOT BOX WITH CHECK |size=150% |nlink=Check mark |note= }}
+*{{unichar|2612|BALLOT BOX WITH X |size=150% |nlink=X mark |note= }}
+}}
+
+==See also==
+* [[Tick-box culture]]
+* [[Radio button]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commons category-inline|Check boxes}}
+
+{{Graphical control elements}}
+
+[[Category:Graphical control elements]]

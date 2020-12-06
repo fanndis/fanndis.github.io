@@ -1,0 +1,354 @@
+{{see also|ecological footprint}}
+{{Cleanup|reason=still needs lots deleting and summarizing and moving around after merge, also references multiply defined|date=June 2020}}
+{{short description|Total set of greenhouse gas emissions caused by an individual, event, organisation, or product, expressed as carbon dioxide equivalent}}
+[[File:Carbon Footprint simple-explanation EN.webm|thumb|The carbon footprint explained]]
+{{Green economics sidebar}}
+
+A '''carbon footprint''' is the total [[greenhouse gas]] (GHG) emissions caused by an individual, event, organization, service, or product, expressed as [[carbon dioxide equivalent]].<ref>{{cite web|title=What is a carbon footprint? |url=http://www.carbontrust.co.uk/solutions/CarbonFootprinting/what_is_a_carbon_footprint.htm |access-date=24 July 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090511102744/http://www.carbontrust.co.uk/solutions/CarbonFootprinting/what_is_a_carbon_footprint.htm |archive-date=11 May 2009 }}</ref> Greenhouse gases, including the carbon-containing gases [[carbon dioxide]] and [[methane]], can be emitted through the burning of [[fossil fuels]], land clearance and the production and consumption of food, manufactured goods, materials, wood, roads, buildings, transportation and other services.<ref>{{cite web|url=http://the.co2list.org/|title=The CO2 list (and original sources cited therein)|access-date=18 March 2011}}</ref>
+
+In most cases, the total carbon footprint cannot be calculated exactly because of inadequate knowledge of and data about the complex interactions between contributing processes, including the influence of natural processes that store or release carbon dioxide. For this reason, Wright, Kemp, and Williams proposed the following definition of a carbon footprint:
+
+{{quote|A measure of the total amount of carbon dioxide (CO<sub>2</sub>) and methane (CH<sub>4</sub>) emissions of a defined population, system or activity, considering all relevant sources, sinks and storage within the spatial and temporal boundary of the population, system or activity of interest. Calculated as carbon dioxide equivalent using the relevant 100-year [[global warming potential]] (GWP100).<ref>{{cite journal|last=Wright|first=L.|author2=Kemp, S.|author3=Williams, I.|title='Carbon footprinting': towards a universally accepted definition|journal=Carbon Management|year=2011|volume=2|issue=1|pages=61–72|doi=10.4155/CMT.10.39|s2cid=154004878}}</ref>}}
+
+The global average annual carbon footprint per person in the late 2010s was 0.7 tonnes [[Carbon dioxide equivalent|CO<sub>2</sub>eq]] food, 1.1 tonnes from the home, 0.8 tonnes transport and 0.8 tonnes other.<ref>{{Cite news|last=Harrabin|first=Roger|date=2020-05-20|title=Top 10 tips for combating climate change revealed|work=[[BBC]]|url=https://www.bbc.com/news/science-environment-52719662|access-date=2020-05-22}}</ref>
+
+== Background ==
+
+Human activities are one of the main causes of greenhouse gas. These increase the [[global warming|earth's temperature]] and are emitted from [[fossil fuel]] usage in electricity and other byproducts of manufacturing. The major effects mainly consist of [[climate change]]s, such as [[extreme weather|extreme]] [[precipitation]] and [[Ocean acidification|acidification]] and [[Effects of global warming on oceans|warming of oceans]]. Climate change has been occurring since the start of the [[Industrial Revolution]] in the 1820s.  Due to humans' heavy reliance on fossil fuels, energy usage, and constant [[deforestation]], the amount of greenhouse gas in the atmosphere is increasing, which makes reducing a greenhouse gas footprint harder to achieve. However, there are several ways to reduce one's greenhouse gas footprint, choosing more energy efficient eating habits, using more [[Efficient energy use|energy efficient]] household appliances, increase usage of [[fuel efficient]] cars, and saving electricity.<ref>http://css.umich.edu/factsheets/carbon-footprint-factsheet</ref>
+
+{{Pie chart
+| caption = Common Greenhouse Gases
+| label1 =Carbon Dioxide
+| value1 =84
+| color1 =#29578e
+| label2 =Methane
+| value2 =9
+| color2 =#3573bd
+| label3 =Nitrous Oxide
+| value3 =5
+| color3 =#6d94cf
+| label4 =Fluorinated Gases
+| value4 =2
+| color4 =#aabbdd
+}}
+Greenhouse gases (GHGs) are gases that increase the temperature of the Earth due to their absorption of [[Infrared|infrared radiation]].<ref>{{Cite journal|last1=Snyder|first1=C. S.|last2=Bruulsema|first2=T. W.|last3=Jensen|first3=T. L.|last4=Fixen|first4=P. E.|date=2009-10-01|title=Review of greenhouse gas emissions from crop production systems and fertilizer management effects|journal=Agriculture, Ecosystems & Environment|series=Reactive nitrogen in agroecosystems: Integration with greenhouse gas interactions|volume=133|issue=3|pages=247–266|doi=10.1016/j.agee.2009.04.021}}</ref> Although some emissions are natural, the rate of which they are being produced has increased because of humans. These gases are emitted from [[fossil fuel]] usage in electricity, in heat and transportation, as well as being emitted as [[By-product|byproducts]] of manufacturing. The most common GHGs are [[carbon dioxide]] (CO<sub>2</sub>), [[methane]] (CH<sub>4</sub>), [[nitrous oxide]] (N<sub>2</sub>O), and many [[fluorinated gases]].<ref name=":0">{{Cite web|url=https://www.epa.gov/ghgemissions/overview-greenhouse-gases|title=Overview of Greenhouse Gases {{!}} US EPA|last=EPA, OA|first=US|website=US EPA|language=en|access-date=2017-11-01|date=2015-12-23}}</ref> A greenhouse gas footprint is the numerical quantity of these gases that a single entity emits. The calculations can be computed ranging from a single person to the entire world.<ref>{{Cite web|url=https://www3.epa.gov/carbon-footprint-calculator/|title=Household Carbon Footprint Calculator|last=Division|first=US EPA, Office of Air and Radiation, Office of Atmospheric Programs, Climate Change|website=www3.epa.gov|language=en|access-date=2017-11-01}}</ref>
+
+==Measuring carbon footprints==
+An individual's, nation's, or organization's carbon footprint can be measured by undertaking a GHG emissions assessment, a [[Life-cycle assessment|life cycle assessment]], or other calculative activities denoted as [[carbon accounting]]. Once the size of a carbon footprint is known, a strategy can be devised to reduce it, for example, by technological developments, [[Energy efficiency implementation|energy efficiency]] improvements, better process and product management, changed [https://www.dccae.gov.ie/en-ie/environment/topics/sustainable-development/green-public-procurement/Pages/default.aspx Green Public or Private Procurement (GPP)], [[carbon capture]], consumption strategies, [[carbon offset]]ting and others.<ref>{{Cite journal|last1=Sundarakani|first1=Balan|last2=Goh|first2=Mark|last3=Souza|first3=Robert de|last4=Shun|first4=Cai|date=2008-01-01|title=Measuring carbon footprints across the supply chain|url=https://ro.uow.edu.au/dubaipapers/205|journal=University of Wollongong in Dubai - Papers|pages=555–562}}</ref>
+
+For calculating personal carbon footprints, several free online carbon footprint calculators exist<ref>{{Cite web|url=https://www.mycarbonplan.org/measure-carbon-footprint-calculator|title=My Carbon Plan - Carbon Footprint Calculator, which provides a calculator using ONS data in the UK|website=mycarbonplan.org|access-date=2020-04-04}}</ref><ref>{{Cite web|url=https://co2list.org/|title=CO2List.org which shows CO2 coming from common products and activities|website=co2list.org|access-date=2019-10-04}}</ref> including a few supported by publicly available peer-reviewed data and calculations including the University of California, Berkeley's CoolClimate Network research consortium and CarbonStory.<ref>{{cite web|url=http://coolclimate.berkeley.edu/carboncalculator|title=CoolClimate Carbon Footprint Calculator for U.S. Households and Individuals|access-date=4 May 2012}}</ref><ref>{{cite web|url=https://docs.google.com/file/d/0BwI9ptFQU1QiM2IzNWE0YTQtNjY4NS00MzM5LWFkZDUtOWNkY2NkNTMxOTM4/edit?hl=en_US&pli=1|title=Online supporting data, calculations & methodologies for paper: Jones, Kammen "Quantifying Carbon Footprint Reduction Opportunities for U.S. Households and Communities" ES&T, 2011 (publicly available)|access-date=4 May 2012}}</ref><ref>{{cite web|url=https://www.carbonstory.org/calculator/overview|website=carbonstory.org|title=Calculator|access-date=12 March 2014|archive-url=https://web.archive.org/web/20140312212949/https://www.carbonstory.org/calculator/overview|archive-date=12 March 2014|url-status=dead}}</ref> These websites ask you to answer more or less detailed questions about your diet, transportation choices, home size, shopping and recreational activities, usage of electricity, heating, and heavy appliances such as dryers and refrigerators, and so on. The website then estimates your carbon footprint based on your answers to these questions. A systematic literature review was conducted to objectively determine the best way to calculate individual/household carbon footprints. This review identified 13 calculation principles and subsequently used the same principles to evaluate the 15 most popular online carbon footprint calculators. A recent study's results by Carnegie Mellon's Christopher Weber found that the calculation of carbon footprints for products is often filled with large uncertainties. The variables of owning electronic goods such as the production, shipment, and previous technology used to make that product, can make it difficult to create an accurate carbon footprint. It is important to question, and address the accuracy of Carbon Footprint techniques, especially due to its overwhelming popularity.<ref>{{cite book |last1=Collin |first1=Robert William |first2=Debra Ann |last2=Schwartz |chapter=Carbon Offsets |editor=Michael Shally-Jensen |title=Encyclopedia of Contemporary American Social Issues, vol. 4: Environment, Science, and Technology |publisher=ABC-CLIO |date=2011 |pages=1311–1314 |isbn=978-0-3133-9204-7 }}</ref>
+
+Calculating the carbon footprint of industry, product, or service is a complex task. One tool industry uses [[Life-cycle assessment|Life-cycle assessment (LCA)]], where carbon footprint may be one of many factors taken into consideration when assessing a product or service. The [[International Organization for Standardization]] has a standard called ISO 14040:2006 that has the framework for conducting an LCA study.<ref>{{Cite web |url=https://www.iso.org/standard/37456.html|title=Environmental management -- Life cycle assessment -- Principles and framework|website=International Organization for Standardization}}</ref> ISO 14060 family of standards provides further sophisticated tools for quantifying, monitoring, reporting and validating or verifying of GHG emissions and removals.<ref>{{Citation|title=DIN EN ISO 14067:2019-02, Treibhausgase_- Carbon Footprint von Produkten_- Anforderungen an und Leitlinien für Quantifizierung (ISO_14067:2018); Deutsche und Englische Fassung EN_ISO_14067:2018|publisher=Beuth Verlag GmbH|doi=10.31030/2851769}}</ref> Another method is through the [[Greenhouse Gas Protocol]],<ref>[https://ghgprotocol.org/ Greenhouse Gas Protocol]</ref> a set of standards for tracking greenhouse gas emissions (GHG) across scope 1, 2 and 3 emissions within the value chain.<ref>{{Cite web|title=Streamlined Energy And Carbon Reporting Guidance UK|url=https://longevityzero.com/secr-reporting-guidance/|access-date=2020-07-16|website=LongevityIntelligen|language=en}}</ref>
+
+Predicting the carbon footprint of a process is also possible through estimations using the above standards. By using [[Emission intensity|Emission intensities/Carbon intensities]] and the estimated annual use of fuel, chemical, or other inputs, the carbon footprint can be determined while a process is being planned/designed.
+
+===Origin of the concept===
+The concept and name of the carbon footprint derive from the [[ecological footprint]] concept,<ref name=Safire2008>{{cite news| url=https://www.nytimes.com/2008/02/17/magazine/17wwln-safire-t.html | work=The New York Times | title=Footprint | first=William | last=Safire | date=17 February 2008 | access-date=30 December 2019}}</ref> which was developed by [[William E. Rees]] and [[Mathis Wackernagel]] in the 1990s. While carbon footprints are usually reported in tons of emissions (CO<sub>2</sub>-equivalent) per year, ecological footprints are usually reported in comparison to what the planet can renew. This assesses the number of "earths" that would be required if everyone on the planet consumed resources at the same level as the person calculating their ecological footprint. The carbon footprint is one part of the ecological footprint.  Carbon footprints are more focused than ecological footprints since they measure merely emissions of gases that cause climate change into the atmosphere.
+
+Carbon footprint is one of a family of footprint indicators,<ref>{{cite journal|last=Fang|first=K.|author2=Heijungs, R.|author3=De Snoo, G.R.|title= Theoretical exploration for the combination of the ecological, energy, carbon, and water footprints: Overview of a footprint family|journal=Ecological Indicators|year=2014|volume=36|pages=508–518|doi=10.1016/j.ecolind.2013.08.017}}</ref> which also include ecological footprints, [[water footprint|water footprints]] and [[land footprint|land footprints]].
+
+The carbon part was popularized by a large campaign of [[BP]] in 2005.<ref name="Safire2008" /> The deceptive PR campaign instructed individuals to calculate their personal footprints and provided ways for people to lower their own impact, while BP itself continued to extract just as much fossil fuels.<ref name=":3">{{Cite web|last=Kaufman|first=Mark|title=The devious fossil fuel propaganda we all use|url=https://mashable.com/feature/carbon-footprint-pr-campaign-sham/|access-date=2020-09-17|website=Mashable|language=en}}</ref> The use of household carbon footprint calculators was called "effective propaganda" as strategic communication to shift responsibility of climate change-causing pollution away from the corporations and institutions that created a society where carbon emissions are unavoidable and onto personal lifestyle choices.<ref name=":3" />
+
+===Direct carbon emissions===
+Direct or 'scope 1' carbon emissions come from sources that are directly from the site that is producing a product or delivering a service.<ref name=":1" /><ref name=":2">{{Cite book|title=Accounting for Carbon Monitoring, Reporting and Verifying Emissions in the Climate Economy|last=Bellassen|first=Valentin|publisher=Cambridge University Press|year=2015|isbn=9781316162262|pages=6}}</ref> An example for industry would be the emissions related to burning a fuel on site. On the individual level, emissions from personal vehicles or gas burning stoves would fall under scope 1.
+
+===Indirect carbon emissions===
+Indirect carbon emissions are emissions from sources upstream or downstream from the process being studied, also known as scope 2 or scope 3 emissions.<ref name=":1">{{Cite web|url=https://ghgprotocol.org/sites/default/files/standards/Product-Life-Cycle-Accounting-Reporting-Standard_041613.pdf|title=Product Life Cycle Accounting and Reporting Standard|website=GHG Protocol|access-date=2019-02-25}}</ref>
+
+Examples of upstream, indirect carbon emissions may include:<ref name=":51">{{Cite web|url=http://ghgprotocol.org/sites/default/files/ghgp/Scope3_Calculation_Guidance.pdf|title=Scope 2 Calculation Guidance|website=GHG Protocol}}</ref>
+
+* Transportation of materials/fuels
+* Any energy used outside of the production facility
+* Wastes produced outside of the production facility
+
+Examples of downstream, indirect carbon emissions may include:<ref name=":0" />
+
+* Any end-of-life process or treatments
+* Product and waste transportation
+* Emissions associated with selling the product
+
+Scope 2 emissions are the other indirect related to purchased electricity, heat, and/or steam used on site.<ref name=":2" /> Scope 3 emissions are all other indirect emissions derived from the activities of an organisation but from sources which they do not own or control.<ref>Green Element Ltd., [https://compareyourfootprint.com/difference-scope-1-2-3-emissions/ What is the Difference Between Scope 1, 2 and 3 Emissions?], published 2 November 2018, accessed 11 November 2020</ref>
+
+===Reporting===
+In the US, the EPA has broken down electricity emission factors by state.<ref>{{Cite web |url=https://www.epa.gov/sites/production/files/2018-03/documents/emission-factors_mar_2018_0.pdf|title=Emission Factors for Greenhouse Gas Inventories|website=EPA}}</ref>
+
+In the UK, [[DEFRA]] provides emission factors going back to 2002 covering scope 1, 2 and 3.<ref>{{Cite web |url=https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting|title=Government emission conversion factors for greenhouse gas company reporting|website=GOV.UK}}</ref> DEFRA no longer provide international emission factors and refer visitors to the IEA who provide free highlights and paid for details covering Scope 1 and 2.<ref>{{Cite web |url=https://www.iea.org/subscribe-to-data-services/co2-emissions-statistics|title=CO2 Emissions from Fuel Combustion|website=IEA}}</ref>
+
+==Reducing carbon footprints==
+===Ways to reduce personal carbon footprint===
+{{See also|Individual action on climate change}}{{Globalize|date=June 2020|2=USA|talk=Talk:Individual_action_on_climate_change#Problems_with_the_having_fewer_children_action}}
+
+A July 2017 study published in ''[[Environmental Research Letters]]'' found that the most significant way individuals could mitigate their own carbon footprint is to have one less child ("an average for developed countries of 58.6 tonnes CO<sub>2</sub>-equivalent (tCO<sub>2</sub>e) emission reductions per year"), followed by living car-free (2.4 tonnes CO<sub>2</sub>-equivalent per year), forgoing air travel (1.6 tonnes CO<sub>2</sub>-equivalent per trans-Atlantic trip) and adopting a [[plant-based diet]] (0.8 tonnes CO<sub>2</sub>-equivalent per year).<ref>{{cite news |last=  Perkins|first=Sid|date=July 11, 2017|title=The best way to reduce your carbon footprint is one the government isn't telling you about|url=http://www.sciencemag.org/news/2017/07/best-way-reduce-your-carbon-footprint-one-government-isn-t-telling-you-about|work=[[Science (journal)|Science]] |access-date=December 31, 2017 }}</ref><ref name="WynesNicholas"/> The study also found that most government resources on climate change focus on actions that have a relatively modest effect on greenhouse gas emissions, and concludes that "a US family who chooses to have one fewer child would provide the same level of emissions reductions as 684 teenagers who choose to adopt comprehensive recycling for the rest of their lives".<ref name="WynesNicholas">{{cite journal|title = The climate mitigation gap: education and government recommendations miss the most effective individual actions|last1 = Wynes | first1 = Seth |last2 = Nicholas | first2 = Kimberly A |journal = [[Environmental Research Letters]]|date = 2017|volume = 12|page = 074024 | number = 7|doi = 10.1088/1748-9326/aa7541 |bibcode = 2017ERL....12g4024W |doi-access = free}}</ref>
+
+An option is to drive less. Walking, biking, [[carpooling]], [[mass transportation]] and combining trips result in burning less fuel and releasing fewer emissions into the atmosphere.
+
+The choice of diet is a major influence on a person's carbon footprint. Animal sources of protein (especially red meat), rice (typically produced in high methane-emitting paddies), foods transported long-distance or via fuel-inefficient transport (e.g., highly perishable produce flown long-distance) and heavily processed and packaged foods are among the major contributors to a high carbon diet. Scientists at the University of Chicago have estimated<ref>{{Cite journal|title=Diet, Energy, and Global Warming|journal= Earth Interactions|volume=10|issue=9|pages=1–17|doi=10.1175/EI167.1|year = 2006|last1 = Eshel|first1 = Gidon|last2=Martin|first2=Pamela A. |citeseerx=10.1.1.394.3094|bibcode=2006EaInt..10i...1E}}</ref> "that the average American diet – which derives 28% of its calories from animal foods – is responsible for approximately one and a half more tonnes of greenhouse gasses – as {{CO2}} equivalents – per person, per year than a fully plant-based, or vegan, diet."<ref>{{cite report |url=http://cecmanitoba.ca/resource/hearings/22/WPG2-006.pdf |title=Presentation to the Manitoba Clean Environment Commission "Hog Production Industry Review" |author=Syd Baumel |date=April 27, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20131005014225/http://cecmanitoba.ca/resource/hearings/22/WPG2-006.pdf |archive-date=5 October 2013 |access-date=2 October 2013 }}</ref> Their calculations suggest that even replacing one third of the animal protein in the average American's diet with plant protein (e.g., beans, grains) can reduce the diet's carbon footprint by half a tonne. Exchanging two-thirds of the animal protein with plant protein is roughly equivalent to switching from a Toyota Camry to a Prius. Finally, throwing food out not only adds its associated carbon emissions to a person or household's footprint, but it also adds the emissions of transporting the wasted food to the garbage dump and the emissions of food decomposition, mostly in the form of the highly potent greenhouse gas, methane.
+
+Options to reduce the carbon footprint of humans include [[Waste hierarchy|Reduce, Reuse, Recycle, Refuse]]. This can be done by using reusable items such as thermoses for daily coffee or plastic containers for water and other cold beverages rather than disposable ones. If that option isn't available, it is best to properly recycle the disposable items after use.<ref name="environment.about.com">{{cite web|url=http://environment.about.com/od/globalwarming/tp/globalwarmtips.htm|title=Personal Steps You Can Take to Fight Global Warming|author=Larry West|work=About.com News & Issues}}</ref>{{reliable source|date=December 2012}} When one household recycles at least half of their household waste, they can save 1.2 tons of carbon dioxide annually.{{citation needed|date=August 2019}}
+
+Another option for reducing the [[carbon]] footprint of humans is to use less air conditioning and heating in the home. By adding insulation to the walls and attic of one's home, and installing [[weather stripping]], or [[caulking]] around doors and windows one can lower their heating costs more than 25 percent.{{citation needed|date=October 2019}} Similarly, one can very inexpensively upgrade the "insulation" (clothing) worn by residents of the home.<ref Name ="aquarianonline.com">{{cite web|url=http://www.aquarianonline.com/dressed-not-to-chill/|title=Dressed Not to Chill|work=Enlighten Up! with The Aquarian}}</ref> For example, it's estimated that wearing a base layer of long underwear with top and bottom, made from a lightweight, super-insulating fabric like microfleece, can conserve as much body heat as a full set of clothing, allowing a person to remain warm with the thermostat lowered by over 5&nbsp;°C.<ref name="aquarianonline.com" /><ref>{{cite web|url=http://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html|title=LOW-TECH MAGAZINE|work=lowtechmagazine.com}}</ref> These measures all help because they reduce the amount of energy needed to heat and cool the house. One can also turn down the heat while sleeping at night or away during the day, and keep temperatures moderate at all times. Setting the thermostat just 2 degrees lower in winter and higher in summer could save about 1 ton of [[carbon dioxide]] each year.<ref name="environment.about.com" />{{reliable source|date=December 2012}}
+
+The carbon handprint movement emphasizes individual forms of carbon offsetting, like using more public transportation or planting trees in deforested regions, to reduce one's carbon footprint and increase their "handprint."<ref>{{cite magazine |author=Daniel Goleman |date=2012-03-12 |url=http://www.time.com/time/magazine/article/0,9171,2108015,00.html |url-access=subscription |title=Handprints, Not Footprints |magazine=Time |access-date=2019-06-04}}</ref><ref>{{Cite journal |title=Quantifying Carbon Footprint Reduction Opportunities for U.S. Households and Communities |journal=Environ. Sci. Technol. |volume=45 |issue=9 |pages=4088–4095 |doi=10.1021/es102221h |pmid=21449584 |date=March 2011 |last1=Jones |first1=Christopher M. |last2=Kammen |first2=Daniel M. |doi-access=free|bibcode=2011EnST...45.4088J }}</ref> The Handprint is being used around the world to strengthen action towards the fulfillment of the UN Sustainable Development Goals.{{citation needed|date=September 2019}}
+
+===Ways to reduce industry's carbon footprint===
+The most powerful industrial climate actions are:<ref>{{Cite web|url=https://www.drawdown.org/solutions|title=Solutions|date=2017-02-07|website=Drawdown|language=en|access-date=2019-09-06}}</ref>
+refrigerant management (90 billion tonnes of CO<sub>2</sub>e 2017–2050,<ref>90 billion estimate from Project Drawdown, 98 billion estimate from{{Cite report |title=Benefits of Leapfrogging to Superefficiency and Low Global Warming Potential Refrigerants in Room Air Conditioning |last1=Shah |first1=Nihar |last2=Wei |first2=Max |date=2015-10-01 |publisher=Lawrence Berkeley National Lab. (LBNL), Berkeley, CA (United States) |language=en |last3=Letschert |first3=Virginie |last4=Phadke |first4=Amol|osti = 1397235}}</ref> since refrigerants have thousands of times the warming potential of CO<sub>2</sub>); land-based wind turbines for electricity (85 billion); reduced [[food waste]] (71 billion); and restoring tropical forests by ending use of the land for other purposes (61 billion). They calculate benefits cumulatively to 2050, rather than annually, because industrial actions have long lead times.<ref>{{Cite journal|last1=Hua|first1=Guowei|last2=Cheng|first2=T. C. E.|last3=Wang|first3=Shouyang|date=2011-08-01|title=Managing carbon footprints in inventory management|url=http://www.sciencedirect.com/science/article/pii/S0925527311001599|journal=International Journal of Production Economics|language=en|volume=132|issue=2|pages=178–185|doi=10.1016/j.ijpe.2011.03.024|issn=0925-5273|hdl=10397/9148|hdl-access=free}}</ref>
+
+A product, service, or company's carbon footprint can be affected by several factors including, but not limited to:
+
+* Energy sources
+* Offsite electricity generation
+* Materials
+
+These factors can also change with location or industry. However, there are some general steps that can be taken to reduce carbon footprint on a larger scale.
+
+In 2016, the EIA reported that in the US electricity is responsible for roughly 37% of Carbon Dioxide emissions, making it a potential target for reductions.<ref>
+Easterlyn, Jonah. "U.S. Energy Information Administration - EIA - Independent Statistics and Analysis." How Much of U.S. Carbon Dioxide Emissions Are Associated with Electricity Generation? - FAQ - U.S. Energy Information Administration (EIA). N.p., 1 April 2016. Web. 5 December 2016.
+</ref> Possibly the cheapest way to do this is through energy efficiency improvements. The ACEEE reported that energy efficiency has the potential to save the US over 800 billion kWh per year, based on 2015 data.<ref>{{Cite web|url=https://aceee.org/sites/default/files/publications/researchreports/u1604.pdf|title=The Greatest Energy Story You Haven't Heard: How Investing in Energy Efficiency Changed the US Power Sector and Gave Us a Tool to Tackle Climate Change|last=Molina|first=Maggie|date=October 2016|website=ACEEE}}</ref> Some potential options to increase energy efficiency include, but are not limited to:<ref>{{Cite journal|title=Strategies to Improve Industrial Energy Efficiency|pages=325–330|journal=Procedia Cirp|volume=15|doi=10.1016/j.procir.2014.06.074|date=January 2014|last1=o'Rielly|first1=K.|last2=Jeswiet|first2=J.|doi-access=free}}</ref>
+
+* Waste heat recovery systems
+* Insulation for large buildings and combustion chambers
+* Technology upgrades, ie different light sources, lower consumption machines
+
+Carbon Footprints from energy consumption can be reduced through the development of [[alternative energy]] projects, such as solar and wind energy, which are renewable resources.
+
+[[Reforestation]], the restocking of existing forests or woodlands that have previously been depleted, is an example of [[Carbon offset|Carbon Offsetting]], the counteracting of carbon dioxide emissions with an equivalent reduction of carbon dioxide in the atmosphere.<ref>{{cite book |last=Corbett |first=James |chapter=Carbon Footprint |editor1=Brenda Wilmoth Lerner |editor2=K. Lee Lerner |title=Climate Change: In Context, vol. 1 |publisher=Gale |date=2008 |pages=162–164 |isbn=978-1-4144-3708-8 }}</ref> Carbon offsetting can reduce a companies overall carbon footprint by offering a [[carbon credit]].
+
+A [[Life-cycle assessment|life cycle]] or supply chain carbon footprint study can provide useful data which will help the business to identify specific and critical areas for improvement. By calculating or predicting a process’ carbon footprint high emissions areas can be identified and steps can be taken to reduce in those areas.
+
+== Schemes to reduce carbon emissions: Kyoto Protocol, carbon offsetting, and certificates ==
+
+Carbon dioxide emissions into the atmosphere, and the emissions of other GHGs, are often associated with the burning of fossil fuels, like natural gas, crude oil and coal. While this is harmful to the environment, [[carbon offset]]s can be purchased in an attempt to make up for these harmful effects.
+
+The [[Kyoto Protocol]] defines legally binding targets and timetables for cutting the GHG emissions of industrialized countries that ratified the Kyoto Protocol. Accordingly, from an economic or market perspective, one has to distinguish between a ''mandatory market'' and a ''voluntary market''. Typical for both markets is the trade with emission certificates:
+
+*[[Certified Emission Reduction]] (CER)
+*[[Emission Reduction Unit]] (ERU)
+*[[Verified Emission Reduction]] (VER)
+
+=== Mandatory market mechanisms ===
+To reach the goals defined in the Kyoto Protocol, with the least economical costs, the following [[Flexible Mechanisms|flexible mechanisms]] were introduced for the mandatory market:
+
+*[[Clean Development Mechanism]] (CDM)
+*[[Joint Implementation]] (JI)
+*[[Emissions trading]]
+
+The CDM and JI mechanisms requirements for projects which create a supply of emission reduction instruments, while [[Emissions Trading]] allows those instruments to be sold on international markets.
+
+* Projects which are compliant with the requirements of the CDM mechanism generate [[Certified Emissions Reduction]]s (CERs).
+* Projects which are compliant with the requirements of the JI mechanism generate [[Emission Reduction Unit]]s (ERUs).
+
+The CERs and ERUs can then be sold through [[Emissions Trading]]. The demand for the CERs and ERUs being traded is driven by:
+
+* Shortfalls in national emission reduction obligations under the Kyoto Protocol.
+* Shortfalls amongst entities obligated under local emissions reduction schemes.
+
+Nations which have failed to deliver their Kyoto emissions reductions obligations can enter [[Emissions Trading]] to purchase CERs and ERUs to cover their treaty shortfalls.  Nations and groups of nations can also create local emission reduction schemes which place mandatory carbon dioxide emission targets on entities within their national boundaries.  If the rules of a scheme allow, the obligated entities may be able to cover all or some of any reduction shortfalls by purchasing CERs and ERUs through [[Emissions Trading]].  While local emissions reduction schemes have no status under the [[Kyoto Protocol]] itself, they play a prominent role in creating the demand for CERs and ERUs, stimulating [[Emissions Trading]] and setting a [[market price]] for emissions.
+
+A well-known mandatory local emissions trading scheme is the [[EU Emissions Trading Scheme]] (EU ETS).
+
+New changes are being made to the trading schemes. The [[EU Emissions Trading Scheme]] is set to make some new changes within the next year. The new changes will target the emissions produced by flight travel in and out of the European Union.<ref name="Callick, Rowan 2011">Callick, Rowan. "Nations Split on Route to Reduce Carbon Emissions." The Australian. 2 March 2011. Web. 1 March 2011.</ref>
+
+Other nations are scheduled to start participating in Emissions Trading Schemes within the next few years. These nations include China, India and the United States.<ref name="Callick, Rowan 2011" />
+
+=== Voluntary market mechanisms ===
+In contrast to the strict rules set out for the mandatory market, the voluntary market provides companies with different options to acquire emissions reductions. A solution, comparable with those developed for the mandatory market, has been developed for the voluntary market, the Verified Emission Reductions (VER). This measure has the great advantage that the projects/activities are managed according to the quality standards set out for CDM/JI projects but the certificates provided are not registered by the governments of the host countries or the Executive Board of the UNO. As such, high quality VERs can be acquired at lower costs for the same project quality. However, at present VERs can not be used in mandatory market.
+
+The voluntary market in North America is divided between members of the Chicago Climate Exchange and the Over The Counter (OTC) market. The [[Chicago Climate Exchange]] is a voluntary yet legally binding [[emissions trading|cap-and-trade emission scheme]] whereby members commit to the capped emission reductions and must purchase allowances from other members or offset excess emissions. The OTC market does not involve a legally binding scheme and a wide array of buyers from the public and private spheres, as well as special events that want to go [[carbon neutral]]. Being carbon neutral refers to achieving net zero carbon emissions by balancing a measured amount of carbon released with an equivalent amount sequestered or offset, or buying enough carbon credits to make up the difference.
+
+There are project developers, wholesalers, brokers, and retailers, as well as carbon funds, in the voluntary market. Some businesses and nonprofits in the voluntary market encompass more than just one of the activities listed above. A report by Ecosystem Marketplace shows that carbon offset prices increase as it moves along the supply chain—from project developer to retailer.<ref name="ecosysmarket">{{cite web|url=http://ecosystemmarketplace.com/documents/acrobat/StateoftheVoluntaryCarbonMarket18July_Final.pdf|title=Archived copy|archive-url=https://web.archive.org/web/20110710170031/http://ecosystemmarketplace.com/documents/acrobat/StateoftheVoluntaryCarbonMarket18July_Final.pdf|archive-date=10 July 2011|url-status=dead|access-date=21 August 2007|df=dmy}}</ref>
+
+While some mandatory emission reduction schemes exclude forest projects, these projects flourish in the voluntary markets. A major criticism concerns the imprecise nature of GHG sequestration quantification methodologies for forestry projects. However, others note the community co-benefits that [[forestry]] projects foster.
+Project types in the voluntary market range from avoided [[deforestation]], afforestation/reforestation, industrial gas [[Carbon dioxide sink|sequestration]], increased [[Efficient energy use|energy efficiency]], fuel switching, [[Carbon capture and storage|methane capture]] from coal plants and [[Climate change and agriculture#Livestock|livestock]], and even [[renewable energy]]. Renewable Energy Certificates (RECs) sold on the voluntary market are quite controversial due to [[Carbon credit#Additionality and its importance|additionality]] concerns.<ref>{{cite web|url=http://www.acore.org/renewableenergyinfo/includes/resource-files/bios.doc|title=Archived copy|archive-url=https://web.archive.org/web/20070707112535/http://www.acore.org/renewableenergyinfo/includes/resource-files/bios.doc|archive-date=7 July 2007|url-status=dead|access-date=21 August 2007|df=dmy}}</ref> Industrial Gas projects receive criticism because such projects only apply to large industrial plants that already have high fixed costs. Siphoning off industrial gas for sequestration is considered picking the low hanging fruit; which is why credits generated from industrial gas projects are the cheapest in the voluntary market.
+
+The size and activity of the voluntary carbon market are difficult to measure. The most comprehensive report on the voluntary carbon markets to date was released by Ecosystem Marketplace and New Carbon Finance in July 2007.<ref name="ecosysmarket" />
+
+[[ÆON]] of Japan is firstly approved by the Japanese authority to indicate a carbon footprint on three [[private brand]] goods in October 2009.
+
+== Average carbon footprint per person by country ==
+[[File:CO2 emissions per capita, 2017 (Our World in Data).svg|thumb|upright=1.35|CO₂ emissions per person by country, 2017 ([[Our World in Data]]).]]
+According to The World Bank, the global average carbon footprint in 2014 was 4.97 metric tons CO<sub>2</sub>/cap.<ref>{{Cite web|url=https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?end=2014&start=1960&view=chart|title=CO2 emissions (metric tons per capita)|website=The World Bank|access-date=March 4, 2019}}</ref> {{Contradict-inline|reason=lead says much less|date=June 2020}}The [[EU]] average for 2007 was about 13.8 tons CO<sub>2</sub>e/cap, whereas for the [[U.S.]], [[Luxembourg]] and [[Australia]] it was over 25 tons CO<sub>2</sub>e/cap. In 2017, the average for the USA was about 20 metric tons CO<sub>2</sub>e.{{efn|The footprints per capita of countries in [[Africa]] and [[India]] were well below average. To set these numbers into context, assuming a [[global population]] around 9–10 billion by 2050 a carbon footprint of about 2–2.5 tons CO<sub>2</sub>e per capita is needed to stay within a 2&nbsp;°C target. The carbon footprint calculations are based on a consumption based approach using a Multi-Regional<ref>{{Cite web |website=EPA |url=https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks |title=Inventory of U.S. Greenhouse Gas Emissions and Sinks |access-date=April 1, 2019}}</ref> [[input–output model|Input-Output]] database, which accounts for all [[greenhouse gas]] (GHG) emissions in the global supply chain and allocates them to the final consumer of the purchased commodities. GHG emissions related to [[land use, land-use change, and forestry|land use cover change]] are not included.<ref>{{cite journal |last1=Tukker|first1=Arnold |last2=Bulavskaya|first2=Tanya |last3=Giljum|first3=Stefan|last4=de Koning|first4=Arjan |last5=Lutter|first5=Stephan |last6=Simas|first6=Moana |last7=Stadler|first7=Konstantin |last8=Wood|first8=Richard |year=2016 |title=Environmental and resource footprints in a global context: Europe's structural deficit in resource endowments|volume=40|pages=171–181 |doi=10.1016/j.gloenvcha.2016.07.002 |periodical=Global Environmental Change}}</ref> }}
+
+Mobility (driving, flying & small amount from public transit), shelter (electricity, heating, construction) and food are the most important consumption categories determining the carbon footprint of a person. In the [[EU]], the carbon footprint of mobility is evenly split between direct emissions (e.g. from driving private cars) and emissions embodied in purchased products related to mobility (air transport service, emissions occurring during the production of cars and during the extraction of fuel).<ref>{{cite journal|last1=Ivanova|first1=Diana|last2=Stadler|first2=Konstantin|last3=Steen-Olsen|first3=Kjartan|last4=Wood|first4=Richard|last5=Vita|first5=Gibran|last6=Tukker|first6=Arnold|last7=Hertwich|first7=Edgar|year=2016|title=Environmental Impact Assessment of Household Consumption|volume=20|pages=526–536|doi=10.1111/jiec.12371|periodical=Journal of Industrial Ecology|number=3|url=https://zenodo.org/record/1134811}}</ref>
+
+The carbon footprint of U.S. households is about 5 times greater than the global average. For most U.S. households the single most important action to reduce their carbon footprint is driving less or switching to a more efficient vehicle.<ref>{{cite journal|last1=Jones|first1=Christopher|last2=Kammen|first2=Daniel|s2cid=3482920|year=2011|title=Quantifying Carbon Footprint Reduction Opportunities for U.S. Households and Communities|volume=45|pages=4088–4095|doi=10.1021/es102221h|pmid=21449584|periodical=Environmental Science & Technology|number=9|bibcode=2011EnST...45.4088J}}</ref>
+
+==The carbon footprints of energy==
+{{Main|Life-cycle greenhouse-gas emissions of energy sources}}
+
+Three studies concluded that hydroelectric, wind, and nuclear power produced the least CO<sub>2</sub> per kilowatt-hour of any other electricity sources.
+These figures do not allow for emissions due to accidents or terrorism. [[Wind power]] and [[solar power]], emit no carbon from the operation, but do leave a footprint during construction phase and maintenance during operation. [[Hydropower]] from reservoirs also has large footprints from initial removal of vegetation and ongoing methane (stream detritus decays anaerobically to methane in bottom of reservoir, rather than aerobically to CO<sub>2</sub> if it had stayed in an unrestricted stream).<ref>{{cite web|url=http://www.co2list.info/1/category/hydroelectricity/1.html|title=Hydroelectricity|publisher=CO2List|access-date=30 September 2013}}</ref>
+
+Electricity generated, which is about half the world's man-made CO<sub>2</sub> output. The CO<sub>2</sub> footprint for heat is equally significant and research shows that using waste heat from power generation in combined heat and power district heating, chp/dh has the lowest carbon footprint,<ref>{{cite web|url=http://www.claverton-energy.com/carbon-footprints-of-various-sources-of-heat-chpdh-comes-out-lowest.html|title=Carbon footprints of various sources of heat - CHPDH comes out lowest - Claverton Group|work=claverton-energy.com}}</ref> much lower than micro-power or heat pumps.
+
+Coal production has been refined to greatly reduce carbon emissions; since the 1980s, the amount of energy used to produce a ton of steel has decreased by 50%.<ref>{{cite book |last=Aldridge |first=Susan |chapter=Coal and Steel |editor1=Brenda Wilmoth Lerner |editor2=K. Lee Lerner |editor3=Thomas Riggs |title=Energy: In Context, vol. 1 |publisher=Gale |date=2016 |pages=111–113 |isbn=978-1-4103-1751-3 }}</ref>
+
+===Passenger transport===
+{{update section|date=June 2020}}
+This section gives representative figures for the carbon footprint of the fuel burned by different transport types (not including the carbon footprints of the vehicles or related infrastructure themselves). The precise figures vary according to a wide range of factors.
+
+====Flight====
+{{main|Environmental impact of aviation}}
+
+Some representative figures for CO<sub >2</sub> emissions are provided by LIPASTO's survey of average direct emissions (not accounting for high-altitude radiative effects) of airliners expressed as CO<sub>2</sub> and CO<sub >2</sub> equivalent per passenger kilometre:<ref>{{cite web|url=http://lipasto.vtt.fi/yksikkopaastot/henkiloliikennee/ilmaliikennee/ilmae.htm|title=Average passenger aircraft emissions and energy consumption per passenger kilometre in Finland 2008|website=lipasto.vtt.fi|access-date=3 July 2009}}</ref>
+
+* Domestic, short distance, less than {{convert|463|km|mi|0|abbr=on}}: 257 g/km CO<sub >2</sub> or 259 g/km (14.7 oz/mile) CO<sub >2</sub>e
+* Long-distance flights: 113 g/km CO<sub >2</sub> or 114 g/km (6.5 oz/mile) CO<sub >2</sub>e
+
+However, emissions per unit distance travelled is not necessarily the best indicator for the carbon footprint of air travel, because the distances covered are commonly longer than by other modes of travel. It is the total emissions for a trip that matters for a carbon footprint, not merely the rate of emissions. For example, because air travel makes rapid long-distance travel feasible, a holiday destination may be chosen that is much more distant than if another mode of travel were used.<ref>Gössling S., Upham P. (2009). [http://www.gci.org.uk/Documents/Aviation-and-Climate-Change_.pdf Climate change and aviation: Issues, challenges and solutions]. EarthScan. 386pp.</ref>
+
+====Road====
+
+CO<sub>2</sub> emissions per passenger-kilometre (pkm) for all road travel for 2011 in Europe as provided by the European Environment Agency:<ref>{{cite web|url=http://www.eea.europa.eu/data-and-maps/indicators/energy-efficiency-and-specific-co2-emissions/energy-efficiency-and-specific-co2-5|title=Energy efficiency and specific CO2 emissions (TERM 027) - Assessment published Jan 2013|work=europa.eu}}</ref>
+
+* 109{{nbsp}}g/km{{nnbsp}}CO<sub>2</sub> (Figure 2)
+
+For vehicles, average figures for CO<sub>2</sub> emissions per kilometer for road travel for 2013 in Europe, normalized to the [[NEDC test cycle]], are provided by the International Council on Clean Transportation:<ref>{{cite book|url=http://www.theicct.org/sites/default/files/publications/EU_pocketbook_2014.pdf|title=EU pocketbook 2014|website=theicct.org|page=28}}</ref>
+
+* Newly registered [[car|passenger cars]]: 127{{nbsp}}g{{nnbsp}}CO<sub>2</sub>/km
+* [[Hybrid-electric vehicles]]: 92{{nbsp}}g{{nnbsp}}CO<sub>2</sub>/km
+* [[Light commercial vehicles]] (LCV): 175{{nbsp}}g{{nnbsp}}CO<sub>2</sub>/km
+
+Average figures for the [[United States]] are provided by the [[US Environmental Protection Agency]],<ref>{{cite report |url=http://www.epa.gov/fueleconomy/fetrends/1975-2014/420r14023a.pdf |title=Light-Duty Automotive Technology, Carbon Dioxide Emissions, and Fuel Economy Trends: 1975 Through 2014 |date=October 2014 |url-status=dead |archive-url=https://web.archive.org/web/20150402131603/http://www.epa.gov/fueleconomy/fetrends/1975-2014/420r14023a.pdf |archive-date=2015-04-02 |website=EPA |id=EPA-420-R-14-023a}}</ref> based on the [[EPA Federal Test Procedure]], for the following categories:
+
+* Passenger cars: 200{{nbsp}}g{{nnbsp}}CO<sub>2</sub>/km (322{{nbsp}}g/mi)
+* [[Trucks]]: 280{{nbsp}}g{{nnbsp}}CO<sub>2</sub>/km (450{{nbsp}}g/mi)
+* Combined: 229{{nbsp}}g{{nnbsp}}CO<sub>2</sub>/km (369{{nbsp}}g/mi)
+
+== The carbon footprints of products ==
+Several organizations offer footprint calculators for public and corporate use, and several organizations have calculated carbon footprints of products.<ref>{{cite web|url=http://The.CO2List.org|title=CO<sub>2</sub> Released when Making & Using Products|access-date=27 October 2009}}</ref> The US Environmental Protection Agency has addressed paper, plastic (candy wrappers), glass, cans, computers, carpet and tires. Australia has addressed lumber and other building materials. Academics in Australia, Korea and the US have addressed paved roads. Companies, nonprofits and academics have addressed mailing letters and packages. Carnegie Mellon University has estimated the CO<sub>2</sub> footprints of 46 large sectors of the economy in each of eight countries. Carnegie Mellon, Sweden and the Carbon Trust have addressed foods at home and in restaurants.
+
+The Carbon Trust has worked with UK manufacturers on foods, shirts and detergents, introducing a [[carbon emission label|CO<sub>2</sub> label]] in March 2007. The label is intended to comply with a new British [[Publicly Available Specification]] (i.e. not a standard), PAS 2050,<ref>{{cite web|url=http://www.bsigroup.com/PAS2050|title=PAS 2050|work=bsigroup.com}}</ref> and is being actively piloted by The Carbon Trust and various industrial partners.<ref>{{cite web|url=http://www.carbontrust.co.uk/carbon/briefing/carbon_label.htm|title=Certification - Carbon Trust|work=carbontrust.co.uk|archive-url=https://web.archive.org/web/20080516033219/http://www.carbontrust.co.uk/carbon/briefing/carbon_label.htm|archive-date=16 May 2008|url-status=dead|df=dmy}}</ref> As of August 2012 The Carbon Trust state they have measured 27,000 certifiable product carbon footprints.<ref>{{cite web|url=http://www.carbontrust.com/client-services/footprinting/footprint-measurement|title=Footprint measurement|publisher=The Carbon Trust|access-date=14 August 2012|archive-url=https://web.archive.org/web/20141223225009/http://www.carbontrust.com/client-services/footprinting/footprint-measurement|archive-date=23 December 2014|url-status=dead}}</ref>
+
+Evaluating the package of some products is key to figuring out the carbon footprint.<ref>{{cite journal|last1=Pasqualino|first1=Jorgelina|last2=Meneses|first2=Montse|last3=Castells|first3=Francesc|date=1 April 2011|title=The carbon footprint and energy consumption of beverage packaging selection and disposal|journal=Journal of Food Engineering|volume=103|issue=4|pages=357–365|doi=10.1016/j.jfoodeng.2010.11.005}}</ref> The key way to determine a carbon footprint is to look at the materials used to make the item. For example, a juice carton is made of an aseptic carton, a beer can is made of aluminum, and some water bottles either made of glass or plastic. The larger the size, the larger the footprint will be.
+
+===Food===
+{{main|Low carbon diet}}
+In a 2014 study by Scarborough et al., the real-life diets of British people were surveyed and their dietary [[GHG footprint|greenhouse gas footprints]] estimated.<ref>{{cite journal|last1=Scarborough|first1=Peter|last2=Appleby|first2=Paul N.|last3=Mizdrak|first3=Anja|last4=Briggs|first4=Adam D. M.|last5=Travis|first5=Ruth C.|last6=Bradbury|first6=Kathryn E.|last7=Key|first7=Timothy J.|year=2014|title=Dietary greenhouse gas emissions of meat-eaters, fish-eaters, vegetarians and vegans in the UK|journal=Climatic Change|volume=125|issue=2|pages=179–192|doi=10.1007/s10584-014-1169-1|pmc=4372775|pmid=25834298|bibcode=2014ClCh..125..179S}}</ref> Average dietary greenhouse-gas emissions per day (in kilograms of carbon dioxide equivalent) were:
+
+*7.19 for high meat-eaters
+*5.63 for medium meat-eaters
+*4.67 for low meat-eaters
+*3.91 for fish-eaters
+*3.81 for vegetarians
+*2.89 for vegans
+
+===Textiles===
+
+The precise carbon footprint of different textiles varies considerably according to a wide range of factors. However, studies of textile production in Europe suggest the following carbon dioxide equivalent emissions footprints per kilo of textile at the point of purchase by a consumer:<ref>{{cite book|url=https://books.google.com/books?id=zs13m5JquBwC|title=How Bad are Bananas? The Carbon Footprint of Everything (London: Profile, 2010), pp. 93, 112 (table 6.1)|last=Berners-Lee|first=Mike|date=2010-12-09|isbn=978-1847651822}}</ref>
+
+*Cotton: 8
+*Nylon: 5.43
+*PET (e.g. synthetic fleece): 5.55
+*Wool: 5.48
+
+Accounting for durability and energy required to wash and dry textile products, synthetic fabrics generally have a substantially lower carbon footprint than natural ones.<ref>{{cite book|url=https://books.google.com/books?id=zs13m5JquBwC|title=How Bad are Bananas? The Carbon Footprint of Everything|publisher=Profile|location=London|pages=93–94|last=Berners-Lee|first=Mike|date=2010-12-09|isbn=978-1847651822}}</ref>
+
+===Materials===
+The carbon footprint of materials (also known as embodied carbon) varies widely. The carbon footprint of many common materials can be found in the Inventory of Carbon & Energy database,<ref name="ICE Database">G.P.Hammond and C.I.Jones (2011) ''[http://www.circularecology.com/embodied-energy-and-carbon-footprint-database.html Embodied energy and carbon footprint database]''</ref> the GREET databases and models,<ref name="GREET databases and models">GREET databases ''[https://greet.es.anl.gov/ GREET databases and models]''</ref> and LCA databases via openLCA Nexus.<ref name="LCA databases via openLCA Nexus">LCA databases via openLCA Nexus ''[http://www.openlca.org/lca-data LCA databases via openLCA Nexus]''</ref> The carbon footprint of any manufactured product should be verified by a third-party.<ref>{{Cite web|url=https://www.architectmagazine.com/technology/how-to-measure-embodied-carbon_o|title=How to Measure Embodied Carbon|last=Shapiro|first=Gideon Fink|date=2020-01-15|website=Architect Magazine|access-date=2020-03-16}}</ref>
+
+===Cement===
+{{main|Environmental_impact_of_concrete#Carbon_dioxide_emissions_and_climate_change}}
+[[Cement]] production gives a major contribution to CO<sub>2</sub> emissions.
+
+== Causes ==
+[[File:Apollo Beach power plant 01432.jpg|thumb|Power plant releasing smoke that contains greenhouse gas|right|245x245px]]
+Although some production of greenhouse gases is natural, human activity has increased the production substantially. Major industrial sources of greenhouse gasses are power plants, residential buildings, and road transportation, as well as energy industry processes and losses, iron and steel manufacturing, coal mining, and chemical and [[petrochemical]] industries.<ref>{{Cite web|url=https://www.allianz.com/en/about_us/open-knowledge/topics/environment/articles/140912-fifteen-sources-of-greenhouse-gases.html/#!m1b4621cf-8fa4-421d-91ad-e866c4f65de8|title=15 sources of greenhouse gases - About us {{!}} Allianz|website=www.allianz.com|language=en|access-date=2017-11-03}}</ref> Changes in the environment also contribute the increase in greenhouse gas emission such as, [[deforestation]], [[forest degradation]] and land use, livestock, agricultural soils and water, and wastewater. China is the largest contributor of greenhouse gas, causing up 30% of the total emissions. The United States contributes 15%, followed by the EU with 9%, then India with 7%, Russia with 5%, Japan with 4%, and other miscellaneous countries making up the remaining 30%.<ref>{{Cite web|url=https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data|title=Global Greenhouse Gas Emissions Data {{!}} US EPA|last=EPA, OA|first=US|website=US EPA|language=en|access-date=2017-11-03|date=2016-01-12}}</ref>
+
+Although carbon dioxide (CO<sub>2</sub>) is the most prevalent gas, it is not the most damaging. Carbon dioxide is essential to life because animals release it during [[cellular respiration]] when they breathe and plants use it for [[photosynthesis]]. Carbon dioxide is released naturally by decomposition, ocean release and respiration. Humans contribute an increase of carbon dioxide emissions by burning fossil fuels, deforestation, and cement production.{{Citation needed|date=December 2017}}
+
+Methane (CH<sub>4</sub>) is largely released by coal, oil, and natural gas industries. Although methane is not mass-produced like carbon dioxide, it is still very prevalent. Methane is more harmful than carbon dioxide because it traps heat better than CO<sub>2</sub>. Methane is a main component in natural gas. Recently industries as well as consumers have been using natural gas because they believe that it is better for the environment since it contains less CO<sub>2</sub>. However, this is not the case because methane is actually more harmful to the environment.<ref>{{Cite journal|last=Howarth|first=Robert W.|date=2014-06-01|title=A bridge to nowhere: methane emissions and the greenhouse gas footprint of natural gas|journal=Energy Science & Engineering|language=en|volume=2|issue=2|pages=47–60|doi=10.1002/ese3.35|issn=2050-0505|doi-access=free}}</ref>
+
+Nitrous oxide (N<sub>2</sub>O) is released by fuel combustion, most of which comes from coal fired power plants, agricultural and industrial activities.
+
+Fluorinated gases include hydroflucarbons (HFCs), [[perfluorocarbons]] (PFCs), [[sulfur hexafluoride]] (SF<sub>6</sub>), and [[nitrogen trifluoride]] (NF<sub>3</sub>). These gases have no natural source and are solely products of human activity.  The biggest cause of these sources is the usage of ozone depleting substances; such as [[refrigerant]]s, [[aerosol]], [[propellant]]s, foam blowing agents, solvents, and [[fire retardant]]s.<ref name=":0" />
+
+The production of all of these gases contributes to one's GHG footprint. The more that these gases are produced, the higher the GHG footprint.
+
+== Rise in greenhouse gas over time ==
+[[File:World fossil carbon dioxide emissions six top countries and confederations.png|thumb|261x261px|Global annual greenhouse gas emissions (CO<sup>2</sup>) from fossil energy sources, over time for the six top emitting countries and confederations]]
+Since the Industrial Revolution, greenhouse gas emissions have increased immensely. As of 2017, the carbon dioxide (CO<sub>2</sub>) levels are 142%, of what they were pre-industrial revolution. Methane is up 253% and nitrous oxide is 121% of pre-industrial levels. The energy driven consumption of fossil fuels has made GHG emissions rapidly increase, causing the Earth's temperature to rise. In the past 250 years, human activity such as, burning fossil fuels and cutting down carbon-absorbing forests, have contributed greatly to this increase. In the last 25 years alone, emissions have increased by more than 33%, most of which comes from carbon dioxide, accounting for three-fourths of this increase.<ref>{{Cite web|url=https://earthobservatory.nasa.gov/Features/GlobalWarming/page2.php|title=Global Warming : Feature Articles|last=Holli|first=Riebeek|date=2010-06-03|website=earthobservatory.nasa.gov|language=en|access-date=2017-11-03}}</ref><ref>{{Cite news|url=https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions/#the-long-run-history-cumulative-co2|title=CO₂ and other Greenhouse Gas Emissions|work=Our World in Data|access-date=2017-11-03|language=en-US}}</ref><ref>{{Cite news|url=https://www.theguardian.com/environment/2014/sep/09/carbon-dioxide-emissions-greenhouse-gases|title=Greenhouse gas emissions rise at fastest rate for 30 years|last=Association|first=Press|date=2014-09-09|work=The Guardian|access-date=2017-11-03|language=en-GB|issn=0261-3077}}</ref>
+
+== Lifespan of greenhouse gases ==
+Different GHGs last different amounts of time in the atmosphere. For example, fluorinated gases can last from a few weeks to a few thousand years in the atmosphere, whereas nitrous oxide can last for over a century. However, methane is somewhere in the middle, lasting a little over a decade. Carbon dioxide's lifespan cannot be calculated exactly because it does not disappear, but is either used by plants or absorbed by the ocean. There is a possibility that some greenhouse gases have been in the atmosphere since the beginning of the twentieth century, when the first signs of an increase of these gases arose.<ref>{{Cite web|url=https://www.epa.gov/climate-indicators/greenhouse-gases|title=Climate Change Indicators: Greenhouse Gases {{!}} US EPA|last=EPA, OA|first=US|website=US EPA|language=en|access-date=2017-11-08|date=2015-12-16}}</ref>
+
+== Solutions ==
+=== How to reduce GHGs ===
+
+==== Reduction of carbon dioxide ====
+In order to decrease CO<sub>2</sub> emissions, the reliance of fossil fuels must be lowered. These fuels produce much CO<sub>2</sub> across all forms of their usage. Alternatively, [[Renewable resource|renewable sources]] are cleaner for the environment. Capturing CO<sub>2</sub> from power plants will also reduce emissions.<ref name=":0" />
+
+Household energy conservation measures include increasing insulation in construction, using fuel-efficient vehicles and [[Energy Star|ENERGY STAR]] appliances, and unplugging electrical items when not in use.
+
+==== Reduction of methane ====
+Reducing methane emissions can be accomplished in several ways. Capturing CH<sub>4</sub> emissions from coal mines and landfills, are two ways of reducing these emissions. Manure management and livestock operations is another possible solution. Motor vehicles use fossil fuels, which produces CO2, but fossil fuels also produce CH4 as a byproduct. Thus, better technology for these vehicles to avoid leakage would be very beneficial.<ref name=":0" />
+
+==== Reduction of nitrous oxide ====
+Nitrous oxide (N<sub>2</sub>O) is often given off as a byproduct in various ways. [[Nylon]] production and fossil fuel usage are two ways that N<sub>2</sub>O is given off as a byproduct. Thus, improving technology for nylon production and the gathering of fossil fuels would greatly reduce nitrous oxide emissions. Also, many fertilizers have a [[nitrogenous base]]. A decrease in usage of these fertilizers, or changing their components, are more ways to reduce N<sub>2</sub>O emissions.<ref name=":0" />
+
+==== Reduction of fluorinated gases ====
+Although fluorinated gases are not produced on a massive scale, they have the worst effect on the environment. A reduction of fluorinated gas emissions can be done in many ways. Many industries that emit these gases can capture or recycle them. These same industries can also invest in more advanced technology that will not produce these gases. A reduction of leakage within [[Electrical grid|power grids]] and motor vehicles will also decrease the emissions of fluorinated gases. There are also many air conditioning systems that emit fluorinated gases, thus an update in technology would decrease these emissions.<ref name=":0" />
+
+=== Everyday life changes ===
+There are many simple changes that can be made to the everyday lifestyle of a person that would reduce their GHG footprint. Reducing energy consumption within a household can include lowering one's dependence on air conditioning and heating, using [[Compact fluorescent lamp|CFL light bulbs]], choosing ENERGY STAR appliances, recycling, using cold water to wash clothes, and avoiding a dryer. Another adjustment would be to use a motor vehicle that is fuel-efficient as well as reducing reliance on motor vehicles. Motor vehicles produce many GHGs, thus an adjustment to one's usage will greatly affect a GHG footprint.<ref name=":1" />
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist}}
+* Association, Press (2014-09-09). "Greenhouse gas emissions rise at fastest rate for 30 years". The Guardian. [[International Standard Serial Number|ISSN]] 0261-3077. Retrieved 2017-11-03.  
+* Climate change 2014. (2015). Retrieved from INTERGOVERNMENTAL PANEL website: <nowiki>http://www.ipcc.ch/pdf/assessment-report/ar5/syr/SYR_AR5_FINAL_full_wcover.pdf</nowiki> 
+* "CO₂ and other Greenhouse Gas Emissions". Our World in Data. Retrieved 2017-11-03.
+* Division, US EPA, Office of Air and Radiation, Office of Atmospheric Programs, Climate Change. "Household Carbon Footprint Calculator". www3.epa.gov. Retrieved 2017-11-01
+* EPA, OA, US. "Climate Change Indicators: Greenhouse Gases | US EPA". US EPA. Retrieved 2017-11-08
+* EPA, OA, US. "Global Greenhouse Gas Emissions Data | US EPA". US EPA. Retrieved 2017-11-03.
+* EPA, OA, US. "Overview of Greenhouse Gases | US EPA". US EPA. Retrieved 2017-11-01
+* Holli, Riebeek, (2010-06-03). "Global Warming : Feature Articles". earthobservatory.nasa.gov. Retrieved 2017-11-03.
+* Howarth, Robert W. (2014-06-01). "A bridge to nowhere: methane emissions and the greenhouse gas footprint of natural gas". Energy Science & Engineering. 2 (2): 47–60. [[Digital object identifier|doi]]:10.1002/ese3.35. [[International Standard Serial Number|ISSN]] 2050-0505
+* Snyder, C. S.; Bruulsema, T. W.; Jensen, T. L.; Fixen, P. E. (2009-10-01). "Review of greenhouse gas emissions from crop production systems and fertilizer management effects". Agriculture, Ecosystems & Environment. Reactive nitrogen in agroecosystems: Integration with greenhouse gas interactions. 133 (3): 247–266. [[Digital object identifier|doi]]:10.1016/j.agee.2009.04.021..
+* "The Carbon Dioxide Greenhouse Effect". history.aip.org. Retrieved 2017-11-01.
+* 15 sources of greenhouse gases - About us | Allianz". www.allianz.com. Retrieved 2017-11-03.
+
+== See also ==
+{{overly detailed|section|date=June 2020}}
+{{portal|Science}}
+{{div col|colwidth=20em}}
+*[[Carbon intensity]]
+*[[Carbon literacy]]
+*[[Ecological footprint]]
+*[[Environmental impact of aviation]]
+*[[Food miles]]
+*[[Global warming]]
+*[[Land footprint]]
+*[[Life cycle assessment]]
+*[[List of countries by greenhouse gas emissions per capita]]
+*[[Low carbon diet]]
+*[[Telecommuting]]
+*[[Veganism]]
+*[[Water footprint]]
+{{div col end}}
+
+==External links==
+* [http://www.ghgprotocol.org/ The GHG Protocol]
+<!-- ==============================({{NoMoreLinks}})============================== -->
+<!-- DO NOT ADD MORE LINKS TO THIS ARTICLE. WIKIPEDIA IS NOT A COLLECTION OF LINKS -->
+<!-- If you think that your link might be useful,  instead of placing it here, put -->
+<!-- it on this article's discussion page first. Links that have not been verified -->
+<!--                                WILL BE DELETED                                -->
+<!-- ============================================================================= -->
+{{wikinews|New words added to Webster's dictionary}}
+{{Sisterlinks}}
+{{Curlie|/Science/Environment/Carbon_Cycle/Carbon_Management/|Carbon Management}}
+
+{{Use dmy dates|date=May 2017}}
+{{Sustainability}}
+{{Global warming}}
+{{Population}}
+{{Authority control}}
+
+[[Category:Environmental impact of the energy industry]]
+[[Category:Economic indicators]]
+[[Category:Environmental indices]]
+[[Category:Articles containing video clips]]
+[[Category:Greenhouse gas emissions]]

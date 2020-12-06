@@ -1,0 +1,68 @@
+{{Infobox SCOTUS case
+  |Litigants=Hodgson v. Minnesota
+  |ArgueDate=November 29
+  |ArgueYear=1989
+  |DecideDate=June 25
+  |DecideYear=1990
+  |FullName=Jane Elizabeth Hodgson, et al. v. Minnesota, et al.
+  |USVol=497
+  |USPage=417
+  |ParallelCitations=110 S. Ct. 2926; 111 [[L. Ed. 2d]] 344; 1990 [[U.S. LEXIS]] 3303; 58 U.S.L.W. 4957
+  |Prior=Certiorari to the United States Court of Appeals for the Eighth Circuit
+  |Subsequent=
+  |Holding=With respect to the planned abortion of a juvenile:<br/>(1) It is unconstitutional to require a notification to both parents, whether or not both wanted to know or had taken responsibility for raising the child.<br/>(2) It is constitutional to require a notification to one parent if there is a possible judicial bypass when the young woman could maturely demonstrate that notification would be unwise.<br/>(3) It is constitutional to impose a 48-hour waiting period.
+  |Majority=Stevens (parts I, II, IV, VII)
+  |JoinMajority=Brennan, Marshall, Blackmun, O'Connor
+  |Concurrence=Stevens (part III)
+  |JoinConcurrence=Brennan
+  |Concurrence2=Stevens (parts V, VI)
+  |JoinConcurrence2=O'Connor
+  |Dissent = Stevens (part VIII)
+  |Concurrence3=O'Connor
+  |Concurrence/Dissent=Marshall
+  |JoinConcurrence/Dissent=Brennan, Blackmun
+  |Concurrence/Dissent2=Scalia
+  |Concurrence/Dissent3=Kennedy
+  |JoinConcurrence/Dissent3=Rehnquist, White, Scalia
+  |LawsApplied=[[Fourteenth Amendment to the United States Constitution|U.S. Const. amend. XIV]]; Minn. Stat. §§ 144.343(2)-(7)
+}}
+'''''Hodgson v. Minnesota''''', 497 U.S. 417 (1990), was a [[Supreme Court of the United States|United States Supreme Court]] [[abortion]] rights case that dealt with whether a [[State law (United States)|state law]] may require notification of both parents before a minor can obtain an abortion. The law in question provided a judicial alternative.
+
+==Background==
+The case concerned a Minnesota law. The law required notice to both parents of a minor before she could undergo an abortion; it also contained a judicial bypass provision designed to take effect only if a court found one to be necessary.<ref name=Greenhouse>{{citation | author = Greenhouse, Linda | authorlink = Linda Greenhouse | title = Becoming Justice Blackmun | publisher = Times Books | year = 2005 | pages = 196–197}}</ref> [[Jane Elizabeth Hodgson|Dr. Jane Hodgson]], a Minneapolis gynecologist, challenged the law. The Eighth Circuit had ruled that the law would be unconstitutional without a judicial bypass, but that the bypass provision saved it.<ref name=Greenhouse/>
+
+==Opinion of the Court==
+While [[John Paul Stevens|Justice Stevens]] delivered a majority opinion for one of the holdings, there were five votes for each of two holdings, with [[Sandra Day O'Connor|Justice O'Connor]] proving as the decisive vote for each.<ref name=Greenhouse/> Justices Stevens, Brennan, Marshall, Blackmun and O'Connor formed a majority holding that the two-parent notice requirement by itself was unconstitutional.<ref name=Greenhouse/> Justice O'Connor believed that the two-parent requirement entailed risk to a pregnant teenager; she also argued that the rule failed to meet even the lowest standard of judicial review, a rationality standard.<ref name=Greenhouse/> She joined the Court's more conservative Justices (Chief Justice Rehnquist and Justices White, Scalia and Kennedy), to form a majority for the law being valid with the judicial bypass; [[Justice Kennedy]] had pointed out the usefulness of the bypass procedure, as judges granted all but a handful of requests to authorize abortions without parental notice.<ref name=Greenhouse/>
+
+The ruling struck down the two-parent notification requirement, the majority citing an APA brief asserting that one-parent families are common in that state and that within the state, a minor often only needs one parent's permission for certain health needs; the rest of the statute, though, was voted constitutional because of its allowance for judicial bypass.
+
+This case involved the first restriction on abortion that Justice O'Connor voted to strike down.<ref name=Greenhouse/>
+
+==See also==
+* [[List of United States Supreme Court cases, volume 497]]
+* [[List of United States Supreme Court cases]]
+* [[Lists of United States Supreme Court cases by volume]]
+* [[List of United States Supreme Court cases by the Rehnquist Court]]
+
+== References ==
+{{reflist|2}}
+
+==External links==
+*{{caselaw source
+ | case=''Hodgson v. Minnesota'', {{ussc|497|417|1990|el=no}}
+ | findlaw=https://caselaw.findlaw.com/us-supreme-court/497/417.html
+ | justia=https://supreme.justia.com/cases/federal/us/497/417/
+ | loc =http://cdn.loc.gov/service/ll/usrep/usrep497/usrep497417/usrep497417.pdf
+ | oyez =https://www.oyez.org/cases/1989/88-1125
+ }}
+
+{{US14thAmendment|Due Process}}
+
+[[Category:United States abortion case law]]
+[[Category:Right to abortion under the United States Constitution]]
+[[Category:United States Supreme Court cases]]
+[[Category:United States Supreme Court cases of the Rehnquist Court]]
+[[Category:1990 in United States case law]]
+[[Category:American Civil Liberties Union litigation]]
+[[Category:United States privacy case law]]
+[[Category:Right to privacy under the United States Constitution]]

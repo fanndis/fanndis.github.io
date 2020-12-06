@@ -1,0 +1,144 @@
+{{short description|Application of computer graphics to create or contribute to images}}
+{{redirect|Computer imagery|other uses|CGI (disambiguation)}}
+
+{{3D computer graphics}}
+[[File:Morphogenic digital art exhibition by Andy Lomas at Watermans Arts Centre, London.jpg|thumb|''[[Morphogenetic]] Creations'' computer-generated [[digital art]] exhibition by [[Andy Lomas]] at [[Watermans Arts Centre]], west [[London]], in 2016.]]
+
+'''Computer-generated imagery''' ('''CGI''') is the application of [[computer graphics]] to create or contribute to images in [[Digital art|art]], printed media, [[video games]], films, [[television programs]], shorts, commercials, videos, and [[Training simulation|simulators]]. The images may be dynamic or static, and may be two-dimensional (2D), although the term "CGI" is most commonly used to refer to the [[3-D computer graphics]] used for creating characters, scenes and special effects in films and television, which is described as 'CGI animation'. It was first used in the 1988 film ''[[Willow (film)|Willow]]''.<ref>Hearn, Marcus (2005). ''The Cinema of George Lucas''. New York City: Harry N. Abrams, Inc. p. 156. {{ISBN|0-8109-4968-7}}.</ref>
+
+The evolution of CGI led to the emergence of [[virtual cinematography]] in the 1990s where the vision of the [[Computer simulation|simulated]] [[camera]] is not constrained by the laws of physics. Films and video games benefit from this aspect of CGI due to its ability to immediately manipulate scenes and environments.<ref name=":0">{{Cite web|title=Computer-generated imagery|url=https://www.sciencedaily.com/terms/computer-generated_imagery.htm|access-date=2020-11-21|website=ScienceDaily|language=en}}</ref> Populating a scene or manipulating the appearance of real-life objects are only some of the ways live-action films benefit from CGI.<ref>{{Cite web|date=2020-11-19|title=What's The Difference Between CGI and 3D Animation?|url=https://narrasoft.com/whats-the-difference-between-cgi-and-3d-animation/|access-date=2020-11-21|website=NarraSoft|language=en-US}}</ref>
+
+Availability of CGI software and increased computer speeds have allowed individual artists and small companies to produce professional-grade films, games, and fine art from their home computers.<ref name=":0" /> 
+
+==Static images and landscapes==
+{{See also|Fractal landscape|Scenery generator}}
+[[File:FractalLandscape.jpg|thumb|[[Fractal landscape]].]] 
+Not only do animated images form part of computer-generated imagery, natural looking landscapes (such as [[fractal landscapes]]) are also generated via computer [[algorithms]]. A simple way to generate fractal surfaces is to use an extension of the [[Polygon mesh|triangular mesh]] method, relying on the construction of some special case of a [[de Rham curve]], e.g. [[midpoint displacement]].{{sfn|Peitgen|2004|pp=462–466}} For instance, the algorithm may start with a large triangle, then recursively zoom in by dividing it into four smaller [[Sierpinski triangle]]s, then interpolate the height of each point from its nearest neighbors.{{sfn|Peitgen|2004|pp=462–466}} The creation of a [[Brownian surface]] may be achieved not only by adding noise as new nodes are created but by adding additional noise at multiple levels of the mesh.{{sfn|Peitgen|2004|pp=462–466}} Thus a [[topographical]] map with varying levels of height can be created using relatively straightforward fractal algorithms. Some typical, easy-to-program fractals used in CGI are the ''plasma fractal'' and the more dramatic ''fault fractal''.<ref>''Game programming gems 2'' by Mark A. DeLoura 2001 {{ISBN|1-58450-054-9}} page 240 [https://books.google.com/books?id=1-NfBElV97IC&pg=PA239&dq=fractal+landscape&hl=en&ei=EvPyTNPwKcv3sgbAp434Cg&sa=X&oi=book_result&ct=result&resnum=10&ved=0CGAQ6AEwCQ#v=onepage&q=fractal%20landscape&f=false]</ref>
+
+Many specific techniques been researched and developed to produce highly focused computer-generated effects — e.g., the use of specific models to represent the chemical weathering of stones to model erosion and produce an "aged appearance" for a given stone-based surface.<ref>''Digital modeling of material appearance'' by [[Julie Dorsey]], [[Holly Rushmeier]], François X. Sillion 2007 {{ISBN|0-12-221181-2}} page 217</ref>
+
+==Architectural scenes==
+[[File:Lone House.jpg|thumb|A computer-generated image featuring a house at sunset, made in [[Blender (software)|Blender]].]]
+
+Modern architects use services from computer graphic firms to create 3-dimensional models for both customers and builders. These computer generated models can be more accurate than traditional drawings. [[Architectural animation]] (which provides animated movies of buildings, rather than interactive images) can also be used to see the possible relationship a building will have in relation to the environment and its surrounding buildings. The rendering of architectural spaces without the use of paper and pencil tools is now a widely accepted practice with a number of computer-assisted architectural design systems.{{sfn|Sondermann|2008|pages=8–15}}
+
+Architectural modeling tools allow an architect to visualize a space and perform "walk-throughs" in an interactive manner, thus providing "interactive environments" both at the urban and building levels.<ref>''Interactive environments with open-source software: 3D walkthroughs'' by Wolfgang Höhl, Wolfgang Höhl 2008 {{ISBN|3-211-79169-8}} pages 24-29</ref> Specific applications in architecture not only include the specification of building structures (such as walls and windows) and walk-throughs but the effects of light and how sunlight will affect a specific design at different times of the day.<ref>''Advances in Computer and Information Sciences and Engineering'' by Tarek Sobh 2008 {{ISBN|1-4020-8740-3}} pages 136-139</ref>
+
+Architectural modeling tools have now become increasingly internet-based. However, the quality of internet-based systems still lags behind that of sophisticated in-house modeling systems.<ref>''Encyclopedia of Multimedia Technology and Networking, Volume 1'' by Margherita Pagani 2005 {{ISBN|1-59140-561-0}} page 1027</ref>
+
+In some applications, computer-generated images are used to "reverse engineer" historical buildings. For instance, a computer-generated reconstruction of the monastery at [[Georgenthal]] in Germany was derived from the ruins of the monastery, yet provides the viewer with a "look and feel" of what the building would have looked like in its day.<ref>''Interac storytelling: First Joint International Conference'' by Ulrike Spierling, Nicolas Szilas 2008 {{ISBN|3-540-89424-1}} pages 114-118</ref>
+
+==Anatomical models==
+{{see also|Medical imaging|Visible Human Project|Google Body|Living Human Project}}
+[[File:SADDLE PE.JPG|thumb|A [[CT pulmonary angiogram]] image generated by a computer from a collection of [[x-ray]]s.]]
+
+Computer generated models used in [[skeletal animation]] are not always anatomically correct. However, organizations such as the [[Scientific Computing and Imaging Institute]] have developed anatomically correct computer-based models. Computer generated anatomical models can be used both for instructional and operational purposes. To date, a large body of artist produced [[Medical imaging|medical image]]s continue to be used by medical students, such as images by [[Frank H. Netter]], e.g. [http://www.netterimages.com/image/671.htm Cardiac images]. However, a number of online anatomical models are becoming available.
+
+A single patient [[X-ray]] is not a computer generated image, even if digitized. However, in applications which involve [[CT scan]]s a three-dimensional model is automatically produced from many single-slice x-rays, producing "computer generated image". Applications involving [[magnetic resonance imaging]] also bring together a number of "snapshots" (in this case via magnetic pulses) to produce a composite, internal image.
+
+In modern medical applications, patient-specific models are constructed in 'computer assisted surgery'. For instance, in total [[knee replacement]], the construction of a detailed patient-specific model can be used to carefully plan the surgery.<ref>''Total Knee Arthroplasty'' by Johan Bellemans, Michael D. Ries, Jan M.K. Victor 2005 {{ISBN|3-540-20242-0}} pages 241-245</ref> These three-dimensional models are usually extracted from multiple [[CT scan]]s of the appropriate parts of the patient's own anatomy. Such models can also be used for planning [[aortic valve]] implantations, one of the common procedures for treating [[heart disease]]. Given that the shape, diameter, and position of the [[Coronary circulation|coronary]] openings can vary greatly from patient to patient, the extraction (from [[CT scan]]s) of a model that closely resembles a patient's valve anatomy can be highly beneficial in planning the procedure.<ref>I. Waechter et al. ''Patient Specific Models for Minimally Invasive Aortic Valve Implantation'' in ''[[Medical Image Computing]] and Computer-Assisted Intervention -- MICCAI 2010'' edited by Tianzi Jiang, 2010 {{ISBN|3-642-15704-1}} pages 526-560</ref>
+
+==Cloth and skin images==
+[[File:Wet Fur - CGI.jpg|thumb|Computer-generated wet fur.]]
+
+[[Cloth modeling|Models of cloth]] generally fall into three groups:
+*The geometric-mechanical structure at [[yarn]] crossing
+*The mechanics of continuous elastic sheets
+*The geometric macroscopic features of cloth.<ref>''Cloth modeling and animation'' by Donald House, David E. Breen 2000 {{ISBN|1-56881-090-3}} page 20</ref> 
+To date, making the clothing of a digital character automatically fold in a natural way remains a challenge for many animators.<ref>''Film and photography'' by Ian Graham 2003 {{ISBN|0-237-52626-3}} page 21</ref>
+
+In addition to their use in film, advertising and other modes of public display, computer generated images of clothing are now routinely used by top fashion design firms.<ref>''Designing clothes: culture and organization of the fashion industry'' by Veronica Manlow 2007 {{ISBN|0-7658-0398-4}} page 213</ref>
+
+The challenge in rendering [[human skin]] images involves three levels of realism:
+*'''Photo realism''' in resembling real skin at the static level
+*'''Physical realism''' in resembling its movements
+*'''Function realism''' in resembling its response to actions.<ref>''Handbook of Virtual Humans'' by Nadia Magnenat-Thalmann and Daniel Thalmann, 2004 {{ISBN|0-470-02316-3}} pages 353-370</ref> 
+The finest visible features such as fine [[wrinkle]]s and [[skin]] [[Sweat gland|pore]]s are the size of about 100 [[micrometre|µm]] or 0.1 [[millimetre]]s. Skin can be modeled as a 7-[[dimension]]al [[bidirectional texture function]] (BTF) or a collection of [[bidirectional scattering distribution function]] (BSDF) over the target's surfaces.
+
+==Interactive simulation and visualization==
+{{Main|Interactive visualization}}
+
+Interactive visualization is the rendering of data that may vary dynamically and allowing a user to view the data from multiple perspectives. The applications areas may vary significantly, ranging from the visualization of the flow patterns in [[fluid dynamics]] to specific [[computer aided design]] applications.<ref>''Mathematical optimization in computer graphics and vision'' by Luiz Velho, Paulo Cezar Pinto Carvalho 2008 {{ISBN|0-12-715951-7}} page 177</ref> The data rendered may correspond to specific visual scenes that change as the user interacts with the system — e.g. simulators, such as [[flight simulator]]s, make extensive use of CGI techniques for representing the world.<ref name=Weiskopf >''GPU-based interactive visualization techniques'' by Daniel Weiskopf 2006 {{ISBN|3-540-33262-6}} pages 1-8</ref>
+
+At the abstract level, an interactive visualization process involves a "data pipeline" in which the raw data is managed and filtered to a form that makes it suitable for rendering. This is often called the '''"visualization data"'''. The visualization data is then mapped to a "visualization representation" that can be fed to a rendering system. This is usually called a '''"renderable representation"'''. This representation is then rendered as a displayable image.<ref name=Weiskopf /> As the user interacts with the system (e.g. by using joystick controls to change their position within the virtual world) the raw data is fed through the pipeline to create a new rendered image, often making real-time computational efficiency a key consideration in such applications.<ref name=Weiskopf /><ref>''Trends in interactive visualization'' by Elena van Zudilova-Seinstra, Tony Adriaansen, Robert Liere 2008 {{ISBN|1-84800-268-8}} pages 1-7</ref> The term [[virtual world]] refers to [[Agent-based model|agent-based]], interactive environments, which are created with CGI. 
+
+==Computer animation==
+{{Main|Computer animation}}
+{{see also|History of computer animation}}
+[[File:Machinima sample reindeer full size.ogg|thumb|right|[[Machinima]] films are, by nature, CGI films]]
+While computer-generated images of landscapes may be static, ''[[computer animation]]'' only applies to dynamic images that resemble a movie. However, in general, the term computer animation refers to dynamic images that do not allow user interaction, and the term [[virtual world]] is used for the interactive animated environments.
+
+Computer animation is essentially a digital successor to the art of [[stop motion]] animation of 3D models and frame-by-frame animation of 2D illustrations. Computer generated animations are more controllable than other more physically based processes, such as constructing [[Miniature effect|miniatures]] for effects shots or hiring [[extra (drama)|extras]] for crowd scenes, and because it allows the creation of images that would not be feasible using any other technology. It can also allow a single graphic artist to produce such content without the use of actors, expensive set pieces, or props.
+
+To create the illusion of movement, an image is displayed on the [[computer display|computer screen]] and repeatedly replaced by a new image which is similar to the previous image, but advanced slightly in the time domain (usually at a rate of 24 or 30 frames/second). This technique is identical to how the illusion of movement is achieved with [[television]] and [[film|motion pictures]].
+
+==Virtual worlds==
+{{Main|Virtual world}}
+[[File:Yellow Submarine Second Life.png|thumb|left|A yellow [[submarine]] in ''[[Second Life]]''.]]
+[[File:Metallic balls.png|thumb|Metallic balls.]]
+
+A virtual world is a [[computer simulation|simulated environment]], which allows the user to interact with animated characters, or interact with other users through the use of animated characters known as [[avatar (computing)|avatars]]. Virtual worlds are intended for its [[user (computing)|users]] to inhabit and interact, and the term today has become largely synonymous with interactive 3D virtual environments, where the users take the form of [[Avatar (computing)|avatar]]s visible to others graphically.<ref>Cook, A.D. (2009). A case study of the manifestations and significance of social presence in a multi-user virtual environment. MEd Thesis. Available [http://library2.usask.ca/theses/available/etd-09102009-012757/ online]</ref> These avatars are usually depicted as textual, two-dimensional, or [[3D computer graphics|three-dimensional graphical]] representations, although other forms are possible{{sfn|Biocca|Levy|1995|pp=40–44}} (auditory{{sfn|Begault|1994|p=212}} and touch sensations for example). Some, but not all, virtual worlds allow for multiple users.
+
+==In courtrooms==
+Computer-generated imagery has been used in courtrooms, primarily since the early 2000s. However, some experts have argued that it is prejudicial. They are used to help judges or the jury to better visualize the sequence of events, evidence or hypothesis.<ref>[https://theconversation.com/computer-generated-images-influence-trial-results-19734 Computer-generated images influence trial results] The Conversation, 31 October 2013</ref> However, a 1997 study showed that people are poor intuitive physicists and easily influenced by computer generated images.<ref name=Kassin>{{cite journal |year=1997 |last1=Kassin |first1=S. M. |title=Computer-animated Display and the Jury: Facilitative and Prejudicial Effects |volume=40 |issue=3 |pages=269–281 |journal=Law and Human Behavior |doi=10.1023/a:1024838715221}} [http://web.williams.edu/Psychology/Faculty/Kassin/files/kassin_dunn_1997.pdf]</ref> Thus it is important that jurors and other legal decision-makers be made aware that such exhibits are merely a representation of one potential sequence of events.
+
+== Motion capture ==
+{{Main article|Motion Capture}}
+Computer-generated imagery is often used in conjunction with [[motion capture]] to better cover the faults that come with CGI and animation. Computer-generated imagery is limited in its practical application by how realistic it can look. Unrealistic, or badly managed computer-generated imagery can result in the [[Uncanny valley|Uncanny Valley]] effect.<ref>{{Cite journal|last=Palomäki|first=Jussi|last2=Kunnari|first2=Anton|last3=Drosinou|first3=Marianna|last4=Koverola|first4=Mika|last5=Lehtonen|first5=Noora|last6=Halonen|first6=Juho|last7=Repo|first7=Marko|last8=Laakasuo|first8=Michael|date=2018-11-01|title=Evaluating the replicability of the uncanny valley effect|journal=Heliyon|volume=4|issue=11|pages=e00939|doi=10.1016/j.heliyon.2018.e00939|pmid=30519654|issn=2405-8440|doi-access=free}}</ref> This effect refers to the human ability to recognize things that look eerily like humans, but are slightly off. Such ability is a fault with normal computer-generated imagery which, due to the complex anatomy of the human body, can often fail to replicate it perfectly. This is where motion capture comes into play. Artists can use a motion capture rig to get footage of a human performing an action and then replicate it perfectly with computer-generated imagery so that it looks normal.
+
+The lack of anatomically correct digital models contributes to the necessity of motion capture as it is used with computer-generated imagery. Because computer-generated imagery reflects only the outside, or skin, of the object being rendered, it fails to capture the infinitesimally small interactions between interlocking muscle groups used in fine motor control, like speaking. The constant motion of the face as it makes sounds with shaped lips and tongue movement, along with the facial expressions that go along with speaking are difficult to replicate by hand.<ref>{{Cite journal|last=Pelachaud|first=Catherine|authorlink= Catherine Pelachaud |last2=Steedman|first2=Mark|last3=Badler|first3=Norman|date=1991-06-01|title=Linguistic Issues in Facial Animation|url=https://repository.upenn.edu/hms/69|journal=Center for Human Modeling and Simulation}}</ref> Motion capture can catch the underlying movement of facial muscles and better replicate the visual that goes along with the audio, like Josh Brolin's Thanos.
+
+==See also==
+
+{{columns-list|colwidth=22em|
+* [[3D modeling]]
+* [[Cinema Research Corporation]]  
+* [[Anime Studio]]
+* [[Animation database]]
+* [[List of computer-animated films]]
+* [[Digital image]]
+* [[Parallel rendering]]
+* [[Photoshop]] is the industry standard commercial digital photo editing tool. Its [[FOSS]] counterpart is [[GIMP]].
+* [[Poser]] DIY CGI optimized for soft models
+* [[Ray tracing (graphics)]]
+* [[Real-time computer graphics]]
+* [[Shader]]
+* [[Virtual actor|Virtual human]]
+* [[Virtual Physiological Human]]
+}}
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+{{refbegin}}
+* {{cite book |last = Begault |first = Durand R. |title = 3-D Sound for Virtual Reality and Multimedia |year = 1994 |publisher = AP Professional |ISBN = 978-0-1208-4735-8 |ref= harv }}
+* {{cite book |last1 = Biocca |first1 = Frank |last2 = Levy |first2 = Mark R. |title = Communication in the Age of Virtual Reality |year = 1995 |publisher = Lawrence Erlbaum Associates |ISBN = 978-0-8058-1549-8 |ref = harv }}
+* {{cite book |last1=Peitgen |first1=Heinz-Otto |last2=Jürgens |first2=Hartmut |last3=Saupe |first3 = Dietmar |title = Chaos and Fractals: New Frontiers of Science |year = 2004 |publisher = Springer Science & Business Media |ISBN = 978-0-387-20229-7 |ref = {{SfnRef|Peitgen|2004}} }}
+* {{cite book |last = Sondermann |first = Horst |title = Light Shadow Space: Architectural Rendering with Cinema 4D |year = 2008 |publisher = Springer |location = Vienna |ISBN = 978-3-211-48761-7 |ref = harv }}
+{{refend}}
+
+== External links ==
+{{Commons category}}
+{{Library resources box|by=no|onlinebooks=no|wikititle=computer-generated imagery}}
+* [https://web.archive.org/web/20160818194224/http://design.osu.edu/carlson/history/lessons.html A Critical History of Computer Graphics and Animation] &ndash; a course page at [[Ohio State University]] that includes all the course materials and extensive supplementary materials (videos, articles, links).
+* [http://www.cg101.com CG101: A Computer Graphics Industry Reference] {{ISBN|073570046X}} Unique and personal histories of early computer graphics production, plus a comprehensive foundation of the industry for all reading levels.
+* ''[https://www.wired.com/wired/archive/13.02/fxgods.html F/X Gods]'', by Anne Thompson, Wired, February 2005.
+* [http://news.bbc.co.uk/2/hi/programmes/click_online/4025541.stm "History Gets A Computer Graphics Make-Over"] Tayfun King, ''Click'', BBC World News (2004-11-19)
+* [https://www.nlm.nih.gov/research/visible/visible_gallery.html NIH Visible Human Gallery]
+
+{{-}}
+{{3D software}}
+{{Fractal software}}
+{{Unix–Windows interoperability}}
+{{Cinematic techniques}}
+{{Special effects}}
+{{Portal bar|Animation}}
+{{Digital art}}
+
+{{DEFAULTSORT:Computer-Generated Imagery}}
+[[Category:Visual effects]]
+[[Category:Special effects]]
+[[Category:Computer art|imagery]]
+[[Category:Articles containing video clips]]

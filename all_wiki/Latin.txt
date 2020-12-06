@@ -1,0 +1,869 @@
+{{short description|Indo-European language of the Italic family}}
+{{other uses|Latin (disambiguation)}}
+{{Use dmy dates|date=August 2020}}
+{{Infobox language
+| name             = Latin
+| nativename       = {{lang|la|lingua latīna}}
+| pronunciation    = {{IPA-la|laˈtiːna|}}
+| states           = {{ublist|[[Latium]] |[[Roman Kingdom]]{{\}}[[Roman Republic|Republic]]{{\}}[[Roman Empire|Empire]]}}
+| ethnicity        = [[Latins (Italic tribe)|Latins]]
+| era              = [[Vulgar Latin]] developed into the [[Romance languages]], 6th to 9th centuries; the formal language continued as the scholarly ''[[lingua franca]]'' of medieval Europe and [[Armenian Kingdom of Cilicia|Cilicia]], as well as the [[sacred language|liturgical language]] of the [[Catholic Church]].
+| familycolor      = Indo-European
+| fam2             = [[Italic languages|Italic]]
+| fam3             = [[Latino-Faliscan languages|Latino-Faliscan]]
+| script           = [[Latin alphabet]]&nbsp;<!--&nbsp; needed to prevent default link to Latin script-->
+| nation           = {{flag|Holy See}}
+| agency           = {{ublist|Antiquity: Roman schools of grammar/rhetoric<ref>{{cite encyclopedia |title=Schools |encyclopedia=Britannica |edition=1911}}</ref> |Today: [[Pontifical Academy for Latin]]}}
+| iso1             = la
+| iso2             = lat
+| iso3             = lat
+| glotto           = impe1234
+| glottorefname    = Imperial Latin
+| glotto2          = lati1261
+| glottorefname2   = Latin
+| lingua           = 51-AAB-aa to 51-AAB-ac
+| image            = Rome Colosseum inscription 2.jpg
+| imagecaption     = Latin inscription, in the [[Colosseum]] of [[Rome]], Italy
+| map              = Roman_Empire_Trajan_117AD.png
+| mapcaption       = Map indicating the greatest extent of the Roman Empire under Emperor [[Trajan]] ([[Circa|c.]] 117 AD) and the area governed by Latin speakers (dark red). Many languages other than Latin were spoken within the empire.
+| map2             = Romance_20c_en.png
+| mapcaption2      = Range of the Romance languages, the modern descendants of Latin, in Europe.
+| notice           = IPA
+}}
+'''Latin''' ({{lang|la|latīnum}}, {{IPA-la|laˈtiːnʊ̃|}} or {{lang|la|lingua latīna}}, {{IPA-la|ˈlɪŋɡʷa laˈtiːna|}}) is a [[classical language]] belonging to the [[Italic languages|Italic branch]] of the [[Indo-European languages]]. Latin was originally spoken in the area around Rome, known as [[Latium]].<ref>{{cite book |title=A companion to Latin studies |first=John Edwin |last=Sandys |location=Chicago |publisher=[[University of Chicago Press]] |year=1910 |pages=811–812}}</ref> Through the power of the [[Roman Republic]], it became the dominant language in Italy, and subsequently throughout the western [[Roman Empire]]. Latin has contributed [[List of Latin words with English derivatives|many words]] to the English language. In particular, Latin (and [[Ancient Greek]]) roots are used in English descriptions of theology, [[List of Latin and Greek words commonly used in systematic names|the sciences]], [[List of medical roots, suffixes and prefixes|medicine]], and [[List of Latin legal terms|law]]. It is the official language in the [[Holy See]] ([[Vatican City]]).
+
+By the late Roman Republic (75 BC), [[Old Latin]] had been standardised into [[Classical Latin]]. [[Vulgar Latin]] was the colloquial form spoken during the same time and attested in inscriptions and the works of comic playwrights like [[Plautus]] and [[Terence]]<ref>{{harvnb|Clark|1900|pp=1–3}}</ref> and author [[Petronius]]. [[Late Latin]] is the written language from the 3rd century; its colloquial form Vulgar Latin developed in the 6th to 9th centuries into the [[Romance languages]], such as [[Italian language|Italian]], [[Sardinian language|Sardinian]], [[Venetian language|Venetian]], [[Neapolitan language|Neapolitan]], [[Sicilian language|Sicilian]], [[Piedmontese language|Piedmontese]], [[Lombard language|Lombard]], [[French language|French]], [[Franco-Provençal language|Franco-Provençal]], [[Occitan language|Occitan]], [[Corsican language|Corsican]], [[Ladin language|Ladin]], [[Friulan language|Friulan]], [[Romansh language|Romansh]], [[Catalan language|Catalan]]/[[Valencian language|Valencian]], [[Aragonese language|Aragonese]], [[Spanish language|Spanish]], [[Asturian language|Asturian]], [[Galician language|Galician]], and [[Portuguese language|Portuguese]]. [[Medieval Latin]] was used as a literary language from the 9th century to the Renaissance which used [[Renaissance Latin]]. Later, Early Modern Latin and [[New Latin]] evolved. Latin was the language of international communication, scholarship and science until well into the 18th century, when vernaculars (including the [[Romance languages]]) supplanted it. [[Ecclesiastical Latin]] remains the official language of the [[Holy See]] and the [[Roman Rite]] of the [[Catholic Church]].
+
+Latin is a highly [[fusional language|inflected language]], with three distinct [[grammatical gender|genders]], six or seven [[grammatical case|noun cases]], five declensions, four [[grammatical conjugation|verb conjugations]], six [[grammatical tense|tenses]], three [[grammatical person|persons]], three [[grammatical mood|moods]], two [[voice (grammar)|voices]], two or three [[grammatical aspect|aspects]] and two [[grammatical number|numbers]]. The [[Latin alphabet]] is derived from the [[Etruscan alphabet|Etruscan]] and [[Greek alphabet]]s and ultimately from the [[Phoenician alphabet]].
+
+{{TOC limit}}
+
+==History==
+{{Main|History of Latin}}
+[[File:Linguistic Landscape of Central Italy.png|thumb|left|upright=1.5|The linguistic landscape of Central Italy at the beginning of Roman expansion]]
+
+A number of historical phases of the language have been recognized, each distinguished by subtle differences in vocabulary, usage, spelling, morphology, and syntax. There are no hard and fast rules of classification; different scholars emphasize different features. As a result, the list has variants, as well as alternative names.
+
+In addition to the historical phases, [[Ecclesiastical Latin]] refers to the styles used by the writers of the [[Roman Catholic Church]] from [[Late Antiquity]] onward, as well as by Protestant scholars.
+
+After the Western Roman Empire fell in 476 and Germanic kingdoms took its place, the [[Germanic people]] adopted Latin as a language more suitable for legal and other, more formal uses.{{citation needed|date=June 2014}}
+{{-}}
+
+===Old Latin===
+{{Main|Old Latin}}
+[[Image:Lapis-niger.jpg|thumb|right|The [[Lapis Niger]], probably the oldest extant Latin inscription, from Rome, c. 600 BC during the semi-legendary [[Roman Kingdom]]]]
+
+The earliest known form of Latin is Old Latin, which was spoken from the [[Roman Kingdom]] to the later part of the [[Roman Republic]] period. It is attested both in inscriptions and in some of the earliest extant Latin literary works, such as the comedies of [[Plautus]] and [[Terence]]. The [[Latin alphabet]] was devised from the [[Etruscan alphabet]]. The writing later changed from what was initially either a right-to-left or a [[boustrophedon]]<ref>{{harvnb|Diringer|1996|pp=533–4}}</ref><ref>{{Cite book|title = Collier's Encyclopedia: With Bibliography and Index|url = https://books.google.com/books?id=H9xLAQAAMAAJ|publisher = Collier|date = 1958-01-01|language = en|page = 412|quote = In Italy, all alphabets were originally written from right to left; the oldest Latin inscription, which appears on the lapis niger of the seventh century BC, is in bustrophedon, but all other early Latin inscriptions run from right to left.|access-date = 15 February 2016|archive-url = https://web.archive.org/web/20160421225204/https://books.google.com/books?id=H9xLAQAAMAAJ|archive-date = 21 April 2016|url-status = live}}</ref> script to what ultimately became a strictly left-to-right script.<ref>{{cite book |first=David |last=Sacks |year=2003 |title=Language Visible: Unraveling the Mystery of the Alphabet from A to Z |location=London |publisher=Broadway Books |page=[https://archive.org/details/languagevisibleu00sack/page/80 80] |isbn=978-0-7679-1172-6 |url=https://archive.org/details/languagevisibleu00sack/page/80 }}</ref>
+
+===Classical Latin===
+{{Main|Classical Latin}}
+During the late republic and into the first years of the empire, a new Classical Latin arose, a conscious creation of the orators, poets, historians and other [[literate]] men, who wrote the great works of [[classical literature]], which were taught in [[grammar]] and [[rhetoric]] schools. Today's instructional grammars trace their roots to such [[Roman school|schools]], which served as a sort of informal language academy dedicated to maintaining and perpetuating educated speech.<ref>{{cite book|page=3|title=From Latin to modern French with especial consideration of Anglo-Norman; phonology and morphology|first=Mildred K |last=Pope|authorlink=Mildred Pope|location=Manchester|publisher=Manchester university press|series=Publications of the University of Manchester, no. 229. French series, no. 6| year=1966}}</ref><ref>{{cite book|title=Source book of the history of education for the Greek and Roman period|first=Paul|last=Monroe|location=London, New York|publisher=[[Macmillan & Co.]]|year=1902|pages=346–352}}</ref>
+
+===Vulgar Latin===
+{{Main|Vulgar Latin|Late Latin|Romance languages}}
+
+Philological analysis of Archaic Latin works, such as those of [[Plautus]], which contain snippets of everyday speech, indicates that a spoken language, Vulgar Latin (termed {{lang|la|sermo vulgi}}, "the speech of the masses", by [[Cicero]]), existed concurrently with literate Classical Latin. The informal language was rarely written, so philologists have been left with only individual words and phrases cited by classical authors and those found as graffiti.<ref>{{harvnb|Herman|Wright|2000|pp=17–18}}</ref>
+As it was free to develop on its own, there is no reason to suppose that the speech was uniform either diachronically or geographically. On the contrary, romanised European populations developed their own dialects of the language, which eventually led to the differentiation of [[Romance languages]].<ref>{{harvnb|Herman|Wright|2000|p=8}}</ref> The [[decline of the Roman Empire]] meant a deterioration in educational standards that brought about Late Latin, a postclassical stage of the language seen in Christian writings of the time. It was more in line with everyday speech, not only because of a decline in education but also because of a desire to spread the word to the masses.{{citation needed|date=May 2017}}
+
+Despite dialectal variation, which is found in any widespread language, the languages of Spain, France, Portugal, and Italy retained a remarkable unity in phonological forms and developments, bolstered by the stabilising influence of their common [[Christians|Christian]] (Roman Catholic) culture. It was not until the [[Umayyad conquest of Hispania|Moorish conquest of Spain]] in 711, cutting off communications between the major Romance regions, that the languages began to diverge seriously.<ref>{{cite book |last1=Pei |first1=Mario |last2=Gaeng |first2=Paul A. |title=The story of Latin and the Romance languages |edition=1st |year=1976 |pages=[https://archive.org/details/storyoflatinroma0000peim/page/76 76–81] |location=New York |publisher=Harper & Row |isbn=978-0-06-013312-2 |url=https://archive.org/details/storyoflatinroma0000peim/page/76 }}</ref> The Vulgar Latin dialect that would later become [[Romanian language|Romanian]] diverged somewhat more from the other varieties, as it was largely separated from the unifying influences in the western part of the Empire.
+
+One key marker of whether a given Romance feature was found in Vulgar Latin is to compare it with its parallel in Classical Latin. If it was not preferred in Classical Latin, then it most likely came from the undocumented contemporaneous Vulgar Latin. For example, the Romance for "horse" (Italian {{lang|it|cavallo}}, French {{lang|fr|cheval}}, Spanish {{lang|es|caballo}}, Portuguese {{lang|pt|cavalo}} and Romanian {{lang|ro|cal}}) came from Latin {{lang|la|caballus}}. However, Classical Latin used {{lang|la|equus}}. Therefore, {{lang|la|caballus}} was most likely the spoken form.<ref>{{harvnb|Herman|Wright|2000|pp=1–3}}</ref>
+
+Vulgar Latin began to diverge into distinct languages by the 9th century at the latest, when the earliest extant Romance writings begin to appear. They were, throughout the period, confined to everyday speech, as Medieval Latin was used for writing.<ref name=":0">{{Cite web|url=https://www.ruf.rice.edu/~kemmer/Words04/structure/latin.html|title=History of Latin|last=Pulju|first=Timothy|website=Rice University|access-date=3 December 2019}}</ref><ref>{{Cite web|url=https://www.britannica.com/topic/Romance-languages/Latin-and-the-development-of-the-Romance-languages#ref74713|title=Romance Languages|last1=Posner|first1=Rebecca|last2=Sala|first2=Marius|date=1 August 2019|website=Encyclopædia Britannica|access-date=3 December 2019}}</ref>
+
+===Medieval Latin===
+{{Main|Medieval Latin}}
+[[File:Calligraphy.malmesbury.bible.arp.jpg|thumb|upright=1.13|The Latin Malmesbury [[Bible]] from 1407.]]
+Medieval Latin is the written Latin in use during that portion of the postclassical period when no corresponding Latin vernacular existed. The spoken language had developed into the various incipient Romance languages; however, in the educated and official world, Latin continued without its natural spoken base. Moreover, this Latin spread into lands that had never spoken Latin, such as the Germanic and Slavic nations. It became useful for international communication between the member states of the [[Holy Roman Empire]] and its allies.
+
+Without the institutions of the Roman empire that had supported its uniformity, medieval Latin lost its linguistic cohesion: for example, in classical Latin {{lang|la|sum}} and {{lang|la|eram}} are used as auxiliary verbs in the perfect and pluperfect passive, which are compound tenses. Medieval Latin might use {{lang|la|fui}} and {{lang|la|fueram}} instead.<ref name=thorley13-15>{{cite book|pages=13–15|title=Documents in medieval Latin|first=Moe|last=Elabani|location=Ann Arbor|publisher=University of Michigan Press|year=1998|isbn=978-0-472-08567-5}}</ref> Furthermore, the meanings of many words have been changed and new vocabularies have been introduced from the vernacular. Identifiable individual styles of classically incorrect Latin prevail.<ref name=thorley13-15/>
+
+===Renaissance Latin===
+{{Main|Renaissance Latin}}
+[[File:Incunabula distribution by language.png|thumb|Most 15th-century printed books ([[incunabula]]) were in Latin, with the [[vernacular language]]s playing only a secondary role.<ref name="ISTC">{{cite web |url=http://www.bl.uk/catalogues/istc/index.html |title=Incunabula Short Title Catalogue |publisher=[[British Library]] |accessdate=2 March 2011 |archive-url=https://web.archive.org/web/20110312185857/http://www.bl.uk/catalogues/istc/index.html |archive-date=12 March 2011 |url-status=live }}</ref>]]
+
+The [[Renaissance]] briefly reinforced the position of Latin as a spoken language by its adoption by the [[Renaissance Humanism|Renaissance Humanists]]. Often led by members of the clergy, they were shocked by the accelerated dismantling of the vestiges of the classical world and the rapid loss of its literature. They strove to preserve what they could and restore Latin to what it had been and introduced the practice of producing revised editions of the literary works that remained by comparing surviving manuscripts. By no later than the 15th century they had replaced Medieval Latin with versions supported by the scholars of the rising universities, who attempted, by scholarship, to discover what the classical language had been.<ref>{{Cite web|url=https://www.youtube.com/watch?v=GoQ6bJY4nbM|title=What is Latin? the history of this ancient language, and the proper way we might use it|last=Ranieri|first=Luke|date=3 March 2019|website=YouTube|access-date=3 December 2019}}</ref><ref name=":0" />
+
+===New Latin===
+{{main|New Latin}}
+During the Early Modern Age, Latin still was the most important language of culture in Europe. Therefore, until the end of the 17th century the majority of books and almost all diplomatic documents were written in Latin. Afterwards, most diplomatic documents were written in [[French language|French]] (a [[Romance language]]) and later native or other languages.
+
+===Contemporary Latin===
+{{Main|Contemporary Latin|Ecclesiastical Latin}}
+
+Despite having no native speakers, Latin is still used for a variety of purposes in the contemporary world.
+
+==== Religious use ====
+[[File:Wallsend platfom 2 02.jpg|thumb|The signs at [[Wallsend Metro station]] are in [[English language|English]] and Latin as a tribute to Wallsend's role as one of the outposts of the [[Roman Empire]].]]
+
+The largest organisation that retains Latin in official and quasi-official contexts is the [[Catholic Church]]. Latin remains the language of the [[Roman Rite]]; the [[Tridentine Mass]] is celebrated in Latin. Although the [[Mass of Paul VI]] is usually celebrated in the local [[vernacular language]], it can be and often is said in Latin, in part or in whole, especially at multilingual gatherings. It is the official language of the [[Holy See]], the primary language of its [[public journal]], the {{lang|la|[[Acta Apostolicae Sedis]]}}, and the working language of the [[Roman Rota]]. [[Vatican City]] is also home to the world's only [[automatic teller machine]] that gives instructions in Latin.<ref>{{cite news |last=Moore |first=Malcolm |title=Pope's Latinist pronounces death of a language |url=https://www.telegraph.co.uk/news/worldnews/1540843/Popes-Latinist-pronounces-death-of-a-language.html |journal=[[The Daily Telegraph]] |date=28 January 2007|ref=harv |archive-url=https://web.archive.org/web/20090826081734/http://www.telegraph.co.uk/news/worldnews/1540843/Popes-Latinist-pronounces-death-of-a-language.html |archive-date=26 August 2009 |url-status=live }}</ref> In the [[pontifical university|pontifical universities]] postgraduate courses of [[Canon law]] are taught in Latin, and papers are written in the same language.
+
+In the [[Anglican Church]], after the publication of the ''[[Book of Common Prayer]]'' of 1559, a Latin edition was published in 1560 for use in universities such as [[Oxford University|Oxford]] and the leading "public schools" ([[United Kingdom|English]] private academies), where the liturgy was still permitted to be conducted in Latin.<ref>{{cite web |url=http://justus.anglican.org/resources/bcp/Latin1560/BCP_Latin1560.htm |title=Liber Precum Publicarum, The Book of Common Prayer in Latin (1560). Society of Archbishop Justus, resources, Book of Common Prayer, Latin, 1560. Retrieved 22 May 2012 |publisher=Justus.anglican.org |accessdate=9 August 2012 |archive-url=https://web.archive.org/web/20120612041548/http://justus.anglican.org/resources/bcp/Latin1560/BCP_Latin1560.htm |archive-date=12 June 2012 |url-status=live }}</ref> There have been several Latin translations since, including a Latin edition of the 1979 USA Anglican Book of Common Prayer.<ref>{{cite web |url=http://justus.anglican.org/resources/bcp/Latin1979/Latin_1979.htm |title=Society of Archbishop Justus, resources, Book of Common Prayer, Latin, 1979. Retrieved 22 May 2012 |publisher=Justus.anglican.org |accessdate=9 August 2012 |archive-url=https://web.archive.org/web/20120904233552/http://justus.anglican.org/resources/bcp/Latin1979/Latin_1979.htm |archive-date=4 September 2012 |url-status=live }}</ref>
+
+[[File:Former logo of the European Council and Council of the European Union (2009).svg|thumb|right|The polyglot [[European Union]] has adopted Latin names in the logos of some of its institutions for the sake of linguistic compromise, an "ecumenical nationalism" common to most of the continent and as a sign of the continent's heritage (such as the [[Council of the European Union|EU Council]]: {{lang|la|Consilium}})]]
+
+==== Use of Latin for mottos ====
+In the [[Western world]], many organizations, governments and schools use Latin for their mottos due to its association with formality, tradition, and the roots of [[Western culture]].{{citation needed|date=October 2020}}
+
+[[Canada]]'s motto {{lang|la|A mari usque ad mare}} ("from sea to sea") and most [[list of Canadian provincial and territorial symbols|provincial mottos]] are also in Latin. The [[Victoria Cross (Canada)|Canadian Victoria Cross]] is modelled after the British [[Victoria Cross]] which has the inscription "For Valour". Because Canada is officially bilingual, the Canadian medal has replaced the English inscription with the Latin {{lang|la|Pro Valore}}.
+
+[[Spain]]'s motto ''[[Plus ultra|PLVS VLTRA]]'', meaning "further beyond", is also Latin in origin.<ref>{{Cite web|url=https://www.lamoncloa.gob.es/espana/simbolosdelestado/Paginas/index.aspx|title=La Moncloa. Símbolos del Estado|website=www.lamoncloa.gob.es|language=es|access-date=2019-09-30}}</ref> It is taken from the personal motto of [[Charles V, Holy Roman Emperor|Charles V]], [[Holy Roman Emperor]] and King of Spain (as Charles I), and is a reversal of the original phrase {{lang|la|Non terrae plus ultra}} ("No land further beyond"). This was said to have been inscribed as a warning on the [[Pillars of Hercules]] at the [[Strait of Gibraltar]], which marked the edge of the known world. Charles adopted the motto following the discovery of the New World by Columbus, and it also has metaphorical suggestions of taking risks and striving for excellence.
+
+Several [[list of U.S. state and territory mottos|states of the United States have Latin mottos]]: such as [[Connecticut]]'s motto {{lang|la|Qui transtulit sustinet}} ("He who transplanted sustains"); [[Kansas]]'s {{lang|la|[[Per aspera ad astra|Ad astra per aspera]]}} ("To the stars through hardships"); [[Colorado]]'s {{lang|la|Nil sine numine}} ("Nothing without providence"); [[Michigan]]'s {{lang|la|Si quaeris peninsulam amoenam, circumspice}} ("If you seek a pleasant peninsula, look about you"); [[Missouri]]'s {{lang|la|[[Salus populi suprema lex esto]]}} ("The health of the people should be the highest law"); [[North Carolina]]'s {{lang|la|[[Esse Quam Videri|Esse quam videri]]}} ("To be rather than to seem"); [[Virginia]]'s {{lang|la|[[Sic semper tyrannis]]}} ("Thus always to tyrants"); and [[West Virginia]]'s {{lang|la|[[Montani Semper Liberi|Montani semper liberi]]}} ("Mountaineers are always free").
+
+Many military organizations today have Latin mottos, such as {{lang|la|[[Semper Paratus|Semper paratus]]}} ("always ready"), the motto of the [[United States Coast Guard]]; {{lang|la|[[Semper Fidelis|Semper fidelis]]}} ("always faithful"), the motto of the [[United States Marine Corps]]; and {{lang|la|[[Per ardua ad astra]]}} ("Through adversity/struggle to the stars"), the motto of the [[Royal Air Force]] (RAF).
+
+Some colleges and universities have adopted Latin mottos, for example [[Harvard University]]'s motto is {{lang|la|[[Veritas]]}} ("truth"). Veritas was the goddess of truth, a daughter of Saturn, and the mother of Virtue.
+
+==== Other modern uses ====
+[[Switzerland]] has adopted the country's Latin short name {{lang|la|Helvetia}} on coins and stamps, since there is no room to use all of the nation's [[Languages of Switzerland|four official languages]]. For a similar reason, it adopted the international vehicle and internet code ''CH'', which stands for {{lang|la|Confœderatio Helvetica}}, the country's full Latin name.
+
+Some films of ancient settings, such as ''[[Sebastiane]]'' and ''[[The Passion of the Christ]]'', have been made with dialogue in Latin for the sake of realism. Occasionally, Latin dialogue is used because of its association with religion or philosophy, in such film/[[television]] series as ''[[The Exorcist (film)|The Exorcist]]'' and ''[[Lost (2004 TV series)|Lost]]'' ("[[Jughead (Lost)|Jughead]]"). Subtitles are usually shown for the benefit of those who do not understand Latin. There are also [[list of songs with Latin lyrics|songs written with Latin lyrics]]. The libretto for the opera-oratorio {{lang|la|[[Oedipus rex (opera)|Oedipus rex]]}} by [[Igor Stravinsky]] is in Latin.
+
+The continued instruction of Latin is often seen as a highly valuable component of a liberal arts education. Latin is taught at many high schools, especially in Europe and the Americas. It is most common in British [[public school (United Kingdom)|public schools]] and [[grammar school]]s, the Italian {{lang|it|[[liceo classico]]}} and {{lang|it|[[liceo scientifico]]}}, the German {{lang|de|Humanistisches [[Gymnasium (Germany)|Gymnasium]]}} and the Dutch {{lang|nl|[[gymnasium (school)|gymnasium]]}}.
+
+Occasionally, some media outlets, targeting enthusiasts, broadcast in Latin. Notable examples include [[Radio Bremen]] in [[Germany]], [[YLE]] radio in [[Finland]] (the [[Nuntii Latini]] broadcast from 1989 until it was shut down in June 2019),<ref name=RTE2019-06-24a>{{cite news|url=https://www.rte.ie/news/world/2019/0624/1057298-latin/|title=Finnish broadcaster ends Latin news bulletins|publisher=[[RTÉ News]]|date=24 June 2019|archive-url=https://web.archive.org/web/20190625001655/https://www.rte.ie/news/world/2019/0624/1057298-latin/|archive-date=25 June 2019|url-status=live}}</ref> and Vatican Radio & Television, all of which broadcast news segments and other material in Latin.<ref>{{cite web |url=http://www.radiobremen.de/nachrichten/latein/ |title=Latein: Nuntii Latini mensis lunii 2010: Lateinischer Monats rückblick |publisher=Radio Bremen |language=Latin |accessdate=16 July 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20100618130408/http://www.radiobremen.de/nachrichten/latein/ |archivedate=18 June 2010}}</ref><ref>{{cite news|url=http://news.bbc.co.uk/2/hi/6079852.stm|title=Finland makes Latin the King|last=Dymond|first=Jonny|date=24 October 2006|work=[[BBC Online]]|accessdate=29 January 2011|archive-url=https://web.archive.org/web/20110103171037/http://news.bbc.co.uk/2/hi/6079852.stm|archive-date=3 January 2011|url-status=live}}</ref><ref>{{cite web |url=http://www.yle.fi/radio1/tiede/nuntii_latini/ |title=Nuntii Latini |publisher=YLE Radio 1 |language=Latin |accessdate=17 July 2010 |archive-url=https://web.archive.org/web/20100718065851/http://www.yle.fi/radio1/tiede/nuntii_latini/ |archive-date=18 July 2010 |url-status=live }}</ref>
+
+There are many websites and forums maintained in Latin by enthusiasts. The [[Latin Wikipedia]] has more than 100,000 articles.
+
+==Legacy==
+[[Italian language|Italian]], [[French language|French]], [[Portuguese language|Portuguese]], [[Spanish language|Spanish]], [[Romanian language|Romanian]], [[Catalan language|Catalan]], [[Romansh language|Romansh]], and other [[Romance languages]] are direct descendants of Latin. There are also many Latin derivatives in English as well as a few in German, Dutch, Norwegian, Danish, and Swedish. Latin is still spoken in Vatican City, a city-state situated in Rome that is the seat of the [[Catholic Church]].
+
+===Inscriptions===
+Some inscriptions have been published in an internationally agreed, monumental, multivolume series, the {{lang|la|[[Corpus Inscriptionum Latinarum]]}} (CIL). Authors and publishers vary, but the format is about the same: volumes detailing inscriptions with a critical apparatus stating the [[provenance]] and relevant information. The reading and interpretation of these inscriptions is the subject matter of the field of [[epigraphy]]. About 270,000 inscriptions are known.
+
+===Literature===
+[[File:Commentarii de Bello Gallico.jpg|thumb|upright=1.36|[[Julius Caesar]]'s {{lang|la|[[Commentarii de Bello Gallico]]}} is one of the most famous classical Latin texts of the Golden Age of Latin. The unvarnished, journalistic style of this [[patrician (ancient Rome)|patrician]] general has long been taught as a model of the urbane Latin officially spoken and written in the [[floruit]] of the [[Roman Republic]].]]
+The works of several hundred ancient authors who wrote in Latin have survived in whole or in part, in substantial works or in fragments to be analyzed in [[philology]]. They are in part the subject matter of the field of [[classics]]. Their works were published in [[manuscript]] form before the invention of printing and are now published in carefully annotated printed editions, such as the [[Loeb Classical Library]], published by [[Harvard University Press]], or the [[Oxford Classical Texts]], published by [[Oxford University Press]].
+
+[[Latin translations of modern literature]] such as ''[[The Hobbit]]'', ''[[Treasure Island]]'', ''[[Robinson Crusoe]]'', ''[[Paddington Bear]]'', ''[[Winnie the Pooh]]'', ''[[The Adventures of Tintin]]'', ''[[Asterix]]'', ''[[Harry Potter]]'',  {{lang|fr|[[The Little Prince|Le Petit Prince]]}}, ''[[Max and Moritz]]'', ''[[How the Grinch Stole Christmas!]]'', ''[[The Cat in the Hat]]'', and a book of fairy tales, "{{lang|la|fabulae mirabiles}}", are intended to garner popular interest in the language. Additional resources include phrasebooks and resources for rendering everyday phrases and concepts into Latin, such as [[Meissner's Latin Phrasebook]].
+
+===Influence on present-day languages===
+The [[Latin influence in English]] has been significant at all stages of its insular development. In the [[Middle Ages]], borrowing from Latin occurred from ecclesiastical usage established by Saint [[Augustine of Canterbury]] in the 6th century or indirectly after the [[Norman Conquest]], through the [[Anglo-Norman language]]. From the 16th to the 18th centuries, English writers cobbled together huge numbers of new words from Latin and Greek words, dubbed "[[inkhorn term]]s", as if they had spilled from a pot of ink. Many of these words were used once by the author and then forgotten, but some useful ones survived, such as 'imbibe' and 'extrapolate'. Many of the most common [[polysyllabic]] English words are of Latin origin through the medium of [[Old French]]. Romance words make respectively 59%, 20% and 14% of [[English language|English]], [[German language|German]] and [[Dutch language|Dutch]] vocabularies.<ref>{{cite book |last=Finkenstaedt |first=Thomas |author2=Dieter Wolff |title=Ordered Profusion; studies in dictionaries and the English lexicon |publisher=C. Winter |year=1973 |isbn=978-3-533-02253-4}}</ref><ref>Uwe Pörksen, German Academy for Language and Literature’s Jahrbuch [Yearbook] 2007 (Wallstein Verlag, Göttingen 2008, pp. 121-130)</ref><ref name="Walter">{{cite book |url=https://pure.knaw.nl/ws/files/475024/Van_der_Sijs_Loanwords_in_the_World's_Languages.pdf |title=Loanwords in the World's Languages: A Comparative Handbook |page=[https://books.google.com/books?id=HnKeVbwTwyYC&lpg=PP1&hl=en&pg=PA370#v=onepage&q&f=false 370] |publisher=Walter de Gruyter |year=2009 |access-date=9 February 2017 |archive-url=https://web.archive.org/web/20170326062334/https://pure.knaw.nl/ws/files/475024/Van_der_Sijs_Loanwords_in_the_World's_Languages.pdf |archive-date=26 March 2017 |url-status=live }}</ref> Those figures can rise dramatically when only non-compound and non-derived words are included.
+
+The influence of Roman governance and [[Roman technology]] on the less-developed nations under Roman dominion led to the adoption of Latin phraseology in some specialized areas, such as science, technology, medicine, and law. For example, [[Linnaean taxonomy|the Linnaean system]] of plant and animal classification was heavily influenced by ''[[Natural History (Pliny)|Historia Naturalis]]'', an encyclopedia of people, places, plants, animals, and things published by [[Pliny the Elder]]. Roman medicine, recorded in the works of such physicians as [[Galen]], established that today's [[medical terminology]] would be primarily derived from Latin and Greek words, the Greek being filtered through the Latin. Roman engineering had the same effect on [[scientific terminology]] as a whole. Latin law principles have survived partly in a long [[list of Latin legal terms]].
+
+A few [[international auxiliary language]]s have been heavily influenced by Latin. [[Interlingua]] is sometimes considered a simplified, modern version of the language.{{Dubious|date=January 2017}} [[Latino sine Flexione]], popular in the early 20th century, is Latin with its inflections stripped away, among other grammatical changes.
+
+The [[Logudorese]] dialect of the [[Sardinian language]] is the closest contemporary language to Latin.<ref>{{cite book |title=Story of Language |last=Pei |first=Mario |authorlink=Mario Pei |page=28|year=1949 |isbn=978-0-397-00400-3 }}</ref>
+
+===Education===
+[[File:Latin dictionary.jpg|thumb|A multivolume Latin dictionary in the [[University Library of Graz]].]]
+
+Throughout European history, an education in the classics was considered crucial for those who wished to join literate circles. [[Instruction in Latin]] is an essential aspect. In today's world, a large number of Latin students in the US learn from ''Wheelock's Latin: The Classic Introductory Latin Course, Based on Ancient Authors''. This book, first published in 1956,<ref>{{cite web | url=http://www.wheelockslatin.com/ | title=The Official Wheelock's Latin Series Website | first=Richard A. | last=LaFleur | year=2011 | publisher=The Official Wheelock's Latin Series Website | access-date=17 February 2011 | archive-url=https://web.archive.org/web/20110208122304/http://www.wheelockslatin.com/ | archive-date=8 February 2011 | url-status=live }}</ref> was written by [[Frederic M. Wheelock]], who received a PhD from Harvard University. ''Wheelock's Latin'' has become the standard text for many American introductory Latin courses.
+
+The [[Living Latin]] movement attempts to teach Latin in the same way that living languages are taught, as a means of both spoken and written communication. It is available at the Vatican and at some institutions in the US, such as the [[University of Kentucky]] and [[Iowa State University]]. The British [[Cambridge University Press]] is a major supplier of Latin textbooks for all levels, such as the [[Cambridge Latin Course]] series. It has also published a subseries of children's texts in Latin by Bell & Forte, which recounts the adventures of a mouse called [[Minimus]].
+
+[[File:Latin and Ancient Greek Language - Culture - Linguistics at Duke University in 2014.jpg|thumb|upright=0.9|Latin and Ancient Greek at [[Duke University]], 2014.]]
+
+In the [[United Kingdom]], the [[Classical Association]] encourages the study of antiquity through various means, such as publications and grants. The [[University of Cambridge]],<ref>{{cite web|url=http://www.cambridgescp.com/ |title=University of Cambridge School Classics Project – Latin Course |publisher=Cambridgescp.com |accessdate=2014-04-23}}</ref> the [[Open University]],<ref>{{cite web |url=http://www3.open.ac.uk/study/undergraduate/course/a297.htm |title=Open University Undergraduate Course – Reading classical Latin |publisher=.open.ac.uk |accessdate=2014-04-23 |archive-url=https://web.archive.org/web/20140427094907/http://www3.open.ac.uk/study/undergraduate/course/A297.htm |archive-date=27 April 2014 |url-status=live }}</ref> a number of prestigious independent schools, for example [[Eton College|Eton]], [[Harrow School|Harrow]], [[Haberdashers' Aske's Boys' School]], [[Merchant Taylor’s School]], Via Facilis and [[Rugby School|Rugby]],<ref>{{cite web |url=http://www.thelatinprogramme.co.uk/ |title=The Latin Programme – Via Facilis |publisher=Thelatinprogramme.co.uk |accessdate=2014-04-23 |archive-url=https://web.archive.org/web/20140429163517/http://www.thelatinprogramme.co.uk/ |archive-date=29 April 2014 |url-status=live }}</ref> a London-based charity, run Latin courses. In the [[United States]] and in [[Canada]], the [[American Classical League]] supports every effort to further the study of classics. Its subsidiaries include the [[National Junior Classical League]] (with more than 50,000 members), which encourages high school students to pursue the study of Latin, and the [[National Senior Classical League]], which encourages students to continue their study of the classics into college. The league also sponsors the [[National Latin Exam]]. Classicist [[Mary Beard (classicist)|Mary Beard]] wrote in ''[[The Times Literary Supplement]]'' in 2006 that the reason for learning Latin is because of what was written in it.<ref name="timesonline train the brain">{{cite web | url=http://timesonline.typepad.com/dons_life/2006/07/does_latin_trai.html | title=Does Latin "train the brain"? | work=[[The Times Literary Supplement]] | date=10 July 2006| author=Beard, Mary | quote=No, you learn Latin because of what was written in it – and because of the sexual side of life direct access that Latin gives you to a literary tradition that lies at the very heart (not just at the root) of Western culture. | authorlink=Mary Beard (classicist) | url-status=dead | archiveurl=https://web.archive.org/web/20120114185439/http://timesonline.typepad.com/dons_life/2006/07/does_latin_trai.html | archivedate=14 January 2012}}</ref>
+
+===Official status===
+Latin was or is the official language of European states:
+* {{flag|Holy See}} – used in the [[diocese]], with [[Italian language|Italian]] being the official language of [[Vatican City]]<!--The Holy See uses Latin, but the Holy See is not Vatican City State.-->
+* {{flag|Hungary}} – Latin was an official language in the [[Kingdom of Hungary]] from the 11th century to the mid 19th century, when [[Hungarian language|Hungarian]] became the exclusive official language in 1844. The best known Latin language poet of Croatian-Hungarian origin was [[Janus Pannonius]].
+* {{flag|Croatia}} – Latin was the official language of [[Croatian Parliament]] (Sabor) from the 13th to the 19th century (1847). The oldest preserved records of the parliamentary sessions ({{lang|la|Congregatio Regni totius Sclavonie generalis}}) – held in Zagreb ({{lang|la|Zagabria}}), Croatia – date from 19 April 1273. An extensive [[Croatian Latin literature]] exists. Latin is still used on Croatian coins on even years.<ref>{{cite web |url=https://www.hnb.hr/en/currency/coins |title=Coins |date=30 September 2016 |website=[[Croatian National Bank]] |access-date=15 November 2017 |archive-url=https://web.archive.org/web/20171116041640/https://www.hnb.hr/en/currency/coins |archive-date=16 November 2017 |url-status=live }}</ref>
+* {{flag|Poland}}, [[Kingdom of Poland]] – officially recognised and widely used<ref>Who only knows Latin can go across the whole Poland from one side to the other one just like he was at his own home, just like he was born there. So great happiness! I wish a traveler in England could travel without knowing any other language than Latin!, Daniel Defoe, 1728</ref><ref>Anatol Lieven, The Baltic Revolution: Estonia, Latvia, Lithuania and the Path to Independence, Yale University Press, 1994, {{ISBN|0-300-06078-5}}, Google Print, p.48</ref><ref>Kevin O'Connor, Culture And Customs of the Baltic States, Greenwood Press, 2006, {{ISBN|0-313-33125-1}}, Google Print, p.115</ref><ref name="Friedrich">Karin Friedrich et al., ''The Other Prussia: Royal Prussia, Poland and Liberty, 1569–1772'', Cambridge University Press, 2000, {{ISBN|0-521-58335-7}}, [https://books.google.com/books?id=qsBco40rMPcC&pg=PA88&dq=Latin+language+szlachta&as_brr=3&ei=J44rR5_XFZXC7AK4xeGVBQ&sig=3ecP0DjPuCLnTaEdVI76Ck8xSE8 Google Print, p.88] {{Webarchive|url=https://web.archive.org/web/20150915150106/https://books.google.com/books?id=qsBco40rMPcC&pg=PA88&dq=Latin+language+szlachta&as_brr=3&ei=J44rR5_XFZXC7AK4xeGVBQ&sig=3ecP0DjPuCLnTaEdVI76Ck8xSE8 |date=15 September 2015 }}</ref> between the 10th and 18th centuries, commonly used in foreign relations and popular as a second language among some of the [[szlachta|nobility]].<ref name="Friedrich"/>
+
+==Phonology==
+{{Main|Latin phonology and orthography}}
+
+The ancient pronunciation of Latin has been reconstructed; among the data used for reconstruction are explicit statements about pronunciation by ancient authors, misspellings, puns, ancient etymologies, the spelling of Latin loanwords in other languages, and the historical development of Romance languages.<ref>{{harvnb|Allen|2004|pp=viii–ix}}</ref>
+
+===Consonants===
+The consonant [[phoneme]]s of Classical Latin are as follows:<ref>{{cite book |first=Andrew L. |last=Sihler |title=New Comparative Grammar of Greek and Latin |url=https://books.google.com/books?id=IeHmqKY2BqoC|year=1995|publisher=Oxford University Press |isbn=978-0-19-508345-3 |archive-url=https://web.archive.org/web/20161109231225/https://books.google.com/books?id=IeHmqKY2BqoC |archive-date=9 November 2016 |url-status=live }}</ref>
+
+{| class="wikitable IPA" style="text-align: center;"
+|-
+! colspan="2" rowspan="2" |
+! rowspan="2" | [[Labial consonant|Labial]]
+! rowspan="2" | [[Dental consonant|Dental]]
+! rowspan="2" | [[Palatal consonant|Palatal]]
+! colspan="2" | [[Velar consonant|Velar]]
+! rowspan="2" | [[Glottal consonant|Glottal]]
+|-
+! plain
+! [[Labialisation|labial]]
+|-
+! rowspan="2" | [[Plosive consonant|Plosive]]
+! <small>[[voice (phonetics)|voiced]]</small>
+| b
+| d
+|
+| ɡ
+| ɡʷ
+|
+|-
+! <small>[[voicelessness|voiceless]]</small>
+| p
+| t
+|
+| k
+| kʷ
+|
+|-
+! rowspan="2" | [[Fricative consonant|Fricative]]
+! <small>[[voice (phonetics)|voiced]]</small>
+|
+| (z)
+|
+|
+|
+|
+|-
+! <small>[[voicelessness|voiceless]]</small>
+| f
+| s
+|
+|
+|
+| h
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| m
+| n
+|
+| (ŋ)
+|
+|
+|-
+! colspan="2" | [[Rhotic consonant|Rhotic]]
+|
+| r
+|
+|
+|
+|
+|-
+! colspan="2" | [[Approximant consonant|Approximant]]
+|
+| l
+| j
+|
+| w
+|
+|}
+
+{{IPA|/z/}} was not native to Classical Latin. It appeared in Greek loanwords starting around the first century BC, when it was probably pronounced {{IPA|[z]}} initially and [[Gemination|doubled]] {{IPA|[zz]}} between vowels, in contrast to [[Ancient Greek|Classical Greek]] {{IPA|[dz]}} or {{IPA|[zd]}}. In Classical Latin poetry, the letter {{angbr|{{sqc|z}}}} between vowels always counts as two consonants for metrical purposes.<ref>{{Harvnb|Levy|p=150}}</ref><ref name="Allen Z">{{Harvnb|Allen|1978|pp=45, 46}}</ref> The consonant b usually sounds as [b]; however, when a t or s precedes b then it is pronounced as in [pt] or [ps]. Further, [[Consonant|consonants]] do not blend together. So, ch, ph, and th are all sounds that would be pronounced as [ch], [ph], and [th]. In Latin, q is always followed by the [[vowel]] u. Together they make a [kw] sound.<ref name="Wheelock 7th ed.">{{Cite book|last=Wheelock, Frederic M.|url=https://www.worldcat.org/oclc/670475844|title=Wheelock's Latin|others=LaFleur, Richard A.|date=7 June 2011|isbn=978-0-06-199721-1|edition=7th|location=New York|oclc=670475844}}</ref>
+
+In Old and Classical Latin, the Latin alphabet had no distinction between [[letter case|uppercase and lowercase]], and the letters {{angbr|J U W}} did not exist. In place of {{angbr|J U}}, {{angbr|I V}} were used, respectively; {{angbr|I V}} represented both vowels and consonants. Most of the letterforms were similar to modern uppercase, as can be seen in the inscription from the Colosseum shown at the top of the article.
+
+The spelling systems used in Latin dictionaries and modern editions of Latin texts, however, normally use {{angbr|j u}} in place of Classical-era {{angbr|i v}}. Some systems use {{angbr|j v}} for the consonant sounds {{IPA|/j w/}} except in the combinations {{angbr|gu su qu}} for which {{angbr|v}} is never used.
+
+Some notes concerning the mapping of Latin phonemes to English graphemes are given below:
+
+{| class="wikitable"
+|+ Notes
+|-
+! Latin<br />grapheme !! Latin<br />phoneme !! English examples
+|-
+! {{angbr|c}}, {{angbr|k}}
+! {{IPA|[k]}}
+| Always as ''k'' in ''sky'' (/skaɪ/)
+|-
+! {{angbr|t}}
+! {{IPA|[t]}}
+| As ''t'' in ''stay'' (/steɪ/)
+|-
+! {{angbr|s}}
+! {{IPA|[s]}}
+| As ''s'' in ''say'' (/seɪ/)
+|-
+! rowspan="2" | {{angbr|g}}
+! {{IPA|[ɡ]}}
+| Always as ''g'' in ''good'' (/ɡʊd/)
+|-
+! {{IPA|[ŋ]}}
+| Before {{angbr|n}}, as ''ng'' in ''sing'' (/sɪŋ/)
+|-
+! rowspan="2" | {{angbr|n}}
+! {{IPA|[n]}}
+| As ''n'' in ''man'' (/mæn/)
+|-
+! {{IPA|[ŋ]}}
+| Before {{angbr|c}}, {{angbr|x}}, and {{angbr|g}}, as ''ng'' in ''sing'' (/sɪŋ/)
+|-
+! rowspan="2" | {{angbr|l}}
+! {{IPA|[l]}}
+| When doubled {{angbr|ll}} and before {{angbr|i}}, as [[Voiced dental, alveolar and postalveolar lateral approximants|"light L"]], [l̥] in ''link'' ([l̥ɪnk]) ({{lang|la|l exilis}})<ref>{{harvnb|Sihler|2008|p=174}}.</ref><ref>{{harvnb|Allen|2004|pp=33–34}}</ref>
+|-
+! {{IPA|[ɫ]}}
+| In all other positions, as [[Voiced dental, alveolar and postalveolar lateral approximants|"dark L"]], [ɫ] in ''bowl'' ([boʊɫ]) ({{lang|la|l pinguis}})
+|-
+! {{angbr|qu}}
+! {{IPA|[kʷ]}}
+| Similar to ''qu'' in ''quick'' (/kwɪk/)
+|-
+! {{angbr|u}}
+! {{IPA|[w]}}
+| Sometimes at the beginning of a syllable, or after {{angbr|g}} and {{angbr|s}}, as /w/ in ''wine'' (/waɪn/)
+|-
+! rowspan="2" | {{angbr|i}}
+! {{IPA|[j]}}
+| Sometimes at the beginning of a syllable, as ''y'' (/j/) in ''yard'' (/jaɹd/)
+|-
+! {{IPA|[ij]}}
+| "y" (/j/), in between vowels, becomes "i-y", being pronounced as parts of two separate syllables, as in capiō (/kapiˈjo:/)
+|- 
+! {{angbr|x}}
+! {{IPA|[ks]}}
+| A letter representing {{angbr|c}} + {{angbr|s}}: as ''x'' in English ''axe'' (/æks/)
+|}
+
+In Classical Latin, as in modern Italian, double consonant letters were pronounced as [[Gemination|long]] consonant sounds distinct from short versions of the same consonants. Thus the ''nn'' in Classical Latin {{lang|la|annus}} "year" (and in Italian {{lang|it|anno}}) is pronounced as a doubled {{IPA|/nn/}} as in English ''unnamed''. (In English, distinctive consonant length or doubling occurs only at the boundary between two words or [[morpheme]]s, as in that example.)
+
+===Vowels===
+
+====Simple vowels====
+{| class="wikitable" style="text-align: center;"
+|-
+! !! Front !! Central !! Back
+|-
+! Close
+| {{IPA|iː ɪ}} || || {{IPA|ʊ uː}}
+|-
+! Mid
+| {{IPA|eː ɛ}} || || {{IPA|ɔ oː}}
+|-
+! Open
+| || {{IPA|a aː}} ||
+|}
+
+In Classical Latin, {{angbr|U}} did not exist as a letter distinct from V; the written form {{angbr|V}} was used to represent both a vowel and a consonant. {{angbr|Y}} was adopted to represent [[upsilon]] in loanwords from Greek, but it was pronounced like {{angbr|u}} and {{angbr|i}} by some speakers. It was also used in native Latin words by confusion with Greek words of similar meaning, such as {{lang|la|sylva}} and {{lang|grc|ὕλη}}.
+
+Classical Latin distinguished between [[vowel length|long and short vowels]]. Then, long vowels, except for {{angbr|I}}, were frequently marked using the [[apex (diacritic)|apex]], which was sometimes similar to an [[acute accent]] {{angbr|Á É Ó V́ Ý}}. Long {{IPA|/iː/}} was written using a taller version of {{angbr|I}}, called {{lang|la|i longa}} "[[long I]]": {{angbr|ꟾ}}. In modern texts, long vowels are often indicated by a [[macron (diacritic)|macron]] {{angbr|ā ē ī ō ū}}, and short vowels are usually unmarked except when it is necessary to distinguish between words, when they are marked with a [[breve]] {{angbr|ă ĕ ĭ ŏ ŭ}}. However, they would also signify a long vowel by writing the vowel larger than other letters in a word or by repeating the vowel twice in a row.<ref name="Wheelock 7th ed." /> The acute accent, when it is used in modern Latin texts, indicates stress, as in [[Spanish language|Spanish]], rather than length.
+
+Long vowels in Classical Latin are, technically, pronounced as entirely different from short vowels. The difference is described in the table below:
+
+{| class="wikitable"
+|+ Pronunciation of Latin vowels
+! Latin<br />grapheme
+! Latin<br />phone
+! modern examples
+|-
+! rowspan="2" | {{angbr|a}}
+! {{IPA|[a]}}
+| similar to the last ''a'' in ''attack'' (/ətæk/)
+|-
+! {{IPA|[aː]}}
+| similar to ''a'' in ''father'' (/fɑːðəɹ/)
+|-
+! rowspan="2" | {{angbr|e}}
+! {{IPA|[ɛ]}}
+| as ''e'' in ''pet'' (/pɛt/)
+|-
+! {{IPA|[eː]}}
+| similar to ''e'' in ''hey'' (/heɪ/)
+|-
+! rowspan="2" | {{angbr|i}}
+! {{IPA|[ɪ]}}
+| as ''i'' in ''grid'' (/ɡɹɪd/)
+|-
+! {{IPA|[iː]}}
+| similar to ''i'' in ''machine'' (/məʃiːn/)
+|-
+! rowspan="2" | {{angbr|o}}
+! {{IPA|[ɔ]}}
+| as ''o'' in ''cloth'' (/klɔθ/)
+|-
+! {{IPA|[oː]}}
+| similar to ''o'' in ''rose'' (/ɹoʊz/)
+|-
+! rowspan="2" | {{angbr|u}}
+! {{IPA|[ʊ]}}
+| as ''oo'' in ''hood'' (/hʊd/)
+|-
+! {{IPA|[uː]}}
+| similar to ''ue'' in ''true'' (/tɹuː/)
+|-
+! rowspan="2" | {{angbr|y}}
+! {{IPA|[ʏ]}}
+| does not exist in English; as ''ü'' in German {{lang|de|Stück}} (/ʃtʏk/)
+|-
+! {{IPA|[yː]}}
+| does not exist in English; as ''üh'' in German {{lang|de|früh}} (/fʀyː/)
+|}
+
+This difference in quality is posited by W. Sidney Allen in his book ''Vox Latina''. However, Andrea Calabrese has disputed that short vowels differed in quality from long vowels, based upon the observation that {{IPA|[ɪ]}} and {{IPA|[ʊ]}} do not exist even in very conservative Romance languages such as Sardinian, with the difference in vowel quality more associated with Germanic languages.
+
+A vowel letter followed by {{angbr|m}} at the end of a word, or a vowel letter followed by {{angbr|n}} before {{angbr|s}} or {{angbr|f}}, represented a long [[nasal vowel]], as in {{lang|la|monstrum}} {{IPA|[mõːstrũː]}}.
+
+====Diphthongs====
+Classical Latin had several [[diphthong]]s. The two most common were {{angbr|ae au}}. {{angbr|oe}} was fairly rare, and {{angbr|ui eu ei}} were very rare, at least in native Latin words.<ref name="classical diphthongs">{{Harvnb|Allen|2004|pp=60–63}}</ref> There has also been debate over whether {{angbr|ui}} is truly a diphthong in Classical Latin, due to its rarity, absence in works of Roman grammarians, and the roots of Classical Latin words (i.e. {{lang|la|hui ce}} to {{lang|la|huic}}, {{lang|la|quoi}} to {{lang|la|cui}}, etc.) not matching or being similar to the pronunciation of classical words if {{angbr|ui}} were to be considered a diphthong.<ref>{{cite journal|jstor=282713|title=The Diphthong -ui in Latin|journal=Transactions and Proceedings of the American Philological Association|volume=41|pages=19–23|last=Husband|first=Richard|date=1910|doi=10.2307/282713}}{{dead link|date=November 2017|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+The sequences sometimes did not represent diphthongs. {{angbr|ae}} and {{angbr|oe}} also represented a sequence of two vowels in different syllables in {{lang|la|aēnus}} {{IPA|[aˈeː.nʊs]}} "of bronze" and {{lang|la|coēpit}} {{IPA|[kɔˈeː.pɪt]}} "began", and {{angbr|au ui eu ei ou}} represented sequences of two vowels or of a vowel and one of the semivowels {{IPA|/j w/}}, in {{lang|la|cavē}} {{IPA|[ˈka.weː]}} "beware!", {{lang|la|cuius}} {{IPA|[ˈkʊj.jʊs]}} "whose", {{lang|la|monuī}} {{IPA|[ˈmɔn.ʊ.iː]}} "I warned", {{lang|la|solvī}} {{IPA|[ˈsɔɫ.wiː]}} "I released", {{lang|la|dēlēvī}} {{IPA|[deːˈleː.wiː]}} "I destroyed", {{lang|la|eius}} {{IPA|[ˈɛj.jʊs]}} "his", and {{lang|la|novus}} {{IPA|[ˈnɔ.wʊs]}} "new".
+
+Old Latin had more diphthongs, but most of them changed into long vowels in Classical Latin. The Old Latin diphthong {{angbr|ai}} and the sequence {{angbr|āī}} became Classical {{angbr|ae}}. Old Latin {{angbr|oi}} and {{angbr|ou}} changed to Classical {{angbr|ū}}, except in a few words whose {{angbr|oi}} became Classical {{angbr|oe}}. These two developments sometimes occurred in different words from the same root: for instance, Classical {{lang|la|poena}} "punishment" and {{lang|la|pūnīre}} "to punish".<ref name="classical diphthongs" /> Early Old Latin {{angbr|ei}} usually changed to Classical {{angbr|ī}}.<ref>{{Harvnb|Allen|2004|pp=53–55}}</ref>
+
+In Vulgar Latin and the Romance languages, {{angbr|ae oe}} merged with {{angbr|e ē}}. During the Classical Latin period this form of speaking was deliberately avoided by well-educated speakers.<ref name="classical diphthongs" />
+
+{| class="wikitable" style="text-align: center;"
+|+ Diphthongs classified by beginning sound
+! !! Front !! Back
+|-
+! Close
+| || ui {{IPA|/ui̯/}}
+|-
+! Mid
+| ei {{IPA|/ei̯/}}<br />eu{{IPA|/eu̯/}} || oe {{IPA|/oe̯/}}<br />ou {{IPA|/ou̯/}}
+|-
+! Open
+| colspan="2" | ae {{IPA|/ae̯/}}<br />au {{IPA|/au̯/}}
+|}
+
+=== Syllables ===
+[[Syllable|Syllables]] in Latin are signified by the presence of diphthongs and [[Vowel|vowels]]. The number of syllables is the same as the number of vowel sounds.<ref name="Wheelock 7th ed." />
+
+Further, if a consonant separates two vowels, it will go into the syllable of the second vowel. When there are two consonants between vowels, the last consonant will go with the second vowel. An exception occurs when a [[Phonetic transcription|phonetic]] stop and liquid come together. In this situation, they are thought to be a single consonant, and as such, they will go into the syllable of the second vowel.<ref name="Wheelock 7th ed." />
+
+==== Length ====
+Syllables can also be seen as [[Syllable weight|long]]. Within a word, a syllable may either be long by nature or long by position.<ref name="Wheelock 7th ed." /> A syllable that is long by nature has a long vowel or diphthong. On the other hand, a syllable that is long by position has a short vowel that is followed by more than one consonant.<ref name="Wheelock 7th ed." />
+
+==== Stress ====
+There are two rules that define which syllable is [[Stress (linguistics)|stressed]] in the Latin language.<ref name="Wheelock 7th ed." />
+
+# In a word with only two syllables, the emphasis will be on the first syllable.
+# In a word with more than two syllables, there are two cases.
+#* If the second-to-last syllable is long, that syllable will have stress.
+#* If the second-to-last syllable is not long, the syllable before that one will be stressed instead.<ref name="Wheelock 7th ed." />
+
+== Orthography ==
+{{Main|Latin alphabet}}
+[[File:Duenos inscription.jpg|thumb|The [[Duenos Inscription]], from the 6th century BC, is one of the earliest known [[Old Latin]] texts.]]
+
+Latin was written in the Latin alphabet, derived from the [[Etruscan alphabet]], which was in turn drawn from the [[Greek alphabet]] and ultimately the [[Phoenician alphabet]].<ref>{{Harvnb|Diringer|1996|pp=451, 493, 530}}</ref> This alphabet has continued to be used over the centuries as the script for the Romance, Celtic, Germanic, Baltic, Finnic, and many Slavic languages ([[Polish language|Polish]], [[Slovak language|Slovak]], [[Slovene language|Slovene]], [[Croatian language|Croatian]], [[Bosnian language|Bosnian]] and [[Czech language|Czech]]); and it has been adopted by many languages around the world, including [[Vietnamese language|Vietnamese]], the [[Austronesian languages]], many [[Turkic languages]], and most languages in [[sub-Saharan Africa]], the [[Americas]], and [[Oceania]], making it by far the world's single most widely used writing system.
+
+The number of letters in the Latin alphabet has varied. When it was first derived from the Etruscan alphabet, it contained only 21 letters.<ref>{{Harvnb|Diringer|1996|p=536}}</ref> Later, ''G'' was added to represent {{IPA|/ɡ/}}, which had previously been spelled ''C'', and ''Z'' ceased to be included in the alphabet, as the language then had no [[voiced alveolar fricative]].<ref name=D538>{{Harvnb|Diringer|1996|p=538}}</ref> The letters ''Y'' and ''Z'' were later added to represent Greek letters, [[upsilon]] and [[zeta]] respectively, in Greek loanwords.<ref name=D538/>
+
+''W'' was created in the 11th century from ''VV''. It represented {{IPA|/w/}} in Germanic languages, not Latin, which still uses ''V'' for the purpose. ''J'' was distinguished from the original ''I'' only during the late Middle Ages, as was the letter ''U'' from ''V''.<ref name=D538/> Although some Latin dictionaries use ''J'', it is rarely used for Latin text, as it was not used in classical times, but many other languages use it.
+
+Classical Latin did not contain sentence [[punctuation]], letter case,<ref>{{Harvnb|Diringer|1996|p=540}}</ref> or [[interword spacing]], but [[apex (diacritic)|apices]] were sometimes used to distinguish length in vowels and the [[interpunct]] was used at times to separate words. The first line of Catullus 3, originally written as
+
+: {{sm|lv́géteóveneréscupꟾdinésqve}} ("Mourn, O [[Venus (mythology)|Venuses]] and [[Cupid]]s")
+
+or with interpunct as
+
+: {{sm|lv́géte·ó·venerés·cupꟾdinésqve}}
+
+would be rendered in a modern edition as
+
+: Lugete, o Veneres Cupidinesque
+
+or with macrons
+
+: Lūgēte, ō Venerēs Cupīdinēsque
+
+or with apices
+
+: Lúgéte, ó Venerés Cupídinésque.
+
+[[File:Hocgracili.jpg|thumb|upright=1.13|A replica of the Old Roman Cursive inspired by the [[Vindolanda tablets]], the oldest surviving handwritten documents in Britain.]]
+
+The [[Roman cursive]] script is commonly found on the many [[wax tablet]]s excavated at sites such as forts, an especially extensive set having been discovered at Vindolanda on [[Hadrian's Wall]] in [[Great Britain|Britain]]. Most notable is the fact that while most of the [[Vindolanda tablets]] show spaces between words, spaces were avoided in monumental inscriptions from that era.
+
+===Alternative scripts===
+Occasionally, Latin has been written in other scripts:
+* The [[Praeneste fibula]] is a 7th-century BC pin with an Old Latin inscription written using the Etruscan script.
+* The rear panel of the early 8th-century [[Franks Casket]] has an inscription that switches from [[Old English]] in [[Anglo-Saxon runes]] to Latin in Latin script and to Latin in runes.
+
+==Grammar==
+{{Main|Latin grammar|Latin syntax}}
+
+Latin is a [[synthetic language|synthetic]], [[fusional language]] in the terminology of linguistic typology. In more traditional terminology, it is an inflected language, but typologists are apt to say "inflecting". Words include an objective semantic element and markers specifying the grammatical use of the word. The fusion of root meaning and markers produces very compact sentence elements: {{lang|la|amō}}, "I love," is produced from a semantic element, {{lang|la|ama-}}, "love," to which {{lang|la|-ō}}, a first person singular marker, is suffixed.
+
+The grammatical function can be changed by changing the markers: the word is "inflected" to express different grammatical functions, but the semantic element usually does not change. (Inflection uses affixing and infixing. Affixing is prefixing and suffixing. Latin inflections are never prefixed.)
+
+For example, {{lang|la|amābit}}, "he (or she or it) will love", is formed from the same stem, {{lang|la|amā-}}, to which a future tense marker, {{lang|la|-bi-}}, is suffixed, and a third person singular marker, {{lang|la|-t}}, is suffixed. There is an inherent ambiguity: {{lang|la|-t}} may denote more than one grammatical category: masculine, feminine, or neuter gender. A major task in understanding Latin phrases and clauses is to clarify such ambiguities by an analysis of context. All natural languages contain ambiguities of one sort or another.
+
+The inflections express [[grammatical gender|gender]], [[grammatical number|number]], and [[grammatical case|case]] in [[adjective]]s, [[noun]]s, and [[pronoun]]s, a process called ''[[declension]]''. Markers are also attached to fixed stems of verbs, to denote [[grammatical person|person]], number, [[grammatical tense|tense]], [[grammatical voice|voice]], [[grammatical mood|mood]], and [[grammatical aspect|aspect]], a process called ''[[grammatical conjugation|conjugation]]''. Some words are uninflected and undergo neither process, such as adverbs, prepositions, and interjections.
+
+===Nouns===
+{{Main|Latin declension}}
+
+A regular Latin noun belongs to one of five main declensions, a group of nouns with similar inflected forms. The declensions are identified by the genitive singular form of the noun. The first declension, with a predominant ending letter of ''a'', is signified by the genitive singular ending of ''-ae''. The second declension, with a predominant ending letter of ''o'', is signified by the genitive singular ending of ''-i''. The third declension, with a predominant ending letter of ''i'', is signified by the genitive singular ending of ''-is''. The fourth declension, with a predominant ending letter of ''u'', is signified by the genitive singular ending of ''-ūs''. The fifth declension, with a predominant ending letter of ''e'', is signified by the genitive singular ending of ''-ei''.
+
+There are seven Latin noun cases, which also apply to adjectives and pronouns and mark a noun's syntactic role in the sentence by means of inflections. Thus, [[word order]] is not as important in Latin as it is in English, which is less inflected. The general structure and word order of a Latin sentence can therefore vary. The cases are as follows:
+
+# '''[[Nominative case|Nominative]]''' – used when the noun is the [[Subject (grammar)|subject]] or a [[predicate nominative]]. The thing or person acting: the '''girl''' ran: {{lang|la|'''puella''' cucurrit,}} or {{lang|la|cucurrit '''puella'''}}
+# '''[[Genitive case|Genitive]]''' – used when the noun is the possessor of or connected with an object: "the horse of the man", or "the man's horse"; in both instances, the word ''man'' would be in the [[genitive case]] when it is translated into Latin. It also indicates the [[partitive]], in which the material is quantified: "a group of people"; "a number of gifts": ''people'' and ''gifts'' would be in the genitive case. Some nouns are genitive with special verbs and adjectives: The cup is full of '''wine'''. ({{lang|la|Poculum plēnum '''vīnī''' est.}}) The master of the '''slave''' had beaten him. ({{lang|la|Dominus '''servī''' eum verberāverat.}})
+# '''[[Dative case|Dative]]''' – used when the noun is the indirect object of the sentence, with special verbs, with certain prepositions, and if it is used as agent, reference, or even possessor: The merchant hands the [[stola]] '''to the woman'''. ({{lang|la|Mercātor '''fēminae''' stolam trādit.}})
+# '''[[Accusative case|Accusative]]''' – used when the noun is the direct object of the subject and as the object of a preposition demonstrating place to which.: The man killed '''the boy'''. ({{lang|la|Vir '''puerum''' necāvit.}})
+# '''[[Ablative case|Ablative]]''' – used when the noun demonstrates separation or movement from a source, cause, [[agent (grammar)|agent]] or [[instrumental case|instrument]] or when the noun is used as the object of certain prepositions; adverbial: You walked '''with the boy'''. ({{lang|la|Cum '''puerō''' ambulāvistī.}})
+# '''[[Vocative case|Vocative]]''' – used when the noun is used in a direct address. The vocative form of a noun is often the same as the nominative, with the exception of second-declension nouns ending in ''-us''. The ''-us'' becomes an ''-e'' in the vocative singular. If it ends in ''-ius'' (such as {{lang|la|fīlius}}), the ending is just ''-ī'' ({{lang|la|filī}}), as distinct from the nominative plural ({{lang|la|filiī}}) in the vocative singular: "'''Master'''!" shouted the slave. ({{lang|la|"'''Domine'''!" clāmāvit servus.}})
+# '''[[Locative case|Locative]]''' – used to indicate a location (corresponding to the English "in" or "at"). It is far less common than the other six cases of Latin nouns and usually applies to cities and small towns and islands along with a few common nouns, such as the words {{lang|la|domus}} (house), {{lang|la|humus}} (ground), and {{lang|la|rus}} (country). In the singular of the first and second declensions, its form coincides with the genitive ({{lang|la|Roma}} becomes {{lang|la|Romae}}, "in Rome"). In the plural of all declensions and the singular of the other declensions, it coincides with the ablative ({{lang|la|Athēnae}} becomes {{lang|la|Athēnīs}}, "at Athens"). In the fourth-declension word {{lang|la|domus}}, the locative form, {{lang|la|domī}} ("at home") differs from the standard form of all other cases.
+
+Latin lacks both definite and indefinite [[article (grammar)|articles]] so {{lang|la|puer currit}} can mean either "the boy is running" or "a boy is running".
+
+===Adjectives===
+{{Main|Latin declension}}
+
+There are two types of regular Latin adjectives: first- and second- declension and third-declension. They are so-called because their forms are similar or identical to first- and second-declension and third-declension nouns, respectively. Latin adjectives also have comparative (more --, ''-er'') and superlative (most --, ''est'') forms. There are also a number of Latin participles.
+
+Latin numbers are sometimes declined as adjectives. See ''Numbers'' below.
+
+====First and second-declension adjectives====
+
+First and second-declension adjectives are declined like first-declension nouns for the feminine forms and like second-declension nouns for the masculine and neuter forms. For example, for {{lang|la|mortuus, mortua, mortuum}} (dead), {{lang|la|mortua}} is declined like a regular first-declension noun (such as {{lang|la|puella}} (girl)), {{lang|la|mortuus}} is declined like a regular second-declension masculine noun (such as {{lang|la|dominus}} (lord, master)), and {{lang|la|mortuum}} is declined like a regular second-declension neuter noun (such as {{lang|la|auxilium}} (help)).
+
+====Third declension adjectives====
+
+Third-declension adjectives are mostly declined like normal third-declension nouns, with a few exceptions. In the plural nominative neuter, for example, the ending is ''-ia'' ({{lang|la|omnia}} (all, everything)), and for third-declension nouns, the plural nominative neuter ending is ''-a'' or ''-ia'' ({{lang|la|capita}} (heads), {{lang|la|animalia}} (animals)) They can have one, two or three forms for the masculine, feminine, and neuter nominative singular.
+
+====Participles====
+Latin participles, like English participles, are formed from a verb. There are a few main types of participles: Present Active Participles, Perfect Passive Participles, Future Active Participles, and Future Passive Participles.
+
+===Prepositions===
+Latin sometimes uses prepositions, depending on the type of prepositional phrase being used. Most prepositions are followed by a noun in either the accusative or ablative case: "apud puerum" (with the boy), with "puerum" being the accusative form of "puer", boy, and "sine puero" (without the boy, "puero" being the ablative form of "puer". A few [[adposition]]s, however, govern a noun in the genitive (such as "gratia" and "tenus").
+
+===Verbs===
+{{Main|Latin grammar|Latin conjugation}}
+
+A regular verb in Latin belongs to one of four main [[Latin conjugation|conjugations]]. A conjugation is "a class of verbs with similar inflected forms."<ref>{{cite encyclopedia | title=Conjugation | encyclopedia=Webster's II new college dictionary | location=Boston | publisher=Houghton Mifflin | year=1999}}</ref> The conjugations are identified by the last letter of the verb's present stem. The present stem can be found by omitting the -''re'' (-''rī'' in deponent verbs) ending from the present infinitive form. The infinitive of the first conjugation ends in ''-ā-re'' or ''-ā-ri'' (active and passive respectively): {{lang|la|amāre}}, "to love," {{lang|la|hortārī}}, "to exhort"; of the second conjugation by ''-ē-re'' or ''-ē-rī'': {{lang|la|monēre}}, "to warn", {{lang|la|verērī}}, "to fear;" of the third conjugation by ''-ere'', ''-ī'': {{lang|la|dūcere}}, "to lead," {{lang|la|ūtī}}, "to use"; of the fourth by ''-ī-re'', ''-ī-rī'': {{lang|la|audīre}}, "to hear," {{lang|la|experīrī}}, "to attempt".<ref name="Wheelock 2011">{{cite book|title=Wheelock's Latin|last=Wheelock|first=Frederic M.|publisher=CollinsReference|edition=7th|location=New York|date=2011}}</ref>
+
+Irregular verbs may not follow the types or may be marked in a different way. The "endings" presented above are not the suffixed infinitive markers. The first letter in each case is the last of the stem so the conjugations are also called a-conjugation, e-conjugation and i-conjugation. The fused infinitive ending is -''re'' or -''rī''. Third-conjugation stems end in a consonant: the consonant conjugation. Further, there is a subset of the third conjugation, the i-stems, which behave somewhat like the fourth conjugation, as they are both i-stems, one short and the other long.<ref name="Wheelock 2011"/> The stem categories descend from [[Proto-Indo-European language|Indo-European]] and can therefore be compared to similar conjugations in other Indo-European languages.
+
+There are six general [[grammatical tense|"tenses"]] in Latin (present, imperfect, future, perfect, pluperfect and future perfect), three [[grammatical mood|moods]] (indicative, imperative and subjunctive, in addition to the [[infinitive]], [[participle]], [[gerund]], [[gerundive]] and [[supine]]), three [[grammatical person|persons]] (first, second and third), two numbers (singular and plural), two [[grammatical voice|voices]] (active and passive) and two [[grammatical aspect|aspects]] ([[perfective and imperfective]]). Verbs are described by four principal parts:
+
+# The first principal part is the first-person singular, present tense, active voice, indicative mood form of the verb. If the verb is impersonal, the first principal part will be in the third-person singular.
+# The second principal part is the present active infinitive.
+# The third principal part is the first-person singular, perfect active indicative form. Like the first principal part, if the verb is impersonal, the third principal part will be in the third-person singular.
+# The fourth principal part is the supine form, or alternatively, the nominative singular of the perfect passive participle form of the verb. The fourth principal part can show one gender of the participle or all three genders (-''us ''for masculine, -''a'' for feminine and -''um'' for neuter) in the nominative singular. The fourth principal part will be the future participle if the verb cannot be made passive. Most modern Latin dictionaries, if they show only one gender, tend to show the masculine; but many older dictionaries instead show the neuter, as it coincides with the supine. The fourth principal part is sometimes omitted for intransitive verbs, but strictly in Latin, they can be made passive if they are used impersonally, and the supine exists for such verbs.
+
+There are six "tenses" in the Latin language. These are divided into two tense systems: the present system, which is made up of the present, imperfect and future tenses, and the perfect system, which is made up of the perfect, pluperfect and future perfect tenses. Each tense has a set of endings corresponding to the person, number, and voice of the subject. Subject (nominative) pronouns are generally omitted for the first (''I, we'') and second (''you'') persons except for emphasis.
+
+The table below displays the common inflected endings for the indicative mood in the active voice in all six tenses. For the future tense, the first listed endings are for the first and second conjugations, and the second listed endings are for the third and fourth conjugations:
+
+{| class="wikitable"
+! rowspan=2|Tense !! colspan=3|Singular !! colspan=3|Plural
+|-
+! 1st Person !! 2nd Person !! 3rd Person !! 1st Person !! 2nd Person !! 3rd Person
+|-
+! Present
+| -ō/m || -s || -t || -mus || -tis || -nt
+|-
+! Future
+| -bō, -am || -bis, -ēs || -bit, -et || -bimus, -ēmus || -bitis, -ētis
+| -bunt, -ent
+|-
+! Imperfect
+| -bam || -bās || -bat || -bāmus || -bātis || -bant
+|-
+! Perfect
+| -ī || -istī || -it || -imus || -istis || -ērunt
+|-
+! Future Perfect
+| -erō || -eris/erīs || -erit || -erimus/-erīmus || -eritis/-erītis || -erint
+|-
+! Pluperfect
+| -eram || -erās || -erat || -erāmus || -erātis || -erant
+|}
+
+====Deponent verbs====
+Some Latin verbs are [[deponent verb|deponent]], causing their forms to be in the passive voice but retain an active meaning: ''hortor, hortārī, hortātus sum'' (to urge).
+
+==Vocabulary==
+
+As Latin is an Italic language, most of its vocabulary is likewise Italic, ultimately from the ancestral [[Proto-Indo-European language]]. However, because of close cultural interaction, the Romans not only adapted the Etruscan alphabet to form the Latin alphabet but also borrowed some [[Etruscan language|Etruscan]] words into their language, including {{lang|la|persona}} "mask" and {{lang|la|histrio}} "actor".<ref name=H&S13>{{harvnb|Holmes|Schultz|1938|p=13}}</ref> Latin also included vocabulary borrowed from [[Oscan language|Oscan]], another Italic language.
+
+After the [[History of Taranto|Fall of Tarentum]] (272 BC), the Romans began Hellenising, or adopting features of Greek culture, including the borrowing of Greek words, such as {{lang|la|camera}} (vaulted roof), {{lang|la|sumbolum}} (symbol), and {{lang|la|balineum}} (bath).<ref name=H&S13/> This Hellenisation led to the addition of "Y" and "Z" to the alphabet to represent Greek sounds.<ref>{{cite book |first=David |last=Sacks |year=2003 |title=Language Visible: Unraveling the Mystery of the Alphabet from A to Z |location=London |publisher=Broadway Books |page=[https://archive.org/details/languagevisibleu00sack/page/351 351] |isbn=978-0-7679-1172-6 |url=https://archive.org/details/languagevisibleu00sack/page/351 }}</ref> Subsequently, the Romans transplanted [[Greek art]], [[medicine]], [[science]] and [[philosophy]] to Italy, paying almost any price to entice Greek skilled and educated persons to Rome and sending their youth to be educated in Greece. Thus, many Latin scientific and philosophical words were Greek loanwords or had their meanings expanded by association with Greek words, as {{lang|el|ars}} (craft) and τέχνη (art).<ref name=H&S14>{{harvnb|Holmes|Schultz|1938|p=14}}</ref>
+
+Because of the Roman Empire's expansion and subsequent trade with outlying European tribes, the Romans borrowed some northern and central European words, such as {{lang|la|beber}} (beaver), of Germanic origin, and {{lang|la|bracae}} (breeches), of Celtic origin.<ref name=H&S14/> The specific dialects of Latin across Latin-speaking regions of the former Roman Empire after its fall were influenced by languages specific to the regions. The dialects of Latin evolved into different Romance languages.
+
+During and after the adoption of Christianity into Roman society, Christian vocabulary became a part of the language, either from Greek or Hebrew borrowings or as Latin neologisms.<ref>{{cite book |last1=Norberg |first1=Dag |last2=Johnson |first2=Rand H, Translator |title=Manuel pratique de latin médiéval |chapter-url=http://homepages.wmich.edu/~johnsorh/MedievalLatin/Norberg/NORBINTR.html |chapter=Latin at the End of the Imperial Age |origyear=1980 |year=2004 |publisher=University of Michigan |accessdate=20 May 2015 |ref=harv }}</ref> Continuing into the Middle Ages, Latin incorporated many more words from surrounding languages, including [[Old English]] and other [[Germanic languages]].
+
+Over the ages, Latin-speaking populations produced new adjectives, nouns, and verbs by [[affix]]ing or [[compound (linguistics)|compounding]] meaningful [[segment (linguistics)|segments]].<ref>{{harvnb|Jenks|1911|pp=3, 46}}</ref> For example, the compound adjective, {{lang|la|omnipotens}}, "all-powerful," was produced from the adjectives {{lang|la|omnis}}, "all", and {{lang|la|potens}}, "powerful", by dropping the final ''s'' of {{lang|la|omnis}} and concatenating. Often, the concatenation changed the part of speech, and nouns were produced from verb segments or verbs from nouns and adjectives.<ref>{{harvnb|Jenks|1911|pp=35, 40}}</ref>
+
+==Phrases (Neo-Latin)==
+{{main|List of Latin phrases}}
+The phrases are mentioned with [[Pitch accent|accents]] to show where stress is placed.<ref>Ebbe Vilborg – ''Norstedts svensk-latinska ordbok'' – Second edition, 2009.</ref> In Latin, words are normally stressed either on the second-to-last (penultimate) [[syllable]], called in Latin {{lang|la|paenultima}} or {{lang|la|syllaba paenultima}},<ref name=LKHS>[[Tore Janson]] – ''Latin – Kulturen, historien, språket'' – First edition, 2009.</ref> or on the third-to-last syllable, called in Latin {{lang|la|antepaenultima}} or {{lang|la|syllaba antepaenultima}}.<ref name=LKHS/> In the following notation, accented short vowels have an acute diacritic, accented long vowels have a [[circumflex]] diacritic (representing long falling pitch), and unaccented long vowels are marked simply with a macron. This reflects the tone of the voice with which, ideally, the stress is phonetically realized; but this may not always be clearly articulated on every word in a sentence.<ref>[[Quintilian]], ''[[Institutio Oratoria]]'' (95 CE)</ref> Regardless of length, a vowel at the end of a word may be significantly shortened or even altogether deleted if the next word begins with a vowel also (a process called elision), unless a very short pause is inserted. As an exception, the following words: ''est'' (English "is"), ''es'' ("[you (sg.)] are") lose their own vowel ''e'' instead.
+
+'''{{lang|la|sálvē}}''' <small>to one person</small> / '''{{lang|la|salvête}}''' <small>to more than one person</small> – hello
+
+'''{{lang|la|ávē}}''' <small>to one person</small> / '''{{lang|la|avête}}''' <small>to more than one person</small> – greetings
+
+'''{{lang|la|válē}}''' <small>to one person</small> / '''{{lang|la|valête}}''' <small>to more than one person</small> – goodbye
+
+'''{{lang|la|cûrā ut váleās}}''' – take care
+
+'''{{lang|la|exoptâtus}}''' <small>to male</small> / '''{{lang|la|exoptâta}}''' <small>to female</small>, '''{{lang|la|optâtus}}''' <small>to male</small> / '''{{lang|la|optâta}}''' <small>to female</small>, '''{{lang|la|grâtus}}''' <small>to male</small> / '''{{lang|la|grâta}}''' <small>to female</small>, '''{{lang|la|accéptus}}''' <small>to male</small> / '''{{lang|la|accépta}}''' <small>to female</small> – welcome
+
+'''{{lang|la|quômodo válēs?}}''', '''{{lang|la|ut válēs?}}''' – how are you?
+
+'''{{lang|la|béne}}''' – good
+
+'''{{lang|la|béne váleō}}''' – I'm fine
+
+'''{{lang|la|mále}}''' – bad
+
+'''{{lang|la|mále váleō}}''' – I'm not good
+
+'''{{lang|la|quaêsō}}''' (roughly: ['kwaeso:]/['kwe:so:]) – please
+
+'''{{lang|la|amâbō tē}}''' – please
+
+'''{{lang|la|íta}}''', '''{{lang|la|íta est}}''', '''{{lang|la|íta vêrō}}''', '''{{lang|la|sîc}}''', '''{{lang|la|sîc est}}''', '''{{lang|la|étiam}}''' – yes
+
+'''{{lang|la|nôn}}''', '''{{lang|la|mínimē}}''' – no
+
+'''{{lang|la|grâtiās tíbi}}''', '''{{lang|la|grâtiās tíbi ágō}}''' – thank you, I give thanks to you
+
+'''{{lang|la|mágnās grâtiās}}''', '''{{lang|la|mágnās grâtiās ágō}}''' – many thanks
+
+'''{{lang|la|máximās grâtiās}}''', '''{{lang|la|máximās grâtiās ágō}}''', '''{{lang|la|ingéntēs grâtiās ágō}}''' – thank you very much
+
+'''{{lang|la|áccipe sīs}}''' <small>to one person</small> / '''{{lang|la|accípite sîtis}}''' <small>to more than one person</small>, '''{{lang|la|libénter}}''' – you're welcome
+
+'''{{lang|la|quā aetâte es?}}''' – how old are you?
+
+'''25 (vīgíntī quînque) ánnōs nâtus sum'''{{lang|la| <small>by male</small> / }}'''25 ánnōs nâta sum''' <small>by female</small> – I am 25 years old
+
+'''{{lang|la|úbi lātrîna est?}}''' – where is the toilet?
+
+'''{{lang|la|scîs (tū) ...}}''' – do you speak (literally: "do you know") ... <!-- shortest variant possible -->
+* '''{{lang|la|Latînē?}}''' – Latin?
+* '''{{lang|la|Graêcē?}}''' (roughly: ['graeke:]/['gre:ke:]) – Greek?
+* '''{{lang|la|Ánglicē?}}''' – English?
+* '''{{lang|la|Itálicē?}}''' – Italian?
+* '''{{lang|la|Gállicē?}}''' – French?
+* '''{{lang|la|Hispânicē?}}''' – Spanish? (or: {{lang|la|Hispânē}})
+* '''{{lang|la|Lūsitânē?}}''' – Portuguese?
+* '''{{lang|la|Theodíscē?}}'''/'''{{lang|la|Germânicē?}}''' – German? (sometimes also: {{lang|la|Teutónicē}})
+* '''{{lang|la|Sînicē?}}''' – Chinese?
+* '''{{lang|la|Iapônicē?}}''' – Japanese?
+* '''{{lang|la|Coreânē?}}''' – Korean?
+* '''{{lang|la|Arábicē?}}''' – Arabic?
+* '''{{lang|la|Pérsicē?}}''' – Persian?
+* '''{{lang|la|Índicē?}}''' – Hindi?
+* '''{{lang|la|Rússicē?}}''' – Russian? (sometimes {{lang|la|Rutênicē}})
+* '''{{lang|la|Cámbricē?}}''' – Welsh?
+* '''{{lang|la|Suêticē?}}''' – Swedish? (or: {{lang|la|Suêcicē}})
+* '''{{lang|la|Polônicē?}}''' – Polish?
+
+'''{{lang|la|ámō tē}}''' / '''{{lang|la|tē ámō}}''' – I love you
+
+==Numbers==
+{{Unreferenced section|date=May 2020}}
+{{further|Latin numerals (linguistics)}}
+In ancient times, numbers in Latin were written only with letters. Today, the numbers can be written with the [[Arabic numerals|Arabic numbers]] as well as with [[Roman numerals]]. The numbers 1, 2 and 3 and every whole hundred from 200 to 900 are declined as nouns and adjectives, with some differences.
+
+{|
+|-
+| {{lang|la|ūnus, ūna, ūnum}} (masculine, feminine, neuter)
+|
+| I
+|
+| one
+|-
+| {{lang|la|duo, duae, duo}} (m., f., n.)
+|
+| II
+|
+| two
+|-
+| {{lang|la|trēs, tria}} (m./f., n.)
+|
+| III
+|
+| three
+|-
+| {{lang|la|quattuor}}
+|
+| IIII <small>or</small> IV
+|
+| four
+|-
+| {{lang|la|quīnque}}
+|
+| V
+|
+| five
+|-
+| {{lang|la|sex}}
+|
+| VI
+|
+| six
+|-
+| {{lang|la|septem}}
+|
+| VII
+|
+| seven
+|-
+| {{lang|la|octō}}
+|
+| VIII
+|
+| eight
+|-
+| {{lang|la|novem}}
+|
+| VIIII <small>or</small> IX
+|
+| nine
+|-
+| {{lang|la|decem}}
+|
+| X
+|
+| ten
+|-
+| {{lang|la|quīnquāgintā}}
+|
+| L
+|
+| fifty
+|-
+| {{lang|la|centum}}
+|
+| C
+|
+| one hundred
+|-
+| {{lang|la|quīngentī, quīngentae, quīngenta}} (m., f., n.)
+|
+| D
+|
+| five hundred
+|-
+| {{lang|la|mīlle}}
+|
+| M
+|
+| one thousand
+|}
+
+The numbers from 4 to 100 do not change their endings. As in modern descendants such as [[Spanish language|Spanish]], the gender for naming a number in isolation is masculine, so that "1, 2, 3" is counted as {{lang|la|ūnus, duo, trēs}}.
+
+==Example text==
+
+{{lang|la|[[Commentarii de Bello Gallico]]}}, also called {{lang|la|De Bello Gallico}} (''The Gallic War''), written by [[Julius Caesar|Gaius Julius Caesar]], begins with the following passage:
+
+{{quote|Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur. Hi omnes lingua, institutis, legibus inter se differunt. Gallos ab Aquitanis Garumna flumen, a Belgis Matrona et Sequana dividit. Horum omnium fortissimi sunt Belgae, propterea quod a cultu atque humanitate provinciae longissime absunt, minimeque ad eos mercatores saepe commeant atque ea quae ad effeminandos animos pertinent important, proximique sunt Germanis, qui trans Rhenum incolunt, quibuscum continenter bellum gerunt. Qua de causa Helvetii quoque reliquos Gallos virtute praecedunt, quod fere cotidianis proeliis cum Germanis contendunt, cum aut suis finibus eos prohibent aut ipsi in eorum finibus bellum gerunt. Eorum una pars, quam Gallos obtinere dictum est, initium capit a flumine Rhodano, continetur Garumna flumine, Oceano, finibus Belgarum; attingit etiam ab Sequanis et Helvetiis flumen Rhenum; vergit ad septentriones. Belgae ab extremis Galliae finibus oriuntur; pertinent ad inferiorem partem fluminis Rheni; spectant in septentrionem et orientem solem. Aquitania a Garumna flumine ad Pyrenaeos montes et eam partem Oceani quae est ad Hispaniam pertinet; spectat inter occasum solis et septentriones.}}
+
+The same text may be marked for all long vowels (before any possible elisions at word boundary) with [[apex (diacritic)|apices]] over vowel letters, including customarily before "nf" and "ns" where a long vowel is automatically produced:
+
+<!-- Vowel lengths are per the 2016 edition of Gaffiot esp. for proper names, and per LaNe, and de Vaan -->
+{{quote|Gallia est omnis dívísa in partés trés, quárum únam incolunt Belgae, aliam Aquítání, tertiam quí ipsórum linguá Celtae, nostrá Gallí appellantur. Hí omnés linguá, ínstitútís, légibus inter sé differunt. Gallós ab Aquítánís Garumna flúmen, á Belgís Mátrona et Séquana dívidit. Hórum omnium fortissimí sunt Belgae, proptereá quod á cultú atque húmánitáte próvinciae longissimé absunt, miniméque ad eós mercátórés saepe commeant atque ea quae ad efféminandós animós pertinent important, proximíque sunt Germánís, quí tráns Rhénum incolunt, quibuscum continenter bellum gerunt. Quá dé causá Helvétií quoque reliquós Gallós virtúte praecédunt, quod feré cotídiánís proeliís cum Germánís contendunt, cum aut suís fínibus eós prohibent aut ipsí in eórum fínibus bellum gerunt. Eórum úna pars, quam Gallós obtinére dictum est, initium capit á flúmine Rhodanó, continétur Garumná flúmine, Óceanó, fínibus Belgárum; attingit etiam ab Séquanís et Helvétiís flúmen Rhénum; vergit ad septentriónés. Belgae ab extrémís Galliae fínibus oriuntur; pertinent ad ínferiórem partem flúminis Rhéní; spectant in septentriónem et orientem sólem. Aquítánia á Garumná flúmine ad Pýrénaeós montés et eam partem Óceaní quae est ad Hispániam pertinet; spectat inter occásum sólis et septentriónés.}}
+
+==See also==
+{{Portal|Ancient Rome|Language|Catholicism}}
+{{div col|colwidth=22em}}
+* [[Accademia Vivarium Novum]]
+* [[Classical compound]]
+* [[Contemporary Latin]]
+* [[Greek and Latin roots in English]]
+* [[Hybrid word]]
+* [[Latin grammar]]
+* [[Latin mnemonics]]
+* [[Latin obscenity]]
+* [[Latin school]]
+* [[Latino sine flexione]] (Latin without Inflections)
+* [[List of Greek and Latin roots in English]]
+* [[List of Latin abbreviations]]
+* [[List of Latin and Greek words commonly used in systematic names]]
+* [[List of Latin phrases]]
+* [[List of Latin translations of modern literature]]
+* [[List of Latin words with English derivatives]]
+* [[List of Latinised names]]
+* [[Lorem ipsum]]
+* [[Romanization (cultural)]]
+* [[Toponymy]]
+* [[Vulgar Latin]]
+{{div col end}}
+
+== References ==
+{{Reflist}}
+
+==Bibliography==
+{{columns-list|colwidth=30em|
+* {{cite book | ref=harv | last=Allen |first=William Sidney |year=2004 |title=Vox Latina – a Guide to the Pronunciation of Classical Latin |edition=2nd |publisher=Cambridge University Press |location=Cambridge |isbn=978-0-521-22049-1}}
+* {{cite book | ref=harv | title=The foundations of Latin | first=Philip | last=Baldi |author-link=Philip Baldi | location=Berlin | publisher=Mouton de Gruyter | year=2002}}
+* {{cite book| ref=harv | last=Bennett|first=Charles E.|title=Latin Grammar|publisher=Allyn and Bacon|location=Chicago|year=1908 |isbn=978-1-176-19706-0}}
+* {{cite book | ref=harv | title=A grammar of Oscan and Umbrian, with a collection of inscriptions and a glossary | first=Carl Darling | last=Buck | location=Boston | publisher=Ginn & Company | year=1904}}
+* {{cite book | ref=harv | first=Victor Selden |last=Clark |year=1900 |title=Studies in the Latin of the Middle Ages and the Renaissance |location=Lancaster |publisher=The New Era Printing Company}}
+* {{cite book| ref=harv | last=Diringer|first=David|title=The Alphabet – A Key to the History of Mankind|publisher=Munshiram Manoharlal Publishers Private Ltd.|location=New Delhi|year=1996|origyear=1947|isbn=978-81-215-0748-6}}
+* {{cite book| ref=harv | title=Vulgar Latin|first1=József |last1=Herman|first2=Roger (Translator) |last2=Wright|location=University Park, PA|publisher=[[Pennsylvania State University Press]]|year=2000 |isbn=978-0-271-02000-6}}
+* {{cite book| ref=harv |last1=Holmes|first1=Urban Tigner|last2=Schultz|first2=Alexander Herman|title=A History of the French Language|location=New York|publisher=Biblo-Moser|isbn=978-0-8196-0191-9|year=1938}}
+* {{cite book |ref=harv |last=[[Tore Janson|Janson, Tore]] |year=2004 |title=A Natural History of Latin |location=Oxford |publisher=[[Oxford University Press]] |isbn=978-0-19-926309-7 |url-access=registration |url=https://archive.org/details/naturalhistoryof0000jans }}
+* {{cite book | ref=harv | last=Jenks |first=Paul Rockwell |year=1911 |title=A Manual of Latin Word Formation for Secondary Schools |location=New York |publisher=D.C. Heath & Co}}
+* {{cite book| ref=harv | first=Frank Robert | last=Palmer | title=Grammar |edition=2nd | location=Harmondsworth, Middlesex, England; New York, N.Y., U.S.A. | publisher=[[Penguin Books]] | year=1984| isbn=978-81-206-1306-5}}
+* {{cite book | ref=harv |title=New comparative grammar of Greek and Latin | first=Andrew L | last=Sihler | location=New York | publisher=Oxford University Press | year=2008}}
+* {{cite book | ref=harv | first=N. | last=Vincent | contribution=Latin | title=The Romance Languages| editor1-first=M. | editor1-last=Harris | editor2-first=N. | editor2-last=Vincent | publisher=[[Oxford University Press]] |year= 1990 | location=Oxford | isbn=978-0-19-520829-0 }}
+* {{cite book | ref=harv | last1=Waquet | first1=Françoise | title=Latin, or the Empire of a Sign: From the Sixteenth to the Twentieth Centuries | publisher=Verso | year=2003 | isbn=978-1-85984-402-1 | first2=John (Translator) | last2= Howe }}
+* {{cite book | last=Wheelock | first=Frederic |title=Latin: An Introduction | publisher=Collins | edition=6th | year=2005| isbn=978-0-06-078423-2 }}
+* {{cite book | last=Curtius | first=Ernst | title=European Literature and the Latin Middle Ages | publisher=Princeton University | year=2013 | isbn=978-0-691-15700-9 }}
+}}
+
+==External links==
+{{WikisourceWiki|code=la}}
+{{InterWiki|code=la}}
+{{Wikiquote|Latin proverbs}}
+{{Wikibooks|Latin}}
+{{Wikiversity|Latin}}
+{{Wiktionary category|category=Latin language}}
+{{commons|Latin language}}
+
+===Language tools===
+* {{cite web | url=http://www.perseus.tufts.edu/hopper/resolveform?lang=la | title=Latin Dictionary Headword Search | work=Perseus Hopper | publisher=Tufts University}} Searches Lewis & Short's ''A Latin Dictionary'' and Lewis's ''An Elementary Latin Dictionary''. Online results.
+* {{cite web | url=http://www.online-latin-dictionary.com | title=Online Latin Dictionary with conjugator and declension tool | publisher=Olivetti Media Communication}} Search on line Latin-English and English-Latin dictionary with complete declension or conjugation. Online results.
+* {{cite web | url=http://www.perseus.tufts.edu/hopper/morph?lang=la | title=Latin Word Study Tool | work=Perseus Hopper | publisher=Tufts University}} Identifies the grammatical functions of words entered. Online results.
+* {{cite web | url=http://www.u.arizona.edu/~aversa/latin/ | title=Latin Inflector | first=Alan | last=Aversa | publisher=University of Arizona}} Identifies the grammatical functions of all the words in sentences entered, using Perseus.
+* {{cite web | url=http://www.verbix.com/languages/latin.shtml | title=Latin Verb Conjugator | publisher=Verbix}} Displays complete conjugations of verbs entered in first-person present singular form.
+* {{cite web | url=http://stranica.net63.net/verba_latina | title=Online Latin Verb Conjugator | access-date=30 September 2014 | archive-url=http://arquivo.pt/wayback/20160518085747/http://stranica.net63.net/verba_latina | archive-date=18 May 2016 | url-status=dead }} Displays conjugation of verbs entered in their infinitive form.
+* {{cite web|url=http://lysy2.archives.nd.edu/cgi-bin/words.exe |title=Words |first=William |last=Whittaker |publisher=Notre Dame Archives |url-status=dead |archiveurl=https://web.archive.org/web/20060618211448/http://lysy2.archives.nd.edu/cgi-bin/words.exe |archivedate=18 June 2006 }} Identifies Latin words entered. Translates English words entered.
+* {{cite web | url=http://alpheios.net | title=Alpheios | publisher=Alpheios Project}} Combines Whittakers Words, Lewis and Short, Bennett's grammar and inflection tables in a browser addon.
+* {{curlie|Reference/Dictionaries/World_Languages/L/Latin/|Latin Dictionaries}}
+* {{cite book | url=https://books.google.com/books?id=2sIDAAAAQAAJ | title=A new abridgment of Ainsworth's Dictionary, English and Latin, for the use of Grammar Schools | first=John | last=Dymock | edition=4th | location=Glasgow | publisher=Hutchison & Brookman | year=1830}}
+* "[http://docs.cltk.org/en/latest/latin.html Classical Language Toolkit]" (CLTK). A [[Natural language processing|Natural Language Processing]] toolkit for [[Python (programming language)|Python]] offering a variety of functionality for Latin and other classical languages.
+
+===Courses===
+* [http://www.utexas.edu/cola/centers/lrc/eieol/latol-0-X.html Latin Lessons] (free online through the [https://web.archive.org/web/20160523020601/http://www.utexas.edu/cola/lrctr/ Linguistics Research Center] at UT Austin)
+* [https://web.archive.org/web/20150503145706/http://www.learnlangs.com/latin/#Lessons Free 47-Lesson Online Latin Course], Learnlangs
+* [http://learn101.org/latin.php Learn Latin] Grammar, vocabulary and audio
+* [http://frcoulter.com/latin/links.html Latin Links and Resources], Compiled by Fr. Gary Coulter
+* {{cite web| url=http://latinum.org.uk | title=Latinum | work=Latin Latin Course on YouTube and audiobooks | first=Evan | last=der Millner| year=2007 | publisher=Molendinarius | accessdate=2 February 2012}}
+* {{cite web| url=http://www.u.arizona.edu/~aversa/latin/simplicissimus.pdf |title=Simplicissimus |first=Carol | last=Byrne |year=1999 |publisher=The Latin Mass Society of England and Wales |accessdate=20 April 2011}} (a course in [[ecclesiastical Latin]]).
+* {{cite web| url=http://www.hs-augsburg.de/~harsch/Ludus/lud_port.html | title=Ludus Latinus Cursus linguae latinae | work=Bibliotheca Augustiana |first=Ulrich |last=Harsch |date=1996–2010 | location=Augsburg | publisher=University of Applied Sciences |language=Latin |accessdate=24 June 2010}}
+* [http://www.nationalarchives.gov.uk/latin/beginners/default.htm Beginners' Latin] on [[The National Archives (United Kingdom)]]
+
+===Grammar and study===
+* {{cite book |url=https://www.gutenberg.org/ebooks/15665 |title=New Latin Grammar |first=Charles E. |last=Bennett | year=2005 |publisher= Project Gutenberg | origyear=1908 |edition=2nd |isbn=978-1-176-19706-0}}
+* {{cite book | last=Griffin | first=Robin | title=A student's Latin Grammar | publisher=University of Cambridge | edition=3rd | year=1992 | isbn=978-0-521-38587-9 | url=https://archive.org/details/studentslatingra00grif }}
+* {{cite web|title=Latin Online|url=https://lrc.la.utexas.edu/eieol/latol|first1=Winifred P.|last1=Lehmann|first2=Jonathan|last2=Slocum|publisher=The University of Texas at Austin|year=2008|accessdate=17 April 2020}}
+
+===Phonetics===
+* {{cite web |title=Phonetica Latinae-How to pronounce Latin |url=http://la.raycui.com/ |first=Ray |last=Cui |year=2005 |publisher=Ray Cui |accessdate=25 June 2010}}
+* {{Cite EB1911|wstitle=Latin Language|short=x}}
+
+===Latin language news and audio===
+* [https://web.archive.org/web/20190830212232/http://ephemeris.alcuinus.net/ Ephemeris], online Latin newspaper
+* [http://yle.fi/radio1/tiede/nuntii_latini/ Nuntii Latini], from Finnish YLE Radio 1
+* [https://www.radiobremen.de/bremenzwei/rubriken/latein/ Nuntii Latini], monthly review from German [[Radio Bremen]] ([[Bremen Zwei]])
+* [https://web.archive.org/web/20150129091342/http://www.haverford.edu/classics/audio/ Classics Podcasts in Latin and Ancient Greek], Haverford College
+* [https://sites.google.com/site/janualinguae/latin Latinum Latin Language course and Latin Language YouTube Index]
+
+=== Latin language online communities ===
+* [http://www.alcuinus.net/GLL/ Grex Latine Loquentium] (Flock of those Speaking Latin)
+* [https://web.archive.org/web/20130520083843/http://circuluslatinusinterretialis.co.uk/ Circulus Latinus Interretialis] (Internet Latin Circle)
+* [https://www.vatican.va/roman_curia/institutions_connected/latinitas/documents/index_en.htm Latinitas Foundation, at the Vatican]
+
+{{-}}
+{{Italic languages}}
+{{Latin periods}}
+{{Ancient Rome topics | collapsed }}
+
+{{Authority control}}
+
+[[Category:Languages attested from the 7th century BC]]
+[[Category:Latin language| ]]
+[[Category:Forms of Latin| ]]
+[[Category:Fusional languages]]
+[[Category:Languages of Andorra]]
+[[Category:Languages of France]]
+[[Category:Languages of Italy]]
+[[Category:Languages of Portugal]]
+[[Category:Languages of Romania]]
+[[Category:Languages of Spain]]
+[[Category:Languages of Vatican City]]
+[[Category:Subject–object–verb languages]]
