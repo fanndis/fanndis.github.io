@@ -92,8 +92,8 @@
 						<section class="spotlight">
 							<div class="image"><img src="images/powerful1.jpg" alt="" /></div><div class="content">
 								<h2>Project motivation<br /> </h2>
-								<p>The goal of this project is to delve deep into the most powerful women of the world by figuring out their most 
-								   immediate connections, using data found online, and trying to come up with a recipe to become more powerful. 
+								<p>The goal of this project is to delve deep into the most powerful women of the world by figuring out their most
+								   immediate connections, using data found online, and trying to come up with a recipe to become more powerful.
 								   Do these women have something in common?
 							 	</p>
 							</div>
@@ -105,7 +105,8 @@
 									<header class="major">
 										<h2>The data</h2>
 										<p> The world is filled with data and for this project the data could be endless. To limit the scope of the project however the data that will be used is from three sources.
-										First the list of 100 most powerful women of 2019 as well as lists of the top 10 most powerful women from 2004-2018 is gathered from the Forbes website. Then the Little sis website as well as wikipedia articles are used to gather information about the relationships the women have with organizations. To gain even more insights into the data exploration please <a href="https://fanndis.github.io/generic.html">press here.</a> </p>
+										First the list of 100 most powerful women of 2019 as well as lists of the top 10 most powerful women from 2004-2018 is gathered from the Forbes website.
+										Then the Little sis website as well as wikipedia articles are used to gather information about the relationships the women have with organizations. Finally, the twitter feeds from the women is gathered to be able to do an analysis on text written by the women. To gain even more insights into the data exploration please <a href="https://fanndis.github.io/generic.html">press here.</a> </p>
 										<br />
 									</header>
 									</ul>
@@ -117,11 +118,14 @@
 						 <div class="inner">
 							 <header class="major">
 								 <h2 style='color:#87947f'> The two networks</h2>
-								 <p style='color:#87947f'> The two networks, the network containing only the little sis data and the network containing only the wikipedia data are plotted using the force atlas algorithm.</a> </p>
+								 <p style='color:#87947f'> Since the data is gathered from two different sources initially there are two different networks.
+									 The two networks, the network containing only the little sis data and the network containing only the wikipedia data are plotted using the force atlas algorithm.
+								 How the networks are constructed is explained in the <a href="https://fanndis.github.io/generic.html"> data exploration chapter.</a></p>
 								 <br />
 								 <center>
 									 <img src="images/forceatlas.png" alt="" style="width:80%">
 								 <center>
+								<p style='color:#87947f'> The left graph is the graph containing only information gathered from the Little Sis dataset. The graph consists of around 1.400 nodes. The right graph contains information gathered from the wikipedia pages of the women. The wikipedia pages resulted in alot of new nodes and connections, around 12.000. </p>
 					 </section>
 
 					 <!-- The two networks -->
@@ -129,22 +133,17 @@
 						 <div class="inner">
 							 <header class="major">
 								 <h2 style='color:#87947f'>Most connected nodes</h2>
-								 <p style='color:#87947f'>blabla....</a> </p>
+								 <p style='color:#87947f'> With a network of this size it can be very interesting to see what the most connected nodes are. The network consists of two different types of nodes, the first type represents the powerful women and the second the industries and people they have relationships with. For a person to become powereful it is important that they have the right connections.
+								  Before the two networks mentioned above are combined their most connected nodes are analysed, the reason that they are analysed now instead of when the network has been connected is because the data gathered from the two sources is quite different. Wikipedia tends to write large and informative articles on world famous people which some of the most powerful women are not.
+								Doing the analysis of the most connected nodes after the two networks have been combined would mean that the women who don't have many connections on their wikipedia pages simply because they aren't known to the public would mean that they wouldn't be looked at. This however doesn't mean that they don't have important connections that need to be looked at.  </a> </p>
+								<br />
+								<p style='color:#87947f'> By looking at the number of edges that either enter a node or leave it the most connected nodes in the graph can be found. </p>
 								 <br />
 								 <center>
 									 <img src="images/most_connected.png" alt="" style="width:80%">
 								 <center>
+								<p style='color:#87947f'> . </p>
 					 </section>
-
-					  <!-- Similarity -->
-					 <section id="#similarity" class="wrapper alt style6">
-						 <section class="spotlight">
-							 <div class="image"><img src="images/similarity2.png" alt="" /></div><div class="content">
-								 <h2>Similarity between the most connected women<br /> </h2>
-								 <p>The goal of the project is to delve deep into the most powerful women, figure our their most immediate connections using data found online and come up with a recipe to become more powerful. Do the most powerful women in the world have something in common?
-								</p>
-							 </div>
-						 </section>
 
 					 <!-- Connection between the women -->
 					<section id="five" class="wrapper style5 special">
@@ -158,74 +157,113 @@
 								<br />
 					</section>
 
-
-
-						<section class="wrapper alt style2">
-								<section class="spotlight">
-							<div class="image"><img src="images/similarity.png" alt="" /></div><div class="content">
-								<h2>bla<br />
-								<p>To determine if a woman has a positive or negative impact on society sentiment analysis is used. Sentiment analysis is one of the best
-								tools to use </p>
+					 <!-- Similarity -->
+					<section id="#similarity" class="wrapper alt style6">
+						<section class="spotlight">
+							<div class="image"><img src="images/similarity2.png" alt="" /></div><div class="content">
+								<h2>Similarity between the most connected women<br /> </h2>
+								<p>The most powerful women come from all over the world, and they all work in very different fields, but do they have any similarity? This needs to be analysed by using text analysis. The wikipedia data for the top 10 most connected women was extracted, tf-idf ranking was added to each word in their pages and then a cosine similarity was used on all the words between the top 10 women. The results can be seen in the matrix graph where it can mainly be seen that there are not much similarities. However, there seem to be some minor similarities which was expected, such as between the musicians and politicians.This can be seen by for example looking at the similarity of Beyoncé to the other women. She has the highest similarity with Lady Gaga, Rihanna and Taylor Swift.
+							 </p>
 							</div>
 						</section>
-					</section>
+
+					 <!-- Three -->
+	 					<section id="eight" class="wrapper style5 special">
+	 						<div class="inner">
+	 							<header class="major">
+	 								<h2>Community detection</h2>
+	 								<p> The Louvain method for community detection is used to detect communities within the network. 43 communities were found and will the word clouds of the top 6 communities with the biggest number of nodes be listed here below. </p>
+	 							</header>
+	 							<ul class="features">
+	 								<li class="">
+	 									<center>
+	  									 <img src="images/tech_wordcloud.JPG" alt="" style="width:100%">
+	  								 <center>
+	 									 <p>The first community, and the biggest, centers around technology and finance. In the community there are around 40 of the most powerful women.
+	 										  To name a few: Abigail Johnson, Aileen Lee, Amy Hood, Julie Sweet, Lynn Good and Ruth Porat are all in this community. The women have one noticable thing in common, they are successful business women in the financial sector.</p>
+	 									</li>
+	 								<li class="">
+	 									<center>
+	  									 <img src="images/tennis_wordcloud.JPG" alt="" style="width:100%">
+	  								 <center>
+	 									 <p>The second community revolves around the game Tennis. Serena Williams is the only powerful woman in this community which is understandable since there are no other female athletes on the most powerful lists. </p>
+	 									</li>
+	 								<li class="">
+	 									<center>
+	  									 <img src="images/music_wordcloud.JPG" alt="" style="width:100%">
+	  								 <center>
+	 									 <p>The third community centers around the music industry. In the community there are 3 powerful women: Beyoncé, Lady Gaga and Rihanna. These women have an obvious connection, they are all famous musicians</p>
+	 								</li>
+	 								<li class="">
+	 									<center>
+	  									 <img src="images/veitiggi_wordcloud.JPG" alt="" style="width:100%">
+	  								 <center>
+	 									 <p>The fourth community revolves around the entertainment and arts industries. In the word cloud there are words such as Dreamgirls, Presley and Hurston which relate to the industry mentioned. In the community there are three powerful women: Ava Duvernay, Oprah Winfrey and Bonnie Hammer, who all are in the entertainment industry. </p>
+	 									</li>
+	 								<li class="">
+	 									<center>
+	  									 <img src="images/veitiggi2_wordcloud.JPG" alt="" style="width:100%">
+	  								 <center>
+	 									 <p> The fifth community revolves around Great Britain. In the word cloud there are words such as Salmond, Farage and Corbyn who are all politicans in Britain. In the community there are five powerful women: Ana Botin, Judith Mckenna, Kaherine Viener, Nichola Sturgeon, Theresa May who all have in common that they are either of british descent or live and work in Britain.</p>
+	 									</li>
+	 								<li class="">
+	 									<center>
+	  									 <img src="images/skritid_wordcloud.JPG" alt="" style="width:100%">
+	  								 <center>
+	 									 <p>The sixth community revolves around Hillary Clinton. In the word cloud there are words that revolve around Hillary directly: Rodham which is her maiden name. Fresnel which is the type of glass used in here eyeglasses since she has a particularly bad vision. Sarin which is a leathal gas that she was accused of approving delivery of to Syrian Rebels.  </p>
+	 									</li>
+	 							</ul>
+	 						</div>
+	 					</section>
+
+						<section id="five" class="wrapper style5 special">
+							<div class="inner">
+								<header class="major">
+									<h2 style='color:#87947f'>Sentiment Analysis</h2>
+									<p style='color:#87947f'> Being powerful automatically doesn't make you a good person. By using sentiment analysis the wikipedia pages of each of the women is inspected to try and detect if the women have a positive or negative impact on society. Since Wikipedia pages often tend to be quite neutrally written the Twitter feeds of the women is also gathered to analyse a text that they have written and not only a text that has been written about them. Are the two sentiments completely different?</p>
+									 <br />
+									 <p style='color:#87947f'> The sentiments from the wikipedia pages are first calculated. </p>
+									<center>
+										 <img src="images/sentimentanalysis.png" alt="" style="width:100%">
+									 <center>
+									<br />
+									<p style='color:#87947f'> The sentiments for the most powerful women are quite similar which is to be expected. According to the calculations Jane Jie Sun is the most powerful woman. Jane is a Chinese business woman and the CEO of the largest online travel agency in China. Jane's wikipedia page is quite short which means that when a positive word occurs on her article it has a much higher value than when a positive word appearas on a longer page which might be the reason that she is at the top of the positivity list. Maria Macapagal Arroyo has been deemed the most negative woman. Maria is the former president of the Philippines who was accused of corruption, charges which have now been dismissed but might explain the negativity score.  </p>
+									<br />
+									<p style='color:#87947f'> The sentiments from the twitter feeds of the women are then calculated. Unfortunately only 58 of the women had a verified twitter account, but the analysis could be important none the less. </p>
+									<br />
+									<center>
+										 <img src="images/sentimentanalysis2.png" alt="" style="width:100%">
+									 <center>
+										 <p style='color:#87947f'> How interesting! Once again the average sentiments are quite similar. This is very interesting to see since the women presumably write their own tweets and therefore have free reign over what they write.</p>
+						</section>
+
+						<section id="#one" class="wrapper style3 special">
+							<div class="inner">
+								<header class="major">
+									<h2>What is the perfect recipe for a woman to become powerful?</h2>
+									<p>SETJA INN RECIPE</p>
+
+									<br />
+								</header>
+								</ul>
+							</div>
+						</section>
 
 					<section class="spotlight">
 						<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
-							<h2>The data<br /> </h2>
-							<p> The world is filled with data and for this project the data could be endless. To limit the scope of the project however the data that will be used is from three sources.
-							First the list of 100 most powerful women of 2019 as well as lists of the top 10 most powerful women from 2004-2018 is gathered from the Forbes website. Then the Little sis website as well as wikipedia articles are used to gather information about the relationships the women have with organizations. To gain even more insights into the data exploration please <a href="https://fanndis.github.io/generic.html">press here.</a> </p>
+							<h2>Sentiment Analysis<br /> </h2>
 						</div>
 					</section>
 
-				<!-- Three -->
-					<section id="eight" class="wrapper style5 special">
-						<div class="inner">
-							<header class="major">
-								<h2>Communities</h2>
-								<p> The Louvain method for community detection is used to detect communities within the network. 43 communities were found and will the word clouds of the top 6 communities with the biggest number of nodes be listed here below. </p>
-							</header>
-							<ul class="features">
-								<li class="">
-									<center>
- 									 <img src="images/tech_wordcloud.JPG" alt="" style="width:100%">
- 								 <center>
-									 <p>The first community, and the biggest, centers around technology and finance. In the community there are around 40 of the most powerful women.
-										  To name a few: Abigail Johnson, Aileen Lee, Amy Hood, Julie Sweet, Lynn Good and Ruth Porat are all in this community. The women have one noticable thing in common, they are successful business women in the financial sector.</p>
-									</li>
-								<li class="">
-									<center>
- 									 <img src="images/tennis_wordcloud.JPG" alt="" style="width:100%">
- 								 <center>
-									 <p>The second community revolves around the game Tennis. Serena Williams is the only powerful woman in this community which is understandable since there are no other female athletes on the most powerful lists. </p>
-									</li>
-								<li class="">
-									<center>
- 									 <img src="images/music_wordcloud.JPG" alt="" style="width:100%">
- 								 <center>
-									 <p>The third community centers around the music industry. In the community there are 3 powerful women: Beyoncé, Lady Gaga and Rihanna. These women have an obvious connection, they are all famous musicians</p>
-								</li>
-								<li class="">
-									<center>
- 									 <img src="images/veitiggi_wordcloud.JPG" alt="" style="width:100%">
- 								 <center>
-									 <p>The fourth community revolves around the entertainment and arts industries. In the word cloud there are words such as Dreamgirls, Presley and Hurston which relate to the industry mentioned. In the community there are three powerful women: Ava Duvernay, Oprah Winfrey and Bonnie Hammer, who all are in the entertainment industry. </p>
-									</li>
-								<li class="">
-									<center>
- 									 <img src="images/veitiggi2_wordcloud.JPG" alt="" style="width:100%">
- 								 <center>
-									 <p> The fifth community revolves around Great Britain. In the word cloud there are words such as Salmond, Farage and Corbyn who are all politicans in Britain. In the community there are five powerful women: Ana Botin, Judith Mckenna, Kaherine Viener, Nichola Sturgeon, Theresa May who all have in common that they are either of british descent or live and work in Britain.</p>
-									</li>
-								<li class="">
-									<center>
- 									 <img src="images/skritid_wordcloud.JPG" alt="" style="width:100%">
- 								 <center>
-									 <p>The sixth community revolves around Hillary Clinton. In the word cloud there are words that revolve around Hillary directly: Rodham which is her maiden name. Fresnel which is the type of glass used in here eyeglasses since she has a particularly bad vision. Sarin which is a leathal gas that she was accused of approving delivery of to Syrian Rebels.  </p>
-									</li>
-							</ul>
+					<section class="wrapper alt style2">
+							<section class="spotlight">
+						<div class="image"><img src="images/similarity.png" alt="" /></div><div class="content">
+							<h2>bla<br />
+							<p>To determine if a woman has a positive or negative impact on society sentiment analysis is used. Sentiment analysis is one of the best
+							tools to use </p>
 						</div>
 					</section>
+				</section>
 
 				<!-- CTA -->
 					<section id="cta" class="wrapper style4">
