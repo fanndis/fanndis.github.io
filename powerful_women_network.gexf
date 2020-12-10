@@ -1,0 +1,1034 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2020-12-10">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="category" type="string" />
+      <attribute id="1" title="birthyear" type="long" />
+      <attribute id="2" title="birthplace" type="string" />
+    </attributes>
+    <nodes>
+      <node id="ellen_j_kullman" label="ellen_j_kullman">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1956" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="gail_kelly" label="gail_kelly">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1956" />
+          <attvalue for="2" value="SouthAfrica" />
+        </attvalues>
+      </node>
+      <node id="tricia_griffith" label="tricia_griffith">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1964" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="nguyễn_thị_phương_thảo" label="nguyễn_thị_phương_thảo">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1970" />
+          <attvalue for="2" value="Vietnam" />
+        </attvalues>
+      </node>
+      <node id="anne_wojcicki" label="anne_wojcicki">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1973" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="yulia_tymoshenko" label="yulia_tymoshenko">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1960" />
+          <attvalue for="2" value="Ukraine" />
+        </attvalues>
+      </node>
+      <node id="dana_walden" label="dana_walden">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1964" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="gina_rinehart" label="gina_rinehart">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="Australia" />
+        </attvalues>
+      </node>
+      <node id="janet_napolitano" label="janet_napolitano">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1957" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="serena_williams" label="serena_williams">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1981" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="dong_mingzhu" label="dong_mingzhu">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="China" />
+        </attvalues>
+      </node>
+      <node id="phebe_novakovic" label="phebe_novakovic">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="kirsten_green" label="kirsten_green">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="mette_frederiksen" label="mette_frederiksen">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="Germany" />
+        </attvalues>
+      </node>
+      <node id="ana_brnabić" label="ana_brnabić">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="Serbia" />
+        </attvalues>
+      </node>
+      <node id="christine_lagarde" label="christine_lagarde">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1956" />
+          <attvalue for="2" value="France" />
+        </attvalues>
+      </node>
+      <node id="hillary_clinton" label="hillary_clinton">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="Germany" />
+        </attvalues>
+      </node>
+      <node id="sophie_wilmès" label="sophie_wilmès">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="Belgium" />
+        </attvalues>
+      </node>
+      <node id="lady_gaga" label="lady_gaga">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1981" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="nicola_sturgeon" label="nicola_sturgeon">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1970" />
+          <attvalue for="2" value="Scotland" />
+        </attvalues>
+      </node>
+      <node id="julie_sweet" label="julie_sweet">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="kiran_mazumdar-shaw" label="kiran_mazumdar-shaw">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1953" />
+          <attvalue for="2" value="India" />
+        </attvalues>
+      </node>
+      <node id="adena_friedman" label="adena_friedman">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1969" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="janet_yellen" label="janet_yellen">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1946" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="melinda_gates" label="melinda_gates">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1964" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="katharine_viner" label="katharine_viner">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1971" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="shari_redstone" label="shari_redstone">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="jane_jie_sun" label="jane_jie_sun">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="ivanka_trump" label="ivanka_trump">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1981" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="indra_nooyi" label="indra_nooyi">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="India" />
+        </attvalues>
+      </node>
+      <node id="beyoncé" label="beyoncé">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1972" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="raja_al_gurg" label="raja_al_gurg">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="susan_wojcicki" label="susan_wojcicki">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1973" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="donna_langley" label="donna_langley">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="judith_faulkner" label="judith_faulkner">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1943" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="jacinda_ardern" label="jacinda_ardern">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1980" />
+          <attvalue for="2" value="NewZealand" />
+        </attvalues>
+      </node>
+      <node id="sheila_bair" label="sheila_bair">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="tan_hooi_ling" label="tan_hooi_ling">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="lam_wai_ying" label="lam_wai_ying">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="sheikh_hasina" label="sheikh_hasina">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1947" />
+          <attvalue for="2" value="Pakistan" />
+        </attvalues>
+      </node>
+      <node id="greta_thunberg" label="greta_thunberg">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="Sweden" />
+        </attvalues>
+      </node>
+      <node id="ava_duvernay" label="ava_duvernay">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1972" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="amina_j_mohammed" label="amina_j_mohammed">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1961" />
+          <attvalue for="2" value="England" />
+        </attvalues>
+      </node>
+      <node id="anne_m_mulcahy" label="anne_m_mulcahy">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1952" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="margarita_louis-dreyfus" label="margarita_louis-dreyfus">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1962" />
+          <attvalue for="2" value="Russia" />
+        </attvalues>
+      </node>
+      <node id="maggie_wu_(businesswoman)" label="maggie_wu_(businesswoman)">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="abigail_johnson" label="abigail_johnson">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1961" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="mary_barra" label="mary_barra">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1961" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="dominique_senequier" label="dominique_senequier">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1953" />
+          <attvalue for="2" value="France" />
+        </attvalues>
+      </node>
+      <node id="theresa_may" label="theresa_may">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1970" />
+          <attvalue for="2" value="Scotland" />
+        </attvalues>
+      </node>
+      <node id="mary_callahan_erdoes" label="mary_callahan_erdoes">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1967" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="melanie_kreis" label="melanie_kreis">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1971" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="laurene_powell_jobs" label="laurene_powell_jobs">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1963" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="rosalind_brewer" label="rosalind_brewer">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="condoleezza_rice" label="condoleezza_rice">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="gwynne_shotwell" label="gwynne_shotwell">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1963" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="nancy_pelosi" label="nancy_pelosi">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1940" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="patricia_a_woertz" label="patricia_a_woertz">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1953" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="vicki_hollub" label="vicki_hollub">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1960" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="elizabeth_ii" label="elizabeth_ii">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1926" />
+          <attvalue for="2" value="England" />
+        </attvalues>
+      </node>
+      <node id="elvira_nabiullina" label="elvira_nabiullina">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1963" />
+          <attvalue for="2" value="Russia" />
+        </attvalues>
+      </node>
+      <node id="zuzana_čaputová" label="zuzana_čaputová">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1973" />
+          <attvalue for="2" value="Slovakia" />
+        </attvalues>
+      </node>
+      <node id="ana_botín" label="ana_botín">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1960" />
+          <attvalue for="2" value="Spain" />
+        </attvalues>
+      </node>
+      <node id="ginni_rometty" label="ginni_rometty">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1957" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="jessica_uhl" label="jessica_uhl">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="aileen_lee" label="aileen_lee">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1970" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="kathy_j_warden" label="kathy_j_warden">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="mary_meeker" label="mary_meeker">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1959" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="roshni_nadar" label="roshni_nadar">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="jane_fraser" label="jane_fraser">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="erna_solberg" label="erna_solberg">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1961" />
+          <attvalue for="2" value="Norway" />
+        </attvalues>
+      </node>
+      <node id="jill_abramson" label="jill_abramson">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="taylor_swift" label="taylor_swift">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1981" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="ho_ching" label="ho_ching">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1953" />
+          <attvalue for="2" value="Singapore" />
+        </attvalues>
+      </node>
+      <node id="isabelle_kocher" label="isabelle_kocher">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1966" />
+          <attvalue for="2" value="France" />
+        </attvalues>
+      </node>
+      <node id="safra_catz" label="safra_catz">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1961" />
+          <attvalue for="2" value="Israel" />
+        </attvalues>
+      </node>
+      <node id="ellen_degeneres" label="ellen_degeneres">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1958" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="güler_sabancı" label="güler_sabancı">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="Turkey" />
+        </attvalues>
+      </node>
+      <node id="angela_merkel" label="angela_merkel">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="Germany" />
+        </attvalues>
+      </node>
+      <node id="zoe_cruz" label="zoe_cruz">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1959" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="oprah_winfrey" label="oprah_winfrey">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1972" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="lee_boo-jin" label="lee_boo-jin">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="bonnie_hammer" label="bonnie_hammer">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1950" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="solina_chau" label="solina_chau">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1961" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="patricia_russo" label="patricia_russo">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1959" />
+          <attvalue for="2" value="France" />
+        </attvalues>
+      </node>
+      <node id="sonia_gandhi" label="sonia_gandhi">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1947" />
+          <attvalue for="2" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="anne_finucane" label="anne_finucane">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1952" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="zhou_qunfei" label="zhou_qunfei">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1970" />
+          <attvalue for="2" value="China" />
+        </attvalues>
+      </node>
+      <node id="marillyn_hewson" label="marillyn_hewson">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1953" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="wang_fengying" label="wang_fengying">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1970" />
+          <attvalue for="2" value="China" />
+        </attvalues>
+      </node>
+      <node id="marianne_lake" label="marianne_lake">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1969" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="irene_rosenfeld" label="irene_rosenfeld">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="India" />
+        </attvalues>
+      </node>
+      <node id="jennifer_lee" label="jennifer_lee">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="dilma_rousseff" label="dilma_rousseff">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1947" />
+          <attvalue for="2" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="rihanna" label="rihanna">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1981" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="kathleen_kennedy" label="kathleen_kennedy">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="lynn_good" label="lynn_good">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="cynthia_carroll" label="cynthia_carroll">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="ruth_bader_ginsburg" label="ruth_bader_ginsburg">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="amy_hood" label="amy_hood">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="anne_lauvergeon" label="anne_lauvergeon">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1959" />
+          <attvalue for="2" value="France" />
+        </attvalues>
+      </node>
+      <node id="brenda_c_barnes" label="brenda_c_barnes">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1953" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="eliza_manningham-buller" label="eliza_manningham-buller">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1948" />
+          <attvalue for="2" value="England" />
+        </attvalues>
+      </node>
+      <node id="sahle-work_zewde" label="sahle-work_zewde">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1950" />
+          <attvalue for="2" value="Ethiopia" />
+        </attvalues>
+      </node>
+      <node id="kristalina_georgieva" label="kristalina_georgieva">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1960" />
+          <attvalue for="2" value="Spain" />
+        </attvalues>
+      </node>
+      <node id="emma_walmsley" label="emma_walmsley">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1969" />
+          <attvalue for="2" value="England" />
+        </attvalues>
+      </node>
+      <node id="tsai_ing-wen" label="tsai_ing-wen">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1956" />
+          <attvalue for="2" value="Taiwan" />
+        </attvalues>
+      </node>
+      <node id="sheryl_sandberg" label="sheryl_sandberg">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1961" />
+          <attvalue for="2" value="Israel" />
+        </attvalues>
+      </node>
+      <node id="michelle_obama" label="michelle_obama">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="Germany" />
+        </attvalues>
+      </node>
+      <node id="ursula_von_der_leyen" label="ursula_von_der_leyen">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="Germany" />
+        </attvalues>
+      </node>
+      <node id="gail_koziara_boudreaux" label="gail_koziara_boudreaux">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1960" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="sandra_day_o'connor" label="sandra_day_o'connor">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1946" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="laura_bush" label="laura_bush">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="gloria_macapagal_arroyo" label="gloria_macapagal_arroyo">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1947" />
+          <attvalue for="2" value="Philippines" />
+        </attvalues>
+      </node>
+      <node id="jessica_tan" label="jessica_tan">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1966" />
+          <attvalue for="2" value="Singapore" />
+        </attvalues>
+      </node>
+      <node id="angela_braly" label="angela_braly">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1961" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="meg_whitman" label="meg_whitman">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="lynn_elsenhans" label="lynn_elsenhans">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="reese_witherspoon" label="reese_witherspoon">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1976" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="judith_mckenna" label="judith_mckenna">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1966" />
+          <attvalue for="2" value="England" />
+        </attvalues>
+      </node>
+      <node id="carly_fiorina" label="carly_fiorina">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+      <node id="sallie_krawcheck" label="sallie_krawcheck">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1964" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="sri_mulyani" label="sri_mulyani">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1962" />
+          <attvalue for="2" value="Indonesia" />
+        </attvalues>
+      </node>
+      <node id="jennifer_nicholson_salke" label="jennifer_nicholson_salke">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="ruth_porat" label="ruth_porat">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="England" />
+        </attvalues>
+      </node>
+      <node id="nirmala_sitharaman" label="nirmala_sitharaman">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1959" />
+          <attvalue for="2" value="India" />
+        </attvalues>
+      </node>
+      <node id="renuka_jagtiani" label="renuka_jagtiani">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="stacey_cunningham" label="stacey_cunningham">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="x" />
+        </attvalues>
+      </node>
+      <node id="jennifer_morgan" label="jennifer_morgan">
+        <attvalues>
+          <attvalue for="0" value="Woman" />
+          <attvalue for="1" value="1971" />
+          <attvalue for="2" value="US" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="anne_wojcicki" target="hillary_clinton" id="0" />
+      <edge source="anne_wojcicki" target="susan_wojcicki" id="1" />
+      <edge source="yulia_tymoshenko" target="condoleezza_rice" id="2" />
+      <edge source="yulia_tymoshenko" target="angela_merkel" id="3" />
+      <edge source="yulia_tymoshenko" target="hillary_clinton" id="4" />
+      <edge source="dana_walden" target="hillary_clinton" id="5" />
+      <edge source="janet_napolitano" target="hillary_clinton" id="6" />
+      <edge source="serena_williams" target="beyoncé" id="7" />
+      <edge source="phebe_novakovic" target="hillary_clinton" id="8" />
+      <edge source="kirsten_green" target="hillary_clinton" id="9" />
+      <edge source="mette_frederiksen" target="angela_merkel" id="10" />
+      <edge source="christine_lagarde" target="kristalina_georgieva" id="11" />
+      <edge source="christine_lagarde" target="janet_yellen" id="12" />
+      <edge source="hillary_clinton" target="condoleezza_rice" id="13" />
+      <edge source="hillary_clinton" target="laura_bush" id="14" />
+      <edge source="hillary_clinton" target="lady_gaga" id="15" />
+      <edge source="hillary_clinton" target="nicola_sturgeon" id="16" />
+      <edge source="hillary_clinton" target="melinda_gates" id="17" />
+      <edge source="hillary_clinton" target="shari_redstone" id="18" />
+      <edge source="hillary_clinton" target="ivanka_trump" id="19" />
+      <edge source="hillary_clinton" target="beyoncé" id="20" />
+      <edge source="hillary_clinton" target="susan_wojcicki" id="21" />
+      <edge source="hillary_clinton" target="sheikh_hasina" id="22" />
+      <edge source="hillary_clinton" target="anne_m_mulcahy" id="23" />
+      <edge source="hillary_clinton" target="abigail_johnson" id="24" />
+      <edge source="hillary_clinton" target="laurene_powell_jobs" id="25" />
+      <edge source="hillary_clinton" target="gwynne_shotwell" id="26" />
+      <edge source="hillary_clinton" target="aileen_lee" id="27" />
+      <edge source="hillary_clinton" target="mary_meeker" id="28" />
+      <edge source="hillary_clinton" target="jill_abramson" id="29" />
+      <edge source="hillary_clinton" target="ellen_degeneres" id="30" />
+      <edge source="hillary_clinton" target="angela_merkel" id="31" />
+      <edge source="hillary_clinton" target="zoe_cruz" id="32" />
+      <edge source="hillary_clinton" target="oprah_winfrey" id="33" />
+      <edge source="hillary_clinton" target="anne_finucane" id="34" />
+      <edge source="hillary_clinton" target="irene_rosenfeld" id="35" />
+      <edge source="hillary_clinton" target="dilma_rousseff" id="36" />
+      <edge source="hillary_clinton" target="kathleen_kennedy" id="37" />
+      <edge source="hillary_clinton" target="ruth_bader_ginsburg" id="38" />
+      <edge source="hillary_clinton" target="brenda_c_barnes" id="39" />
+      <edge source="hillary_clinton" target="sheryl_sandberg" id="40" />
+      <edge source="hillary_clinton" target="michelle_obama" id="41" />
+      <edge source="hillary_clinton" target="gail_koziara_boudreaux" id="42" />
+      <edge source="hillary_clinton" target="meg_whitman" id="43" />
+      <edge source="hillary_clinton" target="reese_witherspoon" id="44" />
+      <edge source="hillary_clinton" target="carly_fiorina" id="45" />
+      <edge source="hillary_clinton" target="sallie_krawcheck" id="46" />
+      <edge source="hillary_clinton" target="ruth_porat" id="47" />
+      <edge source="lady_gaga" target="beyoncé" id="48" />
+      <edge source="lady_gaga" target="taylor_swift" id="49" />
+      <edge source="lady_gaga" target="rihanna" id="50" />
+      <edge source="lady_gaga" target="oprah_winfrey" id="51" />
+      <edge source="nicola_sturgeon" target="elizabeth_ii" id="52" />
+      <edge source="nicola_sturgeon" target="theresa_may" id="53" />
+      <edge source="janet_yellen" target="angela_merkel" id="54" />
+      <edge source="ivanka_trump" target="carly_fiorina" id="55" />
+      <edge source="ivanka_trump" target="angela_merkel" id="56" />
+      <edge source="indra_nooyi" target="irene_rosenfeld" id="57" />
+      <edge source="beyoncé" target="taylor_swift" id="58" />
+      <edge source="beyoncé" target="michelle_obama" id="59" />
+      <edge source="beyoncé" target="ava_duvernay" id="60" />
+      <edge source="beyoncé" target="oprah_winfrey" id="61" />
+      <edge source="beyoncé" target="rihanna" id="62" />
+      <edge source="beyoncé" target="condoleezza_rice" id="63" />
+      <edge source="beyoncé" target="sheryl_sandberg" id="64" />
+      <edge source="jacinda_ardern" target="elizabeth_ii" id="65" />
+      <edge source="sheila_bair" target="angela_merkel" id="66" />
+      <edge source="sheila_bair" target="anne_finucane" id="67" />
+      <edge source="greta_thunberg" target="jennifer_morgan" id="68" />
+      <edge source="greta_thunberg" target="angela_merkel" id="69" />
+      <edge source="ava_duvernay" target="oprah_winfrey" id="70" />
+      <edge source="ava_duvernay" target="reese_witherspoon" id="71" />
+      <edge source="theresa_may" target="elizabeth_ii" id="72" />
+      <edge source="theresa_may" target="angela_merkel" id="73" />
+      <edge source="theresa_may" target="ursula_von_der_leyen" id="74" />
+      <edge source="laurene_powell_jobs" target="nancy_pelosi" id="75" />
+      <edge source="condoleezza_rice" target="carly_fiorina" id="76" />
+      <edge source="condoleezza_rice" target="laura_bush" id="77" />
+      <edge source="condoleezza_rice" target="ruth_bader_ginsburg" id="78" />
+      <edge source="condoleezza_rice" target="angela_merkel" id="79" />
+      <edge source="condoleezza_rice" target="ginni_rometty" id="80" />
+      <edge source="condoleezza_rice" target="oprah_winfrey" id="81" />
+      <edge source="condoleezza_rice" target="sheryl_sandberg" id="82" />
+      <edge source="nancy_pelosi" target="sheryl_sandberg" id="83" />
+      <edge source="elizabeth_ii" target="michelle_obama" id="84" />
+      <edge source="ana_botín" target="kristalina_georgieva" id="85" />
+      <edge source="mary_meeker" target="carly_fiorina" id="86" />
+      <edge source="mary_meeker" target="zoe_cruz" id="87" />
+      <edge source="mary_meeker" target="ruth_porat" id="88" />
+      <edge source="taylor_swift" target="rihanna" id="89" />
+      <edge source="taylor_swift" target="michelle_obama" id="90" />
+      <edge source="taylor_swift" target="ellen_degeneres" id="91" />
+      <edge source="ho_ching" target="angela_merkel" id="92" />
+      <edge source="safra_catz" target="sheryl_sandberg" id="93" />
+      <edge source="ellen_degeneres" target="oprah_winfrey" id="94" />
+      <edge source="angela_merkel" target="ursula_von_der_leyen" id="95" />
+      <edge source="angela_merkel" target="michelle_obama" id="96" />
+      <edge source="angela_merkel" target="anne_lauvergeon" id="97" />
+      <edge source="angela_merkel" target="sheryl_sandberg" id="98" />
+      <edge source="oprah_winfrey" target="meg_whitman" id="99" />
+      <edge source="oprah_winfrey" target="michelle_obama" id="100" />
+      <edge source="oprah_winfrey" target="irene_rosenfeld" id="101" />
+      <edge source="oprah_winfrey" target="reese_witherspoon" id="102" />
+      <edge source="patricia_russo" target="anne_lauvergeon" id="103" />
+      <edge source="sonia_gandhi" target="dilma_rousseff" id="104" />
+      <edge source="sonia_gandhi" target="gloria_macapagal_arroyo" id="105" />
+      <edge source="ruth_bader_ginsburg" target="sandra_day_o'connor" id="106" />
+      <edge source="sheryl_sandberg" target="michelle_obama" id="107" />
+      <edge source="michelle_obama" target="laura_bush" id="108" />
+      <edge source="sandra_day_o'connor" target="laura_bush" id="109" />
+      <edge source="laura_bush" target="gloria_macapagal_arroyo" id="110" />
+      <edge source="angela_braly" target="carly_fiorina" id="111" />
+      <edge source="meg_whitman" target="carly_fiorina" id="112" />
+      <edge source="carly_fiorina" target="ruth_porat" id="113" />
+    </edges>
+  </graph>
+</gexf>
